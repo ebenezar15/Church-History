@@ -273,18 +273,6 @@
             "quoteIds": []
           },
           {
-            "id": "a-tyconius",
-            "kind": "argument",
-            "label": "Tyconius: Revelation describes the Church’s present struggle",
-            "year": 382,
-            "text": "The Donatist exegete reads the Apocalypse as recapitulating the whole age of the Church; the \"thousand years\" is symbolic of the time between Christ’s two comings.",
-            "ref": {
-              "type": "person",
-              "id": "tyconius"
-            },
-            "quoteIds": []
-          },
-          {
             "id": "v-augustine",
             "kind": "voice",
             "label": "Augustine, City of God 20: the millennium is now",
@@ -340,7 +328,7 @@
             "kind": "position",
             "label": "Joachim of Fiore: the coming Age of the Spirit",
             "year": 1196,
-            "text": "A Calabrian abbot reads history in three ages and expects a new Spirit-led order of contemplatives, perhaps around 1260.",
+            "text": "A Calabrian abbot reads history in three ages and expects a new Spirit-led order of contemplatives, perhaps around 1260. A papal commission at Anagni (1255) condemned Gerard of Borgo San Donnino’s radical \"Eternal Gospel\", and the Council of Arles (c.1263) condemned Joachite teaching more broadly, though Joachim himself was never condemned on this point.",
             "ref": {
               "type": "position",
               "id": "joachimite-three-ages"
@@ -348,14 +336,6 @@
             "quoteIds": [
               "joachim-three-status"
             ]
-          },
-          {
-            "id": "d-anagni",
-            "kind": "decision",
-            "label": "Commission of Anagni condemns the \"Eternal Gospel\" (1255)",
-            "year": 1255,
-            "text": "A papal commission condemned Gerard of Borgo San Donnino’s Introduction to the Eternal Gospel, which claimed Joachim’s writings superseded the New Testament; the Council of Arles (1263) condemned Joachite teaching more broadly. Joachim himself was never condemned as a heretic on this point.",
-            "quoteIds": []
           },
           {
             "id": "p-historicism",
@@ -656,17 +636,12 @@
           },
           {
             "from": "s-rev20",
-            "to": "a-tyconius",
+            "to": "p-idealism",
             "kind": "supports"
           },
           {
-            "from": "a-tyconius",
+            "from": "p-idealism",
             "to": "v-augustine",
-            "kind": "develops"
-          },
-          {
-            "from": "a-tyconius",
-            "to": "p-idealism",
             "kind": "develops"
           },
           {
@@ -692,11 +667,6 @@
           {
             "from": "p-amil",
             "to": "p-joachim",
-            "kind": "leads-to"
-          },
-          {
-            "from": "p-joachim",
-            "to": "d-anagni",
             "kind": "leads-to"
           },
           {
