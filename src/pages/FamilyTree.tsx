@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import { select, zoom, zoomIdentity, type ZoomTransform } from 'd3';
 import { useAtlas } from '../data/db';
 import { layoutLanes, lanePath, timeScale, type Lane } from '../viz/river';
-import { FAMILIES, formatYear } from '../data/families';
+import { FAMILIES, formatYear, inkTone } from '../data/families';
 import type { Event, TraditionFamily } from '../data/schema';
 import { Icon } from '../components/Icon';
 import { GlowCard, PageHeader, Tabs, cx } from '../components/ui';
@@ -91,7 +91,7 @@ export default function FamilyTree() {
                       transition={{ duration: 1.2, delay: 0.1 + i * 0.025, ease: 'easeInOut' }}
                     />
                     <path d={lanePath(l, x, 80)} stroke="transparent" strokeWidth={Math.max(14, l.width + 8)} fill="none" />
-                    <motion.text initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.8 + i * 0.025 }} x={x(l.end) + 8} y={l.y + 4} fontSize={17} fontWeight={700} fill={l.colour}>
+                    <motion.text initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.8 + i * 0.025 }} x={x(l.end) + 8} y={l.y + 4} fontSize={17} fontWeight={700} fill={inkTone(l.colour)}>
                       {l.t.name}{l.t.endYear ? ` †${l.t.endYear}` : ''}
                     </motion.text>
                     {l.t.family === 'nontrinitarian' && <text x={x(l.end) + 8} y={l.y + 18} fontSize={11} fill="var(--muted)">outside historic Nicene orthodoxy</text>}
@@ -117,7 +117,7 @@ export default function FamilyTree() {
         <div className="space-y-8">
           {(Object.keys(FAMILIES) as TraditionFamily[]).filter((f) => famCounts.get(f) && !famOff.has(f)).map((f) => (
             <section key={f}>
-              <h2 className="mb-3 flex items-center gap-2 text-xl font-bold" style={{ color: FAMILIES[f].colour }}>
+              <h2 className="mb-3 flex items-center gap-2 text-xl font-bold" style={{ color: inkTone(FAMILIES[f].colour) }}>
                 <Icon name={FAMILIES[f].icon} /> {FAMILIES[f].label}
               </h2>
               <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">

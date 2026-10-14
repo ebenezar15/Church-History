@@ -5,7 +5,7 @@ import { feature } from 'topojson-client';
 import type { FeatureCollection } from 'geojson';
 import type { Topology } from 'topojson-specification';
 import { useAtlas } from '../data/db';
-import { CATEGORY_META, formatYear } from '../data/families';
+import { CATEGORY_META, formatYear, inkTone } from '../data/families';
 import { Icon } from '../components/Icon';
 import { PageHeader, cx } from '../components/ui';
 import { Drawer, EntityPeek } from '../components/Drawer';
@@ -86,7 +86,7 @@ export default function WorldMap() {
         </button>
         <div className="min-w-[80px] text-3xl font-bold tabular-nums text-accent">{formatYear(year)}</div>
         <AnimatePresence mode="wait">
-          {era && <motion.span key={era.id} initial={{ opacity: 0, y: 6 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }} className="chip" style={{ borderColor: era.colour, color: era.colour }}>{era.name}</motion.span>}
+          {era && <motion.span key={era.id} initial={{ opacity: 0, y: 6 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }} className="chip" style={{ borderColor: era.colour, color: inkTone(era.colour) }}>{era.name}</motion.span>}
         </AnimatePresence>
         <span className="chip ml-auto"><Icon name="cross" size={12} /> {communities.length} places with Christians</span>
       </div>

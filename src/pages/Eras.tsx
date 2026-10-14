@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 import { useAtlas } from '../data/db';
-import { formatYear } from '../data/families';
+import { formatYear, inkTone } from '../data/families';
 import { PageHeader } from '../components/ui';
 import { NOW } from '../viz/river';
 
@@ -20,7 +20,7 @@ export default function Eras() {
             </motion.span>
             <Link to={`/eras/${e.id}`} className="card group block p-5 transition hover:-translate-y-0.5 hover:shadow-xl" style={{ borderLeft: `4px solid ${e.colour}` }}>
               <div className="text-sm font-bold tabular-nums text-muted">{formatYear(e.startYear)} – {e.endYear >= NOW ? 'today' : formatYear(e.endYear)}</div>
-              <h2 className="text-2xl font-bold transition group-hover:translate-x-1" style={{ color: e.colour }}>{e.name}</h2>
+              <h2 className="text-2xl font-bold transition group-hover:translate-x-1" style={{ color: inkTone(e.colour) }}>{e.name}</h2>
               <p className="mt-1 max-w-3xl text-ink-2">{e.summary}</p>
               <div className="mt-3 flex flex-wrap gap-1">{e.keyThemes.map((k) => <span key={k} className="chip">{k}</span>)}</div>
               <div className="mt-3 text-xs text-muted">{a.eventsByEra.get(e.id)?.length ?? 0} events</div>

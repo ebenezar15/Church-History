@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import { AnimatePresence, motion } from 'framer-motion';
 import { useAtlas } from '../data/db';
-import { CATEGORY_META, REGION_LABEL, WESTERN_REGIONS, formatYear } from '../data/families';
+import { CATEGORY_META, REGION_LABEL, WESTERN_REGIONS, formatYear, inkTone } from '../data/families';
 import { Icon, type IconName } from '../components/Icon';
 import { GlowCard, PageHeader, Section, Sources, Tabs, cx } from '../components/ui';
 import { ArchitectureDiagram } from '../components/Architecture';
@@ -31,7 +31,7 @@ export default function EraDetail() {
   return (
     <div>
       <motion.div key={era.id} initial={{ rotateY: -12, opacity: 0, x: 40 }} animate={{ rotateY: 0, opacity: 1, x: 0 }} transition={{ duration: 0.55, ease: [0.3, 0, 0.2, 1] }} style={{ transformPerspective: 1400, transformOrigin: 'left center' }}>
-        <PageHeader eyebrow={`Era ${era.order} · ${formatYear(era.startYear)} – ${era.endYear >= NOW ? 'today' : formatYear(era.endYear)}`} icon="hourglass" title={<span style={{ color: era.colour }}>{era.name}</span>}>
+        <PageHeader eyebrow={`Era ${era.order} · ${formatYear(era.startYear)} – ${era.endYear >= NOW ? 'today' : formatYear(era.endYear)}`} icon="hourglass" title={<span style={{ color: inkTone(era.colour) }}>{era.name}</span>}>
           <p>{era.summary}</p>
           <div className="mt-3 flex flex-wrap gap-1">{era.keyThemes.map((k) => <span key={k} className="chip">{k}</span>)}</div>
         </PageHeader>

@@ -88,3 +88,8 @@ export function formatSpan(a?: number, b?: number, circa = false) {
   if (b === undefined || b === a) return formatYear(a, circa);
   return `${formatYear(a, circa)}–${b < 1000 && a >= 0 ? b : formatYear(b)}`;
 }
+
+/** Readable text colour derived from a decorative colour: blends toward the ink so it keeps AA contrast in light and dark modes. */
+export function inkTone(colour: string) {
+  return `color-mix(in srgb, ${colour} 62%, var(--ink))`;
+}

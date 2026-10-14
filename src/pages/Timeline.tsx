@@ -2,7 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 import { motion } from 'framer-motion';
 import { scaleLinear, select, zoom, zoomIdentity, type ZoomBehavior, type ZoomTransform } from 'd3';
 import { useAtlas } from '../data/db';
-import { CATEGORY_META, FAMILIES, REGION_LABEL, formatYear } from '../data/families';
+import { CATEGORY_META, FAMILIES, REGION_LABEL, formatYear, inkTone } from '../data/families';
 import type { EntityType, Tradition } from '../data/schema';
 import { Icon } from '../components/Icon';
 import { PageHeader, cx } from '../components/ui';
@@ -178,7 +178,7 @@ export default function Timeline() {
               <rect x={x(e.startYear)} y={0} width={Math.max(0, x(e.endYear) - x(e.startYear))} height={height} fill={e.colour} opacity={0.06} />
               <rect x={x(e.startYear)} y={0} width={Math.max(0, x(e.endYear) - x(e.startYear))} height={6} fill={e.colour} opacity={0.8} />
               {x(e.endYear) - x(e.startYear) > 90 && (
-                <text x={Math.max(x(e.startYear), 0) + 6} y={22} fontSize={11} fontWeight={700} fill={e.colour}>{e.short}</text>
+                <text x={Math.max(x(e.startYear), 0) + 6} y={22} fontSize={11} fontWeight={700} fill={inkTone(e.colour)}>{e.short}</text>
               )}
             </g>
           ))}

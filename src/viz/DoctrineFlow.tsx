@@ -140,8 +140,13 @@ function FlowInner({ doctrine, selectedId, onSelect }: FlowProps) {
     });
 
   useEffect(() => {
-    if (playing) { const t = setTimeout(() => rf.fitView({ duration: 500, padding: 0.15 }), 50); return () => clearTimeout(t); }
-  }, [nodes.length, playing, rf]);
+    // While playing, follow the nodes that just appeared at a readable zoom.
+    if (!playing) return;
+    const latest = doctrine.flow.nodes.filter((n) => n.year === year).map((n) => ({ id: n.id }));
+    if (!latest.length) return;
+    const t = setTimeout(() => rf.fitView({ nodes: latest, duration: 500, padding: 0.8, maxZoom: 1, minZoom: 0.6 }), 60);
+    return () => clearTimeout(t);
+  }, [year, playing, rf, doctrine]);
 
   return (
     <div className="flex h-full flex-col">

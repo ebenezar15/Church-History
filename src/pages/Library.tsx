@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { AnimatePresence, motion } from 'framer-motion';
 import { useAtlas } from '../data/db';
 import { Genre } from '../data/schema';
-import { formatYear } from '../data/families';
+import { formatYear, inkTone } from '../data/families';
 import { Icon } from '../components/Icon';
 import { PageHeader, cx, useDebounced } from '../components/ui';
 
@@ -36,7 +36,7 @@ export default function Library() {
       <AnimatePresence mode="popLayout">
         {byEra.map(({ era, works }) => (
           <motion.section layout key={era.id} initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="mb-8">
-            <h2 className="mb-3 text-lg font-bold" style={{ color: era.colour }}>{era.name}</h2>
+            <h2 className="mb-3 text-lg font-bold" style={{ color: inkTone(era.colour) }}>{era.name}</h2>
             <div className="scrollbar-thin -mx-1 flex gap-3 overflow-x-auto px-1 pb-3">
               {works.map((w, i) => (
                 <motion.div key={w.id} initial={{ opacity: 0, rotateY: -30 }} animate={{ opacity: 1, rotateY: 0 }} transition={{ delay: Math.min(i, 8) * 0.04 }} style={{ transformPerspective: 800 }} className="w-56 shrink-0">

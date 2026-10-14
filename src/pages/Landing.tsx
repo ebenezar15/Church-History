@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { AnimatePresence, motion, useMotionValueEvent, useScroll, useSpring, useTransform } from 'framer-motion';
 import { useAtlas } from '../data/db';
 import { layoutLanes, lanePath, timeScale, NOW } from '../viz/river';
-import { FAMILIES, formatYear } from '../data/families';
+import { FAMILIES, formatYear, inkTone } from '../data/families';
 import { Icon, type IconName } from '../components/Icon';
 import { CountUp, GlowCard, QuoteBlock, cx } from '../components/ui';
 
@@ -70,7 +70,7 @@ function RiverHero() {
               {era && (
                 <motion.div key={era.id} initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -10 }} className="max-w-md pb-1">
                   <div className="text-[11px] font-bold uppercase tracking-[0.25em] text-muted">Era</div>
-                  <Link to={`/eras/${era.id}`} className="text-lg font-bold hover:text-accent" style={{ color: era.colour }}>{era.name}</Link>
+                  <Link to={`/eras/${era.id}`} className="text-lg font-bold hover:text-accent" style={{ color: inkTone(era.colour) }}>{era.name}</Link>
                 </motion.div>
               )}
             </AnimatePresence>
@@ -109,7 +109,7 @@ function RiverHero() {
                 <g key={l.t.id} style={{ transition: 'opacity .4s', opacity: visible ? 1 : 0 }}>
                   {alive && visible && <circle cx={headX} cy={l.y} r={l.width / 2 + 3} fill={l.colour} className="animate-pulse" />}
                   <Link to={`/traditions/${l.t.id}`}>
-                    <text x={Math.max(x(l.start) + 74, Math.min(headX + 10, W + 8))} y={l.y + 4} fontSize={12} fontWeight={700} fill={l.colour} style={{ transition: 'x .2s' }}>
+                    <text x={Math.max(x(l.start) + 74, Math.min(headX + 10, W + 8))} y={l.y + 4} fontSize={12} fontWeight={700} fill={inkTone(l.colour)} style={{ transition: 'x .2s' }}>
                       {l.t.name}
                     </text>
                   </Link>
@@ -197,7 +197,7 @@ export default function Landing() {
             <motion.div key={e.id} initial={{ opacity: 0, x: 40 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true }} transition={{ delay: Math.min(i, 5) * 0.05 }} className="w-72 shrink-0 snap-start">
               <GlowCard to={`/eras/${e.id}`} accent={e.colour}>
                 <div className="text-xs font-bold tabular-nums text-muted">{formatYear(e.startYear)} – {e.endYear >= NOW ? 'today' : formatYear(e.endYear)}</div>
-                <h3 className="mb-2 mt-1 text-lg font-bold leading-tight" style={{ color: e.colour }}>{e.name}</h3>
+                <h3 className="mb-2 mt-1 text-lg font-bold leading-tight" style={{ color: inkTone(e.colour) }}>{e.name}</h3>
                 <p className="line-clamp-4 text-sm text-ink-2">{e.summary}</p>
               </GlowCard>
             </motion.div>

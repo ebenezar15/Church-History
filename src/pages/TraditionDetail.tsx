@@ -2,7 +2,7 @@ import { useParams } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { useAtlas } from '../data/db';
 import type { Event, Tradition } from '../data/schema';
-import { FAMILIES, REGION_LABEL, formatYear } from '../data/families';
+import { FAMILIES, REGION_LABEL, formatYear, inkTone } from '../data/families';
 import { Icon } from '../components/Icon';
 import { BookmarkButton, BulletList, CompareButton, CountUp, EntityChips, EntityLink, PageHeader, Section, Sources } from '../components/ui';
 import NotFound from './NotFound';
@@ -24,7 +24,7 @@ export default function TraditionDetail() {
       <PageHeader
         eyebrow={f.label}
         icon={f.icon}
-        title={<span style={{ color: f.colour }}>{t.name}</span>}
+        title={<span style={{ color: inkTone(f.colour) }}>{t.name}</span>}
         actions={<><CompareButton type="tradition" id={t.id} /><BookmarkButton type="tradition" id={t.id} label={t.name} /></>}
       >
         <p>{t.summary}</p>
