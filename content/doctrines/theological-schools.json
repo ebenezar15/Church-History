@@ -1,0 +1,4766 @@
+{
+  "sources": [
+    {
+      "id": "ford-modern-theologians",
+      "title": "The Modern Theologians: An Introduction to Christian Theology since 1918",
+      "kind": "reference",
+      "author": "David F. Ford with Rachel Muers (eds.)",
+      "year": "3rd ed. 2005"
+    },
+    {
+      "id": "evans-medieval-theologians",
+      "title": "The Medieval Theologians",
+      "kind": "reference",
+      "author": "G. R. Evans (ed.)",
+      "year": 2001
+    },
+    {
+      "id": "leclercq-love-of-learning",
+      "title": "The Love of Learning and the Desire for God: A Study of Monastic Culture",
+      "kind": "secondary",
+      "author": "Jean Leclercq",
+      "year": "1957; Eng. tr. 1961"
+    },
+    {
+      "id": "young-biblical-exegesis",
+      "title": "Biblical Exegesis and the Formation of Christian Culture",
+      "kind": "secondary",
+      "author": "Frances M. Young",
+      "year": 1997
+    },
+    {
+      "id": "oberman-harvest",
+      "title": "The Harvest of Medieval Theology: Gabriel Biel and Late Medieval Nominalism",
+      "kind": "secondary",
+      "author": "Heiko A. Oberman",
+      "year": 1963
+    },
+    {
+      "id": "muller-prrd",
+      "title": "Post-Reformation Reformed Dogmatics (4 vols)",
+      "kind": "secondary",
+      "author": "Richard A. Muller",
+      "year": "2nd ed. 2003"
+    },
+    {
+      "id": "shantz-pietism",
+      "title": "An Introduction to German Pietism",
+      "kind": "secondary",
+      "author": "Douglas H. Shantz",
+      "year": 2013
+    },
+    {
+      "id": "coffey-lim-puritanism",
+      "title": "The Cambridge Companion to Puritanism",
+      "kind": "reference",
+      "author": "John Coffey and Paul C. H. Lim (eds.)",
+      "year": 2008
+    },
+    {
+      "id": "byrne-natural-religion",
+      "title": "Natural Religion and the Nature of Religion: The Legacy of Deism",
+      "kind": "secondary",
+      "author": "Peter Byrne",
+      "year": 1989
+    },
+    {
+      "id": "gavrilyuk-florovsky",
+      "title": "Georges Florovsky and the Russian Religious Renaissance",
+      "kind": "secondary",
+      "author": "Paul L. Gavrilyuk",
+      "year": 2013
+    },
+    {
+      "id": "flynn-murray-ressourcement",
+      "title": "Ressourcement: A Movement for Renewal in Twentieth-Century Catholic Theology",
+      "kind": "secondary",
+      "author": "Gabriel Flynn and Paul D. Murray (eds.)",
+      "year": 2012
+    },
+    {
+      "id": "milbank-theology-social-theory",
+      "title": "Theology and Social Theory: Beyond Secular Reason",
+      "kind": "primary",
+      "author": "John Milbank",
+      "year": 1990
+    },
+    {
+      "id": "lindbeck-nature-doctrine",
+      "title": "The Nature of Doctrine: Religion and Theology in a Postliberal Age",
+      "kind": "primary",
+      "author": "George A. Lindbeck",
+      "year": 1984
+    },
+    {
+      "id": "cone-black-theology-power",
+      "title": "Black Theology and Black Power",
+      "kind": "primary",
+      "author": "James H. Cone",
+      "year": 1969
+    },
+    {
+      "id": "ruether-sexism-god-talk",
+      "title": "Sexism and God-Talk: Toward a Feminist Theology",
+      "kind": "primary",
+      "author": "Rosemary Radford Ruether",
+      "year": 1983
+    },
+    {
+      "id": "williams-sisters-wilderness",
+      "title": "Sisters in the Wilderness: The Challenge of Womanist God-Talk",
+      "kind": "primary",
+      "author": "Delores S. Williams",
+      "year": 1993
+    },
+    {
+      "id": "mbiti-african-religions",
+      "title": "African Religions and Philosophy",
+      "kind": "primary",
+      "author": "John S. Mbiti",
+      "year": 1969
+    },
+    {
+      "id": "bediako-theology-identity",
+      "title": "Theology and Identity: The Impact of Culture upon Christian Thought in the Second Century and in Modern Africa",
+      "kind": "secondary",
+      "author": "Kwame Bediako",
+      "year": 1992
+    },
+    {
+      "id": "parratt-reinventing",
+      "title": "Reinventing Christianity: African Theology Today",
+      "kind": "secondary",
+      "author": "John Parratt",
+      "year": 1995
+    },
+    {
+      "id": "england-asian-theologies",
+      "title": "Asian Christian Theologies: A Research Guide to Authors, Movements, Sources (3 vols)",
+      "kind": "reference",
+      "author": "John C. England et al. (eds.)",
+      "year": "2002-2004"
+    },
+    {
+      "id": "koyama-waterbuffalo",
+      "title": "Waterbuffalo Theology",
+      "kind": "primary",
+      "author": "Kosuke Koyama",
+      "year": 1974
+    },
+    {
+      "id": "yong-spirit-poured-out",
+      "title": "The Spirit Poured Out on All Flesh: Pentecostalism and the Possibility of Global Theology",
+      "kind": "primary",
+      "author": "Amos Yong",
+      "year": 2005
+    },
+    {
+      "id": "land-pentecostal-spirituality",
+      "title": "Pentecostal Spirituality: A Passion for the Kingdom",
+      "kind": "secondary",
+      "author": "Steven J. Land",
+      "year": 1993
+    },
+    {
+      "id": "aeterni-patris-1879",
+      "title": "Aeterni Patris: Encyclical on the Restoration of Christian Philosophy",
+      "kind": "primary",
+      "author": "Leo XIII",
+      "year": 1879,
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_04081879_aeterni-patris.html"
+    },
+    {
+      "id": "thijssen-1277",
+      "title": "Condemnation of 1277",
+      "kind": "reference",
+      "author": "J. M. M. H. Thijssen",
+      "year": "2003 (rev. 2018)",
+      "url": "https://plato.stanford.edu/entries/condemnation/",
+      "note": "Stanford Encyclopedia of Philosophy"
+    },
+    {
+      "id": "rumscheidt-barth-harnack",
+      "title": "Revelation and Theology: An Analysis of the Barth-Harnack Correspondence of 1923",
+      "kind": "secondary",
+      "author": "H. Martin Rumscheidt",
+      "year": 1972
+    },
+    {
+      "id": "anselm-proslogion-deane",
+      "title": "St. Anselm: Proslogium; Monologium; An Appendix in Behalf of the Fool by Gaunilon; and Cur Deus Homo",
+      "kind": "primary",
+      "author": "tr. Sidney Norton Deane",
+      "year": 1903,
+      "url": "https://www.ccel.org/ccel/anselm/basic_works.html"
+    },
+    {
+      "id": "cone-said-i-wasnt",
+      "title": "Said I Wasn't Gonna Tell Nobody: The Making of a Black Theologian",
+      "kind": "primary",
+      "author": "James H. Cone",
+      "year": 2018
+    }
+  ],
+  "people": [
+    {
+      "id": "diodore-of-tarsus",
+      "name": "Diodore of Tarsus",
+      "died": 390,
+      "circa": true,
+      "roles": [
+        "bishop",
+        "exegete",
+        "teacher"
+      ],
+      "traditionIds": [
+        "early-church"
+      ],
+      "regions": [
+        "levant",
+        "asia-minor"
+      ],
+      "summary": "Teacher of an ascetic school (asketerion) at Antioch and bishop of Tarsus from 378. He taught John Chrysostom and Theodore of Mopsuestia and became the father of the Antiochene method of exegesis, which favoured the historical sense of Scripture and a disciplined \"theoria\" over free allegory. His works survive mostly in fragments after posthumous condemnation of his Christology.",
+      "keyIdeas": [
+        "Historical sense of Scripture",
+        "Theoria rather than allegory",
+        "Distinction of Christ’s two natures"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "young-biblical-exegesis",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "peter-lombard",
+      "name": "Peter Lombard",
+      "born": 1096,
+      "died": 1160,
+      "circa": true,
+      "roles": [
+        "theologian",
+        "bishop of Paris"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "italy",
+        "western-europe"
+      ],
+      "summary": "Italian-born master of the cathedral school of Paris and briefly its bishop (1159-60). His Four Books of Sentences (c.1155-58) arranged patristic opinions, above all Augustine’s, by topic and harmonised apparent conflicts; it became the standard theology textbook of the medieval universities, on which every master had to comment.",
+      "keyIdeas": [
+        "Systematic arrangement of patristic authorities",
+        "Seven sacraments listed",
+        "The Holy Spirit as the charity in believers"
+      ],
+      "influencedBy": [
+        "augustine-of-hippo",
+        "abelard"
+      ],
+      "sources": [
+        "evans-medieval-theologians",
+        "odcc"
+      ],
+      "confidence": "established",
+      "place": {
+        "name": "Paris",
+        "lat": 48.853,
+        "lng": 2.3499
+      }
+    },
+    {
+      "id": "gabriel-biel",
+      "name": "Gabriel Biel",
+      "born": 1420,
+      "died": 1495,
+      "circa": true,
+      "roles": [
+        "theologian",
+        "Brother of the Common Life",
+        "professor at Tübingen"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "German priest, Brother of the Common Life and first professor of theology at Tübingen, often called the last of the scholastics. His Collectorium on Lombard’s Sentences systematised the via moderna of Ockham; his teaching that God gives grace to those who \"do what is in them\" was the theology Luther studied and later attacked.",
+      "keyIdeas": [
+        "Facere quod in se est",
+        "Covenantal (pactum) causality of grace",
+        "Absolute and ordained power of God"
+      ],
+      "influencedBy": [
+        "william-of-ockham"
+      ],
+      "sources": [
+        "oberman-harvest",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "lorenzo-valla",
+      "name": "Lorenzo Valla",
+      "born": 1407,
+      "died": 1457,
+      "circa": true,
+      "roles": [
+        "humanist",
+        "philologist",
+        "priest"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "italy"
+      ],
+      "summary": "Italian humanist whose philological critique exposed the Donation of Constantine as a forgery (1440) and whose Annotations on the New Testament compared the Vulgate with the Greek. Erasmus published the Annotations in 1505, carrying the humanist call to the sources into biblical scholarship.",
+      "keyIdeas": [
+        "Philology as a tool of theology",
+        "Critique of the Donation of Constantine",
+        "Return to the Greek New Testament"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "macculloch-reformation",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "francis-turretin",
+      "name": "Francis Turretin",
+      "born": 1623,
+      "died": 1687,
+      "circa": false,
+      "roles": [
+        "theologian",
+        "pastor",
+        "professor at Geneva"
+      ],
+      "traditionIds": [
+        "reformed"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Geneva-born Reformed pastor and professor whose Institutes of Elenctic Theology (1679-85) is the most influential compendium of Reformed orthodoxy. Using scholastic question-and-answer method, it defended Reformed doctrine against Catholic, Socinian, Lutheran and Remonstrant views, and was the main textbook at Princeton until the late 19th century.",
+      "keyIdeas": [
+        "Elenctic (disputational) theology",
+        "Covenant of works and grace",
+        "Verbal inspiration"
+      ],
+      "influencedBy": [
+        "john-calvin",
+        "theodore-beza"
+      ],
+      "sources": [
+        "muller-prrd",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "johann-gerhard",
+      "name": "Johann Gerhard",
+      "born": 1582,
+      "died": 1637,
+      "circa": false,
+      "roles": [
+        "theologian",
+        "professor at Jena"
+      ],
+      "traditionIds": [
+        "lutheran"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Professor at Jena and the most important theologian of Lutheran orthodoxy. His Loci theologici (1610-22) gave Lutheran doctrine a full scholastic form, while his Sacred Meditations (1606) show the devotional warmth that coexisted with orthodox method.",
+      "keyIdeas": [
+        "Loci method",
+        "Lutheran Christology and sacraments",
+        "Union of learning and piety"
+      ],
+      "influencedBy": [
+        "martin-luther",
+        "philip-melanchthon"
+      ],
+      "sources": [
+        "muller-prrd",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "august-hermann-francke",
+      "name": "August Hermann Francke",
+      "born": 1663,
+      "died": 1727,
+      "circa": false,
+      "roles": [
+        "pastor",
+        "professor",
+        "educator"
+      ],
+      "traditionIds": [
+        "lutheran"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Leading organiser of German Pietism after a conversion experience in 1687. At Halle he founded an orphanage, schools, a Bible institute and a printing house (the Franckesche Stiftungen), trained theologians to value conversion and practical piety, and sent the first Protestant missionaries to India (Tranquebar, 1706).",
+      "keyIdeas": [
+        "Conversion struggle (Busskampf)",
+        "Practical Christianity and social care",
+        "Mission"
+      ],
+      "influencedBy": [
+        "philipp-jakob-spener"
+      ],
+      "sources": [
+        "shantz-pietism",
+        "odcc"
+      ],
+      "confidence": "established",
+      "place": {
+        "name": "Halle",
+        "lat": 51.4825,
+        "lng": 11.9697
+      }
+    },
+    {
+      "id": "william-perkins",
+      "name": "William Perkins",
+      "born": 1558,
+      "died": 1602,
+      "circa": false,
+      "roles": [
+        "theologian",
+        "preacher"
+      ],
+      "traditionIds": [
+        "anglican",
+        "reformed"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Cambridge preacher and the most widely read English Puritan theologian of his generation. A Golden Chaine (1590) set out Reformed predestination as the chain of salvation, while his casuistry and treatises on assurance and preaching shaped the \"practical divinity\" of Puritan pastors in England, New England and the Netherlands.",
+      "keyIdeas": [
+        "Theology as the science of living blessedly",
+        "Practical divinity and cases of conscience",
+        "Plain-style preaching"
+      ],
+      "influencedBy": [
+        "john-calvin",
+        "theodore-beza"
+      ],
+      "sources": [
+        "coffey-lim-puritanism",
+        "odcc"
+      ],
+      "confidence": "established",
+      "place": {
+        "name": "Cambridge",
+        "lat": 52.2053,
+        "lng": 0.1218
+      }
+    },
+    {
+      "id": "john-toland",
+      "name": "John Toland",
+      "born": 1670,
+      "died": 1722,
+      "circa": false,
+      "roles": [
+        "writer",
+        "philosopher"
+      ],
+      "traditionIds": [],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Irish-born freethinker whose Christianity not Mysterious (1696) argued that nothing in the Gospel is contrary to reason or above it. The book was condemned by the Irish Parliament and became a founding text of English Deism.",
+      "keyIdeas": [
+        "Reason as the test of revelation",
+        "Critique of mystery and priestcraft"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "byrne-natural-religion",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "immanuel-kant",
+      "name": "Immanuel Kant",
+      "born": 1724,
+      "died": 1804,
+      "circa": false,
+      "roles": [
+        "philosopher"
+      ],
+      "traditionIds": [
+        "lutheran"
+      ],
+      "regions": [
+        "northern-europe"
+      ],
+      "summary": "Königsberg philosopher raised in Pietism whose Critique of Pure Reason (1781) denied that speculative reason can prove God, freedom or immortality, while Religion within the Bounds of Mere Reason (1793) reinterpreted Christianity as moral religion. Every later Protestant theology had to answer him.",
+      "keyIdeas": [
+        "Limits of speculative reason",
+        "Religion as morality",
+        "Enlightenment as maturity"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "pelikan-christian-tradition",
+        "byrne-natural-religion"
+      ],
+      "confidence": "established",
+      "place": {
+        "name": "Königsberg (Kaliningrad)",
+        "lat": 54.7104,
+        "lng": 20.4522
+      }
+    },
+    {
+      "id": "albrecht-ritschl",
+      "name": "Albrecht Ritschl",
+      "born": 1822,
+      "died": 1889,
+      "circa": false,
+      "roles": [
+        "theologian",
+        "professor at Göttingen"
+      ],
+      "traditionIds": [
+        "lutheran"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Göttingen theologian whose Christian Doctrine of Justification and Reconciliation (1870-74) grounded faith in the historical Jesus and the ethical Kingdom of God, rejecting metaphysics and mysticism. His school (Harnack, Herrmann) dominated German Protestantism before 1914 and fed the social gospel.",
+      "keyIdeas": [
+        "Value judgements in religion",
+        "Kingdom of God as ethical community",
+        "Anti-metaphysical theology"
+      ],
+      "influencedBy": [
+        "friedrich-schleiermacher",
+        "immanuel-kant"
+      ],
+      "sources": [
+        "dorrien-liberal-theology",
+        "mcgrath-historical-theology"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "soren-kierkegaard",
+      "name": "Søren Kierkegaard",
+      "born": 1813,
+      "died": 1855,
+      "circa": false,
+      "roles": [
+        "philosopher",
+        "religious writer"
+      ],
+      "traditionIds": [
+        "lutheran"
+      ],
+      "regions": [
+        "northern-europe"
+      ],
+      "summary": "Danish writer who attacked Hegelian system-building and comfortable state Christianity, insisting on the \"infinite qualitative difference\" between God and humanity, the paradox of the incarnation and the leap of faith of the single individual. Rediscovered after 1914, he inspired both dialectical and existentialist theology.",
+      "keyIdeas": [
+        "Leap of faith",
+        "Truth as subjectivity",
+        "Attack on Christendom"
+      ],
+      "influencedBy": [
+        "martin-luther"
+      ],
+      "sources": [
+        "ford-modern-theologians",
+        "odcc"
+      ],
+      "confidence": "established",
+      "place": {
+        "name": "Copenhagen",
+        "lat": 55.6761,
+        "lng": 12.5683
+      }
+    },
+    {
+      "id": "paul-tillich",
+      "name": "Paul Tillich",
+      "born": 1886,
+      "died": 1965,
+      "circa": false,
+      "roles": [
+        "theologian",
+        "philosopher"
+      ],
+      "traditionIds": [
+        "lutheran"
+      ],
+      "regions": [
+        "western-europe",
+        "north-america"
+      ],
+      "summary": "German Lutheran theologian, dismissed by the Nazis in 1933, who taught at Union, Harvard and Chicago. His Systematic Theology (1951-63) used a \"method of correlation\" in which existential questions raised by human finitude are answered by the symbols of revelation, and spoke of God as the ground of being and the object of ultimate concern.",
+      "keyIdeas": [
+        "Method of correlation",
+        "God as ground of being",
+        "Faith as ultimate concern",
+        "Protestant principle"
+      ],
+      "influencedBy": [
+        "friedrich-schleiermacher",
+        "soren-kierkegaard"
+      ],
+      "sources": [
+        "ford-modern-theologians",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "georges-florovsky",
+      "name": "Georges Florovsky",
+      "born": 1893,
+      "died": 1979,
+      "circa": false,
+      "roles": [
+        "priest",
+        "theologian",
+        "historian"
+      ],
+      "traditionIds": [
+        "russian-orthodox",
+        "eastern-orthodox"
+      ],
+      "regions": [
+        "russia",
+        "western-europe",
+        "north-america"
+      ],
+      "summary": "Russian émigré Orthodox priest and patristic scholar (Paris, then Harvard and Princeton). At the Athens congress of 1936 he called for a \"neo-patristic synthesis\" freeing Orthodox theology from its \"Western captivity\"; his Ways of Russian Theology (1937) sharply criticised Russian religious philosophy. A founding figure of the World Council of Churches.",
+      "keyIdeas": [
+        "Neo-patristic synthesis",
+        "Acquiring the mind of the Fathers",
+        "Christian Hellenism"
+      ],
+      "influencedBy": [
+        "athanasius",
+        "maximus-the-confessor"
+      ],
+      "sources": [
+        "gavrilyuk-florovsky",
+        "ware-orthodox-church"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "vladimir-lossky",
+      "name": "Vladimir Lossky",
+      "born": 1903,
+      "died": 1958,
+      "circa": false,
+      "roles": [
+        "theologian"
+      ],
+      "traditionIds": [
+        "russian-orthodox",
+        "eastern-orthodox"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Russian Orthodox lay theologian in Paris whose Mystical Theology of the Eastern Church (1944) presented apophaticism, the Palamite essence-energies distinction and deification as the heart of Orthodoxy, and made the filioque central to East-West difference.",
+      "keyIdeas": [
+        "Apophatic theology",
+        "No mysticism without theology",
+        "Essence and energies"
+      ],
+      "influencedBy": [
+        "gregory-palamas",
+        "maximus-the-confessor"
+      ],
+      "sources": [
+        "lossky-mystical",
+        "ware-orthodox-church"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "dumitru-staniloae",
+      "name": "Dumitru Stăniloae",
+      "born": 1903,
+      "died": 1993,
+      "circa": false,
+      "roles": [
+        "priest",
+        "theologian"
+      ],
+      "traditionIds": [
+        "eastern-orthodox"
+      ],
+      "regions": [
+        "eastern-europe"
+      ],
+      "summary": "Romanian Orthodox priest-theologian, imprisoned by the communist regime 1958-63, who translated the Philokalia into Romanian (from 1946) and wrote a three-volume Orthodox Dogmatic Theology (1978), combining neo-patristic theology with personalism.",
+      "keyIdeas": [
+        "Philokalic theology",
+        "World as gift and dialogue of love",
+        "Neo-patristic dogmatics"
+      ],
+      "influencedBy": [
+        "gregory-palamas",
+        "maximus-the-confessor"
+      ],
+      "sources": [
+        "ware-orthodox-church"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "henri-de-lubac",
+      "name": "Henri de Lubac",
+      "born": 1896,
+      "died": 1991,
+      "circa": false,
+      "roles": [
+        "Jesuit",
+        "theologian",
+        "cardinal"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "French Jesuit, wounded in the First World War and active in the spiritual resistance to Nazism, whose Catholicism (1938) and Surnaturel (1946) recovered the Fathers’ vision of the social and spiritual character of the faith and challenged the neo-scholastic idea of \"pure nature\". Silenced in the 1950s, he was a peritus at Vatican II and made a cardinal in 1983.",
+      "keyIdeas": [
+        "Natural desire for God",
+        "Eucharist makes the Church",
+        "Ressourcement"
+      ],
+      "influencedBy": [
+        "augustine-of-hippo",
+        "origen",
+        "thomas-aquinas"
+      ],
+      "sources": [
+        "flynn-murray-ressourcement",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "yves-congar",
+      "name": "Yves Congar",
+      "born": 1904,
+      "died": 1995,
+      "circa": false,
+      "roles": [
+        "Dominican",
+        "theologian",
+        "cardinal"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "French Dominican ecclesiologist and ecumenist, restricted by Rome in the 1950s, whose work on the laity, tradition and church reform shaped Vatican II’s documents on the Church, ecumenism and revelation. Made a cardinal in 1994.",
+      "keyIdeas": [
+        "Tradition as living transmission",
+        "Theology of the laity",
+        "True and false reform"
+      ],
+      "influencedBy": [
+        "thomas-aquinas"
+      ],
+      "sources": [
+        "flynn-murray-ressourcement",
+        "omalley-vatican-ii"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "john-milbank",
+      "name": "John Milbank",
+      "born": 1952,
+      "circa": false,
+      "roles": [
+        "theologian"
+      ],
+      "traditionIds": [
+        "anglican"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "English Anglican theologian whose Theology and Social Theory (1990) argued that secular social science rests on disguised theological (often heretical) assumptions, and launched Radical Orthodoxy with Catherine Pickstock and Graham Ward (1999).",
+      "keyIdeas": [
+        "Critique of secular reason",
+        "Participatory (Platonic-Augustinian) ontology",
+        "Ontology of peace versus violence"
+      ],
+      "influencedBy": [
+        "augustine-of-hippo",
+        "thomas-aquinas"
+      ],
+      "sources": [
+        "milbank-theology-social-theory",
+        "ford-modern-theologians"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "george-lindbeck",
+      "name": "George Lindbeck",
+      "born": 1923,
+      "died": 2018,
+      "circa": false,
+      "roles": [
+        "theologian",
+        "ecumenist"
+      ],
+      "traditionIds": [
+        "lutheran"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "Yale Lutheran theologian, born to missionary parents in China and a Lutheran observer at Vatican II, whose The Nature of Doctrine (1984) proposed a \"cultural-linguistic\" model in which doctrines function like grammatical rules of a community’s speech and life. With Hans Frei he founded postliberal theology.",
+      "keyIdeas": [
+        "Cultural-linguistic model of religion",
+        "Doctrine as grammar",
+        "Intratextuality"
+      ],
+      "influencedBy": [
+        "karl-barth"
+      ],
+      "sources": [
+        "lindbeck-nature-doctrine",
+        "ford-modern-theologians"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "stanley-hauerwas",
+      "name": "Stanley Hauerwas",
+      "born": 1940,
+      "circa": false,
+      "roles": [
+        "theologian",
+        "ethicist"
+      ],
+      "traditionIds": [
+        "methodist",
+        "anglican"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "Texan theologian at Notre Dame and Duke, influenced by John Howard Yoder and Karl Barth, who argued that the Church’s first social ethic is to be a community of character and nonviolence rather than a chaplain to the nation. Time named him \"America’s best theologian\" in 2001.",
+      "keyIdeas": [
+        "Church as polis",
+        "Virtue and narrative",
+        "Christian nonviolence"
+      ],
+      "influencedBy": [
+        "karl-barth"
+      ],
+      "sources": [
+        "ford-modern-theologians"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "james-cone",
+      "name": "James H. Cone",
+      "born": 1938,
+      "died": 2018,
+      "circa": false,
+      "roles": [
+        "theologian"
+      ],
+      "traditionIds": [
+        "methodist"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "African Methodist Episcopal minister and professor at Union Theological Seminary, New York, whose Black Theology and Black Power (1969) and A Black Theology of Liberation (1970) founded Black liberation theology, reading the gospel from the experience of Black Americans under white supremacy. His last major book, The Cross and the Lynching Tree (2011), set the cross beside lynching.",
+      "keyIdeas": [
+        "God is on the side of the oppressed",
+        "Black theology as liberation",
+        "The cross and the lynching tree"
+      ],
+      "influencedBy": [
+        "karl-barth",
+        "martin-luther-king-jr"
+      ],
+      "sources": [
+        "cone-black-theology-power",
+        "ford-modern-theologians"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "rosemary-radford-ruether",
+      "name": "Rosemary Radford Ruether",
+      "born": 1936,
+      "died": 2022,
+      "circa": false,
+      "roles": [
+        "theologian",
+        "historian"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "American Catholic feminist theologian whose Sexism and God-Talk (1983) proposed that whatever denies or diminishes the full humanity of women is not redemptive. She also wrote pioneering work on ecofeminism and on Christian anti-Judaism.",
+      "keyIdeas": [
+        "Critical principle of feminist theology",
+        "Ecofeminism",
+        "Prophetic-liberating tradition"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "ruether-sexism-god-talk",
+        "ford-modern-theologians"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "delores-williams",
+      "name": "Delores S. Williams",
+      "born": 1937,
+      "died": 2022,
+      "circa": false,
+      "roles": [
+        "theologian"
+      ],
+      "traditionIds": [
+        "presbyterian"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "African American Presbyterian theologian at Union Theological Seminary whose Sisters in the Wilderness (1993) founded womanist theology on the figure of Hagar, the experience of Black women’s survival and a critique of surrogacy in atonement theory.",
+      "keyIdeas": [
+        "Womanist theology",
+        "Hagar and survival",
+        "Critique of surrogacy"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "williams-sisters-wilderness",
+        "ford-modern-theologians"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "mercy-amba-oduyoye",
+      "name": "Mercy Amba Oduyoye",
+      "born": 1934,
+      "circa": false,
+      "roles": [
+        "theologian"
+      ],
+      "traditionIds": [
+        "methodist"
+      ],
+      "regions": [
+        "sub-saharan-africa"
+      ],
+      "summary": "Ghanaian Methodist theologian, a deputy general secretary of the World Council of Churches, who founded the Circle of Concerned African Women Theologians in 1989 and is regarded as the mother of African women’s theology.",
+      "keyIdeas": [
+        "African women’s theology",
+        "Culture and gender",
+        "Hospitality and community"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "parratt-reinventing",
+        "dacb"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "john-mbiti",
+      "name": "John S. Mbiti",
+      "born": 1931,
+      "died": 2019,
+      "circa": false,
+      "roles": [
+        "theologian",
+        "philosopher",
+        "priest"
+      ],
+      "traditionIds": [
+        "anglican"
+      ],
+      "regions": [
+        "sub-saharan-africa",
+        "western-europe"
+      ],
+      "summary": "Kenyan Anglican priest and scholar whose African Religions and Philosophy (1969) and Concepts of God in Africa (1970) argued that Africans already knew God before missionaries arrived, making African traditional religion a preparation for the gospel. He also translated the New Testament into Kamba.",
+      "keyIdeas": [
+        "African religion as preparatio evangelica",
+        "African concepts of time",
+        "Mother-tongue Scripture"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "mbiti-african-religions",
+        "parratt-reinventing",
+        "dacb"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "kosuke-koyama",
+      "name": "Kosuke Koyama",
+      "born": 1929,
+      "died": 2009,
+      "circa": false,
+      "roles": [
+        "missionary",
+        "theologian"
+      ],
+      "traditionIds": [
+        "reformed"
+      ],
+      "regions": [
+        "east-asia",
+        "southeast-asia",
+        "north-america"
+      ],
+      "summary": "Japanese theologian, a missionary teacher in Thailand, whose Waterbuffalo Theology (1974) argued that theology must begin with the concrete questions of Asian farmers rather than the categories of Western systems, and whose Three Mile an Hour God (1979) spoke of the slow, patient love of God.",
+      "keyIdeas": [
+        "Neighbourological theology",
+        "Theology from below in Asian cultures",
+        "Critique of idolatry and imperialism"
+      ],
+      "influencedBy": [
+        "toyohiko-kagawa"
+      ],
+      "sources": [
+        "koyama-waterbuffalo",
+        "england-asian-theologies"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "c-s-song",
+      "name": "Choan-Seng Song",
+      "born": 1929,
+      "circa": false,
+      "roles": [
+        "theologian"
+      ],
+      "traditionIds": [
+        "presbyterian"
+      ],
+      "regions": [
+        "east-asia",
+        "north-america"
+      ],
+      "summary": "Taiwanese Presbyterian theologian (Pacific School of Religion) whose The Compassionate God (1982) and Theology from the Womb of Asia (1986) used Asian stories, folk tales and suffering as sources for a \"transpositional\" theology.",
+      "keyIdeas": [
+        "Story theology",
+        "Transposition of the gospel into Asia",
+        "The crucified people"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "england-asian-theologies"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "ahn-byung-mu",
+      "name": "Ahn Byung-mu",
+      "born": 1922,
+      "died": 1996,
+      "circa": false,
+      "roles": [
+        "New Testament scholar",
+        "theologian"
+      ],
+      "traditionIds": [
+        "presbyterian"
+      ],
+      "regions": [
+        "east-asia"
+      ],
+      "summary": "Korean New Testament scholar, imprisoned under the military dictatorship in the 1970s, who developed minjung theology: the minjung (the oppressed common people) are the ochlos crowd of Mark’s Gospel and the subject of history, with whom Jesus identified.",
+      "keyIdeas": [
+        "Minjung as the ochlos of Mark",
+        "Theology of the suffering people",
+        "Han"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "england-asian-theologies",
+        "kim-korea"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "amos-yong",
+      "name": "Amos Yong",
+      "born": 1965,
+      "circa": false,
+      "roles": [
+        "theologian"
+      ],
+      "traditionIds": [
+        "assemblies-of-god",
+        "pentecostal"
+      ],
+      "regions": [
+        "north-america",
+        "southeast-asia"
+      ],
+      "summary": "Malaysian-born Assemblies of God theologian (Regent University, then Fuller) whose The Spirit Poured Out on All Flesh (2005) argued for a \"pneumatological imagination\" that lets Pentecostal experience of the Spirit shape a global, many-tongued theology, including of other religions and science.",
+      "keyIdeas": [
+        "Pneumatological imagination",
+        "Many tongues, many theologies",
+        "Pentecostal engagement with religions and science"
+      ],
+      "influencedBy": [
+        "william-j-seymour"
+      ],
+      "sources": [
+        "yong-spirit-poured-out",
+        "anderson-pentecostalism"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "leo-xiii",
+      "name": "Leo XIII",
+      "born": 1810,
+      "died": 1903,
+      "circa": false,
+      "roles": [
+        "pope"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "italy"
+      ],
+      "summary": "Pope 1878-1903. His encyclical Aeterni Patris (1879) made the philosophy of Thomas Aquinas the norm of Catholic seminary teaching, and Rerum Novarum (1891) founded modern Catholic social teaching.",
+      "keyIdeas": [
+        "Revival of Thomism",
+        "Catholic social teaching"
+      ],
+      "influencedBy": [
+        "thomas-aquinas"
+      ],
+      "sources": [
+        "aeterni-patris-1879",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "carl-f-h-henry",
+      "name": "Carl F. H. Henry",
+      "born": 1913,
+      "died": 2003,
+      "circa": false,
+      "roles": [
+        "theologian",
+        "editor"
+      ],
+      "traditionIds": [
+        "baptist",
+        "evangelical"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "American Baptist theologian, founding editor of Christianity Today (1956), whose Uneasy Conscience of Modern Fundamentalism (1947) called separatist fundamentalists to cultural and social engagement and whose six-volume God, Revelation and Authority (1976-83) defended propositional revelation.",
+      "keyIdeas": [
+        "Propositional revelation",
+        "Evangelical social engagement",
+        "Neo-evangelicalism"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "marsden-fundamentalism",
+        "bebbington-evangelicalism"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "works": [
+    {
+      "id": "anselm-proslogion",
+      "title": "Proslogion",
+      "authorId": "anselm",
+      "year": 1078,
+      "circa": true,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "A prayer-meditation addressed to God in which Anselm seeks a single argument that God exists: God is \"that than which nothing greater can be conceived\" (the so-called ontological argument). Its original title was \"Faith seeking understanding\".",
+      "significance": "Classic statement of fides quaerens intellectum and the origin of the ontological argument; a bridge between monastic and scholastic theology.",
+      "doctrineIds": [
+        "theological-schools",
+        "trinity"
+      ],
+      "sources": [
+        "anselm-proslogion-deane",
+        "evans-medieval-theologians"
+      ]
+    },
+    {
+      "id": "abelard-sic-et-non",
+      "title": "Sic et Non (Yes and No)",
+      "authorId": "abelard",
+      "year": 1121,
+      "circa": true,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "A collection of 158 questions on which patristic authorities appear to contradict one another, with a prologue giving rules for reconciling them (attending to context, vocabulary, authenticity).",
+      "significance": "Taught Western schools to treat authorities critically and dialectically, preparing the quaestio method of scholasticism.",
+      "doctrineIds": [
+        "theological-schools"
+      ],
+      "sources": [
+        "evans-medieval-theologians",
+        "pelikan-christian-tradition"
+      ]
+    },
+    {
+      "id": "lombard-sentences",
+      "title": "Four Books of Sentences (Sententiae in IV libris distinctae)",
+      "authorId": "peter-lombard",
+      "year": 1157,
+      "circa": true,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "Systematic compilation of patristic and early medieval opinions arranged in four books: God and the Trinity; creation and sin; the incarnation and virtues; sacraments and last things.",
+      "significance": "The standard theology textbook of the medieval universities for four centuries; Aquinas, Bonaventure, Scotus, Ockham and Luther all lectured on it.",
+      "doctrineIds": [
+        "theological-schools",
+        "church-sacraments"
+      ],
+      "sources": [
+        "evans-medieval-theologians",
+        "odcc"
+      ]
+    },
+    {
+      "id": "luther-disputation-scholastic-theology",
+      "title": "Disputation against Scholastic Theology",
+      "authorId": "martin-luther",
+      "year": 1517,
+      "circa": false,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "Ninety-seven theses (September 1517) attacking the nominalist theology of Gabriel Biel and the use of Aristotle’s ethics in theology, insisting that the will is bound without grace.",
+      "significance": "Shows that Luther’s break was first a break with late-medieval scholastic method, weeks before the Ninety-five Theses.",
+      "doctrineIds": [
+        "theological-schools",
+        "salvation"
+      ],
+      "sources": [
+        "mcgrath-reformation-thought",
+        "oberman-harvest"
+      ]
+    },
+    {
+      "id": "perkins-golden-chaine",
+      "title": "A Golden Chaine",
+      "authorId": "william-perkins",
+      "year": 1590,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "A Latin (Armilla aurea, 1590) and English (1591) exposition of Reformed theology arranged as a \"chain\" of the causes of salvation and damnation, with a famous fold-out chart.",
+      "significance": "Defined the Puritan union of predestinarian doctrine and practical divinity.",
+      "doctrineIds": [
+        "theological-schools",
+        "salvation"
+      ],
+      "sources": [
+        "coffey-lim-puritanism"
+      ]
+    },
+    {
+      "id": "turretin-institutes",
+      "title": "Institutes of Elenctic Theology (Institutio theologiae elencticae)",
+      "authorId": "francis-turretin",
+      "year": 1679,
+      "circa": false,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "Three volumes (1679-85) of disputed questions defending Reformed orthodoxy point by point against its opponents.",
+      "significance": "Summit of Reformed scholasticism; the Princeton textbook into the 1870s.",
+      "doctrineIds": [
+        "theological-schools",
+        "scripture-authority"
+      ],
+      "sources": [
+        "muller-prrd"
+      ]
+    },
+    {
+      "id": "spener-pia-desideria",
+      "title": "Pia Desideria (Heartfelt Desires)",
+      "authorId": "philipp-jakob-spener",
+      "year": 1675,
+      "circa": false,
+      "language": "German",
+      "genre": "treatise",
+      "summary": "A preface to a postil of Johann Arndt that diagnosed the decline of Lutheran church life and proposed six reforms: wider use of Scripture in small groups, the priesthood of all believers, practice over knowledge, charity in controversy, reform of theological training and edifying preaching.",
+      "significance": "Programme of German Pietism and an early model of small-group renewal.",
+      "doctrineIds": [
+        "theological-schools"
+      ],
+      "sources": [
+        "shantz-pietism"
+      ]
+    },
+    {
+      "id": "toland-christianity-not-mysterious",
+      "title": "Christianity not Mysterious",
+      "authorId": "john-toland",
+      "year": 1696,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "Argues that true religion contains nothing contrary to reason nor above it, and that \"mysteries\" were introduced by priestcraft.",
+      "significance": "Opened the English Deist controversy; condemned by the Irish Parliament in 1697.",
+      "doctrineIds": [
+        "theological-schools",
+        "scripture-authority"
+      ],
+      "sources": [
+        "byrne-natural-religion"
+      ]
+    },
+    {
+      "id": "kant-religion-bounds-reason",
+      "title": "Religion within the Bounds of Mere Reason",
+      "authorId": "immanuel-kant",
+      "year": 1793,
+      "circa": false,
+      "language": "German",
+      "genre": "treatise",
+      "summary": "Reinterprets original sin as radical evil, Christ as the archetype of moral perfection and the Church as an ethical commonwealth.",
+      "significance": "The most influential philosophical reduction of Christianity to moral religion; it provoked a censorship order from the Prussian king.",
+      "doctrineIds": [
+        "theological-schools"
+      ],
+      "sources": [
+        "byrne-natural-religion",
+        "pelikan-christian-tradition"
+      ]
+    },
+    {
+      "id": "schleiermacher-on-religion",
+      "title": "On Religion: Speeches to its Cultured Despisers",
+      "authorId": "friedrich-schleiermacher",
+      "year": 1799,
+      "circa": false,
+      "language": "German",
+      "genre": "treatise",
+      "summary": "Five speeches to Romantic intellectuals arguing that religion is neither metaphysics nor morality but \"sense and taste for the infinite\", a feeling and intuition of the universe.",
+      "significance": "Founding manifesto of liberal Protestant theology.",
+      "doctrineIds": [
+        "theological-schools",
+        "modern-movements"
+      ],
+      "sources": [
+        "dorrien-liberal-theology"
+      ]
+    },
+    {
+      "id": "ritschl-justification-reconciliation",
+      "title": "The Christian Doctrine of Justification and Reconciliation",
+      "authorId": "albrecht-ritschl",
+      "year": 1870,
+      "circa": false,
+      "language": "German",
+      "genre": "treatise",
+      "summary": "Three volumes (1870-74) presenting Christianity as an ellipse with two foci: redemption through Christ and the ethical Kingdom of God.",
+      "significance": "Charter of the Ritschlian school that shaped Harnack and the social gospel.",
+      "doctrineIds": [
+        "theological-schools",
+        "salvation"
+      ],
+      "sources": [
+        "dorrien-liberal-theology"
+      ]
+    },
+    {
+      "id": "bultmann-nt-mythology",
+      "title": "New Testament and Mythology",
+      "authorId": "rudolf-bultmann",
+      "year": 1941,
+      "circa": false,
+      "language": "German",
+      "genre": "treatise",
+      "summary": "Lecture arguing that the New Testament’s three-storey world-picture is mythological and must be interpreted existentially rather than eliminated, so that the kerygma confronts modern hearers with a decision of faith.",
+      "significance": "Launched the demythologising debate that dominated mid-century theology.",
+      "doctrineIds": [
+        "theological-schools",
+        "scripture-authority"
+      ],
+      "sources": [
+        "ford-modern-theologians"
+      ]
+    },
+    {
+      "id": "tillich-systematic-theology",
+      "title": "Systematic Theology",
+      "authorId": "paul-tillich",
+      "year": 1951,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "Three volumes (1951-63) organised by the method of correlation: reason and revelation, being and God, existence and the Christ, life and the Spirit, history and the Kingdom.",
+      "significance": "The fullest existentialist-ontological system of 20th-century Protestant theology.",
+      "doctrineIds": [
+        "theological-schools"
+      ],
+      "sources": [
+        "ford-modern-theologians"
+      ]
+    },
+    {
+      "id": "lossky-mystical-theology",
+      "title": "The Mystical Theology of the Eastern Church",
+      "authorId": "vladimir-lossky",
+      "year": 1944,
+      "circa": false,
+      "language": "French",
+      "genre": "treatise",
+      "summary": "Presents apophatic theology, the Trinity, the essence-energies distinction and deification as one mystical-dogmatic whole.",
+      "significance": "Shaped Western perceptions of Orthodoxy and the neo-patristic school.",
+      "doctrineIds": [
+        "theological-schools",
+        "salvation"
+      ],
+      "sources": [
+        "lossky-mystical"
+      ]
+    },
+    {
+      "id": "de-lubac-surnaturel",
+      "title": "Surnaturel",
+      "authorId": "henri-de-lubac",
+      "year": 1946,
+      "circa": false,
+      "language": "French",
+      "genre": "treatise",
+      "summary": "Historical study arguing that the patristic and Thomist tradition knew no \"pure nature\" sealed off from grace; humanity has a natural desire for the vision of God.",
+      "significance": "Lightning rod of the nouvelle théologie dispute and the encyclical Humani Generis (1950).",
+      "doctrineIds": [
+        "theological-schools",
+        "salvation"
+      ],
+      "sources": [
+        "flynn-murray-ressourcement"
+      ]
+    },
+    {
+      "id": "aeterni-patris",
+      "title": "Aeterni Patris",
+      "authorId": "leo-xiii",
+      "year": 1879,
+      "circa": false,
+      "language": "Latin",
+      "genre": "letter",
+      "summary": "Encyclical urging the restoration of Christian philosophy \"according to the mind of the Angelic Doctor\", Thomas Aquinas.",
+      "significance": "Made neo-Thomism the official framework of Catholic seminaries until Vatican II.",
+      "doctrineIds": [
+        "theological-schools"
+      ],
+      "sources": [
+        "aeterni-patris-1879"
+      ],
+      "fullTextUrl": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_04081879_aeterni-patris.html"
+    },
+    {
+      "id": "lindbeck-nature-of-doctrine",
+      "title": "The Nature of Doctrine",
+      "authorId": "george-lindbeck",
+      "year": 1984,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "Contrasts propositional, experiential-expressive and cultural-linguistic theories of doctrine and argues for the last.",
+      "significance": "Manifesto of postliberal theology.",
+      "doctrineIds": [
+        "theological-schools"
+      ],
+      "sources": [
+        "lindbeck-nature-doctrine"
+      ]
+    },
+    {
+      "id": "milbank-theology-and-social-theory",
+      "title": "Theology and Social Theory: Beyond Secular Reason",
+      "authorId": "john-milbank",
+      "year": 1990,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "Genealogical critique of secular social theory as a rival theology, ending with the Church’s \"ontology of peace\".",
+      "significance": "Founding text of Radical Orthodoxy.",
+      "doctrineIds": [
+        "theological-schools"
+      ],
+      "sources": [
+        "milbank-theology-social-theory"
+      ]
+    },
+    {
+      "id": "cone-black-theology-and-black-power",
+      "title": "Black Theology and Black Power",
+      "authorId": "james-cone",
+      "year": 1969,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "Argues that Black Power, the struggle of Black people for liberation, is Christ’s central message to 20th-century America.",
+      "significance": "Founding text of Black theology.",
+      "doctrineIds": [
+        "theological-schools",
+        "ethics-church-state"
+      ],
+      "sources": [
+        "cone-black-theology-power"
+      ]
+    },
+    {
+      "id": "ruether-sexism-and-god-talk",
+      "title": "Sexism and God-Talk",
+      "authorId": "rosemary-radford-ruether",
+      "year": 1983,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "A feminist systematic theology that tests every doctrine by the full humanity of women.",
+      "significance": "Classic of Christian feminist theology.",
+      "doctrineIds": [
+        "theological-schools"
+      ],
+      "sources": [
+        "ruether-sexism-god-talk"
+      ]
+    },
+    {
+      "id": "williams-sisters-in-the-wilderness",
+      "title": "Sisters in the Wilderness",
+      "authorId": "delores-williams",
+      "year": 1993,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "Builds a womanist theology from the Hagar narratives and Black women’s experiences of survival, surrogacy and quality of life.",
+      "significance": "Founding text of womanist theology.",
+      "doctrineIds": [
+        "theological-schools",
+        "atonement"
+      ],
+      "sources": [
+        "williams-sisters-wilderness"
+      ]
+    },
+    {
+      "id": "mbiti-african-religions-and-philosophy",
+      "title": "African Religions and Philosophy",
+      "authorId": "john-mbiti",
+      "year": 1969,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "Survey of the religious worldview common to many African peoples, its concepts of God, spirits, time and community.",
+      "significance": "Made African traditional religion a partner for Christian theology.",
+      "doctrineIds": [
+        "theological-schools"
+      ],
+      "sources": [
+        "mbiti-african-religions"
+      ]
+    },
+    {
+      "id": "koyama-waterbuffalo-theology",
+      "title": "Waterbuffalo Theology",
+      "authorId": "kosuke-koyama",
+      "year": 1974,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "Essays from Thailand urging a theology that speaks to the farmer and his water buffalo, attentive to Buddhist culture and the slowness of love.",
+      "significance": "A landmark of Asian contextual theology.",
+      "doctrineIds": [
+        "theological-schools"
+      ],
+      "sources": [
+        "koyama-waterbuffalo"
+      ]
+    },
+    {
+      "id": "yong-spirit-poured-out-work",
+      "title": "The Spirit Poured Out on All Flesh",
+      "authorId": "amos-yong",
+      "year": 2005,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "A pneumatological systematic theology drawing on global Pentecostalism.",
+      "significance": "A key text of the academic Pentecostal theology movement.",
+      "doctrineIds": [
+        "theological-schools",
+        "holy-spirit"
+      ],
+      "sources": [
+        "yong-spirit-poured-out"
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "id": "tertullian-athens-jerusalem",
+      "text": "What indeed has Athens to do with Jerusalem? What concord is there between the Academy and the Church? what between heretics and Christians?",
+      "kind": "quotation",
+      "personId": "tertullian",
+      "citation": "Tertullian, The Prescription against Heretics 7 (ANF 3, tr. Peter Holmes)",
+      "workId": "tertullian-prescription-against-heretics",
+      "translation": "Peter Holmes (ANF, 1885)",
+      "year": 200,
+      "topics": [
+        "faith and reason",
+        "philosophy"
+      ],
+      "doctrineIds": [
+        "theological-schools"
+      ]
+    },
+    {
+      "id": "augustine-believe-that-thou-mayest-understand",
+      "text": "Understanding is the reward of faith. Therefore seek not to understand that thou mayest believe, but believe that thou mayest understand",
+      "kind": "quotation",
+      "personId": "augustine-of-hippo",
+      "citation": "Augustine, Tractates on the Gospel of John 29.6 (NPNF 1/7, tr. John Gibb)",
+      "workId": "augustine-tractates-on-john",
+      "translation": "John Gibb (NPNF, 1888)",
+      "year": 416,
+      "topics": [
+        "faith and reason"
+      ],
+      "doctrineIds": [
+        "theological-schools"
+      ]
+    },
+    {
+      "id": "anselm-believe-in-order-to-understand",
+      "text": "For I do not seek to understand that I may believe, but I believe in order to understand.",
+      "kind": "quotation",
+      "personId": "anselm",
+      "citation": "Anselm, Proslogion 1 (tr. S. N. Deane, 1903)",
+      "workId": "anselm-proslogion",
+      "translation": "Sidney Norton Deane (1903)",
+      "year": 1078,
+      "topics": [
+        "faith and reason",
+        "method"
+      ],
+      "doctrineIds": [
+        "theological-schools"
+      ]
+    },
+    {
+      "id": "abelard-doubting-inquiry",
+      "text": "Abelard argued that by doubting we are led to inquiry, and by inquiry we perceive the truth; apparent contradictions among authorities should therefore be examined, not suppressed.",
+      "kind": "paraphrase",
+      "personId": "abelard",
+      "citation": "Abelard, Sic et Non, prologue (paraphrase)",
+      "workId": "abelard-sic-et-non",
+      "year": 1121,
+      "topics": [
+        "method",
+        "dialectic"
+      ],
+      "doctrineIds": [
+        "theological-schools"
+      ]
+    },
+    {
+      "id": "ockham-plurality-necessity",
+      "text": "Ockham repeatedly held that a plurality of entities should not be posited without necessity, the principle later nicknamed \"Ockham’s razor\"; theology must rest on faith and revelation where reason cannot demonstrate.",
+      "kind": "paraphrase",
+      "personId": "william-of-ockham",
+      "citation": "William of Ockham, Commentary on the Sentences I, dist. 30, q.1 and passim (paraphrase)",
+      "year": 1320,
+      "topics": [
+        "nominalism",
+        "method"
+      ],
+      "doctrineIds": [
+        "theological-schools"
+      ]
+    },
+    {
+      "id": "luther-aristotle-darkness",
+      "text": "Luther declared in his 1517 theses that one does not become a theologian with Aristotle but only without him; the whole of Aristotle stands to theology as darkness to light.",
+      "kind": "paraphrase",
+      "personId": "martin-luther",
+      "citation": "Luther, Disputation against Scholastic Theology, theses 43-50 (1517) (paraphrase)",
+      "workId": "luther-disputation-scholastic-theology",
+      "year": 1517,
+      "topics": [
+        "scholasticism",
+        "faith and reason"
+      ],
+      "doctrineIds": [
+        "theological-schools"
+      ]
+    },
+    {
+      "id": "erasmus-paraclesis-ploughboy",
+      "text": "Erasmus wished the Scriptures translated into every language, so that the farmer might sing them at the plough and the weaver hum them at the loom: the philosophy of Christ is for all, not for theologians alone.",
+      "kind": "paraphrase",
+      "personId": "erasmus",
+      "citation": "Erasmus, Paraclesis (preface to the Novum Instrumentum, 1516) (paraphrase)",
+      "year": 1516,
+      "topics": [
+        "humanism",
+        "Scripture"
+      ],
+      "doctrineIds": [
+        "theological-schools",
+        "scripture-authority"
+      ]
+    },
+    {
+      "id": "perkins-science-of-living-blessedly",
+      "text": "Theology is the science of living blessedly for ever.",
+      "kind": "quotation",
+      "personId": "william-perkins",
+      "citation": "William Perkins, A Golden Chaine, ch. 1 (1591; spelling modernised)",
+      "workId": "perkins-golden-chaine",
+      "year": 1591,
+      "topics": [
+        "Puritanism",
+        "practical divinity"
+      ],
+      "doctrineIds": [
+        "theological-schools"
+      ]
+    },
+    {
+      "id": "spener-practice-not-knowledge",
+      "text": "Spener urged that Christianity consists not in knowledge but in practice, and that theological students should be trained in godliness as well as learning, with Scripture read in small gatherings.",
+      "kind": "paraphrase",
+      "personId": "philipp-jakob-spener",
+      "citation": "Spener, Pia Desideria (1675), proposals 3 and 5 (paraphrase)",
+      "workId": "spener-pia-desideria",
+      "year": 1675,
+      "topics": [
+        "Pietism"
+      ],
+      "doctrineIds": [
+        "theological-schools"
+      ]
+    },
+    {
+      "id": "toland-nothing-above-reason",
+      "text": "Toland contended that there is nothing in the Gospel contrary to reason, nor above it, and that no Christian doctrine can properly be called a mystery.",
+      "kind": "paraphrase",
+      "personId": "john-toland",
+      "citation": "Toland, Christianity not Mysterious (1696), title page and section 3 (paraphrase)",
+      "workId": "toland-christianity-not-mysterious",
+      "year": 1696,
+      "topics": [
+        "Deism",
+        "reason"
+      ],
+      "doctrineIds": [
+        "theological-schools"
+      ]
+    },
+    {
+      "id": "kant-courage-own-understanding",
+      "text": "Kant defined enlightenment as humanity’s emergence from self-incurred immaturity, with the motto \"Sapere aude\": dare to use your own understanding without another’s guidance.",
+      "kind": "paraphrase",
+      "personId": "immanuel-kant",
+      "citation": "Kant, An Answer to the Question: What is Enlightenment? (1784) (paraphrase)",
+      "year": 1784,
+      "topics": [
+        "Enlightenment",
+        "reason"
+      ],
+      "doctrineIds": [
+        "theological-schools"
+      ]
+    },
+    {
+      "id": "bultmann-demythologise",
+      "text": "Bultmann argued that one cannot use electric light and the radio and at the same time believe in the New Testament world of spirits and miracles; the kerygma must therefore be demythologised and interpreted existentially.",
+      "kind": "paraphrase",
+      "personId": "rudolf-bultmann",
+      "citation": "Bultmann, New Testament and Mythology (1941) (paraphrase)",
+      "workId": "bultmann-nt-mythology",
+      "year": 1941,
+      "topics": [
+        "demythologising",
+        "existentialism"
+      ],
+      "doctrineIds": [
+        "theological-schools",
+        "scripture-authority"
+      ]
+    },
+    {
+      "id": "tillich-ultimate-concern",
+      "text": "For Tillich, faith is the state of being ultimately concerned, and God is not a being among others but the ground and power of being itself.",
+      "kind": "paraphrase",
+      "personId": "paul-tillich",
+      "citation": "Tillich, Systematic Theology vol. 1 (1951) and Dynamics of Faith (1957) (paraphrase)",
+      "workId": "tillich-systematic-theology",
+      "year": 1951,
+      "topics": [
+        "existentialism",
+        "God"
+      ],
+      "doctrineIds": [
+        "theological-schools"
+      ]
+    },
+    {
+      "id": "florovsky-mind-of-the-fathers",
+      "text": "Florovsky called Orthodox theologians to acquire \"the mind of the Fathers\": not to repeat their words but to think in their spirit, in a creative neo-patristic synthesis free from Western scholastic and idealist captivity.",
+      "kind": "paraphrase",
+      "personId": "georges-florovsky",
+      "citation": "Florovsky, address to the First Congress of Orthodox Theology, Athens 1936, and Ways of Russian Theology (1937) (paraphrase)",
+      "year": 1936,
+      "topics": [
+        "neo-patristic",
+        "tradition"
+      ],
+      "doctrineIds": [
+        "theological-schools"
+      ]
+    },
+    {
+      "id": "lossky-no-mysticism-without-theology",
+      "text": "Lossky held that in the Eastern tradition there is no Christian mysticism without theology and no theology without mysticism: dogma is lived experience of union with God.",
+      "kind": "paraphrase",
+      "personId": "vladimir-lossky",
+      "citation": "Lossky, The Mystical Theology of the Eastern Church (1944), ch. 1 (paraphrase)",
+      "workId": "lossky-mystical-theology",
+      "year": 1944,
+      "topics": [
+        "mysticism",
+        "Orthodoxy"
+      ],
+      "doctrineIds": [
+        "theological-schools"
+      ]
+    },
+    {
+      "id": "de-lubac-natural-desire",
+      "text": "De Lubac argued that the Fathers and Aquinas knew no self-enclosed \"pure nature\": the human spirit is made with a natural desire for the vision of God that only grace can fulfil.",
+      "kind": "paraphrase",
+      "personId": "henri-de-lubac",
+      "citation": "De Lubac, Surnaturel (1946) (paraphrase)",
+      "workId": "de-lubac-surnaturel",
+      "year": 1946,
+      "topics": [
+        "nature and grace",
+        "ressourcement"
+      ],
+      "doctrineIds": [
+        "theological-schools",
+        "salvation"
+      ]
+    },
+    {
+      "id": "leo-xiii-restore-aquinas",
+      "text": "Leo XIII urged bishops to restore the golden wisdom of St Thomas and spread it far and wide as the surest defence of the faith against modern errors.",
+      "kind": "paraphrase",
+      "personId": "leo-xiii",
+      "citation": "Leo XIII, Aeterni Patris 31 (1879) (paraphrase)",
+      "workId": "aeterni-patris",
+      "year": 1879,
+      "topics": [
+        "Thomism"
+      ],
+      "doctrineIds": [
+        "theological-schools"
+      ]
+    },
+    {
+      "id": "lindbeck-doctrine-grammar",
+      "text": "Lindbeck proposed that church doctrines work less as first-order truth claims or expressions of inner experience than as communally authoritative rules, like grammar, for Christian speech and practice.",
+      "kind": "paraphrase",
+      "personId": "george-lindbeck",
+      "citation": "Lindbeck, The Nature of Doctrine (1984), ch. 1 and 4 (paraphrase)",
+      "workId": "lindbeck-nature-of-doctrine",
+      "year": 1984,
+      "topics": [
+        "postliberalism",
+        "doctrine"
+      ],
+      "doctrineIds": [
+        "theological-schools"
+      ]
+    },
+    {
+      "id": "milbank-secular-reason",
+      "text": "Milbank argued that once there was no \"secular\": secular reason is not neutral but a rival theology and ontology of violence, which Christianity must out-narrate with its ontology of peace.",
+      "kind": "paraphrase",
+      "personId": "john-milbank",
+      "citation": "Milbank, Theology and Social Theory (1990), introduction and ch. 12 (paraphrase)",
+      "workId": "milbank-theology-and-social-theory",
+      "year": 1990,
+      "topics": [
+        "Radical Orthodoxy",
+        "secularism"
+      ],
+      "doctrineIds": [
+        "theological-schools"
+      ]
+    },
+    {
+      "id": "cone-god-of-oppressed",
+      "text": "Cone argued that the God of the Exodus and of Jesus is the God of the oppressed, so that in a racist society Christian theology must be Black theology, a theology of liberation.",
+      "kind": "paraphrase",
+      "personId": "james-cone",
+      "citation": "Cone, Black Theology and Black Power (1969) and A Black Theology of Liberation (1970) (paraphrase)",
+      "workId": "cone-black-theology-and-black-power",
+      "year": 1969,
+      "topics": [
+        "Black theology",
+        "liberation"
+      ],
+      "doctrineIds": [
+        "theological-schools",
+        "ethics-church-state"
+      ]
+    },
+    {
+      "id": "ruether-full-humanity",
+      "text": "Ruether proposed as the critical principle of feminist theology that whatever denies, diminishes or distorts the full humanity of women is not redemptive, while whatever promotes it is of the holy.",
+      "kind": "paraphrase",
+      "personId": "rosemary-radford-ruether",
+      "citation": "Ruether, Sexism and God-Talk (1983), ch. 1 (paraphrase)",
+      "workId": "ruether-sexism-and-god-talk",
+      "year": 1983,
+      "topics": [
+        "feminist theology"
+      ],
+      "doctrineIds": [
+        "theological-schools"
+      ]
+    },
+    {
+      "id": "williams-hagar-survival",
+      "text": "Williams read the story of Hagar, the enslaved woman whom God meets in the wilderness, as a key to Black women’s faith: God gives survival and quality of life rather than always liberation.",
+      "kind": "paraphrase",
+      "personId": "delores-williams",
+      "citation": "Williams, Sisters in the Wilderness (1993) (paraphrase)",
+      "workId": "williams-sisters-in-the-wilderness",
+      "year": 1993,
+      "topics": [
+        "womanist theology"
+      ],
+      "doctrineIds": [
+        "theological-schools"
+      ]
+    },
+    {
+      "id": "mbiti-notoriously-religious",
+      "text": "Africans are notoriously religious",
+      "kind": "quotation",
+      "personId": "john-mbiti",
+      "citation": "Mbiti, African Religions and Philosophy (1969), ch. 1, opening sentence",
+      "workId": "mbiti-african-religions-and-philosophy",
+      "year": 1969,
+      "topics": [
+        "African theology"
+      ],
+      "doctrineIds": [
+        "theological-schools"
+      ]
+    },
+    {
+      "id": "koyama-waterbuffalo-para",
+      "text": "Koyama described starting his sermons not from Thomas Aquinas or Karl Barth but from the needs of the farmers he met in the muddy rice fields of northern Thailand with their water buffaloes.",
+      "kind": "paraphrase",
+      "personId": "kosuke-koyama",
+      "citation": "Koyama, Waterbuffalo Theology (1974), preface (paraphrase)",
+      "workId": "koyama-waterbuffalo-theology",
+      "year": 1974,
+      "topics": [
+        "Asian theology",
+        "contextualisation"
+      ],
+      "doctrineIds": [
+        "theological-schools"
+      ]
+    },
+    {
+      "id": "yong-many-tongues",
+      "text": "Yong argued that the Day of Pentecost, when the Spirit enabled many tongues to declare God’s works, legitimises many contextual theologies held together by the one Spirit.",
+      "kind": "paraphrase",
+      "personId": "amos-yong",
+      "citation": "Yong, The Spirit Poured Out on All Flesh (2005), introduction (paraphrase)",
+      "workId": "yong-spirit-poured-out-work",
+      "year": 2005,
+      "topics": [
+        "Pentecostal theology"
+      ],
+      "doctrineIds": [
+        "theological-schools",
+        "holy-spirit"
+      ]
+    },
+    {
+      "id": "barth-harnack-1923",
+      "text": "In the 1923 exchange Harnack asked whether a theology that despised historical science and general culture could avoid becoming arbitrary; Barth replied that theology’s task is the Word of God, which historical-critical reconstruction can neither give nor take away.",
+      "kind": "paraphrase",
+      "personId": "karl-barth",
+      "citation": "Barth-Harnack correspondence, Die Christliche Welt 1923 (paraphrase; see Rumscheidt 1972)",
+      "year": 1923,
+      "topics": [
+        "liberalism",
+        "neo-orthodoxy",
+        "method"
+      ],
+      "doctrineIds": [
+        "theological-schools"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "paris-condemnations-1277",
+      "title": "Bishop Tempier condemns 219 propositions at Paris",
+      "year": 1277,
+      "circa": false,
+      "place": {
+        "name": "Paris",
+        "lat": 48.853,
+        "lng": 2.3499
+      },
+      "category": "intellectual",
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "On 7 March 1277 Bishop Étienne Tempier of Paris, at the prompting of Pope John XXI, condemned 219 philosophical and theological propositions associated with radical Aristotelians in the Arts Faculty; a few touched positions of Thomas Aquinas, who had died in 1274.",
+      "causes": [
+        "Spread of Aristotle and Averroes in the Paris Arts Faculty",
+        "Fears of a \"double truth\" and of limits placed on divine omnipotence"
+      ],
+      "consequences": [
+        "Strengthened emphasis on God’s absolute power, feeding Scotism and nominalism",
+        "Temporarily clouded Aquinas’s reputation until his canonisation in 1323"
+      ],
+      "peopleIds": [
+        "thomas-aquinas"
+      ],
+      "doctrineIds": [
+        "theological-schools"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "sources": [
+        "thijssen-1277",
+        "evans-medieval-theologians"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "aeterni-patris-1879",
+      "title": "Leo XIII’s Aeterni Patris revives Thomism",
+      "year": 1879,
+      "circa": false,
+      "place": {
+        "name": "Rome",
+        "lat": 41.9029,
+        "lng": 12.4534
+      },
+      "category": "intellectual",
+      "regions": [
+        "global",
+        "italy"
+      ],
+      "summary": "Leo XIII’s encyclical of 4 August 1879 commended the philosophy of Thomas Aquinas as the model for Catholic schools, launching the neo-Thomist revival and the Leonine critical edition of Aquinas’s works.",
+      "causes": [
+        "Catholic search for a unified response to modern philosophy after Vatican I"
+      ],
+      "consequences": [
+        "Neo-scholastic manuals dominated Catholic seminaries until the 1960s",
+        "Provoked, by reaction, the ressourcement movement"
+      ],
+      "peopleIds": [
+        "leo-xiii",
+        "thomas-aquinas"
+      ],
+      "doctrineIds": [
+        "theological-schools"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "sources": [
+        "aeterni-patris-1879",
+        "odcc"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "doctrines": [
+    {
+      "id": "theological-schools",
+      "name": "Theological method and schools",
+      "icon": "quill",
+      "order": 21,
+      "question": "How should Christians do theology, and what are the great schools that have tried?",
+      "summary": "Christians agree that theology is \"faith seeking understanding\", but disagree about how: by prayerful reading of Scripture, by rigorous reasoning, by confessional system, by reflection on religious experience, or from the experience of the poor and the margins. This map traces the great schools from Alexandria and Antioch through monastic and scholastic theology, Thomism, Scotism and nominalism, humanism, Protestant orthodoxy, Puritanism and Pietism, the Enlightenment and liberalism, to neo-orthodoxy, existentialism, neo-patristic and ressourcement theology, postliberalism, Radical Orthodoxy and the contextual, liberation and Pentecostal theologies of world Christianity.",
+      "longText": "Every Christian theology answers, explicitly or not, a question of method: where does knowledge of God come from, and how should it be put into words? Scripture is the common starting point, but already in the 3rd century Christians disagreed about how to read it. The Alexandrian teachers Clement and Origen, at home in Platonism, sought spiritual senses beneath the letter; the Antiochenes Diodore, Theodore and John Chrysostom insisted on history and grammar. Tertullian asked what Athens had to do with Jerusalem, while Augustine taught the West to \"believe in order to understand\", a formula Anselm made the programme of medieval thought.\n\nIn the 12th century two styles of theology diverged. Monastic theology, exemplified by Bernard of Clairvaux, treated theology as prayerful savouring of Scripture; the new urban schools, led by Abelard and Peter Lombard, posed questions, compared authorities and resolved them by logic. Bernard secured Abelard’s condemnation in 1141, yet the scholastic method won the universities. Thomas Aquinas integrated Aristotle into a synthesis in which grace perfects nature; Duns Scotus and the Franciscans stressed divine freedom and love; William of Ockham and the via moderna separated what reason can prove from what faith receives and framed salvation as God’s covenant. Luther, trained in this nominalism, rejected scholastic theology as a whole, while Renaissance humanists called everyone back \"to the sources\".\n\nThe Reformation churches soon produced their own scholasticism, the Lutheran and Reformed orthodoxy of Gerhard, Turretin and Owen, while English Puritans and German Pietists insisted that theology be practical and lived. The Enlightenment made reason the judge of revelation, and Deists reduced Christianity to natural religion. Friedrich Schleiermacher answered by grounding theology in religious experience, inaugurating liberal Protestantism, which Ritschl and Harnack turned toward history and ethics and the social gospel toward society. The First World War discredited that synthesis for Karl Barth, whose dialectical theology insisted on God’s self-revelation; his 1923 exchange with Harnack crystallised the clash. Bultmann and Tillich took the existentialist road; Orthodox theologians in exile (Florovsky, Lossky) called for a neo-patristic synthesis; French Catholics (de Lubac, Congar) returned to the Fathers against the neo-Thomist manuals that Leo XIII had made official in 1879, and were vindicated at Vatican II.\n\nSince the 1960s, theologians have asked whose experience theology reflects. Latin American liberation theology, Black theology (James Cone), feminist and womanist theology, African theology (Mbiti, Bediako, Oduyoye), Asian minjung, Dalit and contextual theologies and, increasingly, Pentecostal theology (Amos Yong) speak from contexts once ignored. Postliberals (Lindbeck, Hauerwas) and Radical Orthodoxy (Milbank) challenged the very idea of neutral foundations, while evangelical, process and confessional theologies continue their own traditions. The atlas presents each school in its own best terms and with its critics; none is declared the right method.",
+      "flow": {
+        "nodes": [
+          {
+            "id": "q",
+            "kind": "question",
+            "label": "How should Christians do theology, and what are the great schools that have tried?",
+            "text": "Is theology prayerful wisdom, rigorous science, confessional teaching, reflection on experience, or speech from the margins? How do Scripture, tradition, reason, experience and context relate, and why have Christians formed rival schools of method?",
+            "quoteIds": []
+          },
+          {
+            "id": "s-luke24",
+            "kind": "scripture",
+            "label": "Luke 24:27: \"beginning at Moses and all the prophets\"",
+            "year": 30,
+            "text": "The risen Christ interprets \"in all the scriptures the things concerning himself\": the root of Christological reading of the Old Testament, claimed by literal and spiritual exegetes alike.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-areopagus",
+            "kind": "scripture",
+            "label": "Acts 17 and Colossians 2:8: engaging and resisting philosophy",
+            "year": 55,
+            "text": "Paul quotes Greek poets at Athens (Acts 17:28) yet warns against \"philosophy and vain deceit\" (Col 2:8). Every school has had to decide how much the wisdom of the world may serve theology.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-gal4",
+            "kind": "scripture",
+            "label": "Galatians 4:24: \"which things are an allegory\"",
+            "year": 55,
+            "text": "Paul reads Sarah and Hagar as two covenants and the Exodus as a type for the Church (1 Cor 10), licensing figurative reading.",
+            "quoteIds": []
+          },
+          {
+            "id": "v-tertullian",
+            "kind": "voice",
+            "label": "Tertullian: \"What has Athens to do with Jerusalem?\"",
+            "year": 200,
+            "text": "Against Gnostic speculation Tertullian rejects a \"Stoic, Platonic and dialectic Christianity\", though he himself used philosophy and law with skill.",
+            "ref": {
+              "type": "person",
+              "id": "tertullian"
+            },
+            "quoteIds": [
+              "tertullian-athens-jerusalem"
+            ]
+          },
+          {
+            "id": "p-alexandria",
+            "kind": "position",
+            "label": "Alexandria: philosophy and the spiritual sense",
+            "year": 230,
+            "text": "Clement and Origen treat philosophy as a schoolmaster to Christ and read Scripture at several levels, seeking its spiritual sense.",
+            "ref": {
+              "type": "position",
+              "id": "alexandrian-allegorical-exegesis"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-antioch",
+            "kind": "position",
+            "label": "Antioch: history, grammar and theoria",
+            "year": 380,
+            "text": "Diodore, Theodore and Chrysostom insist on the historical sense, using typology but resisting allegory.",
+            "ref": {
+              "type": "position",
+              "id": "antiochene-literal-exegesis"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "v-augustine",
+            "kind": "voice",
+            "label": "Augustine: believe in order to understand",
+            "year": 416,
+            "text": "Augustine makes faith the door to understanding and, in On Christian Teaching, lets the rule of love govern interpretation, a synthesis the West inherited.",
+            "ref": {
+              "type": "person",
+              "id": "augustine-of-hippo"
+            },
+            "quoteIds": [
+              "augustine-believe-that-thou-mayest-understand"
+            ]
+          },
+          {
+            "id": "d-553",
+            "kind": "decision",
+            "label": "Constantinople II (553) condemns Theodore and Origenist teachings",
+            "year": 553,
+            "text": "The council condemns the person and writings of Theodore of Mopsuestia among the Three Chapters, and in the same period Origenist speculations are anathematised; the Church of the East continues to honour Theodore.",
+            "ref": {
+              "type": "event",
+              "id": "second-council-of-constantinople-553"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "v-anselm",
+            "kind": "voice",
+            "label": "Anselm: faith seeking understanding",
+            "year": 1078,
+            "text": "At Bec, Anselm prays and reasons his way to proofs of God’s existence and the necessity of the incarnation, a bridge from cloister to school.",
+            "ref": {
+              "type": "person",
+              "id": "anselm"
+            },
+            "quoteIds": [
+              "anselm-believe-in-order-to-understand"
+            ]
+          },
+          {
+            "id": "p-monastic",
+            "kind": "position",
+            "label": "Monastic theology: knowledge through love",
+            "year": 1130,
+            "text": "Bernard and the Cistercians practise theology as prayerful savouring of Scripture rather than disputation.",
+            "ref": {
+              "type": "position",
+              "id": "monastic-theology"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "d-sens",
+            "kind": "decision",
+            "label": "Council of Sens condemns Abelard (1141)",
+            "year": 1141,
+            "text": "Bernard of Clairvaux attacks Abelard’s dialectic as presumptuous; propositions from his works are condemned and confirmed by Innocent II.",
+            "ref": {
+              "type": "event",
+              "id": "abelard-condemned-1141"
+            },
+            "quoteIds": [
+              "abelard-doubting-inquiry"
+            ]
+          },
+          {
+            "id": "p-scholastic",
+            "kind": "position",
+            "label": "Scholastic method: questions, authorities, distinctions",
+            "year": 1157,
+            "text": "Abelard’s Sic et Non and Peter Lombard’s Sentences give the universities their method and textbook.",
+            "ref": {
+              "type": "position",
+              "id": "early-scholasticism"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-thomism",
+            "kind": "position",
+            "label": "Aquinas: grace perfects nature",
+            "year": 1265,
+            "text": "Thomas Aquinas integrates Aristotle into a theology in which reason and revelation form a harmonious whole.",
+            "ref": {
+              "type": "position",
+              "id": "thomism"
+            },
+            "quoteIds": [
+              "aquinas-grace-perfects-nature"
+            ]
+          },
+          {
+            "id": "d-1277",
+            "kind": "decision",
+            "label": "Paris condemnations of 1277",
+            "year": 1277,
+            "text": "Bishop Tempier condemns 219 propositions of radical Aristotelianism, affirming God’s absolute freedom and casting a shadow over some Thomist theses.",
+            "ref": {
+              "type": "event",
+              "id": "paris-condemnations-1277"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-scotism",
+            "kind": "position",
+            "label": "Scotus: univocity, will and the primacy of Christ",
+            "year": 1300,
+            "text": "The Franciscan school stresses divine freedom and love and challenges Thomist analogy.",
+            "ref": {
+              "type": "position",
+              "id": "scotism"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-nominalism",
+            "kind": "position",
+            "label": "Ockham and the via moderna",
+            "year": 1320,
+            "text": "Nominalists separate what reason can demonstrate from what faith receives and frame salvation as God’s covenant.",
+            "ref": {
+              "type": "position",
+              "id": "nominalism-via-moderna"
+            },
+            "quoteIds": [
+              "ockham-plurality-necessity"
+            ]
+          },
+          {
+            "id": "p-humanism",
+            "kind": "position",
+            "label": "Humanism: back to the sources",
+            "year": 1516,
+            "text": "Erasmus’s Greek New Testament and the call ad fontes challenge scholastic method and fuel reform on all sides.",
+            "ref": {
+              "type": "position",
+              "id": "renaissance-humanism"
+            },
+            "quoteIds": [
+              "erasmus-paraclesis-ploughboy"
+            ]
+          },
+          {
+            "id": "v-luther",
+            "kind": "voice",
+            "label": "Luther against scholastic theology",
+            "year": 1517,
+            "text": "Trained in the via moderna, Luther attacks Aristotle’s role in theology and calls for a theology of the cross grounded in Scripture.",
+            "ref": {
+              "type": "person",
+              "id": "martin-luther"
+            },
+            "quoteIds": [
+              "luther-aristotle-darkness"
+            ]
+          },
+          {
+            "id": "p-puritan",
+            "kind": "position",
+            "label": "Puritan practical divinity",
+            "year": 1590,
+            "text": "Perkins and his heirs apply Reformed doctrine to conscience and daily life.",
+            "ref": {
+              "type": "position",
+              "id": "puritan-theology"
+            },
+            "quoteIds": [
+              "perkins-science-of-living-blessedly"
+            ]
+          },
+          {
+            "id": "p-orthodoxy",
+            "kind": "position",
+            "label": "Protestant scholasticism",
+            "year": 1610,
+            "text": "Lutheran and Reformed orthodoxy systematise the Reformation in loci and disputations, using scholastic tools.",
+            "ref": {
+              "type": "position",
+              "id": "protestant-scholasticism"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-pietism",
+            "kind": "position",
+            "label": "Pietism: from correct doctrine to living faith",
+            "year": 1675,
+            "text": "Spener and Francke call theology back to new birth, Bible study and practice.",
+            "ref": {
+              "type": "position",
+              "id": "pietist-theology"
+            },
+            "quoteIds": [
+              "spener-practice-not-knowledge"
+            ]
+          },
+          {
+            "id": "p-deism",
+            "kind": "position",
+            "label": "Enlightenment rationalism and Deism",
+            "year": 1696,
+            "text": "Reason becomes judge of revelation; Toland, Tindal and later Kant reduce Christianity toward natural and moral religion.",
+            "ref": {
+              "type": "position",
+              "id": "enlightenment-deism"
+            },
+            "quoteIds": [
+              "toland-nothing-above-reason",
+              "kant-courage-own-understanding"
+            ]
+          },
+          {
+            "id": "p-liberal",
+            "kind": "position",
+            "label": "Schleiermacher: theology from religious experience",
+            "year": 1799,
+            "text": "Schleiermacher grounds theology in the feeling of absolute dependence; Ritschl and Harnack shape a historical, ethical liberalism, and the social gospel follows.",
+            "ref": {
+              "type": "position",
+              "id": "liberal-protestantism"
+            },
+            "quoteIds": [
+              "schleiermacher-absolute-dependence",
+              "harnack-father-only"
+            ]
+          },
+          {
+            "id": "c-university",
+            "kind": "consequence",
+            "label": "Theology in the modern research university",
+            "year": 1810,
+            "text": "With the University of Berlin (1810) and Schleiermacher’s Brief Outline (1811), theology is reorganised as a historical and practical academic discipline, separating biblical, historical, systematic and practical fields, a model copied worldwide.",
+            "ref": {
+              "type": "person",
+              "id": "friedrich-schleiermacher"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "d-aeterni",
+            "kind": "decision",
+            "label": "Aeterni Patris (1879) enthrones Thomism",
+            "year": 1879,
+            "text": "Leo XIII makes Aquinas the norm for Catholic philosophy and theology, launching neo-scholasticism.",
+            "ref": {
+              "type": "event",
+              "id": "aeterni-patris-1879"
+            },
+            "quoteIds": [
+              "leo-xiii-restore-aquinas"
+            ]
+          },
+          {
+            "id": "p-neoorthodox",
+            "kind": "position",
+            "label": "Barth and dialectical theology",
+            "year": 1919,
+            "text": "After 1914 Barth’s Romans proclaims the \"wholly other\" God known only in his self-revelation, breaking with liberalism.",
+            "ref": {
+              "type": "position",
+              "id": "neo-orthodoxy"
+            },
+            "quoteIds": [
+              "barth-romans-para"
+            ]
+          },
+          {
+            "id": "a-barth-harnack",
+            "kind": "argument",
+            "label": "Barth versus Harnack (1923)",
+            "year": 1923,
+            "text": "Teacher and pupil debate in print whether theology is a historical science accountable to general reason, or obedient witness to the Word of God.",
+            "quoteIds": [
+              "barth-harnack-1923"
+            ]
+          },
+          {
+            "id": "p-neopatristic",
+            "kind": "position",
+            "label": "Orthodox neo-patristic synthesis",
+            "year": 1936,
+            "text": "Florovsky and Lossky call Orthodox theology back to the mind of the Fathers, uniting dogma and mystical experience.",
+            "ref": {
+              "type": "position",
+              "id": "neo-patristic-synthesis"
+            },
+            "quoteIds": [
+              "florovsky-mind-of-the-fathers",
+              "lossky-no-mysticism-without-theology"
+            ]
+          },
+          {
+            "id": "p-existential",
+            "kind": "position",
+            "label": "Existentialist theology: Bultmann and Tillich",
+            "year": 1941,
+            "text": "Demythologising and the method of correlation translate the gospel into the existential questions of modern people.",
+            "ref": {
+              "type": "position",
+              "id": "existentialist-theology"
+            },
+            "quoteIds": [
+              "bultmann-demythologise",
+              "tillich-ultimate-concern"
+            ]
+          },
+          {
+            "id": "p-ressourcement",
+            "kind": "position",
+            "label": "Nouvelle théologie and ressourcement",
+            "year": 1946,
+            "text": "De Lubac, Congar and others return to the Fathers and liturgy against neo-scholastic manuals; censured in 1950, vindicated at Vatican II.",
+            "ref": {
+              "type": "position",
+              "id": "nouvelle-theologie"
+            },
+            "quoteIds": [
+              "de-lubac-natural-desire"
+            ]
+          },
+          {
+            "id": "d-vatican2",
+            "kind": "decision",
+            "label": "Vatican II (1962-65) adopts ressourcement",
+            "year": 1962,
+            "text": "The Council’s texts on revelation, liturgy and the Church draw on ressourcement theologians and end the monopoly of neo-scholastic manuals.",
+            "ref": {
+              "type": "event",
+              "id": "second-vatican-council-1962"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-contextual",
+            "kind": "position",
+            "label": "Theologies from the margins: Black, feminist, liberation",
+            "year": 1969,
+            "text": "Cone’s Black theology (1969), Gutiérrez’s liberation theology (1971) and feminist and womanist theology make the experience of the oppressed a starting point of method.",
+            "ref": {
+              "type": "position",
+              "id": "black-theology"
+            },
+            "quoteIds": [
+              "cone-god-of-oppressed",
+              "ruether-full-humanity",
+              "gutierrez-preferential-option"
+            ]
+          },
+          {
+            "id": "p-postliberal",
+            "kind": "position",
+            "label": "Postliberalism and Radical Orthodoxy",
+            "year": 1984,
+            "text": "Lindbeck’s cultural-linguistic model (1984) and Milbank’s critique of secular reason (1990) reject both liberal and rationalist foundations for theology.",
+            "ref": {
+              "type": "position",
+              "id": "postliberal-theology"
+            },
+            "quoteIds": [
+              "lindbeck-doctrine-grammar",
+              "milbank-secular-reason"
+            ]
+          },
+          {
+            "id": "m-global",
+            "kind": "modern",
+            "label": "World Christianity: African, Asian and Pentecostal theologies",
+            "year": 2005,
+            "text": "With most Christians now in the Global South, theologians such as Mbiti, Bediako, Oduyoye, Koyama, Song and Yong argue that theology must be done in many tongues and cultures.",
+            "ref": {
+              "type": "position",
+              "id": "african-theology"
+            },
+            "quoteIds": [
+              "mbiti-notoriously-religious",
+              "koyama-waterbuffalo-para",
+              "yong-many-tongues"
+            ]
+          },
+          {
+            "id": "m-landscape",
+            "kind": "modern",
+            "label": "Today: many schools, one question of method",
+            "year": 2025,
+            "text": "Neo-Thomists, Reformed and Lutheran retrievalists, evangelicals, Orthodox neo-patristic theologians, process, liberation, Pentecostal and contextual theologians coexist; the old debate about faith, reason, experience and context continues across all of them.",
+            "ref": {
+              "type": "position",
+              "id": "pentecostal-theology"
+            },
+            "quoteIds": []
+          }
+        ],
+        "edges": [
+          {
+            "from": "q",
+            "to": "s-luke24",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q",
+            "to": "s-areopagus",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q",
+            "to": "s-gal4",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-areopagus",
+            "to": "v-tertullian",
+            "kind": "supports"
+          },
+          {
+            "from": "s-areopagus",
+            "to": "p-alexandria",
+            "kind": "supports"
+          },
+          {
+            "from": "s-gal4",
+            "to": "p-alexandria",
+            "kind": "supports"
+          },
+          {
+            "from": "s-luke24",
+            "to": "p-antioch",
+            "kind": "supports"
+          },
+          {
+            "from": "v-tertullian",
+            "to": "p-alexandria",
+            "kind": "objects"
+          },
+          {
+            "from": "p-alexandria",
+            "to": "p-antioch",
+            "kind": "objects"
+          },
+          {
+            "from": "p-alexandria",
+            "to": "v-augustine",
+            "kind": "develops"
+          },
+          {
+            "from": "p-antioch",
+            "to": "d-553",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-alexandria",
+            "to": "d-553",
+            "kind": "leads-to"
+          },
+          {
+            "from": "v-augustine",
+            "to": "v-anselm",
+            "kind": "develops"
+          },
+          {
+            "from": "v-augustine",
+            "to": "p-monastic",
+            "kind": "develops"
+          },
+          {
+            "from": "v-anselm",
+            "to": "p-scholastic",
+            "kind": "develops"
+          },
+          {
+            "from": "p-monastic",
+            "to": "d-sens",
+            "kind": "supports"
+          },
+          {
+            "from": "d-sens",
+            "to": "p-scholastic",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-monastic",
+            "to": "p-scholastic",
+            "kind": "objects"
+          },
+          {
+            "from": "p-scholastic",
+            "to": "p-thomism",
+            "kind": "develops"
+          },
+          {
+            "from": "p-thomism",
+            "to": "d-1277",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-1277",
+            "to": "p-scotism",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-thomism",
+            "to": "p-scotism",
+            "kind": "objects"
+          },
+          {
+            "from": "p-scotism",
+            "to": "p-nominalism",
+            "kind": "develops"
+          },
+          {
+            "from": "p-thomism",
+            "to": "p-nominalism",
+            "kind": "objects"
+          },
+          {
+            "from": "p-nominalism",
+            "to": "p-humanism",
+            "kind": "objects"
+          },
+          {
+            "from": "p-nominalism",
+            "to": "v-luther",
+            "kind": "objects"
+          },
+          {
+            "from": "p-humanism",
+            "to": "v-luther",
+            "kind": "supports"
+          },
+          {
+            "from": "v-luther",
+            "to": "p-puritan",
+            "kind": "leads-to"
+          },
+          {
+            "from": "v-luther",
+            "to": "p-orthodoxy",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-thomism",
+            "to": "p-orthodoxy",
+            "kind": "supports"
+          },
+          {
+            "from": "p-puritan",
+            "to": "p-pietism",
+            "kind": "supports"
+          },
+          {
+            "from": "p-orthodoxy",
+            "to": "p-pietism",
+            "kind": "objects"
+          },
+          {
+            "from": "p-orthodoxy",
+            "to": "p-deism",
+            "kind": "objects"
+          },
+          {
+            "from": "p-humanism",
+            "to": "p-deism",
+            "kind": "develops"
+          },
+          {
+            "from": "p-deism",
+            "to": "p-liberal",
+            "kind": "responds"
+          },
+          {
+            "from": "p-pietism",
+            "to": "p-liberal",
+            "kind": "develops"
+          },
+          {
+            "from": "p-liberal",
+            "to": "c-university",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-thomism",
+            "to": "d-aeterni",
+            "kind": "supports"
+          },
+          {
+            "from": "p-deism",
+            "to": "d-aeterni",
+            "kind": "objects"
+          },
+          {
+            "from": "p-liberal",
+            "to": "p-neoorthodox",
+            "kind": "rejects"
+          },
+          {
+            "from": "p-neoorthodox",
+            "to": "a-barth-harnack",
+            "kind": "leads-to"
+          },
+          {
+            "from": "c-university",
+            "to": "a-barth-harnack",
+            "kind": "supports"
+          },
+          {
+            "from": "p-monastic",
+            "to": "p-neopatristic",
+            "kind": "supports"
+          },
+          {
+            "from": "p-scholastic",
+            "to": "p-neopatristic",
+            "kind": "objects"
+          },
+          {
+            "from": "a-barth-harnack",
+            "to": "p-existential",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-liberal",
+            "to": "p-existential",
+            "kind": "develops"
+          },
+          {
+            "from": "d-aeterni",
+            "to": "p-ressourcement",
+            "kind": "objects"
+          },
+          {
+            "from": "p-neopatristic",
+            "to": "p-ressourcement",
+            "kind": "supports"
+          },
+          {
+            "from": "p-ressourcement",
+            "to": "d-vatican2",
+            "kind": "supports"
+          },
+          {
+            "from": "p-existential",
+            "to": "p-contextual",
+            "kind": "objects"
+          },
+          {
+            "from": "d-vatican2",
+            "to": "p-contextual",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-neoorthodox",
+            "to": "p-postliberal",
+            "kind": "develops"
+          },
+          {
+            "from": "p-liberal",
+            "to": "p-postliberal",
+            "kind": "objects"
+          },
+          {
+            "from": "p-ressourcement",
+            "to": "p-postliberal",
+            "kind": "supports"
+          },
+          {
+            "from": "p-contextual",
+            "to": "m-global",
+            "kind": "develops"
+          },
+          {
+            "from": "d-vatican2",
+            "to": "m-global",
+            "kind": "leads-to"
+          },
+          {
+            "from": "m-global",
+            "to": "m-landscape",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-postliberal",
+            "to": "m-landscape",
+            "kind": "leads-to"
+          }
+        ]
+      },
+      "sources": [
+        "mcgrath-historical-theology",
+        "gonzalez-thought",
+        "pelikan-christian-tradition",
+        "ford-modern-theologians",
+        "evans-medieval-theologians",
+        "muller-prrd",
+        "odcc"
+      ]
+    }
+  ],
+  "positions": [
+    {
+      "id": "alexandrian-allegorical-exegesis",
+      "doctrineId": "theological-schools",
+      "name": "Alexandrian exegesis (allegorical/spiritual reading)",
+      "altNames": [
+        "Alexandrian school",
+        "Spiritual sense"
+      ],
+      "oneLine": "Scripture has a body, soul and spirit: beneath the letter lie spiritual meanings about Christ, the soul and the life to come, which the mature reader seeks with the help of philosophy.",
+      "coreClaims": [
+        "The Holy Spirit intended deeper meanings than the literal sense, signalled by difficulties and impossibilities in the letter.",
+        "Paul himself reads allegorically (Galatians 4:24; 1 Corinthians 10:1-11) and the Old Testament is full of types of Christ.",
+        "Greek philosophy, rightly used, is a schoolmaster to Christ and helps theology articulate the faith.",
+        "Reading is a spiritual ascent: interpretation and holiness grow together."
+      ],
+      "keyTexts": [
+        "Galatians 4:21-31",
+        "1 Corinthians 10:1-11",
+        "2 Corinthians 3:6",
+        "Origen, On First Principles 4.2",
+        "Clement of Alexandria, Stromata 1"
+      ],
+      "origin": "Developed in the Christian catechetical school of Alexandria by Clement (c.190) and above all Origen (c.230), drawing on Philo of Alexandria’s allegorical reading of the Torah and on Platonism. It shaped Gregory of Nyssa, Ambrose, Jerome (early), Augustine and the whole medieval doctrine of the four senses.",
+      "originYear": 230,
+      "proponentIds": [
+        "origen",
+        "clement-of-alexandria",
+        "gregory-of-nyssa",
+        "cyril-of-alexandria"
+      ],
+      "proponentsOther": [
+        "Philo of Alexandria (Jewish precursor)",
+        "Didymus the Blind",
+        "Ambrose of Milan (in the West)"
+      ],
+      "traditionIds": [
+        "early-church",
+        "coptic-orthodox"
+      ],
+      "strongestArguments": [
+        "It follows apostolic practice and lets the whole Bible speak of Christ.",
+        "It solves real problems (immoral or impossible passages) without abandoning Scripture’s inspiration.",
+        "It yielded an immensely rich tradition of preaching, mysticism and spiritual theology."
+      ],
+      "strongestObjections": [
+        "Antiochene critics said it dissolves history and lets interpreters find whatever they wish in the text.",
+        "It can import Platonic ideas (pre-existence of souls, restoration of all) foreign to Scripture; some of Origen’s ideas were condemned in 553.",
+        "Reformers and modern critics argued it obscures the plain sense that governs doctrine."
+      ],
+      "responses": [
+        "Alexandrians insisted that the literal sense is usually true and that the rule of faith guards spiritual reading from arbitrariness.",
+        "Modern \"theological interpretation of Scripture\" argues that figural reading is necessary for a Christian canon."
+      ],
+      "consequences": [
+        "The fourfold sense (literal, allegorical, moral, anagogical) of medieval exegesis.",
+        "A spiritual-mystical reading of the Song of Songs and of the Exodus as the soul’s journey."
+      ],
+      "relatedPositionIds": [
+        "antiochene-literal-exegesis",
+        "monastic-theology",
+        "origen-apokatastasis"
+      ],
+      "standing": "historic",
+      "sources": [
+        "young-biblical-exegesis",
+        "kelly-doctrines",
+        "mcgrath-historical-theology"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "antiochene-literal-exegesis",
+      "doctrineId": "theological-schools",
+      "name": "Antiochene exegesis (historical sense and theoria)",
+      "altNames": [
+        "Antiochene school",
+        "Literal-historical exegesis"
+      ],
+      "oneLine": "Scripture should be read first in its historical and grammatical sense; Christological meaning arises through genuine prophecy and typology (\"theoria\") grounded in history, not through free allegory.",
+      "coreClaims": [
+        "The narrative, grammar and historical setting of a text control its meaning.",
+        "Typology links real events (Adam-Christ, Exodus-baptism) rather than turning events into symbols.",
+        "Allegory risks making Scripture say what the interpreter already believes.",
+        "Moral and pastoral application flows from the literal sense (as in Chrysostom’s homilies)."
+      ],
+      "keyTexts": [
+        "Romans 5:14 (Adam a type of Christ)",
+        "1 Corinthians 10:6",
+        "Diodore, Preface to the Psalms",
+        "Theodore of Mopsuestia, Against the Allegorists (fragments)"
+      ],
+      "origin": "Associated with teachers at Antioch from the later 4th century: Diodore of Tarsus, his pupils Theodore of Mopsuestia and John Chrysostom, and later Theodoret of Cyrrhus. Theodore became \"the Interpreter\" for the Church of the East, whose school at Nisibis taught his commentaries.",
+      "originYear": 380,
+      "proponentIds": [
+        "diodore-of-tarsus",
+        "theodore-of-mopsuestia",
+        "john-chrysostom"
+      ],
+      "proponentsOther": [
+        "Theodoret of Cyrrhus",
+        "Narsai and the School of Nisibis"
+      ],
+      "traditionIds": [
+        "early-church",
+        "church-of-the-east",
+        "assyrian-church-of-the-east"
+      ],
+      "strongestArguments": [
+        "It respects the human authors and historical character of revelation.",
+        "Its sobriety anticipates Reformation and modern historical exegesis.",
+        "Chrysostom’s preaching shows its pastoral power."
+      ],
+      "strongestObjections": [
+        "Alexandrians said it risked missing Christ in the Old Testament (Theodore read few psalms as messianic).",
+        "Its emphasis on the full humanity of Christ was linked by opponents to Nestorian Christology; Theodore’s writings were condemned in 553.",
+        "Antiochenes too used figurative reading, so the contrast can be overdrawn."
+      ],
+      "responses": [
+        "Defenders note that Chrysostom is a doctor of the whole Church and that the Church of the East honours Theodore as orthodox.",
+        "Modern scholars (e.g. Frances Young) show both schools shared aims, differing in emphasis rather than kind."
+      ],
+      "consequences": [
+        "Commentary tradition of the Church of the East.",
+        "A model for Reformation and modern grammatical-historical exegesis."
+      ],
+      "relatedPositionIds": [
+        "alexandrian-allegorical-exegesis",
+        "east-syriac-dyophysitism",
+        "historical-critical-method"
+      ],
+      "standing": "historic",
+      "sources": [
+        "young-biblical-exegesis",
+        "baum-winkler-east",
+        "kelly-doctrines"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "monastic-theology",
+      "doctrineId": "theological-schools",
+      "name": "Monastic theology",
+      "altNames": [
+        "Theology of the cloister",
+        "Sapiential theology"
+      ],
+      "oneLine": "Theology is born of prayer, Scripture read slowly in community, and love: its aim is not disputation but the experience and desire of God.",
+      "coreClaims": [
+        "Lectio divina, liturgy and meditation, not the classroom, are theology’s native setting.",
+        "Knowledge of God is affective and experiential; love itself is a kind of knowing (amor ipse notitia est).",
+        "The Fathers and Scripture are read as a living whole, with rich use of symbolism (especially the Song of Songs).",
+        "Humility and moral purification are conditions for understanding."
+      ],
+      "keyTexts": [
+        "Song of Songs",
+        "Psalm 34:8 (taste and see)",
+        "Matthew 5:8",
+        "Bernard of Clairvaux, Sermons on the Song of Songs",
+        "Gregory the Great, Moralia in Job"
+      ],
+      "origin": "Rooted in Cassian, Benedict and Gregory the Great, monastic theology flourished in the 12th century with Bernard of Clairvaux, William of St-Thierry, Rupert of Deutz and the Cistercians. The term was popularised by Jean Leclercq (1957) to contrast it with the \"scholastic theology\" of the urban schools.",
+      "originYear": 1130,
+      "proponentIds": [
+        "bernard-of-clairvaux",
+        "gregory-the-great",
+        "john-cassian",
+        "anselm",
+        "hildegard-of-bingen"
+      ],
+      "proponentsOther": [
+        "William of St-Thierry",
+        "Rupert of Deutz",
+        "Aelred of Rievaulx",
+        "Isaac of Stella"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-orthodox"
+      ],
+      "strongestArguments": [
+        "It keeps theology tied to worship and holiness.",
+        "It preserves the patristic unity of exegesis, doctrine and spirituality.",
+        "Eastern theology never fully separated theology and prayer, suggesting this is the older Christian norm."
+      ],
+      "strongestObjections": [
+        "Critics from the schools said it lacked precision and could not resolve disputed questions.",
+        "Its allegorism and rhetoric can be arbitrary.",
+        "Bernard’s use of it against Abelard showed it could become hostile to free inquiry."
+      ],
+      "responses": [
+        "Advocates reply that the schools themselves depended on monastic preservation of texts and that precision without love is sterile.",
+        "Modern theologians (Balthasar, the ressourcement school) called for a \"kneeling theology\" recovering this union."
+      ],
+      "consequences": [
+        "Shaped Cistercian spirituality and later mysticism.",
+        "Inspired 20th-century calls to reunite theology and spirituality."
+      ],
+      "relatedPositionIds": [
+        "early-scholasticism",
+        "alexandrian-allegorical-exegesis",
+        "nouvelle-theologie"
+      ],
+      "standing": "historic",
+      "sources": [
+        "leclercq-love-of-learning",
+        "evans-medieval-theologians",
+        "mcginn-mysticism"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "early-scholasticism",
+      "doctrineId": "theological-schools",
+      "name": "Scholasticism (Anselm, Abelard, Lombard)",
+      "altNames": [
+        "Scholastic method",
+        "Theology of the schools"
+      ],
+      "oneLine": "Faith seeks understanding through reason: authorities are gathered, apparent contradictions posed as questions, and resolved by logical distinction and argument.",
+      "coreClaims": [
+        "Reason, especially dialectic (logic), is a God-given tool for understanding revealed truth.",
+        "Authorities (Scripture, Fathers, councils) must be harmonised by attention to context and meaning (Abelard, Sic et Non).",
+        "Theology can be arranged systematically by topics (Lombard’s Sentences).",
+        "Some truths (e.g. God’s existence, the fittingness of the incarnation) can be shown by \"necessary reasons\" (Anselm)."
+      ],
+      "keyTexts": [
+        "1 Peter 3:15",
+        "Isaiah 7:9 (LXX: \"unless you believe, you will not understand\")",
+        "Anselm, Proslogion; Cur Deus Homo",
+        "Abelard, Sic et Non",
+        "Peter Lombard, Sentences"
+      ],
+      "origin": "Emerged in the cathedral and monastic schools of 11th-12th-century France: Anselm at Bec (Monologion 1076, Proslogion 1078), Abelard at Paris (Sic et Non c.1121), Hugh of St-Victor and Peter Lombard (Sentences c.1155-58). Institutionalised in the universities of Paris and Oxford around 1200.",
+      "originYear": 1078,
+      "proponentIds": [
+        "anselm",
+        "abelard",
+        "peter-lombard"
+      ],
+      "proponentsOther": [
+        "Hugh of St-Victor",
+        "Gilbert of Poitiers",
+        "Peter the Chanter"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "strongestArguments": [
+        "It gave Western theology precision, order and a habit of facing objections honestly.",
+        "It treats reason as part of the image of God rather than a rival to faith.",
+        "Its methods founded the university and much of Western intellectual culture."
+      ],
+      "strongestObjections": [
+        "Bernard of Clairvaux and later monastic critics accused it of curiosity and rationalism (Abelard was condemned at Sens in 1141).",
+        "Reformers and humanists attacked its technical jargon, reliance on Aristotle and distance from Scripture and preaching.",
+        "Orthodox critics (e.g. Barlaam controversy, later Florovsky) saw in it a rationalisation of mystery."
+      ],
+      "responses": [
+        "Scholastics answered that they began from faith and that clear distinctions protect mystery from error.",
+        "Lombard’s and Aquinas’s works are saturated with Scripture and patristic citation."
+      ],
+      "consequences": [
+        "The university theology faculty and the disputation.",
+        "The formal statement of doctrines such as the seven sacraments and transubstantiation."
+      ],
+      "relatedPositionIds": [
+        "monastic-theology",
+        "thomism",
+        "satisfaction-theory",
+        "moral-influence"
+      ],
+      "standing": "historic",
+      "sources": [
+        "evans-medieval-theologians",
+        "pelikan-christian-tradition",
+        "gonzalez-thought"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "thomism",
+      "doctrineId": "theological-schools",
+      "name": "Thomism",
+      "altNames": [
+        "Via antiqua (with Scotism)",
+        "Neo-Thomism",
+        "Neo-scholasticism"
+      ],
+      "oneLine": "Grace does not destroy nature but perfects it: reason can know God’s existence and natural law, revelation completes what reason cannot reach, and theology is a true science of God.",
+      "coreClaims": [
+        "Faith and reason cannot contradict one another, since both come from God.",
+        "God can be known by reason from creation (the Five Ways), though the Trinity and incarnation are known only by revelation.",
+        "Aristotle’s philosophy, purified, is a sound framework for theology (act and potency, causality, the soul as form of the body).",
+        "Being is said of God and creatures analogically; God is pure act, simple and unchanging.",
+        "Grace heals and elevates nature toward the beatific vision."
+      ],
+      "keyTexts": [
+        "Romans 1:20",
+        "Wisdom 13:1-5",
+        "Exodus 3:14",
+        "Aquinas, Summa Theologiae I q.1-2",
+        "Summa contra Gentiles"
+      ],
+      "origin": "Founded on the work of the Dominican Thomas Aquinas (Summa Theologiae, 1265-74). Contested after his death (1277), adopted by the Dominicans, given authority at Trent, revived by Leo XIII’s Aeterni Patris (1879) and renewed in 20th-century forms (Maritain, Gilson, transcendental Thomism of Rahner and Lonergan).",
+      "originYear": 1265,
+      "proponentIds": [
+        "thomas-aquinas",
+        "leo-xiii",
+        "karl-rahner"
+      ],
+      "proponentsOther": [
+        "Cajetan",
+        "Domingo Báñez",
+        "Réginald Garrigou-Lagrange",
+        "Jacques Maritain",
+        "Étienne Gilson",
+        "Bernard Lonergan",
+        "Josef Pieper"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "strongestArguments": [
+        "It offers a comprehensive, coherent synthesis of revelation and reason.",
+        "It grounds a natural law ethic and public reasoning shared with non-Christians.",
+        "Its realism about knowledge and being resists relativism."
+      ],
+      "strongestObjections": [
+        "Nominalists and Reformers judged it too confident about reason and Aristotle.",
+        "Orthodox theologians criticise its identification of essence and energy and its scholastic method.",
+        "Neo-scholastic manuals were criticised (including by Catholics) as rigid and ahistorical.",
+        "Barth rejected the analogy of being as the invention of Antichrist."
+      ],
+      "responses": [
+        "Thomists distinguish Aquinas from later manuals and point to his deep reliance on Scripture and the Fathers.",
+        "Many Reformed and Lutheran scholastics in fact drew on Aquinas, and recent Protestant theologians have done so again."
+      ],
+      "consequences": [
+        "Official status in Catholic education 1879-1960s.",
+        "Natural law tradition in ethics and politics.",
+        "Thomist account of grace and predestination (Báñez)."
+      ],
+      "relatedPositionIds": [
+        "scotism",
+        "nominalism-via-moderna",
+        "thomist-grace",
+        "classical-theism-divine-simplicity",
+        "transubstantiation"
+      ],
+      "standing": "significant",
+      "sources": [
+        "evans-medieval-theologians",
+        "pelikan-christian-tradition",
+        "aeterni-patris-1879",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "scotism",
+      "doctrineId": "theological-schools",
+      "name": "Scotism",
+      "altNames": [
+        "Franciscan school",
+        "Via antiqua (with Thomism)"
+      ],
+      "oneLine": "God’s freedom and love come first: being is said of God and creatures univocally, the will has primacy over the intellect, each thing has its own \"thisness\", and Christ would have become incarnate even without sin.",
+      "coreClaims": [
+        "Univocity of being: \"being\" has one basic meaning for God and creatures, making natural theology possible.",
+        "The will, not the intellect, is the highest power; love is the end of theology.",
+        "Haecceity (\"thisness\") individuates each creature.",
+        "The incarnation was willed for its own sake, not only as a remedy for sin (absolute primacy of Christ).",
+        "Mary was preserved from original sin by Christ’s merits (preservative redemption)."
+      ],
+      "keyTexts": [
+        "Colossians 1:15-17",
+        "Ephesians 1:3-10",
+        "John Duns Scotus, Ordinatio"
+      ],
+      "origin": "Founded on the work of the Franciscan John Duns Scotus (taught at Oxford and Paris, d.1308) and carried on as the main Franciscan school, rival to the Dominican Thomists, until the 18th century.",
+      "originYear": 1300,
+      "proponentIds": [
+        "duns-scotus"
+      ],
+      "proponentsOther": [
+        "Francis of Mayronnes",
+        "Luke Wadding (editor)",
+        "Bartholomew Mastrius"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "strongestArguments": [
+        "It safeguards God’s freedom and the personal, loving character of creation and redemption.",
+        "Its argument for the Immaculate Conception was vindicated by the 1854 definition.",
+        "Its account of individuality and freedom appeals to modern personalism."
+      ],
+      "strongestObjections": [
+        "Thomists said univocity flattens the difference between Creator and creature.",
+        "Radical Orthodoxy and others blame univocity for preparing secular modernity.",
+        "Humanists mocked Scotist subtlety (the word \"dunce\" derives from Duns)."
+      ],
+      "responses": [
+        "Scotists reply that univocity is a minimal logical claim compatible with infinite difference, and that the genealogy blaming Scotus is historically contested."
+      ],
+      "consequences": [
+        "Immaculate Conception dogma (1854).",
+        "Franciscan theology of the primacy of Christ."
+      ],
+      "relatedPositionIds": [
+        "thomism",
+        "nominalism-via-moderna",
+        "immaculate-conception"
+      ],
+      "standing": "minority",
+      "sources": [
+        "evans-medieval-theologians",
+        "pelikan-christian-tradition",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "nominalism-via-moderna",
+      "doctrineId": "theological-schools",
+      "name": "Nominalism and the via moderna",
+      "altNames": [
+        "Ockhamism",
+        "Terminism",
+        "Via moderna"
+      ],
+      "oneLine": "Universals are names, not things; God’s absolute power is limited only by non-contradiction, and the order of salvation rests on God’s freely chosen covenant rather than on necessary natures.",
+      "coreClaims": [
+        "Only individuals exist; universals are concepts or names (nominalism).",
+        "God could have done otherwise by his absolute power (potentia absoluta) but binds himself by his ordained power (potentia ordinata).",
+        "Grace and merit work by covenant (pactum): God has promised to give grace to those who do what is in them (facere quod in se est).",
+        "Many truths of faith (even God’s unity) cannot be strictly demonstrated; they rest on revelation.",
+        "Do not multiply entities without necessity (the \"razor\")."
+      ],
+      "keyTexts": [
+        "Psalm 115:3",
+        "Romans 9:15-21",
+        "Ockham, Commentary on the Sentences",
+        "Biel, Collectorium"
+      ],
+      "origin": "Associated with William of Ockham (c.1320) and developed by Pierre d’Ailly, Jean Gerson and Gabriel Biel (d.1495). In the 15th-century universities the \"via moderna\" competed with the \"via antiqua\" of Thomists and Scotists; Luther was trained in it at Erfurt.",
+      "originYear": 1320,
+      "proponentIds": [
+        "william-of-ockham",
+        "gabriel-biel"
+      ],
+      "proponentsOther": [
+        "Pierre d’Ailly",
+        "Jean Gerson",
+        "Gregory of Rimini (Augustinian wing)",
+        "Robert Holcot"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "strongestArguments": [
+        "It honours God’s freedom and sovereignty against philosophical necessity.",
+        "It encouraged empirical attention to individual things and logical rigour.",
+        "Its covenant theology gave assurance that God keeps his promises."
+      ],
+      "strongestObjections": [
+        "Luther and Reformed critics charged its \"doing what is in one\" with semi-Pelagianism.",
+        "Realists said it undermines the knowability of God and of natures, and later critics blame it for modern voluntarism and secularism.",
+        "Its fideism separates faith from reason."
+      ],
+      "responses": [
+        "Defenders note its Augustinian wing (Gregory of Rimini) and argue that the covenant emphasis was itself a theology of grace.",
+        "Historians such as Oberman showed its complexity and its role in preparing the Reformation."
+      ],
+      "consequences": [
+        "Formed Luther’s questions and helped trigger the Reformation.",
+        "Influenced covenant theology and early modern science."
+      ],
+      "relatedPositionIds": [
+        "thomism",
+        "scotism",
+        "semi-pelagianism",
+        "justification-by-faith-alone"
+      ],
+      "standing": "historic",
+      "sources": [
+        "oberman-harvest",
+        "mcgrath-iustitia",
+        "evans-medieval-theologians"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "renaissance-humanism",
+      "doctrineId": "theological-schools",
+      "name": "Renaissance (biblical) humanism",
+      "altNames": [
+        "Christian humanism",
+        "Ad fontes",
+        "Philosophia Christi"
+      ],
+      "oneLine": "Return to the sources: renew the Church through eloquent study of Scripture and the Fathers in their original languages and a simple, moral \"philosophy of Christ\" in place of scholastic subtleties.",
+      "coreClaims": [
+        "The original Hebrew and Greek texts, edited critically, correct the Vulgate and scholastic misreadings.",
+        "The early Fathers (Jerome, Origen, Chrysostom) are better guides than late scholastic masters.",
+        "Christianity is above all imitation of Christ and inner piety, accessible to lay people.",
+        "Good letters (rhetoric, history, philology) serve true theology."
+      ],
+      "keyTexts": [
+        "Erasmus, Novum Instrumentum (1516) and Paraclesis",
+        "Erasmus, Enchiridion militis Christiani (1503)",
+        "Valla, Annotations on the New Testament"
+      ],
+      "origin": "Grew from 14th-15th-century Italian humanism (Petrarch, Valla) and spread north through John Colet, Thomas More, Jacques Lefèvre d’Étaples, Cardinal Cisneros (Complutensian Polyglot) and Erasmus, whose Greek New Testament (1516) supplied the text used by Luther and Tyndale.",
+      "originYear": 1516,
+      "proponentIds": [
+        "erasmus",
+        "lorenzo-valla"
+      ],
+      "proponentsOther": [
+        "John Colet",
+        "Thomas More",
+        "Jacques Lefèvre d’Étaples",
+        "Francisco Jiménez de Cisneros",
+        "Johannes Reuchlin"
+      ],
+      "traditionIds": [
+        "catholic",
+        "reformed",
+        "anglican"
+      ],
+      "strongestArguments": [
+        "It restored accurate texts of Scripture and the Fathers.",
+        "It united learning with moral and educational reform.",
+        "It equipped both Protestant and Catholic reformers."
+      ],
+      "strongestObjections": [
+        "Luther charged Erasmus with moralism and a weak doctrine of grace and the will (1524-25).",
+        "Scholastic theologians accused humanists of doctrinal amateurism.",
+        "Its critical tools could later be turned against traditional doctrines."
+      ],
+      "responses": [
+        "Humanists answered that true doctrine grows from the sources themselves and that their critics had abandoned them."
+      ],
+      "consequences": [
+        "Greek New Testament and vernacular translations.",
+        "Reformed and Jesuit educational systems.",
+        "Foundations of textual criticism."
+      ],
+      "relatedPositionIds": [
+        "scripture-and-tradition",
+        "sola-scriptura",
+        "protestant-scholasticism"
+      ],
+      "standing": "historic",
+      "sources": [
+        "macculloch-reformation",
+        "mcgrath-reformation-thought",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "protestant-scholasticism",
+      "doctrineId": "theological-schools",
+      "name": "Protestant scholasticism (Lutheran and Reformed orthodoxy)",
+      "altNames": [
+        "Confessional orthodoxy",
+        "Reformed orthodoxy",
+        "Lutheran orthodoxy"
+      ],
+      "oneLine": "The Reformation’s confessions were taught, defended and systematised for universities using refined scholastic method, so that the churches of the Reformation would have a complete, defensible body of divinity.",
+      "coreClaims": [
+        "Theology is arranged in loci (topics) and disputations, drawing on Aristotle’s logic and medieval distinctions as tools.",
+        "Scripture is the sole principle (principium cognoscendi) of theology, verbally inspired and self-authenticating.",
+        "Confessions (Augsburg, Formula of Concord, Belgic, Westminster, Dort) state the faith of the church.",
+        "Theology is both theoretical and practical: it aims at God and at living for God."
+      ],
+      "keyTexts": [
+        "2 Timothy 3:16-17",
+        "Titus 1:9",
+        "Gerhard, Loci theologici",
+        "Turretin, Institutes of Elenctic Theology",
+        "Westminster Confession 1.1-10"
+      ],
+      "origin": "Developed from the 1560s (Beza, Zanchi, Chemnitz) and flourished c.1590-1700 (Gerhard, Quenstedt; Polanus, Voetius, Turretin, Owen) in Wittenberg, Jena, Geneva, Leiden, Utrecht and Oxford. Richard Muller and others argue it continued rather than betrayed the Reformers.",
+      "originYear": 1610,
+      "proponentIds": [
+        "johann-gerhard",
+        "francis-turretin",
+        "theodore-beza",
+        "john-owen"
+      ],
+      "proponentsOther": [
+        "Martin Chemnitz",
+        "Johann Andreas Quenstedt",
+        "Girolamo Zanchi",
+        "Amandus Polanus",
+        "Gisbertus Voetius",
+        "Petrus van Mastricht"
+      ],
+      "traditionIds": [
+        "lutheran",
+        "reformed",
+        "presbyterian"
+      ],
+      "strongestArguments": [
+        "It gave Protestant churches a coherent, teachable doctrine able to answer Catholic, Socinian and Remonstrant critics.",
+        "It preserved continuity with the catholic and medieval tradition.",
+        "Its works remain a treasury of exegesis and doctrine (e.g. Owen, Turretin)."
+      ],
+      "strongestObjections": [
+        "Pietists and later historians called it \"dead orthodoxy\": intellectualist and polemical.",
+        "Some (e.g. the \"Calvin against the Calvinists\" thesis) argued it distorted the Reformers by making predestination a central dogma.",
+        "Enlightenment critics found its verbal inspiration and confessionalism untenable."
+      ],
+      "responses": [
+        "Muller and others show that orthodoxy was pious and practical, varied, and exegetically serious, and that method is not content.",
+        "Its renaissance in recent Reformed and Lutheran scholarship reflects a reassessment."
+      ],
+      "consequences": [
+        "Westminster Standards and Formula of Concord as teaching norms.",
+        "Princeton theology and modern confessional Protestantism."
+      ],
+      "relatedPositionIds": [
+        "puritan-theology",
+        "pietist-theology",
+        "calvinism-tulip",
+        "inerrancy",
+        "sola-scriptura"
+      ],
+      "standing": "significant",
+      "sources": [
+        "muller-prrd",
+        "muller-calvin-after",
+        "mcgrath-historical-theology"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "puritan-theology",
+      "doctrineId": "theological-schools",
+      "name": "Puritan theology and practical divinity",
+      "altNames": [
+        "Puritanism",
+        "Experimental divinity",
+        "Practical divinity"
+      ],
+      "oneLine": "Reformed doctrine must be preached plainly, applied to the conscience and lived out in the whole of life: theology is the science of living to God.",
+      "coreClaims": [
+        "The Bible regulates worship and life; the church should be further reformed.",
+        "Covenant theology frames God’s dealings with humanity.",
+        "Assurance, conversion and sanctification are traced in the soul (\"experimental\" religion).",
+        "Plain-style preaching, family worship, Sabbath and meditation shape a godly commonwealth."
+      ],
+      "keyTexts": [
+        "2 Timothy 3:16-17",
+        "2 Peter 1:10",
+        "Perkins, A Golden Chaine",
+        "Ames, Marrow of Theology",
+        "Baxter, Christian Directory",
+        "Westminster Standards"
+      ],
+      "origin": "Arose among English Protestants dissatisfied with the Elizabethan settlement (1560s); its theology was shaped by William Perkins (1590s), William Ames, Richard Sibbes, John Owen, Richard Baxter and, in New England, Thomas Hooker and later Jonathan Edwards.",
+      "originYear": 1590,
+      "proponentIds": [
+        "william-perkins",
+        "john-owen",
+        "richard-baxter",
+        "jonathan-edwards"
+      ],
+      "proponentsOther": [
+        "William Ames",
+        "Richard Sibbes",
+        "Thomas Goodwin",
+        "Thomas Hooker",
+        "John Bunyan",
+        "Anne Bradstreet"
+      ],
+      "traditionIds": [
+        "anglican",
+        "presbyterian",
+        "congregationalist",
+        "baptist"
+      ],
+      "strongestArguments": [
+        "It joined rigorous doctrine to deep pastoral and devotional application.",
+        "Its covenant theology and casuistry gave believers practical guidance.",
+        "It shaped democratic and educational institutions in Britain and America."
+      ],
+      "strongestObjections": [
+        "Critics said it bred introspection and anxiety over assurance.",
+        "Its moral rigor and Sabbatarianism were attacked as legalistic; its political wing ended in civil war.",
+        "Anglicans argued its regulative principle was unhistorical and divisive."
+      ],
+      "responses": [
+        "Puritans pointed to the many consolatory works (Sibbes, The Bruised Reed) and saw introspection as a means to joyful assurance.",
+        "Their revival in 20th-century evangelicalism (Lloyd-Jones, Packer) testifies to their pastoral usefulness."
+      ],
+      "consequences": [
+        "Westminster Assembly; Congregationalist and Baptist churches; New England.",
+        "Classic devotional literature (Pilgrim’s Progress)."
+      ],
+      "relatedPositionIds": [
+        "protestant-scholasticism",
+        "pietist-theology",
+        "federal-forensic-framework",
+        "evangelicalism"
+      ],
+      "standing": "historic",
+      "sources": [
+        "coffey-lim-puritanism",
+        "macculloch-reformation",
+        "noll-turning-points"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "pietist-theology",
+      "doctrineId": "theological-schools",
+      "name": "Pietism as a theological reform",
+      "altNames": [
+        "German Pietism",
+        "Hallensian Pietism",
+        "Heart religion"
+      ],
+      "oneLine": "Living faith, new birth and practical holiness matter more than correct doctrine alone; theology should be renewed by Bible study, the priesthood of believers and training of pastors in piety.",
+      "coreClaims": [
+        "Rebirth (Wiedergeburt) and a living relationship with Christ are the heart of Christianity.",
+        "Christianity consists more in practice than in knowledge.",
+        "Small groups (collegia pietatis) for Bible study express the priesthood of all believers.",
+        "Theological training must form godly pastors, and controversy should be conducted with charity.",
+        "Faith works through love in education, social care and mission."
+      ],
+      "keyTexts": [
+        "John 3:3-7",
+        "1 Peter 2:9",
+        "James 2:17",
+        "Spener, Pia Desideria",
+        "Arndt, True Christianity"
+      ],
+      "origin": "Prepared by Johann Arndt’s True Christianity (1605-10) and launched by Philipp Jakob Spener’s Pia Desideria (1675); institutionalised by August Hermann Francke at Halle (from 1692) and carried into the Moravian renewal by Zinzendorf (1727).",
+      "originYear": 1675,
+      "proponentIds": [
+        "philipp-jakob-spener",
+        "august-hermann-francke",
+        "nicolaus-zinzendorf"
+      ],
+      "proponentsOther": [
+        "Johann Arndt",
+        "Johann Albrecht Bengel",
+        "Gottfried Arnold"
+      ],
+      "traditionIds": [
+        "lutheran",
+        "hussite-moravian",
+        "reformed"
+      ],
+      "strongestArguments": [
+        "It renewed personal faith and lay participation in Lutheran and Reformed churches.",
+        "It pioneered Protestant mission, education and social welfare.",
+        "It is the spiritual root of Methodism and modern evangelicalism."
+      ],
+      "strongestObjections": [
+        "Lutheran orthodox critics (e.g. Valentin Löscher) said it subordinated objective means of grace to subjective experience.",
+        "Its separatist fringe fractured congregations.",
+        "Its emphasis on feeling arguably prepared the way for Schleiermacher’s experiential liberalism."
+      ],
+      "responses": [
+        "Pietists replied that they upheld the confessions but wished them lived.",
+        "Recent scholarship stresses Pietism’s intellectual and scientific achievements (Bengel’s textual criticism)."
+      ],
+      "consequences": [
+        "Halle and Moravian missions; Methodism; evangelicalism.",
+        "Small-group and devotional culture in Protestantism."
+      ],
+      "relatedPositionIds": [
+        "protestant-scholasticism",
+        "puritan-theology",
+        "evangelicalism",
+        "liberal-protestantism"
+      ],
+      "standing": "historic",
+      "sources": [
+        "shantz-pietism",
+        "ward-protestant-awakening",
+        "gonzalez-story"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "enlightenment-deism",
+      "doctrineId": "theological-schools",
+      "name": "Enlightenment rationalism and Deism",
+      "altNames": [
+        "Deism",
+        "Natural religion",
+        "Rational supernaturalism (moderate wing)"
+      ],
+      "oneLine": "Reason is the judge of revelation: true religion consists of what reason can know (God, morality, immortality), and anything contrary to reason, or in the radical Deist view anything beyond it, must be rejected.",
+      "coreClaims": [
+        "A universal natural religion (one God, virtue, future rewards) is available to all by reason.",
+        "Revelation can at most republish natural religion; miracles and mysteries are doubtful.",
+        "Priestcraft and dogma corrupted Jesus’ simple moral teaching.",
+        "Religious toleration follows from the limits of certainty."
+      ],
+      "keyTexts": [
+        "Herbert of Cherbury, De Veritate (1624)",
+        "Locke, The Reasonableness of Christianity (1695)",
+        "Toland, Christianity not Mysterious (1696)",
+        "Tindal, Christianity as Old as the Creation (1730)",
+        "Kant, Religion within the Bounds of Mere Reason (1793)"
+      ],
+      "origin": "Grew in England after the wars of religion (Herbert of Cherbury 1624; Toland 1696; Tindal 1730), then in France (Voltaire) and Germany (Reimarus, Lessing, Kant). Moderate \"rational supernaturalists\" such as Locke and Samuel Clarke defended revelation on rational grounds.",
+      "originYear": 1696,
+      "proponentIds": [
+        "john-toland",
+        "immanuel-kant"
+      ],
+      "proponentsOther": [
+        "Edward Herbert of Cherbury",
+        "Matthew Tindal",
+        "Voltaire",
+        "Hermann Samuel Reimarus",
+        "Gotthold Ephraim Lessing",
+        "Thomas Jefferson",
+        "Thomas Paine"
+      ],
+      "traditionIds": [],
+      "strongestArguments": [
+        "It answered religious warfare with a call to tolerance and shared reason.",
+        "It forced theology to give reasons and to face historical questions about the Bible.",
+        "It stressed ethics as the test of religion."
+      ],
+      "strongestObjections": [
+        "Joseph Butler’s Analogy (1736) argued that nature is as mysterious as revelation, so Deist objections cut both ways.",
+        "Hume showed that reason could not easily establish even natural religion.",
+        "Orthodox and evangelical critics said it reduced Christianity to morality and removed grace, Christ and redemption."
+      ],
+      "responses": [
+        "Deists claimed to restore the pure religion of Jesus, which Jefferson tried to extract in his Bible."
+      ],
+      "consequences": [
+        "Unitarianism; historical criticism of the Bible (Reimarus’ fragments, 1774-78).",
+        "Separation of church and state ideals."
+      ],
+      "relatedPositionIds": [
+        "liberal-protestantism",
+        "unitarian-theology",
+        "historical-critical-method"
+      ],
+      "standing": "historic",
+      "sources": [
+        "byrne-natural-religion",
+        "pelikan-christian-tradition",
+        "gonzalez-thought"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "existentialist-theology",
+      "doctrineId": "theological-schools",
+      "name": "Existentialist theology (Tillich, Bultmann)",
+      "altNames": [
+        "Existential interpretation",
+        "Demythologising",
+        "Theology of correlation"
+      ],
+      "oneLine": "The gospel addresses the human situation of anxiety, guilt and finitude; its mythological language must be interpreted existentially so that it calls modern people to authentic existence and faith.",
+      "coreClaims": [
+        "The New Testament world-picture is mythological; its kerygma must be demythologised, not discarded (Bultmann).",
+        "Faith is a decision to live from God’s future rather than from one’s own securities.",
+        "Theology correlates existential questions with the answers of revelation (Tillich).",
+        "God is not a being among others but being-itself, the ground of being; faith is ultimate concern."
+      ],
+      "keyTexts": [
+        "Romans 7; 2 Corinthians 5:17",
+        "John 11:25-26",
+        "Bultmann, New Testament and Mythology (1941)",
+        "Tillich, Systematic Theology; The Courage to Be (1952)"
+      ],
+      "origin": "Drawing on Kierkegaard and Heidegger, Rudolf Bultmann’s 1941 lecture launched the demythologising programme, and Paul Tillich in America built a philosophical theology of correlation. Both had roots in the dialectical revolt against liberalism but moved in different directions from Barth.",
+      "originYear": 1941,
+      "proponentIds": [
+        "rudolf-bultmann",
+        "paul-tillich",
+        "soren-kierkegaard"
+      ],
+      "proponentsOther": [
+        "Friedrich Gogarten",
+        "John Macquarrie",
+        "Gerhard Ebeling",
+        "Ernst Fuchs"
+      ],
+      "traditionIds": [
+        "lutheran"
+      ],
+      "strongestArguments": [
+        "It made the New Testament speak to modern people without demanding a pre-scientific worldview.",
+        "It takes seriously anxiety, meaninglessness and the search for authenticity.",
+        "It connected theology with philosophy, psychology and culture."
+      ],
+      "strongestObjections": [
+        "Barth and others said it turned theology into anthropology and lost the objectivity of God’s acts.",
+        "Conservatives objected that it dissolved the bodily resurrection and the historical basis of faith.",
+        "Later critics found existentialism individualistic and blind to social and political structures (Moltmann, liberation theology)."
+      ],
+      "responses": [
+        "Bultmann insisted the kerygma’s \"that\" (Christ crucified as God’s act) remains; Tillich held that symbols participate in what they point to."
+      ],
+      "consequences": [
+        "The \"new quest\" of the historical Jesus.",
+        "Death-of-God and radical theologies of the 1960s; pastoral theology influenced by psychology."
+      ],
+      "relatedPositionIds": [
+        "neo-orthodoxy",
+        "liberal-protestantism",
+        "historical-critical-method"
+      ],
+      "standing": "historic",
+      "sources": [
+        "ford-modern-theologians",
+        "mcgrath-historical-theology",
+        "gonzalez-thought"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "neo-patristic-synthesis",
+      "doctrineId": "theological-schools",
+      "name": "Neo-patristic synthesis (Florovsky, Lossky)",
+      "altNames": [
+        "Neo-patristic theology",
+        "Return to the Fathers (Orthodox)"
+      ],
+      "oneLine": "Orthodox theology must free itself from Western scholastic and idealist \"captivity\" and acquire the mind of the Fathers, rethinking their vision creatively for today, with apophaticism, deification and the essence-energies distinction at its centre.",
+      "coreClaims": [
+        "The Fathers are not a past epoch but a living norm: theology must think in their spirit (Christian Hellenism).",
+        "Doctrine and mystical experience are inseparable.",
+        "God is known apophatically and participated through uncreated energies, aiming at theosis.",
+        "Orthodox theology since the 17th century had been distorted by Latin and Protestant borrowings (\"pseudomorphosis\")."
+      ],
+      "keyTexts": [
+        "2 Peter 1:4",
+        "John 17:21-23",
+        "Florovsky, Ways of Russian Theology (1937)",
+        "Lossky, Mystical Theology of the Eastern Church (1944)"
+      ],
+      "origin": "Proclaimed by Georges Florovsky at the first Congress of Orthodox Theology at Athens (1936) and developed in the Russian emigration in Paris (Lossky, Meyendorff, Schmemann) and in Romania (Stăniloae) and Greece (Romanides, Yannaras, Zizioulas). It largely displaced the Russian religious philosophy of Soloviev and Bulgakov.",
+      "originYear": 1936,
+      "proponentIds": [
+        "georges-florovsky",
+        "vladimir-lossky",
+        "dumitru-staniloae",
+        "john-zizioulas"
+      ],
+      "proponentsOther": [
+        "John Meyendorff",
+        "Alexander Schmemann",
+        "John Romanides",
+        "Christos Yannaras",
+        "Kallistos Ware"
+      ],
+      "traditionIds": [
+        "eastern-orthodox",
+        "russian-orthodox"
+      ],
+      "strongestArguments": [
+        "It recovered the patristic and Byzantine heritage, including Palamas, for modern Orthodoxy and the West.",
+        "It gave Orthodoxy a confident voice in the ecumenical movement.",
+        "It united dogma, liturgy and spirituality."
+      ],
+      "strongestObjections": [
+        "Critics (e.g. sophiologists, some recent Orthodox scholars) say it constructed an anti-Western identity and caricatured Western theology.",
+        "Its notion of a single \"mind of the Fathers\" can flatten patristic diversity.",
+        "Western critics question the essence-energies distinction itself."
+      ],
+      "responses": [
+        "Advocates acknowledge polemical excesses but argue the core recovery of the Fathers stands; Florovsky himself was a committed ecumenist."
+      ],
+      "consequences": [
+        "Shaped Orthodox seminaries (St Vladimir’s, St Sergius) and ecumenical dialogue.",
+        "Western rediscovery of theosis and Palamas."
+      ],
+      "relatedPositionIds": [
+        "palamite-essence-energies",
+        "theosis",
+        "holy-tradition-orthodox",
+        "nouvelle-theologie"
+      ],
+      "standing": "significant",
+      "sources": [
+        "gavrilyuk-florovsky",
+        "ware-orthodox-church",
+        "lossky-mystical",
+        "ford-modern-theologians"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "nouvelle-theologie",
+      "doctrineId": "theological-schools",
+      "name": "Nouvelle théologie and ressourcement",
+      "altNames": [
+        "Ressourcement",
+        "New theology (opponents’ label)"
+      ],
+      "oneLine": "Catholic theology should be renewed not by abstract neo-scholastic manuals but by a return to the sources: Scripture, the Fathers, the liturgy and the authentic Aquinas, read historically and in dialogue with modern life.",
+      "coreClaims": [
+        "Theology is historical: doctrines must be understood in their development and original contexts.",
+        "Nature is oriented to God by a natural desire for the supernatural; there is no sealed-off \"pure nature\".",
+        "The Church is the body of Christ formed by the Eucharist, a sacrament of communion for all humanity.",
+        "Renewal (aggiornamento) comes through return to the sources (ressourcement)."
+      ],
+      "keyTexts": [
+        "Matthew 13:52",
+        "De Lubac, Catholicism (1938); Surnaturel (1946)",
+        "Congar, True and False Reform in the Church (1950)",
+        "Sources Chrétiennes (from 1942)"
+      ],
+      "origin": "Emerged among French Jesuits at Lyon-Fourvière (de Lubac, Daniélou) and Dominicans at Le Saulchoir (Chenu, Congar) in the 1930s-40s; the label was coined by its critic Réginald Garrigou-Lagrange in 1946. Censured indirectly by Humani Generis (1950), its leaders became architects of Vatican II.",
+      "originYear": 1946,
+      "proponentIds": [
+        "henri-de-lubac",
+        "yves-congar",
+        "hans-urs-von-balthasar"
+      ],
+      "proponentsOther": [
+        "Jean Daniélou",
+        "Marie-Dominique Chenu",
+        "Louis Bouyer",
+        "Joseph Ratzinger (Benedict XVI)"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "strongestArguments": [
+        "It reconnected theology with Scripture, the Fathers, liturgy and spirituality.",
+        "It shaped Vatican II’s constitutions on revelation and the Church.",
+        "It opened Catholicism to ecumenical and Orthodox dialogue."
+      ],
+      "strongestObjections": [
+        "Neo-Thomists charged it with historical relativism and with compromising the gratuity of grace.",
+        "Some later critics argue that it weakened doctrinal clarity after the Council.",
+        "Progressives in turn found its later representatives (Balthasar, Ratzinger) too conservative."
+      ],
+      "responses": [
+        "Ressourcement theologians insisted they were faithful to Aquinas read in context and that return to sources serves tradition."
+      ],
+      "consequences": [
+        "Vatican II documents Dei Verbum and Lumen Gentium.",
+        "Communio school (Balthasar, Ratzinger) and Sources Chrétiennes series."
+      ],
+      "relatedPositionIds": [
+        "thomism",
+        "neo-patristic-synthesis",
+        "radical-orthodoxy",
+        "monastic-theology"
+      ],
+      "standing": "significant",
+      "sources": [
+        "flynn-murray-ressourcement",
+        "omalley-vatican-ii",
+        "ford-modern-theologians"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "radical-orthodoxy",
+      "doctrineId": "theological-schools",
+      "name": "Radical Orthodoxy",
+      "altNames": [
+        "RO"
+      ],
+      "oneLine": "Secular reason is not neutral but a heretical theology in disguise; Christianity should recover a participatory, Platonic-Augustinian ontology in which all reality shares in God, and out-narrate modernity.",
+      "coreClaims": [
+        "Every account of reality is implicitly theological; there is no neutral secular ground.",
+        "Creation participates in God; the late-medieval turn to univocity and nominalism severed this and produced modernity.",
+        "The Church’s liturgy and community embody an ontology of peace against the ontology of violence.",
+        "Theology may speak about every field: politics, economics, aesthetics, science."
+      ],
+      "keyTexts": [
+        "Colossians 1:16-17",
+        "Acts 17:28",
+        "Milbank, Theology and Social Theory (1990)",
+        "Milbank, Pickstock and Ward (eds.), Radical Orthodoxy (1999)"
+      ],
+      "origin": "Launched at Cambridge by John Milbank’s Theology and Social Theory (1990) and the collection Radical Orthodoxy (1999) with Catherine Pickstock and Graham Ward, drawing on Augustine, Aquinas, de Lubac and postmodern philosophy.",
+      "originYear": 1990,
+      "proponentIds": [
+        "john-milbank"
+      ],
+      "proponentsOther": [
+        "Catherine Pickstock",
+        "Graham Ward",
+        "James K. A. Smith (Reformed interlocutor)"
+      ],
+      "traditionIds": [
+        "anglican",
+        "catholic"
+      ],
+      "strongestArguments": [
+        "It exposes hidden assumptions in secular social theory.",
+        "It recovers a sacramental vision of creation shared with patristic and Orthodox theology.",
+        "It energised Christian engagement with philosophy and politics."
+      ],
+      "strongestObjections": [
+        "Historians dispute its genealogy blaming Scotus and Ockham for modernity.",
+        "Critics find it triumphalist, idealised about the Church and weak on Scripture.",
+        "Protestants question its sacramental ontology; others its dense, polemical style."
+      ],
+      "responses": [
+        "Proponents say the genealogy is a theological narrative, not a mere history, and that idealising the Church is a call to repentance."
+      ],
+      "consequences": [
+        "Influenced political theology and debates on secularism.",
+        "Revived interest in participation and Christian Platonism."
+      ],
+      "relatedPositionIds": [
+        "nouvelle-theologie",
+        "postliberal-theology",
+        "scotism",
+        "nominalism-via-moderna"
+      ],
+      "standing": "minority",
+      "sources": [
+        "milbank-theology-social-theory",
+        "ford-modern-theologians"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "postliberal-theology",
+      "doctrineId": "theological-schools",
+      "name": "Postliberal theology (Lindbeck, Frei, Hauerwas)",
+      "altNames": [
+        "Yale school",
+        "Narrative theology",
+        "Cultural-linguistic theology"
+      ],
+      "oneLine": "Christianity is like a language and culture: doctrine is the grammar of a community whose identity is formed by the biblical story, so the Church should absorb the world into the text rather than translate the text into the world’s terms.",
+      "coreClaims": [
+        "Religions are cultural-linguistic systems that shape experience, rather than expressions of a prior universal experience.",
+        "Doctrines function as rules for speech and practice.",
+        "Scripture is read as a realistic narrative identifying Jesus Christ (Frei); intratextuality.",
+        "The Church is a distinct community whose faithfulness is its social ethic (Hauerwas)."
+      ],
+      "keyTexts": [
+        "Lindbeck, The Nature of Doctrine (1984)",
+        "Frei, The Eclipse of Biblical Narrative (1974)",
+        "Hauerwas, A Community of Character (1981)",
+        "Matthew 5:14"
+      ],
+      "origin": "Developed at Yale by George Lindbeck and Hans Frei, building on Barth and Wittgenstein; popularised by Stanley Hauerwas and William Willimon (Resident Aliens, 1989).",
+      "originYear": 1984,
+      "proponentIds": [
+        "george-lindbeck",
+        "stanley-hauerwas",
+        "karl-barth"
+      ],
+      "proponentsOther": [
+        "Hans Frei",
+        "William Willimon",
+        "Ronald Thiemann",
+        "George Hunsinger"
+      ],
+      "traditionIds": [
+        "lutheran",
+        "methodist",
+        "anglican"
+      ],
+      "strongestArguments": [
+        "It frees theology from having to justify itself by liberal or rationalist criteria.",
+        "It recovers the Bible’s narrative shape and the formative role of the Church.",
+        "It offered an ecumenical model for doctrinal reconciliation."
+      ],
+      "strongestObjections": [
+        "Evangelicals and Catholics asked whether it weakens doctrine’s claim to be true about reality (Carl Henry’s critique of Frei).",
+        "Liberals charged it with fideism and sectarian withdrawal.",
+        "Others question its idealised picture of church communities."
+      ],
+      "responses": [
+        "Postliberals answer that doctrine can be true when used rightly within practice and that witness, not withdrawal, is intended."
+      ],
+      "consequences": [
+        "Influenced theological interpretation of Scripture and ecclesial ethics.",
+        "Shaped ecumenical dialogue and some evangelical theology."
+      ],
+      "relatedPositionIds": [
+        "neo-orthodoxy",
+        "radical-orthodoxy",
+        "liberal-protestantism",
+        "evangelicalism"
+      ],
+      "standing": "minority",
+      "sources": [
+        "lindbeck-nature-doctrine",
+        "ford-modern-theologians"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "black-theology",
+      "doctrineId": "theological-schools",
+      "name": "Black theology",
+      "altNames": [
+        "Black liberation theology",
+        "South African Black theology"
+      ],
+      "oneLine": "God reveals himself in Jesus as the liberator of the oppressed; in a society structured by white racism, the gospel is good news of Black liberation and theology must speak from the Black experience.",
+      "coreClaims": [
+        "The Exodus and Jesus’ ministry to the poor show that God sides with the oppressed.",
+        "Black experience, history and culture (spirituals, blues, sermons) are sources of theology.",
+        "White theology has often served racism and must be confronted.",
+        "Christ is \"Black\" in that he identifies with the suffering and struggle of Black people."
+      ],
+      "keyTexts": [
+        "Exodus 3:7-8",
+        "Luke 4:18-19",
+        "Matthew 25:31-46",
+        "Cone, Black Theology and Black Power (1969)",
+        "Boesak, Farewell to Innocence (1976)"
+      ],
+      "origin": "Emerged in the United States in 1969 with James Cone amid the civil rights and Black Power movements (the National Committee of Black Churchmen) and in South Africa in the early 1970s within the Black Consciousness movement (Allan Boesak, Manas Buthelezi), feeding the struggle against apartheid.",
+      "originYear": 1969,
+      "proponentIds": [
+        "james-cone",
+        "desmond-tutu",
+        "martin-luther-king-jr"
+      ],
+      "proponentsOther": [
+        "J. Deotis Roberts",
+        "Gayraud Wilmore",
+        "Allan Boesak",
+        "Manas Buthelezi",
+        "Itumeleng Mosala"
+      ],
+      "traditionIds": [
+        "methodist",
+        "baptist",
+        "reformed"
+      ],
+      "strongestArguments": [
+        "It speaks from the long experience of Black churches and their faith under slavery and segregation.",
+        "It recovers the Bible’s concern for justice and the poor.",
+        "It exposed the complicity of much theology with racism and apartheid."
+      ],
+      "strongestObjections": [
+        "Some critics said it subordinates the gospel to a political programme or racial identity.",
+        "J. Deotis Roberts and others urged more emphasis on reconciliation; womanists criticised its early neglect of gender.",
+        "Conservative critics question its use of experience as a norm alongside Scripture."
+      ],
+      "responses": [
+        "Cone replied that there is no reconciliation without liberation, and that all theology is contextual, white theology included."
+      ],
+      "consequences": [
+        "Influenced the Kairos Document (1985) and anti-apartheid theology.",
+        "Black church studies and womanist theology."
+      ],
+      "relatedPositionIds": [
+        "liberation-theology",
+        "feminist-womanist-theology",
+        "african-theology",
+        "abolitionism"
+      ],
+      "standing": "significant",
+      "sources": [
+        "cone-black-theology-power",
+        "ford-modern-theologians",
+        "kairos-document-1985"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "feminist-womanist-theology",
+      "doctrineId": "theological-schools",
+      "name": "Feminist and womanist theology",
+      "altNames": [
+        "Feminist theology",
+        "Womanist theology",
+        "Mujerista theology",
+        "African women’s theology"
+      ],
+      "oneLine": "Women’s experience is a neglected source and test of theology: patriarchal readings and images of God must be critiqued, and the liberating, egalitarian strands of Scripture and tradition recovered, with Black, Latina and African women naming their own distinct experiences.",
+      "coreClaims": [
+        "Women and men are equally the image of God (Genesis 1:27) and one in Christ (Galatians 3:28).",
+        "Whatever diminishes the full humanity of women is not redemptive (Ruether).",
+        "Exclusive male language for God and male-only leadership reflect culture more than revelation.",
+        "Womanist theology (Williams, Grant, Cannon) centres Black women’s survival; African women’s theology (Oduyoye) addresses culture and church."
+      ],
+      "keyTexts": [
+        "Genesis 1:27",
+        "Galatians 3:28",
+        "Luke 8:1-3",
+        "Romans 16:1-7",
+        "Genesis 16; 21 (Hagar)"
+      ],
+      "origin": "Grew from the 1960s women’s movement (Valerie Saiving’s 1960 essay; Mary Daly 1968) into systematic work by Rosemary Radford Ruether, Elisabeth Schüssler Fiorenza and Elizabeth Johnson; womanist theology from Delores Williams, Jacquelyn Grant and Katie Cannon (1980s-90s); the Circle of Concerned African Women Theologians from 1989.",
+      "originYear": 1960,
+      "proponentIds": [
+        "rosemary-radford-ruether",
+        "delores-williams",
+        "mercy-amba-oduyoye"
+      ],
+      "proponentsOther": [
+        "Valerie Saiving",
+        "Elisabeth Schüssler Fiorenza",
+        "Elizabeth A. Johnson",
+        "Jacquelyn Grant",
+        "Katie Cannon",
+        "Ada María Isasi-Díaz",
+        "Sarah Coakley (critical interlocutor)"
+      ],
+      "traditionIds": [
+        "catholic",
+        "presbyterian",
+        "methodist",
+        "anglican"
+      ],
+      "strongestArguments": [
+        "It recovers women’s voices and roles in Scripture and church history.",
+        "It exposes ways theology has justified domination.",
+        "Womanist and global voices ensure that \"women’s experience\" is not universalised from white Western women."
+      ],
+      "strongestObjections": [
+        "Traditionalists argue it subordinates revelation to experience and changes the names of God given by Christ.",
+        "Some critics see radical forms (e.g. post-Christian feminism) as leaving Christianity behind.",
+        "Womanist critics charged early feminism with racial blindness."
+      ],
+      "responses": [
+        "Many feminist theologians remain within orthodox frameworks, arguing that critique serves faithfulness; evangelical egalitarians make similar exegetical arguments."
+      ],
+      "consequences": [
+        "Debates over women’s ordination and inclusive language.",
+        "New readings of Scripture and history."
+      ],
+      "relatedPositionIds": [
+        "womens-ordination-affirmed",
+        "black-theology",
+        "liberation-theology"
+      ],
+      "standing": "significant",
+      "sources": [
+        "ruether-sexism-god-talk",
+        "williams-sisters-wilderness",
+        "ford-modern-theologians"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "african-theology",
+      "doctrineId": "theological-schools",
+      "name": "African theology",
+      "altNames": [
+        "African Christian theology",
+        "Inculturation theology",
+        "African evangelical theology"
+      ],
+      "oneLine": "God was already known and at work in Africa before missionaries; the gospel must be expressed in African languages, cultures and religious categories, as the early Church expressed it in Greek ones.",
+      "coreClaims": [
+        "African traditional religion is a preparation for the gospel (praeparatio evangelica).",
+        "Mother-tongue Scripture makes Christianity a non-Western religion in Africa (Sanneh, Bediako).",
+        "Ancestors, community, healing and the spirit world are theological questions, not superstitions to be ignored.",
+        "African Christianity continues the early African church of Tertullian, Cyprian and Augustine."
+      ],
+      "keyTexts": [
+        "Acts 14:17",
+        "Acts 17:22-31",
+        "Hebrews 1:1",
+        "Mbiti, African Religions and Philosophy (1969)",
+        "Bediako, Theology and Identity (1992)"
+      ],
+      "origin": "Began with Des prêtres noirs s’interrogent (1956), by francophone Catholic priests, and with the Ecumenical Association of African Theologians (1977); shaped by John Mbiti, Bolaji Idowu, Harry Sawyerr, Kwame Bediako, Mercy Amba Oduyoye, Jean-Marc Éla and Lamin Sanneh, and expressed in African Independent and Pentecostal churches.",
+      "originYear": 1956,
+      "proponentIds": [
+        "john-mbiti",
+        "kwame-bediako",
+        "mercy-amba-oduyoye",
+        "desmond-tutu"
+      ],
+      "proponentsOther": [
+        "E. Bolaji Idowu",
+        "Harry Sawyerr",
+        "Lamin Sanneh",
+        "Jean-Marc Éla",
+        "Charles Nyamiti",
+        "Byang Kato (evangelical critic)"
+      ],
+      "traditionIds": [
+        "anglican",
+        "catholic",
+        "presbyterian",
+        "methodist",
+        "african-initiated-churches"
+      ],
+      "strongestArguments": [
+        "It makes Christianity at home in Africa rather than a foreign import.",
+        "It draws on the reality that Africa is now a demographic centre of world Christianity.",
+        "It recovers neglected biblical themes (the spirit world, community, healing)."
+      ],
+      "strongestObjections": [
+        "Evangelicals such as Byang Kato warned of syncretism and universalism.",
+        "Liberation-oriented African theologians said inculturation neglected poverty and politics.",
+        "Some argue it idealises a single \"African\" worldview across diverse cultures."
+      ],
+      "responses": [
+        "Bediako argued that Christ is the fulfilment, not the negation, of the African past, and that all theology is culturally embedded."
+      ],
+      "consequences": [
+        "Liturgical inculturation (e.g. the Zaire Use of the Roman Rite, 1988).",
+        "Academic centres such as Akrofi-Christaller Institute."
+      ],
+      "relatedPositionIds": [
+        "global-south-christianity",
+        "black-theology",
+        "asian-contextual-theologies",
+        "pentecostal-theology"
+      ],
+      "standing": "significant",
+      "sources": [
+        "parratt-reinventing",
+        "bediako-theology-identity",
+        "mbiti-african-religions",
+        "sanneh-whose-religion"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "asian-contextual-theologies",
+      "doctrineId": "theological-schools",
+      "name": "Asian contextual theologies (minjung, Dalit and others)",
+      "altNames": [
+        "Minjung theology",
+        "Dalit theology",
+        "Waterbuffalo theology",
+        "Theology of the pain of God"
+      ],
+      "oneLine": "Christian theology in Asia must speak from Asia’s religious plurality, its poverty and its suffering peoples, using Asian stories and categories rather than imported Western systems.",
+      "coreClaims": [
+        "God is revealed among the suffering: the minjung (Korea) and the Dalits (India) are subjects of theology.",
+        "Asian religious traditions and stories are conversation partners for theology.",
+        "The pain or compassion of God is central (Kitamori, Song).",
+        "Theology begins with the neighbour and the concrete situation (Koyama)."
+      ],
+      "keyTexts": [
+        "Mark 2:13-17 (ochlos)",
+        "Isaiah 53",
+        "Jeremiah 31:20",
+        "Kitamori, Theology of the Pain of God (1946)",
+        "Koyama, Waterbuffalo Theology (1974)",
+        "Ahn Byung-mu, Jesus and the Minjung (1977)"
+      ],
+      "origin": "Pioneered by Kazoh Kitamori in Japan (1946), M. M. Thomas in India, Kosuke Koyama and C. S. Song (1970s), Korean minjung theologians under dictatorship (1970s) and Dalit theologians such as Arvind Nirmal (1980s); Aloysius Pieris in Sri Lanka joined liberation and Buddhist dialogue.",
+      "originYear": 1946,
+      "proponentIds": [
+        "kosuke-koyama",
+        "c-s-song",
+        "ahn-byung-mu",
+        "toyohiko-kagawa"
+      ],
+      "proponentsOther": [
+        "Kazoh Kitamori",
+        "M. M. Thomas",
+        "Arvind P. Nirmal",
+        "Aloysius Pieris",
+        "Suh Nam-dong",
+        "Chung Hyun Kyung"
+      ],
+      "traditionIds": [
+        "presbyterian",
+        "reformed",
+        "catholic",
+        "anglican"
+      ],
+      "strongestArguments": [
+        "It makes theology answerable to Asia’s majority poor and to its ancient religious cultures.",
+        "It recovers biblical solidarity with the suffering.",
+        "It enriches global theology with new images (the pain of God, han, waterbuffalo)."
+      ],
+      "strongestObjections": [
+        "Asian evangelicals and Pentecostals, who are numerically far stronger, often regard it as elite and syncretistic.",
+        "Critics say minjung theology risked identifying a social class with Christ.",
+        "Others note that Asian Christians in persecuted churches prefer traditional doctrine."
+      ],
+      "responses": [
+        "Contextual theologians respond that all theology is contextual and that solidarity with sufferers is biblical."
+      ],
+      "consequences": [
+        "Influence on Asian ecumenical bodies (Christian Conference of Asia).",
+        "Dalit Christian movements in India."
+      ],
+      "relatedPositionIds": [
+        "liberation-theology",
+        "african-theology",
+        "global-south-christianity"
+      ],
+      "standing": "minority",
+      "sources": [
+        "england-asian-theologies",
+        "moffett-asia",
+        "kim-korea"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "pentecostal-theology",
+      "doctrineId": "theological-schools",
+      "name": "Pentecostal theology",
+      "altNames": [
+        "Pentecostal-charismatic theology",
+        "Pneumatological theology"
+      ],
+      "oneLine": "Theology should be shaped by the experience of the Spirit poured out on all flesh: a \"full gospel\" of Jesus as Saviour, Sanctifier, Spirit-baptiser, Healer and coming King, articulated through testimony, worship and mission.",
+      "coreClaims": [
+        "The Spirit’s experiential presence (tongues, healing, prophecy) is normal Christianity.",
+        "Theology is done in worship, testimony and mission as much as in study (orthopathy with orthodoxy and orthopraxy).",
+        "The \"fivefold\" or \"full\" gospel structures the narrative of salvation.",
+        "Pentecost’s many tongues legitimate many contextual voices (Yong)."
+      ],
+      "keyTexts": [
+        "Acts 2:1-21",
+        "Joel 2:28-32",
+        "Mark 16:17-18",
+        "Land, Pentecostal Spirituality (1993)",
+        "Yong, The Spirit Poured Out on All Flesh (2005)"
+      ],
+      "origin": "Pentecostals were long suspicious of academic theology, but from the founding of the Society for Pentecostal Studies (1970) and the Journal of Pentecostal Theology (1992) a scholarly tradition emerged: Walter Hollenweger, Steven Land, Frank Macchia, Simon Chan, Veli-Matti Kärkkäinen, Amos Yong, Opoku Onyinah.",
+      "originYear": 1970,
+      "proponentIds": [
+        "amos-yong",
+        "william-j-seymour"
+      ],
+      "proponentsOther": [
+        "Walter Hollenweger",
+        "Steven J. Land",
+        "Frank Macchia",
+        "Simon Chan",
+        "Veli-Matti Kärkkäinen",
+        "Opoku Onyinah",
+        "Cheryl Bridges Johns"
+      ],
+      "traditionIds": [
+        "pentecostal",
+        "assemblies-of-god",
+        "charismatic-renewal",
+        "neo-charismatic"
+      ],
+      "strongestArguments": [
+        "It reflects the faith of the fastest-growing Christian movement of the 20th century.",
+        "It recovers the Spirit and lived experience neglected by Western theology.",
+        "It is global and grassroots, voiced largely from the Global South."
+      ],
+      "strongestObjections": [
+        "Critics say experience can override Scripture and that excesses (prosperity teaching) lack theological checks.",
+        "Cessationists reject its premise that miraculous gifts continue.",
+        "Some Pentecostals fear academic theology will domesticate the movement."
+      ],
+      "responses": [
+        "Pentecostal scholars themselves criticise prosperity teaching and argue that experience is tested by Scripture and community."
+      ],
+      "consequences": [
+        "Pentecostal seminaries and journals worldwide.",
+        "Ecumenical dialogues with Catholics and Reformed churches."
+      ],
+      "relatedPositionIds": [
+        "continuationism",
+        "pentecostal-initial-evidence",
+        "charismatic-renewal",
+        "global-south-christianity"
+      ],
+      "standing": "significant",
+      "sources": [
+        "yong-spirit-poured-out",
+        "land-pentecostal-spirituality",
+        "anderson-pentecostalism"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "controversies": [
+    {
+      "id": "faith-and-reason-via-antiqua-moderna",
+      "question": "Can reason prove what faith believes, or must faith stand on revelation alone?",
+      "title": "Faith and reason: via antiqua versus via moderna",
+      "summary": "Medieval theologians agreed that faith and reason come from the same God, but disagreed about how far reason reaches. The realist \"via antiqua\" of Thomists (and Scotists) held that reason can demonstrate God’s existence and grasp real natures; the nominalist \"via moderna\" of Ockham and Biel limited demonstration and grounded the order of salvation in God’s free covenant. The debate shaped the Reformation, the Catholic revival of Thomism and modern disputes about natural theology.",
+      "doctrineIds": [
+        "theological-schools",
+        "salvation"
+      ],
+      "sides": [
+        {
+          "name": "Via antiqua (Thomist realism)",
+          "positionId": "thomism",
+          "steelman": "The God who gave us Scripture also gave us minds. Creation bears the marks of its Maker, so reason can know that God exists and grasp the natural law, even though the Trinity and incarnation exceed it. Faith and reason cannot contradict each other; philosophy rightly used is the handmaid of theology, and grace does not destroy nature but perfects it.",
+          "arguments": [
+            "Romans 1:20: God’s invisible attributes are clearly seen through creation",
+            "Unity of truth: God is author of both reason and revelation",
+            "Natural law makes public moral reasoning possible"
+          ],
+          "counterArguments": [
+            "Reason is darkened by sin",
+            "Aristotle’s categories may distort the gospel",
+            "Univocity and nominalist logic undermine analogy"
+          ],
+          "keyTexts": [
+            "Romans 1:19-20",
+            "Wisdom 13:1-5",
+            "Aquinas, Summa Theologiae I q.2"
+          ],
+          "quoteIds": [
+            "aquinas-grace-perfects-nature",
+            "anselm-believe-in-order-to-understand",
+            "leo-xiii-restore-aquinas"
+          ]
+        },
+        {
+          "name": "Via moderna (nominalism) and its Reformation heirs",
+          "positionId": "nominalism-via-moderna",
+          "steelman": "God is free and not bound by our philosophical necessities. What he does, he does by his own will and promise. Reason can analyse terms and arguments, but it cannot demonstrate the deep things of God; we know them by revelation. Honesty about reason’s limits honours God’s sovereignty and protects faith from depending on Aristotle.",
+          "arguments": [
+            "God’s absolute power is limited only by contradiction",
+            "Many articles of faith are indemonstrable",
+            "Economy of explanation (the razor)"
+          ],
+          "counterArguments": [
+            "Leads to fideism or voluntarism",
+            "Covenant of \"doing what is in one\" sounds semi-Pelagian",
+            "Weakens the knowability of natures and morality"
+          ],
+          "keyTexts": [
+            "1 Corinthians 1:18-25",
+            "Psalm 115:3",
+            "Ockham, Quodlibeta"
+          ],
+          "quoteIds": [
+            "ockham-plurality-necessity",
+            "luther-aristotle-darkness",
+            "tertullian-athens-jerusalem"
+          ]
+        },
+        {
+          "name": "Enlightenment rationalism",
+          "positionId": "enlightenment-deism",
+          "steelman": "If reason is God’s gift, it must judge every claim to revelation. Whatever in religion is contrary to reason cannot be from God, and the core of true religion is what every rational person can know: God, virtue and immortality.",
+          "arguments": [
+            "Universality of reason",
+            "Religious wars show the danger of unverifiable dogma"
+          ],
+          "counterArguments": [
+            "Reason itself is historically situated and fallen",
+            "Butler and Hume showed natural religion is no easier to prove"
+          ],
+          "keyTexts": [
+            "Toland, Christianity not Mysterious (1696)",
+            "Kant, Religion within the Bounds of Mere Reason (1793)"
+          ],
+          "quoteIds": [
+            "toland-nothing-above-reason",
+            "kant-courage-own-understanding"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 200,
+          "text": "Tertullian asks what Athens has to do with Jerusalem."
+        },
+        {
+          "year": 1078,
+          "text": "Anselm’s Proslogion: faith seeking understanding and the ontological argument."
+        },
+        {
+          "year": 1141,
+          "text": "Abelard condemned at Sens after Bernard’s attack on his dialectic.",
+          "eventId": "abelard-condemned-1141"
+        },
+        {
+          "year": 1265,
+          "text": "Aquinas begins the Summa Theologiae.",
+          "eventId": "aquinas-summa-1265"
+        },
+        {
+          "year": 1277,
+          "text": "Paris condemnations stress God’s absolute freedom.",
+          "eventId": "paris-condemnations-1277"
+        },
+        {
+          "year": 1324,
+          "text": "Ockham summoned to Avignon to answer charges about his teaching."
+        },
+        {
+          "year": 1517,
+          "text": "Luther’s Disputation against Scholastic Theology attacks Biel and Aristotle."
+        },
+        {
+          "year": 1696,
+          "text": "Toland’s Christianity not Mysterious opens the Deist controversy."
+        },
+        {
+          "year": 1870,
+          "text": "Vatican I teaches that God can be known with certainty by the natural light of reason (Dei Filius).",
+          "eventId": "first-vatican-council-1870"
+        },
+        {
+          "year": 1879,
+          "text": "Aeterni Patris makes Thomism normative for Catholic schools.",
+          "eventId": "aeterni-patris-1879"
+        },
+        {
+          "year": 1934,
+          "text": "Barth’s \"Nein!\" to Brunner rejects natural theology."
+        },
+        {
+          "year": 1998,
+          "text": "John Paul II’s encyclical Fides et Ratio describes faith and reason as two wings by which the spirit rises to truth."
+        }
+      ],
+      "resolution": {
+        "kind": "open",
+        "text": "Catholic teaching (Vatican I, Fides et Ratio) affirms reason’s capacity to know God while giving Aquinas special honour. Protestant traditions range from Reformed and Lutheran scholastic use of natural theology to Barthian rejection of it; Orthodox theology stresses apophatic and experiential knowledge. The question remains open across traditions."
+      },
+      "consequences": [
+        "Shaped the theological background of the Reformation.",
+        "Defined Catholic seminary education from 1879 to the 1960s.",
+        "Continues in debates over natural theology, intelligent design and public reason."
+      ],
+      "sources": [
+        "oberman-harvest",
+        "evans-medieval-theologians",
+        "pelikan-christian-tradition",
+        "thijssen-1277",
+        "mcgrath-historical-theology"
+      ]
+    },
+    {
+      "id": "liberal-vs-dialectical-theology",
+      "question": "Does theology begin from human religious experience and history, or from God’s self-revelation alone?",
+      "title": "Liberal versus neo-orthodox (dialectical) theology",
+      "summary": "Liberal Protestantism, from Schleiermacher to Harnack, rebuilt theology on religious experience, historical study and ethics. After 1914 Karl Barth and the dialectical theologians rejected this as making God a projection of human culture, insisting that God is known only in his self-revelation in Jesus Christ. Their public exchange in 1923 and the Church struggle in Nazi Germany made the dispute a defining one for 20th-century Protestantism.",
+      "doctrineIds": [
+        "theological-schools",
+        "modern-movements",
+        "scripture-authority"
+      ],
+      "sides": [
+        {
+          "name": "Liberal Protestantism",
+          "positionId": "liberal-protestantism",
+          "steelman": "Faith must be honest. Modern people cannot simply repeat ancient creeds or treat the Bible as an oracle; historical study shows how doctrines grew. Yet the essence of Christianity shines through: the God-consciousness of Jesus, the fatherhood of God, the infinite worth of the soul and the Kingdom of love. Theology must speak to educated culture and be accountable to reason and history, or it becomes arbitrary.",
+          "arguments": [
+            "Intellectual honesty and historical criticism",
+            "Religious experience as universal human reality",
+            "Ethical fruit of the Kingdom of God"
+          ],
+          "counterArguments": [
+            "Collapse of liberal culture in 1914",
+            "Reduces God to human feeling or culture"
+          ],
+          "keyTexts": [
+            "Schleiermacher, On Religion (1799); The Christian Faith (1821-22)",
+            "Harnack, What Is Christianity? (1900)"
+          ],
+          "quoteIds": [
+            "schleiermacher-absolute-dependence",
+            "harnack-father-only"
+          ]
+        },
+        {
+          "name": "Dialectical theology (neo-orthodoxy)",
+          "positionId": "neo-orthodoxy",
+          "steelman": "God is not the highest point of human religion but the wholly other who speaks. When the leading liberal theologians signed the 1914 manifesto supporting the Kaiser’s war, it became clear that a theology built on culture would bless culture. Theology’s only ground is the Word of God, Jesus Christ, attested in Scripture and proclaimed in the Church; historical study serves but cannot judge it.",
+          "arguments": [
+            "Infinite qualitative difference between God and humanity (Kierkegaard)",
+            "Revelation is God’s free act, not a human possession",
+            "Barmen 1934 showed its power to resist idolatry"
+          ],
+          "counterArguments": [
+            "Risk of fideism and isolation from other disciplines",
+            "Ambiguity about Scripture’s inspiration and history"
+          ],
+          "keyTexts": [
+            "Barth, The Epistle to the Romans (1919, 1922)",
+            "Barmen Declaration (1934)"
+          ],
+          "quoteIds": [
+            "barth-romans-para",
+            "barth-harnack-1923",
+            "barmen-one-word-of-god"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 1799,
+          "text": "Schleiermacher’s Speeches on Religion."
+        },
+        {
+          "year": 1874,
+          "text": "Ritschl completes Justification and Reconciliation."
+        },
+        {
+          "year": 1900,
+          "text": "Harnack lectures on the essence of Christianity in Berlin."
+        },
+        {
+          "year": 1914,
+          "text": "Harnack and other theologians sign the \"Manifesto of the Ninety-Three\" supporting German war aims; Barth is appalled."
+        },
+        {
+          "year": 1919,
+          "text": "Barth’s Epistle to the Romans \"falls like a bomb on the playground of the theologians\"."
+        },
+        {
+          "year": 1923,
+          "text": "Barth and Harnack exchange open letters in Die Christliche Welt."
+        },
+        {
+          "year": 1934,
+          "text": "Barmen Declaration of the Confessing Church.",
+          "eventId": "barmen-declaration-1934"
+        },
+        {
+          "year": 1941,
+          "text": "Bultmann’s demythologising lecture opens a new phase."
+        }
+      ],
+      "resolution": {
+        "kind": "mixed",
+        "text": "Dialectical theology dominated mid-century Protestant academies, but liberal, existentialist, process and revisionist theologies continued, and evangelicals criticised both. Many later theologians (postliberals, Moltmann, Pannenberg) sought paths beyond the opposition."
+      },
+      "consequences": [
+        "Shaped the Confessing Church and the ecumenical movement.",
+        "Divided American Protestantism between liberal, neo-orthodox and evangelical options.",
+        "Influenced postliberal theology."
+      ],
+      "sources": [
+        "rumscheidt-barth-harnack",
+        "dorrien-barthian-revolt",
+        "dorrien-liberal-theology",
+        "mccormack-barth",
+        "ford-modern-theologians"
+      ]
+    }
+  ]
+}
