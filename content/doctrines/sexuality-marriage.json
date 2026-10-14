@@ -1,0 +1,3084 @@
+{
+  "sources": [
+    {
+      "id": "brown-body-society",
+      "title": "The Body and Society: Men, Women and Sexual Renunciation in Early Christianity",
+      "kind": "secondary",
+      "author": "Peter Brown",
+      "year": 1988
+    },
+    {
+      "id": "witte-sacrament-contract",
+      "title": "From Sacrament to Contract: Marriage, Religion, and Law in the Western Tradition (2nd ed.)",
+      "kind": "secondary",
+      "author": "John Witte Jr.",
+      "year": 2012
+    },
+    {
+      "id": "noonan-contraception",
+      "title": "Contraception: A History of Its Treatment by the Catholic Theologians and Canonists",
+      "kind": "secondary",
+      "author": "John T. Noonan Jr.",
+      "year": 1965
+    },
+    {
+      "id": "gorman-abortion-early-church",
+      "title": "Abortion and the Early Church: Christian, Jewish and Pagan Attitudes in the Greco-Roman World",
+      "kind": "secondary",
+      "author": "Michael J. Gorman",
+      "year": 1982
+    },
+    {
+      "id": "parish-clerical-celibacy",
+      "title": "Clerical Celibacy in the West, c.1100–1700",
+      "kind": "secondary",
+      "author": "Helen Parish",
+      "year": 2010
+    },
+    {
+      "id": "meyendorff-marriage",
+      "title": "Marriage: An Orthodox Perspective",
+      "kind": "secondary",
+      "author": "John Meyendorff",
+      "year": 1970
+    },
+    {
+      "id": "instone-brewer-divorce",
+      "title": "Divorce and Remarriage in the Bible: The Social and Literary Context",
+      "kind": "secondary",
+      "author": "David Instone-Brewer",
+      "year": 2002
+    },
+    {
+      "id": "hillman-polygamy",
+      "title": "Polygamy Reconsidered: African Plural Marriage and the Christian Churches",
+      "kind": "secondary",
+      "author": "Eugene Hillman",
+      "year": 1975
+    },
+    {
+      "id": "guy-colenso",
+      "title": "The Heretic: A Study of the Life of John William Colenso, 1814–1883",
+      "kind": "secondary",
+      "author": "Jeff Guy",
+      "year": 1983
+    },
+    {
+      "id": "sprinkle-two-views",
+      "title": "Two Views on Homosexuality, the Bible, and the Church",
+      "kind": "secondary",
+      "author": "Preston Sprinkle (ed.); William Loader, Megan K. DeFranza, Wesley Hill, Stephen R. Holmes",
+      "year": 2016
+    },
+    {
+      "id": "gagnon-bible-homosexual",
+      "title": "The Bible and Homosexual Practice: Texts and Hermeneutics",
+      "kind": "secondary",
+      "author": "Robert A. J. Gagnon",
+      "year": 2001
+    },
+    {
+      "id": "brownson-bible-gender",
+      "title": "Bible, Gender, Sexuality: Reframing the Church’s Debate on Same-Sex Relationships",
+      "kind": "secondary",
+      "author": "James V. Brownson",
+      "year": 2013
+    },
+    {
+      "id": "piper-grudem-recovering",
+      "title": "Recovering Biblical Manhood and Womanhood: A Response to Evangelical Feminism",
+      "kind": "secondary",
+      "author": "John Piper and Wayne Grudem (eds.)",
+      "year": 1991
+    },
+    {
+      "id": "pierce-groothuis-equality",
+      "title": "Discovering Biblical Equality: Complementarity without Hierarchy",
+      "kind": "secondary",
+      "author": "Ronald W. Pierce and Rebecca Merrill Groothuis (eds.)",
+      "year": 2004
+    },
+    {
+      "id": "humanae-vitae-text",
+      "title": "Humanae Vitae: Encyclical on the Regulation of Birth",
+      "kind": "primary",
+      "author": "Paul VI",
+      "year": 1968,
+      "url": "https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html"
+    },
+    {
+      "id": "fiducia-supplicans-text",
+      "title": "Fiducia Supplicans: Declaration on the Pastoral Meaning of Blessings",
+      "kind": "primary",
+      "author": "Dicastery for the Doctrine of the Faith",
+      "year": 2023,
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231218_fiducia-supplicans_en.html"
+    },
+    {
+      "id": "lambeth-resolutions-archive",
+      "title": "Lambeth Conference Resolutions Archive (1867–2008)",
+      "kind": "primary",
+      "author": "Anglican Communion Office",
+      "year": 2008,
+      "url": "https://www.anglicancommunion.org/resources/document-library.aspx"
+    },
+    {
+      "id": "umc-news-2019-2024",
+      "title": "United Methodist News Service reports on the 2019 special General Conference, disaffiliations and the 2024 General Conference",
+      "kind": "primary",
+      "author": "United Methodist Communications",
+      "year": 2024,
+      "url": "https://www.umnews.org/"
+    },
+    {
+      "id": "athenagoras-plea-text",
+      "title": "Athenagoras, A Plea for the Christians (ANF vol. 2)",
+      "kind": "primary",
+      "author": "Athenagoras of Athens",
+      "year": 177,
+      "url": "https://www.newadvent.org/fathers/0205.htm"
+    },
+    {
+      "id": "harrison-our-right",
+      "title": "Our Right to Choose: Toward a New Ethic of Abortion",
+      "kind": "primary",
+      "author": "Beverly Wildung Harrison",
+      "year": 1983
+    },
+    {
+      "id": "stott-issues",
+      "title": "Issues Facing Christians Today",
+      "kind": "primary",
+      "author": "John Stott",
+      "year": 1984
+    }
+  ],
+  "doctrines": [
+    {
+      "id": "sexuality-marriage",
+      "name": "Marriage, Sexuality and Family",
+      "icon": "people",
+      "order": 20,
+      "question": "What is marriage, and how should Christians order sexuality, celibacy, family and gender?",
+      "summary": "From Jesus’ teaching on divorce and celibacy to the sacrament of matrimony, clerical celibacy, the Reformers’ married clergy, divorce and annulment, contraception, polygamy in African churches, gender roles, same-sex relationships and abortion, Christians have repeatedly debated the meaning of marriage and the body. This section presents each view in its own best terms, with its strongest critics.",
+      "longText": "Christianity inherited from Judaism a high view of marriage as a creation ordinance: \"male and female created he them\", the two becoming \"one flesh\". Jesus sharpened it by forbidding divorce, Matthew adding an exception for porneia, and he also commended celibacy \"for the kingdom of heaven’s sake\". Paul preferred celibacy for undivided service but called marriage a \"great mystery\" of Christ and the Church. In a Roman world that tolerated abortion and infant exposure, the Didache and the apologists condemned both. As monasticism spread, Jerome ranked virginity above marriage, while Augustine defended the three goods of marriage: offspring, fidelity and sacramental bond.\n\nEast and West then went different ways. The Council in Trullo (692) kept married parish priests in the East. The Gregorian reform and the Second Lateran Council (1139) imposed celibacy on Latin clergy. Western theology counted marriage among the seven sacraments and held it indissoluble except by nullity. Byzantine canon law, following Basil, allowed penitential remarriage by \"economy\". The Reformers rejected compulsory celibacy, married, and treated marriage as a holy covenant and civil estate. Following Erasmus they permitted divorce for adultery and desertion. Trent answered with a sacramental, indissoluble marriage and required public weddings.\n\nModern questions multiplied. In Africa, missionaries and converts argued over whether polygamists could be baptised, from Bishop Colenso (1862) to Lambeth 1988. The Anglican Lambeth Conference of 1930 first accepted contraception, and Paul VI’s Humanae Vitae (1968) reaffirmed the Catholic prohibition. Evangelicals divided between complementarian and egalitarian views of gender, a debate linked to women’s ordination. After Roe v. Wade (1973) abortion became a defining public issue: most churches upheld the early Christian prohibition, while some mainline bodies defended legal choice. Since the 1990s same-sex relationships have been the most divisive question of all. The historic view, still held by the great majority of the world’s Christians, and the affirming view, adopted by a number of Western mainline churches, are both set out here in their own best terms. The section also follows the outcomes: Lambeth 1998, the Anglican and Methodist realignments (2003–2024) and the Catholic declaration Fiducia Supplicans (2023).",
+      "flow": {
+        "nodes": [
+          {
+            "id": "q",
+            "kind": "question",
+            "label": "What is marriage, and how should Christians order sexuality, celibacy, family and gender?",
+            "text": "Jesus quoted Genesis — \"they twain shall be one flesh\" — and forbade divorce, yet praised those who renounce marriage for the kingdom. Is marriage a sacrament, a covenant or a civil estate? May clergy marry? When, if ever, may the married divorce and remarry? Is contraception permitted? How should churches respond to polygamy, to different understandings of men’s and women’s roles, to same-sex relationships and to abortion?",
+            "quoteIds": []
+          },
+          {
+            "id": "s-creation",
+            "kind": "scripture",
+            "label": "Creation: male and female, one flesh (Gen 1:27–28; 2:18–25)",
+            "year": -500,
+            "text": "Humanity is created \"male and female\" in God’s image and blessed to be fruitful; the man and woman become \"one flesh\". Patriarchs practise polygamy (Abraham, Jacob, David) and the Law regulates divorce (Deut 24:1–4). Traditional and affirming readers both start here but draw different conclusions about what is normative.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-jesus",
+            "kind": "scripture",
+            "label": "Jesus on divorce and celibacy (Matt 5:31–32; 19:3–12; Mark 10:2–12)",
+            "year": 30,
+            "text": "\"What therefore God hath joined together, let not man put asunder\"; remarriage after divorce is adultery, Matthew adding \"except it be for fornication\" (porneia). Some are \"eunuchs for the kingdom of heaven’s sake\". Each tradition’s divorce teaching hinges on these verses.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-paul",
+            "kind": "scripture",
+            "label": "Paul on marriage, celibacy and household (1 Cor 7; Eph 5:21–33)",
+            "year": 55,
+            "text": "Paul prefers celibacy for undistracted service but says \"it is better to marry than to burn\"; spouses owe each other conjugal rights; a believer deserted by an unbelieving spouse \"is not under bondage\" (the \"Pauline privilege\"). Ephesians calls marriage a \"great mystery\" (sacramentum in the Vulgate) concerning Christ and the Church.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-texts",
+            "kind": "scripture",
+            "label": "Texts on same-sex intercourse (Lev 18:22; 20:13; Rom 1:26–27; 1 Cor 6:9–11; 1 Tim 1:10)",
+            "year": 57,
+            "text": "Traditional readers see a consistent prohibition grounded in creation; affirming scholars argue these texts address exploitative, cultic or excess-driven practices (pederasty, temple prostitution) rather than committed, faithful same-sex partnerships unknown to the ancient authors. The meaning of arsenokoitai and of \"nature\" (physis) in Romans 1 is disputed.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-gender",
+            "kind": "scripture",
+            "label": "Gender in Christ and in the church (Gal 3:28; 1 Cor 11:3–16; 14:34–35; 1 Tim 2:11–15)",
+            "year": 62,
+            "text": "\"There is neither male nor female: for ye are all one in Christ Jesus\"; women pray and prophesy in Corinth; Phoebe is a deacon and Junia \"of note among the apostles\" (Rom 16); yet \"I suffer not a woman to teach, nor to usurp authority over the man\". Complementarians and egalitarians weigh these texts differently.",
+            "quoteIds": []
+          },
+          {
+            "id": "v-didache",
+            "kind": "voice",
+            "label": "Didache and Athenagoras: no abortion, no exposure (c.100–177)",
+            "year": 100,
+            "text": "The Didache’s moral catechism commands: \"you shall not murder a child by abortion nor kill that which is born\". Athenagoras (c.177) argues that Christians, who call abortion murder and refuse to expose infants, cannot be the killers pagans accuse them of being.",
+            "ref": {
+              "type": "work",
+              "id": "didache"
+            },
+            "quoteIds": [
+              "athenagoras-abortion-murder"
+            ]
+          },
+          {
+            "id": "v-tertullian",
+            "kind": "voice",
+            "label": "Tertullian: the happiness of Christian marriage (c.200)",
+            "year": 200,
+            "text": "Tertullian describes marriage blessed by the church and confirmed by the Eucharist, while urging widows not to remarry: early Christianity both honoured marriage and exalted continence.",
+            "ref": {
+              "type": "person",
+              "id": "tertullian"
+            },
+            "quoteIds": [
+              "tertullian-happiness-marriage"
+            ]
+          },
+          {
+            "id": "v-jerome",
+            "kind": "voice",
+            "label": "Jerome: virginity above marriage (393)",
+            "year": 393,
+            "text": "With the rise of monasticism, Jerome ranks virginity, widowhood and marriage as hundredfold, sixtyfold and thirtyfold fruit; Jovinian, who denied virginity’s superiority, is condemned at Rome and Milan (c.393).",
+            "ref": {
+              "type": "person",
+              "id": "jerome"
+            },
+            "quoteIds": [
+              "jerome-virginity-para"
+            ]
+          },
+          {
+            "id": "v-augustine",
+            "kind": "voice",
+            "label": "Augustine: the three goods of marriage (401)",
+            "year": 401,
+            "text": "Against both Manichaean contempt for the body and Jovinian, Augustine defends marriage’s goods of offspring, fidelity and sacramental bond, while viewing concupiscence as a wound of the fall: the framework of Western teaching on marriage and sex.",
+            "ref": {
+              "type": "person",
+              "id": "augustine-of-hippo"
+            },
+            "quoteIds": [
+              "augustine-three-goods-para"
+            ]
+          },
+          {
+            "id": "p-married-clergy",
+            "kind": "position",
+            "label": "Eastern married clergy (Council in Trullo, 692)",
+            "year": 692,
+            "text": "The Byzantine church permits men married before ordination to serve as priests and deacons, reserving the episcopate to celibates (monks); Oriental Orthodox and Church of the East practice is similar, and the East Syriac church once allowed bishops and post-ordination marriage.",
+            "ref": {
+              "type": "position",
+              "id": "married-clergy"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-oikonomia",
+            "kind": "position",
+            "label": "Orthodox oikonomia: penitential remarriage (Tome of Union, 920)",
+            "year": 920,
+            "text": "Byzantine canon law, following Basil, permits divorce for adultery and other grounds and, by \"economy\", up to three marriages, the second and third with a penitential rite; marriage is a sacramental mystery whose death can be recognised with sorrow.",
+            "ref": {
+              "type": "position",
+              "id": "orthodox-oikonomia-remarriage"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "d-lateran",
+            "kind": "decision",
+            "label": "Second Lateran Council: clerical marriages invalid (1139)",
+            "year": 1139,
+            "text": "The Gregorian reform culminates in a ruling that priests’ marriages are not merely forbidden but invalid; Latin clerical celibacy becomes universal law, though concubinage remains widespread for centuries.",
+            "ref": {
+              "type": "event",
+              "id": "second-lateran-council-1139"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-sacrament",
+            "kind": "position",
+            "label": "Marriage as one of the seven sacraments (1184–1439)",
+            "year": 1274,
+            "text": "Scholastic theology lists matrimony among seven sacraments (Peter Lombard, c.1150; Council of Verona, 1184; Second Council of Lyon, 1274; Florence, 1439): the consent of baptised spouses makes a sacramental, indissoluble bond signifying Christ and the Church.",
+            "ref": {
+              "type": "position",
+              "id": "marriage-sacrament"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-covenant",
+            "kind": "position",
+            "label": "Protestant reformers: marriage as covenant and civil estate (1520s)",
+            "year": 1522,
+            "text": "Luther calls marriage a holy \"worldly thing\" under civil jurisdiction, not a sacrament; Calvin and the Reformed describe it as a covenant before God; Anglicans keep it as a sacramental rite though not a \"sacrament of the gospel\". Marriage courts pass to the state.",
+            "ref": {
+              "type": "position",
+              "id": "marriage-covenant-civil"
+            },
+            "quoteIds": [
+              "luther-estate-marriage-para",
+              "bcp-marriage-causes"
+            ]
+          },
+          {
+            "id": "c-clergy-marry",
+            "kind": "consequence",
+            "label": "Reformation clergy marry (1520s–1549)",
+            "year": 1525,
+            "text": "Zwingli, Luther (marrying the former nun Katharina von Bora in 1525), Bucer and Cranmer marry; the Protestant parsonage becomes a cultural institution. England legalises clerical marriage in 1549.",
+            "ref": {
+              "type": "person",
+              "id": "martin-luther"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-erasmian",
+            "kind": "position",
+            "label": "Erasmian view: divorce and remarriage for adultery and desertion",
+            "year": 1530,
+            "text": "Following Erasmus’s annotations (1519), Protestant churches permit divorce with the right to remarry for adultery and, in many cases, wilful desertion (Westminster Confession 24.5–6), while urging reconciliation.",
+            "ref": {
+              "type": "position",
+              "id": "erasmian-divorce"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "d-trent",
+            "kind": "decision",
+            "label": "Trent defines marriage (Session 24, 1563)",
+            "year": 1563,
+            "text": "Trent affirms marriage as a true sacrament, declares that the bond is not dissolved by adultery (worded so as not to condemn the Greek practice), and in the decree Tametsi requires a priest and witnesses for validity, ending clandestine marriage.",
+            "ref": {
+              "type": "event",
+              "id": "council-of-trent-1545"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-indissoluble",
+            "kind": "position",
+            "label": "Catholic indissolubility and annulment",
+            "year": 1563,
+            "text": "A ratified and consummated sacramental marriage cannot be dissolved by any human power; tribunals may declare a marriage null if a true bond never existed (lack of consent, impediments, form). Pope Francis simplified nullity procedures (2015) and opened discernment on communion for remarried divorcees (Amoris Laetitia, 2016).",
+            "ref": {
+              "type": "position",
+              "id": "catholic-indissolubility-annulment"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "v-colenso",
+            "kind": "voice",
+            "label": "Colenso and the polygamy question in Africa (1862)",
+            "year": 1862,
+            "text": "Bishop Colenso argues that polygamous Zulu converts should be baptised with their wives; Henry Venn’s CMS and most missions insist on monogamy before baptism. Many African Initiated Churches later accept polygamous members, and African theologians debate polygamy as a pastoral and cultural question.",
+            "ref": {
+              "type": "person",
+              "id": "john-colenso"
+            },
+            "quoteIds": [
+              "colenso-polygamy-para"
+            ]
+          },
+          {
+            "id": "d-lambeth-1930",
+            "kind": "decision",
+            "label": "Lambeth accepts contraception (1930)",
+            "year": 1930,
+            "text": "Anglican bishops allow contraception for morally sound reasons; most Protestant churches follow over three decades, while Pius XI’s Casti Connubii (1930) reaffirms the ban.",
+            "ref": {
+              "type": "event",
+              "id": "lambeth-conference-1930"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "d-hv",
+            "kind": "decision",
+            "label": "Humanae Vitae (1968)",
+            "year": 1968,
+            "text": "Paul VI reaffirms that artificial contraception is intrinsically wrong; John Paul II’s Theology of the Body (1979–84) develops a personalist defence; surveys show most Western Catholics do not follow the teaching, while it finds new defenders among some evangelicals and in Africa.",
+            "ref": {
+              "type": "event",
+              "id": "humanae-vitae-1968"
+            },
+            "quoteIds": [
+              "humanae-vitae-para"
+            ]
+          },
+          {
+            "id": "a-roe",
+            "kind": "argument",
+            "label": "Abortion after Roe v. Wade (1973)",
+            "year": 1973,
+            "text": "Legal abortion in the West divides Christians: Catholic, Orthodox, evangelical and Pentecostal churches teach that unborn life must be protected (with differing exceptions), while some mainline Protestant bodies support legal access as a matter of conscience. The Religious Coalition for Reproductive Choice (1973) and the evangelical-Catholic pro-life alliance both form.",
+            "ref": {
+              "type": "event",
+              "id": "roe-v-wade-1973"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-prolife",
+            "kind": "position",
+            "label": "Pro-life and \"consistent ethic of life\" positions",
+            "year": 1979,
+            "text": "Building on the Didache and the Fathers, Catholics (Joseph Bernardin’s \"consistent ethic of life\", 1983; John Paul II’s Evangelium Vitae, 1995) and evangelicals (Francis Schaeffer and C. Everett Koop’s Whatever Happened to the Human Race?, 1979) oppose abortion as the taking of innocent human life.",
+            "ref": {
+              "type": "position",
+              "id": "pro-life-abortion"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-complementarian",
+            "kind": "position",
+            "label": "Complementarianism (Danvers Statement, 1987)",
+            "year": 1987,
+            "text": "The Council on Biblical Manhood and Womanhood holds that men and women are equal in dignity but called to different, complementary roles, with male headship in the home and male eldership in the church.",
+            "ref": {
+              "type": "position",
+              "id": "complementarianism"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-egalitarian",
+            "kind": "position",
+            "label": "Egalitarianism (Christians for Biblical Equality, 1989)",
+            "year": 1989,
+            "text": "CBE’s statement \"Men, Women and Biblical Equality\" (1989) argues that gifts, not gender, determine ministry and that marriage is a partnership of mutual submission (Eph 5:21); it links to the movement for women’s ordination.",
+            "ref": {
+              "type": "position",
+              "id": "egalitarianism"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-traditional",
+            "kind": "position",
+            "label": "The historic Christian sexual ethic",
+            "year": 390,
+            "text": "From the early church onward, Orthodox, Catholic and Protestant teaching held that sexual intercourse belongs only within marriage between a man and a woman, and that same-sex sexual acts, like all sex outside marriage, are contrary to God’s will; celibacy and chastity are the calling of the unmarried.",
+            "ref": {
+              "type": "position",
+              "id": "traditional-sexual-ethic"
+            },
+            "quoteIds": [
+              "stott-same-sex-para"
+            ]
+          },
+          {
+            "id": "a-revision",
+            "kind": "argument",
+            "label": "Revisionist scholarship and gay Christian voices (1955–1980)",
+            "year": 1955,
+            "text": "Derrick Sherwin Bailey’s Homosexuality and the Western Christian Tradition (1955) re-reads Sodom as about inhospitality; the Metropolitan Community Church is founded (1968); John Boswell’s Christianity, Social Tolerance, and Homosexuality (1980) argues the medieval church was once more tolerant. Critics dispute much of this historical reconstruction.",
+            "quoteIds": []
+          },
+          {
+            "id": "p-affirming",
+            "kind": "position",
+            "label": "Affirming view: blessing faithful same-sex relationships",
+            "year": 1990,
+            "text": "Affirming Christians argue that the biblical texts do not address loving, committed same-sex partnerships, that the fruit of such relationships shows the Spirit’s work (Acts 15 as precedent), and that the church should bless and marry same-sex couples and ordain LGBTQ people.",
+            "ref": {
+              "type": "position",
+              "id": "affirming-same-sex"
+            },
+            "quoteIds": [
+              "tutu-inclusion-para"
+            ]
+          },
+          {
+            "id": "d-lambeth-1998",
+            "kind": "decision",
+            "label": "Lambeth 1998, Resolution I.10",
+            "year": 1998,
+            "text": "The Anglican bishops, led by a large Global South majority, reject homosexual practice as incompatible with Scripture and decline to advise same-sex blessings, while committing to listen to gay and lesbian people.",
+            "ref": {
+              "type": "event",
+              "id": "lambeth-conference-1998"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "c-splits",
+            "kind": "consequence",
+            "label": "Denominational divisions (2003–2024)",
+            "year": 2019,
+            "text": "The consecration of Gene Robinson (2003) leads to GAFCON (2008) and the Anglican Church in North America (2009); the ELCA (2009), PC(USA) (2011, 2014) and Church of Scotland move toward affirmation, prompting departures; the United Methodist Church divides (2019–2024); the Church of England authorises prayers of blessing (2023) while not changing its doctrine of marriage.",
+            "ref": {
+              "type": "event",
+              "id": "umc-separation-2019"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "d-fiducia",
+            "kind": "decision",
+            "label": "Fiducia Supplicans (2023)",
+            "year": 2023,
+            "text": "The Catholic Church allows non-liturgical blessings of couples in irregular situations, including same-sex couples, without changing its doctrine of marriage; the African bishops (SECAM) collectively decline to apply it, illustrating global fault lines.",
+            "ref": {
+              "type": "event",
+              "id": "fiducia-supplicans-2023"
+            },
+            "quoteIds": [
+              "fiducia-para"
+            ]
+          },
+          {
+            "id": "m-today",
+            "kind": "modern",
+            "label": "Today: who holds what?",
+            "year": 2025,
+            "text": "Catholic and Orthodox churches teach marriage as a sacrament between a man and a woman; Catholics keep Latin clerical celibacy (with married Eastern Catholic and convert clergy), annulment and the ban on contraception, while the Orthodox permit married priests, penitential remarriage and, in many places, contraception within marriage. Most Protestant churches see marriage as covenant, permit divorce on limited grounds and accept contraception. On same-sex relationships the large majority of the world’s Christians (Catholic, Orthodox, most evangelical, Pentecostal and Global South churches) hold the historic view, while a growing number of mainline Protestant churches in Europe and North America bless or marry same-sex couples. Complementarian and egalitarian views divide evangelicals; abortion remains opposed by most churches and accepted in law by some mainline bodies.",
+            "quoteIds": []
+          }
+        ],
+        "edges": [
+          {
+            "from": "q",
+            "to": "s-creation",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q",
+            "to": "s-jesus",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q",
+            "to": "s-paul",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q",
+            "to": "s-texts",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q",
+            "to": "s-gender",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-creation",
+            "to": "v-didache",
+            "kind": "supports"
+          },
+          {
+            "from": "s-paul",
+            "to": "v-tertullian",
+            "kind": "supports"
+          },
+          {
+            "from": "s-paul",
+            "to": "v-jerome",
+            "kind": "supports"
+          },
+          {
+            "from": "s-creation",
+            "to": "v-augustine",
+            "kind": "supports"
+          },
+          {
+            "from": "s-jesus",
+            "to": "v-augustine",
+            "kind": "supports"
+          },
+          {
+            "from": "v-tertullian",
+            "to": "v-jerome",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-paul",
+            "to": "p-married-clergy",
+            "kind": "supports"
+          },
+          {
+            "from": "s-jesus",
+            "to": "p-oikonomia",
+            "kind": "supports"
+          },
+          {
+            "from": "v-jerome",
+            "to": "d-lateran",
+            "kind": "supports"
+          },
+          {
+            "from": "p-married-clergy",
+            "to": "d-lateran",
+            "kind": "objects"
+          },
+          {
+            "from": "v-augustine",
+            "to": "p-sacrament",
+            "kind": "develops"
+          },
+          {
+            "from": "d-lateran",
+            "to": "c-clergy-marry",
+            "kind": "rejects"
+          },
+          {
+            "from": "p-sacrament",
+            "to": "p-covenant",
+            "kind": "objects"
+          },
+          {
+            "from": "p-covenant",
+            "to": "c-clergy-marry",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-covenant",
+            "to": "p-erasmian",
+            "kind": "develops"
+          },
+          {
+            "from": "p-sacrament",
+            "to": "d-trent",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-erasmian",
+            "to": "d-trent",
+            "kind": "rejects"
+          },
+          {
+            "from": "d-trent",
+            "to": "p-indissoluble",
+            "kind": "decides"
+          },
+          {
+            "from": "p-oikonomia",
+            "to": "d-trent",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-creation",
+            "to": "v-colenso",
+            "kind": "supports"
+          },
+          {
+            "from": "v-augustine",
+            "to": "d-lambeth-1930",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-lambeth-1930",
+            "to": "d-hv",
+            "kind": "objects"
+          },
+          {
+            "from": "v-didache",
+            "to": "a-roe",
+            "kind": "leads-to"
+          },
+          {
+            "from": "a-roe",
+            "to": "p-prolife",
+            "kind": "leads-to"
+          },
+          {
+            "from": "v-didache",
+            "to": "p-prolife",
+            "kind": "supports"
+          },
+          {
+            "from": "s-gender",
+            "to": "p-complementarian",
+            "kind": "supports"
+          },
+          {
+            "from": "s-gender",
+            "to": "p-egalitarian",
+            "kind": "supports"
+          },
+          {
+            "from": "p-complementarian",
+            "to": "p-egalitarian",
+            "kind": "objects"
+          },
+          {
+            "from": "s-texts",
+            "to": "p-traditional",
+            "kind": "supports"
+          },
+          {
+            "from": "p-traditional",
+            "to": "a-revision",
+            "kind": "objects"
+          },
+          {
+            "from": "a-revision",
+            "to": "p-affirming",
+            "kind": "develops"
+          },
+          {
+            "from": "p-affirming",
+            "to": "d-lambeth-1998",
+            "kind": "rejects"
+          },
+          {
+            "from": "d-lambeth-1998",
+            "to": "c-splits",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-affirming",
+            "to": "c-splits",
+            "kind": "leads-to"
+          },
+          {
+            "from": "c-splits",
+            "to": "d-fiducia",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-indissoluble",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-hv",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-prolife",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-egalitarian",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-fiducia",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "v-colenso",
+            "to": "m-today",
+            "kind": "leads-to"
+          }
+        ]
+      },
+      "sources": [
+        "brown-body-society",
+        "witte-sacrament-contract",
+        "noonan-contraception",
+        "gorman-abortion-early-church",
+        "parish-clerical-celibacy",
+        "meyendorff-marriage",
+        "sprinkle-two-views",
+        "hillman-polygamy",
+        "odcc"
+      ]
+    }
+  ],
+  "positions": [
+    {
+      "id": "marriage-sacrament",
+      "doctrineId": "sexuality-marriage",
+      "name": "Marriage as sacrament",
+      "altNames": [
+        "Sacrament of matrimony",
+        "Holy Mystery of Crowning (Orthodox)",
+        "Sacramental marriage"
+      ],
+      "oneLine": "Marriage between baptised Christians is a sacrament: a real participation in the covenant between Christ and the Church, conferring grace and creating a holy bond.",
+      "coreClaims": [
+        "Christ raised the natural institution of marriage to the dignity of a sacrament (Trent, Session 24).",
+        "Ephesians 5:32 calls marriage a \"great mystery\" (Vulgate sacramentum) signifying Christ and the Church.",
+        "In the Latin tradition the spouses are the ministers through their consent; in the Orthodox the priest’s crowning and blessing effect the mystery.",
+        "Marriage is ordered to the good of the spouses and the procreation and education of children.",
+        "The sacramental bond is permanent (Catholic) or holy and ideally lifelong (Orthodox)."
+      ],
+      "keyTexts": [
+        "Genesis 2:24",
+        "Matthew 19:4–6",
+        "John 2:1–11 (Cana)",
+        "Ephesians 5:21–33",
+        "Council of Trent, Session 24 (1563)"
+      ],
+      "origin": "Augustine spoke of the \"sacramentum\" of marriage (c.401); Peter Lombard (c.1150) listed it among seven sacraments, confirmed at Verona (1184), Lyon (1274), Florence (1439) and Trent (1563). Eastern churches developed the crowning rite and counted marriage among the holy mysteries.",
+      "originYear": 1150,
+      "proponentIds": [
+        "augustine-of-hippo",
+        "thomas-aquinas",
+        "john-paul-ii",
+        "john-chrysostom"
+      ],
+      "proponentsOther": [
+        "Peter Lombard",
+        "Hugh of St Victor",
+        "John Meyendorff",
+        "Alexander Schmemann"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-orthodox",
+        "oriental-orthodox",
+        "eastern-catholic",
+        "church-of-the-east"
+      ],
+      "strongestArguments": [
+        "Paul links marriage to the mystery of Christ and the Church in uniquely exalted terms.",
+        "Jesus’ presence at Cana and his teaching on \"what God hath joined\" suggest God himself acts in marriage.",
+        "A sacramental view sustains the sanctity and permanence of marriage against purely contractual views."
+      ],
+      "strongestObjections": [
+        "Reformers argued that marriage, instituted at creation and shared by non-Christians, lacks a specific gospel promise of grace, so it is not a sacrament in the strict sense (Augsburg Apology XIII; Article XXV).",
+        "The Vulgate’s \"sacramentum\" translates mysterion, which does not mean \"sacrament\" in the later technical sense.",
+        "Critics note that the doctrine developed late, in the 12th century."
+      ],
+      "responses": [
+        "Catholics and Orthodox answer that the development made explicit what was implicit in Scripture and the Fathers.",
+        "They argue that Christian marriage differs from natural marriage because it is entered \"in the Lord\" (1 Cor 7:39) and sanctified by grace."
+      ],
+      "consequences": [
+        "Church jurisdiction over marriage in medieval and Catholic societies.",
+        "Indissolubility and annulment practice in Catholic canon law.",
+        "Rich liturgical rites of marriage in East and West."
+      ],
+      "relatedPositionIds": [
+        "seven-sacraments",
+        "catholic-indissolubility-annulment",
+        "orthodox-oikonomia-remarriage",
+        "marriage-covenant-civil"
+      ],
+      "standing": "majority",
+      "sources": [
+        "witte-sacrament-contract",
+        "meyendorff-marriage",
+        "catechism-catholic-church",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "marriage-covenant-civil",
+      "doctrineId": "sexuality-marriage",
+      "name": "Marriage as covenant and civil estate (Protestant)",
+      "altNames": [
+        "Covenant marriage",
+        "Marriage as \"worldly thing\" (Luther)",
+        "Social estate"
+      ],
+      "oneLine": "Marriage is a holy ordinance of creation and a covenant before God, not a sacrament of the gospel; it belongs to the common life of all humanity and falls under civil as well as church oversight.",
+      "coreClaims": [
+        "God instituted marriage in Paradise for companionship, procreation and (after the fall) as a remedy against sin.",
+        "It is not a sacrament because it carries no specific promise of saving grace and is shared by unbelievers.",
+        "It is a covenant made before God and witnesses (Mal 2:14; Prov 2:17).",
+        "It is a high calling, equal or superior in dignity to celibacy; clergy may marry.",
+        "Civil authorities rightly regulate marriage and divorce."
+      ],
+      "keyTexts": [
+        "Genesis 2:18–24",
+        "Malachi 2:14–16",
+        "Proverbs 2:17",
+        "Hebrews 13:4",
+        "1 Timothy 4:1–3"
+      ],
+      "origin": "Luther’s Babylonian Captivity (1520) and The Estate of Marriage (1522); Calvin’s Genevan marriage ordinances (1546) and covenantal model; Anglican Prayer Book rite (1549) and Article XXV; Puritan theology of companionate marriage.",
+      "originYear": 1522,
+      "proponentIds": [
+        "martin-luther",
+        "john-calvin",
+        "thomas-cranmer"
+      ],
+      "proponentsOther": [
+        "Martin Bucer",
+        "Heinrich Bullinger",
+        "William Gouge",
+        "Richard Baxter"
+      ],
+      "traditionIds": [
+        "lutheran",
+        "reformed",
+        "presbyterian",
+        "anglican",
+        "baptist",
+        "methodist",
+        "evangelical",
+        "pentecostal"
+      ],
+      "strongestArguments": [
+        "Marriage is a creation ordinance universal to humanity, not a rite unique to the church.",
+        "Scripture calls marriage a covenant (Mal 2:14), a category richer than contract.",
+        "Rejecting compulsory celibacy restored the dignity of family life and lay vocation."
+      ],
+      "strongestObjections": [
+        "Catholic and Orthodox theologians argue it weakens the sacramental and permanent character of marriage, opening the way to divorce and secular redefinition.",
+        "Handing marriage to civil authorities has, critics argue, led to the modern state redefining it independently of Christian teaching.",
+        "Anglo-Catholics note that Anglican rites still treat marriage sacramentally, showing the line is blurred."
+      ],
+      "responses": [
+        "Protestants answer that covenant theology grounds permanence and fidelity strongly without sacramental claims.",
+        "They argue that Scripture, not church jurisdiction, defines marriage, so Christians can uphold its meaning in any legal order."
+      ],
+      "consequences": [
+        "Clerical marriage and the Protestant parsonage.",
+        "Marriage courts and divorce law move to the state.",
+        "Puritan ideal of companionate marriage."
+      ],
+      "relatedPositionIds": [
+        "marriage-sacrament",
+        "erasmian-divorce",
+        "married-clergy",
+        "two-sacraments"
+      ],
+      "standing": "significant",
+      "sources": [
+        "witte-sacrament-contract",
+        "macculloch-reformation",
+        "book-of-concord"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "clerical-celibacy-latin",
+      "doctrineId": "sexuality-marriage",
+      "name": "Mandatory clerical celibacy (Latin discipline)",
+      "altNames": [
+        "Priestly celibacy",
+        "Sacerdotal celibacy",
+        "Law of celibacy"
+      ],
+      "oneLine": "Priests of the Latin Church should be celibate, freely giving themselves wholly to Christ and his people after the pattern of Christ’s own life, as an ecclesiastical discipline confirmed since the 12th century.",
+      "coreClaims": [
+        "Celibacy \"for the kingdom of heaven\" configures the priest to Christ, the celibate Bridegroom of the Church.",
+        "It frees the priest for undivided service (1 Cor 7:32–35).",
+        "It is an ancient discipline (Council of Elvira c.305, canon 33, required continence of married clergy) made universal law in the West.",
+        "It is a discipline, not a dogma; Eastern Catholic married priests and convert clergy are exceptions."
+      ],
+      "keyTexts": [
+        "Matthew 19:12",
+        "1 Corinthians 7:7, 32–35",
+        "Luke 18:28–30",
+        "Council of Elvira canon 33",
+        "Second Lateran Council canons 6–7 (1139)"
+      ],
+      "origin": "Early councils (Elvira c.305; Carthage 390) required continence of married clergy in the West; the Gregorian reform (from 1049) campaigned against clerical marriage, and the Second Lateran Council (1139) declared clerical marriages invalid; reaffirmed by Trent (1563), Paul VI (Sacerdotalis Caelibatus, 1967) and Benedict XVI.",
+      "originYear": 1139,
+      "proponentIds": [
+        "jerome",
+        "gregory-the-great",
+        "benedict-xvi"
+      ],
+      "proponentsOther": [
+        "Pope Gregory VII",
+        "Peter Damian",
+        "Innocent II",
+        "Paul VI (Sacerdotalis Caelibatus)",
+        "Robert Sarah"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "strongestArguments": [
+        "Jesus himself was unmarried and commended celibacy for the kingdom; Paul wished all were as he was.",
+        "It allows priests to serve with total availability, as in missionary and poor contexts.",
+        "It is a powerful eschatological sign that God alone can satisfy the human heart."
+      ],
+      "strongestObjections": [
+        "Peter was married, and Paul says bishops should be \"the husband of one wife\" (1 Tim 3:2); the Eastern churches have always had married priests.",
+        "Protestant reformers argued that forced celibacy produced widespread concubinage and hypocrisy, against 1 Timothy 4:3.",
+        "Some argue it contributes to priest shortages and, in combination with clericalism, to abuse cultures (though studies dispute a causal link)."
+      ],
+      "responses": [
+        "Defenders answer that the discipline concerns the Latin Church’s chosen ideal and admits exceptions, and that celibacy chosen freely is a gift, not a law imposed on unwilling men.",
+        "They point to the Amazon Synod (2019) debate, in which Pope Francis declined to relax the discipline, as evidence of its continuing support."
+      ],
+      "consequences": [
+        "A celibate Latin priesthood for nine centuries.",
+        "Reformation rejection of mandatory celibacy.",
+        "Ongoing debate over ordaining married men (viri probati)."
+      ],
+      "relatedPositionIds": [
+        "married-clergy",
+        "marriage-sacrament",
+        "womens-ordination-restricted"
+      ],
+      "standing": "significant",
+      "sources": [
+        "parish-clerical-celibacy",
+        "brown-body-society",
+        "tanner-decrees"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "married-clergy",
+      "doctrineId": "sexuality-marriage",
+      "name": "Married clergy (Eastern and Protestant)",
+      "altNames": [
+        "Married priesthood",
+        "Clerical marriage"
+      ],
+      "oneLine": "Ordained ministers may be married, as the apostles and many early bishops were; celibacy is a gift for some, not a law for all clergy.",
+      "coreClaims": [
+        "Peter and other apostles had wives (Mark 1:30; 1 Cor 9:5).",
+        "Bishops and deacons are to be \"the husband of one wife\" (1 Tim 3:2, 12).",
+        "Forbidding marriage is a mark of false teaching (1 Tim 4:3).",
+        "In Orthodox practice men may marry before ordination as deacon or priest, but not after; bishops are chosen from celibates.",
+        "Protestant churches allow clergy to marry at any time."
+      ],
+      "keyTexts": [
+        "Mark 1:29–31",
+        "1 Corinthians 9:5",
+        "1 Timothy 3:2–12; 4:1–3",
+        "Titus 1:6",
+        "Council in Trullo canon 13 (692)"
+      ],
+      "origin": "Married clergy were normal in the early church (the tradition of Paphnutius at Nicaea, 325, is legendary but reflects Eastern practice); codified in the East by the Council in Trullo (692); restored in the West by the Reformers (Zwingli, Luther 1525, Cranmer), and permitted in England from 1549.",
+      "originYear": 692,
+      "proponentIds": [
+        "martin-luther",
+        "huldrych-zwingli",
+        "thomas-cranmer"
+      ],
+      "proponentsOther": [
+        "Council in Trullo (692)",
+        "Katharina von Bora",
+        "Martin Bucer",
+        "Orthodox and Eastern Catholic clergy families"
+      ],
+      "traditionIds": [
+        "eastern-orthodox",
+        "oriental-orthodox",
+        "eastern-catholic",
+        "church-of-the-east",
+        "lutheran",
+        "reformed",
+        "anglican",
+        "baptist",
+        "methodist",
+        "pentecostal"
+      ],
+      "strongestArguments": [
+        "The New Testament assumes married church leaders.",
+        "Married clergy model family life for congregations and avoid the abuses of enforced celibacy.",
+        "Eastern churches preserved married priests for two millennia without loss of holiness."
+      ],
+      "strongestObjections": [
+        "Latin Catholics argue that celibacy better conforms the priest to Christ and frees him for service.",
+        "Even in the East, bishops must be celibate, suggesting a recognised higher ideal.",
+        "Some argue that family responsibilities limit pastoral availability and mobility."
+      ],
+      "responses": [
+        "Advocates reply that Scripture prizes marriage and celibacy as different gifts, not ranks.",
+        "They note that Catholic Eastern rites and the Anglican Ordinariate already include married priests."
+      ],
+      "consequences": [
+        "The Protestant parsonage and clergy families.",
+        "Married parish priests in Orthodoxy and Eastern Catholicism.",
+        "Ecumenical debate over Latin celibacy."
+      ],
+      "relatedPositionIds": [
+        "clerical-celibacy-latin",
+        "marriage-covenant-civil",
+        "womens-ordination-affirmed"
+      ],
+      "standing": "majority",
+      "sources": [
+        "parish-clerical-celibacy",
+        "meyendorff-marriage",
+        "macculloch-reformation"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "catholic-indissolubility-annulment",
+      "doctrineId": "sexuality-marriage",
+      "name": "Indissolubility and annulment (Catholic)",
+      "altNames": [
+        "Absolute indissolubility",
+        "Declaration of nullity",
+        "Annulment"
+      ],
+      "oneLine": "A valid, consummated sacramental marriage cannot be dissolved by any human power; divorced people who remarry civilly while a spouse lives are in an objectively irregular situation, though a church tribunal may find that a valid marriage never existed.",
+      "coreClaims": [
+        "Jesus forbade divorce and remarriage as adultery (Mark 10:11–12; Luke 16:18).",
+        "Matthew’s \"except for porneia\" refers to unlawful (e.g. incestuous) unions, not adultery in a valid marriage.",
+        "Separation is permitted for grave reasons, but not remarriage.",
+        "Nullity may be declared for defects of consent, form or impediments.",
+        "Non-sacramental marriages may be dissolved in favour of faith (Pauline and Petrine privileges)."
+      ],
+      "keyTexts": [
+        "Mark 10:2–12",
+        "Luke 16:18",
+        "1 Corinthians 7:10–15",
+        "Matthew 19:9",
+        "Council of Trent, Session 24, canon 7",
+        "Code of Canon Law (1983) cc. 1141–1150"
+      ],
+      "origin": "Rooted in the early Western tradition (Hermas, Augustine, Jerome) and canon law; defined at Trent (1563) and codified in the 1917 and 1983 Codes; reaffirmed in Familiaris Consortio (1981); pastoral development in Mitis Iudex (2015) and Amoris Laetitia (2016).",
+      "originYear": 401,
+      "proponentIds": [
+        "augustine-of-hippo",
+        "john-paul-ii",
+        "pope-francis"
+      ],
+      "proponentsOther": [
+        "Hermas (Shepherd)",
+        "Council of Trent",
+        "Carlo Caffarra",
+        "Walter Kasper (pastoral proposals)"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "strongestArguments": [
+        "Mark and Luke record Jesus’ prohibition without exception, and Paul repeats it as a command of the Lord (1 Cor 7:10–11).",
+        "Indissolubility reflects Christ’s unbreakable covenant with the Church.",
+        "It protects spouses and children from abandonment."
+      ],
+      "strongestObjections": [
+        "Protestants and Orthodox argue that Matthew’s exception and Paul’s desertion clause allow divorce and remarriage.",
+        "Critics say annulment can function in practice as \"Catholic divorce\", especially after procedures were simplified.",
+        "Pastorally it can exclude remarried divorcees from communion for life (debated after Amoris Laetitia)."
+      ],
+      "responses": [
+        "Catholics answer that nullity declares a fact (no valid bond) rather than dissolving one.",
+        "Amoris Laetitia (2016) allows case-by-case discernment while keeping the doctrine."
+      ],
+      "consequences": [
+        "Church tribunals and annulment practice.",
+        "Debates over communion for divorced and remarried Catholics.",
+        "Catholic opposition to civil divorce laws (e.g. Italy 1974, Ireland 1995 referendums)."
+      ],
+      "relatedPositionIds": [
+        "marriage-sacrament",
+        "orthodox-oikonomia-remarriage",
+        "erasmian-divorce",
+        "permanence-view"
+      ],
+      "standing": "significant",
+      "sources": [
+        "witte-sacrament-contract",
+        "catechism-catholic-church",
+        "instone-brewer-divorce"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "orthodox-oikonomia-remarriage",
+      "doctrineId": "sexuality-marriage",
+      "name": "Orthodox oikonomia and penitential remarriage",
+      "altNames": [
+        "Economy in marriage",
+        "Second and third marriages",
+        "Ecclesiastical divorce"
+      ],
+      "oneLine": "Marriage is a holy mystery meant to be eternal, but when it has spiritually died the Church may, by pastoral economy (oikonomia), grant a divorce and allow a second or even third marriage with a penitential rite.",
+      "coreClaims": [
+        "Christian marriage is unique and ideally eternal, even beyond death (hence a sober rite for second marriages).",
+        "Adultery and other grave causes can destroy the marriage; the Church recognises this death rather than declaring the marriage never existed.",
+        "Oikonomia is the Church’s merciful application of canons for salvation.",
+        "No more than three marriages are permitted (Tome of Union, 920)."
+      ],
+      "keyTexts": [
+        "Matthew 5:32; 19:9",
+        "1 Corinthians 7:15",
+        "Basil, Canonical Letters 188, 199, 217 (canons 4, 9, 48, 77, 80)"
+      ],
+      "origin": "Grounded in Matthew’s exception and in Basil of Caesarea’s canons (c.374–375); Byzantine imperial law permitted divorce on several grounds; the Tome of Union (920) ended a dispute over Emperor Leo VI’s fourth marriage by limiting marriages to three.",
+      "originYear": 375,
+      "proponentIds": [
+        "basil-of-caesarea",
+        "john-chrysostom"
+      ],
+      "proponentsOther": [
+        "Theodore the Studite (as rigorist critic)",
+        "John Meyendorff",
+        "Patriarch Nicholas Mystikos"
+      ],
+      "traditionIds": [
+        "eastern-orthodox",
+        "russian-orthodox",
+        "oriental-orthodox"
+      ],
+      "strongestArguments": [
+        "Matthew’s exception explicitly allows divorce for porneia.",
+        "It combines a high ideal with realistic mercy for human failure.",
+        "It honours the reality of a marriage that existed instead of retroactively denying it (as annulment does)."
+      ],
+      "strongestObjections": [
+        "Catholics argue it contradicts Jesus’ unqualified prohibition in Mark and Luke and Paul’s \"let her remain unmarried\".",
+        "Critics note that Byzantine practice was influenced by imperial law rather than theology.",
+        "Some Protestants find the limit of three marriages arbitrary."
+      ],
+      "responses": [
+        "Orthodox answer that economy does not deny the ideal but applies it pastorally, as the Church always has.",
+        "They point out that Trent deliberately worded its canon so as not to condemn Eastern practice."
+      ],
+      "consequences": [
+        "Orthodox ecclesiastical divorce procedures.",
+        "An ecumenical point of comparison in Catholic debates over remarriage."
+      ],
+      "relatedPositionIds": [
+        "catholic-indissolubility-annulment",
+        "erasmian-divorce",
+        "marriage-sacrament"
+      ],
+      "standing": "significant",
+      "sources": [
+        "meyendorff-marriage",
+        "ware-orthodox-church",
+        "instone-brewer-divorce"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "erasmian-divorce",
+      "doctrineId": "sexuality-marriage",
+      "name": "Erasmian view of divorce and remarriage (Protestant)",
+      "altNames": [
+        "Divorce for adultery and desertion",
+        "Westminster view",
+        "Majority Protestant view"
+      ],
+      "oneLine": "Marriage is meant to be lifelong, but Scripture permits divorce with freedom to remarry for adultery (Matthew’s exception) and wilful desertion (1 Corinthians 7:15), and many add abuse as a form of desertion.",
+      "coreClaims": [
+        "Jesus’ \"except it be for fornication\" (Matt 5:32; 19:9) allows the innocent party to divorce and remarry.",
+        "Paul’s \"a brother or a sister is not under bondage\" (1 Cor 7:15) frees the deserted spouse.",
+        "Divorce, where allowed, dissolves the marriage so that remarriage is not adultery.",
+        "Reconciliation should be sought where possible."
+      ],
+      "keyTexts": [
+        "Matthew 5:31–32; 19:3–9",
+        "1 Corinthians 7:10–15",
+        "Deuteronomy 24:1–4",
+        "Westminster Confession 24.5–6"
+      ],
+      "origin": "Erasmus’s annotations on 1 Corinthians 7 (1519) argued for divorce and remarriage; adopted by Luther, Bucer, Calvin, Beza (On Divorce, 1569) and Protestant marriage courts; confessed in the Westminster Confession (1647); modern scholars such as David Instone-Brewer add neglect and abuse based on Exodus 21:10–11.",
+      "originYear": 1519,
+      "proponentIds": [
+        "erasmus",
+        "john-calvin",
+        "theodore-beza",
+        "martin-luther"
+      ],
+      "proponentsOther": [
+        "Martin Bucer",
+        "John Milton (broader view)",
+        "John Murray",
+        "David Instone-Brewer"
+      ],
+      "traditionIds": [
+        "lutheran",
+        "reformed",
+        "presbyterian",
+        "baptist",
+        "methodist",
+        "evangelical",
+        "pentecostal",
+        "anglican"
+      ],
+      "strongestArguments": [
+        "It takes Matthew’s exception and Paul’s desertion clause at face value.",
+        "In Jewish context a divorce certificate always conferred the right to remarry.",
+        "It protects innocent victims of adultery, desertion and abuse."
+      ],
+      "strongestObjections": [
+        "Catholics and permanence-view evangelicals argue that Mark, Luke and Paul’s \"remain unmarried\" exclude remarriage.",
+        "Critics note that Protestant societies moved from limited grounds to no-fault divorce, suggesting a slippery slope.",
+        "Defining \"desertion\" and \"abuse\" can become elastic."
+      ],
+      "responses": [
+        "Advocates answer that the problem with no-fault divorce is its departure from biblical grounds, not the grounds themselves.",
+        "They argue that Matthew’s exception was preserved precisely to clarify the shorter sayings."
+      ],
+      "consequences": [
+        "Protestant civil divorce laws from the 16th century.",
+        "Mainstream evangelical and mainline pastoral practice.",
+        "Debates over remarried clergy."
+      ],
+      "relatedPositionIds": [
+        "marriage-covenant-civil",
+        "catholic-indissolubility-annulment",
+        "orthodox-oikonomia-remarriage",
+        "permanence-view"
+      ],
+      "standing": "majority",
+      "sources": [
+        "instone-brewer-divorce",
+        "witte-sacrament-contract",
+        "schaff-creeds"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "permanence-view",
+      "doctrineId": "sexuality-marriage",
+      "name": "Permanence view (no remarriage while a spouse lives)",
+      "altNames": [
+        "No-remarriage view",
+        "Early church view (as claimed by advocates)"
+      ],
+      "oneLine": "Separation, and in some cases legal divorce, may be permitted, but remarriage while the former spouse is alive is adultery, because the one-flesh covenant lasts until death.",
+      "coreClaims": [
+        "\"Whosoever putteth away his wife, and marrieth another, committeth adultery\" (Mark 10:11; Luke 16:18).",
+        "Paul: \"let her remain unmarried, or be reconciled\" (1 Cor 7:11); a wife is bound \"as long as her husband liveth\" (Rom 7:2; 1 Cor 7:39).",
+        "Matthew’s exception refers to betrothal unfaithfulness or unlawful unions, not to consummated marriages.",
+        "Covenant faithfulness mirrors God’s faithfulness to his unfaithful people (Hosea)."
+      ],
+      "keyTexts": [
+        "Mark 10:11–12",
+        "Luke 16:18",
+        "Romans 7:2–3",
+        "1 Corinthians 7:10–11, 39",
+        "Hosea 3:1"
+      ],
+      "origin": "Many early Christian writers (Hermas, Justin, Clement of Alexandria, Jerome) forbade remarriage after divorce; maintained in Catholic doctrine (with annulment) and revived among some evangelicals (William Heth and Gordon Wenham, Jesus and Divorce, 1984; John Piper).",
+      "originYear": 140,
+      "proponentIds": [
+        "john-piper",
+        "jerome"
+      ],
+      "proponentsOther": [
+        "Hermas",
+        "Gordon Wenham",
+        "William Heth (later revised his view)",
+        "J. Carl Laney"
+      ],
+      "traditionIds": [
+        "evangelical",
+        "baptist",
+        "anabaptist",
+        "amish"
+      ],
+      "strongestArguments": [
+        "The shorter and arguably earlier sayings in Mark and Luke have no exception.",
+        "The disciples’ shocked reaction (Matt 19:10) suggests Jesus taught something stricter than the rabbinic options.",
+        "It strongly expresses covenant permanence."
+      ],
+      "strongestObjections": [
+        "Most Protestants and the Orthodox read Matthew’s exception and 1 Corinthians 7:15 as permitting remarriage.",
+        "It may leave abandoned or abused spouses without the possibility of a new marriage, which critics see as unjust.",
+        "The betrothal interpretation of \"porneia\" is contested."
+      ],
+      "responses": [
+        "Advocates answer that celibacy is a calling empowered by grace and that the church must support the abandoned.",
+        "They argue that hard teaching is not unjust if it reflects Christ’s word and God’s faithfulness."
+      ],
+      "consequences": [
+        "Minority practice in some evangelical, Anabaptist and Reformed churches.",
+        "Restrictions on remarried members in certain plain churches."
+      ],
+      "relatedPositionIds": [
+        "catholic-indissolubility-annulment",
+        "erasmian-divorce"
+      ],
+      "standing": "minority",
+      "sources": [
+        "instone-brewer-divorce",
+        "brown-body-society"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "contraception-natural-law",
+      "doctrineId": "sexuality-marriage",
+      "name": "Prohibition of artificial contraception (natural law)",
+      "altNames": [
+        "Humanae Vitae teaching",
+        "Openness to life",
+        "Natural family planning"
+      ],
+      "oneLine": "The unitive and procreative meanings of the marital act are inseparable by God’s design, so deliberately rendering intercourse infertile is morally wrong, though spouses may space births for serious reasons by using natural infertile periods.",
+      "coreClaims": [
+        "Each marital act must remain open to the transmission of life (Humanae Vitae 11).",
+        "Natural law, known by reason, reveals the meaning of human sexuality.",
+        "Periodic abstinence respects the body’s rhythms; artificial contraception overrides them.",
+        "Separating sex from procreation tends to degrade marriage, women and social morality (HV 17).",
+        "Responsible parenthood is a real duty, exercised within these limits."
+      ],
+      "keyTexts": [
+        "Genesis 1:28",
+        "Genesis 38:8–10 (Onan, traditionally cited)",
+        "Psalm 127:3–5",
+        "Humanae Vitae (1968)",
+        "Casti Connubii (1930)"
+      ],
+      "origin": "The early and medieval church condemned contraceptive potions and practices (Augustine, Jerome; canon law); all major churches opposed contraception until Lambeth 1930. Pius XI (Casti Connubii, 1930), Pius XII (1951, permitting rhythm), Paul VI (Humanae Vitae, 1968) and John Paul II (Theology of the Body, 1979–84) formed modern Catholic teaching.",
+      "originYear": 1930,
+      "proponentIds": [
+        "paul-vi",
+        "john-paul-ii",
+        "augustine-of-hippo"
+      ],
+      "proponentsOther": [
+        "Pius XI",
+        "Elizabeth Anscombe",
+        "Janet Smith",
+        "Germain Grisez",
+        "some Protestant \"quiverfull\" and Orthodox voices"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-catholic"
+      ],
+      "strongestArguments": [
+        "It was the unanimous Christian teaching for nineteen centuries.",
+        "Paul VI’s predictions about the effects of widespread contraception on sexual mores are often said to have been vindicated.",
+        "It integrates body and person, avoiding a technological approach to sexuality."
+      ],
+      "strongestObjections": [
+        "Most Protestants and many Catholic theologians argue that the distinction between natural and artificial methods is morally thin when the intention to avoid conception is the same.",
+        "The papal commission’s majority (1966) and many lay Catholics believed responsible parenthood can justify contraception.",
+        "Critics note its burden on women and the poor, and its non-reception among most Western Catholics."
+      ],
+      "responses": [
+        "Defenders answer that the moral difference lies in the act itself: abstaining is not the same as rendering an act infertile.",
+        "They point to the growing literature on natural family planning’s effectiveness and to support for the teaching in Africa and among younger Catholics."
+      ],
+      "consequences": [
+        "Natural family planning movements.",
+        "A major point of dissent and authority crisis in post-1968 Catholicism.",
+        "John Paul II’s Theology of the Body."
+      ],
+      "relatedPositionIds": [
+        "contraception-responsible-parenthood",
+        "marriage-sacrament",
+        "pro-life-abortion"
+      ],
+      "standing": "significant",
+      "sources": [
+        "noonan-contraception",
+        "humanae-vitae-text",
+        "catechism-catholic-church"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "contraception-responsible-parenthood",
+      "doctrineId": "sexuality-marriage",
+      "name": "Contraception permitted for responsible parenthood",
+      "altNames": [
+        "Lambeth 1930 view",
+        "Family planning",
+        "Responsible parenthood (Protestant)"
+      ],
+      "oneLine": "Within marriage, couples may use contraception to plan or limit their families for morally sound reasons, since sexual union has a God-given unitive purpose that is not limited to procreation in every act.",
+      "coreClaims": [
+        "Marital love and companionship are goods in their own right (1 Cor 7:3–5; Song of Songs).",
+        "God calls couples to responsible stewardship of procreation, considering health, economics and vocation.",
+        "The moral relevance lies in the couple’s overall openness to children and motives, not each act.",
+        "Methods that do not destroy an embryo are acceptable; abortifacient methods raise separate concerns."
+      ],
+      "keyTexts": [
+        "Genesis 2:18–24",
+        "1 Corinthians 7:3–5",
+        "Song of Songs",
+        "Lambeth Conference Resolution 15 (1930)"
+      ],
+      "origin": "Lambeth Conference Resolution 15 (1930), followed by the US Federal Council of Churches (1931) and most Protestant churches by the 1960s; also the majority report of the Pontifical Commission on Birth Control (1966). Many Orthodox theologians accept non-abortifacient contraception within marriage by pastoral guidance.",
+      "originYear": 1930,
+      "proponentIds": [
+        "karl-barth"
+      ],
+      "proponentsOther": [
+        "Lambeth bishops (1930)",
+        "Federal Council of Churches (1931)",
+        "Bernard Häring",
+        "Pontifical Commission majority (1966)",
+        "Chrysostomos Stamoulis (Orthodox)"
+      ],
+      "traditionIds": [
+        "anglican",
+        "lutheran",
+        "reformed",
+        "methodist",
+        "baptist",
+        "evangelical",
+        "pentecostal",
+        "eastern-orthodox"
+      ],
+      "strongestArguments": [
+        "Scripture never explicitly condemns contraception; the Onan story concerns refusal of levirate duty.",
+        "Couples using natural family planning share the same intention of avoiding conception.",
+        "It allows families to care for children, maternal health and limited resources responsibly."
+      ],
+      "strongestObjections": [
+        "Catholics argue it severs sex from procreation and opened the way to the sexual revolution.",
+        "Critics note that Lambeth’s cautious permission rapidly became universal acceptance.",
+        "Some Protestant pro-natalists (\"quiverfull\") argue children are an unqualified blessing to be welcomed without limit."
+      ],
+      "responses": [
+        "Advocates reply that the sexual revolution has many causes and that Christian ethics can affirm contraception within marriage alone.",
+        "They argue that responsible stewardship, not maximal fertility, honours God’s gift of children."
+      ],
+      "consequences": [
+        "Near-universal acceptance of contraception in Protestant churches.",
+        "Catholic–Protestant divergence on sexual ethics.",
+        "Christian involvement in family planning in the developing world."
+      ],
+      "relatedPositionIds": [
+        "contraception-natural-law",
+        "marriage-covenant-civil"
+      ],
+      "standing": "majority",
+      "sources": [
+        "noonan-contraception",
+        "lambeth-resolutions-archive",
+        "witte-sacrament-contract"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "complementarianism",
+      "doctrineId": "sexuality-marriage",
+      "name": "Complementarianism",
+      "altNames": [
+        "Biblical manhood and womanhood",
+        "Male headship view",
+        "Soft patriarchy (critics’ term)"
+      ],
+      "oneLine": "Men and women are equal in dignity and value as God’s image-bearers, but God has assigned them distinct, complementary roles: loving male headship in marriage and male leadership in the eldership or pastorate of the church.",
+      "coreClaims": [
+        "Equality of essence and distinction of role are compatible (as in the Trinity, some argue, though this analogy is disputed among complementarians).",
+        "Headship is rooted in creation order before the fall (1 Tim 2:13; 1 Cor 11:8–9), not in culture.",
+        "Husbands are to love sacrificially; wives to submit respectfully (Eph 5:22–33).",
+        "Women may exercise many ministries, but the office of elder/pastor is reserved to qualified men."
+      ],
+      "keyTexts": [
+        "Genesis 2:18–23",
+        "1 Corinthians 11:3–16; 14:34–35",
+        "Ephesians 5:22–33",
+        "1 Timothy 2:11–15; 3:1–7",
+        "1 Peter 3:1–7"
+      ],
+      "origin": "Male headship was the general assumption of historic Christian teaching; the term \"complementarian\" arose in response to evangelical feminism with the Danvers Statement (1987) of the Council on Biblical Manhood and Womanhood and Recovering Biblical Manhood and Womanhood (1991). Catholic and Orthodox churches hold a related but distinct sacramental basis for a male priesthood.",
+      "originYear": 1987,
+      "proponentIds": [
+        "john-piper",
+        "j-i-packer",
+        "john-macarthur"
+      ],
+      "proponentsOther": [
+        "Wayne Grudem",
+        "Elisabeth Elliot",
+        "Mary Kassian",
+        "Thomas Schreiner",
+        "Kathy Keller"
+      ],
+      "traditionIds": [
+        "evangelical",
+        "baptist",
+        "presbyterian",
+        "reformed",
+        "pentecostal"
+      ],
+      "strongestArguments": [
+        "Paul grounds his instructions in creation (1 Tim 2:13), not merely in local circumstances.",
+        "Jesus chose twelve male apostles despite countercultural treatment of women.",
+        "The church’s consistent practice for nearly two millennia supports it."
+      ],
+      "strongestObjections": [
+        "Egalitarians argue the key texts address specific local problems (e.g. false teaching in Ephesus) and that Galatians 3:28 sets the trajectory.",
+        "Critics note that complementarian cultures have sometimes enabled abuse and suppressed women’s gifts.",
+        "Appeals to the \"eternal subordination\" of the Son provoked a major intra-evangelical controversy in 2016 over orthodoxy on the Trinity."
+      ],
+      "responses": [
+        "Complementarians answer that abuse violates, not expresses, biblical headship, which is modelled on Christ’s self-giving love.",
+        "Many have distanced themselves from eternal-subordination arguments while retaining creation-order exegesis."
+      ],
+      "consequences": [
+        "Southern Baptist Baptist Faith and Message (2000) restricts pastorate to men.",
+        "Shapes the Presbyterian Church in America, many Pentecostal and non-denominational churches.",
+        "Ongoing debates on women preaching (e.g. SBC 2023)."
+      ],
+      "relatedPositionIds": [
+        "egalitarianism",
+        "womens-ordination-restricted",
+        "marriage-covenant-civil"
+      ],
+      "standing": "significant",
+      "sources": [
+        "piper-grudem-recovering",
+        "pierce-groothuis-equality",
+        "chaves-ordaining-women"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "egalitarianism",
+      "doctrineId": "sexuality-marriage",
+      "name": "Christian egalitarianism",
+      "altNames": [
+        "Biblical equality",
+        "Mutuality",
+        "Evangelical feminism"
+      ],
+      "oneLine": "Men and women are equal not only in dignity but in authority and calling; ministry is determined by gifting rather than gender, and Christian marriage is a partnership of mutual submission.",
+      "coreClaims": [
+        "Both male and female equally bear God’s image and receive the dominion mandate (Gen 1:26–28).",
+        "Patriarchal rule is a consequence of the fall (Gen 3:16), overcome in Christ (Gal 3:28).",
+        "Women served as prophets, deacons and apostles (Junia) in the New Testament.",
+        "Restrictive texts address specific situations, not a universal rule.",
+        "Mutual submission (Eph 5:21) governs marriage."
+      ],
+      "keyTexts": [
+        "Genesis 1:26–28",
+        "Joel 2:28–29; Acts 2:17–18",
+        "Galatians 3:28",
+        "Romans 16:1–7",
+        "Ephesians 5:21",
+        "1 Corinthians 11:11–12"
+      ],
+      "origin": "Anticipated by Quaker women’s ministry (Margaret Fell, Women’s Speaking Justified, 1666), Methodist and Holiness women preachers (Phoebe Palmer, Catherine Booth), and early Pentecostal women; articulated in modern evangelicalism by Christians for Biblical Equality (1987; statement 1989); in mainline churches through women’s ordination from the 1950s–70s.",
+      "originYear": 1859,
+      "proponentIds": [
+        "phoebe-palmer",
+        "rachel-held-evans",
+        "pandita-ramabai"
+      ],
+      "proponentsOther": [
+        "Margaret Fell",
+        "Catherine Booth",
+        "Gilbert Bilezikian",
+        "Gordon Fee",
+        "Catherine Clark Kroeger",
+        "Mimi Haddad"
+      ],
+      "traditionIds": [
+        "methodist",
+        "holiness-movement",
+        "salvation-army",
+        "pentecostal",
+        "quaker",
+        "lutheran",
+        "anglican",
+        "evangelical"
+      ],
+      "strongestArguments": [
+        "The New Testament names women leaders (Phoebe, Priscilla, Junia) and prophesying women.",
+        "Pentecost’s outpouring on \"sons and daughters\" signals a new-creation equality.",
+        "The fruit of women’s ministry in revivals and missions (often a majority of missionaries) confirms God’s call."
+      ],
+      "strongestObjections": [
+        "Complementarians argue egalitarians reinterpret clear texts (1 Tim 2:12) by speculative reconstructions of background.",
+        "Catholic and Orthodox churches hold that the male priesthood reflects Christ’s maleness and the apostolic tradition.",
+        "Some argue egalitarian hermeneutics paved the way for revising sexual ethics."
+      ],
+      "responses": [
+        "Egalitarians answer that interpreting texts in context is standard practice and is applied by complementarians too (e.g. head coverings).",
+        "They distinguish the gender-roles question, grounded in Galatians 3:28 and New Testament practice, from sexual ethics, and many egalitarians hold the traditional sexual ethic."
+      ],
+      "consequences": [
+        "Women’s ordination in most mainline and many Pentecostal and Wesleyan churches.",
+        "CBE International and egalitarian evangelical scholarship.",
+        "Continuing division among evangelicals."
+      ],
+      "relatedPositionIds": [
+        "complementarianism",
+        "womens-ordination-affirmed",
+        "wesleyan-entire-sanctification"
+      ],
+      "standing": "significant",
+      "sources": [
+        "pierce-groothuis-equality",
+        "chaves-ordaining-women",
+        "piper-grudem-recovering"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "traditional-sexual-ethic",
+      "doctrineId": "sexuality-marriage",
+      "name": "Traditional (historic) Christian sexual ethic",
+      "altNames": [
+        "Historic view",
+        "Traditional view of marriage and sexuality",
+        "Non-affirming view (critics’ term)"
+      ],
+      "oneLine": "Sexual intimacy is God’s gift for the lifelong covenant of marriage between one man and one woman; all sexual relations outside it, including same-sex sexual relations, fall short of God’s design, and those not married are called to chastity, supported by the church’s friendship and love.",
+      "coreClaims": [
+        "Creation establishes marriage as the union of male and female, reaffirmed by Jesus (Gen 1:27; 2:24; Matt 19:4–6).",
+        "Every biblical text that mentions same-sex intercourse prohibits it, in both Testaments (Lev 18:22; Rom 1:26–27; 1 Cor 6:9–11).",
+        "Sexual difference is integral to marriage’s symbolism of Christ and the Church (Eph 5:31–32).",
+        "Same-sex attraction is not itself sinful in most contemporary formulations; acting on it sexually is.",
+        "Christians with same-sex attraction are full members of the body of Christ, called with all unmarried believers to celibacy; churches must repent of contempt and hostility."
+      ],
+      "keyTexts": [
+        "Genesis 1:26–28; 2:18–25",
+        "Leviticus 18:22; 20:13",
+        "Matthew 19:3–12",
+        "Romans 1:24–27",
+        "1 Corinthians 6:9–11",
+        "1 Timothy 1:9–10"
+      ],
+      "origin": "The consistent teaching of Jewish and early Christian moral catechesis (Didache 2; Clement of Alexandria; Chrysostom’s Homily 4 on Romans), medieval and Reformation theology; restated in modern documents such as the CDF’s Persona Humana (1975), the Catechism (1992, §§2357–2359), Lambeth I.10 (1998), the Nashville Statement (2017), and statements by Orthodox, Oriental Orthodox, evangelical and Pentecostal bodies.",
+      "originYear": 100,
+      "proponentIds": [
+        "augustine-of-hippo",
+        "john-chrysostom",
+        "thomas-aquinas",
+        "john-paul-ii",
+        "john-stott"
+      ],
+      "proponentsOther": [
+        "Robert Gagnon",
+        "Richard Hays",
+        "Wesley Hill",
+        "Sam Allberry",
+        "Rosaria Butterfield",
+        "Global Anglican Future Conference (GAFCON)",
+        "Ecumenical Patriarchate and Russian Orthodox Church"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-orthodox",
+        "oriental-orthodox",
+        "evangelical",
+        "pentecostal",
+        "baptist",
+        "african-initiated-churches",
+        "anglican",
+        "assemblies-of-god"
+      ],
+      "strongestArguments": [
+        "The witness of Scripture is uniform and grounds its sexual ethic in creation rather than only in cultural circumstances (Gagnon; Hays).",
+        "Jesus defined marriage by reference to \"male and female\" (Matt 19:4–5) and intensified, rather than relaxed, sexual ethics.",
+        "It is the unbroken consensus of the church across East and West for two millennia and of the great majority of Christians in the Global South today.",
+        "Ancient writers did know of mutual, adult same-sex relationships (e.g. in Plato’s Symposium), so the texts are not limited to exploitation."
+      ],
+      "strongestObjections": [
+        "Affirming scholars argue that the biblical writers had no concept of sexual orientation or of committed, egalitarian same-sex partnerships, so the texts do not address them (Brownson; Loader on context).",
+        "Requiring lifelong celibacy of all gay and lesbian people imposes a burden that Scripture elsewhere treats as a gift for some (1 Cor 7:7–9), and has been associated with documented harms to mental health.",
+        "The church once read Scripture to support slavery and the subordination of women; the experience of faithful LGBTQ Christians may likewise prompt re-reading (cf. Acts 15).",
+        "Historic teaching has been accompanied by contempt, criminalisation and violence that discredit it in the eyes of many."
+      ],
+      "responses": [
+        "Traditionalists reply that the creation-based structure of the argument (male and female) is unaffected by modern categories of orientation, and that Paul’s language in Romans 1 is general.",
+        "They answer that singleness and friendship should be honoured far more by churches, and that celibate gay Christians (e.g. Wesley Hill) testify to flourishing within the historic ethic.",
+        "They distinguish slavery, which Scripture regulates but never grounds in creation, from marriage, which it grounds in creation.",
+        "Many traditional churches have formally repented of hostility and oppose violence and criminalisation, while some Global South churches support criminal laws, a stance criticised by other traditionalists."
+      ],
+      "consequences": [
+        "Official teaching of the large majority of the world’s churches.",
+        "GAFCON and realignment within Anglicanism; Global Methodist Church.",
+        "Debates over pastoral care, conversion therapy (widely rejected) and civil law."
+      ],
+      "relatedPositionIds": [
+        "affirming-same-sex",
+        "marriage-sacrament",
+        "marriage-covenant-civil",
+        "complementarianism"
+      ],
+      "standing": "majority",
+      "sources": [
+        "gagnon-bible-homosexual",
+        "sprinkle-two-views",
+        "catechism-catholic-church",
+        "lambeth-resolutions-archive",
+        "stott-issues"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "affirming-same-sex",
+      "doctrineId": "sexuality-marriage",
+      "name": "Affirming view of same-sex relationships",
+      "altNames": [
+        "Inclusive view",
+        "LGBTQ-affirming theology",
+        "Revisionist view (critics’ term)"
+      ],
+      "oneLine": "Faithful, lifelong, committed same-sex partnerships can embody the same covenant love, fidelity and mutual self-giving that Scripture honours in marriage; the church should bless and marry same-sex couples and fully include LGBTQ Christians in ministry.",
+      "coreClaims": [
+        "The handful of biblical prohibitions address forms of same-sex activity known in antiquity (pederasty, exploitation, excess of lust, cultic prostitution), not loving, committed partnerships between people of homosexual orientation.",
+        "The moral logic of marriage in Scripture is covenant faithfulness and one-flesh kinship (Brownson), which same-sex couples can share.",
+        "Mandatory celibacy for all gay people contradicts Scripture’s view of celibacy as a gift, not a requirement (1 Cor 7:7–9).",
+        "The fruit of the Spirit in LGBTQ Christians’ lives is evidence of God’s acceptance, as with Gentiles in Acts 10–15.",
+        "Justice, love of neighbour and the image of God require ending exclusion and discrimination."
+      ],
+      "keyTexts": [
+        "Genesis 2:18 (\"not good that the man should be alone\")",
+        "Acts 10–11; 15",
+        "Romans 13:8–10",
+        "Galatians 3:28; 5:22–23",
+        "1 Samuel 18:1–3 (David and Jonathan, cited by some)"
+      ],
+      "origin": "Prepared by D. S. Bailey’s historical re-reading (1955), the Quaker report Towards a Quaker View of Sex (1963), the Metropolitan Community Church (1968) and John Boswell (1980); developed theologically by Eugene Rogers, James Alison, Dale Martin and James Brownson (2013), and popularised by Matthew Vines (God and the Gay Christian, 2014) and David Gushee (Changing Our Mind, 2014). Adopted by the United Church of Christ (2005), the Episcopal Church (2003–2015), ELCA (2009), PC(USA) (2014), Church of Scotland (2022), the Uniting Church in Australia (2018), the UMC (2024) and others.",
+      "originYear": 1990,
+      "proponentIds": [
+        "desmond-tutu",
+        "rachel-held-evans",
+        "rob-bell"
+      ],
+      "proponentsOther": [
+        "James Brownson",
+        "Matthew Vines",
+        "David Gushee",
+        "Eugene F. Rogers Jr.",
+        "Gene Robinson",
+        "Megan DeFranza",
+        "Justin Lee"
+      ],
+      "traditionIds": [
+        "anglican",
+        "lutheran",
+        "presbyterian",
+        "methodist",
+        "congregationalist",
+        "quaker",
+        "unitarian",
+        "old-catholic"
+      ],
+      "strongestArguments": [
+        "Sexual orientation as a stable trait was unknown to the biblical writers; applying their prohibitions to it may be like applying ancient cosmology to modern astronomy.",
+        "Jesus’ ethic prioritises love, justice and the fruit of lives (Matt 7:16–20; 22:37–40), and the church has revised readings before (Gentile inclusion, slavery, usury, divorce).",
+        "The documented harm of exclusion — family rejection, depression and suicide among LGBTQ youth — is a moral concern the church cannot ignore.",
+        "Covenant fidelity, not sexual difference, is the moral centre of Scripture’s marriage teaching (Brownson)."
+      ],
+      "strongestObjections": [
+        "Traditional scholars, including some who support civil equality, argue the biblical texts are clear and creation-based, and that ancient writers did know of consensual adult relationships (Gagnon; Hays; even some affirming scholars such as William Loader concede Paul would not have approved).",
+        "Jesus’ only definition of marriage refers to \"male and female\", and no biblical text affirms same-sex unions.",
+        "The view departs from the unanimous teaching of the church across two millennia and of the great majority of Christians today, especially in Africa and Asia, causing schism.",
+        "Experience and cultural change, critics argue, are being given authority over Scripture (a concern raised also about the Acts 15 analogy)."
+      ],
+      "responses": [
+        "Affirming theologians reply that Scripture itself models development under the Spirit (Acts 15), and that faithful readers now recognise contexts the writers did not envisage.",
+        "They argue that the creation narrative emphasises companionship (\"not good to be alone\") more than complementarity, and that \"male and female\" describes the typical case without excluding others.",
+        "They acknowledge the global disagreement and often call for structures (e.g. regional autonomy) that let churches differ without excommunication."
+      ],
+      "consequences": [
+        "Same-sex marriage or blessing in many mainline Protestant and some Old Catholic churches.",
+        "Schisms and realignments (ACNA, GAFCON, Global Methodist Church, departures from ELCA and PC(USA)).",
+        "Ecumenical strain with Catholic, Orthodox and Global South churches."
+      ],
+      "relatedPositionIds": [
+        "traditional-sexual-ethic",
+        "egalitarianism",
+        "liberal-protestantism",
+        "emerging-progressive-christianity"
+      ],
+      "standing": "minority",
+      "sources": [
+        "brownson-bible-gender",
+        "sprinkle-two-views",
+        "umc-news-2019-2024"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "pro-life-abortion",
+      "doctrineId": "sexuality-marriage",
+      "name": "Pro-life position (historic opposition to abortion)",
+      "altNames": [
+        "Sanctity of life view",
+        "Consistent ethic of life",
+        "Seamless garment"
+      ],
+      "oneLine": "Human life is sacred from conception, so direct abortion is the unjust killing of an innocent human being; Christians should protect the unborn while supporting mothers and families.",
+      "coreClaims": [
+        "Every human life bears God’s image from its beginning (Ps 139:13–16; Jer 1:5; Luke 1:41–44).",
+        "The early church condemned abortion and infanticide as murder (Didache 2; Athenagoras; Basil, canon 2).",
+        "Direct abortion is gravely wrong; many allow interventions to save the mother’s life (double effect) and differ on other exceptions.",
+        "A \"consistent ethic of life\" links opposition to abortion with concern for the poor, opposition to euthanasia and, for many, the death penalty.",
+        "Pro-life witness includes practical care for pregnant women and children."
+      ],
+      "keyTexts": [
+        "Exodus 20:13",
+        "Psalm 139:13–16",
+        "Jeremiah 1:5",
+        "Luke 1:41–44",
+        "Didache 2",
+        "Athenagoras, Plea 35"
+      ],
+      "origin": "Continuous Christian teaching from the Didache (c.100) through Basil’s canons (c.375), medieval canon law (with debates about \"ensoulment\" timing) and the Reformers; reaffirmed by Vatican II (Gaudium et Spes 51), John Paul II’s Evangelium Vitae (1995), Orthodox bodies and evangelical leaders after Roe v. Wade (1973), notably Francis Schaeffer and C. Everett Koop (1979).",
+      "originYear": 100,
+      "proponentIds": [
+        "athenagoras",
+        "basil-of-caesarea",
+        "john-paul-ii",
+        "teresa-of-calcutta"
+      ],
+      "proponentsOther": [
+        "Joseph Bernardin",
+        "Francis Schaeffer",
+        "C. Everett Koop",
+        "Dietrich Bonhoeffer (Ethics)",
+        "Southern Baptist Convention (since 1980)"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-orthodox",
+        "oriental-orthodox",
+        "evangelical",
+        "pentecostal",
+        "baptist",
+        "latter-day-saints"
+      ],
+      "strongestArguments": [
+        "The unanimity of early Christian witness, in sharp contrast to pagan practice, shows abortion opposition is not a modern political invention.",
+        "Embryology confirms that a distinct human organism exists from conception.",
+        "Protecting the most vulnerable is central to biblical justice."
+      ],
+      "strongestObjections": [
+        "Pro-choice Christians argue that Scripture does not directly address abortion and that Exodus 21:22–25 may treat foetal loss differently from murder.",
+        "Medieval theologians (following Aristotle) held delayed ensoulment, so the moral status of early embryos was historically debated.",
+        "Critics say the movement has often focused on criminalisation over support for women and allied itself with partisan politics."
+      ],
+      "responses": [
+        "Pro-life advocates answer that delayed-ensoulment theories still treated abortion as gravely sinful, and that modern biology removes the basis for them.",
+        "Many emphasise crisis pregnancy support, adoption and social policy alongside legal protection."
+      ],
+      "consequences": [
+        "Catholic–evangelical cooperation in the US pro-life movement.",
+        "Christian hospitals’ ethical directives.",
+        "Political influence culminating in Dobbs v. Jackson (2022) in the US."
+      ],
+      "relatedPositionIds": [
+        "pro-choice-christian",
+        "contraception-natural-law",
+        "christian-nationalism-debates"
+      ],
+      "standing": "majority",
+      "sources": [
+        "gorman-abortion-early-church",
+        "catechism-catholic-church",
+        "noll-christianity-us"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "pro-choice-christian",
+      "doctrineId": "sexuality-marriage",
+      "name": "Christian pro-choice position",
+      "altNames": [
+        "Reproductive justice (Christian)",
+        "Moral agency view"
+      ],
+      "oneLine": "While abortion is a serious moral decision, the pregnant woman, as a moral agent before God, should be able to make it in conscience, and the law should not criminalise it; the church’s role is pastoral support rather than coercion.",
+      "coreClaims": [
+        "Scripture does not explicitly address abortion, and the moral status of the early embryo is contested.",
+        "Women are full moral agents whose conscience and circumstances must be respected.",
+        "Criminalising abortion harms women, especially the poor, without reducing it effectively.",
+        "Christians should work to reduce the need for abortion through social justice, healthcare and support."
+      ],
+      "keyTexts": [
+        "Exodus 21:22–25 (as read by some)",
+        "Genesis 2:7 (life as breath)",
+        "Galatians 5:1 (freedom of conscience)",
+        "Luke 10:25–37"
+      ],
+      "origin": "Emerged in mainline Protestant and Jewish bodies in the 1960s–70s, which supported legal reform before Roe v. Wade (1973); the Religious Coalition for Abortion Rights (1973, now Religious Coalition for Reproductive Choice) and feminist ethicists such as Beverly Harrison (1983) articulated it; Catholics for Choice (1973) dissent from Catholic teaching.",
+      "originYear": 1970,
+      "proponentIds": [
+        "beverly-harrison"
+      ],
+      "proponentsOther": [
+        "Religious Coalition for Reproductive Choice",
+        "United Church of Christ",
+        "Episcopal Church (with qualifications)",
+        "Presbyterian Church (USA) (with qualifications)",
+        "Catholics for Choice (dissenting)"
+      ],
+      "traditionIds": [
+        "congregationalist",
+        "presbyterian",
+        "anglican",
+        "methodist",
+        "unitarian"
+      ],
+      "strongestArguments": [
+        "There is genuine moral and scientific debate about when personhood begins, on which a pluralist state should not impose one religious view.",
+        "Historical evidence shows criminalisation leads to dangerous illegal abortions.",
+        "Jesus’ compassion toward women in difficult situations favours support over judgement."
+      ],
+      "strongestObjections": [
+        "Most Christian traditions hold that it contradicts the unanimous early church teaching against abortion (Didache; Athenagoras; Basil).",
+        "Critics argue that if the unborn is a human being, a woman’s autonomy cannot override its right to life.",
+        "Several denominations that adopted pro-choice positions have since qualified them (e.g. Southern Baptists reversed in 1980)."
+      ],
+      "responses": [
+        "Advocates reply that respecting conscience does not mean approving every abortion, and that ancient condemnations also concerned infanticide and sexual immorality.",
+        "They argue that reducing abortion is better achieved through social support than criminal law."
+      ],
+      "consequences": [
+        "Mainline Protestant support for legal abortion in the US and Europe.",
+        "Polarisation between denominations in American politics."
+      ],
+      "relatedPositionIds": [
+        "pro-life-abortion",
+        "liberal-protestantism",
+        "contraception-responsible-parenthood"
+      ],
+      "standing": "minority",
+      "sources": [
+        "harrison-our-right",
+        "gorman-abortion-early-church",
+        "noll-christianity-us"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "controversies": [
+    {
+      "id": "same-sex-relationships-debate",
+      "question": "Should the church bless and marry same-sex couples?",
+      "title": "Same-sex relationships and the churches",
+      "summary": "Since the mid-20th century churches have debated whether the historic teaching that sex belongs only in man–woman marriage should be maintained or revised to affirm faithful same-sex partnerships. The question has divided Anglicans, Lutherans, Presbyterians and Methodists, strained Catholic and Orthodox relations with Protestants, and set Global North against Global South.",
+      "doctrineIds": [
+        "sexuality-marriage",
+        "scripture-authority"
+      ],
+      "sides": [
+        {
+          "name": "Historic / traditional view",
+          "positionId": "traditional-sexual-ethic",
+          "steelman": "God made us male and female and joined them in marriage as a living picture of Christ and his Church. Every text of Scripture that speaks of same-sex intercourse, from Leviticus to Paul, rejects it, and Jesus himself defined marriage by Genesis. We do not hold this out of hostility: we repent where the church has shown contempt, and we want gay and lesbian brothers and sisters fully loved, befriended and included. But love cannot bless what Scripture and the whole church across the centuries call sin. Celibacy is hard, yet Christ calls all of us to costly discipleship and promises to be enough.",
+          "arguments": [
+            "Creation pattern (Gen 1–2; Matt 19)",
+            "Consistent biblical prohibitions",
+            "Two-thousand-year consensus",
+            "Ancient knowledge of consensual relationships",
+            "Global church majority"
+          ],
+          "counterArguments": [
+            "Writers lacked concept of orientation",
+            "Mandatory celibacy as burden",
+            "Harms to LGBTQ people",
+            "Precedent of re-reading on slavery"
+          ],
+          "keyTexts": [
+            "Genesis 2:24",
+            "Matthew 19:4–6",
+            "Romans 1:26–27",
+            "1 Corinthians 6:9–11"
+          ],
+          "quoteIds": [
+            "stott-same-sex-para"
+          ]
+        },
+        {
+          "name": "Affirming view",
+          "positionId": "affirming-same-sex",
+          "steelman": "The Bible’s handful of prohibitions condemn exploitation and excess in a world that knew nothing of people whose orientation is lasting and who seek lifelong covenant with one partner. What Scripture honours in marriage is faithful, self-giving, one-flesh kinship, and same-sex couples can live that. When the early church saw the Spirit poured out on uncircumcised Gentiles, it changed its practice; we see the Spirit’s fruit in gay and lesbian Christians today. Demanding lifelong celibacy of them all turns a gift into a law, and the harm done by exclusion is a moral fact the church cannot ignore.",
+          "arguments": [
+            "Contextual reading of the texts",
+            "Covenant faithfulness as moral core",
+            "Acts 15 precedent",
+            "Fruit of the Spirit",
+            "Harm of exclusion"
+          ],
+          "counterArguments": [
+            "Texts creation-based and clear",
+            "Novelty and schism",
+            "Experience over Scripture"
+          ],
+          "keyTexts": [
+            "Acts 10–15",
+            "Genesis 2:18",
+            "Galatians 5:22–23",
+            "Romans 13:8–10"
+          ],
+          "quoteIds": [
+            "tutu-inclusion-para"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 1955,
+          "text": "D. S. Bailey’s Homosexuality and the Western Christian Tradition opens scholarly debate."
+        },
+        {
+          "year": 1972,
+          "text": "United Methodist Book of Discipline declares homosexual practice \"incompatible with Christian teaching\"; the United Church of Christ ordains an openly gay minister."
+        },
+        {
+          "year": 1975,
+          "text": "Catholic declaration Persona Humana restates the traditional teaching."
+        },
+        {
+          "year": 1998,
+          "text": "Lambeth Resolution I.10 passes by 526 to 70.",
+          "eventId": "lambeth-conference-1998"
+        },
+        {
+          "year": 2003,
+          "text": "Consecration of Gene Robinson, a partnered gay man, as Bishop of New Hampshire."
+        },
+        {
+          "year": 2008,
+          "text": "Global Anglican Future Conference (GAFCON) in Jerusalem."
+        },
+        {
+          "year": 2015,
+          "text": "The Episcopal Church authorises same-sex marriage rites."
+        },
+        {
+          "year": 2019,
+          "text": "UMC special General Conference adopts the Traditional Plan; mass disaffiliations follow.",
+          "eventId": "umc-separation-2019"
+        },
+        {
+          "year": 2023,
+          "text": "Church of England approves Prayers of Love and Faith; Fiducia Supplicans permits non-liturgical blessings.",
+          "eventId": "fiducia-supplicans-2023"
+        },
+        {
+          "year": 2024,
+          "text": "UMC General Conference removes restrictions; several African conferences later depart."
+        }
+      ],
+      "resolution": {
+        "kind": "schism",
+        "text": "Unresolved, with divisions. Catholic, Orthodox, Oriental Orthodox, most evangelical, Pentecostal and Global South churches maintain the historic teaching; a number of mainline Protestant churches in the West have adopted affirming practice. The debate has produced splits (ACNA, Global Methodist Church, departures from ELCA and PC(USA)) and continuing tensions in the Anglican Communion and the Catholic Church."
+      },
+      "consequences": [
+        "Realignment of Anglicanism and Methodism.",
+        "New denominations and networks on both sides.",
+        "Ecumenical strain between mainline Protestants and Catholic/Orthodox churches.",
+        "Global North–South tensions."
+      ],
+      "sources": [
+        "sprinkle-two-views",
+        "gagnon-bible-homosexual",
+        "brownson-bible-gender",
+        "lambeth-resolutions-archive",
+        "umc-news-2019-2024"
+      ]
+    },
+    {
+      "id": "contraception-debate",
+      "question": "May married Christians use contraception?",
+      "title": "Contraception: Lambeth 1930 to Humanae Vitae",
+      "summary": "Until 1930 every major church opposed contraception. The Anglican Lambeth Conference first permitted it for serious reasons; Protestants followed, while the Catholic Church, after a papal commission favoured change, reaffirmed the prohibition in Humanae Vitae (1968).",
+      "doctrineIds": [
+        "sexuality-marriage"
+      ],
+      "sides": [
+        {
+          "name": "Natural-law prohibition",
+          "positionId": "contraception-natural-law",
+          "steelman": "God wove love and life together in the marital act. To keep the act but deliberately sterilise it is to take apart what God joined. Couples may space children for serious reasons by respecting the body’s natural rhythms, but they may not make themselves masters of the sources of life. The fruits of the contraceptive age, in broken families and the treatment of sex as recreation, show the wisdom of the Church’s warning.",
+          "arguments": [
+            "Inseparability of unitive and procreative meanings",
+            "Unanimous tradition until 1930",
+            "Predicted social consequences"
+          ],
+          "counterArguments": [
+            "Same intention as natural methods",
+            "Non-reception by laity"
+          ],
+          "keyTexts": [
+            "Genesis 1:28",
+            "Humanae Vitae 11–17"
+          ],
+          "quoteIds": [
+            "humanae-vitae-para",
+            "augustine-three-goods-para"
+          ]
+        },
+        {
+          "name": "Responsible parenthood",
+          "positionId": "contraception-responsible-parenthood",
+          "steelman": "Marital union expresses and deepens love even when no child can result, as in the infertile or elderly. God entrusts couples with responsible stewardship of their fertility. If natural family planning is legitimate, the morally decisive factor is the couple’s faithful, generous intent, not the method; contraception can serve the good of marriage and children.",
+          "arguments": [
+            "Unitive good of sex",
+            "Stewardship",
+            "No explicit biblical ban"
+          ],
+          "counterArguments": [
+            "Opened the sexual revolution",
+            "Breaks with tradition"
+          ],
+          "keyTexts": [
+            "1 Corinthians 7:3–5",
+            "Genesis 2:18–24"
+          ],
+          "quoteIds": [
+            "bcp-marriage-causes"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 1930,
+          "text": "Lambeth Resolution 15 permits contraception; Pius XI’s Casti Connubii condemns it.",
+          "eventId": "lambeth-conference-1930"
+        },
+        {
+          "year": 1951,
+          "text": "Pius XII accepts the rhythm method for serious reasons."
+        },
+        {
+          "year": 1960,
+          "text": "The oral contraceptive pill is approved in the United States."
+        },
+        {
+          "year": 1966,
+          "text": "Majority of the Pontifical Commission on Birth Control recommends change."
+        },
+        {
+          "year": 1968,
+          "text": "Humanae Vitae reaffirms the prohibition.",
+          "eventId": "humanae-vitae-1968"
+        },
+        {
+          "year": 1981,
+          "text": "John Paul II’s Familiaris Consortio and Theology of the Body defend Humanae Vitae."
+        }
+      ],
+      "resolution": {
+        "kind": "mixed",
+        "text": "Divergent settlements: Catholic teaching prohibits artificial contraception (widely not followed in the West); Protestants overwhelmingly accept it; many Orthodox accept non-abortifacient methods within marriage under pastoral guidance."
+      },
+      "consequences": [
+        "A defining Catholic–Protestant divergence in sexual ethics.",
+        "Crisis of authority and dissent within Catholicism after 1968.",
+        "Natural family planning movement."
+      ],
+      "sources": [
+        "noonan-contraception",
+        "humanae-vitae-text",
+        "lambeth-resolutions-archive"
+      ]
+    },
+    {
+      "id": "polygamy-and-baptism",
+      "question": "Must a polygamous convert put away all but one wife before baptism?",
+      "title": "Polygamy and baptism in African churches",
+      "summary": "Missionaries in Africa and elsewhere faced men with several wives who sought baptism. Most missions required them to dismiss all but one wife; critics from Bishop Colenso to African theologians argued this punished women and children and was not required by Scripture. African Initiated Churches often accepted polygamous members, and Lambeth 1988 opened a pastoral exception.",
+      "doctrineIds": [
+        "sexuality-marriage",
+        "mission-religions"
+      ],
+      "sides": [
+        {
+          "name": "Monogamy required before baptism",
+          "steelman": "From creation God’s pattern is one man and one woman, and Jesus restored that pattern. Church leaders must be \"the husband of one wife\". To baptise polygamists would sanction a practice contrary to the gospel and undermine Christian marriage for the next generation. A convert must obey Christ even at great cost, while making just provision for the wives he releases.",
+          "arguments": [
+            "Creation pattern",
+            "1 Timothy 3:2",
+            "Protecting future Christian marriage"
+          ],
+          "counterArguments": [
+            "Harm to dismissed wives and children",
+            "Patriarchs were polygamous"
+          ],
+          "keyTexts": [
+            "Genesis 2:24",
+            "Matthew 19:4–6",
+            "1 Timothy 3:2"
+          ],
+          "quoteIds": []
+        },
+        {
+          "name": "Baptise polygamous converts with their families",
+          "steelman": "A man who married several wives before hearing the gospel has made binding covenants; forcing him to divorce them breaks faith, shames the women and abandons children. Scripture never commands such dismissal; the Old Testament saints were polygamous and the New Testament restricts only leaders. Baptise the family as it is, forbid further wives, and let monogamy grow as the church’s norm.",
+          "arguments": [
+            "Justice to wives and children",
+            "No biblical command to divorce",
+            "Restriction applies to leaders only"
+          ],
+          "counterArguments": [
+            "Undermines monogamy",
+            "Cultural compromise"
+          ],
+          "keyTexts": [
+            "1 Corinthians 7:17–20",
+            "Malachi 2:16",
+            "1 Timothy 3:2"
+          ],
+          "quoteIds": [
+            "colenso-polygamy-para"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 1855,
+          "text": "Colenso first raises the question after arriving in Natal; his Remarks follow in 1862."
+        },
+        {
+          "year": 1888,
+          "text": "Lambeth Conference resolves that polygamists should not be baptised but their wives may be."
+        },
+        {
+          "year": 1913,
+          "text": "William Wade Harris baptises polygamous converts in his West African mass movement.",
+          "eventId": "harris-movement-west-africa-1913"
+        },
+        {
+          "year": 1975,
+          "text": "Eugene Hillman’s Polygamy Reconsidered challenges Catholic missionary policy."
+        },
+        {
+          "year": 1988,
+          "text": "Lambeth Resolution 26 allows baptism of polygamists under conditions.",
+          "eventId": "lambeth-conference-1988"
+        }
+      ],
+      "resolution": {
+        "kind": "mixed",
+        "text": "Catholic and most Protestant mission churches continue to require monogamy for full communion while increasingly providing pastoral accommodation; Anglicans since 1988 allow baptism of polygamous converts with conditions; many African Initiated Churches accept polygamous members. All major traditions teach monogamy as the Christian norm for new marriages."
+      },
+      "consequences": [
+        "A factor in the rise of African Initiated Churches.",
+        "Debates on inculturation and African marriage customs.",
+        "Pastoral provision for polygamous families."
+      ],
+      "sources": [
+        "hillman-polygamy",
+        "guy-colenso",
+        "hastings-church-in-africa",
+        "lambeth-resolutions-archive"
+      ]
+    }
+  ],
+  "people": [
+    {
+      "id": "athenagoras",
+      "name": "Athenagoras of Athens",
+      "born": 133,
+      "died": 190,
+      "circa": true,
+      "roles": [
+        "Christian philosopher",
+        "apologist"
+      ],
+      "traditionIds": [
+        "early-church"
+      ],
+      "regions": [
+        "greece-balkans"
+      ],
+      "summary": "Athenian Christian philosopher whose Plea for the Christians (c.177), addressed to Marcus Aurelius and Commodus, rebutted charges of atheism, cannibalism and incest. It contains an early statement of the Trinity and argues that Christians, who regard abortion and infant exposure as murder, could hardly be guilty of killing.",
+      "keyIdeas": [
+        "Defence of Christian morality",
+        "Early Trinitarian formulation",
+        "Opposition to abortion and exposure"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Athens",
+        "lat": 37.984,
+        "lng": 23.728
+      },
+      "sources": [
+        "athenagoras-plea-text",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "john-colenso",
+      "name": "John William Colenso",
+      "born": 1814,
+      "died": 1883,
+      "circa": false,
+      "roles": [
+        "Anglican bishop of Natal",
+        "mathematician",
+        "biblical critic"
+      ],
+      "traditionIds": [
+        "anglican"
+      ],
+      "regions": [
+        "sub-saharan-africa"
+      ],
+      "summary": "First Anglican bishop of Natal, a translator of the Bible into isiZulu and advocate for Zulu rights. His Remarks on the Proper Treatment of Cases of Polygamy (1855/1862) argued that polygamous converts should be baptised without being forced to put away their wives; his critical work on the Pentateuch (1862–79) led to his deposition by Bishop Robert Gray (1863), a cause célèbre that prompted the first Lambeth Conference (1867).",
+      "keyIdeas": [
+        "Baptism of polygamous converts",
+        "Universal reach of God’s grace",
+        "Biblical criticism",
+        "Defence of the Zulu"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Pietermaritzburg (Ekukhanyeni)",
+        "lat": -29.6,
+        "lng": 30.38
+      },
+      "sources": [
+        "guy-colenso",
+        "odcc",
+        "hastings-church-in-africa"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "beverly-harrison",
+      "name": "Beverly Wildung Harrison",
+      "born": 1932,
+      "died": 2012,
+      "circa": false,
+      "roles": [
+        "Christian social ethicist",
+        "professor at Union Theological Seminary"
+      ],
+      "traditionIds": [
+        "presbyterian"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "Feminist Presbyterian ethicist whose Our Right to Choose (1983) set out a Christian moral case for legal abortion, grounding it in women’s moral agency, the social conditions of pregnancy and a critique of the church’s historical teaching.",
+      "keyIdeas": [
+        "Procreative choice",
+        "Women’s moral agency",
+        "Feminist liberation ethics"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "New York City",
+        "lat": 40.811,
+        "lng": -73.962
+      },
+      "sources": [
+        "harrison-our-right"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "events": [
+    {
+      "id": "council-in-trullo-692",
+      "title": "Council in Trullo (Quinisext)",
+      "year": 692,
+      "circa": false,
+      "place": {
+        "name": "Constantinople",
+        "lat": 41.008,
+        "lng": 28.978
+      },
+      "category": "council",
+      "regions": [
+        "asia-minor",
+        "greece-balkans"
+      ],
+      "summary": "Council held in the domed hall (trullos) of the imperial palace in Constantinople under Justinian II; its canons, accepted by the Orthodox but not by Rome, permit priests and deacons married before ordination to keep their wives (canon 13, criticising Roman practice) while requiring bishops to be celibate (canon 48).",
+      "causes": [],
+      "consequences": [
+        "Enduring Eastern discipline of married parish clergy and celibate bishops"
+      ],
+      "peopleIds": [],
+      "doctrineIds": [
+        "sexuality-marriage"
+      ],
+      "traditionIds": [
+        "eastern-orthodox"
+      ],
+      "sources": [
+        "meyendorff-marriage",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "second-lateran-council-1139",
+      "title": "Second Lateran Council",
+      "year": 1139,
+      "circa": false,
+      "place": {
+        "name": "Lateran Basilica, Rome",
+        "lat": 41.886,
+        "lng": 12.506
+      },
+      "category": "council",
+      "regions": [
+        "italy",
+        "western-europe"
+      ],
+      "summary": "Under Innocent II, the council declares marriages contracted by priests, deacons, subdeacons and professed religious to be invalid (canons 6–7), turning the long Gregorian campaign for clerical celibacy into an impediment to marriage in the Latin Church.",
+      "causes": [
+        "Gregorian reform (from 1049)",
+        "Concerns over church property and simony"
+      ],
+      "consequences": [
+        "Mandatory celibacy for Latin clergy",
+        "Reformation rejection of compulsory celibacy"
+      ],
+      "peopleIds": [],
+      "doctrineIds": [
+        "sexuality-marriage"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "sources": [
+        "parish-clerical-celibacy",
+        "tanner-decrees"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "lambeth-conference-1930",
+      "title": "Lambeth Conference permits contraception",
+      "year": 1930,
+      "circa": false,
+      "place": {
+        "name": "Lambeth Palace, London",
+        "lat": 51.495,
+        "lng": -0.118
+      },
+      "category": "council",
+      "regions": [
+        "western-europe",
+        "global"
+      ],
+      "summary": "Resolution 15 of the Lambeth Conference becomes the first official church statement to accept contraception: where there is a morally sound reason to limit or avoid parenthood and abstinence is not suitable, other methods may be used in the light of Christian principles. Pius XI’s Casti Connubii (December 1930) reaffirms Catholic prohibition.",
+      "causes": [],
+      "consequences": [
+        "Most Protestant churches accept contraception by the 1960s",
+        "Catholic–Protestant divergence"
+      ],
+      "peopleIds": [],
+      "doctrineIds": [
+        "sexuality-marriage"
+      ],
+      "traditionIds": [
+        "anglican"
+      ],
+      "sources": [
+        "lambeth-resolutions-archive",
+        "noonan-contraception"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "humanae-vitae-1968",
+      "title": "Humanae Vitae",
+      "year": 1968,
+      "circa": false,
+      "place": {
+        "name": "Vatican City",
+        "lat": 41.902,
+        "lng": 12.453
+      },
+      "category": "intellectual",
+      "regions": [
+        "global"
+      ],
+      "summary": "Paul VI’s encyclical (25 July 1968), overruling the majority of his own advisory commission, teaches that each marital act must remain open to the transmission of life and condemns artificial contraception, while permitting the use of infertile periods for serious reasons. It provoked unprecedented public dissent from theologians and some bishops’ conferences.",
+      "causes": [
+        "The contraceptive pill (1960)",
+        "Pontifical Commission on Birth Control (1963–66)"
+      ],
+      "consequences": [
+        "Widespread non-reception in the West",
+        "John Paul II’s Theology of the Body (1979–84)",
+        "Natural family planning movement"
+      ],
+      "peopleIds": [
+        "paul-vi"
+      ],
+      "doctrineIds": [
+        "sexuality-marriage"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "sources": [
+        "humanae-vitae-text",
+        "noonan-contraception"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "lambeth-conference-1988",
+      "title": "Lambeth Conference on polygamy",
+      "year": 1988,
+      "circa": false,
+      "place": {
+        "name": "Canterbury",
+        "lat": 51.28,
+        "lng": 1.08
+      },
+      "category": "council",
+      "regions": [
+        "sub-saharan-africa",
+        "global"
+      ],
+      "summary": "Resolution 26 of the Lambeth Conference allows that a polygamist who responds to the gospel may be baptised with his believing wives and children, on condition that he takes no further wives and with the consent of the local Anglican community, while upholding monogamy as God’s will.",
+      "causes": [],
+      "consequences": [],
+      "peopleIds": [],
+      "doctrineIds": [
+        "sexuality-marriage"
+      ],
+      "traditionIds": [
+        "anglican"
+      ],
+      "sources": [
+        "lambeth-resolutions-archive",
+        "hillman-polygamy"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "lambeth-conference-1998",
+      "title": "Lambeth Resolution I.10 on human sexuality",
+      "year": 1998,
+      "circa": false,
+      "place": {
+        "name": "Canterbury",
+        "lat": 51.28,
+        "lng": 1.08
+      },
+      "category": "council",
+      "regions": [
+        "global",
+        "western-europe"
+      ],
+      "summary": "By 526 votes to 70, the Lambeth Conference upholds faithfulness in marriage between a man and a woman and abstinence for those not called to marriage, rejects homosexual practice as incompatible with Scripture, cannot advise blessing same-sex unions or ordaining those involved in them, and calls for pastoral care and listening to the experience of homosexual persons and condemnation of irrational fear of them.",
+      "causes": [
+        "Global South Anglican growth",
+        "North American debates"
+      ],
+      "consequences": [
+        "Consecration of Gene Robinson (2003) and ensuing crisis",
+        "GAFCON (2008)"
+      ],
+      "peopleIds": [],
+      "doctrineIds": [
+        "sexuality-marriage"
+      ],
+      "traditionIds": [
+        "anglican"
+      ],
+      "sources": [
+        "lambeth-resolutions-archive",
+        "chapman-anglicanism"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "umc-separation-2019",
+      "title": "United Methodist separation over sexuality",
+      "year": 2019,
+      "endYear": 2024,
+      "circa": false,
+      "place": {
+        "name": "St. Louis, Missouri",
+        "lat": 38.627,
+        "lng": -90.199
+      },
+      "category": "schism",
+      "regions": [
+        "north-america",
+        "global"
+      ],
+      "summary": "The special General Conference (February 2019) narrowly adopts the \"Traditional Plan\" strengthening bans on same-sex weddings and LGBTQ clergy; between 2019 and 2023 some 7,600 US congregations (about a quarter) disaffiliate, many joining the Global Methodist Church (launched 2022). The 2024 General Conference removes the bans and approves regionalisation; several African conferences later leave.",
+      "causes": [
+        "Decades of debate since 1972 \"incompatible with Christian teaching\" clause"
+      ],
+      "consequences": [
+        "Global Methodist Church",
+        "Realignment of world Methodism"
+      ],
+      "peopleIds": [],
+      "doctrineIds": [
+        "sexuality-marriage"
+      ],
+      "traditionIds": [
+        "methodist"
+      ],
+      "sources": [
+        "umc-news-2019-2024"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "fiducia-supplicans-2023",
+      "title": "Fiducia Supplicans",
+      "year": 2023,
+      "circa": false,
+      "place": {
+        "name": "Vatican City",
+        "lat": 41.902,
+        "lng": 12.453
+      },
+      "category": "intellectual",
+      "regions": [
+        "global"
+      ],
+      "summary": "A declaration of the Dicastery for the Doctrine of the Faith (18 December 2023), approved by Pope Francis, permits brief, spontaneous, non-liturgical blessings of couples in irregular situations, including same-sex couples, while reaffirming that marriage is between a man and a woman and that such blessings do not validate the union. Many African bishops’ conferences declined to implement it.",
+      "causes": [],
+      "consequences": [],
+      "peopleIds": [
+        "pope-francis"
+      ],
+      "doctrineIds": [
+        "sexuality-marriage"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "sources": [
+        "fiducia-supplicans-text"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "roe-v-wade-1973",
+      "title": "Roe v. Wade",
+      "year": 1973,
+      "circa": false,
+      "place": {
+        "name": "Washington, D.C.",
+        "lat": 38.891,
+        "lng": -77.004
+      },
+      "category": "political",
+      "regions": [
+        "north-america"
+      ],
+      "summary": "The US Supreme Court recognises a constitutional right to abortion. Catholic bishops oppose it immediately; many Southern Baptists initially accept a limited right, but by the late 1970s evangelicals join a broad pro-life movement. The decision was overturned in Dobbs v. Jackson (2022).",
+      "causes": [],
+      "consequences": [
+        "Pro-life movement and evangelical–Catholic cooperation",
+        "Religious pro-choice organisations"
+      ],
+      "peopleIds": [],
+      "doctrineIds": [
+        "sexuality-marriage",
+        "ethics-church-state"
+      ],
+      "traditionIds": [
+        "catholic",
+        "evangelical",
+        "baptist"
+      ],
+      "sources": [
+        "noll-christianity-us"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "works": [
+    {
+      "id": "tertullian-to-his-wife",
+      "title": "To His Wife (Ad Uxorem)",
+      "authorId": "tertullian",
+      "year": 200,
+      "circa": true,
+      "language": "Latin",
+      "genre": "letter",
+      "summary": "Two books advising Tertullian’s wife not to remarry after his death, or at least to marry only a Christian.",
+      "significance": "Contains an early eloquent description of Christian marriage blessed by the church.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/0404.htm",
+      "doctrineIds": [
+        "sexuality-marriage"
+      ],
+      "sources": [
+        "anf-npnf"
+      ]
+    },
+    {
+      "id": "augustine-good-of-marriage",
+      "title": "On the Good of Marriage (De bono coniugali)",
+      "authorId": "augustine-of-hippo",
+      "year": 401,
+      "circa": false,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "Augustine defends marriage against those who disparaged it, naming its goods as offspring, fidelity and the sacramental bond.",
+      "significance": "Foundation of Western marriage theology for a millennium.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/1309.htm",
+      "doctrineIds": [
+        "sexuality-marriage"
+      ],
+      "sources": [
+        "brown-body-society",
+        "anf-npnf"
+      ]
+    },
+    {
+      "id": "jerome-against-jovinian",
+      "title": "Against Jovinian",
+      "authorId": "jerome",
+      "year": 393,
+      "circa": false,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "Polemic against the monk Jovinian, who denied that virginity was superior to marriage.",
+      "significance": "Classic, and in its day controversial, exaltation of virginity over marriage.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/3009.htm",
+      "doctrineIds": [
+        "sexuality-marriage"
+      ],
+      "sources": [
+        "brown-body-society",
+        "anf-npnf"
+      ]
+    },
+    {
+      "id": "athenagoras-plea",
+      "title": "A Plea for the Christians (Legatio)",
+      "authorId": "athenagoras",
+      "year": 177,
+      "circa": true,
+      "language": "Greek",
+      "genre": "apology",
+      "summary": "Apology refuting charges against Christians and describing their morality.",
+      "significance": "Early witness to Christian opposition to abortion and infant exposure.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/0205.htm",
+      "doctrineIds": [
+        "sexuality-marriage",
+        "trinity"
+      ],
+      "sources": [
+        "athenagoras-plea-text"
+      ]
+    },
+    {
+      "id": "luther-estate-of-marriage",
+      "title": "The Estate of Marriage",
+      "authorId": "martin-luther",
+      "year": 1522,
+      "circa": false,
+      "language": "German",
+      "genre": "sermon",
+      "summary": "Luther praises marriage as God’s ordinance, attacks the canon-law impediments and celibacy vows, and allows divorce for adultery, impotence and desertion.",
+      "significance": "Manifesto of the Protestant re-evaluation of marriage.",
+      "doctrineIds": [
+        "sexuality-marriage"
+      ],
+      "sources": [
+        "witte-sacrament-contract"
+      ]
+    },
+    {
+      "id": "humanae-vitae",
+      "title": "Humanae Vitae",
+      "authorId": "paul-vi",
+      "year": 1968,
+      "circa": false,
+      "language": "Latin",
+      "genre": "canon",
+      "summary": "Encyclical on the regulation of birth.",
+      "significance": "Defining modern Catholic statement on contraception.",
+      "fullTextUrl": "https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html",
+      "doctrineIds": [
+        "sexuality-marriage"
+      ],
+      "sources": [
+        "humanae-vitae-text"
+      ]
+    },
+    {
+      "id": "fiducia-supplicans",
+      "title": "Fiducia Supplicans",
+      "authorId": "pope-francis",
+      "year": 2023,
+      "circa": false,
+      "language": "Italian",
+      "genre": "canon",
+      "summary": "Declaration on the pastoral meaning of blessings.",
+      "significance": "Permitted non-liturgical blessings of couples in irregular situations.",
+      "doctrineIds": [
+        "sexuality-marriage"
+      ],
+      "sources": [
+        "fiducia-supplicans-text"
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "id": "tertullian-happiness-marriage",
+      "text": "How shall we ever be able adequately to describe the happiness of that marriage which the Church cements, and the oblation confirms, and the benediction signs and seals; which angels carry back the news of, and the Father holds for ratified?",
+      "kind": "quotation",
+      "personId": "tertullian",
+      "citation": "Tertullian, To His Wife 2.8 (ANF vol. 4)",
+      "workId": "tertullian-to-his-wife",
+      "year": 200,
+      "topics": [
+        "marriage",
+        "church blessing"
+      ],
+      "doctrineIds": [
+        "sexuality-marriage"
+      ]
+    },
+    {
+      "id": "athenagoras-abortion-murder",
+      "text": "And when we say that those women who use drugs to bring on abortion commit murder, and will have to give an account to God for the abortion, on what principle should we commit murder?",
+      "kind": "quotation",
+      "personId": "athenagoras",
+      "citation": "Athenagoras, A Plea for the Christians 35 (ANF vol. 2)",
+      "workId": "athenagoras-plea",
+      "year": 177,
+      "topics": [
+        "abortion",
+        "early Christian ethics"
+      ],
+      "doctrineIds": [
+        "sexuality-marriage"
+      ]
+    },
+    {
+      "id": "augustine-three-goods-para",
+      "text": "Augustine taught that marriage has three goods: offspring (proles), faithfulness (fides) and the sacramental bond (sacramentum), which, among Christians, cannot be dissolved while both spouses live, just as the union of Christ and the Church endures.",
+      "kind": "paraphrase",
+      "personId": "augustine-of-hippo",
+      "citation": "Paraphrase of Augustine, On the Good of Marriage 24.32; On Marriage and Concupiscence 1.17",
+      "workId": "augustine-good-of-marriage",
+      "year": 401,
+      "topics": [
+        "marriage",
+        "sacrament",
+        "indissolubility"
+      ],
+      "doctrineIds": [
+        "sexuality-marriage",
+        "church-sacraments"
+      ]
+    },
+    {
+      "id": "jerome-virginity-para",
+      "text": "Jerome argued against Jovinian that while marriage is good, virginity is better, comparing them, after the parable of the sower, to fruit thirtyfold and a hundredfold.",
+      "kind": "paraphrase",
+      "personId": "jerome",
+      "citation": "Paraphrase of Jerome, Against Jovinian 1.3",
+      "workId": "jerome-against-jovinian",
+      "year": 393,
+      "topics": [
+        "celibacy",
+        "virginity"
+      ],
+      "doctrineIds": [
+        "sexuality-marriage"
+      ]
+    },
+    {
+      "id": "luther-estate-marriage-para",
+      "text": "Luther urged that God himself instituted marriage and made man and woman for each other, so that it is a godly estate, more pleasing to him than vows of celibacy; he held that the duties of married life, even washing nappies, are holy works when done in faith.",
+      "kind": "paraphrase",
+      "personId": "martin-luther",
+      "citation": "Paraphrase of Luther, The Estate of Marriage (1522), parts 1 and 3",
+      "workId": "luther-estate-of-marriage",
+      "year": 1522,
+      "topics": [
+        "marriage",
+        "vocation",
+        "celibacy"
+      ],
+      "doctrineIds": [
+        "sexuality-marriage"
+      ]
+    },
+    {
+      "id": "bcp-marriage-causes",
+      "text": "First, It was ordained for the procreation of children ... Secondly, It was ordained for a remedy against sin, and to avoid fornication ... Thirdly, It was ordained for the mutual society, help, and comfort, that the one ought to have of the other, both in prosperity and adversity.",
+      "kind": "quotation",
+      "personId": "thomas-cranmer",
+      "citation": "Book of Common Prayer (1662), The Form of Solemnization of Matrimony (from Cranmer’s rite of 1549)",
+      "workId": "book-of-common-prayer",
+      "year": 1662,
+      "topics": [
+        "marriage",
+        "purposes of marriage"
+      ],
+      "doctrineIds": [
+        "sexuality-marriage",
+        "worship-liturgy"
+      ]
+    },
+    {
+      "id": "humanae-vitae-para",
+      "text": "Paul VI taught that the Church, calling people to observe the natural law, holds that each and every marital act must remain open to the transmission of life, because God has inseparably joined the unitive and procreative meanings of the conjugal act; recourse to infertile periods is permitted for serious reasons.",
+      "kind": "paraphrase",
+      "personId": "paul-vi",
+      "citation": "Paraphrase of Humanae Vitae 11–12, 16 (25 July 1968)",
+      "workId": "humanae-vitae",
+      "year": 1968,
+      "topics": [
+        "contraception",
+        "natural law"
+      ],
+      "doctrineIds": [
+        "sexuality-marriage"
+      ]
+    },
+    {
+      "id": "colenso-polygamy-para",
+      "text": "Colenso argued that compelling a polygamous convert to send away all but one wife would break solemn obligations, cast women and children into destitution and shame, and was nowhere required by Christ or the apostles; such men should be baptised, though they should take no further wives.",
+      "kind": "paraphrase",
+      "personId": "john-colenso",
+      "citation": "Paraphrase of J. W. Colenso, Remarks on the Proper Treatment of Cases of Polygamy (1862)",
+      "year": 1862,
+      "topics": [
+        "polygamy",
+        "African Christianity"
+      ],
+      "doctrineIds": [
+        "sexuality-marriage"
+      ]
+    },
+    {
+      "id": "stott-same-sex-para",
+      "text": "Stott argued that Scripture’s teaching on sexuality rests not only on a few prohibitions but on the creation pattern of Genesis 2, where marriage is the lifelong, exclusive union of a man and a woman; he urged churches to welcome and support gay and lesbian people while calling all to chastity outside such marriage.",
+      "kind": "paraphrase",
+      "personId": "john-stott",
+      "citation": "Paraphrase of John Stott, Issues Facing Christians Today (1984; rev. eds.), chapter on same-sex partnerships",
+      "year": 1984,
+      "topics": [
+        "same-sex relationships",
+        "traditional view"
+      ],
+      "doctrineIds": [
+        "sexuality-marriage"
+      ]
+    },
+    {
+      "id": "tutu-inclusion-para",
+      "text": "Tutu argued that just as the church had been wrong to treat people unequally on account of race, it was wrong to exclude or condemn people on account of their sexual orientation, which they do not choose, and that a God of love could not endorse such discrimination.",
+      "kind": "paraphrase",
+      "personId": "desmond-tutu",
+      "citation": "Paraphrase of Desmond Tutu’s public statements on LGBT inclusion (e.g. launch of the UN Free & Equal campaign, Cape Town, July 2013)",
+      "year": 2013,
+      "topics": [
+        "same-sex relationships",
+        "affirming view"
+      ],
+      "doctrineIds": [
+        "sexuality-marriage"
+      ]
+    },
+    {
+      "id": "fiducia-para",
+      "text": "Fiducia Supplicans holds that couples in irregular situations, including same-sex couples, may receive a brief spontaneous blessing that asks God’s help, provided it is not liturgical and creates no confusion with marriage, which remains the exclusive, indissoluble union of a man and a woman.",
+      "kind": "paraphrase",
+      "personId": "pope-francis",
+      "citation": "Paraphrase of Fiducia Supplicans 31–41 (18 December 2023), issued by the Dicastery for the Doctrine of the Faith with Pope Francis’s approval",
+      "workId": "fiducia-supplicans",
+      "year": 2023,
+      "topics": [
+        "blessings",
+        "same-sex couples"
+      ],
+      "doctrineIds": [
+        "sexuality-marriage"
+      ]
+    }
+  ]
+}
