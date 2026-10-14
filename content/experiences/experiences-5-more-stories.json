@@ -1,0 +1,2559 @@
+{
+  "sources": [
+    {
+      "id": "eusebius-life-constantine",
+      "title": "Life of Constantine (Vita Constantini)",
+      "author": "Eusebius of Caesarea",
+      "year": "c. 337-339",
+      "kind": "primary",
+      "url": "https://www.newadvent.org/fathers/2502.htm",
+      "note": "NPNF series 2, vol. 1"
+    },
+    {
+      "id": "lactantius-mortibus",
+      "title": "On the Deaths of the Persecutors (De mortibus persecutorum)",
+      "author": "Lactantius",
+      "year": "c. 315",
+      "kind": "primary",
+      "url": "https://www.newadvent.org/fathers/0705.htm",
+      "note": "ANF vol. 7"
+    },
+    {
+      "id": "barnes-constantine-eusebius",
+      "title": "Constantine and Eusebius",
+      "author": "Timothy D. Barnes",
+      "year": 1981,
+      "kind": "secondary"
+    },
+    {
+      "id": "agathangelos-history",
+      "title": "History of the Armenians",
+      "author": "Agathangelos (attrib.); trans. R.W. Thomson",
+      "year": "5th cent.; trans. 1976",
+      "kind": "primary"
+    },
+    {
+      "id": "patrick-confessio",
+      "title": "Confessio and Epistola ad milites Corotici",
+      "author": "Patrick",
+      "year": "5th cent.",
+      "kind": "primary",
+      "url": "https://www.confessio.ie",
+      "note": "Royal Irish Academy hypertext edition with translations"
+    },
+    {
+      "id": "gregory-dialogues",
+      "title": "Dialogues, Book II (Life of St Benedict)",
+      "author": "Gregory the Great",
+      "year": "c. 593-594",
+      "kind": "primary",
+      "note": "English trans. 1608, rev. E.G. Gardner 1911"
+    },
+    {
+      "id": "torrell-aquinas",
+      "title": "Saint Thomas Aquinas, vol. 1: The Person and His Work",
+      "author": "Jean-Pierre Torrell",
+      "year": "1993; Eng. 1996",
+      "kind": "secondary"
+    },
+    {
+      "id": "bridget-revelations",
+      "title": "The Revelations of St. Birgitta of Sweden",
+      "author": "Birgitta of Sweden; trans. Denis Searby, ed. Bridget Morris",
+      "year": "14th cent.; trans. 2006-2015",
+      "kind": "primary"
+    },
+    {
+      "id": "morris-birgitta",
+      "title": "St Birgitta of Sweden",
+      "author": "Bridget Morris",
+      "year": 1999,
+      "kind": "secondary"
+    },
+    {
+      "id": "epiphanius-life-sergius",
+      "title": "Life of St Sergius of Radonezh",
+      "author": "Epiphanius the Wise (rev. Pachomius Logothetes)",
+      "year": "c. 1418",
+      "kind": "primary",
+      "note": "English in G.P. Fedotov (ed.), A Treasury of Russian Spirituality (1948)"
+    },
+    {
+      "id": "edwards-some-thoughts",
+      "title": "Some Thoughts Concerning the Present Revival of Religion in New England",
+      "author": "Jonathan Edwards",
+      "year": 1743,
+      "kind": "primary"
+    },
+    {
+      "id": "testimonies-ann-lee",
+      "title": "Testimonies of the Life, Character, Revelations and Doctrines of Our Ever Blessed Mother Ann Lee",
+      "author": "Shaker elders (comp.)",
+      "year": 1816,
+      "kind": "primary"
+    },
+    {
+      "id": "finney-memoirs",
+      "title": "Memoirs of Rev. Charles G. Finney",
+      "author": "Charles G. Finney",
+      "year": 1876,
+      "kind": "primary"
+    },
+    {
+      "id": "hambrick-stowe-finney",
+      "title": "Charles G. Finney and the Spirit of American Evangelicalism",
+      "author": "Charles E. Hambrick-Stowe",
+      "year": 1996,
+      "kind": "secondary"
+    },
+    {
+      "id": "gibson-year-of-grace",
+      "title": "The Year of Grace: A History of the Ulster Revival of 1859",
+      "author": "William Gibson",
+      "year": 1860,
+      "kind": "primary"
+    },
+    {
+      "id": "holmes-religious-revivals",
+      "title": "Religious Revivals in Britain and Ireland, 1859-1905",
+      "author": "Janice Holmes",
+      "year": 2000,
+      "kind": "secondary"
+    },
+    {
+      "id": "woodworth-etter-signs-wonders",
+      "title": "Signs and Wonders God Wrought in the Ministry for Forty Years",
+      "author": "Maria B. Woodworth-Etter",
+      "year": 1916,
+      "kind": "primary"
+    },
+    {
+      "id": "warner-woman-evangelist",
+      "title": "The Woman Evangelist: The Life and Times of Charismatic Evangelist Maria B. Woodworth-Etter",
+      "author": "Wayne E. Warner",
+      "year": 1986,
+      "kind": "secondary"
+    },
+    {
+      "id": "khasi-mission-reports",
+      "title": "Welsh Calvinistic Methodist foreign mission reports on the Khasi-Jaintia and Mizo revivals",
+      "author": "Welsh Calvinistic Methodist Foreign Mission",
+      "year": "1905-1907",
+      "kind": "primary",
+      "note": "Annual reports and Welsh periodicals; later summarized in J. Hughes Morris's history of the mission (1930)"
+    },
+    {
+      "id": "hoover-historia-avivamiento",
+      "title": "Historia del Avivamiento Pentecostal en Chile",
+      "author": "Willis C. Hoover",
+      "year": 1931,
+      "kind": "primary"
+    },
+    {
+      "id": "crawford-shantung-revival",
+      "title": "The Shantung Revival",
+      "author": "Mary K. Crawford",
+      "year": 1933,
+      "kind": "primary"
+    },
+    {
+      "id": "monsen-awakening",
+      "title": "The Awakening: Revival in China, 1927-1937",
+      "author": "Marie Monsen",
+      "year": "Eng. trans. 1961",
+      "kind": "primary"
+    },
+    {
+      "id": "campbell-lewis-awakening",
+      "title": "The Lewis Awakening 1949-1953",
+      "author": "Duncan Campbell",
+      "year": 1954,
+      "kind": "primary"
+    },
+    {
+      "id": "peckham-sounds-from-heaven",
+      "title": "Sounds from Heaven: The Revival on the Isle of Lewis, 1949-1952",
+      "author": "Colin and Mary Peckham",
+      "year": 2004,
+      "kind": "secondary"
+    },
+    {
+      "id": "ranaghan-catholic-pentecostals",
+      "title": "Catholic Pentecostals",
+      "author": "Kevin and Dorothy Ranaghan",
+      "year": 1969,
+      "kind": "primary"
+    },
+    {
+      "id": "mansfield-new-pentecost",
+      "title": "As By a New Pentecost: The Dramatic Beginning of the Catholic Charismatic Renewal",
+      "author": "Patti Gallagher Mansfield",
+      "year": 1992,
+      "kind": "primary"
+    },
+    {
+      "id": "ito-pastoral-letter-1984",
+      "title": "Pastoral Letter on the events at Akita",
+      "author": "Bishop John Shojiro Ito of Niigata",
+      "year": 1984,
+      "kind": "primary"
+    },
+    {
+      "id": "misago-kibeho-2001",
+      "title": "Declaration on the apparitions of Kibeho",
+      "author": "Bishop Augustin Misago of Gikongoro",
+      "year": 2001,
+      "kind": "primary"
+    },
+    {
+      "id": "ddf-queen-of-peace-2024",
+      "title": "Note 'The Queen of Peace' regarding the spiritual experience connected with Medjugorje",
+      "author": "Dicastery for the Doctrine of the Faith",
+      "year": 2024,
+      "kind": "primary",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_en.html"
+    }
+  ],
+  "people": [
+    {
+      "id": "scholastica",
+      "name": "Scholastica of Nursia",
+      "born": 480,
+      "died": 543,
+      "circa": true,
+      "roles": [
+        "nun",
+        "saint"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-orthodox"
+      ],
+      "regions": [
+        "italy"
+      ],
+      "summary": "Sister of Benedict of Nursia, consecrated to God from childhood, who according to Gregory the Great's Dialogues met her brother yearly near Monte Cassino; honoured as patroness of Benedictine nuns.",
+      "keyIdeas": [
+        "Prayer moved by love",
+        "Consecrated virginity"
+      ],
+      "influencedBy": [
+        "benedict-of-nursia"
+      ],
+      "place": {
+        "name": "Monte Cassino, Italy",
+        "lat": 41.4903,
+        "lng": 13.8139
+      },
+      "sources": [
+        "gregory-dialogues",
+        "odcc"
+      ],
+      "confidence": "traditional"
+    },
+    {
+      "id": "bridget-of-sweden",
+      "name": "Bridget (Birgitta) of Sweden",
+      "born": 1303,
+      "died": 1373,
+      "circa": false,
+      "roles": [
+        "mystic",
+        "visionary",
+        "founder"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "northern-europe",
+        "italy"
+      ],
+      "summary": "Swedish noblewoman, mother of eight and visionary whose Revelations addressed popes and kings; founder of the Bridgettine Order (Order of the Most Holy Saviour), canonized 1391 and named co-patroness of Europe in 1999.",
+      "keyIdeas": [
+        "Christ's 'bride and channel'",
+        "Call for the papacy's return to Rome",
+        "Vivid meditation on the Passion and Nativity"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Vadstena, Sweden",
+        "lat": 58.4486,
+        "lng": 14.888
+      },
+      "sources": [
+        "bridget-revelations",
+        "morris-birgitta",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "sarah-pierpont-edwards",
+      "name": "Sarah Pierpont Edwards",
+      "born": 1710,
+      "died": 1758,
+      "circa": false,
+      "roles": [
+        "lay Christian",
+        "diarist"
+      ],
+      "traditionIds": [
+        "congregationalist",
+        "reformed"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "New England Congregationalist, wife of Jonathan Edwards, whose religious ecstasies in early 1742 Edwards described anonymously in Some Thoughts Concerning the Present Revival (1743) as a model of genuine religious affections.",
+      "keyIdeas": [
+        "Assurance of divine love",
+        "Humble, self-denying piety"
+      ],
+      "influencedBy": [
+        "jonathan-edwards"
+      ],
+      "place": {
+        "name": "Northampton, Massachusetts",
+        "lat": 42.3251,
+        "lng": -72.6412
+      },
+      "sources": [
+        "marsden-edwards",
+        "edwards-some-thoughts"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "ann-lee",
+      "name": "Ann Lee ('Mother Ann')",
+      "born": 1736,
+      "died": 1784,
+      "circa": false,
+      "roles": [
+        "prophet",
+        "founder"
+      ],
+      "traditionIds": [
+        "shakers"
+      ],
+      "regions": [
+        "western-europe",
+        "north-america"
+      ],
+      "summary": "English-born leader of the United Society of Believers in Christ's Second Appearing (Shakers), whom her followers regarded as the female embodiment of the Christ Spirit; taught celibacy, confession and ecstatic worship. Shaker theology lies outside historic Nicene orthodoxy.",
+      "keyIdeas": [
+        "Celibacy as the way of salvation",
+        "Confession of sin",
+        "Christ's second appearing in female form (Shaker belief)"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Watervliet (Niskayuna), New York",
+        "lat": 42.7425,
+        "lng": -73.81
+      },
+      "sources": [
+        "stein-shaker-experience",
+        "testimonies-ann-lee"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "james-mcquilkin",
+      "name": "James McQuilkin",
+      "circa": false,
+      "roles": [
+        "lay leader"
+      ],
+      "traditionIds": [
+        "presbyterian",
+        "evangelical"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Ulster Presbyterian layman whose prayer meeting near Kells, Co. Antrim, begun in 1857, is regarded as the starting point of the Ulster Revival of 1859.",
+      "keyIdeas": [
+        "United prayer for revival"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Kells, Co. Antrim",
+        "lat": 54.81,
+        "lng": -6.22
+      },
+      "sources": [
+        "gibson-year-of-grace",
+        "holmes-religious-revivals"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "maria-woodworth-etter",
+      "name": "Maria Woodworth-Etter",
+      "born": 1844,
+      "died": 1924,
+      "circa": false,
+      "roles": [
+        "evangelist",
+        "healing evangelist"
+      ],
+      "traditionIds": [
+        "holiness-movement",
+        "pentecostal"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "American Holiness and later Pentecostal evangelist known for large tent meetings marked by 'trances' and healing claims from the 1880s, and for the Dallas campaign of 1912.",
+      "keyIdeas": [
+        "Divine healing",
+        "Women's call to preach",
+        "Power of the Spirit in revival"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Indianapolis, Indiana",
+        "lat": 39.7684,
+        "lng": -86.1581
+      },
+      "sources": [
+        "warner-woman-evangelist",
+        "burgess-dictionary-pentecostal"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "willis-hoover",
+      "name": "Willis Collins Hoover",
+      "born": 1858,
+      "died": 1936,
+      "circa": false,
+      "roles": [
+        "missionary",
+        "pastor"
+      ],
+      "traditionIds": [
+        "methodist",
+        "pentecostal"
+      ],
+      "regions": [
+        "latin-america"
+      ],
+      "summary": "American Methodist missionary in Chile whose Valparaíso congregation experienced a Pentecostal revival in 1909; after his break with the Methodist conference he led the Iglesia Metodista Pentecostal (1910).",
+      "keyIdeas": [
+        "Baptism of the Holy Spirit",
+        "Indigenous church leadership"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Valparaíso, Chile",
+        "lat": -33.0472,
+        "lng": -71.6127
+      },
+      "sources": [
+        "hoover-historia-avivamiento",
+        "anderson-pentecostalism"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "marie-monsen",
+      "name": "Marie Monsen",
+      "born": 1878,
+      "died": 1962,
+      "circa": false,
+      "roles": [
+        "missionary",
+        "evangelist"
+      ],
+      "traditionIds": [
+        "lutheran",
+        "evangelical"
+      ],
+      "regions": [
+        "east-asia",
+        "northern-europe"
+      ],
+      "summary": "Norwegian Lutheran missionary in China (from 1901) whose searching preaching on the new birth helped spark the Shantung Revival of 1927-1937.",
+      "keyIdeas": [
+        "The necessity of the new birth",
+        "Confession and restitution",
+        "Prayer for revival"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Shandong, China",
+        "lat": 36.6512,
+        "lng": 117.1201
+      },
+      "sources": [
+        "monsen-awakening",
+        "crawford-shantung-revival"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "duncan-campbell",
+      "name": "Duncan Campbell",
+      "born": 1898,
+      "died": 1972,
+      "circa": false,
+      "roles": [
+        "evangelist"
+      ],
+      "traditionIds": [
+        "presbyterian",
+        "evangelical"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Scottish Faith Mission evangelist associated with the Lewis (Hebrides) Awakening of 1949-1952, later principal of the Faith Mission Bible College in Edinburgh.",
+      "keyIdeas": [
+        "Revival in answer to prayer",
+        "Holiness and the presence of God"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Barvas, Isle of Lewis",
+        "lat": 58.3647,
+        "lng": -6.5267
+      },
+      "sources": [
+        "campbell-lewis-awakening",
+        "peckham-sounds-from-heaven"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "agnes-sasagawa",
+      "name": "Agnes Katsuko Sasagawa",
+      "born": 1931,
+      "circa": false,
+      "roles": [
+        "religious sister",
+        "visionary"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "east-asia"
+      ],
+      "summary": "Japanese Catholic sister of the Handmaids of the Eucharist at Akita, who reported the messages and phenomena associated with Our Lady of Akita (1973-1981), recognised by her bishop in 1984.",
+      "keyIdeas": [
+        "Prayer and reparation",
+        "Eucharistic devotion"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Yuzawadai, Akita, Japan",
+        "lat": 39.766,
+        "lng": 140.17
+      },
+      "sources": [
+        "ito-pastoral-letter-1984"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "alphonsine-mumureke",
+      "name": "Alphonsine Mumureke",
+      "born": 1965,
+      "circa": false,
+      "roles": [
+        "visionary"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "sub-saharan-africa"
+      ],
+      "summary": "Rwandan Catholic who as a student at Kibeho College reported the first apparition of the Virgin Mary as 'Nyina wa Jambo' (28 November 1981); one of three visionaries whose apparitions were approved in 2001.",
+      "keyIdeas": [
+        "Prayer and repentance"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Kibeho, Rwanda",
+        "lat": -2.6417,
+        "lng": 29.5394
+      },
+      "sources": [
+        "misago-kibeho-2001"
+      ],
+      "confidence": "debated"
+    }
+  ],
+  "experiences": [
+    {
+      "id": "constantine-milvian-bridge-vision",
+      "title": "Constantine's vision before the Milvian Bridge",
+      "year": 312,
+      "circa": false,
+      "place": {
+        "name": "Milvian Bridge, Rome (the vision's exact location is unknown)",
+        "lat": 41.9356,
+        "lng": 12.4672
+      },
+      "regions": [
+        "italy",
+        "western-europe"
+      ],
+      "personIds": [
+        "constantine-i",
+        "eusebius-of-caesarea"
+      ],
+      "traditionIds": [
+        "early-church",
+        "catholic",
+        "eastern-orthodox"
+      ],
+      "phenomena": [
+        "vision",
+        "light",
+        "conversion"
+      ],
+      "account": "Two Christian writers describe a heavenly sign before Constantine defeated Maxentius at the Milvian Bridge on 28 October 312. Lactantius (c. 315) says only that Constantine 'was directed in a dream to cause the heavenly sign to be delineated on the shields of his soldiers'. Eusebius, in his Life of Constantine written after the emperor's death in 337, reports that Constantine told him on oath that he and his army had seen, about midday, a cross of light above the sun with the words 'Conquer by this', and that Christ then appeared to him in a dream and told him to make a standard in that shape (the labarum).",
+      "primarySource": {
+        "title": "Lactantius, On the Deaths of the Persecutors 44; Eusebius, Life of Constantine 1.27-32",
+        "citation": "Lactantius, De mortibus persecutorum 44 (ANF vol. 7); Eusebius, Vita Constantini 1.28-31 (NPNF ser. 2, vol. 1)",
+        "url": "https://www.newadvent.org/fathers/2502.htm"
+      },
+      "contemporaryInterpretation": "Christian writers presented the victory as the God of the Christians rewarding Constantine's trust; the Senate's Arch of Constantine (315) more cautiously credits the victory to the 'prompting of the divinity' (instinctu divinitatis). A pagan panegyric of 310 had already described a vision of Apollo granted to Constantine in Gaul.",
+      "assessments": [
+        {
+          "perspective": "Eastern Orthodox",
+          "text": "Constantine is venerated as 'equal to the apostles'; the vision of the cross is commemorated as the moment God called the first Christian emperor and opened the way to the Church's freedom."
+        },
+        {
+          "perspective": "Catholic",
+          "text": "The Church recalls the event as providential for the end of persecution, while Catholic historians generally distinguish the core report from later embellishment and judge Constantine's faith by its gradual growth."
+        },
+        {
+          "perspective": "Protestant / Anabaptist critique",
+          "text": "Many Protestant historians, and Anabaptists especially, treat the vision as the symbolic start of 'Constantinian' Christianity, in which the cross became a battle emblem and church and empire fused."
+        },
+        {
+          "perspective": "Historian",
+          "text": "Scholars note that the two accounts differ (dream versus daytime sky-sign) and that Eusebius wrote 25 years later; proposals include a genuine religious experience, a solar halo phenomenon (Peter Weiss), or a reworking of the 310 Apollo vision. Few doubt that Constantine himself came to understand his victory in Christian terms."
+        }
+      ],
+      "debates": [
+        "Whether Lactantius' dream and Eusebius' midday sign describe the same event.",
+        "Natural explanations such as a solar halo versus a purely religious experience.",
+        "How sincere and how complete Constantine's conversion was.",
+        "Whether the 'Constantinian shift' was a blessing or a corruption for the Church."
+      ],
+      "story": "In 312 the Roman Empire was divided among rival emperors. Constantine, proclaimed emperor by his father's troops at York in 306, controlled Gaul and Britain; Maxentius held Rome and Italy. Christians had just come through the Great Persecution begun by Diocletian in 303, and in the East it had only recently been relaxed. In the spring and summer of 312 Constantine crossed the Alps with a smaller army, took the northern Italian cities, and marched on Rome.\n\nConstantine had grown up in a court that honoured the sun-god, and a Latin panegyric of 310 says he saw Apollo at a shrine in Gaul promising him victory. What happened before the battle against Maxentius is known chiefly from two Christian authors. Lactantius, a teacher of rhetoric who became tutor to Constantine's son, wrote within about three years that Constantine 'was directed in a dream to cause the heavenly sign to be delineated on the shields of his soldiers', and describes the sign as a letter X turned with its top bent round, apparently a Chi-Rho or staurogram.\n\nThe fuller story comes from Eusebius, bishop of Caesarea, in the Life of Constantine written after the emperor died in 337. Eusebius says Constantine told him the story long afterwards and confirmed it on oath. While marching, and praying to the God of his father to reveal himself, the emperor saw about midday, in the NPNF translation, 'a cross of light in the heavens, above the sun, and bearing the inscription, CONQUER BY THIS'; the whole army, Eusebius adds, saw it too. That night Christ appeared to him in sleep with the same sign and told him to make a likeness of it as a safeguard in battle. Constantine summoned craftsmen and had a standard made, a long spear with a cross-bar, crowned by a wreath containing the Chi-Rho: the labarum.\n\nOn 28 October 312 the armies met north of Rome by the Milvian Bridge over the Tiber. Maxentius' troops were driven back towards the river; a temporary bridge of boats gave way and Maxentius drowned. Constantine entered Rome the next day. Notably, he did not climb the Capitol to sacrifice to Jupiter, as a victorious general usually would. In 313 he and the eastern emperor Licinius agreed the policy known as the Edict of Milan, granting freedom of worship and restoring Christian property.\n\nReactions were mixed and careful. The triumphal arch the Senate dedicated in 315 says the victory came by the 'prompting of the divinity', a phrase that pagans and Christians could both read their own way. Constantine's coins went on showing the Unconquered Sun for some years. Christians, by contrast, quickly told the story as a divine call: Eusebius placed it at the centre of his portrait of the first Christian emperor, and later Latin tradition gave the words their famous form, in hoc signo vinces.\n\nHistorians have long noticed that the two accounts do not match. Lactantius speaks only of a dream; Eusebius adds a daytime sign seen by the whole army, but does not mention it in his earlier Ecclesiastical History. Some think Eusebius's version grew in the telling, or merged with the earlier Apollo vision; the physicist Peter Weiss and others have suggested a solar halo, an atmospheric display that can produce cross-like bands of light around the sun. Others think Constantine had a real experience that he interpreted, then and later, in Christian terms. All agree the story tells us how Constantine wanted his conversion remembered.\n\nConstantine was baptised only on his deathbed in 337, but in between he built churches, called the Council of Nicaea (325) and founded Constantinople. The cross-shaped standard became an imperial emblem, and the story of the vision became one of the founding narratives of the Christian empire, celebrated by some and lamented by others.",
+      "keyMoments": [
+        {
+          "year": 306,
+          "text": "Constantine is proclaimed emperor by his troops at York."
+        },
+        {
+          "year": 310,
+          "text": "A panegyric describes Constantine's vision of Apollo in Gaul."
+        },
+        {
+          "year": 312,
+          "text": "Constantine invades Italy; according to Lactantius and Eusebius he receives a sign and a dream before the decisive battle."
+        },
+        {
+          "year": 312,
+          "date": "28 October 312",
+          "text": "Constantine defeats Maxentius at the Milvian Bridge, under a Christian emblem."
+        },
+        {
+          "year": 313,
+          "text": "Constantine and Licinius agree religious toleration (the 'Edict of Milan')."
+        },
+        {
+          "year": 315,
+          "text": "The Senate dedicates the Arch of Constantine, crediting the 'prompting of the divinity'."
+        },
+        {
+          "year": 338,
+          "text": "Eusebius writes the Life of Constantine, with the full account of the cross of light."
+        }
+      ],
+      "significance": "The vision marks the start of the alliance between the Roman state and the Church that shaped Christianity for over a thousand years, from imperial councils to Byzantium and Christendom in the West. Orthodox and Catholic Christians remember Constantine as the ruler who ended persecution; Anabaptists, many Protestants and modern critics see in the event the start of a 'Constantinian' compromise that put the cross on soldiers' shields. For historians it is also a classic test case of how a religious experience is retold and reshaped by later writers.",
+      "confidence": "contested",
+      "sources": [
+        "eusebius-life-constantine",
+        "lactantius-mortibus",
+        "barnes-constantine-eusebius",
+        "chadwick-early-church",
+        "odcc"
+      ]
+    },
+    {
+      "id": "gregory-illuminator-etchmiadzin-vision",
+      "title": "Gregory the Illuminator: the pit, the healing of Trdat and the vision at Etchmiadzin",
+      "year": 301,
+      "circa": true,
+      "place": {
+        "name": "Vagharshapat (Etchmiadzin), Armenia",
+        "lat": 40.1617,
+        "lng": 44.2911
+      },
+      "regions": [
+        "armenia-caucasus"
+      ],
+      "personIds": [
+        "gregory-the-illuminator"
+      ],
+      "traditionIds": [
+        "armenian-apostolic",
+        "early-church"
+      ],
+      "phenomena": [
+        "vision",
+        "healing",
+        "conversion",
+        "light",
+        "miracle"
+      ],
+      "account": "According to the History attributed to Agathangelos, King Trdat (Tiridates) III threw Gregory into a deep pit at Artashat for some thirteen years and later martyred the virgin Hripsime and her companions. The king was then struck with madness, in which he took the form of a boar; his sister Khosrovidukht dreamed that only Gregory could heal him. Released, Gregory preached, the king recovered and was baptised, and Gregory saw a vision of the 'Only-Begotten' descending in light and striking the ground with a golden hammer at the site where the cathedral of Etchmiadzin ('the Only-Begotten descended') was built.",
+      "primarySource": {
+        "title": "Agathangelos, History of the Armenians",
+        "citation": "Agathangelos, History of the Armenians, trans. R.W. Thomson (Albany, 1976), especially the Vision of Saint Gregory"
+      },
+      "contemporaryInterpretation": "The narrative, completed in the fifth century, presents Armenia's conversion as a divine act confirmed by miracles and sees the vision as God choosing the place of the mother church of the nation.",
+      "assessments": [
+        {
+          "perspective": "Armenian Apostolic",
+          "text": "Gregory is the 'Illuminator' and founder of the Armenian Church; the vision explains the name and sanctity of Holy Etchmiadzin, seat of the Catholicos of All Armenians, and is celebrated in the liturgical year."
+        },
+        {
+          "perspective": "Eastern Orthodox and Catholic",
+          "text": "Both venerate Gregory as a saint and apostle of Armenia and generally accept the core story of the conversion of King Trdat, while treating the miracle details as traditional."
+        },
+        {
+          "perspective": "Historian",
+          "text": "Scholars regard the History of Agathangelos as a fifth-century composition mixing historical memory with hagiographical and literary layers; Armenia's royal conversion is real but is now usually dated c. 314 rather than the traditional 301."
+        }
+      ],
+      "debates": [
+        "The date of Armenia's conversion: traditional 301 versus scholarly c. 314.",
+        "How much of the Agathangelos narrative preserves early memory.",
+        "The symbolic meaning of the vision for Armenian church identity."
+      ],
+      "story": "At the end of the third century Armenia lay between the Roman and Persian empires. Its Arsacid royal house had been displaced by the Persian Sasanians and then restored with Roman help, and King Trdat (Tiridates) III owed his throne to Rome. Christianity had reached Armenia through Syria and Cappadocia, but the court honoured the old gods of the land, such as the goddess Anahit.\n\nThe story of what followed is told in the History of the Armenians attributed to Agathangelos, who presents himself as a secretary of King Trdat but whose work in its present form dates from the fifth century. According to this account, Gregory, the son of a Parthian noble whose father had murdered Trdat's father, had been raised as a Christian in Caesarea of Cappadocia. He entered Trdat's service but refused to offer garlands to Anahit. After tortures, he was thrown into a deep pit at Artashat, the place later called Khor Virap, below Mount Ararat. There, the tradition says, he survived for about thirteen years, fed secretly by a widow.\n\nMeanwhile a group of Christian virgins led by Gayane and Hripsime is said to have fled persecution in the Roman Empire and come to Vagharshapat. The king desired the beautiful Hripsime; when she resisted, she and her companions were killed. Agathangelos then describes divine judgement: Trdat fell into madness and, in the words of the tradition, took on the form of a wild boar, and members of his court were afflicted. The king's sister Khosrovidukht had repeated dreams in which she was told that only the prisoner Gregory could cure them.\n\nGregory was brought out of the pit, still alive to everyone's astonishment. He buried the martyrs, preached for many days, and the king was healed. Then comes the vision. Gregory, according to the History, saw the heavens open and a figure of light, the Only-Begotten Son, descending with hosts of angels and striking the earth with a golden hammer; at that spot he was shown a design for a church, with pillars of fire topped with crosses. The place was in Vagharshapat, and the cathedral built there was named Etchmiadzin, 'the Only-Begotten descended'.\n\nIn the narrative the king, the queen Ashkhen and the nobility were baptised, pagan temples were destroyed, and Gregory went to Caesarea to be consecrated bishop by Leontius. Armenian tradition dates the royal conversion to 301, making Armenia the first kingdom to adopt Christianity officially. Many modern historians prefer a date around 314, after Gregory's consecration, but agree that Armenia's rulers had become Christian at about this time.\n\nThe story ends with Gregory organising the Church, his descendants holding the office of catholicos for several generations, and the martyrs' chapels of Hripsime and Gayane, which still stand near Etchmiadzin. A little later, about 405, Mesrop Mashtots created the Armenian alphabet, and Agathangelos' History was one of the works that gave the young Church a written memory of its origins.",
+      "keyMoments": [
+        {
+          "year": 287,
+          "text": "Trdat III is restored to the Armenian throne with Roman support."
+        },
+        {
+          "year": 288,
+          "text": "Gregory refuses to honour Anahit and is thrown into the pit of Khor Virap (traditional chronology)."
+        },
+        {
+          "year": 301,
+          "text": "Hripsime, Gayane and their companions are martyred at Vagharshapat."
+        },
+        {
+          "year": 301,
+          "text": "Gregory is released, the king is healed, and Gregory sees the vision of the Only-Begotten at Vagharshapat."
+        },
+        {
+          "year": 314,
+          "text": "Gregory is consecrated bishop at Caesarea in Cappadocia; scholars often date the royal conversion to about this time."
+        },
+        {
+          "year": 405,
+          "text": "The Armenian alphabet is created by Mesrop Mashtots, opening the way for a written Armenian Christian literature."
+        }
+      ],
+      "significance": "Gregory's story is the founding narrative of the Armenian Apostolic Church and of Armenia's identity as the first Christian nation, and Holy Etchmiadzin, named after the vision, remains the spiritual centre for Armenians worldwide. The account also shows how ancient churches told their conversion as a 'power encounter', with healing and miracles that confirmed a royal decision. Historians treat the narrative as hagiography with a historical core, a careful case study for separating early memory from later legend.",
+      "confidence": "hagiographical",
+      "sources": [
+        "agathangelos-history",
+        "atiya-eastern-christianity",
+        "macculloch-christianity",
+        "odcc"
+      ]
+    },
+    {
+      "id": "patrick-dreams-voice-of-the-irish",
+      "title": "Patrick's dreams and the 'Voice of the Irish'",
+      "year": 405,
+      "endYear": 432,
+      "circa": true,
+      "place": {
+        "name": "Slemish, Co. Antrim (traditional site of Patrick's captivity)",
+        "lat": 54.8826,
+        "lng": -6.1007
+      },
+      "regions": [
+        "western-europe"
+      ],
+      "personIds": [
+        "patrick"
+      ],
+      "traditionIds": [
+        "early-church",
+        "catholic",
+        "eastern-orthodox",
+        "anglican"
+      ],
+      "phenomena": [
+        "vision",
+        "prophecy",
+        "conversion"
+      ],
+      "account": "In his Confessio Patrick says he was captured from Britain at about sixteen and herded animals in Ireland for six years, praying many times a day. A voice in his sleep told him he would soon go home and that his ship was ready. Years later, back in Britain, he saw in a night vision a man named Victoricus coming from Ireland with many letters, one headed 'The Voice of the Irish', and heard the people of the Wood of Voclut by the western sea calling him to come and walk among them again.",
+      "primarySource": {
+        "title": "Patrick, Confessio",
+        "citation": "Confessio 1, 16-17, 20, 23-25 (Latin text and translations at the Royal Irish Academy's Saint Patrick's Confessio site)",
+        "url": "https://www.confessio.ie"
+      },
+      "contemporaryInterpretation": "Patrick himself presents the dreams as God's guidance and as his defence against critics in the British church who doubted his calling and integrity.",
+      "assessments": [
+        {
+          "perspective": "Catholic",
+          "text": "Patrick is the apostle of Ireland; his calling through dreams is read as a genuine divine vocation, and the Confessio is valued as an authentic, humble witness to God's providence."
+        },
+        {
+          "perspective": "Eastern Orthodox",
+          "text": "Patrick is honoured as a pre-schism Western saint and 'Enlightener of Ireland'; his ascetic prayer and visions fit patristic patterns of holiness."
+        },
+        {
+          "perspective": "Protestant / Anglican",
+          "text": "Protestants have often valued the Confessio as a Scripture-soaked testimony of grace and missionary calling, free of much later medieval legend."
+        },
+        {
+          "perspective": "Historian",
+          "text": "The Confessio and the Letter to Coroticus are accepted as authentic fifth-century writings, but dates, places and the course of the mission are uncertain; the later legends (snakes, shamrock, Tara) come from the seventh century and after."
+        }
+      ],
+      "debates": [
+        "The dates of Patrick's life and mission (traditional 432 versus later fifth-century dates).",
+        "The location of the Wood of Voclut and of Patrick's captivity.",
+        "How to separate the Confessio from the later Patrick legends."
+      ],
+      "story": "Patrick is one of the few people of fifth-century Britain and Ireland who speaks to us in his own words. In his Confessio, a short and urgent text written in his old age, he says he was the son of Calpornius, a deacon and town official, and grandson of Potitus, a priest, and that his family had a small estate near a place he calls Bannavem Taburniae, somewhere in Roman Britain. When he was nearly sixteen, Irish raiders seized him with many others and took him to Ireland as a slave.\n\nPatrick admits he did not then know the true God. Herding animals in the hills, in snow, frost and rain, he began to pray. He writes that the love and fear of God grew in him, so that he prayed up to a hundred times a day and almost as often at night. After six years, he says, he heard a voice in his sleep telling him that he did well to fast and would soon go to his own country, and a little later that his ship was ready. The ship, he says, was about two hundred miles away, in a place he had never been.\n\nHe walked away and found the ship. The sailors at first refused him, then took him on board. After a voyage and a long journey through a deserted land, the company ran out of food; Patrick says he urged them to trust God, and a herd of pigs appeared. During this journey he also describes a terrifying night when he felt as if a great rock had fallen on him, unable to move, until he called out 'Helias' and the brightness of the rising sun freed him, an experience he explains by Christ's help.\n\nBack with his family in Britain, he had the vision that changed his life. He saw a man named Victoricus coming as if from Ireland with countless letters, and one was headed 'The Voice of the Irish'. As he read it, he heard the voices of the people who lived beside the Wood of Voclut, near the western sea, crying as with one voice for the holy youth to come and walk once more among them. He woke, he says, deeply moved. In further experiences he felt someone praying within him, and understood it as the Spirit, quoting Romans 8:26.\n\nThe Confessio is vague about how long he waited and how he prepared, but he trained for the ministry, was made a bishop, and returned to Ireland. He describes baptising thousands, ordaining clergy, giving gifts to local kings to travel safely, being captured and threatened, and encouraging sons and daughters of chieftains to become monks and virgins. He also defends himself against senior churchmen in Britain who had raised a fault he had confessed as a youth and accused him of profiting from the mission.\n\nPatrick's dates are uncertain. The traditional year of his arrival as bishop is 432, linked to the earlier sending of Palladius by Pope Celestine to 'the Irish believing in Christ' in 431; some scholars place him later in the fifth century. The Wood of Voclut is often identified with an area near Killala in Co. Mayo, while later tradition put his captivity on Slemish mountain in Co. Antrim. From the seventh century, writers such as Muirchú and Tírechán added colourful legends, and the historical Patrick became Ireland's patron saint.",
+      "keyMoments": [
+        {
+          "year": 405,
+          "text": "Patrick, about sixteen, is captured in Britain and taken to Ireland as a slave (date uncertain)."
+        },
+        {
+          "year": 411,
+          "text": "After six years of herding and prayer, a voice in sleep tells him his ship is ready; he escapes."
+        },
+        {
+          "year": 420,
+          "text": "Back in Britain, he sees Victoricus with the letter headed 'The Voice of the Irish'."
+        },
+        {
+          "year": 431,
+          "text": "Pope Celestine sends Palladius to the Irish believers."
+        },
+        {
+          "year": 432,
+          "text": "Traditional date of Patrick's return to Ireland as bishop."
+        },
+        {
+          "year": 460,
+          "text": "In old age Patrick writes the Confessio to defend his mission (date uncertain)."
+        }
+      ],
+      "significance": "Patrick's dreams frame one of the first Christian missions beyond the Roman frontier, and his Confessio is a rare first-person account of conversion, calling and missionary life from the fifth century. Irish Christianity, with its monasteries and later missionaries such as Columba and Columbanus, looked to him as founder, and he is honoured today by Catholic, Orthodox, Anglican and many Protestant Christians. Historians use the Confessio to test later legends, showing how the humble, self-doubting bishop of the text became the national saint of legend.",
+      "confidence": "well-documented",
+      "sources": [
+        "patrick-confessio",
+        "bradley-celtic",
+        "odcc",
+        "macculloch-christianity"
+      ]
+    },
+    {
+      "id": "benedict-scholastica-storm-and-dove",
+      "title": "Benedict and Scholastica: the storm, the dove and the world in a ray of light",
+      "year": 543,
+      "circa": true,
+      "place": {
+        "name": "Monte Cassino, Italy",
+        "lat": 41.4903,
+        "lng": 13.8139
+      },
+      "regions": [
+        "italy"
+      ],
+      "personIds": [
+        "benedict-of-nursia",
+        "scholastica",
+        "gregory-the-great"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-orthodox",
+        "anglican",
+        "early-church"
+      ],
+      "phenomena": [
+        "miracle",
+        "vision",
+        "light"
+      ],
+      "account": "Gregory the Great's Dialogues (Book II, chapters 33-35) tell that Benedict's sister Scholastica, meeting him once a year near Monte Cassino, begged him to stay the night; when he refused, she prayed and a sudden storm kept him there. Three days later Benedict saw her soul leave her body in the form of a dove and enter heaven. Later, praying at night, he saw a light brighter than day in which the whole world appeared gathered as in a single ray of sun, and the soul of Bishop Germanus of Capua carried to heaven in a globe of fire.",
+      "primarySource": {
+        "title": "Gregory the Great, Dialogues, Book II",
+        "citation": "Gregory I, Dialogi II.33-35 (c. 593-594); English trans. 1608, rev. E.G. Gardner (1911)"
+      },
+      "contemporaryInterpretation": "Gregory tells the stories to show that Benedict's holiness made him a man filled with the spirit of the righteous, and that Scholastica's prayer succeeded because 'she was able to do more, who loved more' (illa plus potuit, quae amplius amavit).",
+      "assessments": [
+        {
+          "perspective": "Catholic / Benedictine",
+          "text": "Benedict is patron of Europe and father of Western monasticism; the stories express the primacy of love over rules, the power of prayer, and contemplative vision, and Scholastica is honoured as patroness of Benedictine nuns."
+        },
+        {
+          "perspective": "Eastern Orthodox",
+          "text": "Benedict and Scholastica are pre-schism saints; Gregory (called 'the Dialogist' in the East) is read widely in Greek translation, and the vision of light resonates with Eastern teaching on divine light."
+        },
+        {
+          "perspective": "Protestant",
+          "text": "Protestants have generally valued Benedict's Rule while treating the Dialogues' miracle stories as pious legend; some (e.g. Anglican writers) find in Scholastica's story a model of affectionate, persistent prayer."
+        },
+        {
+          "perspective": "Historian",
+          "text": "The Dialogues were written some fifty years after Benedict's death and follow hagiographical conventions; Gregory claims to rely on Benedict's disciples. Francis Clark's thesis (1987) that Gregory did not write the Dialogues has been widely rejected."
+        }
+      ],
+      "debates": [
+        "The historical reliability of Gregory's Dialogues.",
+        "The relationship of Benedict and Scholastica (the Dialogues call her his sister; later tradition made them twins).",
+        "Interpreting the 'world in a single ray' vision: cosmic vision or mind enlarged in God."
+      ],
+      "story": "By the 540s Benedict of Nursia had lived for many years at Monte Cassino, a hilltop between Rome and Naples where, according to tradition, he had founded a monastery about 529 on the site of a pagan shrine. There he wrote the Rule that would become the basic text of Western monastic life, with its rhythm of prayer, reading and work and its insistence on stability and obedience. Italy around him was devastated by the long war between the Byzantine armies and the Goths.\n\nAlmost all we know of Benedict's life comes from Book II of the Dialogues, written by Pope Gregory the Great about 593-594. Gregory says he heard the stories from four of Benedict's disciples, including later abbots of Monte Cassino. He tells them as a teacher, answering the questions of his deacon Peter, and he openly wants to show that Italy, too, had saints with wonder-working power.\n\nOne of the most loved stories concerns Scholastica, Benedict's sister, who, Gregory says, had been dedicated to God from infancy. She came to see him once a year, and he went down to meet her at a house belonging to the monastery not far away. On the last of these visits they spent the whole day in praise of God and holy conversation. As night fell they ate together, and Scholastica asked him to stay so they could talk until morning of the joys of heaven. Benedict refused: he could not, he said, spend the night outside his monastery.\n\nThe sky was clear. Scholastica folded her hands on the table, rested her head on them and prayed. When she raised her head, according to Gregory, there was such lightning, thunder and rain that neither Benedict nor the monks with him could step outside. Benedict asked her what she had done; she replied, in substance, that she had asked him and he would not listen, so she had asked her God and he had listened. So they spent the night in spiritual talk. Gregory comments that it is no wonder she prevailed over her brother: 'she was able to do more, who loved more'.\n\nThree days later, Gregory continues, Benedict was standing in his cell when he looked up and saw his sister's soul, in the form of a dove, leave her body and rise into heaven. Rejoicing, he gave thanks, told the brothers, and had her body brought to the monastery and buried in the tomb he had prepared for himself. Tradition places her death about 543 and celebrates her feast on 10 February.\n\nGregory adds another vision. One night, as Benedict prayed at a window before the night office, a light poured down that drove away all darkness, and, in Gregory's words as usually translated, the whole world was brought before his eyes as if gathered in a single ray of the sun. In that light he saw the soul of Germanus, bishop of Capua, carried to heaven by angels in a globe of fire; messengers later confirmed that Germanus had died at that hour. Gregory explains that it was not the world that shrank but the soul of the seer that was enlarged in God.\n\nBenedict died not long after, about 547, and was buried with Scholastica. The Lombards destroyed Monte Cassino about 577; it was rebuilt in the eighth century, destroyed and rebuilt again, most recently after the bombing of 1944. Through Gregory's Dialogues and the spread of the Rule under Carolingian rulers, the stories of the storm, the dove and the ray of light became part of the memory of Western monasticism.",
+      "keyMoments": [
+        {
+          "year": 529,
+          "text": "Benedict founds the monastery of Monte Cassino (traditional date)."
+        },
+        {
+          "year": 541,
+          "text": "Benedict's vision of the whole world in a ray of light and of the soul of Germanus of Capua (Germanus died about this time)."
+        },
+        {
+          "year": 543,
+          "text": "Scholastica's last visit; her prayer brings the storm that keeps Benedict with her through the night (traditional date)."
+        },
+        {
+          "year": 543,
+          "text": "Three days later Benedict sees her soul rise as a dove and buries her in his own tomb."
+        },
+        {
+          "year": 547,
+          "text": "Benedict dies at Monte Cassino (traditional date)."
+        },
+        {
+          "year": 593,
+          "text": "Gregory the Great writes the Dialogues, Book II, the life of Benedict."
+        }
+      ],
+      "significance": "Gregory's stories helped make Benedict the father of Western monasticism and made his Rule the model for thousands of houses, which preserved learning and liturgy through the early Middle Ages. Scholastica's story, with its lesson that love can outweigh the letter of a rule, has inspired Benedictine women and many readers on prayer, while the vision of the world in a ray of light became a classic text for Western teaching on contemplation. Historians use the Dialogues carefully, as a window on sixth-century piety rather than as precise biography.",
+      "confidence": "hagiographical",
+      "sources": [
+        "gregory-dialogues",
+        "rule-of-benedict-src",
+        "leclercq-love-of-learning",
+        "mcginn-mysticism",
+        "odcc"
+      ]
+    },
+    {
+      "id": "aquinas-all-straw-1273",
+      "title": "Thomas Aquinas: 'all that I have written seems like straw'",
+      "year": 1273,
+      "circa": false,
+      "place": {
+        "name": "San Domenico Maggiore, Naples",
+        "lat": 40.8486,
+        "lng": 14.2547
+      },
+      "regions": [
+        "italy"
+      ],
+      "personIds": [
+        "thomas-aquinas"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "phenomena": [
+        "ecstasy",
+        "mystical-union",
+        "vision"
+      ],
+      "account": "According to testimony given by Bartholomew of Capua at the canonization inquiry of 1319, on or about 6 December 1273, while celebrating Mass in the chapel of St Nicholas at the Dominican priory in Naples, Thomas Aquinas underwent a change so great that he never again wrote or dictated. When his companion Reginald of Piperno urged him to finish the Summa Theologiae, Thomas replied that he could not, because all he had written seemed to him like straw compared with what he had seen.",
+      "primarySource": {
+        "title": "Acts of the canonization inquiry of Thomas Aquinas (Naples, 1319), testimony of Bartholomew of Capua",
+        "citation": "Processus canonizationis S. Thomae, Neapoli, ch. 79 (in Fontes vitae S. Thomae Aquinatis, ed. Laurent, 1912-37)"
+      },
+      "contemporaryInterpretation": "Bartholomew, reporting Reginald's account, understood the episode as a revelation so great that further writing seemed worthless; Thomas's early biographer William of Tocco included it among his signs of holiness.",
+      "assessments": [
+        {
+          "perspective": "Catholic",
+          "text": "The episode is often read as the culmination of Thomas's life: theology bows before the vision of God it serves. It does not discredit his work, which the Church holds in the highest esteem, but shows its proper humility."
+        },
+        {
+          "perspective": "Protestant",
+          "text": "Some Protestant writers have used the story to argue for the limits of scholastic reasoning; others, including Reformed admirers of Thomas, read it as consistent with his own teaching that we know God only partially in this life."
+        },
+        {
+          "perspective": "Medical / psychological",
+          "text": "Several scholars, including James Weisheipl, have suggested that Thomas may also have suffered a physical or nervous collapse (perhaps a stroke) after years of overwork; this need not exclude a religious experience."
+        },
+        {
+          "perspective": "Historian",
+          "text": "The source is sworn testimony given 46 years later, at second hand through Reginald, but is generally accepted as preserving a real event; the exact words are a report, not a verbatim record."
+        }
+      ],
+      "debates": [
+        "Mystical experience, physical breakdown, or both?",
+        "What the 'straw' comment implies about the value of theology.",
+        "Why the Summa Theologiae was left unfinished in the treatise on penance."
+      ],
+      "story": "By 1273 Thomas Aquinas was the most productive theologian of his age. Born about 1225 at Roccasecca, between Rome and Naples, into a noble family, he had joined the new Dominican Order against his family's wishes, studied under Albert the Great, and taught at Paris and in Italy. In 1272 the Dominicans sent him to Naples to set up a house of studies. There he was working on the third part of his Summa Theologiae, dictating to secretaries, while also writing commentaries on Aristotle and Scripture.\n\nHis friends described a man absorbed in thought, often abstracted at table, who prayed before he studied and wept at Mass. His secretary and companion, the Dominican Reginald of Piperno, was with him daily. Another witness from Naples, Domenico of Caserta, later testified that he had seen Thomas in prayer before a crucifix and heard a voice say 'You have written well of me, Thomas'; this story belongs to the same body of canonization testimony.\n\nThe decisive episode, according to the testimony of Bartholomew of Capua, a royal official who said he had it from Reginald, happened while Thomas was celebrating Mass in the chapel of St Nicholas, which places it around the feast of 6 December 1273. Something happened to him there, Bartholomew reported, that greatly changed him. After that Mass he never wrote or dictated again, and he put away his writing instruments. The Summa was left unfinished in the middle of the questions on the sacrament of penance.\n\nReginald, worried, asked why he had stopped such a great work. According to Bartholomew, Thomas answered: 'Reginald, I cannot', and when pressed said that all that he had written seemed to him like straw. In some versions he added that it was like straw compared with what he had seen and what had been revealed to him. Thomas asked Reginald not to speak of it while he lived.\n\nThomas was taken to rest with his sister Theodora, countess of San Severino. She was alarmed to find him barely speaking, and asked Reginald what had happened; Reginald said he had been in this state since about the feast of St Nicholas. Early in 1274 Pope Gregory X summoned Thomas to the Second Council of Lyon. On the journey north he struck his head on a branch, fell ill, and was carried to the Cistercian abbey of Fossanova, where he died on 7 March 1274, reportedly after commenting on the Song of Songs for the monks.\n\nThe report entered the record when the canonization process was opened at Naples in 1319, and Thomas was declared a saint in 1323 by Pope John XXII. William of Tocco's life of Thomas made the story widely known. Modern historians such as Jean-Pierre Torrell accept that something serious happened in December 1273, while discussing whether it was a mystical experience, an illness such as a stroke, exhaustion after years of extraordinary work, or a combination of these.",
+      "keyMoments": [
+        {
+          "year": 1265,
+          "text": "Thomas begins the Summa Theologiae."
+        },
+        {
+          "year": 1272,
+          "text": "He moves to Naples to establish a Dominican house of studies."
+        },
+        {
+          "year": 1273,
+          "date": "c. 6 December 1273",
+          "text": "During Mass in the chapel of St Nicholas, Naples, he undergoes the experience that ends his writing."
+        },
+        {
+          "year": 1273,
+          "text": "He tells Reginald of Piperno that all he has written seems like straw."
+        },
+        {
+          "year": 1274,
+          "date": "7 March 1274",
+          "text": "Travelling to the Council of Lyon, he falls ill and dies at Fossanova."
+        },
+        {
+          "year": 1319,
+          "text": "Bartholomew of Capua testifies at the canonization inquiry in Naples."
+        },
+        {
+          "year": 1323,
+          "text": "Thomas is canonized by Pope John XXII."
+        }
+      ],
+      "significance": "The 'straw' episode has become one of the most quoted moments in the history of theology, a reminder from its greatest systematic thinker that speech about God falls short of God. Catholic teaching later made Thomas's thought central to seminary formation (especially after Leo XIII's Aeterni Patris, 1879), and the story is often cited to show that his intellectualism was rooted in prayer. It is also used, sometimes too easily, by critics of scholasticism, and it remains a case study in how religious experience and possible illness are weighed in historical sources.",
+      "confidence": "well-documented",
+      "sources": [
+        "torrell-aquinas",
+        "newadvent-summa",
+        "mcginn-mysticism",
+        "odcc"
+      ]
+    },
+    {
+      "id": "bridget-of-sweden-revelations",
+      "title": "Bridget of Sweden: the call at Alvastra and the Revelations",
+      "year": 1345,
+      "endYear": 1373,
+      "circa": true,
+      "place": {
+        "name": "Alvastra Abbey, Östergötland, Sweden",
+        "lat": 58.2963,
+        "lng": 14.6555
+      },
+      "regions": [
+        "northern-europe",
+        "italy",
+        "levant"
+      ],
+      "personIds": [
+        "bridget-of-sweden"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "phenomena": [
+        "vision",
+        "prophecy",
+        "mystical-union"
+      ],
+      "account": "After the death of her husband Ulf Gudmarsson at Alvastra (1344), the Swedish noblewoman Birgitta Birgersdotter experienced what she understood as Christ's call to be his 'bride and channel' (sponsa et canale). For almost thirty years she reported visions and auditions, which her confessors translated into Latin as the Revelations: messages to popes and kings, a Rule for a new order, and in 1372 at Bethlehem a vision of the Nativity in which the newborn Christ lay radiant on the ground before the kneeling Virgin.",
+      "primarySource": {
+        "title": "Birgitta of Sweden, Revelationes",
+        "citation": "Revelaciones, Books I-VIII and Extravagantes (ed. Alfonso of Jaén, 1370s-1380s); Nativity vision Book VII.21; trans. D. Searby and B. Morris (2006-15)"
+      },
+      "contemporaryInterpretation": "Her confessors, Prior Peter Olofsson of Alvastra and Master Mathias of Linköping, accepted the revelations as divine; Alfonso Pecha of Jaén edited them and wrote a defence of their authenticity. Critics, including at the Councils of Constance and Basel, questioned them, and Jean Gerson used her case in his treatise on testing spirits (1415).",
+      "assessments": [
+        {
+          "perspective": "Catholic",
+          "text": "Bridget was canonized in 1391 and declared co-patroness of Europe in 1999; the Church approves her as a saint without requiring belief in every detail of her private revelations, which remain a classic of mystical and prophetic literature."
+        },
+        {
+          "perspective": "Lutheran (Sweden)",
+          "text": "The Church of Sweden honours her as a major figure of Swedish history and spirituality, though the Reformation rejected the order's monastic life and the authority of private revelations."
+        },
+        {
+          "perspective": "Feminist / historical theology",
+          "text": "Scholars stress how visionary authority allowed a laywoman and widow to admonish popes and kings, while her texts were mediated and shaped by male clerical editors."
+        },
+        {
+          "perspective": "Sceptical",
+          "text": "Some see the revelations as the work of a devout, politically engaged aristocrat whose visions mirrored her concerns; Gerson's warnings about 'discernment of spirits' were partly aimed at such claims."
+        }
+      ],
+      "debates": [
+        "How much the Latin Revelations reflect her words versus her editors'.",
+        "Discernment of spirits and women's visionary authority (Gerson).",
+        "Her political prophecies on the Avignon papacy and the Hundred Years' War."
+      ],
+      "story": "Birgitta Birgersdotter was born in 1303 into one of Sweden's leading noble families; her father Birger Persson was lawman of Uppland. Married at thirteen to Ulf Gudmarsson, later lawman of Närke, she had eight children, among them Catherine, who would become a saint herself. Birgitta served for a time at the court of King Magnus Eriksson and Queen Blanche of Namur, and with Ulf she made the pilgrimage to Santiago de Compostela in 1341-1343.\n\nOn the way back Ulf fell ill. He retired to the Cistercian abbey of Alvastra, beneath the Omberg hills by Lake Vättern, and died there in 1344. Birgitta, now a widow in her early forties, stayed near the monastery. According to her own later accounts and the early biography written by her confessors, she was praying, troubled about her new life, when she was 'surrounded' by a spiritual light and heard Christ speak to her, telling her that she would be his bride and his channel, through whom he would speak to the world.\n\nFrom then on she reported frequent visions and messages, in which Christ, the Virgin Mary and saints spoke to her. She dictated them in Swedish, and her confessors, the Alvastra prior Peter Olofsson and the learned canon Master Mathias of Linköping, translated them into Latin. Many are sharp moral warnings to kings, nobles and clergy; others describe Christ's Passion in vivid physical detail; one long revelation set out a Rule for a new double order of nuns and monks, the Order of the Most Holy Saviour, with a mother house at Vadstena.\n\nIn 1349 Birgitta travelled to Rome for the Jubilee of 1350 and never returned to Sweden. She lived in a house near what is now Piazza Farnese, cared for the poor and pilgrims, and pressed in letter after letter for the popes to return from Avignon to Rome and for peace between England and France. Pope Urban V came briefly to Rome and approved her Rule in modified form in 1370; when he returned to Avignon she prophesied his death, and he died soon afterwards, which many took as confirmation.\n\nIn 1371-1373, old and ill, she made a pilgrimage to the Holy Land. At Bethlehem, according to her Revelations, she saw the birth of Christ: the Virgin kneeling in prayer, and suddenly the child lying on the ground, giving out a light brighter than the sun, while Mary worshipped him. This image, of the naked, radiant child on the ground and the kneeling mother, spread rapidly in European painting of the Nativity in the following century.\n\nBirgitta died in Rome on 23 July 1373, and her remains were taken to Vadstena. Her daughter Catherine and the Spanish ex-bishop Alfonso of Jaén promoted her cause, and Alfonso edited the Revelations with a defence of their authenticity. She was canonized in 1391, but the Great Schism and the councils of the early fifteenth century reopened the debate: some theologians attacked her revelations, and Jean Gerson wrote On the Testing of Spirits (1415) with her case in mind. Her canonization was nonetheless upheld, and her order spread across northern Europe.",
+      "keyMoments": [
+        {
+          "year": 1303,
+          "text": "Birgitta is born into a noble family in Uppland, Sweden."
+        },
+        {
+          "year": 1341,
+          "text": "Pilgrimage with her husband Ulf to Santiago de Compostela."
+        },
+        {
+          "year": 1344,
+          "text": "Ulf dies at Alvastra; soon after, Birgitta experiences her call to be Christ's 'bride and channel'."
+        },
+        {
+          "year": 1349,
+          "text": "She leaves for Rome for the Jubilee and settles there for good."
+        },
+        {
+          "year": 1370,
+          "text": "Pope Urban V approves her Rule for the Order of the Most Holy Saviour."
+        },
+        {
+          "year": 1372,
+          "text": "At Bethlehem she records her vision of the Nativity."
+        },
+        {
+          "year": 1373,
+          "date": "23 July 1373",
+          "text": "Birgitta dies in Rome."
+        },
+        {
+          "year": 1391,
+          "text": "She is canonized by Boniface IX."
+        },
+        {
+          "year": 1415,
+          "text": "Jean Gerson's On the Testing of Spirits uses her case to urge caution about visions."
+        }
+      ],
+      "significance": "Bridget is one of the most influential women of the medieval Church: a visionary laywoman who addressed popes and kings, founded an order and shaped Christian art through her Nativity vision. The controversy over her revelations helped produce the late medieval theory of 'discernment of spirits', which still shapes Catholic caution about private revelations. In 1999 John Paul II named her a co-patroness of Europe, and she is also honoured in Sweden beyond the Catholic Church as a national figure.",
+      "confidence": "well-documented",
+      "sources": [
+        "bridget-revelations",
+        "morris-birgitta",
+        "mcginn-mysticism",
+        "odcc"
+      ]
+    },
+    {
+      "id": "sergius-radonezh-theotokos-vision",
+      "title": "Sergius of Radonezh and the visit of the Mother of God",
+      "year": 1385,
+      "circa": true,
+      "place": {
+        "name": "Holy Trinity Monastery (Trinity-Sergius Lavra), Sergiev Posad",
+        "lat": 56.3104,
+        "lng": 38.13
+      },
+      "regions": [
+        "russia"
+      ],
+      "personIds": [
+        "sergius-of-radonezh"
+      ],
+      "traditionIds": [
+        "russian-orthodox",
+        "eastern-orthodox"
+      ],
+      "phenomena": [
+        "apparition",
+        "light",
+        "vision"
+      ],
+      "account": "According to the Life of Sergius by Epiphanius the Wise (revised by Pachomius the Serb), late one night after singing a service of praise before an icon of the Mother of God, Sergius told his disciple Micah to be watchful because a wonderful visit was coming. A voice announced the Most Pure One, a light brighter than the sun filled the cell, and the Theotokos appeared with the apostles Peter and John, promising that she would not abandon his monastery. Sergius fell prostrate; Micah fell to the ground as if dead.",
+      "primarySource": {
+        "title": "Epiphanius the Wise, Life of St Sergius of Radonezh",
+        "citation": "Zhitie Sergiia Radonezhskogo (c. 1418), revised by Pachomius Logothetes (1440s-50s); English in G.P. Fedotov (ed.), A Treasury of Russian Spirituality (1948)"
+      },
+      "contemporaryInterpretation": "The Life presents the vision as heaven's confirmation of Sergius's holiness and of the future of the Trinity monastery, whose many daughter-houses carried monastic life across northern Russia.",
+      "assessments": [
+        {
+          "perspective": "Russian Orthodox",
+          "text": "Sergius is the 'abbot of all Russia' and among the most beloved Russian saints; the appearance of the Theotokos is celebrated as a sign of her protection of the Lavra and of Russia, and is a frequent subject of icons."
+        },
+        {
+          "perspective": "Eastern Orthodox (wider)",
+          "text": "Sergius's life of humility, labour and silent prayer is seen as a Russian flowering of hesychast spirituality, and his visions of divine light are read in that light."
+        },
+        {
+          "perspective": "Catholic / Protestant",
+          "text": "Sergius is admired across confessions as a model of monastic simplicity; the vision is treated as part of the hagiographical tradition rather than as a matter of doctrine."
+        },
+        {
+          "perspective": "Historian",
+          "text": "The Life was written about 25 years after his death and later reworked; historians treat its miracle stories as hagiography, while accepting the basic facts of his life, his monastery and his role in Muscovite church life."
+        }
+      ],
+      "debates": [
+        "The reliability of Epiphanius' Life and Pachomius' revisions.",
+        "Sergius's role in the politics of Muscovy, including the blessing of Dmitry Donskoy before Kulikovo (1380).",
+        "Links between Russian monasticism and Byzantine hesychasm."
+      ],
+      "story": "In the fourteenth century the Russian lands were divided into principalities that paid tribute to the Golden Horde. Moscow was rising, and its metropolitan, Alexis, worked closely with the princes. Into this world, around 1314 (some sources say 1322), a boy named Bartholomew was born to a boyar family near Rostov. His family lost their wealth and moved to Radonezh, north-east of Moscow. The Life written by his disciple Epiphanius the Wise says he struggled to learn to read until a mysterious elder blessed him.\n\nAfter his parents died, Bartholomew and his brother Stefan went into the forest and built a cell and a wooden church dedicated to the Holy Trinity, perhaps in the late 1330s or 1340s. Stefan soon left; Bartholomew was tonsured as Sergius and lived alone among bears and snow. Gradually disciples came; the hermitage became a monastery, and Sergius reluctantly became its abbot. Epiphanius stresses his humility: he carried water, baked bread, wore patched clothes, and was mistaken by visitors for a peasant. About 1377, encouraged by Patriarch Philotheos of Constantinople, he introduced the full common life.\n\nThe Life is full of signs. A disciple reported seeing fire moving over the altar while Sergius celebrated the liturgy and entering the chalice when he received communion. Another night, Sergius saw a radiant light and a great flock of birds, and heard a voice that his disciples would be as many as those birds. When Metropolitan Alexis wanted him as his successor, he refused. Tradition says that before the battle of Kulikovo in 1380 he blessed Grand Prince Dmitry Donskoy and sent two monks with him, though historians debate the details.\n\nThe best-known vision belongs to his later years. According to the Life, Sergius had sung a canon or akathist before the icon of the Mother of God late at night and was praying for his monastery and disciples. He sat down and said to his cell attendant Micah: 'Be watchful, my son, for a wonderful and fearful visitation is about to come to us.' At once a voice said, 'The Most Pure One is coming.'\n\nSergius went out into the passage, and a light brighter than the sun shone on him. He saw the Mother of God with the apostles Peter and John, shining with unspeakable brightness, and fell to the ground. She touched him and told him not to fear: his prayer for his disciples had been heard, and she would not abandon the monastery, but would protect it both in his life and after his departure. Then she vanished. Micah, who had seen the light, lay as if dead; when he came round, Sergius told him what had happened, and they prayed together. Sergius asked him to keep silent about it while he lived.\n\nSergius died on 25 September 1392. His monastery became the Trinity-Sergius Lavra, the heart of Russian Orthodoxy, and his disciples founded dozens of monasteries across the north. Andrei Rublev's icon of the Holy Trinity was painted for the monastery in his honour. Sergius was formally glorified as a saint about 1452, and the story of the visit of the Mother of God is depicted in icons and commemorated each year by the monastery.",
+      "keyMoments": [
+        {
+          "year": 1314,
+          "text": "Birth of Bartholomew (Sergius) near Rostov (date debated; alternative 1322)."
+        },
+        {
+          "year": 1345,
+          "text": "With his brother Stefan he founds a forest hermitage dedicated to the Holy Trinity (date approximate)."
+        },
+        {
+          "year": 1377,
+          "text": "Introduction of the common life in the monastery, with encouragement from Constantinople."
+        },
+        {
+          "year": 1380,
+          "text": "Battle of Kulikovo; tradition says Sergius blessed Dmitry Donskoy beforehand."
+        },
+        {
+          "year": 1385,
+          "text": "Late in his life, the vision of the Mother of God with Peter and John, witnessed by Micah (undated in the Life)."
+        },
+        {
+          "year": 1392,
+          "date": "25 September 1392",
+          "text": "Sergius dies at his monastery."
+        },
+        {
+          "year": 1418,
+          "text": "Epiphanius the Wise writes the Life of Sergius."
+        },
+        {
+          "year": 1452,
+          "text": "Sergius is glorified as a saint (approximate date)."
+        }
+      ],
+      "significance": "The vision crowned the life of the most influential Russian monastic saint and gave the Trinity-Sergius Lavra its sense of being under the special protection of the Mother of God. Through Sergius's disciples, monastic life and the hesychast tradition of silent prayer spread across northern Russia, shaping Russian spirituality, art (above all Rublev's Trinity) and national memory. Historians read the account as hagiography written to honour a revered founder, while recognising its importance for understanding Russian Orthodox piety.",
+      "confidence": "hagiographical",
+      "sources": [
+        "epiphanius-life-sergius",
+        "pospielovsky-russian-church",
+        "ware-orthodox-church",
+        "odcc"
+      ]
+    },
+    {
+      "id": "sarah-edwards-ecstasy-1742",
+      "title": "Sarah Edwards' ecstasies in the Great Awakening",
+      "year": 1742,
+      "circa": false,
+      "place": {
+        "name": "Northampton, Massachusetts",
+        "lat": 42.3251,
+        "lng": -72.6412
+      },
+      "regions": [
+        "north-america"
+      ],
+      "personIds": [
+        "sarah-pierpont-edwards",
+        "jonathan-edwards"
+      ],
+      "traditionIds": [
+        "congregationalist",
+        "reformed",
+        "evangelical"
+      ],
+      "phenomena": [
+        "ecstasy",
+        "mystical-union",
+        "revival"
+      ],
+      "account": "In January and February 1742, while Jonathan Edwards was away and the young evangelist Samuel Buell preached in Northampton, Sarah Pierpont Edwards experienced a series of intense religious ecstasies over about two weeks, including a sense of overwhelming divine love, long periods of physical weakness and a night spent in what she described as continuous, sweet awareness of Christ. At her husband's request she wrote an account. Edwards described her experiences anonymously in Some Thoughts Concerning the Present Revival of Religion (1743) as an example of a genuine work of the Spirit.",
+      "primarySource": {
+        "title": "Sarah Edwards' narrative; Jonathan Edwards, Some Thoughts Concerning the Present Revival of Religion in New England (1743), Part I",
+        "citation": "Sarah Edwards' account printed in S.E. Dwight, The Life of President Edwards (New York, 1830); Edwards, Some Thoughts (Boston, 1743)"
+      },
+      "contemporaryInterpretation": "Jonathan Edwards defended the experiences against critics of 'enthusiasm' such as Charles Chauncy, writing that if such things were enthusiasm, 'let my brain be evermore possessed of that happy distemper!'",
+      "assessments": [
+        {
+          "perspective": "Reformed / Evangelical",
+          "text": "Edwards' defenders see Sarah's experience as a model of true affections: rooted in Scripture, humbling, and producing love, humility and service rather than spiritual pride."
+        },
+        {
+          "perspective": "Rationalist critics (18th century)",
+          "text": "Charles Chauncy and other 'Old Lights' argued that bodily effects and raptures in the revival were products of overheated imagination, not signs of grace."
+        },
+        {
+          "perspective": "Feminist historiography",
+          "text": "Recent scholars recover Sarah as a religious subject in her own right, noting that her narrative was long known mainly through her husband's anonymised use of it."
+        },
+        {
+          "perspective": "Psychological",
+          "text": "Some interpreters link her ecstasies to strain, including jealousy of Buell's success and anxiety about her husband's esteem, which she herself named; others caution against reducing the experience to these factors."
+        }
+      ],
+      "debates": [
+        "Distinguishing genuine religious affections from 'enthusiasm' (Edwards versus Chauncy).",
+        "How to read bodily effects in revivals.",
+        "Recovering women's voices from male-edited texts."
+      ],
+      "story": "Sarah Pierpont was born in New Haven, Connecticut, in 1710, daughter of a minister who helped found Yale. When she was about thirteen, the young Jonathan Edwards wrote a now-famous private note describing a girl who seemed to commune with an invisible Being and to walk in the fields singing. They married in 1727, when she was seventeen, and she became mistress of a busy household in the Northampton parsonage, raising eleven children while her husband spent long hours in his study.\n\nNorthampton had seen a revival in 1734-1735, which Edwards described in his Faithful Narrative. In 1740 George Whitefield preached there, and from 1741 the Great Awakening spread across New England, bringing crowds, outcries, fainting and fierce debate. Edwards' sermon 'Sinners in the Hands of an Angry God' was preached at Enfield in July 1741. Some ministers welcomed the revival; others, soon called Old Lights, believed it was dissolving order and reason into emotional 'enthusiasm'.\n\nIn January 1742 Edwards left to preach elsewhere, and a young graduate, Samuel Buell, came to preach in Northampton. His meetings stirred the town. Sarah later admitted that she had felt troubled by a lack of her husband's approval and by envy at Buell's success. According to her narrative, she resolved to give all this up to God, and from then on, over about two weeks, she experienced waves of joy and love that left her weak and at times unable to stand.\n\nShe described a night in which she lay awake in a kind of continuous, sweet sense of Christ's love, his nearness and her own dependence; she described feeling as though she were swallowed up in light and love. There were times when she could not help leaping or crying out with joy, and times when she lost bodily strength for hours. Neighbours visited, and she talked and prayed with them; her experiences coincided with stirring meetings in the parish.\n\nWhen Edwards returned, he asked her to write down what she had experienced. He then used her account, without naming her, in Some Thoughts Concerning the Present Revival of Religion in New England (1743), describing a person whose experiences had lasted over several years but reached a height in early 1742. He stressed that the transports were accompanied by deep humility, love to others and steady calm in daily duties. Against critics of 'enthusiasm' he wrote that if such things were enthusiasm and the fruits of a distempered brain, 'let my brain be evermore possessed of that happy distemper!'\n\nThe Boston minister Charles Chauncy answered with Seasonable Thoughts on the State of Religion in New England (1743), arguing that such raptures were dangerous. Edwards went on to write A Treatise Concerning Religious Affections (1746), a careful test of true and false religious experience. Sarah's own narrative was published only in 1830 by her descendant Sereno Dwight. After Jonathan's dismissal from Northampton in 1750 and his death in Princeton in March 1758, Sarah died in October of the same year.",
+      "keyMoments": [
+        {
+          "year": 1710,
+          "text": "Sarah Pierpont is born in New Haven."
+        },
+        {
+          "year": 1727,
+          "text": "She marries Jonathan Edwards."
+        },
+        {
+          "year": 1740,
+          "text": "George Whitefield preaches at Northampton; the Great Awakening spreads."
+        },
+        {
+          "year": 1742,
+          "date": "January-February 1742",
+          "text": "While Edwards is away and Samuel Buell preaches, Sarah experiences about two weeks of ecstasies."
+        },
+        {
+          "year": 1743,
+          "text": "Edwards publishes Some Thoughts, using her experience anonymously; Chauncy replies with Seasonable Thoughts."
+        },
+        {
+          "year": 1746,
+          "text": "Edwards publishes A Treatise Concerning Religious Affections."
+        },
+        {
+          "year": 1758,
+          "text": "Sarah dies in Philadelphia, months after her husband."
+        },
+        {
+          "year": 1830,
+          "text": "Her own narrative is printed by Sereno Dwight."
+        }
+      ],
+      "significance": "Sarah Edwards' experience became, through her husband's writings, a central test case in the great argument over religious experience in the Great Awakening, and so in the shaping of evangelical Protestantism. Edwards' Religious Affections, partly informed by it, remains a classic guide to discerning genuine spiritual experience, read by Reformed, evangelical and charismatic Christians alike. Historians now also value her narrative as one of the most detailed accounts of eighteenth-century women's piety, and as a reminder of how women's experiences were filtered through male editors.",
+      "confidence": "well-documented",
+      "sources": [
+        "edwards-some-thoughts",
+        "marsden-edwards",
+        "kidd-great-awakening",
+        "taves-fits-trances"
+      ]
+    },
+    {
+      "id": "ann-lee-shaker-revelation",
+      "title": "Ann Lee and the Shakers: prison vision and ecstatic worship",
+      "year": 1770,
+      "endYear": 1784,
+      "circa": false,
+      "place": {
+        "name": "Manchester, England (prison vision); later Niskayuna (Watervliet), New York",
+        "lat": 53.4808,
+        "lng": -2.2426
+      },
+      "regions": [
+        "western-europe",
+        "north-america"
+      ],
+      "personIds": [
+        "ann-lee"
+      ],
+      "traditionIds": [
+        "shakers"
+      ],
+      "phenomena": [
+        "vision",
+        "trembling",
+        "tongues",
+        "ecstasy",
+        "prophecy"
+      ],
+      "account": "According to the Shakers' Testimonies (1816), while imprisoned in Manchester in 1770, Ann Lee had a revelation that the root of human sin lay in the sexual act of Adam and Eve, and that salvation required confession and complete celibacy. Her small society, known as 'Shaking Quakers' for its trembling, shouting, whirling and speaking in unknown tongues, came to regard her as 'Mother'. In 1774 she led eight followers to America; after a revival at New Lebanon in 1779-1780 the movement grew, and later Shaker theology taught that Christ's second appearing had taken place in her.",
+      "primarySource": {
+        "title": "Testimonies of the Life, Character, Revelations and Doctrines of Our Ever Blessed Mother Ann Lee",
+        "citation": "Testimonies ... (Hancock, Mass., 1816; 2nd ed. 1888), collected from early followers"
+      },
+      "contemporaryInterpretation": "Followers saw her as a prophet and the female embodiment of the Christ Spirit; neighbours, magistrates and many clergy saw a disorderly, possibly disloyal sect, and she faced imprisonment and mob violence in both England and America.",
+      "assessments": [
+        {
+          "perspective": "Shaker",
+          "text": "The United Society of Believers in Christ's Second Appearing honours Mother Ann as the one in whom the Christ Spirit appeared a second time, in female form, inaugurating a life of celibacy, confession, equality of the sexes and common property."
+        },
+        {
+          "perspective": "Historic Nicene churches",
+          "text": "Catholic, Orthodox and Protestant churches regard Shaker teaching (a dual male-female deity, denial of the Trinity in its classic form, Ann Lee as Christ's second appearing) as outside historic Christian orthodoxy, while often admiring Shaker community life."
+        },
+        {
+          "perspective": "Pentecostal / charismatic",
+          "text": "Some historians of Pentecostalism note Shaker tongues, trembling and dance as early examples of ecstatic phenomena in Anglo-American Protestantism, without endorsing Shaker doctrine."
+        },
+        {
+          "perspective": "Historian",
+          "text": "Almost everything about Ann Lee comes from testimonies gathered decades after her death; scholars such as Stephen Stein treat them as communal memory shaped by later theology, and link the early group to the French Prophets (Camisards) and radical Quakers."
+        }
+      ],
+      "debates": [
+        "How much of the Ann Lee story is later Shaker theology.",
+        "Celibacy and the origins of sin.",
+        "The Shakers' place in the history of ecstatic Christianity and of women's religious leadership."
+      ],
+      "story": "Ann Lee was born in Manchester in 1736, the daughter of a blacksmith, and worked from childhood in a cotton factory and as a cook in an infirmary. She could not read or write. In 1758 she joined a small society led by James and Jane Wardley, former Quakers influenced, it seems, by the French Prophets (the exiled Camisards), who met in Bolton and Manchester and expected Christ's return. Their worship was noisy: they trembled, shook, shouted, sang and danced, and outsiders called them 'Shaking Quakers'.\n\nIn 1762 Ann married a blacksmith, Abraham Standerin. All four of their children died in infancy or early childhood, a loss that the Testimonies later linked to her deep horror of the flesh. She underwent long periods of anguish, sleeplessness and fasting, and the society's meetings brought her into conflict with the authorities for disturbing Sabbath worship in Manchester churches.\n\nIn 1770 she was imprisoned. According to the Testimonies, while in prison she received a great revelation: she saw, in vision, the transgression of Adam and Eve in the Garden and understood that sexual intercourse was the root of all sin. Salvation, she taught, required open confession of sins to the community and a life of complete celibacy. After this she became the leader of the group, and her followers called her 'Mother Ann'. Later accounts claim she spoke in many tongues before clergy who examined her.\n\nFollowing another revelation, Ann Lee sailed for America with eight followers, including her husband, her brother William and James Whittaker, arriving in New York in August 1774. Her husband soon left her. In 1776 the group settled in the wilderness at Niskayuna (later Watervliet), near Albany. Their breakthrough came in 1780, when a 'New Light' Baptist revival at New Lebanon had faded and its disappointed converts, led by Joseph Meacham, visited Niskayuna and found what they sought in her teaching and in the ecstatic meetings.\n\nDuring the Revolutionary War the Shakers' refusal to bear arms and their English origin made them suspect; in 1780 Ann Lee and others were jailed in Albany and Poughkeepsie on suspicion of disloyalty. In 1781-1783 she led a missionary journey through Massachusetts and Connecticut, where Shaker meetings, with trembling, whirling, songs without words and prophecies, drew both converts and violent mobs; the Testimonies describe beatings, whippings and her being dragged from houses.\n\nAnn Lee died at Watervliet on 8 September 1784, aged 48. James Whittaker and then Joseph Meacham and Lucy Wright organised the Believers into celibate communities holding property in common, with men and women sharing leadership. Shaker theology, set out in The Testimony of Christ's Second Appearing (1808), presented Ann Lee as the one in whom the Christ Spirit had come again. The Shakers grew to some thousands in the nineteenth century and experienced a new wave of visions in the 'Era of Manifestations' (from 1837), then slowly declined; a tiny community remains at Sabbathday Lake, Maine.",
+      "keyMoments": [
+        {
+          "year": 1736,
+          "text": "Ann Lee is born in Manchester."
+        },
+        {
+          "year": 1758,
+          "text": "She joins the Wardleys' 'Shaking Quaker' society."
+        },
+        {
+          "year": 1770,
+          "text": "Imprisoned in Manchester, she receives her revelation about the root of sin and becomes the group's leader."
+        },
+        {
+          "year": 1774,
+          "date": "August 1774",
+          "text": "She arrives in New York with eight followers."
+        },
+        {
+          "year": 1780,
+          "text": "Converts from the New Lebanon revival join the Shakers; Ann Lee is jailed on suspicion of disloyalty."
+        },
+        {
+          "year": 1781,
+          "text": "Missionary tour of New England amid mob violence."
+        },
+        {
+          "year": 1784,
+          "date": "8 September 1784",
+          "text": "Ann Lee dies at Watervliet."
+        },
+        {
+          "year": 1808,
+          "text": "The Testimony of Christ's Second Appearing sets out Shaker theology."
+        }
+      ],
+      "significance": "Ann Lee founded one of the most distinctive religious communities in American history, whose celibacy, common property, gender equality in leadership and ecstatic worship (and later its furniture and songs, such as 'Simple Gifts') left a lasting cultural mark. Her claims and Shaker theology place the movement outside historic Nicene Christianity, and mainstream churches rejected it, but historians of religion study it as a key case of female religious leadership and of ecstatic phenomena (trembling, tongues, dance) long before Pentecostalism. The story also shows how a founder's life is shaped by the memory of a community decades later.",
+      "confidence": "hagiographical",
+      "sources": [
+        "testimonies-ann-lee",
+        "stein-shaker-experience",
+        "melton-encyclopedia",
+        "ahlstrom-religious-history"
+      ]
+    },
+    {
+      "id": "finney-baptism-of-the-spirit-1821",
+      "title": "Charles Finney's conversion and 'baptism of the Holy Spirit'",
+      "year": 1821,
+      "circa": false,
+      "place": {
+        "name": "Adams, Jefferson County, New York",
+        "lat": 43.809,
+        "lng": -75.9708
+      },
+      "regions": [
+        "north-america"
+      ],
+      "personIds": [
+        "charles-finney"
+      ],
+      "traditionIds": [
+        "presbyterian",
+        "congregationalist",
+        "evangelical"
+      ],
+      "phenomena": [
+        "conversion",
+        "ecstasy",
+        "vision"
+      ],
+      "account": "In his Memoirs Finney says that on 10 October 1821 the 29-year-old law clerk went into the woods north of Adams to pray and found peace with God. That evening, in the back room of the law office, it seemed to him that he met Christ face to face, and then the Holy Spirit descended on him 'like a wave of electricity', in 'waves and waves of liquid love'. The next morning he told a client he had 'a retainer from the Lord Jesus Christ to plead his cause' and began to evangelise.",
+      "primarySource": {
+        "title": "Charles G. Finney, Memoirs",
+        "citation": "Memoirs of Rev. Charles G. Finney (New York, 1876), chapters 2-3 (written 1867-68)"
+      },
+      "contemporaryInterpretation": "Finney and his supporters saw the experience as an empowering baptism of the Spirit for ministry; Old School Presbyterian critics later regarded his revivalism and 'new measures' as departing from Calvinist doctrine and church order.",
+      "assessments": [
+        {
+          "perspective": "Evangelical revivalist",
+          "text": "Finney's conversion is a model of immediate surrender to God and of the Spirit's empowering; his later revival campaigns and Lectures on Revivals (1835) shaped mass evangelism."
+        },
+        {
+          "perspective": "Holiness / Pentecostal",
+          "text": "The language of a 'baptism of the Holy Spirit' after conversion fed the Holiness movement and, through it, Pentecostal teaching on a second experience of the Spirit."
+        },
+        {
+          "perspective": "Confessional Reformed",
+          "text": "Critics such as Charles Hodge and B.B. Warfield judged Finney's theology (human ability, revival as the right use of means) to be semi-Pelagian and his methods manipulative, whatever the sincerity of his experience."
+        },
+        {
+          "perspective": "Historian",
+          "text": "The account was written about 45 years later, shaped by Finney's mature theology; historians (e.g. Charles Hambrick-Stowe) accept the conversion as real while noting the retrospective framing."
+        }
+      ],
+      "debates": [
+        "Conversion and 'Spirit baptism' as one experience or two.",
+        "Finney's 'new measures' and the theology of revival.",
+        "The reliability of autobiographical memoirs written decades later."
+      ],
+      "story": "Charles Grandison Finney was born in Warren, Connecticut, in 1792 and grew up on the frontier of upstate New York. Tall, athletic and confident, he taught school and then, in 1818, began studying law in the office of Benjamin Wright in the small town of Adams, near Lake Ontario. Upstate New York was then a region of repeated revivals, later called the 'burned-over district'. The local Presbyterian minister, George W. Gale, was a strict Calvinist whose preaching Finney found confusing.\n\nFinney's law books kept referring to the Bible, so he bought one and began to read it. He attended prayer meetings and argued with Gale. By his own account, he grew convinced that he needed to settle the question of his salvation, but pride held him back: he was ashamed to be seen praying. On a Sunday evening that autumn, he later wrote, he resolved to settle it.\n\nOn the morning of Wednesday 10 October, according to the Memoirs, he went out into a grove north of the village, where he could pray hidden among fallen trees. He found himself unable to pray, frightened at the sound of rustling leaves lest someone see him, and then struck by the depth of his pride. A verse came to him, Jeremiah 29:13, about finding God when you search with all your heart, and he prayed until he felt a deep peace. He returned to the village around noon, surprised to find the morning gone.\n\nThat evening, after Squire Wright had left the office, Finney went into a back room to pray. There, he wrote, 'it seemed as if I met the Lord Jesus Christ face to face'; he fell at Christ's feet and wept 'like a child'. When he returned to the front office, he received what he called a mighty baptism of the Holy Spirit, without expecting it or having heard of such a thing. The Spirit, he wrote, seemed to go through him body and soul 'like a wave of electricity', and came 'in waves and waves of liquid love'. He cried aloud with joy, and a choir member who came in found him weeping.\n\nThe next morning a church deacon came in about a lawsuit Finney was to argue for him. Finney replied that he had 'a retainer from the Lord Jesus Christ to plead his cause' and could not plead the deacon's. He gave up law and started speaking to people in the town about their souls; within days many in Adams were converted. He studied theology under Gale, was licensed by the presbytery in 1823 and ordained in 1824.\n\nFrom 1825 Finney led revivals across upstate New York, then in cities such as Philadelphia, New York and Rochester (1830-1831). He used 'new measures': protracted meetings, praying for people by name, and the 'anxious bench' for seekers. His Lectures on Revivals of Religion (1835) argued that revival was not a miracle but the right use of means. He became professor and then president of Oberlin College, teaching a form of Christian perfection, and supported abolition and women's participation. He died in 1875; his Memoirs appeared the following year.",
+      "keyMoments": [
+        {
+          "year": 1792,
+          "text": "Finney is born in Warren, Connecticut."
+        },
+        {
+          "year": 1818,
+          "text": "He begins studying law at Adams, New York."
+        },
+        {
+          "year": 1821,
+          "date": "10 October 1821",
+          "text": "He prays in the woods and finds peace; that evening he experiences Christ 'face to face' and a baptism of the Spirit."
+        },
+        {
+          "year": 1824,
+          "text": "He gives up law to preach and is ordained by the presbytery."
+        },
+        {
+          "year": 1830,
+          "text": "The Rochester revival makes him nationally famous."
+        },
+        {
+          "year": 1835,
+          "text": "Lectures on Revivals of Religion published; he joins Oberlin."
+        },
+        {
+          "year": 1875,
+          "text": "Finney dies; his Memoirs are published the next year."
+        }
+      ],
+      "significance": "Finney's conversion launched the career of the most influential American revivalist of the Second Great Awakening, whose methods shaped later mass evangelism from Moody to Billy Graham. His language of a 'baptism of the Holy Spirit' after conversion became a key source for Holiness and, later, Pentecostal teaching on Spirit baptism. Confessional Reformed critics regard his theology of human ability as a turn away from classic Calvinism, and historians see him as a symbol of the democratisation of American Christianity.",
+      "confidence": "well-documented",
+      "sources": [
+        "finney-memoirs",
+        "hambrick-stowe-finney",
+        "finney-lectures-text",
+        "noll-christianity-us"
+      ]
+    },
+    {
+      "id": "ulster-revival-1859",
+      "title": "The Ulster Revival of 1859",
+      "year": 1859,
+      "endYear": 1860,
+      "circa": false,
+      "place": {
+        "name": "Kells and Connor, Co. Antrim",
+        "lat": 54.81,
+        "lng": -6.22
+      },
+      "regions": [
+        "western-europe"
+      ],
+      "personIds": [
+        "james-mcquilkin"
+      ],
+      "traditionIds": [
+        "presbyterian",
+        "evangelical"
+      ],
+      "phenomena": [
+        "revival",
+        "conversion",
+        "slain-in-spirit",
+        "trembling",
+        "vision"
+      ],
+      "account": "A small prayer meeting begun in 1857 by James McQuilkin and three young men in a schoolhouse near Kells, in the parish of Connor, grew in 1858-1859 into a revival that swept through Co. Antrim and much of Ulster. From March 1859 (Ahoghill) crowds overflowed churches, and many people were 'struck down', falling to the ground in distress, crying for mercy, trembling or lying in trance-like 'sleeps' with visions. Supporters estimated about 100,000 converts; critics attributed the physical effects to hysteria.",
+      "primarySource": {
+        "title": "William Gibson, The Year of Grace: A History of the Ulster Revival of 1859",
+        "citation": "W. Gibson, The Year of Grace (Edinburgh, 1860); cf. Isaac Nelson, The Year of Delusion (Belfast, 1860)"
+      },
+      "contemporaryInterpretation": "Gibson, Moderator of the Presbyterian General Assembly, hailed a 'year of grace'; the Presbyterian minister Isaac Nelson called it a 'year of delusion', and the Anglican archdeacon Edward Stopford described the prostrations as hysteria.",
+      "assessments": [
+        {
+          "perspective": "Presbyterian / Evangelical",
+          "text": "Remembered as a great outpouring of the Spirit: churches filled, prayer meetings multiplied, and drunkenness and crime reportedly fell, with lasting growth in church membership."
+        },
+        {
+          "perspective": "Critical (19th century)",
+          "text": "Nelson, Stopford and others argued that the 'striking down' and visions were nervous contagion, dangerous especially to young women, and that the revival's claims were exaggerated."
+        },
+        {
+          "perspective": "Pentecostal / charismatic",
+          "text": "Later charismatic writers cite 1859 as a precedent for physical manifestations such as falling and trembling in revival."
+        },
+        {
+          "perspective": "Historian",
+          "text": "Scholars such as Janice Holmes and David Hempton place the revival within transatlantic evangelical networks (news of the 1857-1858 American prayer revival) and within Ulster's social tensions, including sectarian ones; growth in membership was real but uneven."
+        }
+      ],
+      "debates": [
+        "Spirit or hysteria: the meaning of 'prostrations' and visions.",
+        "The revival's long-term moral and social effects.",
+        "Its relationship to Ulster Protestant identity and sectarian conflict."
+      ],
+      "story": "In the 1850s Ulster, the north-east of Ireland, was largely Presbyterian in its farmlands and growing linen towns, with a large Catholic population and an Anglican establishment. The trauma of the Great Famine was recent. In September 1857 four young men, led by James McQuilkin, began meeting weekly to pray in a small schoolhouse at Tannybrake, near the village of Kells in the parish of Connor, Co. Antrim. McQuilkin had been converted in 1856 through a visiting Englishwoman and had been inspired by reading George Müller's account of answered prayer.\n\nTheir meeting slowly grew, and by 1858 conversions were reported in Connor and the neighbouring parishes. News from America of the 1857-1858 'businessmen's prayer revival' that began at Fulton Street in New York was read eagerly; two Ulster ministers had visited America and returned with reports. On 14 March 1859 a meeting at Ahoghill Presbyterian church drew so many people that the building was declared unsafe, and, according to contemporary accounts, a large crowd knelt in the muddy street in the rain while a young convert preached.\n\nFrom there the revival spread to Ballymena, Coleraine, Belfast and across Antrim, Down, Londonderry and Tyrone. Its most striking feature was the 'striking down': people, often young and many of them women and mill workers, suddenly fell to the ground crying for mercy, trembling or unable to speak, sometimes for hours, before finding peace. Some fell into deep 'sleeps' lasting a day or more and afterwards described visions of heaven or hell. In Coleraine, in June 1859, the distress of a schoolboy led to a whole school praying, and the town hall was opened for crowds through the night.\n\nOpen-air meetings attracted huge numbers. In Belfast, a united prayer meeting in the Botanic Gardens in late June 1859 drew tens of thousands. Churches held daily services; publicans complained of lost trade; magistrates reported fewer cases of drunkenness. The Presbyterian General Assembly, meeting in 1859, gave the movement its support, and William Gibson, its Moderator, gathered evidence for his book The Year of Grace (1860).\n\nNot everyone was convinced. Isaac Nelson, a Presbyterian minister in Belfast, published The Year of Delusion (1860), arguing that the excitement was unhealthy and unbiblical. Archdeacon Edward Stopford of the Church of Ireland, after visiting meetings, described the prostrations as hysteria and warned of their danger. Catholic observers were generally hostile, and some historians note that the revival heightened a sense of Protestant identity in a divided province.\n\nThe excitement faded by 1860, but the revival left lasting effects: thousands joined churches, new prayer meetings and Sunday schools continued, and the event entered Ulster Protestant memory as 'the '59 revival'. Revivals followed in Wales and Scotland in 1859-1860, and the Ulster story was retold in revival literature for generations.",
+      "keyMoments": [
+        {
+          "year": 1857,
+          "date": "September 1857",
+          "text": "James McQuilkin and three friends begin a weekly prayer meeting near Kells."
+        },
+        {
+          "year": 1858,
+          "text": "Conversions are reported in Connor and neighbouring parishes; news arrives of the American prayer revival."
+        },
+        {
+          "year": 1859,
+          "date": "14 March 1859",
+          "text": "The crowded meeting at Ahoghill spills into the street, where many kneel in the rain."
+        },
+        {
+          "year": 1859,
+          "date": "June 1859",
+          "text": "Revival in Coleraine; the town hall opens for all-night meetings."
+        },
+        {
+          "year": 1859,
+          "date": "June 1859",
+          "text": "Large united prayer meeting in Belfast's Botanic Gardens."
+        },
+        {
+          "year": 1860,
+          "text": "Gibson's The Year of Grace and Nelson's The Year of Delusion offer opposing verdicts."
+        }
+      ],
+      "significance": "The Ulster Revival was part of a wave of evangelical revivals across the Atlantic world in 1857-1860 that strengthened lay prayer meetings and interdenominational evangelism. Its physical manifestations made it a reference point in later debates about revival 'phenomena', cited both by charismatic Christians and by critics of emotionalism. Historians also see it as shaping Ulster Protestant identity, with consequences for the politics of a divided society.",
+      "confidence": "well-documented",
+      "sources": [
+        "gibson-year-of-grace",
+        "holmes-religious-revivals",
+        "bebbington-evangelicalism",
+        "kidd-great-awakening"
+      ]
+    },
+    {
+      "id": "woodworth-etter-trances-healings",
+      "title": "Maria Woodworth-Etter: trance evangelism and healing",
+      "year": 1885,
+      "endYear": 1924,
+      "circa": false,
+      "place": {
+        "name": "Hartford City, Indiana",
+        "lat": 40.4512,
+        "lng": -85.3699
+      },
+      "regions": [
+        "north-america"
+      ],
+      "personIds": [
+        "maria-woodworth-etter"
+      ],
+      "traditionIds": [
+        "holiness-movement",
+        "pentecostal"
+      ],
+      "phenomena": [
+        "slain-in-spirit",
+        "healing",
+        "vision",
+        "revival",
+        "tongues"
+      ],
+      "account": "From the 1880s the Ohio-born evangelist Maria Woodworth (later Woodworth-Etter) drew large crowds in the American Midwest. At meetings such as those in Hartford City and other Indiana towns in 1885, newspapers reported people falling into 'trances' that lasted hours, during which some later said they saw visions of heaven, along with claims of healing. She later joined the Pentecostal movement, leading a famous five-month campaign in Dallas in 1912 and preaching at the 1913 Arroyo Seco camp meeting.",
+      "primarySource": {
+        "title": "Maria Woodworth-Etter, Signs and Wonders God Wrought in the Ministry for Forty Years",
+        "citation": "M.B. Woodworth-Etter, Signs and Wonders (Indianapolis, 1916); contemporary newspaper reports"
+      },
+      "contemporaryInterpretation": "Supporters called the trance phenomenon the 'power' of God; many newspapers and physicians called it hypnotism, catalepsy or mass hysteria, and she faced repeated hostility from clergy, doctors and the press.",
+      "assessments": [
+        {
+          "perspective": "Pentecostal / charismatic",
+          "text": "Woodworth-Etter is honoured as a pioneer woman evangelist whose ministry of healing and 'falling under the power' anticipated and then joined Pentecostalism; her books remain popular in charismatic circles."
+        },
+        {
+          "perspective": "Holiness",
+          "text": "In her earlier ministry she was licensed by the Churches of God (General Conference) and stood in a Holiness and revivalist tradition of entire consecration and divine healing."
+        },
+        {
+          "perspective": "Critical (medical and religious)",
+          "text": "Contemporary physicians suggested hypnotic suggestion; some evangelical critics later saw her as an early example of unhealthy sensationalism, and her association with a failed 1890 prophecy of disaster in Oakland and San Francisco hurt her reputation."
+        },
+        {
+          "perspective": "Historian",
+          "text": "Historians such as Wayne Warner use her career to illustrate women's preaching, divine healing and the continuity between nineteenth-century revivalism and Pentecostalism."
+        }
+      ],
+      "debates": [
+        "Trance and 'falling' phenomena: divine power, suggestion or both?",
+        "Women's preaching in the Holiness and Pentecostal movements.",
+        "Claims of healing and the problem of verification."
+      ],
+      "story": "Maria Beulah Underwood was born in 1844 in Lisbon, Ohio. Her father died when she was a child, leaving the family poor. Converted as a teenager among the Disciples of Christ, she later wrote that she felt called to preach but believed this impossible for a woman. She married P.H. Woodworth, a farmer and Civil War veteran, and five of their six children died young, losses she recounts with great grief in her autobiography.\n\nIn the late 1870s she began preaching in small Ohio communities, often in borrowed churches and schoolhouses. She describes visions in which she was shown a harvest field waiting to be gathered, which she took as her call. She was soon known for revival meetings in which many fell to the ground. In 1884 the Churches of God (General Conference), sometimes called Winebrennerians, licensed her as a minister, and her meetings grew rapidly in Indiana.\n\nIn 1885 her meetings in Hartford City, Indiana, and in other towns drew thousands and wide newspaper coverage. Reporters described people falling suddenly into 'trances', lying stiff and motionless, sometimes for hours, with faces described as radiant; on waking, some said they had seen heaven or Christ. Sick people asked for prayer, and testimonies of healing were reported. Crowds included sceptics, curious onlookers and rowdies, and reporters argued about whether this was hypnotism or something else.\n\nHer travelling meetings, in large tents seating thousands, reached St. Louis, Oakland and elsewhere by 1889-1890. In Oakland she became associated with a prophecy, apparently made by a follower and widely blamed on her, that a great earthquake and tidal wave would destroy the Bay Area in April 1890; when it did not come, the press mocked her. In these years doctors and clergy accused her of hypnotising people, and her marriage broke down; she divorced Woodworth in 1891 and married Samuel Etter in 1902.\n\nWhen the Pentecostal movement began after Azusa Street (1906), Woodworth-Etter found in it a continuation of her own ministry. In 1912 she led a five-month campaign in Dallas, Texas, at the invitation of F.F. Bosworth, with nightly reports of healings, trances and speaking in tongues that drew Pentecostals from across the country. In 1913 she was a main speaker at the Worldwide Camp Meeting at Arroyo Seco near Los Angeles, the same gathering at which the debate that led to Oneness Pentecostalism began.\n\nIn her last years she built a tabernacle in Indianapolis (1918), where she preached until shortly before her death in 1924. Her autobiography, revised several times and published as Signs and Wonders (1916), collected testimonies, sermons and newspaper reports. Many early Pentecostal leaders regarded her as a forerunner, while critics saw her as an early example of the sensational healing evangelism that later flourished.",
+      "keyMoments": [
+        {
+          "year": 1844,
+          "text": "Maria Underwood is born in Lisbon, Ohio."
+        },
+        {
+          "year": 1880,
+          "text": "She begins public preaching in Ohio."
+        },
+        {
+          "year": 1884,
+          "text": "Licensed by the Churches of God (General Conference)."
+        },
+        {
+          "year": 1885,
+          "text": "Trance phenomena at meetings in Hartford City and other Indiana towns attract national press attention."
+        },
+        {
+          "year": 1890,
+          "text": "Oakland campaign and the failed earthquake prophecy associated with it."
+        },
+        {
+          "year": 1912,
+          "text": "Five-month campaign in Dallas with F.F. Bosworth."
+        },
+        {
+          "year": 1913,
+          "text": "She preaches at the Arroyo Seco World-Wide Camp Meeting."
+        },
+        {
+          "year": 1924,
+          "text": "Woodworth-Etter dies in Indianapolis."
+        }
+      ],
+      "significance": "Woodworth-Etter forms a bridge between nineteenth-century Holiness revivalism and twentieth-century Pentecostalism, and her meetings popularised phenomena such as 'falling under the power' and healing lines that became common in Pentecostal and charismatic worship. She was also one of the most prominent women preachers of her era, cited in debates about women's ministry. Critics of healing evangelism regard her as an early instance of unverifiable claims and sensationalism, so she remains a contested figure.",
+      "confidence": "contested",
+      "sources": [
+        "woodworth-etter-signs-wonders",
+        "warner-woman-evangelist",
+        "synan-holiness-pentecostal",
+        "burgess-dictionary-pentecostal"
+      ]
+    },
+    {
+      "id": "khasi-mizo-revival-1905",
+      "title": "The Khasi Hills and Mizo revivals (1905-1906)",
+      "year": 1905,
+      "endYear": 1906,
+      "circa": false,
+      "place": {
+        "name": "Mairang, Khasi Hills, Meghalaya",
+        "lat": 25.5636,
+        "lng": 91.6347
+      },
+      "regions": [
+        "india"
+      ],
+      "personIds": [],
+      "traditionIds": [
+        "presbyterian",
+        "evangelical"
+      ],
+      "phenomena": [
+        "revival",
+        "conversion",
+        "ecstasy",
+        "trembling"
+      ],
+      "account": "News of the Welsh Revival reached the churches of the Welsh Calvinistic Methodist mission in the Khasi and Jaintia Hills of north-east India in late 1904. Following months of prayer, revival broke out in early 1905 at a presbytery gathering and spread through the hills, marked by public confession, weeping, prolonged singing, all-night prayer and, in places, dancing. Mizo (Lushai) Christians who attended the Khasi General Assembly at Mairang in 1906 carried the revival home, where it became the first of several waves that transformed the Mizo hills.",
+      "primarySource": {
+        "title": "Welsh Calvinistic Methodist foreign mission reports and periodicals (1905-1906)",
+        "citation": "Reports in Y Drysorfa and the mission's annual reports; later summarized in J. Hughes Morris, The Story of Our Foreign Mission (1930)"
+      },
+      "contemporaryInterpretation": "Missionaries and local leaders saw a direct continuation of the Welsh Revival and a sign that God was establishing an indigenous church; some missionaries were uneasy about emotional excess, especially dancing.",
+      "assessments": [
+        {
+          "perspective": "Presbyterian (North-East India)",
+          "text": "The revivals are remembered as the birth of a living local church, with Khasi and Mizo leaders, hymns and patterns of worship that remain central to Presbyterian identity in Meghalaya and Mizoram."
+        },
+        {
+          "perspective": "Evangelical / Pentecostal",
+          "text": "The movement is cited as evidence of the global reach of the 1904-1905 Welsh Revival and of Spirit-led revival in Asia; later Mizo revivals included tongues and prophecy."
+        },
+        {
+          "perspective": "Critical / missiological",
+          "text": "Some observers worried that ecstatic dancing and prophecy could slip into excess or schism; anthropologists note how revival adapted Mizo and Khasi cultural forms (song, drum, dance)."
+        },
+        {
+          "perspective": "Historian",
+          "text": "Historians (e.g. Frederick Downs) see the revivals as decisive in turning a missionary church into a mass indigenous movement in north-east India."
+        }
+      ],
+      "debates": [
+        "Indigenous expressions (dance, drum, song) in revival worship.",
+        "Missionary control versus local leadership.",
+        "The Welsh Revival's global influence."
+      ],
+      "story": "The Welsh Calvinistic Methodists (later the Presbyterian Church of Wales) began their mission in the Khasi Hills in 1841, when Thomas Jones arrived at Cherrapunji and began writing the Khasi language in Roman script. Over the next six decades a church grew among the Khasi and Jaintia peoples, with schools, hymn-singing and a strong Welsh flavour. By 1900 there were several thousand communicants, but missionaries described the church as sound rather than fervent.\n\nIn 1904-1905 the Welsh Revival, associated with Evan Roberts, filled the chapels of Wales. Missionaries in the Khasi Hills read reports in Welsh periodicals and letters from home, and local Christians began special prayer meetings asking for a similar visitation. According to mission reports, during early 1905 the revival broke out at a presbytery gathering in the western Khasi Hills (Pariong is usually named) and then spread from village to village.\n\nAccounts describe meetings that went on for hours and sometimes through the night, with people weeping over their sins, confessing publicly, reconciling with enemies and restoring stolen goods. Singing was central: Welsh revival hymns translated into Khasi were sung again and again. In some places worshippers trembled, fell, or danced in joy, which troubled some missionaries who valued order. Many non-Christians joined the churches, and church membership grew substantially in the following years.\n\nKhasi Christians, like the Welsh, expressed the revival above all through hymns and prayer. Missionaries reported that ordinary believers, including women and young people, prayed aloud in meetings for the first time, and that local evangelists went out to villages that had not yet heard the gospel. The revival also strengthened the use of the Khasi language in worship and print, and helped train a generation of Khasi pastors and elders who would lead the church as the missionary era ended.\n\nIn 1906 the General Assembly of the Khasi-Jaintia churches met at Mairang. Among those who attended were Christians from the Lushai Hills (now Mizoram), where the church was still small after mission work by Baptists and Welsh Presbyterians since the 1890s. According to Mizo church tradition, they were deeply moved by what they saw at Mairang and on their return home in 1906 revival broke out among the Mizo, with prayer, confession and fervent song.\n\nThe Mizo revival of 1906 was the first of several waves (others followed around 1913, 1919 and the 1930s). Later revivals developed a distinctive Mizo style, with drum-accompanied songs in local tunes, dance (sometimes in a circle) and visions, which missionaries at first resisted and then largely accepted. Within half a century, most Mizo people had become Christians.\n\nThe revivals of 1905-1906 are remembered in north-east India as the time when Christianity became truly local. Khasi and Mizo leaders took increasing responsibility, and the Presbyterian churches of Meghalaya and Mizoram became among the largest Christian bodies in India, sending their own missionaries in later decades.",
+      "keyMoments": [
+        {
+          "year": 1841,
+          "text": "Thomas Jones begins the Welsh mission in the Khasi Hills."
+        },
+        {
+          "year": 1904,
+          "text": "News of the Welsh Revival reaches the Khasi churches; special prayer meetings begin."
+        },
+        {
+          "year": 1905,
+          "text": "Revival breaks out at a presbytery gathering and spreads through the Khasi and Jaintia Hills."
+        },
+        {
+          "year": 1906,
+          "text": "Mizo Christians attend the Khasi General Assembly at Mairang."
+        },
+        {
+          "year": 1906,
+          "text": "Revival begins in the Lushai (Mizo) Hills on their return."
+        },
+        {
+          "year": 1919,
+          "text": "Further waves of Mizo revival develop indigenous song and dance."
+        }
+      ],
+      "significance": "The 1905-1906 revivals are a clear example of the Welsh Revival's global reach and a turning point in the Christianisation of north-east India, where Meghalaya, Mizoram and Nagaland now have Christian majorities. They show how revival accelerated the shift from missionary-led churches to indigenous leadership, worship and music. They also raised enduring questions, still debated in Indian and global missiology, about how far local cultural forms should shape Christian worship.",
+      "confidence": "well-documented",
+      "sources": [
+        "khasi-mission-reports",
+        "frykenberg-india",
+        "evans-welsh-revival",
+        "burgess-dictionary-pentecostal"
+      ]
+    },
+    {
+      "id": "valparaiso-pentecostal-revival-1909",
+      "title": "The Valparaíso revival and the birth of Chilean Pentecostalism",
+      "year": 1909,
+      "endYear": 1910,
+      "circa": false,
+      "place": {
+        "name": "Valparaíso, Chile",
+        "lat": -33.0472,
+        "lng": -71.6127
+      },
+      "regions": [
+        "latin-america"
+      ],
+      "personIds": [
+        "willis-hoover"
+      ],
+      "traditionIds": [
+        "methodist",
+        "pentecostal"
+      ],
+      "phenomena": [
+        "tongues",
+        "revival",
+        "vision",
+        "ecstasy",
+        "slain-in-spirit"
+      ],
+      "account": "After reading Minnie Abrams' booklet on the Mukti revival in India, the American Methodist missionary Willis C. Hoover and his wife Mary Louise led their Valparaíso congregation in prayer for a new outpouring of the Spirit. In 1909 the church experienced tongues, visions, falling, laughter, dancing and weeping. Methodist leaders and the press criticised the movement; in 1910 the Methodist Annual Conference judged its teachings unscriptural, and Hoover and his followers left to form the Iglesia Metodista Pentecostal, the root of most Chilean Pentecostalism.",
+      "primarySource": {
+        "title": "Willis C. Hoover, Historia del Avivamiento Pentecostal en Chile",
+        "citation": "W.C. Hoover, Historia del Avivamiento Pentecostal en Chile (Valparaíso, 1931; Eng. trans. M. Hoover, 2000)"
+      },
+      "contemporaryInterpretation": "Hoover believed he was seeing the same Pentecost reported in India and Los Angeles; his Methodist superiors called the movement 'anti-Methodist, contrary to Scripture and irrational', and Chilean newspapers mocked it.",
+      "assessments": [
+        {
+          "perspective": "Pentecostal",
+          "text": "Chilean Pentecostals regard 1909 as their Pentecost, an independent, Latin American outpouring of the Spirit that produced a church led by working-class Chileans with Methodist roots and Pentecostal fervour."
+        },
+        {
+          "perspective": "Methodist",
+          "text": "Methodist historians recognise Hoover's sincerity and the revival's Methodist roots, while noting the conflict over order, doctrine and the role of ecstatic experience in the 1910 schism."
+        },
+        {
+          "perspective": "Catholic",
+          "text": "Catholic observers long viewed Pentecostal growth in Chile as a challenge; more recently, Catholic scholars and the charismatic renewal have studied its appeal among the poor."
+        },
+        {
+          "perspective": "Historian",
+          "text": "Scholars (e.g. Allan Anderson, Juan Sepúlveda) stress that Chilean Pentecostalism arose from global networks (Mukti, Azusa) but grew as an autonomous, indigenous movement without North American Pentecostal missionaries."
+        }
+      ],
+      "debates": [
+        "Order and ecstasy in Methodist worship.",
+        "Global connections versus local origins of Latin American Pentecostalism.",
+        "Pentecostalism's appeal among the urban poor."
+      ],
+      "story": "Willis Collins Hoover was born in Freeport, Illinois, in 1858 and trained as a physician before going to Chile in 1889 as a teacher with the Methodist missions begun by William Taylor. He became pastor of the Methodist Episcopal church in Valparaíso, a busy port city with many poor and working-class people. Chilean Protestantism was small, and Methodism there was largely led by foreigners.\n\nIn 1907 Hoover's wife, Mary Louise, received from a former classmate, Minnie Abrams, a booklet called The Baptism of the Holy Ghost and Fire. Abrams was a missionary with Pandita Ramabai at Mukti in India, and her booklet described the revival there in 1905-1906, with confession, visions and tongues. The Hoovers also learned of the events at Azusa Street in Los Angeles. They asked their congregation to pray for revival and to study the book of Acts.\n\nPrayer meetings grew from 1907 into 1909, with night vigils and Bible study. According to Hoover's later history, in 1909 the meetings changed: people wept, laughed, fell to the floor, danced, spoke in tongues and reported visions and dreams; some, previously drunkards or violent men, became preachers. Members went out into the streets and visited other Methodist congregations in Santiago, where similar scenes occurred.\n\nThe movement provoked strong reactions. Valparaíso newspapers ridiculed the meetings, police were called, and some members were arrested for disturbing the peace. Other Methodist pastors and missionaries feared disorder and false teaching. When the Methodist Annual Conference met in February 1910, it formally rejected the movement's teachings as contrary to Scripture and to Methodism, and Hoover was effectively forced out.\n\nIn April 1910 Hoover and the members who followed him, together with congregations in Santiago, organised the Iglesia Metodista Pentecostal (Methodist Pentecostal Church). It kept Methodist structures such as episcopal leadership and infant baptism, while making the Pentecostal experience central. It was led and financed by Chileans themselves, used street preaching, and trained pastors 'on the job' rather than in seminaries.\n\nThe style of the new church was distinctive. Services combined Methodist hymns with spontaneous prayer, testimonies, tongues and what Chileans called 'the dance of the Spirit'. Every member was expected to witness, and street preaching with small bands became a familiar sight in Chilean towns. Pastors usually rose from among working-class members through years of practical service. Historians have noted the parallel with the Brazilian Assemblies of God founded at Belém in 1911, and with other movements that grew from the same global news of revival.\n\nLater divisions, including a 1933 split that produced the Iglesia Evangélica Pentecostal, multiplied Pentecostal denominations. By the 2002 census Protestants, the large majority of them Pentecostal, made up roughly 15 per cent of Chile's population. Hoover died in Valparaíso in 1936, and his Historia del Avivamiento Pentecostal en Chile (1931) remains the main early source for the revival.",
+      "keyMoments": [
+        {
+          "year": 1889,
+          "text": "Willis Hoover arrives in Chile as a Methodist missionary teacher."
+        },
+        {
+          "year": 1907,
+          "text": "Minnie Abrams' booklet on the Mukti revival reaches the Hoovers; the Valparaíso church starts praying for revival."
+        },
+        {
+          "year": 1909,
+          "text": "Revival breaks out in Valparaíso with tongues, visions and other manifestations; it spreads to Santiago."
+        },
+        {
+          "year": 1910,
+          "date": "February 1910",
+          "text": "The Methodist Annual Conference rejects the movement."
+        },
+        {
+          "year": 1910,
+          "date": "April 1910",
+          "text": "Hoover and his followers form the Iglesia Metodista Pentecostal."
+        },
+        {
+          "year": 1931,
+          "text": "Hoover publishes his history of the revival."
+        },
+        {
+          "year": 1933,
+          "text": "A split produces the Iglesia Evangélica Pentecostal."
+        }
+      ],
+      "significance": "Valparaíso 1909 is one of the founding events of Latin American Pentecostalism, a movement that has reshaped the religious map of the continent. It shows how revival news travelled from India and Los Angeles to South America, and how Pentecostalism grew quickly once led by local people from the working classes. The schism with Methodism also illustrates recurring tensions between established Protestant churches and Spirit-centred movements.",
+      "confidence": "well-documented",
+      "sources": [
+        "hoover-historia-avivamiento",
+        "anderson-pentecostalism",
+        "burgess-dictionary-pentecostal",
+        "gonzalez-latin-america"
+      ]
+    },
+    {
+      "id": "shantung-revival-1927",
+      "title": "The Shantung Revival (1927-1937)",
+      "year": 1927,
+      "endYear": 1937,
+      "circa": false,
+      "place": {
+        "name": "Huangxian (Hwanghsien), Shandong",
+        "lat": 37.64,
+        "lng": 120.51
+      },
+      "regions": [
+        "east-asia"
+      ],
+      "personIds": [
+        "marie-monsen",
+        "john-sung"
+      ],
+      "traditionIds": [
+        "baptist",
+        "lutheran",
+        "evangelical",
+        "jesus-family"
+      ],
+      "phenomena": [
+        "revival",
+        "conversion",
+        "healing",
+        "tongues",
+        "ecstasy"
+      ],
+      "account": "From 1927 the Norwegian Lutheran missionary Marie Monsen, insisting on the question 'Have you been born again?', preached among missionaries and Chinese Christians in Shandong. Southern Baptist missionaries at Huangxian (Hwanghsien), including Charles and Ola Culpepper, reported confession, restitution and a healing of Ola Culpepper's eye after prayer. By 1930-1932 a revival marked by deep conviction, public confession, joyful worship, and among some groups tongues and visions, spread through Baptist, Presbyterian and other churches in Shandong, until the Japanese invasion of 1937.",
+      "primarySource": {
+        "title": "Mary K. Crawford, The Shantung Revival; Marie Monsen, The Awakening",
+        "citation": "M.K. Crawford, The Shantung Revival (Shanghai, 1933); M. Monsen, The Awakening: Revival in China 1927-1937 (Eng. trans. London, 1961)"
+      },
+      "contemporaryInterpretation": "Missionaries and Chinese leaders saw the revival as a long-prayed-for work of the Spirit; some missionaries, especially those uneasy about Pentecostal elements, criticised the more ecstatic groups such as the Spiritual Gifts Society.",
+      "assessments": [
+        {
+          "perspective": "Baptist / Evangelical",
+          "text": "Southern Baptists remember the revival as a model of renewal through repentance, the new birth and prayer; Bertha Smith and C.L. Culpepper popularised it in the United States."
+        },
+        {
+          "perspective": "Pentecostal / charismatic",
+          "text": "Pentecostal historians highlight the tongues, healings and Spirit-filling in parts of the revival, and its links to Chinese indigenous movements."
+        },
+        {
+          "perspective": "Chinese church",
+          "text": "Chinese Christians see the revival, with John Sung's later campaigns and indigenous groups like the Jesus Family, as a key step towards a self-propagating Chinese church that later survived persecution."
+        },
+        {
+          "perspective": "Historian",
+          "text": "Daniel Bays and others situate the revival in a time of war, banditry and anti-foreign nationalism, when missionaries' authority was weakened and Chinese leaders gained a larger role."
+        }
+      ],
+      "debates": [
+        "Emphasis on the new birth among missionaries and church members.",
+        "Ecstatic and charismatic phenomena versus order.",
+        "Missionary-led versus indigenous Chinese revival."
+      ],
+      "story": "In the 1920s Shandong province in north China was a centre of Protestant missions, with American Southern Baptists, Presbyterians and others running schools, hospitals and churches. It was also a region of warlords, banditry and famine, and in 1927 the Nationalist advance and anti-foreign violence forced many missionaries to retreat to the coastal port of Chefoo (Yantai). Many of them were discouraged by churches that seemed to have members without spiritual life.\n\nMarie Monsen, born in Norway in 1878, had served in China since 1901 with the Norwegian Lutheran China Mission. She had prayed for many years for revival and, according to her later account, came to believe that many professing Christians, including missionaries, had never been truly born again. In 1927 she spoke to missionaries gathered at Chefoo and elsewhere, asking direct questions: had they been born again, had they been filled with the Spirit, was there unconfessed sin in their lives?\n\nAmong those who heard her were Southern Baptist missionaries from Huangxian (Hwanghsien), including Charles Culpepper and his wife Ola. Ola Culpepper suffered from a serious eye problem; according to C.L. Culpepper's later account, after Monsen and others prayed and anointed her with oil, she was healed. This event and the conviction produced by Monsen's questioning led missionaries to confess sins to one another and to Chinese colleagues, including attitudes of superiority.\n\nFrom about 1930 revival spread among Chinese believers in Huangxian and throughout Shandong. Meetings were marked by deep conviction, often with people falling, weeping or crying out, followed by public confession and restitution, and then by joy, praise and long hours of prayer. Students in mission schools were deeply affected. Some groups reported tongues, visions and healings, and an independent Spiritual Gifts Society emerged with more ecstatic practices, which many missionaries considered extreme.\n\nChinese evangelists became central. John Sung, the scientist turned preacher, held campaigns in Shandong in the early 1930s that drew thousands. Indigenous communities such as the Jesus Family, founded by Jing Dianying at Mazhuang in Shandong in 1927, combined revival piety with communal living. Mary Crawford's The Shantung Revival (1933) collected testimonies, and Monsen's own account, The Awakening, appeared later.\n\nMany missionaries described the revival as having changed their own lives. Bertha Smith, a Southern Baptist missionary in Shandong, later told in her memoir Go Home and Tell (1965) how she was convicted of pride and lack of love towards Chinese co-workers and found new freedom in prayer. Chinese pastors and evangelists, too, confessed rivalries and hidden sins, and some churches became self-supporting and began sending their own preachers into the countryside.\n\nThe revival waned with the Japanese invasion of 1937 and the war that followed. Monsen left China in the early 1930s and died in Norway in 1962. After 1949 the missionaries left China, but many of the Chinese Christians shaped by the revival led churches through the following decades of hardship.",
+      "keyMoments": [
+        {
+          "year": 1901,
+          "text": "Marie Monsen arrives in China as a Lutheran missionary."
+        },
+        {
+          "year": 1927,
+          "text": "Anti-foreign unrest drives missionaries to Chefoo; Monsen's preaching on the new birth begins to stir them."
+        },
+        {
+          "year": 1927,
+          "text": "Ola Culpepper's eye is reported healed after prayer, and missionaries begin confessing sins."
+        },
+        {
+          "year": 1930,
+          "text": "Revival spreads among Chinese believers in Huangxian and across Shandong."
+        },
+        {
+          "year": 1932,
+          "text": "Peak of the revival; John Sung holds campaigns in Shandong."
+        },
+        {
+          "year": 1933,
+          "text": "Mary Crawford publishes The Shantung Revival."
+        },
+        {
+          "year": 1937,
+          "text": "The Japanese invasion brings the revival period to an end."
+        }
+      ],
+      "significance": "The Shantung Revival is one of the most important revivals in modern Chinese Christianity, and it helped shift leadership towards Chinese evangelists and indigenous movements before the missionary era ended in 1949-1951. Its emphasis on new birth, confession and the Spirit influenced Southern Baptist and evangelical piety in the West through books by C.L. Culpepper and Bertha Smith. Historians see it as part of the roots of the vigorous Chinese Protestant movement that later grew under Communist rule.",
+      "confidence": "well-documented",
+      "sources": [
+        "crawford-shantung-revival",
+        "monsen-awakening",
+        "bays-new-history-china",
+        "lian-redeemed-by-fire"
+      ]
+    },
+    {
+      "id": "hebrides-revival-1949",
+      "title": "The Lewis (Hebrides) Revival, 1949-1952",
+      "year": 1949,
+      "endYear": 1952,
+      "circa": false,
+      "place": {
+        "name": "Barvas, Isle of Lewis, Scotland",
+        "lat": 58.3647,
+        "lng": -6.5267
+      },
+      "regions": [
+        "western-europe"
+      ],
+      "personIds": [
+        "duncan-campbell"
+      ],
+      "traditionIds": [
+        "church-of-scotland",
+        "presbyterian",
+        "evangelical"
+      ],
+      "phenomena": [
+        "revival",
+        "conversion",
+        "slain-in-spirit",
+        "trembling"
+      ],
+      "account": "In the parish of Barvas on the Isle of Lewis, two elderly sisters, Peggy and Christine Smith, and a group of men praying in a barn sought revival through 1949. The parish minister, James Murray MacKay, invited the Faith Mission evangelist Duncan Campbell, who arrived in December 1949. Meetings soon lasted late into the night, with deep conviction, weeping, some people falling or trembling, and many conversions, especially among young people; the movement spread to other villages and islands until about 1952.",
+      "primarySource": {
+        "title": "Duncan Campbell, The Lewis Awakening 1949-1953",
+        "citation": "D. Campbell, The Lewis Awakening 1949-1953 (Edinburgh: Faith Mission, 1954); later sermons and recorded addresses"
+      },
+      "contemporaryInterpretation": "Supporters saw a sovereign work of God in answer to prayer; Free Church of Scotland leaders in Lewis and others were critical, objecting to Campbell's theology and to physical manifestations, and the revival became a source of local controversy.",
+      "assessments": [
+        {
+          "perspective": "Evangelical / revivalist",
+          "text": "The Lewis Awakening is cited worldwide as a classic case of revival born of persistent prayer, with conviction of sin and community transformation."
+        },
+        {
+          "perspective": "Free Church / confessional Presbyterian",
+          "text": "Some Highland Presbyterians were wary of Campbell's Arminian-leaning Faith Mission theology, of emotional and physical phenomena, and of outsiders claiming credit for local spiritual life."
+        },
+        {
+          "perspective": "Pentecostal / charismatic",
+          "text": "Charismatic writers draw on Campbell's accounts of physical manifestations and of the sense of God's presence, though Campbell himself was not Pentecostal and did not endorse tongues."
+        },
+        {
+          "perspective": "Historian",
+          "text": "Researchers note that many popular stories come from Campbell's later retellings, which sometimes compress or embellish events; local oral histories confirm a significant awakening but with more varied perspectives."
+        }
+      ],
+      "debates": [
+        "The reliability of Campbell's later retellings.",
+        "Free Church opposition and Highland church tensions.",
+        "Prayer and divine sovereignty in revival theology."
+      ],
+      "story": "The Isle of Lewis, in the Outer Hebrides off north-west Scotland, was a Gaelic-speaking crofting and fishing community with a strong Presbyterian tradition and a history of earlier revivals. After the Second World War many people, especially the young, had drifted from church life; dances and drinking were popular, and ministers worried about spiritual decline. According to later accounts, church leaders on the island called for prayer about the state of religion.\n\nIn the parish of Barvas, two elderly sisters, Peggy Smith (aged 84 and blind) and Christine Smith (82 and bent with arthritis), unable to attend church, prayed in their cottage for revival, holding to Isaiah 44:3 ('I will pour water upon him that is thirsty'). According to accounts later told by Campbell, Peggy had a dream that the church would be crowded with young people. At the same time a group of men, including church elders, met to pray in a barn several nights a week. Their minister, the Rev. James Murray MacKay of the Church of Scotland, invited an evangelist to lead a mission.\n\nThe evangelist was Duncan Campbell, a Gaelic speaker from Argyll who had served in the First World War and worked for many years with the Faith Mission, an interdenominational holiness organisation. He arrived in December 1949. The first meetings were ordinary, but soon, according to Campbell and others, a powerful sense of God's presence came over the community. After one late meeting, people gathered around the church and nearby houses, and many went in to pray; services continued into the early morning.\n\nWitnesses describe people weeping, crying out, sometimes falling or trembling, and coming under deep conviction of sin, even outside meetings, while working in the fields or on the roads. Young people who had been at a dance in the parish hall are said to have left it to go to the church. Campbell later described a prayer meeting at Arnol when, he said, the house shook. Within weeks hundreds professed conversion, and meetings were held across Lewis, then in Harris, North Uist and Berneray.\n\nThe movement provoked controversy. Leaders of the Free Church of Scotland in Lewis publicly criticised the mission, objecting among other things to Campbell's theology and methods. Some in the community found the physical manifestations disturbing. Supporters pointed to changed lives, new elders and ministers, and reduced drinking. Campbell continued visiting the islands until about 1952-1953.\n\nCampbell became principal of the Faith Mission Bible College in Edinburgh and spoke widely in Britain, North America and elsewhere about the Lewis Awakening until his death in Switzerland in 1972. His recorded addresses spread the story around the world. Later historians and local people have noted that some of his retellings simplified or heightened events, but they agree that Lewis experienced a genuine and memorable awakening.",
+      "keyMoments": [
+        {
+          "year": 1949,
+          "text": "The Smith sisters and men in a barn pray for revival in Barvas."
+        },
+        {
+          "year": 1949,
+          "date": "December 1949",
+          "text": "Duncan Campbell arrives in Barvas at the invitation of Rev. James Murray MacKay."
+        },
+        {
+          "year": 1950,
+          "text": "Revival spreads through Lewis villages; meetings continue late into the night."
+        },
+        {
+          "year": 1951,
+          "text": "The movement reaches Harris, North Uist and Berneray."
+        },
+        {
+          "year": 1954,
+          "text": "The revival period ends; Campbell publishes The Lewis Awakening."
+        },
+        {
+          "year": 1972,
+          "text": "Duncan Campbell dies in Lausanne."
+        }
+      ],
+      "significance": "The Lewis Awakening is one of the most widely told revival stories of the twentieth century, used by evangelicals and charismatics around the world to encourage prayer for revival. It also shows the tensions between different Presbyterian traditions in the Scottish Highlands and the risks of revival stories growing in the retelling. Historians use it as a case study of how local experience becomes global legend.",
+      "confidence": "contested",
+      "sources": [
+        "campbell-lewis-awakening",
+        "peckham-sounds-from-heaven",
+        "bebbington-evangelicalism"
+      ]
+    },
+    {
+      "id": "duquesne-weekend-1967",
+      "title": "The Duquesne Weekend and the Catholic Charismatic Renewal",
+      "year": 1967,
+      "circa": false,
+      "place": {
+        "name": "The Ark and the Dove retreat house, Gibsonia, Pennsylvania",
+        "lat": 40.63,
+        "lng": -79.97
+      },
+      "regions": [
+        "north-america"
+      ],
+      "personIds": [
+        "paul-vi"
+      ],
+      "traditionIds": [
+        "catholic",
+        "charismatic-renewal"
+      ],
+      "phenomena": [
+        "tongues",
+        "ecstasy",
+        "revival",
+        "conversion"
+      ],
+      "account": "On 17-19 February 1967, about twenty-five students from Duquesne University, Pittsburgh, attended a retreat on the first chapters of Acts at The Ark and the Dove retreat house near Gibsonia. Several faculty members had recently experienced 'baptism in the Holy Spirit' at an interdenominational prayer meeting. On the Saturday evening, students who went into the chapel experienced a powerful sense of God's presence; many prayed for hours, wept, laughed and some spoke in tongues. The experience spread to Notre Dame and Michigan State within weeks and became the Catholic Charismatic Renewal.",
+      "primarySource": {
+        "title": "Kevin and Dorothy Ranaghan, Catholic Pentecostals; Patti Gallagher Mansfield, As By a New Pentecost",
+        "citation": "K. and D. Ranaghan, Catholic Pentecostals (Paramus, NJ, 1969); P. Gallagher Mansfield, As By a New Pentecost (1992)"
+      },
+      "contemporaryInterpretation": "Participants saw it as a 'new Pentecost', in the language of Pope John XXIII's prayer for the Second Vatican Council; some bishops and theologians were cautious, and Pentecostals and evangelicals were surprised to find the experience among Catholics.",
+      "assessments": [
+        {
+          "perspective": "Catholic",
+          "text": "The Renewal has received papal support from Paul VI (1975) to Francis, who described it as a 'current of grace'; it is integrated into Catholic life through prayer groups, covenant communities and CHARIS, while bishops urge discernment and ecclesial obedience."
+        },
+        {
+          "perspective": "Pentecostal / charismatic",
+          "text": "Many Pentecostals welcomed it as proof that the Spirit's outpouring crossed denominational lines, though some were puzzled that Catholics kept Marian devotion and the sacraments."
+        },
+        {
+          "perspective": "Traditionalist Catholic",
+          "text": "Some traditionalists criticise the Renewal as importing Protestant Pentecostal theology and emotional worship into the liturgy."
+        },
+        {
+          "perspective": "Conservative Protestant",
+          "text": "Cessationist and some evangelical critics question the experience on doctrinal grounds, seeing Catholic teaching on grace and the sacraments as unchanged."
+        },
+        {
+          "perspective": "Historian",
+          "text": "Scholars place the weekend in the ferment after Vatican II and the 1960s; the Renewal became one of the largest Catholic movements, though estimates of participants vary widely."
+        }
+      ],
+      "debates": [
+        "Baptism in the Spirit and sacramental theology.",
+        "Ecumenism with Pentecostals.",
+        "Authority and covenant communities (some faced abuse and control problems)."
+      ],
+      "story": "The Second Vatican Council (1962-1965) had ended only a year before, and many Catholics were seeking renewal. Pope John XXIII had prayed that the Council would be like 'a new Pentecost'. At Duquesne University, a Catholic university in Pittsburgh run by the Spiritans, two lay theology instructors, Ralph Keifer and Patrick Bourgeois, involved in the Cursillo movement, were longing for a deeper experience of the Holy Spirit. They had read two books popular among Protestant charismatics: David Wilkerson's The Cross and the Switchblade and John Sherrill's They Speak with Other Tongues.\n\nIn January 1967 they attended an interdenominational charismatic prayer meeting at the home of a Protestant laywoman, Florence Dodge, in the Pittsburgh area. There they asked for prayer to receive the baptism in the Holy Spirit, and some began to speak in tongues. They then planned a weekend retreat for students from the university's Chi Rho Society, asking participants to prepare by reading the first four chapters of Acts and The Cross and the Switchblade.\n\nOn Friday 17 February 1967, about twenty-five students arrived at The Ark and the Dove, a retreat house in Gibsonia, north of Pittsburgh. The talks dealt with the Holy Spirit and Pentecost. On Saturday evening a birthday party had been planned for some of the participants. One student, Patti Gallagher, went into the chapel, intending to ask others to join the party; according to her account, she felt overwhelmed by God's presence and found herself kneeling and then lying prostrate before the tabernacle.\n\nOver the following hours other students came into the chapel, one after another, and experienced similar things. Some wept, others laughed, many prayed for hours, and several began to speak in tongues without anyone having laid hands on them. Others were prayed for by the faculty members. Participants later described the night as 'a new Pentecost' and their experience as baptism in the Spirit.\n\nNews spread quickly through Catholic networks. In early March 1967, a group at the University of Notre Dame, including Kevin and Dorothy Ranaghan, had similar experiences, and within weeks a group at Michigan State University followed. In April 1967 the first national gathering took place at Notre Dame, and the Ranaghans' book Catholic Pentecostals (1969) introduced the movement widely. Covenant communities such as the Word of God in Ann Arbor formed.\n\nChurch leaders responded with caution, then increasing support. Cardinal Léon-Joseph Suenens became an important advocate, and in 1975 Pope Paul VI addressed thousands of participants in Rome at Pentecost, speaking of the renewal as an opportunity for the Church while urging discernment. Popes John Paul II, Benedict XVI and Francis also supported it, and in 2017 Francis celebrated its golden jubilee in Rome. In 2019 the Vatican created CHARIS to serve the renewal worldwide.",
+      "keyMoments": [
+        {
+          "year": 1965,
+          "text": "Vatican II closes; Catholics speak of renewal and a 'new Pentecost'."
+        },
+        {
+          "year": 1967,
+          "date": "January 1967",
+          "text": "Duquesne faculty members are prayed for at an interdenominational prayer meeting in Pittsburgh."
+        },
+        {
+          "year": 1967,
+          "date": "17-19 February 1967",
+          "text": "The Duquesne retreat at The Ark and the Dove; the Saturday night experience in the chapel."
+        },
+        {
+          "year": 1967,
+          "date": "March 1967",
+          "text": "Similar experiences at Notre Dame and Michigan State."
+        },
+        {
+          "year": 1967,
+          "date": "April 1967",
+          "text": "First national Catholic charismatic gathering at Notre Dame."
+        },
+        {
+          "year": 1975,
+          "text": "Pope Paul VI addresses the international conference in Rome at Pentecost."
+        },
+        {
+          "year": 2017,
+          "text": "Golden jubilee celebrated in Rome with Pope Francis."
+        },
+        {
+          "year": 2019,
+          "text": "The Vatican establishes CHARIS to serve the renewal."
+        }
+      ],
+      "significance": "The Duquesne Weekend is usually counted as the birth of the Catholic Charismatic Renewal, which brought Pentecostal-style spirituality into the world's largest church and contributed to the global spread of charismatic Christianity, especially in Latin America, Africa and Asia. It opened new ecumenical contact between Catholics and Pentecostals, including a formal international dialogue since 1972. Critics within and outside the Catholic Church raised concerns about theology, emotionalism and some authoritarian covenant communities, but the renewal remains a major current in global Catholicism.",
+      "confidence": "well-documented",
+      "sources": [
+        "ranaghan-catholic-pentecostals",
+        "mansfield-new-pentecost",
+        "burgess-dictionary-pentecostal",
+        "anderson-pentecostalism"
+      ]
+    },
+    {
+      "id": "akita-weeping-statue-1973",
+      "title": "Our Lady of Akita: messages and the weeping statue",
+      "year": 1973,
+      "endYear": 1981,
+      "circa": false,
+      "place": {
+        "name": "Convent of the Handmaids of the Eucharist, Yuzawadai, Akita, Japan",
+        "lat": 39.766,
+        "lng": 140.17
+      },
+      "regions": [
+        "east-asia"
+      ],
+      "personIds": [
+        "agnes-sasagawa"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "phenomena": [
+        "apparition",
+        "stigmata",
+        "prophecy",
+        "miracle",
+        "healing"
+      ],
+      "account": "In 1973 Sister Agnes Katsuko Sasagawa, a profoundly deaf member of the Handmaids of the Eucharist at Yuzawadai near Akita, reported light from the tabernacle, a painful cross-shaped wound on her left palm, and three messages from a wooden statue of Mary (6 July, 3 August and 13 October 1973). The third warned of a punishment of fire if humanity did not repent and of division in the Church. Between 1975 and 1981 the statue was reported to weep 101 times, observed by many visitors. In 1984 Bishop John Shojiro Ito of Niigata declared the events supernatural in origin.",
+      "primarySource": {
+        "title": "Bishop John Shojiro Ito, Pastoral Letter on the events at Akita (22 April 1984)",
+        "citation": "Pastoral letter of the Bishop of Niigata, 22 April 1984; account in T. Yasuda, Akita: The Tears and Message of Mary (Eng. trans. 1989)"
+      },
+      "contemporaryInterpretation": "The local bishop investigated over many years and approved the events; others, including a first commission that was negative, doubted, and the Holy See has made no formal public judgement.",
+      "assessments": [
+        {
+          "perspective": "Catholic (supporters)",
+          "text": "Approved by the local bishop, Akita is seen as a call to prayer, penance and Eucharistic adoration; the messages are read as warnings about the Church's divisions and as linked to Fatima."
+        },
+        {
+          "perspective": "Catholic (cautious)",
+          "text": "Many Catholic theologians stress that private revelations, even approved ones, never bind belief, and that the apocalyptic message must be read with care."
+        },
+        {
+          "perspective": "Protestant",
+          "text": "Most Protestants regard Marian apparitions as unnecessary or as distracting from Christ, and question the messages' theology, though some respect the sincerity of the sisters."
+        },
+        {
+          "perspective": "Sceptical",
+          "text": "Sceptics suggest natural or human causes for the weeping and wounds; laboratory tests reported by supporters (human blood, tears and sweat of different blood groups) have been debated."
+        }
+      ],
+      "debates": [
+        "The status of the 1984 episcopal approval and the Holy See's silence.",
+        "The meaning of the apocalyptic third message and its relation to Fatima.",
+        "Testing of fluids and verification of the reported healing of deafness."
+      ],
+      "story": "Christianity in Japan has a dramatic history, from the mission of Francis Xavier in 1549 through centuries of persecution to the 'hidden Christians' who emerged in the nineteenth century. In the twentieth century Catholics remained a very small minority. In 1973 a small community of women, the Institute of the Handmaids of the Eucharist (Seitai Hoshi-kai), lived at Yuzawadai in the hills outside the northern city of Akita, under the guidance of Bishop John Shojiro Ito of Niigata.\n\nSister Agnes Katsuko Sasagawa, born in 1931, had suffered serious illness after surgery as a young woman and had become a Catholic after a long recovery. In early 1973 she lost her hearing completely and joined the community at Akita. On 12 June 1973, according to the community's account, she saw a brilliant light coming from the tabernacle during prayer. Soon after, a painful wound in the shape of a cross appeared on the palm of her left hand. At about the same time, sisters reported that a wooden statue of Mary in the chapel, carved by the sculptor Saburo Wakasa, showed a bleeding wound on its right hand.\n\nOn 6 July 1973, Sister Agnes said she heard a voice from the statue speaking to her, asking her to pray in reparation for the sins of the world and for priests. A second message followed on 3 August. On 13 October 1973, the anniversary of the last Fatima apparition, she reported the third: if people did not repent, a punishment greater than the flood would come, with fire falling from the sky, and the work of the devil would infiltrate even the Church, so that cardinals would oppose cardinals and bishops oppose bishops. The message called people to pray the Rosary.\n\nFrom 4 January 1975 to 15 September 1981 the statue was reported to shed tears 101 times, witnessed by sisters, visitors and local people; one occasion was reportedly filmed by Japanese television. Bishop Ito, who witnessed the weeping himself, had samples tested; according to reports supporters later published, a forensic laboratory found human blood, tears and sweat. Sister Agnes reported that her hearing was restored in 1982, and other healings were claimed.\n\nA first investigative commission in 1979 was negative, but Bishop Ito continued to study the events. On 22 April 1984, after consultations in Rome, he issued a pastoral letter recognising the supernatural character of the events and permitting veneration of Our Lady of Akita in his diocese. Some reports later claimed that Cardinal Joseph Ratzinger personally regarded the messages as reliable, but no formal Vatican judgement was published.\n\nAkita became a place of pilgrimage for Catholics from Japan and abroad, and the third message has been widely quoted in debates about crisis in the Church. Sister Agnes lived quietly with her community, avoiding publicity.",
+      "keyMoments": [
+        {
+          "year": 1973,
+          "text": "Sister Agnes Sasagawa, recently deaf, joins the Handmaids of the Eucharist at Akita."
+        },
+        {
+          "year": 1973,
+          "date": "June 1973",
+          "text": "She reports light from the tabernacle; a cross-shaped wound appears on her left hand."
+        },
+        {
+          "year": 1973,
+          "date": "6 July 1973",
+          "text": "First message from the statue of Mary."
+        },
+        {
+          "year": 1973,
+          "date": "13 October 1973",
+          "text": "Third message, warning of punishment by fire and division in the Church."
+        },
+        {
+          "year": 1975,
+          "date": "4 January 1975 - 15 September 1981",
+          "text": "The statue is reported to weep 101 times."
+        },
+        {
+          "year": 1982,
+          "text": "Sister Agnes reports that her hearing has been restored."
+        },
+        {
+          "year": 1984,
+          "date": "22 April 1984",
+          "text": "Bishop Ito recognises the events as supernatural in a pastoral letter."
+        }
+      ],
+      "significance": "Akita is the most famous Marian apparition in Asia and one of the few in the late twentieth century to receive local episcopal approval. Its message of repentance and warning has been widely used by Catholics concerned about crisis in the Church, and it connects Japanese Catholic piety with global Marian devotion linked to Fatima. Its status shows the Catholic Church's distinction between local approval, papal silence and the non-binding character of private revelation.",
+      "confidence": "contested",
+      "sources": [
+        "ito-pastoral-letter-1984",
+        "zimdars-swartz-encountering-mary",
+        "mullins-handbook-japan"
+      ]
+    },
+    {
+      "id": "kibeho-apparitions-1981",
+      "title": "The Kibeho apparitions in Rwanda",
+      "year": 1981,
+      "endYear": 1989,
+      "circa": false,
+      "place": {
+        "name": "Kibeho, Nyaruguru District, Rwanda",
+        "lat": -2.6417,
+        "lng": 29.5394
+      },
+      "regions": [
+        "sub-saharan-africa"
+      ],
+      "personIds": [
+        "alphonsine-mumureke"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "phenomena": [
+        "apparition",
+        "vision",
+        "prophecy",
+        "ecstasy"
+      ],
+      "account": "On 28 November 1981 Alphonsine Mumureke, a student at Kibeho College, a girls' secondary school in southern Rwanda, said that the Virgin Mary appeared to her, calling herself 'Nyina wa Jambo' (Mother of the Word). Anathalie Mukamazimpaka and Marie Claire Mukangango later reported apparitions too. The visions, often seen by crowds as the girls fell into ecstasy, called for prayer and repentance. On 15 August 1982 the visionaries wept and described terrifying scenes of rivers of blood and abandoned bodies, which many later read as a warning of the 1994 genocide. In 2001 Bishop Augustin Misago approved the apparitions to these three.",
+      "primarySource": {
+        "title": "Declaration of Bishop Augustin Misago of Gikongoro on the apparitions of Kibeho",
+        "citation": "Declaration on the apparitions of Kibeho (29 June 2001), with commission reports from 1982 onward"
+      },
+      "contemporaryInterpretation": "Thousands of Rwandans flocked to Kibeho; local church authorities set up medical and theological commissions, and in 1988 Bishop Jean-Baptiste Gahamanyi authorised public devotion. Other claimed visionaries were not recognised.",
+      "assessments": [
+        {
+          "perspective": "Catholic",
+          "text": "Kibeho is the only Church-approved Marian apparition in Africa; the Sanctuary of Our Lady of Kibeho draws pilgrims who pray the Rosary of the Seven Sorrows promoted in the messages."
+        },
+        {
+          "perspective": "Rwandan memory",
+          "text": "For many Rwandans the 1982 visions became a sorrowful prophecy, and Kibeho, where massacres occurred in 1994 and 1995, is both a place of pilgrimage and of mourning."
+        },
+        {
+          "perspective": "Protestant",
+          "text": "Protestants generally do not accept Marian apparitions but note the call to repentance in a society heading toward violence."
+        },
+        {
+          "perspective": "Sceptical / historian",
+          "text": "Some scholars point out that the 'prophecy' was read as such only after the genocide, and that the apparitions occurred in an ethnically charged context; they also note the role of the church in Rwandan politics."
+        }
+      ],
+      "debates": [
+        "Reading the 1982 visions as a prophecy of the 1994 genocide.",
+        "The church's role and the trial of Bishop Misago (acquitted in 2000).",
+        "Why only three of the claimed visionaries were recognised."
+      ],
+      "story": "Rwanda in 1981 was a small, densely populated and overwhelmingly Christian country, with Catholics forming the largest church. It was ruled by President Juvénal Habyarimana, and tensions between Hutu and Tutsi, rooted in colonial and post-colonial history, lay below the surface. Kibeho, in the south near the Burundi border, had a parish and a Catholic girls' secondary school, Kibeho College.\n\nOn 28 November 1981, Alphonsine Mumureke, a sixteen-year-old student, was serving in the school refectory when, she said, she heard a voice and saw a beautiful woman who called herself 'Nyina wa Jambo', Mother of the Word. At first classmates and staff mocked her and she was teased; some suspected illness. On 12 January 1982 a second student, Anathalie Mukamazimpaka, reported apparitions, and on 2 March 1982 Marie Claire Mukangango, who had been one of the most mocking students, also began to see the Virgin.\n\nThe apparitions became public events. The visionaries would fall into ecstasy before crowds of thousands, speaking with the unseen figure, sometimes singing and sometimes lying for long periods. The messages called for prayer, repentance, fasting and humility, with warnings that the world was in danger. Marie Claire was asked to spread the Rosary of the Seven Sorrows of Mary.\n\nObservers described dramatic scenes. According to accounts collected at the time, the visionaries sometimes fell heavily to the ground during ecstasy without injury, and Alphonsine and others reported 'mystical journeys' during which they lay motionless for many hours and later described seeing places of joy and of suffering. Doctors, priests and journalists came to observe, some sympathetic, some sceptical. The messages also spoke of the world turning away from God and asked people to love one another sincerely.\n\nThe most remembered day was 15 August 1982, the feast of the Assumption. Before a large crowd, according to witnesses and later accounts, the visionaries wept and trembled and described terrifying images: rivers of blood, people killing one another, abandoned bodies without heads, trees on fire. At the time many did not understand. After the genocide of 1994, in which perhaps 800,000 people, mostly Tutsi, were killed, many came to read these visions as a warning that went unheeded.\n\nThe Church moved carefully. In 1982 a medical commission and later a theological commission examined the visionaries. In 1988 Bishop Jean-Baptiste Gahamanyi of Butare authorised public devotion at Kibeho. Several others claimed visions, but these were not recognised. During the genocide Kibeho itself became a place of massacre: people who had fled to the church and school were killed in April 1994, and in April 1995 many displaced people were killed when soldiers cleared a camp at Kibeho.\n\nKibeho came under the new diocese of Gikongoro, led by Bishop Augustin Misago, who himself was arrested in 1999 on charges of complicity in the genocide and acquitted in 2000. On 29 June 2001 he declared that the apparitions to Alphonsine, Anathalie and Marie Claire were worthy of belief. The Sanctuary of Our Lady of Kibeho was built, and pilgrims come from Rwanda, Africa and beyond.",
+      "keyMoments": [
+        {
+          "year": 1981,
+          "date": "28 November 1981",
+          "text": "Alphonsine Mumureke reports the first apparition of 'Nyina wa Jambo'."
+        },
+        {
+          "year": 1982,
+          "date": "12 January 1982",
+          "text": "Anathalie Mukamazimpaka reports apparitions."
+        },
+        {
+          "year": 1982,
+          "date": "2 March 1982",
+          "text": "Marie Claire Mukangango begins to see the Virgin."
+        },
+        {
+          "year": 1982,
+          "date": "15 August 1982",
+          "text": "The visionaries weep and describe rivers of blood and bodies."
+        },
+        {
+          "year": 1988,
+          "text": "Bishop Gahamanyi authorises public devotion at Kibeho."
+        },
+        {
+          "year": 1994,
+          "text": "Genocide in Rwanda; massacres at Kibeho."
+        },
+        {
+          "year": 2001,
+          "date": "29 June 2001",
+          "text": "Bishop Misago declares the apparitions to the three visionaries authentic."
+        }
+      ],
+      "significance": "Kibeho is the only Catholic Marian apparition in Africa to have received official approval, and its sanctuary is a major place of pilgrimage. Its association with the 1994 genocide gives it a unique place in Rwandan memory and in reflection on the churches' responsibility during the violence. For historians and theologians it raises hard questions about prophecy read after the event, and about how Christian devotion and national tragedy were intertwined in Rwanda.",
+      "confidence": "contested",
+      "sources": [
+        "misago-kibeho-2001",
+        "zimdars-swartz-encountering-mary",
+        "isichei-africa"
+      ]
+    },
+    {
+      "id": "medjugorje-apparitions-1981",
+      "title": "Medjugorje: the 'Queen of Peace' apparitions",
+      "year": 1981,
+      "circa": false,
+      "place": {
+        "name": "Podbrdo (Apparition Hill), Medjugorje, Bosnia and Herzegovina",
+        "lat": 43.1846,
+        "lng": 17.676
+      },
+      "regions": [
+        "greece-balkans"
+      ],
+      "personIds": [
+        "pope-francis"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "phenomena": [
+        "apparition",
+        "vision",
+        "prophecy",
+        "conversion",
+        "healing"
+      ],
+      "account": "On 24 June 1981 young people from the Croatian Catholic village of Medjugorje, then in Communist Yugoslavia, said they saw the Virgin Mary on the hill of Podbrdo. From 25 June six visionaries (Ivanka Ivanković, Mirjana Dragićević, Vicka Ivanković, Ivan Dragićević, Marija Pavlović and Jakov Čolo) reported daily apparitions, with messages calling for peace, conversion, prayer and fasting; some reported continuing apparitions for decades. The local bishops rejected the claims, the Yugoslav bishops (1991) found no proof of supernatural origin, and in 2024 the Holy See gave a 'nihil obstat' to the spiritual experience at Medjugorje without declaring the apparitions supernatural.",
+      "primarySource": {
+        "title": "Dicastery for the Doctrine of the Faith, Note 'The Queen of Peace' on the spiritual experience connected with Medjugorje",
+        "citation": "DDF, 'La Regina della Pace' (19 September 2024); Declaration of the Yugoslav Bishops' Conference (Zadar, 10 April 1991)"
+      },
+      "contemporaryInterpretation": "Many local Catholics and Franciscan friars embraced the apparitions; Communist authorities saw them as nationalist agitation and jailed the parish priest Jozo Zovko; Bishop Pavao Žanić of Mostar eventually rejected them.",
+      "assessments": [
+        {
+          "perspective": "Catholic (devotees)",
+          "text": "Millions of pilgrims report conversions, confessions and healing; for them Medjugorje is a 'confessional of the world' and a true Marian call to peace."
+        },
+        {
+          "perspective": "Catholic (Holy See)",
+          "text": "The 2024 note recognises abundant spiritual fruit and allows public devotion, but does not declare the apparitions supernatural and cautions about some messages; Pope Francis voiced scepticism about claims of daily apparitions."
+        },
+        {
+          "perspective": "Catholic (critics)",
+          "text": "The bishops of Mostar and some theologians see the phenomenon as linked to disputes between Franciscans and the diocese, with doubts about the visionaries' consistency and continuing messages."
+        },
+        {
+          "perspective": "Protestant / Orthodox",
+          "text": "Protestants generally reject Marian apparitions; Orthodox Christians in the region have viewed Medjugorje through the lens of Croatian-Catholic identity, especially during the 1990s wars."
+        },
+        {
+          "perspective": "Sceptical",
+          "text": "Sceptics regard the phenomena as psychological or social, noting the long series of messages and the commercial pilgrimage economy."
+        }
+      ],
+      "debates": [
+        "Authenticity of the apparitions versus the spiritual fruits.",
+        "Franciscan-diocesan conflict in Herzegovina.",
+        "The 2024 norms and what a 'nihil obstat' means."
+      ],
+      "story": "In 1981 Medjugorje was a poor, Croatian Catholic farming village in the hills of western Herzegovina, then part of Communist Yugoslavia. The region had a long and painful history, including violence during the Second World War. The parish was run by Franciscan friars, who had served Bosnian Catholics for centuries, and there was a long dispute between the Franciscans and the diocesan bishops of Mostar over who should run parishes.\n\nOn the afternoon of 24 June 1981, the feast of St John the Baptist, a group of young people walking near Podbrdo hill said they saw a luminous figure of a young woman holding a child. The next day, 25 June, six young people (Ivanka Ivanković, Mirjana Dragićević, Vicka Ivanković, Ivan Dragićević, Marija Pavlović and ten-year-old Jakov Čolo) went back and reported that the Virgin spoke with them. 25 June later became the anniversary date. Crowds grew rapidly, reaching thousands within days.\n\nThe authorities reacted strongly. Police questioned the young people, and doctors examined them. The Franciscan parish priest, Jozo Zovko, initially sceptical, came to support the visionaries; in August 1981 he was arrested and sentenced to prison for allegedly preaching against the state. The apparitions moved from the hill to the parish church. According to the visionaries, the Virgin identified herself as the 'Queen of Peace', calling people to peace, conversion, faith, prayer and fasting.\n\nThe local bishop, Pavao Žanić of Mostar, was initially open but later became convinced that the apparitions were not authentic, especially after the visionaries reportedly supported Franciscans in their dispute with him. His commission's negative conclusion was referred to the Yugoslav bishops' conference, which in 1991 declared at Zadar that it could not be affirmed that the events involved supernatural apparitions or revelations, while allowing pastoral care for pilgrims. Some visionaries said they still received daily or monthly messages, which continued for decades.\n\nThe visionaries also said they had been entrusted with 'secrets' about future events, which they claimed would be revealed at the proper time. Several married and raised families, some moved abroad, and they travelled widely to speak about the messages. Monthly messages, especially those reported by Marija Pavlović on the 25th of each month, were published and circulated worldwide, while critics questioned their repetitive content and the unprecedented length of the series.\n\nDespite the official caution, Medjugorje became one of the largest Catholic pilgrimage sites in the world, drawing millions of visitors, including during and after the Bosnian war of 1992-1995. Many reported conversions, returning to confession, vocations and healings. Critics pointed to inconsistencies, commercialisation and problems in the conduct of some figures connected with the movement.\n\nIn 2010 Pope Benedict XVI established an international commission led by Cardinal Camillo Ruini, which reported in 2014. Pope Francis sent Archbishop Henryk Hoser as special envoy in 2017 and authorised official pilgrimages in 2019, while expressing personal doubts about continuing apparitions. In September 2024, under new norms, the Dicastery for the Doctrine of the Faith issued 'The Queen of Peace', granting a nihil obstat to the spiritual experience at Medjugorje and recognising its positive fruits, but explicitly without declaring the apparitions supernatural.",
+      "keyMoments": [
+        {
+          "year": 1981,
+          "date": "24 June 1981",
+          "text": "Young people report a vision of a woman on Podbrdo hill."
+        },
+        {
+          "year": 1981,
+          "date": "25 June 1981",
+          "text": "Six visionaries report that the Virgin speaks to them; crowds gather."
+        },
+        {
+          "year": 1981,
+          "date": "August 1981",
+          "text": "Fr Jozo Zovko is arrested by Yugoslav authorities."
+        },
+        {
+          "year": 1991,
+          "date": "10 April 1991",
+          "text": "Yugoslav bishops' Zadar declaration: supernatural character not established."
+        },
+        {
+          "year": 2010,
+          "text": "Benedict XVI establishes the Ruini commission."
+        },
+        {
+          "year": 2019,
+          "text": "Pope Francis authorises official pilgrimages."
+        },
+        {
+          "year": 2024,
+          "date": "19 September 2024",
+          "text": "The DDF note 'The Queen of Peace' grants a nihil obstat to the spiritual experience."
+        }
+      ],
+      "significance": "Medjugorje is the most visited and most controversial Marian site of modern times, shaping Catholic devotion, pilgrimage and renewal movements worldwide. The long Church process around it, from local rejection to a 2024 nihil obstat without recognition of supernatural origin, illustrates the Catholic Church's evolving approach to private revelation. It also shows how apparitions become entangled in local church disputes, national identities and global religious tourism.",
+      "confidence": "contested",
+      "sources": [
+        "ddf-queen-of-peace-2024",
+        "zimdars-swartz-encountering-mary",
+        "pelikan-mary"
+      ]
+    }
+  ]
+}
