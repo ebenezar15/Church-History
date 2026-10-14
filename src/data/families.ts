@@ -57,12 +57,12 @@ export const FLOW_KIND_META: Record<string, { label: string; colour: string; ico
 
 export const EDGE_META: Record<string, { label: string; colour: string; dashed?: boolean }> = {
   supports: { label: 'supports', colour: '#2f7d4a' },
-  objects: { label: 'objects', colour: '#c2453a', dashed: true },
-  responds: { label: 'responds', colour: '#3a6fc2', dashed: true },
-  develops: { label: 'develops', colour: '#b8892b' },
-  rejects: { label: 'rejects', colour: '#9b2c2c', dashed: true },
+  objects: { label: 'challenged by', colour: '#c2453a', dashed: true },
+  responds: { label: 'answered by', colour: '#3a6fc2', dashed: true },
+  develops: { label: 'developed into', colour: '#b8892b' },
+  rejects: { label: 'rejected by', colour: '#9b2c2c', dashed: true },
   'leads-to': { label: 'leads to', colour: '#8a8a8a' },
-  decides: { label: 'decides', colour: '#7a4fc2' },
+  decides: { label: 'settles', colour: '#7a4fc2' },
 };
 
 export const REGION_LABEL: Record<string, string> = {

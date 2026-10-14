@@ -174,7 +174,7 @@
           },
           {
             "id": "v-basil-tradition",
-            "kind": "voice",
+            "kind": "argument",
             "label": "Basil: written and unwritten apostolic tradition",
             "year": 375,
             "ref": {
@@ -214,7 +214,7 @@
           },
           {
             "id": "v-jerome",
-            "kind": "voice",
+            "kind": "argument",
             "label": "Jerome: ‘Hebrew verity’ and the Apocrypha",
             "year": 405,
             "ref": {
@@ -508,11 +508,6 @@
           {
             "from": "p-marcion",
             "to": "v-irenaeus",
-            "kind": "leads-to"
-          },
-          {
-            "from": "v-irenaeus",
-            "to": "p-marcion",
             "kind": "objects"
           },
           {
@@ -553,11 +548,6 @@
           {
             "from": "d-carthage",
             "to": "v-jerome",
-            "kind": "leads-to"
-          },
-          {
-            "from": "v-jerome",
-            "to": "d-carthage",
             "kind": "objects"
           },
           {
@@ -588,11 +578,6 @@
           {
             "from": "p-papal-primacy",
             "to": "p-conciliarism",
-            "kind": "leads-to"
-          },
-          {
-            "from": "p-conciliarism",
-            "to": "p-papal-primacy",
             "kind": "objects"
           },
           {
@@ -623,11 +608,6 @@
           {
             "from": "p-sola-scriptura",
             "to": "d-trent",
-            "kind": "leads-to"
-          },
-          {
-            "from": "d-trent",
-            "to": "p-sola-scriptura",
             "kind": "rejects"
           },
           {
@@ -666,18 +646,13 @@
             "kind": "develops"
           },
           {
-            "from": "d-vatican-i",
-            "to": "p-conciliarism",
+            "from": "p-conciliarism",
+            "to": "d-vatican-i",
             "kind": "rejects"
           },
           {
             "from": "p-higher-criticism",
             "to": "p-inerrancy",
-            "kind": "leads-to"
-          },
-          {
-            "from": "p-inerrancy",
-            "to": "p-higher-criticism",
             "kind": "objects"
           },
           {
@@ -713,11 +688,6 @@
           {
             "from": "p-limited-inerrancy",
             "to": "d-chicago",
-            "kind": "leads-to"
-          },
-          {
-            "from": "d-chicago",
-            "to": "p-limited-inerrancy",
             "kind": "rejects"
           },
           {
