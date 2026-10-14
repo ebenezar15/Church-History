@@ -6,11 +6,21 @@ import { useAtlas, hrefFor, type Atlas } from '../data/db';
 import { getFuse, type SearchDoc } from '../data/searchIndex';
 import { askAtlas, DEFAULT_MODEL, MODELS, type Turn } from '../agent/run';
 import type { ToolEvent } from '../agent/tools';
+import { askAtlasHosted, getHostedSampler, type HostedSampler } from '../agent/hosted';
 import { Icon } from '../components/Icon';
 import { Markdown } from '../components/Markdown';
 import { PageHeader, cx } from '../components/ui';
 
 interface Msg { role: 'user' | 'assistant'; text: string; steps?: ToolEvent[]; mode?: 'agent' | 'librarian'; error?: boolean }
+
+const HOSTED_ERRORS: Record<string, string> = {
+  not_granted: 'Claude was not allowed for this page, so answers come from librarian mode.',
+  sampling_disabled: 'Claude is not available on this account, so answers come from librarian mode.',
+  rate_limited: 'Too many questions at once, or your Claude usage limit was reached. Try again in a little while.',
+  refused: 'Claude declined this question. Try rephrasing it.',
+  session_expired: 'Your Claude session expired. Sign in again and retry.',
+  cancelled: 'Stopped.',
+};
 
 const KEY_STORE = 'ecclesia-anthropic-key';
 const MODEL_STORE = 'ecclesia-agent-model';
@@ -66,6 +76,10 @@ export default function Ask() {
   const abort = useRef<AbortController | null>(null);
   const endRef = useRef<HTMLDivElement>(null);
   const client = useMemo(() => (apiKey ? new Anthropic({ apiKey, dangerouslyAllowBrowser: true }) : null), [apiKey]);
+  // Inside a claude.ai viewer the page can ask Claude on the viewer's own account, no key needed.
+  const [hosted, setHosted] = useState<HostedSampler | null>(null);
+  const [draft, setDraft] = useState('');
+  useEffect(() => { let live = true; getHostedSampler().then((h) => live && setHosted(h)); return () => { live = false; }; }, []);
 
   useEffect(() => { write(KEY_STORE, remember ? apiKey : ''); }, [apiKey, remember]);
   useEffect(() => { write(MODEL_STORE, model); }, [model]);
@@ -79,6 +93,33 @@ export default function Ask() {
     const history: Turn[] = msgs.filter((m) => !m.error && m.mode !== 'librarian').map((m) => ({ role: m.role, text: m.text }));
     setMsgs((m) => [...m, { role: 'user', text: q }]);
 
+    if (!client && hosted) {
+      setBusy(true);
+      setLive([]);
+      setDraft('');
+      const steps: ToolEvent[] = [];
+      abort.current = new AbortController();
+      try {
+        const text = await askAtlasHosted({
+          sampler: hosted, atlas: a, history, question: q, signal: abort.current.signal,
+          onEvent: (e) => { steps.push(e); setLive([...steps]); },
+          onText: setDraft,
+        });
+        setMsgs((m) => [...m, { role: 'assistant', text, steps, mode: 'agent' }]);
+      } catch (err) {
+        const e = err as { code?: string; text?: string };
+        if (e.code === 'not_granted' || e.code === 'sampling_disabled' || e.code === 'not_declared') setHosted(null);
+        const note = HOSTED_ERRORS[e.code ?? ''] ?? 'Claude could not finish this answer. Try again.';
+        const fallback = e.code === 'not_granted' || e.code === 'sampling_disabled' ? '\n\n' + librarianAnswer(a, q) : '';
+        setMsgs((m) => [...m, { role: 'assistant', text: (e.text ? e.text + '\n\n' : '') + `*${note}*` + fallback, steps, mode: 'agent', error: true }]);
+      } finally {
+        setBusy(false);
+        setLive([]);
+        setDraft('');
+        abort.current = null;
+      }
+      return;
+    }
     if (!client) {
       setMsgs((m) => [...m, { role: 'assistant', text: librarianAnswer(a, q), mode: 'librarian' }]);
       return;
@@ -158,7 +199,7 @@ export default function Ask() {
         )}
       </AnimatePresence>
 
-      {!client && (
+      {!client && !hosted && (
         <div className="mb-5 flex items-start gap-3 rounded-2xl border border-dashed border-line p-4 text-sm text-ink-2">
           <Icon name="info" className="mt-0.5 shrink-0 text-accent" />
           <span>
@@ -207,6 +248,7 @@ export default function Ask() {
               Researching…
               <button className="btn ml-auto !py-1 text-xs" onClick={() => abort.current?.abort()}>Stop</button>
             </div>
+            {draft && <div className="mt-3 text-ink-2"><Markdown text={draft} /></div>}
             <ul className="mt-2 space-y-1 text-sm text-muted">
               <AnimatePresence initial={false}>
                 {live.map((s, j) => <motion.li key={j} initial={{ opacity: 0, x: -8 }} animate={{ opacity: 1, x: 0 }}>· {s.summary}</motion.li>)}
