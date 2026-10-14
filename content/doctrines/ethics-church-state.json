@@ -1,0 +1,2876 @@
+{
+  "sources": [
+    {
+      "id": "bainton-attitudes-war",
+      "title": "Christian Attitudes toward War and Peace",
+      "kind": "secondary",
+      "author": "Roland H. Bainton",
+      "year": 1960
+    },
+    {
+      "id": "yoder-politics-of-jesus",
+      "title": "The Politics of Jesus",
+      "kind": "secondary",
+      "author": "John Howard Yoder",
+      "year": 1972
+    },
+    {
+      "id": "noll-civil-war-crisis",
+      "title": "The Civil War as a Theological Crisis",
+      "kind": "secondary",
+      "author": "Mark A. Noll",
+      "year": 2006
+    },
+    {
+      "id": "evans-social-gospel",
+      "title": "The Social Gospel in American Religion: A History",
+      "kind": "secondary",
+      "author": "Christopher H. Evans",
+      "year": 2017
+    },
+    {
+      "id": "gutierrez-theology-liberation-src",
+      "title": "A Theology of Liberation (Teología de la liberación)",
+      "kind": "secondary",
+      "author": "Gustavo Gutiérrez",
+      "year": 1971,
+      "note": "English tr. 1973; rev. ed. 1988"
+    },
+    {
+      "id": "whitehead-perry-taking-america",
+      "title": "Taking America Back for God: Christian Nationalism in the United States",
+      "kind": "secondary",
+      "author": "Andrew L. Whitehead and Samuel L. Perry",
+      "year": 2020
+    },
+    {
+      "id": "davis-problem-slavery",
+      "title": "The Problem of Slavery in Western Culture",
+      "kind": "secondary",
+      "author": "David Brion Davis",
+      "year": 1966
+    },
+    {
+      "id": "johnson-just-war-tradition",
+      "title": "Just War Tradition and the Restraint of War",
+      "kind": "secondary",
+      "author": "James Turner Johnson",
+      "year": 1981
+    },
+    {
+      "id": "stayer-anabaptists-sword",
+      "title": "Anabaptists and the Sword",
+      "kind": "secondary",
+      "author": "James M. Stayer",
+      "year": 1972
+    },
+    {
+      "id": "scholder-churches-third-reich",
+      "title": "The Churches and the Third Reich",
+      "kind": "secondary",
+      "author": "Klaus Scholder",
+      "year": 1977,
+      "note": "English tr. 1987–88"
+    },
+    {
+      "id": "cdf-libertatis-nuntius",
+      "title": "Instruction on Certain Aspects of the \"Theology of Liberation\" (Libertatis Nuntius)",
+      "kind": "primary",
+      "author": "Congregation for the Doctrine of the Faith",
+      "year": 1984,
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19840806_theology-liberation_en.html"
+    },
+    {
+      "id": "russian-world-declaration-2022",
+      "title": "A Declaration on the \"Russian World\" (Russkii Mir) Teaching",
+      "kind": "primary",
+      "author": "Orthodox theologians (Volos Academy / Fordham Orthodox Christian Studies Center)",
+      "year": 2022
+    },
+    {
+      "id": "ccc-1997",
+      "title": "Catechism of the Catholic Church, 2nd ed.",
+      "kind": "primary",
+      "author": "Holy See",
+      "year": 1997,
+      "url": "https://www.vatican.va/archive/ENG0015/_INDEX.HTM"
+    },
+    {
+      "id": "kairos-document-1985",
+      "title": "The Kairos Document: Challenge to the Church",
+      "kind": "primary",
+      "author": "Kairos theologians (South Africa)",
+      "year": 1985
+    }
+  ],
+  "doctrines": [
+    {
+      "id": "ethics-church-state",
+      "name": "Ethics, Church and State",
+      "icon": "scales",
+      "order": 11,
+      "question": "How should Christians relate to political power, violence and injustice?",
+      "summary": "From Tertullian’s refusal of the sword to Constantine’s Christian empire, Luther’s two kingdoms, Anabaptist separation, the slavery debates, the Social Gospel, Barmen, liberation theology and today’s Christian nationalism, Christians have continually renegotiated their relation to power, war and justice.",
+      "longText": "The earliest Christians were a persecuted minority who prayed for emperors but refused to worship them. Jesus’ command to love enemies and his rebuke of Peter’s sword led most pre-Constantinian writers, such as Tertullian and Origen, to oppose Christians killing in war, even as Christians increasingly served in the army. Paul’s instruction that rulers are \"ministers of God\" bearing the sword, and Jesus’ \"render unto Caesar\", supplied the other pole of the tension.\n\nConstantine’s conversion (312) transformed the question. Eusebius hailed a Christian empire, Theodosius made Nicene Christianity the state religion (380), and Byzantium developed the ideal of \"symphony\" between emperor and patriarch, a pattern echoed in Russia, Ethiopia and Armenia. Augustine, writing after the sack of Rome, relativised every earthly city while articulating the principles of justified war that Aquinas, Vitoria and Grotius later systematised. In the West, Pope Gelasius’ \"two powers\" grounded the medieval contest between popes and emperors. Christendom produced hospitals, universities and law, but also crusades, inquisitions and conquests whose injustices critics like Bartolomé de las Casas denounced.\n\nThe Reformation multiplied models. Luther taught two kingdoms; Calvin a twofold government in which the magistrate upheld true religion; Anabaptists at Schleitheim (1527) renounced the sword and magistracy and were persecuted by all. Wars of religion led, slowly, to toleration and in America to the separation of church and state. In the 18th and 19th centuries Christians stood on both sides of the greatest moral question of the age: Quakers, evangelicals, Methodists and Black Christians led the abolition of slavery while Southern theologians defended it from Scripture, splitting the American churches.\n\nIn the industrial age the Social Gospel and Catholic social teaching called for justice for workers. Under Nazism the Confessing Church’s Barmen Declaration (1934) confessed Christ’s sole lordship against the \"German Christians\"; Martin Luther King Jr. drew on the Black church, the Social Gospel and natural law in the civil rights struggle; Latin American bishops and theologians such as Gustavo Gutiérrez proclaimed a preferential option for the poor; South African churches declared apartheid theology a heresy. Today churches debate nuclear weapons and humanitarian intervention, religious liberty, persecution, and the resurgence of Christian nationalism from the United States to Russia. This section presents each tradition’s case in its own terms, including a critical historical account of pro-slavery theology, together with its strongest critics.",
+      "flow": {
+        "nodes": [
+          {
+            "id": "q",
+            "kind": "question",
+            "label": "How should Christians relate to political power, violence and injustice?",
+            "text": "Jesus told Peter to put away his sword and said \"my kingdom is not of this world\", yet Paul calls the ruler \"the minister of God\" who \"beareth not the sword in vain\". May Christians kill in war or hold office? Should the Church be allied to the state, separate from it, or prophetically against it? How did Christians justify, and then overthrow, slavery? What is the Church’s responsibility for the poor and oppressed?",
+            "quoteIds": []
+          },
+          {
+            "id": "s-sermon",
+            "kind": "scripture",
+            "label": "Sermon on the Mount and the sword (Matthew 5:38–48; 26:52; John 18:36)",
+            "year": 30,
+            "text": "\"Resist not evil ... love your enemies\"; \"all they that take the sword shall perish with the sword\". Pacifists read these as binding on all disciples; others limit them to personal ethics.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-caesar",
+            "kind": "scripture",
+            "label": "Caesar and God (Mark 12:17; Acts 5:29)",
+            "year": 30,
+            "text": "\"Render to Caesar the things that are Caesar’s, and to God the things that are God’s\"; \"we ought to obey God rather than men\". The basis for both loyalty and resistance.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-rom13",
+            "kind": "scripture",
+            "label": "Romans 13:1–7 and 1 Peter 2:13–17: the governing authorities",
+            "year": 57,
+            "text": "Rulers are ordained by God, bear the sword to punish evildoers and must be obeyed for conscience’ sake; contrast Revelation 13, where imperial power appears as a beast.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-slavery",
+            "kind": "scripture",
+            "label": "Slavery texts (Exodus 21; Leviticus 25:44–46; Ephesians 6:5–9; Philemon; Galatians 3:28; 1 Timothy 1:10)",
+            "year": 60,
+            "text": "The Bible regulates slavery, the household codes command slaves to obey, and Paul returns Onesimus \"not now as a servant, but above a servant, a brother beloved\", while condemning \"menstealers\" and declaring \"neither bond nor free\" in Christ. Both sides of the 19th-century debate quoted these texts.",
+            "quoteIds": []
+          },
+          {
+            "id": "v-tertullian",
+            "kind": "voice",
+            "label": "Tertullian and Origen: Christians do not fight",
+            "year": 211,
+            "text": "Pre-Constantinian writers generally oppose Christians killing in war and serving as magistrates, partly over bloodshed and partly over idolatrous military oaths; Christians nonetheless served in the army by the late 2nd century.",
+            "ref": {
+              "type": "person",
+              "id": "tertullian"
+            },
+            "quoteIds": [
+              "tertullian-unbelted-every-soldier",
+              "origen-army-of-piety"
+            ]
+          },
+          {
+            "id": "p-pacifism",
+            "kind": "position",
+            "label": "Christian pacifism and nonviolence",
+            "year": 200,
+            "text": "Followers of Jesus renounce lethal violence and overcome evil with good.",
+            "ref": {
+              "type": "position",
+              "id": "pacifism"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "v-constantine",
+            "kind": "voice",
+            "label": "Constantine: \"Conquer by this\" (312)",
+            "year": 312,
+            "text": "After his victory at the Milvian Bridge, Constantine favours the Church; the Edict of Milan (313) grants toleration and Eusebius hails a Christian empire.",
+            "ref": {
+              "type": "person",
+              "id": "constantine-i"
+            },
+            "quoteIds": [
+              "eusebius-conquer-by-this"
+            ]
+          },
+          {
+            "id": "p-constantinian",
+            "kind": "position",
+            "label": "The Constantinian synthesis (Christendom)",
+            "year": 313,
+            "text": "Church and empire cooperate as two arms of one Christian society: emperors convene councils and enforce orthodoxy; bishops pray for and legitimise rulers.",
+            "ref": {
+              "type": "position",
+              "id": "constantinian-synthesis"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "d-thessalonica",
+            "kind": "decision",
+            "label": "Edict of Thessalonica makes Nicene Christianity the state religion (380)",
+            "year": 380,
+            "text": "Theodosius I’s edict Cunctos populos (380) requires all subjects to hold the faith of the bishops of Rome and Alexandria; pagan sacrifice is banned in 391–92. Heresy becomes a crime.",
+            "quoteIds": []
+          },
+          {
+            "id": "v-augustine",
+            "kind": "voice",
+            "label": "Augustine: two cities, and war as tragic necessity",
+            "year": 410,
+            "text": "After the sack of Rome (410) Augustine relativises every earthly state as the \"earthly city\" while arguing that rulers may wage war to restrain evil, with love rather than hatred as the motive.",
+            "ref": {
+              "type": "person",
+              "id": "augustine-of-hippo"
+            },
+            "quoteIds": [
+              "augustine-two-loves-two-cities",
+              "augustine-real-evils-in-war"
+            ]
+          },
+          {
+            "id": "p-just-war",
+            "kind": "position",
+            "label": "Just war tradition",
+            "year": 400,
+            "text": "War may be justified as a last resort to restrain grave evil, under criteria of authority, cause, intention and restraint.",
+            "ref": {
+              "type": "position",
+              "id": "just-war"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "a-gelasius",
+            "kind": "argument",
+            "label": "Gelasius: \"two there are\" by which the world is ruled (494)",
+            "year": 494,
+            "text": "Against imperial interference, the pope distinguishes priestly authority from royal power, the seed of medieval papal claims (Unam Sanctam, 1302) and of later church–state distinctions. Byzantium meanwhile develops Justinian’s ideal of \"symphony\" between emperor and patriarch (Novel 6, 535).",
+            "ref": {
+              "type": "person",
+              "id": "gelasius-i"
+            },
+            "quoteIds": [
+              "gelasius-two-there-are"
+            ]
+          },
+          {
+            "id": "v-aquinas",
+            "kind": "voice",
+            "label": "Aquinas systematises just war (c.1272)",
+            "year": 1272,
+            "text": "Legitimate authority, just cause and right intention; later scholastics (Vitoria, Suárez) and Grotius extend it into international law.",
+            "ref": {
+              "type": "person",
+              "id": "thomas-aquinas"
+            },
+            "quoteIds": [
+              "aquinas-three-things-just-war"
+            ]
+          },
+          {
+            "id": "d-valladolid",
+            "kind": "decision",
+            "label": "Valladolid debate on the conquest of the Americas (1550–51)",
+            "year": 1550,
+            "text": "Charles V convenes Las Casas and Juan Ginés de Sepúlveda to debate whether war and subjugation of indigenous Americans are just. No formal verdict was issued, but the debate fed the New Laws (1542) and the development of natural rights theory.",
+            "ref": {
+              "type": "person",
+              "id": "bartolome-de-las-casas"
+            },
+            "quoteIds": [
+              "las-casas-destruction-indies"
+            ]
+          },
+          {
+            "id": "p-two-kingdoms",
+            "kind": "position",
+            "label": "Lutheran two kingdoms",
+            "year": 1523,
+            "text": "God rules the world through the sword of temporal government and the Church through the gospel; Christians serve in both.",
+            "ref": {
+              "type": "position",
+              "id": "two-kingdoms"
+            },
+            "quoteIds": [
+              "luther-two-governments"
+            ]
+          },
+          {
+            "id": "p-anabaptist",
+            "kind": "position",
+            "label": "Anabaptist separation and nonresistance",
+            "year": 1527,
+            "text": "The Schleitheim brethren separate from the world, renounce the sword, oath and magistracy, and form disciplined believers’ churches.",
+            "ref": {
+              "type": "event",
+              "id": "schleitheim-confession-1527"
+            },
+            "quoteIds": [
+              "schleitheim-sword-outside-perfection"
+            ]
+          },
+          {
+            "id": "d-augsburg",
+            "kind": "decision",
+            "label": "Augsburg Confession XVI: Christians may bear office and fight just wars (1530)",
+            "year": 1530,
+            "text": "Lutheran, Reformed (e.g. Belgic Confession 36) and Anglican (Article XXXVII) confessions affirm magistracy and just war and condemn the Anabaptists; thousands of Anabaptists are executed by Catholic and Protestant authorities alike.",
+            "ref": {
+              "type": "event",
+              "id": "augsburg-confession-1530"
+            },
+            "quoteIds": [
+              "augsburg-just-wars"
+            ]
+          },
+          {
+            "id": "c-confessional-states",
+            "kind": "consequence",
+            "label": "Confessional states and wars of religion (1555–1648)",
+            "year": 1555,
+            "text": "The Peace of Augsburg (1555) lets each prince choose his territory’s religion; religious wars culminate in the Thirty Years’ War, ended by the Peace of Westphalia (1648). Exhaustion with religious violence helps birth arguments for toleration (Roger Williams, Locke) and later the separation of church and state.",
+            "ref": {
+              "type": "event",
+              "id": "peace-of-augsburg-1555"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "v-quakers",
+            "kind": "voice",
+            "label": "Quaker Peace Testimony (1661)",
+            "year": 1661,
+            "text": "Quakers join Mennonites and Brethren as the historic \"peace churches\"; they will also lead early abolitionism (Germantown Protest, 1688; John Woolman; Anthony Benezet).",
+            "ref": {
+              "type": "person",
+              "id": "george-fox"
+            },
+            "quoteIds": [
+              "quaker-deny-outward-wars"
+            ]
+          },
+          {
+            "id": "p-abolition",
+            "kind": "position",
+            "label": "Christian abolitionism",
+            "year": 1787,
+            "text": "Quakers, evangelicals (Wilberforce, the Clapham Sect), Methodists and Black churches campaign against the slave trade and slavery as sins against the image of God.",
+            "ref": {
+              "type": "position",
+              "id": "abolitionism"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "d-1807",
+            "kind": "decision",
+            "label": "Britain abolishes the slave trade (1807)",
+            "year": 1807,
+            "text": "After twenty years of evangelical and Quaker campaigning, Parliament bans the trade; slavery itself is abolished in British colonies from 1834, in the US in 1865 and in Brazil in 1888.",
+            "ref": {
+              "type": "event",
+              "id": "abolition-slave-trade-1807"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-proslavery",
+            "kind": "position",
+            "label": "Pro-slavery theology (historical)",
+            "year": 1841,
+            "text": "Southern US theologians argue that Scripture sanctions slavery; here described historically and critically, as now repudiated by virtually all churches.",
+            "ref": {
+              "type": "position",
+              "id": "pro-slavery-theology"
+            },
+            "quoteIds": [
+              "stringfellow-slavery-sanctioned"
+            ]
+          },
+          {
+            "id": "c-schisms",
+            "kind": "consequence",
+            "label": "Churches split over slavery (1844–61) and the Civil War",
+            "year": 1845,
+            "text": "The Methodist Episcopal Church (1844), Baptists (Southern Baptist Convention, 1845) and Presbyterians (1857, 1861) divide North and South; Mark Noll calls the Civil War a \"theological crisis\" because both sides read the same Bible to opposite conclusions. The SBC formally apologised for its defence of slavery and racism in 1995.",
+            "quoteIds": [
+              "douglass-christianity-of-christ"
+            ]
+          },
+          {
+            "id": "p-social-gospel",
+            "kind": "position",
+            "label": "The Social Gospel",
+            "year": 1907,
+            "text": "Walter Rauschenbusch and others call the Church to Christianise the social order in the face of industrial poverty.",
+            "ref": {
+              "type": "position",
+              "id": "social-gospel"
+            },
+            "quoteIds": [
+              "rauschenbusch-social-crisis-para",
+              "rauschenbusch-social-gospel-theology"
+            ]
+          },
+          {
+            "id": "d-barmen",
+            "kind": "decision",
+            "label": "Barmen Declaration (1934)",
+            "year": 1934,
+            "text": "The Confessing Church rejects the Nazi-aligned \"German Christians\" and any lordship besides Christ; Dietrich Bonhoeffer later joins the conspiracy against Hitler and is executed in April 1945.",
+            "ref": {
+              "type": "event",
+              "id": "barmen-declaration-1934"
+            },
+            "quoteIds": [
+              "barmen-one-word-of-god"
+            ]
+          },
+          {
+            "id": "v-king",
+            "kind": "voice",
+            "label": "Martin Luther King Jr.: nonviolent resistance to unjust laws (1963)",
+            "year": 1963,
+            "text": "The Black church fuses Social Gospel, natural-law reasoning and Gandhian nonviolence in the civil rights movement.",
+            "ref": {
+              "type": "person",
+              "id": "martin-luther-king-jr"
+            },
+            "quoteIds": [
+              "king-unjust-law"
+            ]
+          },
+          {
+            "id": "d-medellin",
+            "kind": "decision",
+            "label": "Medellín: the Latin American bishops opt for the poor (1968)",
+            "year": 1968,
+            "text": "CELAM’s Medellín conference applies Vatican II to Latin America, denouncing \"institutionalised violence\" and calling for liberation; Puebla (1979) speaks of a \"preferential option for the poor\".",
+            "ref": {
+              "type": "event",
+              "id": "medellin-conference-1968"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-liberation",
+            "kind": "position",
+            "label": "Liberation theology",
+            "year": 1971,
+            "text": "Gutiérrez, Boff, Sobrino, Míguez Bonino; Black, Minjung, Dalit, Palestinian and feminist theologies; base ecclesial communities; martyrs such as Archbishop Óscar Romero (1980).",
+            "ref": {
+              "type": "position",
+              "id": "liberation-theology"
+            },
+            "quoteIds": [
+              "gutierrez-preferential-option"
+            ]
+          },
+          {
+            "id": "a-cdf",
+            "kind": "argument",
+            "label": "Objection: Vatican Instruction on liberation theology (1984)",
+            "year": 1984,
+            "text": "The Congregation for the Doctrine of the Faith under Cardinal Ratzinger warns against uncritical use of Marxist class analysis and reducing salvation to politics (Libertatis Nuntius, 1984), while affirming liberation as a Christian theme (Libertatis Conscientia, 1986). Under Pope Francis relations warmed; Gutiérrez was received at the Vatican and died in 2024.",
+            "quoteIds": []
+          },
+          {
+            "id": "p-nationalism",
+            "kind": "position",
+            "label": "Christian nationalism debates",
+            "year": 2020,
+            "text": "Should a nation be self-consciously Christian in law and identity? Debated in the US, Russia (\"Russian World\"), Hungary, Brazil, Nigeria and elsewhere.",
+            "ref": {
+              "type": "position",
+              "id": "christian-nationalism-debates"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "m-global",
+            "kind": "modern",
+            "label": "Global South: prophetic resistance and new alliances",
+            "year": 1985,
+            "text": "South Africa’s Kairos Document (1985) and the Belhar Confession (1986) declare apartheid theology a heresy; churches in the Philippines (1986), Kenya, Zambia and DR Congo play roles in democratisation; persecution of Christians in North Korea, China and parts of the Middle East and Africa raises new questions of church–state relations.",
+            "quoteIds": []
+          },
+          {
+            "id": "m-today",
+            "kind": "modern",
+            "label": "Today: who holds what?",
+            "year": 2025,
+            "text": "Just war is the mainstream teaching of Catholic, Orthodox (as \"necessary evil\" rather than a formal theory), Lutheran, Reformed and Anglican churches, though Pope Francis (Fratelli Tutti, 2020) questioned whether any modern war can meet its criteria. Mennonites, Quakers and Brethren maintain pacifism, joined by many Catholic and evangelical peace activists. Most churches accept religious liberty and some separation of church and state; established churches survive in England, Denmark and elsewhere. All major churches now condemn slavery and racism. Liberation and social-justice themes are widespread in Catholic social teaching and Global South theology, while debates over Christian nationalism are intensifying.",
+            "quoteIds": []
+          }
+        ],
+        "edges": [
+          {
+            "from": "q",
+            "to": "s-sermon",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q",
+            "to": "s-caesar",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q",
+            "to": "s-rom13",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q",
+            "to": "s-slavery",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-sermon",
+            "to": "v-tertullian",
+            "kind": "supports"
+          },
+          {
+            "from": "v-tertullian",
+            "to": "p-pacifism",
+            "kind": "develops"
+          },
+          {
+            "from": "s-caesar",
+            "to": "v-tertullian",
+            "kind": "supports"
+          },
+          {
+            "from": "s-rom13",
+            "to": "v-constantine",
+            "kind": "supports"
+          },
+          {
+            "from": "v-constantine",
+            "to": "p-constantinian",
+            "kind": "develops"
+          },
+          {
+            "from": "p-constantinian",
+            "to": "d-thessalonica",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-pacifism",
+            "to": "v-augustine",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-thessalonica",
+            "to": "v-augustine",
+            "kind": "leads-to"
+          },
+          {
+            "from": "v-augustine",
+            "to": "p-just-war",
+            "kind": "develops"
+          },
+          {
+            "from": "s-rom13",
+            "to": "p-just-war",
+            "kind": "supports"
+          },
+          {
+            "from": "p-constantinian",
+            "to": "a-gelasius",
+            "kind": "responds"
+          },
+          {
+            "from": "a-gelasius",
+            "to": "v-aquinas",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-just-war",
+            "to": "v-aquinas",
+            "kind": "develops"
+          },
+          {
+            "from": "v-aquinas",
+            "to": "d-valladolid",
+            "kind": "leads-to"
+          },
+          {
+            "from": "v-augustine",
+            "to": "p-two-kingdoms",
+            "kind": "develops"
+          },
+          {
+            "from": "s-caesar",
+            "to": "p-two-kingdoms",
+            "kind": "supports"
+          },
+          {
+            "from": "p-pacifism",
+            "to": "p-anabaptist",
+            "kind": "develops"
+          },
+          {
+            "from": "s-sermon",
+            "to": "p-anabaptist",
+            "kind": "supports"
+          },
+          {
+            "from": "p-anabaptist",
+            "to": "d-augsburg",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-two-kingdoms",
+            "to": "d-augsburg",
+            "kind": "supports"
+          },
+          {
+            "from": "v-aquinas",
+            "to": "d-augsburg",
+            "kind": "supports"
+          },
+          {
+            "from": "d-augsburg",
+            "to": "c-confessional-states",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-anabaptist",
+            "to": "v-quakers",
+            "kind": "develops"
+          },
+          {
+            "from": "c-confessional-states",
+            "to": "v-quakers",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-slavery",
+            "to": "p-proslavery",
+            "kind": "supports"
+          },
+          {
+            "from": "s-slavery",
+            "to": "p-abolition",
+            "kind": "supports"
+          },
+          {
+            "from": "v-quakers",
+            "to": "p-abolition",
+            "kind": "develops"
+          },
+          {
+            "from": "d-valladolid",
+            "to": "p-abolition",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-abolition",
+            "to": "d-1807",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-abolition",
+            "to": "p-proslavery",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-proslavery",
+            "to": "c-schisms",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-1807",
+            "to": "c-schisms",
+            "kind": "leads-to"
+          },
+          {
+            "from": "c-schisms",
+            "to": "p-social-gospel",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-social-gospel",
+            "to": "v-king",
+            "kind": "develops"
+          },
+          {
+            "from": "p-two-kingdoms",
+            "to": "d-barmen",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-caesar",
+            "to": "d-barmen",
+            "kind": "supports"
+          },
+          {
+            "from": "d-barmen",
+            "to": "v-king",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-pacifism",
+            "to": "v-king",
+            "kind": "develops"
+          },
+          {
+            "from": "p-social-gospel",
+            "to": "d-medellin",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-medellin",
+            "to": "p-liberation",
+            "kind": "develops"
+          },
+          {
+            "from": "a-cdf",
+            "to": "p-liberation",
+            "kind": "objects"
+          },
+          {
+            "from": "d-medellin",
+            "to": "a-cdf",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-constantinian",
+            "to": "p-nationalism",
+            "kind": "develops"
+          },
+          {
+            "from": "c-confessional-states",
+            "to": "p-nationalism",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-barmen",
+            "to": "p-nationalism",
+            "kind": "objects"
+          },
+          {
+            "from": "p-liberation",
+            "to": "m-global",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-barmen",
+            "to": "m-global",
+            "kind": "leads-to"
+          },
+          {
+            "from": "m-global",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-nationalism",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "v-king",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-just-war",
+            "to": "m-today",
+            "kind": "leads-to"
+          }
+        ]
+      },
+      "sources": [
+        "bainton-attitudes-war",
+        "johnson-just-war-tradition",
+        "yoder-politics-of-jesus",
+        "noll-civil-war-crisis",
+        "evans-social-gospel",
+        "gutierrez-theology-liberation-src",
+        "whitehead-perry-taking-america",
+        "macculloch-christianity",
+        "chadwick-early-church",
+        "odcc"
+      ]
+    }
+  ],
+  "positions": [
+    {
+      "id": "just-war",
+      "doctrineId": "ethics-church-state",
+      "name": "Just war tradition",
+      "altNames": [
+        "Bellum iustum",
+        "Christian realism (20th-century form)"
+      ],
+      "oneLine": "War is always tragic, but legitimate authorities may use proportionate force as a last resort to defend the innocent and restore a just peace, under strict moral limits.",
+      "coreClaims": [
+        "Love of neighbour can require protecting the innocent from aggression, including by force.",
+        "Jus ad bellum: legitimate authority, just cause, right intention, last resort, reasonable hope of success, proportionality.",
+        "Jus in bello: discrimination (non-combatants may not be directly targeted) and proportionality in means.",
+        "The ruler bears the sword as God’s servant (Rom 13:4); private vengeance remains forbidden.",
+        "The goal of war is peace (Augustine, City of God 19.12)."
+      ],
+      "keyTexts": [
+        "Romans 13:1–7",
+        "Luke 3:14 (John the Baptist to soldiers)",
+        "Matthew 8:5–13; Acts 10 (centurions)",
+        "Augustine, Reply to Faustus 22.74–75; City of God 19",
+        "Aquinas, Summa Theologiae II-II q.40"
+      ],
+      "origin": "Drawing on Cicero and Ambrose (On the Duties of the Clergy, c.391), Augustine (c.400–420) gave Christian shape to a theory of justified war; Gratian’s Decretum (c.1140) and Thomas Aquinas (c.1272) systematised it; Francisco de Vitoria (1539), Francisco Suárez and Hugo Grotius (On the Law of War and Peace, 1625) developed it into international law. Affirmed by Lutheran (Augsburg XVI), Anglican (Article XXXVII) and Reformed confessions and the Catholic Catechism (§2307–2317); revived in the 20th century by Reinhold Niebuhr, Paul Ramsey and the US Catholic bishops’ The Challenge of Peace (1983).",
+      "originYear": 400,
+      "proponentIds": [
+        "augustine-of-hippo",
+        "ambrose",
+        "thomas-aquinas",
+        "hugo-grotius",
+        "martin-luther",
+        "john-calvin"
+      ],
+      "proponentsOther": [
+        "Gratian",
+        "Francisco de Vitoria",
+        "Francisco Suárez",
+        "Reinhold Niebuhr",
+        "Paul Ramsey",
+        "Jean Bethke Elshtain",
+        "Nigel Biggar",
+        "Oliver O’Donovan"
+      ],
+      "traditionIds": [
+        "catholic",
+        "lutheran",
+        "reformed",
+        "anglican",
+        "presbyterian",
+        "methodist",
+        "baptist",
+        "evangelical",
+        "eastern-orthodox"
+      ],
+      "strongestArguments": [
+        "Refusing to defend the innocent against aggression can itself be a failure of love; the Good Samaritan would not have stood by during the assault.",
+        "Scripture never requires soldiers to leave the army (Luke 3:14; Acts 10) and affirms the ruler’s sword (Rom 13:4).",
+        "It restrains war rather than glorifying it, and its criteria shaped the Geneva Conventions and international humanitarian law.",
+        "It has been the mainstream position of most churches for 1,600 years."
+      ],
+      "strongestObjections": [
+        "Pacifists argue that Jesus’ explicit teaching (\"love your enemies\", \"put up again thy sword\") and the pre-Constantinian Church’s practice exclude killing.",
+        "In practice the criteria have been bent to bless almost every war, including crusades and conquests, and rarely stop a government from fighting.",
+        "Modern total war and weapons of mass destruction make discrimination and proportionality nearly impossible; Pope Francis (Fratelli Tutti §258, 2020) doubted that just-war criteria can still be met.",
+        "Eastern Orthodoxy never developed a formal just-war theory, treating killing even in war as requiring repentance (Basil, canon 13)."
+      ],
+      "responses": [
+        "Just-war thinkers reply that abuse of the criteria condemns the abusers, not the criteria, and that the tradition has produced real limits on warfare.",
+        "They argue that Jesus’ teaching concerns personal retaliation, while Romans 13 addresses the public office of protecting others.",
+        "Many accept a \"presumption against war\" (Challenge of Peace, 1983), narrowing the tradition towards pacifism in practice."
+      ],
+      "consequences": [
+        "Became the moral framework of Western Christendom and of modern international law.",
+        "Enabled Christian participation in states, armies and politics.",
+        "Used critically to oppose specific wars (e.g. Vietnam, Iraq 2003) and to condemn nuclear deterrence policies."
+      ],
+      "relatedPositionIds": [
+        "pacifism",
+        "two-kingdoms",
+        "constantinian-synthesis"
+      ],
+      "standing": "majority",
+      "sources": [
+        "bainton-attitudes-war",
+        "johnson-just-war-tradition",
+        "ccc-1997",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "pacifism",
+      "doctrineId": "ethics-church-state",
+      "name": "Christian pacifism and nonviolence",
+      "altNames": [
+        "Nonresistance",
+        "Peace church tradition",
+        "Gospel nonviolence"
+      ],
+      "oneLine": "Jesus’ command to love enemies and his refusal of the sword forbid his followers from killing, including in war; Christians overcome evil with good.",
+      "coreClaims": [
+        "Jesus’ teaching and example of nonviolent love are normative for all disciples, not only for a spiritual elite or private life.",
+        "The cross shows God overcoming evil by suffering love rather than violence.",
+        "Christians may not kill in war or capital punishment; many also refuse coercive office (nonresistance) while others practise active nonviolent resistance.",
+        "The Church is called to be a peaceable community that witnesses to the coming kingdom."
+      ],
+      "keyTexts": [
+        "Matthew 5:38–48",
+        "Matthew 26:52",
+        "Luke 6:27–36",
+        "John 18:36",
+        "Romans 12:14–21",
+        "1 Peter 2:21–23",
+        "Isaiah 2:4"
+      ],
+      "origin": "Pre-Constantinian writers (Justin, Tertullian, Origen, Lactantius) and the Apostolic Tradition (c.215) opposed Christians killing. After Constantine, nonviolence was largely confined to clergy and monks, then revived by the Waldensians, the Czech Brethren (Petr Chelčický), the Anabaptists (Schleitheim, 1527), Quakers (1661) and Church of the Brethren (1708). In the 20th century it was renewed by Tolstoy, Dorothy Day’s Catholic Worker, Martin Luther King Jr. and John Howard Yoder’s Politics of Jesus (1972).",
+      "originYear": 200,
+      "proponentIds": [
+        "tertullian",
+        "origen",
+        "menno-simons",
+        "conrad-grebel",
+        "george-fox",
+        "michael-sattler",
+        "martin-luther-king-jr"
+      ],
+      "proponentsOther": [
+        "Justin Martyr",
+        "Lactantius",
+        "Petr Chelčický",
+        "John Woolman",
+        "Leo Tolstoy (excommunicated by the Russian Synod, 1901)",
+        "Dorothy Day",
+        "André Trocmé",
+        "John Howard Yoder",
+        "Stanley Hauerwas"
+      ],
+      "traditionIds": [
+        "early-church",
+        "anabaptist",
+        "mennonite",
+        "amish",
+        "hutterite",
+        "quaker",
+        "waldensian",
+        "hussite-moravian"
+      ],
+      "strongestArguments": [
+        "It takes the plainest words of Jesus at face value and follows the pattern of the cross.",
+        "It was the dominant view of the Church’s leading writers for its first three centuries.",
+        "Nonviolent movements (abolitionists, King, the fall of Communism in 1989, the Philippines 1986) have achieved real change.",
+        "It avoids the historic complicity of churches in crusades, conquest and nationalism."
+      ],
+      "strongestObjections": [
+        "Just-war thinkers argue that it abandons the innocent to aggressors, as critics of pacifism in the face of Nazism (Niebuhr) insisted.",
+        "The New Testament does not tell soldiers to leave the army (Luke 3:14; Acts 10) and affirms the ruler’s sword (Rom 13:4).",
+        "Pacifist communities often benefit from protection provided by others’ use of force.",
+        "Early-church evidence is mixed: Christians served in the army by the late 2nd century, and objections partly concerned idolatry rather than killing."
+      ],
+      "responses": [
+        "Pacifists reply that the Christian vocation is faithfulness, not control of history, and that nonviolent action is far from passive (e.g. Le Chambon-sur-Lignon sheltered thousands of Jews, 1940–44).",
+        "They argue Romans 13 describes God’s providential use of rulers without commanding Christians to wield the sword, and that Romans 12:19–21 immediately precedes it."
+      ],
+      "consequences": [
+        "Generated the historic peace churches and conscientious objection, recognised in law in many countries (Mennonite Central Committee; alternative civilian service).",
+        "Inspired major nonviolent movements, including US civil rights.",
+        "Shapes contemporary Catholic and Protestant peace-building and critiques of nuclear weapons."
+      ],
+      "relatedPositionIds": [
+        "just-war",
+        "anabaptist-separation",
+        "munster-apocalypticism"
+      ],
+      "standing": "minority",
+      "sources": [
+        "bainton-attitudes-war",
+        "yoder-politics-of-jesus",
+        "stayer-anabaptists-sword",
+        "anf-npnf"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "constantinian-synthesis",
+      "doctrineId": "ethics-church-state",
+      "name": "The Constantinian synthesis (Christendom)",
+      "altNames": [
+        "Christendom",
+        "Symphonia (Byzantine)",
+        "Established church",
+        "Constantinianism (critics)"
+      ],
+      "oneLine": "Church and Christian state are partners in one Christian society: rulers protect and promote the true faith, and the Church sanctifies and guides rulers.",
+      "coreClaims": [
+        "God raised up Christian rulers to protect the Church and promote true religion.",
+        "Church and state are two distinct but harmonious authorities in a single Christian commonwealth (Byzantine \"symphony\"; Western \"two swords\").",
+        "Rulers may convene councils, enforce orthodoxy and punish heresy and public sin.",
+        "Society’s law, calendar and culture should be shaped by Christian faith."
+      ],
+      "keyTexts": [
+        "Psalm 2:10–12",
+        "Isaiah 49:23 (\"kings shall be thy nursing fathers\")",
+        "Romans 13:1–7",
+        "1 Timothy 2:1–2",
+        "Eusebius, Oration in Praise of Constantine (336)"
+      ],
+      "origin": "After Constantine’s conversion (312) and the Edict of Milan (313), Eusebius of Caesarea articulated a Christian imperial theology in which the emperor mirrored the Logos. Theodosius I made Nicene Christianity the state religion (380); Justinian’s Novel 6 (535) described the \"symphony\" of priesthood and empire. The pattern continued in Byzantium, Russia (\"Third Rome\"), Ethiopia (the Solomonic monarchy), the Carolingian and medieval West, and in Reformation established churches.",
+      "originYear": 313,
+      "proponentIds": [
+        "constantine-i",
+        "eusebius-of-caesarea",
+        "charlemagne",
+        "gelasius-i"
+      ],
+      "proponentsOther": [
+        "Theodosius I",
+        "Justinian I",
+        "Pope Boniface VIII (papal form, Unam Sanctam 1302)",
+        "Richard Hooker (Anglican establishment)",
+        "Ethiopian Solomonic emperors"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-orthodox",
+        "russian-orthodox",
+        "ethiopian-orthodox-tewahedo",
+        "anglican",
+        "lutheran",
+        "armenian-apostolic"
+      ],
+      "strongestArguments": [
+        "It ended persecution and allowed Christianity to shape law (e.g. abolishing crucifixion and gladiatorial games, Sunday rest, care for the poor through church institutions).",
+        "If Christ is Lord of all, a society’s public life should acknowledge him, not only private hearts.",
+        "It produced the civilisations of Byzantium, Ethiopia, Armenia and medieval Europe, including universities, hospitals and law."
+      ],
+      "strongestObjections": [
+        "Anabaptists, Kierkegaard (Attack upon \"Christendom\", 1854–55) and Yoder argue that it betrayed the Church’s calling, turning a persecuted minority into a persecuting establishment and diluting discipleship.",
+        "It legitimised coercion of heretics, Jews and pagans, crusades and wars of religion.",
+        "Rulers routinely manipulated the Church for political ends (Byzantine caesaropapism, Henry VIII)."
+      ],
+      "responses": [
+        "Defenders reply that the alternative is not neutrality but some other public creed, and that Christian establishment has often coexisted with religious liberty (e.g. modern England, Scandinavia).",
+        "They argue that the abuses were failures to live up to Christian principles, which themselves supplied the resources for later reform (e.g. Ambrose disciplining Theodosius after the Thessalonica massacre, 390)."
+      ],
+      "consequences": [
+        "Shaped all major Christian civilisations for over a millennium.",
+        "Produced conflicts between popes and emperors (Investiture Controversy) and between church and state in Byzantium.",
+        "Its decline (French Revolution, disestablishment, secularisation) is a central theme of modern church history.",
+        "Remains an ideal or a warning in debates on Christian nationalism."
+      ],
+      "relatedPositionIds": [
+        "two-kingdoms",
+        "anabaptist-separation",
+        "christian-nationalism-debates",
+        "just-war"
+      ],
+      "standing": "historic",
+      "sources": [
+        "chadwick-early-church",
+        "yoder-politics-of-jesus",
+        "meyendorff-imperial-unity",
+        "macculloch-christianity"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "two-kingdoms",
+      "doctrineId": "ethics-church-state",
+      "name": "Two kingdoms (Lutheran)",
+      "altNames": [
+        "Two governments (zwei Regimente)",
+        "Two-kingdoms doctrine"
+      ],
+      "oneLine": "God governs the world in two ways: through the spiritual government of the gospel, which creates faith, and the temporal government of law and the sword, which preserves order. Christians live in both and must not confuse them.",
+      "coreClaims": [
+        "God’s \"right hand\" rule is the gospel, Word and sacraments, forming the Church by faith without coercion.",
+        "God’s \"left hand\" rule is temporal government: law, reason and the sword restraining evil for the common good.",
+        "The Church must not wield the sword, and the state must not rule consciences or dictate doctrine.",
+        "Christians may serve as rulers, judges and soldiers as a vocation of love for neighbour.",
+        "Obedience to rulers is required except where they command sin (Acts 5:29)."
+      ],
+      "keyTexts": [
+        "Romans 13:1–7",
+        "Matthew 22:21",
+        "John 18:36",
+        "1 Peter 2:13–17",
+        "Acts 5:29"
+      ],
+      "origin": "Building on Augustine’s two cities and Gelasius’ two powers, Martin Luther set out the doctrine in Temporal Authority (1523) and applied it to the Peasants’ War (1525). Lutheran confessions (Augsburg XVI, XXVIII) embody it; Calvin’s \"twofold government\" (Institutes 3.19.15; 4.20) is a Reformed counterpart. In recent decades David VanDrunen and others have revived a Reformed \"two kingdoms\" approach.",
+      "originYear": 1523,
+      "proponentIds": [
+        "martin-luther",
+        "philip-melanchthon",
+        "augustine-of-hippo"
+      ],
+      "proponentsOther": [
+        "Eivind Berggrav (used it to resist Nazi occupation in Norway, 1942)",
+        "Helmut Thielicke",
+        "David VanDrunen (Reformed two kingdoms)"
+      ],
+      "traditionIds": [
+        "lutheran",
+        "reformed"
+      ],
+      "strongestArguments": [
+        "It protects the gospel from politicisation and the state from clerical domination.",
+        "It grounds Christian service in ordinary vocations, honouring secular work and government as God’s good gifts.",
+        "It reflects Jesus’ distinction between Caesar and God and his kingdom \"not of this world\"."
+      ],
+      "strongestObjections": [
+        "Critics (including Karl Barth and many historians) argue it fostered political quietism and deference to rulers, contributing to German Lutheran passivity under Nazism.",
+        "Luther’s own harsh tract Against the Murderous, Thieving Hordes of Peasants (1525) is cited as an example of siding with power.",
+        "Reformed transformationists (Kuyper) and liberationists argue that Christ’s lordship extends to political life and must shape it, not only the gospel."
+      ],
+      "responses": [
+        "Lutherans reply that the doctrine also limits the state, as Norwegian bishops and Bonhoeffer used it to resist tyranny.",
+        "They argue that failures under Nazism owed more to nationalism, the \"orders of creation\" theology of some theologians and fear than to Luther’s distinction itself."
+      ],
+      "consequences": [
+        "Shaped Lutheran state churches and the Protestant ethic of vocation.",
+        "Influenced the modern distinction between church and state.",
+        "Remains a reference point in debates on Christian political engagement."
+      ],
+      "relatedPositionIds": [
+        "constantinian-synthesis",
+        "anabaptist-separation",
+        "just-war"
+      ],
+      "standing": "significant",
+      "sources": [
+        "macculloch-reformation",
+        "scholder-churches-third-reich",
+        "mcgrath-historical-theology"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "anabaptist-separation",
+      "doctrineId": "ethics-church-state",
+      "name": "Anabaptist separation",
+      "altNames": [
+        "Nonresistant separatism",
+        "Free church ethic",
+        "Two-kingdom dualism (Anabaptist form)"
+      ],
+      "oneLine": "The Church is a voluntary community of disciples separated from the world: it renounces the sword, oaths and magistracy, and witnesses to Christ’s kingdom by its life together.",
+      "coreClaims": [
+        "There are two orders: the perfection of Christ (the Church) and the world, where God ordains the sword outside Christ’s perfection.",
+        "Disciples do not use lethal force, swear oaths or hold coercive office (Schleitheim 6–7).",
+        "The Church is gathered by voluntary believer’s baptism and kept pure by loving discipline (the ban).",
+        "Faithfulness, not effectiveness or control of society, is the Christian’s calling; suffering is expected."
+      ],
+      "keyTexts": [
+        "Matthew 5:33–48",
+        "John 18:36",
+        "2 Corinthians 6:14–18",
+        "Romans 12:1–2",
+        "Philippians 3:20",
+        "Schleitheim Confession (1527)"
+      ],
+      "origin": "Swiss Brethren in Zurich (first adult baptisms, January 1525) under Conrad Grebel, Felix Manz and George Blaurock broke with Zwingli; Michael Sattler’s Schleitheim Confession (1527) set out their separatist ethic. After Münster (1535), Menno Simons consolidated nonresistant Anabaptism in the Netherlands. Hutterites (from 1528) adopted community of goods; the Amish split from Swiss Mennonites under Jacob Ammann (1693).",
+      "originYear": 1527,
+      "proponentIds": [
+        "michael-sattler",
+        "conrad-grebel",
+        "menno-simons",
+        "jacob-ammann"
+      ],
+      "proponentsOther": [
+        "Felix Manz",
+        "Pilgram Marpeck",
+        "Jakob Hutter",
+        "Dirk Philips",
+        "Harold S. Bender (\"The Anabaptist Vision\", 1944)",
+        "John Howard Yoder"
+      ],
+      "traditionIds": [
+        "anabaptist",
+        "mennonite",
+        "amish",
+        "hutterite"
+      ],
+      "strongestArguments": [
+        "It embodies the Sermon on the Mount as a communal way of life rather than an impossible ideal.",
+        "It resisted the coercive Christendom that persecuted dissenters and refused to kill even its persecutors.",
+        "Its witness for religious liberty and voluntary church membership has been vindicated by modern democracies."
+      ],
+      "strongestObjections": [
+        "Magisterial Reformers (Augsburg XVI; Belgic Confession 36) argued it rejected God’s ordinance of government and abandoned neighbours to injustice.",
+        "Critics call it sectarian, withdrawing from responsibility for the common good while relying on state protection.",
+        "Its strict discipline (shunning) has been criticised as harsh and divisive."
+      ],
+      "responses": [
+        "Anabaptists reply that they serve the common good through mutual aid, relief and service (e.g. Mennonite Central Committee, 1920) and that their witness to peace is itself a public good.",
+        "Modern Anabaptist theologians (Yoder) argue the Church is a \"social ethic\" in itself, a political alternative rather than a withdrawal."
+      ],
+      "consequences": [
+        "Thousands of Anabaptists were executed by Catholic and Protestant authorities in the 16th century; the Martyrs Mirror (1660) preserved their memory.",
+        "Produced the Mennonite, Amish and Hutterite communities, now present across the Americas, Africa (e.g. Ethiopia’s Meserete Kristos Church) and Asia.",
+        "Influenced Baptist and free-church ideas of religious liberty and separation of church and state."
+      ],
+      "relatedPositionIds": [
+        "pacifism",
+        "two-kingdoms",
+        "constantinian-synthesis",
+        "munster-apocalypticism"
+      ],
+      "standing": "minority",
+      "sources": [
+        "stayer-anabaptists-sword",
+        "yoder-politics-of-jesus",
+        "macculloch-reformation",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "christian-nationalism-debates",
+      "doctrineId": "ethics-church-state",
+      "name": "Christian nationalism (debates)",
+      "altNames": [
+        "Christian nation ideology",
+        "Religious nationalism",
+        "Russkiy mir (Russian World) ideology (Orthodox form)"
+      ],
+      "oneLine": "Advocates hold that a nation should be explicitly Christian in identity, law and public symbols, and that Christians should seek political power to that end; critics, many of them Christians, see this as idolatrous fusion of faith and nation.",
+      "coreClaims": [
+        "Advocates: a nation’s heritage and laws are, or should be, grounded in Christianity, which should be publicly privileged.",
+        "Advocates: Christians have a duty to take dominion or exercise influence over government and culture (e.g. \"Seven Mountains\").",
+        "Advocates: secularism is not neutral but hostile to Christian moral order.",
+        "Critics: equating a nation with God’s people confuses the universal Church with ethnic or national identity and tends towards exclusion of minorities."
+      ],
+      "keyTexts": [
+        "Psalm 33:12 (\"Blessed is the nation whose God is the LORD\")",
+        "2 Chronicles 7:14",
+        "Matthew 28:19 (\"disciple all nations\")",
+        "Philippians 3:20",
+        "Galatians 3:28",
+        "Revelation 7:9"
+      ],
+      "origin": "Draws on Constantinian and confessional-state traditions, Puritan covenant theology (\"a city upon a hill\", John Winthrop 1630), 19th-century \"Christian America\" movements and 20th-century Christian Reconstructionism (R. J. Rushdoony, 1973). Extreme historical forms include the Nazi-aligned \"German Christians\" (1930s) and Afrikaner Reformed justifications of apartheid. Contemporary debates involve the US (term popularised in scholarship by Whitehead and Perry, 2020; embraced by Stephen Wolfe, 2022), Russia’s \"Russian World\" ideology endorsed by Patriarch Kirill, Hungary, Brazil, Nigeria, Uganda and others.",
+      "originYear": 2020,
+      "proponentIds": [],
+      "proponentsOther": [
+        "R. J. Rushdoony (Christian Reconstructionism)",
+        "David Barton",
+        "Stephen Wolfe (The Case for Christian Nationalism, 2022)",
+        "Patriarch Kirill of Moscow (\"Russian World\")",
+        "Lance Wallnau (Seven Mountains)"
+      ],
+      "traditionIds": [
+        "evangelical",
+        "russian-orthodox",
+        "neo-charismatic",
+        "pentecostal"
+      ],
+      "strongestArguments": [
+        "Advocates argue that all law expresses some morality and every society has a public faith; Christians should not cede the public square to secular ideologies.",
+        "Many Western legal and moral traditions (human dignity, rule of law) historically derive from Christianity.",
+        "Scripture calls nations, not only individuals, to honour God (Ps 2; Matt 28:19)."
+      ],
+      "strongestObjections": [
+        "Critics, including the Baptist Joint Committee’s \"Christians Against Christian Nationalism\" (2019), argue it betrays the Baptist and Christian heritage of religious liberty and the transnational nature of the Church.",
+        "Orthodox theologians’ Declaration on the \"Russian World\" Teaching (2022) condemned the fusion of Orthodoxy with Russian imperial nationalism used to justify the invasion of Ukraine as heresy (ethnophyletism, condemned by the Council of Constantinople in 1872).",
+        "History shows Christian nationalism sanctifying violence and racism (German Christians, apartheid), and sociological research links it to hostility toward minorities.",
+        "It confuses Israel’s unique covenant with modern nation-states."
+      ],
+      "responses": [
+        "Some advocates distinguish a benign \"Christian heritage\" patriotism or confessional-state ideal from racial or authoritarian nationalism.",
+        "They argue that critics often lump all public Christian advocacy (e.g. on abortion or marriage) under a pejorative label."
+      ],
+      "consequences": [
+        "A major fault line in contemporary US evangelicalism and politics, especially since 2016.",
+        "Contributed to divisions within world Orthodoxy over the war in Ukraine.",
+        "Prompted renewed reflection on church, nation and religious liberty across the Global South."
+      ],
+      "relatedPositionIds": [
+        "constantinian-synthesis",
+        "christian-zionism",
+        "new-apostolic-reformation",
+        "postmillennialism"
+      ],
+      "standing": "significant",
+      "sources": [
+        "whitehead-perry-taking-america",
+        "russian-world-declaration-2022",
+        "scholder-churches-third-reich",
+        "noll-turning-points"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "liberation-theology",
+      "doctrineId": "ethics-church-state",
+      "name": "Liberation theology",
+      "altNames": [
+        "Latin American liberation theology",
+        "Theology of the option for the poor",
+        "Black, Minjung, Dalit, feminist and Palestinian liberation theologies (related forms)"
+      ],
+      "oneLine": "God reveals himself as liberator of the oppressed, so theology must begin from the experience of the poor and commit the Church to transforming the unjust structures that oppress them.",
+      "coreClaims": [
+        "Theology is \"critical reflection on praxis\" in the light of the Word, done from the standpoint of the poor.",
+        "God shows a preferential option for the poor, seen in the Exodus, the prophets and Jesus’ ministry (Luke 4:18).",
+        "Sin is personal and also structural (\"institutionalised violence\", social sin).",
+        "Salvation embraces liberation from social, economic and political oppression as well as from sin, in one history.",
+        "Base ecclesial communities read Scripture together and act for justice."
+      ],
+      "keyTexts": [
+        "Exodus 3:7–10",
+        "Isaiah 58; 61:1–2",
+        "Amos 5",
+        "Luke 1:46–55 (Magnificat)",
+        "Luke 4:16–21",
+        "Matthew 25:31–46",
+        "James 5:1–6"
+      ],
+      "origin": "Emerged in Latin America in the 1960s amid poverty, dictatorships and Vatican II’s openness. The Medellín conference of Latin American bishops (1968) denounced \"institutionalised violence\"; Gustavo Gutiérrez’s A Theology of Liberation (1971) gave it its name. Parallel movements: James Cone’s Black Theology and Black Power (1969), Korean Minjung theology (1970s), Dalit theology in India, Palestinian theology (Naim Ateek), South African contextual theology (Kairos Document, 1985) and feminist theology.",
+      "originYear": 1971,
+      "proponentIds": [
+        "gustavo-gutierrez",
+        "desmond-tutu"
+      ],
+      "proponentsOther": [
+        "Leonardo Boff",
+        "Jon Sobrino",
+        "Juan Luis Segundo",
+        "José Míguez Bonino (Methodist)",
+        "Archbishop Óscar Romero (martyred 1980, canonised 2018)",
+        "Hélder Câmara",
+        "James H. Cone",
+        "Naim Ateek",
+        "Ahn Byung-mu (Minjung)"
+      ],
+      "traditionIds": [
+        "catholic",
+        "methodist",
+        "presbyterian"
+      ],
+      "strongestArguments": [
+        "The Exodus, the prophets and Jesus’ Nazareth manifesto (Luke 4:18) show God’s concern for the oppressed as central, not peripheral.",
+        "Theology has always been shaped by social location; liberation theology makes this explicit and gives voice to the poor majority of Christians.",
+        "It inspired heroic witness, including martyrs such as Romero and the Jesuits of the UCA in El Salvador (1989).",
+        "Catholic social teaching itself adopted the \"preferential option for the poor\" (Puebla 1979; John Paul II; Francis)."
+      ],
+      "strongestObjections": [
+        "The Vatican’s Libertatis Nuntius (1984) warned that uncritical borrowing of Marxist class analysis distorts the gospel and the Church.",
+        "Critics argue it reduces salvation to political liberation, neglecting personal sin, forgiveness and eternal life.",
+        "Evangelical and Pentecostal growth among Latin America’s poor suggests many of the poor themselves opted for other forms of faith.",
+        "Some liberation movements were associated with armed revolution, contrary to gospel nonviolence."
+      ],
+      "responses": [
+        "Gutiérrez stressed that liberation has three levels (social, personal, and liberation from sin into communion with God) and that Marxism was a tool of analysis, not a faith.",
+        "The CDF’s second instruction (Libertatis Conscientia, 1986) affirmed authentic Christian liberation, and later popes embraced the option for the poor."
+      ],
+      "consequences": [
+        "Transformed Latin American Catholicism and influenced global Christian social ethics.",
+        "Led to persecution and martyrdom of clergy and catechists under military regimes.",
+        "Provoked Vatican discipline (e.g. silencing of Leonardo Boff, 1985) and later reconciliation.",
+        "Inspired contextual theologies across Africa, Asia and among minorities in the West."
+      ],
+      "relatedPositionIds": [
+        "social-gospel",
+        "christian-zionism",
+        "pacifism"
+      ],
+      "standing": "significant",
+      "sources": [
+        "gutierrez-theology-liberation-src",
+        "cdf-libertatis-nuntius",
+        "kairos-document-1985",
+        "jenkins-next-christendom"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "pro-slavery-theology",
+      "doctrineId": "ethics-church-state",
+      "name": "Pro-slavery theology (historical)",
+      "altNames": [
+        "Biblical defence of slavery",
+        "Southern pro-slavery argument"
+      ],
+      "oneLine": "Historically, many Christians, especially in the antebellum American South and in colonial empires, argued that Scripture sanctioned the enslavement of Africans; this theology is today repudiated by virtually all churches as a grave betrayal of the gospel.",
+      "coreClaims": [
+        "(Historically argued) The patriarchs owned slaves and the Mosaic law regulated slavery, so it cannot be intrinsically sinful.",
+        "(Historically argued) Jesus never condemned slavery, and the apostles told slaves to obey their masters and returned the runaway Onesimus.",
+        "(Historically argued) The \"curse of Ham\" (Gen 9:25, actually a curse on Canaan) justified African servitude, a reading with no basis in the text.",
+        "(Historically argued) A paternalist order of master and slave, with Christian instruction of the enslaved, was a divinely ordained social hierarchy."
+      ],
+      "keyTexts": [
+        "Genesis 9:20–27 (misread as the \"curse of Ham\")",
+        "Leviticus 25:44–46",
+        "Ephesians 6:5–9; Colossians 3:22–4:1",
+        "1 Peter 2:18",
+        "Philemon"
+      ],
+      "origin": "Medieval and early modern Christians widely accepted slavery; papal bulls Dum Diversas (1452) and Romanus Pontifex (1455) authorised the Portuguese to enslave \"Saracens and pagans\". As abolitionism grew, American theologians developed explicit biblical defences: Richard Furman’s Exposition (1823), Thornton Stringfellow (1841), James Henley Thornwell, Robert L. Dabney, Frederick A. Ross (Slavery Ordained of God, 1857) and Benjamin M. Palmer (1860). Recorded here historically and critically.",
+      "originYear": 1823,
+      "proponentIds": [
+        "thornton-stringfellow"
+      ],
+      "proponentsOther": [
+        "Richard Furman",
+        "James Henley Thornwell",
+        "Robert Lewis Dabney",
+        "Frederick A. Ross",
+        "Benjamin M. Palmer",
+        "Many colonial-era clergy across Catholic and Protestant empires"
+      ],
+      "traditionIds": [
+        "baptist",
+        "presbyterian",
+        "methodist"
+      ],
+      "strongestArguments": [
+        "(As its defenders argued) Scripture nowhere explicitly abolishes slavery and the apostles regulated it within Christian households; abolitionists, they claimed, set human reason above the Bible.",
+        "(As its defenders argued) Rejecting slavery’s biblical regulation would undermine the authority of Scripture generally, a hermeneutical worry that made the debate a \"theological crisis\" (Noll).",
+        "(As its defenders argued) Social order and Christian mission to the enslaved required stable hierarchy. Historians note that these arguments persuaded many sincere believers, which is why they must be studied honestly rather than ignored."
+      ],
+      "strongestObjections": [
+        "Scripture condemns \"manstealing\" with death (Exodus 21:16) and lists \"menstealers\" among the lawless (1 Tim 1:10), which describes the Atlantic slave trade exactly.",
+        "All humans bear God’s image (Gen 1:27), and in Christ there is \"neither bond nor free\" (Gal 3:28); Paul urges Philemon to receive Onesimus \"not now as a servant ... but a brother beloved\".",
+        "Hebrew debt-servitude, with release in the seventh year and Jubilee and protection of runaways (Deut 23:15–16), was fundamentally unlike hereditary, race-based chattel slavery.",
+        "The \"curse of Ham\" reading is exegetically baseless (the curse falls on Canaan and says nothing of race), and enslaved Christians (Douglass, spirituals, Black churches) exposed the system’s contradiction of the gospel."
+      ],
+      "responses": [
+        "Pro-slavery writers historically replied that the \"spirit\" of Scripture could not override its \"letter\", and accused abolitionists of infidelity.",
+        "Modern historians and theologians respond that the episode demonstrates how interpreters’ social interests can distort exegesis, and the Southern Baptist Convention (1995), PCUSA and others have formally repented of their predecessors’ defence of slavery and racism."
+      ],
+      "consequences": [
+        "Split the Methodist (1844), Baptist (1845) and Presbyterian churches along North–South lines.",
+        "Gave religious legitimacy to the Confederacy and later to segregation (\"Jim Crow\") theology.",
+        "Left a lasting legacy of racial division in American Christianity and a cautionary example in hermeneutics.",
+        "Formally repented of by the denominations that once taught it."
+      ],
+      "relatedPositionIds": [
+        "abolitionism",
+        "constantinian-synthesis"
+      ],
+      "standing": "historic",
+      "sources": [
+        "noll-civil-war-crisis",
+        "davis-problem-slavery",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "abolitionism",
+      "doctrineId": "ethics-church-state",
+      "name": "Christian abolitionism",
+      "altNames": [
+        "Anti-slavery movement",
+        "Immediatism (radical form)"
+      ],
+      "oneLine": "Slavery and the slave trade are sins against God and the image of God in every person, and Christians must work for their abolition.",
+      "coreClaims": [
+        "All humans are made in God’s image and of \"one blood\" (Acts 17:26).",
+        "Manstealing is a capital crime in Scripture (Exod 21:16; 1 Tim 1:10), and the golden rule forbids holding others in bondage.",
+        "In Christ there is neither slave nor free (Gal 3:28); the gospel’s logic undermines slavery.",
+        "Christian love requires political action to end the trade and emancipate the enslaved."
+      ],
+      "keyTexts": [
+        "Genesis 1:27",
+        "Exodus 21:16",
+        "Deuteronomy 23:15–16",
+        "Isaiah 58:6",
+        "Matthew 7:12",
+        "Acts 17:26",
+        "Galatians 3:28",
+        "Philemon 15–16",
+        "1 Timothy 1:10"
+      ],
+      "origin": "Gregory of Nyssa’s Fourth Homily on Ecclesiastes (c.379) condemned slaveholding outright, a rare ancient voice. Bartolomé de las Casas defended indigenous Americans’ freedom (1540s–50s). Organised abolitionism began with Quakers (Germantown Protest, 1688; John Woolman; Anthony Benezet), joined by Methodists (Wesley’s Thoughts upon Slavery, 1774), Anglican evangelicals (William Wilberforce, Thomas Clarkson, Granville Sharp; Society for Effecting the Abolition of the Slave Trade, 1787), African Christians (Olaudah Equiano), Black churches (Richard Allen) and American evangelicals and revivalists (Charles Finney’s Oberlin).",
+      "originYear": 1787,
+      "proponentIds": [
+        "gregory-of-nyssa",
+        "bartolome-de-las-casas",
+        "john-wesley",
+        "william-wilberforce",
+        "frederick-douglass",
+        "samuel-ajayi-crowther",
+        "charles-finney"
+      ],
+      "proponentsOther": [
+        "John Woolman",
+        "Anthony Benezet",
+        "Olaudah Equiano",
+        "Thomas Clarkson",
+        "Granville Sharp",
+        "Richard Allen",
+        "Sojourner Truth",
+        "Harriet Beecher Stowe",
+        "William Lloyd Garrison",
+        "Pope Gregory XVI (In Supremo Apostolatus, 1839, condemning the slave trade)"
+      ],
+      "traditionIds": [
+        "quaker",
+        "methodist",
+        "anglican",
+        "evangelical",
+        "baptist",
+        "congregationalist",
+        "catholic"
+      ],
+      "strongestArguments": [
+        "It applies the Bible’s deepest principles (image of God, love of neighbour, redemption from bondage in the Exodus) rather than isolated regulations of an ancient institution.",
+        "It was vindicated by the testimony of the enslaved themselves and by the fruits of emancipation.",
+        "Its leaders combined evangelical faith with practical political strategy, achieving one of history’s great moral reforms."
+      ],
+      "strongestObjections": [
+        "In its own day, pro-slavery critics argued that abolitionists ignored explicit biblical regulation of slavery (a hermeneutical objection that troubled even some anti-slavery theologians such as Charles Hodge).",
+        "Some radical abolitionists rejected scriptural authority or the churches altogether, confirming conservative fears.",
+        "Historians note that British abolition coexisted with colonial expansion, and that \"legitimate commerce\" and anti-slavery could justify imperial intervention in Africa."
+      ],
+      "responses": [
+        "Abolitionists answered that Scripture must be read as a whole and in light of Christ, and that New Testament slavery was not race-based chattel slavery.",
+        "African Christian leaders such as Samuel Ajayi Crowther, himself freed from a slave ship in 1822, show abolition and African agency combined in mission."
+      ],
+      "consequences": [
+        "Abolition of the British slave trade (1807) and of slavery in British colonies (1834), the US (1865) and Brazil (1888).",
+        "Founded settlements for freed people (Sierra Leone, 1787/1792) that became centres of West African Christianity.",
+        "Created models for Christian social reform movements thereafter."
+      ],
+      "relatedPositionIds": [
+        "pro-slavery-theology",
+        "social-gospel",
+        "postmillennialism"
+      ],
+      "standing": "majority",
+      "sources": [
+        "davis-problem-slavery",
+        "noll-civil-war-crisis",
+        "noll-turning-points",
+        "isichei-africa"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "social-gospel",
+      "doctrineId": "ethics-church-state",
+      "name": "The Social Gospel",
+      "altNames": [
+        "Christian socialism (British form)",
+        "Social Christianity"
+      ],
+      "oneLine": "The gospel aims to transform not only individuals but social structures, so Christians must work to Christianise economic and political life in line with the kingdom of God.",
+      "coreClaims": [
+        "The kingdom of God, the centre of Jesus’ preaching, is a social reality to be realised progressively in history.",
+        "Sin is embodied in \"super-personal forces\" such as exploitative economic systems, not only individual acts.",
+        "Salvation includes redeeming social institutions: labour rights, fair wages, housing, public health.",
+        "The Hebrew prophets and Jesus summon the Church to justice for the poor."
+      ],
+      "keyTexts": [
+        "Amos 5:21–24",
+        "Micah 6:8",
+        "Luke 4:18–19",
+        "Matthew 6:10 (\"Thy kingdom come ... on earth\")",
+        "Matthew 25:31–46",
+        "Acts 2:44–45"
+      ],
+      "origin": "Christian Socialists in Britain (F. D. Maurice, Charles Kingsley, 1848) and American Protestants responding to industrialisation (Washington Gladden, Richard Ely, Josiah Strong) laid foundations; Walter Rauschenbusch, a Baptist pastor in New York’s Hell’s Kitchen, gave it classic form (Christianity and the Social Crisis, 1907; A Theology for the Social Gospel, 1917). Charles Sheldon’s novel In His Steps (1896) popularised \"What would Jesus do?\". The Federal Council of Churches adopted a Social Creed (1908). Parallels: Leo XIII’s Rerum Novarum (1891) and, in Japan, Toyohiko Kagawa.",
+      "originYear": 1907,
+      "proponentIds": [
+        "walter-rauschenbusch",
+        "martin-luther-king-jr"
+      ],
+      "proponentsOther": [
+        "Washington Gladden",
+        "Richard T. Ely",
+        "Josiah Strong",
+        "Charles M. Sheldon",
+        "F. D. Maurice",
+        "Charles Kingsley",
+        "Toyohiko Kagawa",
+        "Reverdy C. Ransom (AME)"
+      ],
+      "traditionIds": [
+        "baptist",
+        "congregationalist",
+        "methodist",
+        "presbyterian",
+        "anglican"
+      ],
+      "strongestArguments": [
+        "It recovers the prophetic and kingdom dimensions of Scripture that individualistic piety neglected.",
+        "It addressed real suffering (child labour, slums, 12-hour days) and achieved concrete reforms.",
+        "It influenced later movements, including civil rights, through figures such as Martin Luther King Jr."
+      ],
+      "strongestObjections": [
+        "Fundamentalists and evangelicals charged that it replaced personal conversion and the atonement with social reform, tying it to theological liberalism.",
+        "Reinhold Niebuhr (Moral Man and Immoral Society, 1932) criticised its optimism about human nature and progress.",
+        "Some leaders shared racial and imperial assumptions of their era (e.g. Josiah Strong’s Anglo-Saxon triumphalism) and largely ignored racial injustice."
+      ],
+      "responses": [
+        "Rauschenbusch insisted on personal regeneration and wrote prayers of deep piety; he saw social and individual salvation as complementary.",
+        "Later evangelical statements (Lausanne Covenant, 1974, paragraph 5) reaffirmed social responsibility as part of Christian duty, partly vindicating its concerns."
+      ],
+      "consequences": [
+        "Shaped mainline Protestant social activism and ecumenical bodies (Federal Council of Churches, WCC).",
+        "Contributed to Progressive Era reforms and the New Deal.",
+        "Deepened the fundamentalist–modernist split, with evangelicals long suspicious of \"social\" Christianity.",
+        "Fed into the civil rights movement and later liberation theologies."
+      ],
+      "relatedPositionIds": [
+        "liberation-theology",
+        "liberal-protestantism",
+        "postmillennialism",
+        "abolitionism"
+      ],
+      "standing": "significant",
+      "sources": [
+        "evans-social-gospel",
+        "noll-turning-points",
+        "marsden-fundamentalism"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "controversies": [
+    {
+      "id": "may-christians-bear-the-sword",
+      "question": "May Christians bear the sword?",
+      "title": "Pacifism, just war and the sword",
+      "summary": "From Tertullian to the peace churches and modern nuclear debates, Christians have disagreed whether followers of Jesus may kill in war, serve as soldiers or wield coercive office.",
+      "doctrineIds": [
+        "ethics-church-state"
+      ],
+      "sides": [
+        {
+          "name": "Pacifism / nonresistance",
+          "positionId": "pacifism",
+          "steelman": "Jesus told us to love our enemies and told Peter to sheathe his sword. The cross is God’s way of defeating evil. For three centuries the Church’s teachers agreed that Christians do not kill. We may suffer for refusing, but we will not take the lives of those for whom Christ died.",
+          "arguments": [
+            "Sermon on the Mount",
+            "Pre-Constantinian consensus",
+            "Cross as pattern"
+          ],
+          "counterArguments": [
+            "Abandons the innocent",
+            "Romans 13"
+          ],
+          "keyTexts": [
+            "Matthew 5:38–48",
+            "Matthew 26:52",
+            "Romans 12:17–21"
+          ],
+          "quoteIds": [
+            "tertullian-unbelted-every-soldier",
+            "origen-army-of-piety",
+            "quaker-deny-outward-wars"
+          ]
+        },
+        {
+          "name": "Just war",
+          "positionId": "just-war",
+          "steelman": "Love seeks the neighbour’s good, including the neighbour being attacked. God gives rulers the sword to restrain evil. War is a terrible necessity in a fallen world, but it can be just if fought by legitimate authority, for a just cause, with right intention, as a last resort and with restraint toward the innocent.",
+          "arguments": [
+            "Romans 13:4",
+            "Soldiers not told to leave the army",
+            "Protecting the innocent"
+          ],
+          "counterArguments": [
+            "Criteria routinely abused",
+            "Modern weapons"
+          ],
+          "keyTexts": [
+            "Romans 13:1–7",
+            "Luke 3:14"
+          ],
+          "quoteIds": [
+            "augustine-real-evils-in-war",
+            "aquinas-three-things-just-war",
+            "augsburg-just-wars"
+          ]
+        },
+        {
+          "name": "Anabaptist separation",
+          "positionId": "anabaptist-separation",
+          "steelman": "God ordains the sword for the world, but outside the perfection of Christ. Disciples belong to another kingdom; we neither fight nor rule by the sword, nor swear oaths, but live as a community of peace that shows the world what Christ’s rule looks like.",
+          "arguments": [
+            "Two orders: world and Church",
+            "Christ refused kingship"
+          ],
+          "counterArguments": [
+            "Sectarian withdrawal"
+          ],
+          "keyTexts": [
+            "John 18:36",
+            "Philippians 3:20"
+          ],
+          "quoteIds": [
+            "schleitheim-sword-outside-perfection"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 211,
+          "text": "Tertullian argues Christ \"unbelted every soldier\"."
+        },
+        {
+          "year": 248,
+          "text": "Origen: Christians fight for the emperor by prayer."
+        },
+        {
+          "year": 313,
+          "text": "Constantine’s favour changes Christians’ relation to the army and state.",
+          "eventId": "edict-of-milan-313"
+        },
+        {
+          "year": 400,
+          "text": "Augustine articulates principles of justified war."
+        },
+        {
+          "year": 1096,
+          "text": "The First Crusade sanctifies war as penitential pilgrimage.",
+          "eventId": "first-crusade-1096"
+        },
+        {
+          "year": 1272,
+          "text": "Aquinas sets out just-war criteria."
+        },
+        {
+          "year": 1527,
+          "text": "Schleitheim Confession renounces the sword.",
+          "eventId": "schleitheim-confession-1527"
+        },
+        {
+          "year": 1530,
+          "text": "Augsburg Confession XVI affirms just wars and condemns the Anabaptists.",
+          "eventId": "augsburg-confession-1530"
+        },
+        {
+          "year": 1625,
+          "text": "Grotius’ On the Law of War and Peace."
+        },
+        {
+          "year": 1661,
+          "text": "Quaker Peace Testimony."
+        },
+        {
+          "year": 1983,
+          "text": "US Catholic bishops’ The Challenge of Peace on nuclear deterrence."
+        },
+        {
+          "year": 2020,
+          "text": "Pope Francis’ Fratelli Tutti questions whether modern war can be just."
+        }
+      ],
+      "resolution": {
+        "kind": "open",
+        "text": "Unresolved. Just-war teaching is the official or majority position of Catholic, Orthodox (in practice), Lutheran, Reformed, Anglican and most evangelical churches; the historic peace churches and growing numbers of Christians in other traditions hold to pacifism or principled nonviolence."
+      },
+      "consequences": [
+        "Shaped Christian participation in armies, states and international law.",
+        "Produced conscientious objection and peace churches.",
+        "Continues in debates over nuclear weapons, drones and humanitarian intervention."
+      ],
+      "sources": [
+        "bainton-attitudes-war",
+        "johnson-just-war-tradition",
+        "yoder-politics-of-jesus",
+        "stayer-anabaptists-sword"
+      ]
+    },
+    {
+      "id": "scripture-and-slavery",
+      "question": "Does Scripture sanction slavery?",
+      "title": "The slavery debates and abolition",
+      "summary": "Christians for centuries tolerated and often defended slavery; from the late 18th century Quakers, evangelicals, Methodists and Black Christians led the movement to abolish it, while Southern theologians defended it from Scripture. The debate tore American churches apart and remains a test case for biblical interpretation.",
+      "doctrineIds": [
+        "ethics-church-state",
+        "scripture-authority"
+      ],
+      "sides": [
+        {
+          "name": "Abolitionist",
+          "positionId": "abolitionism",
+          "steelman": "God made of one blood all nations; every person bears his image. Scripture condemns manstealing with death, and the gospel declares that in Christ there is neither bond nor free. The regulations of ancient servitude no more endorse American chattel slavery than the laws on divorce endorse divorce. We cannot claim to love our neighbour while owning him.",
+          "arguments": [
+            "Image of God",
+            "Exodus 21:16; 1 Timothy 1:10",
+            "Golden rule",
+            "Galatians 3:28; Philemon"
+          ],
+          "counterArguments": [
+            "(Historically raised) explicit regulation of slavery in Scripture"
+          ],
+          "keyTexts": [
+            "Genesis 1:27",
+            "Exodus 21:16",
+            "Acts 17:26",
+            "Galatians 3:28"
+          ],
+          "quoteIds": [
+            "douglass-christianity-of-christ",
+            "las-casas-destruction-indies"
+          ]
+        },
+        {
+          "name": "Pro-slavery (historical, now repudiated)",
+          "positionId": "pro-slavery-theology",
+          "steelman": "(Reconstructed historically, not endorsed.) Its defenders claimed that the patriarchs held slaves, Moses regulated slavery, Jesus never condemned it and Paul told slaves to obey, so to call slaveholding sin was to correct God’s Word by human sentiment. Virtually all churches now regard this argument as a grave misuse of Scripture.",
+          "arguments": [
+            "Patriarchal and Mosaic slavery",
+            "Household codes",
+            "Claimed silence of Jesus"
+          ],
+          "counterArguments": [
+            "Manstealing condemned",
+            "Race-based chattel slavery unlike Hebrew servitude",
+            "Curse of Ham a misreading"
+          ],
+          "keyTexts": [
+            "Leviticus 25:44–46",
+            "Ephesians 6:5",
+            "Philemon"
+          ],
+          "quoteIds": [
+            "stringfellow-slavery-sanctioned"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 379,
+          "text": "Gregory of Nyssa condemns slaveholding in his Fourth Homily on Ecclesiastes."
+        },
+        {
+          "year": 1452,
+          "text": "Dum Diversas authorises Portuguese enslavement of \"Saracens and pagans\"."
+        },
+        {
+          "year": 1550,
+          "text": "Valladolid debate on the rights of indigenous Americans."
+        },
+        {
+          "year": 1688,
+          "text": "Germantown Quaker Protest against slavery."
+        },
+        {
+          "year": 1774,
+          "text": "John Wesley’s Thoughts upon Slavery."
+        },
+        {
+          "year": 1787,
+          "text": "Society for Effecting the Abolition of the Slave Trade founded in London."
+        },
+        {
+          "year": 1807,
+          "text": "Britain abolishes the slave trade.",
+          "eventId": "abolition-slave-trade-1807"
+        },
+        {
+          "year": 1839,
+          "text": "Gregory XVI condemns the slave trade (In Supremo Apostolatus)."
+        },
+        {
+          "year": 1845,
+          "text": "Southern Baptist Convention founded after the slavery split; Douglass’ Narrative published."
+        },
+        {
+          "year": 1865,
+          "text": "Thirteenth Amendment abolishes slavery in the United States."
+        },
+        {
+          "year": 1888,
+          "text": "Brazil abolishes slavery (Lei Áurea), the last in the Americas."
+        },
+        {
+          "year": 1995,
+          "text": "Southern Baptist Convention resolution repents of its defence of slavery and racism."
+        }
+      ],
+      "resolution": {
+        "kind": "mixed",
+        "text": "Settled morally: all major churches now condemn slavery as sin and many have formally repented of past complicity. Resolved politically by abolition laws and, in the US, a civil war. Its legacies (racism, segregated churches, hermeneutical debates) remain contested."
+      },
+      "consequences": [
+        "Split major American denominations and contributed to the Civil War.",
+        "Gave rise to independent Black churches (AME, AME Zion, National Baptist Convention).",
+        "Became a paradigm case in debates about biblical interpretation and moral development."
+      ],
+      "sources": [
+        "noll-civil-war-crisis",
+        "davis-problem-slavery",
+        "noll-turning-points"
+      ]
+    },
+    {
+      "id": "church-and-state",
+      "question": "Should the Church be allied with, separate from, or prophetic toward the state?",
+      "title": "Church and state: Christendom, two kingdoms, separation and resistance",
+      "summary": "Since Constantine, Christians have debated whether a Christian state should support the true faith, how spiritual and temporal powers relate, whether the Church should withdraw from coercive politics, and when it must resist. Modern debates over Christian nationalism, liberation and religious liberty continue the argument.",
+      "doctrineIds": [
+        "ethics-church-state"
+      ],
+      "sides": [
+        {
+          "name": "Christendom / establishment",
+          "positionId": "constantinian-synthesis",
+          "steelman": "Christ is Lord of nations as well as souls. A Christian ruler should protect the Church, honour God’s law and nurture a Christian people, while the Church sanctifies and counsels rulers. This partnership gave the world Byzantium, Ethiopia and the medieval West.",
+          "arguments": [
+            "Kings as nursing fathers (Isa 49:23)",
+            "Public acknowledgement of Christ"
+          ],
+          "counterArguments": [
+            "Coercion and persecution",
+            "Dilution of discipleship"
+          ],
+          "keyTexts": [
+            "Isaiah 49:23",
+            "Psalm 2:10–12"
+          ],
+          "quoteIds": [
+            "eusebius-conquer-by-this",
+            "gelasius-two-there-are"
+          ]
+        },
+        {
+          "name": "Two kingdoms",
+          "positionId": "two-kingdoms",
+          "steelman": "God rules the world with two hands. The gospel creates faith and cannot be forced; the sword restrains evil and cannot save. Keep them distinct, and Christians can serve faithfully as citizens and officials without confusing the state with the Church.",
+          "arguments": [
+            "Render to Caesar and to God",
+            "Vocation in the world"
+          ],
+          "counterArguments": [
+            "Political quietism"
+          ],
+          "keyTexts": [
+            "Matthew 22:21",
+            "Romans 13"
+          ],
+          "quoteIds": [
+            "luther-two-governments",
+            "augustine-two-loves-two-cities"
+          ]
+        },
+        {
+          "name": "Separation and witness (Anabaptist / free church)",
+          "positionId": "anabaptist-separation",
+          "steelman": "The Church is a voluntary fellowship that cannot be created by law. Christendom made persecutors of Christians. Let the Church be the Church: free from the state, refusing its sword, and witnessing to Christ’s kingdom by its life.",
+          "arguments": [
+            "Voluntary faith",
+            "Religious liberty",
+            "Sermon on the Mount"
+          ],
+          "counterArguments": [
+            "Withdrawal from responsibility"
+          ],
+          "keyTexts": [
+            "John 18:36",
+            "Philippians 3:20"
+          ],
+          "quoteIds": [
+            "schleitheim-sword-outside-perfection"
+          ]
+        },
+        {
+          "name": "Prophetic resistance and liberation",
+          "positionId": "liberation-theology",
+          "steelman": "When the state becomes an idol or an oppressor, the Church must say \"we ought to obey God rather than men\". At Barmen, in Birmingham, in San Salvador and Soweto, Christians confessed Christ’s lordship against racial, national and economic idols and stood with the oppressed.",
+          "arguments": [
+            "Acts 5:29",
+            "Prophets against injustice",
+            "Option for the poor"
+          ],
+          "counterArguments": [
+            "Politicisation of the gospel"
+          ],
+          "keyTexts": [
+            "Acts 5:29",
+            "Amos 5:24",
+            "Luke 4:18"
+          ],
+          "quoteIds": [
+            "barmen-one-word-of-god",
+            "king-unjust-law",
+            "gutierrez-preferential-option"
+          ]
+        },
+        {
+          "name": "Christian nationalism",
+          "positionId": "christian-nationalism-debates",
+          "steelman": "(As its advocates put it.) Every nation has a public faith; ours should be Christian. Christians should shape laws and culture in line with God’s will and the nation’s Christian heritage rather than surrender the public square to secularism.",
+          "arguments": [
+            "Christian heritage",
+            "No neutral public square"
+          ],
+          "counterArguments": [
+            "Confuses nation and Church",
+            "History of exclusion and violence"
+          ],
+          "keyTexts": [
+            "Psalm 33:12",
+            "Matthew 28:19"
+          ],
+          "quoteIds": []
+        }
+      ],
+      "timeline": [
+        {
+          "year": 313,
+          "text": "Edict of Milan ends persecution.",
+          "eventId": "edict-of-milan-313"
+        },
+        {
+          "year": 380,
+          "text": "Edict of Thessalonica makes Nicene Christianity the state religion."
+        },
+        {
+          "year": 494,
+          "text": "Gelasius’ \"two powers\" letter."
+        },
+        {
+          "year": 800,
+          "text": "Coronation of Charlemagne.",
+          "eventId": "coronation-of-charlemagne-800"
+        },
+        {
+          "year": 1302,
+          "text": "Boniface VIII’s Unam Sanctam asserts papal supremacy over temporal power."
+        },
+        {
+          "year": 1523,
+          "text": "Luther’s Temporal Authority."
+        },
+        {
+          "year": 1527,
+          "text": "Schleitheim Confession.",
+          "eventId": "schleitheim-confession-1527"
+        },
+        {
+          "year": 1555,
+          "text": "Peace of Augsburg: cuius regio, eius religio.",
+          "eventId": "peace-of-augsburg-1555"
+        },
+        {
+          "year": 1648,
+          "text": "Peace of Westphalia.",
+          "eventId": "peace-of-westphalia-1648"
+        },
+        {
+          "year": 1791,
+          "text": "US First Amendment forbids an established church."
+        },
+        {
+          "year": 1934,
+          "text": "Barmen Declaration.",
+          "eventId": "barmen-declaration-1934"
+        },
+        {
+          "year": 1965,
+          "text": "Vatican II’s Dignitatis Humanae affirms religious liberty.",
+          "eventId": "second-vatican-council-1962"
+        },
+        {
+          "year": 1968,
+          "text": "Medellín conference.",
+          "eventId": "medellin-conference-1968"
+        },
+        {
+          "year": 2022,
+          "text": "Orthodox theologians’ Declaration on the \"Russian World\" teaching."
+        }
+      ],
+      "resolution": {
+        "kind": "open",
+        "text": "Most churches now accept religious liberty and some form of church–state distinction (Catholic Church since Vatican II); established churches persist in some countries; debates over Christian nationalism, religious liberty and prophetic engagement remain intense worldwide."
+      },
+      "consequences": [
+        "Shaped the political history of Europe, the Americas, Byzantium, Russia and Ethiopia.",
+        "Produced modern religious liberty and separation of church and state.",
+        "Continues to shape elections, wars and human-rights struggles."
+      ],
+      "sources": [
+        "yoder-politics-of-jesus",
+        "scholder-churches-third-reich",
+        "whitehead-perry-taking-america",
+        "macculloch-christianity",
+        "gutierrez-theology-liberation-src"
+      ]
+    }
+  ],
+  "people": [
+    {
+      "id": "gelasius-i",
+      "name": "Pope Gelasius I",
+      "died": 496,
+      "circa": false,
+      "roles": [
+        "bishop of Rome (492–496)"
+      ],
+      "traditionIds": [
+        "catholic",
+        "early-church"
+      ],
+      "regions": [
+        "italy",
+        "north-africa"
+      ],
+      "summary": "Bishop of Rome of North African descent whose letter Famuli vestrae pietatis (494) to Emperor Anastasius I distinguished the \"sacred authority of the priests\" from the \"royal power\" and claimed the greater weight for the former in spiritual matters. The \"Gelasian dyarchy\" became the charter text of medieval Western church–state theory.",
+      "keyIdeas": [
+        "Two powers (auctoritas and potestas)",
+        "Independence of the Church from imperial control",
+        "Opposition to the Acacian schism"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Rome",
+        "lat": 41.9029,
+        "lng": 12.4534
+      },
+      "sources": [
+        "odcc",
+        "pelikan-christian-tradition"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "michael-sattler",
+      "name": "Michael Sattler",
+      "born": 1490,
+      "died": 1527,
+      "circa": true,
+      "roles": [
+        "former Benedictine prior",
+        "Anabaptist leader",
+        "martyr"
+      ],
+      "traditionIds": [
+        "anabaptist"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Former Benedictine prior of St Peter’s in the Black Forest who joined the Swiss Brethren and presided over the Schleitheim gathering (24 February 1527), whose \"Brotherly Union\" set out baptism of believers, the ban, separation from the world, nonresistance and refusal of oaths. He was tortured and burned at Rottenburg am Neckar in May 1527; his wife Margaretha was drowned.",
+      "keyIdeas": [
+        "Separation of the church from the world",
+        "Nonresistance: the sword is \"outside the perfection of Christ\"",
+        "Refusal of oaths"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Schleitheim",
+        "lat": 47.7486,
+        "lng": 8.4869
+      },
+      "sources": [
+        "stayer-anabaptists-sword",
+        "macculloch-reformation",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "frederick-douglass",
+      "name": "Frederick Douglass",
+      "born": 1818,
+      "died": 1895,
+      "circa": false,
+      "roles": [
+        "abolitionist",
+        "writer",
+        "orator",
+        "AME Zion lay preacher"
+      ],
+      "traditionIds": [
+        "methodist"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "Born into slavery in Maryland, Douglass escaped in 1838 and became the most influential African American abolitionist. His Narrative (1845) and its appendix drew a sharp line between \"the Christianity of Christ\" and \"the Christianity of this land\" that defended slavery; he later advocated for women’s suffrage and civil rights.",
+      "keyIdeas": [
+        "Slaveholding religion as a betrayal of Christ",
+        "Self-emancipation and literacy",
+        "Universal human rights"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Washington, D.C.",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "sources": [
+        "noll-civil-war-crisis",
+        "davis-problem-slavery"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "thornton-stringfellow",
+      "name": "Thornton Stringfellow",
+      "born": 1788,
+      "died": 1869,
+      "circa": false,
+      "roles": [
+        "Baptist minister",
+        "slaveholder",
+        "pro-slavery writer"
+      ],
+      "traditionIds": [
+        "baptist"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "Virginia Baptist pastor and slaveholder whose A Brief Examination of Scripture Testimony on the Institution of Slavery (1841) became one of the most widely circulated biblical defences of American slavery. His arguments, from the patriarchs, the Mosaic law, Jesus’ silence and the apostolic household codes, are now universally rejected by the churches, including his own Southern Baptist tradition, which apologised for its defence of slavery in 1995.",
+      "keyIdeas": [
+        "Slavery as sanctioned by God in both Testaments (historically argued, now repudiated)"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Culpeper County, Virginia",
+        "lat": 38.4735,
+        "lng": -77.9966
+      },
+      "sources": [
+        "noll-civil-war-crisis",
+        "davis-problem-slavery"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "martin-luther-king-jr",
+      "name": "Martin Luther King Jr.",
+      "born": 1929,
+      "died": 1968,
+      "circa": false,
+      "roles": [
+        "Baptist pastor",
+        "civil rights leader",
+        "Nobel Peace laureate"
+      ],
+      "traditionIds": [
+        "baptist"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "African American Baptist minister who led the US civil rights movement from the Montgomery bus boycott (1955) to his assassination in Memphis (1968), combining Black church preaching, the Social Gospel, personalist theology and Gandhian nonviolence. His Letter from Birmingham Jail (1963) defended civil disobedience against unjust laws, appealing to Augustine and Aquinas.",
+      "keyIdeas": [
+        "Nonviolent direct action",
+        "Unjust laws are no laws (after Augustine and Aquinas)",
+        "The beloved community"
+      ],
+      "influencedBy": [
+        "walter-rauschenbusch",
+        "augustine-of-hippo",
+        "thomas-aquinas"
+      ],
+      "place": {
+        "name": "Atlanta",
+        "lat": 33.749,
+        "lng": -84.388
+      },
+      "sources": [
+        "evans-social-gospel",
+        "noll-turning-points"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "works": [
+    {
+      "id": "tertullian-on-idolatry",
+      "title": "On Idolatry (De Idololatria)",
+      "authorId": "tertullian",
+      "year": 211,
+      "circa": true,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "Tertullian’s rigorist guide to avoiding complicity with idolatry in trades, festivals, offices and military service.",
+      "significance": "Classic early argument that Christians may not serve as soldiers.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/0302.htm",
+      "doctrineIds": [
+        "ethics-church-state"
+      ],
+      "sources": [
+        "anf-npnf"
+      ]
+    },
+    {
+      "id": "origen-against-celsus",
+      "title": "Against Celsus (Contra Celsum)",
+      "authorId": "origen",
+      "year": 248,
+      "circa": true,
+      "language": "Greek",
+      "genre": "apology",
+      "summary": "Eight-book reply to the pagan philosopher Celsus’ True Word.",
+      "significance": "Book 8.73–75 defends Christians’ refusal of military service: they serve the emperor by prayer.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/0416.htm",
+      "doctrineIds": [
+        "ethics-church-state"
+      ],
+      "sources": [
+        "anf-npnf"
+      ]
+    },
+    {
+      "id": "eusebius-life-of-constantine",
+      "title": "Life of Constantine",
+      "authorId": "eusebius-of-caesarea",
+      "year": 339,
+      "circa": true,
+      "language": "Greek",
+      "genre": "history",
+      "summary": "Eusebius’ panegyrical biography of Constantine, completed after the emperor’s death (337).",
+      "significance": "Source of the vision of the cross (\"Conquer by this\") and of the Christian imperial ideology of the Byzantine world.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/2502.htm",
+      "doctrineIds": [
+        "ethics-church-state"
+      ],
+      "sources": [
+        "anf-npnf"
+      ]
+    },
+    {
+      "id": "augustine-against-faustus",
+      "title": "Reply to Faustus the Manichaean (Contra Faustum)",
+      "authorId": "augustine-of-hippo",
+      "year": 400,
+      "circa": true,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "Thirty-three books answering the Manichaean bishop Faustus’ attacks on the Old Testament.",
+      "significance": "Book 22.74–79 contains Augustine’s key reflections on the morality of war.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/1406.htm",
+      "doctrineIds": [
+        "ethics-church-state"
+      ],
+      "sources": [
+        "anf-npnf"
+      ]
+    },
+    {
+      "id": "gelasius-famuli-vestrae",
+      "title": "Letter to Emperor Anastasius (Famuli vestrae pietatis)",
+      "authorId": "gelasius-i",
+      "year": 494,
+      "circa": false,
+      "language": "Latin",
+      "genre": "letter",
+      "summary": "Gelasius I’s letter distinguishing priestly authority from royal power.",
+      "significance": "Foundational text of the medieval \"two swords\" tradition.",
+      "doctrineIds": [
+        "ethics-church-state"
+      ],
+      "sources": [
+        "odcc"
+      ]
+    },
+    {
+      "id": "aquinas-summa-theologiae",
+      "title": "Summa Theologiae",
+      "authorId": "thomas-aquinas",
+      "year": 1274,
+      "circa": true,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "Thomas Aquinas’ unfinished systematic theology (1265–1274).",
+      "significance": "II-II q.40 sets out the classic conditions of a just war; III q.73–83 treats the Eucharist and transubstantiation.",
+      "fullTextUrl": "https://www.newadvent.org/summa/",
+      "doctrineIds": [
+        "ethics-church-state",
+        "church-sacraments",
+        "salvation"
+      ],
+      "sources": [
+        "new-advent"
+      ]
+    },
+    {
+      "id": "luther-temporal-authority",
+      "title": "Temporal Authority: To What Extent It Should Be Obeyed",
+      "authorId": "martin-luther",
+      "year": 1523,
+      "circa": false,
+      "language": "German",
+      "genre": "treatise",
+      "summary": "Luther’s treatise distinguishing God’s two governments, spiritual and temporal.",
+      "significance": "Classic statement of the Lutheran two-kingdoms teaching.",
+      "doctrineIds": [
+        "ethics-church-state"
+      ],
+      "sources": [
+        "macculloch-reformation"
+      ]
+    },
+    {
+      "id": "schleitheim-confession",
+      "title": "Schleitheim Confession (Brotherly Union)",
+      "authorId": "michael-sattler",
+      "year": 1527,
+      "circa": false,
+      "language": "German",
+      "genre": "confession",
+      "summary": "Seven articles agreed by Swiss Brethren at Schleitheim under Michael Sattler: baptism, the ban, the breaking of bread, separation, pastors, the sword and the oath.",
+      "significance": "Defining statement of separatist, nonresistant Anabaptism.",
+      "doctrineIds": [
+        "ethics-church-state",
+        "baptism",
+        "church-sacraments"
+      ],
+      "sources": [
+        "stayer-anabaptists-sword",
+        "schaff-creeds"
+      ]
+    },
+    {
+      "id": "quaker-peace-testimony",
+      "title": "A Declaration from the Harmless and Innocent People of God, called Quakers",
+      "authorId": "george-fox",
+      "year": 1661,
+      "circa": false,
+      "language": "English",
+      "genre": "testimony",
+      "summary": "Declaration presented to Charles II by George Fox and others after the Fifth Monarchist rising.",
+      "significance": "Founding statement of the Quaker Peace Testimony.",
+      "doctrineIds": [
+        "ethics-church-state"
+      ],
+      "sources": [
+        "bainton-attitudes-war"
+      ]
+    },
+    {
+      "id": "douglass-narrative",
+      "title": "Narrative of the Life of Frederick Douglass, an American Slave",
+      "authorId": "frederick-douglass",
+      "year": 1845,
+      "circa": false,
+      "language": "English",
+      "genre": "testimony",
+      "summary": "Douglass’ autobiography of his life in slavery and escape.",
+      "significance": "Its appendix distinguishes \"the Christianity of Christ\" from slaveholding religion.",
+      "fullTextUrl": "https://www.gutenberg.org/ebooks/23",
+      "doctrineIds": [
+        "ethics-church-state"
+      ],
+      "sources": [
+        "davis-problem-slavery"
+      ]
+    },
+    {
+      "id": "stringfellow-brief-examination",
+      "title": "A Brief Examination of Scripture Testimony on the Institution of Slavery",
+      "authorId": "thornton-stringfellow",
+      "year": 1841,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "Pro-slavery biblical tract arguing that slavery was sanctioned in the patriarchal age, by the Mosaic law and by Christ and the apostles.",
+      "significance": "Widely circulated example of antebellum pro-slavery exegesis, now universally repudiated.",
+      "doctrineIds": [
+        "ethics-church-state"
+      ],
+      "sources": [
+        "noll-civil-war-crisis"
+      ]
+    },
+    {
+      "id": "rauschenbusch-christianity-social-crisis",
+      "title": "Christianity and the Social Crisis",
+      "authorId": "walter-rauschenbusch",
+      "year": 1907,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "Rauschenbusch’s history of the prophets, Jesus and the Church as a social movement, with a call to reform industrial capitalism.",
+      "significance": "Bestselling manifesto of the Social Gospel.",
+      "doctrineIds": [
+        "ethics-church-state",
+        "modern-movements"
+      ],
+      "sources": [
+        "evans-social-gospel"
+      ]
+    },
+    {
+      "id": "rauschenbusch-theology-social-gospel",
+      "title": "A Theology for the Social Gospel",
+      "authorId": "walter-rauschenbusch",
+      "year": 1917,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "Rauschenbusch’s systematic theology built around the kingdom of God and \"super-personal forces of evil\".",
+      "significance": "Theological summa of the Social Gospel, later admired by Martin Luther King Jr.",
+      "fullTextUrl": "https://archive.org/details/theologyforsocia00raus",
+      "doctrineIds": [
+        "ethics-church-state",
+        "modern-movements",
+        "salvation"
+      ],
+      "sources": [
+        "evans-social-gospel"
+      ]
+    },
+    {
+      "id": "barmen-declaration",
+      "title": "Theological Declaration of Barmen",
+      "authorId": "karl-barth",
+      "year": 1934,
+      "circa": false,
+      "language": "German",
+      "genre": "confession",
+      "summary": "Six theses adopted by the Confessing Church synod at Barmen (29–31 May 1934), largely drafted by Karl Barth.",
+      "significance": "Rejected the subordination of the Church to the Nazi state and the \"German Christians\"; a model for later confessions of resistance (e.g. Belhar 1986).",
+      "doctrineIds": [
+        "ethics-church-state",
+        "modern-movements"
+      ],
+      "sources": [
+        "scholder-churches-third-reich"
+      ]
+    },
+    {
+      "id": "gutierrez-theology-of-liberation",
+      "title": "A Theology of Liberation (Teología de la liberación: Perspectivas)",
+      "authorId": "gustavo-gutierrez",
+      "year": 1971,
+      "circa": false,
+      "language": "Spanish",
+      "genre": "treatise",
+      "summary": "Gutiérrez’s foundational work defining theology as critical reflection on Christian praxis in the light of the Word, from the standpoint of the poor.",
+      "significance": "Founding text of Latin American liberation theology.",
+      "doctrineIds": [
+        "ethics-church-state",
+        "salvation",
+        "modern-movements"
+      ],
+      "sources": [
+        "gutierrez-theology-liberation-src"
+      ]
+    },
+    {
+      "id": "king-letter-birmingham-jail",
+      "title": "Letter from Birmingham Jail",
+      "authorId": "martin-luther-king-jr",
+      "year": 1963,
+      "circa": false,
+      "language": "English",
+      "genre": "letter",
+      "summary": "King’s open letter (16 April 1963) answering white clergy who called his campaign \"unwise and untimely\".",
+      "significance": "Classic Christian defence of nonviolent civil disobedience against unjust laws.",
+      "doctrineIds": [
+        "ethics-church-state"
+      ],
+      "sources": [
+        "noll-turning-points"
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "id": "tertullian-unbelted-every-soldier",
+      "text": "But how will a Christian man war, nay, how will he serve even in peace, without a sword, which the Lord has taken away? ... the Lord afterward, in disarming Peter, unbelted every soldier.",
+      "kind": "quotation",
+      "personId": "tertullian",
+      "citation": "Tertullian, On Idolatry 19 (ANF vol. 3)",
+      "workId": "tertullian-on-idolatry",
+      "year": 211,
+      "topics": [
+        "pacifism",
+        "military service"
+      ],
+      "doctrineIds": [
+        "ethics-church-state"
+      ]
+    },
+    {
+      "id": "origen-army-of-piety",
+      "text": "And none fight better for the king than we do. We do not indeed fight under him, although he require it; but we fight on his behalf, forming a special army, an army of piety, by offering our prayers to God.",
+      "kind": "quotation",
+      "personId": "origen",
+      "citation": "Origen, Against Celsus 8.73 (ANF vol. 4)",
+      "workId": "origen-against-celsus",
+      "year": 248,
+      "topics": [
+        "pacifism",
+        "prayer",
+        "empire"
+      ],
+      "doctrineIds": [
+        "ethics-church-state"
+      ]
+    },
+    {
+      "id": "eusebius-conquer-by-this",
+      "text": "He saw with his own eyes the trophy of a cross of light in the heavens, above the sun, and bearing the inscription, Conquer by this.",
+      "kind": "quotation",
+      "personId": "eusebius-of-caesarea",
+      "citation": "Eusebius, Life of Constantine 1.28 (NPNF 2nd ser. vol. 1)",
+      "workId": "eusebius-life-of-constantine",
+      "year": 339,
+      "topics": [
+        "constantine",
+        "church and state"
+      ],
+      "doctrineIds": [
+        "ethics-church-state"
+      ]
+    },
+    {
+      "id": "augustine-real-evils-in-war",
+      "text": "The real evils in war are love of violence, revengeful cruelty, fierce and implacable enmity, wild resistance, and the lust of power, and such like.",
+      "kind": "quotation",
+      "personId": "augustine-of-hippo",
+      "citation": "Augustine, Reply to Faustus the Manichaean 22.74 (NPNF 1st ser. vol. 4)",
+      "workId": "augustine-against-faustus",
+      "year": 400,
+      "topics": [
+        "just war",
+        "intention"
+      ],
+      "doctrineIds": [
+        "ethics-church-state"
+      ]
+    },
+    {
+      "id": "augustine-two-loves-two-cities",
+      "text": "Accordingly, two cities have been formed by two loves: the earthly by the love of self, even to the contempt of God; the heavenly by the love of God, even to the contempt of self.",
+      "kind": "quotation",
+      "personId": "augustine-of-hippo",
+      "citation": "Augustine, City of God 14.28 (NPNF 1st ser. vol. 2, tr. Dods)",
+      "workId": "augustine-city-of-god",
+      "year": 420,
+      "topics": [
+        "two cities",
+        "church and state"
+      ],
+      "doctrineIds": [
+        "ethics-church-state",
+        "eschatology"
+      ]
+    },
+    {
+      "id": "gelasius-two-there-are",
+      "text": "Two there are, august emperor, by which this world is chiefly ruled, namely, the sacred authority of the priests and the royal power.",
+      "kind": "quotation",
+      "personId": "gelasius-i",
+      "citation": "Gelasius I, Letter to Emperor Anastasius (Famuli vestrae pietatis, 494), tr. J. H. Robinson, Readings in European History (1905)",
+      "workId": "gelasius-famuli-vestrae",
+      "year": 494,
+      "topics": [
+        "two powers",
+        "church and state"
+      ],
+      "doctrineIds": [
+        "ethics-church-state"
+      ]
+    },
+    {
+      "id": "aquinas-three-things-just-war",
+      "text": "In order for a war to be just, three things are necessary. First, the authority of the sovereign by whose command the war is to be waged. ... Secondly, a just cause is required ... Thirdly, it is necessary that the belligerents should have a rightful intention, so that they intend the advancement of good, or the avoidance of evil.",
+      "kind": "quotation",
+      "personId": "thomas-aquinas",
+      "citation": "Thomas Aquinas, Summa Theologiae II-II q.40 a.1 (tr. Fathers of the English Dominican Province)",
+      "workId": "aquinas-summa-theologiae",
+      "year": 1272,
+      "topics": [
+        "just war",
+        "criteria"
+      ],
+      "doctrineIds": [
+        "ethics-church-state"
+      ]
+    },
+    {
+      "id": "luther-two-governments",
+      "text": "Luther argued that God has ordained two governments: the spiritual, by which the Holy Spirit makes Christians righteous through the Word, and the temporal, which restrains the wicked with the sword. True Christians need no sword among themselves, but because the world is full of the unrighteous, they willingly serve and submit to the sword for the sake of their neighbours.",
+      "kind": "paraphrase",
+      "personId": "martin-luther",
+      "citation": "Paraphrase of Martin Luther, Temporal Authority: To What Extent It Should Be Obeyed (1523), part 1",
+      "workId": "luther-temporal-authority",
+      "year": 1523,
+      "topics": [
+        "two kingdoms",
+        "sword"
+      ],
+      "doctrineIds": [
+        "ethics-church-state"
+      ]
+    },
+    {
+      "id": "schleitheim-sword-outside-perfection",
+      "text": "The Schleitheim brethren agreed that the sword is ordained by God but \"outside the perfection of Christ\": magistrates rightly use it to punish the wicked, but within the church only the ban is used, and Christians should not serve as magistrates, since Christ refused to be made king and his followers are citizens of heaven.",
+      "kind": "paraphrase",
+      "personId": "michael-sattler",
+      "citation": "Paraphrase of the Schleitheim Confession (24 February 1527), Article 6",
+      "workId": "schleitheim-confession",
+      "year": 1527,
+      "topics": [
+        "nonresistance",
+        "separation",
+        "sword"
+      ],
+      "doctrineIds": [
+        "ethics-church-state"
+      ]
+    },
+    {
+      "id": "augsburg-just-wars",
+      "text": "Of Civil Affairs they teach that lawful civil ordinances are good works of God, and that it is right for Christians to bear civil office, to sit as judges, to judge matters by the Imperial and other existing laws, to award just punishments, to engage in just wars, to serve as soldiers ... They condemn the Anabaptists who forbid these civil offices to Christians.",
+      "kind": "quotation",
+      "personId": "philip-melanchthon",
+      "citation": "Augsburg Confession (1530), Article XVI (tr. Triglot Concordia)",
+      "workId": "augsburg-confession",
+      "year": 1530,
+      "topics": [
+        "just war",
+        "civil government",
+        "anabaptists"
+      ],
+      "doctrineIds": [
+        "ethics-church-state"
+      ]
+    },
+    {
+      "id": "quaker-deny-outward-wars",
+      "text": "We utterly deny all outward wars and strife and fightings with outward weapons, for any end or under any pretense whatsoever; and this is our testimony to the whole world.",
+      "kind": "quotation",
+      "personId": "george-fox",
+      "citation": "A Declaration from the Harmless and Innocent People of God, called Quakers (presented to Charles II, 1660/61), signed by George Fox and others",
+      "workId": "quaker-peace-testimony",
+      "year": 1661,
+      "topics": [
+        "pacifism",
+        "peace testimony"
+      ],
+      "doctrineIds": [
+        "ethics-church-state"
+      ]
+    },
+    {
+      "id": "las-casas-destruction-indies",
+      "text": "Las Casas, a former encomendero turned Dominican friar, testified that the Spanish conquerors had killed and enslaved the peoples of the Indies with unspeakable cruelty for the sake of gold, and argued that the indigenous peoples were rational, free human beings who could be brought to Christ only by peaceful persuasion, never by war.",
+      "kind": "paraphrase",
+      "personId": "bartolome-de-las-casas",
+      "citation": "Paraphrase of Bartolomé de las Casas, A Short Account of the Destruction of the Indies (written 1542, printed 1552) and The Only Way (De unico vocationis modo)",
+      "year": 1552,
+      "topics": [
+        "conquest",
+        "human rights",
+        "mission"
+      ],
+      "doctrineIds": [
+        "ethics-church-state"
+      ]
+    },
+    {
+      "id": "stringfellow-slavery-sanctioned",
+      "text": "Stringfellow argued that slavery had been sanctioned by God in the patriarchal age, incorporated into the Mosaic law, left uncondemned by Jesus and regulated rather than abolished by the apostles, so that abolitionism contradicted Scripture. These arguments are recorded here as historical evidence of how Scripture was used to defend slavery; they have since been repudiated by virtually all Christian traditions.",
+      "kind": "paraphrase",
+      "personId": "thornton-stringfellow",
+      "citation": "Paraphrase of Thornton Stringfellow, A Brief Examination of Scripture Testimony on the Institution of Slavery (1841)",
+      "workId": "stringfellow-brief-examination",
+      "year": 1841,
+      "topics": [
+        "slavery",
+        "pro-slavery theology",
+        "hermeneutics"
+      ],
+      "doctrineIds": [
+        "ethics-church-state"
+      ]
+    },
+    {
+      "id": "douglass-christianity-of-christ",
+      "text": "I love the pure, peaceable, and impartial Christianity of Christ; I therefore hate the corrupt, slaveholding, women-whipping, cradle-plundering, partial and hypocritical Christianity of this land.",
+      "kind": "quotation",
+      "personId": "frederick-douglass",
+      "citation": "Frederick Douglass, Narrative of the Life of Frederick Douglass (Boston, 1845), Appendix",
+      "workId": "douglass-narrative",
+      "year": 1845,
+      "topics": [
+        "slavery",
+        "abolition",
+        "hypocrisy"
+      ],
+      "doctrineIds": [
+        "ethics-church-state"
+      ]
+    },
+    {
+      "id": "rauschenbusch-social-gospel-theology",
+      "text": "We have a social gospel. We need a systematic theology large enough to match it and vital enough to back it.",
+      "kind": "quotation",
+      "personId": "walter-rauschenbusch",
+      "citation": "Walter Rauschenbusch, A Theology for the Social Gospel (New York: Macmillan, 1917), ch. 1",
+      "workId": "rauschenbusch-theology-social-gospel",
+      "year": 1917,
+      "topics": [
+        "social gospel",
+        "kingdom of God"
+      ],
+      "doctrineIds": [
+        "ethics-church-state",
+        "modern-movements"
+      ]
+    },
+    {
+      "id": "rauschenbusch-social-crisis-para",
+      "text": "Rauschenbusch argued that the essential purpose of Christianity is to transform human society into the kingdom of God by regenerating all human relations, and that the Church had lost this prophetic social vision of the Hebrew prophets and Jesus.",
+      "kind": "paraphrase",
+      "personId": "walter-rauschenbusch",
+      "citation": "Paraphrase of Walter Rauschenbusch, Christianity and the Social Crisis (1907), Introduction and ch. 7",
+      "workId": "rauschenbusch-christianity-social-crisis",
+      "year": 1907,
+      "topics": [
+        "social gospel"
+      ],
+      "doctrineIds": [
+        "ethics-church-state"
+      ]
+    },
+    {
+      "id": "barmen-one-word-of-god",
+      "text": "The first Barmen thesis confesses Jesus Christ, as attested in Scripture, as the one Word of God whom the Church must hear, trust and obey in life and death, and rejects the false teaching that the Church could recognise other events, powers, figures or truths besides this one Word as sources of its proclamation.",
+      "kind": "paraphrase",
+      "personId": "karl-barth",
+      "citation": "Paraphrase of the Theological Declaration of Barmen (31 May 1934), Thesis 1",
+      "workId": "barmen-declaration",
+      "year": 1934,
+      "topics": [
+        "confessing church",
+        "resistance",
+        "lordship of Christ"
+      ],
+      "doctrineIds": [
+        "ethics-church-state",
+        "modern-movements"
+      ]
+    },
+    {
+      "id": "gutierrez-preferential-option",
+      "text": "Gutiérrez argued that theology is a critical reflection on Christian practice in the light of God’s Word, and that because God’s love is universal yet shows preference for the poor and oppressed, the Church must commit itself to their liberation from unjust social structures, seen as part of the one process of salvation.",
+      "kind": "paraphrase",
+      "personId": "gustavo-gutierrez",
+      "citation": "Paraphrase of Gustavo Gutiérrez, A Theology of Liberation (1971), chs. 1 and 9",
+      "workId": "gutierrez-theology-of-liberation",
+      "year": 1971,
+      "topics": [
+        "liberation theology",
+        "option for the poor",
+        "praxis"
+      ],
+      "doctrineIds": [
+        "ethics-church-state"
+      ]
+    },
+    {
+      "id": "king-unjust-law",
+      "text": "King argued, following Augustine and Aquinas, that an unjust law is no law at all: a law out of harmony with the moral law of God degrades human personality, and one who breaks it openly, lovingly and willingly accepting the penalty shows the highest respect for law.",
+      "kind": "paraphrase",
+      "personId": "martin-luther-king-jr",
+      "citation": "Paraphrase of Martin Luther King Jr., Letter from Birmingham Jail (16 April 1963)",
+      "workId": "king-letter-birmingham-jail",
+      "year": 1963,
+      "topics": [
+        "civil disobedience",
+        "natural law",
+        "nonviolence"
+      ],
+      "doctrineIds": [
+        "ethics-church-state"
+      ]
+    }
+  ]
+}
