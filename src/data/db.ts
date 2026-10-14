@@ -1,4 +1,4 @@
-import { buildDb, eraForYear, type Db, TYPE_TO_KEY } from './build';
+import { eraForYear, type Db, TYPE_TO_KEY } from './build';
 import type { EntityType, Era, Event, Person, Position, Quote, Tradition, Work, Controversy, Experience, Doctrine } from './schema';
 
 export interface Atlas extends Db {
@@ -32,11 +32,9 @@ let pending: Promise<Atlas> | undefined;
 export function loadAtlas(): Promise<Atlas> {
   if (atlas) return Promise.resolve(atlas);
   pending ??= (async () => {
-    const loaders = import.meta.glob('/content/**/*.json', { import: 'default' });
-    const entries = await Promise.all(Object.entries(loaders).map(async ([k, load]) => [k, await load()] as const));
-    const { db, errors, warnings } = buildDb(Object.fromEntries(entries));
-    if (errors.length) console.warn(`Ecclesia Atlas: ${errors.length} content errors (run npm run validate)`, errors.slice(0, 20));
-    atlas = createAtlas(db, warnings);
+    // Content is merged and validated at build time (scripts/bundle-content.ts); the browser just loads it.
+    const db = (await import('../generated/atlas-db.json')).default as unknown as Db;
+    atlas = createAtlas(db);
     return atlas;
   })();
   return pending;

@@ -43,7 +43,8 @@ export default function Experiences() {
                   <p className="mb-3 line-clamp-3 text-sm text-ink-2">{x.account}</p>
                   <div className="flex flex-wrap gap-1">
                     <ConfidenceBadge value={x.confidence} />
-                    {x.phenomena.slice(0, 3).map((p) => <span key={p} className="chip capitalize">{p.replace(/-/g, ' ')}</span>)}
+                    {x.phenomena.slice(0, 2).map((p) => <span key={p} className="chip capitalize">{p.replace(/-/g, ' ')}</span>)}
+                    {x.story && <span className="chip !text-accent"><Icon name="book" size={12} /> Story · {Math.max(1, Math.round(x.story.split(/\s+/).length / 220))} min read</span>}
                   </div>
                 </Link>
               </motion.div>

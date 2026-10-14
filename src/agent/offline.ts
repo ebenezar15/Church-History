@@ -115,7 +115,7 @@ function aliases(a: Atlas): Alias[] {
   for (const p of a.positions) add('position', p.id, [p.name, ...p.altNames], 4);
   for (const e of a.events) add('event', e.id, [e.title], 3);
   for (const c of a.controversies) add('controversy', c.id, [c.title], 2);
-  for (const x of a.experiences) add('experience', x.id, [x.title], 2);
+  for (const x of a.experiences) add('experience', x.id, [x.title], 6); // the full story beats the shorter event entry of the same name
   for (const w of a.works) add('work', w.id, [w.title], 2);
   for (const e of a.eras) add('era', e.id, [e.name, e.short], 1);
   for (const [k, ref] of Object.entries(ALIASES)) if (a.get(ref.type, ref.id)) out.push({ text: norm(k), ref, weight: 40 + k.length }); // everyday names win ties
@@ -270,10 +270,13 @@ function describeExperience(_a: Atlas, x: Experience): string {
   const conf = { 'well-documented': 'well documented', contested: 'contested', hagiographical: 'known mainly from later devotional accounts' }[x.confidence];
   return [
     `**${link('experience', x.id, x.title)}** — ${formatSpan(x.year, x.endYear, x.circa)}, ${x.place.name} (${conf}).`,
-    x.account,
+    ...(x.story ? x.story.split(/\n\s*\n/).slice(0, 3) : [x.account]),
+    x.keyMoments.length ? `Key moments:\n${x.keyMoments.slice(0, 6).map((m) => `- **${m.date ?? formatYear(m.year)}** — ${m.text}`).join('\n')}` : '',
+    x.significance ? `Why it matters: ${x.significance}` : '',
     `How contemporaries saw it: ${x.contemporaryInterpretation}`,
     `How it is assessed today:\n${x.assessments.slice(0, 4).map((s) => `- **${s.perspective}:** ${clip(s.text, 220)}`).join('\n')}`,
-  ].join('\n\n');
+    x.story ? `[Read the full story](entity:experience/${x.id})` : '',
+  ].filter(Boolean).join('\n\n');
 }
 
 function describeWork(a: Atlas, w: Work): string {
