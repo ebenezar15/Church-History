@@ -1,0 +1,3349 @@
+{
+  "sources": [
+    {
+      "id": "soulen-god-of-israel",
+      "title": "The God of Israel and Christian Theology",
+      "kind": "secondary",
+      "author": "R. Kendall Soulen",
+      "year": 1996
+    },
+    {
+      "id": "vlach-church-replace-israel",
+      "title": "Has the Church Replaced Israel? A Theological Evaluation",
+      "kind": "secondary",
+      "author": "Michael J. Vlach",
+      "year": 2010
+    },
+    {
+      "id": "blaising-bock-progressive",
+      "title": "Progressive Dispensationalism",
+      "kind": "secondary",
+      "author": "Craig A. Blaising and Darrell L. Bock",
+      "year": 1993
+    },
+    {
+      "id": "ryrie-dispensationalism",
+      "title": "Dispensationalism (rev. ed. of Dispensationalism Today, 1965)",
+      "kind": "secondary",
+      "author": "Charles C. Ryrie",
+      "year": 1995
+    },
+    {
+      "id": "gentry-wellum-kingdom",
+      "title": "Kingdom through Covenant: A Biblical-Theological Understanding of the Covenants",
+      "kind": "secondary",
+      "author": "Peter J. Gentry and Stephen J. Wellum",
+      "year": 2012
+    },
+    {
+      "id": "wells-zaspel-nct",
+      "title": "New Covenant Theology: Description, Definition, Defense",
+      "kind": "secondary",
+      "author": "Tom Wells and Fred Zaspel",
+      "year": 2002
+    },
+    {
+      "id": "weir-federal-theology",
+      "title": "The Origins of the Federal Theology in Sixteenth-Century Reformation Thought",
+      "kind": "secondary",
+      "author": "David A. Weir",
+      "year": 1990
+    },
+    {
+      "id": "golding-covenant-theology",
+      "title": "Covenant Theology: The Key of Theology in Reformed Thought and Tradition",
+      "kind": "secondary",
+      "author": "Peter Golding",
+      "year": 2004
+    },
+    {
+      "id": "wengert-law-gospel",
+      "title": "Law and Gospel: Philip Melanchthon's Debate with John Agricola of Eisleben over Poenitentia",
+      "kind": "secondary",
+      "author": "Timothy J. Wengert",
+      "year": 1997
+    },
+    {
+      "id": "winship-making-heretics",
+      "title": "Making Heretics: Militant Protestantism and Free Grace in Massachusetts, 1636–1641",
+      "kind": "secondary",
+      "author": "Michael P. Winship",
+      "year": 2002
+    },
+    {
+      "id": "lachman-marrow",
+      "title": "The Marrow Controversy, 1718–1723: An Historical and Theological Analysis",
+      "kind": "secondary",
+      "author": "David C. Lachman",
+      "year": 1988
+    },
+    {
+      "id": "barker-godfrey-theonomy",
+      "title": "Theonomy: A Reformed Critique",
+      "kind": "secondary",
+      "author": "William S. Barker and W. Robert Godfrey (eds.)",
+      "year": 1990
+    },
+    {
+      "id": "bahnsen-theonomy",
+      "title": "Theonomy in Christian Ethics",
+      "kind": "primary",
+      "author": "Greg L. Bahnsen",
+      "year": 1977
+    },
+    {
+      "id": "carson-sabbath-lords-day",
+      "title": "From Sabbath to Lord's Day: A Biblical, Historical and Theological Investigation",
+      "kind": "secondary",
+      "author": "D. A. Carson (ed.)",
+      "year": 1982
+    },
+    {
+      "id": "bacchiocchi-sabbath-sunday",
+      "title": "From Sabbath to Sunday: A Historical Investigation of the Rise of Sunday Observance in Early Christianity",
+      "kind": "secondary",
+      "author": "Samuele Bacchiocchi",
+      "year": 1977
+    },
+    {
+      "id": "croteau-tithing",
+      "title": "Perspectives on Tithing: Four Views",
+      "kind": "secondary",
+      "author": "David A. Croteau (ed.)",
+      "year": 2011
+    },
+    {
+      "id": "kinzer-postmissionary",
+      "title": "Postmissionary Messianic Judaism: Redefining Christian Engagement with the Jewish People",
+      "kind": "secondary",
+      "author": "Mark S. Kinzer",
+      "year": 2005
+    },
+    {
+      "id": "cohn-sherbok-messianic",
+      "title": "Messianic Judaism",
+      "kind": "secondary",
+      "author": "Dan Cohn-Sherbok",
+      "year": 2000
+    },
+    {
+      "id": "nirenberg-anti-judaism",
+      "title": "Anti-Judaism: The Western Tradition",
+      "kind": "secondary",
+      "author": "David Nirenberg",
+      "year": 2013
+    },
+    {
+      "id": "gifts-calling-2015",
+      "title": "\"The Gifts and the Calling of God Are Irrevocable\" (Rom 11:29): Reflections on Theological Questions Pertaining to Catholic–Jewish Relations",
+      "kind": "primary",
+      "author": "Commission of the Holy See for Religious Relations with the Jews",
+      "year": 2015,
+      "url": "https://www.vatican.va/roman_curia/pontifical_councils/chrstuni/relations-jews-docs/rc_pc_chrstuni_doc_20151210_ebraismo-nostra-aetate_en.html"
+    },
+    {
+      "id": "nostra-aetate-1965-text",
+      "title": "Nostra Aetate: Declaration on the Relation of the Church to Non-Christian Religions",
+      "kind": "primary",
+      "author": "Second Vatican Council",
+      "year": 1965,
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html"
+    }
+  ],
+  "doctrines": [
+    {
+      "id": "covenant-law",
+      "name": "Covenant, Law and Israel",
+      "icon": "scroll",
+      "order": 17,
+      "question": "How do the old and new covenants relate, and what becomes of Israel, the Law and the Sabbath?",
+      "summary": "From the Council of Jerusalem and Marcion to the Reformation’s law–gospel debates, Westminster covenant theology, dispensationalism, theonomy and post-Holocaust rethinking, Christians have argued over how Christ fulfils the covenants with Israel, what the Law of Moses still requires, and which day is holy.",
+      "longText": "Christianity began as a movement within Judaism. Its first great decision, at Jerusalem around AD 49, freed Gentile believers from circumcision and the full Law of Moses, while Jewish believers went on keeping it. Within a century the church was overwhelmingly Gentile. Marcion tried to cut the Hebrew Scriptures away altogether, and the church answered through Irenaeus that one God gave both covenants. Justin and others called the church \"the true spiritual Israel\". This fulfilment or supersessionist reading became the consensus of East and West. In its harsher forms it fed a long \"teaching of contempt\" that ran from Chrysostom’s sermons to crusader massacres, Lateran IV’s legislation, expulsions and Luther’s late tracts.\n\nThe Reformation reopened the question of the Law. Luther made the distinction between law and gospel the key to preaching. When his colleague Agricola concluded that the law has no place among the justified, Luther and Melanchthon replied that the law still convicts and, in Melanchthon’s \"third use\", guides the regenerate. In Zurich, Bullinger read the whole Bible as one covenant of grace. Reformed theologians added a pre-fall covenant of works, and the Westminster Confession (1647) codified federal theology: the ceremonial law is abrogated, the judicial law has expired except for its \"general equity\", the moral law binds all, and the Lord’s Day is \"the Christian Sabbath\". Disputes followed over antinomianism in Massachusetts (1637) and over the Marrow of Modern Divinity in Scotland (1718–23). The fourth commandment divided Puritan Sabbatarians, continental Protestants and Catholics, and later Seventh Day Baptists and Seventh-day Adventists, who kept the seventh day as the Ethiopian church had long honoured it. The medieval compulsory tithe, first enforced at Mâcon (585), survives as voluntary tithing in many churches.\n\nIn the 19th century J. N. Darby’s dispensationalism separated Israel and the church and expected a literal national restoration. Through the Scofield Reference Bible it shaped American evangelicalism and Christian Zionism. Rushdoony’s theonomy (1973) pressed the continuing civil force of Mosaic law, and most Reformed churches rejected it. Progressive dispensationalism, New Covenant Theology and progressive covenantalism looked for middle ways. The Shoah forced a deeper reckoning. Nostra Aetate (1965) rejected the deicide charge, and many churches have since repudiated punitive supersessionism. Theologians now debate fulfilment, two-covenant and bilateral models, and Messianic Jews claim a Jewish way of following Jesus. This section sets out each view in its own terms, with its strongest critics.",
+      "flow": {
+        "nodes": [
+          {
+            "id": "q",
+            "kind": "question",
+            "label": "How do the old and new covenants relate, and what becomes of Israel, the Law and the Sabbath?",
+            "text": "Jesus was a Jew who said he came \"not to destroy, but to fulfil\" the Law; Paul declared that Christ is \"the end of the law\" yet that the law is \"holy\". Has the Church replaced Israel, joined it, or does Israel keep its own covenant? Does the Law of Moses still bind Christians — its moral, ceremonial or civil parts — and what of the Sabbath and the tithe?",
+            "quoteIds": []
+          },
+          {
+            "id": "s-covenants",
+            "kind": "scripture",
+            "label": "Abraham, Sinai and the promised new covenant (Gen 15; 17; Exod 19–24; Jer 31:31–34)",
+            "year": -587,
+            "text": "God covenants with Abraham and his seed, gives Israel the Law at Sinai with the Sabbath as its sign (Exod 31:13–17), and through Jeremiah promises \"a new covenant\" with the law written on the heart. Tithes support the Levites and the poor (Lev 27:30; Deut 14; Mal 3:8–10). Every later system is an attempt to say how these covenants fit together.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-fulfil",
+            "kind": "scripture",
+            "label": "\"Not to destroy, but to fulfil\" (Matt 5:17–19; Mark 2:27–28; Matt 23:23)",
+            "year": 30,
+            "text": "Jesus affirms that not one jot of the Law will pass \"till all be fulfilled\", calls himself \"Lord also of the sabbath\", and commends tithing while rebuking neglect of \"judgment, mercy, and faith\". Readers dispute whether \"fulfil\" means confirm, complete or bring to an end.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-paul",
+            "kind": "scripture",
+            "label": "Paul on the Law and Israel (Gal 3–4; Rom 7; 9–11; 2 Cor 3)",
+            "year": 57,
+            "text": "The Law was a \"schoolmaster\" until Christ (Gal 3:24); \"Christ is the end of the law for righteousness\" (Rom 10:4), yet \"the law is holy\" (Rom 7:12) and \"all Israel shall be saved\", for \"the gifts and calling of God are without repentance\" (Rom 11:26–29). Gentiles are grafted into Israel’s olive tree (Rom 11:17–24).",
+            "quoteIds": []
+          },
+          {
+            "id": "s-hebrews",
+            "kind": "scripture",
+            "label": "Hebrews and Colossians: shadow and substance (Heb 8:6–13; 10:1; Col 2:16–17)",
+            "year": 68,
+            "text": "\"In that he saith, A new covenant, he hath made the first old\" (Heb 8:13); the Law has \"a shadow of good things to come\"; Christians are not to be judged \"in respect of an holyday ... or of the sabbath days\". Hebrews 7 also reads Abraham’s tithe to Melchizedek christologically.",
+            "quoteIds": []
+          },
+          {
+            "id": "d-jerusalem",
+            "kind": "decision",
+            "label": "Council of Jerusalem: Gentiles not bound to circumcision (c.49)",
+            "year": 49,
+            "text": "The apostles and elders decide that Gentile believers need not be circumcised or keep the whole Law, asking only abstention from idol-food, blood, things strangled and sexual immorality (Acts 15). Jewish believers continue to keep the Law for a generation or more.",
+            "ref": {
+              "type": "event",
+              "id": "council-of-jerusalem-49"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "v-ignatius",
+            "kind": "voice",
+            "label": "Ignatius: \"no longer observing the Sabbath\" (c.110)",
+            "year": 110,
+            "text": "Ignatius contrasts Judaizing with living \"in the observance of the Lord’s Day\"; Justin (c.155) describes Christians assembling \"on the day called Sunday\". The first day, the day of resurrection, becomes the Christian day of worship.",
+            "ref": {
+              "type": "person",
+              "id": "ignatius-of-antioch"
+            },
+            "quoteIds": [
+              "ignatius-lords-day"
+            ]
+          },
+          {
+            "id": "p-marcion",
+            "kind": "position",
+            "label": "Marcion: two Gods, no Old Testament (c.144)",
+            "year": 144,
+            "text": "Marcion sets the just Creator-God of the Law against the good Father revealed by Jesus, rejects the Hebrew Scriptures and edits Luke and Paul. The Roman church expels him (144); his challenge forces the church to affirm one God of both covenants and to define its canon.",
+            "ref": {
+              "type": "position",
+              "id": "marcionite-canon"
+            },
+            "quoteIds": [
+              "tertullian-marcion-knife"
+            ]
+          },
+          {
+            "id": "v-justin",
+            "kind": "voice",
+            "label": "Justin: the Church as \"the true spiritual Israel\" (c.155)",
+            "year": 155,
+            "text": "In the Dialogue with Trypho, Justin argues that Christians, not the Jews who reject Jesus, are the heirs of Israel’s promises, and that the Law was given because of Israel’s hardness of heart: an early and influential form of supersessionism.",
+            "ref": {
+              "type": "person",
+              "id": "justin-martyr"
+            },
+            "quoteIds": [
+              "justin-true-israel"
+            ]
+          },
+          {
+            "id": "p-supersession",
+            "kind": "position",
+            "label": "Supersession / fulfilment: the Church as the new Israel (2nd c.)",
+            "year": 160,
+            "text": "From Barnabas, Justin and Melito onwards, the dominant view holds that the Church has inherited, fulfilled or replaced Israel’s covenant role. Its forms range from \"fulfilment\" (Israel’s hope finds its goal in Christ, with Jews welcome in the one Church) to punitive versions blaming Jews for Christ’s death.",
+            "ref": {
+              "type": "position",
+              "id": "supersessionism"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "v-irenaeus",
+            "kind": "voice",
+            "label": "Irenaeus: one householder of both covenants (c.180)",
+            "year": 180,
+            "text": "Against Marcion and the Gnostics, Irenaeus insists that the one Word gave both covenants and educated humanity step by step, so that the Law prepared for the gospel: a seed of later covenant and salvation-history theologies.",
+            "ref": {
+              "type": "person",
+              "id": "irenaeus"
+            },
+            "quoteIds": [
+              "irenaeus-one-householder"
+            ]
+          },
+          {
+            "id": "v-augustine",
+            "kind": "voice",
+            "label": "Augustine’s \"witness\" doctrine (c.426)",
+            "year": 426,
+            "text": "Augustine argues that Jews should be preserved as living witnesses to the Scriptures, a doctrine that shielded Jewish communities in Latin Christendom while still casting them as blind and subordinate.",
+            "ref": {
+              "type": "person",
+              "id": "augustine-of-hippo"
+            },
+            "quoteIds": [
+              "augustine-witness-jews"
+            ]
+          },
+          {
+            "id": "d-macon",
+            "kind": "decision",
+            "label": "Council of Mâcon makes the tithe obligatory (585)",
+            "year": 585,
+            "text": "Frankish bishops command payment of tithes under pain of excommunication; Charlemagne makes the tithe law (779). Medieval Christendom treats the Levitical tithe as binding church law, until tithe revolts, the French Revolution (1789) and 19th–20th-century commutations end it in most of Europe.",
+            "ref": {
+              "type": "event",
+              "id": "second-council-of-macon-585"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "c-contempt",
+            "kind": "consequence",
+            "label": "The \"teaching of contempt\": from Adversus Judaeos to expulsion (386–1543)",
+            "year": 1096,
+            "text": "Chrysostom’s sermons against Judaizing Christians (386–87), the Rhineland massacres of the First Crusade (1096), Lateran IV’s distinctive dress (1215), blood-libel accusations, expulsions from England (1290) and Spain (1492), and Luther’s On the Jews and Their Lies (1543) show how anti-Jewish theology could become violence. Jules Isaac later named this \"the teaching of contempt\".",
+            "ref": {
+              "type": "event",
+              "id": "first-crusade-1096"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-law-gospel",
+            "kind": "position",
+            "label": "Luther: distinguish law and gospel (1520s)",
+            "year": 1525,
+            "text": "For Luther the same Word speaks in two ways: the law commands, accuses and kills; the gospel promises and gives Christ. Confusing them produces either despair or self-righteousness. Moses binds Jews, not Gentiles, except where he restates natural law.",
+            "ref": {
+              "type": "position",
+              "id": "law-gospel-distinction"
+            },
+            "quoteIds": [
+              "luther-regard-moses-para"
+            ]
+          },
+          {
+            "id": "v-bullinger",
+            "kind": "voice",
+            "label": "Bullinger: one eternal covenant of grace (1534)",
+            "year": 1534,
+            "text": "Zurich’s Heinrich Bullinger writes the first treatise on the single covenant running from Adam and Abraham to Christ, grounding infant baptism (as circumcision’s successor) and a positive role for the Law in Christian life.",
+            "ref": {
+              "type": "person",
+              "id": "heinrich-bullinger"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-three-uses",
+            "kind": "position",
+            "label": "Melanchthon: the three uses of the law (1535)",
+            "year": 1535,
+            "text": "Melanchthon’s Loci (1535) adds to the civil use (restraining evil) and the theological use (revealing sin) a \"third use\" guiding the regenerate. Calvin calls it the principal use.",
+            "ref": {
+              "type": "position",
+              "id": "three-uses-of-the-law"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "a-agricola",
+            "kind": "argument",
+            "label": "Agricola: repentance comes from the gospel, not the law (1527–1540)",
+            "year": 1537,
+            "text": "Johann Agricola contends that the law belongs \"in the courthouse\" and that true repentance is worked by the gospel of Christ’s suffering. Luther answers in six disputations and Against the Antinomians (1539): without the law, sin and grace alike are emptied of meaning. Agricola recants in 1540.",
+            "ref": {
+              "type": "person",
+              "id": "johann-agricola"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "v-calvin",
+            "kind": "voice",
+            "label": "Calvin: the law as rule of grateful life (1559)",
+            "year": 1559,
+            "text": "Calvin teaches one covenant in two administrations (Institutes 2.10–11): the ceremonies are abrogated in effect but not in significance, and the moral law, summarised in the Decalogue, guides believers in whom the Spirit reigns.",
+            "ref": {
+              "type": "person",
+              "id": "john-calvin"
+            },
+            "quoteIds": [
+              "calvin-third-use"
+            ]
+          },
+          {
+            "id": "d-concord",
+            "kind": "decision",
+            "label": "Formula of Concord: law and gospel, third use (1577)",
+            "year": 1577,
+            "text": "Lutheran theologians confess that law and gospel must be carefully distinguished (Art. V) and that the law is to be preached to the regenerate as well (Art. VI), rejecting antinomianism.",
+            "ref": {
+              "type": "event",
+              "id": "formula-of-concord-1577"
+            },
+            "quoteIds": [
+              "formula-concord-law-gospel-para"
+            ]
+          },
+          {
+            "id": "p-covenant",
+            "kind": "position",
+            "label": "Federal theology: covenant of works and covenant of grace (1585)",
+            "year": 1585,
+            "text": "Reformed theologians (Ursinus, Fenner, Rollock, Perkins) frame all of history by a pre-fall covenant of works with Adam and a covenant of grace in Christ, administered under Law and gospel: one people of God in both testaments.",
+            "ref": {
+              "type": "position",
+              "id": "covenant-theology"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "a-hutchinson",
+            "kind": "argument",
+            "label": "Anne Hutchinson accuses the ministers of a \"covenant of works\" (1636–38)",
+            "year": 1637,
+            "text": "In Boston, Hutchinson’s followers charge that preachers who ground assurance in visible sanctification are preaching works. The colony’s leaders see antinomianism and private revelation; she is tried and banished.",
+            "ref": {
+              "type": "person",
+              "id": "anne-hutchinson"
+            },
+            "quoteIds": [
+              "hutchinson-examination-para"
+            ]
+          },
+          {
+            "id": "d-westminster",
+            "kind": "decision",
+            "label": "Westminster Confession: covenants, law and the Christian Sabbath (1647)",
+            "year": 1647,
+            "text": "Chapter 7 teaches a covenant of works and a covenant of grace \"under the law\" and \"under the gospel\"; chapter 19 holds that ceremonial laws are abrogated and judicial laws \"expired together with the State of that people; not obliging any other now, further than the general equity thereof may require\", while the moral law binds all; chapter 21 calls the Lord’s Day \"the Christian Sabbath\".",
+            "ref": {
+              "type": "event",
+              "id": "westminster-assembly-1643"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "v-cocceius",
+            "kind": "voice",
+            "label": "Cocceius: covenant history in stages (1648)",
+            "year": 1648,
+            "text": "Cocceius reads Scripture as an unfolding history of covenants, a forerunner of biblical theology; his followers’ looser view of the Sabbath sparks a long Dutch dispute with the Voetians.",
+            "ref": {
+              "type": "person",
+              "id": "johannes-cocceius"
+            },
+            "quoteIds": [
+              "cocceius-covenants-para"
+            ]
+          },
+          {
+            "id": "p-sabbatarian",
+            "kind": "position",
+            "label": "Puritan Sabbatarianism: the Lord’s Day as Christian Sabbath",
+            "year": 1650,
+            "text": "From Nicholas Bownde (1595) to Westminster, Puritans teach that the fourth commandment is moral and perpetual, transferred to the first day: no work or recreation, the whole day given to worship and mercy. It shapes Scottish, English, American and Korean Protestant culture.",
+            "ref": {
+              "type": "position",
+              "id": "christian-sabbath-sabbatarian"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "a-marrow",
+            "kind": "argument",
+            "label": "Marrow controversy: may Christ be freely offered to all? (1718–23)",
+            "year": 1718,
+            "text": "Thomas Boston and the \"Marrow men\" defend the free offer of Christ and the believer’s freedom from the law as a covenant of works; the General Assembly condemns the Marrow (1720) as antinomian. Each side claims to be the faithful heir of Westminster.",
+            "ref": {
+              "type": "event",
+              "id": "marrow-controversy-1718"
+            },
+            "quoteIds": [
+              "boston-marrow-para"
+            ]
+          },
+          {
+            "id": "p-dispensationalism",
+            "kind": "position",
+            "label": "Dispensationalism: Israel and the Church distinct (1830s)",
+            "year": 1833,
+            "text": "J. N. Darby, and later the Scofield Reference Bible (1909), distinguish God’s earthly people Israel from his heavenly people the Church; the Mosaic law belonged to a past dispensation, and Israel’s national promises will be fulfilled literally in a future millennium.",
+            "ref": {
+              "type": "position",
+              "id": "dispensationalism-israel-church"
+            },
+            "quoteIds": [
+              "darby-heavenly-people",
+              "scofield-dispensation-definition"
+            ]
+          },
+          {
+            "id": "p-seventh-day",
+            "kind": "position",
+            "label": "Seventh-day Sabbath: keep the day God blessed (1650s; 1846)",
+            "year": 1846,
+            "text": "Seventh Day Baptists (England, 1650s; Rhode Island, 1671) and later Seventh-day Adventists (Joseph Bates’ tract, 1846) argue that no Scripture transfers the Sabbath to Sunday. The Ethiopian Orthodox Church has long honoured both Saturday and Sunday, as affirmed under Emperor Zara Yaqob (c.1450).",
+            "ref": {
+              "type": "position",
+              "id": "seventh-day-sabbath"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "c-zionism",
+            "kind": "consequence",
+            "label": "Christian Zionism and the State of Israel (1917–1948)",
+            "year": 1948,
+            "text": "Dispensational and other philosemitic Protestants support a Jewish return to the land; British evangelical influence on the Balfour Declaration (1917) and American evangelical support after Israel’s founding (1948) make the theology of Israel a matter of world politics, contested by Palestinian Christians.",
+            "ref": {
+              "type": "position",
+              "id": "christian-zionism"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "d-nostra",
+            "kind": "decision",
+            "label": "After the Shoah: Nostra Aetate (1965)",
+            "year": 1965,
+            "text": "After the Holocaust, Christian self-examination (Seelisberg theses, 1947) leads Vatican II to reject the charge of collective Jewish guilt for Christ’s death and to affirm that the Jews remain dear to God. Many Protestant churches issue similar statements (e.g. the Rhineland Synod, 1980).",
+            "ref": {
+              "type": "event",
+              "id": "nostra-aetate-1965"
+            },
+            "quoteIds": [
+              "nostra-aetate-jews-para"
+            ]
+          },
+          {
+            "id": "p-theonomy",
+            "kind": "position",
+            "label": "Theonomy / Christian Reconstructionism (1973)",
+            "year": 1973,
+            "text": "R. J. Rushdoony and Greg Bahnsen argue that the moral and civil laws of Moses, including penal sanctions, remain binding unless the New Testament modifies them. Most Reformed bodies, including the faculty of Westminster Theological Seminary (Theonomy: A Reformed Critique, 1990), reject it as a misreading of the covenants and of WCF 19.4.",
+            "ref": {
+              "type": "position",
+              "id": "theonomy"
+            },
+            "quoteIds": [
+              "rushdoony-biblical-law-para"
+            ]
+          },
+          {
+            "id": "p-messianic",
+            "kind": "position",
+            "label": "Messianic Judaism (1970s)",
+            "year": 1975,
+            "text": "Jewish believers in Jesus form congregations that keep Sabbath, festivals and Jewish identity (Jews for Jesus, 1973; Messianic Jewish Alliance of America, renamed 1975). Mainstream Jewish bodies regard it as a form of Christianity; some Christians fear it rebuilds the wall of division.",
+            "ref": {
+              "type": "position",
+              "id": "messianic-jewish"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-bilateral",
+            "kind": "position",
+            "label": "Two-covenant and bilateral views (post-supersessionism)",
+            "year": 1980,
+            "text": "Some theologians (James Parkes, Paul van Buren, Lloyd Gaston) hold that Jews are saved within God’s irrevocable covenant with Israel; others (R. Kendall Soulen, Mark Kinzer) reject supersessionism while confessing Christ as Israel’s Messiah, and envisage a \"bilateral\" church of Jews and Gentiles.",
+            "ref": {
+              "type": "position",
+              "id": "two-covenant-bilateral"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-progressive",
+            "kind": "position",
+            "label": "Progressive dispensationalism (1986–1993)",
+            "year": 1993,
+            "text": "Craig Blaising, Darrell Bock and Robert Saucy see the kingdom inaugurated now, with Israel and the Church distinct but united in one unfolding plan; Christ already reigns on David’s throne.",
+            "ref": {
+              "type": "position",
+              "id": "progressive-dispensationalism"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-nct",
+            "kind": "position",
+            "label": "New Covenant Theology and progressive covenantalism (1980s–2012)",
+            "year": 2012,
+            "text": "Mostly Baptist theologians argue that the whole Mosaic covenant, Decalogue included, ended at the cross; Christians live under \"the law of Christ\". Gentry and Wellum’s Kingdom through Covenant (2012) sets the biblical covenants in progressive sequence, fulfilled in Christ, between covenant theology and dispensationalism.",
+            "ref": {
+              "type": "position",
+              "id": "new-covenant-theology"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "m-today",
+            "kind": "modern",
+            "label": "Today: who holds what?",
+            "year": 2025,
+            "text": "Catholic teaching since 2015 (\"The Gifts and the Calling of God Are Irrevocable\") rejects supersessionism of the punitive kind and any institutional mission targeting Jews while affirming Christ as universal saviour; Orthodox churches generally retain a fulfilment view. Reformed and Presbyterian churches keep covenant theology; dispensationalism remains strong among American evangelicals, Pentecostals and their global partners; Lutherans teach law and gospel. Sunday worship is near-universal, with Seventh-day Adventists (over 20 million members) and Ethiopian Orthodox honouring the seventh day. Tithing is taught as binding in many Pentecostal, Adventist and Latter-day Saint communities and as a voluntary guide elsewhere.",
+            "quoteIds": []
+          }
+        ],
+        "edges": [
+          {
+            "from": "q",
+            "to": "s-covenants",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q",
+            "to": "s-fulfil",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q",
+            "to": "s-paul",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q",
+            "to": "s-hebrews",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-covenants",
+            "to": "d-macon",
+            "kind": "supports"
+          },
+          {
+            "from": "s-fulfil",
+            "to": "d-jerusalem",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-jerusalem",
+            "to": "v-ignatius",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-hebrews",
+            "to": "v-ignatius",
+            "kind": "supports"
+          },
+          {
+            "from": "s-hebrews",
+            "to": "p-marcion",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-marcion",
+            "to": "v-irenaeus",
+            "kind": "rejects"
+          },
+          {
+            "from": "s-hebrews",
+            "to": "v-justin",
+            "kind": "supports"
+          },
+          {
+            "from": "v-justin",
+            "to": "p-supersession",
+            "kind": "develops"
+          },
+          {
+            "from": "p-supersession",
+            "to": "v-augustine",
+            "kind": "develops"
+          },
+          {
+            "from": "v-augustine",
+            "to": "c-contempt",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-supersession",
+            "to": "c-contempt",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-paul",
+            "to": "p-law-gospel",
+            "kind": "supports"
+          },
+          {
+            "from": "v-irenaeus",
+            "to": "v-bullinger",
+            "kind": "supports"
+          },
+          {
+            "from": "p-law-gospel",
+            "to": "p-three-uses",
+            "kind": "develops"
+          },
+          {
+            "from": "p-three-uses",
+            "to": "a-agricola",
+            "kind": "objects"
+          },
+          {
+            "from": "p-law-gospel",
+            "to": "a-agricola",
+            "kind": "leads-to"
+          },
+          {
+            "from": "a-agricola",
+            "to": "d-concord",
+            "kind": "rejects"
+          },
+          {
+            "from": "p-three-uses",
+            "to": "v-calvin",
+            "kind": "develops"
+          },
+          {
+            "from": "p-three-uses",
+            "to": "d-concord",
+            "kind": "leads-to"
+          },
+          {
+            "from": "v-bullinger",
+            "to": "p-covenant",
+            "kind": "develops"
+          },
+          {
+            "from": "v-calvin",
+            "to": "p-covenant",
+            "kind": "supports"
+          },
+          {
+            "from": "p-covenant",
+            "to": "a-hutchinson",
+            "kind": "objects"
+          },
+          {
+            "from": "p-covenant",
+            "to": "d-westminster",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-westminster",
+            "to": "v-cocceius",
+            "kind": "develops"
+          },
+          {
+            "from": "d-westminster",
+            "to": "p-sabbatarian",
+            "kind": "decides"
+          },
+          {
+            "from": "v-ignatius",
+            "to": "p-sabbatarian",
+            "kind": "supports"
+          },
+          {
+            "from": "p-sabbatarian",
+            "to": "p-seventh-day",
+            "kind": "objects"
+          },
+          {
+            "from": "d-westminster",
+            "to": "a-marrow",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-covenant",
+            "to": "p-dispensationalism",
+            "kind": "objects"
+          },
+          {
+            "from": "p-dispensationalism",
+            "to": "c-zionism",
+            "kind": "leads-to"
+          },
+          {
+            "from": "c-contempt",
+            "to": "d-nostra",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-supersession",
+            "to": "d-nostra",
+            "kind": "objects"
+          },
+          {
+            "from": "d-westminster",
+            "to": "p-theonomy",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-dispensationalism",
+            "to": "p-messianic",
+            "kind": "supports"
+          },
+          {
+            "from": "d-nostra",
+            "to": "p-bilateral",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-messianic",
+            "to": "p-bilateral",
+            "kind": "supports"
+          },
+          {
+            "from": "p-dispensationalism",
+            "to": "p-progressive",
+            "kind": "develops"
+          },
+          {
+            "from": "p-covenant",
+            "to": "p-nct",
+            "kind": "objects"
+          },
+          {
+            "from": "p-progressive",
+            "to": "p-nct",
+            "kind": "supports"
+          },
+          {
+            "from": "d-macon",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-seventh-day",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-bilateral",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-nct",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-theonomy",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "c-zionism",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "a-marrow",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-concord",
+            "to": "m-today",
+            "kind": "leads-to"
+          }
+        ]
+      },
+      "sources": [
+        "soulen-god-of-israel",
+        "weir-federal-theology",
+        "wengert-law-gospel",
+        "blaising-bock-progressive",
+        "gentry-wellum-kingdom",
+        "carson-sabbath-lords-day",
+        "nirenberg-anti-judaism",
+        "pelikan-christian-tradition",
+        "odcc"
+      ]
+    }
+  ],
+  "positions": [
+    {
+      "id": "supersessionism",
+      "doctrineId": "covenant-law",
+      "name": "Supersessionism (fulfilment / replacement theology)",
+      "altNames": [
+        "Replacement theology",
+        "Fulfilment theology",
+        "The Church as the \"new Israel\""
+      ],
+      "oneLine": "In Christ the promises to Israel reach their goal, and the Church of Jews and Gentiles is now the one people of God, so that ethnic Israel no longer has a distinct covenant standing apart from Christ.",
+      "coreClaims": [
+        "Jesus is Israel’s Messiah, the true Israel and the seed of Abraham (Gal 3:16, 29).",
+        "Gentile believers are grafted into the one olive tree; there is one people of God, not two (Eph 2:11–22).",
+        "The Mosaic covenant was provisional and is now \"old\" and \"ready to vanish away\" (Heb 8:13).",
+        "Jews are saved, like Gentiles, through faith in Christ; many fulfilment theologians expect a future large-scale turning of Jews to Christ (Rom 11:26).",
+        "Most modern advocates distinguish \"fulfilment\" from punitive replacement and repudiate antisemitism."
+      ],
+      "keyTexts": [
+        "Galatians 3:7–29; 6:16",
+        "Romans 2:28–29; 9:6–8",
+        "Ephesians 2:11–22",
+        "Hebrews 8:6–13",
+        "1 Peter 2:9–10",
+        "Matthew 21:43",
+        "Justin, Dialogue with Trypho 11; 135"
+      ],
+      "origin": "Implicit in debates of the 2nd century (Epistle of Barnabas, Justin’s Dialogue c.155, Melito’s Peri Pascha c.170) and in Augustine’s witness doctrine; it was the near-universal patristic, medieval and Reformation view, and remains the default framework of Orthodox, much Catholic and covenant-theology Protestant thought, though its \"punitive\" forms have been widely repudiated since 1945.",
+      "originYear": 155,
+      "proponentIds": [
+        "justin-martyr",
+        "augustine-of-hippo",
+        "john-chrysostom",
+        "thomas-aquinas",
+        "john-calvin",
+        "n-t-wright"
+      ],
+      "proponentsOther": [
+        "Epistle of Barnabas",
+        "Melito of Sardis",
+        "Louis Berkhof",
+        "O. Palmer Robertson",
+        "Gary Burge",
+        "Stephen Sizer"
+      ],
+      "traditionIds": [
+        "eastern-orthodox",
+        "catholic",
+        "reformed",
+        "presbyterian",
+        "lutheran",
+        "anglican",
+        "oriental-orthodox"
+      ],
+      "strongestArguments": [
+        "The New Testament repeatedly applies Israel’s titles (\"a chosen generation, a royal priesthood, an holy nation\") to the mixed Jewish–Gentile church (1 Pet 2:9).",
+        "Paul insists that \"they are not all Israel, which are of Israel\" and that Abraham’s true children are those of faith (Rom 9:6; Gal 3:7).",
+        "Hebrews explicitly calls the Sinai covenant obsolete; a continuing separate covenant would make Christ unnecessary for Jews, contradicting Acts 4:12.",
+        "It preserves the unity of the people of God across both testaments rather than dividing God’s purposes in two."
+      ],
+      "strongestObjections": [
+        "Romans 11:28–29 says Jews who reject the gospel remain \"beloved for the fathers’ sakes\" because God’s gifts and calling are irrevocable (Soulen, Kinzer).",
+        "Historically it fed the \"teaching of contempt\" and contributed to persecution culminating in a culture that made the Shoah possible.",
+        "Dispensationalists argue it spiritualises concrete promises about land and nation that God swore unconditionally (Gen 15; Jer 31:35–37)."
+      ],
+      "responses": [
+        "Fulfilment theologians reply that Israel’s election is fulfilled, not cancelled, in the Jewish Messiah, and that Romans 11 anticipates Jewish faith in Christ rather than a separate path.",
+        "They accept the historical indictment of punitive anti-Judaism but argue it was a betrayal of Paul’s warning against Gentile arrogance (Rom 11:18–20), not a necessary consequence of the doctrine.",
+        "On land promises they point to Hebrews 11:10–16 and Romans 4:13 (Abraham \"heir of the world\"), reading the land as a type of the renewed creation."
+      ],
+      "consequences": [
+        "Shaped the Church’s self-understanding as the \"new Israel\" and its reading of the Old Testament as Christian Scripture.",
+        "Provided the theological background for medieval anti-Jewish polemic and legislation.",
+        "Since Nostra Aetate (1965) many churches have revised or nuanced it; the debate now centres on \"post-supersessionist\" alternatives."
+      ],
+      "relatedPositionIds": [
+        "two-covenant-bilateral",
+        "covenant-theology",
+        "dispensationalism-israel-church",
+        "amillennialism",
+        "marcionite-canon"
+      ],
+      "standing": "majority",
+      "sources": [
+        "soulen-god-of-israel",
+        "vlach-church-replace-israel",
+        "nirenberg-anti-judaism",
+        "pelikan-christian-tradition"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "two-covenant-bilateral",
+      "doctrineId": "covenant-law",
+      "name": "Two-covenant and bilateral (post-supersessionist) views",
+      "altNames": [
+        "Two-covenant theology",
+        "Sonderweg view",
+        "Bilateral ecclesiology",
+        "Post-supersessionism"
+      ],
+      "oneLine": "God’s covenant with the Jewish people remains irrevocable and valid; Christians must reject every form of replacement theology, whether by holding that Jews are saved within their own covenant or by confessing a church of two distinct but united communities.",
+      "coreClaims": [
+        "\"The gifts and calling of God are without repentance\" (Rom 11:29): Israel’s election endures.",
+        "Strong form: Jews relate to God through the Sinai covenant, Gentiles through Christ (two covenants or \"two ways\").",
+        "Moderate (bilateral) form: Jesus is Israel’s Messiah, but the Jewish people’s covenant identity and Torah observance remain God-willed, and the church should be a communion of Jewish and Gentile ekklesiai.",
+        "Christian theology must be reconstructed after the Shoah to remove structural supersessionism (Soulen)."
+      ],
+      "keyTexts": [
+        "Romans 9:4–5; 11:1–2, 25–32",
+        "Acts 21:20–26",
+        "Ephesians 2:14–16",
+        "Jeremiah 31:35–37",
+        "Nostra Aetate 4 (1965)"
+      ],
+      "origin": "Anticipated by the Jewish philosopher Franz Rosenzweig (Star of Redemption, 1921) and the Anglican James Parkes (1930s); developed after the Holocaust by Paul van Buren, Lloyd Gaston (Paul and the Torah, 1987), John Gager and Krister Stendahl; reframed as \"post-supersessionism\" by R. Kendall Soulen (1996) and Mark Kinzer (Postmissionary Messianic Judaism, 2005).",
+      "originYear": 1980,
+      "proponentIds": [
+        "krister-stendahl"
+      ],
+      "proponentsOther": [
+        "James Parkes",
+        "Paul van Buren",
+        "Krister Stendahl",
+        "Lloyd Gaston",
+        "R. Kendall Soulen",
+        "Mark Kinzer",
+        "Clark Williamson"
+      ],
+      "traditionIds": [
+        "catholic",
+        "lutheran",
+        "anglican",
+        "presbyterian",
+        "methodist"
+      ],
+      "strongestArguments": [
+        "Paul nowhere says God has revoked Israel’s covenant; he says the opposite (Rom 11:1, 29).",
+        "In Acts, Jewish believers including Paul remain Torah-observant (Acts 21:20–26), implying a continuing Jewish vocation.",
+        "Theology that once legitimated contempt must be tested by its fruits; repentance after Auschwitz requires more than condemning violence.",
+        "It honours Judaism’s self-understanding as a living covenant faith rather than a superseded relic."
+      ],
+      "strongestObjections": [
+        "Strong two-covenant views seem to contradict \"no man cometh unto the Father, but by me\" (John 14:6) and the apostles’ preaching to Jews first (Acts 2–4; Rom 1:16).",
+        "Paul’s own anguish for unbelieving Israel (Rom 9:1–3; 10:1) makes little sense if Jews are already saved apart from Christ.",
+        "Critics (e.g. many evangelicals and Messianic Jews) argue that refusing to share the gospel with Jews is a new kind of exclusion."
+      ],
+      "responses": [
+        "Bilateral theologians (Kinzer, Soulen) do not deny Christ’s universal mediation; they deny only that Jewish faithfulness to Torah is abolished, and see Israel’s \"no\" as mysteriously within God’s plan (Rom 11:25–32).",
+        "Two-covenant theologians read Romans 11:26 (\"all Israel shall be saved\") as God’s own sovereign act, not as a mission mandate, and note that Paul describes himself as apostle to the Gentiles."
+      ],
+      "consequences": [
+        "Underlies Christian–Jewish dialogue statements and the renunciation of organised missions to Jews by several churches.",
+        "Rekindled scholarship on Paul as a Jewish thinker (the \"Paul within Judaism\" school).",
+        "Strongly contested by evangelical and Messianic Jewish missions such as Jews for Jesus."
+      ],
+      "relatedPositionIds": [
+        "supersessionism",
+        "messianic-jewish",
+        "new-perspective-on-paul",
+        "christian-zionism"
+      ],
+      "standing": "minority",
+      "sources": [
+        "soulen-god-of-israel",
+        "kinzer-postmissionary",
+        "gifts-calling-2015"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "messianic-jewish",
+      "doctrineId": "covenant-law",
+      "name": "Messianic Judaism",
+      "altNames": [
+        "Hebrew Christianity (older term)",
+        "Messianic Jewish movement",
+        "Jewish believers in Yeshua"
+      ],
+      "oneLine": "Jews who believe Jesus (Yeshua) is Israel’s Messiah should remain Jews, keeping Sabbath, festivals and Jewish identity, in congregations that bear witness to Israel’s Messiah.",
+      "coreClaims": [
+        "Yeshua is the promised Messiah of Israel and the divine saviour of all.",
+        "Jewish identity and covenant practices are not abolished for Jewish believers (Acts 21:20–26; 1 Cor 7:18).",
+        "Messianic congregations are a remnant of Israel within the wider body of Messiah.",
+        "Most Messianic Jews affirm a future for national Israel and many support the modern State of Israel."
+      ],
+      "keyTexts": [
+        "Romans 1:16; 11:1–5",
+        "Acts 15; 21:20–26",
+        "1 Corinthians 7:17–20",
+        "Jeremiah 31:31–34"
+      ],
+      "origin": "Jewish followers of Jesus formed the earliest church; distinct Jewish-Christian groups (Nazarenes, Ebionites) faded by the 5th century. Modern Hebrew Christianity grew in the 19th century (Joseph Rabinowitz’s Kishinev congregation, 1884; Hebrew Christian Alliance of America, 1915) and became the Messianic Jewish movement after 1967 (Jews for Jesus, 1973; MJAA, 1975).",
+      "originYear": 1884,
+      "proponentIds": [
+        "joseph-rabinowitz"
+      ],
+      "proponentsOther": [
+        "Moishe Rosen",
+        "David H. Stern",
+        "Daniel Juster",
+        "Mark Kinzer",
+        "Michael L. Brown"
+      ],
+      "traditionIds": [
+        "evangelical",
+        "charismatic-renewal"
+      ],
+      "strongestArguments": [
+        "The first church was entirely Jewish and Torah-observant (Acts 2–21); Gentile inclusion did not require Jews to stop being Jews.",
+        "Paul circumcised Timothy and offered sacrifices in the Temple (Acts 16:3; 21:26), modelling Jewish faithfulness in Messiah.",
+        "It removes the historical demand that Jewish converts renounce their people, which made conversion feel like betrayal."
+      ],
+      "strongestObjections": [
+        "Jewish communities regard it as deceptive missionary Christianity under Jewish dress; Israel’s Supreme Court (1989) denied Messianic Jews automatic citizenship as Jews under the Law of Return.",
+        "Some Christians fear it reintroduces a two-tier church or the \"Judaizing\" rejected in Galatians.",
+        "Post-supersessionist critics question its frequent alliance with evangelism aimed specifically at Jews."
+      ],
+      "responses": [
+        "Messianic leaders reply that Galatians forbids imposing Torah on Gentiles as a condition of salvation, not Jewish practice of Torah by Jews.",
+        "They argue that Jewish identity is a matter of descent and covenant, which faith in Israel’s Messiah fulfils rather than cancels."
+      ],
+      "consequences": [
+        "Several hundred thousand Messianic believers worldwide, concentrated in the USA and Israel.",
+        "Revived the question of Jewish practice within the church and fed \"bilateral ecclesiology\".",
+        "A persistent flashpoint in Jewish–Christian relations."
+      ],
+      "relatedPositionIds": [
+        "two-covenant-bilateral",
+        "dispensationalism-israel-church",
+        "christian-zionism"
+      ],
+      "standing": "minority",
+      "sources": [
+        "cohn-sherbok-messianic",
+        "kinzer-postmissionary",
+        "melton-encyclopedia"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "covenant-theology",
+      "doctrineId": "covenant-law",
+      "name": "Covenant (federal) theology",
+      "altNames": [
+        "Federal theology",
+        "Reformed covenantalism",
+        "Westminster covenant theology"
+      ],
+      "oneLine": "Scripture is organised by God’s covenants: a covenant of works with Adam, broken by the fall, and one covenant of grace in Christ administered under the Law and under the gospel, so that the people of God is one in both testaments.",
+      "coreClaims": [
+        "Adam was the federal head of humanity in a covenant of works (Gen 2:16–17; Hos 6:7; Rom 5:12–21).",
+        "After the fall God made a single covenant of grace, revealed progressively to Noah, Abraham, Moses and David, and fulfilled in the new covenant.",
+        "Christ fulfils the covenant of works for his people (active and passive obedience) and is mediator of the covenant of grace.",
+        "Israel and the Church are one people under different administrations; children of believers are included as members (hence infant baptism).",
+        "The moral law, summarised in the Decalogue, remains a rule of life; ceremonial laws are fulfilled and judicial laws expired with Israel’s polity."
+      ],
+      "keyTexts": [
+        "Genesis 2:16–17; 3:15; 17:7",
+        "Romans 5:12–21",
+        "Galatians 3:15–29",
+        "Jeremiah 31:31–34",
+        "Hebrews 8–10",
+        "Westminster Confession 7; 19"
+      ],
+      "origin": "Rooted in Zwingli’s and Bullinger’s defence of infant baptism (Bullinger, De testamento, 1534) and Calvin’s one covenant in two administrations; the covenant of works appears in Ursinus (c.1562), Dudley Fenner (1585) and Robert Rollock (1596); codified in the Westminster Confession (1647) and systematised by Cocceius (1648), Witsius (1677) and Turretin.",
+      "originYear": 1534,
+      "proponentIds": [
+        "heinrich-bullinger",
+        "johannes-cocceius",
+        "john-owen",
+        "charles-hodge",
+        "j-i-packer",
+        "john-calvin"
+      ],
+      "proponentsOther": [
+        "Zacharias Ursinus",
+        "Herman Witsius",
+        "Francis Turretin",
+        "Geerhardus Vos",
+        "Meredith Kline",
+        "O. Palmer Robertson",
+        "Michael Horton"
+      ],
+      "traditionIds": [
+        "reformed",
+        "presbyterian",
+        "congregationalist",
+        "anglican",
+        "baptist"
+      ],
+      "strongestArguments": [
+        "It explains the unity of Scripture: the same gospel was preached to Abraham (Gal 3:8) and the same faith saved Old Testament believers (Heb 11).",
+        "The Adam–Christ parallel of Romans 5 implies representative (\"federal\") headship in a covenant arrangement.",
+        "It gives a principled account of which Old Testament laws continue (moral) and which do not (ceremonial, civil).",
+        "It provides a rich framework for assurance, sacraments and the family in the church."
+      ],
+      "strongestObjections": [
+        "Scripture never explicitly names a \"covenant of works\" or a single overarching \"covenant of grace\"; critics (including some Reformed theologians like John Murray and Karl Barth) call these theological constructs.",
+        "Dispensationalists charge it with spiritualising promises to Israel; Baptists and New Covenant theologians argue it underplays the newness of the new covenant (Jer 31:34: \"they shall all know me\").",
+        "The tripartite division of the law (moral, ceremonial, civil) is not drawn explicitly in Scripture (cf. James 2:10)."
+      ],
+      "responses": [
+        "Defenders reply that the substance of a covenant with Adam is present (parties, condition, sanction, promise) even without the word, and Hosea 6:7 may name it.",
+        "They argue that the newness of the new covenant lies in its fuller administration and Spirit, not in a different people or way of salvation.",
+        "The threefold division, they note, is ancient (Aquinas, ST I-II q.99) and reflects distinctions Scripture itself makes between sacrifice and mercy (Hos 6:6)."
+      ],
+      "consequences": [
+        "The theological framework of the Westminster Standards, Puritanism and much Presbyterian and Reformed Baptist theology (in a Baptist form in the 1689 Confession).",
+        "Grounds infant baptism in Presbyterian and Reformed churches.",
+        "Shaped Puritan social covenants and, some historians argue, Anglo-American constitutionalism."
+      ],
+      "relatedPositionIds": [
+        "federal-forensic-framework",
+        "paedobaptism-covenantal",
+        "supersessionism",
+        "dispensationalism-israel-church",
+        "three-uses-of-the-law",
+        "amillennialism"
+      ],
+      "standing": "significant",
+      "sources": [
+        "weir-federal-theology",
+        "golding-covenant-theology",
+        "muller-calvin-after",
+        "schaff-creeds"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "dispensationalism-israel-church",
+      "doctrineId": "covenant-law",
+      "name": "Dispensationalism (classical and revised): Israel and the Church distinct",
+      "altNames": [
+        "Classical dispensationalism",
+        "Scofieldian dispensationalism",
+        "Revised (normative) dispensationalism"
+      ],
+      "oneLine": "God works in distinct dispensations and has two peoples: national Israel, whose land and kingdom promises will be literally fulfilled in a future millennium, and the Church, a heavenly people formed at Pentecost and to be raptured before the tribulation.",
+      "coreClaims": [
+        "Consistent literal-grammatical interpretation, especially of prophecy.",
+        "A distinction between Israel and the Church: the Church is a \"parenthesis\" or mystery not foreseen in the Old Testament (Eph 3:5–6).",
+        "The Abrahamic, Davidic and new covenants include unconditional promises to ethnic Israel that will be fulfilled nationally.",
+        "The Mosaic law, including the Sabbath, is not binding on the Church as a rule of life; believers live under grace.",
+        "Pretribulational rapture and premillennial return (see eschatology)."
+      ],
+      "keyTexts": [
+        "Genesis 12:1–3; 15",
+        "2 Samuel 7:12–16",
+        "Daniel 9:24–27",
+        "Romans 11:25–29",
+        "Ephesians 3:1–12",
+        "Romans 6:14 (\"not under the law, but under grace\")"
+      ],
+      "origin": "Formulated by John Nelson Darby and the Plymouth Brethren (1830s), spread through Bible and prophecy conferences, the Scofield Reference Bible (1909; 1917) and Dallas Theological Seminary (1924); systematised by Lewis Sperry Chafer and Charles Ryrie (Dispensationalism Today, 1965).",
+      "originYear": 1833,
+      "proponentIds": [
+        "john-nelson-darby",
+        "cyrus-scofield",
+        "hal-lindsey"
+      ],
+      "proponentsOther": [
+        "Lewis Sperry Chafer",
+        "Charles C. Ryrie",
+        "John F. Walvoord",
+        "J. Dwight Pentecost",
+        "Michael Vlach"
+      ],
+      "traditionIds": [
+        "evangelical",
+        "baptist",
+        "pentecostal",
+        "assemblies-of-god"
+      ],
+      "strongestArguments": [
+        "God’s oaths to Abraham’s physical descendants are presented as unconditional and everlasting (Gen 17:7–8; Jer 31:35–37); spiritualising them threatens God’s faithfulness.",
+        "Romans 11 distinguishes \"Israel\" from the Gentiles even within the church age and foresees a future national salvation.",
+        "Acts 1:6–7 assumes a future restoration of the kingdom to Israel; Jesus corrects only its timing.",
+        "Taking prophecy literally gave many believers confidence in Scripture and an interpretive key accessible to lay readers."
+      ],
+      "strongestObjections": [
+        "Ephesians 2:14–16 says Christ made the two \"one new man\", breaking down the dividing wall; two peoples with two destinies seems to rebuild it.",
+        "The New Testament itself applies Old Testament Israel promises to the church (Acts 15:15–17 citing Amos 9; Heb 8 citing Jer 31).",
+        "Critics note its recent origin (1830s) and its political consequences in unconditional support for modern Israel, at times at the expense of Palestinian Christians."
+      ],
+      "responses": [
+        "Dispensationalists answer that unity in salvation (one body) does not erase ethnic and national distinctions or promises (Rom 11:1, 29).",
+        "They argue that the Church shares in Israel’s spiritual blessings without replacing Israel’s national ones; progressive dispensationalists further nuance the distinction.",
+        "They reply that novelty in systematisation does not imply novelty in its premillennial and philosemitic elements, which have early precedents."
+      ],
+      "consequences": [
+        "Dominant framework of 20th-century American fundamentalism and evangelical Bible colleges and missions.",
+        "Foundation of Christian Zionism and of evangelical support for the State of Israel.",
+        "Popularised through prophecy literature (Hal Lindsey, Left Behind)."
+      ],
+      "relatedPositionIds": [
+        "dispensational-premillennialism",
+        "pretribulation-rapture",
+        "christian-zionism",
+        "progressive-dispensationalism",
+        "covenant-theology"
+      ],
+      "standing": "significant",
+      "sources": [
+        "ryrie-dispensationalism",
+        "vlach-church-replace-israel",
+        "sandeen-roots-fundamentalism",
+        "weber-shadow"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "progressive-dispensationalism",
+      "doctrineId": "covenant-law",
+      "name": "Progressive dispensationalism",
+      "altNames": [
+        "PD",
+        "Revised dispensationalism (third phase)"
+      ],
+      "oneLine": "The dispensations are progressive stages of one redemptive plan; Christ’s Davidic kingdom is already inaugurated, the Church is a genuine but partial fulfilment of the new covenant, and national Israel still has a future in the consummated kingdom.",
+      "coreClaims": [
+        "Christ already reigns on David’s throne at the right hand of God (Acts 2:30–36), inaugurating the kingdom.",
+        "The Church is not a parenthesis but the present form of the one kingdom, made up of Jews and Gentiles who share new-covenant blessings.",
+        "Israel and the nations remain distinct identities within the eschatological kingdom; ethnic Israel will be restored.",
+        "Prophecy can have \"complementary\" fulfilments without cancelling the original sense."
+      ],
+      "keyTexts": [
+        "Acts 2:29–36; 15:14–18",
+        "Luke 1:32–33",
+        "Romans 11:26–29",
+        "Revelation 21:24–26"
+      ],
+      "origin": "Emerged from the Dispensational Study Group of the Evangelical Theological Society (from 1986); named in 1991 and set out in Craig Blaising and Darrell Bock, Progressive Dispensationalism (1993), and Robert Saucy, The Case for Progressive Dispensationalism (1993).",
+      "originYear": 1991,
+      "proponentIds": [
+        "darrell-bock"
+      ],
+      "proponentsOther": [
+        "Craig A. Blaising",
+        "Robert L. Saucy",
+        "Mark Saucy"
+      ],
+      "traditionIds": [
+        "evangelical",
+        "baptist"
+      ],
+      "strongestArguments": [
+        "Peter’s Pentecost sermon identifies Christ’s exaltation with the fulfilment of the Davidic promise, which classical dispensationalism had postponed.",
+        "It honours both the unity of salvation (one new humanity) and the distinct future of Israel.",
+        "It narrows the gap with covenant theology while keeping exegetical commitments on Romans 11."
+      ],
+      "strongestObjections": [
+        "Classical dispensationalists (e.g. Ryrie, Robert Thomas) argue it abandons consistent literal interpretation and the Israel–Church distinction.",
+        "Covenant theologians reply that once the Davidic kingdom is inaugurated in the church, a further national phase looks redundant.",
+        "Its \"complementary hermeneutic\" can seem to allow both literal and spiritual readings as convenient."
+      ],
+      "responses": [
+        "Progressives answer that the New Testament itself shows \"already/not yet\" fulfilment, which a mature hermeneutic must follow.",
+        "They argue that Israel’s national restoration is required by the irrevocability of God’s promises (Rom 11:29) and by passages like Acts 3:19–21."
+      ],
+      "consequences": [
+        "Now taught at Dallas Theological Seminary and Talbot alongside older forms.",
+        "Opened sustained dialogue with covenant theologians and progressive covenantalists."
+      ],
+      "relatedPositionIds": [
+        "dispensationalism-israel-church",
+        "progressive-covenantalism",
+        "inaugurated-eschatology",
+        "historic-premillennialism"
+      ],
+      "standing": "minority",
+      "sources": [
+        "blaising-bock-progressive",
+        "ryrie-dispensationalism"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "new-covenant-theology",
+      "doctrineId": "covenant-law",
+      "name": "New Covenant Theology",
+      "altNames": [
+        "NCT",
+        "Law of Christ theology"
+      ],
+      "oneLine": "The whole Mosaic covenant, including the Ten Commandments as a covenant document, was fulfilled and ended in Christ; believers are under the new covenant and \"the law of Christ\", which includes those Old Testament commands the New Testament reaffirms.",
+      "coreClaims": [
+        "The Mosaic covenant is a unit; it cannot be divided into moral, ceremonial and civil parts.",
+        "Christ is the new lawgiver, and the New Testament is the Christian’s rule of life (1 Cor 9:21; Gal 6:2).",
+        "Nine of the Ten Commandments are restated in the New Testament; the Sabbath is fulfilled in Christ’s rest (Heb 4).",
+        "The new covenant community is a regenerate people, so baptism is for believers only.",
+        "Rejects a \"covenant of works\" with Adam as an unbiblical construct."
+      ],
+      "keyTexts": [
+        "Jeremiah 31:31–34",
+        "2 Corinthians 3:6–11",
+        "Galatians 3:23–25; 6:2",
+        "1 Corinthians 9:20–21",
+        "Hebrews 4:1–11; 8:13",
+        "Romans 7:1–6"
+      ],
+      "origin": "Developed among Reformed Baptists in the United States from the late 1970s and 1980s (John G. Reisinger, Jon Zens, Fred Zaspel, Tom Wells), drawing on earlier Baptist and Lutheran reservations about the third use of the Decalogue; set out in Wells and Zaspel, New Covenant Theology (2002).",
+      "originYear": 1981,
+      "proponentIds": [
+        "douglas-moo"
+      ],
+      "proponentsOther": [
+        "John G. Reisinger",
+        "Jon Zens",
+        "Fred Zaspel",
+        "Tom Wells",
+        "A. Blake White"
+      ],
+      "traditionIds": [
+        "baptist",
+        "evangelical"
+      ],
+      "strongestArguments": [
+        "Paul calls the covenant \"written and engraven in stones\", that is, the Decalogue, a ministry \"done away\" (2 Cor 3:7–11).",
+        "Scripture treats the Law as a single covenant: \"whosoever shall keep the whole law, and yet offend in one point, he is guilty of all\" (Jas 2:10).",
+        "It explains why the New Testament never commands Sabbath observance while repeating the other commandments."
+      ],
+      "strongestObjections": [
+        "Covenant theologians argue it risks antinomianism by detaching the moral law from creation and the Decalogue.",
+        "Critics say \"the law of Christ\" is underdefined and leaves ethical questions (e.g. on marriage and sexuality) with fewer Old Testament resources.",
+        "Its relative novelty and lack of confessional expression concern confessional Baptists who hold the 1689 Confession."
+      ],
+      "responses": [
+        "NCT proponents reply that the eternal moral will of God is not abolished but now known through Christ and the apostles, so the Old Testament remains profitable Scripture (2 Tim 3:16).",
+        "They argue that reading every command through Christ is more, not less, demanding (Matt 5:21–48)."
+      ],
+      "consequences": [
+        "A significant minority view among Reformed Baptists and some evangelical seminaries.",
+        "Sharpened debate about the Sabbath and the Decalogue in Baptist confessional circles."
+      ],
+      "relatedPositionIds": [
+        "progressive-covenantalism",
+        "covenant-theology",
+        "lords-day-non-sabbatarian",
+        "believers-baptism"
+      ],
+      "standing": "minority",
+      "sources": [
+        "wells-zaspel-nct",
+        "gentry-wellum-kingdom"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "progressive-covenantalism",
+      "doctrineId": "covenant-law",
+      "name": "Progressive covenantalism",
+      "altNames": [
+        "Kingdom through Covenant theology",
+        "\"Via media\" between covenant theology and dispensationalism"
+      ],
+      "oneLine": "The biblical covenants (creation, Noah, Abraham, Israel, David, new covenant) unfold progressively and all find their fulfilment in Christ; Israel’s promises are fulfilled in him and his new covenant people, which is a regenerate community.",
+      "coreClaims": [
+        "A covenant with creation in Adam; each later covenant builds on earlier ones toward Christ.",
+        "Israel is a typological pattern fulfilled in Christ, the true Israel, rather than replaced by the church.",
+        "The new covenant is new in nature, not only administration: all its members know the Lord (Jer 31:34).",
+        "The land promise is typological of the new creation.",
+        "Believer’s baptism follows from the regenerate nature of the new covenant community."
+      ],
+      "keyTexts": [
+        "Genesis 1–2; 9; 12; 15; 17",
+        "Exodus 19–24",
+        "2 Samuel 7",
+        "Jeremiah 31:31–34",
+        "Ephesians 1:10",
+        "Hebrews 8"
+      ],
+      "origin": "Set out by Peter Gentry and Stephen Wellum in Kingdom through Covenant (2012; 2nd ed. 2018) and in Progressive Covenantalism (eds. Wellum and Brent Parker, 2016), building on D. A. Carson, Douglas Moo and New Covenant Theology.",
+      "originYear": 2012,
+      "proponentIds": [
+        "stephen-wellum"
+      ],
+      "proponentsOther": [
+        "Peter J. Gentry",
+        "Brent E. Parker",
+        "Jason S. DeRouchie",
+        "Thomas R. Schreiner"
+      ],
+      "traditionIds": [
+        "baptist",
+        "evangelical"
+      ],
+      "strongestArguments": [
+        "It takes each covenant on its own terms in canonical sequence, the way biblical theology reads the Bible.",
+        "Christ as the true Israel (Matt 2:15; John 15:1) explains how Israel’s promises are fulfilled without a \"replacement\" of Jews by Gentiles.",
+        "It coherently grounds believer’s baptism and the regenerate church in Jeremiah 31."
+      ],
+      "strongestObjections": [
+        "Covenant theologians argue that warnings to new covenant members (Heb 6; 10) show the visible church is mixed, undermining the regenerate-membership claim.",
+        "Dispensationalists argue that typological fulfilment still amounts to supersessionism for ethnic Israel.",
+        "Some critics see it as a scholarly synthesis without confessional or ecclesial anchoring."
+      ],
+      "responses": [
+        "Proponents answer that warning passages are means by which God preserves true members rather than evidence of a mixed covenant.",
+        "They hold that ethnic Jews remain welcome in Christ with a possible future turning (Rom 11), so the view is \"fulfilment\" rather than \"replacement\"."
+      ],
+      "consequences": [
+        "Influential at Southern Baptist seminaries and in evangelical biblical-theology circles since 2012.",
+        "Reframed Reformed Baptist debates on covenant and baptism."
+      ],
+      "relatedPositionIds": [
+        "new-covenant-theology",
+        "progressive-dispensationalism",
+        "covenant-theology",
+        "believers-baptism",
+        "supersessionism"
+      ],
+      "standing": "minority",
+      "sources": [
+        "gentry-wellum-kingdom",
+        "schreiner-wright-believers"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "law-gospel-distinction",
+      "doctrineId": "covenant-law",
+      "name": "Lutheran distinction of law and gospel",
+      "altNames": [
+        "Law–gospel dialectic",
+        "Gesetz und Evangelium"
+      ],
+      "oneLine": "God’s Word speaks in two distinct ways: the law, which commands, exposes sin and condemns, and the gospel, which freely promises forgiveness for Christ’s sake; rightly distinguishing them is the heart of pastoral theology.",
+      "coreClaims": [
+        "The law (wherever it appears in Scripture) demands and accuses; the gospel (wherever it appears) gives and promises.",
+        "Justification comes through the gospel received by faith alone, never through law-keeping.",
+        "Mixing the two produces either despair or self-righteousness; the preacher must apply law to the secure and gospel to the terrified.",
+        "The Christian is simul iustus et peccator: as sinner still under the law’s accusation, as believer free in Christ.",
+        "The Mosaic law as such was given to Israel; its moral content binds all as natural law."
+      ],
+      "keyTexts": [
+        "Romans 3:19–28",
+        "Galatians 3:10–14, 24",
+        "2 Corinthians 3:6",
+        "John 1:17",
+        "Formula of Concord V"
+      ],
+      "origin": "Central to Luther’s Reformation breakthrough (c.1518–1525; How Christians Should Regard Moses, 1525; Galatians lectures 1531/1535); confessed in the Apology of the Augsburg Confession (1531) and the Formula of Concord (1577); classically expounded by C. F. W. Walther, The Proper Distinction between Law and Gospel (lectures 1884–85).",
+      "originYear": 1525,
+      "proponentIds": [
+        "martin-luther",
+        "philip-melanchthon",
+        "martin-chemnitz"
+      ],
+      "proponentsOther": [
+        "C. F. W. Walther",
+        "Gerhard Forde",
+        "Oswald Bayer",
+        "Werner Elert",
+        "Michael Horton (Reformed adaptation)"
+      ],
+      "traditionIds": [
+        "lutheran"
+      ],
+      "strongestArguments": [
+        "Paul contrasts \"the letter\" that kills with \"the spirit\" that gives life (2 Cor 3:6), and righteousness \"of the law\" with righteousness \"of faith\" (Rom 10:5–6).",
+        "It protects the gospel as sheer gift and gives pastors a practical tool for the troubled and the complacent.",
+        "It explains why the same commandment can terrify one hearer and guide another."
+      ],
+      "strongestObjections": [
+        "Reformed critics (and Karl Barth, who reversed the order to \"gospel and law\") argue it isolates law as merely negative and neglects law as gracious gift (Ps 119).",
+        "Catholic and Orthodox theologians see it as a dialectic foreign to the patristic vision of grace healing and transforming nature.",
+        "New Perspective scholars argue Paul’s \"works of the law\" concerned Jewish boundary markers more than human moral striving."
+      ],
+      "responses": [
+        "Lutherans answer that the law is good and holy in itself; it is sin that makes it accusing, and the Formula of Concord affirms its use for the regenerate.",
+        "They reply that the law–gospel distinction is not a philosophical dialectic but describes the two ways Scripture itself addresses the conscience."
+      ],
+      "consequences": [
+        "Shapes Lutheran preaching, catechesis and liturgy.",
+        "Generated the antinomian and Majoristic controversies within Lutheranism.",
+        "Influenced Reformed thought (e.g. Westminster’s covenant of works vs grace) and modern \"gospel-centred\" evangelicalism."
+      ],
+      "relatedPositionIds": [
+        "justification-by-faith-alone",
+        "three-uses-of-the-law",
+        "antinomianism",
+        "two-kingdoms",
+        "new-perspective-on-paul"
+      ],
+      "standing": "significant",
+      "sources": [
+        "book-of-concord",
+        "wengert-law-gospel",
+        "mcgrath-reformation-thought"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "three-uses-of-the-law",
+      "doctrineId": "covenant-law",
+      "name": "Three uses of the law",
+      "altNames": [
+        "Triplex usus legis",
+        "Third use of the law (tertius usus)"
+      ],
+      "oneLine": "God’s law has a civil use (restraining evil in society), a theological or pedagogical use (exposing sin and driving to Christ) and a third use as a guide and rule of life for believers.",
+      "coreClaims": [
+        "First use: the law restrains wickedness and preserves public order.",
+        "Second use: it convicts of sin and leads to Christ (Gal 3:24).",
+        "Third use: it instructs and exhorts the regenerate, who delight in it inwardly (Ps 1; Rom 7:22).",
+        "Reformed theology calls the third use \"principal\" (Calvin); Lutheran confessions affirm it while stressing the law still accuses."
+      ],
+      "keyTexts": [
+        "1 Timothy 1:8–10",
+        "Galatians 3:19–24",
+        "Romans 7:7–12, 22; 13:8–10",
+        "Psalm 119",
+        "Calvin, Institutes 2.7.6–12",
+        "Formula of Concord VI"
+      ],
+      "origin": "Melanchthon introduced the third use in the 1535 Loci communes (anticipated in his 1534 Colossians commentary); Calvin expounded the three uses in the Institutes (1539–1559) and Lutheranism confessed them in the Formula of Concord (1577).",
+      "originYear": 1535,
+      "proponentIds": [
+        "philip-melanchthon",
+        "john-calvin",
+        "martin-chemnitz",
+        "john-owen"
+      ],
+      "proponentsOther": [
+        "Zacharias Ursinus",
+        "Francis Turretin",
+        "the Heidelberg Catechism (part 3)"
+      ],
+      "traditionIds": [
+        "lutheran",
+        "reformed",
+        "presbyterian",
+        "anglican",
+        "baptist",
+        "methodist"
+      ],
+      "strongestArguments": [
+        "Paul both says believers are \"not under the law\" and appeals to its commandments as guidance (Rom 13:8–10; Eph 6:2).",
+        "The new covenant writes the law on the heart (Jer 31:33), implying the law’s content remains the shape of the renewed life.",
+        "It avoids both legalism (law as way of salvation) and antinomianism (law as irrelevant to the saved)."
+      ],
+      "strongestObjections": [
+        "Some Lutherans (e.g. Werner Elert, Gerhard Forde) argue that the law \"always accuses\" (lex semper accusat) and that a separate third use risks a new legalism.",
+        "New Covenant theologians say Christians are under the law of Christ rather than the Decalogue as such.",
+        "Antinomian critics hold that the indwelling Spirit, not an external code, guides the believer."
+      ],
+      "responses": [
+        "Defenders answer that the Spirit guides by means of the Word, which includes commandments, and that external guidance is necessary because believers remain sinners.",
+        "They point to the Formula of Concord itself, which affirms the third use while acknowledging the law’s accusing function in the believer."
+      ],
+      "consequences": [
+        "Structures the Heidelberg Catechism (guilt, grace, gratitude) and Reformed ethics.",
+        "Basis of Decalogue-centred catechesis across Protestant traditions.",
+        "Continuing intra-Lutheran debate in the 20th century."
+      ],
+      "relatedPositionIds": [
+        "law-gospel-distinction",
+        "covenant-theology",
+        "antinomianism",
+        "new-covenant-theology"
+      ],
+      "standing": "majority",
+      "sources": [
+        "book-of-concord",
+        "wengert-law-gospel",
+        "muller-calvin-after"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "antinomianism",
+      "doctrineId": "covenant-law",
+      "name": "Antinomian positions",
+      "altNames": [
+        "Free-grace protest",
+        "Anti-legalism",
+        "\"Hyper-grace\" (modern pejorative usage)"
+      ],
+      "oneLine": "Because believers are wholly justified by grace and led by the Spirit, the law should not be preached to them as a rule or used to measure assurance; repentance and holiness spring from the gospel alone.",
+      "coreClaims": [
+        "Repentance is produced by the gospel of Christ’s love, not by preaching the law (Agricola).",
+        "Assurance rests on Christ and the Spirit’s witness, not on evidences of sanctification (Hutchinson and the 1630s \"free grace\" party).",
+        "Believers are \"not under the law, but under grace\" (Rom 6:14) and \"dead to the law\" (Rom 7:4).",
+        "In its radical (often alleged rather than held) form: sin cannot harm the justified, so moral law is irrelevant."
+      ],
+      "keyTexts": [
+        "Romans 6:14; 7:4–6",
+        "Galatians 5:18",
+        "1 Timothy 1:9 (\"the law is not made for a righteous man\")",
+        "Romans 8:16"
+      ],
+      "origin": "The term was coined by Luther against Johann Agricola (1537–40); English antinomianism flourished in the 1630s–40s (John Eaton, Tobias Crisp) and in New England’s Free Grace controversy (1636–38); the label was later hurled at the Marrow men (1720), Wesley’s and Whitefield’s opponents, and modern \"hyper-grace\" preachers.",
+      "originYear": 1527,
+      "proponentIds": [
+        "johann-agricola",
+        "anne-hutchinson"
+      ],
+      "proponentsOther": [
+        "John Eaton",
+        "Tobias Crisp",
+        "John Wheelwright",
+        "Joseph Prince (contemporary \"grace message\", contested label)"
+      ],
+      "traditionIds": [
+        "lutheran",
+        "congregationalist",
+        "reformed"
+      ],
+      "strongestArguments": [
+        "Paul’s strongest statements on freedom from the law (Gal 2:19; Rom 7:4) seem to leave no room for the law as master of the believer.",
+        "Preaching the law to believers can produce anxiety and legalism, undermining assurance; the Free Grace party saw this in Puritan \"preparationism\".",
+        "Love and gratitude kindled by the gospel are a stronger motive for holiness than commands."
+      ],
+      "strongestObjections": [
+        "Paul anticipates and rejects the inference \"shall we continue in sin, that grace may abound?\" (Rom 6:1–2) and gives many commands to believers.",
+        "Luther argued that without the law sin is not known, so grace becomes meaningless; the Formula of Concord rejected antinomianism.",
+        "Private claims to the Spirit’s direct witness, detached from Scripture’s commands, can become uncheckable (the Massachusetts magistrates’ charge against Hutchinson)."
+      ],
+      "responses": [
+        "Historic \"antinomians\" usually denied that they rejected holiness; they argued that holiness is the fruit, not the condition or evidence, of grace.",
+        "Modern grace preachers likewise affirm good works as the result of grace and argue that the label caricatures them."
+      ],
+      "consequences": [
+        "Forced Lutheran and Reformed churches to define the law’s role for believers.",
+        "Contributed to the banishment of Hutchinson and Wheelwright and to Rhode Island’s religious diversity.",
+        "Recurs in debates over free grace vs lordship salvation and \"hyper-grace\" teaching."
+      ],
+      "relatedPositionIds": [
+        "law-gospel-distinction",
+        "three-uses-of-the-law",
+        "free-grace-theology",
+        "lordship-salvation",
+        "finished-work-sanctification"
+      ],
+      "standing": "minority",
+      "sources": [
+        "wengert-law-gospel",
+        "winship-making-heretics",
+        "lachman-marrow",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "theonomy",
+      "doctrineId": "covenant-law",
+      "name": "Theonomy (Christian Reconstructionism)",
+      "altNames": [
+        "Christian Reconstructionism",
+        "Theonomic ethics",
+        "Dominion theology (broader term)"
+      ],
+      "oneLine": "God’s law, including the civil laws and penal sanctions of Moses, remains binding on all nations today except where the New Testament modifies it, and civil governments should be reconstructed according to it.",
+      "coreClaims": [
+        "Christ did not abolish the law (Matt 5:17–19); every Old Testament stipulation continues unless revoked by later revelation.",
+        "Civil magistrates are bound to enforce God’s law, including its penalties, as \"ministers of God\" (Rom 13:4).",
+        "Every law-order is religious; neutrality is impossible, so the alternative to theonomy is autonomy.",
+        "The gospel will progressively transform cultures before Christ’s return (postmillennialism).",
+        "Change should come by regeneration, persuasion and lawful means, not by revolution."
+      ],
+      "keyTexts": [
+        "Matthew 5:17–19",
+        "Deuteronomy 4:5–8",
+        "Romans 13:1–4",
+        "Psalm 2",
+        "Westminster Confession 19.4 (\"general equity\")"
+      ],
+      "origin": "Rousas John Rushdoony, The Institutes of Biblical Law (1973), and Greg Bahnsen, Theonomy in Christian Ethics (1977), with Gary North and the Chalcedon Foundation (1965); antecedents in Puritan New England legal codes (e.g. John Cotton’s Moses his Judicials, 1636).",
+      "originYear": 1973,
+      "proponentIds": [
+        "rousas-rushdoony"
+      ],
+      "proponentsOther": [
+        "Greg L. Bahnsen",
+        "Gary North",
+        "Kenneth Gentry",
+        "Gary DeMar",
+        "Douglas Wilson (adjacent)"
+      ],
+      "traditionIds": [
+        "presbyterian",
+        "reformed"
+      ],
+      "strongestArguments": [
+        "Matthew 5:17–19 seems to affirm the continuing validity of \"the least of these commandments\".",
+        "Deuteronomy 4:6–8 presents Israel’s statutes as a model of justice for the nations.",
+        "If the state must legislate morality somehow, it is better to use God’s revealed standards than human preferences."
+      ],
+      "strongestObjections": [
+        "Israel’s civil law belonged to a unique theocratic covenant; WCF 19.4 says it \"expired together with the State of that people\" (Barker and Godfrey, 1990).",
+        "The New Testament never calls on states to enforce the Mosaic penalties; Jesus and Paul apply church discipline, not civil death penalties, to sinners (John 8; 1 Cor 5).",
+        "Critics across the spectrum warn of coercion of religious minorities and dissenters, the very persecution Baptists and others suffered under confessional states."
+      ],
+      "responses": [
+        "Theonomists answer that \"general equity\" means the abiding moral principle of each judicial law, which they seek to apply.",
+        "They argue that coercion is limited because the Mosaic law itself restrains the state, and that theonomy is achieved by persuasion over generations."
+      ],
+      "consequences": [
+        "Influenced the US Christian home-school movement and parts of the Religious Right, though few adopted full theonomy.",
+        "Prompted extensive Reformed critique and clarification of Westminster’s doctrine of the law.",
+        "Revived in some online \"Christian nationalism\" debates of the 2020s."
+      ],
+      "relatedPositionIds": [
+        "postmillennialism",
+        "christian-nationalism-debates",
+        "covenant-theology",
+        "constantinian-synthesis"
+      ],
+      "standing": "minority",
+      "sources": [
+        "barker-godfrey-theonomy",
+        "bahnsen-theonomy",
+        "whitehead-perry-taking-america"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "christian-sabbath-sabbatarian",
+      "doctrineId": "covenant-law",
+      "name": "Christian Sabbath (first-day Sabbatarianism)",
+      "altNames": [
+        "Puritan Sabbath",
+        "Lord’s Day Sabbatarianism",
+        "Westminster view of the Lord’s Day"
+      ],
+      "oneLine": "The fourth commandment is a perpetual moral law grounded in creation; since Christ’s resurrection the Sabbath has been transferred to the first day, which should be kept wholly for worship, rest and works of necessity and mercy.",
+      "coreClaims": [
+        "The Sabbath was instituted at creation (Gen 2:2–3) before Moses, so it is not merely ceremonial.",
+        "The fourth commandment stands among the moral Ten Commandments.",
+        "The resurrection moved the day to the first day of the week, \"the Lord’s Day\" (Acts 20:7; 1 Cor 16:2; Rev 1:10).",
+        "The whole day is to be devoted to public and private worship, rest from ordinary work and recreations, and mercy (WCF 21.8)."
+      ],
+      "keyTexts": [
+        "Genesis 2:2–3",
+        "Exodus 20:8–11",
+        "Isaiah 58:13–14",
+        "Mark 2:27–28",
+        "Hebrews 4:9",
+        "Westminster Confession 21.7–8"
+      ],
+      "origin": "Developed in English Puritanism (Nicholas Bownde, The Doctrine of the Sabbath, 1595) amid controversy over James I’s Book of Sports (1618, reissued 1633); codified by the Westminster Assembly (1647) and expounded by John Owen (Exercitations on the Lord’s Day, 1671). It shaped Scottish, Welsh, New England and later Korean and Pacific Islander Protestant culture.",
+      "originYear": 1595,
+      "proponentIds": [
+        "john-owen",
+        "richard-baxter",
+        "jonathan-edwards"
+      ],
+      "proponentsOther": [
+        "Nicholas Bownde",
+        "Lancelot Andrewes (moderate)",
+        "Robert Murray M’Cheyne",
+        "Joseph Pipa",
+        "Free Church of Scotland"
+      ],
+      "traditionIds": [
+        "presbyterian",
+        "reformed",
+        "congregationalist",
+        "baptist"
+      ],
+      "strongestArguments": [
+        "Its roots in creation and placement in the Decalogue suggest permanence.",
+        "Hebrews 4:9 says \"there remaineth therefore a rest (sabbatismos) to the people of God\".",
+        "The early church’s shift to the first day is best explained as apostolic practice reflecting the resurrection."
+      ],
+      "strongestObjections": [
+        "No New Testament text explicitly transfers the Sabbath command to Sunday; Paul treats days as matters of conscience (Rom 14:5; Col 2:16).",
+        "Seventh-day keepers object that if the commandment is moral and perpetual, its specified day should be too.",
+        "Many Christians (Lutherans, Calvin himself, Catholics) regard strict Sabbatarianism as a legalism the Reformers did not hold."
+      ],
+      "responses": [
+        "Sabbatarians reply that the principle of one day in seven is moral while the specific day is determined by redemptive history, as the resurrection shows.",
+        "They read Colossians 2:16 as referring to Jewish ceremonial sabbaths, not the creation ordinance."
+      ],
+      "consequences": [
+        "\"Blue laws\" and Sunday closing in Britain, North America and elsewhere.",
+        "Campaigns against Sunday trading, sport and mail delivery (19th–20th centuries).",
+        "Persistent Sunday observance cultures in Scotland’s Hebrides, Korea, Tonga and Samoa."
+      ],
+      "relatedPositionIds": [
+        "lords-day-non-sabbatarian",
+        "seventh-day-sabbath",
+        "covenant-theology",
+        "three-uses-of-the-law"
+      ],
+      "standing": "minority",
+      "sources": [
+        "carson-sabbath-lords-day",
+        "schaff-creeds",
+        "macculloch-reformation"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "lords-day-non-sabbatarian",
+      "doctrineId": "covenant-law",
+      "name": "The Lord’s Day as Christian festival (non-Sabbatarian)",
+      "altNames": [
+        "Lord’s Day as new-creation day",
+        "Sunday obligation (Catholic)",
+        "Continental Reformed / Lutheran view"
+      ],
+      "oneLine": "The seventh-day Sabbath was a sign for Israel fulfilled in Christ’s rest; Christians gather on the first day, the day of resurrection, by apostolic custom and church order, keeping it joyfully without imposing Jewish Sabbath rules.",
+      "coreClaims": [
+        "The Sabbath command’s ceremonial aspect is fulfilled in Christ, who gives rest to the weary (Matt 11:28; Heb 4).",
+        "The Lord’s Day is the \"eighth day\" of new creation, celebrated with the Eucharist since apostolic times.",
+        "The church may appoint the day and rules for its observance; Catholics are obliged to attend Mass on Sundays and holy days (CCC 2180–2185).",
+        "Rest and worship remain good, but strict prohibitions are not binding law."
+      ],
+      "keyTexts": [
+        "Colossians 2:16–17",
+        "Romans 14:5–6",
+        "Acts 20:7",
+        "Revelation 1:10",
+        "Ignatius, Magnesians 9",
+        "Augsburg Confession XXVIII"
+      ],
+      "origin": "The early church worshipped on Sunday from at least c.110 (Ignatius; Pliny’s letter c.112; Justin, First Apology 67, c.155); Constantine made Sunday a civil day of rest (321). Aquinas treated the Sabbath command as partly moral, partly ceremonial; Luther (Large Catechism, 1529) and Calvin (Institutes 2.8.28–34) rejected Sabbatarian legalism.",
+      "originYear": 110,
+      "proponentIds": [
+        "ignatius-of-antioch",
+        "justin-martyr",
+        "thomas-aquinas",
+        "martin-luther",
+        "john-calvin"
+      ],
+      "proponentsOther": [
+        "Constantine I (civil Sunday rest, 321)",
+        "D. A. Carson",
+        "Douglas Moo",
+        "John Paul II (Dies Domini, 1998)"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-orthodox",
+        "lutheran",
+        "reformed",
+        "anglican",
+        "methodist",
+        "evangelical",
+        "pentecostal"
+      ],
+      "strongestArguments": [
+        "Paul classes Sabbaths with festivals and new moons as \"a shadow of things to come\" (Col 2:16–17).",
+        "The earliest post-apostolic witnesses consistently describe a Sunday gathering, not a transferred Sabbath.",
+        "It honours Jesus’ teaching that \"the sabbath was made for man, and not man for the sabbath\" (Mark 2:27)."
+      ],
+      "strongestObjections": [
+        "Sabbatarians argue it weakens a creation ordinance and leads to secularised Sundays.",
+        "Seventh-day keepers argue that the change of day lacks biblical warrant and reflects later church authority.",
+        "Some critics see Catholic Sunday obligation as itself a new legal rule."
+      ],
+      "responses": [
+        "Advocates answer that the Lord’s Day is kept out of love and the need for common worship, and that weakening of observance stems from culture, not theology.",
+        "They point to the pre-Constantinian evidence (Ignatius, Didache 14, Justin) to show that Sunday worship was apostolic, not imperial or papal."
+      ],
+      "consequences": [
+        "Sunday as the near-universal Christian day of worship.",
+        "Catholic and Orthodox structuring of the week around the Sunday Eucharist.",
+        "Modern relaxations of Sunday laws accepted by most churches."
+      ],
+      "relatedPositionIds": [
+        "christian-sabbath-sabbatarian",
+        "seventh-day-sabbath",
+        "new-covenant-theology",
+        "law-gospel-distinction"
+      ],
+      "standing": "majority",
+      "sources": [
+        "carson-sabbath-lords-day",
+        "bradshaw-origins-worship",
+        "catechism-catholic-church"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "seventh-day-sabbath",
+      "doctrineId": "covenant-law",
+      "name": "Seventh-day Sabbath observance",
+      "altNames": [
+        "Seventh-day Sabbatarianism",
+        "Saturday Sabbath"
+      ],
+      "oneLine": "The fourth commandment still requires Christians to rest and worship on the seventh day (Friday sunset to Saturday sunset); the change to Sunday was a later human tradition.",
+      "coreClaims": [
+        "The Sabbath is a creation ordinance blessed by God for all humanity (Gen 2:2–3; Mark 2:27).",
+        "Jesus and the apostles kept the seventh-day Sabbath; no text authorises a change of day.",
+        "The Decalogue is the eternal moral law, written by God’s finger, and the Sabbath is at its centre.",
+        "For Seventh-day Adventists the Sabbath will be a final test of loyalty to God (Rev 14:12).",
+        "Some Ethiopian and Eritrean Orthodox practice honours both the seventh day and Sunday."
+      ],
+      "keyTexts": [
+        "Genesis 2:2–3",
+        "Exodus 20:8–11; 31:16–17",
+        "Isaiah 66:23",
+        "Luke 4:16; 23:56",
+        "Hebrews 4:9",
+        "Revelation 14:12"
+      ],
+      "origin": "Seventh-day observance continued among some early Christians alongside Sunday (Apostolic Constitutions 7.23) and in Ethiopia, where Emperor Zara Yaqob’s council (c.1450) upheld Saturday observance alongside Sunday; in Protestantism among Seventh Day Baptists in England (1650s) and Rhode Island (1671); adopted by Sabbatarian Adventists after 1846 (Joseph Bates; Ellen G. White) and the Seventh-day Adventist Church (1863); also Church of God (Seventh Day) and some Messianic congregations.",
+      "originYear": 1650,
+      "proponentIds": [
+        "ellen-g-white"
+      ],
+      "proponentsOther": [
+        "Joseph Bates",
+        "Rachel Oakes Preston",
+        "Samuele Bacchiocchi",
+        "Seventh Day Baptists",
+        "Zara Yaqob (Ethiopian dual observance)"
+      ],
+      "traditionIds": [
+        "seventh-day-adventist",
+        "baptist",
+        "ethiopian-orthodox-tewahedo"
+      ],
+      "strongestArguments": [
+        "The text of the commandment specifies \"the seventh day\"; changing the day changes the commandment.",
+        "The New Testament repeatedly records Jesus and Paul in synagogue \"on the sabbath day\" (Luke 4:16; Acts 17:2).",
+        "Sunday worship became fixed in part through anti-Jewish polemic and imperial law (Bacchiocchi)."
+      ],
+      "strongestObjections": [
+        "Paul declares that no one should judge Christians regarding Sabbath days (Col 2:16) and treats days as matters of conscience (Rom 14:5).",
+        "The earliest Christian sources (Ignatius, Didache, Justin) show first-day assembly within decades of the apostles.",
+        "Critics argue the Adventist teaching on the Sabbath as eschatological test risks legalism and judgement of other Christians."
+      ],
+      "responses": [
+        "Sabbath-keepers reply that Colossians 2:16 addresses ceremonial sabbaths and that early Sunday gatherings did not abolish the seventh-day rest.",
+        "Adventists stress that the Sabbath is a gift of grace and sign of creation and redemption, not a means of salvation."
+      ],
+      "consequences": [
+        "Defining practice of more than 20 million Seventh-day Adventists worldwide.",
+        "Legal cases on Sabbath accommodation in employment and education.",
+        "Adventist health and education institutions built around the Sabbath rhythm."
+      ],
+      "relatedPositionIds": [
+        "christian-sabbath-sabbatarian",
+        "lords-day-non-sabbatarian",
+        "millerism",
+        "historicism"
+      ],
+      "standing": "minority",
+      "sources": [
+        "bacchiocchi-sabbath-sunday",
+        "land-adventism",
+        "sda-statistics",
+        "carson-sabbath-lords-day"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "tithing",
+      "doctrineId": "covenant-law",
+      "name": "Tithing as a binding Christian obligation",
+      "altNames": [
+        "Storehouse tithing",
+        "Ecclesiastical tithe",
+        "The tithe"
+      ],
+      "oneLine": "Christians should give a tenth of their income to God through the church, a practice that predates Moses (Abraham, Jacob), was commended by Jesus and is the baseline of faithful stewardship.",
+      "coreClaims": [
+        "Abraham’s tithe to Melchizedek (Gen 14:20) and Jacob’s vow (Gen 28:22) precede the Law, so tithing is not merely Mosaic.",
+        "Malachi 3:8–10 calls withholding tithes robbing God and promises blessing to faithful givers.",
+        "Jesus affirmed tithing: \"these ought ye to have done\" (Matt 23:23).",
+        "The tithe belongs to the local church (\"storehouse\"); offerings are given beyond it."
+      ],
+      "keyTexts": [
+        "Genesis 14:18–20; 28:22",
+        "Leviticus 27:30–32",
+        "Numbers 18:21–28",
+        "Deuteronomy 14:22–29",
+        "Malachi 3:8–10",
+        "Matthew 23:23",
+        "1 Corinthians 16:2",
+        "2 Corinthians 8–9"
+      ],
+      "origin": "Some early writers urged Christians to exceed the tithe (Irenaeus, Against Heresies 4.18); the Second Council of Mâcon (585) and Charlemagne (779) made tithes compulsory church law in the West. Abolished or commuted in modern Europe (France 1789; England, Tithe Commutation Act 1836), the voluntary tithe was revived among 19th–20th-century evangelicals, Adventists, Latter-day Saints (revelation of 1838) and Pentecostals.",
+      "originYear": 585,
+      "proponentIds": [
+        "charlemagne",
+        "joseph-smith",
+        "oral-roberts"
+      ],
+      "proponentsOther": [
+        "Second Council of Mâcon",
+        "Seventh-day Adventist Church",
+        "R. T. Kendall (The Gift of Giving)",
+        "many Pentecostal and African independent churches"
+      ],
+      "traditionIds": [
+        "catholic",
+        "seventh-day-adventist",
+        "latter-day-saints",
+        "pentecostal",
+        "assemblies-of-god",
+        "baptist",
+        "african-initiated-churches"
+      ],
+      "strongestArguments": [
+        "The pre-Mosaic examples show the tithe as an enduring pattern of honouring God.",
+        "A clear baseline guards against vague generosity that in practice becomes minimal.",
+        "Churches and missions depend on regular giving; many testify to blessing through faithful tithing."
+      ],
+      "strongestObjections": [
+        "The New Testament never commands Christians to tithe; Paul’s collection teaching (2 Cor 8–9) stresses freedom and cheerfulness, \"not of necessity\".",
+        "Israel’s tithes funded the Levitical system and festivals and were agricultural; transferring them to modern income is inconsistent.",
+        "Prosperity teaching that promises financial return for tithing can exploit the poor (a criticism made by Lausanne’s Cape Town Commitment, 2010)."
+      ],
+      "responses": [
+        "Tithing advocates reply that the New Testament standard of generosity is higher, not lower, and that the tithe is a sensible starting point.",
+        "Many teach tithing as a voluntary covenant of gratitude, not a condition of salvation, and reject manipulative \"seed-faith\" forms."
+      ],
+      "consequences": [
+        "Medieval tithe barns, disputes and anticlerical revolts; abolition in revolutionary France.",
+        "Major funding model for evangelical, Adventist, LDS and Pentecostal churches today.",
+        "State church taxes (e.g. German Kirchensteuer) as a modern successor in some countries."
+      ],
+      "relatedPositionIds": [
+        "word-of-faith-prosperity",
+        "covenant-theology",
+        "law-gospel-distinction"
+      ],
+      "standing": "significant",
+      "sources": [
+        "croteau-tithing",
+        "odcc",
+        "schaff-history",
+        "cape-town-commitment"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "controversies": [
+    {
+      "id": "antinomian-controversies",
+      "question": "Should the law be preached to those already justified by grace?",
+      "title": "The antinomian controversies: Wittenberg, Boston and Edinburgh",
+      "summary": "Three times Protestants who agreed on justification by faith alone fought over the law’s place in the Christian life: Agricola against Melanchthon and Luther (1527–40), Anne Hutchinson against the Massachusetts ministers (1636–38) and the Marrow men against the Church of Scotland (1718–23).",
+      "doctrineIds": [
+        "covenant-law",
+        "salvation"
+      ],
+      "sides": [
+        {
+          "name": "Free-grace / antinomian protest",
+          "positionId": "antinomianism",
+          "steelman": "We are justified wholly by Christ, and the Spirit himself bears witness that we are God’s children. When preachers drive believers back to the law and make them search their works for assurance, they quietly turn grace into a new covenant of works. Let Christ’s love be preached, and holiness will follow as fruit, not as fee.",
+          "arguments": [
+            "Romans 6:14 and 7:4: believers are dead to the law",
+            "Repentance is worked by the gospel",
+            "Assurance by the Spirit’s witness, not by sanctification",
+            "Preparationism breeds anxiety and pride"
+          ],
+          "counterArguments": [
+            "Romans 6:1–2 rejects continuing in sin",
+            "Paul gives believers many commands",
+            "Private revelation cannot be tested"
+          ],
+          "keyTexts": [
+            "Romans 6:14; 7:4–6",
+            "Galatians 2:19–20",
+            "Romans 8:15–16",
+            "1 Timothy 1:9"
+          ],
+          "quoteIds": [
+            "hutchinson-examination-para"
+          ]
+        },
+        {
+          "name": "Law and gospel with a third use",
+          "positionId": "three-uses-of-the-law",
+          "steelman": "The law is holy, just and good. Without it sin is not known and grace is cheapened. It drives sinners to Christ and then, written on the heart by the Spirit, shows the redeemed how to love God and neighbour. To silence the law is to silence Scripture.",
+          "arguments": [
+            "By the law is the knowledge of sin (Rom 3:20)",
+            "New covenant writes the law on the heart",
+            "Formula of Concord VI and Westminster 19",
+            "Pastoral need for moral guidance"
+          ],
+          "counterArguments": [
+            "Risks legalism and introspection",
+            "Blurs law and gospel"
+          ],
+          "keyTexts": [
+            "Romans 3:20; 7:7–12; 13:8–10",
+            "Jeremiah 31:33",
+            "Psalm 119"
+          ],
+          "quoteIds": [
+            "calvin-third-use",
+            "formula-concord-law-gospel-para"
+          ]
+        },
+        {
+          "name": "Marrow men: the free offer of Christ",
+          "positionId": "covenant-theology",
+          "steelman": "We hold the Westminster Confession, but our church is confusing the covenants. Christ is to be freely offered to every sinner as he is, without first requiring a qualifying repentance; the believer is free from the law as a covenant of works yet bound to it as the rule of life in Christ’s hand.",
+          "arguments": [
+            "Free offer of the gospel to all",
+            "Repentance as fruit of faith",
+            "Distinguishing law as covenant from law as rule"
+          ],
+          "counterArguments": [
+            "General Assembly saw universal-redemption and antinomian tendencies"
+          ],
+          "keyTexts": [
+            "John 3:16",
+            "Isaiah 55:1",
+            "Westminster Confession 19.6"
+          ],
+          "quoteIds": [
+            "boston-marrow-para"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 1527,
+          "text": "Agricola attacks Melanchthon’s Visitation Articles for teaching that repentance begins with the law."
+        },
+        {
+          "year": 1530,
+          "text": "The Augsburg Confession presents repentance as contrition and faith.",
+          "eventId": "augsburg-confession-1530"
+        },
+        {
+          "year": 1539,
+          "text": "Luther publishes Against the Antinomians after a series of disputations; Agricola recants in 1540."
+        },
+        {
+          "year": 1577,
+          "text": "Formula of Concord Articles V–VI define law and gospel and the third use.",
+          "eventId": "formula-of-concord-1577"
+        },
+        {
+          "year": 1630,
+          "text": "Puritans found Massachusetts Bay, stressing covenant and preparation for grace.",
+          "eventId": "massachusetts-bay-1630"
+        },
+        {
+          "year": 1637,
+          "text": "Anne Hutchinson tried at Newtown and banished; a synod condemns some eighty errors.",
+          "eventId": "antinomian-controversy-1637"
+        },
+        {
+          "year": 1647,
+          "text": "Westminster Confession defines the covenants and the law’s abiding use.",
+          "eventId": "westminster-assembly-1643"
+        },
+        {
+          "year": 1720,
+          "text": "The Church of Scotland’s General Assembly condemns The Marrow of Modern Divinity.",
+          "eventId": "marrow-controversy-1718"
+        },
+        {
+          "year": 1733,
+          "text": "Ebenezer Erskine and others form the Secession Church, partly in the Marrow tradition."
+        }
+      ],
+      "resolution": {
+        "kind": "mixed",
+        "text": "Each episode ended with the official church rejecting the \"antinomian\" party (Formula of Concord 1577; Massachusetts synod 1637; General Assembly 1720), yet the protesters’ concerns about legalism and assurance were partly absorbed: Lutheranism kept a sharp law–gospel distinction, and the Marrow theology became influential in Scottish evangelicalism. The underlying question resurfaces in modern free-grace, lordship and \"hyper-grace\" debates."
+      },
+      "consequences": [
+        "Clarified Lutheran and Reformed teaching on the law and sanctification.",
+        "Banishments that contributed to Rhode Island’s founding as a haven of dissent.",
+        "Fed the Scottish Secession of 1733.",
+        "Provided vocabulary for later evangelical debates over assurance and holiness."
+      ],
+      "sources": [
+        "wengert-law-gospel",
+        "winship-making-heretics",
+        "lachman-marrow",
+        "book-of-concord"
+      ]
+    },
+    {
+      "id": "israel-and-the-church",
+      "question": "Has the Church replaced Israel, or does God’s covenant with the Jewish people endure?",
+      "title": "Israel and the Church: supersession, distinction or enduring covenant?",
+      "summary": "Christians have long read themselves as the new or true Israel. After centuries of anti-Jewish teaching and the Shoah, churches have reconsidered: dispensationalists insist on a distinct future for Israel, post-supersessionists on an irrevocable Jewish covenant, Messianic Jews on Jewish identity in Christ, and fulfilment theologians on one people of God in the Messiah.",
+      "doctrineIds": [
+        "covenant-law",
+        "eschatology",
+        "mission-religions"
+      ],
+      "sides": [
+        {
+          "name": "Fulfilment (supersessionist) view",
+          "positionId": "supersessionism",
+          "steelman": "Jesus is Israel’s Messiah and in him the promises to Abraham reach their goal: one new people of Jews and Gentiles. This is not hostility to Jews but the conviction that the Jewish Messiah is for Jews first. Contempt and violence were betrayals of Paul’s warning against Gentile pride, not the fruit of believing that Christ fulfils the Law.",
+          "arguments": [
+            "One olive tree, one new man (Rom 11; Eph 2)",
+            "Hebrews: first covenant made old",
+            "Israel’s titles applied to the church (1 Pet 2:9)"
+          ],
+          "counterArguments": [
+            "Romans 11:29: irrevocable calling",
+            "History of the teaching of contempt"
+          ],
+          "keyTexts": [
+            "Galatians 3:29",
+            "Ephesians 2:11–22",
+            "Hebrews 8:13"
+          ],
+          "quoteIds": [
+            "justin-true-israel",
+            "augustine-witness-jews"
+          ]
+        },
+        {
+          "name": "Dispensational distinction",
+          "positionId": "dispensationalism-israel-church",
+          "steelman": "God swore unconditional oaths to Abraham’s descendants about a land and a kingdom. If he could set those aside, how could the church trust his promises? Israel and the church are distinct, and Israel’s national restoration is still to come.",
+          "arguments": [
+            "Unconditional Abrahamic covenant",
+            "Acts 1:6–7 assumes future restoration",
+            "Romans 11:26"
+          ],
+          "counterArguments": [
+            "Ephesians 2: dividing wall broken",
+            "NT applies Israel texts to the church"
+          ],
+          "keyTexts": [
+            "Genesis 15; 17:7–8",
+            "Jeremiah 31:35–37",
+            "Romans 11:25–29"
+          ],
+          "quoteIds": [
+            "darby-heavenly-people"
+          ]
+        },
+        {
+          "name": "Enduring covenant / bilateral view",
+          "positionId": "two-covenant-bilateral",
+          "steelman": "Paul says God has not rejected his people and that his gifts and calling are irrevocable. After Auschwitz, Christians must repent not only of violence but of a theology that made the Jewish people obsolete. God’s faithfulness to Israel is the guarantee of his faithfulness to the church.",
+          "arguments": [
+            "Romans 11:1, 29",
+            "Torah-observant Jewish believers in Acts",
+            "Moral reckoning after the Shoah"
+          ],
+          "counterArguments": [
+            "John 14:6; Acts 4:12",
+            "Paul’s anguish for Israel (Rom 9:1–3)"
+          ],
+          "keyTexts": [
+            "Romans 9:4–5; 11:1–2, 29",
+            "Acts 21:20–26"
+          ],
+          "quoteIds": [
+            "nostra-aetate-jews-para"
+          ]
+        },
+        {
+          "name": "Messianic Jewish view",
+          "positionId": "messianic-jewish",
+          "steelman": "Yeshua is Israel’s Messiah, and believing in him makes us no less Jewish. The first church was Jewish; Jewish believers should keep their identity and bear witness among their people, while Gentiles join as Gentiles.",
+          "arguments": [
+            "Apostolic Jewish practice",
+            "Romans 1:16: to the Jew first",
+            "Remnant of Israel"
+          ],
+          "counterArguments": [
+            "Rejected by Jewish communities",
+            "Risk of two-tier church"
+          ],
+          "keyTexts": [
+            "Romans 11:5",
+            "Acts 15; 21"
+          ],
+          "quoteIds": []
+        }
+      ],
+      "timeline": [
+        {
+          "year": 49,
+          "text": "The Jerusalem council frees Gentile believers from circumcision.",
+          "eventId": "council-of-jerusalem-49"
+        },
+        {
+          "year": 70,
+          "text": "The Temple is destroyed; Christians read it as judgement and vindication.",
+          "eventId": "fall-of-jerusalem-70"
+        },
+        {
+          "year": 135,
+          "text": "After the Bar Kokhba revolt the Jerusalem church becomes wholly Gentile-led.",
+          "eventId": "bar-kokhba-revolt-132"
+        },
+        {
+          "year": 144,
+          "text": "Marcion rejects the God of Israel and is expelled.",
+          "eventId": "marcion-excommunicated-144"
+        },
+        {
+          "year": 1096,
+          "text": "Crusaders massacre Rhineland Jewish communities.",
+          "eventId": "first-crusade-1096"
+        },
+        {
+          "year": 1215,
+          "text": "Lateran IV requires Jews to wear distinctive dress.",
+          "eventId": "fourth-lateran-council-1215"
+        },
+        {
+          "year": 1492,
+          "text": "Expulsion of the Jews from Spain.",
+          "eventId": "spanish-inquisition-1478"
+        },
+        {
+          "year": 1909,
+          "text": "Scofield Reference Bible popularises the Israel–Church distinction.",
+          "eventId": "scofield-reference-bible-1909"
+        },
+        {
+          "year": 1965,
+          "text": "Nostra Aetate repudiates the deicide charge and antisemitism.",
+          "eventId": "nostra-aetate-1965"
+        },
+        {
+          "year": 2015,
+          "text": "Vatican document \"The Gifts and the Calling of God Are Irrevocable\" rejects institutional missions to Jews."
+        }
+      ],
+      "resolution": {
+        "kind": "dialogue",
+        "text": "Open. Since 1945 virtually all major churches have condemned antisemitism and the deicide charge, and many have renounced punitive supersessionism; but they still differ on whether Jews need explicit faith in Christ, whether missions to Jews are appropriate, and on Israel’s land and future. Dialogue continues through bodies such as the International Council of Christians and Jews."
+      },
+      "consequences": [
+        "Catholic and Protestant revisions of catechesis and liturgy (e.g. the Good Friday prayer).",
+        "Christian Zionism as a political force, and Palestinian Christian critiques of it.",
+        "Renewed scholarship on Paul and Judaism.",
+        "Growth of Messianic Jewish congregations."
+      ],
+      "sources": [
+        "soulen-god-of-israel",
+        "vlach-church-replace-israel",
+        "nirenberg-anti-judaism",
+        "gifts-calling-2015",
+        "kinzer-postmissionary"
+      ]
+    }
+  ],
+  "people": [
+    {
+      "id": "johann-agricola",
+      "name": "Johann Agricola",
+      "born": 1494,
+      "died": 1566,
+      "circa": true,
+      "roles": [
+        "Lutheran reformer",
+        "court preacher of Brandenburg"
+      ],
+      "traditionIds": [
+        "lutheran"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Eisleben-born pupil and colleague of Luther whose insistence that repentance flows from the gospel, not the preaching of the law, sparked the first antinomian controversies: with Melanchthon over the Saxon Visitation Articles (1527) and with Luther himself (1537–40). He recanted in 1540, became court preacher in Berlin and helped draft the Augsburg Interim (1548).",
+      "keyIdeas": [
+        "Repentance is worked by the gospel, not the law",
+        "The law belongs in the courthouse, not the pulpit",
+        "Opposition to the Visitation Articles of 1527"
+      ],
+      "influencedBy": [
+        "martin-luther"
+      ],
+      "place": {
+        "name": "Eisleben",
+        "lat": 51.528,
+        "lng": 11.548
+      },
+      "sources": [
+        "wengert-law-gospel",
+        "odcc",
+        "book-of-concord"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "anne-hutchinson",
+      "name": "Anne Hutchinson",
+      "born": 1591,
+      "died": 1643,
+      "circa": false,
+      "roles": [
+        "lay theologian",
+        "midwife",
+        "leader of a Bible-study circle"
+      ],
+      "traditionIds": [
+        "congregationalist"
+      ],
+      "regions": [
+        "north-america",
+        "western-europe"
+      ],
+      "summary": "Puritan laywoman whose meetings in Boston expounded John Cotton’s sermons and charged most Massachusetts ministers with preaching a \"covenant of works\". In the Free Grace (Antinomian) Controversy she was tried by the General Court (November 1637), banished, and excommunicated (March 1638); she settled in Rhode Island and was killed in New Netherland in 1643. Later celebrated as a pioneer of religious liberty and women’s religious leadership.",
+      "keyIdeas": [
+        "Assurance comes from the Spirit’s witness, not sanctification",
+        "Critique of \"legal\" preaching",
+        "Claimed immediate revelations"
+      ],
+      "influencedBy": [
+        "john-calvin"
+      ],
+      "place": {
+        "name": "Boston, Massachusetts Bay",
+        "lat": 42.358,
+        "lng": -71.06
+      },
+      "sources": [
+        "winship-making-heretics",
+        "ahlstrom-religious-history",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "johannes-cocceius",
+      "name": "Johannes Cocceius",
+      "born": 1603,
+      "died": 1669,
+      "circa": false,
+      "roles": [
+        "Reformed theologian",
+        "professor at Franeker and Leiden"
+      ],
+      "traditionIds": [
+        "reformed"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Bremen-born Hebraist whose Summa doctrinae de foedere et testamento Dei (1648) gave classic shape to federal (covenant) theology, reading Scripture as the historical unfolding of covenants and the progressive \"abrogation\" of the covenant of works. His followers clashed with Gisbertus Voetius’ party, including over whether the fourth commandment binds Christians as a strict Sabbath.",
+      "keyIdeas": [
+        "Covenant of works and covenant of grace",
+        "Salvation history unfolds in stages",
+        "Sabbath as ceremonial shadow"
+      ],
+      "influencedBy": [
+        "heinrich-bullinger"
+      ],
+      "place": {
+        "name": "Leiden",
+        "lat": 52.16,
+        "lng": 4.497
+      },
+      "sources": [
+        "weir-federal-theology",
+        "golding-covenant-theology",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "thomas-boston",
+      "name": "Thomas Boston",
+      "born": 1676,
+      "died": 1732,
+      "circa": false,
+      "roles": [
+        "Church of Scotland minister",
+        "Marrow man"
+      ],
+      "traditionIds": [
+        "presbyterian"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Minister of Ettrick in the Scottish Borders, author of Human Nature in its Fourfold State (1720). He recommended The Marrow of Modern Divinity, whose republication (1718) and condemnation by the General Assembly (1720) produced the Marrow controversy over the free offer of the gospel and the relation of law and grace.",
+      "keyIdeas": [
+        "Free offer of Christ to all sinners",
+        "Repentance follows rather than qualifies for faith",
+        "Fourfold state of human nature"
+      ],
+      "influencedBy": [
+        "john-calvin"
+      ],
+      "place": {
+        "name": "Ettrick, Scottish Borders",
+        "lat": 55.415,
+        "lng": -3.115
+      },
+      "sources": [
+        "lachman-marrow",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "rousas-rushdoony",
+      "name": "Rousas John Rushdoony",
+      "born": 1916,
+      "died": 2001,
+      "circa": false,
+      "roles": [
+        "Presbyterian minister",
+        "founder of the Chalcedon Foundation"
+      ],
+      "traditionIds": [
+        "presbyterian"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "Armenian-American Calvinist whose Institutes of Biblical Law (1973) launched Christian Reconstructionism, arguing that the law of Moses, including its civil penalties, remains God’s standard for every society. He also championed Christian schooling and home-schooling. Critics across the Reformed world regarded his programme as a misreading of covenant history.",
+      "keyIdeas": [
+        "Theonomy: God’s law for all spheres",
+        "Postmillennial dominion",
+        "Christian education independent of the state"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Vallecito, California",
+        "lat": 38.087,
+        "lng": -120.474
+      },
+      "sources": [
+        "barker-godfrey-theonomy",
+        "melton-encyclopedia"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "martin-chemnitz",
+      "name": "Martin Chemnitz",
+      "born": 1522,
+      "died": 1586,
+      "circa": false,
+      "roles": [
+        "Lutheran theologian",
+        "superintendent of Brunswick"
+      ],
+      "traditionIds": [
+        "lutheran"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "The \"second Martin\" of Lutheranism, author of the Examination of the Council of Trent (1565–73) and a principal drafter of the Formula of Concord (1577), which settled intra-Lutheran disputes including those over law and gospel and the third use of the law.",
+      "keyIdeas": [
+        "Formula of Concord",
+        "Examination of Trent",
+        "Two natures of Christ"
+      ],
+      "influencedBy": [
+        "martin-luther",
+        "philip-melanchthon"
+      ],
+      "place": {
+        "name": "Braunschweig",
+        "lat": 52.269,
+        "lng": 10.521
+      },
+      "sources": [
+        "book-of-concord",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "krister-stendahl",
+      "name": "Krister Stendahl",
+      "born": 1921,
+      "died": 2008,
+      "circa": false,
+      "roles": [
+        "New Testament scholar",
+        "dean of Harvard Divinity School",
+        "Lutheran bishop of Stockholm"
+      ],
+      "traditionIds": [
+        "lutheran"
+      ],
+      "regions": [
+        "northern-europe",
+        "north-america"
+      ],
+      "summary": "Swedish biblical scholar whose essay \"The Apostle Paul and the Introspective Conscience of the West\" (1963) and Paul among Jews and Gentiles (1976) argued that Paul’s concern was the inclusion of Gentiles, not the troubled Western conscience, and that Romans 9–11 leaves Israel’s salvation to God. A pioneer of Jewish–Christian dialogue and of the \"new perspective\" on Paul.",
+      "keyIdeas": [
+        "Paul as apostle to the Gentiles rather than convert from Judaism",
+        "Romans 9–11 as the climax of Romans",
+        "\"Holy envy\" in interfaith understanding"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Stockholm",
+        "lat": 59.329,
+        "lng": 18.069
+      },
+      "sources": [
+        "westerholm-perspectives",
+        "soulen-god-of-israel"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "joseph-rabinowitz",
+      "name": "Joseph Rabinowitz",
+      "born": 1837,
+      "died": 1899,
+      "circa": false,
+      "roles": [
+        "Hebrew-Christian leader",
+        "lawyer"
+      ],
+      "traditionIds": [
+        "evangelical"
+      ],
+      "regions": [
+        "eastern-europe"
+      ],
+      "summary": "Jewish lawyer from Bessarabia who, after a visit to Palestine in 1882, came to believe in Jesus as Messiah and founded in Kishinev the congregation \"Israelites of the New Covenant\" (1884), keeping Jewish customs such as circumcision and the Sabbath: a forerunner of modern Messianic Judaism.",
+      "keyIdeas": [
+        "Jesus as \"our brother\" and Messiah of Israel",
+        "Jewish believers retaining Jewish identity",
+        "Hebrew-Christian worship"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Kishinev (Chișinău)",
+        "lat": 47.01,
+        "lng": 28.863
+      },
+      "sources": [
+        "cohn-sherbok-messianic",
+        "bdcm"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "darrell-bock",
+      "name": "Darrell L. Bock",
+      "born": 1953,
+      "circa": false,
+      "roles": [
+        "New Testament scholar",
+        "Dallas Theological Seminary professor"
+      ],
+      "traditionIds": [
+        "evangelical"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "American evangelical New Testament scholar who, with Craig Blaising, articulated \"progressive dispensationalism\" (1993): the Davidic kingdom is already inaugurated in Christ’s present reign, while a future for national Israel remains.",
+      "keyIdeas": [
+        "Inaugurated Davidic kingdom",
+        "Israel and the Church distinct but not separate",
+        "Complementary hermeneutics"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Dallas, Texas",
+        "lat": 32.777,
+        "lng": -96.797
+      },
+      "sources": [
+        "blaising-bock-progressive"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "douglas-moo",
+      "name": "Douglas J. Moo",
+      "born": 1950,
+      "circa": false,
+      "roles": [
+        "New Testament scholar"
+      ],
+      "traditionIds": [
+        "evangelical"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "American evangelical commentator on Romans and Galatians who argued, notably in Five Views on Law and Gospel (1993/1996), that the Mosaic law as a whole, including the Decalogue as such, belongs to the old era and that Christians are bound by \"the law of Christ\", a view close to New Covenant Theology.",
+      "keyIdeas": [
+        "Salvation-historical reading of the law",
+        "Law of Christ",
+        "Romans commentary"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Wheaton, Illinois",
+        "lat": 41.866,
+        "lng": -88.107
+      },
+      "sources": [
+        "wells-zaspel-nct",
+        "westerholm-perspectives"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "stephen-wellum",
+      "name": "Stephen J. Wellum",
+      "born": 1964,
+      "circa": false,
+      "roles": [
+        "systematic theologian",
+        "Southern Baptist Theological Seminary professor"
+      ],
+      "traditionIds": [
+        "baptist"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "Canadian-born Baptist theologian who with Peter Gentry wrote Kingdom through Covenant (2012), proposing \"progressive covenantalism\": the biblical covenants unfold progressively and are all fulfilled in Christ, a middle way between covenant theology and dispensationalism that grounds believer’s baptism.",
+      "keyIdeas": [
+        "Progressive covenantalism",
+        "New covenant community as regenerate",
+        "Christology"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Louisville, Kentucky",
+        "lat": 38.253,
+        "lng": -85.759
+      },
+      "sources": [
+        "gentry-wellum-kingdom"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "events": [
+    {
+      "id": "formula-of-concord-1577",
+      "title": "Formula of Concord",
+      "year": 1577,
+      "circa": false,
+      "place": {
+        "name": "Bergen Abbey near Magdeburg",
+        "lat": 52.12,
+        "lng": 11.63
+      },
+      "category": "council",
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "German Lutheran theologians led by Jakob Andreae and Martin Chemnitz adopt the Formula of Concord, settling a generation of disputes; Articles V and VI define the distinction of law and gospel and affirm a \"third use\" of the law for the regenerate. It entered the Book of Concord (1580).",
+      "causes": [
+        "Disputes after Luther’s death (Majoristic, antinomian, synergist, Osiandrian)"
+      ],
+      "consequences": [
+        "Book of Concord (1580)",
+        "Lutheran confessional identity"
+      ],
+      "peopleIds": [
+        "martin-chemnitz"
+      ],
+      "doctrineIds": [
+        "covenant-law",
+        "salvation"
+      ],
+      "traditionIds": [
+        "lutheran"
+      ],
+      "sources": [
+        "book-of-concord",
+        "schaff-creeds"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "antinomian-controversy-1637",
+      "title": "Free Grace (Antinomian) Controversy in Massachusetts",
+      "year": 1636,
+      "endYear": 1638,
+      "circa": false,
+      "place": {
+        "name": "Newtown (Cambridge), Massachusetts",
+        "lat": 42.373,
+        "lng": -71.119
+      },
+      "category": "reform",
+      "regions": [
+        "north-america"
+      ],
+      "summary": "Anne Hutchinson, John Wheelwright and (initially) John Cotton accuse Massachusetts ministers of preaching a \"covenant of works\". A synod at Newtown condemns some eighty errors (August 1637); Hutchinson is tried and banished, and many supporters leave for Rhode Island.",
+      "causes": [
+        "Puritan debates over assurance and preparation for grace"
+      ],
+      "consequences": [
+        "Banishment of Hutchinson and Wheelwright",
+        "Growth of Rhode Island as a haven for dissenters"
+      ],
+      "peopleIds": [
+        "anne-hutchinson"
+      ],
+      "doctrineIds": [
+        "covenant-law",
+        "salvation"
+      ],
+      "traditionIds": [
+        "congregationalist"
+      ],
+      "sources": [
+        "winship-making-heretics",
+        "ahlstrom-religious-history"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "marrow-controversy-1718",
+      "title": "Marrow controversy in the Church of Scotland",
+      "year": 1718,
+      "endYear": 1723,
+      "circa": false,
+      "place": {
+        "name": "Edinburgh",
+        "lat": 55.953,
+        "lng": -3.188
+      },
+      "category": "reform",
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "The republication of The Marrow of Modern Divinity (1645), commended by Thomas Boston, provokes the General Assembly to condemn it (1720) as antinomian; twelve \"Marrow men\" protest (1721). The debate over the free offer of the gospel feeds the Secession of 1733.",
+      "causes": [
+        "Auchterarder Creed case (1717)",
+        "Disputes over legal preparation for grace"
+      ],
+      "consequences": [
+        "Secession Church (1733)",
+        "Lasting Scottish debate over the free offer"
+      ],
+      "peopleIds": [
+        "thomas-boston"
+      ],
+      "doctrineIds": [
+        "covenant-law",
+        "salvation"
+      ],
+      "traditionIds": [
+        "presbyterian"
+      ],
+      "sources": [
+        "lachman-marrow",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "nostra-aetate-1965",
+      "title": "Nostra Aetate",
+      "year": 1965,
+      "circa": false,
+      "place": {
+        "name": "St Peter’s Basilica, Rome",
+        "lat": 41.902,
+        "lng": 12.454
+      },
+      "category": "council",
+      "regions": [
+        "global",
+        "italy"
+      ],
+      "summary": "Vatican II’s declaration on non-Christian religions (28 October 1965) states that the Jews as a people cannot be charged with Christ’s death, that they remain dear to God for the sake of the patriarchs, and that the Church deplores antisemitism; it also speaks respectfully of Islam, Hinduism and Buddhism.",
+      "causes": [
+        "The Shoah",
+        "John XXIII’s meeting with Jules Isaac (1960)",
+        "Seelisberg theses (1947)"
+      ],
+      "consequences": [
+        "Catholic–Jewish dialogue",
+        "Revision of catechetical teaching about Jews",
+        "Model for interreligious dialogue"
+      ],
+      "peopleIds": [
+        "paul-vi",
+        "john-xxiii"
+      ],
+      "doctrineIds": [
+        "covenant-law",
+        "mission-religions"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "sources": [
+        "nostra-aetate-1965-text",
+        "omalley-vatican-ii"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "second-council-of-macon-585",
+      "title": "Second Council of Mâcon orders the tithe",
+      "year": 585,
+      "circa": false,
+      "place": {
+        "name": "Mâcon",
+        "lat": 46.307,
+        "lng": 4.828
+      },
+      "category": "council",
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "A Frankish council at Mâcon commands the faithful to pay tithes under pain of excommunication, an early step toward the compulsory ecclesiastical tithe that Charlemagne’s capitularies (779) made law across his empire.",
+      "causes": [],
+      "consequences": [
+        "Compulsory tithe in Western Christendom",
+        "Later anticlerical tithe revolts and abolitions (France 1789)"
+      ],
+      "peopleIds": [],
+      "doctrineIds": [
+        "covenant-law"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "sources": [
+        "odcc",
+        "schaff-history"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "works": [
+    {
+      "id": "ignatius-letter-to-the-magnesians",
+      "title": "Letter to the Magnesians",
+      "authorId": "ignatius-of-antioch",
+      "year": 110,
+      "circa": true,
+      "language": "Greek",
+      "genre": "letter",
+      "summary": "Ignatius urges the church at Magnesia to unity under its bishop and warns against \"Judaizing\".",
+      "significance": "Early witness to Christians keeping the Lord’s Day rather than the Sabbath.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/0105.htm",
+      "doctrineIds": [
+        "covenant-law",
+        "church-sacraments"
+      ],
+      "sources": [
+        "anf-npnf"
+      ]
+    },
+    {
+      "id": "luther-how-christians-regard-moses",
+      "title": "How Christians Should Regard Moses",
+      "authorId": "martin-luther",
+      "year": 1525,
+      "circa": false,
+      "language": "German",
+      "genre": "sermon",
+      "summary": "Luther argues that the law of Moses was given to Israel and binds Gentiles only where it agrees with natural law; Christians read Moses for its promises and examples.",
+      "significance": "Classic Lutheran statement against both legalism and the enthusiasts’ use of Mosaic law.",
+      "doctrineIds": [
+        "covenant-law"
+      ],
+      "sources": [
+        "book-of-concord",
+        "mcgrath-reformation-thought"
+      ]
+    },
+    {
+      "id": "formula-of-concord",
+      "title": "Formula of Concord",
+      "authorId": "martin-chemnitz",
+      "author": "Jakob Andreae, Martin Chemnitz, Nikolaus Selnecker and others",
+      "year": 1577,
+      "circa": false,
+      "language": "German",
+      "genre": "confession",
+      "summary": "Twelve articles resolving post-Luther controversies, including Article V (Law and Gospel) and Article VI (Third Use of the Law).",
+      "significance": "Final confession of the Lutheran Book of Concord (1580).",
+      "doctrineIds": [
+        "covenant-law",
+        "salvation"
+      ],
+      "sources": [
+        "book-of-concord",
+        "schaff-creeds"
+      ]
+    },
+    {
+      "id": "bullinger-de-testamento",
+      "title": "On the One and Eternal Testament or Covenant of God (De testamento seu foedere Dei unico et aeterno)",
+      "authorId": "heinrich-bullinger",
+      "year": 1534,
+      "circa": false,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "Bullinger presents the whole of Scripture as one covenant of grace, made with Adam and Abraham and renewed in Christ.",
+      "significance": "The first treatise devoted to covenant as an organising theme of Reformed theology; it also undergirded Zurich’s defence of infant baptism.",
+      "doctrineIds": [
+        "covenant-law",
+        "baptism"
+      ],
+      "sources": [
+        "weir-federal-theology",
+        "golding-covenant-theology"
+      ]
+    },
+    {
+      "id": "cocceius-summa-de-foedere",
+      "title": "Summa doctrinae de foedere et testamento Dei",
+      "authorId": "johannes-cocceius",
+      "year": 1648,
+      "circa": false,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "Systematic account of the covenant of works and the covenant of grace as unfolding through successive historical economies.",
+      "significance": "The classic of \"federal\" theology and of Reformed biblical-historical theology.",
+      "doctrineIds": [
+        "covenant-law"
+      ],
+      "sources": [
+        "weir-federal-theology",
+        "odcc"
+      ]
+    },
+    {
+      "id": "marrow-of-modern-divinity",
+      "title": "The Marrow of Modern Divinity",
+      "author": "\"E.F.\" (usually identified as Edward Fisher)",
+      "year": 1645,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "Dialogue between a minister, a legalist, an antinomian and a young Christian on the covenants of works and grace.",
+      "significance": "Its 1718 republication triggered the Marrow controversy in Scotland.",
+      "doctrineIds": [
+        "covenant-law",
+        "salvation"
+      ],
+      "sources": [
+        "lachman-marrow"
+      ]
+    },
+    {
+      "id": "rushdoony-institutes-biblical-law",
+      "title": "The Institutes of Biblical Law",
+      "authorId": "rousas-rushdoony",
+      "year": 1973,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "Commentary on the Ten Commandments and Mosaic case law as the abiding standard for families, churches and civil governments.",
+      "significance": "Founding text of Christian Reconstructionism (theonomy).",
+      "doctrineIds": [
+        "covenant-law",
+        "ethics-church-state"
+      ],
+      "sources": [
+        "barker-godfrey-theonomy"
+      ]
+    },
+    {
+      "id": "nostra-aetate",
+      "title": "Nostra Aetate (Declaration on the Relation of the Church to Non-Christian Religions)",
+      "authorId": "paul-vi",
+      "year": 1965,
+      "circa": false,
+      "language": "Latin",
+      "genre": "canon",
+      "summary": "Short conciliar declaration on Hinduism, Buddhism, Islam and above all Judaism.",
+      "significance": "Turning point in Catholic teaching about Jews and other religions.",
+      "fullTextUrl": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html",
+      "doctrineIds": [
+        "covenant-law",
+        "mission-religions"
+      ],
+      "sources": [
+        "nostra-aetate-1965-text"
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "id": "ignatius-lords-day",
+      "text": "If, therefore, those who were brought up in the ancient order of things have come to the possession of a new hope, no longer observing the Sabbath, but living in the observance of the Lord’s Day, on which also our life has sprung up again by Him and by His death ...",
+      "kind": "quotation",
+      "personId": "ignatius-of-antioch",
+      "citation": "Ignatius, Letter to the Magnesians 9 (ANF vol. 1)",
+      "workId": "ignatius-letter-to-the-magnesians",
+      "year": 110,
+      "topics": [
+        "Sabbath",
+        "Lord's Day"
+      ],
+      "doctrineIds": [
+        "covenant-law",
+        "worship-liturgy"
+      ]
+    },
+    {
+      "id": "justin-true-israel",
+      "text": "For the true spiritual Israel, and descendants of Judah, Jacob, Isaac, and Abraham ... are we who have been led to God through this crucified Christ.",
+      "kind": "quotation",
+      "personId": "justin-martyr",
+      "citation": "Justin Martyr, Dialogue with Trypho 11 (ANF vol. 1)",
+      "workId": "justin-dialogue-with-trypho",
+      "year": 155,
+      "topics": [
+        "Israel",
+        "supersessionism"
+      ],
+      "doctrineIds": [
+        "covenant-law"
+      ]
+    },
+    {
+      "id": "irenaeus-one-householder",
+      "text": "For there is one and the same householder, who produced both covenants, the Word of God, our Lord Jesus Christ, who spake with both Abraham and Moses ...",
+      "kind": "quotation",
+      "personId": "irenaeus",
+      "citation": "Irenaeus, Against Heresies 4.9.1 (ANF vol. 1)",
+      "workId": "irenaeus-against-heresies",
+      "year": 180,
+      "topics": [
+        "two covenants",
+        "against Marcion"
+      ],
+      "doctrineIds": [
+        "covenant-law"
+      ]
+    },
+    {
+      "id": "augustine-witness-jews",
+      "text": "Augustine taught that the Jews, scattered among the nations yet keeping their Scriptures, are unwitting witnesses to the prophecies fulfilled in Christ; applying Psalm 59:11 (\"Slay them not\"), he argued that they must be preserved rather than destroyed.",
+      "kind": "paraphrase",
+      "personId": "augustine-of-hippo",
+      "citation": "Paraphrase of Augustine, City of God 18.46",
+      "workId": "augustine-city-of-god",
+      "year": 426,
+      "topics": [
+        "witness doctrine",
+        "Israel"
+      ],
+      "doctrineIds": [
+        "covenant-law"
+      ]
+    },
+    {
+      "id": "luther-regard-moses-para",
+      "text": "Luther argued that Moses was given to the Jews and does not bind Gentile Christians except where his commandments agree with the natural law written on every heart; Christians should read him for God’s promises of Christ and for examples of faith.",
+      "kind": "paraphrase",
+      "personId": "martin-luther",
+      "citation": "Paraphrase of Luther, How Christians Should Regard Moses (1525)",
+      "workId": "luther-how-christians-regard-moses",
+      "year": 1525,
+      "topics": [
+        "law and gospel",
+        "Mosaic law"
+      ],
+      "doctrineIds": [
+        "covenant-law"
+      ]
+    },
+    {
+      "id": "calvin-third-use",
+      "text": "The third use of the Law (being also the principal use, and more closely connected with its proper end) has respect to believers in whose hearts the Spirit of God already flourishes and reigns.",
+      "kind": "quotation",
+      "personId": "john-calvin",
+      "citation": "Calvin, Institutes of the Christian Religion 2.7.12 (tr. Henry Beveridge, 1845)",
+      "workId": "calvin-institutes",
+      "year": 1559,
+      "topics": [
+        "third use of the law",
+        "sanctification"
+      ],
+      "doctrineIds": [
+        "covenant-law",
+        "salvation"
+      ]
+    },
+    {
+      "id": "formula-concord-law-gospel-para",
+      "text": "The Formula of Concord holds that the distinction between law and gospel must be preserved in the church with great diligence as an especially bright light, so that the word of God is rightly divided; the law reproves sin, while the gospel proclaims the forgiveness won by Christ.",
+      "kind": "paraphrase",
+      "personId": "martin-chemnitz",
+      "citation": "Paraphrase of the Formula of Concord (1577), Epitome V",
+      "workId": "formula-of-concord",
+      "year": 1577,
+      "topics": [
+        "law and gospel",
+        "Lutheran confessions"
+      ],
+      "doctrineIds": [
+        "covenant-law",
+        "salvation"
+      ]
+    },
+    {
+      "id": "hutchinson-examination-para",
+      "text": "At her examination before the Massachusetts General Court, Hutchinson maintained that she had learned by an immediate revelation of the Spirit which ministers preached a covenant of grace and which a covenant of works, and warned the court that God would judge it for proceeding against her.",
+      "kind": "paraphrase",
+      "personId": "anne-hutchinson",
+      "citation": "Paraphrase of the transcript of Hutchinson’s examination at Newtown (November 1637), printed in Thomas Hutchinson, History of Massachusetts Bay, vol. 2 (1767)",
+      "year": 1637,
+      "topics": [
+        "antinomian controversy",
+        "assurance"
+      ],
+      "doctrineIds": [
+        "covenant-law"
+      ]
+    },
+    {
+      "id": "boston-marrow-para",
+      "text": "Boston defended the Marrow’s teaching that Christ is freely offered to all sinners as they are, so that sinners need not first prove their repentance before they may come to him; the law drives to Christ, and obedience springs from grace rather than earning it.",
+      "kind": "paraphrase",
+      "personId": "thomas-boston",
+      "citation": "Paraphrase of Thomas Boston’s notes on The Marrow of Modern Divinity (1726)",
+      "workId": "marrow-of-modern-divinity",
+      "year": 1726,
+      "topics": [
+        "Marrow controversy",
+        "free offer"
+      ],
+      "doctrineIds": [
+        "covenant-law",
+        "salvation"
+      ]
+    },
+    {
+      "id": "cocceius-covenants-para",
+      "text": "Cocceius taught that the covenant of works made with Adam is abrogated in successive stages, through the fall, the promise, the giving of the new covenant, the death of the body and the resurrection, while the one covenant of grace unfolds through the history of Israel and the church.",
+      "kind": "paraphrase",
+      "personId": "johannes-cocceius",
+      "citation": "Paraphrase of Cocceius, Summa doctrinae de foedere (1648), chs. 1–4",
+      "workId": "cocceius-summa-de-foedere",
+      "year": 1648,
+      "topics": [
+        "covenant theology",
+        "federal theology"
+      ],
+      "doctrineIds": [
+        "covenant-law"
+      ]
+    },
+    {
+      "id": "rushdoony-biblical-law-para",
+      "text": "Rushdoony argued that every law-order expresses a religion, so a society that rejects God’s revealed law will inevitably enthrone another; the commandments and the case laws of Moses therefore remain the standard for personal, family, church and civil life.",
+      "kind": "paraphrase",
+      "personId": "rousas-rushdoony",
+      "citation": "Paraphrase of R. J. Rushdoony, The Institutes of Biblical Law (1973), Introduction",
+      "workId": "rushdoony-institutes-biblical-law",
+      "year": 1973,
+      "topics": [
+        "theonomy",
+        "Christian Reconstructionism"
+      ],
+      "doctrineIds": [
+        "covenant-law",
+        "ethics-church-state"
+      ]
+    },
+    {
+      "id": "nostra-aetate-jews-para",
+      "text": "Nostra Aetate states that what happened in Christ’s passion cannot be charged against all Jews then living or against Jews today; that the Jews remain most dear to God because of their fathers; and that the Church, mindful of its common patrimony with them, deplores hatred, persecutions and displays of antisemitism at any time and by anyone.",
+      "kind": "paraphrase",
+      "personId": "paul-vi",
+      "citation": "Paraphrase of Nostra Aetate 4 (28 October 1965)",
+      "workId": "nostra-aetate",
+      "year": 1965,
+      "topics": [
+        "Israel",
+        "antisemitism",
+        "dialogue"
+      ],
+      "doctrineIds": [
+        "covenant-law",
+        "mission-religions"
+      ]
+    }
+  ]
+}

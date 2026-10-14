@@ -1,0 +1,3687 @@
+{
+  "sources": [
+    {
+      "id": "may-creatio-ex-nihilo",
+      "title": "Creatio ex Nihilo: The Doctrine of \"Creation out of Nothing\" in Early Christian Thought",
+      "kind": "secondary",
+      "author": "Gerhard May",
+      "year": "1978; Eng. tr. 1994"
+    },
+    {
+      "id": "lindberg-numbers-god-nature",
+      "title": "God and Nature: Historical Essays on the Encounter between Christianity and Science",
+      "kind": "secondary",
+      "author": "David C. Lindberg & Ronald L. Numbers (eds.)",
+      "year": 1986
+    },
+    {
+      "id": "brooke-science-religion",
+      "title": "Science and Religion: Some Historical Perspectives",
+      "kind": "secondary",
+      "author": "John Hedley Brooke",
+      "year": 1991
+    },
+    {
+      "id": "finocchiaro-galileo",
+      "title": "The Galileo Affair: A Documentary History",
+      "kind": "secondary",
+      "author": "Maurice A. Finocchiaro (ed. & tr.)",
+      "year": 1989,
+      "note": "Includes the 1615 Letter to the Grand Duchess Christina and the 1633 sentence and abjuration."
+    },
+    {
+      "id": "numbers-creationists",
+      "title": "The Creationists: From Scientific Creationism to Intelligent Design",
+      "kind": "secondary",
+      "author": "Ronald L. Numbers",
+      "year": "expanded ed. 2006"
+    },
+    {
+      "id": "larson-summer-gods",
+      "title": "Summer for the Gods: The Scopes Trial and America’s Continuing Debate over Science and Religion",
+      "kind": "secondary",
+      "author": "Edward J. Larson",
+      "year": 1997
+    },
+    {
+      "id": "hagopian-genesis-debate",
+      "title": "The Genesis Debate: Three Views on the Days of Creation",
+      "kind": "secondary",
+      "author": "David G. Hagopian (ed.)",
+      "year": 2001
+    },
+    {
+      "id": "stump-four-views-creation",
+      "title": "Four Views on Creation, Evolution, and Intelligent Design",
+      "kind": "secondary",
+      "author": "J. B. Stump (ed.)",
+      "year": 2017
+    },
+    {
+      "id": "hick-evil-god-love",
+      "title": "Evil and the God of Love",
+      "kind": "secondary",
+      "author": "John Hick",
+      "year": "1966; 2nd ed. 1977"
+    },
+    {
+      "id": "davis-encountering-evil",
+      "title": "Encountering Evil: Live Options in Theodicy",
+      "kind": "secondary",
+      "author": "Stephen T. Davis (ed.)",
+      "year": "1981; new ed. 2001",
+      "note": "Contains John K. Roth’s “A Theodicy of Protest”."
+    },
+    {
+      "id": "helm-providence",
+      "title": "The Providence of God",
+      "kind": "secondary",
+      "author": "Paul Helm",
+      "year": 1993
+    },
+    {
+      "id": "flint-divine-providence",
+      "title": "Divine Providence: The Molinist Account",
+      "kind": "secondary",
+      "author": "Thomas P. Flint",
+      "year": 1998
+    },
+    {
+      "id": "livingstone-darwins-forgotten-defenders",
+      "title": "Darwin’s Forgotten Defenders: The Encounter between Evangelical Theology and Evolutionary Thought",
+      "kind": "secondary",
+      "author": "David N. Livingstone",
+      "year": 1987
+    },
+    {
+      "id": "kitzmiller-opinion-2005",
+      "title": "Kitzmiller v. Dover Area School District, 400 F. Supp. 2d 707 (M.D. Pa. 2005)",
+      "kind": "primary",
+      "author": "Judge John E. Jones III",
+      "year": 2005
+    },
+    {
+      "id": "darwin-online",
+      "title": "The Complete Work of Charles Darwin Online",
+      "kind": "primary",
+      "author": "John van Wyhe (ed.)",
+      "url": "https://darwin-online.org.uk"
+    },
+    {
+      "id": "humani-generis-1950",
+      "title": "Humani Generis (encyclical)",
+      "kind": "primary",
+      "author": "Pius XII",
+      "year": 1950,
+      "url": "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis.html"
+    },
+    {
+      "id": "jp2-evolution-1996",
+      "title": "Message to the Pontifical Academy of Sciences on Evolution",
+      "kind": "primary",
+      "author": "John Paul II",
+      "year": 1996
+    },
+    {
+      "id": "surin-theology-evil",
+      "title": "Theology and the Problem of Evil",
+      "kind": "secondary",
+      "author": "Kenneth Surin",
+      "year": 1986
+    },
+    {
+      "id": "mcgrath-science-theology",
+      "title": "Science and Religion: A New Introduction",
+      "kind": "secondary",
+      "author": "Alister E. McGrath",
+      "year": "3rd ed. 2020"
+    }
+  ],
+  "people": [
+    {
+      "id": "theophilus-of-antioch",
+      "name": "Theophilus of Antioch",
+      "died": 185,
+      "circa": true,
+      "roles": [
+        "bishop of Antioch",
+        "apologist"
+      ],
+      "traditionIds": [
+        "early-church"
+      ],
+      "regions": [
+        "levant"
+      ],
+      "summary": "Late second-century bishop of Antioch whose apology To Autolycus contains the earliest explicit Christian argument that God created matter itself out of nothing, against the Platonist view that God merely shaped eternal matter. He is also the first known writer to call God a “triad”.",
+      "keyIdeas": [
+        "Creation out of nothing (ex nihilo)",
+        "God’s power exceeds an artisan’s, who needs material",
+        "First use of “triad” (trias) of God"
+      ],
+      "influencedBy": [
+        "justin-martyr"
+      ],
+      "place": {
+        "name": "Antioch",
+        "lat": 36.2021,
+        "lng": 36.1606
+      },
+      "sources": [
+        "may-creatio-ex-nihilo",
+        "kelly-doctrines",
+        "anf-npnf"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "galileo-galilei",
+      "name": "Galileo Galilei",
+      "born": 1564,
+      "died": 1642,
+      "circa": false,
+      "roles": [
+        "astronomer",
+        "physicist",
+        "mathematician"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "italy"
+      ],
+      "summary": "Tuscan astronomer and physicist whose telescopic discoveries (1609–10) supported Copernican heliocentrism. In his Letter to the Grand Duchess Christina (1615) he argued, drawing on Augustine, that Scripture accommodates its language to ordinary speech and does not teach astronomy. Admonished in 1616, he was tried by the Roman Inquisition after his Dialogue (1632), forced to abjure in 1633 and kept under house arrest until his death. He remained a professing Catholic.",
+      "keyIdeas": [
+        "Heliocentrism",
+        "Scripture teaches how to go to heaven, not how the heavens go",
+        "Two books: Scripture and nature cannot truly conflict"
+      ],
+      "influencedBy": [
+        "augustine-of-hippo"
+      ],
+      "place": {
+        "name": "Arcetri, Florence",
+        "lat": 43.7496,
+        "lng": 11.2494
+      },
+      "sources": [
+        "finocchiaro-galileo",
+        "brooke-science-religion",
+        "lindberg-numbers-god-nature"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "charles-darwin",
+      "name": "Charles Darwin",
+      "born": 1809,
+      "died": 1882,
+      "circa": false,
+      "roles": [
+        "naturalist"
+      ],
+      "traditionIds": [
+        "anglican"
+      ],
+      "regions": [
+        "northern-europe",
+        "global"
+      ],
+      "summary": "English naturalist whose On the Origin of Species (1859) argued that species arise by descent with modification through natural selection. Trained at Cambridge with a view to Anglican ordination and once an admirer of Paley, he moved gradually from orthodox belief to what he called agnosticism, partly through the problem of suffering (including the death of his daughter Annie, 1851). He is buried in Westminster Abbey.",
+      "keyIdeas": [
+        "Natural selection",
+        "Common descent",
+        "Suffering in nature as a problem for design"
+      ],
+      "influencedBy": [
+        "william-paley"
+      ],
+      "place": {
+        "name": "Down House, Kent",
+        "lat": 51.3313,
+        "lng": 0.0532
+      },
+      "sources": [
+        "darwin-online",
+        "brooke-science-religion",
+        "numbers-creationists"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "gottfried-leibniz",
+      "name": "Gottfried Wilhelm Leibniz",
+      "born": 1646,
+      "died": 1716,
+      "circa": false,
+      "roles": [
+        "philosopher",
+        "mathematician",
+        "diplomat"
+      ],
+      "traditionIds": [
+        "lutheran"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "German Lutheran polymath who coined the word “theodicy” in his Essais de Théodicée (1710), arguing that God, being perfectly wise and good, chose to create the best of all possible worlds, in which permitted evils serve a greater harmony. He also worked for reunion between Catholics and Protestants.",
+      "keyIdeas": [
+        "Theodicy",
+        "Best of all possible worlds",
+        "Principle of sufficient reason"
+      ],
+      "influencedBy": [
+        "augustine-of-hippo",
+        "thomas-aquinas"
+      ],
+      "place": {
+        "name": "Hanover",
+        "lat": 52.3759,
+        "lng": 9.732
+      },
+      "sources": [
+        "brooke-science-religion",
+        "surin-theology-evil"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "thomas-chalmers",
+      "name": "Thomas Chalmers",
+      "born": 1780,
+      "died": 1847,
+      "circa": false,
+      "roles": [
+        "minister",
+        "theologian",
+        "social reformer"
+      ],
+      "traditionIds": [
+        "presbyterian"
+      ],
+      "regions": [
+        "northern-europe"
+      ],
+      "summary": "Scottish evangelical minister, mathematician and leader of the 1843 Disruption that created the Free Church of Scotland. From about 1814 he popularised the “gap” (ruin-restoration) reading of Genesis 1:1-2, allowing the vast ages of the new geology to fall before the six days. He wrote a Bridgewater Treatise on natural theology (1833).",
+      "keyIdeas": [
+        "Gap theory",
+        "Evangelical natural theology",
+        "Parish poor relief"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Edinburgh",
+        "lat": 55.9533,
+        "lng": -3.1883
+      },
+      "sources": [
+        "numbers-creationists",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "asa-gray",
+      "name": "Asa Gray",
+      "born": 1810,
+      "died": 1888,
+      "circa": false,
+      "roles": [
+        "botanist"
+      ],
+      "traditionIds": [
+        "congregationalist",
+        "presbyterian"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "Harvard botanist, Darwin’s chief American correspondent and a devout orthodox Protestant who argued that natural selection was compatible with design and providence: God could work through variation and selection. His essays were collected as Darwiniana (1876).",
+      "keyIdeas": [
+        "Theistic evolution",
+        "Design compatible with natural selection"
+      ],
+      "influencedBy": [
+        "charles-darwin"
+      ],
+      "place": {
+        "name": "Cambridge, Massachusetts",
+        "lat": 42.377,
+        "lng": -71.1167
+      },
+      "sources": [
+        "livingstone-darwins-forgotten-defenders",
+        "numbers-creationists"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "pierre-teilhard-de-chardin",
+      "name": "Pierre Teilhard de Chardin",
+      "born": 1881,
+      "died": 1955,
+      "circa": false,
+      "roles": [
+        "Jesuit priest",
+        "palaeontologist"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "western-europe",
+        "east-asia"
+      ],
+      "summary": "French Jesuit palaeontologist who worked for many years in China (including on Peking Man) and developed a sweeping evolutionary cosmology converging on an “Omega Point” identified with the cosmic Christ. Barred by his superiors from publishing theology in his lifetime, his Phenomenon of Man (1955) became widely influential; the Holy Office issued a monitum urging caution in 1962.",
+      "keyIdeas": [
+        "Evolutionary cosmology",
+        "Omega Point",
+        "Cosmic Christ"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Orcines, Auvergne",
+        "lat": 45.7814,
+        "lng": 3.0106
+      },
+      "sources": [
+        "mcgrath-science-theology",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "henry-m-morris",
+      "name": "Henry M. Morris",
+      "born": 1918,
+      "died": 2006,
+      "circa": false,
+      "roles": [
+        "hydraulic engineer",
+        "creationist writer"
+      ],
+      "traditionIds": [
+        "baptist",
+        "evangelical"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "American Baptist engineer who co-wrote The Genesis Flood (1961) with theologian John C. Whitcomb, reviving “flood geology” and launching modern young-earth creationism. He founded the Institute for Creation Research (1970), and the movement spread worldwide.",
+      "keyIdeas": [
+        "Young-earth creationism",
+        "Flood geology",
+        "Creation science"
+      ],
+      "influencedBy": [
+        "ellen-g-white"
+      ],
+      "place": {
+        "name": "San Diego, California",
+        "lat": 32.7157,
+        "lng": -117.1611
+      },
+      "sources": [
+        "numbers-creationists",
+        "larson-summer-gods"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "meredith-kline",
+      "name": "Meredith G. Kline",
+      "born": 1922,
+      "died": 2007,
+      "circa": false,
+      "roles": [
+        "Old Testament scholar"
+      ],
+      "traditionIds": [
+        "presbyterian",
+        "reformed"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "Reformed Old Testament scholar who, building on Arie Noordtzij (1924), developed the “framework” interpretation of Genesis 1 in “Because It Had Not Rained” (1958): the six days are a literary-theological structure (two triads of kingdoms and rulers), not a chronology.",
+      "keyIdeas": [
+        "Framework hypothesis",
+        "Covenant theology",
+        "Treaty structure of Deuteronomy"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Philadelphia",
+        "lat": 39.9526,
+        "lng": -75.1652
+      },
+      "sources": [
+        "hagopian-genesis-debate",
+        "numbers-creationists"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "francis-collins",
+      "name": "Francis S. Collins",
+      "born": 1950,
+      "circa": false,
+      "roles": [
+        "geneticist",
+        "director of the Human Genome Project"
+      ],
+      "traditionIds": [
+        "evangelical"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "American geneticist who led the Human Genome Project and later the U.S. National Institutes of Health. An adult convert from atheism (influenced by C. S. Lewis), he argued in The Language of God (2006) for “BioLogos” — evolutionary creation — and founded the BioLogos Foundation in 2007.",
+      "keyIdeas": [
+        "Evolutionary creation (BioLogos)",
+        "Common descent compatible with Christian faith"
+      ],
+      "influencedBy": [
+        "c-s-lewis"
+      ],
+      "place": {
+        "name": "Bethesda, Maryland",
+        "lat": 38.9847,
+        "lng": -77.0947
+      },
+      "sources": [
+        "stump-four-views-creation",
+        "mcgrath-science-theology"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "michael-behe",
+      "name": "Michael J. Behe",
+      "born": 1952,
+      "circa": false,
+      "roles": [
+        "biochemist"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "American Catholic biochemist at Lehigh University whose Darwin’s Black Box (1996) argued that some molecular systems are “irreducibly complex” and best explained by intelligent design. He accepts common descent and an old earth; critics dispute irreducible complexity scientifically, and the Kitzmiller court (2005) heard his testimony.",
+      "keyIdeas": [
+        "Irreducible complexity",
+        "Intelligent design"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Bethlehem, Pennsylvania",
+        "lat": 40.607,
+        "lng": -75.378
+      },
+      "sources": [
+        "numbers-creationists",
+        "stump-four-views-creation"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "john-hick",
+      "name": "John Hick",
+      "born": 1922,
+      "died": 2012,
+      "circa": false,
+      "roles": [
+        "philosopher of religion"
+      ],
+      "traditionIds": [
+        "reformed"
+      ],
+      "regions": [
+        "northern-europe",
+        "north-america"
+      ],
+      "summary": "English philosopher of religion (United Reformed Church) whose Evil and the God of Love (1966) contrasted “Augustinian” and “Irenaean” theodicies and developed the latter as “soul-making”. He later became known for religious pluralism.",
+      "keyIdeas": [
+        "Irenaean soul-making theodicy",
+        "Epistemic distance",
+        "Religious pluralism"
+      ],
+      "influencedBy": [
+        "irenaeus",
+        "friedrich-schleiermacher"
+      ],
+      "place": {
+        "name": "Birmingham",
+        "lat": 52.4862,
+        "lng": -1.8904
+      },
+      "sources": [
+        "hick-evil-god-love",
+        "surin-theology-evil"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "john-k-roth",
+      "name": "John K. Roth",
+      "born": 1940,
+      "circa": false,
+      "roles": [
+        "philosopher",
+        "Holocaust scholar"
+      ],
+      "traditionIds": [
+        "presbyterian"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "American philosopher at Claremont McKenna College and Holocaust scholar whose essay “A Theodicy of Protest” (1981) argued that after Auschwitz faith must protest against God’s permission of waste and horror rather than justify it, while still hoping in God.",
+      "keyIdeas": [
+        "Theodicy of protest",
+        "Post-Holocaust theology"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Claremont, California",
+        "lat": 34.0967,
+        "lng": -117.7198
+      },
+      "sources": [
+        "davis-encountering-evil"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "works": [
+    {
+      "id": "theophilus-to-autolycus",
+      "title": "To Autolycus (Ad Autolycum)",
+      "authorId": "theophilus-of-antioch",
+      "year": 180,
+      "circa": true,
+      "language": "Greek",
+      "genre": "apology",
+      "summary": "Three books defending Christianity to a pagan friend: the nature of God, the Hebrew prophets, creation and the antiquity of Moses.",
+      "significance": "Earliest unambiguous Christian argument for creation out of nothing and earliest use of “triad” for God.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/0204.htm",
+      "doctrineIds": [
+        "creation-providence",
+        "trinity"
+      ],
+      "sources": [
+        "anf-npnf",
+        "may-creatio-ex-nihilo"
+      ]
+    },
+    {
+      "id": "tertullian-against-hermogenes",
+      "title": "Against Hermogenes",
+      "authorId": "tertullian",
+      "year": 205,
+      "circa": true,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "Refutes the Carthaginian painter-theologian Hermogenes, who held that God formed the world out of eternal, chaotic matter.",
+      "significance": "Classic early Latin defence of creation ex nihilo against Platonising Christians.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/0313.htm",
+      "doctrineIds": [
+        "creation-providence"
+      ],
+      "sources": [
+        "anf-npnf",
+        "may-creatio-ex-nihilo"
+      ]
+    },
+    {
+      "id": "basil-hexaemeron",
+      "title": "Homilies on the Hexaemeron",
+      "authorId": "basil-of-caesarea",
+      "year": 378,
+      "circa": true,
+      "language": "Greek",
+      "genre": "sermon",
+      "summary": "Nine Lenten homilies on the six days of creation, blending close reading of Genesis with the natural science of the day.",
+      "significance": "The model for Eastern and Western creation commentary; read by Ambrose and Augustine.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/3201.htm",
+      "doctrineIds": [
+        "creation-providence"
+      ],
+      "sources": [
+        "anf-npnf",
+        "pelikan-christian-tradition"
+      ]
+    },
+    {
+      "id": "augustine-literal-meaning-genesis",
+      "title": "The Literal Meaning of Genesis (De Genesi ad litteram)",
+      "authorId": "augustine-of-hippo",
+      "year": 401,
+      "circa": false,
+      "language": "Latin",
+      "genre": "commentary",
+      "summary": "Twelve books on Genesis 1–3 arguing that God created all things simultaneously, with “causal reasons” (rationes seminales) unfolding over time, and that the “days” describe angelic knowledge rather than solar days.",
+      "significance": "Classic non-literalist reading of the days, cited by Galileo and by modern framework and evolutionary-creation interpreters; also contains Augustine’s warning against embarrassing the faith with poor science.",
+      "doctrineIds": [
+        "creation-providence",
+        "humanity-sin"
+      ],
+      "sources": [
+        "brown-augustine",
+        "may-creatio-ex-nihilo"
+      ]
+    },
+    {
+      "id": "galileo-letter-christina",
+      "title": "Letter to the Grand Duchess Christina",
+      "authorId": "galileo-galilei",
+      "year": 1615,
+      "circa": false,
+      "language": "Italian",
+      "genre": "letter",
+      "summary": "Galileo’s defence of Copernicanism against biblical objections: Scripture accommodates itself to common speech; nature and Scripture both come from God and cannot truly conflict.",
+      "significance": "A founding document of the modern debate on Scripture and science.",
+      "doctrineIds": [
+        "creation-providence",
+        "scripture-authority"
+      ],
+      "sources": [
+        "finocchiaro-galileo"
+      ]
+    },
+    {
+      "id": "leibniz-theodicy",
+      "title": "Essays of Theodicy on the Goodness of God, the Freedom of Man and the Origin of Evil",
+      "authorId": "gottfried-leibniz",
+      "year": 1710,
+      "circa": false,
+      "language": "French",
+      "genre": "treatise",
+      "summary": "Argues that God created the best of all possible worlds and that evils are permitted for the sake of the whole.",
+      "significance": "Coined “theodicy”; satirised by Voltaire after the Lisbon earthquake.",
+      "doctrineIds": [
+        "creation-providence"
+      ],
+      "sources": [
+        "surin-theology-evil"
+      ]
+    },
+    {
+      "id": "darwin-origin-of-species",
+      "title": "On the Origin of Species by Means of Natural Selection",
+      "authorId": "charles-darwin",
+      "year": 1859,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "Argues that species descend with modification from common ancestors through natural selection acting on variation.",
+      "significance": "Transformed biology and reopened the questions of design, the age of the earth and human origins.",
+      "fullTextUrl": "https://darwin-online.org.uk/converted/pdf/1859_Origin_F373.pdf",
+      "doctrineIds": [
+        "creation-providence"
+      ],
+      "sources": [
+        "darwin-online"
+      ]
+    },
+    {
+      "id": "hodge-what-is-darwinism",
+      "title": "What Is Darwinism?",
+      "authorId": "charles-hodge",
+      "year": 1874,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "Distinguishes evolution and natural selection from Darwin’s denial of design, and concludes that Darwinism so defined is atheism.",
+      "significance": "Classic conservative Protestant critique; Hodge objected to the exclusion of teleology rather than to an old earth.",
+      "doctrineIds": [
+        "creation-providence"
+      ],
+      "sources": [
+        "livingstone-darwins-forgotten-defenders",
+        "numbers-creationists"
+      ]
+    },
+    {
+      "id": "whitcomb-morris-genesis-flood",
+      "title": "The Genesis Flood",
+      "authorId": "henry-m-morris",
+      "author": "John C. Whitcomb & Henry M. Morris",
+      "year": 1961,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "Argues for a recent six-day creation and a global Flood that laid down most of the fossil-bearing rock layers.",
+      "significance": "Founding text of modern young-earth creationism.",
+      "doctrineIds": [
+        "creation-providence"
+      ],
+      "sources": [
+        "numbers-creationists"
+      ]
+    },
+    {
+      "id": "humani-generis",
+      "title": "Humani Generis",
+      "authorId": "pius-xii",
+      "year": 1950,
+      "circa": false,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "Encyclical on errors threatening Catholic doctrine; permits research into the evolution of the human body from pre-existing living matter while insisting souls are immediately created by God and rejecting polygenism.",
+      "significance": "First papal opening to biological evolution, with limits.",
+      "fullTextUrl": "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis.html",
+      "doctrineIds": [
+        "creation-providence",
+        "humanity-sin"
+      ],
+      "sources": [
+        "humani-generis-1950"
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "id": "theophilus-out-of-nothing",
+      "text": "Theophilus argues that if God, like Plato’s craftsman, had merely shaped uncreated matter, he would be no greater than a human artisan who receives material from someone else; God’s power is shown precisely in making whatever he pleases out of what does not exist.",
+      "kind": "paraphrase",
+      "personId": "theophilus-of-antioch",
+      "workId": "theophilus-to-autolycus",
+      "citation": "To Autolycus 2.4",
+      "year": 180,
+      "topics": [
+        "creation ex nihilo",
+        "Platonism"
+      ],
+      "doctrineIds": [
+        "creation-providence"
+      ]
+    },
+    {
+      "id": "irenaeus-humanity-infant",
+      "text": "Irenaeus says God could have given humanity perfection from the beginning, but humanity, newly created, was like an infant unable to receive it; the creature had to be made, grow, be strengthened and so come gradually to see God.",
+      "kind": "paraphrase",
+      "personId": "irenaeus",
+      "workId": "irenaeus-against-heresies",
+      "citation": "Against Heresies 4.38.1-3",
+      "year": 180,
+      "topics": [
+        "theodicy",
+        "growth",
+        "image of God"
+      ],
+      "doctrineIds": [
+        "creation-providence",
+        "humanity-sin"
+      ]
+    },
+    {
+      "id": "basil-beginning-of-time",
+      "text": "Basil teaches that “in the beginning” signals that the world had a beginning and is not co-eternal with God, as some philosophers held; the Creator brought the world into being together with time.",
+      "kind": "paraphrase",
+      "personId": "basil-of-caesarea",
+      "workId": "basil-hexaemeron",
+      "citation": "Hexaemeron, Homily 1.2-6",
+      "year": 378,
+      "topics": [
+        "creation",
+        "time"
+      ],
+      "doctrineIds": [
+        "creation-providence"
+      ]
+    },
+    {
+      "id": "augustine-world-with-time",
+      "text": "Then assuredly the world was made, not in time, but simultaneously with time.",
+      "kind": "quotation",
+      "translation": "Latin, tr. Marcus Dods (1871)",
+      "personId": "augustine-of-hippo",
+      "workId": "augustine-city-of-god",
+      "citation": "City of God 11.6 (tr. Marcus Dods, NPNF I/2)",
+      "year": 417,
+      "topics": [
+        "creation",
+        "time"
+      ],
+      "doctrineIds": [
+        "creation-providence"
+      ]
+    },
+    {
+      "id": "augustine-genesis-unbelievers",
+      "text": "Augustine warns that non-Christians often know a good deal about the earth, the heavens and nature from reason and experience; it is shameful when a Christian, claiming to speak from Scripture, talks nonsense about such things, for unbelievers will then dismiss Scripture where it speaks of resurrection and eternal life.",
+      "kind": "paraphrase",
+      "personId": "augustine-of-hippo",
+      "workId": "augustine-literal-meaning-genesis",
+      "citation": "The Literal Meaning of Genesis 1.19.39",
+      "year": 410,
+      "topics": [
+        "science",
+        "interpretation"
+      ],
+      "doctrineIds": [
+        "creation-providence",
+        "scripture-authority"
+      ]
+    },
+    {
+      "id": "augustine-good-from-evil",
+      "text": "For the Almighty God, who, as even the heathen acknowledge, has supreme power over all things, being Himself supremely good, would never permit the existence of anything evil among His works, if He were not so omnipotent and good that He can bring good even out of evil.",
+      "kind": "quotation",
+      "translation": "Latin, tr. J. F. Shaw",
+      "personId": "augustine-of-hippo",
+      "workId": "augustine-enchiridion",
+      "citation": "Enchiridion 11 (tr. J. F. Shaw, NPNF I/3)",
+      "year": 421,
+      "topics": [
+        "theodicy",
+        "evil",
+        "providence"
+      ],
+      "doctrineIds": [
+        "creation-providence"
+      ]
+    },
+    {
+      "id": "aquinas-secondary-causes",
+      "text": "Aquinas argues that God works in every agent — giving it being, power and motion — yet creatures are true causes of their own effects; it does not belittle God but shows his goodness that he communicates to creatures the dignity of causing.",
+      "kind": "paraphrase",
+      "personId": "thomas-aquinas",
+      "workId": "aquinas-summa-theologiae",
+      "citation": "Summa Theologiae I q.105 a.5; Summa contra Gentiles III.69-70",
+      "year": 1268,
+      "topics": [
+        "providence",
+        "concurrence",
+        "secondary causes"
+      ],
+      "doctrineIds": [
+        "creation-providence"
+      ]
+    },
+    {
+      "id": "calvin-providence-governs",
+      "text": "Calvin teaches that God is not an idle spectator who set the world going and then withdrew, but governs heaven and earth so that nothing happens by chance: not only the general order of nature but each particular event is directed by his counsel.",
+      "kind": "paraphrase",
+      "personId": "john-calvin",
+      "workId": "calvin-institutes",
+      "citation": "Institutes 1.16.1-4",
+      "year": 1559,
+      "topics": [
+        "providence",
+        "sovereignty"
+      ],
+      "doctrineIds": [
+        "creation-providence"
+      ]
+    },
+    {
+      "id": "galileo-heaven-goes",
+      "text": "The intention of the Holy Spirit is to teach us how one goes to heaven, not how heaven goes.",
+      "kind": "quotation",
+      "translation": "Italian; standard English rendering",
+      "personId": "galileo-galilei",
+      "workId": "galileo-letter-christina",
+      "citation": "Letter to the Grand Duchess Christina (1615), quoting Cardinal Cesare Baronius",
+      "year": 1615,
+      "topics": [
+        "science",
+        "Scripture",
+        "Galileo"
+      ],
+      "doctrineIds": [
+        "creation-providence",
+        "scripture-authority"
+      ]
+    },
+    {
+      "id": "leibniz-best-world",
+      "text": "Leibniz reasons that since God is supremely wise and good, he must have chosen, among infinitely many possible worlds, the best; the evils it contains are permitted because a world without them would, on the whole, be less good.",
+      "kind": "paraphrase",
+      "personId": "gottfried-leibniz",
+      "workId": "leibniz-theodicy",
+      "citation": "Theodicy (1710) I.8-10",
+      "year": 1710,
+      "topics": [
+        "theodicy",
+        "optimism"
+      ],
+      "doctrineIds": [
+        "creation-providence"
+      ]
+    },
+    {
+      "id": "darwin-grandeur",
+      "text": "There is grandeur in this view of life, with its several powers, having been originally breathed by the Creator into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved.",
+      "kind": "quotation",
+      "personId": "charles-darwin",
+      "workId": "darwin-origin-of-species",
+      "citation": "On the Origin of Species, closing sentence (2nd ed., 1860; the 1st ed. lacks “by the Creator”)",
+      "year": 1860,
+      "topics": [
+        "evolution",
+        "creation"
+      ],
+      "doctrineIds": [
+        "creation-providence"
+      ]
+    },
+    {
+      "id": "hodge-darwinism-atheism",
+      "text": "What is Darwinism? It is Atheism.",
+      "kind": "quotation",
+      "personId": "charles-hodge",
+      "workId": "hodge-what-is-darwinism",
+      "citation": "What Is Darwinism? (1874), p. 177",
+      "year": 1874,
+      "topics": [
+        "evolution",
+        "design"
+      ],
+      "doctrineIds": [
+        "creation-providence"
+      ]
+    },
+    {
+      "id": "whitehead-fellow-sufferer",
+      "text": "God is the great companion — the fellow-sufferer who understands.",
+      "kind": "quotation",
+      "personId": "alfred-north-whitehead",
+      "workId": "whitehead-process-and-reality",
+      "citation": "Process and Reality (1929), Part V, ch. 2",
+      "year": 1929,
+      "topics": [
+        "process theology",
+        "suffering",
+        "providence"
+      ],
+      "doctrineIds": [
+        "creation-providence",
+        "trinity"
+      ]
+    },
+    {
+      "id": "morris-genesis-flood-para",
+      "text": "Whitcomb and Morris argue that the plain sense of Genesis requires six ordinary days a few thousand years ago and a global Flood, and that the geological column is better read as the record of that Flood than of long ages; death entered the animal world only after Adam’s sin.",
+      "kind": "paraphrase",
+      "personId": "henry-m-morris",
+      "workId": "whitcomb-morris-genesis-flood",
+      "citation": "The Genesis Flood (1961), chs. 1, 4-6",
+      "year": 1961,
+      "topics": [
+        "young-earth creationism",
+        "Flood"
+      ],
+      "doctrineIds": [
+        "creation-providence"
+      ]
+    },
+    {
+      "id": "kline-framework-para",
+      "text": "Kline argues that Genesis 2:5 assumes God’s providence worked by ordinary means during creation, so the days are a literary framework — a sabbatical pattern of two parallel triads — teaching that God is the sovereign Creator and Lord of the Sabbath, not specifying duration or sequence.",
+      "kind": "paraphrase",
+      "personId": "meredith-kline",
+      "citation": "“Because It Had Not Rained”, Westminster Theological Journal 20 (1958)",
+      "year": 1958,
+      "topics": [
+        "framework hypothesis",
+        "Genesis"
+      ],
+      "doctrineIds": [
+        "creation-providence"
+      ]
+    },
+    {
+      "id": "collins-biologos-para",
+      "text": "Collins argues that the evidence for common descent, especially from shared genetic “mistakes”, is overwhelming, and that evolution can be understood as the means by which a transcendent Creator brought about the diversity of life — a harmony he calls BioLogos.",
+      "kind": "paraphrase",
+      "personId": "francis-collins",
+      "citation": "The Language of God (2006), chs. 5-6, 10",
+      "year": 2006,
+      "topics": [
+        "evolutionary creation"
+      ],
+      "doctrineIds": [
+        "creation-providence"
+      ]
+    },
+    {
+      "id": "behe-irreducible-para",
+      "text": "Behe argues that some biochemical systems, such as the bacterial flagellum, are irreducibly complex — they need all their parts to function — so they are unlikely to have been built by gradual steps, and are best explained by intelligent design.",
+      "kind": "paraphrase",
+      "personId": "michael-behe",
+      "citation": "Darwin’s Black Box (1996), ch. 3",
+      "year": 1996,
+      "topics": [
+        "intelligent design"
+      ],
+      "doctrineIds": [
+        "creation-providence"
+      ]
+    },
+    {
+      "id": "hick-soul-making-para",
+      "text": "Hick argues that the world is not a hedonistic paradise but a “vale of soul-making”: God created humans at an epistemic distance, immature, so that through freely meeting real challenges and suffering they might grow into children of God, a process to be completed beyond this life.",
+      "kind": "paraphrase",
+      "personId": "john-hick",
+      "citation": "Evil and the God of Love (1966), Part IV",
+      "year": 1966,
+      "topics": [
+        "theodicy",
+        "soul-making"
+      ],
+      "doctrineIds": [
+        "creation-providence"
+      ]
+    },
+    {
+      "id": "roth-protest-para",
+      "text": "Roth argues that after Auschwitz, attempts to justify God’s permission of so much waste become obscene; faithful people may rather protest to and against God, as Job and the psalmists did, while still hoping in him.",
+      "kind": "paraphrase",
+      "personId": "john-k-roth",
+      "citation": "“A Theodicy of Protest”, in Encountering Evil (1981)",
+      "year": 1981,
+      "topics": [
+        "theodicy",
+        "Holocaust"
+      ],
+      "doctrineIds": [
+        "creation-providence"
+      ]
+    },
+    {
+      "id": "pius-xii-humani-para",
+      "text": "Pius XII allows that the evolution of the human body from pre-existing living matter may be studied and debated, provided Catholics hold that souls are immediately created by God, and he rejects polygenism as hard to reconcile with original sin.",
+      "kind": "paraphrase",
+      "personId": "pius-xii",
+      "workId": "humani-generis",
+      "citation": "Humani Generis 36-37",
+      "year": 1950,
+      "topics": [
+        "evolution",
+        "Catholic teaching"
+      ],
+      "doctrineIds": [
+        "creation-providence",
+        "humanity-sin"
+      ]
+    },
+    {
+      "id": "pinnock-open-para",
+      "text": "Pinnock argues that God, as a loving and relational being, created a world with genuinely free creatures and an open future; God knows all that can be known, responds to what creatures do and takes risks, rather than determining every event.",
+      "kind": "paraphrase",
+      "personId": "clark-pinnock",
+      "citation": "The Openness of God (1994), ch. 3; Most Moved Mover (2001)",
+      "year": 1994,
+      "topics": [
+        "open theism",
+        "providence"
+      ],
+      "doctrineIds": [
+        "creation-providence",
+        "trinity"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "paris-condemnations-1277",
+      "title": "Condemnation of 219 propositions at Paris",
+      "year": 1277,
+      "circa": false,
+      "place": {
+        "name": "Paris",
+        "lat": 48.853,
+        "lng": 2.3499
+      },
+      "category": "intellectual",
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "On 7 March 1277 Bishop Étienne Tempier of Paris condemned 219 philosophical and theological propositions associated with radical Aristotelians in the arts faculty — among them the eternity of the world and limits on God’s power — and touching some theses of Thomas Aquinas.",
+      "causes": [
+        "Spread of Aristotelian and Averroist natural philosophy at Paris"
+      ],
+      "consequences": [
+        "Reasserted God’s absolute power and creation in time",
+        "Some historians (Duhem) see it as freeing natural philosophy from Aristotle; others dispute this"
+      ],
+      "peopleIds": [
+        "thomas-aquinas"
+      ],
+      "doctrineIds": [
+        "creation-providence"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "sources": [
+        "lindberg-numbers-god-nature",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "trial-of-galileo-1633",
+      "title": "Trial and condemnation of Galileo",
+      "year": 1633,
+      "circa": false,
+      "place": {
+        "name": "Santa Maria sopra Minerva, Rome",
+        "lat": 41.898,
+        "lng": 12.4777
+      },
+      "category": "intellectual",
+      "regions": [
+        "italy"
+      ],
+      "summary": "After the 1616 decree of the Congregation of the Index declared Copernicanism contrary to Scripture, Galileo’s Dialogue on the Two Chief World Systems (1632) led to his trial by the Roman Inquisition. On 22 June 1633 he was found “vehemently suspect of heresy”, made to abjure heliocentrism and sentenced to house arrest at Arcetri.",
+      "causes": [
+        "Copernican astronomy and telescopic discoveries",
+        "Counter-Reformation emphasis on authoritative interpretation of Scripture (Trent)",
+        "Personal and political tensions with Urban VIII"
+      ],
+      "consequences": [
+        "Became the emblem of a supposed “warfare” of science and religion, a thesis historians now consider oversimplified",
+        "Copernican books removed from the Index in 1835",
+        "John Paul II acknowledged errors by Galileo’s judges in 1992"
+      ],
+      "peopleIds": [
+        "galileo-galilei"
+      ],
+      "doctrineIds": [
+        "creation-providence",
+        "scripture-authority"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "sources": [
+        "finocchiaro-galileo",
+        "brooke-science-religion"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "lisbon-earthquake-1755",
+      "title": "Lisbon earthquake",
+      "year": 1755,
+      "circa": false,
+      "place": {
+        "name": "Lisbon",
+        "lat": 38.7223,
+        "lng": -9.1393
+      },
+      "category": "political",
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "On All Saints’ Day 1755 an earthquake, tsunami and fire destroyed much of Lisbon, killing tens of thousands, many of them at Mass. Voltaire’s Poem on the Lisbon Disaster (1756) and Candide (1759) used it to mock Leibnizian optimism, and it became a turning point in debates about providence and natural evil.",
+      "causes": [
+        "Natural disaster"
+      ],
+      "consequences": [
+        "Shook confidence in optimistic theodicy",
+        "Spurred naturalistic explanations of earthquakes (Kant, Pombal’s surveys)"
+      ],
+      "peopleIds": [
+        "gottfried-leibniz"
+      ],
+      "doctrineIds": [
+        "creation-providence"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "sources": [
+        "brooke-science-religion",
+        "surin-theology-evil"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "origin-of-species-1859",
+      "title": "Publication of On the Origin of Species",
+      "year": 1859,
+      "circa": false,
+      "place": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "intellectual",
+      "regions": [
+        "northern-europe",
+        "global"
+      ],
+      "summary": "Charles Darwin published On the Origin of Species on 24 November 1859, arguing for common descent through natural selection. Christian responses ranged from enthusiastic accommodation (Asa Gray, Charles Kingsley, later B. B. Warfield) to sharp rejection of its apparent exclusion of design (Charles Hodge).",
+      "causes": [
+        "Geology’s long ages",
+        "Darwin’s voyage on the Beagle (1831-36)",
+        "Wallace’s parallel discovery (1858)"
+      ],
+      "consequences": [
+        "Undermined Paley-style design arguments from biological adaptation",
+        "Sharpened debates over Genesis, human origins and theodicy",
+        "Eventually provoked organised anti-evolution movements in the 20th century"
+      ],
+      "peopleIds": [
+        "charles-darwin",
+        "asa-gray",
+        "charles-hodge"
+      ],
+      "doctrineIds": [
+        "creation-providence",
+        "humanity-sin"
+      ],
+      "traditionIds": [],
+      "sources": [
+        "darwin-online",
+        "livingstone-darwins-forgotten-defenders",
+        "brooke-science-religion"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "humani-generis-1950",
+      "title": "Humani Generis permits study of evolution",
+      "year": 1950,
+      "circa": false,
+      "place": {
+        "name": "Vatican City",
+        "lat": 41.9029,
+        "lng": 12.4534
+      },
+      "category": "intellectual",
+      "regions": [
+        "italy",
+        "global"
+      ],
+      "summary": "In the encyclical Humani Generis (12 August 1950) Pius XII allowed Catholic scholars to investigate the evolution of the human body, provided they held that each soul is immediately created by God and did not embrace polygenism.",
+      "causes": [
+        "Advance of evolutionary science",
+        "Concern about the “nouvelle théologie”"
+      ],
+      "consequences": [
+        "Opened official Catholic space for evolutionary creation",
+        "John Paul II (1996) called evolution “more than a hypothesis”"
+      ],
+      "peopleIds": [
+        "pius-xii"
+      ],
+      "doctrineIds": [
+        "creation-providence",
+        "humanity-sin"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "sources": [
+        "humani-generis-1950",
+        "mcgrath-science-theology"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "genesis-flood-1961",
+      "title": "The Genesis Flood launches modern creationism",
+      "year": 1961,
+      "circa": false,
+      "place": {
+        "name": "Philadelphia",
+        "lat": 39.9526,
+        "lng": -75.1652
+      },
+      "category": "intellectual",
+      "regions": [
+        "north-america",
+        "global"
+      ],
+      "summary": "John C. Whitcomb and Henry M. Morris published The Genesis Flood, reviving the flood geology of the Seventh-day Adventist George McCready Price for a broad evangelical audience. It sparked the “creation science” movement, the Institute for Creation Research (1970), Answers in Genesis (1994) and creationist organisations from Korea to Brazil.",
+      "causes": [
+        "Post-Scopes fundamentalism",
+        "Price’s flood geology",
+        "Centenary of Darwin (1959)"
+      ],
+      "consequences": [
+        "Young-earth creationism became the majority view among American evangelicals for decades",
+        "Legal battles over “balanced treatment” (McLean v. Arkansas 1982, Edwards v. Aguillard 1987)"
+      ],
+      "peopleIds": [
+        "henry-m-morris"
+      ],
+      "doctrineIds": [
+        "creation-providence"
+      ],
+      "traditionIds": [
+        "evangelical",
+        "baptist",
+        "seventh-day-adventist"
+      ],
+      "sources": [
+        "numbers-creationists"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "kitzmiller-v-dover-2005",
+      "title": "Kitzmiller v. Dover ruling on intelligent design",
+      "year": 2005,
+      "circa": false,
+      "place": {
+        "name": "Harrisburg, Pennsylvania",
+        "lat": 40.2732,
+        "lng": -76.8867
+      },
+      "category": "political",
+      "regions": [
+        "north-america"
+      ],
+      "summary": "On 20 December 2005 a U.S. federal judge ruled that a Pennsylvania school board’s policy of introducing intelligent design in biology classes violated the Establishment Clause, finding ID to be a form of creationism rather than science. Michael Behe testified for the defence.",
+      "causes": [
+        "Intelligent design movement’s “teach the controversy” strategy"
+      ],
+      "consequences": [
+        "Effectively ended ID in U.S. public-school science curricula",
+        "ID proponents disputed the ruling’s characterisation of their work"
+      ],
+      "peopleIds": [
+        "michael-behe"
+      ],
+      "doctrineIds": [
+        "creation-providence"
+      ],
+      "traditionIds": [],
+      "sources": [
+        "kitzmiller-opinion-2005",
+        "numbers-creationists"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "the-holocaust-1941",
+      "title": "The Holocaust (Shoah)",
+      "year": 1941,
+      "endYear": 1945,
+      "circa": false,
+      "place": {
+        "name": "Auschwitz-Birkenau, Oświęcim",
+        "lat": 50.0343,
+        "lng": 19.1784
+      },
+      "category": "persecution",
+      "regions": [
+        "western-europe",
+        "eastern-europe"
+      ],
+      "summary": "The Nazi regime’s systematic murder of about six million Jews, along with Roma, disabled people and others. Its scale, and the complicity or silence of many baptised Christians, forced a profound rethinking of theodicy, providence, anti-Judaism and the churches’ relation to the state.",
+      "causes": [
+        "Racial antisemitism, building on centuries of Christian anti-Judaism",
+        "Nazi totalitarianism and war"
+      ],
+      "consequences": [
+        "Post-Holocaust theologies of protest, divine suffering and Jewish–Christian reconciliation",
+        "Nostra Aetate (1965) and Protestant repudiations of anti-Judaism"
+      ],
+      "peopleIds": [],
+      "doctrineIds": [
+        "creation-providence",
+        "ethics-church-state"
+      ],
+      "traditionIds": [],
+      "sources": [
+        "davis-encountering-evil",
+        "macculloch-christianity"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "doctrines": [
+    {
+      "id": "creation-providence",
+      "name": "Creation, Providence and Evil",
+      "icon": "sun",
+      "order": 13,
+      "question": "How did God create the world, how does he govern it — and why does he permit evil?",
+      "summary": "Christians confess one God, Maker of heaven and earth, but have debated whether he created from nothing or from chaos, how to read the days of Genesis alongside modern science, how divine providence relates to natural causes and free creatures, and how a good God can permit suffering.",
+      "longText": "The earliest Christians inherited from Israel the confession that the Lord alone made heaven and earth. Against Platonists, who taught that a divine craftsman shaped eternal matter, and Gnostics, who blamed the material world on an ignorant lesser god, second-century theologians — Theophilus of Antioch, Irenaeus, Tertullian — made creatio ex nihilo, creation out of nothing, the common teaching of the Church. It affirmed that God alone is eternal, that matter is good, and that creation is a free gift. The Fourth Lateran Council (1215) and Vatican I (1870) later defined it, and Eastern and Oriental churches confess the same in their liturgies.\n\nHow to read the six days was never settled. Basil’s Hexaemeron read them as days and drew on the natural science of his time; Augustine argued that God made all things at once, implanting “seminal reasons” that unfold over time, and warned Christians not to embarrass the faith by making Scripture teach bad natural philosophy. Galileo quoted that warning in 1615, but Roman authorities condemned heliocentrism and Galileo (1633), an episode later turned into the founding myth of a “war” between science and religion. The discovery of deep time in the 18th and 19th centuries produced harmonising schemes — the gap theory (Chalmers, 1814; Scofield, 1909) and the day-age view — and Darwin’s Origin of Species (1859) prompted responses from enthusiastic acceptance (Asa Gray, later Warfield) to principled rejection of its apparent exclusion of design (Hodge). After the Scopes trial (1925) and especially The Genesis Flood (1961), young-earth creationism became a hallmark of much evangelical and Pentecostal Christianity worldwide, while the framework interpretation, evolutionary creation (accepted in Catholic teaching since Humani Generis, 1950) and intelligent design offered rival paths.\n\nProvidence — God’s preservation and government of the world — raised parallel questions. Aquinas taught that God, as first cause, works in and through genuine secondary causes; Calvin and the Reformed confessions stressed that nothing happens by chance; Molina proposed “middle knowledge” to reconcile sovereignty and freedom; in the 20th century process theology and open theism argued that God persuades and takes risks rather than determining all things.\n\nThe problem of evil runs through all of this. Augustine’s answer — evil as a privation of good arising from misused freedom, permitted because God can bring good from it — dominated the West, revived in Alvin Plantinga’s free-will defence. Irenaeus’ picture of humanity created immature, to grow, became John Hick’s “soul-making” theodicy. The Lisbon earthquake (1755) shook Leibniz’s optimism, and the Holocaust led many theologians to lament and protest rather than explain, while skeptical theists counselled humility about God’s reasons. Christians in Africa, Asia and Latin America, often living amid poverty and violence, have tended to frame these questions less as abstract theodicy than as trust in God’s providence and struggle against evil powers.",
+      "flow": {
+        "nodes": [
+          {
+            "id": "q",
+            "kind": "question",
+            "label": "Where did the world come from, does God govern it, and why is there evil?",
+            "text": "Christians confess God as “Maker of heaven and earth”. But how did God create — from nothing, or from chaos; instantly, in six days, or over billions of years? How does God relate to the ordinary workings of nature and to free creatures? And if the Creator is good and almighty, why does he permit suffering and evil?",
+            "quoteIds": []
+          },
+          {
+            "id": "s-genesis",
+            "kind": "scripture",
+            "label": "Genesis 1-2; 2 Maccabees 7:28; John 1:3; Hebrews 11:3",
+            "year": -550,
+            "text": "“In the beginning God created the heaven and the earth”; “God made them of things that were not”; “all things were made by him”; “things which are seen were not made of things which do appear.” Dates for the final form of Genesis are debated (often placed in the exilic or post-exilic period).",
+            "quoteIds": []
+          },
+          {
+            "id": "s-providence",
+            "kind": "scripture",
+            "label": "Job 38-41; Psalm 104; Isaiah 45:7; Matthew 10:29; Romans 8:28",
+            "year": -500,
+            "text": "God feeds the ravens, numbers the sparrows, “forms the light and creates darkness”, and works all things together for good. Job’s whirlwind speeches answer suffering with the majesty of creation rather than an explanation.",
+            "quoteIds": []
+          },
+          {
+            "id": "p-gnostic",
+            "kind": "position",
+            "label": "Gnostic demiurge: matter made by a lesser god",
+            "year": 140,
+            "text": "Basilides, Valentinus and Sethian teachers attribute the material world to an ignorant creator; Marcion separates the just Creator from the good Father.",
+            "ref": {
+              "type": "position",
+              "id": "gnostic-demiurge"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-preexist",
+            "kind": "position",
+            "label": "Platonist formation from eternal matter",
+            "year": 160,
+            "text": "Following Plato’s Timaeus, some Christian writers (Justin, perhaps; Hermogenes, explicitly) speak of God shaping formless matter.",
+            "ref": {
+              "type": "position",
+              "id": "preexistent-matter-platonism"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "v-theophilus",
+            "kind": "voice",
+            "label": "Theophilus of Antioch: God made matter itself",
+            "year": 180,
+            "text": "The first explicit Christian argument that a God who merely shaped eternal matter would be no greater than a craftsman.",
+            "ref": {
+              "type": "person",
+              "id": "theophilus-of-antioch"
+            },
+            "quoteIds": [
+              "theophilus-out-of-nothing"
+            ]
+          },
+          {
+            "id": "v-irenaeus",
+            "kind": "voice",
+            "label": "Irenaeus: one God creates by his “two hands”",
+            "year": 180,
+            "text": "Against the Gnostics, Irenaeus insists that the one God made all things through his Word and Wisdom, and that matter and body are good.",
+            "ref": {
+              "type": "person",
+              "id": "irenaeus"
+            },
+            "quoteIds": [
+              "irenaeus-two-hands"
+            ]
+          },
+          {
+            "id": "p-irenaean",
+            "kind": "position",
+            "label": "Irenaeus: humanity created as children, to grow",
+            "year": 185,
+            "text": "Humanity was made immature, to grow from the image into the likeness of God — the seed of later “soul-making” theodicy.",
+            "ref": {
+              "type": "position",
+              "id": "irenaean-soul-making"
+            },
+            "quoteIds": [
+              "irenaeus-humanity-infant"
+            ]
+          },
+          {
+            "id": "p-ex-nihilo",
+            "kind": "position",
+            "label": "Creatio ex nihilo becomes the Christian consensus",
+            "year": 200,
+            "text": "By about 200 (Theophilus, Irenaeus, Tertullian’s Against Hermogenes) creation out of nothing is the common teaching of the great Church.",
+            "ref": {
+              "type": "position",
+              "id": "creatio-ex-nihilo"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "v-basil",
+            "kind": "voice",
+            "label": "Basil’s Hexaemeron: the world begins with time",
+            "year": 378,
+            "text": "Basil’s Lenten homilies read Genesis with the science of his day and set the pattern for Eastern and Western commentary.",
+            "ref": {
+              "type": "work",
+              "id": "basil-hexaemeron"
+            },
+            "quoteIds": [
+              "basil-beginning-of-time"
+            ]
+          },
+          {
+            "id": "p-free-will",
+            "kind": "position",
+            "label": "Augustine: evil as privation and misused freedom",
+            "year": 395,
+            "text": "Against the Manichees, Augustine teaches that evil is no substance but a lack of good, arising from free will; God permits it because he can bring good out of evil.",
+            "ref": {
+              "type": "position",
+              "id": "free-will-defence"
+            },
+            "quoteIds": [
+              "augustine-evil-use-of-free-will",
+              "augustine-good-from-evil"
+            ]
+          },
+          {
+            "id": "p-augustine",
+            "kind": "position",
+            "label": "Augustine: all things created at once",
+            "year": 401,
+            "text": "The Literal Meaning of Genesis reads the days as an order of knowledge and creation as simultaneous with time, with “seminal reasons” unfolding later.",
+            "ref": {
+              "type": "position",
+              "id": "augustinian-instantaneous-creation"
+            },
+            "quoteIds": [
+              "augustine-world-with-time",
+              "augustine-genesis-unbelievers"
+            ]
+          },
+          {
+            "id": "d-lateran",
+            "kind": "decision",
+            "label": "Fourth Lateran Council: God made all things from nothing",
+            "year": 1215,
+            "text": "The creed Firmiter confesses one Creator of all things visible and invisible, who from the beginning of time made both spiritual and bodily creatures out of nothing — against Cathar dualism.",
+            "ref": {
+              "type": "event",
+              "id": "fourth-lateran-council-1215"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-thomist",
+            "kind": "position",
+            "label": "Aquinas: God as first cause working through secondary causes",
+            "year": 1265,
+            "text": "Aquinas teaches that God conserves and moves all things while creatures are real causes; he also held that reason cannot prove the world had a beginning — that is known by faith.",
+            "ref": {
+              "type": "position",
+              "id": "thomist-concurrence"
+            },
+            "quoteIds": [
+              "aquinas-secondary-causes"
+            ]
+          },
+          {
+            "id": "p-calvin",
+            "kind": "position",
+            "label": "Calvin: meticulous providence",
+            "year": 1559,
+            "text": "The Reformed tradition teaches that nothing happens by chance or bare permission; God governs every particular event, yet is not the author of sin.",
+            "ref": {
+              "type": "position",
+              "id": "calvinist-meticulous-providence"
+            },
+            "quoteIds": [
+              "calvin-providence-governs"
+            ]
+          },
+          {
+            "id": "p-molinism",
+            "kind": "position",
+            "label": "Molina: middle knowledge reconciles providence and freedom",
+            "year": 1588,
+            "text": "Luis de Molina’s Concordia proposes that God knows what any free creature would do in any circumstance and providentially chooses which circumstances to actualise.",
+            "ref": {
+              "type": "position",
+              "id": "molinism"
+            },
+            "quoteIds": [
+              "molina-middle-knowledge"
+            ]
+          },
+          {
+            "id": "c-galileo",
+            "kind": "consequence",
+            "label": "Galileo condemned (1633)",
+            "year": 1633,
+            "text": "Galileo appeals to Augustine’s principle of accommodation; Rome condemns heliocentrism as contrary to Scripture. The affair later becomes the symbol of a supposed war of science and faith.",
+            "ref": {
+              "type": "event",
+              "id": "trial-of-galileo-1633"
+            },
+            "quoteIds": [
+              "galileo-heaven-goes"
+            ]
+          },
+          {
+            "id": "c-lisbon",
+            "kind": "consequence",
+            "label": "Lisbon earthquake shakes “best of all possible worlds” optimism",
+            "year": 1755,
+            "text": "Leibniz had coined “theodicy” (1710); the Lisbon disaster and Voltaire’s satire made natural evil a central objection to providence.",
+            "ref": {
+              "type": "event",
+              "id": "lisbon-earthquake-1755"
+            },
+            "quoteIds": [
+              "leibniz-best-world"
+            ]
+          },
+          {
+            "id": "a-paley",
+            "kind": "argument",
+            "label": "Paley’s watchmaker: design in nature",
+            "year": 1802,
+            "text": "William Paley’s Natural Theology argues from the contrivance of organisms to a designing Creator — the classic design argument Darwin read at Cambridge.",
+            "ref": {
+              "type": "person",
+              "id": "william-paley"
+            },
+            "quoteIds": [
+              "paley-heath"
+            ]
+          },
+          {
+            "id": "p-gap",
+            "kind": "position",
+            "label": "Gap theory harmonises Genesis with geology",
+            "year": 1814,
+            "text": "Thomas Chalmers places geological ages between Genesis 1:1 and 1:2; later popularised by the Scofield Reference Bible.",
+            "ref": {
+              "type": "position",
+              "id": "gap-theory"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-day-age",
+            "kind": "position",
+            "label": "Day-age and progressive creation",
+            "year": 1857,
+            "text": "Hugh Miller and others read the days as ages corresponding to geological epochs; later held by William Jennings Bryan and Hugh Ross.",
+            "ref": {
+              "type": "position",
+              "id": "old-earth-day-age"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "c-darwin",
+            "kind": "consequence",
+            "label": "Darwin’s Origin of Species (1859)",
+            "year": 1859,
+            "text": "Natural selection offers a non-teleological explanation of adaptation, undercutting Paley’s argument and raising new questions about suffering in nature.",
+            "ref": {
+              "type": "event",
+              "id": "origin-of-species-1859"
+            },
+            "quoteIds": [
+              "darwin-grandeur"
+            ]
+          },
+          {
+            "id": "a-hodge",
+            "kind": "argument",
+            "label": "Hodge: Darwinism as the denial of design",
+            "year": 1874,
+            "text": "Charles Hodge objects not to an old earth but to Darwin’s exclusion of purpose; his Princeton successor B. B. Warfield would accept a providentially guided evolution.",
+            "ref": {
+              "type": "work",
+              "id": "hodge-what-is-darwinism"
+            },
+            "quoteIds": [
+              "hodge-darwinism-atheism"
+            ]
+          },
+          {
+            "id": "p-evol",
+            "kind": "position",
+            "label": "Evolutionary creation: evolution as God’s method",
+            "year": 1876,
+            "text": "Asa Gray’s Darwiniana and later Aubrey Moore, James Orr, Warfield, Teilhard and Dobzhansky see evolution as the providential means of creation.",
+            "ref": {
+              "type": "position",
+              "id": "evolutionary-creation"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-framework",
+            "kind": "position",
+            "label": "Framework interpretation of the days",
+            "year": 1924,
+            "text": "Arie Noordtzij (1924) and Meredith Kline (1958) read Genesis 1 as a literary structure of two triads crowned by the Sabbath.",
+            "ref": {
+              "type": "position",
+              "id": "framework-hypothesis"
+            },
+            "quoteIds": [
+              "kline-framework-para"
+            ]
+          },
+          {
+            "id": "c-scopes",
+            "kind": "consequence",
+            "label": "Scopes trial (1925)",
+            "year": 1925,
+            "text": "The prosecution of a Tennessee teacher for teaching evolution becomes a public humiliation for fundamentalism and drives creationism out of mainstream institutions.",
+            "ref": {
+              "type": "event",
+              "id": "scopes-trial-1925"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-process",
+            "kind": "position",
+            "label": "Process theology: God persuades rather than controls",
+            "year": 1929,
+            "text": "Whitehead and his followers reject both ex nihilo creation and coercive omnipotence: God lures the world and suffers with it.",
+            "ref": {
+              "type": "position",
+              "id": "process-theology"
+            },
+            "quoteIds": [
+              "whitehead-fellow-sufferer"
+            ]
+          },
+          {
+            "id": "c-holocaust",
+            "kind": "consequence",
+            "label": "The Holocaust and the crisis of theodicy",
+            "year": 1941,
+            "text": "The murder of six million Jews in Christian Europe challenges every theodicy and the Church’s own record.",
+            "ref": {
+              "type": "event",
+              "id": "the-holocaust-1941"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "d-humani",
+            "kind": "decision",
+            "label": "Humani Generis (1950) opens Catholic space for evolution",
+            "year": 1950,
+            "text": "Pius XII permits study of the body’s evolution while requiring immediate creation of souls and rejecting polygenism; John Paul II (1996) calls evolution “more than a hypothesis”.",
+            "ref": {
+              "type": "event",
+              "id": "humani-generis-1950"
+            },
+            "quoteIds": [
+              "pius-xii-humani-para"
+            ]
+          },
+          {
+            "id": "p-yec",
+            "kind": "position",
+            "label": "Young-earth creationism revived (The Genesis Flood)",
+            "year": 1961,
+            "text": "Whitcomb and Morris recast Adventist flood geology for evangelicals, rejecting gap and day-age compromises.",
+            "ref": {
+              "type": "position",
+              "id": "young-earth-creationism"
+            },
+            "quoteIds": [
+              "morris-genesis-flood-para"
+            ]
+          },
+          {
+            "id": "p-protest",
+            "kind": "position",
+            "label": "Protest theodicy after Auschwitz",
+            "year": 1981,
+            "text": "John K. Roth and others argue that justifying God before such evil is obscene; faith protests, laments and resists.",
+            "ref": {
+              "type": "position",
+              "id": "protest-theodicy"
+            },
+            "quoteIds": [
+              "roth-protest-para"
+            ]
+          },
+          {
+            "id": "p-skeptical",
+            "kind": "position",
+            "label": "Free-will defence and skeptical theism",
+            "year": 1984,
+            "text": "Plantinga’s free-will defence (1974) answers the logical problem of evil; Wykstra’s skeptical theism (1984) questions inferences from unseen reasons.",
+            "ref": {
+              "type": "position",
+              "id": "skeptical-theism"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-open",
+            "kind": "position",
+            "label": "Open theism: God takes risks",
+            "year": 1994,
+            "text": "Pinnock and colleagues argue that God does not exhaustively foreknow free choices; providence is responsive and relational.",
+            "ref": {
+              "type": "position",
+              "id": "open-theism"
+            },
+            "quoteIds": [
+              "pinnock-open-para"
+            ]
+          },
+          {
+            "id": "p-id",
+            "kind": "position",
+            "label": "Intelligent design movement",
+            "year": 1996,
+            "text": "Johnson, Behe and Dembski revive the design argument at the molecular level.",
+            "ref": {
+              "type": "position",
+              "id": "intelligent-design"
+            },
+            "quoteIds": [
+              "behe-irreducible-para"
+            ]
+          },
+          {
+            "id": "d-dover",
+            "kind": "decision",
+            "label": "Kitzmiller v. Dover (2005)",
+            "year": 2005,
+            "text": "A federal court rules that ID is not science and cannot be taught in U.S. public-school science classes.",
+            "ref": {
+              "type": "event",
+              "id": "kitzmiller-v-dover-2005"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "m-today",
+            "kind": "modern",
+            "label": "Today: a plural landscape",
+            "year": 2025,
+            "text": "Catholic, Orthodox and mainline churches generally accept evolution under providence; many evangelicals, Pentecostals and Global South Christians hold young- or old-earth creationism, and creationist organisations are active from Korea and Brazil to Nigeria. Theodicy debates continue between Augustinian, Irenaean, skeptical, open and protest approaches; BioLogos, Answers in Genesis and Reasons to Believe embody three rival evangelical options.",
+            "quoteIds": [
+              "collins-biologos-para"
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "from": "q",
+            "to": "s-genesis",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q",
+            "to": "s-providence",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-genesis",
+            "to": "p-gnostic",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-genesis",
+            "to": "p-preexist",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-genesis",
+            "to": "v-theophilus",
+            "kind": "supports"
+          },
+          {
+            "from": "p-preexist",
+            "to": "v-theophilus",
+            "kind": "objects"
+          },
+          {
+            "from": "p-gnostic",
+            "to": "v-irenaeus",
+            "kind": "objects"
+          },
+          {
+            "from": "s-providence",
+            "to": "v-irenaeus",
+            "kind": "supports"
+          },
+          {
+            "from": "v-irenaeus",
+            "to": "p-irenaean",
+            "kind": "develops"
+          },
+          {
+            "from": "v-theophilus",
+            "to": "p-ex-nihilo",
+            "kind": "develops"
+          },
+          {
+            "from": "v-irenaeus",
+            "to": "p-ex-nihilo",
+            "kind": "develops"
+          },
+          {
+            "from": "p-ex-nihilo",
+            "to": "v-basil",
+            "kind": "develops"
+          },
+          {
+            "from": "p-ex-nihilo",
+            "to": "p-free-will",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-providence",
+            "to": "p-free-will",
+            "kind": "supports"
+          },
+          {
+            "from": "v-basil",
+            "to": "p-augustine",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-ex-nihilo",
+            "to": "d-lateran",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-lateran",
+            "to": "p-thomist",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-augustine",
+            "to": "p-thomist",
+            "kind": "develops"
+          },
+          {
+            "from": "p-thomist",
+            "to": "p-calvin",
+            "kind": "develops"
+          },
+          {
+            "from": "p-thomist",
+            "to": "p-molinism",
+            "kind": "responds"
+          },
+          {
+            "from": "p-augustine",
+            "to": "c-galileo",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-free-will",
+            "to": "c-lisbon",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-thomist",
+            "to": "a-paley",
+            "kind": "develops"
+          },
+          {
+            "from": "c-galileo",
+            "to": "a-paley",
+            "kind": "leads-to"
+          },
+          {
+            "from": "a-paley",
+            "to": "p-gap",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-gap",
+            "to": "p-day-age",
+            "kind": "develops"
+          },
+          {
+            "from": "a-paley",
+            "to": "c-darwin",
+            "kind": "objects"
+          },
+          {
+            "from": "c-darwin",
+            "to": "a-hodge",
+            "kind": "objects"
+          },
+          {
+            "from": "c-darwin",
+            "to": "p-evol",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-augustine",
+            "to": "p-framework",
+            "kind": "develops"
+          },
+          {
+            "from": "a-hodge",
+            "to": "c-scopes",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-day-age",
+            "to": "c-scopes",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-calvin",
+            "to": "p-process",
+            "kind": "objects"
+          },
+          {
+            "from": "c-lisbon",
+            "to": "c-holocaust",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-evol",
+            "to": "d-humani",
+            "kind": "leads-to"
+          },
+          {
+            "from": "c-scopes",
+            "to": "p-yec",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-day-age",
+            "to": "p-yec",
+            "kind": "objects"
+          },
+          {
+            "from": "p-gap",
+            "to": "p-yec",
+            "kind": "objects"
+          },
+          {
+            "from": "c-holocaust",
+            "to": "p-protest",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-irenaean",
+            "to": "p-protest",
+            "kind": "objects"
+          },
+          {
+            "from": "p-free-will",
+            "to": "p-skeptical",
+            "kind": "develops"
+          },
+          {
+            "from": "p-molinism",
+            "to": "p-open",
+            "kind": "objects"
+          },
+          {
+            "from": "p-process",
+            "to": "p-open",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-evol",
+            "to": "p-id",
+            "kind": "objects"
+          },
+          {
+            "from": "a-paley",
+            "to": "p-id",
+            "kind": "develops"
+          },
+          {
+            "from": "p-id",
+            "to": "d-dover",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-dover",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-humani",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-yec",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-framework",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-skeptical",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-protest",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-open",
+            "to": "m-today",
+            "kind": "leads-to"
+          }
+        ]
+      },
+      "sources": [
+        "may-creatio-ex-nihilo",
+        "lindberg-numbers-god-nature",
+        "brooke-science-religion",
+        "numbers-creationists",
+        "hick-evil-god-love",
+        "helm-providence",
+        "pelikan-christian-tradition",
+        "odcc"
+      ]
+    }
+  ],
+  "positions": [
+    {
+      "id": "creatio-ex-nihilo",
+      "doctrineId": "creation-providence",
+      "name": "Creation out of nothing (creatio ex nihilo)",
+      "altNames": [
+        "ex nihilo creation",
+        "classical doctrine of creation"
+      ],
+      "oneLine": "The one God freely brought into being everything other than himself — matter, time, angels and humans — without any pre-existing material, and sustains it moment by moment.",
+      "coreClaims": [
+        "God alone is eternal and uncreated; everything else has a beginning and depends on him.",
+        "Creation is a free act of love, not a necessity or an emanation from God’s being.",
+        "Matter is good, not evil or a rival principle.",
+        "Creation includes time itself, so God did not “wait” before creating.",
+        "The Creator–creature distinction is fundamental to Christian worship and ethics."
+      ],
+      "keyTexts": [
+        "Genesis 1:1",
+        "2 Maccabees 7:28",
+        "Psalm 33:6-9",
+        "John 1:3",
+        "Romans 4:17",
+        "Colossians 1:16-17",
+        "Hebrews 11:3",
+        "Revelation 4:11"
+      ],
+      "origin": "Implicit in Jewish texts (2 Maccabees 7:28) and the New Testament; made explicit against Platonism and Gnosticism by Theophilus of Antioch, Irenaeus and Tertullian (c.180-205); defined by the Fourth Lateran Council (1215) and Vatican I (1870).",
+      "originYear": 180,
+      "proponentIds": [
+        "theophilus-of-antioch",
+        "irenaeus",
+        "tertullian",
+        "basil-of-caesarea",
+        "augustine-of-hippo",
+        "thomas-aquinas",
+        "john-calvin",
+        "john-of-damascus"
+      ],
+      "proponentsOther": [
+        "Hermas, Mandate 1 (“who made all things to be out of what was not”)",
+        "Fourth Lateran Council, Firmiter (1215)",
+        "Vatican I, Dei Filius ch. 1 (1870)",
+        "Belgic Confession art. 12"
+      ],
+      "traditionIds": [
+        "early-church",
+        "catholic",
+        "eastern-orthodox",
+        "oriental-orthodox",
+        "church-of-the-east",
+        "lutheran",
+        "reformed",
+        "anglican",
+        "methodist",
+        "baptist",
+        "pentecostal",
+        "evangelical"
+      ],
+      "strongestArguments": [
+        "Only creation from nothing preserves God’s absolute sovereignty and uniqueness: nothing exists alongside him independently.",
+        "It grounds the goodness of matter against dualism, and so the goodness of body, sex, food and sacraments.",
+        "It fits the biblical picture of God calling into existence “the things that are not” and is presupposed by the hope of resurrection.",
+        "Many see consonance with big-bang cosmology’s absolute beginning, though the doctrine does not depend on it."
+      ],
+      "strongestObjections": [
+        "Process thinkers argue that creation from chaos (Genesis 1:2) is the more natural reading and that ex nihilo creation makes God responsible for all evil.",
+        "Historians note that Genesis 1 and much of the Old Testament may describe ordering of chaos rather than absolute origination, so the doctrine is a later inference.",
+        "Mormon theology holds that matter (and intelligences) are eternal, and that ex nihilo is a Hellenistic accretion.",
+        "Some argue that a timeless God creating time is incoherent."
+      ],
+      "responses": [
+        "Defenders reply that the doctrine is a legitimate inference from the whole biblical witness (God as sole source of all things), even if Genesis 1 does not state it in philosophical terms.",
+        "On evil: creation from nothing makes creatures finite and mutable, not evil; evil arises from the misuse of freedom (Augustine) or is permitted for greater goods.",
+        "Augustine and Aquinas answer the time objection: time is a feature of creation, so “before creation” has no meaning."
+      ],
+      "consequences": [
+        "Shaped the Creator–creature distinction that underlies classical theism and the doctrine of grace.",
+        "Gave a theological rationale for regarding nature as contingent and orderly — a theme in histories of early modern science.",
+        "Separates historic Christianity from Gnostic, Platonist, process and Latter-day Saint cosmologies."
+      ],
+      "relatedPositionIds": [
+        "preexistent-matter-platonism",
+        "gnostic-demiurge",
+        "process-theology",
+        "classical-theism-divine-simplicity",
+        "lds-godhead"
+      ],
+      "standing": "majority",
+      "sources": [
+        "may-creatio-ex-nihilo",
+        "kelly-doctrines",
+        "pelikan-christian-tradition",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "preexistent-matter-platonism",
+      "doctrineId": "creation-providence",
+      "name": "Formation from pre-existent matter (Platonist / Hermogenean)",
+      "altNames": [
+        "creation from chaos",
+        "demiurgic formation",
+        "Hermogenes’ view"
+      ],
+      "oneLine": "God, like the divine craftsman of Plato’s Timaeus, shaped an eternal, formless matter into an ordered cosmos rather than creating matter itself.",
+      "coreClaims": [
+        "Matter is eternal and uncreated, though formless.",
+        "God is good and orders chaos into cosmos.",
+        "Evil derives from the recalcitrance of matter, not from God."
+      ],
+      "keyTexts": [
+        "Genesis 1:2",
+        "Wisdom of Solomon 11:17 (“out of formless matter”)"
+      ],
+      "origin": "Plato’s Timaeus (c.360 BC) and Middle Platonism; adopted in some form by Hellenistic Jewish and early Christian writers (Justin may have assumed it, First Apology 10); defended explicitly by Hermogenes of Carthage (c.200) and refuted by Tertullian.",
+      "originYear": -360,
+      "proponentIds": [
+        "justin-martyr"
+      ],
+      "proponentsOther": [
+        "Plato (Timaeus)",
+        "Philo of Alexandria (debated)",
+        "Hermogenes of Carthage",
+        "Modern: some process and open theists, Latter-day Saint cosmology"
+      ],
+      "traditionIds": [
+        "early-church",
+        "latter-day-saints"
+      ],
+      "strongestArguments": [
+        "It explains evil without making God its author: disorder is rooted in matter’s resistance.",
+        "Genesis 1:2 (“without form and void”) and Wisdom 11:17 seem to presuppose pre-existing chaos.",
+        "It was the best philosophy of its age, and early Christian writers used it without sensing a conflict with Scripture."
+      ],
+      "strongestObjections": [
+        "Irenaeus, Theophilus and Tertullian object that an eternal matter would be a second god, equal to God in eternity.",
+        "If matter is the source of evil, salvation tends toward escape from the body rather than resurrection.",
+        "Biblical texts present God as the source of all things (John 1:3; Romans 11:36; Colossians 1:16)."
+      ],
+      "responses": [
+        "Modern defenders (e.g. process theologians, some biblical scholars) answer that “chaos” in Genesis is not a rival god but the raw potential God persuades, and that ex nihilo is a philosophical import.",
+        "Latter-day Saints answer that eternal matter limits God’s responsibility for evil and fits Joseph Smith’s revelation."
+      ],
+      "consequences": [
+        "Its rejection by second-century theologians made creatio ex nihilo the Christian consensus.",
+        "Revived in modified form in process and Latter-day Saint thought."
+      ],
+      "relatedPositionIds": [
+        "creatio-ex-nihilo",
+        "gnostic-demiurge",
+        "process-theology",
+        "lds-godhead"
+      ],
+      "standing": "historic",
+      "sources": [
+        "may-creatio-ex-nihilo",
+        "kelly-doctrines",
+        "chadwick-early-church"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "gnostic-demiurge",
+      "doctrineId": "creation-providence",
+      "name": "Gnostic demiurge and evil matter",
+      "altNames": [
+        "Valentinian and Sethian cosmology",
+        "demiurgic dualism"
+      ],
+      "oneLine": "The material world was made not by the highest God but by an ignorant or malevolent lesser power (the demiurge), so salvation is the escape of divine sparks from matter through secret knowledge (gnosis).",
+      "coreClaims": [
+        "The supreme God is utterly transcendent and did not make the material world.",
+        "The creator of Genesis is a lesser, ignorant being (often identified with the God of Israel).",
+        "Some human beings carry a divine spark trapped in matter.",
+        "Salvation is liberation through knowledge, not resurrection of the body."
+      ],
+      "keyTexts": [
+        "Genesis 1-3 (read against the grain)",
+        "John 1:5",
+        "1 Corinthians 2:6-8"
+      ],
+      "origin": "Second-century teachers such as Basilides (Alexandria, c.130), Valentinus (Rome, c.140) and Sethian texts later found at Nag Hammadi (1945); Marcion held a related distinction between the just Creator and the good Father.",
+      "originYear": 140,
+      "proponentIds": [
+        "marcion"
+      ],
+      "proponentsOther": [
+        "Basilides",
+        "Valentinus and Ptolemy",
+        "Apocryphon of John (Nag Hammadi)",
+        "Manichaeism (3rd century)"
+      ],
+      "traditionIds": [
+        "gnostic",
+        "marcionite"
+      ],
+      "strongestArguments": [
+        "It takes the reality of evil and suffering with great seriousness: a world this broken cannot be the direct work of the highest good.",
+        "It explains the felt alienation of the soul from the world and body.",
+        "It offered an esoteric, intellectually prestigious reading of Christianity for educated Romans."
+      ],
+      "strongestObjections": [
+        "Irenaeus objects that it splits the one God and denies the goodness of creation, the incarnation and the resurrection of the flesh.",
+        "It makes salvation elitist, available only to the spiritual few.",
+        "Its readings of Genesis invert the plain sense and depend on secret traditions rather than public apostolic teaching."
+      ],
+      "responses": [
+        "Modern sympathisers argue that the Nag Hammadi texts reveal a diverse early Christianity unfairly suppressed, and that their critique of oppressive “archons” has moral force.",
+        "Scholars such as Karen King caution that “Gnosticism” is a later umbrella category and the groups differed widely."
+      ],
+      "consequences": [
+        "Provoked Irenaeus’ Against Heresies and the “rule of faith” beginning “one God, the Father Almighty, Maker of heaven and earth”.",
+        "Lived on in Manichaeism, Paulicians, Bogomils and Cathars."
+      ],
+      "relatedPositionIds": [
+        "creatio-ex-nihilo",
+        "preexistent-matter-platonism",
+        "marcionite-canon",
+        "docetism"
+      ],
+      "standing": "rejected-by-councils",
+      "sources": [
+        "king-gnosticism",
+        "may-creatio-ex-nihilo",
+        "kelly-doctrines",
+        "chadwick-early-church"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "augustinian-instantaneous-creation",
+      "doctrineId": "creation-providence",
+      "name": "Simultaneous creation with seminal reasons (Augustine)",
+      "altNames": [
+        "instantaneous creation",
+        "rationes seminales",
+        "Augustine’s non-literal days"
+      ],
+      "oneLine": "God created all things at once, in a single instant with time itself, implanting “seminal reasons” that unfold over time; the six days are a teaching device describing an order of knowledge, not 144 hours.",
+      "coreClaims": [
+        "Creation was simultaneous (Sirach 18:1, Old Latin: “he created all things together”).",
+        "Living kinds were created potentially, as seeds or causal reasons that later develop.",
+        "The days are not solar days, since the sun appears only on day four.",
+        "Scripture should not be read so as to contradict what is known with certainty about nature."
+      ],
+      "keyTexts": [
+        "Sirach 18:1",
+        "Genesis 1:1-2:4",
+        "Genesis 2:4-5",
+        "Psalm 33:9"
+      ],
+      "origin": "Developed in Augustine’s Literal Meaning of Genesis (401-415) and City of God XI; anticipated by Philo and Origen’s non-literal readings.",
+      "originYear": 401,
+      "proponentIds": [
+        "augustine-of-hippo",
+        "origen"
+      ],
+      "proponentsOther": [
+        "Philo of Alexandria",
+        "Bonaventure (seminal reasons)",
+        "Modern: some evolutionary creationists and framework theorists invoke Augustine"
+      ],
+      "traditionIds": [
+        "early-church",
+        "catholic"
+      ],
+      "strongestArguments": [
+        "It honours God’s transcendence: an omnipotent God needs no time to create.",
+        "It takes the text’s literary features seriously (light before the sun; two creation accounts).",
+        "It provides a classical precedent for reading Genesis in harmony with natural knowledge."
+      ],
+      "strongestObjections": [
+        "Young-earth creationists object that Augustine still believed in a young earth (under 6,000 years, City of God XII.10) and should not be enlisted for evolution.",
+        "Others note that his reading relied on a mistranslation of Sirach 18:1 in the Old Latin.",
+        "Aquinas and many later Western theologians preferred to treat the days as successive."
+      ],
+      "responses": [
+        "Defenders agree Augustine held a young earth but stress his principle — read Genesis without forcing it to contradict secure natural knowledge — rather than his conclusions.",
+        "Augustine himself offered his reading tentatively and allowed other interpretations."
+      ],
+      "consequences": [
+        "Kept non-literal readings of the days respectable in the West.",
+        "Cited by Galileo (1615) and by 19th- and 20th-century harmonisers."
+      ],
+      "relatedPositionIds": [
+        "framework-hypothesis",
+        "young-earth-creationism",
+        "evolutionary-creation",
+        "creatio-ex-nihilo"
+      ],
+      "standing": "historic",
+      "sources": [
+        "brown-augustine",
+        "may-creatio-ex-nihilo",
+        "hagopian-genesis-debate"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "young-earth-creationism",
+      "doctrineId": "creation-providence",
+      "name": "Young-earth creationism",
+      "altNames": [
+        "YEC",
+        "creation science",
+        "six-day creationism",
+        "flood geology"
+      ],
+      "oneLine": "God created the universe in six ordinary days roughly 6,000-10,000 years ago; animal death and natural evil followed Adam’s fall; Noah’s global Flood laid down most of the fossil record.",
+      "coreClaims": [
+        "Genesis 1-11 is straightforward historical narrative.",
+        "The genealogies give a recent date for creation.",
+        "There was no animal death before the fall (Romans 5:12; 8:20-22).",
+        "Mainstream geology and evolutionary biology rest on naturalistic assumptions and can be reinterpreted.",
+        "Jesus and Paul treated Adam and the Flood as historical."
+      ],
+      "keyTexts": [
+        "Genesis 1:1-2:3",
+        "Exodus 20:11",
+        "Genesis 5; 11",
+        "Genesis 6-9",
+        "Mark 10:6",
+        "Romans 5:12",
+        "Romans 8:20-22",
+        "2 Peter 3:3-6"
+      ],
+      "origin": "The plain-reading young earth was the common pre-modern view (e.g. Ussher’s 4004 BC, 1650), but modern YEC took shape through the Adventist George McCready Price’s flood geology (1923) and Whitcomb and Morris’s The Genesis Flood (1961).",
+      "originYear": 1961,
+      "proponentIds": [
+        "henry-m-morris",
+        "ellen-g-white",
+        "john-macarthur"
+      ],
+      "proponentsOther": [
+        "John C. Whitcomb",
+        "George McCready Price",
+        "Ken Ham (Answers in Genesis)",
+        "Seraphim Rose (Eastern Orthodox)",
+        "Korea Association of Creation Research (1981)"
+      ],
+      "traditionIds": [
+        "evangelical",
+        "baptist",
+        "seventh-day-adventist",
+        "pentecostal",
+        "presbyterian",
+        "chinese-house-churches"
+      ],
+      "strongestArguments": [
+        "It reads Genesis as Jesus and the apostles appear to have read it, and as most Christians did before the 18th century.",
+        "It protects the link between Adam’s sin, death and redemption: death is an enemy, not God’s creative tool.",
+        "Exodus 20:11 grounds the Sabbath week in a literal creation week.",
+        "It refuses to let shifting scientific consensus become the arbiter of Scripture."
+      ],
+      "strongestObjections": [
+        "Geologists, physicists and biologists, including many Christians, object that multiple independent dating methods and starlight distances show an ancient universe and earth.",
+        "Old-earth evangelicals note that Genesis 1 itself contains non-literal signals (days before the sun; the open-ended seventh day) and that conservatives like Warfield and the authors of The Fundamentals accepted an old earth.",
+        "Critics argue that insisting on YEC as a test of orthodoxy creates needless barriers to faith and drives scientists away."
+      ],
+      "responses": [
+        "YEC scientists (e.g. at ICR, AiG, the Creation Research Society) propose alternative models (accelerated decay, white-hole cosmology, catastrophic plate tectonics).",
+        "They argue that “appearance of age” is inherent in any mature creation (Adam was created adult).",
+        "They answer that the authority of Scripture, not of fallible science, must decide."
+      ],
+      "consequences": [
+        "Became majority view among U.S. evangelicals in the late 20th century and spread globally (Korea, Brazil, Nigeria, Kenya, Turkey’s Islamic creationism borrowed from it).",
+        "Created museums, curricula and legal campaigns; contributed to evangelical distrust of mainstream science."
+      ],
+      "relatedPositionIds": [
+        "old-earth-day-age",
+        "gap-theory",
+        "framework-hypothesis",
+        "evolutionary-creation",
+        "intelligent-design",
+        "inerrancy",
+        "fundamentalism"
+      ],
+      "standing": "significant",
+      "sources": [
+        "numbers-creationists",
+        "hagopian-genesis-debate",
+        "stump-four-views-creation",
+        "larson-summer-gods"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "old-earth-day-age",
+      "doctrineId": "creation-providence",
+      "name": "Old-earth creationism (day-age and progressive creation)",
+      "altNames": [
+        "day-age view",
+        "progressive creationism",
+        "concordism"
+      ],
+      "oneLine": "The “days” of Genesis are long ages, and God created in stages over billions of years, directly creating new kinds (including humans) at intervals; Scripture and nature, read rightly, agree.",
+      "coreClaims": [
+        "The Hebrew yom can mean an indefinite period (Genesis 2:4).",
+        "The seventh day continues still (Hebrews 4).",
+        "The order of the days broadly matches the scientific record.",
+        "God intervened directly to create life, major kinds and humanity; Adam and Eve were historical."
+      ],
+      "keyTexts": [
+        "Genesis 1-2",
+        "Genesis 2:4",
+        "Psalm 90:4",
+        "2 Peter 3:8",
+        "Hebrews 4:1-11",
+        "Psalm 104"
+      ],
+      "origin": "Proposed by 19th-century harmonisers such as Hugh Miller (Testimony of the Rocks, 1857) and Arnold Guyot; held by William Jennings Bryan at the Scopes trial; popularised today by Hugh Ross’s Reasons to Believe (1986).",
+      "originYear": 1857,
+      "proponentIds": [
+        "b-b-warfield"
+      ],
+      "proponentsOther": [
+        "Hugh Miller",
+        "Arnold Guyot",
+        "James Dwight Dana",
+        "William Jennings Bryan",
+        "Hugh Ross",
+        "Robert C. Newman"
+      ],
+      "traditionIds": [
+        "evangelical",
+        "presbyterian",
+        "baptist",
+        "methodist"
+      ],
+      "strongestArguments": [
+        "It respects both the authority of Genesis and the overwhelming evidence for an old universe.",
+        "It retains a historical Adam and special creation, protecting human uniqueness.",
+        "It uses the Bible’s own flexible use of “day” and the unending seventh day."
+      ],
+      "strongestObjections": [
+        "Young-earth creationists object that “evening and morning” and numbered days signal ordinary days and that the view admits death before the fall.",
+        "Scientists and evolutionary creationists object that the fossil and genetic evidence shows common descent, not repeated special creations.",
+        "Literary interpreters object that the order of Genesis 1 does not actually match science (e.g. birds before land animals; vegetation before the sun)."
+      ],
+      "responses": [
+        "Day-age advocates answer that animal death is not the “death” Paul ties to sin (Romans 5 concerns human death).",
+        "They argue that progressive creation explains sudden appearances in the fossil record (e.g. the Cambrian) better than gradualism."
+      ],
+      "consequences": [
+        "Allowed many conservative Protestants (including the authors of The Fundamentals) to accept geology without evolution.",
+        "Lost ground to YEC after 1961 but revived through Reasons to Believe."
+      ],
+      "relatedPositionIds": [
+        "young-earth-creationism",
+        "gap-theory",
+        "framework-hypothesis",
+        "evolutionary-creation",
+        "intelligent-design"
+      ],
+      "standing": "significant",
+      "sources": [
+        "numbers-creationists",
+        "hagopian-genesis-debate",
+        "stump-four-views-creation"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "gap-theory",
+      "doctrineId": "creation-providence",
+      "name": "Gap theory (ruin-restoration)",
+      "altNames": [
+        "ruin and reconstruction theory",
+        "restitution theory"
+      ],
+      "oneLine": "Between Genesis 1:1 (an original creation) and 1:2 (“the earth became without form and void”) lies an indefinite gap, often linked with Lucifer’s fall; the six days describe a recent re-creation.",
+      "coreClaims": [
+        "Genesis 1:2 should be translated “became” waste and void, signalling a judgement.",
+        "The geological ages and fossils belong to the pre-Adamic world.",
+        "The six days are literal days of restoration.",
+        "Isaiah 14, Ezekiel 28 and Jeremiah 4:23-26 hint at a primeval catastrophe tied to Satan’s rebellion."
+      ],
+      "keyTexts": [
+        "Genesis 1:1-2",
+        "Isaiah 45:18",
+        "Jeremiah 4:23-26",
+        "Isaiah 14:12-15",
+        "Ezekiel 28:12-17",
+        "2 Peter 3:5-7"
+      ],
+      "origin": "Popularised by Thomas Chalmers from about 1814; spread by G. H. Pember’s Earth’s Earliest Ages (1876) and the Scofield Reference Bible notes (1909), and widely held in early 20th-century fundamentalism and Pentecostalism.",
+      "originYear": 1814,
+      "proponentIds": [
+        "thomas-chalmers",
+        "cyrus-scofield"
+      ],
+      "proponentsOther": [
+        "G. H. Pember",
+        "Arthur Custance",
+        "Finis Jennings Dake (Dake Annotated Bible)"
+      ],
+      "traditionIds": [
+        "evangelical",
+        "pentecostal",
+        "baptist"
+      ],
+      "strongestArguments": [
+        "It allows a literal six-day week and an old earth at once.",
+        "It offers a setting for the fall of the angels before Eden.",
+        "It was endorsed by trusted reference works and preachers of the dispensationalist movement."
+      ],
+      "strongestObjections": [
+        "Hebrew grammarians object that the waw-disjunctive in Genesis 1:2 describes a state (“the earth was”), not a change (“became”).",
+        "Young-earth creationists reject it for allowing death before Adam; geologists find no break between a “pre-Adamic” and present world.",
+        "Isaiah 14 and Ezekiel 28 are, in context, oracles against the kings of Babylon and Tyre."
+      ],
+      "responses": [
+        "Gap theorists answer that hayah can mean “became” (as in Genesis 19:26) and that the prophetic texts point beyond their human subjects.",
+        "They argue that the theory is a modest harmonisation, not a dogma."
+      ],
+      "consequences": [
+        "Dominated fundamentalist teaching before 1960 through the Scofield Bible.",
+        "Largely displaced by young-earth creationism after The Genesis Flood."
+      ],
+      "relatedPositionIds": [
+        "young-earth-creationism",
+        "old-earth-day-age",
+        "dispensational-premillennialism",
+        "fall-of-angels-pride"
+      ],
+      "standing": "minority",
+      "sources": [
+        "numbers-creationists",
+        "hagopian-genesis-debate",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "framework-hypothesis",
+      "doctrineId": "creation-providence",
+      "name": "Framework interpretation",
+      "altNames": [
+        "literary framework view",
+        "framework hypothesis"
+      ],
+      "oneLine": "The six days of Genesis 1 are a literary-theological framework — two parallel triads of “kingdoms” (days 1-3) and “rulers” (days 4-6) crowned by the Sabbath — that teach who created and why, not how long or in what sequence.",
+      "coreClaims": [
+        "Genesis 1 is exalted, structured prose with a deliberate pattern.",
+        "Days 1-3 form realms; days 4-6 fill them with rulers (light/luminaries; sky and sea/birds and fish; land/animals and humans).",
+        "Genesis 2:5 assumes ordinary providence during creation, ruling out a rapid miraculous sequence.",
+        "The seventh day has no end, showing the days are not ordinary.",
+        "The text addresses ancient Near Eastern idolatry, not modern science."
+      ],
+      "keyTexts": [
+        "Genesis 1:1-2:3",
+        "Genesis 2:5-6",
+        "Exodus 20:11",
+        "Hebrews 4:3-11"
+      ],
+      "origin": "Proposed by Dutch scholar Arie Noordtzij (1924), developed by N. H. Ridderbos (1957) and Meredith Kline (1958, 1996); later defended by Henri Blocher and Bruce Waltke; related to John Walton’s “cosmic temple” reading (2009).",
+      "originYear": 1924,
+      "proponentIds": [
+        "meredith-kline",
+        "augustine-of-hippo"
+      ],
+      "proponentsOther": [
+        "Arie Noordtzij",
+        "N. H. Ridderbos",
+        "Henri Blocher",
+        "Bruce Waltke",
+        "Lee Irons",
+        "John Walton (related view)"
+      ],
+      "traditionIds": [
+        "reformed",
+        "presbyterian",
+        "evangelical",
+        "anglican"
+      ],
+      "strongestArguments": [
+        "It takes the literary craft of Genesis seriously and stands in continuity with Augustine’s non-chronological reading.",
+        "It frees exegesis from concordist pressure in either direction.",
+        "It explains anomalies such as light before the sun."
+      ],
+      "strongestObjections": [
+        "Young-earth creationists object that “evening and morning” and Exodus 20:11 imply real days and that the framework reading seems tailored to accommodate science.",
+        "Some Reformed critics argue the Westminster Confession’s “in the space of six days” excludes it (debated in the PCA and OPC, 1990s-2000s).",
+        "Others question whether the two-triad scheme fits all the details."
+      ],
+      "responses": [
+        "Framework advocates answer that Exodus 20:11 is analogical (God’s “week” as pattern for ours), as is God’s “rest” and “refreshment” (31:17).",
+        "They note that Noordtzij proposed the view before modern creation-evolution debates heated up and argue from the text, not science."
+      ],
+      "consequences": [
+        "Allowed many confessional Reformed churches to remain agnostic on the age of the earth.",
+        "Debated in Presbyterian Church in America study committee (2000), which judged several views acceptable."
+      ],
+      "relatedPositionIds": [
+        "augustinian-instantaneous-creation",
+        "young-earth-creationism",
+        "old-earth-day-age",
+        "evolutionary-creation"
+      ],
+      "standing": "minority",
+      "sources": [
+        "hagopian-genesis-debate",
+        "stump-four-views-creation"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "evolutionary-creation",
+      "doctrineId": "creation-providence",
+      "name": "Evolutionary creation (theistic evolution)",
+      "altNames": [
+        "theistic evolution",
+        "BioLogos",
+        "evolutionary creationism"
+      ],
+      "oneLine": "God is the Creator of all things, and the evolution of life over billions of years through common descent is the means by which he has providentially brought about living things, including the human body.",
+      "coreClaims": [
+        "Mainstream science (old universe, common descent) is accurate about how life developed.",
+        "Natural processes are God’s ongoing work, not rivals to him (secondary causes).",
+        "Genesis teaches theology — God, humanity’s vocation, sin — in ancient literary forms, not modern science.",
+        "Humans uniquely bear God’s image; views of Adam range from a historical pair/representatives to an archetype."
+      ],
+      "keyTexts": [
+        "Genesis 1:11-12, 24 (“let the earth bring forth”)",
+        "Psalm 104",
+        "Colossians 1:15-20",
+        "Job 38-41",
+        "Romans 1:20"
+      ],
+      "origin": "Accepted by 19th-century Christians such as Asa Gray, Charles Kingsley, Aubrey Moore (Lux Mundi, 1889), James Orr and B. B. Warfield; opened in Catholic teaching by Humani Generis (1950) and John Paul II (1996); advocated today by BioLogos (2007), Faraday Institute and many Orthodox and mainline theologians.",
+      "originYear": 1876,
+      "proponentIds": [
+        "asa-gray",
+        "b-b-warfield",
+        "pierre-teilhard-de-chardin",
+        "francis-collins",
+        "pius-xii",
+        "john-paul-ii",
+        "c-s-lewis"
+      ],
+      "proponentsOther": [
+        "Charles Kingsley",
+        "Aubrey Moore",
+        "James Orr",
+        "Theodosius Dobzhansky (Orthodox)",
+        "John Polkinghorne",
+        "Denis Lamoureux",
+        "Deborah Haarsma"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-orthodox",
+        "anglican",
+        "lutheran",
+        "reformed",
+        "methodist",
+        "evangelical"
+      ],
+      "strongestArguments": [
+        "It allows full intellectual honesty about the overwhelming convergent evidence (fossils, genetics, biogeography).",
+        "It sees God’s creativity in a world that makes itself under his providence, in line with Aquinas’ secondary causation.",
+        "It removes needless obstacles to faith for scientifically trained people.",
+        "It reads Genesis within its ancient Near Eastern context."
+      ],
+      "strongestObjections": [
+        "Young-earth creationists argue it undermines the historicity of Adam, the fall and the link between sin and death, and so the gospel (Romans 5; 1 Corinthians 15).",
+        "Intelligent-design proponents argue that unguided mechanisms cannot generate biological information and that “theistic evolution” concedes too much to naturalism.",
+        "Critics ask how a good God could use a process involving vast suffering, predation and extinction over millions of years."
+      ],
+      "responses": [
+        "Evolutionary creationists answer that many hold to a historical Adam (as representative or within a population) and that Paul’s theology rests on universal sin and grace, not on a particular biology.",
+        "They respond that evolution is not “unguided” in a theological sense: God sustains and directs all natural processes.",
+        "On suffering they develop “only way” or cruciform theodicies (creation as costly and free), acknowledging difficulty."
+      ],
+      "consequences": [
+        "Became the default view in Catholic, Orthodox and mainline Protestant scholarship and a growing evangelical minority.",
+        "Generated new work on human origins, original sin and animal suffering."
+      ],
+      "relatedPositionIds": [
+        "young-earth-creationism",
+        "old-earth-day-age",
+        "intelligent-design",
+        "framework-hypothesis",
+        "thomist-concurrence",
+        "imago-dei-functional"
+      ],
+      "standing": "significant",
+      "sources": [
+        "livingstone-darwins-forgotten-defenders",
+        "stump-four-views-creation",
+        "mcgrath-science-theology",
+        "humani-generis-1950",
+        "jp2-evolution-1996"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "intelligent-design",
+      "doctrineId": "creation-providence",
+      "name": "Intelligent design",
+      "altNames": [
+        "ID",
+        "design argument (biological)"
+      ],
+      "oneLine": "Certain features of the universe and of living things are best explained by an intelligent cause rather than undirected processes, and this inference can be made by scientific methods.",
+      "coreClaims": [
+        "Specified complexity and irreducible complexity are reliable markers of design.",
+        "Undirected natural selection cannot account for the origin of life’s information or certain molecular machines.",
+        "Cosmic fine-tuning points to design.",
+        "ID does not, as such, identify the designer or require a young earth."
+      ],
+      "keyTexts": [
+        "Romans 1:20",
+        "Psalm 19:1",
+        "Job 12:7-10"
+      ],
+      "origin": "Grew out of 1980s critiques of origin-of-life research; launched by Phillip E. Johnson’s Darwin on Trial (1991), Michael Behe’s Darwin’s Black Box (1996) and William Dembski’s The Design Inference (1998); organised through the Discovery Institute (1996).",
+      "originYear": 1991,
+      "proponentIds": [
+        "michael-behe",
+        "william-paley"
+      ],
+      "proponentsOther": [
+        "Phillip E. Johnson",
+        "William Dembski",
+        "Stephen Meyer",
+        "Jonathan Wells",
+        "Discovery Institute"
+      ],
+      "traditionIds": [
+        "evangelical",
+        "catholic",
+        "presbyterian"
+      ],
+      "strongestArguments": [
+        "It challenges methodological naturalism’s monopoly in science and asks a legitimate question about the origin of biological information.",
+        "Its arguments resemble everyday design inferences (archaeology, forensics, SETI).",
+        "It unites old-earth, young-earth and some theistic-evolution believers and non-Christians in questioning neo-Darwinism."
+      ],
+      "strongestObjections": [
+        "Most biologists, including many Christians, argue that proposed examples of irreducible complexity have plausible evolutionary pathways (e.g. co-option of parts of the flagellum).",
+        "Evolutionary creationists and Thomists argue ID makes God a “god of the gaps” competing with natural causes rather than the Creator of all causes.",
+        "The Kitzmiller court (2005) found that ID functions as a re-labelled creationism and is not science."
+      ],
+      "responses": [
+        "ID proponents answer that design is inferred from positive evidence (information), not mere gaps.",
+        "They contend that the Kitzmiller judge overreached and that mainstream science has failed to give detailed Darwinian pathways."
+      ],
+      "consequences": [
+        "Shaped U.S. school-board debates 1999-2005.",
+        "Revived interest in classical design arguments and in cosmic fine-tuning."
+      ],
+      "relatedPositionIds": [
+        "evolutionary-creation",
+        "young-earth-creationism",
+        "old-earth-day-age",
+        "design-argument-paley"
+      ],
+      "standing": "minority",
+      "sources": [
+        "numbers-creationists",
+        "stump-four-views-creation",
+        "kitzmiller-opinion-2005"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "thomist-concurrence",
+      "doctrineId": "creation-providence",
+      "name": "Providence by divine concurrence (Thomist)",
+      "altNames": [
+        "concursus",
+        "primary and secondary causation",
+        "classical providence"
+      ],
+      "oneLine": "God, the transcendent first cause, gives being and activity to every creature at every moment, while creatures are genuine secondary causes acting according to their natures — including free creatures acting freely.",
+      "coreClaims": [
+        "God conserves all things in being continually.",
+        "God concurs with every action of creatures, as first cause, without competing with them on the same level.",
+        "Creatures, including free agents and chance processes, are real causes.",
+        "God’s providence orders all things to their ends, permitting evil for greater goods."
+      ],
+      "keyTexts": [
+        "Acts 17:28",
+        "Isaiah 26:12",
+        "Philippians 2:12-13",
+        "Wisdom 8:1",
+        "Matthew 10:29-30"
+      ],
+      "origin": "Rooted in Augustine and Boethius; systematised by Thomas Aquinas (Summa Theologiae I q.22, q.103-105; Summa contra Gentiles III); refined by Domingo Báñez (physical premotion) and in debates with Molinism.",
+      "originYear": 1265,
+      "proponentIds": [
+        "thomas-aquinas",
+        "augustine-of-hippo"
+      ],
+      "proponentsOther": [
+        "Boethius",
+        "Domingo Báñez",
+        "Réginald Garrigou-Lagrange",
+        "Herbert McCabe",
+        "Brian Davies"
+      ],
+      "traditionIds": [
+        "catholic",
+        "anglican",
+        "lutheran",
+        "reformed"
+      ],
+      "strongestArguments": [
+        "It preserves both divine sovereignty and real creaturely causation, avoiding occasionalism and deism.",
+        "Because God is not one cause among others, divine and creaturely agency are not in zero-sum competition.",
+        "It provides a framework in which natural science (studying secondary causes) and theology need not conflict."
+      ],
+      "strongestObjections": [
+        "Molinists object that Thomist premotion makes God the determining cause of sinful acts, threatening freedom.",
+        "Open and process theists argue that concurrence leaves no room for real creaturely contribution or for God being affected.",
+        "Some analytic philosophers find the “non-competitive” claim obscure or incoherent."
+      ],
+      "responses": [
+        "Thomists answer that God causes the being of the act but not its defect: sin is a privation for which the creature is responsible.",
+        "They maintain that transcendent causation is analogical and cannot be modelled as a stronger version of creaturely causation."
+      ],
+      "consequences": [
+        "Became the mainstream Catholic account and influenced Reformed scholastics.",
+        "Underlies many contemporary evolutionary-creation accounts of divine action."
+      ],
+      "relatedPositionIds": [
+        "calvinist-meticulous-providence",
+        "molinism",
+        "open-theism",
+        "process-theology",
+        "thomist-grace",
+        "evolutionary-creation"
+      ],
+      "standing": "significant",
+      "sources": [
+        "helm-providence",
+        "pelikan-christian-tradition",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "calvinist-meticulous-providence",
+      "doctrineId": "creation-providence",
+      "name": "Meticulous providence (Reformed)",
+      "altNames": [
+        "specific sovereignty",
+        "Calvinist providence",
+        "compatibilist providence"
+      ],
+      "oneLine": "God not only sustains the world but governs every event, including free choices and evils, according to his eternal decree, for his glory and the good of his people — without being the author of sin.",
+      "coreClaims": [
+        "Nothing happens by chance or bare permission; God’s will is the ultimate cause of all that happens.",
+        "God ordains evil events while remaining holy; humans remain responsible (compatibilism).",
+        "Providence is a comfort: all things work together for good to those who love God.",
+        "God works ordinarily through means but is free to work without, above and against them."
+      ],
+      "keyTexts": [
+        "Genesis 50:20",
+        "Proverbs 16:33",
+        "Isaiah 45:7",
+        "Lamentations 3:37-38",
+        "Matthew 10:29-30",
+        "Acts 2:23; 4:27-28",
+        "Romans 8:28",
+        "Ephesians 1:11"
+      ],
+      "origin": "Developed by Zwingli (On Providence, 1530) and Calvin (Institutes 1.16-18, 1559); confessed in the Belgic Confession (art. 13), Heidelberg Catechism (Q.27-28, 1563) and Westminster Confession ch. 5 (1646).",
+      "originYear": 1559,
+      "proponentIds": [
+        "john-calvin",
+        "huldrych-zwingli",
+        "jonathan-edwards",
+        "charles-hodge",
+        "john-piper"
+      ],
+      "proponentsOther": [
+        "Heidelberg Catechism Q.27-28",
+        "Westminster Confession ch. 5",
+        "Paul Helm",
+        "D. A. Carson"
+      ],
+      "traditionIds": [
+        "reformed",
+        "presbyterian",
+        "congregationalist",
+        "baptist",
+        "evangelical"
+      ],
+      "strongestArguments": [
+        "It takes at face value the many texts where God ordains even evil acts for good (Joseph, the cross).",
+        "It gives believers deep assurance: nothing escapes God’s purpose.",
+        "It coheres with God’s omniscience and the doctrine of unconditional election."
+      ],
+      "strongestObjections": [
+        "Arminians and open theists object that it makes God the author of sin and empties human freedom and responsibility.",
+        "Many find it pastorally harmful in face of atrocity: did God “ordain” the Holocaust?",
+        "Thomists and Orthodox note a danger of reducing divine causality to a univocal “super-cause” determining creatures."
+      ],
+      "responses": [
+        "Reformed theologians answer with compatibilism: humans act freely when they do what they want, and God ordains through secondary causes without coercion (Westminster 3.1; 5.2).",
+        "They distinguish God’s decretive and preceptive will and insist that the cross shows God bringing the greatest good from the greatest evil."
+      ],
+      "consequences": [
+        "Shaped Puritan and Reformed piety (providence journals, fast days).",
+        "Central in modern Calvinist revival and in debates with open theism."
+      ],
+      "relatedPositionIds": [
+        "thomist-concurrence",
+        "molinism",
+        "open-theism",
+        "calvinism-tulip",
+        "compatibilist-freedom"
+      ],
+      "standing": "significant",
+      "sources": [
+        "helm-providence",
+        "muller-calvin-after",
+        "schaff-creeds"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "irenaean-soul-making",
+      "doctrineId": "creation-providence",
+      "name": "Irenaean (soul-making) theodicy",
+      "altNames": [
+        "soul-making theodicy",
+        "vale of soul-making",
+        "developmental theodicy"
+      ],
+      "oneLine": "God created humanity immature and placed it in a challenging world so that through free struggle, suffering and growth it might mature into the likeness of God; evil is permitted as the necessary environment for soul-making.",
+      "coreClaims": [
+        "Humanity was created in the image of God but has yet to grow into the likeness.",
+        "A world without pain and risk could not produce virtues such as courage, compassion and faith.",
+        "God keeps an “epistemic distance” so that faith and love are free.",
+        "The process will be completed beyond this life (Hick held a universalist outcome)."
+      ],
+      "keyTexts": [
+        "Genesis 1:26",
+        "Romans 5:3-5",
+        "Romans 8:18-23",
+        "Hebrews 2:10; 12:5-11",
+        "James 1:2-4",
+        "2 Corinthians 3:18"
+      ],
+      "origin": "Inspired by Irenaeus (Against Heresies 4.37-39, c.180), echoed by Schleiermacher; named and systematised by John Hick (Evil and the God of Love, 1966). Hick borrowed “vale of soul-making” from John Keats.",
+      "originYear": 1966,
+      "proponentIds": [
+        "irenaeus",
+        "john-hick",
+        "friedrich-schleiermacher"
+      ],
+      "proponentsOther": [
+        "John Keats (phrase)",
+        "Richard Swinburne (greater-goods theodicy)",
+        "Many Eastern Orthodox emphases on growth toward theosis"
+      ],
+      "traditionIds": [
+        "eastern-orthodox",
+        "anglican",
+        "reformed",
+        "methodist"
+      ],
+      "strongestArguments": [
+        "It fits a world of long evolutionary development better than a paradise-and-fall narrative.",
+        "It gives meaning to suffering as formative rather than merely punitive.",
+        "It resonates with Eastern Christian emphasis on growth toward theosis."
+      ],
+      "strongestObjections": [
+        "Critics (e.g. D. Z. Phillips, John K. Roth) argue that horrendous evils such as the Holocaust destroy rather than make souls and that treating them as instruments is morally obscene.",
+        "Augustinians object that it underplays the fall and makes evil a divine necessity.",
+        "The amount and distribution of suffering (children, animals) seems far beyond what soul-making needs."
+      ],
+      "responses": [
+        "Hick answered that soul-making requires a world of real, not token, danger, and that eschatological fulfilment ultimately justifies the process.",
+        "Defenders argue that the theodicy concerns the general conditions of the world, not a justification of every particular evil."
+      ],
+      "consequences": [
+        "Popular in 20th-century philosophy of religion and in evolutionary theodicies.",
+        "Prompted renewed study of Irenaeus’ theology of growth."
+      ],
+      "relatedPositionIds": [
+        "free-will-defence",
+        "skeptical-theism",
+        "protest-theodicy",
+        "recapitulation",
+        "theosis"
+      ],
+      "standing": "significant",
+      "sources": [
+        "hick-evil-god-love",
+        "surin-theology-evil",
+        "davis-encountering-evil"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "free-will-defence",
+      "doctrineId": "creation-providence",
+      "name": "Augustinian free-will theodicy and defence",
+      "altNames": [
+        "free-will defence",
+        "Augustinian theodicy",
+        "privation theory of evil"
+      ],
+      "oneLine": "Evil is not a created substance but a privation of good, arising from the misuse of free will by angels and humans in a world God made good; God permits it because a world with free creatures is better, and he brings greater good out of evil.",
+      "coreClaims": [
+        "Everything God made is good; evil is a lack or corruption of good (privatio boni).",
+        "Moral evil comes from the free choices of angels and humans; natural evil is linked to the fall.",
+        "Free will is a great good that God does not override.",
+        "God permits evil only because he can bring good even out of it.",
+        "Modern “defence” (Plantinga) argues only that God and evil are logically compatible."
+      ],
+      "keyTexts": [
+        "Genesis 1:31",
+        "Genesis 3",
+        "Deuteronomy 30:19",
+        "Romans 5:12",
+        "Romans 8:20-22",
+        "James 1:13-15"
+      ],
+      "origin": "Developed by Augustine against Manichaean dualism (On Free Choice of the Will, 388-395; Enchiridion 421); dominant in Western theology; revived in analytic form by Alvin Plantinga’s free-will defence (1965, 1974).",
+      "originYear": 395,
+      "proponentIds": [
+        "augustine-of-hippo",
+        "thomas-aquinas",
+        "gottfried-leibniz",
+        "alvin-plantinga",
+        "c-s-lewis"
+      ],
+      "proponentsOther": [
+        "Anselm",
+        "Richard Swinburne (free-will theodicy)"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-orthodox",
+        "lutheran",
+        "reformed",
+        "anglican",
+        "methodist",
+        "evangelical",
+        "baptist",
+        "pentecostal"
+      ],
+      "strongestArguments": [
+        "It maintains God’s goodness and the goodness of creation while taking sin with full seriousness.",
+        "Plantinga’s defence is widely regarded as having answered the logical problem of evil (that God and evil are contradictory).",
+        "It coheres with the biblical narrative of creation, fall and redemption."
+      ],
+      "strongestObjections": [
+        "Critics argue that natural evils (earthquakes, disease, animal suffering before humans existed) are hard to blame on human free will.",
+        "Compatibilists ask why God could not create free creatures who always choose good.",
+        "Hick and others object that a perfectly good creature’s fall is unintelligible, and the fall-narrative conflicts with evolutionary history."
+      ],
+      "responses": [
+        "Defenders extend the argument to fallen angels (Plantinga, Lewis) or to the cost of a law-governed world.",
+        "Plantinga answers that it is possible that every free creature God could create would go wrong somewhere (“transworld depravity”)."
+      ],
+      "consequences": [
+        "Shaped Western liturgy, preaching and confession.",
+        "Remains the most widely used framework in popular apologetics."
+      ],
+      "relatedPositionIds": [
+        "irenaean-soul-making",
+        "skeptical-theism",
+        "protest-theodicy",
+        "augustinianism",
+        "libertarian-freedom",
+        "fall-of-angels-pride"
+      ],
+      "standing": "majority",
+      "sources": [
+        "surin-theology-evil",
+        "plantinga-god-freedom-evil",
+        "brown-augustine",
+        "davis-encountering-evil"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "skeptical-theism",
+      "doctrineId": "creation-providence",
+      "name": "Skeptical theism",
+      "altNames": [
+        "noseeum response",
+        "epistemic humility response"
+      ],
+      "oneLine": "Since human beings are in no position to grasp all the goods and evils, and their connections, that an infinite God might know, our failure to see a reason for a particular evil is not good evidence that there is none.",
+      "coreClaims": [
+        "The inference from “I see no reason for this evil” to “there is no reason” is unreliable.",
+        "The gap between divine and human understanding is like that between a parent and an infant.",
+        "The book of Job models trust without explanation.",
+        "This undercuts the evidential argument from evil without offering a full theodicy."
+      ],
+      "keyTexts": [
+        "Job 38-42",
+        "Isaiah 55:8-9",
+        "Romans 11:33-36",
+        "1 Corinthians 13:12"
+      ],
+      "origin": "Formulated in analytic philosophy by Stephen Wykstra (“The Humean Obstacle”, 1984) in response to William Rowe’s evidential argument (1979); developed by William Alston, Michael Bergmann and Alvin Plantinga.",
+      "originYear": 1984,
+      "proponentIds": [
+        "alvin-plantinga"
+      ],
+      "proponentsOther": [
+        "Stephen Wykstra",
+        "William Alston",
+        "Michael Bergmann",
+        "Daniel Howard-Snyder"
+      ],
+      "traditionIds": [
+        "reformed",
+        "evangelical",
+        "catholic",
+        "anglican"
+      ],
+      "strongestArguments": [
+        "It reflects the biblical humility of Job and Paul.",
+        "It is a modest, logically careful claim that does not trivialise suffering by offering glib explanations.",
+        "It effectively blocks the premise of Rowe’s evidential argument."
+      ],
+      "strongestObjections": [
+        "Critics argue that if we cannot judge God’s reasons, we also cannot infer God’s goodness or trust his promises (moral scepticism).",
+        "Others say it can make moral action impossible: if any evil might serve a hidden good, why prevent it?",
+        "Protest theodicists find it pastorally cold."
+      ],
+      "responses": [
+        "Skeptical theists answer that their scepticism is limited to the total realm of goods and evils, not basic moral knowledge or revealed promises.",
+        "They argue our duty to prevent evil comes from God’s command, not from calculating outcomes."
+      ],
+      "consequences": [
+        "Became a major option in philosophy of religion after 1984.",
+        "Influenced pastoral emphasis on lament and trust."
+      ],
+      "relatedPositionIds": [
+        "free-will-defence",
+        "irenaean-soul-making",
+        "protest-theodicy",
+        "reformed-epistemology"
+      ],
+      "standing": "minority",
+      "sources": [
+        "davis-encountering-evil",
+        "surin-theology-evil"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "protest-theodicy",
+      "doctrineId": "creation-providence",
+      "name": "Protest theodicy and post-Holocaust theology",
+      "altNames": [
+        "theodicy of protest",
+        "anti-theodicy",
+        "theology of lament"
+      ],
+      "oneLine": "In face of horrendous evil such as the Holocaust, explanations that justify God are morally inadequate; faith takes the form of lament, protest and argument with God, together with resistance to evil.",
+      "coreClaims": [
+        "Theodicies risk justifying the unjustifiable and silencing victims.",
+        "The biblical tradition of lament (Job, Psalms, Habakkuk) legitimises protest against God.",
+        "Faith after Auschwitz must keep faith with victims.",
+        "Practical resistance to evil matters more than theoretical explanation."
+      ],
+      "keyTexts": [
+        "Job 3; 23-24",
+        "Psalm 13; 44; 88",
+        "Habakkuk 1:2-4",
+        "Lamentations",
+        "Mark 15:34"
+      ],
+      "origin": "Rooted in Jewish responses to the Shoah (Elie Wiesel’s The Trial of God, 1979); articulated for Christians by John K. Roth (“A Theodicy of Protest”, 1981), Dorothee Sölle, Johann Baptist Metz and, in related form, by Kenneth Surin’s critique of theodicy (1986). Jürgen Moltmann’s The Crucified God (1972) relocated suffering in God.",
+      "originYear": 1981,
+      "proponentIds": [
+        "john-k-roth",
+        "jurgen-moltmann"
+      ],
+      "proponentsOther": [
+        "Elie Wiesel (Jewish)",
+        "Dorothee Sölle",
+        "Johann Baptist Metz",
+        "Kenneth Surin",
+        "D. Z. Phillips"
+      ],
+      "traditionIds": [
+        "presbyterian",
+        "lutheran",
+        "catholic",
+        "reformed"
+      ],
+      "strongestArguments": [
+        "It refuses to make suffering “make sense” in ways that wound victims.",
+        "It recovers the neglected biblical genre of lament.",
+        "It keeps theology accountable to history, especially Christian complicity in antisemitism."
+      ],
+      "strongestObjections": [
+        "Classical theists object that protest against God either presupposes his goodness (making protest self-undermining) or denies it.",
+        "Others argue that refusing theodicy abandons the intellectual task of faith.",
+        "Some worry it slides toward a limited or culpable God."
+      ],
+      "responses": [
+        "Roth replies that protest is a form of faith that holds God to his promises, as Job did.",
+        "Supporters argue that theodicy as a theoretical enterprise is a modern invention (post-Leibniz) and that the older tradition practised lament and hope."
+      ],
+      "consequences": [
+        "Influenced Jewish–Christian dialogue and post-Holocaust theology.",
+        "Renewed liturgical use of lament psalms."
+      ],
+      "relatedPositionIds": [
+        "free-will-defence",
+        "irenaean-soul-making",
+        "skeptical-theism",
+        "process-theology",
+        "open-theism"
+      ],
+      "standing": "minority",
+      "sources": [
+        "davis-encountering-evil",
+        "surin-theology-evil"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "controversies": [
+    {
+      "id": "galileo-affair",
+      "title": "The Galileo affair",
+      "question": "Must Scripture’s language about a fixed earth and moving sun be read as astronomy, and who decides?",
+      "summary": "From 1616 to 1633 Roman authorities judged Copernican heliocentrism contrary to Scripture and condemned Galileo; the case became the emblem of a “war” between science and religion, though historians now stress its theological, political and personal complexity.",
+      "doctrineIds": [
+        "creation-providence",
+        "scripture-authority"
+      ],
+      "sides": [
+        {
+          "name": "Scripture’s plain sense and Church authority",
+          "steelman": "For fifteen centuries the Fathers unanimously read Joshua 10, Psalm 93 and Ecclesiastes 1 as describing a stable earth and a moving sun. The Council of Trent forbids interpreting Scripture against the unanimous consent of the Fathers on matters of faith and morals. Copernicanism was an unproven hypothesis; Galileo’s tidal argument was weak and stellar parallax undetected. A layman should not reinterpret Scripture on his own authority. Cardinal Bellarmine himself conceded that if a true demonstration were found, the texts would need reinterpreting.",
+          "arguments": [
+            "Patristic consensus on biblical cosmology",
+            "Trent’s rule on interpretation (1546)",
+            "Lack of decisive proof for the earth’s motion before parallax (1838)",
+            "Tycho Brahe’s geo-heliocentric model fitted the observations"
+          ],
+          "counterArguments": [
+            "Astronomy is not a matter of faith and morals",
+            "Augustine himself warned against binding Scripture to disputable natural philosophy"
+          ],
+          "keyTexts": [
+            "Joshua 10:12-13",
+            "Psalm 93:1",
+            "Psalm 104:5",
+            "Ecclesiastes 1:5"
+          ],
+          "quoteIds": []
+        },
+        {
+          "name": "Accommodation and the two books",
+          "steelman": "God is author of both Scripture and nature, and the two cannot truly contradict. Scripture speaks in ordinary language to teach salvation; it describes the sun “rising” as we all still do. As Augustine taught, Christians must not expose the faith to ridicule by making Scripture teach natural philosophy. Sense experience and necessary demonstrations should guide interpreters to the true meaning of the texts.",
+          "arguments": [
+            "Augustine’s Literal Meaning of Genesis",
+            "Telescopic evidence: phases of Venus, Jupiter’s moons",
+            "Baronius: Scripture teaches how to go to heaven, not how the heavens go"
+          ],
+          "counterArguments": [
+            "Galileo had no conclusive proof and overstated his tidal argument",
+            "He mocked the Pope’s argument in the Dialogue"
+          ],
+          "keyTexts": [
+            "Psalm 19",
+            "Romans 1:20"
+          ],
+          "quoteIds": [
+            "galileo-heaven-goes",
+            "augustine-genesis-unbelievers"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 1543,
+          "text": "Copernicus’ On the Revolutions published, dedicated to Pope Paul III."
+        },
+        {
+          "year": 1546,
+          "text": "Trent forbids interpreting Scripture contrary to the unanimous consent of the Fathers.",
+          "eventId": "council-of-trent-1545"
+        },
+        {
+          "year": 1610,
+          "text": "Galileo’s Starry Messenger reports Jupiter’s moons."
+        },
+        {
+          "year": 1615,
+          "text": "Letter to the Grand Duchess Christina."
+        },
+        {
+          "year": 1616,
+          "text": "The Index suspends Copernicus’ book “until corrected”; Bellarmine admonishes Galileo."
+        },
+        {
+          "year": 1633,
+          "text": "Galileo tried, made to abjure, sentenced to house arrest.",
+          "eventId": "trial-of-galileo-1633"
+        },
+        {
+          "year": 1822,
+          "text": "Holy Office allows printing of books teaching the earth’s motion."
+        },
+        {
+          "year": 1835,
+          "text": "Copernican works dropped from the Index."
+        },
+        {
+          "year": 1992,
+          "text": "John Paul II receives the commission’s report and acknowledges the judges’ error."
+        }
+      ],
+      "resolution": {
+        "kind": "faded",
+        "text": "Heliocentrism became universally accepted, and the Catholic Church gradually withdrew its prohibitions (1757-1835) and in 1992 acknowledged that Galileo’s judges erred. Historians debate whether the affair was a clash of science and religion at all, or chiefly of competing authorities, personalities and Counter-Reformation politics."
+      },
+      "consequences": [
+        "Became the founding myth of the “warfare thesis” (Draper 1874, White 1896), now largely rejected by historians of science.",
+        "Encouraged the principle, shared by most churches, that Scripture is not a textbook of natural science.",
+        "Shaped later Catholic caution and the 1950 Humani Generis approach to evolution."
+      ],
+      "sources": [
+        "finocchiaro-galileo",
+        "brooke-science-religion",
+        "lindberg-numbers-god-nature"
+      ]
+    },
+    {
+      "id": "creation-evolution-debate",
+      "title": "Creation and evolution",
+      "question": "Is the evolutionary history of life compatible with the Christian doctrine of creation, Adam and the fall?",
+      "summary": "Since 1859 Christians have divided over evolution: many accepted it as God’s method, others rejected Darwinism’s apparent exclusion of design, and from 1961 a revived young-earth creationism made the issue a marker of evangelical identity, with intelligent design as a third party.",
+      "doctrineIds": [
+        "creation-providence",
+        "humanity-sin",
+        "scripture-authority"
+      ],
+      "sides": [
+        {
+          "name": "Young-earth creationism",
+          "positionId": "young-earth-creationism",
+          "steelman": "Genesis is God’s eyewitness account, and Jesus treated it as history. If death and suffering existed for millions of years before Adam, then death is not the wages of sin, and the cross loses its context. The age of the earth is not observed but inferred from assumptions; Christians should start from God’s Word, not from naturalistic science.",
+          "arguments": [
+            "Plain reading of Genesis and Exodus 20:11",
+            "Death through sin (Romans 5:12)",
+            "Genealogies",
+            "Jesus on “the beginning of creation” (Mark 10:6)"
+          ],
+          "counterArguments": [
+            "Convergent scientific evidence for deep time and common descent",
+            "Non-literal features of Genesis 1 itself",
+            "Old-earth views held by many 19th-century conservatives"
+          ],
+          "keyTexts": [
+            "Genesis 1-11",
+            "Exodus 20:11",
+            "Romans 5:12",
+            "Romans 8:20-22"
+          ],
+          "quoteIds": [
+            "morris-genesis-flood-para"
+          ]
+        },
+        {
+          "name": "Evolutionary creation",
+          "positionId": "evolutionary-creation",
+          "steelman": "God is not a rival to natural processes but their Creator and sustainer. The evidence for common descent is as strong as for any scientific theory. Genesis proclaims that the one God made a good world and called humanity to bear his image — truths untouched by how long or by what means. Making Christianity depend on a young earth sets an unnecessary stumbling block before inquirers.",
+          "arguments": [
+            "Genetic and fossil evidence",
+            "Aquinas’ secondary causes",
+            "Augustine’s warning against embarrassing the faith",
+            "Ancient Near Eastern genre of Genesis 1"
+          ],
+          "counterArguments": [
+            "Threatens historical Adam and the fall",
+            "Makes God use suffering and death as creative tools",
+            "Concedes too much to naturalism (ID critique)"
+          ],
+          "keyTexts": [
+            "Genesis 1:24",
+            "Psalm 104",
+            "Colossians 1:16-17"
+          ],
+          "quoteIds": [
+            "darwin-grandeur",
+            "collins-biologos-para",
+            "augustine-genesis-unbelievers"
+          ]
+        },
+        {
+          "name": "Intelligent design",
+          "positionId": "intelligent-design",
+          "steelman": "Whatever the age of the earth, the information in DNA and the molecular machines of the cell bear the hallmarks of mind. Science should be free to follow the evidence to design rather than ruling it out by methodological naturalism.",
+          "arguments": [
+            "Irreducible complexity",
+            "Specified complexity",
+            "Fine-tuning"
+          ],
+          "counterArguments": [
+            "God-of-the-gaps reasoning",
+            "Lacks testable research programme",
+            "Kitzmiller ruling"
+          ],
+          "keyTexts": [
+            "Romans 1:20",
+            "Psalm 19:1"
+          ],
+          "quoteIds": [
+            "behe-irreducible-para",
+            "hodge-darwinism-atheism"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 1859,
+          "text": "Darwin’s Origin of Species.",
+          "eventId": "origin-of-species-1859"
+        },
+        {
+          "year": 1874,
+          "text": "Charles Hodge: “What is Darwinism? It is atheism.”"
+        },
+        {
+          "year": 1909,
+          "text": "Scofield Reference Bible promotes the gap theory.",
+          "eventId": "scofield-reference-bible-1909"
+        },
+        {
+          "year": 1910,
+          "text": "The Fundamentals include essays open to an old earth and limited evolution.",
+          "eventId": "the-fundamentals-1910"
+        },
+        {
+          "year": 1925,
+          "text": "Scopes trial in Dayton, Tennessee.",
+          "eventId": "scopes-trial-1925"
+        },
+        {
+          "year": 1950,
+          "text": "Humani Generis allows Catholic study of human bodily evolution.",
+          "eventId": "humani-generis-1950"
+        },
+        {
+          "year": 1961,
+          "text": "The Genesis Flood revives flood geology.",
+          "eventId": "genesis-flood-1961"
+        },
+        {
+          "year": 1996,
+          "text": "Behe’s Darwin’s Black Box; John Paul II calls evolution more than a hypothesis."
+        },
+        {
+          "year": 2005,
+          "text": "Kitzmiller v. Dover rules against teaching ID.",
+          "eventId": "kitzmiller-v-dover-2005"
+        },
+        {
+          "year": 2007,
+          "text": "BioLogos founded by Francis Collins."
+        }
+      ],
+      "resolution": {
+        "kind": "open",
+        "text": "Unresolved. Catholic, Orthodox, Anglican and mainline Protestant teaching generally accepts evolution under providence; a large share of evangelicals, Pentecostals and many Global South Christians hold young-earth or old-earth creationism; intelligent design persists as a minority intellectual movement."
+      },
+      "consequences": [
+        "Shaped American fundamentalism and its institutions after Scopes.",
+        "Generated creation museums, curricula and court cases.",
+        "Produced new theological work on human origins, original sin and animal suffering.",
+        "Remains a frequent factor in young people’s reported loss of faith and in scientists’ perception of Christianity."
+      ],
+      "sources": [
+        "numbers-creationists",
+        "larson-summer-gods",
+        "stump-four-views-creation",
+        "livingstone-darwins-forgotten-defenders"
+      ]
+    }
+  ]
+}
