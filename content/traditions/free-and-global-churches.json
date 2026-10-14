@@ -1,0 +1,3799 @@
+{
+  "sources": [
+    {
+      "id": "mcbeth-baptist-heritage",
+      "title": "The Baptist Heritage: Four Centuries of Baptist Witness",
+      "kind": "secondary",
+      "author": "H. Leon McBeth",
+      "year": 1987
+    },
+    {
+      "id": "leonard-baptist-ways",
+      "title": "Baptist Ways: A History",
+      "kind": "secondary",
+      "author": "Bill J. Leonard",
+      "year": 2003
+    },
+    {
+      "id": "lumpkin-baptist-confessions",
+      "title": "Baptist Confessions of Faith",
+      "kind": "reference",
+      "author": "William L. Lumpkin (rev. Bill J. Leonard)",
+      "year": "1959; 2nd rev. ed. 2011"
+    },
+    {
+      "id": "sbc-annual-church-profile",
+      "title": "Southern Baptist Convention Annual Church Profile (Lifeway Research)",
+      "kind": "data",
+      "author": "Lifeway Christian Resources",
+      "year": 2024,
+      "note": "Self-reported congregational statistics compiled annually."
+    },
+    {
+      "id": "yearbook-american-canadian-churches",
+      "title": "Yearbook of American & Canadian Churches",
+      "kind": "data",
+      "author": "National Council of the Churches of Christ in the USA",
+      "year": "annual (1916–2012)"
+    },
+    {
+      "id": "durnbaugh-brethren",
+      "title": "Fruit of the Vine: A History of the Brethren, 1708–1995",
+      "kind": "secondary",
+      "author": "Donald F. Durnbaugh",
+      "year": 1997
+    },
+    {
+      "id": "coad-brethren",
+      "title": "A History of the Brethren Movement",
+      "kind": "secondary",
+      "author": "F. Roy Coad",
+      "year": 1968
+    },
+    {
+      "id": "dickerson-ame",
+      "title": "The African Methodist Episcopal Church: A History",
+      "kind": "secondary",
+      "author": "Dennis C. Dickerson",
+      "year": 2020
+    },
+    {
+      "id": "richey-american-methodism",
+      "title": "American Methodism: A Compact History",
+      "kind": "secondary",
+      "author": "Russell E. Richey, Kenneth E. Rowe & Jean Miller Schmidt",
+      "year": 2012
+    },
+    {
+      "id": "smith-called-unto-holiness",
+      "title": "Called unto Holiness: The Story of the Nazarenes — The Formative Years",
+      "kind": "secondary",
+      "author": "Timothy L. Smith",
+      "year": 1962
+    },
+    {
+      "id": "dayton-theological-roots",
+      "title": "Theological Roots of Pentecostalism",
+      "kind": "secondary",
+      "author": "Donald W. Dayton",
+      "year": 1987
+    },
+    {
+      "id": "butler-cogic",
+      "title": "Women in the Church of God in Christ: Making a Sacred World",
+      "kind": "secondary",
+      "author": "Anthea D. Butler",
+      "year": 2007
+    },
+    {
+      "id": "conn-mighty-army",
+      "title": "Like a Mighty Army: A History of the Church of God",
+      "kind": "secondary",
+      "author": "Charles W. Conn",
+      "year": "1955; rev. 2008"
+    },
+    {
+      "id": "blumhofer-mcpherson",
+      "title": "Aimee Semple McPherson: Everybody's Sister",
+      "kind": "secondary",
+      "author": "Edith L. Blumhofer",
+      "year": 1993
+    },
+    {
+      "id": "chesnut-born-again-brazil",
+      "title": "Born Again in Brazil: The Pentecostal Boom and the Pathogens of Poverty",
+      "kind": "secondary",
+      "author": "R. Andrew Chesnut",
+      "year": 1997
+    },
+    {
+      "id": "freston-evangelicals-politics",
+      "title": "Evangelicals and Politics in Asia, Africa and Latin America",
+      "kind": "secondary",
+      "author": "Paul Freston",
+      "year": 2001
+    },
+    {
+      "id": "ukah-rccg",
+      "title": "A New Paradigm of Pentecostal Power: A Study of the Redeemed Christian Church of God in Nigeria",
+      "kind": "secondary",
+      "author": "Asonzeh Ukah",
+      "year": 2008
+    },
+    {
+      "id": "miller-reinventing",
+      "title": "Reinventing American Protestantism: Christianity in the New Millennium",
+      "kind": "secondary",
+      "author": "Donald E. Miller",
+      "year": 1997
+    },
+    {
+      "id": "christerson-flory-network",
+      "title": "The Rise of Network Christianity: How Independent Leaders Are Changing the Religious Landscape",
+      "kind": "secondary",
+      "author": "Brad Christerson & Richard Flory",
+      "year": 2017
+    },
+    {
+      "id": "riches-wagner-hillsong",
+      "title": "The Hillsong Movement Examined: You Call Me Out Upon the Waters",
+      "kind": "secondary",
+      "author": "Tanya Riches & Tom Wagner (eds.)",
+      "year": 2017
+    },
+    {
+      "id": "sundkler-bantu-prophets",
+      "title": "Bantu Prophets in South Africa",
+      "kind": "secondary",
+      "author": "Bengt Sundkler",
+      "year": "1948; 2nd ed. 1961"
+    },
+    {
+      "id": "turner-church-of-the-lord",
+      "title": "History of an African Independent Church: The Church of the Lord (Aladura)",
+      "kind": "secondary",
+      "author": "Harold W. Turner",
+      "year": 1967
+    },
+    {
+      "id": "peel-aladura",
+      "title": "Aladura: A Religious Movement among the Yoruba",
+      "kind": "secondary",
+      "author": "J. D. Y. Peel",
+      "year": 1968
+    },
+    {
+      "id": "shank-prophet-harris",
+      "title": "Prophet Harris, the 'Black Elijah' of West Africa",
+      "kind": "secondary",
+      "author": "David A. Shank",
+      "year": 1994
+    },
+    {
+      "id": "tuggy-iglesia-ni-cristo",
+      "title": "Iglesia ni Cristo: A Study in Independent Church Dynamics",
+      "kind": "secondary",
+      "author": "Arthur Leonard Tuggy",
+      "year": 1976
+    },
+    {
+      "id": "wickeri-common-ground",
+      "title": "Seeking the Common Ground: Protestant Christianity, the Three-Self Movement, and China's United Front",
+      "kind": "secondary",
+      "author": "Philip L. Wickeri",
+      "year": 1988
+    },
+    {
+      "id": "bergunder-south-indian-pentecostal",
+      "title": "The South Indian Pentecostal Movement in the Twentieth Century",
+      "kind": "secondary",
+      "author": "Michael Bergunder",
+      "year": 2008
+    },
+    {
+      "id": "stone-campbell-encyclopedia",
+      "title": "The Encyclopedia of the Stone-Campbell Movement",
+      "kind": "reference",
+      "author": "Douglas A. Foster, Paul M. Blowers, Anthony L. Dunnavant & D. Newell Williams (eds.)",
+      "year": 2004
+    },
+    {
+      "id": "wilson-sects-society",
+      "title": "Sects and Society: A Sociological Study of the Elim Tabernacle, Christian Science, and Christadelphians",
+      "kind": "secondary",
+      "author": "Bryan R. Wilson",
+      "year": 1961
+    },
+    {
+      "id": "gottschalk-christian-science",
+      "title": "The Emergence of Christian Science in American Religious Life",
+      "kind": "secondary",
+      "author": "Stephen Gottschalk",
+      "year": 1973
+    },
+    {
+      "id": "stein-shaker-experience",
+      "title": "The Shaker Experience in America: A History of the United Society of Believers",
+      "kind": "secondary",
+      "author": "Stephen J. Stein",
+      "year": 1992
+    },
+    {
+      "id": "tkach-transformed",
+      "title": "Transformed by Truth",
+      "kind": "primary",
+      "author": "Joseph Tkach",
+      "year": 1997,
+      "note": "Account of the Worldwide Church of God doctrinal changes by its then president."
+    },
+    {
+      "id": "cohn-sherbok-messianic",
+      "title": "Messianic Judaism",
+      "kind": "secondary",
+      "author": "Dan Cohn-Sherbok",
+      "year": 2000
+    },
+    {
+      "id": "sundkler-csi",
+      "title": "Church of South India: The Movement Towards Union, 1900–1947",
+      "kind": "secondary",
+      "author": "Bengt Sundkler",
+      "year": 1954
+    },
+    {
+      "id": "airhart-united-church",
+      "title": "A Church with the Soul of a Nation: Making and Remaking the United Church of Canada",
+      "kind": "secondary",
+      "author": "Phyllis D. Airhart",
+      "year": 2014
+    },
+    {
+      "id": "uniting-church-basis-of-union",
+      "title": "Basis of Union of the Uniting Church in Australia",
+      "kind": "primary",
+      "author": "Joint Constitution Council",
+      "year": "1971; 1992 ed."
+    },
+    {
+      "id": "gunnemann-ucc",
+      "title": "The Shaping of the United Church of Christ: An Essay in the History of American Christianity",
+      "kind": "secondary",
+      "author": "Louis H. Gunnemann",
+      "year": 1977
+    },
+    {
+      "id": "mullins-handbook-japan",
+      "title": "Handbook of Christianity in Japan",
+      "kind": "reference",
+      "author": "Mark R. Mullins (ed.)",
+      "year": 2003
+    },
+    {
+      "id": "abs-census-2021",
+      "title": "Australian Bureau of Statistics, 2021 Census of Population and Housing — Religious Affiliation",
+      "kind": "data",
+      "author": "Australian Bureau of Statistics",
+      "year": 2022
+    },
+    {
+      "id": "stein-communities-of-dissent",
+      "title": "Communities of Dissent: A History of Alternative Religions in America",
+      "kind": "secondary",
+      "author": "Stephen J. Stein",
+      "year": 2003
+    },
+    {
+      "id": "lee-local-churches",
+      "title": "The Local Churches: \"Genuine Believers and Fellow Members of the Body of Christ\"",
+      "kind": "secondary",
+      "author": "Christian Research Institute (Hank Hanegraaff, Elliot Miller et al.)",
+      "year": 2009,
+      "note": "Christian Research Journal special issue (vol. 32 no. 6) reassessing earlier counter-cult critiques."
+    },
+    {
+      "id": "gampiot-kimbanguism",
+      "title": "Kimbanguism: An African Understanding of the Bible",
+      "kind": "secondary",
+      "author": "Aurélien Mokoko Gampiot",
+      "year": 2017
+    }
+  ],
+  "events": [
+    {
+      "id": "smyth-se-baptism-1609",
+      "title": "John Smyth baptises himself and his congregation in Amsterdam",
+      "year": 1609,
+      "circa": true,
+      "place": {
+        "name": "Amsterdam",
+        "lat": 52.3676,
+        "lng": 4.9041
+      },
+      "category": "reform",
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "English Separatist exiles led by John Smyth and Thomas Helwys concluded that infant baptism was invalid and that a true church is a gathered fellowship of baptised believers. Smyth baptised himself (a 'se-baptism') and then the rest of the congregation, forming what is usually counted as the first English Baptist church. Helwys led part of the group back to London in 1612, founding the first Baptist congregation on English soil.",
+      "causes": [
+        "Separatist conviction that the Church of England was not a true church",
+        "Reading of the New Testament as teaching baptism of confessing believers only",
+        "Contact with Waterlander Mennonites in Amsterdam"
+      ],
+      "consequences": [
+        "Origin of the General (Arminian) Baptists",
+        "Helwys's plea for religious liberty for all, including non-Christians (1612)",
+        "Smyth himself later sought union with the Mennonites, doubting his self-baptism"
+      ],
+      "peopleIds": [
+        "john-smyth"
+      ],
+      "doctrineIds": [],
+      "traditionIds": [
+        "baptist",
+        "general-baptists"
+      ],
+      "sources": [
+        "mcbeth-baptist-heritage",
+        "leonard-baptist-ways"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "first-london-confession-1644",
+      "title": "First London Confession of the Particular Baptists",
+      "year": 1644,
+      "place": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "category": "reform",
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Seven Calvinistic ('Particular') Baptist congregations in London issued a joint confession to distinguish themselves from Anabaptists and to show their orthodoxy. Its 1646 revision added that baptism should be by immersion ('dipping'), which these congregations had adopted around 1641–42.",
+      "causes": [
+        "Rise of Calvinistic Baptist congregations out of the Jacob–Lathrop–Jessey Independent church from the 1630s",
+        "Accusations linking all Baptists with the Münster rebellion",
+        "Civil War-era freedom to publish"
+      ],
+      "consequences": [
+        "Defined Particular Baptist identity alongside the Westminster Confession tradition",
+        "Prepared the way for the Second London Confession (1677/1689), still used by Reformed Baptists"
+      ],
+      "peopleIds": [],
+      "doctrineIds": [],
+      "traditionIds": [
+        "baptist",
+        "particular-baptists"
+      ],
+      "sources": [
+        "lumpkin-baptist-confessions",
+        "mcbeth-baptist-heritage"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "southern-baptist-convention-1845",
+      "title": "Founding of the Southern Baptist Convention at Augusta",
+      "year": 1845,
+      "place": {
+        "name": "Augusta, Georgia",
+        "lat": 33.4735,
+        "lng": -82.0105
+      },
+      "category": "schism",
+      "regions": [
+        "north-america"
+      ],
+      "summary": "In May 1845 Baptists from the slaveholding states met in Augusta, Georgia, and formed the Southern Baptist Convention after the national Baptist mission bodies refused to appoint slaveholders as missionaries. The split was over slavery: Southern delegates defended the right of slaveholders to serve, and the new convention's founders included many enslavers. The SBC formally repudiated this history in a 1995 resolution on racial reconciliation, apologising to African Americans and acknowledging that the convention had been founded in part to defend slavery.",
+      "causes": [
+        "The Home Mission Society declined in 1844 to appoint the Georgia slaveholder James E. Reeve as a missionary (a deliberate test case)",
+        "The Boston-based foreign mission board's reply to the 'Alabama Resolutions' that it would not appoint a slaveholder",
+        "Sectional tensions that also split the Methodists (1844) and Presbyterians"
+      ],
+      "consequences": [
+        "Creation of what became the largest Protestant denomination in the United States",
+        "Northern Baptists continued in the older societies, organising as the Northern Baptist Convention in 1907",
+        "Freed Black Baptists formed their own conventions after emancipation",
+        "1995 SBC resolution repenting of the convention's defence of slavery and racism"
+      ],
+      "peopleIds": [],
+      "doctrineIds": [],
+      "traditionIds": [
+        "baptist",
+        "southern-baptist-convention",
+        "american-baptist-churches-usa"
+      ],
+      "sources": [
+        "mcbeth-baptist-heritage",
+        "leonard-baptist-ways",
+        "noll-christianity-us"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "national-baptist-convention-1895",
+      "title": "Formation of the National Baptist Convention in Atlanta",
+      "year": 1895,
+      "place": {
+        "name": "Atlanta, Georgia",
+        "lat": 33.749,
+        "lng": -84.388
+      },
+      "category": "reform",
+      "regions": [
+        "north-america"
+      ],
+      "summary": "In September 1895 three African American Baptist bodies — the Foreign Mission Baptist Convention (1880), the American National Baptist Convention (1886) and the Baptist National Educational Convention (1893) — merged in Atlanta to form the National Baptist Convention of the United States of America, the largest Black denomination in the country.",
+      "causes": [
+        "Explosive growth of independent Black Baptist churches after emancipation",
+        "Desire for Black-led missions to Africa, publishing and education",
+        "Exclusion and paternalism in white-led Baptist bodies"
+      ],
+      "consequences": [
+        "1915 split over control of the publishing board produced the National Baptist Convention of America",
+        "1961 split over leadership and civil-rights strategy produced the Progressive National Baptist Convention, the denominational home of Martin Luther King Jr.",
+        "Black Baptist churches became central institutions of the civil rights movement"
+      ],
+      "peopleIds": [],
+      "doctrineIds": [],
+      "traditionIds": [
+        "baptist",
+        "national-baptist-convention-usa"
+      ],
+      "sources": [
+        "leonard-baptist-ways",
+        "noll-christianity-us",
+        "ahlstrom-religious-history"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "schwarzenau-baptisms-1708",
+      "title": "First Brethren baptisms in the Eder at Schwarzenau",
+      "year": 1708,
+      "place": {
+        "name": "Schwarzenau, Wittgenstein",
+        "lat": 51.017,
+        "lng": 8.483
+      },
+      "category": "reform",
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Eight Radical Pietists led by Alexander Mack, sheltering in the tolerant county of Sayn-Wittgenstein, baptised one another by threefold forward immersion in the river Eder in 1708. They intended to restore the New Testament church; their opponents called them Dunkers (from tunken, 'to dip').",
+      "causes": [
+        "Radical Pietist rejection of state churches",
+        "Reading of Anabaptist and Pietist writers, including Gottfried Arnold",
+        "Persecution of separatists in the Palatinate"
+      ],
+      "consequences": [
+        "Origin of the Schwarzenau Brethren (Church of the Brethren and related bodies)",
+        "Migration to Pennsylvania from 1719, with the Germantown congregation formed in 1723",
+        "Later branches: Old German Baptist Brethren (1881), Brethren Church (1883), Grace Brethren"
+      ],
+      "peopleIds": [],
+      "doctrineIds": [],
+      "traditionIds": [
+        "church-of-the-brethren",
+        "anabaptist"
+      ],
+      "sources": [
+        "durnbaugh-brethren",
+        "melton-encyclopedia"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "bethesda-controversy-1848",
+      "title": "The Bethesda controversy divides the Brethren",
+      "year": 1848,
+      "place": {
+        "name": "Bristol",
+        "lat": 51.4545,
+        "lng": -2.5879
+      },
+      "category": "schism",
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "When Bethesda Chapel in Bristol, led by George Müller and Henry Craik, received worshippers from B. W. Newton's Plymouth assembly — whose Christological teaching John Nelson Darby had condemned — Darby issued a circular in August 1848 calling for assemblies to refuse fellowship with Bethesda. The Brethren divided into 'Exclusive' assemblies, which held that a decision binds all connected meetings, and 'Open' assemblies, which treat each local assembly as autonomous.",
+      "causes": [
+        "Dispute over B. W. Newton's teaching on Christ's sufferings",
+        "Competing views of church discipline and the unity of assemblies",
+        "Personal tensions between leading Brethren teachers"
+      ],
+      "consequences": [
+        "Permanent separation of Open and Exclusive Brethren",
+        "Further Exclusive divisions (1881, 1890 Raven, and later the Taylor-led Plymouth Brethren Christian Church)",
+        "Open Brethren became a major missionary movement in Africa, India and Latin America"
+      ],
+      "peopleIds": [
+        "john-nelson-darby"
+      ],
+      "doctrineIds": [],
+      "traditionIds": [
+        "plymouth-brethren",
+        "open-brethren",
+        "exclusive-brethren"
+      ],
+      "sources": [
+        "coad-brethren",
+        "bebbington-evangelicalism"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "wesleyan-methodist-connection-1843",
+      "title": "Abolitionist Methodists form the Wesleyan Methodist Connection",
+      "year": 1843,
+      "place": {
+        "name": "Utica, New York",
+        "lat": 43.1009,
+        "lng": -75.2327
+      },
+      "category": "schism",
+      "regions": [
+        "north-america"
+      ],
+      "summary": "Abolitionist ministers including Orange Scott and Luther Lee left the Methodist Episcopal Church, which tolerated slaveholding members and clergy, and organised the Wesleyan Methodist Connection at Utica in May 1843. They forbade slaveholding, rejected episcopacy and gave laity a larger role.",
+      "causes": [
+        "Methodist Episcopal Church compromise over slavery and suppression of abolitionist agitation",
+        "Revivalist and holiness concern for a pure church"
+      ],
+      "consequences": [
+        "Pressure contributed to the 1844 North–South division of the Methodist Episcopal Church",
+        "The Wesleyan Chapel at Seneca Falls hosted the 1848 Women's Rights Convention",
+        "Merged with the Pilgrim Holiness Church in 1968 to form the Wesleyan Church"
+      ],
+      "peopleIds": [],
+      "doctrineIds": [],
+      "traditionIds": [
+        "wesleyan-church",
+        "methodist",
+        "holiness-movement"
+      ],
+      "sources": [
+        "richey-american-methodism",
+        "synan-holiness-pentecostal",
+        "melton-encyclopedia"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "free-methodist-church-1860",
+      "title": "Founding of the Free Methodist Church at Pekin",
+      "year": 1860,
+      "place": {
+        "name": "Pekin, New York",
+        "lat": 43.212,
+        "lng": -78.875
+      },
+      "category": "schism",
+      "regions": [
+        "north-america"
+      ],
+      "summary": "After B. T. Roberts and other 'Nazarite' preachers were expelled from the Genesee Conference of the Methodist Episcopal Church for criticising its worldliness, laity and ministers met at Pekin, New York, in August 1860 and organised the Free Methodist Church.",
+      "causes": [
+        "Expulsion of Roberts (1858) for his critique of declining Methodist discipline",
+        "Opposition to rented pews, slaveholding and secret societies",
+        "Commitment to entire sanctification"
+      ],
+      "consequences": [
+        "'Free' seats for the poor, freedom from slavery, and freedom in worship became the church's watchwords",
+        "Early advocacy (Roberts's Ordaining Women, 1891) for women in ministry"
+      ],
+      "peopleIds": [],
+      "doctrineIds": [],
+      "traditionIds": [
+        "free-methodist-church",
+        "methodist",
+        "holiness-movement"
+      ],
+      "sources": [
+        "synan-holiness-pentecostal",
+        "richey-american-methodism"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "pilot-point-union-1908",
+      "title": "Holiness union at Pilot Point forms the Church of the Nazarene",
+      "year": 1908,
+      "place": {
+        "name": "Pilot Point, Texas",
+        "lat": 33.3965,
+        "lng": -96.9606
+      },
+      "category": "reform",
+      "regions": [
+        "north-america"
+      ],
+      "summary": "In October 1908 the Pentecostal Church of the Nazarene — itself the 1907 union of Phineas Bresee's Los Angeles Church of the Nazarene (1895) and the eastern Association of Pentecostal Churches of America — joined with the southern Holiness Church of Christ at Pilot Point, Texas. Nazarenes count this as their founding; 'Pentecostal' was dropped from the name in 1919 to avoid confusion with the tongues movement.",
+      "causes": [
+        "Holiness believers leaving or expelled from Methodism over entire sanctification",
+        "Desire to unite regional holiness bodies into a national church"
+      ],
+      "consequences": [
+        "Largest denomination of the Wesleyan-Holiness tradition",
+        "Distinguished itself from Pentecostalism by rejecting tongues as the evidence of Spirit baptism"
+      ],
+      "peopleIds": [],
+      "doctrineIds": [],
+      "traditionIds": [
+        "church-of-the-nazarene",
+        "holiness-movement"
+      ],
+      "sources": [
+        "smith-called-unto-holiness",
+        "synan-holiness-pentecostal"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "oneness-new-issue-1913",
+      "title": "The 'New Issue': baptism in Jesus' name at the Arroyo Seco camp meeting",
+      "year": 1913,
+      "place": {
+        "name": "Arroyo Seco, Los Angeles",
+        "lat": 34.11,
+        "lng": -118.19
+      },
+      "category": "schism",
+      "regions": [
+        "north-america"
+      ],
+      "summary": "At the Worldwide Apostolic Faith camp meeting at Arroyo Seco near Los Angeles in April 1913, R. E. McAlister remarked that the apostles baptised in the name of Jesus only. Frank Ewart and Glenn Cook began rebaptising believers in Jesus' name in 1914, teaching that Jesus is the name of the one God. In 1916 the Assemblies of God adopted a Trinitarian Statement of Fundamental Truths and about a quarter of its ministers left.",
+      "causes": [
+        "Restorationist reading of Acts 2:38 and the 'finished work' teaching of William Durham",
+        "Pentecostal expectation of fresh revelation"
+      ],
+      "consequences": [
+        "Origin of Oneness (Apostolic) Pentecostalism, outside historic Nicene Trinitarianism",
+        "Formation of the Pentecostal Assemblies of the World and later the United Pentecostal Church International"
+      ],
+      "peopleIds": [
+        "frank-ewart"
+      ],
+      "doctrineIds": [],
+      "traditionIds": [
+        "oneness-pentecostal",
+        "assemblies-of-god",
+        "pentecostal-assemblies-of-the-world"
+      ],
+      "sources": [
+        "reed-oneness",
+        "burgess-pentecostal-dictionary",
+        "blumhofer-restoring"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "assembleia-de-deus-belem-1911",
+      "title": "Swedish missionaries found the Assembleia de Deus in Belém",
+      "year": 1911,
+      "place": {
+        "name": "Belém, Pará",
+        "lat": -1.4558,
+        "lng": -48.4902
+      },
+      "category": "mission",
+      "regions": [
+        "latin-america"
+      ],
+      "summary": "Daniel Berg and Gunnar Vingren, Swedish Baptists who had received Spirit baptism in Chicago, arrived in Belém in 1910. Expelled from the local Baptist church with eighteen followers in June 1911, they formed the Apostolic Faith Mission, renamed the Assembleia de Deus in 1918.",
+      "causes": [
+        "Influence of William Durham's Chicago revival",
+        "Prophecy directing Berg and Vingren to Pará",
+        "Rubber-boom migration in the Amazon"
+      ],
+      "consequences": [
+        "Grew into Brazil's largest Protestant family and one of the largest Pentecostal movements in the world",
+        "Fragmented into many conventions and ministries (CGADB, CONAMAD and others)"
+      ],
+      "peopleIds": [
+        "daniel-berg",
+        "gunnar-vingren"
+      ],
+      "doctrineIds": [],
+      "traditionIds": [
+        "assembleias-de-deus-brazil",
+        "pentecostal"
+      ],
+      "sources": [
+        "chesnut-born-again-brazil",
+        "anderson-pentecostalism",
+        "burgess-pentecostal-dictionary"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "watch-tower-schism-1917",
+      "title": "Bible Students divide after the death of Charles Taze Russell",
+      "year": 1917,
+      "place": {
+        "name": "Brooklyn, New York",
+        "lat": 40.6782,
+        "lng": -73.9442
+      },
+      "category": "schism",
+      "regions": [
+        "north-america"
+      ],
+      "summary": "After Russell died in October 1916, Joseph F. Rutherford became president of the Watch Tower Society in January 1917. His removal of four directors and the publication of The Finished Mystery that year divided the Bible Students. Many who remained loyal to Russell's writings formed independent fellowships such as the Pastoral Bible Institute (1918) and the Dawn Bible Students; those who stayed with the Society took the name Jehovah's witnesses in 1931.",
+      "causes": [
+        "Disputed succession and Rutherford's centralisation of authority",
+        "Disagreement over whether Russell's Studies in the Scriptures were final"
+      ],
+      "consequences": [
+        "Separate history of Independent Bible Students",
+        "Rutherford-era doctrinal and organisational changes in what became Jehovah's Witnesses"
+      ],
+      "peopleIds": [
+        "charles-taze-russell"
+      ],
+      "doctrineIds": [],
+      "traditionIds": [
+        "jehovahs-witnesses",
+        "bible-students"
+      ],
+      "sources": [
+        "penton-apocalypse-delayed",
+        "melton-encyclopedia"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "reorganization-amboy-1860",
+      "title": "Joseph Smith III accepts leadership of the Reorganized Church at Amboy",
+      "year": 1860,
+      "place": {
+        "name": "Amboy, Illinois",
+        "lat": 41.714,
+        "lng": -89.329
+      },
+      "category": "reform",
+      "regions": [
+        "north-america"
+      ],
+      "summary": "On 6 April 1860 at Amboy, Illinois, Joseph Smith III, son of the Latter Day Saint founder, accepted the presidency of the 'New Organization' of Saints who had rejected Brigham Young's leadership and plural marriage. The body became the Reorganized Church of Jesus Christ of Latter Day Saints, renamed Community of Christ in 2001.",
+      "causes": [
+        "Succession crisis after Joseph Smith's death in 1844",
+        "Rejection of Brigham Young's leadership and of polygamy",
+        "Belief in lineal succession of the prophetic office"
+      ],
+      "consequences": [
+        "Largest Latter Day Saint body after the Utah church",
+        "Later moved toward mainstream Protestant theology, ordaining women from 1984"
+      ],
+      "peopleIds": [
+        "joseph-smith"
+      ],
+      "doctrineIds": [],
+      "traditionIds": [
+        "latter-day-saints",
+        "community-of-christ"
+      ],
+      "sources": [
+        "melton-encyclopedia",
+        "bushman-rough-stone"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "churches-of-christ-census-1906",
+      "title": "U.S. Religious Census lists the Churches of Christ separately",
+      "year": 1906,
+      "category": "schism",
+      "regions": [
+        "north-america"
+      ],
+      "summary": "At the request of David Lipscomb, editor of the Gospel Advocate, the 1906 U.S. Census of Religious Bodies listed the 'Churches of Christ' separately from the 'Disciples of Christ', formally recognising a division in the Stone-Campbell movement that had been widening for decades, largely along Northern/Southern and urban/rural lines.",
+      "causes": [
+        "Dispute over instrumental music in worship and missionary societies",
+        "Different readings of the silence of Scripture (what the New Testament does not authorise)",
+        "Post–Civil War sectional and economic divides"
+      ],
+      "consequences": [
+        "Churches of Christ (a cappella) as a distinct fellowship",
+        "Disciples and the later independent Christian Churches developed separately"
+      ],
+      "peopleIds": [],
+      "doctrineIds": [],
+      "traditionIds": [
+        "stone-campbell-restoration",
+        "churches-of-christ",
+        "christian-church-disciples"
+      ],
+      "sources": [
+        "hughes-restoration",
+        "stone-campbell-encyclopedia"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "worldwide-church-of-god-reforms-1994",
+      "title": "The Worldwide Church of God embraces Nicene Christianity",
+      "year": 1994,
+      "endYear": 1997,
+      "place": {
+        "name": "Pasadena, California",
+        "lat": 34.1478,
+        "lng": -118.1445
+      },
+      "category": "reform",
+      "regions": [
+        "north-america"
+      ],
+      "summary": "After Herbert W. Armstrong's death (1986), the leadership of the Worldwide Church of God under Joseph W. Tkach re-examined Armstrong's teachings. The church adopted the doctrine of the Trinity (1993) and, in a December 1994 sermon, Tkach announced that Christians are not bound by Old Covenant laws such as the Saturday Sabbath, festivals and dietary rules. It is a rare case of a whole denomination moving into historic orthodoxy.",
+      "causes": [
+        "Study of Armstrong's teachings by the post-1986 leadership",
+        "Engagement with evangelical scholars"
+      ],
+      "consequences": [
+        "Large splinter groups formed to keep Armstrong's teachings (United Church of God, 1995; Living Church of God, 1998)",
+        "Membership and income fell sharply",
+        "Admitted to the National Association of Evangelicals (1997); renamed Grace Communion International (2009)"
+      ],
+      "peopleIds": [],
+      "doctrineIds": [],
+      "traditionIds": [
+        "worldwide-church-of-god",
+        "grace-communion-international"
+      ],
+      "sources": [
+        "tkach-transformed",
+        "melton-encyclopedia"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "church-of-north-india-1970",
+      "title": "Inauguration of the Church of North India at Nagpur",
+      "year": 1970,
+      "place": {
+        "name": "Nagpur",
+        "lat": 21.1458,
+        "lng": 79.0882
+      },
+      "category": "reform",
+      "regions": [
+        "india"
+      ],
+      "summary": "On 29 November 1970 six churches — the United Church of Northern India (Presbyterian and Congregational), the Anglican Church of India, Pakistan, Burma and Ceylon (northern dioceses), the Council of Baptist Churches in Northern India, the Methodist Church (British and Australian conferences), the Church of the Brethren in India and the Disciples of Christ — united as the Church of North India.",
+      "causes": [
+        "Example of the Church of South India (1947)",
+        "Missionary and Indian desire to end imported Western divisions",
+        "Decades of negotiation (Plan of Union 1951–65)"
+      ],
+      "consequences": [
+        "First union to include Baptists and to reconcile believers' and infant baptism within one church",
+        "Full communion with the Anglican Communion and member of the World Methodist Council and WCRC",
+        "The Church of Pakistan formed the same year"
+      ],
+      "peopleIds": [],
+      "doctrineIds": [],
+      "traditionIds": [
+        "church-of-north-india",
+        "anglican",
+        "baptist",
+        "methodist",
+        "presbyterian"
+      ],
+      "sources": [
+        "frykenberg-india",
+        "neill-missions"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "united-church-of-canada-1925",
+      "title": "Inauguration of the United Church of Canada",
+      "year": 1925,
+      "place": {
+        "name": "Toronto",
+        "lat": 43.6532,
+        "lng": -79.3832
+      },
+      "category": "reform",
+      "regions": [
+        "north-america"
+      ],
+      "summary": "On 10 June 1925 at the Mutual Street Arena in Toronto, the Methodist Church (Canada), the Congregational Union of Canada, about two-thirds of the Presbyterian Church in Canada and the local union churches of the West united as the United Church of Canada. A third of Presbyterians, voting against union, continued the Presbyterian Church in Canada.",
+      "causes": [
+        "Prairie settlements unable to support competing denominations",
+        "Social Gospel and nation-building ideals",
+        "Two decades of negotiation (Basis of Union, 1908)"
+      ],
+      "consequences": [
+        "Became Canada's largest Protestant church",
+        "Lasting legal and pastoral bitterness with continuing Presbyterians",
+        "Later formal apologies for its role in residential schools (1986, 1998)"
+      ],
+      "peopleIds": [],
+      "doctrineIds": [],
+      "traditionIds": [
+        "united-church-of-canada",
+        "methodist",
+        "presbyterian",
+        "congregationalist"
+      ],
+      "sources": [
+        "airhart-united-church",
+        "noll-christianity-us"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "uniting-church-in-australia-1977",
+      "title": "Formation of the Uniting Church in Australia",
+      "year": 1977,
+      "place": {
+        "name": "Sydney Town Hall",
+        "lat": -33.8731,
+        "lng": 151.2061
+      },
+      "category": "reform",
+      "regions": [
+        "oceania"
+      ],
+      "summary": "On 22 June 1977 the Methodist Church of Australasia, most of the Presbyterian Church of Australia and most of the Congregational Union of Australia joined to form the Uniting Church in Australia, on the Basis of Union agreed in 1971. About a third of Presbyterian congregations continued as the Presbyterian Church of Australia.",
+      "causes": [
+        "Ecumenical movement and shared mission in the outback (e.g. the Australian Inland Mission)",
+        "Negotiations since 1957"
+      ],
+      "consequences": [
+        "Uniting Aboriginal and Islander Christian Congress (1985) and covenant with it (1994)",
+        "2009 constitutional Preamble acknowledging First Peoples' prior presence"
+      ],
+      "peopleIds": [],
+      "doctrineIds": [],
+      "traditionIds": [
+        "uniting-church-in-australia",
+        "methodist",
+        "presbyterian",
+        "congregationalist"
+      ],
+      "sources": [
+        "uniting-church-basis-of-union",
+        "garrett-oceania"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "united-church-of-christ-1957",
+      "title": "Uniting General Synod forms the United Church of Christ",
+      "year": 1957,
+      "place": {
+        "name": "Cleveland, Ohio",
+        "lat": 41.4993,
+        "lng": -81.6944
+      },
+      "category": "reform",
+      "regions": [
+        "north-america"
+      ],
+      "summary": "On 25 June 1957 in Cleveland, the Evangelical and Reformed Church (a 1934 union of German Reformed and Evangelical Synod churches) and the General Council of the Congregational Christian Churches united as the United Church of Christ. A Statement of Faith followed in 1959.",
+      "causes": [
+        "Ecumenical hopes for American Protestant unity",
+        "Mainline cooperation after the Second World War"
+      ],
+      "consequences": [
+        "Some Congregational churches stayed out, forming the National Association of Congregational Christian Churches (1955) and the Conservative Congregational Christian Conference",
+        "Joined the Formula of Agreement (1997) with Lutherans, Presbyterians and Reformed"
+      ],
+      "peopleIds": [],
+      "doctrineIds": [],
+      "traditionIds": [
+        "united-church-of-christ",
+        "congregationalist",
+        "reformed"
+      ],
+      "sources": [
+        "gunnemann-ucc",
+        "ahlstrom-religious-history"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "kyodan-formed-1941",
+      "title": "Formation of the United Church of Christ in Japan (Kyodan)",
+      "year": 1941,
+      "place": {
+        "name": "Tokyo",
+        "lat": 35.6762,
+        "lng": 139.6503
+      },
+      "category": "political",
+      "regions": [
+        "east-asia"
+      ],
+      "summary": "In June 1941, under the Religious Organizations Law of 1939, some thirty Protestant denominations in Japan were brought into a single body, the Nihon Kirisuto Kyodan. Union was long desired by some Japanese Christians but was carried out under heavy state pressure in wartime.",
+      "causes": [
+        "Religious Organizations Law (1939) requiring registration of large bodies",
+        "Wartime nationalism and suspicion of foreign-linked churches",
+        "Earlier Japanese ecumenical aspirations"
+      ],
+      "consequences": [
+        "After 1945 Anglicans, Lutherans, some Baptists, Holiness and Reformed groups withdrew",
+        "1967 'Confession on the Responsibility of the Kyodan During World War II' acknowledging complicity in the war"
+      ],
+      "peopleIds": [],
+      "doctrineIds": [],
+      "traditionIds": [
+        "kyodan",
+        "presbyterian",
+        "methodist",
+        "congregationalist"
+      ],
+      "sources": [
+        "mullins-handbook-japan",
+        "moffett-asia"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "iglesia-ni-cristo-registered-1914",
+      "title": "Felix Manalo registers the Iglesia ni Cristo",
+      "year": 1914,
+      "place": {
+        "name": "Manila",
+        "lat": 14.5995,
+        "lng": 120.9842
+      },
+      "category": "reform",
+      "regions": [
+        "southeast-asia"
+      ],
+      "summary": "On 27 July 1914 Felix Y. Manalo, who had passed through Methodist, Presbyterian, Christian Mission (Disciples) and Seventh-day Adventist churches, registered the Iglesia ni Cristo with the American colonial government. Its members regard Manalo as God's last messenger, the 'angel from the east' of Revelation 7:2, re-establishing the true church in the Philippines.",
+      "causes": [
+        "Manalo's study of Scripture and conclusion that the church had apostatised",
+        "Nationalist sentiment under American colonial rule"
+      ],
+      "consequences": [
+        "Became one of the largest indigenous churches in Asia, with bloc-voting influence in Philippine politics",
+        "Leadership passed to Eraño Manalo (1963) and Eduardo Manalo (2009)"
+      ],
+      "peopleIds": [],
+      "doctrineIds": [],
+      "traditionIds": [
+        "iglesia-ni-cristo"
+      ],
+      "sources": [
+        "tuggy-iglesia-ni-cristo",
+        "melton-encyclopedia"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "united-methodist-union-1968",
+      "title": "Union forms the United Methodist Church",
+      "year": 1968,
+      "place": {
+        "name": "Dallas, Texas",
+        "lat": 32.7767,
+        "lng": -96.797
+      },
+      "category": "reform",
+      "regions": [
+        "north-america"
+      ],
+      "summary": "On 23 April 1968 in Dallas the Methodist Church and the Evangelical United Brethren Church united as the United Methodist Church. The same General Conference abolished the segregated Central Jurisdiction (created in 1939) that had grouped Black Methodist conferences separately.",
+      "causes": [
+        "Shared Wesleyan and German Pietist heritage of the two churches",
+        "Mid-century ecumenism",
+        "Pressure of the civil rights movement against the Central Jurisdiction"
+      ],
+      "consequences": [
+        "Largest mainline Protestant church in the U.S. for decades",
+        "1972 language declaring homosexual practice incompatible with Christian teaching began a fifty-year dispute",
+        "2019–2023 disaffiliations and 2024 removal of restrictions"
+      ],
+      "peopleIds": [],
+      "doctrineIds": [],
+      "traditionIds": [
+        "united-methodist-church",
+        "methodist"
+      ],
+      "sources": [
+        "richey-american-methodism",
+        "noll-christianity-us"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "traditions": [
+    {
+      "id": "general-baptists",
+      "name": "General Baptists",
+      "family": "baptist",
+      "parentIds": [
+        "baptist"
+      ],
+      "splitEventId": "smyth-se-baptism-1609",
+      "foundedYear": 1609,
+      "regions": [
+        "western-europe",
+        "north-america"
+      ],
+      "summary": "The earliest English Baptists, descended from the congregation of John Smyth and Thomas Helwys (Amsterdam 1609, London 1612). They were called 'General' because they held that Christ died for all people generally (an Arminian view of the atonement). Many older General Baptist congregations drifted toward Unitarianism in the eighteenth century; the evangelical New Connexion (1770) merged with the Particular Baptists in 1891, and American heirs include the Free Will Baptists and the General Association of General Baptists.",
+      "distinctives": [
+        "General (universal) atonement",
+        "Believers' baptism and gathered churches",
+        "Early advocacy of liberty of conscience (Helwys, 1612)",
+        "Messengers linking congregations into an Assembly",
+        "Some practised laying on of hands after baptism (Hebrews 6:1-2)"
+      ],
+      "profile": {
+        "authority": "Scripture alone, interpreted within the gathered congregation; confessions such as the Standard Confession (1660) as summaries, not binding creeds.",
+        "salvation": "Christ died for all; grace enables a free response of faith, and believers can fall away.",
+        "sacraments": "Two ordinances, baptism of professing believers and the Lord's Supper; originally baptism by pouring, later immersion.",
+        "eschatology": "Expectation of Christ's return, resurrection and final judgment.",
+        "governance": "Congregational, with messengers and a General Assembly linking churches.",
+        "worship": "Plain preaching services; some early congregations resisted congregational hymn singing.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Historic as a separate English movement; continues in small General Baptist bodies and in the Free Will Baptist tradition.",
+      "sources": [
+        "mcbeth-baptist-heritage",
+        "leonard-baptist-ways",
+        "odcc"
+      ]
+    },
+    {
+      "id": "particular-baptists",
+      "name": "Particular (Calvinistic) Baptists",
+      "family": "baptist",
+      "parentIds": [
+        "baptist",
+        "congregationalist"
+      ],
+      "splitEventId": "first-london-confession-1644",
+      "foundedYear": 1638,
+      "regions": [
+        "western-europe",
+        "north-america"
+      ],
+      "summary": "Calvinistic Baptists who emerged from London Independent (Congregationalist) churches in the 1630s. They held that Christ died for a 'particular' people, the elect. Their First (1644) and Second (1677, published 1689) London Confessions closely follow Reformed theology; leaders included William Kiffin, Hanserd Knollys, Benjamin Keach and later John Gill and Andrew Fuller, whose evangelical Calvinism inspired the Baptist Missionary Society (1792).",
+      "distinctives": [
+        "Calvinist soteriology with believers' baptism by immersion",
+        "First and Second London Confessions",
+        "Covenant theology in a Baptist key",
+        "Fuller's 'evangelical Calvinism' launched modern Protestant missions",
+        "Spurgeon as a later champion"
+      ],
+      "profile": {
+        "authority": "Scripture alone; the Second London Confession (1689) as a widely used standard among Reformed Baptists.",
+        "salvation": "Unconditional election, particular redemption, effectual grace and perseverance of the saints.",
+        "sacraments": "Baptism by immersion of professing believers and the Lord's Supper as ordinances, often with a spiritual-presence view.",
+        "eschatology": "Generally amillennial or postmillennial in the classical period; premillennialism later spread among some.",
+        "governance": "Congregational, with associations for fellowship and mission.",
+        "worship": "Preaching-centred services; Benjamin Keach championed congregational hymn singing.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Historic name; the tradition continues in Reformed Baptist churches and as a strand within most Baptist bodies.",
+      "sources": [
+        "lumpkin-baptist-confessions",
+        "mcbeth-baptist-heritage",
+        "odcc"
+      ]
+    },
+    {
+      "id": "southern-baptist-convention",
+      "name": "Southern Baptist Convention",
+      "family": "baptist",
+      "parentIds": [
+        "baptist"
+      ],
+      "splitEventId": "southern-baptist-convention-1845",
+      "foundedYear": 1845,
+      "regions": [
+        "north-america"
+      ],
+      "adherents": {
+        "estimate": 12700000,
+        "year": 2024,
+        "source": "sbc-annual-church-profile"
+      },
+      "summary": "Founded at Augusta, Georgia, in 1845 when Baptists of the slave states separated from the national Baptist mission societies over the appointment of slaveholders as missionaries. The SBC grew into the largest Protestant denomination in the United States, with a powerful cooperative mission programme (Cooperative Program, 1925; International Mission Board). A 'conservative resurgence' from 1979 shifted its seminaries and agencies toward biblical inerrancy. In 1995 it formally apologised for its origins in the defence of slavery and for its support of segregation.",
+      "distinctives": [
+        "Cooperative Program funding of missions and seminaries",
+        "Biblical inerrancy (Baptist Faith and Message, 2000)",
+        "Strong emphasis on evangelism and church planting",
+        "Complementarian limits on women as pastors (2000; affirmed 2023)",
+        "Autonomy of local churches within voluntary convention structures"
+      ],
+      "profile": {
+        "authority": "Scripture as inspired and without error; the Baptist Faith and Message (1925, 1963, 2000) as a consensus statement, not a creed binding churches.",
+        "salvation": "Salvation by grace through personal faith in Christ; once saved, always saved (perseverance) is widely held; Calvinist and non-Calvinist streams coexist.",
+        "sacraments": "Two ordinances: believers' baptism by immersion and the Lord's Supper as a memorial.",
+        "eschatology": "Return of Christ, judgment, heaven and hell; premillennialism common but no single view required.",
+        "governance": "Congregational: each local church is autonomous under Christ, calling its own pastor and deacons; churches cooperate voluntarily through associations and conventions. The annual convention elects officers and trustees of agencies.",
+        "worship": "Revivalist-style services with preaching, congregational song and an invitation to respond.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; c. 12.7 million members in c. 47,000 churches (2024), with membership declining since 2006.",
+      "sources": [
+        "mcbeth-baptist-heritage",
+        "leonard-baptist-ways",
+        "sbc-annual-church-profile",
+        "noll-christianity-us"
+      ]
+    },
+    {
+      "id": "national-baptist-convention-usa",
+      "name": "National Baptist Convention, USA, Inc.",
+      "family": "baptist",
+      "parentIds": [
+        "baptist"
+      ],
+      "splitEventId": "national-baptist-convention-1895",
+      "foundedYear": 1895,
+      "regions": [
+        "north-america",
+        "sub-saharan-africa"
+      ],
+      "summary": "The largest African American denomination, formed in Atlanta in 1895 from three Black Baptist conventions. It sustained missions in Africa and the Caribbean, publishing and schools. Its 1915 split produced the National Baptist Convention of America, and in 1961 supporters of a more activist civil-rights strategy, including Martin Luther King Jr., formed the Progressive National Baptist Convention.",
+      "distinctives": [
+        "Black-led Baptist institutions independent of white control",
+        "Preaching tradition central to Black church life",
+        "Missions to Liberia and southern Africa",
+        "Women's Convention auxiliary (Nannie Helen Burroughs)",
+        "Churches as centres of community and civil-rights organising"
+      ],
+      "profile": {
+        "authority": "Scripture alone, commonly summarised in the New Hampshire Confession (1833) tradition.",
+        "salvation": "Salvation by grace through faith in Christ, received in conversion.",
+        "sacraments": "Believers' baptism by immersion and the Lord's Supper as ordinances.",
+        "eschatology": "Hope of Christ's return and final deliverance, often linked with themes of exodus and freedom.",
+        "governance": "Congregational: each local church is autonomous under Christ, calling its own pastor and deacons; churches cooperate voluntarily through associations and conventions.",
+        "worship": "Expressive worship with gospel music, call-and-response preaching and devotion services.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; one of the largest Black denominations in the United States (membership self-reported in the millions).",
+      "sources": [
+        "leonard-baptist-ways",
+        "noll-christianity-us",
+        "yearbook-american-canadian-churches"
+      ]
+    },
+    {
+      "id": "american-baptist-churches-usa",
+      "name": "American Baptist Churches USA",
+      "family": "baptist",
+      "parentIds": [
+        "baptist"
+      ],
+      "foundedYear": 1907,
+      "regions": [
+        "north-america"
+      ],
+      "summary": "Heirs of the northern Baptist mission societies (Triennial Convention 1814; Home Mission Society 1832) that remained after the 1845 Southern split. Organised as the Northern Baptist Convention (1907), renamed the American Baptist Convention (1950) and American Baptist Churches USA (1972). A theologically diverse, ecumenical body, it was the church of Walter Rauschenbusch and a founding member of the Federal, National and World Councils of Churches; it ordains women.",
+      "distinctives": [
+        "Historic home of the Social Gospel",
+        "Ecumenical membership (NCC, WCC)",
+        "Ordination of women",
+        "Racially diverse membership",
+        "Wide theological range from evangelical to liberal"
+      ],
+      "profile": {
+        "authority": "Scripture as the authoritative witness to Christ, interpreted in freedom of conscience; no binding confession.",
+        "salvation": "Salvation through faith in Jesus Christ; emphasis on personal and social transformation.",
+        "sacraments": "Believers' baptism by immersion and the Lord's Supper.",
+        "eschatology": "Varied; classical hope of Christ's return and the kingdom of God.",
+        "governance": "Congregational: each local church is autonomous under Christ, calling its own pastor and deacons; churches cooperate voluntarily through associations and conventions. Regional associations and national boards.",
+        "worship": "Free-church services with hymns, preaching and lay participation.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; roughly 1.1 million members reported in recent years, with several regions having left over sexuality debates.",
+      "sources": [
+        "mcbeth-baptist-heritage",
+        "leonard-baptist-ways",
+        "yearbook-american-canadian-churches"
+      ]
+    },
+    {
+      "id": "seventh-day-baptists",
+      "name": "Seventh Day Baptists",
+      "family": "baptist",
+      "parentIds": [
+        "baptist"
+      ],
+      "foundedYear": 1671,
+      "regions": [
+        "western-europe",
+        "north-america",
+        "sub-saharan-africa"
+      ],
+      "summary": "Baptists who keep the seventh day (Saturday) as the Sabbath. Sabbatarian Baptist congregations appeared in England in the 1650s (Mill Yard, London); the first American church was organised at Newport, Rhode Island, in 1671. Seventh Day Baptist teaching on the Sabbath influenced the early Adventists in the 1840s.",
+      "distinctives": [
+        "Saturday Sabbath observance",
+        "Otherwise mainstream Baptist convictions",
+        "Early Sabbatarian witness in England and New England",
+        "Link to the Adventist adoption of the Sabbath (Rachel Oakes Preston, 1844)"
+      ],
+      "profile": {
+        "authority": "Scripture alone; the Bible's commandment of the seventh-day Sabbath taken as still binding.",
+        "salvation": "Salvation by grace through faith; Sabbath-keeping as grateful obedience, not a means of salvation.",
+        "sacraments": "Believers' baptism by immersion and the Lord's Supper.",
+        "eschatology": "Expectation of Christ's return and judgment.",
+        "governance": "Congregational: each local church is autonomous under Christ, calling its own pastor and deacons; churches cooperate voluntarily through associations and conventions. A General Conference (1802) and a World Federation link churches.",
+        "worship": "Saturday worship with preaching and hymns.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active but small; congregations in North America, Africa, Asia and Latin America linked by the Seventh Day Baptist World Federation.",
+      "sources": [
+        "mcbeth-baptist-heritage",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "free-will-baptists",
+      "name": "Free Will Baptists",
+      "family": "baptist",
+      "parentIds": [
+        "general-baptists"
+      ],
+      "foundedYear": 1727,
+      "regions": [
+        "north-america"
+      ],
+      "summary": "Arminian Baptists in the General Baptist line. Paul Palmer organised a church in Chowan County, North Carolina, in 1727, and Benjamin Randall founded a northern Free Will Baptist movement at New Durham, New Hampshire, in 1780. The northern body merged with the Northern Baptists in 1911; southern churches formed the National Association of Free Will Baptists in 1935.",
+      "distinctives": [
+        "Free will and general atonement",
+        "Possibility of apostasy for believers",
+        "Feet washing as an ordinance in many churches",
+        "Early northern antislavery stance"
+      ],
+      "profile": {
+        "authority": "Scripture alone; the Treatise of the Faith and Practices of Free Will Baptists.",
+        "salvation": "Christ died for all; salvation is conditioned on faith, and a believer may forfeit salvation by unbelief.",
+        "sacraments": "Believers' baptism by immersion, the Lord's Supper and, in many churches, washing of the saints' feet.",
+        "eschatology": "Expectation of Christ's return, judgment and eternal destinies.",
+        "governance": "Congregational: each local church is autonomous under Christ, calling its own pastor and deacons; churches cooperate voluntarily through associations and conventions.",
+        "worship": "Revivalist and gospel-song services; communion often followed by feet washing.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; National Association of Free Will Baptists and related bodies.",
+      "sources": [
+        "mcbeth-baptist-heritage",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "nigerian-baptist-convention",
+      "name": "Nigerian Baptist Convention",
+      "family": "baptist",
+      "parentIds": [
+        "southern-baptist-convention"
+      ],
+      "foundedYear": 1914,
+      "regions": [
+        "sub-saharan-africa"
+      ],
+      "summary": "Grew from the Southern Baptist mission of Thomas Jefferson Bowen, who reached Yorubaland in 1850, and from Yoruba Baptist leaders who carried the work forward when American missionaries withdrew during the U.S. Civil War. The Yoruba Baptist Association (1914) became the Nigerian Baptist Convention, one of the largest Baptist bodies outside the United States. African Baptist churches also arose from the 1888 'Native Baptist' secession over missionary control.",
+      "distinctives": [
+        "Self-governing African Baptist convention",
+        "Strong schools, hospitals and seminary (Ogbomoso, 1898)",
+        "Evangelism across Nigeria and West Africa",
+        "Growing charismatic influence in worship"
+      ],
+      "profile": {
+        "authority": "Scripture alone; Baptist confessional statements adapted from Southern Baptist models.",
+        "salvation": "Salvation by grace through faith in Christ.",
+        "sacraments": "Believers' baptism by immersion and the Lord's Supper.",
+        "eschatology": "Expectation of Christ's return.",
+        "governance": "Congregational: each local church is autonomous under Christ, calling its own pastor and deacons; churches cooperate voluntarily through associations and conventions. Conferences and an elected president and general secretary.",
+        "worship": "Yoruba and English services with choirs, indigenous music and preaching.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; one of the largest member bodies of the Baptist World Alliance, with membership reported in the millions.",
+      "sources": [
+        "bwa-statistics",
+        "isichei-africa",
+        "hastings-church-in-africa"
+      ]
+    },
+    {
+      "id": "brazilian-baptist-convention",
+      "name": "Brazilian Baptist Convention (Convenção Batista Brasileira)",
+      "family": "baptist",
+      "parentIds": [
+        "southern-baptist-convention"
+      ],
+      "foundedYear": 1907,
+      "regions": [
+        "latin-america"
+      ],
+      "summary": "Formed in 1907 from churches planted after Southern Baptist missionaries William and Anne Bagby and Zachary and Kate Taylor organised the first Portuguese-speaking Baptist church in Salvador, Bahia, in 1882. Brazilian Baptists became one of the largest Baptist communities in the world and sent missionaries abroad; a charismatic wing separated in 1965 as the National Baptist Convention (CBN).",
+      "distinctives": [
+        "Brazilian-led Baptist convention since 1907",
+        "Strong home and foreign mission boards",
+        "Charismatic/non-charismatic division (1965)",
+        "Extensive education and seminary network"
+      ],
+      "profile": {
+        "authority": "Scripture alone; Brazilian Baptist Declaration of Faith.",
+        "salvation": "Salvation by grace through faith in Christ.",
+        "sacraments": "Believers' baptism by immersion and the Lord's Supper.",
+        "eschatology": "Expectation of Christ's return.",
+        "governance": "Congregational: each local church is autonomous under Christ, calling its own pastor and deacons; churches cooperate voluntarily through associations and conventions.",
+        "worship": "Evangelistic services with congregational singing and preaching.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; a major member body of the Baptist World Alliance.",
+      "sources": [
+        "bwa-statistics",
+        "gonzalez-latin-america",
+        "leonard-baptist-ways"
+      ]
+    },
+    {
+      "id": "plymouth-brethren",
+      "name": "Plymouth Brethren",
+      "family": "evangelical",
+      "parentIds": [
+        "anglican",
+        "evangelical"
+      ],
+      "foundedYear": 1829,
+      "regions": [
+        "western-europe",
+        "north-america",
+        "india",
+        "latin-america",
+        "sub-saharan-africa",
+        "oceania"
+      ],
+      "summary": "A movement of believers who began meeting simply to 'break bread' outside the established churches in Dublin in the late 1820s; the large assembly at Plymouth (from 1831) gave the movement its popular name. Leaders included Anthony Norris Groves, B. W. Newton, George Müller and John Nelson Darby, whose dispensationalism and pre-tribulation rapture teaching spread far beyond the Brethren. They divided in 1848 into Open and Exclusive branches.",
+      "distinctives": [
+        "No ordained clergy; open participation of brothers in worship",
+        "Weekly 'breaking of bread'",
+        "Dispensational premillennialism (Darby)",
+        "Faith missions without fundraising (Groves, Müller)",
+        "Gathering in the name of the Lord alone, without denominational labels"
+      ],
+      "profile": {
+        "authority": "Scripture alone, studied by all believers; no creeds.",
+        "salvation": "Salvation by grace through faith, with strong assurance.",
+        "sacraments": "Believers' baptism (mostly immersion) and the weekly Lord's Supper as remembrance.",
+        "eschatology": "Dispensational premillennialism, with a pre-tribulation rapture.",
+        "governance": "Local assemblies led by a plurality of elders; no clergy-laity distinction.",
+        "worship": "Unstructured worship meeting around the Lord's Table, with participation by men; women usually silent and head-covered.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active in Open and Exclusive branches worldwide.",
+      "sources": [
+        "coad-brethren",
+        "bebbington-evangelicalism",
+        "odcc"
+      ]
+    },
+    {
+      "id": "open-brethren",
+      "name": "Open Brethren",
+      "family": "evangelical",
+      "parentIds": [
+        "plymouth-brethren"
+      ],
+      "splitEventId": "bethesda-controversy-1848",
+      "foundedYear": 1848,
+      "regions": [
+        "western-europe",
+        "north-america",
+        "india",
+        "latin-america",
+        "sub-saharan-africa",
+        "oceania"
+      ],
+      "summary": "The branch of the Brethren that, after the 1848 Bethesda controversy, treated each assembly as independent in receiving members and exercising discipline. Open Brethren became a major source of 'faith' missionaries, including Anthony Norris Groves in India and F. S. Arnot in central Africa (Echoes of Service), and are numerous in India, Zambia, Angola and Latin America.",
+      "distinctives": [
+        "Autonomy of local assemblies",
+        "Open reception of believers to the Lord's Table",
+        "Faith missions (Echoes of Service, Christian Missions in Many Lands)",
+        "Lay ministry and elders"
+      ],
+      "profile": {
+        "authority": "Scripture alone.",
+        "salvation": "Salvation by grace through faith in Christ.",
+        "sacraments": "Believers' baptism by immersion and weekly breaking of bread.",
+        "eschatology": "Premillennial, mostly dispensational.",
+        "governance": "Autonomous assemblies led by elders; some now employ full-time workers.",
+        "worship": "Breaking of bread meeting with open participation, plus preaching services.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; especially strong in India, Zambia, Angola, Latin America and the English-speaking world.",
+      "sources": [
+        "coad-brethren",
+        "bebbington-evangelicalism"
+      ]
+    },
+    {
+      "id": "exclusive-brethren",
+      "name": "Exclusive Brethren",
+      "family": "evangelical",
+      "parentIds": [
+        "plymouth-brethren"
+      ],
+      "splitEventId": "bethesda-controversy-1848",
+      "foundedYear": 1848,
+      "regions": [
+        "western-europe",
+        "north-america",
+        "oceania"
+      ],
+      "summary": "The branch of the Brethren following John Nelson Darby after 1848, holding that assemblies form one connected fellowship whose disciplinary decisions bind all. Further divisions followed; the largest present body, the Plymouth Brethren Christian Church (formerly the Taylor–Symington–Hales line), practises strict separation from non-members, which critics and former members describe as harmful to family relationships and which the church defends as biblical holiness.",
+      "distinctives": [
+        "Interconnected assemblies bound by common discipline",
+        "Separation from evil as a principle of unity",
+        "Darby's dispensationalism",
+        "Some branches practise strict social separation"
+      ],
+      "profile": {
+        "authority": "Scripture alone, with Darby's writings and those of later leading teachers highly valued.",
+        "salvation": "Salvation by grace through faith.",
+        "sacraments": "Baptism (in some branches including household baptism of children) and weekly Lord's Supper.",
+        "eschatology": "Dispensational premillennialism with pre-tribulation rapture.",
+        "governance": "Fellowship of assemblies; in some branches a recognised universal leader.",
+        "worship": "Lord's Supper and ministry meetings; men speak, women head-covered.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active in several separate fellowships; the PBCC is the largest.",
+      "sources": [
+        "coad-brethren",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "church-of-the-brethren",
+      "name": "Church of the Brethren (Schwarzenau Brethren)",
+      "family": "anabaptist",
+      "parentIds": [
+        "anabaptist",
+        "reformed"
+      ],
+      "splitEventId": "schwarzenau-baptisms-1708",
+      "foundedYear": 1708,
+      "regions": [
+        "western-europe",
+        "north-america",
+        "sub-saharan-africa",
+        "india"
+      ],
+      "summary": "Founded in 1708 when Alexander Mack and seven others baptised one another in the river Eder at Schwarzenau, combining Radical Pietism with Anabaptist convictions. Persecuted in Europe, the Brethren ('Dunkers') moved to Pennsylvania from 1719. One of the three historic peace churches, with a large church in Nigeria (Ekklesiyar Yan'uwa a Nigeria, EYN) that has suffered heavily from Boko Haram attacks.",
+      "distinctives": [
+        "Trine (threefold forward) immersion",
+        "Love feast with feet washing, fellowship meal and communion",
+        "Nonresistance and peacemaking",
+        "No force in religion; no creed but the New Testament",
+        "Simple living and service (Brethren Volunteer Service, Heifer Project origins)"
+      ],
+      "profile": {
+        "authority": "The New Testament as the rule of faith and practice, read in community; no formal creed.",
+        "salvation": "Salvation by grace received in faith and lived in obedient discipleship.",
+        "sacraments": "Believers' baptism by trine immersion; the love feast, combining feet washing, a fellowship meal and the bread and cup; anointing of the sick.",
+        "eschatology": "Hope of Christ's return; little speculative emphasis.",
+        "governance": "Congregational with an Annual Conference as the highest authority.",
+        "worship": "Simple services; love feast observed periodically.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; the U.S. church has declined, while EYN in Nigeria is larger.",
+      "sources": [
+        "durnbaugh-brethren",
+        "melton-encyclopedia",
+        "odcc"
+      ]
+    },
+    {
+      "id": "brethren-in-christ",
+      "name": "Brethren in Christ Church",
+      "family": "anabaptist",
+      "parentIds": [
+        "mennonite",
+        "church-of-the-brethren"
+      ],
+      "foundedYear": 1778,
+      "regions": [
+        "north-america",
+        "sub-saharan-africa",
+        "india"
+      ],
+      "summary": "Arose about 1778 among Mennonite and Pietist believers in Lancaster County, Pennsylvania (the 'River Brethren', after the Susquehanna), who sought a personal conversion experience alongside Anabaptist discipleship. From the 1910s it absorbed Wesleyan holiness teaching. Its largest membership today is in Zimbabwe, Zambia and other African and Asian countries.",
+      "distinctives": [
+        "Blend of Anabaptist, Pietist and Wesleyan holiness streams",
+        "Trine immersion baptism",
+        "Nonresistance and peacemaking",
+        "Strong missions in southern Africa and India"
+      ],
+      "profile": {
+        "authority": "Scripture as final authority, interpreted in community.",
+        "salvation": "New birth by grace through faith, followed by sanctification and discipleship.",
+        "sacraments": "Believers' baptism by trine immersion, the Lord's Supper and feet washing.",
+        "eschatology": "Hope of Christ's return.",
+        "governance": "Conference-based with bishops/overseers.",
+        "worship": "Evangelical worship with Anabaptist simplicity.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; member of Mennonite World Conference.",
+      "sources": [
+        "mwc-census",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "evangelical-free-church",
+      "name": "Evangelical Free Church",
+      "family": "evangelical",
+      "parentIds": [
+        "lutheran",
+        "evangelical"
+      ],
+      "foundedYear": 1884,
+      "regions": [
+        "northern-europe",
+        "north-america"
+      ],
+      "summary": "Free churches formed by Scandinavian Pietists who left or were pushed out of Lutheran state churches. In the United States the Swedish Evangelical Free Church (1884) and Norwegian-Danish free church associations merged in 1950 to form the Evangelical Free Church of America (EFCA), known for a short Statement of Faith and for majoring on essentials. Trinity Evangelical Divinity School is its seminary.",
+      "distinctives": [
+        "Congregational free church from Scandinavian Pietism",
+        "'In essentials unity, in non-essentials liberty'",
+        "Brief Statement of Faith (revised 2008, premillennial)",
+        "Evangelism and church planting"
+      ],
+      "profile": {
+        "authority": "Scripture as inerrant Word of God; EFCA Statement of Faith.",
+        "salvation": "Salvation by grace through faith in Christ alone.",
+        "sacraments": "Baptism and the Lord's Supper as ordinances; both believer's and infant baptism historically tolerated.",
+        "eschatology": "Premillennial return of Christ.",
+        "governance": "Congregational, with a cooperative national association.",
+        "worship": "Contemporary evangelical worship.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active.",
+      "sources": [
+        "melton-encyclopedia",
+        "noll-christianity-us"
+      ]
+    },
+    {
+      "id": "evangelical-covenant-church",
+      "name": "Evangelical Covenant Church",
+      "family": "evangelical",
+      "parentIds": [
+        "lutheran",
+        "evangelical"
+      ],
+      "foundedYear": 1885,
+      "regions": [
+        "north-america",
+        "northern-europe"
+      ],
+      "summary": "Founded in Chicago in 1885 by Swedish immigrant Mission Friends, heirs of the Swedish Pietist revival (Carl Olof Rosenius, Paul Peter Waldenström) that formed the Mission Covenant Church of Sweden (1878). The Covenant asks 'Where is it written?' and seeks freedom in non-essentials, permitting both infant and believer's baptism.",
+      "distinctives": [
+        "Pietist heritage of conversion and devotional life",
+        "'Where is it written?' — biblical question as test",
+        "Both infant and believer baptism practised",
+        "Ordination of women since 1976"
+      ],
+      "profile": {
+        "authority": "Scripture as the only perfect rule for faith, doctrine and conduct.",
+        "salvation": "Salvation by grace through faith; new life in Christ.",
+        "sacraments": "Baptism (infants or believers) and the Lord's Supper as sacraments.",
+        "eschatology": "Hope of Christ's return without a fixed millennial view.",
+        "governance": "Congregational with a connectional covenant of churches.",
+        "worship": "Evangelical worship with Scandinavian hymn heritage.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; in 2023 it expelled a regional conference and churches over affirmation of same-sex relationships.",
+      "sources": [
+        "melton-encyclopedia",
+        "noll-christianity-us"
+      ]
+    },
+    {
+      "id": "christian-and-missionary-alliance",
+      "name": "Christian and Missionary Alliance",
+      "family": "evangelical",
+      "parentIds": [
+        "presbyterian",
+        "holiness-movement"
+      ],
+      "foundedYear": 1887,
+      "regions": [
+        "north-america",
+        "southeast-asia",
+        "latin-america",
+        "sub-saharan-africa"
+      ],
+      "summary": "Founded in 1887 by the former Presbyterian minister A. B. Simpson in New York as two societies (Christian Alliance and Evangelical Missionary Alliance) merged in 1897. Simpson's 'Fourfold Gospel' (Christ as Saviour, Sanctifier, Healer and Coming King) shaped early Pentecostalism, though the Alliance rejected tongues as the necessary evidence of the Spirit. Its missions produced large churches in Vietnam, Indonesia, Gabon and elsewhere.",
+      "distinctives": [
+        "Fourfold Gospel",
+        "Deeper-life (Keswick-type) sanctification",
+        "Divine healing",
+        "Missions priority",
+        "Became a denomination only gradually (1974 in USA)"
+      ],
+      "profile": {
+        "authority": "Scripture as inerrant Word of God.",
+        "salvation": "Salvation by grace through faith; a subsequent crisis of sanctification and ongoing Spirit-filled life.",
+        "sacraments": "Believers' baptism by immersion and the Lord's Supper; anointing of the sick for healing.",
+        "eschatology": "Premillennial return of Christ as a motive for missions.",
+        "governance": "Mixed: local churches with a General Council and districts.",
+        "worship": "Evangelical worship.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; international Alliance World Fellowship.",
+      "sources": [
+        "dayton-theological-roots",
+        "burgess-pentecostal-dictionary",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "moravian-church",
+      "name": "Moravian Church (Renewed Unitas Fratrum)",
+      "family": "independent",
+      "parentIds": [
+        "hussite-moravian",
+        "lutheran"
+      ],
+      "splitEventId": "moravian-herrnhut-revival-1727",
+      "foundedYear": 1727,
+      "regions": [
+        "western-europe",
+        "north-america",
+        "latin-america",
+        "sub-saharan-africa",
+        "india"
+      ],
+      "summary": "The renewal of the old Unity of the Brethren (Unitas Fratrum) among refugees from Moravia on Count Nicolaus von Zinzendorf's estate at Herrnhut, Saxony, where a profound communion service on 13 August 1727 is remembered as its spiritual birthday. From 1732 Moravians pioneered Protestant world mission (Caribbean, Greenland, Suriname, South Africa) and deeply influenced John Wesley. The largest provinces today are in Tanzania.",
+      "distinctives": [
+        "Heart religion centred on the wounds and love of Christ",
+        "Daily Texts (Losungen, since 1731)",
+        "Pioneering Protestant missions",
+        "Episcopacy maintained from the old Unity",
+        "Love feasts and hymn singing"
+      ],
+      "profile": {
+        "authority": "Scripture as the sole standard of doctrine; ecumenical creeds and the Augsburg Confession respected; Ground of the Unity (1957).",
+        "salvation": "Salvation by grace through faith in the crucified Christ; personal relationship with the Saviour.",
+        "sacraments": "Infant and believer baptism and Holy Communion; the love feast as a fellowship meal.",
+        "eschatology": "Hope in Christ's return; emphasis on the present reign of Christ.",
+        "governance": "Unity of autonomous provinces with synods; bishops have a pastoral and ordaining role.",
+        "worship": "Liturgical singing, love feasts, Easter sunrise services in God's Acre.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; c. one million members worldwide, a majority in Africa.",
+      "sources": [
+        "ward-protestant-awakening",
+        "odcc",
+        "neill-missions"
+      ]
+    },
+    {
+      "id": "african-methodist-episcopal",
+      "name": "African Methodist Episcopal Church",
+      "family": "methodist",
+      "parentIds": [
+        "methodist"
+      ],
+      "splitEventId": "ame-church-founded-1816",
+      "foundedYear": 1816,
+      "regions": [
+        "north-america",
+        "sub-saharan-africa",
+        "latin-america"
+      ],
+      "summary": "The first independent Black denomination in the United States, organised in Philadelphia in 1816 under Richard Allen after Black Methodists withdrew from St George's Methodist Episcopal Church in protest at segregation. The AME Church spread across the South after emancipation, founded Wilberforce University (1856) and established strong conferences in southern and western Africa.",
+      "distinctives": [
+        "Black self-determination within Methodist doctrine",
+        "Mother Bethel Church, Philadelphia",
+        "Educational institutions and social activism",
+        "African mission (from 1820 Liberia; South Africa 1896)"
+      ],
+      "profile": {
+        "authority": "Scripture, with the Methodist Articles of Religion and AME Discipline.",
+        "salvation": "Wesleyan: universal grace, justification by faith, assurance and holiness.",
+        "sacraments": "Baptism (including infants) and the Lord's Supper.",
+        "eschatology": "Classical hope of Christ's return, with strong themes of liberation.",
+        "governance": "Episcopal: bishops, annual conferences and a General Conference.",
+        "worship": "Methodist liturgy blended with Black church preaching and music.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; churches in the U.S., Caribbean and Africa.",
+      "sources": [
+        "dickerson-ame",
+        "richey-american-methodism",
+        "noll-christianity-us"
+      ]
+    },
+    {
+      "id": "ame-zion",
+      "name": "African Methodist Episcopal Zion Church",
+      "family": "methodist",
+      "parentIds": [
+        "methodist"
+      ],
+      "foundedYear": 1796,
+      "regions": [
+        "north-america",
+        "sub-saharan-africa"
+      ],
+      "summary": "Grew from Black Methodists who left John Street Methodist Church in New York in 1796 over discrimination, forming Zion Church and in 1821 an independent connection. Known as 'the Freedom Church', it counted Harriet Tubman, Sojourner Truth and Frederick Douglass among its members and ordained women as elders in the 1890s.",
+      "distinctives": [
+        "Abolitionist heritage",
+        "Early ordination of women (Julia Foote, Mary Small)",
+        "Livingstone College (1879)",
+        "Missions in Ghana, Nigeria and Liberia"
+      ],
+      "profile": {
+        "authority": "Scripture, Articles of Religion and the AME Zion Discipline.",
+        "salvation": "Wesleyan: free grace, justification by faith and holiness.",
+        "sacraments": "Baptism and the Lord's Supper.",
+        "eschatology": "Classical hope of Christ's return.",
+        "governance": "Episcopal with conferences.",
+        "worship": "Methodist order with Black church musical tradition.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active.",
+      "sources": [
+        "richey-american-methodism",
+        "yearbook-american-canadian-churches",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "united-methodist-church",
+      "name": "United Methodist Church",
+      "family": "methodist",
+      "parentIds": [
+        "methodist"
+      ],
+      "splitEventId": "united-methodist-union-1968",
+      "foundedYear": 1968,
+      "regions": [
+        "north-america",
+        "sub-saharan-africa",
+        "eastern-europe",
+        "southeast-asia"
+      ],
+      "summary": "Formed in Dallas in 1968 by the union of the Methodist Church (itself a 1939 reunion of northern and southern Methodism and the Methodist Protestant Church) and the Evangelical United Brethren. Long the second-largest U.S. Protestant body, it is a worldwide church with growing conferences in Africa and the Philippines. After decades of dispute over sexuality, roughly a quarter of U.S. congregations left in 2019–2023, many joining the Global Methodist Church (2022); the 2024 General Conference removed restrictions on gay clergy and same-sex weddings.",
+      "distinctives": [
+        "Connexional polity with bishops and itinerant appointment of clergy",
+        "Social Principles and Book of Resolutions",
+        "Wesleyan Quadrilateral as theological method",
+        "Global church with central conferences",
+        "Ordination of women (full clergy rights since 1956)"
+      ],
+      "profile": {
+        "authority": "Scripture as primary, interpreted with tradition, experience and reason; Articles of Religion, EUB Confession and Wesley's Sermons and Notes as doctrinal standards.",
+        "salvation": "Wesleyan: prevenient, justifying and sanctifying grace; salvation open to all.",
+        "sacraments": "Baptism (infants and adults) and Holy Communion as sacraments; open table.",
+        "eschatology": "Classical hope of resurrection and new creation.",
+        "governance": "Episcopal and connexional: General, jurisdictional, central and annual conferences; bishops appoint pastors.",
+        "worship": "Liturgical and free forms; Wesley hymns; the United Methodist Hymnal.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; reshaped by the 2019–2024 disaffiliations and regionalisation.",
+      "sources": [
+        "richey-american-methodism",
+        "wmc-statistics",
+        "noll-christianity-us"
+      ]
+    },
+    {
+      "id": "free-methodist-church",
+      "name": "Free Methodist Church",
+      "family": "methodist",
+      "parentIds": [
+        "methodist",
+        "holiness-movement"
+      ],
+      "splitEventId": "free-methodist-church-1860",
+      "foundedYear": 1860,
+      "regions": [
+        "north-america",
+        "sub-saharan-africa",
+        "east-asia",
+        "latin-america"
+      ],
+      "summary": "Organised at Pekin, New York, in 1860 after B. T. Roberts and others were expelled from the Methodist Episcopal Church for preaching a stricter holiness. It stood for free pews for the poor, opposition to slavery and secret societies, and entire sanctification. Now a worldwide holiness denomination.",
+      "distinctives": [
+        "Entire sanctification",
+        "Free seats (no pew rents)",
+        "Abolitionism",
+        "Early support for women in ministry"
+      ],
+      "profile": {
+        "authority": "Scripture with the Free Methodist Articles of Religion.",
+        "salvation": "Wesleyan-Arminian with entire sanctification as a second work of grace.",
+        "sacraments": "Baptism and the Lord's Supper.",
+        "eschatology": "Return of Christ and final judgment.",
+        "governance": "Conference with bishops.",
+        "worship": "Evangelical holiness worship.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; worldwide membership mostly outside North America.",
+      "sources": [
+        "synan-holiness-pentecostal",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "wesleyan-church",
+      "name": "Wesleyan Church",
+      "family": "methodist",
+      "parentIds": [
+        "methodist",
+        "holiness-movement"
+      ],
+      "splitEventId": "wesleyan-methodist-connection-1843",
+      "foundedYear": 1968,
+      "regions": [
+        "north-america",
+        "southeast-asia",
+        "sub-saharan-africa",
+        "latin-america"
+      ],
+      "summary": "Formed in 1968 by the merger of the Wesleyan Methodist Church, founded in 1843 by abolitionists leaving the Methodist Episcopal Church, and the Pilgrim Holiness Church (1897). Its seminary and universities (Indiana Wesleyan, Houghton) make it a significant voice of Wesleyan-Holiness evangelicalism.",
+      "distinctives": [
+        "Abolitionist origins (1843)",
+        "Entire sanctification",
+        "Ordination of women since its origins",
+        "Holiness missions"
+      ],
+      "profile": {
+        "authority": "Scripture as inerrant, with the Wesleyan Articles of Religion.",
+        "salvation": "Wesleyan-Arminian with entire sanctification.",
+        "sacraments": "Baptism and the Lord's Supper.",
+        "eschatology": "Return of Christ.",
+        "governance": "Conference-based with a General Conference and general superintendents.",
+        "worship": "Evangelical worship.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active.",
+      "sources": [
+        "synan-holiness-pentecostal",
+        "richey-american-methodism"
+      ]
+    },
+    {
+      "id": "church-of-the-nazarene",
+      "name": "Church of the Nazarene",
+      "family": "methodist",
+      "parentIds": [
+        "holiness-movement"
+      ],
+      "splitEventId": "pilot-point-union-1908",
+      "foundedYear": 1908,
+      "regions": [
+        "north-america",
+        "latin-america",
+        "sub-saharan-africa",
+        "east-asia",
+        "southeast-asia",
+        "india"
+      ],
+      "summary": "The largest Wesleyan-Holiness denomination, formed by the union of regional holiness churches culminating at Pilot Point, Texas, in 1908. Founders included Phineas F. Bresee of Los Angeles. It teaches entire sanctification as a second definite work of grace and has a strong international presence, with a majority of members outside the United States.",
+      "distinctives": [
+        "Entire sanctification",
+        "International, multi-regional church",
+        "Education (Nazarene universities and seminaries)",
+        "Women in ministry from the beginning",
+        "Rejection of tongues as initial evidence"
+      ],
+      "profile": {
+        "authority": "Scripture as inerrantly revealing God's will in matters of salvation; Articles of Faith in the Manual.",
+        "salvation": "Wesleyan-Arminian: justification by faith, followed by entire sanctification cleansing the heart from original sin.",
+        "sacraments": "Baptism (infants or believers; any mode) and the Lord's Supper.",
+        "eschatology": "Premillennial return not required; Christ's return, resurrection and judgment.",
+        "governance": "Mixed episcopal-congregational: districts, district superintendents and general superintendents; General Assembly.",
+        "worship": "Evangelical holiness worship.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; self-reports about 2.6 million members worldwide.",
+      "sources": [
+        "smith-called-unto-holiness",
+        "synan-holiness-pentecostal",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "church-of-god-anderson",
+      "name": "Church of God (Anderson, Indiana)",
+      "family": "methodist",
+      "parentIds": [
+        "holiness-movement"
+      ],
+      "foundedYear": 1881,
+      "regions": [
+        "north-america",
+        "sub-saharan-africa",
+        "india"
+      ],
+      "summary": "A holiness reformation movement begun by Daniel S. Warner in 1881, rejecting denominational structures as man-made divisions and calling Christians 'out of Babylon' into the visible unity of the one church of God. Headquartered in Anderson, Indiana, it remains non-Pentecostal and treats membership as conversion rather than enrolment.",
+      "distinctives": [
+        "Anti-sectarian vision of Christian unity",
+        "Entire sanctification",
+        "No formal membership rolls",
+        "Feet washing as an ordinance",
+        "Early inclusion of women preachers"
+      ],
+      "profile": {
+        "authority": "Scripture alone; no creed.",
+        "salvation": "Wesleyan holiness: new birth and sanctification.",
+        "sacraments": "Believers' baptism by immersion, the Lord's Supper and feet washing.",
+        "eschatology": "Amillennial, historically reading Revelation as church history.",
+        "governance": "Congregational with cooperative ministries.",
+        "worship": "Evangelical holiness worship.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active.",
+      "sources": [
+        "synan-holiness-pentecostal",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "korean-methodist-church",
+      "name": "Korean Methodist Church",
+      "family": "methodist",
+      "parentIds": [
+        "methodist"
+      ],
+      "foundedYear": 1930,
+      "regions": [
+        "east-asia"
+      ],
+      "summary": "Methodism reached Korea with American missionaries Henry Appenzeller and William Scranton in 1885. In 1930 the northern and southern American Methodist missions united to form the autonomous Korean Methodist Church. Korean Methodists were prominent in the 1919 independence movement, and the church grew dramatically after the Korean War.",
+      "distinctives": [
+        "Autonomous Asian Methodist church since 1930",
+        "Early mission schools (Ewha, Pai Chai)",
+        "Role in the March 1st Movement (1919)",
+        "Dawn prayer and revival piety"
+      ],
+      "profile": {
+        "authority": "Scripture with Methodist doctrinal standards and Korean confessional statements.",
+        "salvation": "Wesleyan: universal grace and sanctification.",
+        "sacraments": "Baptism and Holy Communion.",
+        "eschatology": "Classical hope of Christ's return.",
+        "governance": "Episcopal with bishops elected for set terms.",
+        "worship": "Methodist liturgy with Korean revival prayer practices.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; one of the largest Methodist churches in Asia.",
+      "sources": [
+        "kim-korea",
+        "wmc-statistics"
+      ]
+    },
+    {
+      "id": "church-of-god-in-christ",
+      "name": "Church of God in Christ",
+      "family": "pentecostal",
+      "parentIds": [
+        "holiness-movement",
+        "pentecostal"
+      ],
+      "splitEventId": "azusa-street-revival-1906",
+      "foundedYear": 1897,
+      "regions": [
+        "north-america",
+        "sub-saharan-africa",
+        "latin-america"
+      ],
+      "summary": "Founded in 1897 in Mississippi by Charles Harrison Mason and Charles Price Jones as a holiness church. After Mason received Spirit baptism at the Azusa Street revival in 1907, the church divided; Mason's Pentecostal majority kept the name, and Jones's group became the Church of Christ (Holiness). For years COGIC was one of the few incorporated Pentecostal bodies able to ordain clergy, including many white ministers. Headquartered in Memphis, it is the largest Pentecostal denomination in the United States and a pillar of African American church life; Martin Luther King Jr. gave his final 'Mountaintop' speech at its Mason Temple in 1968.",
+      "distinctives": [
+        "Holiness-Pentecostal theology",
+        "Black-led church founded by former slaves' children",
+        "Influential gospel music tradition",
+        "Women's Department as a powerful parallel structure",
+        "Mason Temple, Memphis"
+      ],
+      "profile": {
+        "authority": "Scripture as inspired Word; COGIC Official Manual.",
+        "salvation": "Salvation by grace through faith, sanctification and baptism in the Holy Spirit as an experience subsequent to conversion, usually evidenced by speaking in tongues; gifts of healing and prophecy for today.",
+        "sacraments": "Baptism by immersion, the Lord's Supper and feet washing as ordinances.",
+        "eschatology": "Premillennial return of Christ.",
+        "governance": "Episcopal: Presiding Bishop, General Board, jurisdictional bishops; women serve as evangelists and missionaries but not as pastors or bishops.",
+        "worship": "Ecstatic worship with shouting, tarrying, testimony and gospel choirs.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; one of the largest Pentecostal bodies in North America.",
+      "sources": [
+        "butler-cogic",
+        "synan-holiness-pentecostal",
+        "anderson-pentecostalism"
+      ]
+    },
+    {
+      "id": "church-of-god-cleveland",
+      "name": "Church of God (Cleveland, Tennessee)",
+      "family": "pentecostal",
+      "parentIds": [
+        "holiness-movement",
+        "pentecostal"
+      ],
+      "foundedYear": 1886,
+      "regions": [
+        "north-america",
+        "latin-america",
+        "sub-saharan-africa",
+        "india"
+      ],
+      "summary": "Traces its origins to the Christian Union formed by Richard Spurling at Barney Creek, Tennessee, in 1886, and the 1896 Shearer Schoolhouse revival in North Carolina. Under A. J. Tomlinson it became Pentecostal after G. B. Cashwell, back from Azusa Street, preached in Cleveland in 1908. A 1923 dispute led to Tomlinson's Church of God of Prophecy. Now a large worldwide church.",
+      "distinctives": [
+        "Oldest Pentecostal denomination in the U.S. by founding date",
+        "Wesleyan-holiness Pentecostal theology",
+        "Feet washing ordinance",
+        "Practical commitments on holy living"
+      ],
+      "profile": {
+        "authority": "Scripture as the Word of God, \"rightly divided\"; Declaration of Faith (1948).",
+        "salvation": "Justification, sanctification and baptism in the Holy Spirit as an experience subsequent to conversion, usually evidenced by speaking in tongues; gifts of healing and prophecy for today.",
+        "sacraments": "Baptism by immersion, the Lord's Supper and feet washing.",
+        "eschatology": "Premillennial second coming.",
+        "governance": "Centralised: General Assembly and General Overseer appoint state overseers.",
+        "worship": "Pentecostal worship.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; worldwide membership in the millions.",
+      "sources": [
+        "conn-mighty-army",
+        "synan-holiness-pentecostal",
+        "burgess-pentecostal-dictionary"
+      ]
+    },
+    {
+      "id": "foursquare-church",
+      "name": "International Church of the Foursquare Gospel",
+      "family": "pentecostal",
+      "parentIds": [
+        "pentecostal"
+      ],
+      "foundedYear": 1927,
+      "regions": [
+        "north-america",
+        "latin-america",
+        "southeast-asia",
+        "sub-saharan-africa"
+      ],
+      "summary": "Founded by the evangelist Aimee Semple McPherson, who opened Angelus Temple in Los Angeles in 1923 and incorporated the denomination in 1927. A pioneer of religious radio and of social relief during the Depression, she preached the 'Foursquare Gospel' of Jesus as Saviour, Baptiser with the Holy Spirit, Healer and Coming King.",
+      "distinctives": [
+        "Founded and led by a woman",
+        "Foursquare Gospel (adapted from A. B. Simpson)",
+        "Early use of radio and dramatic sermons",
+        "Women ordained throughout its history",
+        "Strong in Brazil, the Philippines and Nigeria"
+      ],
+      "profile": {
+        "authority": "Scripture; the Declaration of Faith written by McPherson.",
+        "salvation": "Salvation by grace through faith; Baptism in the Holy Spirit as an experience subsequent to conversion, usually evidenced by speaking in tongues; gifts of healing and prophecy for today.",
+        "sacraments": "Baptism by immersion and the Lord's Supper.",
+        "eschatology": "Premillennial return of Christ.",
+        "governance": "Central board and president with district supervisors.",
+        "worship": "Pentecostal worship with contemporary music.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active internationally.",
+      "sources": [
+        "blumhofer-mcpherson",
+        "burgess-pentecostal-dictionary"
+      ]
+    },
+    {
+      "id": "apostolic-church",
+      "name": "The Apostolic Church",
+      "family": "pentecostal",
+      "parentIds": [
+        "pentecostal"
+      ],
+      "foundedYear": 1916,
+      "regions": [
+        "western-europe",
+        "sub-saharan-africa",
+        "oceania"
+      ],
+      "summary": "A Pentecostal church formed in 1916 at Penygroes, Carmarthenshire, by Daniel Powell Williams, a convert of the 1904–05 Welsh Revival. It recognises the present-day offices of apostle and prophet (Ephesians 4:11) and gives a central place to directive prophecy in church government. Its missions made it large in Nigeria and Ghana.",
+      "distinctives": [
+        "Restored offices of apostle and prophet",
+        "Annual Penygroes convention",
+        "Strong West African churches",
+        "Roots in the Welsh Revival"
+      ],
+      "profile": {
+        "authority": "Scripture as final authority, with prophetic guidance in church affairs tested by it.",
+        "salvation": "Salvation by grace; Baptism in the Holy Spirit as an experience subsequent to conversion, usually evidenced by speaking in tongues; gifts of healing and prophecy for today.",
+        "sacraments": "Baptism by immersion and the Lord's Supper.",
+        "eschatology": "Premillennial return of Christ.",
+        "governance": "Government by apostles and prophets with elders and deacons.",
+        "worship": "Pentecostal worship with prophecy.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; largest branches in Nigeria and Ghana.",
+      "sources": [
+        "burgess-pentecostal-dictionary",
+        "anderson-pentecostalism"
+      ]
+    },
+    {
+      "id": "elim-pentecostal",
+      "name": "Elim Pentecostal Church",
+      "family": "pentecostal",
+      "parentIds": [
+        "pentecostal"
+      ],
+      "foundedYear": 1915,
+      "regions": [
+        "western-europe",
+        "sub-saharan-africa",
+        "oceania"
+      ],
+      "summary": "Founded in Monaghan, Ireland, in 1915 by the Welsh evangelist George Jeffreys, whose healing campaigns filled the Royal Albert Hall in the 1920s–30s. Elim became one of the main British Pentecostal denominations; Jeffreys left in 1940 over church government. In 1978 missionaries and their families were murdered at an Elim mission in Rhodesia (Vumba).",
+      "distinctives": [
+        "Foursquare Gospel emphasis",
+        "Healing evangelism (George Jeffreys)",
+        "More centralised than British Assemblies of God",
+        "Does not require tongues as the only initial evidence"
+      ],
+      "profile": {
+        "authority": "Scripture as infallible; Elim Fundamental Truths.",
+        "salvation": "Salvation by grace; Spirit baptism with signs following.",
+        "sacraments": "Believers' baptism and the Lord's Supper.",
+        "eschatology": "Premillennial return of Christ.",
+        "governance": "Connexional, with a General Conference and central leadership.",
+        "worship": "Pentecostal and contemporary worship.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active.",
+      "sources": [
+        "wilson-sects-society",
+        "burgess-pentecostal-dictionary"
+      ]
+    },
+    {
+      "id": "pentecostal-assemblies-of-the-world",
+      "name": "Pentecostal Assemblies of the World",
+      "family": "nontrinitarian",
+      "parentIds": [
+        "oneness-pentecostal"
+      ],
+      "splitEventId": "oneness-new-issue-1913",
+      "foundedYear": 1918,
+      "regions": [
+        "north-america",
+        "sub-saharan-africa"
+      ],
+      "summary": "Organised in Los Angeles about 1907 and reorganised in 1918 as an interracial Oneness body after merging with the General Assembly of Apostolic Assemblies; Garfield T. Haywood, an African American pastor in Indianapolis, became its first Presiding Bishop in 1925. Most white ministers withdrew in 1924, forming bodies that later became the United Pentecostal Church. It stands outside historic Nicene Trinitarian orthodoxy.",
+      "distinctives": [
+        "Oneness theology: one God revealed as Father, Son and Spirit, whose name is Jesus",
+        "Baptism in the name of Jesus",
+        "Historically interracial leadership",
+        "Holiness standards"
+      ],
+      "profile": {
+        "authority": "Scripture; rejects the Nicene doctrine of three persons as unbiblical.",
+        "salvation": "Repentance, baptism in Jesus' name and Spirit baptism with tongues (Acts 2:38) as the new birth.",
+        "sacraments": "Baptism by immersion in the name of the Lord Jesus Christ, the Lord's Supper and feet washing.",
+        "eschatology": "Premillennial return of Christ.",
+        "governance": "Episcopal: Presiding Bishop and diocesan bishops.",
+        "worship": "Pentecostal worship.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active.",
+      "sources": [
+        "reed-oneness",
+        "burgess-pentecostal-dictionary"
+      ]
+    },
+    {
+      "id": "united-pentecostal-church-international",
+      "name": "United Pentecostal Church International",
+      "family": "nontrinitarian",
+      "parentIds": [
+        "oneness-pentecostal",
+        "pentecostal-assemblies-of-the-world"
+      ],
+      "foundedYear": 1945,
+      "regions": [
+        "north-america",
+        "latin-america",
+        "southeast-asia",
+        "sub-saharan-africa"
+      ],
+      "summary": "The largest Oneness Pentecostal denomination, formed in St Louis in 1945 by the merger of the Pentecostal Church, Inc. and the Pentecostal Assemblies of Jesus Christ. It teaches that the one God is fully revealed in Jesus Christ and that baptism in Jesus' name and the gift of tongues are part of the new birth. It stands outside historic Nicene Trinitarianism.",
+      "distinctives": [
+        "Oneness doctrine of God",
+        "Acts 2:38 as the plan of salvation",
+        "Strict holiness standards of dress and appearance",
+        "Large missions in Latin America and the Philippines"
+      ],
+      "profile": {
+        "authority": "Scripture as the inspired Word; rejects Trinitarian creeds.",
+        "salvation": "Repentance, water baptism in Jesus' name and Spirit baptism with tongues.",
+        "sacraments": "Baptism by immersion in Jesus' name, the Lord's Supper and feet washing.",
+        "eschatology": "Premillennial rapture and return of Christ.",
+        "governance": "Congregational churches with a General Conference and General Superintendent.",
+        "worship": "Exuberant Pentecostal worship.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active.",
+      "sources": [
+        "reed-oneness",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "assembleias-de-deus-brazil",
+      "name": "Assembleias de Deus (Brazil)",
+      "family": "pentecostal",
+      "parentIds": [
+        "pentecostal"
+      ],
+      "splitEventId": "assembleia-de-deus-belem-1911",
+      "foundedYear": 1911,
+      "regions": [
+        "latin-america"
+      ],
+      "summary": "Founded in Belém in 1911 by the Swedish missionaries Daniel Berg and Gunnar Vingren, after their Pentecostal teaching led to expulsion from a Baptist church. Linked historically with Swedish rather than U.S. Pentecostalism, the Assemblies of God in Brazil grew into the country's largest Protestant family, now divided among several large conventions and ministries.",
+      "distinctives": [
+        "Classical Pentecostal theology",
+        "Brazilian leadership from the 1930s",
+        "Strict traditional usos e costumes in many congregations",
+        "Growing political influence in Brazil's evangelical caucus"
+      ],
+      "profile": {
+        "authority": "Scripture; Declaration of Faith of the CGADB.",
+        "salvation": "Salvation by grace through faith; Baptism in the Holy Spirit as an experience subsequent to conversion, usually evidenced by speaking in tongues; gifts of healing and prophecy for today.",
+        "sacraments": "Baptism by immersion and the Lord's Supper.",
+        "eschatology": "Premillennial, pre-tribulation rapture.",
+        "governance": "Mother churches (ministérios) with pastor-presidents and networks of dependent congregations; national conventions.",
+        "worship": "Pentecostal worship.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; the largest Pentecostal family in Brazil.",
+      "sources": [
+        "chesnut-born-again-brazil",
+        "freston-evangelicals-politics",
+        "anderson-pentecostalism"
+      ]
+    },
+    {
+      "id": "yoido-full-gospel-church",
+      "name": "Yoido Full Gospel Church",
+      "family": "pentecostal",
+      "parentIds": [
+        "assemblies-of-god"
+      ],
+      "splitEventId": "yoido-full-gospel-church-1958",
+      "foundedYear": 1958,
+      "regions": [
+        "east-asia"
+      ],
+      "summary": "Begun as a tent church in a Seoul slum in 1958 by David Yonggi Cho and Choi Ja-shil, affiliated with the Assemblies of God. Moving to Yeouido island in 1973, it became the largest single congregation in the world, organised around home cell groups. Cho's 'threefold blessing' (spiritual, physical and material well-being, from 3 John 2) has been criticised as a prosperity gospel; Cho was also convicted of embezzlement in 2014.",
+      "distinctives": [
+        "Cell-group system",
+        "Prayer Mountain and fasting prayer",
+        "Threefold blessing and 'fivefold gospel'",
+        "Mega-church scale and global influence"
+      ],
+      "profile": {
+        "authority": "Scripture; Assemblies of God doctrine.",
+        "salvation": "Salvation by grace; Spirit baptism; healing and blessing as fruits of the gospel.",
+        "sacraments": "Baptism by immersion and the Lord's Supper.",
+        "eschatology": "Premillennial return of Christ.",
+        "governance": "Senior pastor with elders and cell leaders; affiliated with the Korean Assemblies of God.",
+        "worship": "Pentecostal worship, all-night and early-morning prayer.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; membership reported in the hundreds of thousands.",
+      "sources": [
+        "kim-korea",
+        "anderson-pentecostalism",
+        "burgess-pentecostal-dictionary"
+      ]
+    },
+    {
+      "id": "redeemed-christian-church-of-god",
+      "name": "Redeemed Christian Church of God",
+      "family": "pentecostal",
+      "parentIds": [
+        "pentecostal",
+        "african-initiated-churches"
+      ],
+      "foundedYear": 1952,
+      "regions": [
+        "sub-saharan-africa",
+        "western-europe",
+        "north-america"
+      ],
+      "summary": "Founded in Lagos in 1952 by Josiah Akindayomi, who had belonged to the Cherubim and Seraphim. Under Enoch Adejare Adeboye (General Overseer from 1981) it became a Pentecostal megachurch movement planting 'parishes' worldwide, known for the Holy Ghost Congress at Redemption Camp on the Lagos–Ibadan expressway.",
+      "distinctives": [
+        "Rapid parish planting worldwide",
+        "Holy Ghost Service and Congress",
+        "Holiness and prosperity themes combined",
+        "Strong diaspora presence in Britain and North America"
+      ],
+      "profile": {
+        "authority": "Scripture; the General Overseer's teaching highly influential.",
+        "salvation": "Salvation by grace, holiness and Spirit baptism.",
+        "sacraments": "Baptism by immersion, the Lord's Supper and feet washing in some parishes.",
+        "eschatology": "Premillennial rapture and return of Christ.",
+        "governance": "Hierarchical: General Overseer, regional and provincial pastors.",
+        "worship": "Pentecostal worship with all-night prayer.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active in many countries.",
+      "sources": [
+        "ukah-rccg",
+        "kalu-african-pentecostalism",
+        "anderson-pentecostalism"
+      ]
+    },
+    {
+      "id": "universal-church-of-the-kingdom-of-god",
+      "name": "Universal Church of the Kingdom of God",
+      "family": "pentecostal",
+      "parentIds": [
+        "neo-charismatic"
+      ],
+      "foundedYear": 1977,
+      "regions": [
+        "latin-america",
+        "sub-saharan-africa",
+        "western-europe",
+        "north-america"
+      ],
+      "summary": "Founded in Rio de Janeiro in 1977 by Edir Macedo. A neo-Pentecostal church emphasising deliverance from evil spirits, healing and prosperity through sacrificial giving, it built the vast Temple of Solomon in São Paulo (2014), owns the RecordTV network and is linked to the Republicanos party. It has faced investigations and conflicts in several countries (e.g. the 2019–21 schism and expulsion of Brazilian bishops in Angola), which the church contests; critics also cite hostility to Afro-Brazilian religions.",
+      "distinctives": [
+        "Deliverance sessions confronting spirits (often identified with Afro-Brazilian deities)",
+        "Prosperity theology and tithing campaigns",
+        "Media empire",
+        "Rapid international expansion"
+      ],
+      "profile": {
+        "authority": "Scripture as interpreted by the church's leadership.",
+        "salvation": "Faith in Christ expressed through sacrifice and confrontation of evil; healing and prosperity as signs.",
+        "sacraments": "Baptism by immersion and the Lord's Supper.",
+        "eschatology": "Expectation of Christ's return; little emphasis compared with present deliverance.",
+        "governance": "Centralised episcopal hierarchy under the founding bishop.",
+        "worship": "Daily themed services (prosperity, healing, family, deliverance).",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active.",
+      "sources": [
+        "freston-evangelicals-politics",
+        "chesnut-born-again-brazil",
+        "anderson-pentecostalism"
+      ]
+    },
+    {
+      "id": "vineyard",
+      "name": "Vineyard Churches",
+      "family": "pentecostal",
+      "parentIds": [
+        "neo-charismatic",
+        "evangelical"
+      ],
+      "foundedYear": 1982,
+      "regions": [
+        "north-america",
+        "western-europe",
+        "sub-saharan-africa",
+        "oceania"
+      ],
+      "summary": "A movement begun with Kenneth Gulliksen's Vineyard Fellowship (1974) and shaped from 1982 by John Wimber, a former Calvary Chapel pastor. Wimber taught 'power evangelism' and the 'Third Wave' of the Spirit, combining evangelical theology with healing and prophecy while avoiding Pentecostal labels. The Vineyard released the Toronto Airport congregation in 1995 over the 'Toronto Blessing'. Vineyard worship songs shaped global contemporary worship.",
+      "distinctives": [
+        "Kingdom theology (George Eldon Ladd's 'already and not yet')",
+        "'Everyone gets to play' — ministry by all believers",
+        "Power evangelism and healing prayer",
+        "Intimate contemporary worship"
+      ],
+      "profile": {
+        "authority": "Scripture as the final authority; Vineyard Statement of Faith.",
+        "salvation": "Salvation by grace through faith; ongoing filling of the Spirit without tongues as required evidence.",
+        "sacraments": "Baptism and the Lord's Supper.",
+        "eschatology": "Inaugurated kingdom eschatology.",
+        "governance": "Association of churches with national movements; senior pastors.",
+        "worship": "Extended intimate worship followed by teaching and ministry time.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active internationally.",
+      "sources": [
+        "miller-reinventing",
+        "burgess-pentecostal-dictionary"
+      ]
+    },
+    {
+      "id": "calvary-chapel",
+      "name": "Calvary Chapel",
+      "family": "evangelical",
+      "parentIds": [
+        "foursquare-church",
+        "evangelical"
+      ],
+      "foundedYear": 1965,
+      "regions": [
+        "north-america",
+        "western-europe",
+        "latin-america"
+      ],
+      "summary": "Began when Chuck Smith, formerly a Foursquare pastor, took over a small church in Costa Mesa, California, in 1965 and welcomed hippies of the Jesus Movement with the help of Lonnie Frisbee. It pioneered contemporary Christian music (Maranatha! Music), verse-by-verse Bible teaching and mass beach baptisms. Calvary Chapel describes itself as a middle way between fundamentalism and Pentecostal emotionalism.",
+      "distinctives": [
+        "Expository, verse-by-verse teaching",
+        "Jesus Movement roots",
+        "Moderate charismatic practice",
+        "Pastor-led (\"Moses model\") governance",
+        "Dispensational premillennialism"
+      ],
+      "profile": {
+        "authority": "Scripture as inerrant; no denominational confession beyond Calvary Chapel distinctives.",
+        "salvation": "Salvation by grace through faith.",
+        "sacraments": "Believers' baptism (often in the ocean) and communion.",
+        "eschatology": "Pre-tribulation rapture, premillennial return.",
+        "governance": "Senior pastor with board; loose fellowship of affiliated churches (two associations since 2016).",
+        "worship": "Contemporary worship with Bible teaching.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active.",
+      "sources": [
+        "miller-reinventing",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "hillsong",
+      "name": "Hillsong Church",
+      "family": "pentecostal",
+      "parentIds": [
+        "assemblies-of-god",
+        "neo-charismatic"
+      ],
+      "foundedYear": 1983,
+      "regions": [
+        "oceania",
+        "western-europe",
+        "north-america",
+        "latin-america"
+      ],
+      "summary": "Founded in 1983 as Hills Christian Life Centre in Sydney by Brian and Bobbie Houston within the Assemblies of God in Australia; renamed Hillsong in 1999. Its worship music became among the most widely sung in the world, and it planted large churches in global cities. It left the Australian Christian Churches in 2018. From 2020 scandals involving leaders led to the departure of many campuses and Brian Houston's resignation (2022); he was acquitted in 2023 of concealing his father's abuse.",
+      "distinctives": [
+        "Globally influential worship music",
+        "Urban multi-site campuses",
+        "Pentecostal theology with polished contemporary presentation",
+        "Hillsong College and conferences"
+      ],
+      "profile": {
+        "authority": "Scripture; Pentecostal statement of faith.",
+        "salvation": "Salvation by grace; Spirit-filled life and flourishing.",
+        "sacraments": "Baptism by immersion and communion.",
+        "eschatology": "Expectation of Christ's return.",
+        "governance": "Global senior pastors with a board.",
+        "worship": "Concert-style worship with professional music production.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; reduced after 2020–22 crises.",
+      "sources": [
+        "riches-wagner-hillsong",
+        "garrett-oceania"
+      ]
+    },
+    {
+      "id": "bethel-new-apostolic-networks",
+      "name": "Bethel Church (Redding) and New Apostolic Reformation networks",
+      "family": "pentecostal",
+      "parentIds": [
+        "neo-charismatic",
+        "assemblies-of-god"
+      ],
+      "foundedYear": 1996,
+      "regions": [
+        "north-america",
+        "global"
+      ],
+      "summary": "A loose constellation of independent charismatic networks led by self-described apostles and prophets. C. Peter Wagner popularised the term 'New Apostolic Reformation' in the 1990s for what he saw as the restoration of apostolic governance. Bethel Church in Redding, California, led by Bill Johnson since 1996, left the Assemblies of God in 2006 and became influential through its supernatural ministry school and worship music. Many participants reject the NAR label; critics raise concerns about extra-biblical revelation and the political 'Seven Mountains' mandate.",
+      "distinctives": [
+        "Present-day apostles and prophets",
+        "Expectation of miracles and signs",
+        "'Kingdom now' theology of heaven invading earth",
+        "Networks rather than denominations",
+        "Influential worship music (Bethel Music)"
+      ],
+      "profile": {
+        "authority": "Scripture as final authority, with emphasis on ongoing prophetic revelation.",
+        "salvation": "Salvation by grace; believers called to exercise supernatural power.",
+        "sacraments": "Baptism and communion.",
+        "eschatology": "Optimistic, often victorious or postmillennial-leaning eschatology.",
+        "governance": "Relational apostolic networks without formal denominational structures.",
+        "worship": "Long worship sets, prophetic ministry and healing prayer.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; widely influential and debated.",
+      "sources": [
+        "christerson-flory-network",
+        "burgess-pentecostal-dictionary"
+      ]
+    },
+    {
+      "id": "kimbanguist-church",
+      "name": "Kimbanguist Church (EJCSK)",
+      "family": "independent",
+      "parentIds": [
+        "african-initiated-churches"
+      ],
+      "splitEventId": "kimbanguist-movement-1921",
+      "foundedYear": 1921,
+      "regions": [
+        "sub-saharan-africa"
+      ],
+      "summary": "The Church of Jesus Christ on Earth through the Prophet Simon Kimbangu traces its origin to Kimbangu's healing ministry at Nkamba in the Belgian Congo in 1921. Arrested within months, Kimbangu died in prison in 1951 while his followers were deported and persecuted. The church was legally recognised in 1959, joined the World Council of Churches in 1969 and is among Africa's largest independent churches. Later teaching that exalted Simon Kimbangu and his successors, including identification of Kimbangu with the Holy Spirit, has strained relations with other Congolese Protestant churches.",
+      "distinctives": [
+        "Nkamba as the New Jerusalem",
+        "Healing and prophetic origins",
+        "Strict ethics: no alcohol, tobacco, pork or violence",
+        "Non-violence under colonial persecution",
+        "Leadership through Kimbangu's descendants"
+      ],
+      "profile": {
+        "authority": "Scripture, with the revelations of Simon Kimbangu and his successors.",
+        "salvation": "Salvation in Christ, mediated through obedience and the prophetic ministry.",
+        "sacraments": "Baptism by laying on of hands (without water) and communion with locally produced elements.",
+        "eschatology": "Expectation of judgment and renewal centred on the holy city of Nkamba.",
+        "governance": "Spiritual heads drawn from Kimbangu's family.",
+        "worship": "Brass bands, choirs, prayers and pilgrimage to Nkamba.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; millions of adherents in the DRC and neighbouring countries.",
+      "sources": [
+        "gampiot-kimbanguism",
+        "isichei-africa",
+        "anderson-african-reformation"
+      ]
+    },
+    {
+      "id": "zion-christian-church",
+      "name": "Zion Christian Church",
+      "family": "independent",
+      "parentIds": [
+        "african-initiated-churches"
+      ],
+      "foundedYear": 1924,
+      "regions": [
+        "sub-saharan-africa"
+      ],
+      "summary": "Founded by Engenas Lekganyane about 1924 in the northern Transvaal, from the 'Zionist' movement that grew from the Christian Catholic Church of John Alexander Dowie (Zion, Illinois) through South African leaders. The ZCC, headquartered at Moria in Limpopo, is the largest church in southern Africa; its Easter pilgrimage draws over a million people. It combines Christian faith with healing through blessed water and other objects and with African ways of life.",
+      "distinctives": [
+        "Healing through prayer, blessed water, tea and cords",
+        "Easter pilgrimage to Moria",
+        "Star and dove badges worn by members",
+        "Prohibition of alcohol, tobacco and pork",
+        "Leadership by the Lekganyane family"
+      ],
+      "profile": {
+        "authority": "Scripture as read and applied by the bishop.",
+        "salvation": "Salvation and healing in Christ, protection from evil and wholeness of life.",
+        "sacraments": "Baptism by triple immersion and Holy Communion.",
+        "eschatology": "Expectation of God's Kingdom; focus on present wellbeing.",
+        "governance": "Hereditary bishop with ministers and preachers.",
+        "worship": "Dancing, singing, uniforms and testimony; pilgrimage.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; the largest independent church in southern Africa.",
+      "sources": [
+        "sundkler-bantu-prophets",
+        "anderson-african-reformation",
+        "hastings-church-in-africa"
+      ]
+    },
+    {
+      "id": "church-of-the-lord-aladura",
+      "name": "Church of the Lord (Aladura)",
+      "family": "independent",
+      "parentIds": [
+        "african-initiated-churches",
+        "anglican"
+      ],
+      "splitEventId": "aladura-revival-1930",
+      "foundedYear": 1930,
+      "regions": [
+        "sub-saharan-africa",
+        "western-europe"
+      ],
+      "summary": "Founded in 1930 at Ogere, Nigeria, by Josiah Olunowo Ositelu, a former Anglican catechist who received visions. One of the Yoruba 'praying' (Aladura) churches, it uses prayer, fasting, holy names and prophecy for healing and protection, and spread to Ghana, Liberia, Sierra Leone and Britain. It joined the World Council of Churches in 1975.",
+      "distinctives": [
+        "Prayer as central practice (aladura = \"owners of prayer\")",
+        "Visions, dreams and prophecy",
+        "Holy names and sacred seals revealed to the founder",
+        "Annual Taborar mountain festival",
+        "Women ministers"
+      ],
+      "profile": {
+        "authority": "Scripture with revelations given to the founder and prophets.",
+        "salvation": "Salvation in Christ, experienced as healing, protection and power through prayer.",
+        "sacraments": "Baptism and Holy Communion.",
+        "eschatology": "Expectation of Christ's return.",
+        "governance": "Primate and hierarchy of bishops, prophets and apostles.",
+        "worship": "White-robed worship, barefoot, with drumming, prayer and ecstatic prophecy.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active.",
+      "sources": [
+        "turner-church-of-the-lord",
+        "peel-aladura",
+        "isichei-africa"
+      ]
+    },
+    {
+      "id": "celestial-church-of-christ",
+      "name": "Celestial Church of Christ",
+      "family": "independent",
+      "parentIds": [
+        "african-initiated-churches"
+      ],
+      "foundedYear": 1947,
+      "regions": [
+        "sub-saharan-africa",
+        "western-europe",
+        "north-america"
+      ],
+      "summary": "Founded at Porto-Novo, Dahomey (now Benin), in 1947 by Samuel Bilewu Oshoffa after a vision during an eclipse. A prophetic-healing church related to the Aladura family, it spread rapidly in Nigeria and the West African diaspora. Members worship in white garments, barefoot, and observe purity rules.",
+      "distinctives": [
+        "Visions and prophecy guiding church life",
+        "White soutanes and bare feet in worship",
+        "Rejection of traditional charms and idols",
+        "Purity regulations",
+        "Pilgrimage to Imeko"
+      ],
+      "profile": {
+        "authority": "Scripture with the revelations given to the founder.",
+        "salvation": "Salvation in Christ, protection from evil, healing.",
+        "sacraments": "Baptism by immersion and Holy Communion.",
+        "eschatology": "Expectation of Christ's return.",
+        "governance": "Pastor-founder succeeded by Pastors; hierarchy of ranks.",
+        "worship": "Liturgy with chanting, candles, incense and prophetic visions.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; succession disputes have produced rival factions since 1985.",
+      "sources": [
+        "isichei-africa",
+        "anderson-african-reformation"
+      ]
+    },
+    {
+      "id": "nazareth-baptist-church",
+      "name": "Nazareth Baptist Church (amaNazaretha / Shembe)",
+      "family": "independent",
+      "parentIds": [
+        "african-initiated-churches",
+        "baptist"
+      ],
+      "foundedYear": 1910,
+      "regions": [
+        "sub-saharan-africa"
+      ],
+      "summary": "Founded in 1910 in Natal by the Zulu prophet Isaiah Shembe, who had been associated with the African Native Baptist Church. Centred on the holy village of Ekuphakameni and the mountain Nhlangakazi, it blends biblical faith with Zulu culture and Sabbath observance. Many members regard Shembe as a divinely sent prophet or messianic figure, a view outsiders and members interpret differently. It has divided among Shembe's descendants.",
+      "distinctives": [
+        "Isaiah Shembe's hymns (Izihlabelelo)",
+        "Sacred dance in traditional dress",
+        "Saturday Sabbath",
+        "Pilgrimages to Nhlangakazi",
+        "Zulu cultural affirmation"
+      ],
+      "profile": {
+        "authority": "Scripture, especially the Old Testament, with the hymns and revelations of the Shembe prophets.",
+        "salvation": "Salvation through God revealed in Christ and in the prophet Shembe.",
+        "sacraments": "Baptism and Holy Communion (including a night communion with feet washing).",
+        "eschatology": "Expectation of judgment and divine restoration.",
+        "governance": "Leadership by successors of Isaiah Shembe.",
+        "worship": "Hymn-singing and sacred dance on Sabbath and festivals.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; several factions.",
+      "sources": [
+        "sundkler-bantu-prophets",
+        "anderson-african-reformation"
+      ]
+    },
+    {
+      "id": "harrist-church",
+      "name": "Harrist Church",
+      "family": "independent",
+      "parentIds": [
+        "african-initiated-churches",
+        "methodist"
+      ],
+      "splitEventId": "harris-movement-west-africa-1913",
+      "foundedYear": 1913,
+      "regions": [
+        "sub-saharan-africa"
+      ],
+      "summary": "Communities formed in Côte d'Ivoire by converts of the Liberian prophet William Wade Harris (1913–15), who baptised tens of thousands and told them to wait for 'teachers with Bibles'. Many joined the Methodist mission; others organised under John Ahui, whom Harris commissioned in 1928, into the Harrist Church, officially recognised in the 1950s.",
+      "distinctives": [
+        "Founder's call to burn fetishes and turn to the one God",
+        "Ten Commandments as basic law",
+        "Polygamy tolerated",
+        "White-robed preachers and choirs",
+        "Ivorian cultural expression"
+      ],
+      "profile": {
+        "authority": "Scripture as proclaimed by Harris; oral tradition of his teaching.",
+        "salvation": "Turning to God and away from idols, with baptism.",
+        "sacraments": "Baptism; communion not central.",
+        "eschatology": "Expectation of judgment.",
+        "governance": "Preachers and apostles with a central council.",
+        "worship": "Singing in local languages and preaching in white robes.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active in Côte d'Ivoire.",
+      "sources": [
+        "shank-prophet-harris",
+        "isichei-africa",
+        "sanneh-whose-religion"
+      ]
+    },
+    {
+      "id": "iglesia-ni-cristo",
+      "name": "Iglesia ni Cristo",
+      "family": "nontrinitarian",
+      "parentIds": [
+        "seventh-day-adventist",
+        "stone-campbell-restoration"
+      ],
+      "splitEventId": "iglesia-ni-cristo-registered-1914",
+      "foundedYear": 1914,
+      "regions": [
+        "southeast-asia",
+        "north-america",
+        "global"
+      ],
+      "summary": "A Filipino church registered in 1914 by Felix Y. Manalo, who had been a member of several Protestant churches including the Seventh-day Adventists. It teaches that the original church apostatised and was re-established through Manalo as God's last messenger. It rejects the Trinity, holding that Jesus is the Son of God and Saviour but not God, and so stands outside historic Nicene Christianity. It is noted for disciplined membership, monumental chapels and bloc voting.",
+      "distinctives": [
+        "Manalo as the last messenger (Revelation 7:2)",
+        "Unitarian (non-Trinitarian) Christology",
+        "Membership in the INC necessary for salvation",
+        "Bloc voting in Philippine elections",
+        "Prohibition on eating blood"
+      ],
+      "profile": {
+        "authority": "Scripture as interpreted by the church's Executive Minister.",
+        "salvation": "Salvation through membership in the true Church of Christ and obedience.",
+        "sacraments": "Baptism by immersion and the Holy Supper (annual).",
+        "eschatology": "Judgment Day with salvation for faithful members.",
+        "governance": "Centralised under the Executive Minister.",
+        "worship": "Twice-weekly worship with doctrinal sermons and choirs.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; large in the Philippines and the Filipino diaspora.",
+      "sources": [
+        "tuggy-iglesia-ni-cristo",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "true-jesus-church",
+      "name": "True Jesus Church",
+      "family": "nontrinitarian",
+      "parentIds": [
+        "oneness-pentecostal",
+        "seventh-day-adventist"
+      ],
+      "foundedYear": 1917,
+      "regions": [
+        "east-asia",
+        "southeast-asia",
+        "north-america"
+      ],
+      "summary": "An independent Chinese church founded in Beijing in 1917 by Paul Wei (Wei Enbo) and others, combining Oneness Pentecostal theology with Saturday Sabbath observance. It holds itself to be the restored true church. Strong in Taiwan and among Chinese communities worldwide, it was absorbed into the Three-Self structure on the mainland but continues independently elsewhere.",
+      "distinctives": [
+        "Oneness doctrine of God",
+        "Saturday Sabbath",
+        "Baptism by face-down immersion in natural water in Jesus' name",
+        "Spirit baptism with tongues",
+        "Feet washing"
+      ],
+      "profile": {
+        "authority": "Scripture as the only basis; claims restored apostolic church.",
+        "salvation": "Salvation requires baptism, Spirit baptism with tongues and keeping the Sabbath.",
+        "sacraments": "Water baptism, feet washing and Holy Communion.",
+        "eschatology": "Return of Christ.",
+        "governance": "Councils of elders and ministers.",
+        "worship": "Prayer in tongues together, preaching and hymns.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active.",
+      "sources": [
+        "bays-china",
+        "lian-redeemed-by-fire",
+        "burgess-pentecostal-dictionary"
+      ]
+    },
+    {
+      "id": "local-churches",
+      "name": "Local Churches (Watchman Nee and Witness Lee)",
+      "family": "independent",
+      "parentIds": [
+        "plymouth-brethren",
+        "evangelical"
+      ],
+      "foundedYear": 1922,
+      "regions": [
+        "east-asia",
+        "north-america",
+        "southeast-asia"
+      ],
+      "summary": "A Chinese church movement that began in Fuzhou in the early 1920s around Watchman Nee, influenced by the Brethren and Keswick teaching, holding that there should be one church per city. Nee was imprisoned by the Communist government from 1952 until his death in 1972. Witness Lee carried the movement to Taiwan (1949) and the United States (1962). Some evangelical critics accused Lee's teachings of modalism and other errors; the Christian Research Institute retracted its earlier criticism in 2009, though others still dissent.",
+      "distinctives": [
+        "One church per locality",
+        "Inner life and the spirit (Nee's The Normal Christian Life)",
+        "'Calling on the name of the Lord' and 'pray-reading' Scripture",
+        "Living Stream Ministry publications"
+      ],
+      "profile": {
+        "authority": "Scripture, read through the ministry of Watchman Nee and Witness Lee.",
+        "salvation": "Salvation by grace and the dispensing of the divine life into believers.",
+        "sacraments": "Baptism by immersion and the Lord's table.",
+        "eschatology": "Premillennial; the overcomers and the kingdom.",
+        "governance": "Elders in each local church; no denominational office.",
+        "worship": "Mutual participation, calling on the Lord and pray-reading.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active in China (often unregistered), Taiwan and elsewhere.",
+      "sources": [
+        "lian-redeemed-by-fire",
+        "lee-local-churches",
+        "bays-china"
+      ]
+    },
+    {
+      "id": "three-self-patriotic-movement",
+      "name": "Three-Self Patriotic Movement and China Christian Council",
+      "family": "independent",
+      "parentIds": [
+        "evangelical",
+        "presbyterian",
+        "methodist",
+        "anglican"
+      ],
+      "splitEventId": "three-self-patriotic-movement-1954",
+      "foundedYear": 1954,
+      "regions": [
+        "east-asia"
+      ],
+      "summary": "The state-registered Protestant church structure of the People's Republic of China, based on the 'three-self' principles (self-government, self-support, self-propagation) of earlier missionary thinking. Formalised in 1954 under Y. T. Wu after the 1950 Christian Manifesto cut ties with foreign missions, it imposed post-denominational unity. Suspended during the Cultural Revolution, it was restored in 1979, with the China Christian Council formed in 1980 under Bishop K. H. Ting. Unregistered house churches reject its accommodation to state control; supporters see it as the legal space that allowed churches to reopen.",
+      "distinctives": [
+        "Post-denominational union",
+        "Registration with the state Religious Affairs authorities",
+        "Self-government, self-support, self-propagation",
+        "Recent 'Sinicization' campaigns",
+        "Amity Press printing of Bibles"
+      ],
+      "profile": {
+        "authority": "Scripture; preaching expected to accord with state regulations on religion.",
+        "salvation": "Protestant evangelical faith in Christ in varied forms.",
+        "sacraments": "Baptism and the Lord's Supper in forms from former denominations.",
+        "eschatology": "Varied; apocalyptic preaching discouraged.",
+        "governance": "Two national bodies (TSPM and CCC) with provincial councils, under state oversight.",
+        "worship": "Sunday services in registered churches, often crowded.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; tens of millions of members in registered churches.",
+      "sources": [
+        "wickeri-common-ground",
+        "bays-china",
+        "lian-redeemed-by-fire"
+      ]
+    },
+    {
+      "id": "jesus-family",
+      "name": "Jesus Family",
+      "family": "independent",
+      "parentIds": [
+        "methodist",
+        "pentecostal"
+      ],
+      "foundedYear": 1927,
+      "endYear": 1952,
+      "regions": [
+        "east-asia"
+      ],
+      "summary": "A communal Pentecostal-style Christian community founded by Jing Dianying, a former Methodist, at Mazhuang, Shandong, in 1927. Members pooled property, worked the land together and practised ecstatic worship. It spread to over a hundred communities before the Communist government dissolved it in 1952.",
+      "distinctives": [
+        "Shared property and common life",
+        "Ecstatic prayer, tongues and visions",
+        "Indigenous Chinese leadership",
+        "Care for the poor and disabled"
+      ],
+      "profile": {
+        "authority": "Scripture with revelations in visions and dreams.",
+        "salvation": "Salvation by faith expressed in total self-giving to the community.",
+        "sacraments": "Baptism and the Lord's Supper.",
+        "eschatology": "Strong expectation of Christ's imminent return.",
+        "governance": "Patriarchal leader (Jing Dianying) with elders.",
+        "worship": "Ecstatic worship and communal labour.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Historic; dissolved 1952, though its influence persisted in house churches.",
+      "sources": [
+        "lian-redeemed-by-fire",
+        "bays-china"
+      ]
+    },
+    {
+      "id": "indian-pentecostal-church-of-god",
+      "name": "Indian Pentecostal Church of God",
+      "family": "pentecostal",
+      "parentIds": [
+        "pentecostal"
+      ],
+      "foundedYear": 1924,
+      "regions": [
+        "india"
+      ],
+      "summary": "Founded in Kerala in 1924 by K. E. Abraham and others who sought Indian leadership independent of foreign missionaries. Drawing many converts from Syrian Christian (Mar Thoma and Orthodox) and Dalit communities, it became one of the largest indigenous Pentecostal churches in India.",
+      "distinctives": [
+        "Indigenous Indian leadership",
+        "Classical Pentecostal theology",
+        "Strong in Kerala and the Gulf diaspora",
+        "Plain dress and no jewellery in many congregations"
+      ],
+      "profile": {
+        "authority": "Scripture as inerrant.",
+        "salvation": "Salvation by grace; Baptism in the Holy Spirit as an experience subsequent to conversion, usually evidenced by speaking in tongues; gifts of healing and prophecy for today.",
+        "sacraments": "Baptism by immersion and the Lord's Supper.",
+        "eschatology": "Premillennial, pre-tribulation rapture.",
+        "governance": "Central council with state councils.",
+        "worship": "Pentecostal worship in Malayalam and other languages.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active.",
+      "sources": [
+        "bergunder-south-indian-pentecostal",
+        "frykenberg-india"
+      ]
+    },
+    {
+      "id": "churches-of-christ",
+      "name": "Churches of Christ (a cappella)",
+      "family": "restorationist",
+      "parentIds": [
+        "stone-campbell-restoration"
+      ],
+      "splitEventId": "churches-of-christ-census-1906",
+      "foundedYear": 1906,
+      "regions": [
+        "north-america",
+        "sub-saharan-africa",
+        "oceania",
+        "latin-america"
+      ],
+      "summary": "Congregations of the Stone-Campbell movement that separated from the Disciples of Christ, recognised in the 1906 U.S. Religious Census. Reading the New Testament as a pattern for the church, they reject instrumental music in worship and organisations beyond the local congregation as unauthorised by Scripture. They see themselves not as a denomination but as the restored New Testament church.",
+      "distinctives": [
+        "A cappella congregational singing",
+        "Weekly Lord's Supper",
+        "Baptism by immersion for the forgiveness of sins",
+        "Autonomous congregations with no denominational headquarters",
+        "'Speak where the Bible speaks, be silent where the Bible is silent'"
+      ],
+      "profile": {
+        "authority": "The New Testament as the pattern for faith and practice: command, example and necessary inference; no creeds.",
+        "salvation": "Hearing, believing, repenting, confessing Christ and being immersed for the remission of sins; faithful living.",
+        "sacraments": "Baptism by immersion of penitent believers and the Lord's Supper every Sunday.",
+        "eschatology": "Mostly amillennial; Christ's return and judgment.",
+        "governance": "Autonomous congregations led by elders and deacons; no clergy hierarchy.",
+        "worship": "Unaccompanied singing, weekly communion and preaching.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; non-institutional and other sub-fellowships exist.",
+      "sources": [
+        "hughes-restoration",
+        "stone-campbell-encyclopedia"
+      ]
+    },
+    {
+      "id": "christian-church-disciples",
+      "name": "Christian Church (Disciples of Christ)",
+      "family": "restorationist",
+      "parentIds": [
+        "stone-campbell-restoration"
+      ],
+      "splitEventId": "churches-of-christ-census-1906",
+      "foundedYear": 1832,
+      "regions": [
+        "north-america"
+      ],
+      "summary": "The ecumenical, mainline branch of the Stone-Campbell movement, dating its unity to the 1832 union of Barton Stone's 'Christians' and Alexander Campbell's 'Disciples'. After the Churches of Christ separated (1906) and the independent Christian Churches drifted away, it restructured as a denomination in 1968. It practises open weekly communion and was a founding member of the World Council of Churches; in 2005 Sharon Watkins became the first woman to lead a U.S. mainline denomination.",
+      "distinctives": [
+        "Weekly open communion at the centre of worship",
+        "'No creed but Christ'",
+        "Commitment to Christian unity (Council on Christian Unity)",
+        "Ordination of women",
+        "Ecumenical partnership with the United Church of Christ (1989)"
+      ],
+      "profile": {
+        "authority": "Scripture and the confession that Jesus is the Christ; freedom of interpretation.",
+        "salvation": "Salvation by grace through faith in Christ.",
+        "sacraments": "Believer's baptism by immersion, with members received from other churches; the Lord's Supper weekly, open to all.",
+        "eschatology": "Varied; mainstream Christian hope.",
+        "governance": "Congregational with regions and a General Assembly (restructure 1968).",
+        "worship": "Lay elders preside at the table alongside ordained ministers.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; declining membership typical of mainline churches.",
+      "sources": [
+        "stone-campbell-encyclopedia",
+        "hughes-restoration",
+        "yearbook-american-canadian-churches"
+      ]
+    },
+    {
+      "id": "christian-churches-churches-of-christ",
+      "name": "Christian Churches and Churches of Christ (independent)",
+      "family": "restorationist",
+      "parentIds": [
+        "christian-church-disciples"
+      ],
+      "foundedYear": 1927,
+      "regions": [
+        "north-america"
+      ],
+      "summary": "Independent congregations of the Stone-Campbell movement, theologically conservative and using instrumental music, that distanced themselves from the Disciples over liberal theology, open membership and denominational structures. The North American Christian Convention (1927) gave them a forum, and they were listed separately from the Disciples by 1971. Many large evangelical megachurches belong to this fellowship.",
+      "distinctives": [
+        "Restoration plea with instrumental worship",
+        "Weekly communion",
+        "Baptism by immersion of believers",
+        "Independent Bible colleges",
+        "No denominational structures"
+      ],
+      "profile": {
+        "authority": "Scripture as inerrant; no creed.",
+        "salvation": "Faith, repentance and immersion as the response to the gospel.",
+        "sacraments": "Believers' immersion and weekly Lord's Supper.",
+        "eschatology": "Varied, often premillennial.",
+        "governance": "Autonomous congregations led by elders.",
+        "worship": "Contemporary evangelical worship with weekly communion.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active.",
+      "sources": [
+        "stone-campbell-encyclopedia",
+        "hughes-restoration"
+      ]
+    },
+    {
+      "id": "community-of-christ",
+      "name": "Community of Christ (formerly RLDS Church)",
+      "family": "restorationist",
+      "parentIds": [
+        "latter-day-saints"
+      ],
+      "splitEventId": "reorganization-amboy-1860",
+      "foundedYear": 1860,
+      "regions": [
+        "north-america",
+        "oceania",
+        "sub-saharan-africa",
+        "india"
+      ],
+      "summary": "The Reorganized Church of Jesus Christ of Latter Day Saints, organised by Latter Day Saints who rejected Brigham Young's leadership and polygamy; Joseph Smith III became its prophet-president at Amboy, Illinois, in 1860. Headquartered in Independence, Missouri, it has moved toward mainstream Protestant theology: it ordains women (1984), practises open communion (1994), affirms the Trinity, and treats the Book of Mormon as scripture without making it a test of faithfulness. Renamed in 2001.",
+      "distinctives": [
+        "Ongoing revelation added to its Doctrine and Covenants",
+        "Temple in Independence dedicated to peace (1994)",
+        "Ordination of women since 1984",
+        "Mission focused on peace and justice",
+        "Never practised polygamy as a church"
+      ],
+      "profile": {
+        "authority": "Scripture (Bible) with the Book of Mormon and its Doctrine and Covenants, interpreted through Christ and continuing revelation through the prophet-president.",
+        "salvation": "Salvation by grace through faith in Jesus Christ, expressed in discipleship and community.",
+        "sacraments": "Eight sacraments: baptism, confirmation, Lord's Supper, marriage, blessing of children, ordination, laying on of hands for the sick and evangelist blessing.",
+        "eschatology": "Hope for the peaceable kingdom (Zion) on earth.",
+        "governance": "Prophet-president, First Presidency, Council of Twelve and World Conference.",
+        "worship": "Protestant-style worship with communion.",
+        "canon": "The Bible, the Book of Mormon and the Community of Christ Doctrine and Covenants."
+      },
+      "status": "Active; a few hundred thousand members worldwide.",
+      "sources": [
+        "melton-encyclopedia",
+        "bushman-rough-stone"
+      ]
+    },
+    {
+      "id": "christadelphians",
+      "name": "Christadelphians",
+      "family": "nontrinitarian",
+      "parentIds": [
+        "stone-campbell-restoration"
+      ],
+      "foundedYear": 1848,
+      "regions": [
+        "western-europe",
+        "north-america",
+        "oceania",
+        "sub-saharan-africa"
+      ],
+      "summary": "A lay movement founded by John Thomas, an English-born physician in the Campbell movement who was re-immersed in 1847 after concluding that baptism must follow understanding of the gospel of the Kingdom. The name 'Christadelphians' ('brothers in Christ') was adopted in 1864 to register as conscientious objectors during the U.S. Civil War. Robert Roberts of Birmingham organised the British ecclesias. They reject the Trinity, the pre-existence of Christ and the immortality of the soul, standing outside historic Nicene orthodoxy.",
+      "distinctives": [
+        "One God, the Father; Jesus the Son of God, not pre-existent",
+        "Holy Spirit as God's power, not a person",
+        "Mortality of the soul and resurrection at Christ's return",
+        "Kingdom of God on earth centred on Israel",
+        "No paid clergy; conscientious objection"
+      ],
+      "profile": {
+        "authority": "Scripture alone, interpreted through the Birmingham Amended Statement of Faith (1898) in many ecclesias.",
+        "salvation": "Belief of the gospel of the Kingdom and the name of Jesus, followed by immersion, and a faithful life.",
+        "sacraments": "Baptism by immersion of informed believers and weekly breaking of bread.",
+        "eschatology": "Premillennial: Christ will return to raise and judge the responsible and reign from Jerusalem; the wicked perish.",
+        "governance": "Autonomous ecclesias with elected arranging brethren.",
+        "worship": "Simple memorial meeting and Bible exposition.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; ecclesias worldwide.",
+      "sources": [
+        "wilson-sects-society",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "christian-science",
+      "name": "Church of Christ, Scientist",
+      "family": "nontrinitarian",
+      "parentIds": [
+        "congregationalist"
+      ],
+      "foundedYear": 1879,
+      "regions": [
+        "north-america",
+        "western-europe",
+        "oceania"
+      ],
+      "summary": "Founded in Boston in 1879 by Mary Baker Eddy, raised a New England Congregationalist, following her recovery from injury in 1866 and her book Science and Health with Key to the Scriptures (1875). It teaches that God is wholly good, infinite Mind, and that matter, sin and disease are not ultimately real, so healing comes through spiritual understanding rather than medicine. It reinterprets the Trinity and stands outside historic Nicene Christianity. It published the Christian Science Monitor (1908).",
+      "distinctives": [
+        "Spiritual healing through prayer and Christian Science practitioners",
+        "Science and Health as the \"pastor\" alongside the Bible",
+        "No ordained clergy; readers lead services",
+        "Reading rooms",
+        "The Mother Church in Boston"
+      ],
+      "profile": {
+        "authority": "The Bible and Science and Health with Key to the Scriptures as the impersonal pastor.",
+        "salvation": "Salvation as awakening from the belief in matter, sin and death through understanding of God as Mind and Love.",
+        "sacraments": "Baptism and communion understood spiritually, without water or elements.",
+        "eschatology": "Salvation realised through spiritual progress; no physical second coming emphasis.",
+        "governance": "The Mother Church governed by a Board of Directors under the Church Manual.",
+        "worship": "Sunday Lesson-Sermons read from the Bible and Science and Health; Wednesday testimony meetings.",
+        "canon": "The Bible with Science and Health."
+      },
+      "status": "Active but much declined since the mid-twentieth century.",
+      "sources": [
+        "gottschalk-christian-science",
+        "wilson-sects-society",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "unity-church",
+      "name": "Unity (Unity Church / Unity School of Christianity)",
+      "family": "nontrinitarian",
+      "parentIds": [
+        "christian-science"
+      ],
+      "foundedYear": 1889,
+      "regions": [
+        "north-america"
+      ],
+      "summary": "A New Thought movement founded in Kansas City in 1889 by Charles and Myrtle Fillmore after Myrtle's healing, influenced by Emma Curtis Hopkins (a former student of Mary Baker Eddy). Unity teaches the divinity in every person, affirmative prayer and the power of thought; it is known for the Silent Unity prayer ministry and the Daily Word. It stands outside historic Christian orthodoxy.",
+      "distinctives": [
+        "Affirmative prayer",
+        "Silent Unity 24-hour prayer ministry",
+        "Daily Word devotional",
+        "Jesus as the great example of the indwelling Christ",
+        "Metaphysical interpretation of Scripture"
+      ],
+      "profile": {
+        "authority": "Scripture read metaphysically, with spiritual experience.",
+        "salvation": "Realisation of the Christ within; no doctrine of eternal punishment.",
+        "sacraments": "No formal sacraments; symbolic baptism and communion in some congregations.",
+        "eschatology": "Present spiritual realisation; reincarnation accepted by many.",
+        "governance": "Unity Worldwide Ministries association of congregations; Unity World Headquarters at Unity Village.",
+        "worship": "Meditation, affirmations and talks.",
+        "canon": "The Bible, read metaphysically."
+      },
+      "status": "Active.",
+      "sources": [
+        "melton-encyclopedia",
+        "stein-communities-of-dissent"
+      ]
+    },
+    {
+      "id": "shakers",
+      "name": "Shakers (United Society of Believers in Christ's Second Appearing)",
+      "family": "nontrinitarian",
+      "parentIds": [
+        "quaker"
+      ],
+      "foundedYear": 1747,
+      "regions": [
+        "western-europe",
+        "north-america"
+      ],
+      "summary": "Emerged about 1747 near Manchester among followers of James and Jane Wardley, influenced by Quakers and French Camisard prophets. Ann Lee led a group to America in 1774; under Joseph Meacham and Lucy Wright the Shakers built celibate communal villages from Maine to Kentucky. Many Believers regarded Ann Lee as the female appearing of the Christ spirit. Known for ecstatic dance, gender equality in leadership, craftsmanship and songs like 'Simple Gifts'. Only Sabbathday Lake, Maine, remains, with a handful of members.",
+      "distinctives": [
+        "Celibacy and communal property",
+        "Ecstatic dance in worship",
+        "Dual (male and female) leadership",
+        "Confession of sins to elders",
+        "Craftsmanship and simplicity"
+      ],
+      "profile": {
+        "authority": "Scripture with ongoing revelation and the testimony of Ann Lee and early leaders.",
+        "salvation": "Salvation through confession, celibacy and a life of separation from the world.",
+        "sacraments": "No outward sacraments.",
+        "eschatology": "Christ's second appearing understood as already begun in the Believers.",
+        "governance": "Ministry of elders and eldresses in each family and a central ministry.",
+        "worship": "Song and dance, later quieter meetings.",
+        "canon": "The Bible, alongside Shaker testimonies."
+      },
+      "status": "Nearly extinct: one community at Sabbathday Lake, Maine.",
+      "sources": [
+        "stein-shaker-experience",
+        "ahlstrom-religious-history"
+      ]
+    },
+    {
+      "id": "swedenborgian-new-church",
+      "name": "New Church (Swedenborgian)",
+      "family": "nontrinitarian",
+      "parentIds": [
+        "lutheran",
+        "anglican"
+      ],
+      "foundedYear": 1787,
+      "regions": [
+        "western-europe",
+        "north-america",
+        "sub-saharan-africa"
+      ],
+      "summary": "Churches based on the visionary writings of the Swedish scientist Emanuel Swedenborg (1688–1772), who taught that the Last Judgment occurred in the spiritual world in 1757 and that the Lord had opened the inner sense of Scripture. The first New Church society was organised in London in 1787. Swedenborgians teach that God is one in essence and person, Jesus Christ, in whom there is a trinity of love, wisdom and operation, rather than three persons; they therefore stand outside Nicene Trinitarianism as historically defined.",
+      "distinctives": [
+        "Revelation through Swedenborg of the spiritual sense of the Word",
+        "One God in one Person, the Lord Jesus Christ",
+        "Life of charity as essential to salvation",
+        "Detailed teaching on heaven, hell and the spiritual world",
+        "Influence on figures such as Blake, Emerson and Helen Keller"
+      ],
+      "profile": {
+        "authority": "The Word in its spiritual sense, as unfolded in Swedenborg's Writings.",
+        "salvation": "Regeneration through faith joined to charity and useful life; no vicarious satisfaction.",
+        "sacraments": "Baptism and the Holy Supper.",
+        "eschatology": "The Last Judgment occurred in 1757; the Second Coming is the revelation of the inner sense of Scripture; the New Jerusalem is descending.",
+        "governance": "Several bodies: General Conference (UK), General Convention (US, 1817) and the episcopally led General Church (Bryn Athyn).",
+        "worship": "Liturgical worship.",
+        "canon": "The 'Word' as Swedenborg defined it (books with an internal sense), with the other biblical books valued as edifying."
+      },
+      "status": "Active but small.",
+      "sources": [
+        "melton-encyclopedia",
+        "odcc",
+        "ahlstrom-religious-history"
+      ]
+    },
+    {
+      "id": "bible-students",
+      "name": "Bible Students (Independent)",
+      "family": "nontrinitarian",
+      "parentIds": [
+        "jehovahs-witnesses"
+      ],
+      "splitEventId": "watch-tower-schism-1917",
+      "foundedYear": 1917,
+      "regions": [
+        "north-america",
+        "western-europe",
+        "eastern-europe"
+      ],
+      "summary": "Fellowships that continue Charles Taze Russell's original Bible Student movement (from 1879) and separated from the Watch Tower Society after J. F. Rutherford took control in 1917. Bodies such as the Pastoral Bible Institute (1918) and the Dawn Bible Students remain loyal to Russell's Studies in the Scriptures, rejecting Rutherford's centralisation. They share the movement's non-Trinitarian theology and stand outside historic Nicene orthodoxy.",
+      "distinctives": [
+        "Russell's 'Divine Plan of the Ages'",
+        "Ransom and restitution: a future opportunity for all humanity",
+        "Rejection of eternal torment and the Trinity",
+        "Autonomous ecclesias"
+      ],
+      "profile": {
+        "authority": "Scripture, read through Russell's Studies in the Scriptures.",
+        "salvation": "Salvation through the ransom of Christ; most of humanity will receive an opportunity in the Millennial age.",
+        "sacraments": "Immersion of consecrated believers and the annual Memorial of Christ's death.",
+        "eschatology": "Millennial restitution of mankind on earth; a heavenly 'little flock' of 144,000.",
+        "governance": "Independent ecclesias with elected elders.",
+        "worship": "Bible studies, testimony meetings and conventions.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active but small.",
+      "sources": [
+        "penton-apocalypse-delayed",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "church-of-god-seventh-day",
+      "name": "Church of God (Seventh Day)",
+      "family": "restorationist",
+      "parentIds": [
+        "seventh-day-adventist"
+      ],
+      "foundedYear": 1858,
+      "regions": [
+        "north-america",
+        "latin-america",
+        "sub-saharan-africa"
+      ],
+      "summary": "Sabbath-keeping Adventists, led initially by Gilbert Cranmer in Michigan (1858), who declined to follow Ellen G. White's prophetic authority or the name 'Seventh-day Adventist'. Organised as a General Conference in 1884 and later based in Denver, it experienced a 1933 schism (Salem, West Virginia). Historically non-Trinitarian (often binitarian), with views varying among its bodies; Herbert W. Armstrong came from its Oregon conference.",
+      "distinctives": [
+        "Saturday Sabbath",
+        "Rejection of Ellen G. White's writings as authoritative",
+        "Conditional immortality",
+        "Annual Lord's Supper on Passover evening",
+        "Name \"Church of God\" as the biblical name"
+      ],
+      "profile": {
+        "authority": "Scripture alone.",
+        "salvation": "Salvation by grace through faith, with obedience to God's commandments including the Sabbath.",
+        "sacraments": "Baptism by immersion and the annual Lord's Supper with feet washing.",
+        "eschatology": "Premillennial return of Christ; resurrection and annihilation of the wicked.",
+        "governance": "General Conference with ministerial council.",
+        "worship": "Saturday worship.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active.",
+      "sources": [
+        "melton-encyclopedia",
+        "land-adventism"
+      ]
+    },
+    {
+      "id": "worldwide-church-of-god",
+      "name": "Worldwide Church of God (Armstrong era)",
+      "family": "nontrinitarian",
+      "parentIds": [
+        "church-of-god-seventh-day"
+      ],
+      "foundedYear": 1933,
+      "endYear": 2009,
+      "regions": [
+        "north-america",
+        "western-europe",
+        "oceania"
+      ],
+      "summary": "Founded as the Radio Church of God in 1933 in Eugene, Oregon, by Herbert W. Armstrong, a former Church of God (Seventh Day) minister, later headquartered in Pasadena with Ambassador College and The Plain Truth magazine. It taught Sabbath and Old Testament holy days, tithing, British Israelism and a binitarian 'God Family' that believers would join. After Armstrong's death it renounced these teachings (1993–97) and became Grace Communion International in 2009.",
+      "distinctives": [
+        "Seventh-day Sabbath and annual holy days",
+        "British Israelism",
+        "Binitarian God Family doctrine",
+        "Mass media evangelism (The World Tomorrow broadcast)",
+        "Triple tithing"
+      ],
+      "profile": {
+        "authority": "Scripture as interpreted by Armstrong as God's apostle.",
+        "salvation": "Obedience to God's law with Christ's sacrifice; believers to be born into the God Family at the resurrection.",
+        "sacraments": "Baptism and annual Passover.",
+        "eschatology": "Imminent end-time tribulation and the World Tomorrow.",
+        "governance": "Hierarchical under the Pastor General.",
+        "worship": "Saturday services and holy-day festivals.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Historic as described; transformed into Grace Communion International, while splinter groups continue Armstrong's teaching.",
+      "sources": [
+        "tkach-transformed",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "grace-communion-international",
+      "name": "Grace Communion International",
+      "family": "evangelical",
+      "parentIds": [
+        "worldwide-church-of-god"
+      ],
+      "splitEventId": "worldwide-church-of-god-reforms-1994",
+      "foundedYear": 2009,
+      "regions": [
+        "north-america",
+        "western-europe",
+        "southeast-asia",
+        "sub-saharan-africa"
+      ],
+      "summary": "The former Worldwide Church of God, which under Joseph W. Tkach and his son Joseph Tkach Jr. rejected Armstrong's distinctive teachings, embraced the Trinity and salvation by grace, joined the National Association of Evangelicals (1997) and took a new name in 2009. Its theology is now strongly 'Trinitarian-incarnational', drawing on Karl Barth and T. F. and J. B. Torrance.",
+      "distinctives": [
+        "Doctrinal transformation into historic orthodoxy",
+        "Trinitarian incarnational theology",
+        "Salvation by grace without Old Covenant law",
+        "Grace Communion Seminary"
+      ],
+      "profile": {
+        "authority": "Scripture, read in harmony with the historic creeds.",
+        "salvation": "Salvation by grace through Christ, who has included humanity in his life with the Father in the Spirit.",
+        "sacraments": "Baptism and the Lord's Supper.",
+        "eschatology": "Christ's return and the reconciliation of all things in him; universalism not taught as dogma.",
+        "governance": "Denominational leadership with national churches.",
+        "worship": "Sunday evangelical worship.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active.",
+      "sources": [
+        "tkach-transformed",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "messianic-judaism",
+      "name": "Messianic Judaism",
+      "family": "evangelical",
+      "parentIds": [
+        "evangelical"
+      ],
+      "foundedYear": 1975,
+      "regions": [
+        "north-america",
+        "levant",
+        "eastern-europe"
+      ],
+      "summary": "A movement of Jewish people (and non-Jewish associates) who believe Jesus (Yeshua) is the Messiah while retaining Jewish identity and practice. It grew from nineteenth-century Hebrew Christian associations; the Hebrew Christian Alliance of America (1915) renamed itself the Messianic Jewish Alliance of America in 1975, and the Union of Messianic Jewish Congregations followed in 1979. Mainstream Jewish bodies and Israeli courts generally do not regard Messianic Jews as Jews, and many see the movement as a form of Christian missionising; Messianic Jews regard faith in Yeshua as the fulfilment of Judaism.",
+      "distinctives": [
+        "Jesus (Yeshua) as Israel's Messiah",
+        "Synagogue-style worship with Hebrew liturgy",
+        "Observance of Sabbath and Jewish festivals",
+        "Jewish identity affirmed after faith in Yeshua",
+        "Congregations in Israel and the diaspora"
+      ],
+      "profile": {
+        "authority": "Hebrew Bible and New Testament (Brit Hadashah); Jewish tradition valued in varying degrees.",
+        "salvation": "Salvation through Yeshua the Messiah, for Jew and Gentile.",
+        "sacraments": "Immersion (mikveh) of believers; the Lord's Supper often linked with Passover.",
+        "eschatology": "Premillennial, with a central place for Israel.",
+        "governance": "Congregational with rabbis and elders; unions of congregations.",
+        "worship": "Sabbath services with Torah reading, Hebrew prayers and Davidic dance.",
+        "canon": "The Hebrew Bible and the New Testament."
+      },
+      "status": "Active and debated.",
+      "sources": [
+        "cohn-sherbok-messianic",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "church-of-south-india",
+      "name": "Church of South India",
+      "family": "united",
+      "parentIds": [
+        "anglican",
+        "methodist",
+        "presbyterian",
+        "congregationalist"
+      ],
+      "splitEventId": "church-of-south-india-1947",
+      "foundedYear": 1947,
+      "regions": [
+        "india"
+      ],
+      "summary": "Formed on 27 September 1947 at St George's Cathedral, Madras, by the union of Anglican dioceses, the Methodist Church of South India and the South India United Church (Presbyterian and Congregational). It was the first union of episcopal and non-episcopal churches, accepting the historic episcopate while recognising existing ministries without reordination. It has been a leading voice for Dalit Christians, who form a majority of its members.",
+      "distinctives": [
+        "First union of episcopal and non-episcopal churches",
+        "Historic episcopate with synodical government",
+        "CSI Liturgy (1950s) influential on liturgical renewal worldwide",
+        "Ministry among Dalit communities",
+        "Full communion with Anglicans, Methodists and Reformed"
+      ],
+      "profile": {
+        "authority": "Scripture as the supreme standard, with the Apostles' and Nicene Creeds.",
+        "salvation": "Salvation by grace through faith in Christ.",
+        "sacraments": "Baptism (infants and believers) and the Lord's Supper.",
+        "eschatology": "Classical Christian hope.",
+        "governance": "Episcopal-synodical: dioceses with bishops, a Synod and Moderator.",
+        "worship": "CSI liturgy and free forms in many Indian languages.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; one of the largest Protestant churches in India.",
+      "sources": [
+        "sundkler-csi",
+        "frykenberg-india",
+        "neill-missions"
+      ]
+    },
+    {
+      "id": "church-of-north-india",
+      "name": "Church of North India",
+      "family": "united",
+      "parentIds": [
+        "anglican",
+        "methodist",
+        "presbyterian",
+        "congregationalist",
+        "baptist",
+        "church-of-the-brethren",
+        "christian-church-disciples"
+      ],
+      "splitEventId": "church-of-north-india-1970",
+      "foundedYear": 1970,
+      "regions": [
+        "india"
+      ],
+      "summary": "Inaugurated at Nagpur in 1970 by six churches, including — unusually — Baptists, Brethren and Disciples alongside Anglicans, Methodists, Presbyterians and Congregationalists. It accepted both infant and believers' baptism and the historic episcopate. It is a member of the Anglican Communion, the World Methodist Council and the World Communion of Reformed Churches.",
+      "distinctives": [
+        "Union including Baptists and Brethren",
+        "Both infant and believers' baptism",
+        "Historic episcopate",
+        "Member of several world communions"
+      ],
+      "profile": {
+        "authority": "Scripture and the ecumenical creeds.",
+        "salvation": "Salvation by grace through faith in Christ.",
+        "sacraments": "Baptism (infant or believer) and the Lord's Supper; confirmation.",
+        "eschatology": "Classical Christian hope.",
+        "governance": "Episcopal-synodical: Synod, Moderator and diocesan bishops.",
+        "worship": "Liturgical and free worship in Hindi and many languages.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active.",
+      "sources": [
+        "frykenberg-india",
+        "neill-missions"
+      ]
+    },
+    {
+      "id": "united-church-of-canada",
+      "name": "United Church of Canada",
+      "family": "united",
+      "parentIds": [
+        "methodist",
+        "presbyterian",
+        "congregationalist"
+      ],
+      "splitEventId": "united-church-of-canada-1925",
+      "foundedYear": 1925,
+      "regions": [
+        "north-america"
+      ],
+      "summary": "Formed in 1925 by Canadian Methodists, Congregationalists, most Presbyterians and western local union churches. Long Canada's largest Protestant church, it has been a progressive voice: it ordained Lydia Gruchy (1936), approved the ordination of gay and lesbian people (1988) and apologised for its role in the Indian residential schools. Its membership has declined sharply since the 1960s.",
+      "distinctives": [
+        "Canadian Protestant union",
+        "Social Gospel heritage",
+        "Progressive positions on sexuality and justice",
+        "Apologies to Indigenous peoples (1986, 1998)",
+        "Wide theological diversity"
+      ],
+      "profile": {
+        "authority": "Scripture as primary source, with the Basis of Union and later statements (A Song of Faith, 2006).",
+        "salvation": "Grace of God in Christ for all; personal and social transformation.",
+        "sacraments": "Baptism and the Lord's Supper.",
+        "eschatology": "Hope for God's reign of justice and peace.",
+        "governance": "Presbyterian-conciliar: congregations, regional councils and a General Council with a Moderator.",
+        "worship": "Reformed and Methodist worship traditions; Voices United hymnal.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; declining.",
+      "sources": [
+        "airhart-united-church",
+        "noll-christianity-us"
+      ]
+    },
+    {
+      "id": "uniting-church-in-australia",
+      "name": "Uniting Church in Australia",
+      "family": "united",
+      "parentIds": [
+        "methodist",
+        "presbyterian",
+        "congregationalist"
+      ],
+      "splitEventId": "uniting-church-in-australia-1977",
+      "foundedYear": 1977,
+      "regions": [
+        "oceania"
+      ],
+      "adherents": {
+        "estimate": 673000,
+        "year": 2021,
+        "source": "abs-census-2021"
+      },
+      "summary": "Formed in 1977 by Methodists, most Presbyterians and most Congregationalists on the theologically substantial Basis of Union (1971). It is the third-largest denomination in Australia and a major provider of community services (UnitingCare). It entered a covenant with its Aboriginal and Islander members (1994) and affirmed the First Peoples in its constitution's Preamble (2009). In 2018 it allowed ministers to conduct same-sex marriages.",
+      "distinctives": [
+        "Basis of Union as founding theological charter",
+        "Covenant with Uniting Aboriginal and Islander Christian Congress",
+        "Large community-service agencies",
+        "Council-based government",
+        "Ordination of women from the start"
+      ],
+      "profile": {
+        "authority": "Scripture as unique prophetic and apostolic testimony, with the ecumenical creeds and Reformation witnesses named in the Basis of Union.",
+        "salvation": "Salvation by grace through faith in Christ.",
+        "sacraments": "Baptism (infants and believers) and the Lord's Supper.",
+        "eschatology": "The church as a pilgrim people moving toward a promised goal.",
+        "governance": "Inter-conciliar: congregation, presbytery, synod and assembly.",
+        "worship": "Reformed and Methodist worship; Uniting in Worship.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; c. 673,000 people identified with it in the 2021 census.",
+      "sources": [
+        "uniting-church-basis-of-union",
+        "garrett-oceania",
+        "abs-census-2021"
+      ]
+    },
+    {
+      "id": "united-church-of-christ",
+      "name": "United Church of Christ (USA)",
+      "family": "united",
+      "parentIds": [
+        "congregationalist",
+        "reformed",
+        "lutheran"
+      ],
+      "splitEventId": "united-church-of-christ-1957",
+      "foundedYear": 1957,
+      "regions": [
+        "north-america"
+      ],
+      "summary": "Formed in 1957 by the Evangelical and Reformed Church (German Reformed and Lutheran-Reformed 'Evangelical' roots) and the Congregational Christian Churches (New England Puritan heritage). Theologically liberal and congregational in polity, it ordained the first openly gay minister in a mainline church (William R. Johnson, 1972), and endorsed same-sex marriage (2005). Its motto: 'That they may all be one' (John 17:21).",
+      "distinctives": [
+        "Union of Congregational and German Reformed/Evangelical streams",
+        "'God is still speaking'",
+        "Congregational autonomy with covenant",
+        "Progressive social witness",
+        "Statement of Faith (1959) as testimony, not test"
+      ],
+      "profile": {
+        "authority": "Scripture and the historic creeds as testimonies; freedom of conscience.",
+        "salvation": "Grace of God in Christ for all.",
+        "sacraments": "Baptism and Holy Communion.",
+        "eschatology": "Hope for the realm of God.",
+        "governance": "Congregational covenant with associations, conferences and General Synod.",
+        "worship": "Diverse Reformed worship; New Century Hymnal.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; declining.",
+      "sources": [
+        "gunnemann-ucc",
+        "ahlstrom-religious-history",
+        "yearbook-american-canadian-churches"
+      ]
+    },
+    {
+      "id": "kyodan",
+      "name": "United Church of Christ in Japan (Nihon Kirisuto Kyodan)",
+      "family": "united",
+      "parentIds": [
+        "presbyterian",
+        "methodist",
+        "congregationalist"
+      ],
+      "splitEventId": "kyodan-formed-1941",
+      "foundedYear": 1941,
+      "regions": [
+        "east-asia"
+      ],
+      "summary": "Japan's largest Protestant church, formed in 1941 when the government required Protestant denominations to unite under the Religious Organizations Law. After 1945 several groups withdrew, but the Kyodan continued as a united church of mainly Presbyterian, Methodist and Congregational heritage. Its 1967 Confession on Responsibility during the Second World War acknowledged its wartime complicity; Kyodan members in Okinawa have played a prominent role in peace activism.",
+      "distinctives": [
+        "United Protestant church in a minority setting",
+        "Confession of Faith (1954)",
+        "1967 confession of war responsibility",
+        "Education and social ministry",
+        "Theological debate over the church and the emperor system"
+      ],
+      "profile": {
+        "authority": "Scripture with the Apostles' Creed and the Kyodan Confession of Faith (1954).",
+        "salvation": "Salvation by grace through faith in Christ.",
+        "sacraments": "Baptism and the Lord's Supper.",
+        "eschatology": "Classical Christian hope.",
+        "governance": "Presbyterian-conciliar: districts and General Assembly.",
+        "worship": "Reformed and Methodist forms of worship.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; small in absolute terms but central to Japanese Protestantism.",
+      "sources": [
+        "mullins-handbook-japan",
+        "moffett-asia"
+      ]
+    }
+  ]
+}
