@@ -79,6 +79,7 @@ export const TraditionFamily = z.enum([
   'independent',
   'nontrinitarian',
   'heterodox-ancient',
+  'united',
 ]);
 export type TraditionFamily = z.infer<typeof TraditionFamily>;
 
@@ -280,7 +281,7 @@ export const FlowEdge = z.object({
 export const Doctrine = z.object({
   id: Id,
   name: z.string(),
-  icon: z.enum(['trinity', 'cross', 'book', 'dove', 'flame', 'crown', 'chalice', 'water', 'scroll', 'hourglass', 'star', 'scales', 'globe']),
+  icon: z.enum(['trinity', 'cross', 'book', 'dove', 'flame', 'crown', 'chalice', 'water', 'scroll', 'hourglass', 'star', 'scales', 'globe', 'sun', 'people', 'lamp', 'quill', 'compass']),
   order: z.number().int().default(100),
   question: z.string(),
   summary: z.string(),

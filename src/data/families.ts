@@ -20,6 +20,7 @@ export const FAMILIES: Record<TraditionFamily, { label: string; colour: string; 
   independent: { label: 'Independent & Free', colour: '#5a7a8a', icon: 'cross' },
   nontrinitarian: { label: 'Non-Nicene', colour: '#8a8a8a', icon: 'circle' },
   'heterodox-ancient': { label: 'Ancient dissenting', colour: '#6a5a4a', icon: 'hourglass' },
+  united: { label: 'United & Uniting', colour: '#4a8a7a', icon: 'layers' },
 };
 
 export const CATEGORY_META: Record<string, { label: string; icon: IconName; colour: string }> = {

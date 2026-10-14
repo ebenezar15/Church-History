@@ -1,8 +1,12 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 import tailwindcss from '@tailwindcss/vite';
+import { viteSingleFile } from 'vite-plugin-singlefile';
 
-export default defineConfig({
-  plugins: [react(), tailwindcss()],
-  build: { chunkSizeWarningLimit: 1500 },
-});
+// `vite build --mode single` produces one self-contained HTML file (all code, content, fonts and the
+// world map inlined) that opens offline by double-click. It uses hash routing (see App.tsx).
+export default defineConfig(({ mode }) => ({
+  plugins: [react(), tailwindcss(), ...(mode === 'single' ? [viteSingleFile()] : [])],
+  base: mode === 'single' ? './' : '/',
+  build: { chunkSizeWarningLimit: 4000 },
+}));

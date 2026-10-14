@@ -36,7 +36,7 @@ export function loadAtlas(): Promise<Atlas> {
     const entries = await Promise.all(Object.entries(loaders).map(async ([k, load]) => [k, await load()] as const));
     const { db, errors, warnings } = buildDb(Object.fromEntries(entries));
     if (errors.length) console.warn(`Ecclesia Atlas: ${errors.length} content errors (run npm run validate)`, errors.slice(0, 20));
-    atlas = index(db, warnings);
+    atlas = createAtlas(db, warnings);
     return atlas;
   })();
   return pending;
@@ -47,7 +47,8 @@ export function useAtlas(): Atlas {
   return atlas;
 }
 
-function index(db: Db, warnings: string[]): Atlas {
+/** Builds lookup maps and relations over a merged content database (usable in the browser and in Node). */
+export function createAtlas(db: Db, warnings: string[] = []): Atlas {
   const maps = new Map<string, Map<string, unknown>>();
   for (const [type, key] of Object.entries(TYPE_TO_KEY)) {
     maps.set(type, new Map((db[key] as { id: string }[]).map((e) => [e.id, e])));

@@ -22,6 +22,7 @@ export const NAV: { to: string; label: string; icon: IconName; group: string }[]
   { to: '/library', label: 'Library', icon: 'book', group: 'Read' },
   { to: '/quotes', label: 'Quote Wall', icon: 'quote', group: 'Read' },
   { to: '/experiences', label: 'Experiences', icon: 'sparkles', group: 'Read' },
+  { to: '/ask', label: 'Ask the Atlas', icon: 'sparkles', group: 'Learn' },
   { to: '/paths', label: 'Study Paths', icon: 'compass', group: 'Learn' },
   { to: '/saved', label: 'Saved & Notes', icon: 'bookmark', group: 'Learn' },
 ];
@@ -207,6 +208,13 @@ export function Layout() {
         </footer>
       </main>
 
+      {loc.pathname !== '/ask' && (
+        <motion.div className="fixed bottom-4 right-4 z-30" initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ type: 'spring', delay: 0.6 }}>
+          <Link to="/ask" className="btn btn-primary !rounded-full !px-4 !py-3 shadow-xl" aria-label="Ask the Atlas a question">
+            <Icon name="sparkles" size={18} /> <span className="hidden sm:inline">Ask the Atlas</span>
+          </Link>
+        </motion.div>
+      )}
       <CompareTray />
       <SearchPalette open={searchOpen} onClose={() => setSearchOpen(false)} />
     </div>

@@ -6,6 +6,7 @@ import { GlowCard, PageHeader, Empty } from '../components/ui';
 export const DOCTRINE_ICON: Record<string, IconName> = {
   trinity: 'trinity', cross: 'cross', book: 'book', dove: 'dove', flame: 'flame', crown: 'crown', chalice: 'chalice',
   water: 'water', scroll: 'scroll', hourglass: 'hourglass', star: 'star', scales: 'scales', globe: 'globe',
+  sun: 'sun', people: 'people', lamp: 'lamp', quill: 'quill', compass: 'compass',
 };
 
 export default function Doctrines() {

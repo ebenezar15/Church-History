@@ -1,5 +1,5 @@
 import { lazy, Suspense } from 'react';
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import { createBrowserRouter, createHashRouter, RouterProvider } from 'react-router-dom';
 import { MotionConfig } from 'framer-motion';
 import { Layout, PageLoader } from './components/Layout';
 import { ThemeSync } from './components/Theme';
@@ -10,7 +10,9 @@ const page = (load: () => Promise<{ default: React.ComponentType }>) => {
   return <C />;
 };
 
-const router = createBrowserRouter([
+// The single-file / offline build has no server to rewrite deep links, so it routes with #/paths instead.
+const createRouter = import.meta.env.VITE_HASH_ROUTER ? createHashRouter : createBrowserRouter;
+const router = createRouter([
   {
     element: <Layout />,
     children: [
@@ -39,6 +41,7 @@ const router = createBrowserRouter([
       { path: '/paths', element: page(() => import('./pages/Paths')) },
       { path: '/paths/:id', element: page(() => import('./pages/PathDetail')) },
       { path: '/saved', element: page(() => import('./pages/Saved')) },
+      { path: '/ask', element: page(() => import('./pages/Ask')) },
       { path: '*', element: page(() => import('./pages/NotFound')) },
     ],
   },

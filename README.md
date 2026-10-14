@@ -24,6 +24,9 @@ tradition "correct".
   experiences.
 * **Experiences.** Mystical, ecstatic and supernatural accounts, each assessed from several
   perspectives.
+* **Ask the Atlas.** An AI guide (Claude) that answers questions by searching and reading the atlas's own
+  entries through tools, then links every entry it used. It works in the app (`/ask`) and from the command line
+  (`npm run ask`). Without an API key, the app falls back to a "librarian mode" that lists the best-matching entries.
 * **Also:** people with influence graphs, a library, a quote wall, eras with "Life in the
   Church" panels, study paths with quizzes, ⌘K search, and bookmarks and notes saved in the
   browser.
@@ -47,7 +50,28 @@ npm run dev        # http://localhost:5173
 npm run build      # validates content, type-checks, builds to dist/
 npm run coverage   # content counts per era / doctrine / tradition / region
 npm run qa         # content integrity report
+npm run build:single  # one self-contained offline HTML file → dist-single/index.html
+npm run ask -- "Why did the Church of the East separate?"   # ask the agent from the terminal
 ```
+
+## Ask the Atlas (AI agent)
+
+The agent uses Claude through the official Anthropic SDK's tool runner, with five read-only tools over the atlas:
+`search_atlas`, `get_entry`, `list_doctrine_positions`, `tradition_lineage` and `events_between`
+([`src/agent/tools.ts`](src/agent/tools.ts)). The same tools power both front ends:
+
+* **In the app:** open *Ask the Atlas*, click *Settings* and paste an Anthropic API key. The key is sent
+  only from your browser directly to Anthropic, and is stored on your device only if you tick *Remember*.
+  Because the key lives in the browser, use one with a spending limit. Pick Opus 5.5 (default),
+  Sonnet 5.5 or Haiku 5.5.
+* **In the terminal:** `export ANTHROPIC_API_KEY=…` then `npm run ask` for a chat, or
+  `npm run ask -- "your question"` for one answer. Add `--model claude-sonnet-5-5` to change model.
+
+## Offline single-file version
+
+`npm run build:single` writes `dist-single/index.html`, about 3.8 MB, with every page, all content, the fonts
+and the world map inlined. Double-click it to open it in a browser with no server or internet connection
+(only *Ask the Atlas* with a key needs the internet).
 
 **Stack:** Vite, React 19, TypeScript, Tailwind CSS v4, Framer Motion, React Flow with dagre,
 D3 (zoom and geo), Fuse.js, Zustand, React Router and Zod.
