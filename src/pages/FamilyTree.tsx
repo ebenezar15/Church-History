@@ -17,7 +17,10 @@ export default function FamilyTree() {
   const a = useAtlas();
   const nav = useNavigate();
   const [view, setView] = useState<'river' | 'families'>('river');
-  const [hover, setHover] = useState<string | null>(null);
+  const [hoverId, setHover] = useState<string | null>(null);
+  const [pinned, setPinned] = useState<string | null>(null);
+  const [find, setFind] = useState('');
+  const hover = hoverId ?? pinned;
   const [famOff, setFamOff] = useState<Set<TraditionFamily>>(new Set());
   const [splitEvent, setSplitEvent] = useState<string | null>(null);
   const svgRef = useRef<SVGSVGElement>(null);
@@ -35,6 +38,10 @@ export default function FamilyTree() {
     up(hover); down(hover);
     return s;
   }, [hover, a]);
+
+  useEffect(() => {
+    if (pinned) document.querySelector(`[data-tid="${pinned}"]`)?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  }, [pinned]);
 
   useEffect(() => {
     if (!svgRef.current || view !== 'river') return;
@@ -56,6 +63,23 @@ export default function FamilyTree() {
         present size; the split points link to the events that caused them. Hover a branch to trace its lineage; drag and scroll to zoom.
       </PageHeader>
       <div className="mb-4 flex flex-wrap items-center gap-3">
+        <label className="btn !justify-start sm:w-80">
+          <Icon name="search" className="text-muted" />
+          <input
+            list="tradition-names"
+            value={find}
+            onChange={(e) => {
+              setFind(e.target.value);
+              const t = a.traditions.find((x) => x.name.toLowerCase() === e.target.value.toLowerCase());
+              setPinned(t ? t.id : null);
+            }}
+            placeholder={`Find one of ${a.traditions.length} traditions…`}
+            className="w-full bg-transparent outline-none"
+            aria-label="Find a tradition and highlight its lineage"
+          />
+          {pinned && <button onClick={() => { setPinned(null); setFind(''); }} aria-label="Clear"><Icon name="close" size={14} /></button>}
+        </label>
+        <datalist id="tradition-names">{a.traditions.map((t) => <option key={t.id} value={t.name} />)}</datalist>
         <Tabs layoutId="tree-tabs" value={view} onChange={setView} tabs={[{ id: 'river', label: 'Branching river', icon: 'water' }, { id: 'families', label: 'By family', icon: 'layers' }]} />
       </div>
       <div className="mb-4 flex flex-wrap gap-1.5">
@@ -68,7 +92,7 @@ export default function FamilyTree() {
 
       {view === 'river' ? (
         <div className="card relative cursor-grab overflow-hidden active:cursor-grabbing">
-          <svg ref={svgRef} viewBox={`-30 -30 ${W + 420} ${H + 70}`} className="h-[85vh] min-h-[560px] w-full touch-none" role="img" aria-label="Branching tree of Christian traditions">
+          <svg ref={svgRef} viewBox={`-30 -30 ${W + 420} ${H + 70}`} className="h-auto w-full touch-none" role="img" aria-label="Branching tree of Christian traditions">
             <g transform={t.toString()}>
               {[100, 300, 500, 800, 1000, 1200, 1500, 1600, 1700, 1800, 1900, 2000].map((y) => (
                 <g key={y}>
@@ -79,7 +103,7 @@ export default function FamilyTree() {
               {lanes.map((l: Lane, i) => {
                 const dim = lineage && !lineage.has(l.t.id);
                 return (
-                  <g key={l.t.id} style={{ opacity: dim ? 0.12 : 1, transition: 'opacity .25s' }} onPointerEnter={() => setHover(l.t.id)} onPointerLeave={() => setHover(null)} onClick={() => nav(`/traditions/${l.t.id}`)} className="cursor-pointer">
+                  <g key={l.t.id} data-tid={l.t.id} style={{ opacity: dim ? 0.12 : 1, transition: 'opacity .25s' }} onPointerEnter={() => setHover(l.t.id)} onPointerLeave={() => setHover(null)} onClick={() => nav(`/traditions/${l.t.id}`)} className="cursor-pointer">
                     <motion.path
                       d={lanePath(l, x, 80)}
                       stroke={l.colour}
