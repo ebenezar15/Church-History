@@ -21,7 +21,7 @@ export function ArchitectureDiagram({ kind }: { kind?: string }) {
     <figure className="card p-4">
       <svg viewBox="0 0 200 130" className="mx-auto h-40 w-full max-w-xs" role="img" aria-label={`Schematic of a ${s.label}`}>
         {s.paths.map((d, i) => (
-          <motion.path key={i} d={d} fill="none" stroke="var(--accent)" strokeWidth={2} strokeLinecap="round" strokeLinejoin="round" initial={{ pathLength: 0 }} whileInView={{ pathLength: 1 }} viewport={{ once: true }} transition={{ duration: 1.2, delay: i * 0.25 }} />
+          <motion.path key={i} d={d} fill="none" stroke="var(--accent)" strokeWidth={2} strokeLinecap="round" strokeLinejoin="round" initial={{ pathLength: 0 }} animate={{ pathLength: 1 }} transition={{ duration: 1.2, delay: i * 0.25 }} />
         ))}
       </svg>
       <figcaption className="mt-2 text-center text-sm"><b>{s.label}.</b> <span className="text-ink-2">{s.caption}</span></figcaption>

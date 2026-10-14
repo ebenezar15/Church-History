@@ -69,7 +69,7 @@ export default function Ask() {
       if (reduce) { setMsgs((m) => [...m, { role: 'assistant', text: r.text, steps, mode: 'offline' }]); return; }
       setBusy(true);
       setLive(steps);
-      const parts = r.text.split(/(?<=\s)/);
+      const parts = r.text.match(/\S+\s*|\s+/g) ?? [r.text];
       const per = Math.max(3, Math.ceil(parts.length / 40));
       let n = 0;
       await new Promise<void>((done) => {

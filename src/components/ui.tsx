@@ -139,7 +139,8 @@ export function CountUp({ to, duration = 1.2, className }: { to: number; duratio
     const c = animate(0, to, { duration, ease: 'easeOut', onUpdate: (v) => { if (ref.current) ref.current.textContent = Math.round(v).toLocaleString(); } });
     return () => c.stop();
   }, [inView, to, duration, reduce]);
-  return <span ref={ref} className={className}>0</span>;
+  // Render the real number first, so it is right even where the count-up animation never runs.
+  return <span ref={ref} className={className}>{to.toLocaleString()}</span>;
 }
 
 export const listVariants = {
@@ -251,7 +252,7 @@ export function BulletList({ items, icon = 'arrow', tone }: { items: string[]; i
   return (
     <ul className="space-y-2">
       {items.map((t, i) => (
-        <motion.li key={i} initial={{ opacity: 0, x: -6 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true }} transition={{ delay: i * 0.04 }} className="flex gap-2 leading-relaxed text-ink-2">
+        <motion.li key={i} initial={{ opacity: 0, x: -6 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: i * 0.04 }} className="flex gap-2 leading-relaxed text-ink-2">
           <Icon name={icon} size={15} className={cx('mt-1 shrink-0', tone ?? 'text-accent')} />
           <span>{t}</span>
         </motion.li>

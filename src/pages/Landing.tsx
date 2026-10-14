@@ -169,7 +169,7 @@ export default function Landing() {
       <div className="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-10">
         <div className="mb-16 grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-6">
           {stats.map((s, i) => (
-            <motion.div key={s.l} initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ delay: i * 0.06 }} className="card p-4 text-center">
+            <motion.div key={s.l} initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: i * 0.06 }} className="card p-4 text-center">
               <CountUp to={s.n} className="block text-3xl font-bold text-accent tabular-nums" />
               <div className="text-xs font-semibold uppercase tracking-widest text-muted">{s.l}</div>
             </motion.div>
@@ -179,7 +179,7 @@ export default function Landing() {
         <h2 className="mb-6 text-3xl font-bold">Ways in</h2>
         <div className="mb-16 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
           {FEATURES.map((f, i) => (
-            <motion.div key={f.to} initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: '-40px' }} transition={{ delay: (i % 4) * 0.07, type: 'spring', stiffness: 200, damping: 22 }}>
+            <motion.div key={f.to} initial={{ opacity: 0, y: 30 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: (i % 4) * 0.07, type: 'spring', stiffness: 200, damping: 22 }}>
               <GlowCard to={f.to}>
                 <motion.div whileHover={{ rotate: -10, scale: 1.1 }} className="mb-3 inline-flex h-11 w-11 items-center justify-center rounded-xl bg-surface-2 text-accent ring-1 ring-line">
                   <Icon name={f.icon} size={22} />
@@ -194,7 +194,7 @@ export default function Landing() {
         <h2 className="mb-6 text-3xl font-bold">Thirteen eras</h2>
         <div className="scrollbar-thin -mx-4 mb-16 flex snap-x gap-4 overflow-x-auto px-4 pb-4">
           {a.eras.map((e, i) => (
-            <motion.div key={e.id} initial={{ opacity: 0, x: 40 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true }} transition={{ delay: Math.min(i, 5) * 0.05 }} className="w-72 shrink-0 snap-start">
+            <motion.div key={e.id} initial={{ opacity: 0, x: 40 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: Math.min(i, 5) * 0.05 }} className="w-72 shrink-0 snap-start">
               <GlowCard to={`/eras/${e.id}`} accent={e.colour}>
                 <div className="text-xs font-bold tabular-nums text-muted">{formatYear(e.startYear)} – {e.endYear >= NOW ? 'today' : formatYear(e.endYear)}</div>
                 <h3 className="mb-2 mt-1 text-lg font-bold leading-tight" style={{ color: inkTone(e.colour) }}>{e.name}</h3>

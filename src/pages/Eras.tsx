@@ -14,8 +14,8 @@ export default function Eras() {
       </PageHeader>
       <ol className="relative ml-3 border-l-2 border-line">
         {a.eras.map((e, i) => (
-          <motion.li key={e.id} initial={{ opacity: 0, x: -30 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true, margin: '-60px' }} transition={{ type: 'spring', stiffness: 160, damping: 20, delay: 0.03 }} className="relative mb-6 pl-8">
-            <motion.span className="absolute -left-[11px] top-5 flex h-5 w-5 items-center justify-center rounded-full text-[10px] font-bold text-white" style={{ background: e.colour }} whileInView={{ scale: [0, 1.3, 1] }} viewport={{ once: true }}>
+          <motion.li key={e.id} initial={{ opacity: 0, x: -30 }} animate={{ opacity: 1, x: 0 }} transition={{ type: 'spring', stiffness: 160, damping: 20, delay: 0.03 }} className="relative mb-6 pl-8">
+            <motion.span className="absolute -left-[11px] top-5 flex h-5 w-5 items-center justify-center rounded-full text-[10px] font-bold text-white" style={{ background: e.colour }} animate={{ scale: [0, 1.3, 1] }}>
               {i + 1}
             </motion.span>
             <Link to={`/eras/${e.id}`} className="card group block p-5 transition hover:-translate-y-0.5 hover:shadow-xl" style={{ borderLeft: `4px solid ${e.colour}` }}>

@@ -402,6 +402,9 @@ export const Experience = z.object({
   contemporaryInterpretation: z.string(),
   assessments: z.array(z.object({ perspective: z.string(), text: z.string() })).min(2),
   debates: Strs,
+  story: z.string().optional().describe('The full narrative, several paragraphs separated by blank lines'),
+  keyMoments: z.array(z.object({ year: Year.optional(), date: z.string().optional(), text: z.string() })).default([]),
+  significance: z.string().optional().describe('Why it matters: its effects on churches, theology and later movements'),
   confidence: z.enum(['well-documented', 'contested', 'hagiographical']),
   sources: Ids,
 });

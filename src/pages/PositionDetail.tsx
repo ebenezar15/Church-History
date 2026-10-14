@@ -46,7 +46,7 @@ export default function PositionDetail() {
         </div>
       </div>
 
-      <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true }} className="grid gap-6 md:grid-cols-3">
+      <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="grid gap-6 md:grid-cols-3">
         <Section title="Proponents" icon="people">
           <EntityChips type="person" ids={p.proponentIds} />
           {p.proponentsOther.length > 0 && <p className="mt-2 text-sm text-muted">{p.proponentsOther.join(' · ')}</p>}

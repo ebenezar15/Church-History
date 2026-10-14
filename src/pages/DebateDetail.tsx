@@ -89,7 +89,7 @@ export default function DebateDetail() {
           <Section title="How the debate unfolded" icon="timeline">
             <ol className="relative space-y-3 border-l-2 border-accent pl-5">
               {c.timeline.map((t, i) => (
-                <motion.li key={i} initial={{ opacity: 0, x: -10 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true }} transition={{ delay: i * 0.05 }} className="relative">
+                <motion.li key={i} initial={{ opacity: 0, x: -10 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: i * 0.05 }} className="relative">
                   <span className="absolute -left-[27px] top-1.5 h-3 w-3 rounded-full bg-accent" />
                   <b className="tabular-nums">{formatYear(t.year)}</b> — <span className="text-ink-2">{t.text}</span>
                   {t.eventId && <Link to={`/events/${t.eventId}`} className="ml-1 text-accent"><Icon name="arrow" size={13} className="inline" /></Link>}

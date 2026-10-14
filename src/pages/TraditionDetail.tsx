@@ -62,7 +62,7 @@ export default function TraditionDetail() {
           <Section title="Profile" icon="layers">
             <dl className="grid gap-3 sm:grid-cols-2">
               {Object.entries(t.profile).map(([k, v], i) => (
-                <motion.div key={k} initial={{ opacity: 0, y: 10 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ delay: i * 0.05 }} className="card p-4">
+                <motion.div key={k} initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: i * 0.05 }} className="card p-4">
                   <dt className="mb-1 text-xs font-bold uppercase tracking-widest" style={{ color: f.colour }}>{k}</dt>
                   <dd className="text-sm leading-relaxed text-ink-2">{v}</dd>
                 </motion.div>

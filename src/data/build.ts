@@ -122,7 +122,7 @@ export function buildDb(files: Record<string, unknown>): BuildResult {
           }
           continue;
         }
-        const obj = structuredClone(ent) as unknown as Record<string, unknown>;
+        const obj = JSON.parse(JSON.stringify(ent)) as unknown as Record<string, unknown>;
         index.set(k, { file, obj });
         (db[key] as unknown[]).push(obj);
       }

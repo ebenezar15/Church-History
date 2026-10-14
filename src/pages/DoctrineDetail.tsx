@@ -4,6 +4,8 @@ import { AnimatePresence, motion } from 'framer-motion';
 import { useAtlas, hrefFor, labelFor } from '../data/db';
 import type { FlowNode, Quote } from '../data/schema';
 import { DoctrineFlow } from '../viz/DoctrineFlow';
+import { DoctrineStory } from '../viz/DoctrineStory';
+import { Drawer } from '../components/Drawer';
 import { FLOW_KIND_META, formatYear } from '../data/families';
 import { Icon } from '../components/Icon';
 import { BookmarkButton, CompareButton, GlowCard, PageHeader, QuoteBlock, Sources, Tabs, cx } from '../components/ui';
@@ -18,6 +20,9 @@ export default function DoctrineDetail() {
   const a = useAtlas();
   const d = a.doctrines.find((x) => x.id === id);
   const [tab, setTab] = useState<Tab>('flow');
+  // Phones get the readable step-by-step story by default; the interactive chart is one tap away.
+  const narrow = typeof window !== 'undefined' && window.matchMedia?.('(max-width: 767px)').matches;
+  const [view, setView] = useState<'chart' | 'story'>(narrow ? 'story' : 'chart');
   const [node, setNode] = useState<FlowNode | undefined>();
   const positions = a.positionsByDoctrine.get(id) ?? [];
   const [pair, setPair] = useState<[string, string]>(['', '']);
@@ -50,11 +55,34 @@ export default function DoctrineDetail() {
       <AnimatePresence mode="wait">
         <motion.div key={tab} initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -10 }} transition={{ duration: 0.25 }}>
           {tab === 'flow' && (
-            <div className="grid gap-4 lg:grid-cols-[1fr_340px]">
-              <div className="card h-[72vh] min-h-[480px] overflow-hidden">
-                <DoctrineFlow doctrine={d} selectedId={node?.id} onSelect={setNode} />
+            <div>
+              <div className="mb-3 flex flex-wrap items-center gap-2">
+                <div className="flex rounded-xl border border-line bg-surface-2 p-1" role="group" aria-label="View">
+                  {([['story', 'Story view', 'scroll'], ['chart', 'Flowchart', 'branch']] as const).map(([v, l, ic]) => (
+                    <button key={v} onClick={() => setView(v)} aria-pressed={view === v} className={cx('relative flex items-center gap-1.5 rounded-lg px-3 py-1.5 text-sm font-semibold', view === v ? 'text-accent-ink' : 'text-ink-2')}>
+                      {view === v && <motion.span layoutId="doc-view" className="absolute inset-0 rounded-lg bg-accent" />}
+                      <span className="relative flex items-center gap-1.5"><Icon name={ic} size={14} /> {l}</span>
+                    </button>
+                  ))}
+                </div>
+                <span className="text-xs text-muted">{d.flow.nodes.length} steps from {formatYear(Math.min(...d.flow.nodes.map((n) => n.year ?? 9999)))} to today</span>
               </div>
-              <NodePanel node={node} />
+              {view === 'story' ? (
+                <DoctrineStory doctrine={d} />
+              ) : (
+                <div className="grid gap-4 lg:grid-cols-[minmax(0,1fr)_340px]">
+                  <div className="card h-[72vh] min-h-[420px] overflow-hidden">
+                    <DoctrineFlow doctrine={d} selectedId={node?.id} onSelect={setNode} />
+                  </div>
+                  <div className="hidden lg:block"><NodePanel node={node} /></div>
+                  {/* On smaller screens a tapped node opens in a slide-up panel instead of far below the chart. */}
+                  <div className="lg:hidden">
+                    <Drawer open={!!node} onClose={() => setNode(undefined)} title={node?.label}>
+                      <NodePanel node={node} bare />
+                    </Drawer>
+                  </div>
+                </div>
+              )}
             </div>
           )}
           {tab === 'positions' && (
@@ -108,10 +136,10 @@ export default function DoctrineDetail() {
   );
 }
 
-function NodePanel({ node }: { node?: FlowNode }) {
+function NodePanel({ node, bare = false }: { node?: FlowNode; bare?: boolean }) {
   const a = useAtlas();
   return (
-    <aside className="card scrollbar-thin max-h-[72vh] overflow-y-auto p-5" aria-live="polite">
+    <aside className={bare ? '' : 'card scrollbar-thin max-h-[72vh] overflow-y-auto p-5'} aria-live="polite">
       <AnimatePresence mode="wait">
         {!node ? (
           <motion.div key="empty" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="text-sm text-muted">
