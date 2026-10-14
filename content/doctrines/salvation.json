@@ -3389,7 +3389,7 @@
     },
     {
       "id": "aquinas-grace-perfects-nature",
-      "text": "Since therefore grace does not destroy nature, but perfects it, natural reason should minister to faith.",
+      "text": "Since therefore grace does not destroy nature but perfects it, natural reason should minister to faith.",
       "kind": "quotation",
       "translation": "tr. Fathers of the English Dominican Province (1920)",
       "personId": "thomas-aquinas",
@@ -4138,36 +4138,6 @@
       "confidence": "established"
     },
     {
-      "id": "isaac-of-nineveh",
-      "name": "Isaac of Nineveh (Isaac the Syrian)",
-      "born": 613,
-      "died": 700,
-      "circa": true,
-      "roles": [
-        "bishop",
-        "ascetic writer"
-      ],
-      "traditionIds": [
-        "church-of-the-east",
-        "assyrian-church-of-the-east"
-      ],
-      "regions": [
-        "mesopotamia-persia"
-      ],
-      "summary": "Seventh-century monk of the Church of the East, briefly bishop of Nineveh, whose ascetic homilies were translated into Greek and loved across Orthodox Christendom; in his \"Second Part\" he expressed the hope that Gehenna is remedial and that God’s love will finally prevail for all.",
-      "keyIdeas": [
-        "Mercy of God beyond justice",
-        "Gehenna as the scourge of love",
-        "Hope for universal restoration"
-      ],
-      "influencedBy": [],
-      "sources": [
-        "jenkins-lost-history",
-        "parry-universalism-history"
-      ],
-      "confidence": "established"
-    },
-    {
       "id": "james-d-g-dunn",
       "name": "James D. G. Dunn",
       "born": 1939,
@@ -4725,14 +4695,6 @@
       "year": 1982,
       "kind": "secondary",
       "note": "3rd ed. 2011"
-    },
-    {
-      "id": "jddj-1999",
-      "title": "Joint Declaration on the Doctrine of Justification (Lutheran World Federation and Roman Catholic Church)",
-      "author": "LWF / Pontifical Council for Promoting Christian Unity",
-      "year": 1999,
-      "kind": "primary",
-      "url": "https://www.vatican.va/roman_curia/pontifical_councils/chrstuni/documents/rc_pc_chrstuni_doc_31101999_cath-luth-joint-declaration_en.html"
     },
     {
       "id": "kirk-hell",

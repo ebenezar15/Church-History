@@ -2474,35 +2474,6 @@
         "bebbington-evangelicalism"
       ],
       "confidence": "established"
-    },
-    {
-      "id": "michael-sattler",
-      "name": "Michael Sattler",
-      "born": 1490,
-      "died": 1527,
-      "circa": true,
-      "roles": [
-        "former Benedictine prior",
-        "Anabaptist leader",
-        "martyr"
-      ],
-      "traditionIds": [
-        "anabaptist"
-      ],
-      "regions": [
-        "western-europe"
-      ],
-      "summary": "Former Benedictine prior who joined the Swiss Brethren, chaired the meeting that produced the Schleitheim Confession (February 1527), and was executed at Rottenburg in May 1527.",
-      "keyIdeas": [
-        "Believers’ baptism",
-        "Separation from the world",
-        "Nonresistance"
-      ],
-      "influencedBy": [],
-      "sources": [
-        "williams-radical-reformation"
-      ],
-      "confidence": "established"
     }
   ],
   "works": [
@@ -2517,8 +2488,7 @@
       "summary": "Campbell’s summary of Restorationist teaching, including immersion of penitent believers \"for the remission of sins\" (Acts 2:38) as the divinely appointed moment of forgiveness.",
       "significance": "Defined the Stone-Campbell understanding of baptism.",
       "doctrineIds": [
-        "baptism",
-        "modern-movements"
+        "baptism"
       ],
       "sources": [
         "hughes-restoration"
@@ -2559,25 +2529,6 @@
       ],
       "sources": [
         "williams-radical-reformation"
-      ]
-    },
-    {
-      "id": "schleitheim-confession",
-      "title": "Schleitheim Confession (Brotherly Union)",
-      "authorId": "michael-sattler",
-      "year": 1527,
-      "circa": false,
-      "language": "German",
-      "genre": "confession",
-      "summary": "Seven articles agreed by Swiss Brethren at Schleitheim, 24 February 1527: baptism only for those who have learned repentance and amendment of life, the ban, the breaking of bread, separation from the world, pastors, the sword and the oath.",
-      "significance": "Earliest Anabaptist confession; defined the believers’-church pattern.",
-      "doctrineIds": [
-        "baptism",
-        "ethics-church-state"
-      ],
-      "sources": [
-        "williams-radical-reformation",
-        "schaff-creeds"
       ]
     },
     {
