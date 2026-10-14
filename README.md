@@ -24,9 +24,12 @@ tradition "correct".
   experiences.
 * **Experiences.** Mystical, ecstatic and supernatural accounts, each assessed from several
   perspectives.
-* **Ask the Atlas.** An AI guide (Claude) that answers questions by searching and reading the atlas's own
-  entries through tools, then links every entry it used. It works in the app (`/ask`) and from the command line
-  (`npm run ask`). Without an API key, the app falls back to a "librarian mode" that lists the best-matching entries.
+* **Ask the Atlas.** A built-in question-answering guide that works completely offline, with no
+  internet, account or API key. It recognises the people, churches, councils and doctrines a question
+  names, works out the kind of question (who, when, why, compare, lineage, beliefs, views, arguments,
+  timeline), and writes the answer from the atlas's own sourced entries, linking every entry it used.
+  It also handles follow-ups ("what did he write?"). It runs in the app (`/ask`) and in the terminal
+  (`npm run ask`). Claude can optionally be switched on as an online engine with your own API key.
 * **Also:** people with influence graphs, a library, a quote wall, eras with "Life in the
   Church" panels, study paths with quizzes, ⌘K search, and bookmarks and notes saved in the
   browser.
@@ -54,24 +57,34 @@ npm run build:single  # one self-contained offline HTML file → dist-single/ind
 npm run ask -- "Why did the Church of the East separate?"   # ask the agent from the terminal
 ```
 
-## Ask the Atlas (AI agent)
+## Ask the Atlas
 
-The agent uses Claude through the official Anthropic SDK's tool runner, with five read-only tools over the atlas:
-`search_atlas`, `get_entry`, `list_doctrine_positions`, `tradition_lineage` and `events_between`
-([`src/agent/tools.ts`](src/agent/tools.ts)). The same tools power both front ends:
+The offline guide ([`src/agent/offline.ts`](src/agent/offline.ts)) is the default everywhere and needs
+nothing but the atlas data. It answers in milliseconds. Questions it understands include:
 
-* **In the app:** open *Ask the Atlas*, click *Settings* and paste an Anthropic API key. The key is sent
-  only from your browser directly to Anthropic, and is stored on your device only if you tick *Remember*.
-  Because the key lives in the browser, use one with a spending limit. Pick Opus 5.5 (default),
-  Sonnet 5.5 or Haiku 5.5.
-* **In the terminal:** `export ANTHROPIC_API_KEY=…` then `npm run ask` for a chat, or
-  `npm run ask -- "your question"` for one answer. Add `--model claude-sonnet-5-5` to change model.
+| Kind | Example |
+| --- | --- |
+| Who / what | Who was Athanasius? · What is theosis? |
+| Why / when | Why did the Great Schism happen? · When was Chalcedon? |
+| Lineage | Trace the Assemblies of God back to the early church |
+| Compare | Compare penal substitution and Christus Victor · Compare Lutheran and Reformed |
+| Beliefs | What do Methodists believe about salvation? · What did Calvin teach about predestination? |
+| Views and arguments | What are the views on baptism? · Arguments for and against cessationism |
+| Timeline | What happened in the 4th century? · between 1500 and 1530? |
+| Follow-ups | What did he write? |
+
+Type `help` in the chat for this list. In the terminal: `npm run ask` for a chat, or
+`npm run ask -- "your question"` for one answer.
+
+**Optional Claude engine.** In *Settings* you can switch to Claude (online) and paste an Anthropic API key;
+it then reasons freely across entries using read-only tools over the atlas ([`src/agent/tools.ts`](src/agent/tools.ts)).
+In the terminal, add `--claude` (with `ANTHROPIC_API_KEY` set).
 
 ## Offline single-file version
 
 `npm run build:single` writes `dist-single/index.html`, about 3.8 MB, with every page, all content, the fonts
 and the world map inlined. Double-click it to open it in a browser with no server or internet connection
-(only *Ask the Atlas* with a key needs the internet).
+(the optional Claude engine is the only part that needs the internet).
 
 **Stack:** Vite, React 19, TypeScript, Tailwind CSS v4, Framer Motion, React Flow with dagre,
 D3 (zoom and geo), Fuse.js, Zustand, React Router and Zod.

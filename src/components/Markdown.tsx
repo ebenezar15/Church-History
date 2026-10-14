@@ -4,36 +4,53 @@ import { hrefFor } from '../data/db';
 import { EntityType } from '../data/schema';
 
 /**
- * A deliberately small markdown renderer for agent answers: paragraphs, bullet/numbered lists,
- * **bold**, *italic*, `code`, and links. Builds React elements (never raw HTML), so model output
- * cannot inject markup. Links of the form entity:TYPE/ID become in-app links.
+ * A deliberately small markdown renderer for agent answers: paragraphs, bullet and numbered lists,
+ * > quotes, ---, **bold**, *italic*, `code`, and links (nested inside bold too). It builds React
+ * elements (never raw HTML), so answer text cannot inject markup. Links of the form
+ * entity:TYPE/ID become in-app links.
  */
 export function Markdown({ text }: { text: string }) {
-  const blocks = text.replace(/\r/g, '').split(/\n{2,}/);
-  return (
-    <div className="space-y-3 leading-relaxed">
-      {blocks.map((b, i) => {
-        const lines = b.split('\n').filter((l) => l.trim());
-        if (!lines.length) return null;
-        if (lines.every((l) => /^\s*[-*•]\s+/.test(l))) {
-          return <ul key={i} className="list-disc space-y-1 pl-5">{lines.map((l, j) => <li key={j}>{inline(l.replace(/^\s*[-*•]\s+/, ''))}</li>)}</ul>;
-        }
-        if (lines.every((l) => /^\s*\d+[.)]\s+/.test(l))) {
-          return <ol key={i} className="list-decimal space-y-1 pl-5">{lines.map((l, j) => <li key={j}>{inline(l.replace(/^\s*\d+[.)]\s+/, ''))}</li>)}</ol>;
-        }
-        const h = /^(#{1,4})\s+(.*)$/.exec(lines[0]);
-        if (h && lines.length === 1) return <h3 key={i} className="pt-1 text-lg font-bold">{inline(h[2])}</h3>;
-        return <p key={i}>{lines.map((l, j) => <Fragment key={j}>{j > 0 && <br />}{inline(l.replace(/^#{1,4}\s+/, ''))}</Fragment>)}</p>;
-      })}
-    </div>
-  );
+  const out: ReactNode[] = [];
+  const lines = text.replace(/\r/g, '').split('\n');
+  let i = 0;
+  let key = 0;
+  const take = (re: RegExp) => {
+    const got: string[] = [];
+    while (i < lines.length && re.test(lines[i])) got.push(lines[i++]);
+    return got;
+  };
+  while (i < lines.length) {
+    const line = lines[i];
+    if (!line.trim()) { i++; continue; }
+    if (/^\s*[-*•]\s+/.test(line)) {
+      const items = take(/^\s*[-*•]\s+/);
+      out.push(<ul key={key++} className="list-disc space-y-1 pl-5">{items.map((l, j) => <li key={j}>{inline(l.replace(/^\s*[-*•]\s+/, ''))}</li>)}</ul>);
+    } else if (/^\s*\d+[.)]\s+/.test(line)) {
+      const items = take(/^\s*\d+[.)]\s+/);
+      out.push(<ol key={key++} className="list-decimal space-y-1 pl-5">{items.map((l, j) => <li key={j}>{inline(l.replace(/^\s*\d+[.)]\s+/, ''))}</li>)}</ol>);
+    } else if (/^\s*>/.test(line)) {
+      const q = take(/^\s*>/).map((l) => l.replace(/^\s*>\s?/, ''));
+      out.push(<blockquote key={key++} className="border-l-4 border-accent/50 pl-3 font-serif text-lg leading-snug text-ink">{inline(q.join(' '))}</blockquote>);
+    } else if (/^\s*---+\s*$/.test(line)) {
+      i++;
+      out.push(<hr key={key++} className="gold-rule my-2" />);
+    } else if (/^#{1,4}\s+/.test(line)) {
+      i++;
+      out.push(<h3 key={key++} className="pt-1 text-lg font-bold">{inline(line.replace(/^#{1,4}\s+/, ''))}</h3>);
+    } else {
+      const para = take(/^(?!\s*([-*•]\s|\d+[.)]\s|>|---+\s*$|#{1,4}\s)).*\S/);
+      out.push(<p key={key++}>{para.map((l, j) => <Fragment key={j}>{j > 0 && <br />}{inline(l)}</Fragment>)}</p>);
+    }
+  }
+  return <div className="space-y-3 leading-relaxed">{out}</div>;
 }
 
-const TOKEN = /(\[[^\]]+\]\([^)\s]+\)|\*\*[^*]+\*\*|\*[^*\s][^*]*\*|`[^`]+`)/g;
+const TOKEN = /(\*\*(?:(?!\*\*).)+\*\*|\[[^\]]+\]\([^)\s]+\)|\*[^*\s][^*]*\*|`[^`]+`)/g;
 
 function inline(s: string): ReactNode[] {
   return s.split(TOKEN).map((part, i) => {
     if (!part) return null;
+    if (part.startsWith('**') && part.endsWith('**') && part.length > 4) return <strong key={i} className="text-ink">{inline(part.slice(2, -2))}</strong>;
     const link = /^\[([^\]]+)\]\(([^)\s]+)\)$/.exec(part);
     if (link) {
       const [, label, href] = link;
@@ -44,9 +61,8 @@ function inline(s: string): ReactNode[] {
       if (/^https?:\/\//.test(href)) return <a key={i} href={href} target="_blank" rel="noreferrer noopener" className="text-accent underline">{label}</a>;
       return <Fragment key={i}>{label}</Fragment>;
     }
-    if (part.startsWith('**')) return <strong key={i}>{part.slice(2, -2)}</strong>;
     if (part.startsWith('`')) return <code key={i} className="rounded bg-surface-2 px-1 text-[0.9em]">{part.slice(1, -1)}</code>;
-    if (part.startsWith('*') && part.endsWith('*') && part.length > 2) return <em key={i}>{part.slice(1, -1)}</em>;
+    if (part.startsWith('*') && part.endsWith('*') && part.length > 2) return <em key={i}>{inline(part.slice(1, -1))}</em>;
     return <Fragment key={i}>{part}</Fragment>;
   });
 }

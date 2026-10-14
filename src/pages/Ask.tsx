@@ -1,29 +1,20 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { Link, useSearchParams } from 'react-router-dom';
-import { AnimatePresence, motion } from 'framer-motion';
+import { AnimatePresence, motion, useReducedMotion } from 'framer-motion';
 import Anthropic from '@anthropic-ai/sdk';
-import { useAtlas, hrefFor, type Atlas } from '../data/db';
-import { getFuse, type SearchDoc } from '../data/searchIndex';
+import { useAtlas, hrefFor } from '../data/db';
 import { askAtlas, DEFAULT_MODEL, MODELS, type Turn } from '../agent/run';
 import type { ToolEvent } from '../agent/tools';
-import { askAtlasHosted, getHostedSampler, type HostedSampler } from '../agent/hosted';
+import { answerOffline, type Ref } from '../agent/offline';
 import { Icon } from '../components/Icon';
 import { Markdown } from '../components/Markdown';
 import { PageHeader, cx } from '../components/ui';
 
-interface Msg { role: 'user' | 'assistant'; text: string; steps?: ToolEvent[]; mode?: 'agent' | 'librarian'; error?: boolean }
-
-const HOSTED_ERRORS: Record<string, string> = {
-  not_granted: 'Claude was not allowed for this page, so answers come from librarian mode.',
-  sampling_disabled: 'Claude is not available on this account, so answers come from librarian mode.',
-  rate_limited: 'Too many questions at once, or your Claude usage limit was reached. Try again in a little while.',
-  refused: 'Claude declined this question. Try rephrasing it.',
-  session_expired: 'Your Claude session expired. Sign in again and retry.',
-  cancelled: 'Stopped.',
-};
+interface Msg { role: 'user' | 'assistant'; text: string; steps?: ToolEvent[]; mode?: 'offline' | 'claude'; error?: boolean }
 
 const KEY_STORE = 'ecclesia-anthropic-key';
 const MODEL_STORE = 'ecclesia-agent-model';
+const ENGINE_STORE = 'ecclesia-agent-engine';
 const read = (k: string) => { try { return localStorage.getItem(k) ?? ''; } catch { return ''; } };
 const write = (k: string, v: string) => { try { if (v) localStorage.setItem(k, v); else localStorage.removeItem(k); } catch { /* storage unavailable */ } };
 
@@ -32,35 +23,9 @@ const SUGGESTIONS = [
   'Trace the Assemblies of God back to the early church.',
   'Compare penal substitution with Christus Victor.',
   'What did the Council of Chalcedon decide, and who rejected it?',
-  'How did Christianity reach Ethiopia and China?',
-  'What is the difference between the legal and union views of the gospel?',
+  'What do Methodists believe about salvation?',
+  'What happened in the 4th century?',
 ];
-
-const STOP = new Set(['who', 'was', 'what', 'were', 'the', 'and', 'did', 'does', 'why', 'how', 'when', 'where', 'which', 'with', 'from', 'about', 'between', 'difference', 'tell', 'explain', 'church', 'christian', 'christianity', 'is', 'are', 'that', 'this', 'into', 'for', 'its', 'his', 'her', 'their']);
-
-/** Without an API key the page still helps: it finds the most relevant entries and summarises each one. */
-function librarianAnswer(a: Atlas, q: string): string {
-  // Search on the question's key words, then favour entries whose titles contain them.
-  const words = q.toLowerCase().match(/[\p{L}\d'-]{3,}/gu)?.filter((w) => !STOP.has(w)) ?? [];
-  const fuse = getFuse(a);
-  const pool = new Map<string, { item: SearchDoc; score: number }>();
-  for (const term of [words.join(' '), ...words]) {
-    if (!term) continue;
-    for (const r of fuse.search(term, { limit: 15 })) {
-      const key = r.item.type + r.item.id;
-      const titleHits = words.filter((w) => r.item.title.toLowerCase().includes(w)).length;
-      const score = (r.score ?? 1) - titleHits * 0.5;
-      if (!pool.has(key) || pool.get(key)!.score > score) pool.set(key, { item: r.item, score });
-    }
-  }
-  const hits = [...pool.values()].sort((x, y) => x.score - y.score).slice(0, 8).map((x) => x.item);
-  if (!hits.length) return 'I couldn’t find entries matching that. Try naming a person, council, doctrine or denomination.';
-  return [
-    'Here are the atlas entries that best match your question:',
-    hits.map((h) => `- [${h.title}](entity:${h.type}/${h.id}) — ${h.sub ? h.sub + '. ' : ''}${h.text.slice(0, 180)}${h.text.length > 180 ? '…' : ''}`).join('\n'),
-    '*Add an Anthropic API key in settings to get a written answer that reasons across these entries.*',
-  ].join('\n\n');
-}
 
 export default function Ask() {
   const a = useAtlas();
@@ -76,10 +41,13 @@ export default function Ask() {
   const abort = useRef<AbortController | null>(null);
   const endRef = useRef<HTMLDivElement>(null);
   const client = useMemo(() => (apiKey ? new Anthropic({ apiKey, dangerouslyAllowBrowser: true }) : null), [apiKey]);
-  // Inside a claude.ai viewer the page can ask Claude on the viewer's own account, no key needed.
-  const [hosted, setHosted] = useState<HostedSampler | null>(null);
+  // The offline guide is the default and needs nothing; Claude is an optional online engine.
+  const [engine, setEngine] = useState<'offline' | 'claude'>(() => (read(ENGINE_STORE) === 'claude' ? 'claude' : 'offline'));
+  const [focus, setFocus] = useState<Ref | undefined>();
   const [draft, setDraft] = useState('');
-  useEffect(() => { let live = true; getHostedSampler().then((h) => live && setHosted(h)); return () => { live = false; }; }, []);
+  const reduce = useReducedMotion();
+  useEffect(() => { write(ENGINE_STORE, engine); }, [engine]);
+  const useClaude = engine === 'claude' && !!client;
 
   useEffect(() => { write(KEY_STORE, remember ? apiKey : ''); }, [apiKey, remember]);
   useEffect(() => { write(MODEL_STORE, model); }, [model]);
@@ -90,38 +58,31 @@ export default function Ask() {
     if (!q || busy) return;
     setInput('');
     if (params.get('q')) setParams({}, { replace: true });
-    const history: Turn[] = msgs.filter((m) => !m.error && m.mode !== 'librarian').map((m) => ({ role: m.role, text: m.text }));
+    const history: Turn[] = msgs.filter((m) => !m.error && m.mode !== 'offline').map((m) => ({ role: m.role, text: m.text }));
     setMsgs((m) => [...m, { role: 'user', text: q }]);
 
-    if (!client && hosted) {
+    if (!useClaude || !client) {
+      // Offline: answer instantly from the atlas, then reveal it as if written.
+      const r = answerOffline(a, q, focus);
+      setFocus(r.focus ?? focus);
+      const steps = r.steps.map((summary) => ({ tool: 'offline', summary }));
+      if (reduce) { setMsgs((m) => [...m, { role: 'assistant', text: r.text, steps, mode: 'offline' }]); return; }
       setBusy(true);
-      setLive([]);
+      setLive(steps);
+      const parts = r.text.split(/(?<=\s)/);
+      const per = Math.max(3, Math.ceil(parts.length / 40));
+      let n = 0;
+      await new Promise<void>((done) => {
+        const t = setInterval(() => {
+          n = Math.min(parts.length, n + per);
+          setDraft(parts.slice(0, n).join(''));
+          if (n >= parts.length) { clearInterval(t); done(); }
+        }, 22);
+      });
+      setMsgs((m) => [...m, { role: 'assistant', text: r.text, steps, mode: 'offline' }]);
       setDraft('');
-      const steps: ToolEvent[] = [];
-      abort.current = new AbortController();
-      try {
-        const text = await askAtlasHosted({
-          sampler: hosted, atlas: a, history, question: q, signal: abort.current.signal,
-          onEvent: (e) => { steps.push(e); setLive([...steps]); },
-          onText: setDraft,
-        });
-        setMsgs((m) => [...m, { role: 'assistant', text, steps, mode: 'agent' }]);
-      } catch (err) {
-        const e = err as { code?: string; text?: string };
-        if (e.code === 'not_granted' || e.code === 'sampling_disabled' || e.code === 'not_declared') setHosted(null);
-        const note = HOSTED_ERRORS[e.code ?? ''] ?? 'Claude could not finish this answer. Try again.';
-        const fallback = e.code === 'not_granted' || e.code === 'sampling_disabled' ? '\n\n' + librarianAnswer(a, q) : '';
-        setMsgs((m) => [...m, { role: 'assistant', text: (e.text ? e.text + '\n\n' : '') + `*${note}*` + fallback, steps, mode: 'agent', error: true }]);
-      } finally {
-        setBusy(false);
-        setLive([]);
-        setDraft('');
-        abort.current = null;
-      }
-      return;
-    }
-    if (!client) {
-      setMsgs((m) => [...m, { role: 'assistant', text: librarianAnswer(a, q), mode: 'librarian' }]);
+      setLive([]);
+      setBusy(false);
       return;
     }
     setBusy(true);
@@ -134,7 +95,7 @@ export default function Ask() {
         onEvent: (e) => { steps.push(e); setLive([...steps]); },
       });
       const text = r.refused ? 'The model declined to answer this one. Try rephrasing the question.' : r.text || '(No answer was returned.)';
-      setMsgs((m) => [...m, { role: 'assistant', text, steps, mode: 'agent', error: r.refused }]);
+      setMsgs((m) => [...m, { role: 'assistant', text, steps, mode: 'claude', error: r.refused }]);
     } catch (err) {
       let text = 'Something went wrong while asking Claude.';
       if (err instanceof Anthropic.APIUserAbortError) text = 'Stopped.';
@@ -143,7 +104,7 @@ export default function Ask() {
       else if (err instanceof Anthropic.RateLimitError) text = 'Rate limited by the API. Wait a moment and try again.';
       else if (err instanceof Anthropic.APIConnectionError) text = 'Could not reach the Anthropic API. Check your connection.';
       else if (err instanceof Anthropic.APIError) text = `API error ${err.status}: ${err.message}`;
-      setMsgs((m) => [...m, { role: 'assistant', text, steps, mode: 'agent', error: true }]);
+      setMsgs((m) => [...m, { role: 'assistant', text, steps, mode: 'claude', error: true }]);
     } finally {
       setBusy(false);
       setLive([]);
@@ -159,19 +120,31 @@ export default function Ask() {
         title="Ask the Atlas"
         actions={
           <>
-            {msgs.length > 0 && <button className="btn" onClick={() => setMsgs([])}><Icon name="close" size={15} /> New chat</button>}
+            {msgs.length > 0 && <button className="btn" onClick={() => { setMsgs([]); setFocus(undefined); }}><Icon name="close" size={15} /> New chat</button>}
             <button className="btn" onClick={() => setShowSettings((s) => !s)} aria-expanded={showSettings}><Icon name="palette" size={15} /> Settings</button>
           </>
         }
       >
-        An AI guide that answers questions about Church history, doctrine and denominations by searching and reading the atlas’s own sourced entries,
-        then linking every entry it used. It presents each tradition in its own terms and never declares one correct.
+        A guide that answers questions about Church history, doctrine and denominations from the atlas’s own sourced entries,
+        linking every entry it uses. It works completely offline, presents each tradition in its own terms and never declares one correct.
       </PageHeader>
 
       <AnimatePresence>
         {showSettings && (
           <motion.div initial={{ opacity: 0, height: 0 }} animate={{ opacity: 1, height: 'auto' }} exit={{ opacity: 0, height: 0 }} className="mb-6 overflow-hidden">
             <div className="card space-y-4 p-5">
+              <div>
+                <span className="mb-1 block text-sm font-bold">Answer engine</span>
+                <div className="grid gap-2 sm:grid-cols-2">
+                  {([['offline', 'Offline guide', 'Built in. No internet, account or key. Instant answers composed from the atlas.'], ['claude', 'Claude (online, optional)', 'Free-form reasoning across entries. Needs internet and your own Anthropic API key.']] as const).map(([id, label, note]) => (
+                    <button key={id} onClick={() => setEngine(id)} className={cx('rounded-xl border p-3 text-left text-sm transition', engine === id ? 'border-accent bg-surface-2' : 'border-line hover:border-accent')} aria-pressed={engine === id}>
+                      <b className="block">{label}</b>
+                      <span className="text-xs text-muted">{note}</span>
+                    </button>
+                  ))}
+                </div>
+              </div>
+              {engine === 'claude' && (<>
               <label className="block">
                 <span className="mb-1 block text-sm font-bold">Anthropic API key</span>
                 <input type="password" value={apiKey} onChange={(e) => setApiKey(e.target.value.trim())} placeholder="sk-ant-…" autoComplete="off" className="w-full rounded-xl border border-line bg-bg px-3 py-2 outline-none focus:border-accent" />
@@ -194,20 +167,20 @@ export default function Ask() {
                   ))}
                 </div>
               </div>
+              </>)}
             </div>
           </motion.div>
         )}
       </AnimatePresence>
 
-      {!client && !hosted && (
-        <div className="mb-5 flex items-start gap-3 rounded-2xl border border-dashed border-line p-4 text-sm text-ink-2">
-          <Icon name="info" className="mt-0.5 shrink-0 text-accent" />
-          <span>
-            No API key set, so answers come from <b>librarian mode</b>: the most relevant atlas entries with summaries.{' '}
-            <button className="font-semibold text-accent underline" onClick={() => setShowSettings(true)}>Add a key</button> for full written answers.
-          </span>
-        </div>
-      )}
+      <div className="mb-5 flex items-start gap-3 rounded-2xl border border-dashed border-line p-4 text-sm text-ink-2">
+        <Icon name={useClaude ? 'sparkles' : 'book'} className="mt-0.5 shrink-0 text-accent" />
+        <span>
+          {useClaude ? <>Answering with <b>Claude</b> (online). </> : <>Answering with the built-in <b>offline guide</b>: no internet or account needed. Type <b>help</b> for the kinds of questions it understands. </>}
+          {engine === 'claude' && !client && <>Add an API key in settings to use Claude. </>}
+          <button className="font-semibold text-accent underline" onClick={() => setShowSettings(true)}>Change engine</button>
+        </span>
+      </div>
 
       <div className="space-y-4" aria-live="polite">
         {msgs.length === 0 && (
@@ -227,12 +200,12 @@ export default function Ask() {
             ) : (
               <div className={cx('card w-full max-w-[95%] rounded-bl-md p-5', m.error && 'border-bad/50')}>
                 <div className="mb-2 flex items-center gap-2 text-xs font-bold uppercase tracking-widest text-muted">
-                  <Icon name={m.mode === 'librarian' ? 'book' : 'sparkles'} size={13} className="text-accent" />
-                  {m.mode === 'librarian' ? 'Librarian mode' : 'Atlas guide'}
+                  <Icon name={m.mode === 'offline' ? 'book' : 'sparkles'} size={13} className="text-accent" />
+                  {m.mode === 'offline' ? 'Offline guide' : 'Claude'}
                 </div>
                 {m.steps && m.steps.length > 0 && (
                   <details className="mb-3 text-xs text-muted">
-                    <summary className="cursor-pointer">Consulted the atlas {m.steps.length} time{m.steps.length > 1 ? 's' : ''}</summary>
+                    <summary className="cursor-pointer">How I found this ({m.steps.length} step{m.steps.length > 1 ? 's' : ''})</summary>
                     <ul className="mt-1 space-y-0.5 pl-4">{m.steps.map((s, j) => <li key={j}>{s.summary}</li>)}</ul>
                   </details>
                 )}
@@ -245,8 +218,8 @@ export default function Ask() {
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="card max-w-[95%] p-5">
             <div className="flex items-center gap-2 text-sm font-semibold text-accent">
               <motion.span animate={{ rotate: 360 }} transition={{ repeat: Infinity, duration: 2, ease: 'linear' }}><Icon name="coptic-cross" /></motion.span>
-              Researching…
-              <button className="btn ml-auto !py-1 text-xs" onClick={() => abort.current?.abort()}>Stop</button>
+              {useClaude ? 'Researching…' : 'Writing…'}
+              {useClaude && <button className="btn ml-auto !py-1 text-xs" onClick={() => abort.current?.abort()}>Stop</button>}
             </div>
             {draft && <div className="mt-3 text-ink-2"><Markdown text={draft} /></div>}
             <ul className="mt-2 space-y-1 text-sm text-muted">
@@ -275,7 +248,7 @@ export default function Ask() {
           </button>
         </div>
         <p className="mt-1 px-2 text-center text-[11px] text-muted">
-          AI answers can be wrong — follow the links to check each entry and its sources. <Link to={hrefFor('path', 'how-the-trinity-was-defined')} className="underline">Prefer a guided tour?</Link>
+          Answers are drawn from the atlas; follow the links to check each entry and its sources. <Link to={hrefFor('path', 'how-the-trinity-was-defined')} className="underline">Prefer a guided tour?</Link>
         </p>
       </form>
     </div>
