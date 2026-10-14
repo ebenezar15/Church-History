@@ -1,0 +1,3286 @@
+{
+  "sources": [
+    {
+      "id": "russell-devil-series",
+      "title": "The Devil (1977); Satan (1981); Lucifer (1984); Mephistopheles (1986)",
+      "kind": "secondary",
+      "author": "Jeffrey Burton Russell",
+      "year": "1977-86"
+    },
+    {
+      "id": "levack-witch-hunt",
+      "title": "The Witch-Hunt in Early Modern Europe",
+      "kind": "secondary",
+      "author": "Brian P. Levack",
+      "year": "4th ed. 2016"
+    },
+    {
+      "id": "boyer-nissenbaum-salem",
+      "title": "Salem Possessed: The Social Origins of Witchcraft",
+      "kind": "secondary",
+      "author": "Paul Boyer & Stephen Nissenbaum",
+      "year": 1974
+    },
+    {
+      "id": "norton-devils-snare",
+      "title": "In the Devil’s Snare: The Salem Witchcraft Crisis of 1692",
+      "kind": "secondary",
+      "author": "Mary Beth Norton",
+      "year": 2002
+    },
+    {
+      "id": "young-history-exorcism",
+      "title": "A History of Exorcism in Catholic Christianity",
+      "kind": "secondary",
+      "author": "Francis Young",
+      "year": 2016
+    },
+    {
+      "id": "wink-powers-trilogy",
+      "title": "Naming the Powers (1984); Unmasking the Powers (1986); Engaging the Powers (1992)",
+      "kind": "primary",
+      "author": "Walter Wink",
+      "year": "1984-92"
+    },
+    {
+      "id": "bultmann-kerygma-myth",
+      "title": "Kerygma and Myth: A Theological Debate (incl. “New Testament and Mythology”, 1941)",
+      "kind": "primary",
+      "author": "Hans Werner Bartsch (ed.); Rudolf Bultmann",
+      "year": "Eng. tr. 1953"
+    },
+    {
+      "id": "lowe-territorial-spirits",
+      "title": "Territorial Spirits and World Evangelisation?",
+      "kind": "secondary",
+      "author": "Chuck Lowe",
+      "year": 1998
+    },
+    {
+      "id": "arnold-spiritual-warfare",
+      "title": "3 Crucial Questions about Spiritual Warfare",
+      "kind": "secondary",
+      "author": "Clinton E. Arnold",
+      "year": 1997
+    },
+    {
+      "id": "meyer-translating-devil",
+      "title": "Translating the Devil: Religion and Modernity among the Ewe in Ghana",
+      "kind": "secondary",
+      "author": "Birgit Meyer",
+      "year": 1999
+    },
+    {
+      "id": "onyinah-pentecostal-exorcism",
+      "title": "Pentecostal Exorcism: Witchcraft and Demonology in Ghana",
+      "kind": "secondary",
+      "author": "Opoku Onyinah",
+      "year": 2012
+    },
+    {
+      "id": "lausanne-spiritual-warfare-1993-src",
+      "title": "Statement on Spiritual Warfare (Lausanne Committee Intercession Working Group, Nairobi)",
+      "kind": "primary",
+      "author": "Lausanne Committee for World Evangelization",
+      "year": 1993,
+      "url": "https://lausanne.org/content/statement/statement-on-spiritual-warfare-1993"
+    },
+    {
+      "id": "rorem-pseudo-dionysius",
+      "title": "Pseudo-Dionysius: A Commentary on the Texts and an Introduction to Their Influence",
+      "kind": "secondary",
+      "author": "Paul Rorem",
+      "year": 1993
+    },
+    {
+      "id": "nickelsburg-1-enoch",
+      "title": "1 Enoch 1: A Commentary on the Book of 1 Enoch (Hermeneia)",
+      "kind": "secondary",
+      "author": "George W. E. Nickelsburg",
+      "year": 2001
+    },
+    {
+      "id": "cuneo-american-exorcism",
+      "title": "American Exorcism: Expelling Demons in the Land of Plenty",
+      "kind": "secondary",
+      "author": "Michael W. Cuneo",
+      "year": 2001
+    },
+    {
+      "id": "macarthur-strange-fire",
+      "title": "Strange Fire: The Danger of Offending the Holy Spirit with Counterfeit Worship",
+      "kind": "primary",
+      "author": "John MacArthur",
+      "year": 2013
+    },
+    {
+      "id": "ter-haar-witchcraft-africa",
+      "title": "Imagining Evil: Witchcraft Beliefs and Accusations in Contemporary Africa",
+      "kind": "secondary",
+      "author": "Gerrie ter Haar (ed.)",
+      "year": 2007
+    },
+    {
+      "id": "bediako-jesus-in-africa",
+      "title": "Jesus in Africa: The Christian Gospel in African History and Experience",
+      "kind": "secondary",
+      "author": "Kwame Bediako",
+      "year": 2000
+    },
+    {
+      "id": "muchembled-history-devil",
+      "title": "A History of the Devil: From the Middle Ages to the Present",
+      "kind": "secondary",
+      "author": "Robert Muchembled",
+      "year": "Eng. tr. 2003"
+    }
+  ],
+  "people": [
+    {
+      "id": "pseudo-dionysius",
+      "name": "Pseudo-Dionysius the Areopagite",
+      "circa": false,
+      "roles": [
+        "mystical theologian"
+      ],
+      "traditionIds": [
+        "early-church"
+      ],
+      "regions": [
+        "levant"
+      ],
+      "summary": "Anonymous Syrian Christian writer of the late 5th or early 6th century who wrote under the name of Dionysius, Paul’s Athenian convert (Acts 17:34). His Celestial Hierarchy arranged the angels in three triads of three, and his Mystical Theology shaped apophatic theology East and West; his works were first cited by Miaphysite theologians around 532 and translated into Latin by Eriugena.",
+      "keyIdeas": [
+        "Nine orders of angels in three triads",
+        "Hierarchy as participation in divine light",
+        "Apophatic (negative) theology"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "rorem-pseudo-dionysius",
+        "mcginn-mysticism",
+        "odcc"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "evagrius-ponticus",
+      "name": "Evagrius Ponticus",
+      "born": 345,
+      "died": 399,
+      "circa": false,
+      "roles": [
+        "monk",
+        "spiritual writer"
+      ],
+      "traditionIds": [
+        "early-church"
+      ],
+      "regions": [
+        "egypt",
+        "asia-minor"
+      ],
+      "summary": "Monk of the Egyptian desert (Nitria and Kellia), disciple of the Cappadocians, who analysed spiritual combat as a struggle with eight “thoughts” (logismoi) instigated by demons — the ancestor of the seven deadly sins. Some of his Origenist speculations were condemned in 553, but his ascetic teaching shaped Eastern and Western monasticism through Cassian.",
+      "keyIdeas": [
+        "Eight evil thoughts",
+        "Demons and the discernment of spirits",
+        "Pure prayer"
+      ],
+      "influencedBy": [
+        "origen",
+        "gregory-of-nazianzus"
+      ],
+      "place": {
+        "name": "Kellia, Egypt",
+        "lat": 30.5833,
+        "lng": 30.2167
+      },
+      "sources": [
+        "chitty-desert-city",
+        "mcginn-mysticism"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "heinrich-kramer",
+      "name": "Heinrich Kramer (Institoris)",
+      "born": 1430,
+      "died": 1505,
+      "circa": true,
+      "roles": [
+        "Dominican friar",
+        "inquisitor"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "German Dominican inquisitor who obtained Innocent VIII’s bull Summis desiderantes (1484) and wrote the Malleus Maleficarum (1486), the most notorious manual for identifying and prosecuting witches. His trials at Innsbruck (1485) were halted by the local bishop; the attribution of co-authorship to Jakob Sprenger is now widely doubted.",
+      "keyIdeas": [
+        "Witchcraft as a heresy and a conspiracy with the devil",
+        "Gendered theory of witchcraft"
+      ],
+      "influencedBy": [
+        "thomas-aquinas"
+      ],
+      "place": {
+        "name": "Sélestat, Alsace",
+        "lat": 48.2594,
+        "lng": 7.4542
+      },
+      "sources": [
+        "levack-witch-hunt",
+        "russell-devil-series"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "friedrich-spee",
+      "name": "Friedrich Spee",
+      "born": 1591,
+      "died": 1635,
+      "circa": false,
+      "roles": [
+        "Jesuit priest",
+        "poet",
+        "critic of witch trials"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "German Jesuit who, having ministered to accused witches facing execution in Franconia, anonymously published Cautio Criminalis (1631), a devastating critique of torture and of witch-trial procedure. He died nursing plague-stricken soldiers in Trier.",
+      "keyIdeas": [
+        "Torture produces false confessions",
+        "Presumption of innocence",
+        "Pastoral care of the condemned"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Trier",
+        "lat": 49.7499,
+        "lng": 6.6371
+      },
+      "sources": [
+        "levack-witch-hunt",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "balthasar-bekker",
+      "name": "Balthasar Bekker",
+      "born": 1634,
+      "died": 1698,
+      "circa": false,
+      "roles": [
+        "Reformed minister",
+        "theologian"
+      ],
+      "traditionIds": [
+        "reformed"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Dutch Reformed minister in Amsterdam whose The World Bewitched (De Betoverde Weereld, 1691), drawing on Cartesian philosophy, argued that the devil has no power to act in the material world and that belief in witchcraft and possession is unbiblical superstition. He was deposed from the ministry in 1692.",
+      "keyIdeas": [
+        "Denial of demonic agency in the world",
+        "Critique of witch belief",
+        "Cartesian theology"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Amsterdam",
+        "lat": 52.3676,
+        "lng": 4.9041
+      },
+      "sources": [
+        "levack-witch-hunt",
+        "muchembled-history-devil"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "increase-mather",
+      "name": "Increase Mather",
+      "born": 1639,
+      "died": 1723,
+      "circa": false,
+      "roles": [
+        "Puritan minister",
+        "president of Harvard College"
+      ],
+      "traditionIds": [
+        "congregationalist"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "Boston Puritan minister and president of Harvard whose Cases of Conscience concerning Evil Spirits (1693) criticised the use of “spectral evidence” in the Salem trials and helped bring them to an end, though he did not deny the reality of witchcraft. He was the father of Cotton Mather.",
+      "keyIdeas": [
+        "Against spectral evidence",
+        "Providence and the invisible world"
+      ],
+      "influencedBy": [
+        "john-calvin"
+      ],
+      "place": {
+        "name": "Boston",
+        "lat": 42.3601,
+        "lng": -71.0589
+      },
+      "sources": [
+        "norton-devils-snare",
+        "boyer-nissenbaum-salem"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "walter-wink",
+      "name": "Walter Wink",
+      "born": 1935,
+      "died": 2012,
+      "circa": false,
+      "roles": [
+        "biblical scholar",
+        "theologian",
+        "activist"
+      ],
+      "traditionIds": [
+        "methodist"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "United Methodist biblical scholar at Auburn Theological Seminary whose Powers trilogy (1984-92) reinterpreted the New Testament “principalities and powers” as the inner spirituality of institutions and structures, created good, fallen, and to be redeemed, and developed a theology of active nonviolence.",
+      "keyIdeas": [
+        "Powers as the interiority of institutions",
+        "The domination system",
+        "Jesus’ third way of nonviolence"
+      ],
+      "influencedBy": [
+        "karl-barth",
+        "rudolf-bultmann"
+      ],
+      "place": {
+        "name": "New York City",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "sources": [
+        "wink-powers-trilogy"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "derek-prince",
+      "name": "Derek Prince",
+      "born": 1915,
+      "died": 2003,
+      "circa": false,
+      "roles": [
+        "Bible teacher",
+        "deliverance minister"
+      ],
+      "traditionIds": [
+        "pentecostal",
+        "charismatic-renewal"
+      ],
+      "regions": [
+        "global",
+        "north-america"
+      ],
+      "summary": "British Bible teacher born in Bangalore, educated at Cambridge, who after a Pentecostal conversion in the army (1941) became a leading international teacher of deliverance ministry in the charismatic movement, notably through They Shall Expel Demons (1998).",
+      "keyIdeas": [
+        "Deliverance from demons",
+        "Christians can be “demonised”",
+        "Spiritual warfare through Scripture and prayer"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Bangalore",
+        "lat": 12.9716,
+        "lng": 77.5946
+      },
+      "sources": [
+        "cuneo-american-exorcism",
+        "burgess-pentecostal-dictionary"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "emmanuel-milingo",
+      "name": "Emmanuel Milingo",
+      "born": 1930,
+      "circa": false,
+      "roles": [
+        "Catholic archbishop of Lusaka",
+        "healer"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "sub-saharan-africa",
+        "italy"
+      ],
+      "summary": "Zambian Catholic archbishop of Lusaka (1969-83) whose healing and exorcism ministry addressed African experiences of spirit affliction. Summoned to Rome in 1982 amid controversy, he resigned his see and continued a healing ministry in Italy; his later marriage (2001) and unauthorised ordinations led to his excommunication in 2006.",
+      "keyIdeas": [
+        "Healing and exorcism in African Catholic context",
+        "Engagement with spirit afflictions"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Lusaka",
+        "lat": -15.3875,
+        "lng": 28.3228
+      },
+      "sources": [
+        "isichei-africa",
+        "young-history-exorcism"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "works": [
+    {
+      "id": "book-of-1-enoch",
+      "title": "1 Enoch (Book of the Watchers, chs. 1-36)",
+      "author": "Anonymous (Enochic tradition)",
+      "year": -250,
+      "circa": true,
+      "language": "Aramaic (preserved fully in Ge’ez)",
+      "genre": "scripture",
+      "summary": "Jewish apocalyptic text expanding Genesis 6:1-4: angelic Watchers led by Shemihazah and Asael descend, take human wives, teach forbidden arts and beget giants, bringing violence until judgement.",
+      "significance": "Canonical in the Ethiopian Orthodox Tewahedo Church and quoted in Jude 14-15; foundational for Second Temple and early Christian demonology.",
+      "doctrineIds": [
+        "angels-spiritual-powers",
+        "scripture-authority"
+      ],
+      "sources": [
+        "nickelsburg-1-enoch",
+        "cowley-ethiopian-canon"
+      ]
+    },
+    {
+      "id": "athanasius-life-of-antony",
+      "title": "Life of Antony",
+      "authorId": "athanasius",
+      "year": 360,
+      "circa": true,
+      "language": "Greek",
+      "genre": "history",
+      "summary": "Athanasius’ biography of the desert father Antony, including his long discourse on the deceits of demons and how to discern and resist them.",
+      "significance": "Shaped monastic demonology and the ideal of the monk as spiritual warrior.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/2811.htm",
+      "doctrineIds": [
+        "angels-spiritual-powers"
+      ],
+      "sources": [
+        "athanasius-life-antony",
+        "chitty-desert-city"
+      ]
+    },
+    {
+      "id": "pseudo-dionysius-celestial-hierarchy",
+      "title": "The Celestial Hierarchy",
+      "authorId": "pseudo-dionysius",
+      "year": 500,
+      "circa": true,
+      "language": "Greek",
+      "genre": "treatise",
+      "summary": "Arranges the nine angelic orders in three triads, each mediating divine illumination to the one below.",
+      "significance": "The classic Christian angelology, normative in medieval East and West.",
+      "doctrineIds": [
+        "angels-spiritual-powers"
+      ],
+      "sources": [
+        "rorem-pseudo-dionysius"
+      ]
+    },
+    {
+      "id": "gregory-homilies-gospels",
+      "title": "Forty Homilies on the Gospels",
+      "authorId": "gregory-the-great",
+      "year": 591,
+      "circa": true,
+      "language": "Latin",
+      "genre": "sermon",
+      "summary": "Homilies preached in Rome; Homily 34 on the lost sheep and coin discusses the nine orders of angels.",
+      "significance": "Transmitted an angelic hierarchy to the medieval West.",
+      "doctrineIds": [
+        "angels-spiritual-powers"
+      ],
+      "sources": [
+        "odcc"
+      ]
+    },
+    {
+      "id": "summis-desiderantes",
+      "title": "Summis desiderantes affectibus",
+      "author": "Innocent VIII",
+      "year": 1484,
+      "circa": false,
+      "language": "Latin",
+      "genre": "canon",
+      "summary": "Bull of Innocent VIII authorising Kramer and Sprenger to prosecute witchcraft in Germany.",
+      "significance": "Lent papal authority to the inquisitors; printed with the Malleus.",
+      "doctrineIds": [
+        "angels-spiritual-powers"
+      ],
+      "sources": [
+        "levack-witch-hunt"
+      ]
+    },
+    {
+      "id": "malleus-maleficarum",
+      "title": "Malleus Maleficarum (The Hammer of Witches)",
+      "authorId": "heinrich-kramer",
+      "year": 1486,
+      "circa": false,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "Manual arguing that witchcraft is real, a pact with the devil involving chiefly women, and a crime to be prosecuted by secular courts using torture.",
+      "significance": "Widely reprinted; a significant though not singular influence on early modern witch-hunting.",
+      "doctrineIds": [
+        "angels-spiritual-powers"
+      ],
+      "sources": [
+        "levack-witch-hunt",
+        "russell-devil-series"
+      ]
+    },
+    {
+      "id": "luther-mighty-fortress",
+      "title": "A Mighty Fortress Is Our God (Ein feste Burg)",
+      "authorId": "martin-luther",
+      "year": 1529,
+      "circa": true,
+      "language": "German",
+      "genre": "hymn",
+      "summary": "Luther’s hymn on Psalm 46 portraying the Christian’s battle with the devil, overcome by Christ.",
+      "significance": "The “battle hymn of the Reformation”, sung across denominations.",
+      "doctrineIds": [
+        "angels-spiritual-powers"
+      ],
+      "sources": [
+        "macculloch-reformation"
+      ]
+    },
+    {
+      "id": "rituale-romanum-exorcism",
+      "title": "Rituale Romanum, Title XII: On Exorcising the Possessed",
+      "author": "Issued under Pope Paul V",
+      "year": 1614,
+      "circa": false,
+      "language": "Latin",
+      "genre": "liturgy",
+      "summary": "The rite of solemn exorcism issued under Paul V, with criteria for discerning possession and cautions against superstition.",
+      "significance": "Governed Catholic exorcism until 1999.",
+      "doctrineIds": [
+        "angels-spiritual-powers"
+      ],
+      "sources": [
+        "young-history-exorcism"
+      ]
+    },
+    {
+      "id": "spee-cautio-criminalis",
+      "title": "Cautio Criminalis",
+      "authorId": "friedrich-spee",
+      "year": 1631,
+      "circa": false,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "Anonymous critique of witch-trial procedure, especially torture, by a confessor of condemned witches.",
+      "significance": "One of the most influential arguments that hastened the decline of witch trials in Germany.",
+      "doctrineIds": [
+        "angels-spiritual-powers"
+      ],
+      "sources": [
+        "levack-witch-hunt"
+      ]
+    },
+    {
+      "id": "bekker-world-bewitched",
+      "title": "The World Bewitched (De Betoverde Weereld)",
+      "authorId": "balthasar-bekker",
+      "year": 1691,
+      "circa": false,
+      "language": "Dutch",
+      "genre": "treatise",
+      "summary": "Argues from Scripture and Cartesian philosophy that spirits cannot act on bodies and that belief in witchcraft is unfounded.",
+      "significance": "Major early Enlightenment attack on demonology from within the Reformed church.",
+      "doctrineIds": [
+        "angels-spiritual-powers"
+      ],
+      "sources": [
+        "levack-witch-hunt"
+      ]
+    },
+    {
+      "id": "mather-cases-of-conscience",
+      "title": "Cases of Conscience concerning Evil Spirits Personating Men",
+      "authorId": "increase-mather",
+      "year": 1693,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "Argues that spectral evidence (testimony that the accused’s spectre afflicted someone) is unreliable because the devil can impersonate the innocent.",
+      "significance": "Contributed to ending the Salem trials.",
+      "doctrineIds": [
+        "angels-spiritual-powers"
+      ],
+      "sources": [
+        "norton-devils-snare"
+      ]
+    },
+    {
+      "id": "bultmann-nt-mythology",
+      "title": "New Testament and Mythology",
+      "authorId": "rudolf-bultmann",
+      "year": 1941,
+      "circa": false,
+      "language": "German",
+      "genre": "treatise",
+      "summary": "Argues that the New Testament’s three-storey universe of spirits and demons is mythological and must be interpreted existentially for modern people.",
+      "significance": "Launched the demythologising debate.",
+      "doctrineIds": [
+        "angels-spiritual-powers",
+        "scripture-authority"
+      ],
+      "sources": [
+        "bultmann-kerygma-myth"
+      ]
+    },
+    {
+      "id": "lewis-screwtape-letters",
+      "title": "The Screwtape Letters",
+      "authorId": "c-s-lewis",
+      "year": 1942,
+      "circa": false,
+      "language": "English",
+      "genre": "devotional",
+      "summary": "Satirical letters from a senior devil to his nephew on tempting a human “patient”.",
+      "significance": "Popular modern Christian treatment of demonic temptation.",
+      "doctrineIds": [
+        "angels-spiritual-powers"
+      ],
+      "sources": [
+        "russell-devil-series"
+      ]
+    },
+    {
+      "id": "wink-naming-the-powers",
+      "title": "Naming the Powers",
+      "authorId": "walter-wink",
+      "year": 1984,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "First volume of the Powers trilogy, a word study and theology of New Testament power language.",
+      "significance": "Reframed the powers as spiritual-institutional realities.",
+      "doctrineIds": [
+        "angels-spiritual-powers",
+        "atonement"
+      ],
+      "sources": [
+        "wink-powers-trilogy"
+      ]
+    },
+    {
+      "id": "de-exorcismis-1999",
+      "title": "De exorcismis et supplicationibus quibusdam",
+      "author": "Congregation for Divine Worship",
+      "year": 1999,
+      "circa": false,
+      "language": "Latin",
+      "genre": "liturgy",
+      "summary": "The revised Catholic Rite of Exorcism, promulgated in January 1999, requiring careful discernment including medical and psychiatric assessment.",
+      "significance": "Replaced the 1614 rite; an English translation was approved in 2017.",
+      "doctrineIds": [
+        "angels-spiritual-powers"
+      ],
+      "sources": [
+        "young-history-exorcism"
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "id": "john-damascus-angel-definition",
+      "text": "An angel, then, is an intelligent essence, in perpetual motion, with free-will, incorporeal, ministering to God, having obtained by grace an immortal nature.",
+      "kind": "quotation",
+      "translation": "Greek, tr. S. D. F. Salmond",
+      "personId": "john-of-damascus",
+      "workId": "john-damascus-exact-exposition",
+      "citation": "Exact Exposition of the Orthodox Faith 2.3 (tr. S. D. F. Salmond, NPNF II/9)",
+      "year": 743,
+      "topics": [
+        "angels"
+      ],
+      "doctrineIds": [
+        "angels-spiritual-powers"
+      ]
+    },
+    {
+      "id": "athanasius-antony-demons",
+      "text": "In his discourse to the monks, Antony teaches that the demons are not to be feared: they have no power since Christ’s coming, they work through fear and deceit, and they flee at the sign of the cross and at prayer; the discernment of spirits is learned through humility.",
+      "kind": "paraphrase",
+      "personId": "athanasius",
+      "workId": "athanasius-life-of-antony",
+      "citation": "Life of Antony 21-43",
+      "year": 360,
+      "topics": [
+        "demons",
+        "monasticism",
+        "discernment"
+      ],
+      "doctrineIds": [
+        "angels-spiritual-powers"
+      ]
+    },
+    {
+      "id": "evagrius-eight-thoughts",
+      "text": "Evagrius teaches that there are eight generic thoughts through which the demons attack — gluttony, lust, avarice, sadness, anger, acedia, vainglory and pride — and that the monk must learn to recognise them and answer them with Scripture.",
+      "kind": "paraphrase",
+      "personId": "evagrius-ponticus",
+      "citation": "Praktikos 6-14; Antirrhetikos",
+      "year": 383,
+      "topics": [
+        "demons",
+        "temptation",
+        "spiritual combat"
+      ],
+      "doctrineIds": [
+        "angels-spiritual-powers"
+      ]
+    },
+    {
+      "id": "augustine-angels-fall-pride",
+      "text": "Augustine teaches that God created all angels good; some turned from God to delight in their own power through pride, so forming the society of the devil, while the others held fast to God — two societies of angels anticipating the two cities.",
+      "kind": "paraphrase",
+      "personId": "augustine-of-hippo",
+      "workId": "augustine-city-of-god",
+      "citation": "City of God 11.11-15, 11.33; 12.1, 12.6",
+      "year": 417,
+      "topics": [
+        "angels",
+        "fall",
+        "pride"
+      ],
+      "doctrineIds": [
+        "angels-spiritual-powers"
+      ]
+    },
+    {
+      "id": "ps-dionysius-nine-orders",
+      "text": "Dionysius arranges the heavenly beings in three triads: seraphim, cherubim and thrones nearest God; dominions, powers and authorities in the middle; principalities, archangels and angels nearest us — each order purifying, illuminating and perfecting the one below.",
+      "kind": "paraphrase",
+      "personId": "pseudo-dionysius",
+      "workId": "pseudo-dionysius-celestial-hierarchy",
+      "citation": "Celestial Hierarchy 6-9",
+      "year": 500,
+      "topics": [
+        "angels",
+        "hierarchy"
+      ],
+      "doctrineIds": [
+        "angels-spiritual-powers"
+      ]
+    },
+    {
+      "id": "gregory-nine-orders-para",
+      "text": "Gregory counts nine orders of angels from Scripture — angels, archangels, virtues, powers, principalities, dominions, thrones, cherubim and seraphim — and says the names describe their ministries, not their natures.",
+      "kind": "paraphrase",
+      "personId": "gregory-the-great",
+      "workId": "gregory-homilies-gospels",
+      "citation": "Homilies on the Gospels 34.7-10",
+      "year": 591,
+      "topics": [
+        "angels",
+        "hierarchy"
+      ],
+      "doctrineIds": [
+        "angels-spiritual-powers"
+      ]
+    },
+    {
+      "id": "basil-guardian-angel-para",
+      "text": "Basil teaches that beside each believer stands an angel as protector and shepherd, guiding him toward life — unless sin drives the angel away.",
+      "kind": "paraphrase",
+      "personId": "basil-of-caesarea",
+      "citation": "Against Eunomius 3.1; Homily on Psalm 33",
+      "year": 364,
+      "topics": [
+        "guardian angels"
+      ],
+      "doctrineIds": [
+        "angels-spiritual-powers"
+      ]
+    },
+    {
+      "id": "aquinas-angels-para",
+      "text": "Aquinas teaches that angels are pure intellectual creatures without bodies, each a species to itself; they were created in grace, and those who sinned did so by pride, desiring to be like God by their own power, in their first moment of choice — a choice that is irrevocable.",
+      "kind": "paraphrase",
+      "personId": "thomas-aquinas",
+      "workId": "aquinas-summa-theologiae",
+      "citation": "Summa Theologiae I q.50-64",
+      "year": 1268,
+      "topics": [
+        "angels",
+        "fall of angels"
+      ],
+      "doctrineIds": [
+        "angels-spiritual-powers"
+      ]
+    },
+    {
+      "id": "kramer-malleus-para",
+      "text": "The Malleus argues that denying the reality of witchcraft is itself heretical, that witches act through a pact with the devil, and — in its most notorious section — that women are more prone to witchcraft because of supposed weakness of faith and carnal desire.",
+      "kind": "paraphrase",
+      "personId": "heinrich-kramer",
+      "workId": "malleus-maleficarum",
+      "citation": "Malleus Maleficarum (1486), Part I qq.1, 6",
+      "year": 1486,
+      "topics": [
+        "witchcraft",
+        "gender",
+        "persecution"
+      ],
+      "doctrineIds": [
+        "angels-spiritual-powers"
+      ]
+    },
+    {
+      "id": "luther-ancient-foe",
+      "text": "For still our ancient foe / Doth seek to work us woe; / His craft and power are great, / And armed with cruel hate, / On earth is not his equal.",
+      "kind": "quotation",
+      "translation": "German, tr. Frederic Henry Hedge",
+      "personId": "martin-luther",
+      "workId": "luther-mighty-fortress",
+      "citation": "Ein feste Burg ist unser Gott, stanza 1 (tr. Frederic H. Hedge, 1853)",
+      "year": 1529,
+      "topics": [
+        "devil",
+        "spiritual warfare",
+        "hymn"
+      ],
+      "doctrineIds": [
+        "angels-spiritual-powers"
+      ]
+    },
+    {
+      "id": "spee-cautio-para",
+      "text": "Spee argues that under torture the innocent will confess anything, and that if the same procedures were applied to judges, priests or the pope, they too would confess to witchcraft; the trials therefore create the very witches they claim to discover.",
+      "kind": "paraphrase",
+      "personId": "friedrich-spee",
+      "workId": "spee-cautio-criminalis",
+      "citation": "Cautio Criminalis (1631), dubia 20-30",
+      "year": 1631,
+      "topics": [
+        "witch trials",
+        "torture"
+      ],
+      "doctrineIds": [
+        "angels-spiritual-powers",
+        "ethics-church-state"
+      ]
+    },
+    {
+      "id": "bekker-para",
+      "text": "Bekker argues that Scripture, rightly read, gives the devil no power to act in the bodily world, so that possession, pacts and witches’ flights are human fictions that dishonour God’s sole sovereignty.",
+      "kind": "paraphrase",
+      "personId": "balthasar-bekker",
+      "workId": "bekker-world-bewitched",
+      "citation": "The World Bewitched (1691), books 2-4",
+      "year": 1691,
+      "topics": [
+        "devil",
+        "witchcraft",
+        "scepticism"
+      ],
+      "doctrineIds": [
+        "angels-spiritual-powers"
+      ]
+    },
+    {
+      "id": "mather-ten-witches",
+      "text": "It were better that ten suspected witches should escape, than that one innocent person should be condemned.",
+      "kind": "quotation",
+      "personId": "increase-mather",
+      "workId": "mather-cases-of-conscience",
+      "citation": "Cases of Conscience concerning Evil Spirits (1693), Postscript (spelling modernised)",
+      "year": 1693,
+      "topics": [
+        "witch trials",
+        "justice"
+      ],
+      "doctrineIds": [
+        "angels-spiritual-powers"
+      ]
+    },
+    {
+      "id": "bultmann-myth-para",
+      "text": "Bultmann argues that modern people who use electric light and medicine cannot also believe in a New Testament world of spirits and demons; the kerygma must be freed from this mythological framework and interpreted existentially as a call to authentic existence.",
+      "kind": "paraphrase",
+      "personId": "rudolf-bultmann",
+      "workId": "bultmann-nt-mythology",
+      "citation": "“New Testament and Mythology” (1941), I.A",
+      "year": 1941,
+      "topics": [
+        "demythologising",
+        "modernity"
+      ],
+      "doctrineIds": [
+        "angels-spiritual-powers",
+        "scripture-authority"
+      ]
+    },
+    {
+      "id": "lewis-two-errors-para",
+      "text": "In his preface Lewis warns of two equal and opposite errors about devils: to disbelieve in their existence, or to believe and feel an excessive and unhealthy interest in them — and the devils are pleased by both.",
+      "kind": "paraphrase",
+      "personId": "c-s-lewis",
+      "workId": "lewis-screwtape-letters",
+      "citation": "The Screwtape Letters (1942), Preface",
+      "year": 1942,
+      "topics": [
+        "devil",
+        "balance"
+      ],
+      "doctrineIds": [
+        "angels-spiritual-powers"
+      ]
+    },
+    {
+      "id": "wink-powers-para",
+      "text": "Wink argues that the “principalities and powers” are the inner spirituality of outer structures — nations, corporations, institutions — which are good, fallen and redeemable at once; the gospel calls the powers back to their divine vocation through nonviolent resistance.",
+      "kind": "paraphrase",
+      "personId": "walter-wink",
+      "workId": "wink-naming-the-powers",
+      "citation": "Naming the Powers (1984); Engaging the Powers (1992), ch. 4",
+      "year": 1984,
+      "topics": [
+        "powers",
+        "structures",
+        "nonviolence"
+      ],
+      "doctrineIds": [
+        "angels-spiritual-powers",
+        "atonement"
+      ]
+    },
+    {
+      "id": "wagner-territorial-para",
+      "text": "Wagner argues that Satan assigns high-ranking demons to nations, cities and peoples, as with the “prince of Persia” in Daniel 10; evangelism advances when believers identify these territorial spirits through spiritual mapping and bind them in strategic intercession.",
+      "kind": "paraphrase",
+      "personId": "c-peter-wagner",
+      "citation": "Warfare Prayer (1992); Engaging the Enemy (ed., 1991)",
+      "year": 1991,
+      "topics": [
+        "territorial spirits",
+        "spiritual warfare"
+      ],
+      "doctrineIds": [
+        "angels-spiritual-powers",
+        "holy-spirit"
+      ]
+    },
+    {
+      "id": "prince-deliverance-para",
+      "text": "Prince argues that Jesus’ ministry was one-third deliverance, that the Greek term often translated “possessed” means “demonised”, and that Christians can be oppressed by demons in areas of their lives and need deliverance through renouncing sin and commanding spirits to leave.",
+      "kind": "paraphrase",
+      "personId": "derek-prince",
+      "citation": "They Shall Expel Demons (1998), chs. 2, 15",
+      "year": 1998,
+      "topics": [
+        "deliverance",
+        "demonisation"
+      ],
+      "doctrineIds": [
+        "angels-spiritual-powers"
+      ]
+    },
+    {
+      "id": "bediako-christ-victor-africa",
+      "text": "Bediako argues that in African experience the gospel is received as the victory of Christ over all spiritual powers — ancestors, spirits and witchcraft — so that Christ becomes the supreme ancestor and protector, freeing believers from fear.",
+      "kind": "paraphrase",
+      "personId": "kwame-bediako",
+      "citation": "Jesus in Africa (2000), chs. 2-3",
+      "year": 2000,
+      "topics": [
+        "African theology",
+        "Christus Victor",
+        "spirits"
+      ],
+      "doctrineIds": [
+        "angels-spiritual-powers",
+        "atonement"
+      ]
+    },
+    {
+      "id": "macarthur-strange-fire-para",
+      "text": "MacArthur argues that the charismatic movement’s claims of ongoing revelation, healing and spiritual warfare techniques depart from the sufficiency of Scripture and expose believers to deception.",
+      "kind": "paraphrase",
+      "personId": "john-macarthur",
+      "citation": "Strange Fire (2013), chs. 1, 6-7",
+      "year": 2013,
+      "topics": [
+        "cessationism",
+        "critique"
+      ],
+      "doctrineIds": [
+        "angels-spiritual-powers",
+        "holy-spirit"
+      ]
+    },
+    {
+      "id": "pope-francis-devil-para",
+      "text": "Pope Francis writes that the devil should not be thought of as a myth, a symbol or an idea, but as a personal being who assails us; such a mistake leads us to let down our guard.",
+      "kind": "paraphrase",
+      "personId": "pope-francis",
+      "citation": "Gaudete et Exsultate 160-161 (2018)",
+      "year": 2018,
+      "topics": [
+        "devil",
+        "Catholic teaching"
+      ],
+      "doctrineIds": [
+        "angels-spiritual-powers"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "malleus-maleficarum-1486",
+      "title": "Malleus Maleficarum published",
+      "year": 1486,
+      "circa": false,
+      "place": {
+        "name": "Speyer",
+        "lat": 49.3173,
+        "lng": 8.4412
+      },
+      "category": "persecution",
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Following Innocent VIII’s bull Summis desiderantes (1484), the Dominican inquisitor Heinrich Kramer published the Malleus Maleficarum at Speyer, presenting witchcraft as a real, largely female conspiracy with the devil to be punished by torture and death.",
+      "causes": [
+        "Late medieval fusion of demonology, heresy trials and magic",
+        "Kramer’s failed Innsbruck trials (1485)"
+      ],
+      "consequences": [
+        "Became a reference work in some witch trials, though many courts and inquisitors (notably the Spanish and Roman Inquisitions) treated it with caution",
+        "Its misogynist theory has made it a symbol of the witch-hunts"
+      ],
+      "peopleIds": [
+        "heinrich-kramer"
+      ],
+      "doctrineIds": [
+        "angels-spiritual-powers"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "sources": [
+        "levack-witch-hunt",
+        "russell-devil-series"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "rituale-romanum-1614",
+      "title": "Rituale Romanum sets the rite of exorcism",
+      "year": 1614,
+      "circa": false,
+      "place": {
+        "name": "Rome",
+        "lat": 41.9029,
+        "lng": 12.4534
+      },
+      "category": "liturgical",
+      "regions": [
+        "italy",
+        "global"
+      ],
+      "summary": "Pope Paul V issued the Rituale Romanum, standardising Catholic rites; its section on exorcising the possessed laid down signs of possession and urged caution, and remained in force until 1999.",
+      "causes": [
+        "Tridentine liturgical reform",
+        "Abuses and proliferating exorcism manuals"
+      ],
+      "consequences": [
+        "Centralised and regulated Catholic exorcism for nearly four centuries"
+      ],
+      "peopleIds": [],
+      "doctrineIds": [
+        "angels-spiritual-powers"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "sources": [
+        "young-history-exorcism"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "salem-witch-trials-1692",
+      "title": "Salem witch trials",
+      "year": 1692,
+      "endYear": 1693,
+      "circa": false,
+      "place": {
+        "name": "Salem, Massachusetts",
+        "lat": 42.5195,
+        "lng": -70.8967
+      },
+      "category": "persecution",
+      "regions": [
+        "north-america"
+      ],
+      "summary": "In Salem Village and neighbouring towns in Puritan Massachusetts about 200 people were accused of witchcraft on the testimony of afflicted girls and “spectral evidence”; nineteen were hanged and one man, Giles Corey, was pressed to death. Ministers including Increase Mather criticised the evidence, and the trials ended in 1693; judge Samuel Sewall publicly repented in 1697.",
+      "causes": [
+        "Village factionalism and frontier war trauma",
+        "Puritan demonology and spectral evidence",
+        "Afflictions of young women"
+      ],
+      "consequences": [
+        "Discredited spectral evidence and witch prosecution in New England",
+        "Public repentance by jurors and Sewall; later legislative exonerations (1711, 1957, 2001, 2022)",
+        "Became an enduring symbol of moral panic"
+      ],
+      "peopleIds": [
+        "increase-mather"
+      ],
+      "doctrineIds": [
+        "angels-spiritual-powers"
+      ],
+      "traditionIds": [
+        "congregationalist"
+      ],
+      "sources": [
+        "norton-devils-snare",
+        "boyer-nissenbaum-salem"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "bultmann-demythologizing-1941",
+      "title": "Bultmann proposes demythologising",
+      "year": 1941,
+      "circa": false,
+      "place": {
+        "name": "Frankfurt am Main",
+        "lat": 50.1109,
+        "lng": 8.6821
+      },
+      "category": "intellectual",
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "In a 1941 lecture to the Confessing Church’s Society for Protestant Theology, Rudolf Bultmann argued that the New Testament’s mythological world-picture of heaven, hell, spirits and demons must be existentially interpreted, sparking a two-decade debate.",
+      "causes": [
+        "Modern scientific world-view",
+        "Existentialist philosophy (Heidegger)"
+      ],
+      "consequences": [
+        "Demythologising became central to mid-20th-century theology",
+        "Prompted conservative and Barthian responses insisting on the reality of the powers"
+      ],
+      "peopleIds": [
+        "rudolf-bultmann"
+      ],
+      "doctrineIds": [
+        "angels-spiritual-powers",
+        "scripture-authority"
+      ],
+      "traditionIds": [
+        "lutheran"
+      ],
+      "sources": [
+        "bultmann-kerygma-myth",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "lausanne-spiritual-warfare-1993",
+      "title": "Lausanne statement on spiritual warfare",
+      "year": 1993,
+      "circa": false,
+      "place": {
+        "name": "Nairobi",
+        "lat": -1.2921,
+        "lng": 36.8219
+      },
+      "category": "intellectual",
+      "regions": [
+        "sub-saharan-africa",
+        "global"
+      ],
+      "summary": "Meeting in Nairobi, the Lausanne Committee’s Intercession Working Group issued a statement affirming the reality of spiritual warfare while warning against an unbiblical preoccupation with demons, against speculative “spiritual mapping” and against animistic or magical approaches, in response to the rise of strategic-level spiritual warfare.",
+      "causes": [
+        "Growth of territorial-spirits teaching through the AD2000 movement"
+      ],
+      "consequences": [
+        "Became a reference point for evangelical critiques of strategic-level spiritual warfare"
+      ],
+      "peopleIds": [
+        "c-peter-wagner"
+      ],
+      "doctrineIds": [
+        "angels-spiritual-powers",
+        "holy-spirit"
+      ],
+      "traditionIds": [
+        "evangelical"
+      ],
+      "sources": [
+        "lausanne-spiritual-warfare-1993-src",
+        "lowe-territorial-spirits"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "exorcism-rite-revised-1999",
+      "title": "Revised Catholic Rite of Exorcism",
+      "year": 1999,
+      "circa": false,
+      "place": {
+        "name": "Vatican City",
+        "lat": 41.9029,
+        "lng": 12.4534
+      },
+      "category": "liturgical",
+      "regions": [
+        "italy",
+        "global"
+      ],
+      "summary": "The Congregation for Divine Worship published De exorcismis et supplicationibus quibusdam (January 1999), the first revision of the 1614 rite, requiring that exorcists distinguish possession from psychiatric illness and use the rite with prudence and episcopal permission.",
+      "causes": [
+        "Vatican II liturgical reform",
+        "Renewed demand for exorcism in Italy, Africa and the Americas"
+      ],
+      "consequences": [
+        "Formalised medical discernment in exorcism",
+        "Dioceses later appointed more exorcists; the International Association of Exorcists was recognised in 2014"
+      ],
+      "peopleIds": [
+        "john-paul-ii"
+      ],
+      "doctrineIds": [
+        "angels-spiritual-powers"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "sources": [
+        "young-history-exorcism"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "doctrines": [
+    {
+      "id": "angels-spiritual-powers",
+      "name": "Angels and Spiritual Powers",
+      "icon": "star",
+      "order": 16,
+      "question": "What are angels and demons, and how should the church engage the spiritual powers?",
+      "summary": "Christians have always confessed God as Creator of things visible and invisible, but have differed over the ordering of angels, the origin of demons, the practice of exorcism and deliverance, whether the “powers” are personal spirits, social structures or myth — and have had to reckon with the witch-hunts that demonology helped to fuel.",
+      "longText": "The Bible is full of angels — seraphim around the throne, Michael and the “prince of Persia”, the angels who guard the little ones — and the gospels show Jesus casting out demons and announcing Satan’s fall. Second Temple Judaism had elaborated these themes, notably in the Book of the Watchers (1 Enoch), still canonical in the Ethiopian church, which traced demons to angels who sinned with human women. Early Christian writers such as Justin and Tertullian followed it; Origen and especially Augustine instead taught that Satan and the demons were angels who fell through pride, and the Fourth Lateran Council (1215) confessed that the devil was created good. Desert monks such as Antony and Evagrius made the discernment of demonic “thoughts” a pillar of spirituality, and baptismal exorcisms and the renunciation of Satan entered the liturgy of every ancient church.\n\nAround 500 the anonymous Pseudo-Dionysius arranged the angels into nine orders in three triads, an angelology that shaped Gregory the Great, Aquinas (the “Angelic Doctor”), Dante and Gothic art; guardian angels became a beloved devotion, with a universal feast from 1670. The Reformers kept a vivid sense of the devil — “our ancient foe” — but criticised exorcism rites and speculative angelology.\n\nThe darkest chapter is the early modern witch-hunt. Fusing scholastic demonology with heresy trials and misogyny, the Malleus Maleficarum (1486) presented witchcraft as a female conspiracy with Satan; Catholic and Protestant courts executed perhaps 40,000-60,000 people, most of them women, before sceptics such as Friedrich Spee, Alonso de Salazar, Balthasar Bekker and Increase Mather helped end the trials; Salem (1692) became the emblem of moral panic. Bekker’s denial of the devil’s power foreshadowed Enlightenment and liberal scepticism, culminating in Bultmann’s call (1941) to demythologise the New Testament spirit world. Walter Wink proposed a third way: the powers are the spiritual interiority of institutions, disarmed by Christ’s cross.\n\nMeanwhile Christianity’s centre of gravity shifted to the Global South, where spirits, ancestors and witchcraft are lived realities. African prophets such as William Wade Harris, the Aladura and Pentecostal churches, Ethiopian holy-water ministries and Catholic healers such as Archbishop Milingo proclaimed Christ’s victory over the powers; Pentecostal and charismatic deliverance ministry spread worldwide; and in the 1990s C. Peter Wagner’s “strategic-level spiritual warfare” against territorial spirits drew warnings from the Lausanne movement and cessationist critics. The Catholic Church revised its rite of exorcism in 1999, requiring medical discernment, and churches in Africa and the Pacific now struggle both to minister deliverance and to stop witchcraft accusations against the vulnerable.",
+      "flow": {
+        "nodes": [
+          {
+            "id": "q",
+            "kind": "question",
+            "label": "What are angels and demons, and how should Christians engage the spiritual powers?",
+            "text": "The Bible speaks of angels, Satan, demons and “principalities and powers”. Are they personal beings, structures, or myth? How did evil spirits arise? How should the church deliver the afflicted — and how did beliefs about the devil lead to the horrors of the witch-hunts?",
+            "quoteIds": []
+          },
+          {
+            "id": "s-angels",
+            "kind": "scripture",
+            "label": "Isaiah 6; Daniel 10; Psalm 91:11; Matthew 18:10; Hebrews 1:14",
+            "year": -550,
+            "text": "Seraphim cry “Holy, holy, holy”; the “prince of Persia” withstands Michael; “he shall give his angels charge over thee”; “their angels do always behold the face of my Father”; angels are “ministering spirits”. (Daniel is usually dated to the 2nd century BC.)",
+            "quoteIds": []
+          },
+          {
+            "id": "s-enoch",
+            "kind": "scripture",
+            "label": "Genesis 6:1-4 and 1 Enoch 6-16 (Book of the Watchers)",
+            "year": -250,
+            "text": "“The sons of God saw the daughters of men …”. The Book of the Watchers, canonical in the Ethiopian church and quoted in Jude 14-15, tells of angels who descended and corrupted humanity.",
+            "ref": {
+              "type": "work",
+              "id": "book-of-1-enoch"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "s-powers",
+            "kind": "scripture",
+            "label": "Mark 1:21-28; 5:1-20; Luke 10:17-20; Ephesians 6:10-18; Colossians 2:15",
+            "year": 60,
+            "text": "Jesus casts out unclean spirits; “I beheld Satan as lightning fall from heaven”; “we wrestle not against flesh and blood, but against principalities, against powers”; Christ “spoiled principalities and powers … triumphing over them”.",
+            "quoteIds": []
+          },
+          {
+            "id": "p-watchers",
+            "kind": "position",
+            "label": "Early Christians adopt the Watchers story",
+            "year": 155,
+            "text": "Justin, Athenagoras, Irenaeus and Tertullian explain demons as offspring of fallen Watchers.",
+            "ref": {
+              "type": "position",
+              "id": "watchers-tradition"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "v-origen",
+            "kind": "voice",
+            "label": "Origen: rational beings fall by degrees",
+            "year": 230,
+            "text": "Origen locates Satan’s fall in free choice and speculates that all rational creatures, perhaps even demons, may be restored.",
+            "ref": {
+              "type": "person",
+              "id": "origen"
+            },
+            "quoteIds": [
+              "origen-preexistent-souls"
+            ]
+          },
+          {
+            "id": "v-antony",
+            "kind": "voice",
+            "label": "Antony and the desert fathers: the monk as spiritual warrior",
+            "year": 357,
+            "text": "The Life of Antony and later Evagrius make discernment of demonic thoughts central to Christian spirituality.",
+            "ref": {
+              "type": "person",
+              "id": "antony-of-egypt"
+            },
+            "quoteIds": [
+              "athanasius-antony-demons",
+              "evagrius-eight-thoughts"
+            ]
+          },
+          {
+            "id": "p-orthodox",
+            "kind": "position",
+            "label": "Baptismal exorcisms and the Church’s prayers",
+            "year": 390,
+            "text": "Cyril of Jerusalem and Chrysostom describe exorcisms and renunciation of Satan in baptism — practices continued in Orthodox, Oriental and Catholic rites.",
+            "ref": {
+              "type": "position",
+              "id": "orthodox-exorcism-prayers"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-fall-angels",
+            "kind": "position",
+            "label": "Augustine: angels fell through pride",
+            "year": 413,
+            "text": "City of God sets the classic Western account and rejects the angelic-marriage reading of Genesis 6.",
+            "ref": {
+              "type": "position",
+              "id": "fall-of-angels-pride"
+            },
+            "quoteIds": [
+              "augustine-angels-fall-pride"
+            ]
+          },
+          {
+            "id": "d-553",
+            "kind": "decision",
+            "label": "Constantinople II rejects the restoration of demons (553)",
+            "year": 553,
+            "text": "Anathemas associated with the council condemn Origenist teachings, including the pre-existence of souls and final restoration of demons.",
+            "ref": {
+              "type": "event",
+              "id": "second-council-of-constantinople-553"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-dionysius",
+            "kind": "position",
+            "label": "Pseudo-Dionysius: the celestial hierarchy",
+            "year": 500,
+            "text": "Nine orders of angels in three triads mediating divine light.",
+            "ref": {
+              "type": "position",
+              "id": "dionysian-angelic-hierarchy"
+            },
+            "quoteIds": [
+              "ps-dionysius-nine-orders"
+            ]
+          },
+          {
+            "id": "v-gregory",
+            "kind": "voice",
+            "label": "Gregory the Great transmits the nine orders to the West",
+            "year": 591,
+            "text": "Gregory’s homilies and Dialogues popularise angelology and stories of demonic temptation.",
+            "ref": {
+              "type": "person",
+              "id": "gregory-the-great"
+            },
+            "quoteIds": [
+              "gregory-nine-orders-para"
+            ]
+          },
+          {
+            "id": "v-damascus",
+            "kind": "voice",
+            "label": "John of Damascus defines the angels",
+            "year": 743,
+            "text": "A concise Eastern synthesis: angels are incorporeal, free, immortal by grace; the devil fell by his own choice.",
+            "ref": {
+              "type": "person",
+              "id": "john-of-damascus"
+            },
+            "quoteIds": [
+              "john-damascus-angel-definition"
+            ]
+          },
+          {
+            "id": "d-lateran",
+            "kind": "decision",
+            "label": "Fourth Lateran: the devil was created good (1215)",
+            "year": 1215,
+            "text": "Against Cathar dualism, the council confesses that the devil and other demons were created naturally good by God but became evil by their own doing.",
+            "ref": {
+              "type": "event",
+              "id": "fourth-lateran-council-1215"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "v-aquinas",
+            "kind": "voice",
+            "label": "Aquinas, the “Angelic Doctor”",
+            "year": 1268,
+            "text": "Aquinas’ treatise on angels systematises their nature, knowledge, fall and ministry, including guardian angels.",
+            "ref": {
+              "type": "person",
+              "id": "thomas-aquinas"
+            },
+            "quoteIds": [
+              "aquinas-angels-para"
+            ]
+          },
+          {
+            "id": "p-witch-hunt",
+            "kind": "position",
+            "label": "Witch-hunting demonology and the Malleus (1486)",
+            "year": 1486,
+            "text": "Scholastic demonology fused with heresy trials and misogyny to produce the theory of a satanic witch sect — a development all churches now repudiate.",
+            "ref": {
+              "type": "position",
+              "id": "witch-hunting-demonology"
+            },
+            "quoteIds": [
+              "kramer-malleus-para"
+            ]
+          },
+          {
+            "id": "v-luther",
+            "kind": "voice",
+            "label": "Luther: “our ancient foe”",
+            "year": 1529,
+            "text": "The Reformers kept a vivid sense of the devil while rejecting many Catholic exorcism rites as superstitious.",
+            "ref": {
+              "type": "person",
+              "id": "martin-luther"
+            },
+            "quoteIds": [
+              "luther-ancient-foe"
+            ]
+          },
+          {
+            "id": "d-rituale",
+            "kind": "decision",
+            "label": "Rituale Romanum regulates exorcism (1614)",
+            "year": 1614,
+            "text": "Paul V’s ritual standardises solemn exorcism and its cautions for nearly four centuries.",
+            "ref": {
+              "type": "event",
+              "id": "rituale-romanum-1614"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "a-spee",
+            "kind": "argument",
+            "label": "Spee’s Cautio Criminalis: torture creates witches",
+            "year": 1631,
+            "text": "A Jesuit confessor of condemned witches exposes the injustice of the trials.",
+            "ref": {
+              "type": "person",
+              "id": "friedrich-spee"
+            },
+            "quoteIds": [
+              "spee-cautio-para"
+            ]
+          },
+          {
+            "id": "p-guardian",
+            "kind": "position",
+            "label": "Guardian angels: feast made universal (1670)",
+            "year": 1670,
+            "text": "Clement X extends the feast of the Guardian Angels to the whole Latin Church, crowning a long patristic and scholastic tradition.",
+            "ref": {
+              "type": "position",
+              "id": "guardian-angels"
+            },
+            "quoteIds": [
+              "basil-guardian-angel-para"
+            ]
+          },
+          {
+            "id": "p-bekker",
+            "kind": "position",
+            "label": "Bekker’s The World Bewitched (1691)",
+            "year": 1691,
+            "text": "A Dutch Reformed minister denies that the devil can act in the physical world — and is deposed.",
+            "ref": {
+              "type": "position",
+              "id": "bekker-disenchantment"
+            },
+            "quoteIds": [
+              "bekker-para"
+            ]
+          },
+          {
+            "id": "c-salem",
+            "kind": "consequence",
+            "label": "Salem witch trials (1692)",
+            "year": 1692,
+            "text": "Twenty people die in Puritan Massachusetts before ministers’ objections to spectral evidence end the trials.",
+            "ref": {
+              "type": "event",
+              "id": "salem-witch-trials-1692"
+            },
+            "quoteIds": [
+              "mather-ten-witches"
+            ]
+          },
+          {
+            "id": "p-african",
+            "kind": "position",
+            "label": "African prophets confront the spirit powers",
+            "year": 1913,
+            "text": "William Wade Harris burns fetishes and baptises tens of thousands; Kimbangu, the Aladura churches and later African Pentecostals proclaim Christ’s power over spirits and witchcraft.",
+            "ref": {
+              "type": "position",
+              "id": "african-spiritual-warfare"
+            },
+            "quoteIds": [
+              "bediako-christ-victor-africa"
+            ]
+          },
+          {
+            "id": "p-cessationist",
+            "kind": "position",
+            "label": "Cessationism: the sign-gifts have ceased",
+            "year": 1918,
+            "text": "Warfield’s Counterfeit Miracles grounds a Reformed critique of later deliverance ministries.",
+            "ref": {
+              "type": "position",
+              "id": "cessationism"
+            },
+            "quoteIds": [
+              "warfield-authentication-apostles"
+            ]
+          },
+          {
+            "id": "p-bultmann",
+            "kind": "position",
+            "label": "Bultmann: demythologising the spirit world",
+            "year": 1941,
+            "text": "Bultmann argues that modern people cannot believe in spirits and demons and must interpret them existentially.",
+            "ref": {
+              "type": "position",
+              "id": "demythologized-powers"
+            },
+            "quoteIds": [
+              "bultmann-myth-para"
+            ]
+          },
+          {
+            "id": "v-lewis",
+            "kind": "voice",
+            "label": "C. S. Lewis: two equal and opposite errors",
+            "year": 1942,
+            "text": "The Screwtape Letters reaffirms personal devils for a sceptical age while warning against fascination with them.",
+            "ref": {
+              "type": "work",
+              "id": "lewis-screwtape-letters"
+            },
+            "quoteIds": [
+              "lewis-two-errors-para"
+            ]
+          },
+          {
+            "id": "p-pentecostal",
+            "kind": "position",
+            "label": "Pentecostal and charismatic deliverance ministry",
+            "year": 1970,
+            "text": "Derek Prince and others teach that believers can be “demonised” and freed through deliverance.",
+            "ref": {
+              "type": "position",
+              "id": "pentecostal-deliverance"
+            },
+            "quoteIds": [
+              "prince-deliverance-para"
+            ]
+          },
+          {
+            "id": "p-wink",
+            "kind": "position",
+            "label": "Wink: the powers as the spirit of institutions",
+            "year": 1984,
+            "text": "A third way between supernaturalism and demythologising, linked to Christus Victor and nonviolence.",
+            "ref": {
+              "type": "position",
+              "id": "powers-as-structures"
+            },
+            "quoteIds": [
+              "wink-powers-para"
+            ]
+          },
+          {
+            "id": "p-slsw",
+            "kind": "position",
+            "label": "Strategic-level spiritual warfare",
+            "year": 1990,
+            "text": "Wagner, Otis and others teach mapping and binding territorial spirits; it feeds into the New Apostolic Reformation.",
+            "ref": {
+              "type": "position",
+              "id": "strategic-level-spiritual-warfare"
+            },
+            "quoteIds": [
+              "wagner-territorial-para"
+            ]
+          },
+          {
+            "id": "d-lausanne",
+            "kind": "decision",
+            "label": "Lausanne statement on spiritual warfare (1993)",
+            "year": 1993,
+            "text": "Evangelical leaders affirm spiritual warfare but warn against speculative mapping and animistic thinking.",
+            "ref": {
+              "type": "event",
+              "id": "lausanne-spiritual-warfare-1993"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "d-1999",
+            "kind": "decision",
+            "label": "Revised Catholic Rite of Exorcism (1999)",
+            "year": 1999,
+            "text": "The new rite requires medical and psychiatric discernment before solemn exorcism.",
+            "ref": {
+              "type": "event",
+              "id": "exorcism-rite-revised-1999"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "a-critiques",
+            "kind": "argument",
+            "label": "Cessationist critique: Strange Fire (2013)",
+            "year": 2013,
+            "text": "John MacArthur and others charge that charismatic warfare techniques depart from the sufficiency of Scripture.",
+            "ref": {
+              "type": "position",
+              "id": "cessationist-warfare-critique"
+            },
+            "quoteIds": [
+              "macarthur-strange-fire-para"
+            ]
+          },
+          {
+            "id": "m-global",
+            "kind": "modern",
+            "label": "Deliverance and witchcraft accusations in the Global South",
+            "year": 2020,
+            "text": "Deliverance ministry is central to African, Latin American and Asian Christianity; churches and theologians also campaign against witchcraft accusations targeting children, widows and the elderly in parts of Africa and Papua New Guinea.",
+            "quoteIds": []
+          },
+          {
+            "id": "m-today",
+            "kind": "modern",
+            "label": "Today",
+            "year": 2025,
+            "text": "Catholic dioceses appoint more exorcists and Pope Francis insists the devil is personal; Orthodox and Ethiopian churches maintain ancient practices; Pentecostals and charismatics practise deliverance worldwide; Western academic theology largely follows Bultmann or Wink; and cessationists and critics of NAR warn against excess.",
+            "quoteIds": [
+              "pope-francis-devil-para"
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "from": "q",
+            "to": "s-angels",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q",
+            "to": "s-enoch",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q",
+            "to": "s-powers",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-enoch",
+            "to": "p-watchers",
+            "kind": "develops"
+          },
+          {
+            "from": "s-angels",
+            "to": "v-origen",
+            "kind": "supports"
+          },
+          {
+            "from": "p-watchers",
+            "to": "p-fall-angels",
+            "kind": "objects"
+          },
+          {
+            "from": "s-powers",
+            "to": "v-antony",
+            "kind": "supports"
+          },
+          {
+            "from": "s-powers",
+            "to": "p-orthodox",
+            "kind": "supports"
+          },
+          {
+            "from": "v-antony",
+            "to": "p-orthodox",
+            "kind": "develops"
+          },
+          {
+            "from": "v-origen",
+            "to": "p-fall-angels",
+            "kind": "develops"
+          },
+          {
+            "from": "v-origen",
+            "to": "d-553",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-angels",
+            "to": "p-dionysius",
+            "kind": "supports"
+          },
+          {
+            "from": "p-dionysius",
+            "to": "v-gregory",
+            "kind": "develops"
+          },
+          {
+            "from": "v-gregory",
+            "to": "v-damascus",
+            "kind": "develops"
+          },
+          {
+            "from": "p-dionysius",
+            "to": "v-damascus",
+            "kind": "develops"
+          },
+          {
+            "from": "p-fall-angels",
+            "to": "d-lateran",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-dionysius",
+            "to": "v-aquinas",
+            "kind": "develops"
+          },
+          {
+            "from": "d-lateran",
+            "to": "v-aquinas",
+            "kind": "leads-to"
+          },
+          {
+            "from": "v-aquinas",
+            "to": "p-witch-hunt",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-powers",
+            "to": "v-luther",
+            "kind": "supports"
+          },
+          {
+            "from": "s-powers",
+            "to": "d-rituale",
+            "kind": "supports"
+          },
+          {
+            "from": "v-aquinas",
+            "to": "d-rituale",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-witch-hunt",
+            "to": "a-spee",
+            "kind": "objects"
+          },
+          {
+            "from": "v-aquinas",
+            "to": "p-guardian",
+            "kind": "develops"
+          },
+          {
+            "from": "p-witch-hunt",
+            "to": "p-bekker",
+            "kind": "objects"
+          },
+          {
+            "from": "p-witch-hunt",
+            "to": "c-salem",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-powers",
+            "to": "p-african",
+            "kind": "supports"
+          },
+          {
+            "from": "p-bekker",
+            "to": "p-cessationist",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-bekker",
+            "to": "p-bultmann",
+            "kind": "develops"
+          },
+          {
+            "from": "p-bultmann",
+            "to": "v-lewis",
+            "kind": "objects"
+          },
+          {
+            "from": "s-powers",
+            "to": "p-pentecostal",
+            "kind": "supports"
+          },
+          {
+            "from": "p-cessationist",
+            "to": "p-pentecostal",
+            "kind": "objects"
+          },
+          {
+            "from": "p-bultmann",
+            "to": "p-wink",
+            "kind": "develops"
+          },
+          {
+            "from": "p-pentecostal",
+            "to": "p-slsw",
+            "kind": "develops"
+          },
+          {
+            "from": "p-african",
+            "to": "p-slsw",
+            "kind": "supports"
+          },
+          {
+            "from": "p-slsw",
+            "to": "d-lausanne",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-rituale",
+            "to": "d-1999",
+            "kind": "develops"
+          },
+          {
+            "from": "p-cessationist",
+            "to": "a-critiques",
+            "kind": "develops"
+          },
+          {
+            "from": "p-slsw",
+            "to": "a-critiques",
+            "kind": "objects"
+          },
+          {
+            "from": "p-african",
+            "to": "m-global",
+            "kind": "leads-to"
+          },
+          {
+            "from": "c-salem",
+            "to": "m-global",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-pentecostal",
+            "to": "m-global",
+            "kind": "leads-to"
+          },
+          {
+            "from": "m-global",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-1999",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-wink",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "a-critiques",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-lausanne",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-guardian",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "v-lewis",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "v-luther",
+            "to": "p-cessationist",
+            "kind": "leads-to"
+          }
+        ]
+      },
+      "sources": [
+        "russell-devil-series",
+        "rorem-pseudo-dionysius",
+        "levack-witch-hunt",
+        "young-history-exorcism",
+        "wink-powers-trilogy",
+        "onyinah-pentecostal-exorcism",
+        "arnold-spiritual-warfare",
+        "odcc"
+      ]
+    }
+  ],
+  "positions": [
+    {
+      "id": "dionysian-angelic-hierarchy",
+      "doctrineId": "angels-spiritual-powers",
+      "name": "Angelic hierarchy (Pseudo-Dionysius)",
+      "altNames": [
+        "nine choirs of angels",
+        "celestial hierarchy"
+      ],
+      "oneLine": "God created a vast, ordered world of pure spirits arranged in nine orders and three triads, through which divine light, purification and knowledge are mediated down the chain of being.",
+      "coreClaims": [
+        "Angels are created, incorporeal intelligences serving God’s glory and human salvation.",
+        "They are ordered in three triads of three: seraphim, cherubim, thrones; dominions, powers, authorities; principalities, archangels, angels.",
+        "Hierarchy is participation in God’s light, not domination.",
+        "The heavenly liturgy is mirrored in the Church’s liturgy and clergy."
+      ],
+      "keyTexts": [
+        "Isaiah 6:1-3",
+        "Ezekiel 1; 10",
+        "Daniel 7:10",
+        "Ephesians 1:21",
+        "Colossians 1:16",
+        "1 Peter 3:22",
+        "Jude 9"
+      ],
+      "origin": "Compiled from biblical names by Pseudo-Dionysius (c.500) and, with a different order, Gregory the Great (Homily 34, c.591); systematised by Aquinas and Bonaventure; celebrated in Orthodox liturgy (Synaxis of the Archangels, 8 November).",
+      "originYear": 500,
+      "proponentIds": [
+        "pseudo-dionysius",
+        "gregory-the-great",
+        "thomas-aquinas",
+        "bonaventure",
+        "john-of-damascus"
+      ],
+      "proponentsOther": [
+        "Dante (Paradiso 28)",
+        "Hildegard of Bingen"
+      ],
+      "traditionIds": [
+        "eastern-orthodox",
+        "oriental-orthodox",
+        "catholic",
+        "anglican"
+      ],
+      "strongestArguments": [
+        "It gathers scattered biblical names into a coherent vision of an ordered creation.",
+        "It has shaped liturgy, art and devotion East and West for 1,500 years.",
+        "It expresses a cosmos alive with worship, in which humans join the angels’ praise."
+      ],
+      "strongestObjections": [
+        "Protestant Reformers (Calvin, Luther) dismissed detailed hierarchies as idle speculation beyond Scripture.",
+        "Scholars showed the author was not Paul’s convert (Valla, Erasmus), undermining its quasi-apostolic authority.",
+        "Critics argue its Neoplatonic chain of being distances God and legitimises earthly hierarchies."
+      ],
+      "responses": [
+        "Defenders reply that the hierarchy is an aid to contemplation, held with appropriate reserve, and that its theology of participation keeps God immediately present.",
+        "Orthodox and Catholics note that authority derives from the Church’s reception, not the pseudonym."
+      ],
+      "consequences": [
+        "Shaped Gothic architecture (Suger), medieval cosmology, Dante and iconography.",
+        "Remains part of Orthodox and Catholic devotion."
+      ],
+      "relatedPositionIds": [
+        "guardian-angels",
+        "fall-of-angels-pride",
+        "watchers-tradition"
+      ],
+      "standing": "historic",
+      "sources": [
+        "rorem-pseudo-dionysius",
+        "mcginn-mysticism",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "guardian-angels",
+      "doctrineId": "angels-spiritual-powers",
+      "name": "Guardian angels",
+      "altNames": [
+        "angel guardians",
+        "personal angels"
+      ],
+      "oneLine": "God assigns angels to watch over individuals, communities and nations, protecting them, prompting them toward good and presenting their prayers to God.",
+      "coreClaims": [
+        "Every person (or at least every believer) has a guardian angel.",
+        "Angels also guard churches and nations (Daniel 10-12; Revelation 2-3).",
+        "Angels serve God’s providence but are not to be worshipped.",
+        "Devotion to one’s guardian angel is commended (Catholic, Orthodox)."
+      ],
+      "keyTexts": [
+        "Psalm 34:7",
+        "Psalm 91:11-12",
+        "Daniel 10:13, 21",
+        "Matthew 18:10",
+        "Acts 12:15",
+        "Hebrews 1:14"
+      ],
+      "origin": "Found in Second Temple Judaism and early Christian texts (Shepherd of Hermas, Origen, Basil, Jerome); taught by Aquinas (ST I q.113); feast instituted locally and made universal by Clement X (1670); common in Orthodox prayer.",
+      "originYear": 1670,
+      "proponentIds": [
+        "origen",
+        "basil-of-caesarea",
+        "jerome",
+        "thomas-aquinas",
+        "pius-xii"
+      ],
+      "proponentsOther": [
+        "Shepherd of Hermas",
+        "Catechism of the Catholic Church 336",
+        "Orthodox canon to the guardian angel"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-orthodox",
+        "oriental-orthodox",
+        "anglican",
+        "pentecostal"
+      ],
+      "strongestArguments": [
+        "Jesus says the little ones’ angels always behold the Father’s face (Matthew 18:10).",
+        "It expresses God’s personal providential care.",
+        "It has broad patristic support."
+      ],
+      "strongestObjections": [
+        "Calvin judged it uncertain whether each believer has a particular angel, preferring to say all angels care for each.",
+        "Critics warn of devotional excess or angel-centred spirituality (as in New Age angelology).",
+        "Some scholars read Matthew 18:10 and Acts 12:15 as reflecting popular belief rather than teaching it."
+      ],
+      "responses": [
+        "Defenders answer that the doctrine is held modestly and always subordinates angels to Christ.",
+        "Liturgical tradition (feast of 2 October) disciplines devotion."
+      ],
+      "consequences": [
+        "Shaped children’s prayers and Catholic and Orthodox piety.",
+        "Revived in popular culture, sometimes detached from Christian theology."
+      ],
+      "relatedPositionIds": [
+        "dionysian-angelic-hierarchy",
+        "calvinist-meticulous-providence"
+      ],
+      "standing": "significant",
+      "sources": [
+        "russell-devil-series",
+        "odcc",
+        "catechism-catholic-church"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "fall-of-angels-pride",
+      "doctrineId": "angels-spiritual-powers",
+      "name": "Satan as a fallen angel (classical doctrine)",
+      "altNames": [
+        "fall of Lucifer",
+        "angelic fall through pride"
+      ],
+      "oneLine": "Satan and the demons were created good as angels but freely rebelled against God, chiefly through pride, before (or at) the fall of humanity; they now oppose God’s purposes but are defeated by Christ and destined for judgement.",
+      "coreClaims": [
+        "God created all spirits good; evil is not an eternal principle (against dualism).",
+        "Some angels fell by their own free choice, led by Satan.",
+        "Their fall is irrevocable (Aquinas) or, in Origen’s speculation, possibly remediable.",
+        "Satan tempts, accuses and deceives, but is a defeated enemy (Colossians 2:15)."
+      ],
+      "keyTexts": [
+        "Isaiah 14:12-15 (traditionally applied)",
+        "Ezekiel 28:12-17 (traditionally applied)",
+        "Luke 10:18",
+        "John 8:44",
+        "2 Peter 2:4",
+        "Jude 6",
+        "Revelation 12:7-9"
+      ],
+      "origin": "Developed by Origen (c.230) and Augustine (City of God XI-XII, c.417) — who rejected the older Enochic reading of Genesis 6 — and defined against Cathar dualism by the Fourth Lateran Council (1215); the 553 anathemas rejected the restoration of demons.",
+      "originYear": 413,
+      "proponentIds": [
+        "origen",
+        "augustine-of-hippo",
+        "gregory-the-great",
+        "thomas-aquinas",
+        "john-of-damascus",
+        "c-s-lewis"
+      ],
+      "proponentsOther": [
+        "Fourth Lateran Council, Firmiter (1215)",
+        "John Milton (Paradise Lost)"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-orthodox",
+        "oriental-orthodox",
+        "lutheran",
+        "reformed",
+        "anglican",
+        "methodist",
+        "baptist",
+        "evangelical",
+        "pentecostal"
+      ],
+      "strongestArguments": [
+        "It explains evil without dualism: evil is a corruption of good creation.",
+        "It accounts for New Testament teaching on Satan as a real personal adversary.",
+        "It provides a cosmic setting for the human fall and redemption."
+      ],
+      "strongestObjections": [
+        "Biblical scholars note that Isaiah 14 and Ezekiel 28 refer in context to the kings of Babylon and Tyre, not Satan.",
+        "Demythologisers argue that a personal devil belongs to an obsolete world-view.",
+        "Others ask how perfectly good creatures in God’s presence could fall."
+      ],
+      "responses": [
+        "Defenders answer that the doctrine rests chiefly on New Testament texts (John 8:44; Jude 6; Revelation 12) and that the prophetic texts were read typologically.",
+        "They argue that the mystery of the first sin, angelic or human, is inherent in genuine freedom."
+      ],
+      "consequences": [
+        "Shaped Christian art, literature (Dante, Milton) and the theology of evil.",
+        "Underpins all later demonology and exorcism."
+      ],
+      "relatedPositionIds": [
+        "watchers-tradition",
+        "free-will-defence",
+        "christus-victor",
+        "demythologized-powers",
+        "gap-theory"
+      ],
+      "standing": "majority",
+      "sources": [
+        "russell-devil-series",
+        "kelly-doctrines",
+        "pelikan-christian-tradition"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "watchers-tradition",
+      "doctrineId": "angels-spiritual-powers",
+      "name": "The Watchers and the origin of demons (Enochic)",
+      "altNames": [
+        "Enochic demonology",
+        "angelic marriages reading of Genesis 6"
+      ],
+      "oneLine": "Rebellious angels (the Watchers) descended, took human wives and taught forbidden knowledge; their giant offspring were destroyed in the Flood and their disembodied spirits became the demons that afflict humanity.",
+      "coreClaims": [
+        "“The sons of God” in Genesis 6:2 are angels.",
+        "Angelic transgression introduced violence, sorcery and idolatry into the world.",
+        "Demons are the spirits of the giants.",
+        "The fallen angels are bound in darkness until judgement (1 Enoch 10; Jude 6; 2 Peter 2:4)."
+      ],
+      "keyTexts": [
+        "Genesis 6:1-4",
+        "1 Enoch 6-16",
+        "Jude 6, 14-15",
+        "2 Peter 2:4-5",
+        "1 Peter 3:19-20"
+      ],
+      "origin": "Book of the Watchers (1 Enoch 1-36, 3rd century BC); followed by Justin Martyr (2 Apology 5), Athenagoras, Irenaeus, Tertullian and others; set aside in the West after Augustine; 1 Enoch remains canonical in the Ethiopian Orthodox Tewahedo Church.",
+      "originYear": 155,
+      "proponentIds": [
+        "justin-martyr",
+        "irenaeus",
+        "tertullian"
+      ],
+      "proponentsOther": [
+        "Athenagoras",
+        "Lactantius",
+        "Ethiopian Orthodox tradition",
+        "Some modern evangelical scholars (e.g. Michael Heiser)"
+      ],
+      "traditionIds": [
+        "early-church",
+        "ethiopian-orthodox-tewahedo"
+      ],
+      "strongestArguments": [
+        "It is the reading most Second Temple Jews and the earliest Christian writers gave to Genesis 6.",
+        "Jude quotes 1 Enoch and 2 Peter alludes to the binding of angels.",
+        "It explains the origin of demons as distinct from fallen angels."
+      ],
+      "strongestObjections": [
+        "Augustine and later commentators argued that angels, being spirits, cannot marry (Matthew 22:30) and read “sons of God” as the line of Seth.",
+        "Most churches do not treat 1 Enoch as canonical.",
+        "Critics see it as mythological speculation."
+      ],
+      "responses": [
+        "Defenders note that Matthew 22:30 refers to angels “in heaven”, not fallen ones, and that the canonical New Testament endorses parts of the tradition.",
+        "The Ethiopian church regards its broader canon as preserving ancient apostolic usage."
+      ],
+      "consequences": [
+        "Shaped early Christian demonology and the Ethiopian Christian world-view.",
+        "Revived in recent evangelical biblical theology of the “divine council”."
+      ],
+      "relatedPositionIds": [
+        "fall-of-angels-pride",
+        "ethiopian-canon",
+        "dionysian-angelic-hierarchy"
+      ],
+      "standing": "historic",
+      "sources": [
+        "nickelsburg-1-enoch",
+        "russell-devil-series",
+        "cowley-ethiopian-canon"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "catholic-solemn-exorcism",
+      "doctrineId": "angels-spiritual-powers",
+      "name": "Catholic exorcism (Rite of Exorcism)",
+      "altNames": [
+        "solemn exorcism",
+        "major exorcism",
+        "Rituale Romanum exorcism"
+      ],
+      "oneLine": "In cases of genuine demonic possession, discerned with medical and psychiatric help, a priest authorised by the bishop performs the Church’s rite of solemn exorcism in Christ’s name; minor exorcisms are part of baptism and ordinary prayer.",
+      "coreClaims": [
+        "Christ gave his Church authority over demons (Mark 16:17).",
+        "Possession is rare and must be carefully distinguished from mental illness.",
+        "Only a priest with the bishop’s express permission may perform a solemn exorcism (Canon 1172).",
+        "Minor exorcisms occur in every baptism; prayers of deliverance are open to all."
+      ],
+      "keyTexts": [
+        "Mark 1:23-27",
+        "Mark 5:1-20",
+        "Mark 16:17",
+        "Luke 10:17-20",
+        "Acts 16:16-18",
+        "Acts 19:13-16"
+      ],
+      "origin": "Exorcists were a minor order by the 3rd century (Cornelius of Rome, 251); exorcism regulated in the Rituale Romanum (1614); revised in De exorcismis (1999); promoted by figures such as Gabriele Amorth (International Association of Exorcists, 1990).",
+      "originYear": 1614,
+      "proponentIds": [
+        "john-paul-ii",
+        "pope-francis",
+        "emmanuel-milingo"
+      ],
+      "proponentsOther": [
+        "Gabriele Amorth",
+        "Code of Canon Law 1172",
+        "Catechism of the Catholic Church 1673"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-catholic"
+      ],
+      "strongestArguments": [
+        "It continues Jesus’ own ministry and an unbroken practice of the Church.",
+        "It is carefully regulated, requiring discernment and medical consultation.",
+        "It integrates exorcism within sacramental life rather than charismatic personality."
+      ],
+      "strongestObjections": [
+        "Psychiatrists and critics warn of misdiagnosing mental illness; deaths during exorcisms (e.g. Anneliese Michel, Germany, 1976) caused scandal.",
+        "Protestants object to ritual formulas as potentially magical.",
+        "Secular critics see it as superstition that popular media sensationalise."
+      ],
+      "responses": [
+        "Catholic authorities answer that the 1999 rite was revised precisely to require medical discernment and forbids publicity.",
+        "They stress that exorcism is prayer to Christ, not a technique."
+      ],
+      "consequences": [
+        "Demand for exorcism has grown in Italy, Africa, Latin America and the United States since the 1990s.",
+        "Shaped popular culture (The Exorcist, 1973)."
+      ],
+      "relatedPositionIds": [
+        "orthodox-exorcism-prayers",
+        "pentecostal-deliverance",
+        "african-spiritual-warfare",
+        "seven-sacraments"
+      ],
+      "standing": "significant",
+      "sources": [
+        "young-history-exorcism",
+        "catechism-catholic-church",
+        "cuneo-american-exorcism"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "orthodox-exorcism-prayers",
+      "doctrineId": "angels-spiritual-powers",
+      "name": "Orthodox and Oriental exorcism and prayers of deliverance",
+      "altNames": [
+        "exorcism prayers of Basil and Chrysostom",
+        "baptismal renunciation"
+      ],
+      "oneLine": "The Church’s whole life — baptism with its exorcisms and renunciation of Satan, holy water, the sign of the cross, fasting, the Jesus Prayer and the exorcism prayers of the service books — is spiritual warfare; priests read prayers of exorcism for the afflicted.",
+      "coreClaims": [
+        "Every baptism includes exorcisms and the renunciation of Satan facing west.",
+        "The service books contain exorcism prayers attributed to Basil and John Chrysostom.",
+        "Ascetic struggle and the Jesus Prayer guard against demonic thoughts.",
+        "In the Ethiopian and Coptic churches, holy water (tsebel) and priestly prayer are central to healing from spirit affliction."
+      ],
+      "keyTexts": [
+        "Mark 9:29",
+        "Ephesians 6:10-18",
+        "James 4:7",
+        "1 Peter 5:8-9"
+      ],
+      "origin": "Rooted in early baptismal practice (Apostolic Tradition, Cyril of Jerusalem), the desert fathers (Antony, Evagrius) and the Byzantine Euchologion; living practice in Greek, Russian, Coptic, Ethiopian and Syriac churches.",
+      "originYear": 390,
+      "proponentIds": [
+        "antony-of-egypt",
+        "evagrius-ponticus",
+        "cyril-of-jerusalem",
+        "john-chrysostom",
+        "athanasius"
+      ],
+      "proponentsOther": [
+        "Seraphim of Sarov",
+        "Ethiopian holy-water sites (e.g. Entoto)",
+        "Coptic monastic exorcists"
+      ],
+      "traditionIds": [
+        "eastern-orthodox",
+        "russian-orthodox",
+        "coptic-orthodox",
+        "ethiopian-orthodox-tewahedo",
+        "syriac-orthodox",
+        "armenian-apostolic"
+      ],
+      "strongestArguments": [
+        "It integrates deliverance into the sacramental and ascetic life rather than isolating it.",
+        "It draws on an unbroken patristic tradition.",
+        "It speaks to cultures where spirit affliction is a lived reality, as in Ethiopia and Egypt."
+      ],
+      "strongestObjections": [
+        "Protestant critics question holy water and sign-of-the-cross practices as quasi-magical.",
+        "Psychiatric critics raise the same concerns as for Catholic exorcism.",
+        "Some Orthodox clergy worry about sensational “exorcist-priests” attracting crowds."
+      ],
+      "responses": [
+        "Orthodox answer that sacramentals are prayer embodied, effective only through Christ and faith.",
+        "Hierarchs regulate exorcists and emphasise confession and repentance."
+      ],
+      "consequences": [
+        "Keeps a strong sense of spiritual warfare in Eastern Christian spirituality.",
+        "Ethiopian and Coptic healing sites draw Christians and non-Christians alike."
+      ],
+      "relatedPositionIds": [
+        "catholic-solemn-exorcism",
+        "african-spiritual-warfare",
+        "pentecostal-deliverance",
+        "theosis"
+      ],
+      "standing": "significant",
+      "sources": [
+        "ware-orthodox-church",
+        "chitty-desert-city",
+        "isichei-africa"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "pentecostal-deliverance",
+      "doctrineId": "angels-spiritual-powers",
+      "name": "Pentecostal and charismatic deliverance ministry",
+      "altNames": [
+        "deliverance ministry",
+        "casting out demons",
+        "demonisation"
+      ],
+      "oneLine": "Believers, empowered by the Spirit, share Jesus’ authority to cast out demons; people, including Christians, may be “demonised” (oppressed) in areas of life through sin, trauma or occult involvement and can be freed through renunciation, prayer and command in Jesus’ name.",
+      "coreClaims": [
+        "Every Spirit-filled believer has authority over demons (Mark 16:17; Luke 10:19).",
+        "Demonisation ranges from oppression to possession; Christians can be oppressed in some areas.",
+        "Doorways include sin, occult practice, trauma and generational curses.",
+        "Deliverance is part of the full gospel with healing and salvation."
+      ],
+      "keyTexts": [
+        "Mark 16:17",
+        "Luke 10:17-20",
+        "Acts 8:7",
+        "Acts 16:16-18",
+        "Ephesians 4:27",
+        "James 4:7"
+      ],
+      "origin": "Practised from early Pentecostal revivals (Azusa Street, 1906) and healing evangelists; systematised in the charismatic movement by Derek Prince, Don Basham and Frank and Ida Mae Hammond (Pigs in the Parlor, 1973); central in Latin American (Carlos Annacondia) and African Pentecostalism.",
+      "originYear": 1970,
+      "proponentIds": [
+        "derek-prince",
+        "carlos-annacondia",
+        "john-wimber",
+        "william-branham"
+      ],
+      "proponentsOther": [
+        "Don Basham",
+        "Frank and Ida Mae Hammond",
+        "Neil Anderson (truth-encounter model)",
+        "Mountain of Fire and Miracles Ministries (Nigeria)"
+      ],
+      "traditionIds": [
+        "pentecostal",
+        "assemblies-of-god",
+        "charismatic-renewal",
+        "neo-charismatic",
+        "african-initiated-churches"
+      ],
+      "strongestArguments": [
+        "It takes seriously the large share of Jesus’ ministry spent on deliverance.",
+        "It meets real needs in cultures where spiritual oppression is widely experienced.",
+        "Many testify to lasting freedom and changed lives."
+      ],
+      "strongestObjections": [
+        "Critics (cessationist and others) argue that Christians indwelt by the Spirit cannot be demonised and that the concept fosters fear and blame-shifting.",
+        "Psychologists warn of harm when mental illness is treated as demonic.",
+        "Abuses include violent deliverances and, in some contexts, accusations of child witchcraft."
+      ],
+      "responses": [
+        "Many practitioners now stress pastoral care, cooperation with medicine and “truth encounter” rather than “power encounter” (Neil Anderson).",
+        "They argue that abuse does not negate legitimate ministry, as with any ministry."
+      ],
+      "consequences": [
+        "Deliverance is a major feature of global Pentecostalism, especially in Africa and Latin America.",
+        "Produced a large popular literature and prayer movements."
+      ],
+      "relatedPositionIds": [
+        "catholic-solemn-exorcism",
+        "african-spiritual-warfare",
+        "strategic-level-spiritual-warfare",
+        "cessationist-warfare-critique",
+        "continuationism",
+        "third-wave"
+      ],
+      "standing": "significant",
+      "sources": [
+        "anderson-pentecostalism",
+        "cuneo-american-exorcism",
+        "onyinah-pentecostal-exorcism"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "african-spiritual-warfare",
+      "doctrineId": "angels-spiritual-powers",
+      "name": "African Christian theologies of spirits and power",
+      "altNames": [
+        "African spiritual-power cosmology",
+        "Christ as victor over spirits",
+        "deliverance in African Christianity"
+      ],
+      "oneLine": "African Christians commonly inhabit a world in which ancestors, spirits and witchcraft are real; the gospel is received as Christ’s supreme power over all such forces, bringing protection, healing and freedom from fear, expressed through prayer, prophecy and deliverance.",
+      "coreClaims": [
+        "The spiritual world is real and affects health, fertility and fortune.",
+        "Christ is victor over all powers (Colossians 2:15) — for some, the supreme ancestor.",
+        "Missionary Christianity often ignored these realities, so African churches had to address them.",
+        "Deliverance, healing and protection are integral to salvation."
+      ],
+      "keyTexts": [
+        "Colossians 1:16; 2:15",
+        "Ephesians 6:10-18",
+        "Mark 5:1-20",
+        "Hebrews 2:14-15",
+        "1 John 3:8"
+      ],
+      "origin": "Visible in prophet movements (William Wade Harris, 1913; Garrick Braide; Simon Kimbangu, 1921), Aladura churches (1930), Ethiopian Orthodox and Catholic healing ministries (Milingo), and African Pentecostalism; theorised by Kwame Bediako, Ogbu Kalu and Opoku Onyinah.",
+      "originYear": 1913,
+      "proponentIds": [
+        "william-wade-harris",
+        "simon-kimbangu",
+        "joseph-ayo-babalola",
+        "isaiah-shembe",
+        "emmanuel-milingo",
+        "kwame-bediako"
+      ],
+      "proponentsOther": [
+        "Ogbu Kalu",
+        "Opoku Onyinah",
+        "Birgit Meyer (anthropologist)",
+        "Daniel Olukoya"
+      ],
+      "traditionIds": [
+        "african-initiated-churches",
+        "pentecostal",
+        "neo-charismatic",
+        "catholic",
+        "ethiopian-orthodox-tewahedo",
+        "anglican",
+        "methodist"
+      ],
+      "strongestArguments": [
+        "It takes the biblical world of powers seriously, closer to the New Testament than Western rationalism.",
+        "It addresses the felt needs and fears of ordinary believers.",
+        "It has driven the explosive growth of African Christianity."
+      ],
+      "strongestObjections": [
+        "Critics (including African theologians) warn that it can reproduce traditional fear, foster witchcraft accusations against the vulnerable (children, the elderly, women) and blame spirits for social and political problems.",
+        "Missionary and Reformed critics see syncretism with traditional religion.",
+        "Prosperity-oriented deliverance can exploit the poor."
+      ],
+      "responses": [
+        "African theologians answer that the gospel must be translated into African categories (Sanneh, Bediako) and that Christ’s victory frees from fear rather than feeding it.",
+        "Churches and theologians increasingly campaign against child-witch accusations."
+      ],
+      "consequences": [
+        "Central to African Christianity’s growth and identity.",
+        "Exported through African diaspora churches worldwide."
+      ],
+      "relatedPositionIds": [
+        "pentecostal-deliverance",
+        "christus-victor",
+        "orthodox-exorcism-prayers",
+        "global-south-christianity",
+        "word-of-faith-prosperity"
+      ],
+      "standing": "significant",
+      "sources": [
+        "bediako-jesus-in-africa",
+        "onyinah-pentecostal-exorcism",
+        "meyer-translating-devil",
+        "kalu-african-pentecostalism",
+        "ter-haar-witchcraft-africa"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "strategic-level-spiritual-warfare",
+      "doctrineId": "angels-spiritual-powers",
+      "name": "Strategic-level spiritual warfare (territorial spirits)",
+      "altNames": [
+        "SLSW",
+        "territorial spirits",
+        "spiritual mapping"
+      ],
+      "oneLine": "High-ranking demonic powers hold sway over particular territories, cities and people groups; through research (“spiritual mapping”), identificational repentance and focused prayer, Christians can bind these spirits and open regions to the gospel.",
+      "coreClaims": [
+        "Daniel 10 shows angelic “princes” over nations.",
+        "Satan delegates territorial spirits to blind whole populations (2 Corinthians 4:4).",
+        "Spiritual mapping identifies strongholds; intercessors pray against them.",
+        "Breakthroughs in places such as Argentina followed such warfare."
+      ],
+      "keyTexts": [
+        "Deuteronomy 32:8 (LXX)",
+        "Daniel 10:13, 20-21",
+        "Mark 5:10",
+        "2 Corinthians 4:4; 10:3-5",
+        "Ephesians 6:12",
+        "Revelation 2:13"
+      ],
+      "origin": "Developed in the late 1980s-1990s by C. Peter Wagner (Fuller Seminary), George Otis Jr., Cindy Jacobs and the AD2000 United Prayer Track, drawing on reports from the Argentine revival (Carlos Annacondia, Omar Cabrera); it fed into the New Apostolic Reformation.",
+      "originYear": 1990,
+      "proponentIds": [
+        "c-peter-wagner",
+        "carlos-annacondia",
+        "john-wimber"
+      ],
+      "proponentsOther": [
+        "George Otis Jr.",
+        "Cindy Jacobs",
+        "Omar Cabrera",
+        "Ed Silvoso",
+        "John Dawson"
+      ],
+      "traditionIds": [
+        "neo-charismatic",
+        "pentecostal",
+        "charismatic-renewal"
+      ],
+      "strongestArguments": [
+        "It takes seriously biblical hints of territorial powers.",
+        "It energises prayer and urban evangelism.",
+        "Practitioners report correlations between focused prayer and spiritual openness."
+      ],
+      "strongestObjections": [
+        "Biblical scholars (Arnold, Lowe) argue that the New Testament never instructs believers to identify or confront territorial spirits, only to resist the devil personally and proclaim the gospel.",
+        "The Lausanne statement (1993) warned against speculative mapping and quasi-animistic thinking.",
+        "Claims of measurable results have been questioned, and naming spirits can stigmatise local cultures."
+      ],
+      "responses": [
+        "Wagner answered that SLSW is an extension of ordinary intercession and that missionary experience reveals what Scripture implies.",
+        "Some practitioners moderated their claims and emphasised repentance and unity rather than naming spirits."
+      ],
+      "consequences": [
+        "Shaped 1990s prayer movements (prayer walks, Transformations videos).",
+        "Became a foundation of the New Apostolic Reformation and later “Seven Mountains” teaching."
+      ],
+      "relatedPositionIds": [
+        "new-apostolic-reformation",
+        "pentecostal-deliverance",
+        "third-wave",
+        "cessationist-warfare-critique",
+        "powers-as-structures"
+      ],
+      "standing": "minority",
+      "sources": [
+        "lowe-territorial-spirits",
+        "arnold-spiritual-warfare",
+        "lausanne-spiritual-warfare-1993-src",
+        "geivett-pivec-nar"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "demythologized-powers",
+      "doctrineId": "angels-spiritual-powers",
+      "name": "Demythologising the powers (Bultmann)",
+      "altNames": [
+        "demythologisation",
+        "existential interpretation of demons"
+      ],
+      "oneLine": "The New Testament’s demons, angels and cosmic powers belong to an ancient mythological world-picture; their meaning must be interpreted existentially as the forces that hold human existence in bondage, from which the kerygma calls us to authentic faith.",
+      "coreClaims": [
+        "Modern people cannot believe in a three-storey universe populated by spirits.",
+        "Myth expresses human self-understanding, not objective description.",
+        "The cross and resurrection call to decision, freeing us from inauthentic existence.",
+        "The aim is to remove the false scandal of myth so the true scandal of the cross remains."
+      ],
+      "keyTexts": [
+        "1 Corinthians 2:6-8",
+        "Galatians 4:3, 8-9",
+        "Ephesians 2:1-2",
+        "John 12:31"
+      ],
+      "origin": "Proposed by Rudolf Bultmann in “New Testament and Mythology” (1941), building on liberal theology’s scepticism and Heidegger’s existentialism; widely debated in Germany and beyond into the 1960s.",
+      "originYear": 1941,
+      "proponentIds": [
+        "rudolf-bultmann",
+        "friedrich-schleiermacher"
+      ],
+      "proponentsOther": [
+        "Fritz Buri",
+        "Schubert Ogden",
+        "Many liberal Protestants"
+      ],
+      "traditionIds": [
+        "lutheran"
+      ],
+      "strongestArguments": [
+        "It removes obstacles that make Christianity seem incredible to modern people.",
+        "It locates the meaning of the powers in real human experience of bondage.",
+        "It keeps the focus on the kerygma rather than speculative demonology."
+      ],
+      "strongestObjections": [
+        "Barth, conservative scholars and Global South Christians argue it imposes a modern Western world-view on Scripture.",
+        "Critics note that the gospels’ exorcisms are integral to Jesus’ ministry and cannot be detached.",
+        "Majority-world Christianity, for which spirits are real, sees it as parochial."
+      ],
+      "responses": [
+        "Bultmann answered that he sought to interpret myth, not eliminate it, and that faith must not depend on outdated cosmology.",
+        "Followers argue that existential interpretation does justice to the powers’ grip on human life."
+      ],
+      "consequences": [
+        "Dominated mid-20th-century European theology.",
+        "Prompted Wink’s and others’ reinterpretation of the powers and a later counter-reaction."
+      ],
+      "relatedPositionIds": [
+        "powers-as-structures",
+        "fall-of-angels-pride",
+        "historical-critical-method",
+        "liberal-protestantism",
+        "bekker-disenchantment"
+      ],
+      "standing": "minority",
+      "sources": [
+        "bultmann-kerygma-myth",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "powers-as-structures",
+      "doctrineId": "angels-spiritual-powers",
+      "name": "The powers as structures (Wink; Christus Victor reading)",
+      "altNames": [
+        "principalities and powers as institutions",
+        "domination system"
+      ],
+      "oneLine": "The New Testament “principalities and powers” are the spiritual interiority of real institutions, ideologies and systems; they are created good, fallen and to be redeemed, and Christ’s cross exposes and disarms them, calling the church to nonviolent resistance.",
+      "coreClaims": [
+        "Powers are neither mere myth nor free-floating demons, but the spirit of concrete structures.",
+        "They are good (created in Christ), fallen (idolatrous) and redeemable.",
+        "The cross unmasks and defeats the powers (Colossians 2:15).",
+        "The church engages the powers by naming, unmasking and nonviolent resistance."
+      ],
+      "keyTexts": [
+        "Romans 8:38-39",
+        "1 Corinthians 2:8",
+        "Ephesians 3:10; 6:12",
+        "Colossians 1:16; 2:15"
+      ],
+      "origin": "Anticipated by Hendrik Berkhof (Christ and the Powers, 1953), John Howard Yoder and William Stringfellow; developed by Walter Wink’s Powers trilogy (1984-92); related to Aulén’s Christus Victor and to liberation theology.",
+      "originYear": 1984,
+      "proponentIds": [
+        "walter-wink",
+        "gustaf-aulen",
+        "j-denny-weaver"
+      ],
+      "proponentsOther": [
+        "Hendrik Berkhof",
+        "John Howard Yoder",
+        "William Stringfellow",
+        "Marva Dawn"
+      ],
+      "traditionIds": [
+        "methodist",
+        "mennonite",
+        "anabaptist",
+        "reformed"
+      ],
+      "strongestArguments": [
+        "It holds together the biblical reality of the powers and the modern experience of systemic evil.",
+        "It gives Christus Victor atonement a social and political application.",
+        "It grounds Christian nonviolent action (civil rights, anti-apartheid)."
+      ],
+      "strongestObjections": [
+        "Evangelical and Pentecostal critics argue it reduces personal demons to social forces, effectively demythologising.",
+        "Some biblical scholars argue Paul’s powers are personal spiritual beings.",
+        "Others say it can politicise the gospel."
+      ],
+      "responses": [
+        "Wink replied that his view rejects both reductionist materialism and supernaturalist dualism, affirming the powers’ spiritual reality as the “withinness” of institutions.",
+        "Supporters point to the cross as both personal and political victory."
+      ],
+      "consequences": [
+        "Influential in peace churches, mainline social ethics and nonviolent activism.",
+        "Shaped nonviolent and Christus Victor atonement theology."
+      ],
+      "relatedPositionIds": [
+        "christus-victor",
+        "nonviolent-atonement",
+        "demythologized-powers",
+        "strategic-level-spiritual-warfare",
+        "pacifism"
+      ],
+      "standing": "minority",
+      "sources": [
+        "wink-powers-trilogy",
+        "aulen-christus-victor",
+        "yoder-politics-of-jesus"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "witch-hunting-demonology",
+      "doctrineId": "angels-spiritual-powers",
+      "name": "Early modern witch-hunting demonology (historical)",
+      "altNames": [
+        "demonological witch theory",
+        "cumulative concept of witchcraft"
+      ],
+      "oneLine": "The late medieval and early modern theory, now repudiated by all churches, that witches had made a pact with the devil, flew to sabbaths, worshipped him and harmed neighbours by magic, constituting a crime to be prosecuted with torture and death.",
+      "coreClaims": [
+        "Witches made explicit pacts with the devil and were organised in a conspiracy.",
+        "Women were held to be especially susceptible.",
+        "Denying witchcraft was itself suspected of heresy.",
+        "Secular and church courts should prosecute it severely, with torture."
+      ],
+      "keyTexts": [
+        "Exodus 22:18 (“thou shalt not suffer a witch to live”)",
+        "Deuteronomy 18:10-12",
+        "1 Samuel 28",
+        "Galatians 5:20"
+      ],
+      "origin": "Assembled in the 15th century from scholastic demonology, heresy trials and folk magic (Formicarius 1437; Summis desiderantes 1484; Malleus Maleficarum 1486); peaked c.1560-1660 in Catholic and Protestant lands, with perhaps 40,000-60,000 executions in Europe, about three-quarters of them women; spread to New England (Salem, 1692).",
+      "originYear": 1486,
+      "proponentIds": [
+        "heinrich-kramer",
+        "increase-mather"
+      ],
+      "proponentsOther": [
+        "Jean Bodin",
+        "King James VI and I (Daemonologie, 1597)",
+        "Nicolas Rémy",
+        "Matthew Hopkins"
+      ],
+      "traditionIds": [
+        "catholic",
+        "lutheran",
+        "reformed",
+        "anglican",
+        "congregationalist"
+      ],
+      "strongestArguments": [
+        "Its proponents believed they were obeying biblical commands (Exodus 22:18) and protecting communities from real harm.",
+        "It drew on respected theological authorities on demonic power.",
+        "It responded, in their view, to confessions and testimonies of victims."
+      ],
+      "strongestObjections": [
+        "Contemporaries such as Johann Weyer (1563), Reginald Scot (1584), Friedrich Spee (1631) and the Spanish inquisitor Alonso de Salazar Frías (1611) showed that confessions were produced by torture and that accusations were unreliable.",
+        "Modern historians see the hunts as products of social stress, misogyny, legal procedure and religious conflict.",
+        "Christians today regard them as a grave betrayal of justice and of the gospel."
+      ],
+      "responses": [
+        "There is no modern defence of the practice; churches have repented of it (e.g. later exonerations at Salem, apologies by church leaders).",
+        "Historians note that the Roman and Spanish Inquisitions were often more sceptical than secular courts, and that sceptics within the churches helped end the hunts."
+      ],
+      "consequences": [
+        "Tens of thousands of executions, mostly of women.",
+        "Left a lasting legacy of suspicion toward demonology and fuelled Enlightenment critiques of religion.",
+        "Witchcraft accusations continue in parts of Africa, Asia and Papua New Guinea, where churches are divided between fuelling and opposing them."
+      ],
+      "relatedPositionIds": [
+        "fall-of-angels-pride",
+        "bekker-disenchantment",
+        "pentecostal-deliverance",
+        "african-spiritual-warfare"
+      ],
+      "standing": "historic",
+      "sources": [
+        "levack-witch-hunt",
+        "russell-devil-series",
+        "norton-devils-snare",
+        "ter-haar-witchcraft-africa"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "bekker-disenchantment",
+      "doctrineId": "angels-spiritual-powers",
+      "name": "Rationalist scepticism about demonic power (Bekker)",
+      "altNames": [
+        "disenchantment",
+        "Enlightenment scepticism of the devil",
+        "Bekkerianism"
+      ],
+      "oneLine": "Scripture, rightly understood, gives the devil no power to act physically in the world; possession, witchcraft and spectral harms are superstitions, and God alone governs nature.",
+      "coreClaims": [
+        "God’s providence leaves no room for devils acting in nature.",
+        "Biblical demon language is accommodated or metaphorical.",
+        "Witchcraft beliefs cause injustice and dishonour God.",
+        "Reason and Scripture together dispel superstition."
+      ],
+      "keyTexts": [
+        "Deuteronomy 18:10-12",
+        "Isaiah 45:7",
+        "Colossians 2:15",
+        "Hebrews 2:14"
+      ],
+      "origin": "Developed by Balthasar Bekker (The World Bewitched, 1691) using Cartesian dualism, following earlier sceptics (Johann Weyer, Reginald Scot); continued in Enlightenment and liberal theology.",
+      "originYear": 1691,
+      "proponentIds": [
+        "balthasar-bekker"
+      ],
+      "proponentsOther": [
+        "Johann Weyer",
+        "Reginald Scot",
+        "Christian Thomasius",
+        "Many Enlightenment clergy"
+      ],
+      "traditionIds": [
+        "reformed"
+      ],
+      "strongestArguments": [
+        "It helped end the witch trials and the injustices they caused.",
+        "It affirms God’s sole sovereignty over creation.",
+        "It takes the accommodated character of biblical language seriously."
+      ],
+      "strongestObjections": [
+        "Orthodox Reformed contemporaries deposed Bekker for denying biblical teaching on Satan.",
+        "Critics argue it subordinates Scripture to Cartesian philosophy.",
+        "Global South Christians see it as Western rationalism blind to spiritual realities."
+      ],
+      "responses": [
+        "Bekker’s defenders saw him as more biblical than his opponents in exalting God’s providence.",
+        "Later liberal theologians argued his scepticism was vindicated by science."
+      ],
+      "consequences": [
+        "Contributed to the decline of witch prosecutions in the Dutch Republic and beyond.",
+        "A forerunner of modern Western Christian scepticism about demons."
+      ],
+      "relatedPositionIds": [
+        "witch-hunting-demonology",
+        "demythologized-powers",
+        "cessationist-warfare-critique"
+      ],
+      "standing": "historic",
+      "sources": [
+        "levack-witch-hunt",
+        "muchembled-history-devil"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "cessationist-warfare-critique",
+      "doctrineId": "angels-spiritual-powers",
+      "name": "Cessationist and sufficiency critique of deliverance ministry",
+      "altNames": [
+        "Reformed critique of spiritual warfare",
+        "sufficiency of Scripture approach"
+      ],
+      "oneLine": "Satan and demons are real, but the believer’s defence is the whole armour of God — truth, righteousness, faith and the word — not special techniques; Christians cannot be demon-possessed, and the apostolic sign-gifts of exorcism are not normative today.",
+      "coreClaims": [
+        "Christ has decisively defeated Satan; believers resist by faith, Scripture and prayer.",
+        "Indwelt by the Spirit, Christians cannot be possessed or “demonised”.",
+        "The apostolic sign gifts, including authoritative exorcisms, have ceased or are rare.",
+        "Deliverance techniques, binding spirits and spiritual mapping lack biblical warrant."
+      ],
+      "keyTexts": [
+        "Ephesians 6:10-18",
+        "James 4:7",
+        "1 Peter 5:8-9",
+        "1 John 4:4; 5:18",
+        "2 Corinthians 12:12",
+        "Hebrews 2:3-4"
+      ],
+      "origin": "Grounded in Reformation caution about exorcism rites (Calvin) and B. B. Warfield’s Counterfeit Miracles (1918); restated by evangelical and Reformed critics of deliverance and SLSW and by John MacArthur’s Strange Fire (2013).",
+      "originYear": 1918,
+      "proponentIds": [
+        "b-b-warfield",
+        "john-macarthur",
+        "john-calvin"
+      ],
+      "proponentsOther": [
+        "Thomas Ice",
+        "Richard Mayhue",
+        "Many Reformed Baptist and Presbyterian pastors"
+      ],
+      "traditionIds": [
+        "reformed",
+        "presbyterian",
+        "baptist",
+        "evangelical"
+      ],
+      "strongestArguments": [
+        "It keeps Christ’s finished victory and the sufficiency of Scripture central.",
+        "It protects vulnerable people from fear, manipulation and abusive practices.",
+        "It notes that the New Testament epistles give no instructions for exorcism."
+      ],
+      "strongestObjections": [
+        "Pentecostals and continuationists argue it is a form of Western rationalism that leaves believers without help against real oppression.",
+        "Missionaries in animistic contexts report that cessationist theology often fails to address converts’ fears.",
+        "Critics note that Jesus commissioned all disciples to cast out demons."
+      ],
+      "responses": [
+        "Cessationists answer that the gospel addresses fear by assurance in Christ and that pastors can pray for the afflicted without techniques.",
+        "Many acknowledge real demonic activity, especially in missionary contexts, while rejecting systematised deliverance."
+      ],
+      "consequences": [
+        "Shapes Reformed and many Baptist churches’ approach to spiritual warfare.",
+        "A major voice in evangelical debates over charismatic practice."
+      ],
+      "relatedPositionIds": [
+        "cessationism",
+        "pentecostal-deliverance",
+        "strategic-level-spiritual-warfare",
+        "bekker-disenchantment",
+        "continuationism"
+      ],
+      "standing": "significant",
+      "sources": [
+        "ruthven-cessation",
+        "macarthur-strange-fire",
+        "arnold-spiritual-warfare"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "controversies": [
+    {
+      "id": "territorial-spirits-debate",
+      "title": "Strategic-level spiritual warfare and territorial spirits",
+      "question": "Should Christians identify and pray against demonic powers ruling cities and nations, or is that unbiblical speculation?",
+      "summary": "From the late 1980s C. Peter Wagner and others promoted “strategic-level spiritual warfare” against territorial spirits, citing Daniel 10 and the Argentine revival; evangelical scholars and the Lausanne movement warned against speculation and animistic tendencies. The debate continues in disputes over the New Apostolic Reformation.",
+      "doctrineIds": [
+        "angels-spiritual-powers",
+        "holy-spirit"
+      ],
+      "sides": [
+        {
+          "name": "For strategic-level warfare",
+          "positionId": "strategic-level-spiritual-warfare",
+          "steelman": "Scripture shows angelic princes over nations (Daniel 10) and Paul says we wrestle not against flesh and blood but against principalities. Where intercessors have identified strongholds, repented for a city’s sins and prayed with authority, as in Argentina, the gospel has broken through. To ignore the unseen battle is to fight with one hand tied.",
+          "arguments": [
+            "Daniel 10:13, 20",
+            "Ephesians 6:12",
+            "Missionary and revival reports",
+            "Jesus’ authority over Legion (Mark 5:10)"
+          ],
+          "counterArguments": [
+            "No apostolic example of mapping or naming territorial spirits",
+            "Results anecdotal"
+          ],
+          "keyTexts": [
+            "Daniel 10:13, 20-21",
+            "Ephesians 6:12",
+            "2 Corinthians 10:3-5"
+          ],
+          "quoteIds": [
+            "wagner-territorial-para"
+          ]
+        },
+        {
+          "name": "Critics",
+          "positionId": "cessationist-warfare-critique",
+          "steelman": "The devil is real and defeated. The New Testament calls believers to resist him by faith, holiness and the proclamation of the gospel, never to map or address territorial spirits. Seeking hidden knowledge about demons comes close to the animism the gospel dethrones, and distracts from repentance, discipleship and social witness.",
+          "arguments": [
+            "Ephesians 6:13-18 (the armour is defensive and gospel-centred)",
+            "Jude 8-9 (even Michael did not rail)",
+            "Lausanne statement (1993)",
+            "Historical abuses of demonology"
+          ],
+          "counterArguments": [
+            "Underestimates the spiritual battle",
+            "Western rationalism"
+          ],
+          "keyTexts": [
+            "Ephesians 6:13-18",
+            "Jude 8-9",
+            "James 4:7"
+          ],
+          "quoteIds": [
+            "macarthur-strange-fire-para",
+            "lewis-two-errors-para"
+          ]
+        },
+        {
+          "name": "Powers as structures",
+          "positionId": "powers-as-structures",
+          "steelman": "Both sides miss the social face of the powers. The principalities are embodied in empires, economies and institutions; Christ’s cross unmasks them, and the church engages them through truth-telling and nonviolent resistance rather than prayer techniques alone.",
+          "arguments": [
+            "Colossians 2:15",
+            "1 Corinthians 2:8",
+            "Civil rights and anti-apartheid struggles"
+          ],
+          "counterArguments": [
+            "Reduces personal demons to social forces"
+          ],
+          "keyTexts": [
+            "Colossians 2:15",
+            "Ephesians 3:10"
+          ],
+          "quoteIds": [
+            "wink-powers-para"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 1984,
+          "text": "Carlos Annacondia’s campaigns in Argentina feature mass deliverance."
+        },
+        {
+          "year": 1984,
+          "text": "Walter Wink’s Naming the Powers."
+        },
+        {
+          "year": 1990,
+          "text": "Wagner and the AD2000 United Prayer Track promote territorial-spirit prayer."
+        },
+        {
+          "year": 1991,
+          "text": "Engaging the Enemy (ed. Wagner); George Otis Jr. popularises “spiritual mapping”."
+        },
+        {
+          "year": 1993,
+          "text": "Lausanne statement on spiritual warfare warns against excesses.",
+          "eventId": "lausanne-spiritual-warfare-1993"
+        },
+        {
+          "year": 1998,
+          "text": "Chuck Lowe’s Territorial Spirits and World Evangelisation? published by OMF."
+        },
+        {
+          "year": 2001,
+          "text": "Wagner proclaims a “Second Apostolic Age”; NAR networks expand."
+        },
+        {
+          "year": 2013,
+          "text": "MacArthur’s Strange Fire conference."
+        }
+      ],
+      "resolution": {
+        "kind": "open",
+        "text": "Unresolved. Strategic-level warfare remains influential in NAR and many neo-charismatic networks worldwide, while most evangelical scholars, cessationists and many Pentecostals regard it as speculative."
+      },
+      "consequences": [
+        "Shaped global prayer movements and NAR political engagement.",
+        "Provoked a large evangelical literature on spiritual warfare.",
+        "Raised missiological questions about animism and contextualisation."
+      ],
+      "sources": [
+        "lowe-territorial-spirits",
+        "arnold-spiritual-warfare",
+        "lausanne-spiritual-warfare-1993-src",
+        "geivett-pivec-nar"
+      ]
+    },
+    {
+      "id": "witch-hunts-and-demonology",
+      "title": "Witch-hunts: demonology, justice and repentance",
+      "question": "How did Christian demonology contribute to the early modern witch-hunts, and what ended them?",
+      "summary": "Between about 1450 and 1750, Catholic and Protestant courts executed tens of thousands of people, mostly women, for witchcraft understood as a pact with the devil. Christian sceptics — Weyer, Spee, Salazar, Bekker, Increase Mather — challenged the trials, and today all churches repudiate them. The episode remains a test case for the dangers of demonology.",
+      "doctrineIds": [
+        "angels-spiritual-powers",
+        "ethics-church-state"
+      ],
+      "sides": [
+        {
+          "name": "Witch-hunting demonologists (historical)",
+          "positionId": "witch-hunting-demonology",
+          "steelman": "As they saw it, Scripture commands that a witch shall not live; Satan seeks to destroy Christendom through a secret sect bound to him by pact; confessions and the testimony of the afflicted proved the crime; and to doubt witchcraft was to doubt Scripture and the reality of the devil. Rulers who failed to prosecute endangered their people.",
+          "arguments": [
+            "Exodus 22:18",
+            "Scholastic demonology",
+            "Confessions under interrogation",
+            "Fear of social catastrophe"
+          ],
+          "counterArguments": [
+            "Torture produces false confessions",
+            "Spectral evidence can be the devil impersonating the innocent"
+          ],
+          "keyTexts": [
+            "Exodus 22:18",
+            "Deuteronomy 18:10-12"
+          ],
+          "quoteIds": [
+            "kramer-malleus-para"
+          ]
+        },
+        {
+          "name": "Christian sceptics and critics",
+          "positionId": "bekker-disenchantment",
+          "steelman": "The devil is a liar, so testimony shaped by him — spectral evidence — is worthless; torture makes anyone confess; God, not Satan, governs nature; and Christ commands justice and mercy. Better that the guilty escape than the innocent be condemned.",
+          "arguments": [
+            "Spee’s critique of torture",
+            "Salazar’s investigation in the Basque country (1611)",
+            "Increase Mather on spectral evidence",
+            "Bekker on God’s sole sovereignty"
+          ],
+          "counterArguments": [
+            "Accused by contemporaries of denying Scripture or the devil"
+          ],
+          "keyTexts": [
+            "Matthew 7:1-2",
+            "John 8:44",
+            "Deuteronomy 19:15"
+          ],
+          "quoteIds": [
+            "spee-cautio-para",
+            "mather-ten-witches",
+            "bekker-para"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 1484,
+          "text": "Innocent VIII’s bull Summis desiderantes."
+        },
+        {
+          "year": 1486,
+          "text": "Malleus Maleficarum published.",
+          "eventId": "malleus-maleficarum-1486"
+        },
+        {
+          "year": 1563,
+          "text": "Johann Weyer’s De praestigiis daemonum argues accused witches are deluded or ill."
+        },
+        {
+          "year": 1611,
+          "text": "Inquisitor Alonso de Salazar Frías finds no evidence in the Basque trials; the Spanish Inquisition effectively halts executions."
+        },
+        {
+          "year": 1631,
+          "text": "Spee’s Cautio Criminalis."
+        },
+        {
+          "year": 1691,
+          "text": "Bekker’s The World Bewitched."
+        },
+        {
+          "year": 1692,
+          "text": "Salem witch trials.",
+          "eventId": "salem-witch-trials-1692"
+        },
+        {
+          "year": 1697,
+          "text": "Judge Samuel Sewall’s public apology."
+        },
+        {
+          "year": 1782,
+          "text": "Anna Göldi, among the last executed for witchcraft in Europe, in Glarus, Switzerland."
+        }
+      ],
+      "resolution": {
+        "kind": "faded",
+        "text": "Witch prosecutions declined from the late 17th century through judicial scepticism, legal reform, theological critique and changing world-views, and ended in Europe by the late 18th century. All major churches now repudiate them. However, witchcraft accusations — sometimes fuelled by church leaders, sometimes opposed by them — persist in parts of sub-Saharan Africa, India and Papua New Guinea."
+      },
+      "consequences": [
+        "Became a lasting indictment of religious persecution and misogyny.",
+        "Contributed to Enlightenment scepticism about the devil and to legal reforms against torture.",
+        "Informs contemporary church efforts against witchcraft accusations in Africa and the Pacific."
+      ],
+      "sources": [
+        "levack-witch-hunt",
+        "norton-devils-snare",
+        "russell-devil-series",
+        "ter-haar-witchcraft-africa"
+      ]
+    }
+  ]
+}

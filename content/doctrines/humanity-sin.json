@@ -258,42 +258,6 @@
         "odcc"
       ],
       "confidence": "established"
-    },
-    {
-      "id": "james-h-cone",
-      "name": "James H. Cone",
-      "born": 1938,
-      "died": 2018,
-      "circa": false,
-      "roles": [
-        "theologian"
-      ],
-      "traditionIds": [
-        "methodist"
-      ],
-      "regions": [
-        "north-america"
-      ],
-      "summary": "African American theologian at Union Theological Seminary, an ordained minister of the African Methodist Episcopal Church, whose Black Theology and Black Power (1969) and A Black Theology of Liberation (1970) named white supremacy as sin and read the gospel from the experience of the oppressed.",
-      "keyIdeas": [
-        "Black theology",
-        "Racism as sin",
-        "God’s solidarity with the oppressed"
-      ],
-      "influencedBy": [
-        "martin-luther-king-jr",
-        "karl-barth"
-      ],
-      "place": {
-        "name": "New York City",
-        "lat": 40.8115,
-        "lng": -73.9614
-      },
-      "sources": [
-        "cone-black-theology",
-        "noll-christianity-us"
-      ],
-      "confidence": "established"
     }
   ],
   "works": [
@@ -814,7 +778,7 @@
       "id": "cone-racism-sin-para",
       "text": "Cone argues that white racism is a fundamental sin of American Christianity, and that because God in the Exodus and in Jesus sides with the oppressed, Christian theology must speak from the experience of Black people struggling for liberation.",
       "kind": "paraphrase",
-      "personId": "james-h-cone",
+      "personId": "james-cone",
       "citation": "A Black Theology of Liberation (1970), chs. 1, 6",
       "year": 1970,
       "topics": [
