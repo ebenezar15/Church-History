@@ -1,0 +1,1227 @@
+{
+  "paths": [
+    {
+      "id": "how-the-denominations-multiplied",
+      "title": "How the denominations multiplied",
+      "icon": "scroll",
+      "summary": "From one Church confessing one faith to tens of thousands of denominations: a guided tour of the great divisions, from the 5th-century Christological schisms and the East-West split to the Reformation, dissent, revival, Pentecostalism and the Global South, and of the movements that have tried to reunite Christians.",
+      "steps": [
+        {
+          "title": "Fault lines in the ancient Church",
+          "text": "The first lasting divisions were over Christ, not church order. After the Council of Ephesus (431) the Church of the East, mostly in the Persian Empire, did not accept its condemnation of Nestorius; after Chalcedon (451) the Coptic, Syriac, Armenian and Ethiopian churches rejected the \"two natures\" formula and became the Oriental Orthodox family. Language, empire and politics deepened theological disagreements that recent dialogues suggest were partly verbal.",
+          "year": 451,
+          "refs": [
+            {
+              "type": "event",
+              "id": "council-of-ephesus-431"
+            },
+            {
+              "type": "event",
+              "id": "council-of-chalcedon-451"
+            },
+            {
+              "type": "tradition",
+              "id": "church-of-the-east"
+            },
+            {
+              "type": "tradition",
+              "id": "oriental-orthodox"
+            },
+            {
+              "type": "controversy",
+              "id": "chalcedon-controversy"
+            },
+            {
+              "type": "era",
+              "id": "imperial-church"
+            }
+          ]
+        },
+        {
+          "title": "East and West drift apart",
+          "text": "Greek East and Latin West grew apart over centuries: papal authority, the filioque, leavened or unleavened bread and clerical celibacy. The mutual excommunications of 1054 are a symbolic date; the sack of Constantinople by crusaders in 1204 made the break felt at popular level. Eastern Catholic churches later united with Rome while keeping Eastern rites (e.g. the Union of Brest, 1596).",
+          "year": 1054,
+          "refs": [
+            {
+              "type": "event",
+              "id": "great-schism-1054"
+            },
+            {
+              "type": "tradition",
+              "id": "catholic"
+            },
+            {
+              "type": "tradition",
+              "id": "eastern-orthodox"
+            },
+            {
+              "type": "controversy",
+              "id": "filioque-controversy"
+            },
+            {
+              "type": "event",
+              "id": "sack-of-constantinople-1204"
+            },
+            {
+              "type": "event",
+              "id": "union-of-brest-1596"
+            },
+            {
+              "type": "tradition",
+              "id": "eastern-catholic"
+            }
+          ]
+        },
+        {
+          "title": "Medieval dissent: Waldensians and Hussites",
+          "text": "Reform movements that stressed poverty, preaching and Scripture in the vernacular were pushed out of the medieval Church. Waldo’s Poor of Lyon (1170s) survived persecution in the Alps; Jan Hus was burned at Constance in 1415 and his followers formed Hussite churches, from which the Moravian Unity of Brethren descends.",
+          "year": 1415,
+          "refs": [
+            {
+              "type": "event",
+              "id": "waldo-poor-of-lyon-1173"
+            },
+            {
+              "type": "tradition",
+              "id": "waldensian"
+            },
+            {
+              "type": "person",
+              "id": "jan-hus"
+            },
+            {
+              "type": "event",
+              "id": "council-of-constance-1414"
+            },
+            {
+              "type": "tradition",
+              "id": "hussite-moravian"
+            },
+            {
+              "type": "era",
+              "id": "late-medieval"
+            }
+          ]
+        },
+        {
+          "title": "Luther and the evangelical churches",
+          "text": "Martin Luther’s protest of 1517 over indulgences became a dispute about grace, Scripture and authority. Princes and cities that accepted the Augsburg Confession (1530) formed territorial Lutheran churches, legally recognised in the Empire by the Peace of Augsburg (1555) on the principle that the ruler decides the region’s religion.",
+          "year": 1517,
+          "refs": [
+            {
+              "type": "event",
+              "id": "ninety-five-theses-1517"
+            },
+            {
+              "type": "person",
+              "id": "martin-luther"
+            },
+            {
+              "type": "tradition",
+              "id": "lutheran"
+            },
+            {
+              "type": "event",
+              "id": "augsburg-confession-1530"
+            },
+            {
+              "type": "event",
+              "id": "peace-of-augsburg-1555"
+            },
+            {
+              "type": "position",
+              "id": "justification-by-faith-alone"
+            }
+          ]
+        },
+        {
+          "title": "Reformed, radical and Anglican",
+          "text": "The Reformers soon divided among themselves. Zwingli and Luther failed to agree on the Lord’s Supper at Marburg (1529); Calvin’s Geneva shaped the Reformed and Presbyterian churches; Anabaptists began believers’ baptism in Zurich in 1525 and were persecuted by Catholics and Protestants alike; England’s break with Rome (1534) created the Church of England, a church both catholic and reformed in its own self-understanding.",
+          "year": 1525,
+          "refs": [
+            {
+              "type": "event",
+              "id": "marburg-colloquy-1529"
+            },
+            {
+              "type": "controversy",
+              "id": "what-happens-at-the-lords-supper"
+            },
+            {
+              "type": "tradition",
+              "id": "reformed"
+            },
+            {
+              "type": "event",
+              "id": "first-adult-baptisms-zurich-1525"
+            },
+            {
+              "type": "tradition",
+              "id": "anabaptist"
+            },
+            {
+              "type": "event",
+              "id": "act-of-supremacy-1534"
+            },
+            {
+              "type": "tradition",
+              "id": "anglican"
+            }
+          ]
+        },
+        {
+          "title": "Church order divides Protestants",
+          "text": "Should a church be governed by bishops, by elders in presbyteries, or by each congregation? English Puritans split over this question into Presbyterians and Congregationalists (Independents); the Westminster Assembly (1643) produced Presbyterian standards. Anabaptist groups also subdivided into Mennonites, Hutterites and, in 1693, the Amish.",
+          "year": 1643,
+          "refs": [
+            {
+              "type": "position",
+              "id": "episcopal-polity"
+            },
+            {
+              "type": "position",
+              "id": "presbyterian-polity"
+            },
+            {
+              "type": "position",
+              "id": "congregational-polity"
+            },
+            {
+              "type": "event",
+              "id": "westminster-assembly-1643"
+            },
+            {
+              "type": "tradition",
+              "id": "presbyterian"
+            },
+            {
+              "type": "tradition",
+              "id": "congregationalist"
+            },
+            {
+              "type": "event",
+              "id": "amish-division-1693"
+            },
+            {
+              "type": "tradition",
+              "id": "amish"
+            }
+          ]
+        },
+        {
+          "title": "Dissenters: Baptists and Quakers",
+          "text": "English exiles under John Smyth in Amsterdam (1609) baptised believers only and became the first Baptists; George Fox’s Quakers (1652) rejected outward sacraments and clergy for the inward light. The Great Ejection of 1662 pushed some 2,000 Puritan ministers out of the Church of England; the Toleration Act of 1689 accepted Dissent as a permanent feature of English religion.",
+          "year": 1662,
+          "refs": [
+            {
+              "type": "person",
+              "id": "john-smyth"
+            },
+            {
+              "type": "tradition",
+              "id": "baptist"
+            },
+            {
+              "type": "event",
+              "id": "quaker-movement-1652"
+            },
+            {
+              "type": "tradition",
+              "id": "quaker"
+            },
+            {
+              "type": "event",
+              "id": "great-ejection-1662"
+            },
+            {
+              "type": "event",
+              "id": "act-of-toleration-1689"
+            },
+            {
+              "type": "position",
+              "id": "believers-baptism"
+            }
+          ]
+        },
+        {
+          "title": "Revival makes new churches",
+          "text": "Evangelical revival produced new denominations. Wesley’s Methodists separated from the Church of England after his death; American revivals spawned the Stone-Campbell Restoration movement, the African Methodist Episcopal Church (1816), Holiness churches and the Salvation Army. Prophetic movements arose from the same milieu: Seventh-day Adventists after the Millerite Great Disappointment (1844), and outside historic Nicene orthodoxy the Latter-day Saints (1830) and Jehovah’s Witnesses (1879).",
+          "year": 1801,
+          "refs": [
+            {
+              "type": "event",
+              "id": "aldersgate-1738"
+            },
+            {
+              "type": "tradition",
+              "id": "methodist"
+            },
+            {
+              "type": "event",
+              "id": "cane-ridge-revival-1801"
+            },
+            {
+              "type": "tradition",
+              "id": "stone-campbell-restoration"
+            },
+            {
+              "type": "event",
+              "id": "ame-church-founded-1816"
+            },
+            {
+              "type": "event",
+              "id": "great-disappointment-1844"
+            },
+            {
+              "type": "tradition",
+              "id": "seventh-day-adventist"
+            },
+            {
+              "type": "tradition",
+              "id": "latter-day-saints"
+            },
+            {
+              "type": "tradition",
+              "id": "jehovahs-witnesses"
+            }
+          ]
+        },
+        {
+          "title": "Pentecostalism and the Global South",
+          "text": "The Azusa Street revival (1906) launched Pentecostalism, which itself divided: Assemblies of God (1914), Oneness Pentecostals (1913-16) and countless independent churches. In Africa, prophets such as William Wade Harris and Simon Kimbangu inspired African-initiated churches; in China, house churches grew outside state control after 1949. Most new denominations are now founded in the Global South.",
+          "year": 1906,
+          "refs": [
+            {
+              "type": "event",
+              "id": "azusa-street-revival-1906"
+            },
+            {
+              "type": "tradition",
+              "id": "pentecostal"
+            },
+            {
+              "type": "tradition",
+              "id": "assemblies-of-god"
+            },
+            {
+              "type": "tradition",
+              "id": "oneness-pentecostal"
+            },
+            {
+              "type": "event",
+              "id": "harris-movement-west-africa-1913"
+            },
+            {
+              "type": "event",
+              "id": "kimbanguist-movement-1921"
+            },
+            {
+              "type": "tradition",
+              "id": "african-initiated-churches"
+            },
+            {
+              "type": "tradition",
+              "id": "chinese-house-churches"
+            },
+            {
+              "type": "position",
+              "id": "global-south-christianity"
+            }
+          ]
+        },
+        {
+          "title": "Counter-current: the search for unity",
+          "text": "Alongside division runs reunion. The Edinburgh Missionary Conference (1910) launched the modern ecumenical movement; the Church of South India (1947) joined Anglicans, Methodists and Reformed; the World Council of Churches (1948) and Vatican II’s decree on ecumenism (1964) changed relations between churches. Critics still debate whether visible unity or spiritual unity is the goal.",
+          "year": 1948,
+          "refs": [
+            {
+              "type": "event",
+              "id": "edinburgh-missionary-conference-1910"
+            },
+            {
+              "type": "event",
+              "id": "church-of-south-india-1947"
+            },
+            {
+              "type": "event",
+              "id": "world-council-of-churches-1948"
+            },
+            {
+              "type": "event",
+              "id": "second-vatican-council-1962"
+            },
+            {
+              "type": "position",
+              "id": "ecumenism"
+            },
+            {
+              "type": "controversy",
+              "id": "should-churches-seek-visible-unity"
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which churches separated after the Council of Chalcedon (451)?",
+          "options": [
+            "The Lutheran churches",
+            "The Oriental Orthodox churches (Coptic, Syriac, Armenian, Ethiopian)",
+            "The Church of England",
+            "The Waldensians"
+          ],
+          "answer": 1,
+          "explanation": "Churches that rejected Chalcedon’s \"in two natures\" formula became the Oriental Orthodox family; the Church of the East had separated after Ephesus (431)."
+        },
+        {
+          "question": "What is the symbolic date usually given for the split between Eastern Orthodox and Catholics?",
+          "options": [
+            "325",
+            "1054",
+            "1517",
+            "1648"
+          ],
+          "answer": 1,
+          "explanation": "Mutual excommunications in 1054 are the symbolic date, though the estrangement developed over centuries and hardened after 1204."
+        },
+        {
+          "question": "Where did the first adult (believers’) baptisms of the Anabaptist movement take place in 1525?",
+          "options": [
+            "Wittenberg",
+            "Geneva",
+            "Zurich",
+            "Amsterdam"
+          ],
+          "answer": 2,
+          "explanation": "Conrad Grebel and others baptised each other in Zurich in January 1525."
+        },
+        {
+          "question": "What issue chiefly divided Presbyterians and Congregationalists?",
+          "options": [
+            "Infant baptism",
+            "Church government",
+            "The Trinity",
+            "Bible translation"
+          ],
+          "answer": 1,
+          "explanation": "Both were Reformed in doctrine; they disagreed over whether congregations are governed by presbyteries or are self-governing."
+        },
+        {
+          "question": "Who led the English exiles who formed the first Baptist church in Amsterdam (1609)?",
+          "options": [
+            "John Smyth",
+            "George Fox",
+            "John Wesley",
+            "Thomas Cranmer"
+          ],
+          "answer": 0,
+          "explanation": "John Smyth and Thomas Helwys led the first General Baptists in Amsterdam."
+        },
+        {
+          "question": "Which movement grew from the Millerite \"Great Disappointment\" of 1844?",
+          "options": [
+            "Methodism",
+            "The Seventh-day Adventist Church",
+            "The Salvation Army",
+            "The Stone-Campbell movement"
+          ],
+          "answer": 1,
+          "explanation": "Adventists reinterpreted the failed prediction and organised as the Seventh-day Adventist Church in 1863."
+        },
+        {
+          "question": "Which 1910 event is often seen as the start of the modern ecumenical movement?",
+          "options": [
+            "The Azusa Street revival",
+            "The Edinburgh World Missionary Conference",
+            "The publication of The Fundamentals",
+            "The Second Vatican Council"
+          ],
+          "answer": 1,
+          "explanation": "The Edinburgh conference led to the International Missionary Council and eventually the World Council of Churches (1948)."
+        }
+      ]
+    },
+    {
+      "id": "the-great-schools-of-theology",
+      "title": "The great schools of theology",
+      "icon": "quill",
+      "summary": "How have Christians thought about God? A tour of the great theological schools and methods, from Alexandria and Antioch through monks and scholastics, Reformation orthodoxy and Pietism, Enlightenment and liberalism, Barth and the 20th-century revivals, to the liberation, contextual and Pentecostal theologies of world Christianity.",
+      "steps": [
+        {
+          "title": "Alexandria and Antioch: how to read the Bible",
+          "text": "Clement and Origen in Alexandria used philosophy and sought spiritual senses beneath the letter; Diodore, Theodore of Mopsuestia and Chrysostom in Antioch insisted on history and grammar. Their debate about allegory and the literal sense still shapes biblical interpretation, and the Church of the East kept Theodore as \"the Interpreter\" at Nisibis.",
+          "year": 230,
+          "refs": [
+            {
+              "type": "doctrine",
+              "id": "theological-schools"
+            },
+            {
+              "type": "position",
+              "id": "alexandrian-allegorical-exegesis"
+            },
+            {
+              "type": "position",
+              "id": "antiochene-literal-exegesis"
+            },
+            {
+              "type": "event",
+              "id": "catechetical-school-alexandria-180"
+            },
+            {
+              "type": "person",
+              "id": "origen"
+            },
+            {
+              "type": "event",
+              "id": "school-of-nisibis-489"
+            }
+          ]
+        },
+        {
+          "title": "Believe in order to understand",
+          "text": "Tertullian asked what Athens had to do with Jerusalem, but Augustine taught the West that faith opens the way to understanding. Anselm made \"faith seeking understanding\" the programme of his Proslogion (1078), at the hinge between monastic and scholastic theology.",
+          "year": 1078,
+          "refs": [
+            {
+              "type": "person",
+              "id": "tertullian"
+            },
+            {
+              "type": "person",
+              "id": "augustine-of-hippo"
+            },
+            {
+              "type": "person",
+              "id": "anselm"
+            },
+            {
+              "type": "work",
+              "id": "anselm-proslogion"
+            },
+            {
+              "type": "quote",
+              "id": "anselm-believe-in-order-to-understand"
+            }
+          ]
+        },
+        {
+          "title": "Cloister and school",
+          "text": "Bernard of Clairvaux practised theology as prayerful savouring of Scripture; Abelard and Peter Lombard posed questions and resolved authorities by logic. Bernard secured Abelard’s condemnation in 1141, but Lombard’s Sentences became the textbook of the universities.",
+          "year": 1141,
+          "refs": [
+            {
+              "type": "position",
+              "id": "monastic-theology"
+            },
+            {
+              "type": "position",
+              "id": "early-scholasticism"
+            },
+            {
+              "type": "person",
+              "id": "bernard-of-clairvaux"
+            },
+            {
+              "type": "person",
+              "id": "abelard"
+            },
+            {
+              "type": "event",
+              "id": "abelard-condemned-1141"
+            },
+            {
+              "type": "work",
+              "id": "lombard-sentences"
+            }
+          ]
+        },
+        {
+          "title": "Aquinas, Scotus and Ockham",
+          "text": "Thomas Aquinas built a synthesis of Aristotle and revelation in which grace perfects nature; after the Paris condemnations of 1277, Duns Scotus stressed God’s freedom and William of Ockham’s via moderna limited what reason can prove. Luther was trained in Ockham’s school.",
+          "year": 1277,
+          "refs": [
+            {
+              "type": "position",
+              "id": "thomism"
+            },
+            {
+              "type": "position",
+              "id": "scotism"
+            },
+            {
+              "type": "position",
+              "id": "nominalism-via-moderna"
+            },
+            {
+              "type": "event",
+              "id": "aquinas-summa-1265"
+            },
+            {
+              "type": "event",
+              "id": "paris-condemnations-1277"
+            },
+            {
+              "type": "controversy",
+              "id": "faith-and-reason-via-antiqua-moderna"
+            }
+          ]
+        },
+        {
+          "title": "Back to the sources and the Reformation",
+          "text": "Humanists such as Erasmus called theology back to the original languages; Luther attacked scholastic theology itself. Within a generation Lutheran and Reformed orthodoxy had rebuilt Protestant teaching with scholastic tools, while Catholic reform at Trent drew on Aquinas.",
+          "year": 1516,
+          "refs": [
+            {
+              "type": "position",
+              "id": "renaissance-humanism"
+            },
+            {
+              "type": "person",
+              "id": "erasmus"
+            },
+            {
+              "type": "work",
+              "id": "luther-disputation-scholastic-theology"
+            },
+            {
+              "type": "position",
+              "id": "protestant-scholasticism"
+            },
+            {
+              "type": "person",
+              "id": "francis-turretin"
+            },
+            {
+              "type": "event",
+              "id": "council-of-trent-1545"
+            }
+          ]
+        },
+        {
+          "title": "Practical divinity and the religion of the heart",
+          "text": "English Puritans such as William Perkins defined theology as the science of living blessedly; German Pietists led by Spener and Francke called for new birth, Bible study and practical love. Both shaped evangelical Christianity.",
+          "year": 1675,
+          "refs": [
+            {
+              "type": "position",
+              "id": "puritan-theology"
+            },
+            {
+              "type": "position",
+              "id": "pietist-theology"
+            },
+            {
+              "type": "quote",
+              "id": "perkins-science-of-living-blessedly"
+            },
+            {
+              "type": "event",
+              "id": "pietism-pia-desideria-1675"
+            },
+            {
+              "type": "person",
+              "id": "august-hermann-francke"
+            }
+          ]
+        },
+        {
+          "title": "Reason on the throne",
+          "text": "The Enlightenment made reason the judge of revelation; Deists reduced Christianity to natural religion and Kant to morality. Schleiermacher responded by grounding theology in religious experience, and the liberal Protestantism of Ritschl and Harnack followed.",
+          "year": 1799,
+          "refs": [
+            {
+              "type": "position",
+              "id": "enlightenment-deism"
+            },
+            {
+              "type": "person",
+              "id": "immanuel-kant"
+            },
+            {
+              "type": "person",
+              "id": "friedrich-schleiermacher"
+            },
+            {
+              "type": "position",
+              "id": "liberal-protestantism"
+            },
+            {
+              "type": "work",
+              "id": "schleiermacher-christian-faith"
+            },
+            {
+              "type": "position",
+              "id": "social-gospel"
+            }
+          ]
+        },
+        {
+          "title": "Barth and the 20th-century revolts",
+          "text": "After 1914 Karl Barth broke with liberalism to proclaim God’s self-revelation; Bultmann and Tillich took an existentialist path; exiled Orthodox theologians called for a neo-patristic synthesis; French Catholics returned to the Fathers and were vindicated at Vatican II, ending the reign of the neo-Thomist manuals launched by Aeterni Patris (1879).",
+          "year": 1919,
+          "refs": [
+            {
+              "type": "position",
+              "id": "neo-orthodoxy"
+            },
+            {
+              "type": "controversy",
+              "id": "liberal-vs-dialectical-theology"
+            },
+            {
+              "type": "position",
+              "id": "existentialist-theology"
+            },
+            {
+              "type": "position",
+              "id": "neo-patristic-synthesis"
+            },
+            {
+              "type": "position",
+              "id": "nouvelle-theologie"
+            },
+            {
+              "type": "event",
+              "id": "aeterni-patris-1879"
+            },
+            {
+              "type": "event",
+              "id": "second-vatican-council-1962"
+            }
+          ]
+        },
+        {
+          "title": "Theology from below",
+          "text": "From the late 1960s, liberation theology in Latin America, Black theology in the USA and South Africa, and feminist and womanist theology argued that the experience of the poor and oppressed must shape theological method. Critics feared politics would override the gospel; supporters replied that all theology is contextual.",
+          "year": 1969,
+          "refs": [
+            {
+              "type": "position",
+              "id": "liberation-theology"
+            },
+            {
+              "type": "position",
+              "id": "black-theology"
+            },
+            {
+              "type": "position",
+              "id": "feminist-womanist-theology"
+            },
+            {
+              "type": "event",
+              "id": "medellin-conference-1968"
+            },
+            {
+              "type": "person",
+              "id": "james-cone"
+            },
+            {
+              "type": "event",
+              "id": "kairos-document-1985"
+            }
+          ]
+        },
+        {
+          "title": "Many tongues: theology in world Christianity",
+          "text": "Postliberals and Radical Orthodoxy challenged neutral foundations, while the centre of Christianity moved south. African, Asian and Pentecostal theologians now argue that the gospel must be thought in every language and culture, as Pentecost itself suggests.",
+          "year": 2005,
+          "refs": [
+            {
+              "type": "position",
+              "id": "postliberal-theology"
+            },
+            {
+              "type": "position",
+              "id": "radical-orthodoxy"
+            },
+            {
+              "type": "position",
+              "id": "african-theology"
+            },
+            {
+              "type": "position",
+              "id": "asian-contextual-theologies"
+            },
+            {
+              "type": "position",
+              "id": "pentecostal-theology"
+            },
+            {
+              "type": "person",
+              "id": "kwame-bediako"
+            },
+            {
+              "type": "person",
+              "id": "amos-yong"
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which school favoured the historical-grammatical sense of Scripture over allegory?",
+          "options": [
+            "Alexandria",
+            "Antioch",
+            "Cluny",
+            "Halle"
+          ],
+          "answer": 1,
+          "explanation": "Diodore, Theodore of Mopsuestia and John Chrysostom represent the Antiochene emphasis on history and grammar."
+        },
+        {
+          "question": "Who wrote \"I believe in order to understand\" in the Proslogion?",
+          "options": [
+            "Augustine",
+            "Anselm",
+            "Aquinas",
+            "Abelard"
+          ],
+          "answer": 1,
+          "explanation": "Anselm of Canterbury, Proslogion 1 (1078), echoing Augustine."
+        },
+        {
+          "question": "Which book became the standard theology textbook of the medieval universities?",
+          "options": [
+            "Abelard’s Sic et Non",
+            "Peter Lombard’s Sentences",
+            "Calvin’s Institutes",
+            "Erasmus’s Enchiridion"
+          ],
+          "answer": 1,
+          "explanation": "Lombard’s Four Books of Sentences was commented on by every medieval master, including Aquinas and Luther."
+        },
+        {
+          "question": "What did Leo XIII’s Aeterni Patris (1879) promote?",
+          "options": [
+            "Nominalism",
+            "The philosophy of Thomas Aquinas",
+            "Historical criticism",
+            "Pietism"
+          ],
+          "answer": 1,
+          "explanation": "It made Thomism the norm for Catholic philosophy and seminary teaching."
+        },
+        {
+          "question": "Whose theology grounded doctrine in the \"feeling of absolute dependence\"?",
+          "options": [
+            "Karl Barth",
+            "Friedrich Schleiermacher",
+            "John Toland",
+            "Francis Turretin"
+          ],
+          "answer": 1,
+          "explanation": "Schleiermacher, the father of liberal Protestant theology."
+        },
+        {
+          "question": "Which movement did Georges Florovsky call for in 1936?",
+          "options": [
+            "Demythologising",
+            "A neo-patristic synthesis",
+            "Radical Orthodoxy",
+            "Black theology"
+          ],
+          "answer": 1,
+          "explanation": "Florovsky urged Orthodox theologians to acquire the \"mind of the Fathers\"."
+        },
+        {
+          "question": "Which theologian founded Black theology with Black Theology and Black Power (1969)?",
+          "options": [
+            "James Cone",
+            "Desmond Tutu",
+            "Gustavo Gutiérrez",
+            "John Mbiti"
+          ],
+          "answer": 0,
+          "explanation": "James H. Cone, of Union Theological Seminary, New York."
+        }
+      ]
+    },
+    {
+      "id": "prayer-and-mysticism-across-the-centuries",
+      "title": "Prayer and mysticism across the centuries",
+      "icon": "dove",
+      "summary": "A journey through Christian ways of prayer and experiences of God: desert hermits and monks, the Jesus Prayer and the uncreated light, medieval mystics and their condemnations, Reformation critiques, Ignatian and Carmelite spirituality, Quakers, Moravians and Methodists, and the dawn-prayer, Pentecostal and contemplative movements of today.",
+      "steps": [
+        {
+          "title": "Into the desert",
+          "text": "Around 270 Antony of Egypt heard the call \"go, sell what you have\" and withdrew into the desert; others followed. The Desert Fathers and Mothers fought the passions with prayer, fasting and work under the guidance of elders, and Evagrius and Cassian passed their wisdom to East and West.",
+          "year": 270,
+          "refs": [
+            {
+              "type": "doctrine",
+              "id": "spirituality-prayer"
+            },
+            {
+              "type": "position",
+              "id": "desert-spirituality"
+            },
+            {
+              "type": "event",
+              "id": "antony-goes-to-desert-270"
+            },
+            {
+              "type": "experience",
+              "id": "antony-desert-fathers"
+            },
+            {
+              "type": "person",
+              "id": "evagrius-ponticus"
+            },
+            {
+              "type": "event",
+              "id": "pachomius-koinonia-320"
+            }
+          ]
+        },
+        {
+          "title": "Benedict and the rhythm of prayer and work",
+          "text": "Benedict’s Rule (c.530) ordered a community around the Divine Office, sacred reading and manual work. Lectio divina, later described by Guigo II as reading, meditation, prayer and contemplation, became the West’s school of prayer; Irish monks carried their own ascetic, missionary spirituality across Europe.",
+          "year": 529,
+          "refs": [
+            {
+              "type": "position",
+              "id": "benedictine-spirituality"
+            },
+            {
+              "type": "event",
+              "id": "benedict-at-monte-cassino-529"
+            },
+            {
+              "type": "position",
+              "id": "lectio-divina"
+            },
+            {
+              "type": "quote",
+              "id": "benedict-idleness-enemy"
+            },
+            {
+              "type": "position",
+              "id": "celtic-spirituality"
+            },
+            {
+              "type": "event",
+              "id": "columba-founds-iona-563"
+            }
+          ]
+        },
+        {
+          "title": "Light from Tabor: Eastern prayer of the heart",
+          "text": "Symeon the New Theologian (c.1000) insisted that Christians can consciously experience the divine light. On Mount Athos, monks praying the Jesus Prayer in stillness were defended by Gregory Palamas, and councils at Constantinople upheld the hesychasts in 1341 and 1351.",
+          "year": 1341,
+          "refs": [
+            {
+              "type": "experience",
+              "id": "symeon-divine-light"
+            },
+            {
+              "type": "position",
+              "id": "hesychasm-jesus-prayer"
+            },
+            {
+              "type": "experience",
+              "id": "hesychasm-light-of-tabor"
+            },
+            {
+              "type": "event",
+              "id": "hesychast-controversy-1341"
+            },
+            {
+              "type": "position",
+              "id": "palamite-essence-energies"
+            },
+            {
+              "type": "person",
+              "id": "gregory-palamas"
+            }
+          ]
+        },
+        {
+          "title": "Medieval mystics and a condemnation",
+          "text": "Francis of Assisi received the stigmata at La Verna (1224); Hildegard of Bingen recorded visions; Meister Eckhart preached detachment and the birth of God in the soul until 28 of his propositions were condemned in 1329; Julian of Norwich and Catherine of Siena testified to God’s love.",
+          "year": 1329,
+          "refs": [
+            {
+              "type": "experience",
+              "id": "francis-stigmata-la-verna"
+            },
+            {
+              "type": "experience",
+              "id": "hildegard-visions"
+            },
+            {
+              "type": "position",
+              "id": "rhineland-mysticism"
+            },
+            {
+              "type": "event",
+              "id": "eckhart-condemned-1329"
+            },
+            {
+              "type": "experience",
+              "id": "julian-of-norwich-showings"
+            },
+            {
+              "type": "experience",
+              "id": "catherine-of-siena-mystical"
+            },
+            {
+              "type": "controversy",
+              "id": "mysticism-and-orthodoxy"
+            }
+          ]
+        },
+        {
+          "title": "The Imitation of Christ",
+          "text": "In the Low Countries, Geert Groote’s Devotio Moderna fostered simple, methodical, Christ-centred piety among lay brothers and sisters. The Imitation of Christ, traditionally ascribed to Thomas à Kempis, became one of the most read Christian books.",
+          "year": 1418,
+          "refs": [
+            {
+              "type": "position",
+              "id": "devotio-moderna-piety"
+            },
+            {
+              "type": "event",
+              "id": "devotio-moderna-1418"
+            },
+            {
+              "type": "work",
+              "id": "imitation-of-christ"
+            },
+            {
+              "type": "person",
+              "id": "thomas-a-kempis"
+            }
+          ]
+        },
+        {
+          "title": "Reformation: the Word, vocation and the saints",
+          "text": "Luther and Calvin rejected monastic vows, ladders of mystical ascent and the invocation of saints, teaching prayer as faith’s response to God’s promises through Christ alone and holiness as daily vocation. Catholics and Orthodox defended asking the saints’ prayers.",
+          "year": 1521,
+          "refs": [
+            {
+              "type": "position",
+              "id": "word-centred-piety"
+            },
+            {
+              "type": "position",
+              "id": "protestant-vocation-asceticism"
+            },
+            {
+              "type": "work",
+              "id": "luther-simple-way-to-pray"
+            },
+            {
+              "type": "position",
+              "id": "intercession-of-saints"
+            },
+            {
+              "type": "person",
+              "id": "martin-luther"
+            }
+          ]
+        },
+        {
+          "title": "Spanish masters: Ignatius, Teresa and John",
+          "text": "Ignatius of Loyola’s experiences at Manresa became the Spiritual Exercises; Teresa of Ávila and John of the Cross mapped the soul’s journey through the interior castle and the dark night. Later, Rome condemned the \"quietism\" of Molinos (1687), showing the Church’s caution.",
+          "year": 1577,
+          "refs": [
+            {
+              "type": "experience",
+              "id": "ignatius-manresa"
+            },
+            {
+              "type": "position",
+              "id": "ignatian-spirituality"
+            },
+            {
+              "type": "position",
+              "id": "carmelite-mysticism"
+            },
+            {
+              "type": "experience",
+              "id": "teresa-transverberation"
+            },
+            {
+              "type": "experience",
+              "id": "john-of-the-cross-dark-night"
+            },
+            {
+              "type": "event",
+              "id": "quietism-condemned-1687"
+            }
+          ]
+        },
+        {
+          "title": "Protestant heart religion",
+          "text": "Puritans practised Scripture meditation; Quakers waited in silence for the inward light; the Moravians at Herrnhut began a hundred-year prayer watch (1727); John Wesley felt his heart \"strangely warmed\" (1738) and taught the means of grace.",
+          "year": 1738,
+          "refs": [
+            {
+              "type": "position",
+              "id": "puritan-meditation"
+            },
+            {
+              "type": "experience",
+              "id": "quaker-trembling"
+            },
+            {
+              "type": "position",
+              "id": "quaker-silence-inward-prayer"
+            },
+            {
+              "type": "experience",
+              "id": "herrnhut-moravian-pentecost"
+            },
+            {
+              "type": "experience",
+              "id": "aldersgate-heart-strangely-warmed"
+            },
+            {
+              "type": "position",
+              "id": "wesleyan-means-of-grace"
+            }
+          ]
+        },
+        {
+          "title": "The Philokalia and the Russian elders",
+          "text": "The Philokalia (1782) gathered hesychast writings for all believers; Paisius Velichkovsky carried it to Russia, where Seraphim of Sarov taught the acquisition of the Holy Spirit and The Way of a Pilgrim spread the Jesus Prayer among ordinary people.",
+          "year": 1782,
+          "refs": [
+            {
+              "type": "event",
+              "id": "philokalia-published-1782"
+            },
+            {
+              "type": "position",
+              "id": "philokalic-revival"
+            },
+            {
+              "type": "person",
+              "id": "paisius-velichkovsky"
+            },
+            {
+              "type": "experience",
+              "id": "seraphim-sarov-motovilov"
+            },
+            {
+              "type": "work",
+              "id": "way-of-a-pilgrim"
+            }
+          ]
+        },
+        {
+          "title": "Dawn prayer, tongues and silence",
+          "text": "Korean Christians have prayed together before dawn since the Pyongyang revival era; African prayer churches and revivals made vigils central; Pentecostals pray in tongues and for healing; Merton and Centering Prayer revived contemplative silence, provoking debate about whether such methods are biblical.",
+          "year": 1975,
+          "refs": [
+            {
+              "type": "event",
+              "id": "pyongyang-great-revival-1907"
+            },
+            {
+              "type": "position",
+              "id": "dawn-prayer-movements"
+            },
+            {
+              "type": "experience",
+              "id": "aladura-babalola-revival"
+            },
+            {
+              "type": "position",
+              "id": "charismatic-prayer"
+            },
+            {
+              "type": "position",
+              "id": "contemplative-revival"
+            },
+            {
+              "type": "controversy",
+              "id": "is-contemplative-prayer-biblical"
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Who is regarded as the archetypal desert hermit, who withdrew to the Egyptian desert around 270?",
+          "options": [
+            "Benedict of Nursia",
+            "Antony of Egypt",
+            "Gregory Palamas",
+            "Columba"
+          ],
+          "answer": 1,
+          "explanation": "Athanasius’ Life of Antony made him the model of the monastic life."
+        },
+        {
+          "question": "What are the four \"rungs\" of lectio divina according to Guigo II?",
+          "options": [
+            "Fasting, almsgiving, prayer, penance",
+            "Reading, meditation, prayer, contemplation",
+            "Purgation, illumination, union, glory",
+            "Confession, absolution, communion, thanksgiving"
+          ],
+          "answer": 1,
+          "explanation": "Guigo II’s Ladder of Monks describes lectio, meditatio, oratio and contemplatio."
+        },
+        {
+          "question": "Which theologian defended the hesychasts’ vision of the uncreated light?",
+          "options": [
+            "Barlaam of Calabria",
+            "Gregory Palamas",
+            "Meister Eckhart",
+            "John Cassian"
+          ],
+          "answer": 1,
+          "explanation": "Gregory Palamas, upheld by councils at Constantinople in 1341 and 1351."
+        },
+        {
+          "question": "In what year did John XXII condemn propositions from Meister Eckhart?",
+          "options": [
+            "1215",
+            "1329",
+            "1517",
+            "1687"
+          ],
+          "answer": 1,
+          "explanation": "The bull In agro dominico was issued in 1329."
+        },
+        {
+          "question": "Which book is traditionally attributed to Thomas à Kempis?",
+          "options": [
+            "The Cloud of Unknowing",
+            "The Imitation of Christ",
+            "The Interior Castle",
+            "The Spiritual Exercises"
+          ],
+          "answer": 1,
+          "explanation": "The Imitation of Christ, the classic of the Devotio Moderna."
+        },
+        {
+          "question": "How did John Wesley define the \"means of grace\"?",
+          "options": [
+            "Private mystical visions",
+            "Outward signs, words or actions ordained by God as ordinary channels of grace",
+            "The seven sacraments only",
+            "Silent waiting without ordinances"
+          ],
+          "answer": 1,
+          "explanation": "Sermon 16 (1746), written against Moravian \"stillness\" teaching."
+        },
+        {
+          "question": "What form of daily corporate prayer is a hallmark of Korean Protestantism?",
+          "options": [
+            "Vespers",
+            "Dawn prayer (saebyeok kido)",
+            "The Angelus",
+            "The Jesus Prayer rope"
+          ],
+          "answer": 1,
+          "explanation": "Daily dawn prayer is traditionally traced to elder Gil Seon-ju in Pyongyang (1906) and the 1907 revival."
+        }
+      ]
+    }
+  ]
+}

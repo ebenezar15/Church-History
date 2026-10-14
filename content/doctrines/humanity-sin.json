@@ -1,0 +1,3194 @@
+{
+  "sources": [
+    {
+      "id": "jacobs-original-sin",
+      "title": "Original Sin: A Cultural History",
+      "kind": "secondary",
+      "author": "Alan Jacobs",
+      "year": 2008
+    },
+    {
+      "id": "wiley-original-sin",
+      "title": "Original Sin: Origins, Developments, Contemporary Meanings",
+      "kind": "secondary",
+      "author": "Tatha Wiley",
+      "year": 2002
+    },
+    {
+      "id": "madueme-reeves-adam",
+      "title": "Adam, the Fall, and Original Sin: Theological, Biblical, and Scientific Perspectives",
+      "kind": "secondary",
+      "author": "Hans Madueme & Michael Reeves (eds.)",
+      "year": 2014
+    },
+    {
+      "id": "mcfarland-in-adams-fall",
+      "title": "In Adam’s Fall: A Meditation on the Christian Doctrine of Original Sin",
+      "kind": "secondary",
+      "author": "Ian A. McFarland",
+      "year": 2010
+    },
+    {
+      "id": "middleton-liberating-image",
+      "title": "The Liberating Image: The Imago Dei in Genesis 1",
+      "kind": "secondary",
+      "author": "J. Richard Middleton",
+      "year": 2005
+    },
+    {
+      "id": "grenz-social-god",
+      "title": "The Social God and the Relational Self: A Trinitarian Theology of the Imago Dei",
+      "kind": "secondary",
+      "author": "Stanley J. Grenz",
+      "year": 2001
+    },
+    {
+      "id": "cooper-body-soul",
+      "title": "Body, Soul, and Life Everlasting: Biblical Anthropology and the Monism-Dualism Debate",
+      "kind": "secondary",
+      "author": "John W. Cooper",
+      "year": "1989; 2nd ed. 2000"
+    },
+    {
+      "id": "green-palmer-soul",
+      "title": "In Search of the Soul: Four Views of the Mind-Body Problem",
+      "kind": "secondary",
+      "author": "Joel B. Green & Stuart L. Palmer (eds.)",
+      "year": 2005
+    },
+    {
+      "id": "meyendorff-byzantine-theology",
+      "title": "Byzantine Theology: Historical Trends and Doctrinal Themes",
+      "kind": "secondary",
+      "author": "John Meyendorff",
+      "year": 1974
+    },
+    {
+      "id": "romanides-ancestral-sin-src",
+      "title": "The Ancestral Sin (To Propatorikon Hamartema)",
+      "kind": "primary",
+      "author": "John S. Romanides",
+      "year": "1957; Eng. tr. 2002"
+    },
+    {
+      "id": "saiving-human-situation-src",
+      "title": "“The Human Situation: A Feminine View”, Journal of Religion 40 (1960): 100-112",
+      "kind": "primary",
+      "author": "Valerie Saiving Goldstein",
+      "year": 1960
+    },
+    {
+      "id": "haynes-noahs-curse",
+      "title": "Noah’s Curse: The Biblical Justification of American Slavery",
+      "kind": "secondary",
+      "author": "Stephen R. Haynes",
+      "year": 2002
+    },
+    {
+      "id": "cone-black-theology",
+      "title": "A Black Theology of Liberation",
+      "kind": "primary",
+      "author": "James H. Cone",
+      "year": 1970
+    },
+    {
+      "id": "kolb-bound-choice",
+      "title": "Bound Choice, Election, and Wittenberg Theological Method",
+      "kind": "secondary",
+      "author": "Robert Kolb",
+      "year": 2005
+    },
+    {
+      "id": "kane-free-will",
+      "title": "The Oxford Handbook of Free Will",
+      "kind": "secondary",
+      "author": "Robert Kane (ed.)",
+      "year": "2nd ed. 2011"
+    },
+    {
+      "id": "ruether-sexism-god-talk",
+      "title": "Sexism and God-Talk: Toward a Feminist Theology",
+      "kind": "secondary",
+      "author": "Rosemary Radford Ruether",
+      "year": 1983
+    },
+    {
+      "id": "kelsey-eccentric-existence",
+      "title": "Eccentric Existence: A Theological Anthropology",
+      "kind": "secondary",
+      "author": "David H. Kelsey",
+      "year": 2009
+    }
+  ],
+  "people": [
+    {
+      "id": "john-romanides",
+      "name": "John S. Romanides",
+      "born": 1927,
+      "died": 2001,
+      "circa": false,
+      "roles": [
+        "priest",
+        "theologian"
+      ],
+      "traditionIds": [
+        "eastern-orthodox"
+      ],
+      "regions": [
+        "greece-balkans",
+        "north-america"
+      ],
+      "summary": "Greek-American Orthodox priest and professor at Thessaloniki whose doctoral thesis The Ancestral Sin (1957) argued that the Greek Fathers taught an inheritance of mortality and corruption from Adam, not of guilt, and sharply criticised Augustine’s influence on Western theology.",
+      "keyIdeas": [
+        "Ancestral sin rather than inherited guilt",
+        "Death as the power that drives sin",
+        "Critique of Augustinian and scholastic theology"
+      ],
+      "influencedBy": [
+        "gregory-palamas"
+      ],
+      "place": {
+        "name": "Thessaloniki",
+        "lat": 40.6401,
+        "lng": 22.9444
+      },
+      "sources": [
+        "romanides-ancestral-sin-src",
+        "meyendorff-byzantine-theology"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "valerie-saiving",
+      "name": "Valerie Saiving",
+      "born": 1921,
+      "died": 1992,
+      "circa": false,
+      "roles": [
+        "theologian",
+        "professor of religion"
+      ],
+      "traditionIds": [],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "American theologian whose 1960 essay “The Human Situation: A Feminine View” argued that defining sin chiefly as pride and self-assertion (Niebuhr, Nygren) reflects male experience; women’s typical temptation, she suggested, is rather self-negation and lack of a centred self. It is often regarded as a founding text of feminist theology.",
+      "keyIdeas": [
+        "Gendered critique of sin as pride",
+        "Sin as self-negation"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Geneva, New York",
+        "lat": 42.8681,
+        "lng": -76.9856
+      },
+      "sources": [
+        "saiving-human-situation-src",
+        "ruether-sexism-god-talk"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "nancey-murphy",
+      "name": "Nancey Murphy",
+      "born": 1951,
+      "circa": false,
+      "roles": [
+        "philosopher",
+        "theologian"
+      ],
+      "traditionIds": [
+        "anabaptist"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "American philosopher at Fuller Theological Seminary, a member of the Church of the Brethren, who argues for “non-reductive physicalism”: humans are wholly physical beings whose higher capacities emerge from the brain, and Christian hope rests on bodily resurrection rather than an immortal soul.",
+      "keyIdeas": [
+        "Non-reductive physicalism",
+        "Resurrection rather than immortal soul",
+        "Theology and neuroscience"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Pasadena, California",
+        "lat": 34.1478,
+        "lng": -118.1445
+      },
+      "sources": [
+        "green-palmer-soul",
+        "cooper-body-soul"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "matthias-flacius",
+      "name": "Matthias Flacius Illyricus",
+      "born": 1520,
+      "died": 1575,
+      "circa": false,
+      "roles": [
+        "theologian",
+        "church historian"
+      ],
+      "traditionIds": [
+        "lutheran"
+      ],
+      "regions": [
+        "western-europe",
+        "greece-balkans"
+      ],
+      "summary": "Lutheran theologian from Istria (Croatia), leader of the “Gnesio-Lutherans” and initiator of the Magdeburg Centuries. In a 1560 disputation with Viktorin Strigel he maintained that original sin is the very substance of fallen human nature, a view rejected in the Formula of Concord (1577).",
+      "keyIdeas": [
+        "Original sin as substance of fallen humanity",
+        "Strict Lutheranism",
+        "Magdeburg Centuries"
+      ],
+      "influencedBy": [
+        "martin-luther"
+      ],
+      "place": {
+        "name": "Labin, Istria",
+        "lat": 45.095,
+        "lng": 14.1197
+      },
+      "sources": [
+        "kolb-bound-choice",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "james-h-cone",
+      "name": "James H. Cone",
+      "born": 1938,
+      "died": 2018,
+      "circa": false,
+      "roles": [
+        "theologian"
+      ],
+      "traditionIds": [
+        "methodist"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "African American theologian at Union Theological Seminary, an ordained minister of the African Methodist Episcopal Church, whose Black Theology and Black Power (1969) and A Black Theology of Liberation (1970) named white supremacy as sin and read the gospel from the experience of the oppressed.",
+      "keyIdeas": [
+        "Black theology",
+        "Racism as sin",
+        "God’s solidarity with the oppressed"
+      ],
+      "influencedBy": [
+        "martin-luther-king-jr",
+        "karl-barth"
+      ],
+      "place": {
+        "name": "New York City",
+        "lat": 40.8115,
+        "lng": -73.9614
+      },
+      "sources": [
+        "cone-black-theology",
+        "noll-christianity-us"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "works": [
+    {
+      "id": "tertullian-on-the-soul",
+      "title": "On the Soul (De anima)",
+      "authorId": "tertullian",
+      "year": 210,
+      "circa": true,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "The first Christian treatise on psychology: the soul is corporeal in a subtle sense, originates with the body and is transmitted from parents (traducianism).",
+      "significance": "Classic source of traducianism and of the Western link between generation and inherited sin.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/0310.htm",
+      "doctrineIds": [
+        "humanity-sin"
+      ],
+      "sources": [
+        "anf-npnf"
+      ]
+    },
+    {
+      "id": "tertullian-apparel-of-women",
+      "title": "On the Apparel of Women (De cultu feminarum)",
+      "authorId": "tertullian",
+      "year": 202,
+      "circa": true,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "Ascetic exhortation to Christian women to modesty, opening with an address to every woman as an Eve.",
+      "significance": "Frequently cited in histories of Christian misogyny and of gendered readings of the fall.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/0402.htm",
+      "doctrineIds": [
+        "humanity-sin"
+      ],
+      "sources": [
+        "anf-npnf",
+        "ruether-sexism-god-talk"
+      ]
+    },
+    {
+      "id": "gregory-nyssa-making-of-man",
+      "title": "On the Making of Man (De hominis opificio)",
+      "authorId": "gregory-of-nyssa",
+      "year": 379,
+      "circa": false,
+      "language": "Greek",
+      "genre": "treatise",
+      "summary": "Completes Basil’s Hexaemeron with a treatise on humanity: the image of God in human freedom and reason, humanity as a whole (pleroma) created in the image, and the body-soul relation.",
+      "significance": "Foundational Eastern theological anthropology.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/2914.htm",
+      "doctrineIds": [
+        "humanity-sin"
+      ],
+      "sources": [
+        "anf-npnf",
+        "meyendorff-byzantine-theology"
+      ]
+    },
+    {
+      "id": "chrysostom-homilies-romans",
+      "title": "Homilies on Romans",
+      "authorId": "john-chrysostom",
+      "year": 391,
+      "circa": true,
+      "language": "Greek",
+      "genre": "commentary",
+      "summary": "Thirty-two homilies preached at Antioch on Paul’s letter to the Romans.",
+      "significance": "Represents the Antiochene and later Eastern reading of Romans 5: Adam’s descendants inherit mortality and liability, not personal guilt.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/2102.htm",
+      "doctrineIds": [
+        "humanity-sin",
+        "salvation"
+      ],
+      "sources": [
+        "anf-npnf"
+      ]
+    },
+    {
+      "id": "erasmus-free-will",
+      "title": "On Free Will (De libero arbitrio diatribe)",
+      "authorId": "erasmus",
+      "year": 1524,
+      "circa": false,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "Argues from Scripture and the Fathers that the human will, aided by grace, has a real if small power to apply itself to salvation.",
+      "significance": "Provoked Luther’s The Bondage of the Will (1525).",
+      "doctrineIds": [
+        "humanity-sin",
+        "salvation"
+      ],
+      "sources": [
+        "mcgrath-reformation-thought",
+        "kane-free-will"
+      ]
+    },
+    {
+      "id": "zwingli-original-sin",
+      "title": "Declaration on Original Sin (De peccato originali declaratio)",
+      "authorId": "huldrych-zwingli",
+      "year": 1526,
+      "circa": false,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "Addressed to Urbanus Rhegius, it describes original sin as an inherited disease or defect (morbus) rather than personal guilt, and doubts the damnation of children of believers dying in infancy.",
+      "significance": "The main Reformation-era alternative to the inherited-guilt doctrine.",
+      "doctrineIds": [
+        "humanity-sin"
+      ],
+      "sources": [
+        "wiley-original-sin",
+        "jacobs-original-sin"
+      ]
+    },
+    {
+      "id": "formula-of-concord",
+      "title": "Formula of Concord",
+      "author": "Jakob Andreae, Martin Chemnitz and others",
+      "year": 1577,
+      "circa": false,
+      "language": "German",
+      "genre": "confession",
+      "summary": "Settles intra-Lutheran disputes after Luther’s death, including Article I on original sin, which rejects both the Pelagian minimising of sin and Flacius’ view that sin is the substance of human nature.",
+      "significance": "Completed the Lutheran Book of Concord (1580).",
+      "fullTextUrl": "https://bookofconcord.org/formula-of-concord-solid-declaration/",
+      "doctrineIds": [
+        "humanity-sin",
+        "salvation"
+      ],
+      "sources": [
+        "book-of-concord",
+        "kolb-bound-choice"
+      ]
+    },
+    {
+      "id": "edwards-freedom-of-the-will",
+      "title": "A Careful and Strict Enquiry into … Freedom of Will",
+      "authorId": "jonathan-edwards",
+      "year": 1754,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "Argues that the will is always determined by the strongest motive, so that moral necessity is compatible with freedom and responsibility, against Arminian notions of self-determination.",
+      "significance": "Classic statement of theological compatibilism.",
+      "doctrineIds": [
+        "humanity-sin",
+        "salvation"
+      ],
+      "sources": [
+        "marsden-edwards",
+        "kane-free-will"
+      ]
+    },
+    {
+      "id": "edwards-original-sin",
+      "title": "The Great Christian Doctrine of Original Sin Defended",
+      "authorId": "jonathan-edwards",
+      "year": 1758,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "Defends original sin against John Taylor of Norwich, arguing that God constitutes Adam and his posterity as one, as he constitutes the identity of any thing through time.",
+      "significance": "Influential realist-federal account of humanity’s solidarity in Adam.",
+      "doctrineIds": [
+        "humanity-sin"
+      ],
+      "sources": [
+        "marsden-edwards",
+        "jacobs-original-sin"
+      ]
+    },
+    {
+      "id": "nee-spiritual-man",
+      "title": "The Spiritual Man",
+      "authorId": "watchman-nee",
+      "year": 1927,
+      "circa": true,
+      "language": "Chinese",
+      "genre": "devotional",
+      "summary": "Three volumes setting out a tripartite anthropology of spirit, soul and body and calling believers to live by the spirit rather than the soul.",
+      "significance": "Spread trichotomist teaching through Chinese house churches and global evangelical and charismatic circles.",
+      "doctrineIds": [
+        "humanity-sin",
+        "holy-spirit"
+      ],
+      "sources": [
+        "lian-redeemed-by-fire",
+        "bays-china"
+      ]
+    },
+    {
+      "id": "romanides-ancestral-sin",
+      "title": "The Ancestral Sin",
+      "authorId": "john-romanides",
+      "year": 1957,
+      "circa": false,
+      "language": "Greek",
+      "genre": "treatise",
+      "summary": "Contrasts the Greek patristic understanding of Adam’s legacy (death and corruption) with Augustinian inherited guilt.",
+      "significance": "Shaped a generation of Orthodox self-understanding over against the West.",
+      "doctrineIds": [
+        "humanity-sin"
+      ],
+      "sources": [
+        "romanides-ancestral-sin-src"
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "id": "tertullian-soul-propagated",
+      "text": "Tertullian holds that the soul comes into being together with the body at conception and is propagated from the parents’ souls, as a shoot from a root, so that every soul is “in Adam” and shares his fault until it is renewed in Christ.",
+      "kind": "paraphrase",
+      "personId": "tertullian",
+      "workId": "tertullian-on-the-soul",
+      "citation": "On the Soul 27, 36, 40",
+      "year": 210,
+      "topics": [
+        "traducianism",
+        "soul",
+        "original sin"
+      ],
+      "doctrineIds": [
+        "humanity-sin"
+      ]
+    },
+    {
+      "id": "tertullian-devils-gateway",
+      "text": "And do you not know that you are (each) an Eve? The sentence of God on this sex of yours lives in this age: the guilt must of necessity live too. You are the devil’s gateway.",
+      "kind": "quotation",
+      "translation": "Latin, tr. S. Thelwall (1869)",
+      "personId": "tertullian",
+      "workId": "tertullian-apparel-of-women",
+      "citation": "On the Apparel of Women 1.1 (tr. S. Thelwall, ANF 4)",
+      "year": 202,
+      "topics": [
+        "gender",
+        "fall",
+        "misogyny"
+      ],
+      "doctrineIds": [
+        "humanity-sin"
+      ]
+    },
+    {
+      "id": "origen-preexistent-souls",
+      "text": "Origen speculates that all rational beings were created equal and pre-existent, and that the diversity of their present conditions — angels, humans, demons — results from the different degrees of their falling away from God.",
+      "kind": "paraphrase",
+      "personId": "origen",
+      "workId": "origen-on-first-principles",
+      "citation": "On First Principles 1.8; 2.9.6",
+      "year": 230,
+      "topics": [
+        "pre-existence of souls",
+        "fall"
+      ],
+      "doctrineIds": [
+        "humanity-sin",
+        "angels-spiritual-powers"
+      ]
+    },
+    {
+      "id": "nyssa-whole-humanity-image",
+      "text": "Gregory teaches that the image of God belongs not to one part of human nature or to one individual but to the whole of humanity, from first to last, which God foresaw as a single whole; the image consists above all in freedom, reason and the capacity for virtue.",
+      "kind": "paraphrase",
+      "personId": "gregory-of-nyssa",
+      "workId": "gregory-nyssa-making-of-man",
+      "citation": "On the Making of Man 16-17",
+      "year": 379,
+      "topics": [
+        "image of God",
+        "free will"
+      ],
+      "doctrineIds": [
+        "humanity-sin"
+      ]
+    },
+    {
+      "id": "chrysostom-romans-sinners",
+      "text": "Commenting on “by one man’s disobedience many were made sinners” (Romans 5:19), Chrysostom suggests that “sinners” here means those liable to punishment and condemned to death, since it would be unreasonable for one to be a sinner through another’s disobedience.",
+      "kind": "paraphrase",
+      "personId": "john-chrysostom",
+      "workId": "chrysostom-homilies-romans",
+      "citation": "Homilies on Romans 10",
+      "year": 391,
+      "topics": [
+        "original sin",
+        "mortality"
+      ],
+      "doctrineIds": [
+        "humanity-sin"
+      ]
+    },
+    {
+      "id": "augustine-soul-origin-uncertain",
+      "text": "Augustine confesses to Jerome that he cannot decide whether new souls are created individually by God or derived from the parents; he must hold, however, that infants share Adam’s condemnation, and he begs Jerome to show how the creation of souls is compatible with that.",
+      "kind": "paraphrase",
+      "personId": "augustine-of-hippo",
+      "citation": "Letter 166 to Jerome (415); Retractations 1.1.3",
+      "year": 415,
+      "topics": [
+        "origin of the soul",
+        "original sin"
+      ],
+      "doctrineIds": [
+        "humanity-sin"
+      ]
+    },
+    {
+      "id": "aquinas-image-in-mind",
+      "text": "Aquinas teaches that the image of God is found properly in the rational mind, by which humans can know and love God; it exists naturally in all, by grace in the just and by glory in the blessed.",
+      "kind": "paraphrase",
+      "personId": "thomas-aquinas",
+      "workId": "aquinas-summa-theologiae",
+      "citation": "Summa Theologiae I q.93 a.4, a.6",
+      "year": 1268,
+      "topics": [
+        "image of God"
+      ],
+      "doctrineIds": [
+        "humanity-sin"
+      ]
+    },
+    {
+      "id": "aquinas-woman-misbegotten",
+      "text": "As regards the individual nature, woman is defective and misbegotten.",
+      "kind": "quotation",
+      "translation": "Latin, tr. English Dominican Fathers; Aquinas adds that as regards human nature in general woman is not misbegotten but intended by God",
+      "personId": "thomas-aquinas",
+      "workId": "aquinas-summa-theologiae",
+      "citation": "Summa Theologiae I q.92 a.1 ad 1 (tr. Fathers of the English Dominican Province, 1911-25)",
+      "year": 1268,
+      "topics": [
+        "gender",
+        "Aristotle"
+      ],
+      "doctrineIds": [
+        "humanity-sin"
+      ]
+    },
+    {
+      "id": "erasmus-free-will-para",
+      "text": "Erasmus defines free will as a power by which a person can apply himself to the things that lead to salvation or turn away from them; he argues that commands and exhortations throughout Scripture would be pointless if humans could contribute nothing.",
+      "kind": "paraphrase",
+      "personId": "erasmus",
+      "workId": "erasmus-free-will",
+      "citation": "On Free Will (1524) Ia.10; IIa",
+      "year": 1524,
+      "topics": [
+        "free will",
+        "grace"
+      ],
+      "doctrineIds": [
+        "humanity-sin",
+        "salvation"
+      ]
+    },
+    {
+      "id": "zwingli-original-disease",
+      "text": "Zwingli describes original sin as a disease or defect inherited from Adam — a bent toward self-love — rather than a sin in the proper sense, which requires transgression of a law; it nonetheless leads to sin and death unless healed by Christ.",
+      "kind": "paraphrase",
+      "personId": "huldrych-zwingli",
+      "workId": "zwingli-original-sin",
+      "citation": "Declaration on Original Sin (1526)",
+      "year": 1526,
+      "topics": [
+        "original sin"
+      ],
+      "doctrineIds": [
+        "humanity-sin"
+      ]
+    },
+    {
+      "id": "articles-original-sin",
+      "text": "Original Sin standeth not in the following of Adam, (as the Pelagians do vainly talk;) but it is the fault and corruption of the Nature of every man, that naturally is engendered of the offspring of Adam; whereby man is very far gone from original righteousness.",
+      "kind": "quotation",
+      "personId": "thomas-cranmer",
+      "workId": "thirty-nine-articles",
+      "citation": "Thirty-Nine Articles, Article IX (1563/1571; derived from Cranmer’s Forty-Two Articles, 1553)",
+      "year": 1563,
+      "topics": [
+        "original sin",
+        "Pelagianism"
+      ],
+      "doctrineIds": [
+        "humanity-sin"
+      ]
+    },
+    {
+      "id": "flacius-sin-substance",
+      "text": "Flacius argues that after the fall original sin is not an accident clinging to human nature but the formal substance of the fallen person: the image of God has been transformed into the image of Satan.",
+      "kind": "paraphrase",
+      "personId": "matthias-flacius",
+      "citation": "Weimar Disputation with Strigel (1560); Clavis Scripturae (1567)",
+      "year": 1560,
+      "topics": [
+        "original sin",
+        "Lutheran controversies"
+      ],
+      "doctrineIds": [
+        "humanity-sin"
+      ]
+    },
+    {
+      "id": "wesley-no-mere-nature",
+      "text": "For allowing that all the souls of men are dead in sin by nature, this excuses none, seeing there is no man that is in a state of mere nature; there is no man, unless he has quenched the Spirit, that is wholly void of the grace of God.",
+      "kind": "quotation",
+      "personId": "john-wesley",
+      "citation": "Sermon 85, “On Working Out Our Own Salvation” III.4 (1785)",
+      "year": 1785,
+      "topics": [
+        "prevenient grace"
+      ],
+      "doctrineIds": [
+        "humanity-sin",
+        "salvation"
+      ]
+    },
+    {
+      "id": "edwards-freedom-para",
+      "text": "Edwards argues that the will is always as the greatest apparent good is; a person is free when able to do what he wills, and the moral necessity by which a heart chooses according to its strongest inclination is fully compatible with praise and blame.",
+      "kind": "paraphrase",
+      "personId": "jonathan-edwards",
+      "workId": "edwards-freedom-of-the-will",
+      "citation": "Freedom of the Will (1754) I.2-5; IV.1",
+      "year": 1754,
+      "topics": [
+        "compatibilism",
+        "free will"
+      ],
+      "doctrineIds": [
+        "humanity-sin",
+        "salvation"
+      ]
+    },
+    {
+      "id": "edwards-constituted-one",
+      "text": "Edwards argues that God, who upholds every created thing in being from moment to moment, may justly constitute Adam and his posterity as one, so that their sharing in his first sin is no more arbitrary than the identity of any person through time.",
+      "kind": "paraphrase",
+      "personId": "jonathan-edwards",
+      "workId": "edwards-original-sin",
+      "citation": "Original Sin (1758) IV.3",
+      "year": 1758,
+      "topics": [
+        "original sin",
+        "federal headship"
+      ],
+      "doctrineIds": [
+        "humanity-sin"
+      ]
+    },
+    {
+      "id": "nee-tripartite",
+      "text": "Nee teaches that the human being has three parts: the spirit, which knows God; the soul (mind, emotion and will), which is the seat of personality; and the body. The fall reversed their right order, and the spiritual life means the spirit ruling the soul and body.",
+      "kind": "paraphrase",
+      "personId": "watchman-nee",
+      "workId": "nee-spiritual-man",
+      "citation": "The Spiritual Man (1927), vol. 1, part 1",
+      "year": 1927,
+      "topics": [
+        "trichotomy",
+        "spirit and soul"
+      ],
+      "doctrineIds": [
+        "humanity-sin"
+      ]
+    },
+    {
+      "id": "barth-image-relational",
+      "text": "Barth interprets the image of God not as a quality humans possess but as a relation: humanity exists in encounter and partnership, above all as male and female, mirroring the I-Thou relation within God and God’s covenant with humanity.",
+      "kind": "paraphrase",
+      "personId": "karl-barth",
+      "workId": "barth-church-dogmatics",
+      "citation": "Church Dogmatics III/1 §41 (1945); III/2 §45 (1948)",
+      "year": 1945,
+      "topics": [
+        "image of God",
+        "relationality"
+      ],
+      "doctrineIds": [
+        "humanity-sin"
+      ]
+    },
+    {
+      "id": "romanides-ancestral-para",
+      "text": "Romanides argues that for the Greek Fathers humans inherit from Adam not guilt but death and corruption; the fear of death enslaves humans to selfishness and sin, and Christ saves by destroying death and the devil.",
+      "kind": "paraphrase",
+      "personId": "john-romanides",
+      "workId": "romanides-ancestral-sin",
+      "citation": "The Ancestral Sin (1957)",
+      "year": 1957,
+      "topics": [
+        "ancestral sin",
+        "death"
+      ],
+      "doctrineIds": [
+        "humanity-sin"
+      ]
+    },
+    {
+      "id": "saiving-pride-para",
+      "text": "Saiving suggests that the specifically feminine forms of sin are better described as triviality, distractibility, diffuseness, dependence on others for self-definition — in short, underdevelopment or negation of the self — rather than pride and will-to-power.",
+      "kind": "paraphrase",
+      "personId": "valerie-saiving",
+      "citation": "“The Human Situation: A Feminine View” (1960)",
+      "year": 1960,
+      "topics": [
+        "sin",
+        "gender",
+        "feminist theology"
+      ],
+      "doctrineIds": [
+        "humanity-sin"
+      ]
+    },
+    {
+      "id": "cone-racism-sin-para",
+      "text": "Cone argues that white racism is a fundamental sin of American Christianity, and that because God in the Exodus and in Jesus sides with the oppressed, Christian theology must speak from the experience of Black people struggling for liberation.",
+      "kind": "paraphrase",
+      "personId": "james-h-cone",
+      "citation": "A Black Theology of Liberation (1970), chs. 1, 6",
+      "year": 1970,
+      "topics": [
+        "race",
+        "sin",
+        "liberation"
+      ],
+      "doctrineIds": [
+        "humanity-sin",
+        "ethics-church-state"
+      ]
+    },
+    {
+      "id": "murphy-physicalism-para",
+      "text": "Murphy argues that neuroscience shows capacities once attributed to the soul to be functions of the brain, and that Christians lose nothing essential by abandoning body-soul dualism: the biblical hope is for resurrection of the whole person, not escape of a soul.",
+      "kind": "paraphrase",
+      "personId": "nancey-murphy",
+      "citation": "Bodies and Souls, or Spirited Bodies? (2006)",
+      "year": 2006,
+      "topics": [
+        "physicalism",
+        "resurrection"
+      ],
+      "doctrineIds": [
+        "humanity-sin"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "council-of-vienne-1311",
+      "title": "Council of Vienne",
+      "year": 1311,
+      "endYear": 1312,
+      "circa": false,
+      "place": {
+        "name": "Vienne",
+        "lat": 45.5255,
+        "lng": 4.8746
+      },
+      "category": "council",
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "The fifteenth ecumenical council in the Catholic reckoning, convened by Clement V, suppressed the Knights Templar and defined that the rational soul is of itself and essentially the form of the human body, against teachings attributed to Peter John Olivi.",
+      "causes": [
+        "Pressure from Philip IV of France against the Templars",
+        "Franciscan controversies"
+      ],
+      "consequences": [
+        "Made hylomorphic body-soul unity official Catholic teaching",
+        "Ended the Templar order"
+      ],
+      "peopleIds": [],
+      "doctrineIds": [
+        "humanity-sin"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "sources": [
+        "tanner-decrees",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "formula-of-concord-1577",
+      "title": "Formula of Concord",
+      "year": 1577,
+      "circa": false,
+      "place": {
+        "name": "Kloster Berge, Magdeburg",
+        "lat": 52.1205,
+        "lng": 11.6276
+      },
+      "category": "council",
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Lutheran theologians led by Jakob Andreae and Martin Chemnitz completed the Formula of Concord at Bergen Abbey near Magdeburg, settling disputes over original sin (against Flacius), free will, justification, the Lord’s Supper and predestination. It was published in the Book of Concord (1580).",
+      "causes": [
+        "Intra-Lutheran controversies after Luther’s death (Gnesio-Lutherans vs Philippists)"
+      ],
+      "consequences": [
+        "Defined confessional Lutheranism",
+        "Rejected the view that original sin is the substance of human nature"
+      ],
+      "peopleIds": [
+        "matthias-flacius",
+        "philip-melanchthon"
+      ],
+      "doctrineIds": [
+        "humanity-sin",
+        "salvation"
+      ],
+      "traditionIds": [
+        "lutheran"
+      ],
+      "sources": [
+        "book-of-concord",
+        "kolb-bound-choice"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "doctrines": [
+    {
+      "id": "humanity-sin",
+      "name": "Humanity and Sin",
+      "icon": "people",
+      "order": 14,
+      "question": "What does it mean to be made in God’s image — and how deep does sin go?",
+      "summary": "Christians agree that humans are created in God’s image and that all have sinned, but differ on what the image is, how body, soul and spirit relate, where souls come from, whether Adam’s guilt or only his mortality is inherited, and whether fallen humans can freely turn to God.",
+      "longText": "Genesis says that God made humankind “in our image, after our likeness … male and female”, and formed the man from dust and breathed life into him. Early Christian writers read this richly: Irenaeus distinguished the image from the likeness and pictured humanity created young, to grow; Gregory of Nyssa located the image in freedom and in humanity as a whole; Augustine found a trinitarian image in memory, understanding and will; Aquinas located it in the rational mind. In the 20th century Karl Barth and others proposed a relational reading, and Old Testament scholars a royal-functional one — humans as God’s representatives and stewards. Debates over the parts of a human being run alongside: most churches teach body and soul (the Council of Vienne, 1312, called the soul the form of the body), trichotomists such as Watchman Nee distinguish spirit from soul, and Christian physicalists today argue for a wholly embodied person awaiting resurrection. Whether souls are transmitted from parents (Tertullian’s traducianism), created individually by God (Jerome, Aquinas, Catholic teaching) or pre-exist (Origen, condemned in 553) has never been settled outside Catholicism.\n\nThe doctrine of original sin divides East and West. Greek and Syriac Fathers such as Chrysostom taught that Adam’s descendants inherit death and a wounded nature; Augustine, in controversy with Pelagius, taught that all sinned in Adam and inherit both guilt and corruption, a view confirmed at Carthage (418) and Orange (529) and by Trent and the Protestant confessions. Reformed covenant theology framed Adam as federal head whose guilt is imputed; Zwingli described original sin as a disease rather than guilt; Jonathan Edwards defended original sin by arguing that God constitutes humanity one with Adam. In the 20th century Orthodox theologians such as John Romanides made “ancestral sin” a point of sharp contrast with Augustine.\n\nThe Reformation turned the question into one of freedom: against Erasmus, Luther argued for the bondage of the will; Calvinists confessed total depravity; Arminians and Wesleyans answered with a universal prevenient grace. Philosophers continue to debate libertarian and compatibilist accounts of freedom.\n\nFinally, Christian anthropology has an uncomfortable history. The same tradition that proclaimed the dignity of every image-bearer also produced Tertullian’s “devil’s gateway”, Aquinas’ Aristotelian description of woman as “misbegotten”, the conquest of the Americas and theological defences of racial slavery and apartheid. At Valladolid (1550) Las Casas argued for the full humanity and rights of Indigenous peoples; abolitionists, Black and feminist theologians and the churches that condemned apartheid as heresy drew on the image of God and the doctrine of sin to expose these hierarchies. Recent genomic evidence about human origins has reopened debates about a historical Adam across traditions.",
+      "flow": {
+        "nodes": [
+          {
+            "id": "q",
+            "kind": "question",
+            "label": "What is a human being before God — and what went wrong?",
+            "text": "Christians confess that humans are made in God’s image yet fallen into sin. But what is the image? Are we body and soul, or body, soul and spirit — or wholly physical? Where do souls come from? Do we inherit Adam’s guilt, or only his mortality? Can fallen humans choose God, and what kind of freedom do we have? And why did doctrines of human nature so often serve hierarchies of sex and race?",
+            "quoteIds": []
+          },
+          {
+            "id": "s-image",
+            "kind": "scripture",
+            "label": "Genesis 1:26-28; 2:7; Psalm 8; 1 Thessalonians 5:23",
+            "year": -550,
+            "text": "“Let us make man in our image, after our likeness … male and female created he them”; “the LORD God formed man of the dust … and man became a living soul”; “your whole spirit and soul and body”.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-fall",
+            "kind": "scripture",
+            "label": "Genesis 3; Psalm 51:5; Romans 5:12-21; Ephesians 2:1-3",
+            "year": 57,
+            "text": "“In sin did my mother conceive me”; “by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned”; “by nature the children of wrath”.",
+            "quoteIds": []
+          },
+          {
+            "id": "v-irenaeus",
+            "kind": "voice",
+            "label": "Irenaeus: image and likeness",
+            "year": 180,
+            "text": "Irenaeus distinguishes the image (human nature, including the body) from the likeness (the Spirit’s gift, lost and restored), and sees humanity as created young, to grow.",
+            "ref": {
+              "type": "person",
+              "id": "irenaeus"
+            },
+            "quoteIds": [
+              "irenaeus-glory-living-man",
+              "irenaeus-humanity-infant"
+            ]
+          },
+          {
+            "id": "v-tertullian",
+            "kind": "voice",
+            "label": "Tertullian: the soul and the guilt of Eve",
+            "year": 202,
+            "text": "Tertullian ties the soul’s origin to procreation and, in ascetic exhortation, addresses women as heirs of Eve’s guilt — words later central to feminist critiques.",
+            "ref": {
+              "type": "person",
+              "id": "tertullian"
+            },
+            "quoteIds": [
+              "tertullian-devils-gateway"
+            ]
+          },
+          {
+            "id": "p-traducianism",
+            "kind": "position",
+            "label": "Traducianism: souls come from parents",
+            "year": 210,
+            "text": "On the Soul teaches that souls are propagated with bodies, so that all were “in Adam”.",
+            "ref": {
+              "type": "position",
+              "id": "traducianism"
+            },
+            "quoteIds": [
+              "tertullian-soul-propagated"
+            ]
+          },
+          {
+            "id": "v-origen",
+            "kind": "voice",
+            "label": "Origen: pre-existent souls",
+            "year": 230,
+            "text": "Origen speculates that souls existed before bodies and fell to different degrees — a view later condemned.",
+            "ref": {
+              "type": "person",
+              "id": "origen"
+            },
+            "quoteIds": [
+              "origen-preexistent-souls"
+            ]
+          },
+          {
+            "id": "v-nyssa",
+            "kind": "voice",
+            "label": "Gregory of Nyssa: the image in freedom and in all humanity",
+            "year": 379,
+            "text": "On the Making of Man locates the image in freedom and reason and in humanity as a whole.",
+            "ref": {
+              "type": "work",
+              "id": "gregory-nyssa-making-of-man"
+            },
+            "quoteIds": [
+              "nyssa-whole-humanity-image"
+            ]
+          },
+          {
+            "id": "v-chrysostom",
+            "kind": "voice",
+            "label": "Chrysostom: Adam’s heirs inherit death, not guilt",
+            "year": 391,
+            "text": "The Antiochene reading of Romans 5 that became characteristic of the East.",
+            "ref": {
+              "type": "person",
+              "id": "john-chrysostom"
+            },
+            "quoteIds": [
+              "chrysostom-romans-sinners"
+            ]
+          },
+          {
+            "id": "p-pelagian",
+            "kind": "position",
+            "label": "Pelagius denies inherited sin",
+            "year": 405,
+            "text": "Pelagius and Caelestius hold that Adam harmed his descendants only by bad example and that humans can obey God’s commands.",
+            "ref": {
+              "type": "position",
+              "id": "pelagianism"
+            },
+            "quoteIds": [
+              "pelagius-demetrias-capacity"
+            ]
+          },
+          {
+            "id": "p-augustinian-guilt",
+            "kind": "position",
+            "label": "Augustine: all sinned in Adam",
+            "year": 412,
+            "text": "Augustine teaches inherited guilt and corruption, transmitted through generation and marked by concupiscence.",
+            "ref": {
+              "type": "position",
+              "id": "augustinian-original-guilt"
+            },
+            "quoteIds": [
+              "augustine-nature-wounded"
+            ]
+          },
+          {
+            "id": "p-soul-creation",
+            "kind": "position",
+            "label": "Creationism of the soul (Jerome); Augustine undecided",
+            "year": 415,
+            "text": "Jerome holds that God creates each soul; Augustine confesses he cannot decide between this and traducianism.",
+            "ref": {
+              "type": "position",
+              "id": "soul-creationism"
+            },
+            "quoteIds": [
+              "augustine-soul-origin-uncertain"
+            ]
+          },
+          {
+            "id": "d-carthage",
+            "kind": "decision",
+            "label": "Council of Carthage condemns Pelagianism (418)",
+            "year": 418,
+            "text": "African bishops, backed by Pope Zosimus and the emperor, condemn the denial of original sin and of the need for grace.",
+            "ref": {
+              "type": "event",
+              "id": "pelagius-condemned-418"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "d-orange",
+            "kind": "decision",
+            "label": "Second Council of Orange (529)",
+            "year": 529,
+            "text": "Affirms that Adam’s sin passed both death and sin to all, and that even the beginning of faith is grace — while rejecting predestination to evil.",
+            "ref": {
+              "type": "event",
+              "id": "council-of-orange-529"
+            },
+            "quoteIds": [
+              "caesarius-orange-conclusion"
+            ]
+          },
+          {
+            "id": "d-553",
+            "kind": "decision",
+            "label": "Constantinople II condemns pre-existence of souls (553)",
+            "year": 553,
+            "text": "Anathemas associated with the council reject the Origenist teaching that souls pre-exist bodies.",
+            "ref": {
+              "type": "event",
+              "id": "second-council-of-constantinople-553"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-substantive",
+            "kind": "position",
+            "label": "Aquinas: the image in the rational mind",
+            "year": 1265,
+            "text": "Scholastic theology locates the image in intellect and will, present in all humans, renewed by grace.",
+            "ref": {
+              "type": "position",
+              "id": "imago-dei-substantive"
+            },
+            "quoteIds": [
+              "aquinas-image-in-mind"
+            ]
+          },
+          {
+            "id": "d-vienne",
+            "kind": "decision",
+            "label": "Council of Vienne: the soul is the form of the body (1312)",
+            "year": 1312,
+            "text": "Defines that the rational soul is of itself the form of the human body — classical Catholic holistic dualism.",
+            "ref": {
+              "type": "event",
+              "id": "council-of-vienne-1311"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-libertarian",
+            "kind": "position",
+            "label": "Erasmus defends free will",
+            "year": 1524,
+            "text": "Erasmus argues that grace-aided free will can apply itself to salvation; behind him stands the patristic defence of free choice.",
+            "ref": {
+              "type": "position",
+              "id": "libertarian-freedom"
+            },
+            "quoteIds": [
+              "erasmus-free-will-para"
+            ]
+          },
+          {
+            "id": "p-total-depravity",
+            "kind": "position",
+            "label": "Luther: the bondage of the will",
+            "year": 1525,
+            "text": "Luther replies that the fallen will is a captive, ridden by God or Satan; the Reformed confessions teach total depravity.",
+            "ref": {
+              "type": "position",
+              "id": "total-depravity"
+            },
+            "quoteIds": [
+              "luther-bound-will",
+              "articles-original-sin"
+            ]
+          },
+          {
+            "id": "p-zwingli",
+            "kind": "position",
+            "label": "Zwingli: original sin as disease",
+            "year": 1526,
+            "text": "Zwingli calls original sin a defect or disease rather than guilt, and doubts the damnation of believers’ infants.",
+            "ref": {
+              "type": "position",
+              "id": "original-sin-as-sickness"
+            },
+            "quoteIds": [
+              "zwingli-original-disease"
+            ]
+          },
+          {
+            "id": "d-trent",
+            "kind": "decision",
+            "label": "Trent’s Decree on Original Sin (1546)",
+            "year": 1546,
+            "text": "Trent teaches that Adam’s sin is transmitted by propagation, that baptism truly removes its guilt, and that remaining concupiscence is not sin in the proper sense — against Reformation views.",
+            "ref": {
+              "type": "event",
+              "id": "council-of-trent-1545"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "c-valladolid",
+            "kind": "consequence",
+            "label": "Valladolid: are Indigenous Americans fully human image-bearers? (1550)",
+            "year": 1550,
+            "text": "Las Casas argues against Sepúlveda’s Aristotelian “natural slaves” that the peoples of the Americas are rational image-bearers with rights.",
+            "ref": {
+              "type": "event",
+              "id": "valladolid-debate-1550"
+            },
+            "quoteIds": [
+              "las-casas-destruction-indies"
+            ]
+          },
+          {
+            "id": "a-flacius",
+            "kind": "argument",
+            "label": "Flacius: sin is the substance of fallen humanity",
+            "year": 1560,
+            "text": "In debate with Strigel, Flacius pushes Luther’s language to say original sin is the very substance of fallen human nature.",
+            "ref": {
+              "type": "person",
+              "id": "matthias-flacius"
+            },
+            "quoteIds": [
+              "flacius-sin-substance"
+            ]
+          },
+          {
+            "id": "d-concord",
+            "kind": "decision",
+            "label": "Formula of Concord rejects Flacius (1577)",
+            "year": 1577,
+            "text": "Article I distinguishes human nature, which God still creates and Christ assumed, from original sin which corrupts it.",
+            "ref": {
+              "type": "event",
+              "id": "formula-of-concord-1577"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-prevenient",
+            "kind": "position",
+            "label": "Prevenient grace (Arminius, Wesley)",
+            "year": 1610,
+            "text": "The Remonstrants and later Wesley affirm inability by nature but a universal grace that frees the will to respond.",
+            "ref": {
+              "type": "position",
+              "id": "prevenient-grace"
+            },
+            "quoteIds": [
+              "wesley-no-mere-nature"
+            ]
+          },
+          {
+            "id": "p-federal",
+            "kind": "position",
+            "label": "Federal headship: Adam’s guilt imputed (Westminster)",
+            "year": 1646,
+            "text": "Reformed covenant theology makes Adam the representative head whose guilt is imputed to all.",
+            "ref": {
+              "type": "position",
+              "id": "federal-headship"
+            },
+            "quoteIds": [
+              "hodge-imputation"
+            ]
+          },
+          {
+            "id": "p-compatibilist",
+            "kind": "position",
+            "label": "Edwards: freedom of the will and original sin",
+            "year": 1754,
+            "text": "Edwards argues for compatibilist freedom (1754) and that God constitutes humanity one with Adam (1758).",
+            "ref": {
+              "type": "position",
+              "id": "compatibilist-freedom"
+            },
+            "quoteIds": [
+              "edwards-freedom-para",
+              "edwards-constituted-one"
+            ]
+          },
+          {
+            "id": "c-slavery",
+            "kind": "consequence",
+            "label": "Image of God and the slavery debates",
+            "year": 1841,
+            "text": "Pro-slavery theologians invoke the “curse of Ham” and household codes; abolitionists and enslaved preachers invoke the image of God and “one blood”.",
+            "ref": {
+              "type": "position",
+              "id": "pro-slavery-theology"
+            },
+            "quoteIds": [
+              "stringfellow-slavery-sanctioned",
+              "douglass-christianity-of-christ"
+            ]
+          },
+          {
+            "id": "p-trichotomy",
+            "kind": "position",
+            "label": "Trichotomy: spirit, soul and body (Watchman Nee)",
+            "year": 1927,
+            "text": "Revived by Delitzsch and Keswick writers, popularised in China and worldwide by Nee’s The Spiritual Man.",
+            "ref": {
+              "type": "position",
+              "id": "trichotomy"
+            },
+            "quoteIds": [
+              "nee-tripartite"
+            ]
+          },
+          {
+            "id": "v-barth",
+            "kind": "voice",
+            "label": "Barth: the image as relationship",
+            "year": 1945,
+            "text": "Barth rejects capacity views and reads the image as encounter — humanity as male and female in covenant partnership.",
+            "ref": {
+              "type": "position",
+              "id": "imago-dei-relational"
+            },
+            "quoteIds": [
+              "barth-image-relational"
+            ]
+          },
+          {
+            "id": "p-ancestral",
+            "kind": "position",
+            "label": "Romanides: ancestral sin, not inherited guilt",
+            "year": 1957,
+            "text": "Orthodox theologians sharpen the Greek patristic view into a critique of Augustine.",
+            "ref": {
+              "type": "position",
+              "id": "ancestral-sin-eastern"
+            },
+            "quoteIds": [
+              "romanides-ancestral-para"
+            ]
+          },
+          {
+            "id": "a-saiving",
+            "kind": "argument",
+            "label": "Whose sin? Feminist and Black critiques",
+            "year": 1960,
+            "text": "Valerie Saiving argues that “sin as pride” reflects male experience; James Cone names racism as sin. Both question how the doctrine of sin was written, recalling Tertullian’s and Aquinas’ words about women.",
+            "ref": {
+              "type": "person",
+              "id": "valerie-saiving"
+            },
+            "quoteIds": [
+              "saiving-pride-para",
+              "cone-racism-sin-para",
+              "aquinas-woman-misbegotten"
+            ]
+          },
+          {
+            "id": "p-functional",
+            "kind": "position",
+            "label": "The image as royal vocation",
+            "year": 1968,
+            "text": "Old Testament scholars read the image against ancient Near Eastern royal ideology: humans are God’s representatives and stewards.",
+            "ref": {
+              "type": "position",
+              "id": "imago-dei-functional"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-physicalism",
+            "kind": "position",
+            "label": "Christian physicalism",
+            "year": 1998,
+            "text": "Nancey Murphy and others argue for a non-reductive physicalist anthropology with hope in resurrection.",
+            "ref": {
+              "type": "position",
+              "id": "christian-physicalism"
+            },
+            "quoteIds": [
+              "murphy-physicalism-para"
+            ]
+          },
+          {
+            "id": "m-adam",
+            "kind": "modern",
+            "label": "The historical Adam debate",
+            "year": 2011,
+            "text": "Genomic evidence that modern humans descend from a population of thousands, not two, prompts debates among evangelicals and Catholics: Adam as historical individual, as representative head of a population, or as archetype.",
+            "ref": {
+              "type": "position",
+              "id": "evolutionary-creation"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "m-today",
+            "kind": "modern",
+            "label": "Today",
+            "year": 2025,
+            "text": "The Augustinian, federal and Eastern accounts of original sin coexist with Wesleyan and Zwinglian alternatives; relational and functional readings of the image now dominate scholarship; dualists and physicalists debate the soul; and Global South churches, often living with spiritual-power cosmologies and ethnic conflict, emphasise both the dignity of persons and the reality of sin’s bondage.",
+            "quoteIds": []
+          }
+        ],
+        "edges": [
+          {
+            "from": "q",
+            "to": "s-image",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q",
+            "to": "s-fall",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-image",
+            "to": "v-irenaeus",
+            "kind": "supports"
+          },
+          {
+            "from": "s-fall",
+            "to": "v-tertullian",
+            "kind": "supports"
+          },
+          {
+            "from": "v-tertullian",
+            "to": "p-traducianism",
+            "kind": "develops"
+          },
+          {
+            "from": "s-image",
+            "to": "v-origen",
+            "kind": "leads-to"
+          },
+          {
+            "from": "v-irenaeus",
+            "to": "v-nyssa",
+            "kind": "develops"
+          },
+          {
+            "from": "s-fall",
+            "to": "v-chrysostom",
+            "kind": "supports"
+          },
+          {
+            "from": "s-fall",
+            "to": "p-pelagian",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-traducianism",
+            "to": "p-augustinian-guilt",
+            "kind": "supports"
+          },
+          {
+            "from": "p-pelagian",
+            "to": "p-augustinian-guilt",
+            "kind": "objects"
+          },
+          {
+            "from": "v-origen",
+            "to": "p-soul-creation",
+            "kind": "objects"
+          },
+          {
+            "from": "p-traducianism",
+            "to": "p-soul-creation",
+            "kind": "objects"
+          },
+          {
+            "from": "p-augustinian-guilt",
+            "to": "d-carthage",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-pelagian",
+            "to": "d-carthage",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-carthage",
+            "to": "d-orange",
+            "kind": "leads-to"
+          },
+          {
+            "from": "v-origen",
+            "to": "d-553",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-augustinian-guilt",
+            "to": "p-substantive",
+            "kind": "develops"
+          },
+          {
+            "from": "v-nyssa",
+            "to": "p-substantive",
+            "kind": "develops"
+          },
+          {
+            "from": "p-substantive",
+            "to": "d-vienne",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-orange",
+            "to": "p-total-depravity",
+            "kind": "supports"
+          },
+          {
+            "from": "p-libertarian",
+            "to": "p-total-depravity",
+            "kind": "objects"
+          },
+          {
+            "from": "v-chrysostom",
+            "to": "p-libertarian",
+            "kind": "supports"
+          },
+          {
+            "from": "p-total-depravity",
+            "to": "p-zwingli",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-augustinian-guilt",
+            "to": "d-trent",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-total-depravity",
+            "to": "d-trent",
+            "kind": "objects"
+          },
+          {
+            "from": "p-substantive",
+            "to": "c-valladolid",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-total-depravity",
+            "to": "a-flacius",
+            "kind": "develops"
+          },
+          {
+            "from": "a-flacius",
+            "to": "d-concord",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-total-depravity",
+            "to": "p-prevenient",
+            "kind": "objects"
+          },
+          {
+            "from": "p-libertarian",
+            "to": "p-prevenient",
+            "kind": "develops"
+          },
+          {
+            "from": "p-augustinian-guilt",
+            "to": "p-federal",
+            "kind": "develops"
+          },
+          {
+            "from": "p-total-depravity",
+            "to": "p-compatibilist",
+            "kind": "develops"
+          },
+          {
+            "from": "p-prevenient",
+            "to": "p-compatibilist",
+            "kind": "objects"
+          },
+          {
+            "from": "c-valladolid",
+            "to": "c-slavery",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-vienne",
+            "to": "p-trichotomy",
+            "kind": "objects"
+          },
+          {
+            "from": "p-substantive",
+            "to": "v-barth",
+            "kind": "objects"
+          },
+          {
+            "from": "v-chrysostom",
+            "to": "p-ancestral",
+            "kind": "develops"
+          },
+          {
+            "from": "p-augustinian-guilt",
+            "to": "p-ancestral",
+            "kind": "objects"
+          },
+          {
+            "from": "c-slavery",
+            "to": "a-saiving",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-augustinian-guilt",
+            "to": "a-saiving",
+            "kind": "objects"
+          },
+          {
+            "from": "v-barth",
+            "to": "p-functional",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-vienne",
+            "to": "p-physicalism",
+            "kind": "objects"
+          },
+          {
+            "from": "p-federal",
+            "to": "m-adam",
+            "kind": "leads-to"
+          },
+          {
+            "from": "m-adam",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-ancestral",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "a-saiving",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-functional",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-physicalism",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-trichotomy",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-compatibilist",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-concord",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-zwingli",
+            "to": "m-today",
+            "kind": "leads-to"
+          }
+        ]
+      },
+      "sources": [
+        "jacobs-original-sin",
+        "wiley-original-sin",
+        "middleton-liberating-image",
+        "cooper-body-soul",
+        "meyendorff-byzantine-theology",
+        "kelly-doctrines",
+        "pelikan-christian-tradition",
+        "odcc"
+      ]
+    }
+  ],
+  "positions": [
+    {
+      "id": "imago-dei-substantive",
+      "doctrineId": "humanity-sin",
+      "name": "Image of God as a capacity (substantive view)",
+      "altNames": [
+        "structural view",
+        "imago as reason and will"
+      ],
+      "oneLine": "The image of God is a quality or capacity in human nature — chiefly reason, will, freedom and the capacity for God — that distinguishes humans from animals.",
+      "coreClaims": [
+        "Humans image God by their rational and spiritual nature.",
+        "The image (natural capacity) was damaged but not lost in the fall; the likeness (supernatural gift or virtue) was lost or obscured.",
+        "Augustine found a trinitarian image in memory, understanding and will.",
+        "This grounds the dignity of every human being."
+      ],
+      "keyTexts": [
+        "Genesis 1:26-27",
+        "Genesis 9:6",
+        "Psalm 8",
+        "Colossians 3:10",
+        "Ephesians 4:24",
+        "James 3:9"
+      ],
+      "origin": "Patristic (Irenaeus’ image/likeness distinction; Gregory of Nyssa; Augustine’s De Trinitate X-XV) and scholastic (Aquinas, ST I q.93); dominant in classical Catholic, Orthodox and Protestant theology.",
+      "originYear": 180,
+      "proponentIds": [
+        "irenaeus",
+        "gregory-of-nyssa",
+        "augustine-of-hippo",
+        "thomas-aquinas",
+        "john-calvin",
+        "john-of-damascus"
+      ],
+      "proponentsOther": [
+        "Peter Lombard",
+        "Catechism of the Catholic Church 356-357",
+        "Many Reformed scholastics"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-orthodox",
+        "oriental-orthodox",
+        "lutheran",
+        "reformed",
+        "anglican"
+      ],
+      "strongestArguments": [
+        "It explains what is distinctive about humans and grounds universal dignity in something every human possesses.",
+        "It has deep patristic and medieval support.",
+        "It made possible arguments such as Las Casas’ for the full humanity and rights of Indigenous Americans."
+      ],
+      "strongestObjections": [
+        "Critics note that Scripture never defines the image as reason, and that the view imports Greek philosophy.",
+        "If the image is a capacity, do infants, the severely disabled or people with dementia bear it less fully?",
+        "Historically the link between image and rationality was used to rank peoples and to describe women as less rational."
+      ],
+      "responses": [
+        "Defenders answer that the capacity belongs to human nature as such, not to its exercise, so every human bears it fully.",
+        "Many now combine the substantive view with relational and functional emphases."
+      ],
+      "consequences": [
+        "Shaped natural-law ethics and human-rights language.",
+        "Underlies Catholic social teaching’s doctrine of human dignity."
+      ],
+      "relatedPositionIds": [
+        "imago-dei-relational",
+        "imago-dei-functional",
+        "holistic-dualism"
+      ],
+      "standing": "significant",
+      "sources": [
+        "middleton-liberating-image",
+        "grenz-social-god",
+        "kelly-doctrines",
+        "pelikan-christian-tradition"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "imago-dei-relational",
+      "doctrineId": "humanity-sin",
+      "name": "Image of God as relationship (relational view)",
+      "altNames": [
+        "relational imago",
+        "I-Thou image"
+      ],
+      "oneLine": "The image of God is not a property humans possess but the relationship in which they stand — to God, to one another (paradigmatically as male and female) and to creation — reflecting the relational life of the Trinity.",
+      "coreClaims": [
+        "The image is constituted by God’s address and covenant, not by human capacities.",
+        "“Male and female he created them” (Genesis 1:27) shows that humanity images God in relationship.",
+        "Jesus Christ is the true image of God, and humans are renewed into it.",
+        "Personhood is relational, mirroring the Trinity."
+      ],
+      "keyTexts": [
+        "Genesis 1:26-27",
+        "Genesis 2:18-25",
+        "2 Corinthians 4:4",
+        "Colossians 1:15",
+        "Romans 8:29",
+        "1 John 4:7-12"
+      ],
+      "origin": "Anticipated by Luther’s view that the image is original righteousness in relation to God; developed in the 20th century by Karl Barth (Church Dogmatics III/1, 1945), Emil Brunner, Dietrich Bonhoeffer, John Zizioulas’ “being as communion” and in African “ubuntu” theology (Desmond Tutu).",
+      "originYear": 1945,
+      "proponentIds": [
+        "karl-barth",
+        "emil-brunner",
+        "dietrich-bonhoeffer",
+        "john-zizioulas",
+        "desmond-tutu",
+        "martin-luther"
+      ],
+      "proponentsOther": [
+        "Stanley Grenz",
+        "Colin Gunton",
+        "Catherine Mowry LaCugna"
+      ],
+      "traditionIds": [
+        "reformed",
+        "lutheran",
+        "eastern-orthodox",
+        "anglican",
+        "evangelical"
+      ],
+      "strongestArguments": [
+        "It roots human identity in God’s love and in community rather than in abilities, so it includes those with limited capacities.",
+        "It fits the Trinitarian revival of the 20th century and Christ-centred readings of the image.",
+        "It resonates with African and Asian communal understandings of personhood."
+      ],
+      "strongestObjections": [
+        "Old Testament scholars argue that Barth’s male-female reading is not what Genesis 1 means by “image”.",
+        "Critics ask whether a relation can be “in” humans if it can be broken by sin.",
+        "Social-Trinitarian analogies may project human ideals onto God."
+      ],
+      "responses": [
+        "Advocates respond that the relational view does not exclude capacities but grounds them in God’s prior relation to humanity.",
+        "They note that the New Testament itself defines the image Christologically, not as a list of faculties."
+      ],
+      "consequences": [
+        "Influenced theologies of disability, marriage and community.",
+        "Shaped ecumenical and Orthodox personalism."
+      ],
+      "relatedPositionIds": [
+        "imago-dei-substantive",
+        "imago-dei-functional",
+        "social-trinitarianism"
+      ],
+      "standing": "significant",
+      "sources": [
+        "grenz-social-god",
+        "middleton-liberating-image",
+        "mccormack-barth"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "imago-dei-functional",
+      "doctrineId": "humanity-sin",
+      "name": "Image of God as royal vocation (functional view)",
+      "altNames": [
+        "royal-functional view",
+        "vice-regent view"
+      ],
+      "oneLine": "To be made in God’s image is to be appointed as God’s representative and steward on earth, exercising dominion as his royal deputies — as ancient kings set up statues to represent their rule.",
+      "coreClaims": [
+        "In the ancient Near East kings were called the “image” of a god; Genesis democratises this to all humanity.",
+        "The image is closely tied to the commission to “rule” and “subdue” (Genesis 1:26-28).",
+        "Humans represent God’s rule in creation; their vocation includes care for the earth.",
+        "Christ is the true human who exercises God’s rule perfectly."
+      ],
+      "keyTexts": [
+        "Genesis 1:26-28",
+        "Psalm 8:5-8",
+        "Genesis 2:15",
+        "Hebrews 2:5-9"
+      ],
+      "origin": "Developed by Old Testament scholars (Gerhard von Rad, Hans Wildberger; D. J. A. Clines, “The Image of God in Man”, 1968); expanded by J. Richard Middleton (The Liberating Image, 2005) and widely used in creation-care theology.",
+      "originYear": 1968,
+      "proponentIds": [],
+      "proponentsOther": [
+        "Gerhard von Rad",
+        "D. J. A. Clines",
+        "J. Richard Middleton",
+        "John Walton",
+        "N. T. Wright (royal-priestly vocation)"
+      ],
+      "traditionIds": [
+        "evangelical",
+        "reformed",
+        "anglican",
+        "methodist",
+        "catholic"
+      ],
+      "strongestArguments": [
+        "It best fits the immediate context of Genesis 1 and its ancient Near Eastern background.",
+        "It grounds environmental responsibility and the dignity of work.",
+        "It is democratising: every human, not just the king, represents God."
+      ],
+      "strongestObjections": [
+        "Critics note that dominion is a consequence or task of the image (“let them have dominion”), not its definition.",
+        "Ecological critics (Lynn White, 1967) argue “dominion” language encouraged exploitation of nature.",
+        "It may imply that those unable to exercise dominion bear the image less."
+      ],
+      "responses": [
+        "Advocates stress that the royal image is modelled on God’s self-giving rule, including care, and that it belongs to the species and each member by calling, not performance.",
+        "They argue the functional view can be combined with relational aspects (a royal-priestly vocation in covenant)."
+      ],
+      "consequences": [
+        "Underpins evangelical and Catholic creation-care theology (e.g. Laudato Si’, 2015).",
+        "Shaped renewed theologies of vocation and work."
+      ],
+      "relatedPositionIds": [
+        "imago-dei-substantive",
+        "imago-dei-relational",
+        "evolutionary-creation"
+      ],
+      "standing": "significant",
+      "sources": [
+        "middleton-liberating-image",
+        "grenz-social-god",
+        "kelsey-eccentric-existence"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "holistic-dualism",
+      "doctrineId": "humanity-sin",
+      "name": "Body and soul (dichotomy / holistic dualism)",
+      "altNames": [
+        "dichotomy",
+        "hylomorphism",
+        "substance dualism",
+        "holistic dualism"
+      ],
+      "oneLine": "A human being is a unity of two distinct constituents, a material body and an immaterial rational soul, which can be separated at death and will be reunited in the resurrection.",
+      "coreClaims": [
+        "The soul is created by God and survives death in an intermediate state.",
+        "Body and soul form one person; the soul is the “form” of the body (Catholic hylomorphism, Council of Vienne 1312).",
+        "“Spirit” and “soul” in Scripture name the same immaterial aspect from different angles.",
+        "Final salvation is embodied: resurrection of the body."
+      ],
+      "keyTexts": [
+        "Genesis 2:7",
+        "Ecclesiastes 12:7",
+        "Matthew 10:28",
+        "Luke 23:43, 46",
+        "2 Corinthians 5:1-8",
+        "Philippians 1:21-24",
+        "Revelation 6:9-11"
+      ],
+      "origin": "Held by most Fathers (with Platonic and Aristotelian inflections); defined in Catholic teaching at the Council of Vienne (1312) and Fifth Lateran (1513, immortality of the soul); confessed in Protestant standards (Westminster Confession 32.1).",
+      "originYear": 1312,
+      "proponentIds": [
+        "augustine-of-hippo",
+        "thomas-aquinas",
+        "john-calvin",
+        "john-of-damascus",
+        "charles-hodge"
+      ],
+      "proponentsOther": [
+        "Council of Vienne",
+        "Fifth Lateran Council",
+        "John W. Cooper",
+        "J. P. Moreland",
+        "Richard Swinburne"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-orthodox",
+        "oriental-orthodox",
+        "lutheran",
+        "reformed",
+        "anglican",
+        "methodist",
+        "baptist",
+        "evangelical",
+        "pentecostal"
+      ],
+      "strongestArguments": [
+        "It best accounts for biblical texts about an intermediate state between death and resurrection.",
+        "It preserves personal identity through death.",
+        "It has near-universal support in the historic churches."
+      ],
+      "strongestObjections": [
+        "Christian physicalists argue that Hebrew anthropology is holistic and that the immortal soul is a Greek import.",
+        "Neuroscience links mental functions closely to the brain, making a separable soul seem less plausible to many.",
+        "Trichotomists argue it flattens the biblical distinction between soul and spirit."
+      ],
+      "responses": [
+        "Holistic dualists (Cooper) answer that Scripture’s holism concerns this life and is compatible with temporary separation at death.",
+        "They argue that neural dependence of mental functions in embodied life does not show the soul is reducible to the brain."
+      ],
+      "consequences": [
+        "Shaped prayers for the dead, doctrine of purgatory and teaching on the intermediate state.",
+        "Grounds much Christian bioethics (ensoulment, end of life)."
+      ],
+      "relatedPositionIds": [
+        "trichotomy",
+        "christian-physicalism",
+        "soul-creationism",
+        "traducianism",
+        "annihilationism"
+      ],
+      "standing": "majority",
+      "sources": [
+        "cooper-body-soul",
+        "green-palmer-soul",
+        "tanner-decrees",
+        "kelly-doctrines"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "trichotomy",
+      "doctrineId": "humanity-sin",
+      "name": "Trichotomy (spirit, soul and body)",
+      "altNames": [
+        "tripartite anthropology",
+        "trichotomism"
+      ],
+      "oneLine": "A human being has three distinct parts: a body, a soul (mind, emotions, will) and a spirit (the God-conscious faculty that is regenerated by the Holy Spirit).",
+      "coreClaims": [
+        "1 Thessalonians 5:23 lists spirit, soul and body as distinct.",
+        "Hebrews 4:12 speaks of dividing soul and spirit.",
+        "The spirit is dead to God before regeneration and is made alive at new birth.",
+        "Spiritual growth means the spirit ruling the soul and body."
+      ],
+      "keyTexts": [
+        "1 Thessalonians 5:23",
+        "Hebrews 4:12",
+        "1 Corinthians 2:14-3:4",
+        "1 Corinthians 14:14-15"
+      ],
+      "origin": "Found in some Greek Fathers (Irenaeus, Origen, Apollinaris — whose Christology discredited it); revived by 19th-century German (Franz Delitzsch, 1855) and British writers, the Keswick and Brethren movements, and especially Watchman Nee’s The Spiritual Man (1927).",
+      "originYear": 1927,
+      "proponentIds": [
+        "watchman-nee",
+        "irenaeus",
+        "origen",
+        "apollinaris-of-laodicea"
+      ],
+      "proponentsOther": [
+        "Franz Delitzsch",
+        "G. H. Pember",
+        "Jessie Penn-Lewis",
+        "Witness Lee",
+        "Many Word of Faith teachers"
+      ],
+      "traditionIds": [
+        "chinese-house-churches",
+        "pentecostal",
+        "neo-charismatic",
+        "evangelical"
+      ],
+      "strongestArguments": [
+        "It takes the explicit wording of 1 Thessalonians 5:23 and Hebrews 4:12 at face value.",
+        "It offers a practical map for discerning “soulish” versus “spiritual” life.",
+        "It explains regeneration as the quickening of a dead spirit."
+      ],
+      "strongestObjections": [
+        "Most theologians argue that soul and spirit are used interchangeably in Scripture (e.g. Luke 1:46-47; John 12:27 and 13:21).",
+        "Lists in Scripture (heart, soul, mind, strength, Mark 12:30) are not anatomies.",
+        "Apollinaris used trichotomy to deny Christ a human mind, and critics say it can foster anti-intellectualism or elitism."
+      ],
+      "responses": [
+        "Trichotomists answer that interchangeable usage in some texts does not cancel the distinction drawn in others.",
+        "They argue that their view, rightly held, safeguards rather than threatens the full humanity of Christ."
+      ],
+      "consequences": [
+        "Profoundly shaped Chinese house-church and Local Church spirituality.",
+        "Underlies much Pentecostal and charismatic teaching on spiritual discernment."
+      ],
+      "relatedPositionIds": [
+        "holistic-dualism",
+        "christian-physicalism",
+        "apollinarianism"
+      ],
+      "standing": "minority",
+      "sources": [
+        "cooper-body-soul",
+        "green-palmer-soul",
+        "lian-redeemed-by-fire"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "christian-physicalism",
+      "doctrineId": "humanity-sin",
+      "name": "Christian physicalism (non-reductive physicalism / Christian materialism)",
+      "altNames": [
+        "non-reductive physicalism",
+        "Christian materialism",
+        "monism"
+      ],
+      "oneLine": "Human beings are wholly physical organisms whose mental and spiritual capacities emerge from the complex functioning of the body and brain; there is no separable soul, and Christian hope is for the resurrection of the whole person.",
+      "coreClaims": [
+        "Hebrew nephesh means a living being, not an immaterial soul.",
+        "Neuroscience shows that mind depends on brain at every level.",
+        "Higher capacities are real and not reducible to physics (non-reductive), but are not a separate substance.",
+        "Life after death is by resurrection, not natural immortality."
+      ],
+      "keyTexts": [
+        "Genesis 2:7",
+        "Psalm 146:4",
+        "Ecclesiastes 3:19-21",
+        "1 Corinthians 15:12-58",
+        "John 11:24-26"
+      ],
+      "origin": "Developed in late-20th-century philosophy and theology by Nancey Murphy, Warren Brown, Joel Green, Peter van Inwagen and Kevin Corcoran; related to earlier “soul-sleep” and conditional-immortality traditions (Tyndale, Adventists).",
+      "originYear": 1998,
+      "proponentIds": [
+        "nancey-murphy",
+        "ellen-g-white"
+      ],
+      "proponentsOther": [
+        "Joel B. Green",
+        "Warren S. Brown",
+        "Peter van Inwagen",
+        "Kevin Corcoran",
+        "Lynne Rudder Baker"
+      ],
+      "traditionIds": [
+        "anabaptist",
+        "seventh-day-adventist",
+        "methodist",
+        "evangelical"
+      ],
+      "strongestArguments": [
+        "It fits Hebrew holistic anthropology better than Greek dualism.",
+        "It takes seriously the findings of neuroscience.",
+        "It places all Christian hope on bodily resurrection, as the New Testament does."
+      ],
+      "strongestObjections": [
+        "Dualists argue that it struggles to explain personal identity between death and resurrection (the “gap” problem).",
+        "Texts such as Luke 23:43, 2 Corinthians 5:8 and Philippians 1:23 imply conscious existence after death.",
+        "Critics argue it concedes too much to scientific naturalism and may undermine free will."
+      ],
+      "responses": [
+        "Physicalists propose accounts of identity across the gap (God’s memory; constitution views; “immediate resurrection”).",
+        "They read intermediate-state texts as metaphorical or as compatible with soul-sleep."
+      ],
+      "consequences": [
+        "Renewed dialogue between theology and neuroscience.",
+        "Aligns with Adventist and conditional-immortality traditions."
+      ],
+      "relatedPositionIds": [
+        "holistic-dualism",
+        "trichotomy",
+        "annihilationism"
+      ],
+      "standing": "minority",
+      "sources": [
+        "green-palmer-soul",
+        "cooper-body-soul"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "traducianism",
+      "doctrineId": "humanity-sin",
+      "name": "Traducianism (soul inherited from parents)",
+      "altNames": [
+        "generationism",
+        "inheritance of the soul"
+      ],
+      "oneLine": "The soul, like the body, is transmitted from parents to children through natural generation, so that the whole person descends from Adam.",
+      "coreClaims": [
+        "God finished creating on the sixth day; souls since then come through procreation.",
+        "Adam’s descendants were “in his loins” (Hebrews 7:9-10).",
+        "It explains the inheritance of original sin without God creating sinful souls.",
+        "It treats the person as a unity of body and soul from conception."
+      ],
+      "keyTexts": [
+        "Genesis 2:2",
+        "Genesis 5:3",
+        "Psalm 51:5",
+        "Acts 17:26",
+        "Romans 5:12",
+        "Hebrews 7:9-10"
+      ],
+      "origin": "Taught by Tertullian (On the Soul, c.210); tempting to Augustine but never adopted by him; common among Lutherans (Formula of Concord context) and some Reformed (W. G. T. Shedd), and Eastern writers such as Gregory of Nyssa held related views.",
+      "originYear": 210,
+      "proponentIds": [
+        "tertullian",
+        "gregory-of-nyssa",
+        "martin-luther"
+      ],
+      "proponentsOther": [
+        "Lutheran orthodox theologians",
+        "W. G. T. Shedd",
+        "Augustus H. Strong"
+      ],
+      "traditionIds": [
+        "lutheran",
+        "reformed",
+        "baptist"
+      ],
+      "strongestArguments": [
+        "It explains both genetic resemblance and the transmission of original sin.",
+        "It avoids making God the creator of a soul that is immediately corrupt.",
+        "It fits Genesis 2:2 (God rested from creating)."
+      ],
+      "strongestObjections": [
+        "Creationists of the soul object that a spiritual soul cannot be divided or generated by material processes.",
+        "Catholic teaching rejects it, holding that each soul is immediately created by God (Humani Generis 36).",
+        "Tertullian’s version made the soul corporeal."
+      ],
+      "responses": [
+        "Traducianists answer that God works through secondary causes in generation, as in all providence.",
+        "They insist transmission does not imply the soul is material."
+      ],
+      "consequences": [
+        "Shaped Lutheran and some Reformed anthropology.",
+        "Supports realist accounts of original sin."
+      ],
+      "relatedPositionIds": [
+        "soul-creationism",
+        "augustinian-original-guilt",
+        "holistic-dualism"
+      ],
+      "standing": "minority",
+      "sources": [
+        "kelly-doctrines",
+        "cooper-body-soul",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "soul-creationism",
+      "doctrineId": "humanity-sin",
+      "name": "Creationism of the soul",
+      "altNames": [
+        "soul creationism",
+        "immediate creation of souls"
+      ],
+      "oneLine": "Each human soul is created directly by God at conception (or ensoulment) and united to a body inherited from the parents.",
+      "coreClaims": [
+        "The soul is spiritual and cannot be produced by material generation.",
+        "God is “Father of spirits” (Hebrews 12:9) who “forms the spirit of man within him” (Zechariah 12:1).",
+        "Each person is a direct work of God.",
+        "Original sin is transmitted through participation in Adam’s nature or by imputation, not by soul-generation."
+      ],
+      "keyTexts": [
+        "Ecclesiastes 12:7",
+        "Isaiah 42:5",
+        "Zechariah 12:1",
+        "Hebrews 12:9"
+      ],
+      "origin": "Defended by Jerome and Hilary against Origenist pre-existence and Tertullian’s traducianism; standard in medieval scholasticism (Lombard, Aquinas); Catholic doctrine (Humani Generis, 1950); held by Calvin and most Reformed.",
+      "originYear": 400,
+      "proponentIds": [
+        "jerome",
+        "thomas-aquinas",
+        "john-calvin",
+        "pius-xii",
+        "charles-hodge"
+      ],
+      "proponentsOther": [
+        "Hilary of Poitiers",
+        "Peter Lombard",
+        "Catechism of the Catholic Church 366",
+        "Francis Turretin"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-orthodox",
+        "reformed",
+        "presbyterian",
+        "anglican"
+      ],
+      "strongestArguments": [
+        "It safeguards the spirituality and dignity of each soul.",
+        "It allows Catholic teaching to accept bodily evolution while affirming that each soul is God’s direct gift.",
+        "It fits the biblical language of God forming each spirit."
+      ],
+      "strongestObjections": [
+        "Traducianists ask how God can create an innocent soul that is at once infected with original sin, or justly join it to a corrupt body.",
+        "It may suggest God creates souls continually, contradicting Genesis 2:2.",
+        "It struggles to explain inherited mental and moral traits."
+      ],
+      "responses": [
+        "Creationists answer that original sin is the lack of original justice in Adam’s nature, which the new soul lacks because it is united to a body descended from Adam.",
+        "Reformed creationists ground transmission in federal imputation, not physical descent."
+      ],
+      "consequences": [
+        "Became the Catholic and majority Reformed view.",
+        "Shapes debates over the timing of ensoulment in bioethics."
+      ],
+      "relatedPositionIds": [
+        "traducianism",
+        "holistic-dualism",
+        "federal-headship",
+        "evolutionary-creation"
+      ],
+      "standing": "significant",
+      "sources": [
+        "kelly-doctrines",
+        "cooper-body-soul",
+        "humani-generis-1950"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "augustinian-original-guilt",
+      "doctrineId": "humanity-sin",
+      "name": "Original sin as inherited guilt and corruption (Augustinian)",
+      "altNames": [
+        "inherited guilt",
+        "peccatum originale",
+        "Augustinian original sin"
+      ],
+      "oneLine": "All humans were present in Adam and sinned in him, so that every human inherits both the guilt (reatus) of Adam’s sin and a corrupted nature marked by concupiscence; infants therefore need baptism for forgiveness.",
+      "coreClaims": [
+        "In Adam all sinned (Romans 5:12, read in the Latin in quo, “in whom”).",
+        "Humanity is a “mass of perdition” justly condemned.",
+        "Original sin is transmitted through generation, marked by disordered desire (concupiscence).",
+        "Baptism removes the guilt; concupiscence remains as weakness (Catholic) or as sin (Lutheran/Reformed).",
+        "Without grace humans cannot will the good."
+      ],
+      "keyTexts": [
+        "Psalm 51:5",
+        "Romans 5:12-21",
+        "1 Corinthians 15:22",
+        "Ephesians 2:3",
+        "John 3:5-6"
+      ],
+      "origin": "Developed by Augustine from 396 (To Simplician) and against Pelagius (412-430), building on Cyprian, Ambrose and Ambrosiaster; affirmed at Carthage (418), Orange (529) and Trent (1546), and in Lutheran, Reformed and Anglican confessions.",
+      "originYear": 412,
+      "proponentIds": [
+        "augustine-of-hippo",
+        "ambrose",
+        "cyprian",
+        "thomas-aquinas",
+        "martin-luther",
+        "john-calvin",
+        "jonathan-edwards"
+      ],
+      "proponentsOther": [
+        "Ambrosiaster",
+        "Prosper of Aquitaine",
+        "Council of Trent, Decree on Original Sin (1546)",
+        "Augsburg Confession II",
+        "Thirty-Nine Articles IX"
+      ],
+      "traditionIds": [
+        "catholic",
+        "lutheran",
+        "reformed",
+        "presbyterian",
+        "anglican",
+        "baptist",
+        "evangelical"
+      ],
+      "strongestArguments": [
+        "It explains the universality, depth and early onset of sin.",
+        "It undergirds the absolute necessity of grace and of Christ as second Adam.",
+        "It accounts for the ancient practice of infant baptism “for the remission of sins”."
+      ],
+      "strongestObjections": [
+        "Eastern Orthodox object that guilt is personal and cannot be inherited; Augustine’s reading of Romans 5:12 depended on a Latin mistranslation.",
+        "Pelagians and many moderns find it unjust that infants should be guilty for another’s act.",
+        "Evolutionary biology makes a single ancestral pair and a fall from original perfection hard to reconcile with human origins."
+      ],
+      "responses": [
+        "Augustinians respond that the doctrine rests on the whole of Romans 5 and on experience, not on one phrase.",
+        "They argue that humanity’s solidarity in Adam is the mirror of its solidarity in Christ; to deny one weakens the other.",
+        "Recent defenders reformulate it to fit human origins (Adam as representative or as head of a population)."
+      ],
+      "consequences": [
+        "Shaped Western sacramental practice, the theology of grace and the Reformation debates.",
+        "Influenced Western views of sexuality through the role of concupiscence."
+      ],
+      "relatedPositionIds": [
+        "ancestral-sin-eastern",
+        "federal-headship",
+        "original-sin-as-sickness",
+        "pelagianism",
+        "augustinianism",
+        "orange-semi-augustinianism",
+        "total-depravity"
+      ],
+      "standing": "majority",
+      "sources": [
+        "jacobs-original-sin",
+        "wiley-original-sin",
+        "kelly-doctrines",
+        "brown-augustine"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "ancestral-sin-eastern",
+      "doctrineId": "humanity-sin",
+      "name": "Ancestral sin (Eastern Orthodox)",
+      "altNames": [
+        "propatorikon hamartema",
+        "inherited mortality",
+        "Greek patristic view of the fall"
+      ],
+      "oneLine": "From Adam humanity inherits not personal guilt but a wounded nature subject to death and corruption; mortality and the fear of death drive humans into sin, from which Christ liberates by conquering death.",
+      "coreClaims": [
+        "Guilt is personal; no one is guilty for Adam’s sin.",
+        "Adam’s fall introduced death, corruption and a disordered nature that all share.",
+        "Romans 5:12 should be read “because of which [death] all sinned” (eph’ hō).",
+        "Infants are baptised not to remove inherited guilt but to unite them to Christ’s life.",
+        "Salvation is healing and deification, not chiefly acquittal."
+      ],
+      "keyTexts": [
+        "Romans 5:12 (Greek eph’ hō)",
+        "Hebrews 2:14-15",
+        "1 Corinthians 15:21-22",
+        "Wisdom 2:23-24",
+        "Ezekiel 18:20"
+      ],
+      "origin": "Rooted in Greek patristic exegesis (Irenaeus, Athanasius, Chrysostom, Cyril of Alexandria, Maximus); articulated sharply against Augustinianism by John Romanides (1957) and John Meyendorff (1974); also characteristic of Oriental Orthodox and Church of the East teaching.",
+      "originYear": 1957,
+      "proponentIds": [
+        "john-chrysostom",
+        "athanasius",
+        "cyril-of-alexandria",
+        "maximus-the-confessor",
+        "john-romanides"
+      ],
+      "proponentsOther": [
+        "John Meyendorff",
+        "Kallistos Ware",
+        "Theodore of Mopsuestia (East Syriac)"
+      ],
+      "traditionIds": [
+        "eastern-orthodox",
+        "russian-orthodox",
+        "oriental-orthodox",
+        "church-of-the-east",
+        "assyrian-church-of-the-east"
+      ],
+      "strongestArguments": [
+        "It keeps guilt personal and so preserves divine justice.",
+        "It follows the Greek text of Romans 5:12 and the Greek Fathers.",
+        "It frames salvation as healing and victory over death, as in the Paschal troparion."
+      ],
+      "strongestObjections": [
+        "Western theologians respond that Romans 5:18-19 speaks of condemnation and of “many made sinners”, not just mortality.",
+        "Some Orthodox (e.g. Confession of Dositheus, 1672) used language close to inherited sin, so Romanides’ contrast may be overdrawn.",
+        "Critics argue it can underplay the gravity and bondage of sin."
+      ],
+      "responses": [
+        "Orthodox reply that their view is no less serious about sin, since the corruption it describes is total apart from grace.",
+        "They argue that later Orthodox confessions borrowed Western categories under Latin and Protestant influence."
+      ],
+      "consequences": [
+        "Shapes Orthodox liturgy, baptism and the theology of theosis.",
+        "Became a focal point of Orthodox critique of the West in the 20th century."
+      ],
+      "relatedPositionIds": [
+        "augustinian-original-guilt",
+        "federal-headship",
+        "theosis",
+        "christus-victor"
+      ],
+      "standing": "significant",
+      "sources": [
+        "meyendorff-byzantine-theology",
+        "romanides-ancestral-sin-src",
+        "ware-orthodox-church",
+        "wiley-original-sin"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "federal-headship",
+      "doctrineId": "humanity-sin",
+      "name": "Federal headship and imputed sin (Reformed covenant theology)",
+      "altNames": [
+        "federalism",
+        "covenant of works",
+        "immediate imputation"
+      ],
+      "oneLine": "Adam acted as the covenant (federal) representative of all humanity in a covenant of works; his first sin is legally imputed to all he represented, who therefore also inherit a corrupt nature — just as Christ’s righteousness is imputed to those he represents.",
+      "coreClaims": [
+        "God made a covenant of works with Adam as head of the human race.",
+        "Adam’s guilt is imputed immediately to his posterity, prior to their own corruption.",
+        "Corruption of nature follows as a penal consequence.",
+        "The Adam–Christ parallel (Romans 5) requires representative headship."
+      ],
+      "keyTexts": [
+        "Romans 5:12-21",
+        "1 Corinthians 15:22, 45-49",
+        "Hosea 6:7",
+        "Genesis 2:16-17"
+      ],
+      "origin": "Developed in Reformed covenant theology (Ursinus, Olevianus, c.1560s-80s; Cocceius 1648); confessed in the Westminster Confession (1646, ch. 6-7); defended by Turretin, Charles Hodge and much Presbyterian and Baptist theology.",
+      "originYear": 1646,
+      "proponentIds": [
+        "charles-hodge",
+        "john-owen",
+        "jonathan-edwards"
+      ],
+      "proponentsOther": [
+        "Zacharias Ursinus",
+        "Johannes Cocceius",
+        "Francis Turretin",
+        "Westminster Confession 6-7",
+        "John Murray"
+      ],
+      "traditionIds": [
+        "reformed",
+        "presbyterian",
+        "congregationalist",
+        "baptist",
+        "evangelical"
+      ],
+      "strongestArguments": [
+        "It gives a clear, just rationale for universal condemnation that mirrors justification in Christ.",
+        "It does not depend on physical transmission or on a theory of the soul’s origin.",
+        "It coheres with the covenantal structure of the whole Bible."
+      ],
+      "strongestObjections": [
+        "Critics argue that imputing guilt for an act one did not commit is a legal fiction and unjust.",
+        "Eastern and many modern theologians reject the covenant of works as absent from Genesis.",
+        "Union and Torrance theologians argue it makes God’s relation to humanity contractual rather than filial."
+      ],
+      "responses": [
+        "Federalists answer that representation is a common principle of justice and the very basis of salvation in Christ.",
+        "They point to Hosea 6:7 (“like Adam they transgressed the covenant”) and Paul’s Adam–Christ typology."
+      ],
+      "consequences": [
+        "Structured Westminster and Puritan theology and the legal/forensic gospel framework.",
+        "Provides one evangelical option for reconciling a representative Adam with human origins."
+      ],
+      "relatedPositionIds": [
+        "augustinian-original-guilt",
+        "ancestral-sin-eastern",
+        "federal-forensic-framework",
+        "penal-substitution",
+        "trinitarian-union-framework"
+      ],
+      "standing": "significant",
+      "sources": [
+        "madueme-reeves-adam",
+        "jacobs-original-sin",
+        "schaff-creeds"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "original-sin-as-sickness",
+      "doctrineId": "humanity-sin",
+      "name": "Original sin as inherited sickness (Zwingli)",
+      "altNames": [
+        "original disease",
+        "morbus",
+        "original defect"
+      ],
+      "oneLine": "What we inherit from Adam is a disease or bent toward self-love, not personal guilt; it inevitably leads to actual sin and needs healing in Christ, but infants of believers are not damned for it.",
+      "coreClaims": [
+        "Sin in the proper sense requires transgression of a law; original sin is a condition or defect.",
+        "The inherited condition is real, universal and deadly.",
+        "Children of Christian parents dying in infancy are saved through the covenant.",
+        "Guilt arises with actual sin."
+      ],
+      "keyTexts": [
+        "Romans 5:12-21",
+        "Romans 7:17-20",
+        "Ezekiel 18:20",
+        "Deuteronomy 1:39"
+      ],
+      "origin": "Articulated by Huldrych Zwingli in his Declaration on Original Sin (1526); related to later Arminian (Remonstrant) and Wesleyan accounts of inherited depravity without inherited guilt, and to some Baptist and Anabaptist teaching on the innocence of infants.",
+      "originYear": 1526,
+      "proponentIds": [
+        "huldrych-zwingli",
+        "menno-simons",
+        "jacobus-arminius"
+      ],
+      "proponentsOther": [
+        "Philipp van Limborch",
+        "Many Anabaptists and General Baptists",
+        "Some Wesleyan theologians"
+      ],
+      "traditionIds": [
+        "reformed",
+        "anabaptist",
+        "mennonite",
+        "methodist",
+        "baptist"
+      ],
+      "strongestArguments": [
+        "It affirms sin’s universality and depth without imputing personal guilt to infants.",
+        "It respects Ezekiel 18’s principle that children do not bear the guilt of parents.",
+        "It provides pastoral comfort concerning infants who die."
+      ],
+      "strongestObjections": [
+        "Lutheran and Reformed confessions criticised it as minimising sin (Augsburg Confession II condemns those who deny original vice is truly sin).",
+        "Augustinians argue that Romans 5 speaks of condemnation, not merely disease.",
+        "Some critics see it as a step toward Pelagianism."
+      ],
+      "responses": [
+        "Zwinglians answer that a deadly disease inevitably producing sin is hardly minimal.",
+        "They argue that Romans 5:13 itself distinguishes sin “not imputed where there is no law”."
+      ],
+      "consequences": [
+        "Shaped Anabaptist and Baptist views of the age of accountability.",
+        "Anticipated later Arminian and Wesleyan anthropology."
+      ],
+      "relatedPositionIds": [
+        "augustinian-original-guilt",
+        "ancestral-sin-eastern",
+        "prevenient-grace",
+        "believers-baptism"
+      ],
+      "standing": "minority",
+      "sources": [
+        "wiley-original-sin",
+        "jacobs-original-sin",
+        "macculloch-reformation"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "total-depravity",
+      "doctrineId": "humanity-sin",
+      "name": "Total depravity and the bound will",
+      "altNames": [
+        "radical corruption",
+        "bondage of the will",
+        "total inability"
+      ],
+      "oneLine": "Sin has corrupted every part of fallen human nature — mind, will, affections and body — so that, apart from regenerating grace, no one can or will turn to God; humans remain free from coercion but are bound in their will.",
+      "coreClaims": [
+        "Depravity is “total” in extent (affecting every faculty), not that humans are as evil as possible.",
+        "The unregenerate will is in bondage to sin and cannot choose God.",
+        "Regeneration precedes and produces faith.",
+        "Civil goodness remains by common grace, but no work can merit salvation."
+      ],
+      "keyTexts": [
+        "Genesis 6:5",
+        "Jeremiah 17:9",
+        "John 6:44",
+        "Romans 3:10-18",
+        "Romans 8:7-8",
+        "Ephesians 2:1-5",
+        "1 Corinthians 2:14"
+      ],
+      "origin": "Based on Augustine’s late anti-Pelagian writings; sharpened by Luther’s The Bondage of the Will (1525) against Erasmus and by Calvin; confessed at Dort (1619, third and fourth heads) and Westminster (ch. 9).",
+      "originYear": 1525,
+      "proponentIds": [
+        "martin-luther",
+        "john-calvin",
+        "augustine-of-hippo",
+        "jonathan-edwards",
+        "charles-spurgeon",
+        "john-piper"
+      ],
+      "proponentsOther": [
+        "Canons of Dort",
+        "Westminster Confession 9",
+        "Formula of Concord II"
+      ],
+      "traditionIds": [
+        "lutheran",
+        "reformed",
+        "presbyterian",
+        "baptist",
+        "evangelical"
+      ],
+      "strongestArguments": [
+        "It takes seriously the Bible’s language of spiritual death, not mere illness.",
+        "It magnifies grace: salvation is wholly God’s work.",
+        "It matches the experience of conversion as rescue rather than self-improvement."
+      ],
+      "strongestObjections": [
+        "Arminians and Wesleyans object that it makes divine commands and invitations insincere if humans cannot respond.",
+        "Catholics and Orthodox argue that the image of God and free will, though wounded, remain.",
+        "Critics argue it can foster fatalism or a low view of human goodness."
+      ],
+      "responses": [
+        "Reformed theologians answer that inability is moral, not natural: humans cannot because they will not.",
+        "They hold that God uses commands and invitations as the very means by which he regenerates."
+      ],
+      "consequences": [
+        "Central to Lutheran and Reformed soteriology and the TULIP scheme.",
+        "Shaped revivalist preaching of the need for new birth."
+      ],
+      "relatedPositionIds": [
+        "prevenient-grace",
+        "augustinian-original-guilt",
+        "calvinism-tulip",
+        "compatibilist-freedom",
+        "libertarian-freedom"
+      ],
+      "standing": "significant",
+      "sources": [
+        "mcgrath-iustitia",
+        "kolb-bound-choice",
+        "schaff-creeds"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "prevenient-grace",
+      "doctrineId": "humanity-sin",
+      "name": "Prevenient grace (Arminian and Wesleyan)",
+      "altNames": [
+        "preventing grace",
+        "enabling grace",
+        "universal prevenient grace"
+      ],
+      "oneLine": "Humans are totally unable by nature to turn to God, but God gives to all people a “preventing” (going-before) grace that restores enough freedom to respond to the gospel, so that salvation is wholly by grace yet resistible.",
+      "coreClaims": [
+        "Original sin leaves humanity dead in sin and unable to seek God by nature.",
+        "Through Christ’s atonement God gives prevenient grace to every person.",
+        "This grace enables but does not compel faith; it can be resisted.",
+        "Conscience and longings for God in all people are signs of this grace."
+      ],
+      "keyTexts": [
+        "John 1:9",
+        "John 12:32",
+        "Titus 2:11",
+        "Romans 2:14-15",
+        "Acts 7:51",
+        "Philippians 2:12-13"
+      ],
+      "origin": "Grounded in patristic and medieval teaching on grace preceding the will (Orange 529 spoke of prevenient grace); developed by Jacobus Arminius and the Remonstrance (1610); central to John Wesley’s theology and to Methodist, Holiness and Pentecostal traditions.",
+      "originYear": 1610,
+      "proponentIds": [
+        "jacobus-arminius",
+        "john-wesley",
+        "charles-wesley"
+      ],
+      "proponentsOther": [
+        "Remonstrant Articles 3-4 (1610)",
+        "John Fletcher",
+        "Thomas Oden",
+        "Roger Olson"
+      ],
+      "traditionIds": [
+        "methodist",
+        "holiness-movement",
+        "salvation-army",
+        "pentecostal",
+        "assemblies-of-god",
+        "anglican",
+        "baptist"
+      ],
+      "strongestArguments": [
+        "It holds together human depravity, the universal love of God and genuine human responsibility.",
+        "It explains the universal sense of conscience and longing for God.",
+        "It makes God’s universal invitations sincere."
+      ],
+      "strongestObjections": [
+        "Calvinists object that the doctrine has thin explicit biblical support and makes the decisive difference in salvation a human choice.",
+        "Lutherans note it may reintroduce synergism.",
+        "Some argue that a universal grace that restores free will is, in effect, a denial of total depravity."
+      ],
+      "responses": [
+        "Wesleyans answer that John 1:9 and 12:32 imply a universal enlightening and drawing.",
+        "They insist that the ability to respond is itself grace, so no one can boast."
+      ],
+      "consequences": [
+        "Foundational for Methodist evangelism and global Holiness-Pentecostal movements.",
+        "Shaped hymnody (“Thy sovereign grace to all extends”)."
+      ],
+      "relatedPositionIds": [
+        "total-depravity",
+        "arminianism",
+        "libertarian-freedom",
+        "orange-semi-augustinianism",
+        "semi-pelagianism"
+      ],
+      "standing": "significant",
+      "sources": [
+        "heitzenrater-wesley",
+        "stanglin-mccall-arminius",
+        "mcgrath-iustitia"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "libertarian-freedom",
+      "doctrineId": "humanity-sin",
+      "name": "Libertarian freedom",
+      "altNames": [
+        "incompatibilist freedom",
+        "liberty of indifference",
+        "power of contrary choice"
+      ],
+      "oneLine": "A free choice is one not determined by prior causes, including God’s decree; the agent could have chosen otherwise in the same circumstances, and only such freedom grounds moral responsibility.",
+      "coreClaims": [
+        "Responsibility requires the ability to do otherwise.",
+        "God gave creatures genuine freedom, which he respects.",
+        "Divine foreknowledge (or middle knowledge, or an open future) does not cause choices.",
+        "Sin originates in a free creaturely choice, not in God’s will."
+      ],
+      "keyTexts": [
+        "Deuteronomy 30:15-20",
+        "Joshua 24:15",
+        "Matthew 23:37",
+        "1 Corinthians 10:13",
+        "Sirach 15:14-17"
+      ],
+      "origin": "Assumed by most early Fathers (Justin, Irenaeus, Origen, Gregory of Nyssa, Chrysostom) against fatalism; defended by Erasmus (1524), Molina (1588) and Arminius; elaborated in modern analytic philosophy (Plantinga, Swinburne, Kane).",
+      "originYear": 1524,
+      "proponentIds": [
+        "erasmus",
+        "luis-de-molina",
+        "jacobus-arminius",
+        "gregory-of-nyssa",
+        "john-chrysostom",
+        "alvin-plantinga"
+      ],
+      "proponentsOther": [
+        "Justin Martyr",
+        "Origen",
+        "Richard Swinburne",
+        "Robert Kane",
+        "William Lane Craig"
+      ],
+      "traditionIds": [
+        "eastern-orthodox",
+        "catholic",
+        "methodist",
+        "anabaptist",
+        "pentecostal",
+        "evangelical"
+      ],
+      "strongestArguments": [
+        "It best explains moral responsibility and divine commands.",
+        "It distances God from authorship of sin.",
+        "It reflects the near-unanimous view of the pre-Augustinian Fathers."
+      ],
+      "strongestObjections": [
+        "Compatibilists argue that undetermined choices are random rather than free, and the agent’s character becomes irrelevant.",
+        "Calvinists argue it limits God’s sovereignty and contradicts texts where God determines human choices (Proverbs 21:1).",
+        "Some ask how God can infallibly foreknow undetermined choices."
+      ],
+      "responses": [
+        "Libertarians propose agent-causation or “self-forming actions” (Kane) to answer the randomness objection.",
+        "They appeal to middle knowledge or eternity to reconcile freedom with foreknowledge."
+      ],
+      "consequences": [
+        "Underpins free-will theodicy, Molinism, Arminianism and open theism.",
+        "Central to Eastern synergy and theosis."
+      ],
+      "relatedPositionIds": [
+        "compatibilist-freedom",
+        "molinism",
+        "arminianism",
+        "open-theism",
+        "free-will-defence",
+        "prevenient-grace"
+      ],
+      "standing": "significant",
+      "sources": [
+        "kane-free-will",
+        "mcgrath-iustitia"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "compatibilist-freedom",
+      "doctrineId": "humanity-sin",
+      "name": "Compatibilist freedom",
+      "altNames": [
+        "soft determinism",
+        "liberty of spontaneity",
+        "freedom of inclination"
+      ],
+      "oneLine": "Human freedom means acting according to one’s own desires and reasons without external coercion; such freedom is compatible with the will being determined by one’s nature, motives and ultimately God’s decree.",
+      "coreClaims": [
+        "We are free when we do what we want; we are not free to want otherwise than our nature inclines.",
+        "The will follows the strongest motive or greatest apparent good.",
+        "God can ordain all things without coercing creatures, so responsibility remains.",
+        "Fallen humans freely sin; regenerated humans freely love God."
+      ],
+      "keyTexts": [
+        "Genesis 50:20",
+        "Proverbs 21:1",
+        "Matthew 7:17-18",
+        "John 8:34-36",
+        "Acts 2:23",
+        "Philippians 2:12-13"
+      ],
+      "origin": "Anticipated by Augustine (freedom as delight in the good) and Luther; given classic form by Jonathan Edwards (Freedom of the Will, 1754); held in Reformed theology and by many analytic philosophers.",
+      "originYear": 1754,
+      "proponentIds": [
+        "jonathan-edwards",
+        "augustine-of-hippo",
+        "martin-luther",
+        "john-calvin"
+      ],
+      "proponentsOther": [
+        "Francis Turretin",
+        "John Feinberg",
+        "Paul Helm",
+        "D. A. Carson"
+      ],
+      "traditionIds": [
+        "reformed",
+        "presbyterian",
+        "baptist",
+        "lutheran",
+        "evangelical"
+      ],
+      "strongestArguments": [
+        "It explains how God can sovereignly ordain all events while humans remain responsible.",
+        "It gives an intelligible account of choices as flowing from character.",
+        "It explains the freedom of the saints in heaven, who cannot sin yet are truly free."
+      ],
+      "strongestObjections": [
+        "Libertarians object that if choices are determined, agents could not have done otherwise and so cannot be blamed.",
+        "It appears to make God the ultimate cause of sin.",
+        "Critics argue it redefines freedom so that it no longer means what ordinary people mean."
+      ],
+      "responses": [
+        "Compatibilists answer that responsibility attaches to acting from one’s own will, as Frankfurt-style cases suggest.",
+        "They distinguish God’s ordaining from his approving and stress secondary causation."
+      ],
+      "consequences": [
+        "Central to Reformed providence and soteriology.",
+        "Defended in analytic theology debates."
+      ],
+      "relatedPositionIds": [
+        "libertarian-freedom",
+        "calvinist-meticulous-providence",
+        "total-depravity",
+        "calvinism-tulip"
+      ],
+      "standing": "significant",
+      "sources": [
+        "kane-free-will",
+        "marsden-edwards",
+        "helm-providence"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "controversies": [
+    {
+      "id": "original-guilt-east-and-west",
+      "title": "Original sin: inherited guilt or ancestral corruption?",
+      "question": "Do all humans inherit Adam’s guilt, or only the death and corruption his sin unleashed?",
+      "summary": "Western churches since Augustine have taught that Adam’s descendants inherit guilt as well as corruption; the Greek, Syriac and Coptic traditions speak of inherited mortality and a wounded nature, and in the 20th century Orthodox theologians sharpened this into a critique of Augustine. Zwingli and later Arminians offered a Western middle way.",
+      "doctrineIds": [
+        "humanity-sin",
+        "salvation",
+        "baptism"
+      ],
+      "sides": [
+        {
+          "name": "Inherited guilt (Augustinian and federal)",
+          "positionId": "augustinian-original-guilt",
+          "steelman": "Paul says that through one man’s disobedience many were made sinners and that judgement came upon all to condemnation. Infants are baptised for the remission of sins. Humanity is one in Adam as believers are one in Christ; if we cannot be condemned in Adam we cannot be justified in Christ. Experience confirms that sin is not learned by imitation alone but is rooted in our nature.",
+          "arguments": [
+            "Romans 5:18-19",
+            "Infant baptism “for remission of sins”",
+            "Adam–Christ parallel",
+            "Councils of Carthage (418), Orange (529), Trent (1546)"
+          ],
+          "counterArguments": [
+            "Ezekiel 18:20: the son shall not bear the iniquity of the father",
+            "Reliance on the Latin in quo of Romans 5:12"
+          ],
+          "keyTexts": [
+            "Psalm 51:5",
+            "Romans 5:12-21",
+            "Ephesians 2:3"
+          ],
+          "quoteIds": [
+            "augustine-nature-wounded",
+            "articles-original-sin",
+            "edwards-constituted-one",
+            "hodge-imputation"
+          ]
+        },
+        {
+          "name": "Ancestral sin (Eastern)",
+          "positionId": "ancestral-sin-eastern",
+          "steelman": "Guilt is personal; what Adam bequeathed was death. Because we are mortal and fear death, we grasp at self-preservation and sin. Christ, trampling down death by death, heals our nature and frees us from the devil’s tyranny. To speak of infants as guilty misunderstands both justice and baptism, which is illumination and new life.",
+          "arguments": [
+            "Greek text of Romans 5:12 (eph’ hō)",
+            "Hebrews 2:14-15",
+            "Greek patristic consensus",
+            "Paschal theology of victory over death"
+          ],
+          "counterArguments": [
+            "Romans 5:19 speaks of “many made sinners”",
+            "Later Orthodox confessions used inherited-sin language"
+          ],
+          "keyTexts": [
+            "Romans 5:12",
+            "Hebrews 2:14-15",
+            "Wisdom 2:23-24"
+          ],
+          "quoteIds": [
+            "chrysostom-romans-sinners",
+            "romanides-ancestral-para"
+          ]
+        },
+        {
+          "name": "Inherited sickness (Zwinglian and Arminian)",
+          "positionId": "original-sin-as-sickness",
+          "steelman": "Original sin is real and deadly, a disease inclining every human to self-love, but it is not personal guilt until it issues in actual sin. This view preserves divine justice toward infants while affirming the universality of sin and the need for Christ.",
+          "arguments": [
+            "Romans 5:13",
+            "Ezekiel 18",
+            "Comfort concerning infants who die"
+          ],
+          "counterArguments": [
+            "Condemned in the Augsburg Confession for minimising sin"
+          ],
+          "keyTexts": [
+            "Romans 5:13",
+            "Deuteronomy 1:39"
+          ],
+          "quoteIds": [
+            "zwingli-original-disease"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 391,
+          "text": "Chrysostom reads “sinners” in Romans 5:19 as those liable to death."
+        },
+        {
+          "year": 412,
+          "text": "Augustine begins his anti-Pelagian writings."
+        },
+        {
+          "year": 418,
+          "text": "Council of Carthage condemns Pelagius.",
+          "eventId": "pelagius-condemned-418"
+        },
+        {
+          "year": 529,
+          "text": "Council of Orange affirms that Adam’s sin passed death and sin to all.",
+          "eventId": "council-of-orange-529"
+        },
+        {
+          "year": 1526,
+          "text": "Zwingli’s Declaration on Original Sin."
+        },
+        {
+          "year": 1546,
+          "text": "Trent’s Decree on Original Sin.",
+          "eventId": "council-of-trent-1545"
+        },
+        {
+          "year": 1577,
+          "text": "Formula of Concord rejects Flacius’ view of sin as substance.",
+          "eventId": "formula-of-concord-1577"
+        },
+        {
+          "year": 1646,
+          "text": "Westminster Confession teaches imputation of Adam’s guilt.",
+          "eventId": "westminster-assembly-1643"
+        },
+        {
+          "year": 1758,
+          "text": "Edwards’ Original Sin Defended."
+        },
+        {
+          "year": 1957,
+          "text": "Romanides’ The Ancestral Sin."
+        }
+      ],
+      "resolution": {
+        "kind": "open",
+        "text": "Unresolved and largely unaddressed in formal dialogue. Catholic teaching (Catechism 404-405) says original sin is “contracted” not “committed”, a sin only in an analogical sense, which narrows the gap with the East; Reformed federalism and Orthodox ancestral-sin teaching remain far apart. Questions raised by evolutionary science have reopened the debate in all traditions."
+      },
+      "consequences": [
+        "Shapes different rationales for infant baptism East and West.",
+        "Underlies the contrast between forensic and therapeutic models of salvation.",
+        "Debates on human origins (historical Adam) have revived interest in Eastern and Irenaean alternatives."
+      ],
+      "sources": [
+        "jacobs-original-sin",
+        "wiley-original-sin",
+        "meyendorff-byzantine-theology",
+        "madueme-reeves-adam"
+      ]
+    },
+    {
+      "id": "image-of-god-and-human-hierarchy",
+      "title": "The image of God, race and gender",
+      "question": "Does the image of God in every human being overturn hierarchies of race and sex — and why did Christians so often defend them?",
+      "summary": "Christian anthropology affirms that all humans bear God’s image, yet for centuries theologians also justified the subordination of women, the conquest of Indigenous peoples and racial slavery. Debates at Valladolid (1550), over American slavery and apartheid, and in feminist, Black and womanist theologies turned on how the image of God and the doctrine of sin apply to these hierarchies.",
+      "doctrineIds": [
+        "humanity-sin",
+        "ethics-church-state"
+      ],
+      "sides": [
+        {
+          "name": "Hierarchical readings (historic)",
+          "positionId": "pro-slavery-theology",
+          "steelman": "Advocates claimed that God ordered creation hierarchically: Aristotle’s philosophy and texts such as Genesis 3:16, 9:25-27 and the household codes seemed to show natural ranks among peoples and between men and women. Order, they argued, was itself a good of creation, and subordination need not deny spiritual equality before God (Galatians 3:28 was read as concerning salvation, not society).",
+          "arguments": [
+            "Aristotle’s “natural slaves” (Sepúlveda)",
+            "The “curse of Ham” (Genesis 9:25)",
+            "Household codes (Ephesians 5-6; Colossians 3)",
+            "Spiritual equality without social equality"
+          ],
+          "counterArguments": [
+            "The curse falls on Canaan, not Ham, and has nothing to do with race",
+            "Every human bears God’s image (Genesis 1:27; 9:6; James 3:9)",
+            "Paul’s gospel abolishes ethnic hierarchy in the church (Galatians 3:28; Ephesians 2:14)"
+          ],
+          "keyTexts": [
+            "Genesis 3:16",
+            "Genesis 9:25-27",
+            "Ephesians 6:5-9",
+            "1 Timothy 2:11-14"
+          ],
+          "quoteIds": [
+            "aquinas-woman-misbegotten",
+            "tertullian-devils-gateway",
+            "stringfellow-slavery-sanctioned"
+          ]
+        },
+        {
+          "name": "Universal-dignity readings",
+          "positionId": "abolitionism",
+          "steelman": "Every human being, of every people and both sexes, is made in God’s image and redeemed by Christ. Las Casas insisted that the peoples of the Americas were rational image-bearers to be won by persuasion, not the sword; abolitionists and later Black, feminist and womanist theologians argued that racism and sexism are themselves sin, and that the doctrine of sin has often been written from the standpoint of the powerful.",
+          "arguments": [
+            "Genesis 1:27 includes male and female",
+            "Acts 17:26: one blood",
+            "Galatians 3:28",
+            "Las Casas at Valladolid",
+            "Abolitionist and civil-rights theology"
+          ],
+          "counterArguments": [
+            "Complementarians argue that equal dignity is compatible with distinct roles in church and home",
+            "Some critics argue liberation theologies can subordinate doctrine to political agendas"
+          ],
+          "keyTexts": [
+            "Genesis 1:26-28",
+            "Acts 17:26",
+            "Galatians 3:28",
+            "James 3:9"
+          ],
+          "quoteIds": [
+            "las-casas-destruction-indies",
+            "douglass-christianity-of-christ",
+            "saiving-pride-para",
+            "cone-racism-sin-para"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 202,
+          "text": "Tertullian addresses Christian women as “the devil’s gateway”."
+        },
+        {
+          "year": 1268,
+          "text": "Aquinas, following Aristotle, calls woman “defective” in individual nature, while affirming she bears God’s image."
+        },
+        {
+          "year": 1537,
+          "text": "Paul III’s bull Sublimis Deus declares the Indigenous peoples of the Americas rational and free."
+        },
+        {
+          "year": 1550,
+          "text": "Valladolid debate between Las Casas and Sepúlveda.",
+          "eventId": "valladolid-debate-1550"
+        },
+        {
+          "year": 1807,
+          "text": "Abolition of the British slave trade after evangelical campaigning.",
+          "eventId": "abolition-slave-trade-1807"
+        },
+        {
+          "year": 1960,
+          "text": "Valerie Saiving’s feminist critique of sin as pride."
+        },
+        {
+          "year": 1970,
+          "text": "James Cone’s A Black Theology of Liberation."
+        },
+        {
+          "year": 1982,
+          "text": "World Alliance of Reformed Churches declares apartheid a sin and its theological justification heresy."
+        },
+        {
+          "year": 1985,
+          "text": "Kairos Document in South Africa.",
+          "eventId": "kairos-document-1985"
+        }
+      ],
+      "resolution": {
+        "kind": "mixed",
+        "text": "Christian bodies now almost universally condemn racism and racial slavery as sin incompatible with the image of God (e.g. the Belhar Confession, 1986; Southern Baptist apology, 1995). Debate continues over gender: churches agree on equal dignity but divide over whether it entails equal access to ordained office and leadership (egalitarian vs complementarian), and over how far historic doctrines of sin reflect the perspective of men and of the powerful."
+      },
+      "consequences": [
+        "Shaped human-rights language and Catholic social teaching on dignity.",
+        "Generated feminist, Black, womanist, Dalit and Latin American theologies of sin as structural.",
+        "Continues to divide churches on women’s ordination and on reparative justice."
+      ],
+      "sources": [
+        "haynes-noahs-curse",
+        "saiving-human-situation-src",
+        "cone-black-theology",
+        "ruether-sexism-god-talk",
+        "gonzalez-latin-america"
+      ]
+    }
+  ]
+}

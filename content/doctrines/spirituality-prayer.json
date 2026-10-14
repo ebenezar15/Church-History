@@ -1,0 +1,3803 @@
+{
+  "sources": [
+    {
+      "id": "sheldrake-spirituality",
+      "title": "Spirituality: A Brief History",
+      "kind": "secondary",
+      "author": "Philip Sheldrake",
+      "year": "2nd ed. 2013"
+    },
+    {
+      "id": "jones-study-of-spirituality",
+      "title": "The Study of Spirituality",
+      "kind": "reference",
+      "author": "Cheslyn Jones, Geoffrey Wainwright and Edward Yarnold (eds.)",
+      "year": 1986
+    },
+    {
+      "id": "louth-origins-mystical",
+      "title": "The Origins of the Christian Mystical Tradition: From Plato to Denys",
+      "kind": "secondary",
+      "author": "Andrew Louth",
+      "year": "2nd ed. 2007"
+    },
+    {
+      "id": "ward-sayings-desert",
+      "title": "The Sayings of the Desert Fathers: The Alphabetical Collection",
+      "kind": "primary",
+      "author": "Benedicta Ward (tr.)",
+      "year": 1975
+    },
+    {
+      "id": "rule-of-benedict-src",
+      "title": "The Rule of Saint Benedict",
+      "kind": "primary",
+      "author": "Benedict of Nursia",
+      "year": "c.530",
+      "url": "https://www.ccel.org/ccel/benedict/rule.html"
+    },
+    {
+      "id": "mcginn-eckhart",
+      "title": "The Mystical Thought of Meister Eckhart: The Man from Whom God Hid Nothing",
+      "kind": "secondary",
+      "author": "Bernard McGinn",
+      "year": 2001
+    },
+    {
+      "id": "van-engen-devotio",
+      "title": "Sisters and Brothers of the Common Life: The Devotio Moderna and the World of the Later Middle Ages",
+      "kind": "secondary",
+      "author": "John Van Engen",
+      "year": 2008
+    },
+    {
+      "id": "philokalia-palmer-sherrard-ware",
+      "title": "The Philokalia: The Complete Text (4 vols published)",
+      "kind": "primary",
+      "author": "tr. G. E. H. Palmer, Philip Sherrard and Kallistos Ware",
+      "year": "1979-1995"
+    },
+    {
+      "id": "bradley-celtic",
+      "title": "Celtic Christianity: Making Myths and Chasing Dreams",
+      "kind": "secondary",
+      "author": "Ian Bradley",
+      "year": 1999
+    },
+    {
+      "id": "carmina-gadelica-src",
+      "title": "Carmina Gadelica: Hymns and Incantations",
+      "kind": "primary",
+      "author": "Alexander Carmichael (coll.)",
+      "year": 1900
+    },
+    {
+      "id": "casey-sacred-reading",
+      "title": "Sacred Reading: The Ancient Art of Lectio Divina",
+      "kind": "secondary",
+      "author": "Michael Casey",
+      "year": 1996
+    },
+    {
+      "id": "hambrick-stowe-practice-piety",
+      "title": "The Practice of Piety: Puritan Devotional Disciplines in Seventeenth-Century New England",
+      "kind": "secondary",
+      "author": "Charles E. Hambrick-Stowe",
+      "year": 1982
+    },
+    {
+      "id": "keating-open-mind",
+      "title": "Open Mind, Open Heart: The Contemplative Dimension of the Gospel",
+      "kind": "primary",
+      "author": "Thomas Keating",
+      "year": 1986
+    },
+    {
+      "id": "cdf-christian-meditation-1989",
+      "title": "Letter to the Bishops of the Catholic Church on Some Aspects of Christian Meditation (Orationis formas)",
+      "kind": "primary",
+      "author": "Congregation for the Doctrine of the Faith",
+      "year": 1989,
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19891015_meditazione-cristiana_en.html"
+    },
+    {
+      "id": "ignatius-exercises-mullan",
+      "title": "The Spiritual Exercises of St. Ignatius of Loyola",
+      "kind": "primary",
+      "author": "tr. Elder Mullan",
+      "year": 1914,
+      "url": "https://www.ccel.org/ccel/ignatius/exercises.html"
+    },
+    {
+      "id": "wesley-sermon-16",
+      "title": "Sermon 16: The Means of Grace",
+      "kind": "primary",
+      "author": "John Wesley",
+      "year": 1746,
+      "url": "https://www.ccel.org/ccel/wesley/sermons.v.xvi.html"
+    },
+    {
+      "id": "foster-celebration",
+      "title": "Celebration of Discipline: The Path to Spiritual Growth",
+      "kind": "primary",
+      "author": "Richard J. Foster",
+      "year": 1978
+    },
+    {
+      "id": "ware-orthodox-way",
+      "title": "The Orthodox Way",
+      "kind": "secondary",
+      "author": "Kallistos Ware",
+      "year": "1979; rev. 1995"
+    },
+    {
+      "id": "sheldrake-celtic-note",
+      "title": "Living Between Worlds: Place and Journey in Celtic Spirituality",
+      "kind": "secondary",
+      "author": "Philip Sheldrake",
+      "year": 1995
+    },
+    {
+      "id": "lee-korean-prayer",
+      "title": "Korean Pentecost: The Great Revival of 1907 and Korean Protestant prayer traditions",
+      "kind": "secondary",
+      "author": "Young-Hoon Lee, \"Korean Pentecost: The Great Revival of 1907\", Asian Journal of Pentecostal Studies 4:1",
+      "year": 2001
+    }
+  ],
+  "people": [
+    {
+      "id": "evagrius-ponticus",
+      "name": "Evagrius Ponticus",
+      "born": 345,
+      "died": 399,
+      "circa": false,
+      "roles": [
+        "monk",
+        "theologian",
+        "spiritual writer"
+      ],
+      "traditionIds": [
+        "early-church"
+      ],
+      "regions": [
+        "asia-minor",
+        "egypt"
+      ],
+      "summary": "Deacon from Pontus, protégé of the Cappadocians, who became a monk at Nitria and Kellia in Egypt. His Praktikos and Chapters on Prayer systematised desert spirituality: the eight evil \"thoughts\" (the root of the seven deadly sins), dispassion (apatheia) and imageless \"pure prayer\". Some of his speculative ideas were condemned with Origenism in 553, but his teaching passed into East and West through Cassian and the Philokalia.",
+      "keyIdeas": [
+        "Eight logismoi (evil thoughts)",
+        "Apatheia",
+        "Pure, imageless prayer",
+        "The theologian is one who prays truly"
+      ],
+      "influencedBy": [
+        "origen",
+        "gregory-of-nazianzus"
+      ],
+      "sources": [
+        "louth-origins-mystical",
+        "chitty-desert-city",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "guigo-ii",
+      "name": "Guigo II the Carthusian",
+      "died": 1188,
+      "circa": true,
+      "roles": [
+        "monk",
+        "prior of the Grande Chartreuse",
+        "spiritual writer"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Ninth prior of the Grande Chartreuse whose Ladder of Monks (Scala claustralium, c.1150-1180) described lectio divina as four rungs: reading, meditation, prayer and contemplation, the classic formulation of the practice.",
+      "keyIdeas": [
+        "Four rungs of lectio divina",
+        "Reading leads to contemplation"
+      ],
+      "influencedBy": [
+        "benedict-of-nursia",
+        "bernard-of-clairvaux"
+      ],
+      "sources": [
+        "casey-sacred-reading",
+        "mcginn-mysticism"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "johannes-tauler",
+      "name": "Johannes Tauler",
+      "born": 1300,
+      "died": 1361,
+      "circa": true,
+      "roles": [
+        "Dominican friar",
+        "preacher",
+        "mystic"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Strasbourg Dominican, disciple of Meister Eckhart, whose vernacular sermons taught detachment, humility and the birth of God in the \"ground\" of the soul in pastoral, practical form. Luther read and praised him, and the Theologia Germanica belongs to the same circle of the \"Friends of God\".",
+      "keyIdeas": [
+        "Ground of the soul",
+        "Detachment and humility",
+        "Mysticism for lay people"
+      ],
+      "influencedBy": [
+        "meister-eckhart"
+      ],
+      "sources": [
+        "mcginn-mysticism",
+        "odcc"
+      ],
+      "confidence": "established",
+      "place": {
+        "name": "Strasbourg",
+        "lat": 48.5734,
+        "lng": 7.7521
+      }
+    },
+    {
+      "id": "geert-groote",
+      "name": "Geert Groote",
+      "born": 1340,
+      "died": 1384,
+      "circa": false,
+      "roles": [
+        "deacon",
+        "preacher",
+        "reformer"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Dutch scholar of Deventer who, after a conversion around 1374, became a penitential preacher and founded the Devotio Moderna, from which grew the Brothers and Sisters of the Common Life and the Windesheim canons.",
+      "keyIdeas": [
+        "Devotio moderna",
+        "Common life without vows",
+        "Interior, Christ-centred piety"
+      ],
+      "influencedBy": [
+        "bernard-of-clairvaux"
+      ],
+      "sources": [
+        "van-engen-devotio",
+        "odcc"
+      ],
+      "confidence": "established",
+      "place": {
+        "name": "Deventer",
+        "lat": 52.2551,
+        "lng": 6.1639
+      }
+    },
+    {
+      "id": "thomas-a-kempis",
+      "name": "Thomas à Kempis",
+      "born": 1380,
+      "died": 1471,
+      "circa": true,
+      "roles": [
+        "canon regular",
+        "copyist",
+        "spiritual writer"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Canon of Mount St Agnes near Zwolle, trained by the Brothers of the Common Life, traditionally the author of The Imitation of Christ (c.1418-27), probably the most widely read Christian book after the Bible.",
+      "keyIdeas": [
+        "Imitation of Christ",
+        "Humility and inward devotion",
+        "Eucharistic piety"
+      ],
+      "influencedBy": [
+        "geert-groote"
+      ],
+      "sources": [
+        "van-engen-devotio",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "nicodemus-the-hagiorite",
+      "name": "Nicodemus the Hagiorite",
+      "born": 1749,
+      "died": 1809,
+      "circa": false,
+      "roles": [
+        "monk",
+        "editor",
+        "spiritual writer"
+      ],
+      "traditionIds": [
+        "eastern-orthodox"
+      ],
+      "regions": [
+        "greece-balkans"
+      ],
+      "summary": "Athonite monk who with Macarius of Corinth compiled the Philokalia (Venice, 1782), an anthology of hesychast texts from the 4th to the 15th century, and edited the Pedalion (canon law) and many other works. He is honoured as a saint in the Orthodox Church.",
+      "keyIdeas": [
+        "Philokalia for all Christians",
+        "Frequent communion",
+        "Prayer of the heart"
+      ],
+      "influencedBy": [
+        "gregory-palamas",
+        "symeon-new-theologian"
+      ],
+      "sources": [
+        "philokalia-palmer-sherrard-ware",
+        "ware-orthodox-church"
+      ],
+      "confidence": "established",
+      "place": {
+        "name": "Mount Athos",
+        "lat": 40.157,
+        "lng": 24.326
+      }
+    },
+    {
+      "id": "miguel-de-molinos",
+      "name": "Miguel de Molinos",
+      "born": 1628,
+      "died": 1696,
+      "circa": false,
+      "roles": [
+        "priest",
+        "spiritual director"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "western-europe",
+        "italy"
+      ],
+      "summary": "Spanish priest in Rome whose Spiritual Guide (1675) taught a passive prayer of quiet and total abandonment to God. Arrested in 1685, he was condemned for \"quietism\" by Innocent XI’s bull Coelestis Pastor (1687) and died in prison.",
+      "keyIdeas": [
+        "Acquired contemplation",
+        "Annihilation of self-will",
+        "Interior silence"
+      ],
+      "influencedBy": [
+        "teresa-of-avila",
+        "john-of-the-cross"
+      ],
+      "sources": [
+        "knox-enthusiasm",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "madame-guyon",
+      "name": "Jeanne Guyon",
+      "born": 1648,
+      "died": 1717,
+      "circa": false,
+      "roles": [
+        "spiritual writer",
+        "lay teacher"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "French widow and mystic whose Short and Easy Method of Prayer (1685) taught simple abandonment and pure love. Imprisoned in the Bastille, she was at the centre of the quietist controversy between Bossuet and Fénelon; her writings were later beloved by Pietists, Quakers and Holiness Protestants.",
+      "keyIdeas": [
+        "Prayer of the heart for all",
+        "Pure, disinterested love",
+        "Abandonment"
+      ],
+      "influencedBy": [
+        "teresa-of-avila"
+      ],
+      "sources": [
+        "knox-enthusiasm",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "thomas-merton",
+      "name": "Thomas Merton",
+      "born": 1915,
+      "died": 1968,
+      "circa": false,
+      "roles": [
+        "Trappist monk",
+        "writer"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "Trappist monk of Gethsemani Abbey, Kentucky, whose autobiography The Seven Storey Mountain (1948) and New Seeds of Contemplation (1961) popularised contemplative prayer for modern readers. He engaged in dialogue with Buddhists and wrote on peace and race; he died in Bangkok in 1968 during an interreligious monastic meeting.",
+      "keyIdeas": [
+        "Contemplation as awareness of God’s presence",
+        "True and false self",
+        "Monastic dialogue with Asia"
+      ],
+      "influencedBy": [
+        "john-of-the-cross",
+        "bernard-of-clairvaux"
+      ],
+      "sources": [
+        "sheldrake-spirituality",
+        "mcginn-mysticism"
+      ],
+      "confidence": "established",
+      "place": {
+        "name": "Gethsemani Abbey, Kentucky",
+        "lat": 37.6661,
+        "lng": -85.5297
+      }
+    },
+    {
+      "id": "thomas-keating",
+      "name": "Thomas Keating",
+      "born": 1923,
+      "died": 2018,
+      "circa": false,
+      "roles": [
+        "Trappist abbot",
+        "teacher of prayer"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "Abbot of St Joseph’s Abbey, Spencer, Massachusetts, who with William Meninger and Basil Pennington developed Centering Prayer in the 1970s from The Cloud of Unknowing, and founded Contemplative Outreach (1984) to teach it widely.",
+      "keyIdeas": [
+        "Centering Prayer",
+        "Consent to God’s presence and action",
+        "Divine therapy"
+      ],
+      "influencedBy": [
+        "thomas-merton",
+        "john-of-the-cross"
+      ],
+      "sources": [
+        "keating-open-mind",
+        "sheldrake-spirituality"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "works": [
+    {
+      "id": "athanasius-life-of-antony",
+      "title": "Life of Antony (Vita Antonii)",
+      "authorId": "athanasius",
+      "year": 360,
+      "circa": true,
+      "language": "Greek",
+      "genre": "history",
+      "summary": "Biography of Antony of Egypt describing his renunciation, years of solitude, combat with demons and counsel to visitors.",
+      "significance": "Made the desert hermit an ideal for East and West; it helped trigger Augustine’s conversion (Confessions 8).",
+      "doctrineIds": [
+        "spirituality-prayer"
+      ],
+      "sources": [
+        "athanasius-life-antony",
+        "chitty-desert-city"
+      ]
+    },
+    {
+      "id": "evagrius-chapters-on-prayer",
+      "title": "Chapters on Prayer (De oratione)",
+      "authorId": "evagrius-ponticus",
+      "year": 390,
+      "circa": true,
+      "language": "Greek",
+      "genre": "devotional",
+      "summary": "153 short chapters on pure, imageless prayer, transmitted under the name of Nilus and included in the Philokalia.",
+      "significance": "Foundational text of Eastern and Western contemplative prayer.",
+      "doctrineIds": [
+        "spirituality-prayer"
+      ],
+      "sources": [
+        "louth-origins-mystical",
+        "philokalia-palmer-sherrard-ware"
+      ]
+    },
+    {
+      "id": "cassian-conferences",
+      "title": "Conferences (Collationes)",
+      "authorId": "john-cassian",
+      "year": 426,
+      "circa": true,
+      "language": "Latin",
+      "genre": "devotional",
+      "summary": "Twenty-four conversations with Egyptian abbas on the monastic life, purity of heart and unceasing prayer (including the formula \"O God, come to my assistance\").",
+      "significance": "Carried desert spirituality to the West; Benedict prescribed it for reading.",
+      "doctrineIds": [
+        "spirituality-prayer",
+        "salvation"
+      ],
+      "sources": [
+        "chitty-desert-city",
+        "odcc"
+      ]
+    },
+    {
+      "id": "rule-of-benedict",
+      "title": "Rule of Saint Benedict",
+      "authorId": "benedict-of-nursia",
+      "year": 530,
+      "circa": true,
+      "language": "Latin",
+      "genre": "rule",
+      "summary": "Seventy-three chapters ordering a community under an abbot: the Divine Office, lectio divina, manual work, obedience, humility, hospitality and stability.",
+      "significance": "The basic rule of Western monasticism for fifteen centuries.",
+      "doctrineIds": [
+        "spirituality-prayer"
+      ],
+      "sources": [
+        "rule-of-benedict-src",
+        "odcc"
+      ],
+      "fullTextUrl": "https://www.ccel.org/ccel/benedict/rule.html"
+    },
+    {
+      "id": "guigo-ladder-of-monks",
+      "title": "The Ladder of Monks (Scala claustralium)",
+      "authorId": "guigo-ii",
+      "year": 1160,
+      "circa": true,
+      "language": "Latin",
+      "genre": "devotional",
+      "summary": "A letter describing four rungs of spiritual exercise: lectio, meditatio, oratio, contemplatio.",
+      "significance": "Classic definition of lectio divina, revived in the 20th century.",
+      "doctrineIds": [
+        "spirituality-prayer"
+      ],
+      "sources": [
+        "casey-sacred-reading"
+      ]
+    },
+    {
+      "id": "bonaventure-journey-of-the-mind",
+      "title": "The Soul’s Journey into God (Itinerarium mentis in Deum)",
+      "authorId": "bonaventure",
+      "year": 1259,
+      "circa": false,
+      "language": "Latin",
+      "genre": "devotional",
+      "summary": "Written on Mount La Verna, it traces an ascent through creation, the soul and the divine names to ecstatic union through the crucified Christ, modelled on Francis’s vision of the seraph.",
+      "significance": "Synthesis of Franciscan affective mysticism and scholastic theology.",
+      "doctrineIds": [
+        "spirituality-prayer"
+      ],
+      "sources": [
+        "mcginn-mysticism",
+        "vauchez-francis"
+      ]
+    },
+    {
+      "id": "cloud-of-unknowing",
+      "title": "The Cloud of Unknowing",
+      "author": "Anonymous English author",
+      "year": 1375,
+      "circa": true,
+      "language": "Middle English",
+      "genre": "devotional",
+      "summary": "Anonymous guide to contemplation teaching the reader to place created things beneath a \"cloud of forgetting\" and to reach toward God in the \"cloud of unknowing\" with a naked intent of love, perhaps using a single short word.",
+      "significance": "Classic of English apophatic mysticism and the source of Centering Prayer.",
+      "doctrineIds": [
+        "spirituality-prayer"
+      ],
+      "sources": [
+        "mcginn-mysticism",
+        "odcc"
+      ]
+    },
+    {
+      "id": "imitation-of-christ",
+      "title": "The Imitation of Christ (De imitatione Christi)",
+      "authorId": "thomas-a-kempis",
+      "year": 1427,
+      "circa": true,
+      "language": "Latin",
+      "genre": "devotional",
+      "summary": "Four books of counsel on the interior life, inward consolation and the Eucharist, urging humility, contempt of vain learning and union with Christ.",
+      "significance": "The defining book of the Devotio Moderna and one of the most translated Christian books.",
+      "doctrineIds": [
+        "spirituality-prayer"
+      ],
+      "sources": [
+        "van-engen-devotio",
+        "odcc"
+      ]
+    },
+    {
+      "id": "ignatius-spiritual-exercises",
+      "title": "Spiritual Exercises",
+      "authorId": "ignatius-of-loyola",
+      "year": 1548,
+      "circa": false,
+      "language": "Spanish",
+      "genre": "devotional",
+      "summary": "A four-week programme of meditations, contemplations of the Gospels and rules for discernment of spirits, to be given by a director to a retreatant.",
+      "significance": "Foundation of Jesuit formation and of the modern retreat; approved by Paul III in 1548.",
+      "doctrineIds": [
+        "spirituality-prayer"
+      ],
+      "sources": [
+        "ignatius-exercises-mullan",
+        "omalley-first-jesuits"
+      ],
+      "fullTextUrl": "https://www.ccel.org/ccel/ignatius/exercises.html"
+    },
+    {
+      "id": "teresa-interior-castle",
+      "title": "The Interior Castle (El castillo interior)",
+      "authorId": "teresa-of-avila",
+      "year": 1577,
+      "circa": false,
+      "language": "Spanish",
+      "genre": "devotional",
+      "summary": "Describes the soul as a castle of seven dwelling places through which one journeys by prayer toward spiritual marriage with God at the centre.",
+      "significance": "Classic map of the stages of prayer; Teresa was declared a Doctor of the Church in 1970.",
+      "doctrineIds": [
+        "spirituality-prayer"
+      ],
+      "sources": [
+        "teresa-life",
+        "mcginn-mysticism"
+      ]
+    },
+    {
+      "id": "john-cross-dark-night",
+      "title": "The Dark Night of the Soul",
+      "authorId": "john-of-the-cross",
+      "year": 1584,
+      "circa": true,
+      "language": "Spanish",
+      "genre": "devotional",
+      "summary": "Commentary on John’s poem \"On a dark night\" describing the passive purifications of sense and spirit by which God draws the soul to union.",
+      "significance": "Gave Christian spirituality the language of the \"dark night\".",
+      "doctrineIds": [
+        "spirituality-prayer"
+      ],
+      "sources": [
+        "john-cross-works",
+        "mcginn-mysticism"
+      ]
+    },
+    {
+      "id": "baxter-saints-everlasting-rest",
+      "title": "The Saints’ Everlasting Rest",
+      "authorId": "richard-baxter",
+      "year": 1650,
+      "circa": false,
+      "language": "English",
+      "genre": "devotional",
+      "summary": "Treatise on heaven with detailed directions for daily \"heavenly meditation\", engaging understanding, affections and imagination.",
+      "significance": "The classic manual of Puritan meditation, reprinted for two centuries.",
+      "doctrineIds": [
+        "spirituality-prayer"
+      ],
+      "sources": [
+        "hambrick-stowe-practice-piety",
+        "coffey-lim-puritanism"
+      ]
+    },
+    {
+      "id": "molinos-spiritual-guide",
+      "title": "The Spiritual Guide (Guía espiritual)",
+      "authorId": "miguel-de-molinos",
+      "year": 1675,
+      "circa": false,
+      "language": "Spanish",
+      "genre": "devotional",
+      "summary": "Guide to interior recollection and passive contemplation through annihilation of self-will.",
+      "significance": "Best-seller later condemned as quietist (1687).",
+      "doctrineIds": [
+        "spirituality-prayer"
+      ],
+      "sources": [
+        "knox-enthusiasm"
+      ]
+    },
+    {
+      "id": "philokalia",
+      "title": "The Philokalia",
+      "authorId": "nicodemus-the-hagiorite",
+      "year": 1782,
+      "circa": false,
+      "language": "Greek",
+      "genre": "devotional",
+      "summary": "Anthology of texts by some thirty-six authors from the 4th to the 15th century on watchfulness, the Jesus Prayer and the purification of the heart, compiled by Nicodemus and Macarius of Corinth.",
+      "significance": "Sparked a hesychast revival in Greece, Romania and Russia (Slavonic Dobrotolubiye, 1793).",
+      "doctrineIds": [
+        "spirituality-prayer",
+        "salvation"
+      ],
+      "sources": [
+        "philokalia-palmer-sherrard-ware",
+        "ware-orthodox-church"
+      ]
+    },
+    {
+      "id": "way-of-a-pilgrim",
+      "title": "The Way of a Pilgrim (Otkrovennye rasskazy strannika)",
+      "author": "Anonymous Russian author",
+      "year": 1881,
+      "circa": false,
+      "language": "Russian",
+      "genre": "devotional",
+      "summary": "Anonymous first-person narrative of a Russian wanderer who learns from a starets and the Philokalia to pray the Jesus Prayer unceasingly. First printed at Kazan in 1881 (circulating in manuscript earlier).",
+      "significance": "Popularised the Jesus Prayer in Russia and, in translation, worldwide.",
+      "doctrineIds": [
+        "spirituality-prayer"
+      ],
+      "sources": [
+        "ware-orthodox-church",
+        "sheldrake-spirituality"
+      ]
+    },
+    {
+      "id": "wesley-sermon-means-of-grace",
+      "title": "Sermon 16: The Means of Grace",
+      "authorId": "john-wesley",
+      "year": 1746,
+      "circa": false,
+      "language": "English",
+      "genre": "sermon",
+      "summary": "Defends prayer, searching the Scriptures and the Lord’s Supper as ordinary channels of grace against Moravian \"stillness\" teaching that seekers should wait without using ordinances.",
+      "significance": "Classic statement of Methodist spiritual discipline.",
+      "doctrineIds": [
+        "spirituality-prayer",
+        "church-sacraments"
+      ],
+      "sources": [
+        "wesley-sermon-16",
+        "heitzenrater-wesley"
+      ],
+      "fullTextUrl": "https://www.ccel.org/ccel/wesley/sermons.v.xvi.html"
+    },
+    {
+      "id": "keating-open-mind-open-heart",
+      "title": "Open Mind, Open Heart",
+      "authorId": "thomas-keating",
+      "year": 1986,
+      "circa": false,
+      "language": "English",
+      "genre": "devotional",
+      "summary": "Manual of Centering Prayer: choosing a sacred word as a symbol of consent to God’s presence and returning to it when distracted.",
+      "significance": "Main text of the Centering Prayer movement.",
+      "doctrineIds": [
+        "spirituality-prayer"
+      ],
+      "sources": [
+        "keating-open-mind"
+      ]
+    },
+    {
+      "id": "carmina-gadelica",
+      "title": "Carmina Gadelica",
+      "author": "Alexander Carmichael (collector)",
+      "year": 1900,
+      "circa": false,
+      "language": "Scottish Gaelic",
+      "genre": "liturgy",
+      "summary": "Collection of prayers, blessings and charms gathered orally in the Scottish Highlands and Islands by Alexander Carmichael, with English translations.",
+      "significance": "Main source of the modern \"Celtic spirituality\" revival; scholars debate how far Carmichael polished the texts.",
+      "doctrineIds": [
+        "spirituality-prayer"
+      ],
+      "sources": [
+        "carmina-gadelica-src",
+        "bradley-celtic"
+      ]
+    },
+    {
+      "id": "luther-simple-way-to-pray",
+      "title": "A Simple Way to Pray",
+      "authorId": "martin-luther",
+      "year": 1535,
+      "circa": false,
+      "language": "German",
+      "genre": "devotional",
+      "summary": "Letter to his barber Peter Beskendorf showing how to pray through the Lord’s Prayer, the Ten Commandments and the Creed, letting each phrase become a \"garland\" of instruction, thanksgiving, confession and petition.",
+      "significance": "A model of Word-centred Protestant prayer.",
+      "doctrineIds": [
+        "spirituality-prayer"
+      ],
+      "sources": [
+        "mcgrath-reformation-thought"
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "id": "benedict-idleness-enemy",
+      "text": "Idleness is the enemy of the soul.",
+      "kind": "quotation",
+      "personId": "benedict-of-nursia",
+      "citation": "Rule of St Benedict, ch. 48 (\"Otiositas inimica est animae\")",
+      "workId": "rule-of-benedict",
+      "translation": "Standard literal English rendering of the Latin",
+      "year": 530,
+      "topics": [
+        "monasticism",
+        "work and prayer"
+      ],
+      "doctrineIds": [
+        "spirituality-prayer"
+      ]
+    },
+    {
+      "id": "evagrius-theologian-prays",
+      "text": "Evagrius taught that the one who prays truly is a theologian, and that the theologian is one who prays truly: knowledge of God is the fruit of pure prayer.",
+      "kind": "paraphrase",
+      "personId": "evagrius-ponticus",
+      "citation": "Evagrius, Chapters on Prayer 60 (paraphrase)",
+      "workId": "evagrius-chapters-on-prayer",
+      "year": 390,
+      "topics": [
+        "prayer",
+        "theology"
+      ],
+      "doctrineIds": [
+        "spirituality-prayer",
+        "theological-schools"
+      ]
+    },
+    {
+      "id": "guigo-four-rungs",
+      "text": "Guigo described reading as seeking the sweetness of the blessed life, meditation as finding it, prayer as asking for it and contemplation as tasting it.",
+      "kind": "paraphrase",
+      "personId": "guigo-ii",
+      "citation": "Guigo II, The Ladder of Monks 2-3 (paraphrase)",
+      "workId": "guigo-ladder-of-monks",
+      "year": 1160,
+      "topics": [
+        "lectio divina"
+      ],
+      "doctrineIds": [
+        "spirituality-prayer"
+      ]
+    },
+    {
+      "id": "francis-canticle-creatures",
+      "text": "In his Canticle of the Creatures Francis praised God through \"Brother Sun\", \"Sister Moon\", wind, water, fire and \"Sister Bodily Death\", making all creation a choir of praise.",
+      "kind": "paraphrase",
+      "personId": "francis-of-assisi",
+      "citation": "Francis of Assisi, Canticle of the Creatures (1225) (paraphrase)",
+      "year": 1225,
+      "topics": [
+        "creation",
+        "Franciscan"
+      ],
+      "doctrineIds": [
+        "spirituality-prayer"
+      ]
+    },
+    {
+      "id": "eckhart-rid-of-god",
+      "text": "Eckhart prayed to be free of \"God\" as an idea or object of the mind, so as to find the Godhead in the ground of the soul where God gives birth to the Son.",
+      "kind": "paraphrase",
+      "personId": "meister-eckhart",
+      "citation": "Eckhart, German Sermon 52 \"Beati pauperes spiritu\" (paraphrase)",
+      "year": 1320,
+      "topics": [
+        "mysticism",
+        "detachment"
+      ],
+      "doctrineIds": [
+        "spirituality-prayer"
+      ]
+    },
+    {
+      "id": "kempis-day-of-judgement",
+      "text": "The Imitation teaches that at the day of judgement we will be asked not what we have read but what we have done, not how well we have spoken but how devoutly we have lived.",
+      "kind": "paraphrase",
+      "personId": "thomas-a-kempis",
+      "citation": "Imitation of Christ I.3 (paraphrase)",
+      "workId": "imitation-of-christ",
+      "year": 1427,
+      "topics": [
+        "devotio moderna",
+        "practice"
+      ],
+      "doctrineIds": [
+        "spirituality-prayer"
+      ]
+    },
+    {
+      "id": "ignatius-principle-foundation",
+      "text": "Man is created to praise, reverence, and serve God our Lord, and by this means to save his soul.",
+      "kind": "quotation",
+      "personId": "ignatius-of-loyola",
+      "citation": "Ignatius of Loyola, Spiritual Exercises 23, \"First Principle and Foundation\" (tr. Elder Mullan, 1914)",
+      "workId": "ignatius-spiritual-exercises",
+      "translation": "Elder Mullan (1914)",
+      "year": 1548,
+      "topics": [
+        "Ignatian spirituality",
+        "discernment"
+      ],
+      "doctrineIds": [
+        "spirituality-prayer"
+      ]
+    },
+    {
+      "id": "teresa-castle-diamond",
+      "text": "Teresa invited her sisters to think of the soul as a castle made of a single diamond or very clear crystal, with many rooms, at whose centre God dwells; the door into it is prayer.",
+      "kind": "paraphrase",
+      "personId": "teresa-of-avila",
+      "citation": "Teresa of Ávila, Interior Castle I.1 (paraphrase)",
+      "workId": "teresa-interior-castle",
+      "year": 1577,
+      "topics": [
+        "Carmelite",
+        "prayer"
+      ],
+      "doctrineIds": [
+        "spirituality-prayer"
+      ]
+    },
+    {
+      "id": "john-cross-dark-night-para",
+      "text": "John taught that God leads the soul through a dark night in which consolations are withdrawn, not as punishment but as a loving purification that prepares it for union.",
+      "kind": "paraphrase",
+      "personId": "john-of-the-cross",
+      "citation": "John of the Cross, Dark Night I.8-10 (paraphrase)",
+      "workId": "john-cross-dark-night",
+      "year": 1584,
+      "topics": [
+        "Carmelite",
+        "dark night"
+      ],
+      "doctrineIds": [
+        "spirituality-prayer"
+      ]
+    },
+    {
+      "id": "baxter-heavenly-meditation",
+      "text": "Baxter urged believers to set apart a daily time to meditate on heaven, warming the heart by considering the saints’ rest and pleading with their own souls.",
+      "kind": "paraphrase",
+      "personId": "richard-baxter",
+      "citation": "Baxter, The Saints’ Everlasting Rest, part 4 (paraphrase)",
+      "workId": "baxter-saints-everlasting-rest",
+      "year": 1650,
+      "topics": [
+        "Puritan meditation"
+      ],
+      "doctrineIds": [
+        "spirituality-prayer"
+      ]
+    },
+    {
+      "id": "fox-speak-to-thy-condition",
+      "text": "There is one, even Christ Jesus, that can speak to thy condition",
+      "kind": "quotation",
+      "personId": "george-fox",
+      "citation": "George Fox, Journal, entry for 1647",
+      "year": 1647,
+      "topics": [
+        "Quaker",
+        "inward light"
+      ],
+      "doctrineIds": [
+        "spirituality-prayer"
+      ]
+    },
+    {
+      "id": "wesley-means-of-grace-definition",
+      "text": "By \"means of grace\" I understand outward signs, words, or actions, ordained of God, and appointed for this end, to be the ordinary channels whereby he might convey to men, preventing, justifying, or sanctifying grace.",
+      "kind": "quotation",
+      "personId": "john-wesley",
+      "citation": "John Wesley, Sermon 16 \"The Means of Grace\" II.1 (1746)",
+      "workId": "wesley-sermon-means-of-grace",
+      "year": 1746,
+      "topics": [
+        "Methodism",
+        "means of grace"
+      ],
+      "doctrineIds": [
+        "spirituality-prayer",
+        "church-sacraments"
+      ]
+    },
+    {
+      "id": "zinzendorf-heart-religion",
+      "text": "Zinzendorf taught a \"religion of the heart\": a childlike, joyful love for the crucified Saviour felt in the heart matters more than doctrinal precision.",
+      "kind": "paraphrase",
+      "personId": "nicolaus-zinzendorf",
+      "citation": "Zinzendorf, Berlin and London discourses (1738-46) (paraphrase)",
+      "year": 1740,
+      "topics": [
+        "Moravian",
+        "heart religion"
+      ],
+      "doctrineIds": [
+        "spirituality-prayer"
+      ]
+    },
+    {
+      "id": "nicodemus-philokalia-for-all",
+      "text": "Nicodemus prefaced the Philokalia by insisting that unceasing prayer and watchfulness are not only for monks but for all Christians, including lay people in the world.",
+      "kind": "paraphrase",
+      "personId": "nicodemus-the-hagiorite",
+      "citation": "Nicodemus, introduction to the Philokalia (1782) (paraphrase)",
+      "workId": "philokalia",
+      "year": 1782,
+      "topics": [
+        "Jesus Prayer",
+        "Philokalia"
+      ],
+      "doctrineIds": [
+        "spirituality-prayer"
+      ]
+    },
+    {
+      "id": "seraphim-acquire-spirit-peace",
+      "text": "Seraphim of Sarov is remembered for teaching that the goal of the Christian life is the acquisition of the Holy Spirit, and that one who acquires inner peace will help thousands around him to be saved.",
+      "kind": "paraphrase",
+      "personId": "seraphim-of-sarov",
+      "citation": "Conversation with Motovilov (1831) and spiritual instructions (paraphrase)",
+      "year": 1831,
+      "topics": [
+        "Orthodox spirituality",
+        "Holy Spirit"
+      ],
+      "doctrineIds": [
+        "spirituality-prayer",
+        "holy-spirit"
+      ]
+    },
+    {
+      "id": "luther-garland-prayer",
+      "text": "Luther advised praying through each petition of the Lord’s Prayer and each commandment as a garland of four strands: instruction, thanksgiving, confession and prayer, keeping the heart bound to the Word.",
+      "kind": "paraphrase",
+      "personId": "martin-luther",
+      "citation": "Luther, A Simple Way to Pray (1535) (paraphrase)",
+      "workId": "luther-simple-way-to-pray",
+      "year": 1535,
+      "topics": [
+        "prayer",
+        "Word"
+      ],
+      "doctrineIds": [
+        "spirituality-prayer"
+      ]
+    },
+    {
+      "id": "calvin-prayer-exercise-faith",
+      "text": "Calvin called prayer the chief exercise of faith, by which believers daily receive God’s benefits; it rests on God’s promises in the Word and is offered through Christ the only mediator.",
+      "kind": "paraphrase",
+      "personId": "john-calvin",
+      "citation": "Calvin, Institutes III.20 (paraphrase)",
+      "workId": "calvin-institutes",
+      "year": 1559,
+      "topics": [
+        "prayer",
+        "Reformed"
+      ],
+      "doctrineIds": [
+        "spirituality-prayer"
+      ]
+    },
+    {
+      "id": "molinos-annihilation",
+      "text": "Molinos taught that the soul should rest in God in silent, passive faith, annihilating its own will and activity, and not be troubled by distractions or temptations.",
+      "kind": "paraphrase",
+      "personId": "miguel-de-molinos",
+      "citation": "Molinos, Spiritual Guide (1675) (paraphrase)",
+      "workId": "molinos-spiritual-guide",
+      "year": 1675,
+      "topics": [
+        "quietism"
+      ],
+      "doctrineIds": [
+        "spirituality-prayer"
+      ]
+    },
+    {
+      "id": "merton-contemplation-awareness",
+      "text": "Merton described contemplation as a vivid awakening to the reality of God within and beyond us, a gift rather than a technique, which frees the true self from the illusions of the false self.",
+      "kind": "paraphrase",
+      "personId": "thomas-merton",
+      "citation": "Merton, New Seeds of Contemplation (1961), ch. 1 (paraphrase)",
+      "year": 1961,
+      "topics": [
+        "contemplation"
+      ],
+      "doctrineIds": [
+        "spirituality-prayer"
+      ]
+    },
+    {
+      "id": "keating-consent",
+      "text": "Keating taught that in Centering Prayer one does not empty the mind as a technique but consents to God’s presence and action within, returning gently to a sacred word when distracted.",
+      "kind": "paraphrase",
+      "personId": "thomas-keating",
+      "citation": "Keating, Open Mind, Open Heart (1986) (paraphrase)",
+      "workId": "keating-open-mind-open-heart",
+      "year": 1986,
+      "topics": [
+        "Centering Prayer"
+      ],
+      "doctrineIds": [
+        "spirituality-prayer"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "eckhart-condemned-1329",
+      "title": "Bull In agro dominico condemns propositions of Meister Eckhart",
+      "year": 1329,
+      "circa": false,
+      "place": {
+        "name": "Avignon",
+        "lat": 43.9493,
+        "lng": 4.8055
+      },
+      "category": "intellectual",
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "On 27 March 1329 Pope John XXII, at Avignon, condemned 28 propositions drawn from Meister Eckhart’s works (17 as heretical, 11 as suspect), after a trial begun at Cologne in 1326. Eckhart had died c.1328 having submitted in advance to the Church’s judgement.",
+      "causes": [
+        "Suspicion of Eckhart’s vernacular preaching on the soul’s union with God",
+        "Concern about the Free Spirit movement"
+      ],
+      "consequences": [
+        "Discouraged speculative vernacular mysticism; Tauler and Suso taught more cautiously",
+        "Eckhart’s reputation was revived by modern scholarship and interreligious dialogue"
+      ],
+      "peopleIds": [
+        "meister-eckhart"
+      ],
+      "doctrineIds": [
+        "spirituality-prayer"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "sources": [
+        "mcginn-eckhart",
+        "mcginn-mysticism"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "quietism-condemned-1687",
+      "title": "Innocent XI condemns Molinos and quietism",
+      "year": 1687,
+      "circa": false,
+      "place": {
+        "name": "Rome",
+        "lat": 41.9029,
+        "lng": 12.4534
+      },
+      "category": "intellectual",
+      "regions": [
+        "italy",
+        "western-europe"
+      ],
+      "summary": "In the bull Coelestis Pastor (20 November 1687) Innocent XI condemned 68 propositions attributed to Miguel de Molinos, who had abjured publicly and was sentenced to life imprisonment. The French sequel led to the condemnation of 23 propositions from Fénelon’s Maxims of the Saints in 1699.",
+      "causes": [
+        "Popularity of passive \"prayer of quiet\"",
+        "Fear that it undermined vocal prayer, sacraments and moral effort"
+      ],
+      "consequences": [
+        "Made Catholic authorities wary of mystical prayer for two centuries",
+        "Guyon and Molinos found readers among Protestant Pietists and Quakers"
+      ],
+      "peopleIds": [
+        "miguel-de-molinos",
+        "madame-guyon"
+      ],
+      "doctrineIds": [
+        "spirituality-prayer"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "sources": [
+        "knox-enthusiasm",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "keswick-convention-1875",
+      "title": "First Keswick Convention",
+      "year": 1875,
+      "circa": false,
+      "place": {
+        "name": "Keswick",
+        "lat": 54.6013,
+        "lng": -3.1347
+      },
+      "category": "revival",
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "In July 1875 Canon T. D. Harford-Battersby hosted the first convention \"for the promotion of practical holiness\" at Keswick in the English Lake District, following the Higher Life meetings of Robert and Hannah Whitall Smith.",
+      "causes": [
+        "Holiness and Higher Life teaching from America",
+        "Evangelical desire for victorious Christian living"
+      ],
+      "consequences": [
+        "Annual conventions spread worldwide and shaped evangelical missions spirituality"
+      ],
+      "peopleIds": [
+        "hannah-whitall-smith"
+      ],
+      "doctrineIds": [
+        "spirituality-prayer",
+        "salvation"
+      ],
+      "traditionIds": [
+        "anglican",
+        "evangelical"
+      ],
+      "sources": [
+        "bundy-keswick",
+        "bebbington-evangelicalism"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "doctrines": [
+    {
+      "id": "spirituality-prayer",
+      "name": "Spirituality, prayer and the spiritual life",
+      "icon": "dove",
+      "order": 22,
+      "question": "How do Christians pray and seek union with God, and which ways of the spiritual life are faithful?",
+      "summary": "From the Desert Fathers to Korean dawn prayer, Christians have developed many schools of prayer: monastic rule and lectio divina, the Jesus Prayer of the hesychasts, Franciscan and Rhineland mysticism, the Devotio Moderna, Ignatian discernment and Carmelite contemplation, Puritan meditation, Pietist heart religion, Quaker silence, Wesley’s means of grace, Keswick surrender, Pentecostal tongues and the modern contemplative revival. Alongside them run perennial disputes: mysticism versus Word-centred piety, monastic asceticism versus vocation in the world, the invocation of saints, and whether contemplative techniques are biblical.",
+      "longText": "Christian prayer begins with the Psalms and with Jesus’ teaching: pray in secret, say \"Our Father\", do not heap up empty phrases, and pray always. Paul spoke of being caught up to the third heaven and of believers beholding the Lord’s glory and being transformed. From these seeds grew a remarkable variety of spiritual traditions.\n\nIn late-3rd-century Egypt, Antony and the Desert Fathers and Mothers sought God through solitude, fasting, manual work and the guidance of elders; Evagrius and Cassian systematised their wisdom, and Benedict’s Rule (c.530) shaped Western monastic life around the Office, sacred reading and work. Irish and British monks joined severe asceticism to mission. In the East, the practice of repeating the name of Jesus in stillness became hesychasm, defended by Gregory Palamas and upheld by councils at Constantinople (1341, 1351). In the medieval West, Guigo II defined lectio divina, Francis of Assisi embraced poverty and creation, the Rhineland Dominicans preached detachment and the birth of God in the soul (Eckhart’s propositions were condemned in 1329), anchoresses such as Julian of Norwich recorded visions of divine love, and the Devotio Moderna produced The Imitation of Christ.\n\nThe Reformation challenged much of this. Luther and Calvin rejected monastic vows, ladders of ascent and the invocation of saints, grounding prayer in the Word and Christ’s sole mediation, yet Protestants soon developed their own disciplines: Puritan meditation, Pietist and Moravian heart religion (with Herrnhut’s hundred-year prayer watch from 1727), Quaker silent worship and Wesley’s methodical use of the means of grace. Catholic reform produced Ignatius’s Spiritual Exercises and the Carmelite mysticism of Teresa of Ávila and John of the Cross, while Rome condemned quietism (1687, 1699). The Orthodox Philokalia (1782) and the Russian elders made the Jesus Prayer available to lay people.\n\nModern movements have multiplied the options. The Keswick convention (1875) taught a rest of faith; Korean believers have prayed together before dawn since 1906, and African prayer churches and revivals made all-night prayer central; Pentecostal and charismatic Christians pray in tongues and for healing; Thomas Merton and the Centering Prayer movement revived contemplative silence, drawing both enthusiasm and critique (including a 1989 Vatican letter on Christian meditation and many evangelical objections). The atlas presents each school in the words of its practitioners, then the objections of others, without ranking them.",
+      "flow": {
+        "nodes": [
+          {
+            "id": "q",
+            "kind": "question",
+            "label": "How do Christians pray and seek union with God, and which ways of the spiritual life are faithful?",
+            "text": "Christians are told to pray without ceasing and promised that the pure in heart will see God. But should one seek God in solitude or in the world, through Scripture or beyond words, through set methods or spontaneous outpouring, through saints’ prayers or Christ alone? Every tradition has answered with its own school of prayer.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-meditate",
+            "kind": "scripture",
+            "label": "Psalm 1:2 and Psalm 46:10: meditate day and night; be still",
+            "year": -500,
+            "text": "The Psalter (compiled over centuries, completed in the Persian period) gives Jews and Christians their prayer book: meditation on the law, lament, praise and stillness before God.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-closet",
+            "kind": "scripture",
+            "label": "Matthew 6:5-13: pray in secret; the Lord’s Prayer; no vain repetitions",
+            "year": 30,
+            "text": "Jesus teaches secret prayer, gives the Our Father and warns against heaping up empty phrases, texts invoked both for and against repetitive prayer.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-ceasing",
+            "kind": "scripture",
+            "label": "1 Thessalonians 5:17 and Luke 18:13: pray without ceasing; \"God be merciful to me a sinner\"",
+            "year": 50,
+            "text": "Paul’s command and the tax collector’s plea become the seed of the Jesus Prayer and of unceasing prayer in East and West.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-caught-up",
+            "kind": "scripture",
+            "label": "2 Corinthians 12:2-4 and 3:18: caught up to the third heaven; beholding his glory",
+            "year": 55,
+            "text": "Paul’s rapture and the promise of transformation \"from glory to glory\" are foundational for Christian mystical theology, though Paul refuses to boast of visions.",
+            "quoteIds": []
+          },
+          {
+            "id": "p-desert",
+            "kind": "position",
+            "label": "The desert: Antony and the abbas and ammas",
+            "year": 270,
+            "text": "Antony’s withdrawal (c.270) and the communities of Egypt make the desert the school of prayer, watchfulness and humility.",
+            "ref": {
+              "type": "position",
+              "id": "desert-spirituality"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "v-evagrius",
+            "kind": "voice",
+            "label": "Evagrius: the theologian is one who prays truly",
+            "year": 390,
+            "text": "Evagrius systematises desert wisdom: the eight thoughts, dispassion and imageless pure prayer.",
+            "ref": {
+              "type": "person",
+              "id": "evagrius-ponticus"
+            },
+            "quoteIds": [
+              "evagrius-theologian-prays"
+            ]
+          },
+          {
+            "id": "v-augustine",
+            "kind": "voice",
+            "label": "Augustine: \"our heart is restless until it rest in thee\"",
+            "year": 397,
+            "text": "The Confessions turn autobiography into prayer and make desire for God the engine of the spiritual life in the West.",
+            "ref": {
+              "type": "person",
+              "id": "augustine-of-hippo"
+            },
+            "quoteIds": [
+              "augustine-restless-heart"
+            ]
+          },
+          {
+            "id": "p-benedictine",
+            "kind": "position",
+            "label": "Benedict’s Rule: prayer, reading and work",
+            "year": 529,
+            "text": "The Rule orders a day of Office, lectio divina and labour under an abbot, the backbone of Western monasticism.",
+            "ref": {
+              "type": "position",
+              "id": "benedictine-spirituality"
+            },
+            "quoteIds": [
+              "benedict-idleness-enemy"
+            ]
+          },
+          {
+            "id": "p-celtic",
+            "kind": "position",
+            "label": "Celtic monastic spirituality",
+            "year": 563,
+            "text": "Columba’s Iona and the Irish monks combine severe asceticism, pilgrimage, blessing prayers and mission.",
+            "ref": {
+              "type": "position",
+              "id": "celtic-spirituality"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-lectio",
+            "kind": "position",
+            "label": "Lectio divina: the ladder of reading, meditation, prayer, contemplation",
+            "year": 1160,
+            "text": "Guigo II formulates the monastic practice of sacred reading in four rungs.",
+            "ref": {
+              "type": "position",
+              "id": "lectio-divina"
+            },
+            "quoteIds": [
+              "guigo-four-rungs"
+            ]
+          },
+          {
+            "id": "p-franciscan",
+            "kind": "position",
+            "label": "Francis: poverty, creation and the crucified",
+            "year": 1209,
+            "text": "Francis and his brothers embrace poverty and praise God through all creatures; his stigmata (1224) seal a spirituality of the cross.",
+            "ref": {
+              "type": "position",
+              "id": "franciscan-spirituality"
+            },
+            "quoteIds": [
+              "francis-canticle-creatures"
+            ]
+          },
+          {
+            "id": "p-rhineland",
+            "kind": "position",
+            "label": "Eckhart and the Rhineland mystics",
+            "year": 1300,
+            "text": "German Dominicans preach detachment and the birth of God in the ground of the soul.",
+            "ref": {
+              "type": "position",
+              "id": "rhineland-mysticism"
+            },
+            "quoteIds": [
+              "eckhart-rid-of-god"
+            ]
+          },
+          {
+            "id": "d-1329",
+            "kind": "decision",
+            "label": "In agro dominico (1329): Eckhart’s propositions condemned",
+            "year": 1329,
+            "text": "John XXII condemns 28 propositions drawn from Eckhart’s works, a warning to speculative mysticism.",
+            "ref": {
+              "type": "event",
+              "id": "eckhart-condemned-1329"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-hesychasm",
+            "kind": "position",
+            "label": "Hesychasm and the Jesus Prayer",
+            "year": 1341,
+            "text": "On Athos, Gregory Palamas defends monks who pray the Jesus Prayer in stillness and see the uncreated light.",
+            "ref": {
+              "type": "position",
+              "id": "hesychasm-jesus-prayer"
+            },
+            "quoteIds": [
+              "palamas-energies"
+            ]
+          },
+          {
+            "id": "d-hesychast",
+            "kind": "decision",
+            "label": "Councils of Constantinople uphold Palamas (1341, 1351)",
+            "year": 1351,
+            "text": "The Byzantine Church vindicates hesychast prayer and the essence-energies distinction against Barlaam and Akindynos.",
+            "ref": {
+              "type": "event",
+              "id": "hesychast-controversy-1341"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "v-julian",
+            "kind": "voice",
+            "label": "Julian of Norwich: \"all shall be well\"",
+            "year": 1373,
+            "text": "An English anchoress records sixteen showings of divine love, a witness of mystical experience from within an enclosed parish life.",
+            "ref": {
+              "type": "experience",
+              "id": "julian-of-norwich-showings"
+            },
+            "quoteIds": [
+              "julian-all-shall-be-well"
+            ]
+          },
+          {
+            "id": "p-devotio",
+            "kind": "position",
+            "label": "Devotio Moderna and The Imitation of Christ",
+            "year": 1418,
+            "text": "Lay brothers and sisters in the Low Countries cultivate methodical, Christ-centred inward devotion.",
+            "ref": {
+              "type": "position",
+              "id": "devotio-moderna-piety"
+            },
+            "quoteIds": [
+              "kempis-day-of-judgement"
+            ]
+          },
+          {
+            "id": "a-word",
+            "kind": "argument",
+            "label": "Reformers: faith comes by hearing, not by ascent",
+            "year": 1521,
+            "text": "Luther and Calvin reject ladders of mystical ascent, monastic vows and saints’ invocation in favour of prayer grounded in the Word and offered through Christ alone.",
+            "ref": {
+              "type": "position",
+              "id": "word-centred-piety"
+            },
+            "quoteIds": [
+              "luther-garland-prayer",
+              "calvin-prayer-exercise-faith"
+            ]
+          },
+          {
+            "id": "a-saints",
+            "kind": "argument",
+            "label": "Should we ask the saints to pray for us?",
+            "year": 1530,
+            "text": "The Augsburg Confession (art. 21) and Calvin reject invocation of saints; Catholics, Orthodox and Oriental Orthodox defend it as fellowship with the communion of saints.",
+            "ref": {
+              "type": "position",
+              "id": "intercession-of-saints"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "c-dissolution",
+            "kind": "consequence",
+            "label": "Monasteries dissolved in Protestant lands",
+            "year": 1536,
+            "text": "Reformers redirect asceticism into everyday vocation; England dissolves its monasteries (1536-40). Catholic reform responds with new orders.",
+            "ref": {
+              "type": "position",
+              "id": "protestant-vocation-asceticism"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-ignatian",
+            "kind": "position",
+            "label": "Ignatius: the Spiritual Exercises and discernment",
+            "year": 1548,
+            "text": "The Exercises teach imaginative Gospel contemplation and the discernment of spirits for decisions and mission.",
+            "ref": {
+              "type": "position",
+              "id": "ignatian-spirituality"
+            },
+            "quoteIds": [
+              "ignatius-principle-foundation"
+            ]
+          },
+          {
+            "id": "p-carmelite",
+            "kind": "position",
+            "label": "Teresa and John: the interior castle and the dark night",
+            "year": 1577,
+            "text": "The Carmelite reformers map the soul’s journey to union through prayer and purifying darkness.",
+            "ref": {
+              "type": "position",
+              "id": "carmelite-mysticism"
+            },
+            "quoteIds": [
+              "teresa-castle-diamond",
+              "john-cross-dark-night-para"
+            ]
+          },
+          {
+            "id": "p-puritan",
+            "kind": "position",
+            "label": "Puritan meditation and the practice of piety",
+            "year": 1650,
+            "text": "Baxter and others teach daily Scripture meditation, secret prayer and self-examination.",
+            "ref": {
+              "type": "position",
+              "id": "puritan-meditation"
+            },
+            "quoteIds": [
+              "baxter-heavenly-meditation"
+            ]
+          },
+          {
+            "id": "p-quaker",
+            "kind": "position",
+            "label": "Quaker silence: waiting on the inward light",
+            "year": 1652,
+            "text": "Fox’s Friends worship in expectant silence without liturgy or clergy.",
+            "ref": {
+              "type": "position",
+              "id": "quaker-silence-inward-prayer"
+            },
+            "quoteIds": [
+              "fox-speak-to-thy-condition"
+            ]
+          },
+          {
+            "id": "d-quietism",
+            "kind": "decision",
+            "label": "Quietism condemned (1687, 1699)",
+            "year": 1687,
+            "text": "Rome condemns Molinos’s passive prayer of quiet and later Fénelon’s Maxims; Catholic authorities grow wary of mystical prayer.",
+            "ref": {
+              "type": "event",
+              "id": "quietism-condemned-1687"
+            },
+            "quoteIds": [
+              "molinos-annihilation"
+            ]
+          },
+          {
+            "id": "p-heart",
+            "kind": "position",
+            "label": "Pietist and Moravian heart religion",
+            "year": 1727,
+            "text": "Herrnhut’s Pentecost (1727) launches a century of continuous prayer and mission centred on love for the crucified Saviour.",
+            "ref": {
+              "type": "position",
+              "id": "heart-religion-pietist-moravian"
+            },
+            "quoteIds": [
+              "zinzendorf-heart-religion"
+            ]
+          },
+          {
+            "id": "p-wesley",
+            "kind": "position",
+            "label": "Wesley: the means of grace",
+            "year": 1746,
+            "text": "Against Moravian \"stillness\", Wesley teaches that prayer, Scripture and the Lord’s Supper are ordinary channels of grace on the way to perfect love.",
+            "ref": {
+              "type": "position",
+              "id": "wesleyan-means-of-grace"
+            },
+            "quoteIds": [
+              "wesley-means-of-grace-definition",
+              "wesley-heart-strangely-warmed"
+            ]
+          },
+          {
+            "id": "p-philokalia",
+            "kind": "position",
+            "label": "The Philokalia and the Russian elders",
+            "year": 1782,
+            "text": "Nicodemus and Macarius publish the hesychast anthology; Paisius, Seraphim of Sarov, Optina and the Way of a Pilgrim spread the Jesus Prayer.",
+            "ref": {
+              "type": "position",
+              "id": "philokalic-revival"
+            },
+            "quoteIds": [
+              "nicodemus-philokalia-for-all",
+              "seraphim-acquire-spirit-peace"
+            ]
+          },
+          {
+            "id": "p-keswick",
+            "kind": "position",
+            "label": "Keswick: the rest of faith",
+            "year": 1875,
+            "text": "The Higher Life movement teaches surrender and abiding as the secret of the victorious Christian life.",
+            "ref": {
+              "type": "position",
+              "id": "keswick-higher-life"
+            },
+            "quoteIds": [
+              "smith-rest-of-faith"
+            ]
+          },
+          {
+            "id": "p-dawn",
+            "kind": "position",
+            "label": "Korean dawn prayer and African prayer movements",
+            "year": 1906,
+            "text": "Daily dawn prayer from Pyongyang (1906-07), prayer mountains, Aladura vigils and the East African Revival make corporate prayer the engine of growth.",
+            "ref": {
+              "type": "position",
+              "id": "dawn-prayer-movements"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-charismatic",
+            "kind": "position",
+            "label": "Pentecostal and charismatic prayer",
+            "year": 1960,
+            "text": "Praying in tongues, prayer for healing and expectant worship spread from Azusa Street to the historic churches through the charismatic renewal.",
+            "ref": {
+              "type": "position",
+              "id": "charismatic-prayer"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-contemplative",
+            "kind": "position",
+            "label": "Merton and Centering Prayer",
+            "year": 1975,
+            "text": "Trappists and others offer the contemplative tradition to lay Christians; Protestants join through the spiritual formation movement.",
+            "ref": {
+              "type": "position",
+              "id": "contemplative-revival"
+            },
+            "quoteIds": [
+              "merton-contemplation-awareness",
+              "keating-consent"
+            ]
+          },
+          {
+            "id": "a-critique",
+            "kind": "argument",
+            "label": "Is contemplative prayer biblical? Cautions and critiques",
+            "year": 1989,
+            "text": "The CDF’s 1989 letter and evangelical critics warn against mind-emptying techniques and borrowing from non-Christian meditation; contemplatives answer that their sources are Christian.",
+            "ref": {
+              "type": "position",
+              "id": "contemplative-prayer-critique"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "m-global",
+            "kind": "modern",
+            "label": "Global prayer today: vigils, prayer mountains and 24-7 prayer",
+            "year": 2010,
+            "text": "Most praying Christians now live in the Global South, where all-night vigils, prayer camps and Pentecostal worship are normal; 24-hour prayer movements have spread worldwide.",
+            "ref": {
+              "type": "position",
+              "id": "global-south-christianity"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "m-today",
+            "kind": "modern",
+            "label": "Today: an ecumenical exchange of spiritual practices",
+            "year": 2025,
+            "text": "Evangelicals practise lectio divina and silence, Catholics join charismatic prayer, Orthodox prayer ropes and Taizé chants cross borders, while debates continue about mysticism, technique, saints and Scripture.",
+            "ref": {
+              "type": "position",
+              "id": "contemplative-revival"
+            },
+            "quoteIds": []
+          }
+        ],
+        "edges": [
+          {
+            "from": "q",
+            "to": "s-meditate",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q",
+            "to": "s-closet",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q",
+            "to": "s-ceasing",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q",
+            "to": "s-caught-up",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-closet",
+            "to": "p-desert",
+            "kind": "supports"
+          },
+          {
+            "from": "s-ceasing",
+            "to": "p-desert",
+            "kind": "supports"
+          },
+          {
+            "from": "p-desert",
+            "to": "v-evagrius",
+            "kind": "develops"
+          },
+          {
+            "from": "s-caught-up",
+            "to": "v-evagrius",
+            "kind": "supports"
+          },
+          {
+            "from": "s-meditate",
+            "to": "v-augustine",
+            "kind": "supports"
+          },
+          {
+            "from": "p-desert",
+            "to": "p-benedictine",
+            "kind": "develops"
+          },
+          {
+            "from": "p-desert",
+            "to": "p-celtic",
+            "kind": "develops"
+          },
+          {
+            "from": "v-evagrius",
+            "to": "p-benedictine",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-meditate",
+            "to": "p-lectio",
+            "kind": "supports"
+          },
+          {
+            "from": "p-benedictine",
+            "to": "p-lectio",
+            "kind": "develops"
+          },
+          {
+            "from": "p-benedictine",
+            "to": "p-franciscan",
+            "kind": "leads-to"
+          },
+          {
+            "from": "v-augustine",
+            "to": "p-rhineland",
+            "kind": "supports"
+          },
+          {
+            "from": "p-rhineland",
+            "to": "d-1329",
+            "kind": "leads-to"
+          },
+          {
+            "from": "v-evagrius",
+            "to": "p-hesychasm",
+            "kind": "develops"
+          },
+          {
+            "from": "s-ceasing",
+            "to": "p-hesychasm",
+            "kind": "supports"
+          },
+          {
+            "from": "p-hesychasm",
+            "to": "d-hesychast",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-franciscan",
+            "to": "v-julian",
+            "kind": "supports"
+          },
+          {
+            "from": "d-1329",
+            "to": "p-devotio",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-franciscan",
+            "to": "p-devotio",
+            "kind": "supports"
+          },
+          {
+            "from": "p-rhineland",
+            "to": "a-word",
+            "kind": "supports"
+          },
+          {
+            "from": "p-devotio",
+            "to": "a-word",
+            "kind": "objects"
+          },
+          {
+            "from": "s-closet",
+            "to": "a-word",
+            "kind": "supports"
+          },
+          {
+            "from": "a-word",
+            "to": "a-saints",
+            "kind": "leads-to"
+          },
+          {
+            "from": "a-word",
+            "to": "c-dissolution",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-devotio",
+            "to": "p-ignatian",
+            "kind": "develops"
+          },
+          {
+            "from": "c-dissolution",
+            "to": "p-ignatian",
+            "kind": "responds"
+          },
+          {
+            "from": "p-ignatian",
+            "to": "p-carmelite",
+            "kind": "supports"
+          },
+          {
+            "from": "a-word",
+            "to": "p-puritan",
+            "kind": "develops"
+          },
+          {
+            "from": "p-lectio",
+            "to": "p-puritan",
+            "kind": "develops"
+          },
+          {
+            "from": "a-word",
+            "to": "p-quaker",
+            "kind": "objects"
+          },
+          {
+            "from": "p-carmelite",
+            "to": "d-quietism",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-puritan",
+            "to": "p-heart",
+            "kind": "supports"
+          },
+          {
+            "from": "d-quietism",
+            "to": "p-heart",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-heart",
+            "to": "p-wesley",
+            "kind": "develops"
+          },
+          {
+            "from": "p-quaker",
+            "to": "p-wesley",
+            "kind": "objects"
+          },
+          {
+            "from": "d-hesychast",
+            "to": "p-philokalia",
+            "kind": "develops"
+          },
+          {
+            "from": "p-wesley",
+            "to": "p-keswick",
+            "kind": "develops"
+          },
+          {
+            "from": "p-keswick",
+            "to": "p-dawn",
+            "kind": "supports"
+          },
+          {
+            "from": "p-wesley",
+            "to": "p-dawn",
+            "kind": "supports"
+          },
+          {
+            "from": "p-dawn",
+            "to": "p-charismatic",
+            "kind": "supports"
+          },
+          {
+            "from": "p-keswick",
+            "to": "p-charismatic",
+            "kind": "develops"
+          },
+          {
+            "from": "p-carmelite",
+            "to": "p-contemplative",
+            "kind": "develops"
+          },
+          {
+            "from": "p-philokalia",
+            "to": "p-contemplative",
+            "kind": "supports"
+          },
+          {
+            "from": "p-quaker",
+            "to": "p-contemplative",
+            "kind": "supports"
+          },
+          {
+            "from": "p-contemplative",
+            "to": "a-critique",
+            "kind": "leads-to"
+          },
+          {
+            "from": "a-word",
+            "to": "a-critique",
+            "kind": "supports"
+          },
+          {
+            "from": "p-charismatic",
+            "to": "m-global",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-dawn",
+            "to": "m-global",
+            "kind": "develops"
+          },
+          {
+            "from": "m-global",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "a-critique",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "a-saints",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "v-julian",
+            "to": "m-today",
+            "kind": "leads-to"
+          }
+        ]
+      },
+      "sources": [
+        "sheldrake-spirituality",
+        "mcginn-mysticism",
+        "jones-study-of-spirituality",
+        "louth-origins-mystical",
+        "ware-orthodox-church",
+        "odcc"
+      ]
+    }
+  ],
+  "positions": [
+    {
+      "id": "desert-spirituality",
+      "doctrineId": "spirituality-prayer",
+      "name": "Desert spirituality (the Desert Fathers and Mothers)",
+      "altNames": [
+        "Desert monasticism",
+        "Abbas and ammas"
+      ],
+      "oneLine": "Leave the world’s distractions to fight the passions in solitude, through prayer, fasting, manual work and obedience to an elder, so that the heart may be purified and come to love God and neighbour.",
+      "coreClaims": [
+        "Renunciation (Matthew 19:21) frees the heart for God.",
+        "The monk battles demons and the \"thoughts\" (logismoi) through watchfulness and prayer.",
+        "An elder (abba or amma) gives a \"word\" to guide each disciple.",
+        "Humility, hospitality and not judging others are the fruit of true asceticism."
+      ],
+      "keyTexts": [
+        "Matthew 19:21",
+        "Matthew 4:1-11",
+        "1 Thessalonians 5:17",
+        "Athanasius, Life of Antony",
+        "Apophthegmata Patrum (Sayings of the Desert Fathers)"
+      ],
+      "origin": "Emerged in Egypt from around 270, when Antony withdrew to the desert, and with Pachomius’ communal monasteries (c.320); flourished at Nitria, Kellia and Scetis and in Palestine and Syria; written down in the Sayings of the Desert Fathers and by Evagrius and Cassian.",
+      "originYear": 270,
+      "proponentIds": [
+        "antony-of-egypt",
+        "evagrius-ponticus",
+        "john-cassian",
+        "macrina-the-younger",
+        "basil-of-caesarea"
+      ],
+      "proponentsOther": [
+        "Pachomius",
+        "Amma Syncletica",
+        "Amma Sarah",
+        "Abba Moses the Black",
+        "Macarius the Great",
+        "Shenoute of Atripe"
+      ],
+      "traditionIds": [
+        "early-church",
+        "coptic-orthodox",
+        "eastern-orthodox",
+        "catholic"
+      ],
+      "strongestArguments": [
+        "It follows Jesus’ call to leave all and his own forty days in the desert.",
+        "Its psychological insight into temptation and the passions remains remarkable.",
+        "It produced a whole culture of spiritual direction, humility and charity."
+      ],
+      "strongestObjections": [
+        "Reformers judged monastic vows a human work with no command of God, and withdrawal a flight from vocation in the world.",
+        "Some ascetic practices (extreme fasting, pillar-sitting) seem to despise the body God created.",
+        "Its two-tier picture of Christians (monks and the rest) is criticised as unbiblical."
+      ],
+      "responses": [
+        "The desert tradition itself warned against excessive asceticism and pride, insisting on discretion (diakrisis).",
+        "Orthodox and Catholic writers stress that monastic life is a particular calling, not a higher grade of salvation."
+      ],
+      "consequences": [
+        "Spread of monasticism East and West.",
+        "Desert sayings inspired modern spirituality and the eight-thoughts tradition (seven deadly sins)."
+      ],
+      "relatedPositionIds": [
+        "benedictine-spirituality",
+        "hesychasm-jesus-prayer",
+        "protestant-vocation-asceticism",
+        "theosis"
+      ],
+      "standing": "significant",
+      "sources": [
+        "chitty-desert-city",
+        "ward-sayings-desert",
+        "athanasius-life-antony",
+        "sheldrake-spirituality"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "hesychasm-jesus-prayer",
+      "doctrineId": "spirituality-prayer",
+      "name": "Hesychasm and the Jesus Prayer",
+      "altNames": [
+        "Prayer of the heart",
+        "Hesychia (stillness)",
+        "Noetic prayer"
+      ],
+      "oneLine": "In stillness (hesychia), with the mind gathered into the heart, the Christian repeats the name of Jesus, \"Lord Jesus Christ, Son of God, have mercy on me\", and by grace may come to see the uncreated light of God.",
+      "coreClaims": [
+        "Unceasing prayer is possible through constant invocation of the name of Jesus.",
+        "Watchfulness (nepsis) guards the heart against thoughts.",
+        "The body participates in prayer (breathing, posture), since the whole person is to be deified.",
+        "The light seen by saints is the uncreated energy of God, the light of Tabor (Palamas)."
+      ],
+      "keyTexts": [
+        "Luke 18:13, 38",
+        "1 Thessalonians 5:17",
+        "Philippians 2:9-11",
+        "Matthew 17:1-8 (Transfiguration)",
+        "Gregory Palamas, Triads"
+      ],
+      "origin": "Rooted in the desert \"monologic\" prayer and Diadochus of Photice (5th c.), developed on Sinai (John Climacus) and by Symeon the New Theologian (c.1000), and defended on Athos by Gregory Palamas, whose teaching councils at Constantinople upheld in 1341 and 1351.",
+      "originYear": 1341,
+      "proponentIds": [
+        "gregory-palamas",
+        "symeon-new-theologian",
+        "seraphim-of-sarov",
+        "paisius-velichkovsky"
+      ],
+      "proponentsOther": [
+        "Diadochus of Photice",
+        "John Climacus",
+        "Gregory of Sinai",
+        "Nil Sorsky",
+        "Theophan the Recluse"
+      ],
+      "traditionIds": [
+        "eastern-orthodox",
+        "russian-orthodox"
+      ],
+      "strongestArguments": [
+        "It answers Paul’s call to pray without ceasing in a simple, portable form.",
+        "It holds together doctrine (the incarnate name, deification) and experience.",
+        "Its witness to holiness in saints like Seraphim of Sarov is widely admired."
+      ],
+      "strongestObjections": [
+        "Barlaam of Calabria mocked psychosomatic techniques as \"navel-gazing\" and denied that the divine light could be uncreated.",
+        "Western critics question the essence-energies distinction behind it.",
+        "Protestant critics fear repetitive formulas (Matthew 6:7) and technique."
+      ],
+      "responses": [
+        "Hesychasts reply that the prayer is not a technique but humble supplication, practised under guidance, and that \"vain repetition\" refers to heathen babbling, not the tax collector’s plea."
+      ],
+      "consequences": [
+        "Palamite councils (1341, 1351) shaped Orthodox doctrine.",
+        "Philokalic revival and Russian elders."
+      ],
+      "relatedPositionIds": [
+        "palamite-essence-energies",
+        "philokalic-revival",
+        "desert-spirituality",
+        "theosis",
+        "contemplative-revival"
+      ],
+      "standing": "significant",
+      "sources": [
+        "meyendorff-palamas",
+        "ware-orthodox-church",
+        "philokalia-palmer-sherrard-ware"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "lectio-divina",
+      "doctrineId": "spirituality-prayer",
+      "name": "Lectio divina (sacred reading)",
+      "altNames": [
+        "Holy reading",
+        "Reading, meditation, prayer, contemplation"
+      ],
+      "oneLine": "Scripture is read slowly, aloud and prayerfully, ruminated in the heart, answered in prayer and rested in before God: reading becomes an encounter rather than study.",
+      "coreClaims": [
+        "God speaks personally through the Scriptures read in faith.",
+        "The text is \"chewed\" and repeated (ruminatio) until it shapes the heart.",
+        "Four movements: lectio, meditatio, oratio, contemplatio (Guigo II).",
+        "Reading is rooted in the liturgy and community."
+      ],
+      "keyTexts": [
+        "Psalm 1:2",
+        "Joshua 1:8",
+        "Luke 2:19",
+        "Rule of Benedict 48",
+        "Guigo II, Ladder of Monks"
+      ],
+      "origin": "Practised by Origen and the Fathers, prescribed in the Rule of Benedict (c.530) and formulated by Guigo II the Carthusian (12th c.); revived after Vatican II (Dei Verbum 25) and adopted by many Protestants.",
+      "originYear": 1160,
+      "proponentIds": [
+        "guigo-ii",
+        "benedict-of-nursia",
+        "gregory-the-great",
+        "bernard-of-clairvaux"
+      ],
+      "proponentsOther": [
+        "Origen",
+        "Michael Casey",
+        "Eugene Peterson (Protestant advocate)"
+      ],
+      "traditionIds": [
+        "catholic",
+        "anglican",
+        "lutheran"
+      ],
+      "strongestArguments": [
+        "It keeps prayer anchored in Scripture.",
+        "It unites study and devotion.",
+        "It is simple and accessible to all."
+      ],
+      "strongestObjections": [
+        "Some Protestants worry that seeking a personal word can detach texts from their context and meaning.",
+        "Critics of its fourth step see a drift into wordless mysticism."
+      ],
+      "responses": [
+        "Practitioners insist that meditation follows careful reading and that contemplation is God’s gift, not a technique."
+      ],
+      "consequences": [
+        "Benedictine and Cistercian culture.",
+        "Modern ecumenical Bible-reading methods."
+      ],
+      "relatedPositionIds": [
+        "benedictine-spirituality",
+        "puritan-meditation",
+        "word-centred-piety",
+        "monastic-theology"
+      ],
+      "standing": "significant",
+      "sources": [
+        "casey-sacred-reading",
+        "leclercq-love-of-learning",
+        "sheldrake-spirituality"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "benedictine-spirituality",
+      "doctrineId": "spirituality-prayer",
+      "name": "Benedictine spirituality",
+      "altNames": [
+        "Ora et labora",
+        "Monastic stability"
+      ],
+      "oneLine": "A balanced common life of liturgical prayer, sacred reading and manual work under a rule and an abbot, marked by humility, obedience, stability and hospitality, seeks God in ordinary days.",
+      "coreClaims": [
+        "The Divine Office (Opus Dei) is the centre of the day; nothing is to be preferred to it.",
+        "Work and prayer are both service of God.",
+        "Humility is a ladder of twelve steps; obedience and listening shape the self.",
+        "Guests are received as Christ."
+      ],
+      "keyTexts": [
+        "Psalm 119:164",
+        "Acts 2:42-47",
+        "Matthew 25:35",
+        "Rule of Benedict (prologue, ch. 7, 48, 53)"
+      ],
+      "origin": "Based on Benedict of Nursia’s Rule (c.530, Monte Cassino), spread by Gregory the Great and Carolingian reform, renewed at Cluny (910) and by the Cistercians (1098); influential beyond monasteries through Anglican and ecumenical oblates.",
+      "originYear": 529,
+      "proponentIds": [
+        "benedict-of-nursia",
+        "gregory-the-great",
+        "bernard-of-clairvaux"
+      ],
+      "proponentsOther": [
+        "Scholastica",
+        "Benedict of Aniane",
+        "Odo of Cluny",
+        "Bede"
+      ],
+      "traditionIds": [
+        "catholic",
+        "anglican",
+        "lutheran"
+      ],
+      "strongestArguments": [
+        "Its moderation and realism made it durable for 1,500 years.",
+        "It integrates body, community and prayer.",
+        "Monasteries preserved learning and served the poor."
+      ],
+      "strongestObjections": [
+        "Reformers criticised vows and the merit attached to monastic life.",
+        "Wealthy monasteries drifted from their ideals, prompting repeated reforms."
+      ],
+      "responses": [
+        "Benedictines answer that the Rule is a \"little rule for beginners\" and that reform is built into its history."
+      ],
+      "consequences": [
+        "Western monastic civilisation; the Daily Office in Anglican and Lutheran churches.",
+        "Modern lay \"Benedict Option\" debates."
+      ],
+      "relatedPositionIds": [
+        "desert-spirituality",
+        "lectio-divina",
+        "franciscan-spirituality"
+      ],
+      "standing": "significant",
+      "sources": [
+        "rule-of-benedict-src",
+        "sheldrake-spirituality",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "franciscan-spirituality",
+      "doctrineId": "spirituality-prayer",
+      "name": "Franciscan spirituality",
+      "altNames": [
+        "Evangelical poverty",
+        "Seraphic spirituality"
+      ],
+      "oneLine": "Follow the poor and crucified Christ literally: embrace poverty, minority and joy, see all creatures as brothers and sisters, and love God affectively through meditation on the humanity and passion of Jesus.",
+      "coreClaims": [
+        "Gospel poverty imitates the Christ who became poor (2 Corinthians 8:9).",
+        "Creation is a family praising God (Canticle of the Creatures).",
+        "Devotion focuses on the crib and the cross.",
+        "Affective love surpasses speculative knowledge (Bonaventure)."
+      ],
+      "keyTexts": [
+        "Matthew 10:7-10",
+        "2 Corinthians 8:9",
+        "Galatians 6:17",
+        "Francis, Canticle of the Creatures",
+        "Bonaventure, The Soul’s Journey into God"
+      ],
+      "origin": "Began with Francis of Assisi’s conversion and the approval of his brotherhood (1209), the Poor Clares (1212) and the Third Order; his stigmata at La Verna (1224) became an icon of union with the crucified; Bonaventure gave it theological form.",
+      "originYear": 1209,
+      "proponentIds": [
+        "francis-of-assisi",
+        "bonaventure"
+      ],
+      "proponentsOther": [
+        "Clare of Assisi",
+        "Anthony of Padua",
+        "Angela of Foligno",
+        "Jacopone da Todi"
+      ],
+      "traditionIds": [
+        "catholic",
+        "anglican"
+      ],
+      "strongestArguments": [
+        "It recovers the Gospel’s literal call to poverty and joy.",
+        "It inspired care for the poor, peace-making and love of creation.",
+        "Its devotion made Christ’s humanity vivid for lay people (the Christmas crib, the Stations of the Cross)."
+      ],
+      "strongestObjections": [
+        "Disputes over absolute poverty split the order (Spirituals versus Conventuals) and were condemned by John XXII in 1323.",
+        "Protestants questioned vows and stigmata; modern critics see some devotion as sentimental."
+      ],
+      "responses": [
+        "Franciscans point to continual reform (Observants, Capuchins) as fidelity to Francis."
+      ],
+      "consequences": [
+        "Mendicant orders; Stations of the Cross and crib devotion.",
+        "Inspiration for ecological theology (Laudato si’, 2015)."
+      ],
+      "relatedPositionIds": [
+        "benedictine-spirituality",
+        "rhineland-mysticism",
+        "devotio-moderna-piety"
+      ],
+      "standing": "significant",
+      "sources": [
+        "vauchez-francis",
+        "bonaventure-legenda-maior",
+        "mcginn-mysticism"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "rhineland-mysticism",
+      "doctrineId": "spirituality-prayer",
+      "name": "Rhineland mysticism (Eckhart, Tauler, Suso)",
+      "altNames": [
+        "German Dominican mysticism",
+        "Mysticism of the ground",
+        "Friends of God"
+      ],
+      "oneLine": "Through detachment (Gelassenheit) the soul lets go of all images and self-will, and in its innermost ground God gives birth to the Word; union with God lies beyond concepts.",
+      "coreClaims": [
+        "God is beyond every name and image (apophatic theology).",
+        "Detachment empties the soul so that God may fill it.",
+        "The birth of the Son takes place in the ground of the soul.",
+        "True mysticism shows itself in ordinary works done without a \"why\"."
+      ],
+      "keyTexts": [
+        "John 1:12-14",
+        "Galatians 2:20",
+        "Matthew 5:3",
+        "Eckhart, German Sermons",
+        "Tauler, Sermons",
+        "Theologia Germanica"
+      ],
+      "origin": "Developed among German Dominicans preaching to Beguines and nuns: Meister Eckhart (d. c.1328), Johannes Tauler (d.1361) and Henry Suso (d.1366), with Jan van Ruusbroec in Flanders and the anonymous Theologia Germanica, which Luther published in 1516-18.",
+      "originYear": 1300,
+      "proponentIds": [
+        "meister-eckhart",
+        "johannes-tauler"
+      ],
+      "proponentsOther": [
+        "Henry Suso",
+        "Jan van Ruusbroec",
+        "Mechthild of Magdeburg",
+        "Marguerite Porete"
+      ],
+      "traditionIds": [
+        "catholic",
+        "lutheran"
+      ],
+      "strongestArguments": [
+        "It expresses God’s transcendence and the depth of union with God.",
+        "It influenced Luther (Tauler, Theologia Germanica) as well as Catholic mystics.",
+        "Its emphasis on detachment and humility is practical, not merely speculative."
+      ],
+      "strongestObjections": [
+        "John XXII condemned 28 of Eckhart’s propositions (1329) as heretical or suspect, e.g. on the soul’s uncreated element.",
+        "Critics see pantheist tendencies and indifference to sacraments and works.",
+        "Word-centred Protestants judge its wordless union as bypassing Christ and Scripture."
+      ],
+      "responses": [
+        "Defenders argue Eckhart’s paradoxes were preaching rhetoric within orthodox theology; Tauler and Suso themselves corrected misreadings."
+      ],
+      "consequences": [
+        "Shaped German devotion, Luther’s early theology and later Pietism.",
+        "Revived in modern interreligious dialogue."
+      ],
+      "relatedPositionIds": [
+        "carmelite-mysticism",
+        "devotio-moderna-piety",
+        "word-centred-piety",
+        "contemplative-revival"
+      ],
+      "standing": "historic",
+      "sources": [
+        "mcginn-eckhart",
+        "mcginn-mysticism",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "devotio-moderna-piety",
+      "doctrineId": "spirituality-prayer",
+      "name": "Devotio Moderna and The Imitation of Christ",
+      "altNames": [
+        "Modern Devotion",
+        "Brothers and Sisters of the Common Life"
+      ],
+      "oneLine": "A simple, interior, Christ-centred piety of daily self-examination, meditation on the life of Jesus and humble service, lived in common by lay people and canons without monastic vows.",
+      "coreClaims": [
+        "Imitating Christ’s humility matters more than learned speculation.",
+        "Daily methodical meditation and examination of conscience form the soul.",
+        "Lay communities can live a devout common life in the world.",
+        "Copying and reading devotional books nourish the inner life."
+      ],
+      "keyTexts": [
+        "John 8:12",
+        "1 Peter 2:21",
+        "Thomas à Kempis, The Imitation of Christ"
+      ],
+      "origin": "Founded by Geert Groote at Deventer (from c.1374) and spread through the Brothers and Sisters of the Common Life and the Windesheim congregation in the Low Countries and Germany; The Imitation of Christ (c.1418-27) was its classic text.",
+      "originYear": 1380,
+      "proponentIds": [
+        "geert-groote",
+        "thomas-a-kempis",
+        "gabriel-biel"
+      ],
+      "proponentsOther": [
+        "Florens Radewijns",
+        "Gerard Zerbolt of Zutphen",
+        "Jan Mombaer"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "strongestArguments": [
+        "It made serious devotion accessible to lay people.",
+        "It nurtured educational reform (schools at Deventer, where Erasmus studied).",
+        "Its book has fed Catholics and Protestants alike."
+      ],
+      "strongestObjections": [
+        "Critics call it individualistic and anti-intellectual.",
+        "Protestant readers warn that \"imitation\" can eclipse justification by grace; Catholic critics found its lay communities irregular."
+      ],
+      "responses": [
+        "Admirers note that The Imitation is saturated with Scripture and grace, and that it was printed by Protestants (in adapted form) and Catholics for centuries."
+      ],
+      "consequences": [
+        "Preparation for both Reformation piety and Catholic reform (Ignatius read it at Manresa)."
+      ],
+      "relatedPositionIds": [
+        "franciscan-spirituality",
+        "ignatian-spirituality",
+        "renaissance-humanism"
+      ],
+      "standing": "historic",
+      "sources": [
+        "van-engen-devotio",
+        "sheldrake-spirituality"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "ignatian-spirituality",
+      "doctrineId": "spirituality-prayer",
+      "name": "Ignatian spirituality",
+      "altNames": [
+        "Spiritual Exercises",
+        "Finding God in all things",
+        "Jesuit spirituality"
+      ],
+      "oneLine": "Through the Spiritual Exercises, imaginative contemplation of the Gospels and the discernment of spirits, one learns to choose freely what serves the greater glory of God and to find God in all things.",
+      "coreClaims": [
+        "Humans are created to praise, reverence and serve God (Principle and Foundation).",
+        "Imaginative contemplation places one within Gospel scenes.",
+        "Consolation and desolation are signs to be discerned (Rules for Discernment).",
+        "Contemplation leads to apostolic action: contemplatives in action."
+      ],
+      "keyTexts": [
+        "Luke 9:23",
+        "Matthew 6:33",
+        "1 John 4:1",
+        "Ignatius, Spiritual Exercises; Autobiography"
+      ],
+      "origin": "Born of Ignatius of Loyola’s conversion (1521) and experiences at Manresa (1522), written as the Spiritual Exercises (approved 1548) and spread by the Society of Jesus (1540).",
+      "originYear": 1548,
+      "proponentIds": [
+        "ignatius-of-loyola",
+        "francis-xavier",
+        "pope-francis"
+      ],
+      "proponentsOther": [
+        "Peter Faber",
+        "Francis de Sales (influenced)",
+        "Pedro Arrupe"
+      ],
+      "traditionIds": [
+        "catholic",
+        "anglican"
+      ],
+      "strongestArguments": [
+        "It gives a practical, flexible method for discernment and decision-making.",
+        "It unites prayer and mission.",
+        "It honours imagination and emotion as places where God works."
+      ],
+      "strongestObjections": [
+        "Jansenists and others accused Jesuits of laxity; Protestants saw the Exercises as works-centred.",
+        "Some critics worry that imagination and feeling can be mistaken for God’s voice."
+      ],
+      "responses": [
+        "Ignatians answer that discernment is tested by Scripture, the Church and a director, and that the Exercises begin and end in grace."
+      ],
+      "consequences": [
+        "Jesuit missions and education worldwide.",
+        "Modern retreat movement and spiritual direction, including among Protestants."
+      ],
+      "relatedPositionIds": [
+        "devotio-moderna-piety",
+        "carmelite-mysticism",
+        "charismatic-prayer"
+      ],
+      "standing": "significant",
+      "sources": [
+        "omalley-first-jesuits",
+        "ignatius-autobiography",
+        "ignatius-exercises-mullan"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "carmelite-mysticism",
+      "doctrineId": "spirituality-prayer",
+      "name": "Carmelite mysticism (Teresa of Ávila, John of the Cross)",
+      "altNames": [
+        "Discalced Carmelite spirituality",
+        "Mysticism of the dark night"
+      ],
+      "oneLine": "Prayer is friendship with God that grows through recollection, the prayer of quiet and purifying \"dark nights\" toward spiritual marriage; detachment from all that is not God prepares for union in love.",
+      "coreClaims": [
+        "Mental prayer is \"an intimate sharing between friends\" (Teresa).",
+        "The soul progresses through dwelling places toward union.",
+        "God purifies the soul through active and passive nights of sense and spirit.",
+        "True mystical experience bears fruit in humility, obedience and service."
+      ],
+      "keyTexts": [
+        "Song of Songs",
+        "John 14:23",
+        "Teresa, The Interior Castle; Life",
+        "John of the Cross, Ascent of Mount Carmel; Dark Night; Spiritual Canticle"
+      ],
+      "origin": "Arose in the 16th-century reform of the Carmelite order in Spain by Teresa of Ávila (from 1562) and John of the Cross (from 1568), under scrutiny from the Inquisition; continued by Thérèse of Lisieux and Edith Stein.",
+      "originYear": 1577,
+      "proponentIds": [
+        "teresa-of-avila",
+        "john-of-the-cross"
+      ],
+      "proponentsOther": [
+        "Thérèse of Lisieux",
+        "Edith Stein (Teresa Benedicta of the Cross)",
+        "Elizabeth of the Trinity",
+        "Brother Lawrence (practice of the presence)"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "strongestArguments": [
+        "It offers the most detailed map of growth in prayer.",
+        "Teresa and John are Doctors of the Church.",
+        "It treats suffering and spiritual dryness with deep pastoral wisdom."
+      ],
+      "strongestObjections": [
+        "Contemporaries suspected illuminism (alumbrados); the Inquisition examined Teresa’s Life.",
+        "Protestant critics see stages of ascent as works-oriented and extra-biblical.",
+        "Some modern readers find its asceticism severe."
+      ],
+      "responses": [
+        "Carmelites stress that everything is grace and that the dark night is God’s loving work, not human achievement."
+      ],
+      "consequences": [
+        "Reformed Carmelite convents worldwide.",
+        "Modern language of the \"dark night\"."
+      ],
+      "relatedPositionIds": [
+        "rhineland-mysticism",
+        "ignatian-spirituality",
+        "contemplative-revival"
+      ],
+      "standing": "significant",
+      "sources": [
+        "teresa-life",
+        "john-cross-works",
+        "mcginn-mysticism"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "puritan-meditation",
+      "doctrineId": "spirituality-prayer",
+      "name": "Puritan meditation and practical piety",
+      "altNames": [
+        "Heavenly meditation",
+        "Practice of piety"
+      ],
+      "oneLine": "Disciplined, Scripture-saturated meditation, secret prayer, family worship, diary-keeping and self-examination apply doctrine to the heart so that the believer grows in assurance and holiness.",
+      "coreClaims": [
+        "Meditation \"digests\" Scripture and sermons, moving truth from head to heart.",
+        "Secret and family prayer and the Sabbath are daily and weekly disciplines.",
+        "Self-examination tests the reality of grace.",
+        "Heavenly-mindedness gives strength for present duty."
+      ],
+      "keyTexts": [
+        "Psalm 1:2",
+        "Psalm 119:97",
+        "Colossians 3:1-2",
+        "2 Corinthians 13:5",
+        "Baxter, Saints’ Everlasting Rest",
+        "Bayly, The Practice of Piety (c.1611)"
+      ],
+      "origin": "Developed among English and New England Puritans c.1600-1700 in manuals by Lewis Bayly, Joseph Hall, Richard Baxter, Thomas Watson and Isaac Ambrose; continued in evangelical devotion.",
+      "originYear": 1650,
+      "proponentIds": [
+        "richard-baxter",
+        "john-owen",
+        "jonathan-edwards"
+      ],
+      "proponentsOther": [
+        "Joseph Hall",
+        "Lewis Bayly",
+        "Isaac Ambrose",
+        "Thomas Watson",
+        "Anne Bradstreet"
+      ],
+      "traditionIds": [
+        "presbyterian",
+        "congregationalist",
+        "baptist",
+        "anglican"
+      ],
+      "strongestArguments": [
+        "It joins Word and Spirit, doctrine and experience.",
+        "It builds daily discipline into ordinary lay life.",
+        "It shaped evangelical quiet times and journalling."
+      ],
+      "strongestObjections": [
+        "Critics say it encouraged anxious introspection.",
+        "Catholic and Orthodox observers note that it borrowed medieval methods while denying their sources."
+      ],
+      "responses": [
+        "Puritans insisted introspection must lead to Christ, not to the self, and wrote much on consolation."
+      ],
+      "consequences": [
+        "Evangelical \"quiet time\" and devotional literature."
+      ],
+      "relatedPositionIds": [
+        "lectio-divina",
+        "word-centred-piety",
+        "heart-religion-pietist-moravian",
+        "puritan-theology"
+      ],
+      "standing": "historic",
+      "sources": [
+        "hambrick-stowe-practice-piety",
+        "coffey-lim-puritanism"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "heart-religion-pietist-moravian",
+      "doctrineId": "spirituality-prayer",
+      "name": "Pietist and Moravian heart religion",
+      "altNames": [
+        "Herzensreligion",
+        "Moravian piety",
+        "Blood-and-wounds devotion"
+      ],
+      "oneLine": "True Christianity is a living, felt relationship with the Saviour: conversion of the heart, joyful love for the crucified Christ, small-group fellowship, singing and continuous prayer.",
+      "coreClaims": [
+        "Faith is a matter of the heart, not merely of doctrine.",
+        "Devotion centres on the wounds and love of the crucified Lamb.",
+        "Bands and choirs (small groups) foster confession and mutual care.",
+        "Continuous prayer and mission express the heart’s love (the Herrnhut 24-hour prayer watch from 1727)."
+      ],
+      "keyTexts": [
+        "Ezekiel 36:26",
+        "Galatians 2:20",
+        "Revelation 5:6-12",
+        "Zinzendorf, discourses; Moravian Daily Watchwords (Losungen, from 1731)"
+      ],
+      "origin": "Grew out of Spener’s Pietism and the Halle movement, and was intensified at Herrnhut under Count Zinzendorf after the \"Moravian Pentecost\" of 13 August 1727, which began a hundred-year prayer watch and Moravian missions (1732).",
+      "originYear": 1727,
+      "proponentIds": [
+        "nicolaus-zinzendorf",
+        "philipp-jakob-spener",
+        "august-hermann-francke"
+      ],
+      "proponentsOther": [
+        "Peter Böhler",
+        "August Gottlieb Spangenberg",
+        "Gerhard Tersteegen"
+      ],
+      "traditionIds": [
+        "hussite-moravian",
+        "lutheran"
+      ],
+      "strongestArguments": [
+        "It renewed warmth and joy in Protestant faith.",
+        "Its prayer watch fuelled pioneering missions.",
+        "It decisively influenced John Wesley."
+      ],
+      "strongestObjections": [
+        "Lutheran and Methodist critics (including Wesley) objected to \"stillness\" teaching and emotional excess during the \"sifting time\" (1740s).",
+        "Some found its blood-and-wounds imagery morbid.",
+        "Others feared feeling would replace Word and sacrament."
+      ],
+      "responses": [
+        "Zinzendorf himself corrected excesses after 1750, and Moravians kept strong sacramental and liturgical life."
+      ],
+      "consequences": [
+        "Moravian missions; Methodist class meetings; modern evangelical heart language."
+      ],
+      "relatedPositionIds": [
+        "pietist-theology",
+        "wesleyan-means-of-grace",
+        "quaker-silence-inward-prayer"
+      ],
+      "standing": "historic",
+      "sources": [
+        "ward-protestant-awakening",
+        "shantz-pietism"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "quaker-silence-inward-prayer",
+      "doctrineId": "spirituality-prayer",
+      "name": "Quaker silent worship",
+      "altNames": [
+        "Waiting worship",
+        "Unprogrammed meeting",
+        "Inward light"
+      ],
+      "oneLine": "Friends gather in expectant silence, without set liturgy or clergy, waiting on the inward light of Christ, and speak only when moved by the Spirit.",
+      "coreClaims": [
+        "Christ is present to teach his people himself.",
+        "Outward forms (liturgy, sacraments, paid ministry) are unnecessary; worship is inward.",
+        "Any member may be moved to minister, women equally with men.",
+        "Silence and stillness allow discernment of the Spirit’s leading."
+      ],
+      "keyTexts": [
+        "John 1:9",
+        "Psalm 46:10",
+        "1 Corinthians 14:30",
+        "Fox, Journal",
+        "Barclay, Apology (1676)"
+      ],
+      "origin": "Arose with George Fox and the Children of the Light in northern England (1652) amid the radicalism of the Commonwealth.",
+      "originYear": 1652,
+      "proponentIds": [
+        "george-fox"
+      ],
+      "proponentsOther": [
+        "Margaret Fell",
+        "Robert Barclay",
+        "William Penn",
+        "Isaac Penington",
+        "Thomas Kelly"
+      ],
+      "traditionIds": [
+        "quaker"
+      ],
+      "strongestArguments": [
+        "It trusts Christ’s promise to be present where two or three gather.",
+        "It gave equal voice to women and lay people.",
+        "Its silence has attracted seekers across traditions."
+      ],
+      "strongestObjections": [
+        "Other Protestants accused early Quakers of elevating the inner light above Scripture.",
+        "Rejection of outward sacraments contradicts Jesus’ commands for most churches.",
+        "Later liberal Quakerism moved, critics say, away from Christ-centred faith."
+      ],
+      "responses": [
+        "Early Friends held that the Spirit who gave the Scriptures never contradicts them; many Friends remain explicitly Christian."
+      ],
+      "consequences": [
+        "Quaker testimonies of peace, equality and simplicity.",
+        "Influence on contemplative practice and silence in other churches."
+      ],
+      "relatedPositionIds": [
+        "inner-light",
+        "quaker-inward-baptism",
+        "contemplative-revival"
+      ],
+      "standing": "minority",
+      "sources": [
+        "dandelion-quakers",
+        "fox-journal",
+        "moore-light-consciences"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "wesleyan-means-of-grace",
+      "doctrineId": "spirituality-prayer",
+      "name": "Wesleyan means of grace and methodical piety",
+      "altNames": [
+        "Methodist discipline",
+        "Works of piety and mercy"
+      ],
+      "oneLine": "God ordinarily gives grace through appointed means, prayer, searching the Scriptures, the Lord’s Supper, fasting and Christian conference, which seekers and believers alike should use, together with works of mercy, on the way to perfect love.",
+      "coreClaims": [
+        "Outward means are \"ordinary channels\" of preventing, justifying and sanctifying grace.",
+        "Seekers should not \"be still\" and wait for faith but use the means.",
+        "Constant communion and accountable small groups (class and band meetings) build holiness.",
+        "Grace aims at love of God and neighbour: Christian perfection."
+      ],
+      "keyTexts": [
+        "Acts 2:42",
+        "Luke 11:9-13",
+        "Matthew 6:16-18",
+        "Wesley, Sermon 16 \"The Means of Grace\"; \"The Duty of Constant Communion\""
+      ],
+      "origin": "Shaped in the Oxford Holy Club (1729), John Wesley’s Aldersgate experience (1738) and his break with Moravian \"stillness\" (1740), and organised in Methodist societies, classes and bands.",
+      "originYear": 1740,
+      "proponentIds": [
+        "john-wesley",
+        "charles-wesley"
+      ],
+      "proponentsOther": [
+        "Susanna Wesley",
+        "John Fletcher",
+        "Francis Asbury"
+      ],
+      "traditionIds": [
+        "methodist",
+        "holiness-movement",
+        "salvation-army"
+      ],
+      "strongestArguments": [
+        "It holds together sacrament, Scripture, prayer, accountability and social action.",
+        "It answers both formalism and enthusiasm.",
+        "Its small groups spread rapidly among the poor."
+      ],
+      "strongestObjections": [
+        "Calvinist evangelicals worried it encouraged works-righteousness and perfectionism.",
+        "Anglicans of the time accused Methodists of enthusiasm and irregularity.",
+        "Later Holiness movements arguably shifted emphasis from means to crisis experience."
+      ],
+      "responses": [
+        "Wesley insisted the means have no power in themselves and that grace alone saves."
+      ],
+      "consequences": [
+        "Methodist class meeting; hymn-singing (Charles Wesley); Holiness movement."
+      ],
+      "relatedPositionIds": [
+        "wesleyan-entire-sanctification",
+        "heart-religion-pietist-moravian",
+        "keswick-higher-life",
+        "charismatic-prayer"
+      ],
+      "standing": "significant",
+      "sources": [
+        "heitzenrater-wesley",
+        "rack-reasonable-enthusiast",
+        "wesley-sermon-16"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "charismatic-prayer",
+      "doctrineId": "spirituality-prayer",
+      "name": "Pentecostal and charismatic prayer",
+      "altNames": [
+        "Praying in the Spirit",
+        "Praying in tongues",
+        "Soaking prayer"
+      ],
+      "oneLine": "The Spirit prays through believers in tongues, prophecy and healing prayer; worship is expectant, embodied and participatory, with prayer for the sick, deliverance and personal encounter.",
+      "coreClaims": [
+        "Praying in tongues edifies and expresses what words cannot (Romans 8:26; 1 Corinthians 14:2, 14).",
+        "Prayer expects God to act now in healing and power.",
+        "Worship involves the body: raised hands, dancing, falling, weeping.",
+        "All believers may minister in the Spirit’s gifts."
+      ],
+      "keyTexts": [
+        "Acts 2:1-4",
+        "Romans 8:26-27",
+        "1 Corinthians 14:14-15",
+        "James 5:14-16",
+        "Jude 20"
+      ],
+      "origin": "Spread from Azusa Street (1906) and parallel revivals in Wales, India and Korea; entered historic churches through the charismatic renewal (1960) and the Catholic charismatic renewal (1967); now characteristic of much Global South Christianity.",
+      "originYear": 1906,
+      "proponentIds": [
+        "william-j-seymour",
+        "john-wimber",
+        "yong-gi-cho",
+        "kathryn-kuhlman"
+      ],
+      "proponentsOther": [
+        "Dennis Bennett",
+        "Kevin and Dorothy Ranaghan",
+        "Mike Bickle (24-hour prayer houses)",
+        "Pete Greig (24-7 Prayer)"
+      ],
+      "traditionIds": [
+        "pentecostal",
+        "charismatic-renewal",
+        "neo-charismatic",
+        "assemblies-of-god"
+      ],
+      "strongestArguments": [
+        "It recovers New Testament expectation of the Spirit’s gifts.",
+        "It democratises prayer and ministry.",
+        "It is at the heart of Christianity’s growth in the Global South."
+      ],
+      "strongestObjections": [
+        "Cessationists deny that tongues and prophecy continue.",
+        "Critics warn of emotionalism, manipulation and unbiblical phenomena.",
+        "Contemplatives and liturgical Christians sometimes find it noisy and experience-driven."
+      ],
+      "responses": [
+        "Charismatics answer that Paul regulates rather than forbids gifts and that fruit (love, holiness) tests experiences."
+      ],
+      "consequences": [
+        "Global Pentecostalism; 24-hour prayer movements; healing ministries."
+      ],
+      "relatedPositionIds": [
+        "continuationism",
+        "charismatic-renewal",
+        "pentecostal-initial-evidence",
+        "dawn-prayer-movements"
+      ],
+      "standing": "significant",
+      "sources": [
+        "anderson-pentecostalism",
+        "poloma-main-street-mystics",
+        "synan-holiness-pentecostal"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "contemplative-revival",
+      "doctrineId": "spirituality-prayer",
+      "name": "The modern contemplative revival (Merton, Centering Prayer)",
+      "altNames": [
+        "Centering Prayer",
+        "Christian meditation",
+        "Contemplative Outreach"
+      ],
+      "oneLine": "The ancient contemplative tradition of silent, loving attention to God should be recovered for all Christians today, through simple practices like Centering Prayer or the Christian mantra, often in dialogue with other religious traditions.",
+      "coreClaims": [
+        "Contemplation is the birthright of all the baptised, not only monks.",
+        "Silent prayer of consent to God’s presence heals the false self.",
+        "The Cloud of Unknowing, the Desert Fathers and Carmelites provide the method.",
+        "Dialogue with Eastern meditation can help Christians rediscover their own tradition."
+      ],
+      "keyTexts": [
+        "Psalm 46:10",
+        "Matthew 6:6",
+        "1 Kings 19:12",
+        "The Cloud of Unknowing",
+        "Merton, New Seeds of Contemplation (1961)",
+        "Keating, Open Mind, Open Heart (1986)"
+      ],
+      "origin": "Popularised by Thomas Merton from 1948; Centering Prayer developed by Trappists William Meninger, Basil Pennington and Thomas Keating at Spencer, Massachusetts (c.1975); Christian Meditation taught by Benedictine John Main (1975); spread among Protestants through Richard Foster’s Celebration of Discipline (1978) and the Renovaré movement.",
+      "originYear": 1975,
+      "proponentIds": [
+        "thomas-merton",
+        "thomas-keating"
+      ],
+      "proponentsOther": [
+        "William Meninger",
+        "Basil Pennington",
+        "John Main",
+        "Laurence Freeman",
+        "Richard Foster",
+        "Richard Rohr",
+        "Taizé Community"
+      ],
+      "traditionIds": [
+        "catholic",
+        "anglican",
+        "evangelical"
+      ],
+      "strongestArguments": [
+        "It restores neglected treasures of the Christian tradition.",
+        "It meets a modern hunger for silence and depth.",
+        "It offers an ecumenical common practice."
+      ],
+      "strongestObjections": [
+        "Evangelical critics argue it imports Eastern techniques and seeks an experience of God not mediated by Scripture.",
+        "The Catholic Congregation for the Doctrine of the Faith (1989) warned against uncritical adoption of non-Christian methods.",
+        "Some see its claims about the \"true self\" as psychology dressed in theology."
+      ],
+      "responses": [
+        "Practitioners root it in Christian sources and insist it is prayer to the triune God, complementary to Scripture and sacraments."
+      ],
+      "consequences": [
+        "Retreat centres, spiritual direction programmes and contemplative networks."
+      ],
+      "relatedPositionIds": [
+        "contemplative-prayer-critique",
+        "carmelite-mysticism",
+        "hesychasm-jesus-prayer",
+        "rhineland-mysticism"
+      ],
+      "standing": "significant",
+      "sources": [
+        "keating-open-mind",
+        "sheldrake-spirituality",
+        "cdf-christian-meditation-1989"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "celtic-spirituality",
+      "doctrineId": "spirituality-prayer",
+      "name": "Celtic spirituality",
+      "altNames": [
+        "Early Irish and British monastic spirituality",
+        "Celtic Christian revival"
+      ],
+      "oneLine": "Early Irish, Scottish and Welsh Christianity offers a spirituality of God’s presence in creation and daily work, of blessing prayers for every task, of pilgrimage and of vigorous ascetic monastic mission.",
+      "coreClaims": [
+        "God and the saints are present in landscape, home and work.",
+        "Prayers and blessings sanctify ordinary tasks (kindling the fire, milking, travelling).",
+        "Pilgrimage (\"white martyrdom\") and penitential asceticism are paths to God.",
+        "Monastic communities (Iona, Lindisfarne) are centres of prayer and mission."
+      ],
+      "keyTexts": [
+        "Psalm 139",
+        "Psalm 24:1",
+        "Lorica of St Patrick (\"St Patrick’s Breastplate\", traditionally attributed)",
+        "Carmina Gadelica (1900)"
+      ],
+      "origin": "Rooted in the monastic churches founded by Patrick (5th c.), Columba (Iona, 563) and Aidan (Lindisfarne, 635); revived in the 19th-20th centuries through Carmina Gadelica and movements such as the Iona Community (1938) and Northumbria Community.",
+      "originYear": 563,
+      "proponentIds": [
+        "patrick",
+        "columba"
+      ],
+      "proponentsOther": [
+        "Brigid of Kildare",
+        "Aidan of Lindisfarne",
+        "Columbanus",
+        "Cuthbert",
+        "George MacLeod (Iona Community)"
+      ],
+      "traditionIds": [
+        "early-church",
+        "catholic",
+        "anglican",
+        "presbyterian"
+      ],
+      "strongestArguments": [
+        "It affirms the goodness of creation and the sanctity of daily life.",
+        "Its prayers are rich, poetic and accessible.",
+        "Its monks were remarkable missionaries across Europe."
+      ],
+      "strongestObjections": [
+        "Historians (e.g. Ian Bradley) show that much modern \"Celtic spirituality\" is romantic invention, projecting modern ecological or anti-institutional ideals onto the past.",
+        "The real early Irish church was also severely ascetic and fully part of Latin Christendom."
+      ],
+      "responses": [
+        "Advocates accept the historical corrections while valuing the prayers and the vision for today."
+      ],
+      "consequences": [
+        "Iona and Northumbria communities; Celtic-style liturgies."
+      ],
+      "relatedPositionIds": [
+        "desert-spirituality",
+        "benedictine-spirituality"
+      ],
+      "standing": "minority",
+      "sources": [
+        "bradley-celtic",
+        "sheldrake-celtic-note",
+        "carmina-gadelica-src"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "philokalic-revival",
+      "doctrineId": "spirituality-prayer",
+      "name": "The Philokalia and the Orthodox elders",
+      "altNames": [
+        "Philokalic tradition",
+        "Starchestvo (eldership)",
+        "Way of the Pilgrim"
+      ],
+      "oneLine": "The hesychast heritage, gathered in the Philokalia (1782), is for every Christian: unceasing prayer of the heart, guided by a spiritual elder (geron, starets), leads to the acquisition of the Holy Spirit.",
+      "coreClaims": [
+        "Watchfulness and the Jesus Prayer are for laity as well as monks.",
+        "Spiritual fathers and mothers (elders) guide discernment.",
+        "The aim of the Christian life is acquiring the Holy Spirit (Seraphim of Sarov).",
+        "Frequent communion and prayer unite the believer to Christ."
+      ],
+      "keyTexts": [
+        "1 Thessalonians 5:17",
+        "Hebrews 13:7",
+        "The Philokalia (1782)",
+        "The Way of a Pilgrim (1881)"
+      ],
+      "origin": "Compiled by Nicodemus the Hagiorite and Macarius of Corinth (Venice, 1782); translated into Slavonic by Paisius Velichkovsky (1793), feeding the 19th-century elders of Optina and Seraphim of Sarov, and the Way of a Pilgrim; renewed in Romania (Stăniloae) and on Athos in the 20th century.",
+      "originYear": 1782,
+      "proponentIds": [
+        "nicodemus-the-hagiorite",
+        "paisius-velichkovsky",
+        "seraphim-of-sarov",
+        "dumitru-staniloae"
+      ],
+      "proponentsOther": [
+        "Macarius of Corinth",
+        "Ambrose of Optina",
+        "Theophan the Recluse",
+        "Ignatius Brianchaninov",
+        "Paisios of Mount Athos",
+        "Sophrony Sakharov"
+      ],
+      "traditionIds": [
+        "eastern-orthodox",
+        "russian-orthodox"
+      ],
+      "strongestArguments": [
+        "It made patristic spirituality available to ordinary believers.",
+        "Elders offered personal, compassionate guidance in times of upheaval.",
+        "It sustained Orthodox faith under Ottoman and Soviet rule."
+      ],
+      "strongestObjections": [
+        "Some Orthodox bishops historically distrusted charismatic elders operating outside hierarchical control.",
+        "Critics warn of unhealthy dependence on elders (\"elder-ism\").",
+        "Western critics raise the same questions as for hesychasm."
+      ],
+      "responses": [
+        "The tradition itself stresses obedience to the Church and warns against false elders."
+      ],
+      "consequences": [
+        "Optina Hermitage and Russian eldership; global interest in the Jesus Prayer."
+      ],
+      "relatedPositionIds": [
+        "hesychasm-jesus-prayer",
+        "palamite-essence-energies",
+        "theosis"
+      ],
+      "standing": "significant",
+      "sources": [
+        "philokalia-palmer-sherrard-ware",
+        "ware-orthodox-church",
+        "ware-orthodox-way"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "dawn-prayer-movements",
+      "doctrineId": "spirituality-prayer",
+      "name": "Korean dawn prayer and African prayer movements",
+      "altNames": [
+        "Saebyeok kido (dawn prayer)",
+        "Prayer mountains",
+        "All-night vigils",
+        "Aladura (\"praying people\")"
+      ],
+      "oneLine": "Daily corporate prayer before dawn, loud simultaneous prayer (tongsong kido), fasting on prayer mountains and all-night vigils express dependence on God and fuel revival and church growth.",
+      "coreClaims": [
+        "Seek God early and corporately every day (Psalm 5:3; Mark 1:35).",
+        "Everyone prays aloud together, pouring out the heart.",
+        "Fasting and retreats to prayer mountains intensify prayer.",
+        "Prayer brings healing, protection and revival in situations of suffering."
+      ],
+      "keyTexts": [
+        "Mark 1:35",
+        "Psalm 5:3",
+        "Acts 1:14",
+        "Acts 12:5",
+        "Matthew 17:21"
+      ],
+      "origin": "Korean daily dawn prayer is traditionally traced to elder Gil Seon-ju at Jangdaehyeon Church, Pyongyang (1906), and the Great Revival of 1907; prayer mountains spread from the 1940s-70s (e.g. Osanri, Yoido Full Gospel Church). In West Africa the Aladura churches (from 1918-30) and in East Africa the Revival (from 1930s) made intense prayer central.",
+      "originYear": 1906,
+      "proponentIds": [
+        "gil-seon-ju",
+        "yong-gi-cho",
+        "joseph-ayo-babalola",
+        "simeon-nsibambi"
+      ],
+      "proponentsOther": [
+        "Choi Ja-sil (prayer mountain founder)",
+        "Josiah Oshitelu",
+        "Moses Orimolade",
+        "Redeemed Christian Church of God Holy Ghost Congress"
+      ],
+      "traditionIds": [
+        "presbyterian",
+        "pentecostal",
+        "african-initiated-churches",
+        "neo-charismatic",
+        "methodist"
+      ],
+      "strongestArguments": [
+        "It shows a deep, communal dependence on God that Western churches admire.",
+        "It is linked to remarkable church growth and resilience under persecution.",
+        "It is grassroots and lay-led."
+      ],
+      "strongestObjections": [
+        "Critics warn that prayer can become a means of securing prosperity or success.",
+        "Some see pressure, exhaustion or competition in prayer cultures.",
+        "Outsiders sometimes mistake cultural intensity for spiritual depth or vice versa."
+      ],
+      "responses": [
+        "Participants testify that dawn prayer forms discipline and humility, and leaders warn against prosperity distortions."
+      ],
+      "consequences": [
+        "Korean megachurches and missions; African prayer camps and vigils.",
+        "Global prayer movements influenced by Korean practice."
+      ],
+      "relatedPositionIds": [
+        "charismatic-prayer",
+        "global-south-christianity",
+        "heart-religion-pietist-moravian"
+      ],
+      "standing": "significant",
+      "sources": [
+        "kim-korea",
+        "blair-hunt-korean-pentecost",
+        "lee-korean-prayer",
+        "peel-aladura",
+        "ward-wild-wood-east-african-revival"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "word-centred-piety",
+      "doctrineId": "spirituality-prayer",
+      "name": "Word-centred piety (Protestant critique of mysticism)",
+      "altNames": [
+        "Evangelical piety",
+        "Faith comes by hearing"
+      ],
+      "oneLine": "God meets us not by climbing ladders of ascent or by wordless union but by coming down to us in his Word and sacraments; prayer is the response of faith to God’s promises in Scripture, offered through Christ alone.",
+      "coreClaims": [
+        "Faith comes by hearing the Word (Romans 10:17); the Spirit works through the Word.",
+        "Prayer is answering God’s promises, not achieving union by technique.",
+        "Christ is the only mediator; there is no ladder of merit or ascent.",
+        "Ordinary vocation and the Lord’s Prayer are the school of prayer."
+      ],
+      "keyTexts": [
+        "Romans 10:17",
+        "John 1:18",
+        "John 14:6",
+        "1 Timothy 2:5",
+        "Luther, A Simple Way to Pray (1535)",
+        "Calvin, Institutes III.20"
+      ],
+      "origin": "Formed in Luther’s critique of \"enthusiasts\" and of Dionysian mystical ascent (from 1520), Calvin’s teaching on prayer, and later in 20th-century theology: Barth and Emil Brunner’s polemic (Die Mystik und das Wort, 1924) contrasting mysticism and the Word.",
+      "originYear": 1520,
+      "proponentIds": [
+        "martin-luther",
+        "john-calvin",
+        "karl-barth",
+        "dietrich-bonhoeffer"
+      ],
+      "proponentsOther": [
+        "Emil Brunner",
+        "Anders Nygren (Agape and Eros)",
+        "J. I. Packer"
+      ],
+      "traditionIds": [
+        "lutheran",
+        "reformed",
+        "presbyterian",
+        "evangelical",
+        "baptist"
+      ],
+      "strongestArguments": [
+        "It keeps prayer tied to God’s revealed Word and to Christ.",
+        "It guards against spiritual elitism and technique.",
+        "It makes prayer accessible to every believer in ordinary life."
+      ],
+      "strongestObjections": [
+        "Mystics reply that Scripture itself speaks of union, vision and contemplation (2 Corinthians 3:18; 2 Peter 1:4).",
+        "Critics say it can become arid and intellectualist.",
+        "Luther himself valued Tauler and the Theologia Germanica, so the opposition is overdrawn."
+      ],
+      "responses": [
+        "Many Protestants now combine Word-centred prayer with practices like lectio divina and silence, arguing these are ways of attending to the Word."
+      ],
+      "consequences": [
+        "Protestant devotional culture; preaching-centred worship."
+      ],
+      "relatedPositionIds": [
+        "puritan-meditation",
+        "contemplative-prayer-critique",
+        "rhineland-mysticism",
+        "sole-mediation-protestant"
+      ],
+      "standing": "significant",
+      "sources": [
+        "mcgrath-reformation-thought",
+        "mcginn-mysticism",
+        "sheldrake-spirituality"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "contemplative-prayer-critique",
+      "doctrineId": "spirituality-prayer",
+      "name": "Critiques of contemplative prayer techniques",
+      "altNames": [
+        "Evangelical critique of contemplative spirituality",
+        "CDF cautions (1989)"
+      ],
+      "oneLine": "Christian prayer is personal dialogue with the triune God through Christ, grounded in Scripture; methods that empty the mind, repeat words mechanically or seek altered states risk importing non-Christian spirituality.",
+      "coreClaims": [
+        "Jesus warns against \"vain repetitions\" (Matthew 6:7).",
+        "Biblical meditation is filling the mind with God’s Word, not emptying it.",
+        "Experiences must be tested by Scripture; feelings of union are not self-authenticating.",
+        "Borrowing from Hindu or Buddhist techniques may confuse the Creator-creature distinction."
+      ],
+      "keyTexts": [
+        "Matthew 6:7-9",
+        "Psalm 1:2",
+        "Philippians 4:8",
+        "1 John 4:1",
+        "CDF, Orationis formas (1989)"
+      ],
+      "origin": "Voiced by Catholic authorities (the Congregation for the Doctrine of the Faith’s 1989 letter on Christian meditation) and especially by evangelical and Reformed writers since the 1980s-90s responding to Centering Prayer, Transcendental Meditation and the spread of \"spiritual formation\" in evangelical churches.",
+      "originYear": 1989,
+      "proponentIds": [],
+      "proponentsOther": [
+        "Joseph Ratzinger (as CDF prefect)",
+        "Evangelical apologetics writers",
+        "Reformed critics of the spiritual formation movement"
+      ],
+      "traditionIds": [
+        "evangelical",
+        "reformed",
+        "baptist",
+        "catholic"
+      ],
+      "strongestArguments": [
+        "It protects the distinctiveness of Christian prayer.",
+        "It insists on Scripture as the test of experience.",
+        "It warns against spiritual consumerism and technique."
+      ],
+      "strongestObjections": [
+        "Contemplatives reply that the methods come from Christian sources (Cassian, the Cloud, the Jesus Prayer), not from the East.",
+        "Critics say it caricatures contemplative practice and overlooks biblical silence (Psalm 46:10; 1 Kings 19:12)."
+      ],
+      "responses": [
+        "Critics distinguish acceptable silence and meditation on Scripture from mind-emptying techniques; the CDF letter itself affirms Christian contemplation while warning against confusion."
+      ],
+      "consequences": [
+        "Debates within evangelical seminaries and churches about spiritual formation."
+      ],
+      "relatedPositionIds": [
+        "contemplative-revival",
+        "word-centred-piety",
+        "hesychasm-jesus-prayer"
+      ],
+      "standing": "minority",
+      "sources": [
+        "cdf-christian-meditation-1989",
+        "sheldrake-spirituality"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "protestant-vocation-asceticism",
+      "doctrineId": "spirituality-prayer",
+      "name": "Asceticism debated: monastic vows versus vocation in the world",
+      "altNames": [
+        "Worldly asceticism",
+        "Priesthood of all believers",
+        "Critique of monastic vows"
+      ],
+      "oneLine": "Holiness is not a higher grade reached by vows of poverty, chastity and obedience but the calling of every Christian in marriage, work and household; true asceticism is daily self-denial in ordinary vocation.",
+      "coreClaims": [
+        "All baptised Christians are priests and have holy callings (1 Peter 2:9).",
+        "Vows not commanded by God cannot earn merit; marriage and work are honourable callings.",
+        "Self-denial and discipline belong to everyday life (\"inner-worldly asceticism\", in Weber’s phrase)."
+      ],
+      "keyTexts": [
+        "1 Peter 2:9",
+        "1 Corinthians 7:17-24",
+        "Colossians 2:20-23",
+        "1 Timothy 4:1-5",
+        "Luther, On Monastic Vows (1521)"
+      ],
+      "origin": "Articulated by Luther in On Monastic Vows (1521) and by other Reformers, leading to the dissolution of monasteries in Protestant lands (e.g. England 1536-40). Catholic and Orthodox traditions defended monastic life as a gift and sign of the Kingdom; Anglican and Lutheran religious communities later revived it.",
+      "originYear": 1521,
+      "proponentIds": [
+        "martin-luther",
+        "john-calvin"
+      ],
+      "proponentsOther": [
+        "Max Weber (sociological interpreter)",
+        "Anglican Oxford Movement (revival of religious orders)",
+        "Taizé (Protestant monastic community, 1940s)"
+      ],
+      "traditionIds": [
+        "lutheran",
+        "reformed",
+        "anglican",
+        "baptist"
+      ],
+      "strongestArguments": [
+        "It honours ordinary life and work as service to God.",
+        "It rejects two-tier Christianity.",
+        "It corrected real abuses in late-medieval monasteries."
+      ],
+      "strongestObjections": [
+        "Catholic and Orthodox critics answer that Jesus and Paul commend celibacy and renunciation for some (Matthew 19:12, 21; 1 Corinthians 7:7-8).",
+        "The loss of monasteries removed centres of prayer, learning and care for the poor.",
+        "Protestant revivals of community life suggest something was lost."
+      ],
+      "responses": [
+        "Reformers did not reject discipline or celibacy as such but compulsory vows and merit; later Protestant communities (Taizé, Anglican orders) seek a balance."
+      ],
+      "consequences": [
+        "Dissolution of the monasteries; the Protestant work ethic debate.",
+        "Revival of religious communities among Anglicans and Lutherans."
+      ],
+      "relatedPositionIds": [
+        "desert-spirituality",
+        "benedictine-spirituality",
+        "word-centred-piety"
+      ],
+      "standing": "significant",
+      "sources": [
+        "macculloch-reformation",
+        "sheldrake-spirituality"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "controversies": [
+    {
+      "id": "is-contemplative-prayer-biblical",
+      "question": "Are contemplative and repetitive methods of prayer faithful to Scripture?",
+      "title": "Is contemplative prayer biblical?",
+      "summary": "Silent, wordless or repetitive prayer, from the Jesus Prayer and The Cloud of Unknowing to modern Centering Prayer, has been prized by monks and mystics and rediscovered by many Protestants. Critics, from some Reformers to modern evangelicals and even a 1989 Vatican letter, warn of technique, \"vain repetitions\" and borrowing from non-Christian meditation. The debate turns on what biblical meditation is and how experience is tested.",
+      "doctrineIds": [
+        "spirituality-prayer"
+      ],
+      "sides": [
+        {
+          "name": "Contemplative tradition",
+          "positionId": "contemplative-revival",
+          "steelman": "The God who speaks also invites us to be still and know him. The Desert Fathers, the Cloud of Unknowing, the Carmelites and the hesychasts all teach a prayer beyond many words, in which we simply consent to God’s loving presence. This is not an Eastern import but the deepest current of our own tradition, always joined to Scripture, sacraments and charity, and it heals the anxious, distracted self that modern life produces.",
+          "arguments": [
+            "Psalm 46:10 and 1 Kings 19:12 (the still small voice)",
+            "Romans 8:26: the Spirit prays beyond words",
+            "Unbroken witness of saints East and West"
+          ],
+          "counterArguments": [
+            "Risk of technique and self-focus",
+            "Scripture-less experience can be misleading"
+          ],
+          "keyTexts": [
+            "Psalm 46:10",
+            "Matthew 6:6",
+            "Romans 8:26-27",
+            "The Cloud of Unknowing"
+          ],
+          "quoteIds": [
+            "merton-contemplation-awareness",
+            "keating-consent",
+            "evagrius-theologian-prays"
+          ]
+        },
+        {
+          "name": "Critics of contemplative technique",
+          "positionId": "contemplative-prayer-critique",
+          "steelman": "Biblical prayer is a conversation with a personal God, grounded in his promises: the Psalms are full of words, arguments and petitions. Jesus warned against empty repetitions. Biblical meditation fills the mind with Scripture; it does not empty it. When Christians adopt methods designed to still the mind or seek altered states, they risk confusing psychological experience with the Spirit and blurring the line between Creator and creature.",
+          "arguments": [
+            "Matthew 6:7: no vain repetitions",
+            "Meditation in Scripture is on God’s Word (Psalm 1:2)",
+            "Test the spirits (1 John 4:1)"
+          ],
+          "counterArguments": [
+            "Ignores Christian origins of the methods",
+            "Overlooks biblical silence and wordless prayer"
+          ],
+          "keyTexts": [
+            "Matthew 6:7-9",
+            "Psalm 1:2",
+            "Philippians 4:8",
+            "1 John 4:1"
+          ],
+          "quoteIds": [
+            "luther-garland-prayer",
+            "calvin-prayer-exercise-faith"
+          ]
+        },
+        {
+          "name": "Orthodox hesychast perspective",
+          "positionId": "hesychasm-jesus-prayer",
+          "steelman": "The Jesus Prayer is not a mantra but the tax collector’s cry addressed to a Person, prayed in humility within the Church’s life and under a spiritual father. Its repetition is like a child calling its mother, not heathen babbling; and its goal is not an empty mind but a heart filled with Christ.",
+          "arguments": [
+            "Luke 18:13",
+            "Councils of 1341 and 1351 upheld hesychast prayer",
+            "Need for guidance and sacramental life"
+          ],
+          "counterArguments": [
+            "Western critics question the essence-energies framework"
+          ],
+          "keyTexts": [
+            "Luke 18:13",
+            "1 Thessalonians 5:17",
+            "The Philokalia"
+          ],
+          "quoteIds": [
+            "palamas-energies",
+            "nicodemus-philokalia-for-all"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 390,
+          "text": "Evagrius writes on pure, imageless prayer."
+        },
+        {
+          "year": 426,
+          "text": "Cassian’s Conferences recommend repeating a single verse (Psalm 70:1)."
+        },
+        {
+          "year": 1351,
+          "text": "Council at Constantinople upholds the hesychasts.",
+          "eventId": "hesychast-controversy-1341"
+        },
+        {
+          "year": 1375,
+          "text": "The Cloud of Unknowing teaches prayer with a single short word."
+        },
+        {
+          "year": 1535,
+          "text": "Luther’s A Simple Way to Pray models Word-centred prayer."
+        },
+        {
+          "year": 1687,
+          "text": "Rome condemns Molinos’s quietism.",
+          "eventId": "quietism-condemned-1687"
+        },
+        {
+          "year": 1782,
+          "text": "The Philokalia is published in Venice.",
+          "eventId": "philokalia-published-1782"
+        },
+        {
+          "year": 1961,
+          "text": "Merton’s New Seeds of Contemplation."
+        },
+        {
+          "year": 1975,
+          "text": "Centering Prayer developed at St Joseph’s Abbey, Spencer, Massachusetts (c.1975)."
+        },
+        {
+          "year": 1978,
+          "text": "Richard Foster’s Celebration of Discipline popularises spiritual disciplines among evangelicals."
+        },
+        {
+          "year": 1989,
+          "text": "CDF letter Orationis formas cautions about Eastern methods while affirming Christian contemplation."
+        }
+      ],
+      "resolution": {
+        "kind": "open",
+        "text": "Contemplative prayer is officially affirmed in Catholic and Orthodox teaching, with cautions about methods and guidance. Among Protestants it is widely practised in mainline and many evangelical churches, but strongly opposed by some Reformed and fundamentalist writers. No common resolution exists."
+      },
+      "consequences": [
+        "Spread of retreat centres and spiritual direction across denominations.",
+        "Recurring disputes in evangelical seminaries over spiritual formation."
+      ],
+      "sources": [
+        "sheldrake-spirituality",
+        "cdf-christian-meditation-1989",
+        "keating-open-mind",
+        "ware-orthodox-church",
+        "foster-celebration"
+      ]
+    },
+    {
+      "id": "mysticism-and-orthodoxy",
+      "question": "When does the pursuit of union with God become heresy?",
+      "title": "Mysticism and orthodoxy: Eckhart, the hesychasts and the quietists",
+      "summary": "Mystics claim direct experience of God beyond words; church authorities must judge whether such claims fit the faith. The East vindicated the hesychasts (1341-51), while the West condemned propositions of Meister Eckhart (1329), and later Molinos (1687) and Fénelon (1699), even as it canonised Teresa of Ávila and John of the Cross. Protestants were divided between admiration and suspicion. The cases show how traditions test mystical claims.",
+      "doctrineIds": [
+        "spirituality-prayer",
+        "salvation"
+      ],
+      "sides": [
+        {
+          "name": "Mystics of union and detachment",
+          "positionId": "rhineland-mysticism",
+          "steelman": "God is greater than every concept, so the soul must let go of images and self-will to find God in its depths. Paradoxical language is the only honest way to speak of union with the infinite. Our teaching aims at humility and love, and we submit it to the Church’s judgement; the condemnations seized on phrases torn from context.",
+          "arguments": [
+            "Apophatic tradition of Dionysius",
+            "Galatians 2:20: Christ lives in me",
+            "Fruits of humility and charity"
+          ],
+          "counterArguments": [
+            "Language implies identity of soul and God",
+            "Undermines sacraments and moral effort"
+          ],
+          "keyTexts": [
+            "Galatians 2:20",
+            "2 Peter 1:4",
+            "Eckhart, German Sermons"
+          ],
+          "quoteIds": [
+            "eckhart-rid-of-god",
+            "molinos-annihilation"
+          ]
+        },
+        {
+          "name": "Ecclesial discernment (bishops, councils, inquisitors)",
+          "steelman": "The Church honours true mystics, but must protect the faithful from teachings that blur the Creator-creature distinction, make the sacraments and moral struggle unnecessary, or encourage passivity toward sin. Experience must be judged by the faith handed down, and pastors must guard simple believers from misunderstandings that popular preaching can spread.",
+          "arguments": [
+            "1 John 4:1: test the spirits",
+            "Pastoral responsibility for the simple",
+            "Continuity with dogma"
+          ],
+          "counterArguments": [
+            "Condemnations sometimes motivated by politics and misreadings",
+            "Later rehabilitation of condemned figures"
+          ],
+          "keyTexts": [
+            "1 John 4:1",
+            "Galatians 1:8",
+            "2 Timothy 4:3-4"
+          ],
+          "quoteIds": []
+        },
+        {
+          "name": "Hesychasts and the Eastern synthesis",
+          "positionId": "hesychasm-jesus-prayer",
+          "steelman": "There is no opposition between dogma and mysticism: theology is the experience of the saints, and the councils that upheld Palamas showed that the Church can recognise genuine vision of the uncreated light while rejecting rationalist objections.",
+          "arguments": [
+            "Transfiguration light",
+            "Union of theology and prayer"
+          ],
+          "counterArguments": [
+            "Western critics of the essence-energies distinction"
+          ],
+          "keyTexts": [
+            "Matthew 17:1-8",
+            "2 Peter 1:4"
+          ],
+          "quoteIds": [
+            "palamas-energies"
+          ]
+        },
+        {
+          "name": "Word-centred Protestant critique",
+          "positionId": "word-centred-piety",
+          "steelman": "God does not wait for us at the top of a ladder of ascent; he comes down to us in Christ, the Word preached and the sacraments. Mystical claims to immediate union bypass the one Mediator and the external Word, and enthusiasts who trust inner voices end in confusion.",
+          "arguments": [
+            "Romans 10:17",
+            "1 Timothy 2:5",
+            "Luther’s critique of enthusiasts"
+          ],
+          "counterArguments": [
+            "Luther himself prized Tauler",
+            "Scripture speaks of union and vision"
+          ],
+          "keyTexts": [
+            "Romans 10:17",
+            "John 1:18",
+            "1 Timothy 2:5"
+          ],
+          "quoteIds": [
+            "luther-garland-prayer"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 1310,
+          "text": "Marguerite Porete burned in Paris for The Mirror of Simple Souls."
+        },
+        {
+          "year": 1329,
+          "text": "In agro dominico condemns 28 propositions from Eckhart.",
+          "eventId": "eckhart-condemned-1329"
+        },
+        {
+          "year": 1341,
+          "text": "Constantinople council upholds Palamas against Barlaam.",
+          "eventId": "hesychast-controversy-1341"
+        },
+        {
+          "year": 1516,
+          "text": "Luther publishes the Theologia Germanica."
+        },
+        {
+          "year": 1559,
+          "text": "Spanish Index bans many vernacular spiritual books; Teresa’s writings later examined by the Inquisition."
+        },
+        {
+          "year": 1622,
+          "text": "Teresa of Ávila canonised; John of the Cross follows in 1726."
+        },
+        {
+          "year": 1687,
+          "text": "Coelestis Pastor condemns Molinos.",
+          "eventId": "quietism-condemned-1687"
+        },
+        {
+          "year": 1699,
+          "text": "Innocent XII condemns 23 propositions of Fénelon’s Maxims of the Saints after Bossuet’s campaign."
+        },
+        {
+          "year": 1926,
+          "text": "Pius XI declares John of the Cross a Doctor of the Church."
+        },
+        {
+          "year": 1970,
+          "text": "Teresa of Ávila becomes the first woman Doctor of the Church."
+        }
+      ],
+      "resolution": {
+        "kind": "mixed",
+        "text": "Orthodoxy made hesychast mysticism part of its dogmatic identity. Catholicism canonised some mystics and condemned others, and modern scholarship has rehabilitated Eckhart’s reputation without formal revocation of the bull. Protestants remain divided between appreciation and suspicion of mysticism."
+      },
+      "consequences": [
+        "Caution about vernacular mysticism in the late medieval and early modern West.",
+        "Distinctive Orthodox fusion of mysticism and doctrine.",
+        "Protestant readers adopted condemned Catholic mystics (Guyon, Molinos) in Pietist and Holiness circles."
+      ],
+      "sources": [
+        "mcginn-eckhart",
+        "mcginn-mysticism",
+        "meyendorff-palamas",
+        "knox-enthusiasm",
+        "odcc"
+      ]
+    }
+  ]
+}

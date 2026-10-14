@@ -1,0 +1,3109 @@
+{
+  "sources": [
+    {
+      "id": "mcgowan-ancient-worship",
+      "title": "Ancient Christian Worship: Early Church Practices in Social, Historical, and Theological Perspective",
+      "kind": "secondary",
+      "author": "Andrew B. McGowan",
+      "year": 2014
+    },
+    {
+      "id": "taft-byzantine-rite",
+      "title": "The Byzantine Rite: A Short History",
+      "kind": "secondary",
+      "author": "Robert F. Taft",
+      "year": 1992
+    },
+    {
+      "id": "jungmann-mass-roman-rite",
+      "title": "The Mass of the Roman Rite: Its Origins and Development (Missarum Sollemnia)",
+      "kind": "secondary",
+      "author": "Josef A. Jungmann",
+      "year": 1951
+    },
+    {
+      "id": "white-protestant-worship",
+      "title": "Protestant Worship: Traditions in Transition",
+      "kind": "secondary",
+      "author": "James F. White",
+      "year": 1989
+    },
+    {
+      "id": "cuming-anglican-liturgy",
+      "title": "A History of Anglican Liturgy",
+      "kind": "secondary",
+      "author": "G. J. Cuming",
+      "year": 1982
+    },
+    {
+      "id": "talley-liturgical-year",
+      "title": "The Origins of the Liturgical Year",
+      "kind": "secondary",
+      "author": "Thomas J. Talley",
+      "year": 1986
+    },
+    {
+      "id": "ruth-lim-contemporary-worship",
+      "title": "Lovin' on Jesus: A Concise History of Contemporary Worship",
+      "kind": "secondary",
+      "author": "Lester Ruth and Swee Hong Lim",
+      "year": 2017
+    },
+    {
+      "id": "ferguson-acappella",
+      "title": "A Cappella Music in the Public Worship of the Church",
+      "kind": "secondary",
+      "author": "Everett Ferguson",
+      "year": 1999
+    },
+    {
+      "id": "faggioli-true-reform",
+      "title": "True Reform: Liturgy and Ecclesiology in Sacrosanctum Concilium",
+      "kind": "secondary",
+      "author": "Massimo Faggioli",
+      "year": 2012
+    },
+    {
+      "id": "binns-ethiopian-church",
+      "title": "The Orthodox Church of Ethiopia: A History",
+      "kind": "secondary",
+      "author": "John Binns",
+      "year": 2016
+    },
+    {
+      "id": "sacrosanctum-concilium-text",
+      "title": "Sacrosanctum Concilium: Constitution on the Sacred Liturgy",
+      "kind": "primary",
+      "author": "Second Vatican Council",
+      "year": 1963,
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html"
+    },
+    {
+      "id": "traditionis-custodes-text",
+      "title": "Traditionis Custodes (motu proprio) and accompanying letter",
+      "kind": "primary",
+      "author": "Pope Francis",
+      "year": 2021,
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html"
+    },
+    {
+      "id": "finney-lectures-text",
+      "title": "Lectures on Revivals of Religion",
+      "kind": "primary",
+      "author": "Charles G. Finney",
+      "year": 1835,
+      "url": "https://www.ccel.org/ccel/finney/revivals.html"
+    },
+    {
+      "id": "hatch-democratization",
+      "title": "The Democratization of American Christianity",
+      "kind": "secondary",
+      "author": "Nathan O. Hatch",
+      "year": 1989
+    }
+  ],
+  "doctrines": [
+    {
+      "id": "worship-liturgy",
+      "name": "Worship and Liturgy",
+      "icon": "chalice",
+      "order": 18,
+      "question": "How should the Church worship God?",
+      "summary": "From Jewish synagogue and table prayers to the Didache, the Divine Liturgy, the Roman Mass, Luther’s German Mass, the Book of Common Prayer, Reformed psalmody, Quaker silence, revivalist new measures, Pentecostal praise and contemporary worship music, Christians have argued over what worship God requires and permits.",
+      "longText": "Christian worship grew out of the Temple and synagogue. Its two poles are the service of the Word (readings, psalms, prayers, preaching) and the Lord’s Supper that Jesus commanded. The Didache’s Jewish-style thanksgivings and Justin Martyr’s account of the Sunday assembly (c.155) show the outline that every ancient rite kept. In the fourth and fifth centuries great regional liturgies took shape: the Byzantine Divine Liturgy of St John Chrysostom, the Coptic, Ethiopian, Syriac and Armenian rites, the East Syriac Anaphora of Addai and Mari, and the Roman rite. A Christian year of Easter, Christmas, Lent and the saints’ days grew alongside them. Liturgy was also mission: the Russian Primary Chronicle says the envoys of Kyiv chose Byzantine Christianity because of the beauty of its worship.\n\nThe Reformation made worship a battleground. Luther purified the Mass but kept what Scripture did not forbid, the \"normative principle\", and gave congregations hymns in their own language. Cranmer’s Book of Common Prayer (1549, 1662) gave the English church a single vernacular liturgy. Zwingli, Calvin and the Puritans held that only what God commands may be used, the \"regulative principle\". They removed images, organs and holy days, and some sang only the Psalms. Trent answered with Pius V’s uniform Roman Missal (1570). Quakers went furthest and abandoned outward forms for silent waiting on the Spirit.\n\nIn the modern era Isaac Watts and Charles Wesley made hymn-singing the voice of evangelical piety. Finney’s \"new measures\" bent worship toward conversion, and Mercersburg theologians and Anglo-Catholics answered with liturgical renewal. The Stone-Campbell movement divided over organs. Azusa Street (1906) launched Pentecostal praise with tongues, dance and spontaneity, and from the 1970s contemporary worship music spread across the globe. Vatican II’s Sacrosanctum Concilium (1963) and the Mass of Paul VI (1969) changed Catholic worship and influenced Protestant liturgies, but they left a traditionalist movement whose standing has swung between Summorum Pontificum (2007) and Traditionis Custodes (2021). Today Ethiopian chant, Korean dawn prayer, African dance and Latin American Pentecostal praise show that the future of Christian worship lies largely in the Global South.",
+      "flow": {
+        "nodes": [
+          {
+            "id": "q",
+            "kind": "question",
+            "label": "How should the Church worship God?",
+            "text": "Jesus said the Father seeks those who worship \"in spirit and in truth\". Should Christian worship follow fixed ancient liturgies or be free and spontaneous? May the church use whatever Scripture does not forbid, or only what it commands? Which songs, instruments, days and seasons belong in worship, and who decides?",
+            "quoteIds": []
+          },
+          {
+            "id": "s-temple",
+            "kind": "scripture",
+            "label": "Temple, synagogue and psalms (Lev 1–7; Ps 95–100; 150; Neh 8)",
+            "year": -515,
+            "text": "Israel worshipped through Temple sacrifice and festivals with priests, Levitical singers, instruments and psalms; after the Exile the synagogue developed reading and exposition of Scripture and prayer. Both shaped Christian worship: the Eucharist as sacrifice and thanksgiving, the service of the Word as synagogue inheritance.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-supper",
+            "kind": "scripture",
+            "label": "\"This do in remembrance of me\" (Luke 22:19–20; 1 Cor 11:23–26; Acts 2:42)",
+            "year": 30,
+            "text": "At a Passover-season meal Jesus gives bread and cup as his body and blood; the Jerusalem believers continue \"in the apostles’ doctrine and fellowship, and in breaking of bread, and in prayers\". Every Christian liturgy claims to obey this command.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-spirit",
+            "kind": "scripture",
+            "label": "In spirit and truth; psalms, hymns and spiritual songs (John 4:23–24; Col 3:16; 1 Cor 14:26–40)",
+            "year": 55,
+            "text": "Paul describes gatherings where \"every one of you hath a psalm, hath a doctrine, hath a tongue\", yet insists that \"all things be done decently and in order\"; believers sing \"psalms and hymns and spiritual songs\". Liturgical and free-church traditions each claim these texts.",
+            "quoteIds": []
+          },
+          {
+            "id": "v-didache",
+            "kind": "voice",
+            "label": "Didache: Jewish-rooted thanksgivings and the Lord’s Day (c.100)",
+            "year": 100,
+            "text": "The Didache gives eucharistic thanksgivings modelled on Jewish table blessings (\"as this broken bread was scattered upon the mountains\"), prescribes the Lord’s Prayer three times daily, and directs believers to gather \"every Lord’s day\" to break bread after confessing their sins.",
+            "ref": {
+              "type": "work",
+              "id": "didache"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "v-justin",
+            "kind": "voice",
+            "label": "Justin: the Sunday assembly (c.155)",
+            "year": 155,
+            "text": "Justin’s description of readings, sermon, prayers, the kiss of peace, offering of bread and wine, the president’s thanksgiving \"according to his ability\", the people’s Amen and distribution by deacons is the earliest full outline of the eucharistic liturgy.",
+            "ref": {
+              "type": "person",
+              "id": "justin-martyr"
+            },
+            "quoteIds": [
+              "justin-day-called-sunday"
+            ]
+          },
+          {
+            "id": "v-hippolytus",
+            "kind": "voice",
+            "label": "Apostolic Tradition: an early eucharistic prayer (c.215)",
+            "year": 215,
+            "text": "A church order ascribed to Hippolytus preserves a eucharistic prayer with thanksgiving, institution narrative, memorial-offering and invocation of the Spirit. Scholars debate its date and attribution, but it shaped 20th-century reforms across traditions.",
+            "ref": {
+              "type": "work",
+              "id": "apostolic-tradition"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "d-easter",
+            "kind": "decision",
+            "label": "Nicaea and a common Easter (325)",
+            "year": 325,
+            "text": "After the Quartodeciman controversy (c.190) over whether Pascha follows the Jewish 14 Nisan or always falls on Sunday, the Council of Nicaea seeks a common Sunday date for Easter, the pivot of the Christian year. Differing calendars still separate Eastern and Western Easter dates.",
+            "ref": {
+              "type": "event",
+              "id": "council-of-nicaea-325"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "c-calendar",
+            "kind": "consequence",
+            "label": "The liturgical year takes shape (336–384)",
+            "year": 384,
+            "text": "Christmas on 25 December is first attested in Rome (336), Epiphany in the East; Egeria describes Lent, Palm Sunday, Holy Week and the Easter vigil in Jerusalem (c.381–84). Saints’ days and seasons follow, making time itself a re-telling of Christ’s life.",
+            "ref": {
+              "type": "position",
+              "id": "liturgical-year"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-byzantine",
+            "kind": "position",
+            "label": "The Divine Liturgy of St John Chrysostom (c.400 onwards)",
+            "year": 400,
+            "text": "Byzantine worship develops around Hagia Sophia: the Little and Great Entrances, the Trisagion, the Cherubic Hymn, the epiclesis and the iconostasis. Liturgy is understood as heaven on earth, participation in the worship of angels.",
+            "ref": {
+              "type": "position",
+              "id": "byzantine-divine-liturgy"
+            },
+            "quoteIds": [
+              "chrysostom-paschal-homily"
+            ]
+          },
+          {
+            "id": "p-oriental",
+            "kind": "position",
+            "label": "Coptic, Ethiopian, Syriac, Armenian and East Syriac liturgies (5th–6th c.)",
+            "year": 500,
+            "text": "The Oriental Orthodox and the Church of the East preserve distinct rites: the Coptic anaphoras of Basil, Gregory and Cyril; Ethiopia’s many anaphoras in Geʿez with Yared’s chant, drums and sistra; the Syriac Liturgy of St James; the Armenian Badarak; and the ancient East Syriac Anaphora of Addai and Mari.",
+            "ref": {
+              "type": "position",
+              "id": "oriental-and-syriac-liturgies"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "v-gregory",
+            "kind": "voice",
+            "label": "Gregory the Great and the Roman rite (c.600)",
+            "year": 600,
+            "text": "Tradition credits Gregory with shaping the Roman Canon and the chant that bears his name; historically, \"Gregorian\" chant emerged from Roman–Frankish fusion under the Carolingians. The Roman rite spreads across Western Europe, displacing Gallican and later Mozarabic uses.",
+            "ref": {
+              "type": "person",
+              "id": "gregory-the-great"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "c-rus",
+            "kind": "consequence",
+            "label": "Beauty that converts: the envoys of Vladimir (987–988)",
+            "year": 988,
+            "text": "According to the Russian Primary Chronicle, envoys sent to compare religions reported that in Hagia Sophia they did not know whether they were in heaven or on earth; Vladimir’s Rus’ received baptism in the Byzantine rite (988). Liturgy becomes a means of mission.",
+            "ref": {
+              "type": "event",
+              "id": "baptism-of-rus-988"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-normative",
+            "kind": "position",
+            "label": "Luther: reform the Mass, keep what is not forbidden (1523–26)",
+            "year": 1523,
+            "text": "Luther removes the Canon’s language of sacrifice but keeps vestments, candles, chant and the church year, adding congregational chorales. The \"normative principle\": whatever Scripture does not forbid may be used, if it serves the gospel.",
+            "ref": {
+              "type": "position",
+              "id": "normative-principle"
+            },
+            "quoteIds": [
+              "luther-deutsche-messe-para"
+            ]
+          },
+          {
+            "id": "d-bcp",
+            "kind": "decision",
+            "label": "The Book of Common Prayer (1549)",
+            "year": 1549,
+            "text": "Cranmer’s English liturgy gives one \"common\" order for the whole realm: daily Morning and Evening Prayer, Holy Communion, and rites of passage, in \"a tongue understanded of the people\". It is revised in 1552, 1559 and 1662.",
+            "ref": {
+              "type": "event",
+              "id": "book-of-common-prayer-1549"
+            },
+            "quoteIds": [
+              "cranmer-preface-1549"
+            ]
+          },
+          {
+            "id": "p-regulative",
+            "kind": "position",
+            "label": "Calvin and the regulative principle (1543–1560)",
+            "year": 1559,
+            "text": "In Geneva and Scotland the Reformed teach that only what God commands in Scripture may be used in worship: sermons, prayers, metrical psalms, the sacraments. Images, organs, vestments and holy days are removed.",
+            "ref": {
+              "type": "position",
+              "id": "regulative-principle"
+            },
+            "quoteIds": [
+              "calvin-worship-para"
+            ]
+          },
+          {
+            "id": "d-missal",
+            "kind": "decision",
+            "label": "Trent and the Roman Missal of Pius V (1570)",
+            "year": 1570,
+            "text": "After Trent, Pius V’s missal imposes a uniform Latin Mass on the Latin Church for four centuries; the Congregation of Rites (1588) polices rubrics. Baroque churches, polyphony and Eucharistic devotion flourish within it.",
+            "ref": {
+              "type": "event",
+              "id": "roman-missal-1570"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "d-directory",
+            "kind": "decision",
+            "label": "Westminster Directory replaces the Prayer Book (1645)",
+            "year": 1645,
+            "text": "Puritan Parliament abolishes the Prayer Book, replacing it with a directory of rubrics and free prayer and abolishing Christmas and saints’ days. Scotland’s Metrical Psalter (1650) follows.",
+            "ref": {
+              "type": "event",
+              "id": "directory-for-public-worship-1645"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-psalmody",
+            "kind": "position",
+            "label": "Exclusive psalmody (1650)",
+            "year": 1650,
+            "text": "Many Scottish and Ulster Presbyterians sing only the inspired Psalms, unaccompanied, holding that God has given the church its hymnbook in Scripture.",
+            "ref": {
+              "type": "position",
+              "id": "exclusive-psalmody"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-quaker",
+            "kind": "position",
+            "label": "Quaker silent worship (1650s)",
+            "year": 1652,
+            "text": "Friends reject set liturgy, sacraments and paid ministry, gathering in silence until someone is moved by the Spirit to speak: worship stripped of every outward form.",
+            "ref": {
+              "type": "position",
+              "id": "quaker-silent-worship"
+            },
+            "quoteIds": [
+              "barclay-silent-worship-para"
+            ]
+          },
+          {
+            "id": "c-1662",
+            "kind": "consequence",
+            "label": "The 1662 Prayer Book and the Great Ejection",
+            "year": 1662,
+            "text": "At the Restoration the revised Book of Common Prayer is imposed by the Act of Uniformity; about 2,000 ministers who refuse it are ejected, creating English Nonconformity. The 1662 book later travels with the Anglican Communion into Africa, Asia and the Pacific.",
+            "ref": {
+              "type": "event",
+              "id": "great-ejection-1662"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "v-watts",
+            "kind": "voice",
+            "label": "Isaac Watts and the Wesleys: the hymn revolution (1707–1780)",
+            "year": 1707,
+            "text": "Watts’s Hymns and Spiritual Songs (1707) and Charles Wesley’s some 6,000 hymns make freely composed hymnody the voice of evangelical worship, though many Reformed congregations resist it for generations.",
+            "ref": {
+              "type": "person",
+              "id": "isaac-watts"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-new-measures",
+            "kind": "position",
+            "label": "Finney’s \"new measures\" (1830s)",
+            "year": 1835,
+            "text": "Revivalists use protracted meetings, the anxious bench, women praying aloud and direct appeals for decision. Worship becomes oriented toward conversion and measurable results, the root of the altar call and of later \"seeker\" services.",
+            "ref": {
+              "type": "position",
+              "id": "revivalist-new-measures"
+            },
+            "quoteIds": [
+              "finney-revival-not-miracle"
+            ]
+          },
+          {
+            "id": "a-nevin",
+            "kind": "argument",
+            "label": "Objection: The Anxious Bench (1843)",
+            "year": 1843,
+            "text": "J. W. Nevin of Mercersburg argues that revivalism replaces the church’s sacramental and catechetical life with manipulated emotion; Lutheran confessionalists and Anglo-Catholics (the Oxford Movement, from 1833) mount parallel liturgical recoveries.",
+            "ref": {
+              "type": "person",
+              "id": "john-williamson-nevin"
+            },
+            "quoteIds": [
+              "nevin-anxious-bench-para"
+            ]
+          },
+          {
+            "id": "a-instruments",
+            "kind": "argument",
+            "label": "Instruments controversy in the Stone-Campbell movement (1860–1906)",
+            "year": 1889,
+            "text": "When congregations introduce organs, opponents argue that the New Testament shows only singing, and that adding instruments violates the silence of Scripture. The division is formalised when the a cappella Churches of Christ are listed separately in 1906.",
+            "ref": {
+              "type": "event",
+              "id": "churches-of-christ-instrument-division-1906"
+            },
+            "quoteIds": [
+              "campbell-instruments-para"
+            ]
+          },
+          {
+            "id": "p-pentecostal",
+            "kind": "position",
+            "label": "Pentecostal and charismatic worship (1906 onwards)",
+            "year": 1906,
+            "text": "Azusa Street brings spontaneous praise, tongues, prophecy, raised hands, dance, healing prayer and Black gospel music into worship. The charismatic renewal (from 1960) carries this style into Catholic, Anglican and Protestant churches.",
+            "ref": {
+              "type": "position",
+              "id": "pentecostal-charismatic-worship"
+            },
+            "quoteIds": [
+              "seymour-pentecost-has-come"
+            ]
+          },
+          {
+            "id": "d-sc",
+            "kind": "decision",
+            "label": "Vatican II: Sacrosanctum Concilium (1963)",
+            "year": 1963,
+            "text": "The Council calls for \"full, conscious, and active participation\", the vernacular, more Scripture and cultural adaptation, the fruit of the Liturgical Movement that had also influenced Lutherans and Anglicans.",
+            "ref": {
+              "type": "event",
+              "id": "sacrosanctum-concilium-1963"
+            },
+            "quoteIds": [
+              "sacrosanctum-concilium-participation-para"
+            ]
+          },
+          {
+            "id": "p-novus",
+            "kind": "position",
+            "label": "The Mass of Paul VI (1969)",
+            "year": 1969,
+            "text": "The reformed Roman Missal introduces a three-year lectionary, new eucharistic prayers (Prayer II based on the Apostolic Tradition), prayers of the faithful and vernacular celebration, usually facing the people. Anglican, Lutheran and Methodist rites revised in the 1970s–80s follow similar patterns.",
+            "ref": {
+              "type": "position",
+              "id": "vatican-ii-liturgical-reform"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-cwm",
+            "kind": "position",
+            "label": "Contemporary worship music (1970s onwards)",
+            "year": 1971,
+            "text": "From the Jesus Movement (Maranatha! Music, 1971), the Vineyard, Integrity’s Hosanna! (1987), Hillsong and Bethel, band-led sets of praise songs projected on screens become the dominant style of evangelical and Pentecostal worship worldwide.",
+            "ref": {
+              "type": "position",
+              "id": "contemporary-worship-music"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-traditionalist",
+            "kind": "position",
+            "label": "Traditionalist Catholics and the older Mass (1988–2007)",
+            "year": 1988,
+            "text": "Archbishop Lefebvre’s unauthorised consecrations (1988) lead to his excommunication and to Ecclesia Dei communities that celebrate the 1962 Missal in union with Rome; Benedict XVI’s Summorum Pontificum (2007) frees it as an \"extraordinary form\".",
+            "ref": {
+              "type": "position",
+              "id": "roman-rite-tridentine"
+            },
+            "quoteIds": [
+              "benedict-two-forms-para"
+            ]
+          },
+          {
+            "id": "a-worship-wars",
+            "kind": "argument",
+            "label": "The \"worship wars\" (1990s)",
+            "year": 1995,
+            "text": "Critics charge that contemporary worship turns congregations into audiences, favours emotion and individualism over theology, and is shaped by the music industry; defenders reply that every era’s hymns were once contemporary.",
+            "ref": {
+              "type": "position",
+              "id": "contemporary-worship-music"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "d-traditionis",
+            "kind": "decision",
+            "label": "Traditionis Custodes restricts the older Mass (2021)",
+            "year": 2021,
+            "text": "Pope Francis declares the post-conciliar books the unique expression of the Roman Rite and restricts the 1962 Missal, citing its use to reject Vatican II; traditionalists see a betrayal of Benedict XVI’s settlement.",
+            "ref": {
+              "type": "event",
+              "id": "traditionis-custodes-2021"
+            },
+            "quoteIds": [
+              "traditionis-custodes-para"
+            ]
+          },
+          {
+            "id": "m-global",
+            "kind": "modern",
+            "label": "Global South worship (21st century)",
+            "year": 2010,
+            "text": "African independent churches dance and use indigenous music; Ethiopian services last for hours with chant and drums; Korean churches hold daily dawn prayer meetings; Latin American Pentecostals fill stadiums; Indian Christians adapt bhajans and lyrics. The liturgical centre of gravity moves south.",
+            "ref": {
+              "type": "position",
+              "id": "oriental-and-syriac-liturgies"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "m-today",
+            "kind": "modern",
+            "label": "Today: who holds what?",
+            "year": 2025,
+            "text": "Orthodox, Oriental Orthodox and Eastern Catholic churches celebrate ancient liturgies largely unchanged; Catholics use the Missal of Paul VI with contested space for the older form; Anglicans and Lutherans keep set liturgies in modern revisions alongside informal services; Reformed and Presbyterian churches range from exclusive psalmody to contemporary bands; Churches of Christ remain a cappella; Quakers divide between unprogrammed and programmed worship; and Pentecostal-charismatic praise is the most widespread style among the world’s 2.6 billion Christians.",
+            "quoteIds": []
+          }
+        ],
+        "edges": [
+          {
+            "from": "q",
+            "to": "s-temple",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q",
+            "to": "s-supper",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q",
+            "to": "s-spirit",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-temple",
+            "to": "v-didache",
+            "kind": "supports"
+          },
+          {
+            "from": "s-supper",
+            "to": "v-didache",
+            "kind": "supports"
+          },
+          {
+            "from": "s-spirit",
+            "to": "v-justin",
+            "kind": "supports"
+          },
+          {
+            "from": "v-didache",
+            "to": "v-justin",
+            "kind": "develops"
+          },
+          {
+            "from": "v-justin",
+            "to": "v-hippolytus",
+            "kind": "develops"
+          },
+          {
+            "from": "v-justin",
+            "to": "d-easter",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-easter",
+            "to": "c-calendar",
+            "kind": "leads-to"
+          },
+          {
+            "from": "c-calendar",
+            "to": "p-byzantine",
+            "kind": "supports"
+          },
+          {
+            "from": "v-hippolytus",
+            "to": "p-byzantine",
+            "kind": "develops"
+          },
+          {
+            "from": "v-hippolytus",
+            "to": "p-oriental",
+            "kind": "develops"
+          },
+          {
+            "from": "v-hippolytus",
+            "to": "v-gregory",
+            "kind": "develops"
+          },
+          {
+            "from": "p-byzantine",
+            "to": "c-rus",
+            "kind": "leads-to"
+          },
+          {
+            "from": "v-gregory",
+            "to": "p-normative",
+            "kind": "leads-to"
+          },
+          {
+            "from": "v-gregory",
+            "to": "d-missal",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-normative",
+            "to": "d-bcp",
+            "kind": "supports"
+          },
+          {
+            "from": "d-bcp",
+            "to": "p-regulative",
+            "kind": "objects"
+          },
+          {
+            "from": "p-normative",
+            "to": "p-regulative",
+            "kind": "objects"
+          },
+          {
+            "from": "p-regulative",
+            "to": "d-directory",
+            "kind": "develops"
+          },
+          {
+            "from": "c-calendar",
+            "to": "d-directory",
+            "kind": "rejects"
+          },
+          {
+            "from": "d-directory",
+            "to": "p-psalmody",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-regulative",
+            "to": "p-quaker",
+            "kind": "objects"
+          },
+          {
+            "from": "d-directory",
+            "to": "c-1662",
+            "kind": "rejects"
+          },
+          {
+            "from": "d-bcp",
+            "to": "c-1662",
+            "kind": "develops"
+          },
+          {
+            "from": "p-psalmody",
+            "to": "v-watts",
+            "kind": "objects"
+          },
+          {
+            "from": "v-watts",
+            "to": "p-new-measures",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-new-measures",
+            "to": "a-nevin",
+            "kind": "objects"
+          },
+          {
+            "from": "p-regulative",
+            "to": "a-instruments",
+            "kind": "supports"
+          },
+          {
+            "from": "p-new-measures",
+            "to": "p-pentecostal",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-missal",
+            "to": "d-sc",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-sc",
+            "to": "p-novus",
+            "kind": "decides"
+          },
+          {
+            "from": "v-hippolytus",
+            "to": "p-novus",
+            "kind": "supports"
+          },
+          {
+            "from": "p-pentecostal",
+            "to": "p-cwm",
+            "kind": "develops"
+          },
+          {
+            "from": "d-missal",
+            "to": "p-traditionalist",
+            "kind": "supports"
+          },
+          {
+            "from": "p-novus",
+            "to": "p-traditionalist",
+            "kind": "objects"
+          },
+          {
+            "from": "p-cwm",
+            "to": "a-worship-wars",
+            "kind": "objects"
+          },
+          {
+            "from": "p-traditionalist",
+            "to": "d-traditionis",
+            "kind": "objects"
+          },
+          {
+            "from": "p-oriental",
+            "to": "m-global",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-pentecostal",
+            "to": "m-global",
+            "kind": "leads-to"
+          },
+          {
+            "from": "m-global",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-traditionis",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "a-worship-wars",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-quaker",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "a-instruments",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "a-nevin",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "c-1662",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "c-rus",
+            "to": "m-today",
+            "kind": "leads-to"
+          }
+        ]
+      },
+      "sources": [
+        "bradshaw-origins-worship",
+        "mcgowan-ancient-worship",
+        "taft-byzantine-rite",
+        "jungmann-mass-roman-rite",
+        "white-protestant-worship",
+        "cuming-anglican-liturgy",
+        "ruth-lim-contemporary-worship",
+        "faggioli-true-reform",
+        "odcc"
+      ]
+    }
+  ],
+  "positions": [
+    {
+      "id": "byzantine-divine-liturgy",
+      "doctrineId": "worship-liturgy",
+      "name": "Byzantine Divine Liturgy (Eastern Orthodox liturgical worship)",
+      "altNames": [
+        "Divine Liturgy of St John Chrysostom",
+        "Byzantine rite",
+        "Orthodox worship"
+      ],
+      "oneLine": "The Church’s worship is a participation in the heavenly liturgy: the received Divine Liturgy, with its chant, icons, incense and fixed prayers, is the primary expression and school of Orthodox faith.",
+      "coreClaims": [
+        "In the Eucharist the Church ascends to the Kingdom and joins the angels’ worship (\"Let us who mystically represent the Cherubim\").",
+        "Lex orandi, lex credendi: liturgy is a source and norm of doctrine.",
+        "Received liturgical tradition is not to be altered at will; it unites the Church across time and space.",
+        "Liturgy engages the whole person: icons, incense, chant, bodily prostrations, fasting and the cycle of feasts.",
+        "Vernacular celebration has been the missionary norm (Slavonic, Arabic, Georgian, Romanian, Alaskan languages, English)."
+      ],
+      "keyTexts": [
+        "Isaiah 6:1–3",
+        "Hebrews 12:22–24",
+        "Revelation 4–5",
+        "Divine Liturgies of St John Chrysostom and St Basil",
+        "Germanus of Constantinople, Ecclesiastical History and Mystical Contemplation (8th c.)"
+      ],
+      "origin": "Grew from the rite of Constantinople, combining the anaphoras attributed to Basil (4th c.) and John Chrysostom (c.400) with Palestinian monastic offices (Typikon of St Sabbas); standardised between the 9th and 14th centuries and later printed (1526 onward).",
+      "originYear": 400,
+      "proponentIds": [
+        "john-chrysostom",
+        "basil-of-caesarea",
+        "john-zizioulas"
+      ],
+      "proponentsOther": [
+        "Germanus I of Constantinople",
+        "Nicholas Cabasilas",
+        "Alexander Schmemann",
+        "Robert Taft (scholar)"
+      ],
+      "traditionIds": [
+        "eastern-orthodox",
+        "russian-orthodox",
+        "eastern-catholic"
+      ],
+      "strongestArguments": [
+        "Revelation 4–5 portrays worship as heavenly, ordered and sung, not improvised.",
+        "Continuity of the same liturgy for over a millennium unites believers across nations and centuries.",
+        "The liturgy teaches the faith to illiterate and literate alike through the senses, and has sustained Orthodoxy under Ottoman and Soviet rule."
+      ],
+      "strongestObjections": [
+        "Protestants argue that much of it (veneration of icons, prayers to saints, sacrificial language) lacks scriptural warrant.",
+        "Length and archaic language can make participation passive for many worshippers, a concern raised by Orthodox reformers themselves.",
+        "Fixed forms can become formalism without inward faith (Isa 29:13)."
+      ],
+      "responses": [
+        "Orthodox reply that the liturgy is saturated with Scripture and that tradition is Scripture’s living interpretation.",
+        "They point to the active role of the people in responses, singing and communion, and to translation into vernaculars as an Orthodox missionary norm."
+      ],
+      "consequences": [
+        "Central identity marker of Orthodox peoples, from Greece to Russia, Georgia and Alaska.",
+        "Inspired the Western Liturgical Movement and ecumenical eucharistic theology.",
+        "Disputes over calendar and liturgical reform (e.g. Old Believer schism, 1666; Old Calendarists, 1924)."
+      ],
+      "relatedPositionIds": [
+        "orthodox-eucharistic-mystery",
+        "icon-veneration",
+        "liturgical-year",
+        "oriental-and-syriac-liturgies"
+      ],
+      "standing": "significant",
+      "sources": [
+        "taft-byzantine-rite",
+        "ware-orthodox-church",
+        "bradshaw-origins-worship"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "oriental-and-syriac-liturgies",
+      "doctrineId": "worship-liturgy",
+      "name": "Oriental Orthodox and East Syriac liturgical traditions",
+      "altNames": [
+        "Coptic, Ethiopian, Syriac, Armenian and Malankara rites",
+        "Liturgy of Addai and Mari"
+      ],
+      "oneLine": "The ancient non-Byzantine churches of Egypt, Ethiopia, Syria, Armenia, India and Mesopotamia keep their own apostolic liturgies, languages and music, which they regard as faithful bearers of early Christian worship.",
+      "coreClaims": [
+        "The Coptic Church celebrates the liturgies of St Basil, St Gregory and St Cyril in Coptic and Arabic.",
+        "The Ethiopian Orthodox Tewahedo Church uses many anaphoras in Geʿez, with Yared’s zema chant, drums, sistra and liturgical dance, and keeps a replica of the Ark (tabot) on every altar.",
+        "The Syriac Orthodox and Malankara churches use the Liturgy of St James in Syriac and Malayalam; Armenians celebrate the Badarak.",
+        "The Church of the East’s Anaphora of Addai and Mari, among the oldest in use, lacks an explicit institution narrative yet was recognised as valid by Rome (2001).",
+        "Long fasts, all-night vigils and the church year structure the life of the people."
+      ],
+      "keyTexts": [
+        "Psalm 150",
+        "2 Samuel 6:14 (David dances before the Ark)",
+        "Liturgy of St James",
+        "Anaphora of Addai and Mari",
+        "Ethiopian Qeddase"
+      ],
+      "origin": "Rooted in the rites of Alexandria, Jerusalem, Antioch and Edessa before the divisions of 431 and 451; developed in Coptic, Geʿez, Syriac and Armenian from the 4th–7th centuries (Yared in 6th-century Aksum; Mesrop Mashtots’ Armenian alphabet, 405).",
+      "originYear": 450,
+      "proponentIds": [
+        "saint-yared",
+        "ephrem-the-syrian",
+        "severus-of-antioch",
+        "mesrop-mashtots"
+      ],
+      "proponentsOther": [
+        "Pope Shenouda III",
+        "Narsai of Nisibis",
+        "Catholicos Timothy I"
+      ],
+      "traditionIds": [
+        "coptic-orthodox",
+        "ethiopian-orthodox-tewahedo",
+        "syriac-orthodox",
+        "armenian-apostolic",
+        "malankara-orthodox",
+        "assyrian-church-of-the-east",
+        "church-of-the-east"
+      ],
+      "strongestArguments": [
+        "These liturgies preserve forms and languages (Syriac is close to Jesus’ Aramaic) of the earliest centuries.",
+        "Their survival through persecution and minority status testifies to the sustaining power of liturgical tradition.",
+        "They show that apostolic worship was never uniform but diverse across cultures, a model for inculturation."
+      ],
+      "strongestObjections": [
+        "Chalcedonian churches historically judged their Christology defective; Western Protestants share the general objections to fixed liturgy and saints’ veneration.",
+        "Use of ancient languages few understand (Geʿez, Coptic, classical Syriac) can hinder participation.",
+        "Some practices (e.g. Ethiopian Old Testament food and purity customs) are criticised as Judaizing."
+      ],
+      "responses": [
+        "Since the 1980s–90s Christological agreements with Rome and the Eastern Orthodox have acknowledged a common faith in different terms.",
+        "These churches increasingly use Arabic, Amharic, Malayalam, English and other vernaculars alongside the classical languages."
+      ],
+      "consequences": [
+        "Liturgy as the core of identity for Copts, Ethiopians, Armenians, Assyrians and Indian Christians under Muslim and Hindu majorities.",
+        "Diaspora communities now worship in these rites across Europe, North America and Australia.",
+        "Scholarly interest in Syriac and Ethiopian liturgy has reshaped histories of early worship."
+      ],
+      "relatedPositionIds": [
+        "byzantine-divine-liturgy",
+        "miaphysitism",
+        "east-syriac-dyophysitism",
+        "ethiopian-canon"
+      ],
+      "standing": "significant",
+      "sources": [
+        "binns-ethiopian-church",
+        "baum-winkler-east",
+        "pontifical-addai-mari-2001",
+        "atiya-eastern-christianity"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "roman-rite-tridentine",
+      "doctrineId": "worship-liturgy",
+      "name": "Traditional Latin Mass (Tridentine / usus antiquior)",
+      "altNames": [
+        "Tridentine Mass",
+        "Extraordinary Form",
+        "Mass of Pius V",
+        "1962 Missal"
+      ],
+      "oneLine": "The Roman Mass as codified after Trent (1570, last edition 1962), with its Latin, ad orientem posture, Roman Canon and rich ceremonial, most clearly expresses the sacrificial nature of the Mass and should remain available to the Church.",
+      "coreClaims": [
+        "The Mass is the unbloody re-presentation of Calvary; the older rite expresses this with unmistakable clarity.",
+        "Organic development of liturgy is legitimate; abrupt fabrication of new rites is not.",
+        "Latin and Gregorian chant unite the Church across nations and centuries (Sacrosanctum Concilium 36, 116).",
+        "Priest and people facing east together orient worship toward God.",
+        "What earlier generations held sacred cannot become forbidden (Benedict XVI, 2007)."
+      ],
+      "keyTexts": [
+        "Malachi 1:11",
+        "Hebrews 13:10",
+        "Council of Trent, Session 22 (1562)",
+        "Quo primum (1570)",
+        "Summorum Pontificum (2007)"
+      ],
+      "origin": "The Roman rite of the city of Rome, spread by Carolingian adoption and the Franciscan missal (13th c.), was codified by Pius V (1570) after Trent; minor revisions followed until John XXIII’s 1962 edition. After 1969 its continued use was championed by traditionalists, permitted by indult (1984, 1988), freed by Summorum Pontificum (2007) and restricted by Traditionis Custodes (2021).",
+      "originYear": 1570,
+      "proponentIds": [
+        "pius-v",
+        "marcel-lefebvre",
+        "benedict-xvi"
+      ],
+      "proponentsOther": [
+        "Alfredo Ottaviani (Ottaviani Intervention, 1969)",
+        "Michael Davies",
+        "Raymond Burke",
+        "Priestly Fraternity of St Peter"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "strongestArguments": [
+        "The rite’s stability for four centuries (and much longer in its core) bears witness to organic, Spirit-guided development.",
+        "Studies and anecdotal evidence point to younger Catholics and converts drawn to its reverence and transcendence.",
+        "Sacrosanctum Concilium itself kept Latin and gave chant \"pride of place\"; the reform went far beyond the Council’s text."
+      ],
+      "strongestObjections": [
+        "Vatican II, an ecumenical council, mandated reform; a parallel older rite can become a banner for rejecting the Council (Pope Francis, 2021).",
+        "Low participation of the people, silence of the Canon and use of a language few understand contradict \"full, conscious, and active participation\".",
+        "Protestants object to its sacrificial theology; Catholic reformers note that the 1570 missal was itself a reform."
+      ],
+      "responses": [
+        "Defenders reply that active participation means interior union, which the older rite fosters, and that many attendees accept Vatican II.",
+        "They argue that liturgical diversity (Eastern rites, Anglican Ordinariate) already exists without threatening unity."
+      ],
+      "consequences": [
+        "Society of St Pius X and other traditionalist communities.",
+        "Revival of Latin, chant and ad orientem worship in some dioceses and orders.",
+        "Ongoing tension in the Catholic Church after 2021."
+      ],
+      "relatedPositionIds": [
+        "vatican-ii-liturgical-reform",
+        "transubstantiation",
+        "seven-sacraments"
+      ],
+      "standing": "minority",
+      "sources": [
+        "jungmann-mass-roman-rite",
+        "traditionis-custodes-text",
+        "omalley-vatican-ii"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "vatican-ii-liturgical-reform",
+      "doctrineId": "worship-liturgy",
+      "name": "Vatican II liturgical reform (Mass of Paul VI)",
+      "altNames": [
+        "Novus Ordo Missae",
+        "Ordinary Form",
+        "Reformed Roman Rite",
+        "Liturgical Movement"
+      ],
+      "oneLine": "The liturgy is the work of the whole people of God; the Council rightly reformed the Roman rite for full, conscious and active participation, vernacular languages, richer Scripture and cultural adaptation.",
+      "coreClaims": [
+        "Baptism makes all the faithful a priestly people with the right and duty to participate actively.",
+        "Liturgy is the \"summit and fount\" of the Church’s life.",
+        "Restoring the rites to \"noble simplicity\" and removing accretions recovers patristic forms (e.g. Apostolic Tradition, prayers of the faithful).",
+        "A wider lectionary opens \"the treasures of the Bible\" to the people.",
+        "Legitimate inculturation (Zaire Use, 1988) allows the Roman rite to take root in many cultures."
+      ],
+      "keyTexts": [
+        "1 Peter 2:9",
+        "Acts 2:42",
+        "Sacrosanctum Concilium 14, 21, 34, 37–40",
+        "Missale Romanum (1969)"
+      ],
+      "origin": "Prepared by the Liturgical Movement (Lambert Beauduin, 1909; Odo Casel; Romano Guardini; Pius XII’s Mediator Dei, 1947 and Holy Week reforms, 1955); mandated by Sacrosanctum Concilium (1963); implemented by the Consilium under Annibale Bugnini and Paul VI’s Missal (1969–70).",
+      "originYear": 1963,
+      "proponentIds": [
+        "paul-vi",
+        "john-xxiii",
+        "pope-francis",
+        "john-paul-ii"
+      ],
+      "proponentsOther": [
+        "Lambert Beauduin",
+        "Romano Guardini",
+        "Annibale Bugnini",
+        "Josef Jungmann",
+        "Virgil Michel"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "strongestArguments": [
+        "An ecumenical council solemnly called for reform; the reformed rite carries the Church’s full authority.",
+        "Vernacular worship and greater Scripture reading have deepened lay participation and biblical literacy.",
+        "The reform drew on ancient sources and parallels the convergence of Anglican, Lutheran and Methodist liturgies (shared lectionary)."
+      ],
+      "strongestObjections": [
+        "Traditionalists argue the reform was a rupture rather than organic development, diminishing the sense of sacrifice and the sacred.",
+        "Sociologists note sharp declines in Mass attendance in the West after 1970, though causes are disputed.",
+        "Poor translations (corrected in English in 2011) and casual celebration are cited as weakening reverence."
+      ],
+      "responses": [
+        "Supporters note that decline also struck churches that did not change their liturgy, and that the reform is flourishing in the Global South.",
+        "They argue the problem is implementation, not the rite itself, and that the ars celebrandi can be reverent."
+      ],
+      "consequences": [
+        "Vernacular Mass for over a billion Catholics.",
+        "Ecumenical liturgical convergence (Revised Common Lectionary, 1992).",
+        "Traditionalist reaction and the \"liturgy wars\"."
+      ],
+      "relatedPositionIds": [
+        "roman-rite-tridentine",
+        "ecumenism",
+        "liturgical-year"
+      ],
+      "standing": "majority",
+      "sources": [
+        "faggioli-true-reform",
+        "sacrosanctum-concilium-text",
+        "omalley-vatican-ii"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "normative-principle",
+      "doctrineId": "worship-liturgy",
+      "name": "Normative principle of worship (Lutheran)",
+      "altNames": [
+        "Lutheran evangelical Mass",
+        "Adiaphora principle in worship",
+        "Whatever is not forbidden is permitted"
+      ],
+      "oneLine": "The church may retain or introduce in worship whatever Scripture does not forbid, provided it serves the gospel and is not imposed as necessary for salvation; the historic Mass is purified, not abolished.",
+      "coreClaims": [
+        "Christ commanded the preaching of the Word and the sacraments; other ceremonies are adiaphora (things indifferent).",
+        "Good traditions (vestments, candles, chant, the church year) may be kept for order and edification.",
+        "Elements implying a sacrifice of Christ offered by the priest or works-righteousness must be removed.",
+        "Congregational singing in the vernacular expresses the priesthood of all believers.",
+        "No order of service is a law binding consciences (Augsburg Confession VII, XV)."
+      ],
+      "keyTexts": [
+        "1 Corinthians 14:26, 40",
+        "Romans 14",
+        "Colossians 3:16",
+        "Augsburg Confession VII, XV, XXIV",
+        "Formula of Concord X"
+      ],
+      "origin": "Luther’s Formula Missae (1523) and Deutsche Messe (1526); confessed in the Augsburg Confession (1530) and Formula of Concord X on adiaphora (1577); also the working principle of Anglican Article XX (1563).",
+      "originYear": 1523,
+      "proponentIds": [
+        "martin-luther",
+        "philip-melanchthon",
+        "thomas-cranmer"
+      ],
+      "proponentsOther": [
+        "Johann Bugenhagen",
+        "Johann Sebastian Bach (as church musician)",
+        "Paul Gerhardt",
+        "Wilhelm Löhe"
+      ],
+      "traditionIds": [
+        "lutheran",
+        "anglican",
+        "methodist"
+      ],
+      "strongestArguments": [
+        "Scripture gives no complete liturgy, so the church must order worship within the bounds of the gospel.",
+        "It preserves continuity with the historic church while removing abuses.",
+        "It freed music and art for worship, producing the chorale, Bach’s cantatas and a rich hymnody."
+      ],
+      "strongestObjections": [
+        "Reformed critics argue that \"not forbidden\" opens the door to human inventions and that God specifies how he is to be worshipped (Lev 10:1–2; Deut 12:32).",
+        "Puritans saw retained vestments and ceremonies as \"rags of popery\" that confuse the simple.",
+        "Catholics and Orthodox see the removal of the sacrificial canon as a break with the apostolic liturgy."
+      ],
+      "responses": [
+        "Lutherans answer that Nadab and Abihu’s sin concerned the specifically regulated Old Testament cult, and that the New Testament gives freedom in externals.",
+        "They argue that iconoclasm can itself become a new law, a point pressed in the adiaphora controversy (1548–77)."
+      ],
+      "consequences": [
+        "Lutheran liturgical and musical culture; the chorale tradition.",
+        "Anglican middle way in worship.",
+        "Debates over adiaphora during the Augsburg Interim (1548)."
+      ],
+      "relatedPositionIds": [
+        "regulative-principle",
+        "anglican-common-prayer",
+        "lutheran-sacramental-union",
+        "liturgical-year"
+      ],
+      "standing": "significant",
+      "sources": [
+        "white-protestant-worship",
+        "book-of-concord",
+        "macculloch-reformation"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "anglican-common-prayer",
+      "doctrineId": "worship-liturgy",
+      "name": "Anglican common prayer",
+      "altNames": [
+        "Book of Common Prayer tradition",
+        "Prayer Book worship",
+        "Lex orandi Anglicana"
+      ],
+      "oneLine": "The church should worship in a common, ordered, scriptural liturgy in the people’s language, binding a national and now global communion together through shared prayer rather than a detailed confession.",
+      "coreClaims": [
+        "Daily Morning and Evening Prayer read through the Psalter and Scripture in course.",
+        "Holy Communion in a vernacular, Reformed-catholic form.",
+        "The Church has power to decree rites and ceremonies, but nothing contrary to God’s Word (Article XX).",
+        "Common prayer unites Anglicans more than a single detailed confession: lex orandi, lex credendi.",
+        "Local provinces adapt the 1662 pattern (e.g. Kenya 2002, New Zealand 1989)."
+      ],
+      "keyTexts": [
+        "1 Corinthians 14:16 (\"how shall he ... say Amen\")",
+        "Acts 2:42",
+        "Thirty-nine Articles XX, XXIV, XXXIV",
+        "Book of Common Prayer (1549/1662)"
+      ],
+      "origin": "Thomas Cranmer’s prayer books (1549, 1552), Elizabeth’s (1559) and the Restoration revision (1662), which spread with the Anglican Communion; 20th-century revisions (1928, 1979 US, Common Worship 2000) draw on the Liturgical Movement.",
+      "originYear": 1549,
+      "proponentIds": [
+        "thomas-cranmer",
+        "john-wesley",
+        "j-i-packer"
+      ],
+      "proponentsOther": [
+        "Richard Hooker",
+        "Lancelot Andrewes",
+        "Thomas Ken",
+        "Rowan Williams"
+      ],
+      "traditionIds": [
+        "anglican",
+        "methodist"
+      ],
+      "strongestArguments": [
+        "Shared texts form a praying community and teach doctrine through repetition.",
+        "Cranmer’s English is drenched in Scripture and has shaped the faith of millions across cultures.",
+        "It balances order and freedom, ancient forms and Reformation doctrine."
+      ],
+      "strongestObjections": [
+        "Puritans objected to imposed set forms, kneeling, the surplice and the sign of the cross in baptism.",
+        "Anglo-Catholics found the 1552/1662 communion rite too Protestant; evangelicals found later revisions too catholic.",
+        "Its imposition by law (Acts of Uniformity) led to persecution and the Great Ejection of 1662."
+      ],
+      "responses": [
+        "Defenders argue set forms prevent idiosyncratic or unedifying prayer and protect the people from the minister’s preferences.",
+        "Modern Anglicanism allows wider liturgical diversity while retaining the Prayer Book as a doctrinal standard."
+      ],
+      "consequences": [
+        "Anglican identity across 165 countries.",
+        "Methodist liturgy (Wesley’s Sunday Service, 1784).",
+        "Formation of English Nonconformity after 1662."
+      ],
+      "relatedPositionIds": [
+        "normative-principle",
+        "regulative-principle",
+        "episcopal-polity",
+        "liturgical-year"
+      ],
+      "standing": "significant",
+      "sources": [
+        "cuming-anglican-liturgy",
+        "chapman-anglicanism",
+        "white-protestant-worship"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "regulative-principle",
+      "doctrineId": "worship-liturgy",
+      "name": "Regulative principle of worship (Reformed)",
+      "altNames": [
+        "RPW",
+        "Puritan principle of worship",
+        "Worship by divine prescription only"
+      ],
+      "oneLine": "God alone determines how he is to be worshipped; only elements commanded or warranted by Scripture (reading, preaching, prayer, singing, sacraments, oaths and vows) may be used, while circumstances are ordered by prudence.",
+      "coreClaims": [
+        "Worship is \"limited by his own revealed will\" and may not follow \"the imaginations and devices of men\" (Westminster Confession 21.1).",
+        "Elements require positive warrant; circumstances (time, place, length) are ordered by \"the light of nature and Christian prudence\" (WCF 1.6).",
+        "Images of God, unwarranted ceremonies and holy days other than the Lord’s Day are excluded.",
+        "Simplicity of worship protects Christian liberty from human impositions."
+      ],
+      "keyTexts": [
+        "Exodus 20:4–6",
+        "Leviticus 10:1–3",
+        "Deuteronomy 12:32",
+        "Matthew 15:9",
+        "Colossians 2:20–23",
+        "John 4:24"
+      ],
+      "origin": "Articulated by Zwingli and Calvin (The Necessity of Reforming the Church, 1543), Knox and the Scots Confession (1560), the English Puritans in the vestiarian controversy (1566) and admonitions to Parliament (1572), and codified in the Westminster Confession 21.1 and Directory (1645).",
+      "originYear": 1543,
+      "proponentIds": [
+        "john-calvin",
+        "huldrych-zwingli",
+        "john-owen"
+      ],
+      "proponentsOther": [
+        "John Knox",
+        "Thomas Cartwright",
+        "George Gillespie",
+        "John Girardeau",
+        "Terry L. Johnson"
+      ],
+      "traditionIds": [
+        "reformed",
+        "presbyterian",
+        "congregationalist",
+        "baptist"
+      ],
+      "strongestArguments": [
+        "God judged unauthorised worship (Nadab and Abihu, Lev 10; Jeroboam’s calves) even when sincerely intended.",
+        "Jesus condemned \"teaching for doctrines the commandments of men\" (Matt 15:9).",
+        "It guards the conscience: no believer can be compelled to participate in rites God has not commanded."
+      ],
+      "strongestObjections": [
+        "Lutherans, Anglicans and others argue that the New Testament contains no comprehensive worship code, so the principle cannot be applied consistently.",
+        "Its advocates disagree among themselves (hymns or psalms only, instruments or not), which suggests the principle is underdetermined.",
+        "Critics say it can produce austere worship that neglects the arts and the body."
+      ],
+      "responses": [
+        "Defenders reply that disagreement in application does not refute a principle, and that the element/circumstance distinction gives it workable limits.",
+        "They argue that God-given simplicity directs attention to the Word and sacraments, the true means of grace."
+      ],
+      "consequences": [
+        "Simple Reformed worship; removal of organs and images in Reformed lands.",
+        "Puritan opposition to the Prayer Book and Christmas.",
+        "Later disputes over hymns, instruments and choirs in Presbyterian churches."
+      ],
+      "relatedPositionIds": [
+        "normative-principle",
+        "exclusive-psalmody",
+        "acappella-worship",
+        "reformed-aniconism"
+      ],
+      "standing": "significant",
+      "sources": [
+        "white-protestant-worship",
+        "schaff-creeds",
+        "macculloch-reformation"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "exclusive-psalmody",
+      "doctrineId": "worship-liturgy",
+      "name": "Exclusive psalmody",
+      "altNames": [
+        "Psalms-only worship",
+        "Covenanter psalmody"
+      ],
+      "oneLine": "Because the church must sing only what God has given for worship, congregations should sing the inspired Psalms (and, for some, other scriptural songs), usually unaccompanied, rather than hymns of human composition.",
+      "coreClaims": [
+        "The Psalter is God’s divinely inspired hymnbook for his people.",
+        "\"Psalms, hymns and spiritual songs\" (Col 3:16; Eph 5:19) correspond to Greek Psalter titles, not to non-inspired compositions.",
+        "Uninspired hymns introduce human doctrine and sentiment into worship.",
+        "Instruments belonged to Temple ceremonial and are abolished with it."
+      ],
+      "keyTexts": [
+        "Psalm 95:2",
+        "1 Chronicles 16:7–9",
+        "Colossians 3:16",
+        "Ephesians 5:19",
+        "James 5:13"
+      ],
+      "origin": "Calvin’s Geneva sang metrical psalms and a few canticles (Genevan Psalter completed 1562); Scottish Presbyterians adopted the Metrical Psalter of 1650 and sang psalms exclusively until the 19th century. Today held by the Reformed Presbyterian (Covenanter) churches, the Free Presbyterian Church of Scotland and others; the Free Church of Scotland ended its exclusive psalmody in 2010.",
+      "originYear": 1650,
+      "proponentIds": [
+        "john-calvin"
+      ],
+      "proponentsOther": [
+        "Theodore Beza and Clément Marot (Genevan Psalter)",
+        "Michael Bushell",
+        "Reformed Presbyterian Church of North America"
+      ],
+      "traditionIds": [
+        "presbyterian",
+        "reformed"
+      ],
+      "strongestArguments": [
+        "If only commanded elements are allowed, the only songs certainly commanded are the inspired Psalms.",
+        "The Psalms are Christ’s own prayer book, covering the whole range of human experience.",
+        "Singing Scripture guards doctrine and unites congregations across centuries and cultures."
+      ],
+      "strongestObjections": [
+        "The New Testament contains new songs to Christ (Phil 2:6–11; Rev 5:9–10), suggesting Christian hymnody.",
+        "Singing only Old Testament texts can veil the name of Jesus and the fulfilled gospel (Watts’s objection).",
+        "Most Reformed bodies, including Westminster’s own heirs, have judged \"hymns and spiritual songs\" broader than the Psalter."
+      ],
+      "responses": [
+        "Exclusive psalmists reply that the Psalms speak of Christ throughout (Luke 24:44) and are to be sung in the light of their fulfilment.",
+        "They argue that New Testament hymn fragments, being inspired, do not license uninspired compositions."
+      ],
+      "consequences": [
+        "Distinctive Scottish, Ulster and American Covenanter worship.",
+        "Metrical psalm traditions such as Gaelic psalm \"precenting\".",
+        "Debates in Presbyterian assemblies over hymns from the 19th century to 2010."
+      ],
+      "relatedPositionIds": [
+        "regulative-principle",
+        "acappella-worship"
+      ],
+      "standing": "minority",
+      "sources": [
+        "white-protestant-worship",
+        "ferguson-acappella"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "acappella-worship",
+      "doctrineId": "worship-liturgy",
+      "name": "A cappella (non-instrumental) worship",
+      "altNames": [
+        "Non-instrumental music",
+        "Unaccompanied congregational singing"
+      ],
+      "oneLine": "The New Testament church sang without instruments, and since Christians are to follow apostolic precedent (or because instruments belonged to the Temple’s ceremonial worship), congregational singing should be unaccompanied.",
+      "coreClaims": [
+        "New Testament worship commands singing (Eph 5:19; Col 3:16), not playing.",
+        "Silence of Scripture prohibits rather than permits (Restorationist hermeneutic: command, example, necessary inference).",
+        "The early church fathers and the Eastern churches worshipped without instruments for centuries.",
+        "The human voice is the instrument God seeks: \"making melody in your heart\"."
+      ],
+      "keyTexts": [
+        "Ephesians 5:19",
+        "Colossians 3:16",
+        "Hebrews 2:12; 13:15",
+        "1 Corinthians 14:15"
+      ],
+      "origin": "Instruments were not used in early Christian worship (Clement of Alexandria and Chrysostom contrast Christian song with pagan or Temple instruments) and remain absent from Eastern Orthodox services; organs entered the Western church from about the 9th–13th centuries. Calvin and the Reformed removed organs; the principle became defining for Churches of Christ after the 1860–1906 division.",
+      "originYear": 1860,
+      "proponentIds": [
+        "alexander-campbell",
+        "john-calvin"
+      ],
+      "proponentsOther": [
+        "Daniel Sommer",
+        "David Lipscomb",
+        "Everett Ferguson",
+        "Old Regular Baptists"
+      ],
+      "traditionIds": [
+        "stone-campbell-restoration",
+        "presbyterian",
+        "eastern-orthodox",
+        "amish"
+      ],
+      "strongestArguments": [
+        "Historical scholarship (e.g. Ferguson) confirms that early Christian worship was vocal only.",
+        "It guards worship from performance and spectacle and fosters strong congregational singing.",
+        "It follows a consistent principle of New Testament precedent rather than taste."
+      ],
+      "strongestObjections": [
+        "Psalm 150 commands praise with instruments, and Revelation depicts harps in heaven (Rev 5:8).",
+        "Silence of Scripture is not a prohibition; Christians use many unmentioned aids (hymnbooks, buildings, pitch pipes).",
+        "Making it a test of fellowship divided the Stone-Campbell movement over a matter many see as indifferent."
+      ],
+      "responses": [
+        "Advocates reply that the Old Testament instruments belonged to the Levitical system and that heavenly imagery is symbolic.",
+        "They distinguish aids to an authorised element (singing) from additions of a new element (playing)."
+      ],
+      "consequences": [
+        "The a cappella Churches of Christ (c.1.5 million in the USA; growing in Africa and India).",
+        "Strong traditions of four-part congregational singing.",
+        "Orthodox and Amish unaccompanied chant and hymnody."
+      ],
+      "relatedPositionIds": [
+        "regulative-principle",
+        "exclusive-psalmody",
+        "restorationism"
+      ],
+      "standing": "minority",
+      "sources": [
+        "ferguson-acappella",
+        "hughes-reviving-ancient-faith"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "quaker-silent-worship",
+      "doctrineId": "worship-liturgy",
+      "name": "Quaker silent (unprogrammed) worship",
+      "altNames": [
+        "Meeting for worship",
+        "Waiting worship",
+        "Unprogrammed worship"
+      ],
+      "oneLine": "True worship is inward and spiritual; Friends gather in expectant silence without liturgy, sacraments or appointed minister, speaking only when moved by the Spirit of Christ.",
+      "coreClaims": [
+        "God is Spirit and is worshipped in spirit (John 4:24), not tied to forms, places or times.",
+        "Christ is present to teach his people himself; every member may minister as led.",
+        "Outward sacraments are replaced by inward baptism and communion.",
+        "Silence allows the \"creaturely\" self to be stilled so that the Light can be heard."
+      ],
+      "keyTexts": [
+        "John 4:23–24",
+        "Habakkuk 2:20",
+        "Psalm 46:10",
+        "Acts 2:1–4",
+        "1 Corinthians 14:30"
+      ],
+      "origin": "George Fox and the early Friends (from 1652) abandoned \"steeple-house\" worship; Robert Barclay’s Apology (1676/1678) gave the theological rationale. Programmed (pastoral) worship emerged among American Friends after the 19th-century revivals, and is now the majority form in Kenya and Latin America.",
+      "originYear": 1652,
+      "proponentIds": [
+        "george-fox",
+        "robert-barclay"
+      ],
+      "proponentsOther": [
+        "Margaret Fell",
+        "Isaac Penington",
+        "Thomas Kelly",
+        "Rufus Jones"
+      ],
+      "traditionIds": [
+        "quaker"
+      ],
+      "strongestArguments": [
+        "It takes seriously Jesus’ teaching that worship is not bound to temple or mountain.",
+        "It allows every believer, women included from the start, to minister as the Spirit leads.",
+        "It avoids empty formalism and reliance on clergy."
+      ],
+      "strongestObjections": [
+        "Most Christians argue that Christ commanded outward baptism and the Lord’s Supper.",
+        "Without Scripture reading and teaching, meetings can drift into vague spirituality (a criticism made by evangelical Friends).",
+        "Silence can become its own fixed form."
+      ],
+      "responses": [
+        "Friends reply that inward reality matters more than outward signs, which Jesus fulfilled.",
+        "Many meetings include Scripture-informed vocal ministry and value discernment by the gathered meeting."
+      ],
+      "consequences": [
+        "A distinctive tradition of silent worship influencing contemplative practice beyond Quakerism.",
+        "Equal ministry of women from the 1650s.",
+        "Division between unprogrammed and programmed/evangelical Friends."
+      ],
+      "relatedPositionIds": [
+        "inner-light",
+        "quaker-inward-baptism",
+        "regulative-principle"
+      ],
+      "standing": "minority",
+      "sources": [
+        "moore-light-consciences",
+        "dandelion-quakers",
+        "fwcc-statistics"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "revivalist-new-measures",
+      "doctrineId": "worship-liturgy",
+      "name": "Revivalist \"new measures\" and pragmatic worship",
+      "altNames": [
+        "Frontier worship",
+        "New measures",
+        "Altar-call evangelism",
+        "Seeker-sensitive services (later form)"
+      ],
+      "oneLine": "Worship services should be designed to bring sinners to decision and believers to renewal, using whatever methods prove effective, since God works through the right use of means.",
+      "coreClaims": [
+        "Revival results from the faithful use of appropriate means, not a miracle beyond human agency (Finney).",
+        "The sermon and service should press hearers to immediate decision (anxious bench, altar call).",
+        "Forms of worship are pragmatic and may change to reach new audiences.",
+        "Lay participation, including women praying aloud in mixed meetings, is encouraged."
+      ],
+      "keyTexts": [
+        "1 Corinthians 9:22 (\"all things to all men\")",
+        "Acts 2:37–41",
+        "Joshua 24:15",
+        "2 Corinthians 6:2"
+      ],
+      "origin": "Camp meetings (Cane Ridge, 1801) and Methodist circuit preaching; Charles Finney’s campaigns (1825–35) and Lectures on Revivals (1835); continued by D. L. Moody and Ira Sankey (1870s), Billy Sunday, Billy Graham’s crusades and the seeker-service model of Willow Creek (1975).",
+      "originYear": 1825,
+      "proponentIds": [
+        "charles-finney",
+        "billy-graham"
+      ],
+      "proponentsOther": [
+        "Lorenzo Dow",
+        "D. L. Moody",
+        "Ira D. Sankey",
+        "Billy Sunday",
+        "Bill Hybels"
+      ],
+      "traditionIds": [
+        "evangelical",
+        "methodist",
+        "baptist",
+        "holiness-movement"
+      ],
+      "strongestArguments": [
+        "Paul adapted his methods to his audiences to \"save some\".",
+        "The approach reached millions on the American frontier and in cities, especially among the unchurched.",
+        "It gave ordinary people, women and African Americans a voice in worship (Hatch)."
+      ],
+      "strongestObjections": [
+        "Nevin and others argue it rests on human technique and emotional pressure rather than God’s means of grace.",
+        "Calvinist critics charge that it presupposes a Pelagian-leaning view of human ability (Finney rejected inherited guilt).",
+        "It tends to subordinate worship of God to evangelistic results and consumer preference."
+      ],
+      "responses": [
+        "Revivalists answer that God uses human means (preaching itself is one) and that the fruit of transformed lives validates the methods.",
+        "Later evangelicals (Graham) combined the altar call with a firmer theology of grace."
+      ],
+      "consequences": [
+        "The altar call and gospel song as fixtures of evangelical worship.",
+        "Shaped Pentecostal and megachurch worship styles.",
+        "Provoked liturgical and confessional reactions (Mercersburg, Oxford Movement, Lutheran confessionalism)."
+      ],
+      "relatedPositionIds": [
+        "pentecostal-charismatic-worship",
+        "contemporary-worship-music",
+        "evangelicalism",
+        "arminianism"
+      ],
+      "standing": "significant",
+      "sources": [
+        "finney-lectures-text",
+        "hatch-democratization",
+        "white-protestant-worship"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "pentecostal-charismatic-worship",
+      "doctrineId": "worship-liturgy",
+      "name": "Pentecostal and charismatic worship",
+      "altNames": [
+        "Spirit-led worship",
+        "Praise and worship",
+        "Charismatic worship"
+      ],
+      "oneLine": "Worship is an encounter with the living God in which the Holy Spirit moves freely through praise, tongues, prophecy, healing and bodily expression, as on the day of Pentecost.",
+      "coreClaims": [
+        "The Spirit’s gifts (1 Cor 12–14) belong in congregational worship today.",
+        "Praise is expressed with the whole body: raised hands, clapping, dance, kneeling, falling.",
+        "Worship leads into the presence of God, often understood in terms of the tabernacle’s outer court, holy place and holy of holies.",
+        "Spontaneity is welcomed, though \"decently and in order\".",
+        "Music is central; local musical idioms are embraced."
+      ],
+      "keyTexts": [
+        "Acts 2:1–4",
+        "1 Corinthians 12–14",
+        "Psalm 47:1; 149:3; 150",
+        "Psalm 22:3 (\"inhabitest the praises\")",
+        "Ephesians 5:18–19"
+      ],
+      "origin": "Holiness camp meetings and Black church worship fed the Azusa Street revival (1906), from which Pentecostal worship spread worldwide; the charismatic renewal (from 1960) brought it into historic churches, and the Third Wave/Vineyard (1980s) shaped its music.",
+      "originYear": 1906,
+      "proponentIds": [
+        "william-j-seymour",
+        "john-wimber",
+        "yong-gi-cho"
+      ],
+      "proponentsOther": [
+        "Aimee Semple McPherson",
+        "Jack Hayford",
+        "Judson Cornwall",
+        "Darlene Zschech"
+      ],
+      "traditionIds": [
+        "pentecostal",
+        "assemblies-of-god",
+        "charismatic-renewal",
+        "neo-charismatic",
+        "african-initiated-churches"
+      ],
+      "strongestArguments": [
+        "It mirrors the participatory worship Paul describes in 1 Corinthians 14.",
+        "Its growth among the world’s poor and in the Global South suggests it meets deep spiritual and cultural needs.",
+        "It recovers bodily, emotional and communal dimensions of biblical worship (Psalms)."
+      ],
+      "strongestObjections": [
+        "Cessationists argue that revelatory gifts ceased and that ecstatic phenomena are not biblically authenticated.",
+        "Liturgical critics see emotionalism and a lack of sacramental and doctrinal depth.",
+        "Excesses (e.g. \"holy laughter\", manipulation) have caused pastoral harm."
+      ],
+      "responses": [
+        "Pentecostals reply that Scripture regulates the gifts (1 Cor 14:26–40) rather than abolishing them.",
+        "Many charismatic Catholics, Anglicans and Lutherans combine Spirit-led praise with liturgy and sacraments."
+      ],
+      "consequences": [
+        "The fastest-growing style of Christian worship in the 20th–21st centuries.",
+        "Major influence on global worship music and on Catholic charismatic renewal.",
+        "Debates over discernment of manifestations (Toronto, Brownsville)."
+      ],
+      "relatedPositionIds": [
+        "continuationism",
+        "charismatic-renewal",
+        "contemporary-worship-music",
+        "third-wave"
+      ],
+      "standing": "significant",
+      "sources": [
+        "anderson-pentecostalism",
+        "synan-holiness-pentecostal",
+        "ruth-lim-contemporary-worship"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "contemporary-worship-music",
+      "doctrineId": "worship-liturgy",
+      "name": "Contemporary worship music (CWM)",
+      "altNames": [
+        "Praise and worship music",
+        "Modern worship",
+        "Worship set"
+      ],
+      "oneLine": "Congregational worship should use the musical language of contemporary culture, with band-led sets of simple, singable songs expressing personal devotion to God, so that worship is accessible and authentic.",
+      "coreClaims": [
+        "\"Sing unto the Lord a new song\" (Ps 96:1): every generation should write its own songs.",
+        "Worship should be intelligible and culturally accessible (1 Cor 14).",
+        "Extended musical sets allow worshippers to encounter God personally and emotionally.",
+        "Musical style is neutral; content and heart matter."
+      ],
+      "keyTexts": [
+        "Psalm 96:1; 149:1",
+        "Revelation 5:9",
+        "1 Corinthians 9:22; 14:15",
+        "Colossians 3:16"
+      ],
+      "origin": "The Jesus Movement and Calvary Chapel’s Maranatha! Music (1971), the Vineyard (1980s), Integrity’s Hosanna! Music (1987), the licensing agency CCLI (1988), the UK’s Graham Kendrick and Matt Redman, Australia’s Hillsong (from the 1990s) and US churches such as Bethel and Elevation.",
+      "originYear": 1971,
+      "proponentIds": [
+        "john-wimber"
+      ],
+      "proponentsOther": [
+        "Chuck Smith",
+        "Graham Kendrick",
+        "Matt Redman",
+        "Darlene Zschech",
+        "Chris Tomlin",
+        "Keith and Kristyn Getty (modern hymn writers)"
+      ],
+      "traditionIds": [
+        "evangelical",
+        "pentecostal",
+        "charismatic-renewal",
+        "neo-charismatic",
+        "baptist"
+      ],
+      "strongestArguments": [
+        "Hymns now considered traditional (Watts, Wesley) were contemporary and controversial in their day.",
+        "It has drawn young people and the unchurched, and travels easily across cultures and languages.",
+        "It fosters wholehearted participation and personal devotion."
+      ],
+      "strongestObjections": [
+        "Critics argue that lyrics are often theologically thin, repetitive and focused on the self (\"me and Jesus\").",
+        "Performance-style lighting and volume can turn congregations into audiences.",
+        "A small number of megachurch publishers dominates global repertoires, raising concerns about commercialism and the theology of their source churches."
+      ],
+      "responses": [
+        "Advocates note the \"modern hymn\" movement and theologically rich songwriting, and argue that simplicity serves participation.",
+        "Many churches blend contemporary songs with hymns and liturgy (\"blended worship\")."
+      ],
+      "consequences": [
+        "Dominant worship style of evangelical and Pentecostal churches worldwide.",
+        "A multi-billion-dollar Christian music industry.",
+        "The \"worship wars\" of the 1990s and continuing debates over Hillsong and Bethel."
+      ],
+      "relatedPositionIds": [
+        "pentecostal-charismatic-worship",
+        "revivalist-new-measures",
+        "evangelicalism"
+      ],
+      "standing": "significant",
+      "sources": [
+        "ruth-lim-contemporary-worship",
+        "white-protestant-worship"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "liturgical-year",
+      "doctrineId": "worship-liturgy",
+      "name": "Observance of the liturgical year",
+      "altNames": [
+        "Church year",
+        "Christian calendar",
+        "Sanctoral and temporal cycles"
+      ],
+      "oneLine": "The Church sanctifies time by keeping a yearly cycle of fasts and feasts (Advent, Christmas, Epiphany, Lent, Holy Week, Easter, Pentecost) and saints’ days, re-living the mysteries of Christ’s life.",
+      "coreClaims": [
+        "Easter, the Christian Passover, is the centre of the year and every Sunday a little Easter.",
+        "Seasons rehearse the life of Christ and form believers through repetition.",
+        "Commemoration of the saints honours God’s work in his people.",
+        "The calendar unites the Church across the world in common prayer and readings."
+      ],
+      "keyTexts": [
+        "1 Corinthians 5:7–8",
+        "Leviticus 23 (Israel’s feasts)",
+        "Acts 20:16",
+        "Romans 14:5–6"
+      ],
+      "origin": "Easter was kept from the 2nd century (Quartodeciman controversy, c.190; Nicaea, 325); Pentecost by the 3rd; Christmas is attested in Rome in 336 and Epiphany in the East; Lent and Holy Week appear in 4th-century sources (Egeria, c.381–84). Rejected by many Puritans and Reformed churches in the 16th–17th centuries, it was recovered by many Protestants through the Liturgical Movement and the ecumenical lectionary.",
+      "originYear": 190,
+      "proponentIds": [
+        "egeria",
+        "gregory-the-great",
+        "john-chrysostom"
+      ],
+      "proponentsOther": [
+        "Pius Parsch",
+        "Thomas Talley (scholar)",
+        "Robert Webber (Ancient-Future worship)"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-orthodox",
+        "oriental-orthodox",
+        "lutheran",
+        "anglican",
+        "methodist",
+        "church-of-the-east"
+      ],
+      "strongestArguments": [
+        "Israel’s worship was structured by a God-given calendar of feasts that Christ fulfilled.",
+        "Following the year ensures that the whole story of salvation is proclaimed, not only a preacher’s favourite themes.",
+        "It is one of the most ancient and universal features of Christian practice, East and West."
+      ],
+      "strongestObjections": [
+        "Puritans and many Reformed argue that only the Lord’s Day is commanded and that holy days bind consciences unlawfully (Gal 4:10; Col 2:16).",
+        "Some holidays absorbed pagan customs, and the calendar can foster superstition or commercialisation.",
+        "Seventh-day groups and Messianic believers question the departure from Israel’s own feasts."
+      ],
+      "responses": [
+        "Defenders answer that the calendar is a matter of Christian freedom and teaching, not a law for salvation.",
+        "They argue that Christianising older festivals redeems time rather than compromising the faith."
+      ],
+      "consequences": [
+        "Common seasons across most Christian traditions; Easter date disputes between East and West.",
+        "Puritan bans on Christmas (England 1647; Massachusetts 1659–81).",
+        "Ecumenical recovery of Advent and Lent among Baptists and evangelicals."
+      ],
+      "relatedPositionIds": [
+        "byzantine-divine-liturgy",
+        "regulative-principle",
+        "lords-day-non-sabbatarian",
+        "intercession-of-saints"
+      ],
+      "standing": "majority",
+      "sources": [
+        "talley-liturgical-year",
+        "bradshaw-origins-worship",
+        "odcc"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "controversies": [
+    {
+      "id": "regulative-vs-normative-worship",
+      "question": "May the church use in worship whatever Scripture does not forbid, or only what Scripture commands?",
+      "title": "Regulative vs normative principle: psalms, hymns, organs and holy days",
+      "summary": "From the Reformation onwards Protestants divided over how Scripture governs worship. Lutherans and Anglicans kept much of the inherited liturgy; Reformed and Puritan churches removed everything without positive warrant. Later disputes over hymns, organs and a cappella singing grew from the same root.",
+      "doctrineIds": [
+        "worship-liturgy"
+      ],
+      "sides": [
+        {
+          "name": "Regulative principle",
+          "positionId": "regulative-principle",
+          "steelman": "God has told us how he wishes to be worshipped, and he has judged those who offered \"strange fire\". Sincerity does not sanctify inventions. Keeping to what Scripture commands guards God’s glory and the believer’s conscience from every human imposition.",
+          "arguments": [
+            "Leviticus 10; Deuteronomy 12:32",
+            "Matthew 15:9",
+            "Freedom of conscience from human ceremonies"
+          ],
+          "counterArguments": [
+            "No complete New Testament worship code",
+            "Advocates disagree on application"
+          ],
+          "keyTexts": [
+            "Leviticus 10:1–3",
+            "Deuteronomy 12:32",
+            "Matthew 15:9",
+            "Westminster Confession 21.1"
+          ],
+          "quoteIds": [
+            "calvin-worship-para"
+          ]
+        },
+        {
+          "name": "Normative principle",
+          "positionId": "normative-principle",
+          "steelman": "Christ commanded the Word and sacraments and left the rest to the church’s freedom, to be ordered \"decently and in order\". The church may keep its inherited treasures of chant, vestment and calendar, purified by the gospel, and need not tear down what is not contrary to Scripture.",
+          "arguments": [
+            "Romans 14: Christian liberty",
+            "1 Corinthians 14:40",
+            "Continuity with the historic church"
+          ],
+          "counterArguments": [
+            "Opens the door to human inventions",
+            "Retained ceremonies confuse the simple"
+          ],
+          "keyTexts": [
+            "1 Corinthians 14:26, 40",
+            "Romans 14",
+            "Article XX"
+          ],
+          "quoteIds": [
+            "luther-deutsche-messe-para",
+            "cranmer-preface-1549"
+          ]
+        },
+        {
+          "name": "Psalms only, unaccompanied",
+          "positionId": "exclusive-psalmody",
+          "steelman": "If worship must be warranted, then God’s own songbook, the Psalms, is what we should sing, with the voice that God gave us. Inspired songs cannot err; human hymns and instruments add what God did not ask for.",
+          "arguments": [
+            "Psalter as divinely given hymnbook",
+            "Instruments belong to the Temple cult"
+          ],
+          "counterArguments": [
+            "New Testament hymns to Christ",
+            "Psalm 150"
+          ],
+          "keyTexts": [
+            "Colossians 3:16",
+            "Ephesians 5:19"
+          ],
+          "quoteIds": [
+            "campbell-instruments-para"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 1523,
+          "text": "Luther’s Formula Missae retains a purified Latin Mass; Zwingli abolishes the Mass in Zurich in 1525."
+        },
+        {
+          "year": 1526,
+          "text": "Luther’s German Mass.",
+          "eventId": "deutsche-messe-1526"
+        },
+        {
+          "year": 1549,
+          "text": "The first Book of Common Prayer.",
+          "eventId": "book-of-common-prayer-1549"
+        },
+        {
+          "year": 1566,
+          "text": "Vestiarian controversy: Puritans refuse the surplice."
+        },
+        {
+          "year": 1645,
+          "text": "Directory for Public Worship replaces the Prayer Book.",
+          "eventId": "directory-for-public-worship-1645"
+        },
+        {
+          "year": 1662,
+          "text": "Prayer Book restored; some 2,000 ministers ejected.",
+          "eventId": "great-ejection-1662"
+        },
+        {
+          "year": 1707,
+          "text": "Watts’s Hymns and Spiritual Songs challenges exclusive psalmody."
+        },
+        {
+          "year": 1906,
+          "text": "Churches of Christ and Disciples divide, partly over instruments.",
+          "eventId": "churches-of-christ-instrument-division-1906"
+        },
+        {
+          "year": 2010,
+          "text": "The Free Church of Scotland permits hymns and instruments."
+        }
+      ],
+      "resolution": {
+        "kind": "open",
+        "text": "Unresolved and largely denominationally settled: Lutherans and Anglicans follow the normative principle; confessional Presbyterian and Reformed churches profess the regulative principle but apply it in diverse ways; exclusive psalmody survives in small Covenanter and Free Presbyterian bodies; a cappella worship defines the Churches of Christ."
+      },
+      "consequences": [
+        "Distinct worship cultures among Protestant families.",
+        "English Nonconformity after 1662.",
+        "Stone-Campbell division of 1906.",
+        "Ongoing debates over hymns, bands and seasons in Reformed churches."
+      ],
+      "sources": [
+        "white-protestant-worship",
+        "cuming-anglican-liturgy",
+        "ferguson-acappella"
+      ]
+    },
+    {
+      "id": "mass-after-vatican-ii",
+      "question": "Should the Roman Rite be celebrated in its reformed form only, or also in its pre-conciliar form?",
+      "title": "The Mass after Vatican II: reform, tradition and Traditionis Custodes",
+      "summary": "Vatican II mandated reform of the liturgy; the resulting Mass of Paul VI (1969) was embraced by most Catholics but resisted by traditionalists who saw a rupture. Popes have alternately restricted (1970s, 2021) and liberalised (1984, 1988, 2007) the older Mass.",
+      "doctrineIds": [
+        "worship-liturgy",
+        "church-sacraments"
+      ],
+      "sides": [
+        {
+          "name": "Conciliar reform",
+          "positionId": "vatican-ii-liturgical-reform",
+          "steelman": "An ecumenical council, guided by the Holy Spirit, asked for the rites to be renewed so that the whole people of God could take part fully and consciously. The reformed Missal is the fruit of that council and of a century of scholarship. Keeping two parallel rites has come to divide the Church and to signal rejection of Vatican II.",
+          "arguments": [
+            "Authority of Vatican II",
+            "Active participation",
+            "Richer Scripture readings",
+            "Unity of lex orandi"
+          ],
+          "counterArguments": [
+            "Reform went beyond the Council’s text",
+            "Loss of sacred sense"
+          ],
+          "keyTexts": [
+            "Sacrosanctum Concilium 14, 21, 50",
+            "Traditionis Custodes art. 1"
+          ],
+          "quoteIds": [
+            "sacrosanctum-concilium-participation-para",
+            "traditionis-custodes-para"
+          ]
+        },
+        {
+          "name": "Traditional Latin Mass",
+          "positionId": "roman-rite-tridentine",
+          "steelman": "The Mass our forebears prayed for centuries, which formed saints, cannot suddenly become harmful. Liturgy grows organically; it is not manufactured by committees. The older rite expresses the sacrifice and the sacred with a clarity many Catholics, including young people, find nowhere else, and it should be welcomed, not suppressed.",
+          "arguments": [
+            "Organic development",
+            "Sacrificial clarity",
+            "Continuity with saints",
+            "Pastoral fruit among the young"
+          ],
+          "counterArguments": [
+            "Rejection of the Council",
+            "Passive participation"
+          ],
+          "keyTexts": [
+            "Quo primum (1570)",
+            "Sacrosanctum Concilium 36, 116",
+            "Summorum Pontificum (2007)"
+          ],
+          "quoteIds": [
+            "benedict-two-forms-para"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 1570,
+          "text": "Pius V’s Roman Missal.",
+          "eventId": "roman-missal-1570"
+        },
+        {
+          "year": 1962,
+          "text": "John XXIII’s final edition of the Tridentine Missal; Vatican II opens.",
+          "eventId": "second-vatican-council-1962"
+        },
+        {
+          "year": 1963,
+          "text": "Sacrosanctum Concilium promulgated.",
+          "eventId": "sacrosanctum-concilium-1963"
+        },
+        {
+          "year": 1969,
+          "text": "Missal of Paul VI; Cardinals Ottaviani and Bacci criticise it.",
+          "eventId": "missal-of-paul-vi-1969"
+        },
+        {
+          "year": 1984,
+          "text": "Indult Quattuor abhinc annos permits limited use of the 1962 Missal."
+        },
+        {
+          "year": 1988,
+          "text": "Lefebvre consecrates bishops and is excommunicated; Ecclesia Dei establishes communities using the older rite."
+        },
+        {
+          "year": 2007,
+          "text": "Summorum Pontificum frees the \"extraordinary form\".",
+          "eventId": "summorum-pontificum-2007"
+        },
+        {
+          "year": 2021,
+          "text": "Traditionis Custodes restricts the older Mass.",
+          "eventId": "traditionis-custodes-2021"
+        }
+      ],
+      "resolution": {
+        "kind": "open",
+        "text": "Open. The Mass of Paul VI is the ordinary and, since 2021, the \"unique\" expression of the Roman Rite; celebration of the 1962 Missal continues under episcopal and Vatican restrictions, in the Society of St Pius X (in irregular canonical status) and in Ecclesia Dei communities. Future papal policy remains uncertain."
+      },
+      "consequences": [
+        "Traditionalist movements and the SSPX.",
+        "Polarisation between liturgical progressives and traditionalists.",
+        "Renewed scholarly debate about continuity and rupture in Vatican II."
+      ],
+      "sources": [
+        "faggioli-true-reform",
+        "traditionis-custodes-text",
+        "jungmann-mass-roman-rite",
+        "omalley-vatican-ii"
+      ]
+    }
+  ],
+  "people": [
+    {
+      "id": "hippolytus-of-rome",
+      "name": "Hippolytus of Rome",
+      "born": 170,
+      "died": 235,
+      "circa": true,
+      "roles": [
+        "presbyter and theologian",
+        "rival bishop in Rome",
+        "martyr"
+      ],
+      "traditionIds": [
+        "early-church"
+      ],
+      "regions": [
+        "italy"
+      ],
+      "summary": "Roman theologian, author of the Refutation of All Heresies and commentaries, who opposed Bishop Callistus and was exiled to Sardinia with Pope Pontian, where both died (c.235). The church order called the Apostolic Tradition, with an early eucharistic prayer and baptismal rite, has traditionally been ascribed to him, though many scholars now see it as a composite, layered document.",
+      "keyIdeas": [
+        "Logos theology against modalism",
+        "Rigorist church discipline",
+        "Apostolic Tradition (attribution debated)"
+      ],
+      "influencedBy": [
+        "irenaeus"
+      ],
+      "place": {
+        "name": "Rome",
+        "lat": 41.893,
+        "lng": 12.483
+      },
+      "sources": [
+        "bradshaw-origins-worship",
+        "odcc"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "egeria",
+      "name": "Egeria",
+      "circa": true,
+      "roles": [
+        "pilgrim",
+        "travel writer"
+      ],
+      "traditionIds": [
+        "early-church"
+      ],
+      "regions": [
+        "western-europe",
+        "levant"
+      ],
+      "summary": "Pilgrim woman, probably from Gallaecia (north-west Spain) or southern Gaul, whose letter-diary of a journey to the Holy Land (c.381–384) describes in detail the Jerusalem liturgy: daily offices, Epiphany, Lent, Holy Week and Easter. It is a key witness to the formation of the liturgical year.",
+      "keyIdeas": [
+        "Holy Week processions at the holy places",
+        "Daily office in Jerusalem",
+        "Catechesis of the baptismal candidates"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Jerusalem",
+        "lat": 31.778,
+        "lng": 35.229
+      },
+      "sources": [
+        "talley-liturgical-year",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "saint-yared",
+      "name": "Yared",
+      "born": 505,
+      "died": 571,
+      "circa": true,
+      "roles": [
+        "hymnographer",
+        "musician",
+        "saint of the Ethiopian Church"
+      ],
+      "traditionIds": [
+        "ethiopian-orthodox-tewahedo"
+      ],
+      "regions": [
+        "ethiopia-nubia"
+      ],
+      "summary": "Ethiopian church musician of Aksum, venerated as the creator of zema, the sacred chant of the Ethiopian Orthodox Tewahedo Church, and of its three modes (geʿez, ezel, araray), with the hymn collection Deggua. His life is known mainly from later hagiography.",
+      "keyIdeas": [
+        "Zema chant",
+        "Deggua hymnary",
+        "Liturgical music with drums and sistra"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Aksum",
+        "lat": 14.121,
+        "lng": 38.723
+      },
+      "sources": [
+        "binns-ethiopian-church",
+        "isichei-africa"
+      ],
+      "confidence": "traditional"
+    },
+    {
+      "id": "pius-v",
+      "name": "Pope Pius V",
+      "born": 1504,
+      "died": 1572,
+      "circa": false,
+      "roles": [
+        "Dominican friar",
+        "bishop of Rome (1566–1572)"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "italy"
+      ],
+      "summary": "Dominican inquisitor turned pope who implemented the Council of Trent: he published the Roman Catechism (1566), the reformed Breviary (1568) and the Roman Missal (1570), imposing it on the Latin Church except where a rite older than 200 years existed. He excommunicated Elizabeth I (1570) and organised the Holy League that won at Lepanto (1571).",
+      "keyIdeas": [
+        "Tridentine reform",
+        "Uniform Roman Missal",
+        "Quo primum (1570)"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Rome",
+        "lat": 41.902,
+        "lng": 12.454
+      },
+      "sources": [
+        "jungmann-mass-roman-rite",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "robert-barclay",
+      "name": "Robert Barclay",
+      "born": 1648,
+      "died": 1690,
+      "circa": false,
+      "roles": [
+        "Quaker theologian",
+        "governor of East Jersey (absentee)"
+      ],
+      "traditionIds": [
+        "quaker"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Scottish Quaker whose Apology for the True Christian Divinity (Latin 1676; English 1678) became the classic systematic defence of Quaker belief, including the inward light, silent worship and the rejection of outward sacraments and a paid ministry.",
+      "keyIdeas": [
+        "Inward light of Christ",
+        "Silent waiting worship",
+        "Spiritual (inward) sacraments"
+      ],
+      "influencedBy": [
+        "george-fox"
+      ],
+      "place": {
+        "name": "Ury, Aberdeenshire",
+        "lat": 56.98,
+        "lng": -2.23
+      },
+      "sources": [
+        "moore-light-consciences",
+        "dandelion-quakers",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "isaac-watts",
+      "name": "Isaac Watts",
+      "born": 1674,
+      "died": 1748,
+      "circa": false,
+      "roles": [
+        "Congregational minister",
+        "hymn writer"
+      ],
+      "traditionIds": [
+        "congregationalist"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "English Independent minister often called the father of English hymnody. His Hymns and Spiritual Songs (1707) and The Psalms of David Imitated in the Language of the New Testament (1719) broke with the tradition of singing only metrical psalms, setting Christian experience to verse (\"When I survey the wondrous cross\").",
+      "keyIdeas": [
+        "Hymns of human composition",
+        "Christianised psalms",
+        "Congregational song"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "sources": [
+        "white-protestant-worship",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "john-williamson-nevin",
+      "name": "John Williamson Nevin",
+      "born": 1803,
+      "died": 1886,
+      "circa": false,
+      "roles": [
+        "German Reformed theologian",
+        "Mercersburg Seminary professor"
+      ],
+      "traditionIds": [
+        "reformed"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "With Philip Schaff the leader of the \"Mercersburg theology\", which recovered catechesis, liturgy and a high view of the Lord’s Supper (The Mystical Presence, 1846). His The Anxious Bench (1843) criticised Finney-style revival techniques as manipulative and foreign to Reformed churchly piety.",
+      "keyIdeas": [
+        "Critique of revivalist \"new measures\"",
+        "Mystical union and the real spiritual presence",
+        "Liturgical renewal"
+      ],
+      "influencedBy": [
+        "john-calvin",
+        "friedrich-schleiermacher"
+      ],
+      "place": {
+        "name": "Mercersburg, Pennsylvania",
+        "lat": 39.828,
+        "lng": -77.903
+      },
+      "sources": [
+        "white-protestant-worship",
+        "noll-christianity-us"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "marcel-lefebvre",
+      "name": "Marcel Lefebvre",
+      "born": 1905,
+      "died": 1991,
+      "circa": false,
+      "roles": [
+        "missionary archbishop of Dakar",
+        "founder of the Society of St Pius X"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "western-europe",
+        "sub-saharan-africa"
+      ],
+      "summary": "French missionary archbishop who opposed Vatican II’s teaching on religious liberty and ecumenism and the Mass of Paul VI. He founded the Society of St Pius X (1970) at Écône, Switzerland; his consecration of four bishops without papal mandate (1988) brought excommunication, which Benedict XVI lifted for the surviving bishops in 2009.",
+      "keyIdeas": [
+        "Defence of the traditional Latin Mass",
+        "Critique of religious liberty and ecumenism",
+        "Priestly formation at Écône"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Écône, Switzerland",
+        "lat": 46.14,
+        "lng": 7.17
+      },
+      "sources": [
+        "omalley-vatican-ii",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "benedict-xvi",
+      "name": "Benedict XVI (Joseph Ratzinger)",
+      "born": 1927,
+      "died": 2022,
+      "circa": false,
+      "roles": [
+        "theologian",
+        "prefect of the Congregation for the Doctrine of the Faith",
+        "bishop of Rome (2005–2013)"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "western-europe",
+        "italy"
+      ],
+      "summary": "German theologian, Vatican II peritus and later doctrinal prefect under John Paul II, elected pope in 2005. In The Spirit of the Liturgy (2000) and the motu proprio Summorum Pontificum (2007) he argued for a \"hermeneutic of continuity\" and freed the 1962 Missal as an \"extraordinary form\". He resigned in 2013.",
+      "keyIdeas": [
+        "Hermeneutic of continuity",
+        "Two forms of the one Roman Rite",
+        "Reason and faith"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Vatican City",
+        "lat": 41.902,
+        "lng": 12.453
+      },
+      "sources": [
+        "omalley-vatican-ii",
+        "odcc"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "events": [
+    {
+      "id": "deutsche-messe-1526",
+      "title": "Luther’s German Mass",
+      "year": 1526,
+      "circa": false,
+      "place": {
+        "name": "Wittenberg",
+        "lat": 51.866,
+        "lng": 12.646
+      },
+      "category": "liturgical",
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "After his Latin Formula Missae (1523), Luther publishes the Deutsche Messe, a vernacular order with congregational hymns, a sermon and the words of institution sung as gospel, first used in Wittenberg in October 1525. He insists it must not become a new law.",
+      "causes": [],
+      "consequences": [
+        "Lutheran chorale tradition",
+        "Vernacular eucharistic worship"
+      ],
+      "peopleIds": [
+        "martin-luther"
+      ],
+      "doctrineIds": [
+        "worship-liturgy",
+        "church-sacraments"
+      ],
+      "traditionIds": [
+        "lutheran"
+      ],
+      "sources": [
+        "white-protestant-worship",
+        "macculloch-reformation"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "book-of-common-prayer-1549",
+      "title": "First Book of Common Prayer",
+      "year": 1549,
+      "circa": false,
+      "place": {
+        "name": "London",
+        "lat": 51.508,
+        "lng": -0.128
+      },
+      "category": "liturgical",
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Under Edward VI, Thomas Cranmer’s English prayer book replaces the Latin rites (first used Whitsunday, 9 June 1549), provoking the Western Rising. Revised in a more Reformed direction in 1552, restored under Elizabeth (1559) and revised again in 1662, it became the liturgical bond of the Anglican Communion.",
+      "causes": [
+        "English Reformation",
+        "Desire for vernacular common worship"
+      ],
+      "consequences": [
+        "Prayer Book Rebellion (1549)",
+        "1552, 1559 and 1662 revisions",
+        "Anglican liturgical identity"
+      ],
+      "peopleIds": [
+        "thomas-cranmer"
+      ],
+      "doctrineIds": [
+        "worship-liturgy",
+        "church-sacraments"
+      ],
+      "traditionIds": [
+        "anglican"
+      ],
+      "sources": [
+        "cuming-anglican-liturgy",
+        "macculloch-reformation"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "roman-missal-1570",
+      "title": "Roman Missal of Pius V (Quo primum)",
+      "year": 1570,
+      "circa": false,
+      "place": {
+        "name": "Rome",
+        "lat": 41.902,
+        "lng": 12.454
+      },
+      "category": "liturgical",
+      "regions": [
+        "italy",
+        "western-europe",
+        "global"
+      ],
+      "summary": "Implementing the Council of Trent, Pius V promulgates a revised Roman Missal by the bull Quo primum (14 July 1570), requiring its use throughout the Latin Church except for rites at least two centuries old (e.g. Ambrosian, Mozarabic, some religious orders). It remained essentially unchanged until 1962.",
+      "causes": [
+        "Council of Trent"
+      ],
+      "consequences": [
+        "Liturgical uniformity of Latin Catholicism for four centuries"
+      ],
+      "peopleIds": [
+        "pius-v"
+      ],
+      "doctrineIds": [
+        "worship-liturgy"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "sources": [
+        "jungmann-mass-roman-rite",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "sacrosanctum-concilium-1963",
+      "title": "Sacrosanctum Concilium",
+      "year": 1963,
+      "circa": false,
+      "place": {
+        "name": "St Peter’s Basilica, Rome",
+        "lat": 41.902,
+        "lng": 12.454
+      },
+      "category": "council",
+      "regions": [
+        "global",
+        "italy"
+      ],
+      "summary": "Vatican II’s first promulgated document (4 December 1963) calls for the \"full, conscious, and active participation\" of the faithful, wider use of vernacular languages, restoration of the rites to noble simplicity, a richer reading of Scripture and adaptation to cultures.",
+      "causes": [
+        "Liturgical Movement (from 1909)",
+        "Pius XII’s Mediator Dei (1947) and Holy Week reforms (1955)"
+      ],
+      "consequences": [
+        "Missal of Paul VI (1969)",
+        "Vernacular Mass worldwide"
+      ],
+      "peopleIds": [
+        "paul-vi",
+        "john-xxiii"
+      ],
+      "doctrineIds": [
+        "worship-liturgy"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "sources": [
+        "sacrosanctum-concilium-text",
+        "faggioli-true-reform"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "missal-of-paul-vi-1969",
+      "title": "Missal of Paul VI (Novus Ordo)",
+      "year": 1969,
+      "circa": false,
+      "place": {
+        "name": "Rome",
+        "lat": 41.902,
+        "lng": 12.454
+      },
+      "category": "liturgical",
+      "regions": [
+        "global"
+      ],
+      "summary": "Paul VI promulgates the revised Order of Mass (apostolic constitution Missale Romanum, 3 April 1969), in use from Advent 1969: a three-year lectionary, new eucharistic prayers, the prayers of the faithful and celebration in vernacular languages.",
+      "causes": [
+        "Sacrosanctum Concilium"
+      ],
+      "consequences": [
+        "Traditionalist resistance",
+        "Ecumenical lectionary convergence (Revised Common Lectionary, 1992)"
+      ],
+      "peopleIds": [
+        "paul-vi"
+      ],
+      "doctrineIds": [
+        "worship-liturgy"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "sources": [
+        "faggioli-true-reform",
+        "omalley-vatican-ii"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "summorum-pontificum-2007",
+      "title": "Summorum Pontificum",
+      "year": 2007,
+      "circa": false,
+      "place": {
+        "name": "Vatican City",
+        "lat": 41.902,
+        "lng": 12.453
+      },
+      "category": "liturgical",
+      "regions": [
+        "global"
+      ],
+      "summary": "Benedict XVI declares the 1962 Missal an \"extraordinary form\" of the one Roman Rite that any priest may celebrate without the bishop’s permission (7 July 2007).",
+      "causes": [],
+      "consequences": [],
+      "peopleIds": [
+        "benedict-xvi"
+      ],
+      "doctrineIds": [
+        "worship-liturgy"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "sources": [
+        "omalley-vatican-ii"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "traditionis-custodes-2021",
+      "title": "Traditionis Custodes",
+      "year": 2021,
+      "circa": false,
+      "place": {
+        "name": "Vatican City",
+        "lat": 41.902,
+        "lng": 12.453
+      },
+      "category": "liturgical",
+      "regions": [
+        "global"
+      ],
+      "summary": "Pope Francis (16 July 2021) revokes Benedict XVI’s provisions and declares the liturgical books promulgated after Vatican II the \"unique expression\" of the Roman Rite, restricting the older Mass to bishops’ permission in order to protect unity and acceptance of the Council.",
+      "causes": [
+        "Survey of bishops (2020)",
+        "Concerns about rejection of Vatican II"
+      ],
+      "consequences": [
+        "Further restrictions by the Dicastery for Divine Worship (2021, 2023)",
+        "Strong reactions among traditionalist Catholics"
+      ],
+      "peopleIds": [
+        "pope-francis"
+      ],
+      "doctrineIds": [
+        "worship-liturgy"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "sources": [
+        "traditionis-custodes-text"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "directory-for-public-worship-1645",
+      "title": "Westminster Directory for Public Worship",
+      "year": 1645,
+      "circa": false,
+      "place": {
+        "name": "Westminster, London",
+        "lat": 51.4995,
+        "lng": -0.1248
+      },
+      "category": "liturgical",
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Parliament abolishes the Book of Common Prayer and authorises the Westminster Assembly’s Directory, which gives rubrics rather than set prayers and abolishes holy days other than the Lord’s Day; Christmas observance is banned in 1647.",
+      "causes": [
+        "Puritan objections to set forms and ceremonies"
+      ],
+      "consequences": [
+        "Restoration of the Prayer Book in 1662"
+      ],
+      "peopleIds": [],
+      "doctrineIds": [
+        "worship-liturgy"
+      ],
+      "traditionIds": [
+        "presbyterian",
+        "congregationalist"
+      ],
+      "sources": [
+        "white-protestant-worship",
+        "macculloch-christianity"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "churches-of-christ-instrument-division-1906",
+      "title": "Churches of Christ listed separately from the Disciples",
+      "year": 1906,
+      "circa": false,
+      "place": {
+        "name": "Nashville, Tennessee",
+        "lat": 36.162,
+        "lng": -86.781
+      },
+      "category": "schism",
+      "regions": [
+        "north-america"
+      ],
+      "summary": "After decades of dispute over instrumental music and missionary societies (instruments first introduced at Midway, Kentucky, c.1860; Daniel Sommer’s Sand Creek Address, 1889), the US religious census lists the a cappella Churches of Christ separately from the Disciples of Christ.",
+      "causes": [
+        "Restorationist principle of New Testament precedent"
+      ],
+      "consequences": [
+        "Non-instrumental Churches of Christ as a distinct fellowship"
+      ],
+      "peopleIds": [
+        "alexander-campbell"
+      ],
+      "doctrineIds": [
+        "worship-liturgy"
+      ],
+      "traditionIds": [
+        "stone-campbell-restoration"
+      ],
+      "sources": [
+        "hughes-reviving-ancient-faith",
+        "ferguson-acappella"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "works": [
+    {
+      "id": "didache",
+      "title": "Didache (The Teaching of the Twelve Apostles)",
+      "author": "Anonymous",
+      "year": 100,
+      "circa": true,
+      "language": "Greek",
+      "genre": "rule",
+      "summary": "Short church manual with the \"Two Ways\" moral teaching, instructions on baptism, fasting, the Lord’s Prayer, eucharistic thanksgivings (chs. 9–10), Sunday assembly (ch. 14) and itinerant prophets.",
+      "significance": "Earliest surviving church order, rediscovered in 1873 (published 1883); key evidence for Jewish-rooted early Christian worship and ethics.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/0714.htm",
+      "doctrineIds": [
+        "worship-liturgy",
+        "baptism",
+        "sexuality-marriage"
+      ],
+      "sources": [
+        "bradshaw-origins-worship",
+        "anf-npnf"
+      ]
+    },
+    {
+      "id": "apostolic-tradition",
+      "title": "Apostolic Tradition",
+      "authorId": "hippolytus-of-rome",
+      "year": 215,
+      "circa": true,
+      "language": "Greek",
+      "genre": "liturgy",
+      "summary": "Church order containing ordination rites, an early eucharistic prayer and the baptismal rite with triple interrogation.",
+      "significance": "Its anaphora became the basis of Eucharistic Prayer II of the 1970 Roman Missal; its date, origin and attribution to Hippolytus are debated.",
+      "doctrineIds": [
+        "worship-liturgy",
+        "baptism"
+      ],
+      "sources": [
+        "bradshaw-origins-worship"
+      ]
+    },
+    {
+      "id": "divine-liturgy-chrysostom",
+      "title": "Divine Liturgy of St John Chrysostom",
+      "authorId": "john-chrysostom",
+      "year": 400,
+      "circa": true,
+      "language": "Greek",
+      "genre": "liturgy",
+      "summary": "The ordinary eucharistic liturgy of the Byzantine rite, with its anaphora traditionally attributed to John Chrysostom, celebrated in Greek, Slavonic, Arabic, Romanian, Georgian, English and many other languages.",
+      "significance": "The most widely used Eastern liturgy, the central act of worship of Eastern Orthodox and Byzantine Catholic churches.",
+      "doctrineIds": [
+        "worship-liturgy",
+        "church-sacraments"
+      ],
+      "sources": [
+        "taft-byzantine-rite"
+      ]
+    },
+    {
+      "id": "luther-deutsche-messe",
+      "title": "German Mass and Order of Service (Deutsche Messe)",
+      "authorId": "martin-luther",
+      "year": 1526,
+      "circa": false,
+      "language": "German",
+      "genre": "liturgy",
+      "summary": "Vernacular evangelical order of the Mass with chorales, preaching and communion.",
+      "significance": "Model for Lutheran church orders and congregational singing.",
+      "doctrineIds": [
+        "worship-liturgy"
+      ],
+      "sources": [
+        "white-protestant-worship"
+      ]
+    },
+    {
+      "id": "book-of-common-prayer",
+      "title": "The Book of Common Prayer",
+      "authorId": "thomas-cranmer",
+      "year": 1549,
+      "circa": false,
+      "language": "English",
+      "genre": "liturgy",
+      "summary": "Cranmer’s English liturgy for daily offices, Holy Communion, baptism, marriage, burial and ordination; standard revision of 1662.",
+      "significance": "Shaped Anglican worship worldwide and the English language itself.",
+      "fullTextUrl": "https://www.ccel.org/ccel/anglican/bcp.html",
+      "doctrineIds": [
+        "worship-liturgy",
+        "church-sacraments",
+        "sexuality-marriage"
+      ],
+      "sources": [
+        "cuming-anglican-liturgy"
+      ]
+    },
+    {
+      "id": "barclay-apology",
+      "title": "An Apology for the True Christian Divinity",
+      "authorId": "robert-barclay",
+      "year": 1676,
+      "circa": false,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "Fifteen propositions defending Quaker doctrine, including inward revelation, silent worship and spiritual sacraments.",
+      "significance": "The standard Quaker theology for two centuries.",
+      "doctrineIds": [
+        "worship-liturgy",
+        "holy-spirit"
+      ],
+      "sources": [
+        "moore-light-consciences"
+      ]
+    },
+    {
+      "id": "watts-hymns-spiritual-songs",
+      "title": "Hymns and Spiritual Songs",
+      "authorId": "isaac-watts",
+      "year": 1707,
+      "circa": false,
+      "language": "English",
+      "genre": "hymn",
+      "summary": "Collection of some 200 freely composed hymns for congregational singing.",
+      "significance": "Launched the English hymn tradition beyond metrical psalmody.",
+      "doctrineIds": [
+        "worship-liturgy"
+      ],
+      "sources": [
+        "white-protestant-worship"
+      ]
+    },
+    {
+      "id": "finney-lectures-on-revivals",
+      "title": "Lectures on Revivals of Religion",
+      "authorId": "charles-finney",
+      "year": 1835,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "Finney’s lectures arguing that revivals result from the right use of means, and defending \"new measures\" such as the anxious bench and protracted meetings.",
+      "significance": "Handbook of American revivalism and of pragmatic, results-oriented worship.",
+      "fullTextUrl": "https://www.ccel.org/ccel/finney/revivals.html",
+      "doctrineIds": [
+        "worship-liturgy",
+        "salvation"
+      ],
+      "sources": [
+        "finney-lectures-text"
+      ]
+    },
+    {
+      "id": "nevin-anxious-bench",
+      "title": "The Anxious Bench",
+      "authorId": "john-williamson-nevin",
+      "year": 1843,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "Critique of revivalist techniques in favour of catechetical, churchly piety.",
+      "significance": "Classic objection to revivalism from within the Reformed tradition.",
+      "doctrineIds": [
+        "worship-liturgy"
+      ],
+      "sources": [
+        "white-protestant-worship"
+      ]
+    },
+    {
+      "id": "sacrosanctum-concilium",
+      "title": "Sacrosanctum Concilium (Constitution on the Sacred Liturgy)",
+      "authorId": "paul-vi",
+      "year": 1963,
+      "circa": false,
+      "language": "Latin",
+      "genre": "canon",
+      "summary": "Vatican II’s charter for liturgical reform.",
+      "significance": "Basis of the post-conciliar reform of all Catholic rites.",
+      "fullTextUrl": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html",
+      "doctrineIds": [
+        "worship-liturgy"
+      ],
+      "sources": [
+        "sacrosanctum-concilium-text"
+      ]
+    },
+    {
+      "id": "traditionis-custodes",
+      "title": "Traditionis Custodes",
+      "authorId": "pope-francis",
+      "year": 2021,
+      "circa": false,
+      "language": "Latin",
+      "genre": "canon",
+      "summary": "Motu proprio restricting celebration of the pre-1970 Roman Missal.",
+      "significance": "Reversed Summorum Pontificum and reopened the \"liturgy wars\".",
+      "doctrineIds": [
+        "worship-liturgy"
+      ],
+      "sources": [
+        "traditionis-custodes-text"
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "id": "justin-day-called-sunday",
+      "text": "And on the day called Sunday, all who live in cities or in the country gather together to one place, and the memoirs of the apostles or the writings of the prophets are read, as long as time permits; then, when the reader has ceased, the president verbally instructs, and exhorts to the imitation of these good things.",
+      "kind": "quotation",
+      "personId": "justin-martyr",
+      "citation": "Justin Martyr, First Apology 67 (ANF vol. 1)",
+      "workId": "justin-first-apology",
+      "year": 155,
+      "topics": [
+        "Sunday",
+        "Eucharist",
+        "early worship"
+      ],
+      "doctrineIds": [
+        "worship-liturgy",
+        "covenant-law"
+      ]
+    },
+    {
+      "id": "cranmer-preface-1549",
+      "text": "There was never any thing by the wit of man so well devised, or so sure established, which in continuance of time hath not been corrupted ...",
+      "kind": "quotation",
+      "personId": "thomas-cranmer",
+      "citation": "Book of Common Prayer (1549), Preface (\"Concerning the Service of the Church\")",
+      "workId": "book-of-common-prayer",
+      "year": 1549,
+      "topics": [
+        "Book of Common Prayer",
+        "liturgical reform"
+      ],
+      "doctrineIds": [
+        "worship-liturgy"
+      ]
+    },
+    {
+      "id": "luther-deutsche-messe-para",
+      "text": "Luther explained that he offered the German Mass for the sake of the unlearned and the young, kept the Latin service for those who knew Latin, and imagined a third, simpler order for earnest Christians meeting in houses; he warned that no order of service should be made into a binding law or a means of salvation.",
+      "kind": "paraphrase",
+      "personId": "martin-luther",
+      "citation": "Paraphrase of Luther, Preface to the German Mass (1526)",
+      "workId": "luther-deutsche-messe",
+      "year": 1526,
+      "topics": [
+        "Lutheran liturgy",
+        "Christian freedom"
+      ],
+      "doctrineIds": [
+        "worship-liturgy"
+      ]
+    },
+    {
+      "id": "calvin-worship-para",
+      "text": "Calvin argued that God rejects all modes of worship not expressly sanctioned by his word, since people who devise worship by their own judgement, however good their intentions, end up honouring their own inventions rather than God.",
+      "kind": "paraphrase",
+      "personId": "john-calvin",
+      "citation": "Paraphrase of Calvin, The Necessity of Reforming the Church (1543)",
+      "year": 1543,
+      "topics": [
+        "regulative principle",
+        "worship"
+      ],
+      "doctrineIds": [
+        "worship-liturgy"
+      ]
+    },
+    {
+      "id": "barclay-silent-worship-para",
+      "text": "Barclay taught that true worship is not tied to set times, places or forms, but consists in the inward stirring of God’s Spirit; Friends therefore gather in silence, waiting upon the Lord, and speak, pray or sing only when moved by the Spirit.",
+      "kind": "paraphrase",
+      "personId": "robert-barclay",
+      "citation": "Paraphrase of Barclay, Apology for the True Christian Divinity (1678), Proposition 11",
+      "workId": "barclay-apology",
+      "year": 1678,
+      "topics": [
+        "Quaker worship",
+        "silence"
+      ],
+      "doctrineIds": [
+        "worship-liturgy",
+        "holy-spirit"
+      ]
+    },
+    {
+      "id": "finney-revival-not-miracle",
+      "text": "A revival is not a miracle, or dependent on a miracle, in any sense. It is a purely philosophical result of the right use of the constituted means.",
+      "kind": "quotation",
+      "personId": "charles-finney",
+      "citation": "Charles G. Finney, Lectures on Revivals of Religion (1835), Lecture 1",
+      "workId": "finney-lectures-on-revivals",
+      "year": 1835,
+      "topics": [
+        "revivalism",
+        "new measures"
+      ],
+      "doctrineIds": [
+        "worship-liturgy",
+        "salvation"
+      ]
+    },
+    {
+      "id": "nevin-anxious-bench-para",
+      "text": "Nevin contrasted the \"system of the bench\", which relies on excitement and sudden decisions, with the \"system of the catechism\", in which the church nurtures faith through preaching, sacraments and patient instruction; he judged the new measures a shallow, man-centred substitute.",
+      "kind": "paraphrase",
+      "personId": "john-williamson-nevin",
+      "citation": "Paraphrase of J. W. Nevin, The Anxious Bench (2nd ed., 1844)",
+      "workId": "nevin-anxious-bench",
+      "year": 1844,
+      "topics": [
+        "revivalism",
+        "liturgy"
+      ],
+      "doctrineIds": [
+        "worship-liturgy"
+      ]
+    },
+    {
+      "id": "sacrosanctum-concilium-participation-para",
+      "text": "The Council desired that all the faithful be led to the \"full, conscious, and active participation\" in liturgical celebrations that the nature of the liturgy demands and that is their right and duty by baptism; the liturgy is the summit toward which the Church’s activity is directed and the fount from which its power flows.",
+      "kind": "paraphrase",
+      "personId": "paul-vi",
+      "citation": "Paraphrase of Sacrosanctum Concilium 10 and 14 (4 December 1963)",
+      "workId": "sacrosanctum-concilium",
+      "year": 1963,
+      "topics": [
+        "active participation",
+        "liturgical reform"
+      ],
+      "doctrineIds": [
+        "worship-liturgy"
+      ]
+    },
+    {
+      "id": "traditionis-custodes-para",
+      "text": "Francis decreed that the liturgical books promulgated by Paul VI and John Paul II in conformity with Vatican II are the unique expression of the lex orandi of the Roman Rite, and explained that use of the older Missal had come to be exploited to reject the Council and divide the Church.",
+      "kind": "paraphrase",
+      "personId": "pope-francis",
+      "citation": "Paraphrase of Traditionis Custodes, art. 1, and the accompanying letter to bishops (16 July 2021)",
+      "workId": "traditionis-custodes",
+      "year": 2021,
+      "topics": [
+        "Traditional Latin Mass",
+        "unity"
+      ],
+      "doctrineIds": [
+        "worship-liturgy"
+      ]
+    },
+    {
+      "id": "benedict-two-forms-para",
+      "text": "Benedict XVI argued that the 1962 and 1970 Missals are two usages of the one Roman Rite, and that what earlier generations held as sacred remains sacred and great for us too and cannot suddenly be entirely forbidden or harmful.",
+      "kind": "paraphrase",
+      "personId": "benedict-xvi",
+      "citation": "Paraphrase of Benedict XVI, Letter to Bishops accompanying Summorum Pontificum (7 July 2007)",
+      "year": 2007,
+      "topics": [
+        "Traditional Latin Mass",
+        "continuity"
+      ],
+      "doctrineIds": [
+        "worship-liturgy"
+      ]
+    },
+    {
+      "id": "campbell-instruments-para",
+      "text": "Alexander Campbell wrote that to all spiritually minded Christians instrumental music in worship would be as unwelcome as a cow bell in a concert, a carnal aid to those who lacked a spiritual mind.",
+      "kind": "paraphrase",
+      "personId": "alexander-campbell",
+      "citation": "Paraphrase of Alexander Campbell, Millennial Harbinger (October 1851)",
+      "year": 1851,
+      "topics": [
+        "instrumental music",
+        "restorationism"
+      ],
+      "doctrineIds": [
+        "worship-liturgy"
+      ]
+    }
+  ]
+}

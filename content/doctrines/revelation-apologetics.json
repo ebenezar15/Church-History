@@ -1,0 +1,3384 @@
+{
+  "sources": [
+    {
+      "id": "dulles-history-apologetics",
+      "title": "A History of Apologetics",
+      "kind": "secondary",
+      "author": "Avery Dulles",
+      "year": "1971; 2nd ed. 2005"
+    },
+    {
+      "id": "dulles-models-revelation",
+      "title": "Models of Revelation",
+      "kind": "secondary",
+      "author": "Avery Dulles",
+      "year": 1983
+    },
+    {
+      "id": "cowan-five-views-apologetics",
+      "title": "Five Views on Apologetics",
+      "kind": "secondary",
+      "author": "Steven B. Cowan (ed.)",
+      "year": 2000
+    },
+    {
+      "id": "plantinga-warranted",
+      "title": "Warranted Christian Belief",
+      "kind": "primary",
+      "author": "Alvin Plantinga",
+      "year": 2000
+    },
+    {
+      "id": "plantinga-god-freedom-evil",
+      "title": "God, Freedom, and Evil",
+      "kind": "primary",
+      "author": "Alvin Plantinga",
+      "year": 1974
+    },
+    {
+      "id": "barth-brunner-natural-theology",
+      "title": "Natural Theology: Comprising “Nature and Grace” by Emil Brunner and the Reply “No!” by Karl Barth",
+      "kind": "primary",
+      "author": "tr. Peter Fraenkel",
+      "year": 1946
+    },
+    {
+      "id": "griffith-church-shadow-mosque",
+      "title": "The Church in the Shadow of the Mosque: Christians and Muslims in the World of Islam",
+      "kind": "secondary",
+      "author": "Sidney H. Griffith",
+      "year": 2008
+    },
+    {
+      "id": "thomas-cmr",
+      "title": "Christian-Muslim Relations: A Bibliographical History",
+      "kind": "secondary",
+      "author": "David Thomas et al. (eds.)",
+      "year": "2009-"
+    },
+    {
+      "id": "powell-muslims-missionaries",
+      "title": "Muslims and Missionaries in Pre-Mutiny India",
+      "kind": "secondary",
+      "author": "Avril A. Powell",
+      "year": 1993
+    },
+    {
+      "id": "mcgrath-open-secret",
+      "title": "The Open Secret: A New Vision for Natural Theology",
+      "kind": "secondary",
+      "author": "Alister E. McGrath",
+      "year": 2008
+    },
+    {
+      "id": "evans-faith-beyond-reason",
+      "title": "Faith Beyond Reason: A Kierkegaardian Account",
+      "kind": "secondary",
+      "author": "C. Stephen Evans",
+      "year": 1998
+    },
+    {
+      "id": "frame-van-til",
+      "title": "Cornelius Van Til: An Analysis of His Thought",
+      "kind": "secondary",
+      "author": "John M. Frame",
+      "year": 1995
+    },
+    {
+      "id": "craig-reasonable-faith",
+      "title": "Reasonable Faith: Christian Truth and Apologetics",
+      "kind": "secondary",
+      "author": "William Lane Craig",
+      "year": "3rd ed. 2008"
+    },
+    {
+      "id": "swinburne-existence-god",
+      "title": "The Existence of God",
+      "kind": "secondary",
+      "author": "Richard Swinburne",
+      "year": "1979; 2nd ed. 2004"
+    },
+    {
+      "id": "pascal-pensees-src",
+      "title": "Pensées",
+      "kind": "primary",
+      "author": "Blaise Pascal",
+      "year": 1670,
+      "url": "https://www.ccel.org/ccel/pascal/pensees.html"
+    },
+    {
+      "id": "newadvent-summa",
+      "title": "Summa Theologiae (tr. Fathers of the English Dominican Province)",
+      "kind": "primary",
+      "author": "Thomas Aquinas",
+      "year": "1265-74; tr. 1920",
+      "url": "https://www.newadvent.org/summa/"
+    }
+  ],
+  "people": [
+    {
+      "id": "william-paley",
+      "name": "William Paley",
+      "born": 1743,
+      "died": 1805,
+      "circa": false,
+      "roles": [
+        "Anglican priest",
+        "archdeacon of Carlisle",
+        "philosopher"
+      ],
+      "traditionIds": [
+        "anglican"
+      ],
+      "regions": [
+        "northern-europe"
+      ],
+      "summary": "English Anglican clergyman whose Natural Theology (1802) made the classic argument from design — the watch found on a heath — and whose Evidences of Christianity (1794) was required reading at Cambridge, where Charles Darwin studied it closely.",
+      "keyIdeas": [
+        "Watchmaker argument",
+        "Evidences of Christianity",
+        "Utilitarian moral philosophy"
+      ],
+      "influencedBy": [
+        "joseph-butler"
+      ],
+      "place": {
+        "name": "Carlisle",
+        "lat": 54.8925,
+        "lng": -2.9329
+      },
+      "sources": [
+        "mcgrath-open-secret",
+        "brooke-science-religion",
+        "dulles-history-apologetics"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "joseph-butler",
+      "name": "Joseph Butler",
+      "born": 1692,
+      "died": 1752,
+      "circa": false,
+      "roles": [
+        "bishop of Bristol and Durham",
+        "philosopher"
+      ],
+      "traditionIds": [
+        "anglican"
+      ],
+      "regions": [
+        "northern-europe"
+      ],
+      "summary": "English bishop whose Analogy of Religion (1736) answered the deists by arguing that the difficulties found in revealed religion are paralleled in nature, which deists accepted as God’s work; since certainty is unavailable, probability is the guide of life.",
+      "keyIdeas": [
+        "Probabilistic apologetics",
+        "Analogy of nature and revelation",
+        "Conscience"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Durham",
+        "lat": 54.7753,
+        "lng": -1.5849
+      },
+      "sources": [
+        "dulles-history-apologetics",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "david-hume",
+      "name": "David Hume",
+      "born": 1711,
+      "died": 1776,
+      "circa": false,
+      "roles": [
+        "philosopher",
+        "historian"
+      ],
+      "traditionIds": [],
+      "regions": [
+        "northern-europe"
+      ],
+      "summary": "Scottish Enlightenment philosopher raised in the Church of Scotland who became its most formidable sceptical critic: his essay “Of Miracles” (1748) and posthumous Dialogues concerning Natural Religion (1779) attacked the evidential case for miracles and the design argument.",
+      "keyIdeas": [
+        "Critique of miracles",
+        "Critique of the design argument",
+        "Empiricism and scepticism"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Edinburgh",
+        "lat": 55.9533,
+        "lng": -3.1883
+      },
+      "sources": [
+        "dulles-history-apologetics",
+        "brooke-science-religion"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "soren-kierkegaard",
+      "name": "Søren Kierkegaard",
+      "born": 1813,
+      "died": 1855,
+      "circa": false,
+      "roles": [
+        "philosopher",
+        "theologian",
+        "writer"
+      ],
+      "traditionIds": [
+        "lutheran"
+      ],
+      "regions": [
+        "northern-europe"
+      ],
+      "summary": "Danish Lutheran writer who attacked both Hegelian rational Christianity and the complacent state church. Through pseudonymous works such as Fear and Trembling (1843) and Concluding Unscientific Postscript (1846) he argued that faith is a passionate, subjective commitment to the “absolute paradox” of the God-man, not the conclusion of objective proof.",
+      "keyIdeas": [
+        "Truth is subjectivity",
+        "The leap of faith",
+        "The absolute paradox",
+        "Attack upon Christendom"
+      ],
+      "influencedBy": [
+        "martin-luther"
+      ],
+      "place": {
+        "name": "Copenhagen",
+        "lat": 55.6761,
+        "lng": 12.5683
+      },
+      "sources": [
+        "evans-faith-beyond-reason",
+        "dulles-history-apologetics"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "emil-brunner",
+      "name": "Emil Brunner",
+      "born": 1889,
+      "died": 1966,
+      "circa": false,
+      "roles": [
+        "theologian"
+      ],
+      "traditionIds": [
+        "reformed"
+      ],
+      "regions": [
+        "western-europe",
+        "east-asia"
+      ],
+      "summary": "Swiss Reformed theologian, early ally of Karl Barth in dialectical theology, whose Nature and Grace (1934) argued for a “point of contact” for the gospel in human nature and a limited natural knowledge of God, provoking Barth’s furious “No!”. He later taught at International Christian University in Tokyo (1953-55).",
+      "keyIdeas": [
+        "Point of contact (Anknüpfungspunkt)",
+        "Formal and material image of God",
+        "Truth as encounter"
+      ],
+      "influencedBy": [
+        "john-calvin",
+        "karl-barth"
+      ],
+      "place": {
+        "name": "Zurich",
+        "lat": 47.3769,
+        "lng": 8.5417
+      },
+      "sources": [
+        "barth-brunner-natural-theology",
+        "mccormack-barth"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "cornelius-van-til",
+      "name": "Cornelius Van Til",
+      "born": 1895,
+      "died": 1987,
+      "circa": false,
+      "roles": [
+        "theologian",
+        "apologist"
+      ],
+      "traditionIds": [
+        "presbyterian",
+        "reformed"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "Dutch-born American Reformed apologist at Westminster Theological Seminary who developed presuppositional apologetics: since all reasoning rests on ultimate commitments, Christians should argue transcendentally that only the triune God of Scripture makes logic, science and morality intelligible.",
+      "keyIdeas": [
+        "Presuppositional apologetics",
+        "Transcendental argument",
+        "Antithesis between belief and unbelief"
+      ],
+      "influencedBy": [
+        "john-calvin"
+      ],
+      "place": {
+        "name": "Philadelphia",
+        "lat": 40.0712,
+        "lng": -75.1546
+      },
+      "sources": [
+        "frame-van-til",
+        "cowan-five-views-apologetics"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "alvin-plantinga",
+      "name": "Alvin Plantinga",
+      "born": 1932,
+      "circa": false,
+      "roles": [
+        "philosopher"
+      ],
+      "traditionIds": [
+        "reformed"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "American Reformed philosopher (Calvin College, Notre Dame) whose free-will defence (1974) answered the logical problem of evil and whose “Reformed epistemology” (Faith and Rationality, 1983; Warranted Christian Belief, 2000) argues that belief in God can be properly basic and warranted without evidential argument.",
+      "keyIdeas": [
+        "Reformed epistemology",
+        "Properly basic belief",
+        "Free-will defence",
+        "Evolutionary argument against naturalism"
+      ],
+      "influencedBy": [
+        "john-calvin"
+      ],
+      "place": {
+        "name": "Notre Dame, Indiana",
+        "lat": 41.7052,
+        "lng": -86.2353
+      },
+      "sources": [
+        "plantinga-warranted",
+        "plantinga-god-freedom-evil",
+        "cowan-five-views-apologetics"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "william-lane-craig",
+      "name": "William Lane Craig",
+      "born": 1949,
+      "circa": false,
+      "roles": [
+        "philosopher",
+        "apologist"
+      ],
+      "traditionIds": [
+        "evangelical"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "American evangelical philosopher who revived the medieval Islamic kalām cosmological argument (1979), defends the historicity of Jesus’ resurrection and Molinism, and has debated leading atheists worldwide; a leading representative of classical apologetics.",
+      "keyIdeas": [
+        "Kalām cosmological argument",
+        "Resurrection apologetics",
+        "Molinism"
+      ],
+      "influencedBy": [
+        "luis-de-molina"
+      ],
+      "place": {
+        "name": "Atlanta, Georgia",
+        "lat": 33.749,
+        "lng": -84.388
+      },
+      "sources": [
+        "craig-reasonable-faith",
+        "cowan-five-views-apologetics"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "richard-swinburne",
+      "name": "Richard Swinburne",
+      "born": 1934,
+      "circa": false,
+      "roles": [
+        "philosopher"
+      ],
+      "traditionIds": [
+        "anglican",
+        "eastern-orthodox"
+      ],
+      "regions": [
+        "northern-europe"
+      ],
+      "summary": "British philosopher at Oxford whose The Existence of God (1979) argues by Bayesian probability that a cumulative case from the universe’s existence, order, consciousness, morality, miracles and religious experience makes theism more probable than not. Raised Anglican, he joined the Orthodox Church in 1996.",
+      "keyIdeas": [
+        "Cumulative-case argument",
+        "Bayesian natural theology",
+        "Principle of credulity"
+      ],
+      "influencedBy": [
+        "joseph-butler"
+      ],
+      "place": {
+        "name": "Oxford",
+        "lat": 51.752,
+        "lng": -1.2577
+      },
+      "sources": [
+        "swinburne-existence-god",
+        "cowan-five-views-apologetics"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "theodore-abu-qurrah",
+      "name": "Theodore Abu Qurrah",
+      "born": 750,
+      "died": 825,
+      "circa": true,
+      "roles": [
+        "bishop of Harran",
+        "theologian",
+        "apologist"
+      ],
+      "traditionIds": [
+        "eastern-orthodox"
+      ],
+      "regions": [
+        "mesopotamia-persia",
+        "levant"
+      ],
+      "summary": "Melkite (Chalcedonian) bishop of Harran and one of the first Christian theologians to write in Arabic. He defended the Trinity, incarnation and the veneration of icons in dialogue with Muslim kalām theologians, and proposed criteria for discerning the true religion among many.",
+      "keyIdeas": [
+        "Arabic Christian theology",
+        "Defence of icons in an Islamic context",
+        "Criteria for true religion"
+      ],
+      "influencedBy": [
+        "john-of-damascus"
+      ],
+      "place": {
+        "name": "Harran",
+        "lat": 36.8656,
+        "lng": 39.0322
+      },
+      "sources": [
+        "griffith-church-shadow-mosque",
+        "thomas-cmr"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "karl-pfander",
+      "name": "Karl Gottlieb Pfander",
+      "born": 1803,
+      "died": 1865,
+      "circa": false,
+      "roles": [
+        "missionary",
+        "apologist"
+      ],
+      "traditionIds": [
+        "lutheran",
+        "anglican"
+      ],
+      "regions": [
+        "india",
+        "mesopotamia-persia",
+        "asia-minor"
+      ],
+      "summary": "German Pietist missionary (Basel Mission, later Church Missionary Society) in Persia, India and Istanbul whose Mizan al-Haqq (Balance of Truth, 1829) became the most widely circulated Christian apologetic to Muslims. He lost the public Agra debate (1854) to Rahmatullah Kairanawi.",
+      "keyIdeas": [
+        "Mizan al-Haqq",
+        "Public debate with Muslims"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Agra",
+        "lat": 27.1767,
+        "lng": 78.0081
+      },
+      "sources": [
+        "powell-muslims-missionaries",
+        "thomas-cmr"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "works": [
+    {
+      "id": "justin-second-apology",
+      "title": "Second Apology",
+      "authorId": "justin-martyr",
+      "year": 155,
+      "circa": true,
+      "language": "Greek",
+      "genre": "apology",
+      "summary": "Short appeal to the Roman Senate after the execution of Christians, arguing that the Logos sowed “seeds” of truth among the philosophers.",
+      "significance": "Classic source of the “seeds of the Word” (logos spermatikos) tradition of positive engagement with philosophy.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/0127.htm",
+      "doctrineIds": [
+        "revelation-apologetics"
+      ],
+      "sources": [
+        "anf-npnf",
+        "dulles-history-apologetics"
+      ]
+    },
+    {
+      "id": "john-damascus-on-heresies",
+      "title": "On Heresies (Fount of Knowledge, part 2)",
+      "authorId": "john-of-damascus",
+      "year": 743,
+      "circa": true,
+      "language": "Greek",
+      "genre": "treatise",
+      "summary": "A catalogue of heresies ending with the “heresy of the Ishmaelites”, an early Christian account and critique of Islam written under Umayyad rule.",
+      "significance": "The earliest substantial Christian treatment of Islam, setting the tone of Byzantine polemic.",
+      "doctrineIds": [
+        "revelation-apologetics"
+      ],
+      "sources": [
+        "griffith-church-shadow-mosque",
+        "thomas-cmr"
+      ]
+    },
+    {
+      "id": "timothy-dialogue-al-mahdi",
+      "title": "Dialogue with the Caliph al-Mahdi",
+      "authorId": "timothy-i",
+      "year": 782,
+      "circa": true,
+      "language": "Syriac",
+      "genre": "apology",
+      "summary": "Record, in Syriac (later Arabic), of a two-day courteous debate between Catholicos Timothy I and the Abbasid caliph on the Trinity, incarnation, Scripture and Muhammad.",
+      "significance": "A model of respectful Christian–Muslim theological dialogue, widely copied in the Christian East.",
+      "doctrineIds": [
+        "revelation-apologetics",
+        "trinity"
+      ],
+      "sources": [
+        "griffith-church-shadow-mosque",
+        "baum-winkler-east",
+        "thomas-cmr"
+      ]
+    },
+    {
+      "id": "anselm-proslogion",
+      "title": "Proslogion",
+      "authorId": "anselm",
+      "year": 1078,
+      "circa": false,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "A prayerful meditation proposing that God is “that than which nothing greater can be thought” and that such a being must exist in reality.",
+      "significance": "Origin of the ontological argument and of the motto “faith seeking understanding”.",
+      "fullTextUrl": "https://www.ccel.org/ccel/anselm/basic_works.html",
+      "doctrineIds": [
+        "revelation-apologetics"
+      ],
+      "sources": [
+        "dulles-history-apologetics",
+        "pelikan-christian-tradition"
+      ]
+    },
+    {
+      "id": "pascal-pensees",
+      "title": "Pensées",
+      "authorId": "blaise-pascal",
+      "year": 1670,
+      "circa": false,
+      "language": "French",
+      "genre": "devotional",
+      "summary": "Fragments of an unfinished apology for Christianity, published posthumously, including the “wager” and reflections on the heart, human greatness and misery.",
+      "significance": "A classic of existential and pragmatic apologetics.",
+      "fullTextUrl": "https://www.ccel.org/ccel/pascal/pensees.html",
+      "doctrineIds": [
+        "revelation-apologetics"
+      ],
+      "sources": [
+        "pascal-pensees-src",
+        "dulles-history-apologetics"
+      ]
+    },
+    {
+      "id": "butler-analogy",
+      "title": "The Analogy of Religion, Natural and Revealed",
+      "authorId": "joseph-butler",
+      "year": 1736,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "Answers deism by arguing that revealed religion has no greater difficulties than the natural order deists accept, and that probability is the guide of life.",
+      "significance": "The most influential English apologetic of the 18th century and a model of evidential, probabilistic reasoning.",
+      "doctrineIds": [
+        "revelation-apologetics"
+      ],
+      "sources": [
+        "dulles-history-apologetics"
+      ]
+    },
+    {
+      "id": "hume-dialogues",
+      "title": "Dialogues concerning Natural Religion",
+      "authorId": "david-hume",
+      "year": 1779,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "Posthumous dialogue in which Philo dismantles the design argument proposed by Cleanthes.",
+      "significance": "Classic philosophical critique of natural theology.",
+      "doctrineIds": [
+        "revelation-apologetics"
+      ],
+      "sources": [
+        "dulles-history-apologetics",
+        "brooke-science-religion"
+      ]
+    },
+    {
+      "id": "paley-natural-theology",
+      "title": "Natural Theology; or, Evidences of the Existence and Attributes of the Deity",
+      "authorId": "william-paley",
+      "year": 1802,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "Argues from the contrivance and adaptation of living things — compared to a watch — to an intelligent and benevolent designer.",
+      "significance": "The classic statement of the design argument, later undercut for many by Darwin.",
+      "doctrineIds": [
+        "revelation-apologetics",
+        "creation-providence"
+      ],
+      "sources": [
+        "mcgrath-open-secret",
+        "brooke-science-religion"
+      ]
+    },
+    {
+      "id": "pfander-mizan-al-haqq",
+      "title": "Mizan al-Haqq (The Balance of Truth)",
+      "authorId": "karl-pfander",
+      "year": 1829,
+      "circa": false,
+      "language": "Persian",
+      "genre": "apology",
+      "summary": "Argues that the Bible has not been corrupted, that Christianity fulfils the criteria of true revelation and that Islam does not.",
+      "significance": "The most influential missionary apologetic to Muslims in the 19th century; still reprinted.",
+      "doctrineIds": [
+        "revelation-apologetics"
+      ],
+      "sources": [
+        "powell-muslims-missionaries",
+        "thomas-cmr"
+      ]
+    },
+    {
+      "id": "kierkegaard-postscript",
+      "title": "Concluding Unscientific Postscript to Philosophical Fragments",
+      "authorId": "soren-kierkegaard",
+      "year": 1846,
+      "circa": false,
+      "language": "Danish",
+      "genre": "treatise",
+      "summary": "Under the pseudonym Johannes Climacus, argues that subjectivity is truth and that faith is a passionate appropriation of an objective uncertainty, not a result of historical or speculative proof.",
+      "significance": "Foundational text of Christian existentialism and modern fideism.",
+      "doctrineIds": [
+        "revelation-apologetics"
+      ],
+      "sources": [
+        "evans-faith-beyond-reason"
+      ]
+    },
+    {
+      "id": "dei-filius",
+      "title": "Dei Filius (Dogmatic Constitution on the Catholic Faith)",
+      "authorId": "pius-ix",
+      "year": 1870,
+      "circa": false,
+      "language": "Latin",
+      "genre": "canon",
+      "summary": "First Vatican Council’s constitution on God, revelation, faith and reason: God can be known with certainty by natural reason from created things; revelation is nonetheless morally necessary and faith is reasonable.",
+      "significance": "Defined Catholic teaching on natural theology against both rationalism and fideism.",
+      "doctrineIds": [
+        "revelation-apologetics",
+        "scripture-authority"
+      ],
+      "sources": [
+        "schaff-creeds",
+        "omalley-vatican-i"
+      ]
+    },
+    {
+      "id": "brunner-nature-and-grace",
+      "title": "Nature and Grace (Natur und Gnade)",
+      "authorId": "emil-brunner",
+      "year": 1934,
+      "circa": false,
+      "language": "German",
+      "genre": "treatise",
+      "summary": "Argues for a formal (but not material) image of God surviving the fall, a “point of contact” for the gospel and a limited revelation in creation.",
+      "significance": "Provoked Barth’s No!, the most famous intra-Protestant debate on natural theology.",
+      "doctrineIds": [
+        "revelation-apologetics"
+      ],
+      "sources": [
+        "barth-brunner-natural-theology"
+      ]
+    },
+    {
+      "id": "barth-nein",
+      "title": "No! An Answer to Emil Brunner (Nein! Antwort an Emil Brunner)",
+      "authorId": "karl-barth",
+      "year": 1934,
+      "circa": false,
+      "language": "German",
+      "genre": "treatise",
+      "summary": "Rejects any natural theology or point of contact independent of God’s revelation in Jesus Christ.",
+      "significance": "Written months after the Barmen Declaration; a manifesto of revelation-centred theology.",
+      "doctrineIds": [
+        "revelation-apologetics"
+      ],
+      "sources": [
+        "barth-brunner-natural-theology",
+        "mccormack-barth"
+      ]
+    },
+    {
+      "id": "lewis-mere-christianity",
+      "title": "Mere Christianity",
+      "authorId": "c-s-lewis",
+      "year": 1952,
+      "circa": false,
+      "language": "English",
+      "genre": "apology",
+      "summary": "Edited from BBC radio talks (1941-44): the moral argument, the core of Christian belief and ethics, and the “trilemma” about Jesus’ identity.",
+      "significance": "The most widely read popular apologetic of the 20th century.",
+      "doctrineIds": [
+        "revelation-apologetics"
+      ],
+      "sources": [
+        "dulles-history-apologetics"
+      ]
+    },
+    {
+      "id": "van-til-defense-of-faith",
+      "title": "The Defense of the Faith",
+      "authorId": "cornelius-van-til",
+      "year": 1955,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "Sets out presuppositional apologetics and criticises classical and evidential methods as granting the unbeliever’s autonomy.",
+      "significance": "Foundational text of presuppositionalism.",
+      "doctrineIds": [
+        "revelation-apologetics"
+      ],
+      "sources": [
+        "frame-van-til"
+      ]
+    },
+    {
+      "id": "plantinga-warranted-christian-belief",
+      "title": "Warranted Christian Belief",
+      "authorId": "alvin-plantinga",
+      "year": 2000,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "Argues that if Christianity is true, Christian belief is likely warranted through the sensus divinitatis and the internal testimony of the Holy Spirit, without needing evidential arguments.",
+      "significance": "Major statement of Reformed epistemology.",
+      "doctrineIds": [
+        "revelation-apologetics"
+      ],
+      "sources": [
+        "plantinga-warranted"
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "id": "justin-spermatic-word",
+      "text": "For each man spoke well in proportion to the share he had of the spermatic word, seeing what was related to it.",
+      "kind": "quotation",
+      "translation": "Greek, tr. Marcus Dods and George Reith",
+      "personId": "justin-martyr",
+      "workId": "justin-second-apology",
+      "citation": "Second Apology 13 (tr. Dods & Reith, ANF 1)",
+      "year": 155,
+      "topics": [
+        "Logos",
+        "philosophy",
+        "general revelation"
+      ],
+      "doctrineIds": [
+        "revelation-apologetics"
+      ]
+    },
+    {
+      "id": "tertullian-athens-jerusalem",
+      "text": "What indeed has Athens to do with Jerusalem? What concord is there between the Academy and the Church? what between heretics and Christians?",
+      "kind": "quotation",
+      "translation": "Latin, tr. Peter Holmes",
+      "personId": "tertullian",
+      "workId": "tertullian-prescription-against-heretics",
+      "citation": "Prescription against Heretics 7 (tr. Peter Holmes, ANF 3)",
+      "year": 200,
+      "topics": [
+        "faith and reason",
+        "philosophy"
+      ],
+      "doctrineIds": [
+        "revelation-apologetics"
+      ]
+    },
+    {
+      "id": "john-damascus-ishmaelites",
+      "text": "John of Damascus describes Islam as the latest of the heresies, “forerunner of the Antichrist”, says that Muhammad, having encountered the Old and New Testaments and an Arian monk, devised his own heresy, and challenges the lack of witnesses to his prophetic call.",
+      "kind": "paraphrase",
+      "personId": "john-of-damascus",
+      "workId": "john-damascus-on-heresies",
+      "citation": "On Heresies 100 (101)",
+      "year": 743,
+      "topics": [
+        "Islam",
+        "polemic"
+      ],
+      "doctrineIds": [
+        "revelation-apologetics"
+      ]
+    },
+    {
+      "id": "timothy-mahdi-para",
+      "text": "Asked by the caliph what he thought of Muhammad, Timothy answers that Muhammad walked in the path of the prophets, since he taught the unity of God, opposed idolatry and fought for God — while courteously declining to call him a prophet and defending the Trinity by analogies such as the sun with its light and heat.",
+      "kind": "paraphrase",
+      "personId": "timothy-i",
+      "workId": "timothy-dialogue-al-mahdi",
+      "citation": "Dialogue with the Caliph al-Mahdi (782), day 2",
+      "year": 782,
+      "topics": [
+        "Islam",
+        "dialogue",
+        "Trinity"
+      ],
+      "doctrineIds": [
+        "revelation-apologetics",
+        "trinity"
+      ]
+    },
+    {
+      "id": "abu-qurrah-true-religion",
+      "text": "Abu Qurrah imagines a man raised in isolation who meets representatives of many religions; reason, he argues, can judge which religion’s account of God, sin and salvation best fits what human nature shows us — and that test favours Christianity.",
+      "kind": "paraphrase",
+      "personId": "theodore-abu-qurrah",
+      "citation": "Treatise on the Existence of the Creator and the True Religion",
+      "year": 815,
+      "topics": [
+        "Islam",
+        "criteria of revelation"
+      ],
+      "doctrineIds": [
+        "revelation-apologetics"
+      ]
+    },
+    {
+      "id": "anselm-believe-to-understand",
+      "text": "For I do not seek to understand that I may believe, but I believe in order to understand.",
+      "kind": "quotation",
+      "translation": "Latin, tr. S. N. Deane",
+      "personId": "anselm",
+      "workId": "anselm-proslogion",
+      "citation": "Proslogion 1 (tr. S. N. Deane, 1903)",
+      "year": 1078,
+      "topics": [
+        "faith and reason"
+      ],
+      "doctrineIds": [
+        "revelation-apologetics"
+      ]
+    },
+    {
+      "id": "aquinas-five-ways",
+      "text": "The existence of God can be proved in five ways.",
+      "kind": "quotation",
+      "translation": "Latin, tr. English Dominican Fathers",
+      "personId": "thomas-aquinas",
+      "workId": "aquinas-summa-theologiae",
+      "citation": "Summa Theologiae I q.2 a.3 (tr. Fathers of the English Dominican Province)",
+      "year": 1266,
+      "topics": [
+        "natural theology",
+        "proofs of God"
+      ],
+      "doctrineIds": [
+        "revelation-apologetics"
+      ]
+    },
+    {
+      "id": "aquinas-preambles-para",
+      "text": "Aquinas distinguishes truths about God that reason can reach — such as that God exists and is one — from those that exceed reason, such as the Trinity; even the former are fittingly revealed, since otherwise few would know them, after long time, and mixed with error.",
+      "kind": "paraphrase",
+      "personId": "thomas-aquinas",
+      "workId": "aquinas-summa-theologiae",
+      "citation": "Summa Theologiae I q.1 a.1; Summa contra Gentiles I.3-4",
+      "year": 1266,
+      "topics": [
+        "natural theology",
+        "revelation"
+      ],
+      "doctrineIds": [
+        "revelation-apologetics"
+      ]
+    },
+    {
+      "id": "calvin-sense-of-deity",
+      "text": "That there exists in the human mind, and indeed by natural instinct, some sense of Deity, we hold to be beyond dispute.",
+      "kind": "quotation",
+      "translation": "Latin, tr. Henry Beveridge",
+      "personId": "john-calvin",
+      "workId": "calvin-institutes",
+      "citation": "Institutes 1.3.1 (tr. Henry Beveridge, 1845)",
+      "year": 1559,
+      "topics": [
+        "sensus divinitatis",
+        "general revelation"
+      ],
+      "doctrineIds": [
+        "revelation-apologetics"
+      ]
+    },
+    {
+      "id": "pascal-wager-para",
+      "text": "Pascal argues that reason cannot settle whether God exists, yet we must wager, since not to choose is to choose; if you bet on God and win, you gain everything, and if you lose, you lose nothing of value — so wager without hesitation, and act as believers do until belief comes.",
+      "kind": "paraphrase",
+      "personId": "blaise-pascal",
+      "workId": "pascal-pensees",
+      "citation": "Pensées 233 (Brunschvicg) / 418 (Lafuma)",
+      "year": 1670,
+      "topics": [
+        "wager",
+        "apologetics"
+      ],
+      "doctrineIds": [
+        "revelation-apologetics"
+      ]
+    },
+    {
+      "id": "pascal-heart-reasons-para",
+      "text": "Pascal says that the heart has its reasons which reason does not know: we know God and first principles by the heart, not by reason alone.",
+      "kind": "paraphrase",
+      "personId": "blaise-pascal",
+      "workId": "pascal-pensees",
+      "citation": "Pensées 277 (Brunschvicg) / 423 (Lafuma)",
+      "year": 1670,
+      "topics": [
+        "faith and reason",
+        "heart"
+      ],
+      "doctrineIds": [
+        "revelation-apologetics"
+      ]
+    },
+    {
+      "id": "butler-probability-guide",
+      "text": "But to us, probability is the very guide of life.",
+      "kind": "quotation",
+      "personId": "joseph-butler",
+      "workId": "butler-analogy",
+      "citation": "The Analogy of Religion (1736), Introduction",
+      "year": 1736,
+      "topics": [
+        "evidential apologetics",
+        "probability"
+      ],
+      "doctrineIds": [
+        "revelation-apologetics"
+      ]
+    },
+    {
+      "id": "hume-design-para",
+      "text": "Through his character Philo, Hume argues that the analogy between the universe and a human artefact is weak; even granted, it would prove at most a limited, perhaps fallible or multiple designer, not the infinite and perfectly good God of theism, especially given the evils of the world.",
+      "kind": "paraphrase",
+      "personId": "david-hume",
+      "workId": "hume-dialogues",
+      "citation": "Dialogues concerning Natural Religion (1779), parts 2, 5, 10-11",
+      "year": 1779,
+      "topics": [
+        "design argument",
+        "scepticism"
+      ],
+      "doctrineIds": [
+        "revelation-apologetics",
+        "creation-providence"
+      ]
+    },
+    {
+      "id": "paley-heath",
+      "text": "In crossing a heath, suppose I pitched my foot against a stone, and were asked how the stone came to be there; I might possibly answer, that, for any thing I knew to the contrary, it had lain there for ever.",
+      "kind": "quotation",
+      "personId": "william-paley",
+      "workId": "paley-natural-theology",
+      "citation": "Natural Theology (1802), ch. 1, opening sentence",
+      "year": 1802,
+      "topics": [
+        "design argument",
+        "watchmaker"
+      ],
+      "doctrineIds": [
+        "revelation-apologetics",
+        "creation-providence"
+      ]
+    },
+    {
+      "id": "kierkegaard-leap-para",
+      "text": "Kierkegaard’s Climacus argues that faith cannot rest on historical scholarship or speculative proof, which can only yield approximation; it is the passionate, inward appropriation of an objective uncertainty — the absolute paradox of the eternal God in time — and so requires a “leap”.",
+      "kind": "paraphrase",
+      "personId": "soren-kierkegaard",
+      "workId": "kierkegaard-postscript",
+      "citation": "Concluding Unscientific Postscript (1846), Part One and Part Two ch. 2",
+      "year": 1846,
+      "topics": [
+        "fideism",
+        "faith"
+      ],
+      "doctrineIds": [
+        "revelation-apologetics"
+      ]
+    },
+    {
+      "id": "vatican-i-natural-light",
+      "text": "The same Holy Mother Church holds and teaches that God, the beginning and end of all things, may be certainly known by the natural light of human reason, by means of created things.",
+      "kind": "quotation",
+      "personId": "pius-ix",
+      "workId": "dei-filius",
+      "citation": "Vatican I, Dei Filius ch. 2 (1870), tr. in Schaff, Creeds of Christendom vol. 2",
+      "year": 1870,
+      "topics": [
+        "natural theology",
+        "revelation"
+      ],
+      "doctrineIds": [
+        "revelation-apologetics"
+      ]
+    },
+    {
+      "id": "brunner-contact-para",
+      "text": "Brunner argues that though the material image of God was lost in the fall, a formal image remains — humans are still responsible, addressable beings — so there is a “point of contact” for the gospel and a real, if insufficient, revelation of God in creation.",
+      "kind": "paraphrase",
+      "personId": "emil-brunner",
+      "workId": "brunner-nature-and-grace",
+      "citation": "Nature and Grace (1934)",
+      "year": 1934,
+      "topics": [
+        "natural theology",
+        "point of contact"
+      ],
+      "doctrineIds": [
+        "revelation-apologetics"
+      ]
+    },
+    {
+      "id": "barth-nein-para",
+      "text": "Barth replies with an unconditional “No”: there is no point of contact in humanity independent of grace and no revelation in nature to be combined with revelation in Christ; such natural theology, he warns, is the door through which the “German Christians” brought nation and race into the church.",
+      "kind": "paraphrase",
+      "personId": "karl-barth",
+      "workId": "barth-nein",
+      "citation": "No! Answer to Emil Brunner (1934)",
+      "year": 1934,
+      "topics": [
+        "natural theology",
+        "revelation"
+      ],
+      "doctrineIds": [
+        "revelation-apologetics"
+      ]
+    },
+    {
+      "id": "lewis-trilemma-para",
+      "text": "Lewis argues that a man who said what Jesus said would not be a great moral teacher: he would be a lunatic or something worse, unless he was who he claimed to be; we must choose, and patronising talk of Jesus as merely a good teacher is not open to us.",
+      "kind": "paraphrase",
+      "personId": "c-s-lewis",
+      "workId": "lewis-mere-christianity",
+      "citation": "Mere Christianity (1952), Book II ch. 3",
+      "year": 1952,
+      "topics": [
+        "apologetics",
+        "Christology"
+      ],
+      "doctrineIds": [
+        "revelation-apologetics"
+      ]
+    },
+    {
+      "id": "van-til-presupposition-para",
+      "text": "Van Til argues that there is no neutral ground between belief and unbelief: the unbeliever borrows the order, logic and morality that only the God of Scripture can ground, so the apologist should show that the Christian worldview is the precondition of intelligibility.",
+      "kind": "paraphrase",
+      "personId": "cornelius-van-til",
+      "workId": "van-til-defense-of-faith",
+      "citation": "The Defense of the Faith (1955), chs. 5, 8",
+      "year": 1955,
+      "topics": [
+        "presuppositionalism"
+      ],
+      "doctrineIds": [
+        "revelation-apologetics"
+      ]
+    },
+    {
+      "id": "dei-verbum-para",
+      "text": "Vatican II teaches that God has revealed himself and his will fully in Christ, so that no new public revelation is to be expected before the Lord’s return; it also repeats that God can be known from created things by the light of reason.",
+      "kind": "paraphrase",
+      "personId": "paul-vi",
+      "workId": "dei-verbum",
+      "citation": "Dei Verbum 4, 6 (1965)",
+      "year": 1965,
+      "topics": [
+        "revelation",
+        "canon"
+      ],
+      "doctrineIds": [
+        "revelation-apologetics",
+        "scripture-authority"
+      ]
+    },
+    {
+      "id": "craig-kalam-para",
+      "text": "Craig’s kalām argument: whatever begins to exist has a cause; the universe began to exist (shown philosophically and by big-bang cosmology); therefore the universe has a cause, which must be a personal, timeless and immensely powerful Creator.",
+      "kind": "paraphrase",
+      "personId": "william-lane-craig",
+      "citation": "The Kalām Cosmological Argument (1979); Reasonable Faith ch. 3",
+      "year": 1979,
+      "topics": [
+        "classical apologetics",
+        "cosmological argument"
+      ],
+      "doctrineIds": [
+        "revelation-apologetics"
+      ]
+    },
+    {
+      "id": "swinburne-cumulative-para",
+      "text": "Swinburne argues that while no single argument proves God, the existence of the universe, its law-like order, fine-tuning, consciousness, moral awareness, miracles and religious experience together make theism more probable than not.",
+      "kind": "paraphrase",
+      "personId": "richard-swinburne",
+      "citation": "The Existence of God (1979; 2nd ed. 2004), ch. 14",
+      "year": 1979,
+      "topics": [
+        "cumulative case",
+        "probability"
+      ],
+      "doctrineIds": [
+        "revelation-apologetics"
+      ]
+    },
+    {
+      "id": "plantinga-properly-basic-para",
+      "text": "Plantinga argues that belief in God, like belief in other minds or in the past, can be “properly basic” — rational without being inferred from evidence — when produced by a properly functioning faculty such as Calvin’s sense of the divine.",
+      "kind": "paraphrase",
+      "personId": "alvin-plantinga",
+      "workId": "plantinga-warranted-christian-belief",
+      "citation": "“Reason and Belief in God”, in Faith and Rationality (1983); Warranted Christian Belief (2000) ch. 6",
+      "year": 1983,
+      "topics": [
+        "Reformed epistemology"
+      ],
+      "doctrineIds": [
+        "revelation-apologetics"
+      ]
+    },
+    {
+      "id": "plantinga-free-will-defence-para",
+      "text": "Plantinga argues that it is possible that God could not create a world containing free creatures who always choose rightly, so the existence of God and of evil is not logically contradictory.",
+      "kind": "paraphrase",
+      "personId": "alvin-plantinga",
+      "citation": "God, Freedom, and Evil (1974), Part I",
+      "year": 1974,
+      "topics": [
+        "theodicy",
+        "free will"
+      ],
+      "doctrineIds": [
+        "revelation-apologetics",
+        "creation-providence"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "barth-brunner-debate-1934",
+      "title": "Barth–Brunner debate on natural theology",
+      "year": 1934,
+      "circa": false,
+      "place": {
+        "name": "Bonn",
+        "lat": 50.7374,
+        "lng": 7.0982
+      },
+      "category": "intellectual",
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "In 1934 Emil Brunner’s Nature and Grace argued for a “point of contact” and limited natural revelation; Karl Barth replied with Nein! (No!), rejecting all natural theology as the opening through which the “German Christians” had brought race and nation into the church.",
+      "causes": [
+        "Church struggle in Nazi Germany",
+        "Barmen Declaration (May 1934)",
+        "Divergence within dialectical theology"
+      ],
+      "consequences": [
+        "Ended the Barth–Brunner partnership",
+        "Made rejection of natural theology a hallmark of Barthian theology",
+        "Shaped Protestant debate on general revelation for decades"
+      ],
+      "peopleIds": [
+        "karl-barth",
+        "emil-brunner"
+      ],
+      "doctrineIds": [
+        "revelation-apologetics"
+      ],
+      "traditionIds": [
+        "reformed",
+        "lutheran"
+      ],
+      "sources": [
+        "barth-brunner-natural-theology",
+        "mccormack-barth"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "agra-debate-1854",
+      "title": "Agra debate between Pfander and Kairanawi",
+      "year": 1854,
+      "circa": false,
+      "place": {
+        "name": "Agra",
+        "lat": 27.1767,
+        "lng": 78.0081
+      },
+      "category": "intellectual",
+      "regions": [
+        "india"
+      ],
+      "summary": "In April 1854 the CMS missionary Karl Pfander and Thomas Valpy French publicly debated the Muslim scholar Rahmatullah Kairanawi and Dr Wazir Khan at Agra on the corruption (tahrif) of the Bible and the Trinity. Kairanawi deployed European higher criticism against the missionaries, and the debate was widely regarded in India as a Muslim victory.",
+      "causes": [
+        "Evangelical missionary expansion in British India",
+        "Circulation of Pfander’s Mizan al-Haqq"
+      ],
+      "consequences": [
+        "Kairanawi’s Izhar al-Haqq (1864) became a standard Muslim polemic against the Bible",
+        "Highlighted the impact of biblical criticism on interreligious apologetics"
+      ],
+      "peopleIds": [
+        "karl-pfander"
+      ],
+      "doctrineIds": [
+        "revelation-apologetics",
+        "scripture-authority"
+      ],
+      "traditionIds": [
+        "anglican"
+      ],
+      "sources": [
+        "powell-muslims-missionaries",
+        "thomas-cmr"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "doctrines": [
+    {
+      "id": "revelation-apologetics",
+      "name": "Revelation and Apologetics",
+      "icon": "lamp",
+      "order": 15,
+      "question": "How does God make himself known, and how should Christians give a reason for their faith?",
+      "summary": "Christians agree that God has spoken supremely in Jesus Christ, but disagree over how much can be known of God from nature and reason, whether revelation has ended, and how faith should be defended — by proofs, evidence, presuppositions, a cumulative case, or not by argument at all.",
+      "longText": "Scripture speaks of God’s witness in creation and conscience (Psalm 19; Romans 1-2; Acts 14 and 17) and of his final word in his Son (Hebrews 1). From these texts theologians developed the distinction between general and special revelation. The earliest apologists faced pagan philosophers and Roman magistrates: Justin Martyr saw “seeds of the Word” in Greek philosophy, while Tertullian asked what Athens had to do with Jerusalem; Origen answered Celsus point by point.\n\nFrom the seventh century, the most demanding apologetic setting was Islam, which presented itself as the final revelation. Christians under Muslim rule wrote the first Christian theology in Arabic: John of Damascus polemically, Catholicos Timothy I courteously before the caliph al-Mahdi (782), Theodore Abu Qurrah with philosophical criteria for true religion. The kalām cosmological argument revived by modern apologists has its roots in this shared Islamic-Christian intellectual world. Later encounters — Ramon Llull, Nicholas of Cusa, Henry Martyn, Karl Pfander’s defeat at Agra (1854) — show the same mix of polemic and dialogue.\n\nIn the Latin West, Anselm’s “faith seeking understanding” and Aquinas’ five ways defined a classical natural theology, later made Catholic dogma at Vatican I (1870). Calvin spoke of a universal “sense of deity” distorted by sin. In the age of deism and science, Butler’s probabilistic Analogy and Paley’s watchmaker became staples of English apologetics, while Hume and later Darwin undermined their foundations. Pascal and Kierkegaard turned instead to the heart, the wager and the passionate leap of faith.\n\nThe 20th century saw Barth’s thunderous “No!” to Emil Brunner’s natural theology (1934), written in the shadow of Nazi ideology, alongside a flowering of Protestant apologetic schools: classical (Craig), evidential (Montgomery, Habermas), presuppositional (Van Til), cumulative-case (Mitchell, Swinburne) and Reformed epistemology (Plantinga, Wolterstorff). Meanwhile, claims of continuing revelation — from Montanist oracles and the Quaker Inner Light to Latter-day Saint scripture (outside historic Nicene orthodoxy) and Pentecostal prophecy — tested the historic conviction, shared by Catholic, Orthodox and Protestant churches, that public revelation was completed in Christ.",
+      "flow": {
+        "nodes": [
+          {
+            "id": "q",
+            "kind": "question",
+            "label": "How does God make himself known — and can faith be rationally defended?",
+            "text": "Is God known through nature, conscience and reason, or only through his self-revelation in Christ and Scripture? Has revelation ended, or does God still speak through prophets? And how should Christians defend their faith before philosophers, sceptics and other religions?",
+            "quoteIds": []
+          },
+          {
+            "id": "s-romans1",
+            "kind": "scripture",
+            "label": "Psalm 19; Acts 14:17; 17:22-31; Romans 1:18-20; 2:14-15",
+            "year": 57,
+            "text": "“The heavens declare the glory of God”; “he left not himself without witness”; “the invisible things of him from the creation of the world are clearly seen … so that they are without excuse”.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-hebrews1",
+            "kind": "scripture",
+            "label": "Hebrews 1:1-2; John 1:18; Jude 3; 1 Peter 3:15",
+            "year": 80,
+            "text": "“God, who at sundry times and in divers manners spake … hath in these last days spoken unto us by his Son”; “the faith which was once delivered unto the saints”; “be ready always to give an answer … a reason of the hope that is in you”.",
+            "quoteIds": []
+          },
+          {
+            "id": "v-justin",
+            "kind": "voice",
+            "label": "Justin Martyr: seeds of the Word in philosophy",
+            "year": 155,
+            "text": "The first great apologist sees the Logos sowing truth among the Greeks.",
+            "ref": {
+              "type": "person",
+              "id": "justin-martyr"
+            },
+            "quoteIds": [
+              "justin-spermatic-word"
+            ]
+          },
+          {
+            "id": "v-tertullian",
+            "kind": "voice",
+            "label": "Tertullian: Athens and Jerusalem",
+            "year": 200,
+            "text": "Tertullian’s rhetoric sets faith over against philosophy — though he himself used philosophy freely.",
+            "ref": {
+              "type": "person",
+              "id": "tertullian"
+            },
+            "quoteIds": [
+              "tertullian-athens-jerusalem"
+            ]
+          },
+          {
+            "id": "v-origen",
+            "kind": "voice",
+            "label": "Origen’s Against Celsus",
+            "year": 248,
+            "text": "The fullest early apology answers a learned pagan critic point by point, from miracles to the resurrection.",
+            "ref": {
+              "type": "work",
+              "id": "origen-against-celsus"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-gs",
+            "kind": "position",
+            "label": "General and special revelation: God’s two books",
+            "year": 400,
+            "text": "The Fathers, especially Augustine, speak of the book of creation alongside the book of Scripture.",
+            "ref": {
+              "type": "position",
+              "id": "general-special-revelation"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "c-islam",
+            "kind": "consequence",
+            "label": "The rise of Islam: a rival claim to final revelation",
+            "year": 634,
+            "text": "Islam’s claim that the Qur’an completes and corrects earlier scriptures creates a new apologetic setting for Christians living under Muslim rule.",
+            "ref": {
+              "type": "event",
+              "id": "rise-of-islam-arab-conquests-634"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "v-damascus",
+            "kind": "voice",
+            "label": "John of Damascus on the “heresy of the Ishmaelites”",
+            "year": 743,
+            "text": "Writing under the Umayyads, John treats Islam as a Christian heresy in a sharply polemical chapter.",
+            "ref": {
+              "type": "person",
+              "id": "john-of-damascus"
+            },
+            "quoteIds": [
+              "john-damascus-ishmaelites"
+            ]
+          },
+          {
+            "id": "v-timothy",
+            "kind": "voice",
+            "label": "Timothy I’s dialogue with Caliph al-Mahdi",
+            "year": 782,
+            "text": "The Church of the East’s patriarch defends the Trinity courteously before the Abbasid caliph in Baghdad.",
+            "ref": {
+              "type": "person",
+              "id": "timothy-i"
+            },
+            "quoteIds": [
+              "timothy-mahdi-para"
+            ]
+          },
+          {
+            "id": "p-islam",
+            "kind": "position",
+            "label": "Arabic Christian apologetics (Abu Qurrah and others)",
+            "year": 815,
+            "text": "Melkite, Syriac Orthodox and East Syriac theologians write in Arabic, using kalām methods to defend the Trinity and the Bible.",
+            "ref": {
+              "type": "position",
+              "id": "apologetics-to-islam"
+            },
+            "quoteIds": [
+              "abu-qurrah-true-religion"
+            ]
+          },
+          {
+            "id": "a-anselm",
+            "kind": "argument",
+            "label": "Anselm’s ontological argument: faith seeking understanding",
+            "year": 1078,
+            "text": "God is that than which nothing greater can be thought; such a being must exist.",
+            "ref": {
+              "type": "work",
+              "id": "anselm-proslogion"
+            },
+            "quoteIds": [
+              "anselm-believe-to-understand"
+            ]
+          },
+          {
+            "id": "p-thomist-nt",
+            "kind": "position",
+            "label": "Aquinas: the five ways and the preambles of faith",
+            "year": 1266,
+            "text": "Aquinas rejects the ontological argument but proves God from effects, distinguishing truths reason can reach from mysteries of faith.",
+            "ref": {
+              "type": "position",
+              "id": "thomist-natural-theology"
+            },
+            "quoteIds": [
+              "aquinas-five-ways",
+              "aquinas-preambles-para"
+            ]
+          },
+          {
+            "id": "v-calvin",
+            "kind": "voice",
+            "label": "Calvin: the sense of deity and the spectacles of Scripture",
+            "year": 1559,
+            "text": "All people have a seed of religion, but sin distorts it; Scripture acts as spectacles to see God rightly.",
+            "ref": {
+              "type": "person",
+              "id": "john-calvin"
+            },
+            "quoteIds": [
+              "calvin-sense-of-deity"
+            ]
+          },
+          {
+            "id": "p-closed",
+            "kind": "position",
+            "label": "Public revelation closed (Westminster; later Dei Verbum)",
+            "year": 1646,
+            "text": "Westminster declares the “former ways” of revelation “now ceased”; Catholic teaching likewise expects no new public revelation.",
+            "ref": {
+              "type": "position",
+              "id": "closed-public-revelation"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-pascal",
+            "kind": "position",
+            "label": "Pascal: the wager and the heart",
+            "year": 1670,
+            "text": "Pascal’s Pensées turn from proofs to the human condition and the practical wager.",
+            "ref": {
+              "type": "position",
+              "id": "pascalian-apologetics"
+            },
+            "quoteIds": [
+              "pascal-wager-para",
+              "pascal-heart-reasons-para"
+            ]
+          },
+          {
+            "id": "p-evidential",
+            "kind": "position",
+            "label": "Butler and the evidences: probability as guide",
+            "year": 1736,
+            "text": "Against the deists, Butler argues by analogy and probability; evidential apologetics follows.",
+            "ref": {
+              "type": "position",
+              "id": "evidential-apologetics"
+            },
+            "quoteIds": [
+              "butler-probability-guide"
+            ]
+          },
+          {
+            "id": "a-hume",
+            "kind": "argument",
+            "label": "Hume’s critique of design and miracles",
+            "year": 1779,
+            "text": "Hume’s Dialogues and essay on miracles become the classic sceptical objections.",
+            "ref": {
+              "type": "person",
+              "id": "david-hume"
+            },
+            "quoteIds": [
+              "hume-design-para"
+            ]
+          },
+          {
+            "id": "p-paley",
+            "kind": "position",
+            "label": "Paley’s Natural Theology: the watchmaker",
+            "year": 1802,
+            "text": "Paley answers with the most famous design argument, soon to be challenged by Darwin.",
+            "ref": {
+              "type": "position",
+              "id": "design-argument-paley"
+            },
+            "quoteIds": [
+              "paley-heath"
+            ]
+          },
+          {
+            "id": "p-continuing",
+            "kind": "position",
+            "label": "Continuing revelation: new prophets and scriptures",
+            "year": 1830,
+            "text": "From Montanus to the Quakers’ Inner Light, Joseph Smith’s Book of Mormon (1830, outside historic Nicene orthodoxy) and Pentecostal prophecy, some claim God still reveals.",
+            "ref": {
+              "type": "position",
+              "id": "continuing-revelation"
+            },
+            "quoteIds": [
+              "joseph-smith-bible-and-book-of-mormon",
+              "montanus-lyre-plectrum"
+            ]
+          },
+          {
+            "id": "p-fideism",
+            "kind": "position",
+            "label": "Kierkegaard: faith as passionate leap",
+            "year": 1846,
+            "text": "Kierkegaard attacks rational Christianity: faith appropriates the absolute paradox.",
+            "ref": {
+              "type": "position",
+              "id": "kierkegaardian-fideism"
+            },
+            "quoteIds": [
+              "kierkegaard-leap-para"
+            ]
+          },
+          {
+            "id": "c-agra",
+            "kind": "consequence",
+            "label": "Agra debate (1854): biblical criticism turned against missionaries",
+            "year": 1854,
+            "text": "Rahmatullah Kairanawi uses European higher criticism against Pfander, reshaping Muslim–Christian polemics in South Asia.",
+            "ref": {
+              "type": "event",
+              "id": "agra-debate-1854"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "d-vatican-i",
+            "kind": "decision",
+            "label": "Vatican I: God knowable by natural reason (1870)",
+            "year": 1870,
+            "text": "Dei Filius defines natural knowledge of God and condemns both rationalism and fideism.",
+            "ref": {
+              "type": "event",
+              "id": "first-vatican-council-1870"
+            },
+            "quoteIds": [
+              "vatican-i-natural-light"
+            ]
+          },
+          {
+            "id": "d-barmen",
+            "kind": "decision",
+            "label": "Barmen: Jesus Christ the one Word of God (1934)",
+            "year": 1934,
+            "text": "The Confessing Church rejects any other source of revelation alongside Christ.",
+            "ref": {
+              "type": "event",
+              "id": "barmen-declaration-1934"
+            },
+            "quoteIds": [
+              "barmen-one-word-of-god"
+            ]
+          },
+          {
+            "id": "p-brunner",
+            "kind": "position",
+            "label": "Brunner: a point of contact",
+            "year": 1934,
+            "text": "Brunner’s Nature and Grace defends a formal image and limited natural revelation.",
+            "ref": {
+              "type": "position",
+              "id": "brunner-point-of-contact"
+            },
+            "quoteIds": [
+              "brunner-contact-para"
+            ]
+          },
+          {
+            "id": "p-barth",
+            "kind": "position",
+            "label": "Barth’s Nein!",
+            "year": 1934,
+            "text": "Barth rejects all natural theology as the root of the church’s capitulation to ideology.",
+            "ref": {
+              "type": "position",
+              "id": "barthian-rejection-natural-theology"
+            },
+            "quoteIds": [
+              "barth-nein-para"
+            ]
+          },
+          {
+            "id": "v-lewis",
+            "kind": "voice",
+            "label": "C. S. Lewis: moral argument and trilemma",
+            "year": 1952,
+            "text": "Mere Christianity popularises the moral argument and the “mad, bad or God” trilemma.",
+            "ref": {
+              "type": "person",
+              "id": "c-s-lewis"
+            },
+            "quoteIds": [
+              "lewis-trilemma-para"
+            ]
+          },
+          {
+            "id": "p-presup",
+            "kind": "position",
+            "label": "Van Til: presuppositional apologetics",
+            "year": 1955,
+            "text": "No neutral ground: only the triune God makes reason intelligible.",
+            "ref": {
+              "type": "position",
+              "id": "presuppositional-apologetics"
+            },
+            "quoteIds": [
+              "van-til-presupposition-para"
+            ]
+          },
+          {
+            "id": "d-dei-verbum",
+            "kind": "decision",
+            "label": "Dei Verbum (1965): revelation complete in Christ",
+            "year": 1965,
+            "text": "Vatican II presents revelation as God’s personal self-communication, complete in Christ, transmitted in Scripture and Tradition.",
+            "ref": {
+              "type": "event",
+              "id": "second-vatican-council-1962"
+            },
+            "quoteIds": [
+              "dei-verbum-para"
+            ]
+          },
+          {
+            "id": "p-classical",
+            "kind": "position",
+            "label": "Classical apologetics revived: the kalām argument",
+            "year": 1979,
+            "text": "William Lane Craig revives the medieval Islamic kalām argument within a two-step classical method.",
+            "ref": {
+              "type": "position",
+              "id": "classical-apologetics"
+            },
+            "quoteIds": [
+              "craig-kalam-para"
+            ]
+          },
+          {
+            "id": "p-cumulative",
+            "kind": "position",
+            "label": "Cumulative case: Swinburne and Mitchell",
+            "year": 1979,
+            "text": "Theism defended as the best overall explanation, by converging probabilities.",
+            "ref": {
+              "type": "position",
+              "id": "cumulative-case-apologetics"
+            },
+            "quoteIds": [
+              "swinburne-cumulative-para"
+            ]
+          },
+          {
+            "id": "p-reformed-ep",
+            "kind": "position",
+            "label": "Reformed epistemology: belief in God as properly basic",
+            "year": 1983,
+            "text": "Plantinga and Wolterstorff argue belief in God can be rational without arguments.",
+            "ref": {
+              "type": "position",
+              "id": "reformed-epistemology"
+            },
+            "quoteIds": [
+              "plantinga-properly-basic-para"
+            ]
+          },
+          {
+            "id": "m-today",
+            "kind": "modern",
+            "label": "Today: apologetics in a plural world",
+            "year": 2025,
+            "text": "Natural theology has revived in analytic philosophy; online debate culture popularises classical, evidential and presuppositional methods; Barthian theology remains sceptical; and in Africa, Asia and the Middle East apologetics often concerns Islam, traditional religion, prosperity teaching and claims of new prophets more than Western secularism.",
+            "quoteIds": []
+          }
+        ],
+        "edges": [
+          {
+            "from": "q",
+            "to": "s-romans1",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q",
+            "to": "s-hebrews1",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-romans1",
+            "to": "v-justin",
+            "kind": "supports"
+          },
+          {
+            "from": "v-justin",
+            "to": "v-tertullian",
+            "kind": "objects"
+          },
+          {
+            "from": "s-hebrews1",
+            "to": "v-tertullian",
+            "kind": "supports"
+          },
+          {
+            "from": "v-justin",
+            "to": "v-origen",
+            "kind": "develops"
+          },
+          {
+            "from": "s-romans1",
+            "to": "p-gs",
+            "kind": "supports"
+          },
+          {
+            "from": "s-hebrews1",
+            "to": "p-gs",
+            "kind": "supports"
+          },
+          {
+            "from": "v-origen",
+            "to": "p-gs",
+            "kind": "develops"
+          },
+          {
+            "from": "s-hebrews1",
+            "to": "c-islam",
+            "kind": "leads-to"
+          },
+          {
+            "from": "c-islam",
+            "to": "v-damascus",
+            "kind": "leads-to"
+          },
+          {
+            "from": "c-islam",
+            "to": "v-timothy",
+            "kind": "leads-to"
+          },
+          {
+            "from": "v-timothy",
+            "to": "p-islam",
+            "kind": "develops"
+          },
+          {
+            "from": "v-damascus",
+            "to": "p-islam",
+            "kind": "develops"
+          },
+          {
+            "from": "p-gs",
+            "to": "a-anselm",
+            "kind": "develops"
+          },
+          {
+            "from": "a-anselm",
+            "to": "p-thomist-nt",
+            "kind": "objects"
+          },
+          {
+            "from": "p-islam",
+            "to": "p-thomist-nt",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-romans1",
+            "to": "v-calvin",
+            "kind": "supports"
+          },
+          {
+            "from": "s-hebrews1",
+            "to": "p-closed",
+            "kind": "supports"
+          },
+          {
+            "from": "v-calvin",
+            "to": "p-closed",
+            "kind": "develops"
+          },
+          {
+            "from": "p-thomist-nt",
+            "to": "p-pascal",
+            "kind": "objects"
+          },
+          {
+            "from": "p-thomist-nt",
+            "to": "p-evidential",
+            "kind": "develops"
+          },
+          {
+            "from": "p-evidential",
+            "to": "a-hume",
+            "kind": "objects"
+          },
+          {
+            "from": "p-thomist-nt",
+            "to": "p-paley",
+            "kind": "develops"
+          },
+          {
+            "from": "a-hume",
+            "to": "p-paley",
+            "kind": "responds"
+          },
+          {
+            "from": "p-closed",
+            "to": "p-continuing",
+            "kind": "objects"
+          },
+          {
+            "from": "p-pascal",
+            "to": "p-fideism",
+            "kind": "develops"
+          },
+          {
+            "from": "p-evidential",
+            "to": "p-fideism",
+            "kind": "objects"
+          },
+          {
+            "from": "p-islam",
+            "to": "c-agra",
+            "kind": "develops"
+          },
+          {
+            "from": "p-thomist-nt",
+            "to": "d-vatican-i",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-fideism",
+            "to": "d-vatican-i",
+            "kind": "objects"
+          },
+          {
+            "from": "s-hebrews1",
+            "to": "d-barmen",
+            "kind": "supports"
+          },
+          {
+            "from": "v-calvin",
+            "to": "p-brunner",
+            "kind": "develops"
+          },
+          {
+            "from": "p-brunner",
+            "to": "p-barth",
+            "kind": "objects"
+          },
+          {
+            "from": "d-barmen",
+            "to": "p-barth",
+            "kind": "supports"
+          },
+          {
+            "from": "p-thomist-nt",
+            "to": "v-lewis",
+            "kind": "develops"
+          },
+          {
+            "from": "p-barth",
+            "to": "p-presup",
+            "kind": "develops"
+          },
+          {
+            "from": "v-calvin",
+            "to": "p-presup",
+            "kind": "develops"
+          },
+          {
+            "from": "d-vatican-i",
+            "to": "d-dei-verbum",
+            "kind": "develops"
+          },
+          {
+            "from": "p-closed",
+            "to": "d-dei-verbum",
+            "kind": "supports"
+          },
+          {
+            "from": "p-thomist-nt",
+            "to": "p-classical",
+            "kind": "develops"
+          },
+          {
+            "from": "p-islam",
+            "to": "p-classical",
+            "kind": "develops"
+          },
+          {
+            "from": "v-lewis",
+            "to": "p-cumulative",
+            "kind": "develops"
+          },
+          {
+            "from": "p-paley",
+            "to": "p-cumulative",
+            "kind": "develops"
+          },
+          {
+            "from": "v-calvin",
+            "to": "p-reformed-ep",
+            "kind": "develops"
+          },
+          {
+            "from": "p-evidential",
+            "to": "p-reformed-ep",
+            "kind": "objects"
+          },
+          {
+            "from": "p-reformed-ep",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-classical",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-cumulative",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-presup",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-dei-verbum",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-continuing",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "c-agra",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-barth",
+            "to": "m-today",
+            "kind": "leads-to"
+          }
+        ]
+      },
+      "sources": [
+        "dulles-history-apologetics",
+        "dulles-models-revelation",
+        "cowan-five-views-apologetics",
+        "barth-brunner-natural-theology",
+        "griffith-church-shadow-mosque",
+        "mcgrath-open-secret",
+        "odcc"
+      ]
+    }
+  ],
+  "positions": [
+    {
+      "id": "general-special-revelation",
+      "doctrineId": "revelation-apologetics",
+      "name": "General and special revelation",
+      "altNames": [
+        "two books of God",
+        "natural and supernatural revelation"
+      ],
+      "oneLine": "God makes himself known in two ways: generally to all people through creation, conscience and history, and specially through his acts and words in Israel, supremely in Jesus Christ, and in Scripture.",
+      "coreClaims": [
+        "Creation testifies to God’s eternal power and divinity (Romans 1:20).",
+        "Conscience shows the work of the law written on hearts (Romans 2:14-15).",
+        "General revelation leaves humans without excuse but does not by itself save.",
+        "Special revelation culminates in Christ, the Word made flesh, and is attested in Scripture.",
+        "Nature and Scripture, rightly read, cannot ultimately conflict."
+      ],
+      "keyTexts": [
+        "Psalm 19",
+        "Acts 14:15-17",
+        "Acts 17:22-31",
+        "Romans 1:18-20",
+        "Romans 2:14-15",
+        "John 1:1-18",
+        "Hebrews 1:1-3"
+      ],
+      "origin": "Rooted in Scripture and the Fathers (Justin’s seeds of the Word; Augustine’s two books); systematised by medieval and Reformation theologians (Aquinas; Calvin, Institutes 1.1-6; Belgic Confession art. 2, 1561).",
+      "originYear": 400,
+      "proponentIds": [
+        "augustine-of-hippo",
+        "justin-martyr",
+        "thomas-aquinas",
+        "john-calvin",
+        "john-of-damascus"
+      ],
+      "proponentsOther": [
+        "Belgic Confession art. 2",
+        "Westminster Confession 1.1",
+        "Catechism of the Catholic Church 31-38"
+      ],
+      "traditionIds": [
+        "early-church",
+        "catholic",
+        "eastern-orthodox",
+        "oriental-orthodox",
+        "lutheran",
+        "reformed",
+        "anglican",
+        "methodist",
+        "baptist",
+        "evangelical",
+        "pentecostal"
+      ],
+      "strongestArguments": [
+        "It follows explicit biblical texts (Psalm 19; Romans 1).",
+        "It explains the universal religious sense and moral awareness of humanity.",
+        "It allows both evangelistic engagement with other cultures and the primacy of Christ."
+      ],
+      "strongestObjections": [
+        "Barthians argue that “general revelation” abstracts from Christ and opens the door to idolatrous natural theologies.",
+        "Some religious pluralists argue that the distinction privileges Christianity arbitrarily.",
+        "Critics ask how a revelation that only condemns can be called “revelation” at all."
+      ],
+      "responses": [
+        "Defenders note that Romans 1 makes the knowledge real even if suppressed, and that Christ is the Logos through whom creation reveals.",
+        "Many integrate general revelation within a Christocentric frame."
+      ],
+      "consequences": [
+        "Framework for missions theology (e.g. “eternity in their hearts”), natural law ethics and science–faith dialogue.",
+        "Underlies confessional statements on Scripture’s necessity."
+      ],
+      "relatedPositionIds": [
+        "thomist-natural-theology",
+        "barthian-rejection-natural-theology",
+        "brunner-point-of-contact",
+        "closed-public-revelation",
+        "sola-scriptura"
+      ],
+      "standing": "majority",
+      "sources": [
+        "dulles-models-revelation",
+        "mcgrath-open-secret",
+        "schaff-creeds"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "thomist-natural-theology",
+      "doctrineId": "revelation-apologetics",
+      "name": "Classical natural theology (Thomist; Vatican I)",
+      "altNames": [
+        "natural theology",
+        "preambles of faith",
+        "the five ways"
+      ],
+      "oneLine": "Human reason, reflecting on created things, can know with certainty that God exists and something of his nature (the “preambles of faith”), though the mysteries of faith such as the Trinity are known only by revelation.",
+      "coreClaims": [
+        "God’s existence can be demonstrated from effects: motion, causation, contingency, degrees of perfection and order (the five ways).",
+        "Faith and reason are distinct but cannot contradict, since both come from God.",
+        "Revelation is morally necessary even for truths reason can reach, so that all may know them easily.",
+        "Fideism and rationalism are both rejected."
+      ],
+      "keyTexts": [
+        "Wisdom 13:1-9",
+        "Romans 1:19-20",
+        "Acts 17:24-28",
+        "Psalm 19:1"
+      ],
+      "origin": "Prepared by Augustine, Anselm and Islamic and Jewish philosophers (Avicenna, Maimonides); classically formulated by Thomas Aquinas (Summa Theologiae I q.2, c.1266); defined by the First Vatican Council (Dei Filius, 1870).",
+      "originYear": 1266,
+      "proponentIds": [
+        "thomas-aquinas",
+        "anselm",
+        "pius-ix",
+        "john-paul-ii"
+      ],
+      "proponentsOther": [
+        "Avicenna (Islamic)",
+        "Maimonides (Jewish)",
+        "Dei Filius ch. 2",
+        "Fides et Ratio (1998)",
+        "Edward Feser"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-catholic",
+        "anglican",
+        "lutheran",
+        "reformed"
+      ],
+      "strongestArguments": [
+        "It honours Scripture’s claim that God is knowable from creation and the dignity of human reason.",
+        "It provides common ground for discussion with non-Christians and other religions.",
+        "It guards against both irrational fideism and autonomous rationalism."
+      ],
+      "strongestObjections": [
+        "Kant and Hume argued that the proofs overreach the limits of experience and reason.",
+        "Barth and many Protestants argue it constructs a “god of the philosophers” rather than the God of Abraham revealed in Christ.",
+        "Orthodox theologians caution that discursive proof can eclipse apophatic, experiential knowledge of God."
+      ],
+      "responses": [
+        "Thomists answer that the five ways conclude only to a first cause, later identified with the biblical God by revelation, and that Kant’s objections assume a contested epistemology.",
+        "They stress analogy: natural knowledge is real but limited and does not replace grace."
+      ],
+      "consequences": [
+        "Shaped Catholic education and apologetics; reaffirmed by John Paul II’s Fides et Ratio (1998).",
+        "Revived in analytic philosophy of religion since the 1970s."
+      ],
+      "relatedPositionIds": [
+        "general-special-revelation",
+        "design-argument-paley",
+        "classical-apologetics",
+        "barthian-rejection-natural-theology",
+        "kierkegaardian-fideism"
+      ],
+      "standing": "significant",
+      "sources": [
+        "dulles-history-apologetics",
+        "omalley-vatican-i",
+        "newadvent-summa",
+        "mcgrath-open-secret"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "design-argument-paley",
+      "doctrineId": "revelation-apologetics",
+      "name": "Design argument (physico-theology)",
+      "altNames": [
+        "teleological argument",
+        "watchmaker argument",
+        "physico-theology"
+      ],
+      "oneLine": "The intricate adaptation of means to ends in nature — like a watch found on a heath — points to an intelligent and benevolent Designer.",
+      "coreClaims": [
+        "Complex, functional order demands an intelligent cause.",
+        "Living organisms display contrivance far exceeding human artefacts.",
+        "The argument is empirical, cumulative and accessible to ordinary people.",
+        "Design reveals God’s wisdom and goodness."
+      ],
+      "keyTexts": [
+        "Psalm 104",
+        "Psalm 139:13-16",
+        "Job 38-39",
+        "Romans 1:20"
+      ],
+      "origin": "Ancient roots (Cicero, Aquinas’ fifth way); flourished in English “physico-theology” (John Ray, 1691; Robert Boyle) and culminated in William Paley’s Natural Theology (1802) and the Bridgewater Treatises (1833-36).",
+      "originYear": 1802,
+      "proponentIds": [
+        "william-paley",
+        "thomas-aquinas",
+        "thomas-chalmers"
+      ],
+      "proponentsOther": [
+        "John Ray",
+        "Robert Boyle",
+        "Isaac Newton",
+        "Bridgewater Treatises"
+      ],
+      "traditionIds": [
+        "anglican",
+        "reformed",
+        "evangelical"
+      ],
+      "strongestArguments": [
+        "It argues from publicly observable features of nature.",
+        "It harmonised Christianity with the scientific revolution.",
+        "Fine-tuning versions remain influential in cosmology."
+      ],
+      "strongestObjections": [
+        "Hume objected that the analogy is weak and the conclusion falls short of the God of theism.",
+        "Darwin’s natural selection explained adaptation without foresight, undercutting biological design arguments.",
+        "Barthians and Kierkegaardians argue that a designer-God is not the God revealed in Christ."
+      ],
+      "responses": [
+        "Defenders reply that cosmic fine-tuning and the lawfulness that natural selection itself presupposes still point to design.",
+        "Intelligent-design advocates revived biological design at the molecular level."
+      ],
+      "consequences": [
+        "Dominated British apologetics until 1859.",
+        "Its eclipse shaped later suspicion of natural theology and the rise of intelligent design."
+      ],
+      "relatedPositionIds": [
+        "thomist-natural-theology",
+        "intelligent-design",
+        "evidential-apologetics",
+        "cumulative-case-apologetics"
+      ],
+      "standing": "historic",
+      "sources": [
+        "mcgrath-open-secret",
+        "brooke-science-religion",
+        "dulles-history-apologetics"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "barthian-rejection-natural-theology",
+      "doctrineId": "revelation-apologetics",
+      "name": "Barth’s “No!”: revelation only in Christ",
+      "altNames": [
+        "rejection of natural theology",
+        "Christocentric revelation",
+        "Nein!"
+      ],
+      "oneLine": "There is no knowledge of God apart from God’s self-revelation in Jesus Christ, attested in Scripture; natural theology is not a preparation for faith but a human attempt to master God.",
+      "coreClaims": [
+        "God is known only through God: revelation is God’s free act, not a human capacity.",
+        "Jesus Christ is the one Word of God (Barmen thesis 1).",
+        "There is no “point of contact” in fallen humanity that grace can build on.",
+        "Natural theology leads to idolatries such as the German Christians’ “God of blood and soil”."
+      ],
+      "keyTexts": [
+        "John 1:18",
+        "John 14:6",
+        "Matthew 11:27",
+        "1 Corinthians 1:18-25",
+        "Colossians 2:3"
+      ],
+      "origin": "Developed by Karl Barth from Romans (1919/1922) onward and crystallised in the Barmen Declaration and Nein! (1934); continued in Church Dogmatics I/1-2 (1932-38), though later Barth spoke of “little lights” in creation (CD IV/3, 1959).",
+      "originYear": 1934,
+      "proponentIds": [
+        "karl-barth",
+        "dietrich-bonhoeffer",
+        "thomas-f-torrance"
+      ],
+      "proponentsOther": [
+        "Eduard Thurneysen",
+        "Barmen Declaration",
+        "Many post-war European Reformed theologians"
+      ],
+      "traditionIds": [
+        "reformed",
+        "lutheran"
+      ],
+      "strongestArguments": [
+        "It keeps theology accountable to the concrete revelation in Christ rather than to culture or ideology.",
+        "It was vindicated historically by the church struggle against Nazism.",
+        "It takes seriously the noetic effects of sin."
+      ],
+      "strongestObjections": [
+        "Brunner, Catholics and many evangelicals argue it cannot do justice to Psalm 19, Acts 17 and Romans 1-2.",
+        "Critics say it isolates faith from public reason and science (“fideism”).",
+        "Some argue Barth later softened his view, making the 1934 polemic overstated."
+      ],
+      "responses": [
+        "Barthians answer that Romans 1 speaks of knowledge that condemns because it is suppressed, not a usable foundation.",
+        "T. F. Torrance reformulated natural theology within revealed theology rather than as its foundation."
+      ],
+      "consequences": [
+        "Defined neo-orthodox theology.",
+        "Influenced Protestant suspicion of apologetics and of civil religion."
+      ],
+      "relatedPositionIds": [
+        "brunner-point-of-contact",
+        "thomist-natural-theology",
+        "general-special-revelation",
+        "neo-orthodox-word-of-god",
+        "presuppositional-apologetics"
+      ],
+      "standing": "significant",
+      "sources": [
+        "barth-brunner-natural-theology",
+        "mccormack-barth",
+        "dorrien-barthian-revolt"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "brunner-point-of-contact",
+      "doctrineId": "revelation-apologetics",
+      "name": "Brunner’s “point of contact” and limited natural revelation",
+      "altNames": [
+        "Anknüpfungspunkt",
+        "formal image of God"
+      ],
+      "oneLine": "Although sinners cannot know God savingly apart from Christ, God’s revelation in creation is real, and humanity retains a formal image — its responsibility and capacity to be addressed — that serves as a point of contact for the gospel.",
+      "coreClaims": [
+        "Creation is a genuine revelation of God, though fallen humans distort it.",
+        "The material image (righteousness) was lost; the formal image (personhood, addressability) remains.",
+        "Grace does not destroy but restores nature.",
+        "Calvin himself taught a revelation in creation and a sense of deity."
+      ],
+      "keyTexts": [
+        "Romans 1:19-21",
+        "Romans 2:14-15",
+        "Acts 14:17",
+        "Acts 17:27-28"
+      ],
+      "origin": "Set out in Emil Brunner’s Nature and Grace (1934), appealing to Calvin; developed in his Revelation and Reason (1941).",
+      "originYear": 1934,
+      "proponentIds": [
+        "emil-brunner",
+        "john-calvin"
+      ],
+      "proponentsOther": [
+        "Paul Althaus",
+        "Many later evangelical theologians of general revelation"
+      ],
+      "traditionIds": [
+        "reformed",
+        "evangelical"
+      ],
+      "strongestArguments": [
+        "It fits the biblical texts on revelation in creation and conscience.",
+        "It stands in continuity with Calvin.",
+        "It makes missionary communication intelligible: there is something in the hearer to address."
+      ],
+      "strongestObjections": [
+        "Barth argued that any point of contact becomes a human possession that relativises grace and invites ideological natural theologies.",
+        "Catholic critics found Brunner too negative about natural reason.",
+        "Some argue “formal image” is too thin to do the work Brunner wants."
+      ],
+      "responses": [
+        "Brunner replied that the point of contact is created by God and is no merit, and that denying it makes human responsibility unintelligible.",
+        "He noted that Barth’s own practice presupposes hearers capable of understanding language."
+      ],
+      "consequences": [
+        "Shaped mediating Protestant and evangelical theologies of general revelation.",
+        "Remains a reference point in missiology."
+      ],
+      "relatedPositionIds": [
+        "barthian-rejection-natural-theology",
+        "general-special-revelation",
+        "thomist-natural-theology"
+      ],
+      "standing": "minority",
+      "sources": [
+        "barth-brunner-natural-theology",
+        "mccormack-barth"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "reformed-epistemology",
+      "doctrineId": "revelation-apologetics",
+      "name": "Reformed epistemology",
+      "altNames": [
+        "properly basic belief",
+        "warranted Christian belief"
+      ],
+      "oneLine": "Belief in God can be rational and warranted without being based on arguments, just as belief in other minds or the past is; it can be “properly basic”, produced by a God-given faculty (the sensus divinitatis) and the witness of the Spirit.",
+      "coreClaims": [
+        "Classical foundationalism (only self-evident or evident-to-the-senses beliefs are basic) is self-refuting.",
+        "Belief in God may be basic, formed in appropriate circumstances such as wonder, guilt or gratitude.",
+        "If Christianity is true, Christian belief is probably warranted.",
+        "Arguments are helpful but not necessary for rational faith."
+      ],
+      "keyTexts": [
+        "Romans 1:19-21",
+        "Psalm 19:1",
+        "John 10:27",
+        "Romans 8:16",
+        "1 John 2:20, 27"
+      ],
+      "origin": "Developed by Alvin Plantinga and Nicholas Wolterstorff (Faith and Rationality, 1983), drawing on Calvin’s sensus divinitatis and Thomas Reid; culminating in Plantinga’s Warranted Christian Belief (2000).",
+      "originYear": 1983,
+      "proponentIds": [
+        "alvin-plantinga",
+        "john-calvin"
+      ],
+      "proponentsOther": [
+        "Nicholas Wolterstorff",
+        "William Alston",
+        "Thomas Reid",
+        "Kelly James Clark"
+      ],
+      "traditionIds": [
+        "reformed",
+        "evangelical",
+        "anglican",
+        "catholic"
+      ],
+      "strongestArguments": [
+        "It explains how ordinary believers without philosophical training can be rational.",
+        "It exposes the double standard of evidentialist objections.",
+        "It recovers Calvin’s teaching on the sense of the divine and the Spirit’s testimony."
+      ],
+      "strongestObjections": [
+        "Critics raise the “Great Pumpkin” objection: could any belief be called properly basic?",
+        "Evidentialists argue it shields belief from rational scrutiny and is close to fideism.",
+        "Religious diversity seems to give defeaters for basic belief."
+      ],
+      "responses": [
+        "Plantinga answers that proper basicality depends on properly functioning faculties in appropriate circumstances, not arbitrary choice.",
+        "Reformed epistemologists acknowledge defeaters and engage in “negative apologetics” to rebut them."
+      ],
+      "consequences": [
+        "Transformed philosophy of religion from the 1980s.",
+        "Influenced evangelical, Catholic and Jewish epistemology."
+      ],
+      "relatedPositionIds": [
+        "presuppositional-apologetics",
+        "evidential-apologetics",
+        "classical-apologetics",
+        "kierkegaardian-fideism",
+        "skeptical-theism"
+      ],
+      "standing": "significant",
+      "sources": [
+        "plantinga-warranted",
+        "cowan-five-views-apologetics"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "classical-apologetics",
+      "doctrineId": "revelation-apologetics",
+      "name": "Classical apologetics",
+      "altNames": [
+        "two-step apologetics",
+        "natural theology first"
+      ],
+      "oneLine": "Apologetics proceeds in two steps: first, natural theology establishes that God exists; then historical evidences (fulfilled prophecy, miracles, the resurrection) show that this God has revealed himself in Christ.",
+      "coreClaims": [
+        "Theism must be established before miracles can be recognised as divine acts.",
+        "Cosmological, teleological, moral and ontological arguments provide that foundation.",
+        "Historical evidence then confirms Christianity specifically.",
+        "Reason is common ground with unbelievers."
+      ],
+      "keyTexts": [
+        "Acts 17:22-31",
+        "Romans 1:20",
+        "1 Peter 3:15",
+        "1 Corinthians 15:3-8"
+      ],
+      "origin": "Pattern of Aquinas’ Summa contra Gentiles (c.1260) and post-Reformation apologists; revived by R. C. Sproul, John Gerstner and Arthur Lindsley (Classical Apologetics, 1984), Norman Geisler and William Lane Craig; the kalām argument draws on medieval Islamic theology.",
+      "originYear": 1979,
+      "proponentIds": [
+        "william-lane-craig",
+        "thomas-aquinas",
+        "c-s-lewis"
+      ],
+      "proponentsOther": [
+        "R. C. Sproul",
+        "Norman Geisler",
+        "Peter Kreeft",
+        "Edward Feser"
+      ],
+      "traditionIds": [
+        "evangelical",
+        "catholic",
+        "reformed",
+        "baptist"
+      ],
+      "strongestArguments": [
+        "It follows the natural order of argument: who God is before what God has done.",
+        "It stands in the long tradition of Aquinas and Anselm.",
+        "It is effective in public debate."
+      ],
+      "strongestObjections": [
+        "Presuppositionalists argue it grants the unbeliever’s autonomous reason as neutral judge.",
+        "Evidentialists argue the two steps are unnecessary: the resurrection evidence can establish both at once.",
+        "Kierkegaardians argue that proven probability cannot ground passionate faith."
+      ],
+      "responses": [
+        "Classical apologists reply that reason is God-given and shared, not autonomous, and that their arguments appeal to what unbelievers already know.",
+        "They argue that without theism, miracles can always be reinterpreted naturalistically."
+      ],
+      "consequences": [
+        "Shapes much evangelical apologetics ministry and campus debate.",
+        "Revived interest in medieval and Islamic philosophy (kalām)."
+      ],
+      "relatedPositionIds": [
+        "evidential-apologetics",
+        "presuppositional-apologetics",
+        "cumulative-case-apologetics",
+        "thomist-natural-theology"
+      ],
+      "standing": "significant",
+      "sources": [
+        "cowan-five-views-apologetics",
+        "craig-reasonable-faith",
+        "dulles-history-apologetics"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "evidential-apologetics",
+      "doctrineId": "revelation-apologetics",
+      "name": "Evidential apologetics",
+      "altNames": [
+        "evidentialism",
+        "one-step apologetics",
+        "historical apologetics"
+      ],
+      "oneLine": "Christianity can be defended directly from historical and empirical evidence — especially the resurrection of Jesus, fulfilled prophecy and miracles — which shows both that God exists and that he has acted in Christ.",
+      "coreClaims": [
+        "The resurrection is a historical event that can be investigated.",
+        "Miracles function as evidence for God and for Christ’s claims.",
+        "Probability is the guide of life; certainty is not required.",
+        "The method is open-ended and empirical."
+      ],
+      "keyTexts": [
+        "Luke 1:1-4",
+        "John 20:30-31",
+        "Acts 1:3",
+        "Acts 26:26",
+        "1 Corinthians 15:3-8"
+      ],
+      "origin": "Prepared by Grotius (1627) and Butler’s Analogy (1736), Paley’s Evidences (1794) and Simon Greenleaf (1846); revived by John Warwick Montgomery, Gary Habermas and the “minimal facts” approach.",
+      "originYear": 1736,
+      "proponentIds": [
+        "joseph-butler",
+        "william-paley",
+        "hugo-grotius",
+        "b-b-warfield"
+      ],
+      "proponentsOther": [
+        "Simon Greenleaf",
+        "John Warwick Montgomery",
+        "Gary Habermas",
+        "Josh McDowell",
+        "Lee Strobel"
+      ],
+      "traditionIds": [
+        "evangelical",
+        "baptist",
+        "anglican",
+        "pentecostal"
+      ],
+      "strongestArguments": [
+        "The New Testament itself appeals to eyewitness evidence (1 Corinthians 15).",
+        "It engages modern people on their own empirical terms.",
+        "It does not require prior acceptance of philosophical arguments."
+      ],
+      "strongestObjections": [
+        "Presuppositionalists argue that facts are interpreted by worldviews, so evidence alone cannot persuade a committed naturalist.",
+        "Hume and later sceptics argue miracles are always the least probable explanation.",
+        "Kierkegaard argued that historical probability cannot ground eternal commitment."
+      ],
+      "responses": [
+        "Evidentialists answer that worldview-dependence is not total and evidence can force revision of worldviews.",
+        "They argue Hume’s objection assumes naturalism and that the resurrection hypothesis best explains the minimal facts."
+      ],
+      "consequences": [
+        "Dominant in popular evangelical apologetics (Evidence That Demands a Verdict, 1972; The Case for Christ, 1998).",
+        "Shaped legal-style approaches to faith."
+      ],
+      "relatedPositionIds": [
+        "classical-apologetics",
+        "presuppositional-apologetics",
+        "cumulative-case-apologetics",
+        "design-argument-paley"
+      ],
+      "standing": "significant",
+      "sources": [
+        "cowan-five-views-apologetics",
+        "dulles-history-apologetics"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "presuppositional-apologetics",
+      "doctrineId": "revelation-apologetics",
+      "name": "Presuppositional apologetics",
+      "altNames": [
+        "presuppositionalism",
+        "transcendental apologetics",
+        "covenantal apologetics"
+      ],
+      "oneLine": "There is no neutral ground between belief and unbelief; the apologist should presuppose the truth of Scripture and show that only the Christian worldview provides the preconditions for logic, science and morality, which unbelievers borrow.",
+      "coreClaims": [
+        "All reasoning rests on ultimate presuppositions.",
+        "Unbelievers know God but suppress the truth (Romans 1:18).",
+        "The transcendental argument: without the triune God, nothing is intelligible.",
+        "Apologetics must not grant human reason autonomy over God’s Word."
+      ],
+      "keyTexts": [
+        "Proverbs 1:7",
+        "Romans 1:18-21",
+        "1 Corinthians 1:18-2:16",
+        "2 Corinthians 10:5",
+        "Colossians 2:3-8"
+      ],
+      "origin": "Developed by Cornelius Van Til at Westminster Theological Seminary (The Defense of the Faith, 1955), building on Abraham Kuyper’s antithesis; popularised by Greg Bahnsen (debate with Gordon Stein, 1985), John Frame and Gordon Clark (rationalist variant).",
+      "originYear": 1955,
+      "proponentIds": [
+        "cornelius-van-til",
+        "john-calvin"
+      ],
+      "proponentsOther": [
+        "Abraham Kuyper",
+        "Greg Bahnsen",
+        "John Frame",
+        "Gordon Clark",
+        "K. Scott Oliphint"
+      ],
+      "traditionIds": [
+        "reformed",
+        "presbyterian",
+        "baptist",
+        "evangelical"
+      ],
+      "strongestArguments": [
+        "It takes the noetic effects of sin and the authority of Scripture seriously.",
+        "It exposes hidden assumptions in secular reasoning.",
+        "It is internally consistent with Reformed theology."
+      ],
+      "strongestObjections": [
+        "Classical and evidential apologists argue it is circular and can only preach to the converted.",
+        "Critics say the transcendental argument has never been rigorously formulated.",
+        "Some argue Van Til misread Aquinas and Butler."
+      ],
+      "responses": [
+        "Presuppositionalists answer that every ultimate standard is circular in a broad sense; the question is which circle is coherent.",
+        "Frame has modified the approach to include evidence within a presuppositional framework."
+      ],
+      "consequences": [
+        "Influential in conservative Reformed and some Baptist circles.",
+        "Shaped Christian Reconstructionist thought through Rushdoony and Bahnsen."
+      ],
+      "relatedPositionIds": [
+        "classical-apologetics",
+        "evidential-apologetics",
+        "reformed-epistemology",
+        "barthian-rejection-natural-theology"
+      ],
+      "standing": "minority",
+      "sources": [
+        "frame-van-til",
+        "cowan-five-views-apologetics"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "cumulative-case-apologetics",
+      "doctrineId": "revelation-apologetics",
+      "name": "Cumulative-case apologetics",
+      "altNames": [
+        "cumulative case",
+        "inference to the best explanation",
+        "Bayesian apologetics"
+      ],
+      "oneLine": "Christianity is best defended not by a single proof but by a converging set of considerations — cosmic origin and order, consciousness, morality, religious experience, history and the person of Jesus — which together make it the best explanation of reality.",
+      "coreClaims": [
+        "No single argument is decisive, but many together are weighty, like a legal or historical case.",
+        "Theism is judged by explanatory power, scope and simplicity.",
+        "Religious experience and existential fit count as evidence.",
+        "Faith is reasonable trust, not mathematical certainty."
+      ],
+      "keyTexts": [
+        "John 20:30-31",
+        "Acts 14:17",
+        "Romans 1:20",
+        "1 Peter 3:15"
+      ],
+      "origin": "Articulated by Basil Mitchell (The Justification of Religious Belief, 1973) and Richard Swinburne (The Existence of God, 1979); drawing on Newman’s “illative sense” (1870) and Butler; popular forms in C. S. Lewis and Timothy Keller.",
+      "originYear": 1979,
+      "proponentIds": [
+        "richard-swinburne",
+        "john-henry-newman",
+        "c-s-lewis"
+      ],
+      "proponentsOther": [
+        "Basil Mitchell",
+        "Paul Feinberg",
+        "Timothy Keller",
+        "Alister McGrath"
+      ],
+      "traditionIds": [
+        "anglican",
+        "eastern-orthodox",
+        "evangelical",
+        "catholic"
+      ],
+      "strongestArguments": [
+        "It mirrors how people actually reason about complex questions.",
+        "It is modest and resilient: the case does not collapse if one argument fails.",
+        "It integrates experience, history and philosophy."
+      ],
+      "strongestObjections": [
+        "Critics argue that many weak arguments do not add up to a strong one (“leaky buckets”).",
+        "Presuppositionalists say it still treats God as a hypothesis.",
+        "Its probabilistic conclusions seem to fall short of the certainty of faith."
+      ],
+      "responses": [
+        "Advocates answer that independent lines of evidence do strengthen one another, as in science and law.",
+        "They distinguish the psychological certainty of faith from the probabilistic grounds that make it reasonable."
+      ],
+      "consequences": [
+        "Influential in British and academic apologetics.",
+        "Shaped popular “reasons for faith” books in the 21st century."
+      ],
+      "relatedPositionIds": [
+        "classical-apologetics",
+        "evidential-apologetics",
+        "design-argument-paley",
+        "reformed-epistemology"
+      ],
+      "standing": "significant",
+      "sources": [
+        "swinburne-existence-god",
+        "cowan-five-views-apologetics"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "kierkegaardian-fideism",
+      "doctrineId": "revelation-apologetics",
+      "name": "Fideism (Kierkegaardian and existential)",
+      "altNames": [
+        "fideism",
+        "leap of faith",
+        "Christian existentialism"
+      ],
+      "oneLine": "Faith is not the conclusion of rational proof or historical probability but a passionate, personal commitment to God revealed in the paradox of the incarnation; attempts to prove Christianity misunderstand and diminish it.",
+      "coreClaims": [
+        "Objective reasoning yields only approximation; faith requires infinite passion.",
+        "The incarnation is an “absolute paradox” offensive to reason.",
+        "Truth that matters is appropriated inwardly (“truth is subjectivity”).",
+        "Apologetics can turn Christianity into a respectable philosophy and so betray it."
+      ],
+      "keyTexts": [
+        "1 Corinthians 1:18-25",
+        "Hebrews 11:1-6",
+        "Genesis 22",
+        "Matthew 11:25"
+      ],
+      "origin": "Anticipated by Tertullian’s rhetoric (Athens and Jerusalem), Pascal and Luther’s attacks on “whore reason”; given classic form by Søren Kierkegaard (1843-46); echoed in some neo-orthodox and existentialist theology. Vatican I condemned fideism in its strong form.",
+      "originYear": 1846,
+      "proponentIds": [
+        "soren-kierkegaard",
+        "tertullian",
+        "blaise-pascal",
+        "martin-luther"
+      ],
+      "proponentsOther": [
+        "Lev Shestov",
+        "Some neo-orthodox theologians",
+        "C. Stephen Evans (moderate “responsible fideism”)"
+      ],
+      "traditionIds": [
+        "lutheran",
+        "reformed"
+      ],
+      "strongestArguments": [
+        "It honours the scandal of the cross and the personal, committed character of faith.",
+        "It resists reducing God to a philosophical conclusion.",
+        "It speaks powerfully to existential questions of meaning and despair."
+      ],
+      "strongestObjections": [
+        "Catholic teaching (Vatican I) and classical apologists argue it makes faith arbitrary and irrational.",
+        "It offers no way to adjudicate between rival faiths.",
+        "Scholars dispute whether Kierkegaard was a fideist in the strong sense."
+      ],
+      "responses": [
+        "Moderate fideists (Evans) answer that reason has a role in clarifying and defending the space for faith, but cannot produce it.",
+        "Kierkegaard’s defenders argue he attacked speculative system-building, not reason as such."
+      ],
+      "consequences": [
+        "Shaped 20th-century existentialist theology.",
+        "Remains a counterweight to rationalistic apologetics."
+      ],
+      "relatedPositionIds": [
+        "thomist-natural-theology",
+        "pascalian-apologetics",
+        "reformed-epistemology",
+        "neo-orthodoxy"
+      ],
+      "standing": "minority",
+      "sources": [
+        "evans-faith-beyond-reason",
+        "dulles-history-apologetics"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "pascalian-apologetics",
+      "doctrineId": "revelation-apologetics",
+      "name": "Pascal’s wager and the reasons of the heart",
+      "altNames": [
+        "Pascal’s wager",
+        "pragmatic apologetics",
+        "apologetics of the heart"
+      ],
+      "oneLine": "Since reason alone cannot settle whether God exists, and we must live as if one way or the other, it is wise to stake one’s life on God; moreover, God is known by the heart, and Christianity uniquely explains human greatness and misery.",
+      "coreClaims": [
+        "We must wager: neutrality is impossible.",
+        "The infinite gain of faith outweighs its finite cost.",
+        "The heart knows first principles and God intuitively.",
+        "Christianity explains the paradox of humanity — fallen yet made for God.",
+        "Habit and practice can open the way to belief."
+      ],
+      "keyTexts": [
+        "Matthew 16:26",
+        "Mark 8:36",
+        "Jeremiah 17:9-10",
+        "Ecclesiastes 3:11"
+      ],
+      "origin": "Blaise Pascal’s fragmentary Pensées (published 1670), following his conversion experience of 1654 (“God of Abraham … not of the philosophers”).",
+      "originYear": 1670,
+      "proponentIds": [
+        "blaise-pascal"
+      ],
+      "proponentsOther": [
+        "Many modern decision-theoretic defenders (e.g. Jeff Jordan)",
+        "Peter Kreeft"
+      ],
+      "traditionIds": [
+        "catholic",
+        "evangelical",
+        "anglican"
+      ],
+      "strongestArguments": [
+        "It meets people in the practical reality that life demands decisions under uncertainty.",
+        "It combines intellectual honesty about limits of proof with existential urgency.",
+        "Its anthropology (greatness and wretchedness) remains compelling."
+      ],
+      "strongestObjections": [
+        "The “many gods” objection: the wager does not tell which God to bet on.",
+        "Critics argue that believing for gain is inauthentic and that God would not reward it.",
+        "Decision theorists dispute the use of infinite utilities."
+      ],
+      "responses": [
+        "Defenders note that Pascal intended the wager for those already considering Christianity and as a prompt to seek, not a full apologetic.",
+        "They argue that acting on a wager is a step toward real faith, as Pascal counselled."
+      ],
+      "consequences": [
+        "One of the most discussed arguments in philosophy of religion.",
+        "Influenced existential and heart-centred apologetics."
+      ],
+      "relatedPositionIds": [
+        "kierkegaardian-fideism",
+        "cumulative-case-apologetics",
+        "jansenism"
+      ],
+      "standing": "minority",
+      "sources": [
+        "pascal-pensees-src",
+        "dulles-history-apologetics"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "continuing-revelation",
+      "doctrineId": "revelation-apologetics",
+      "name": "Continuing revelation",
+      "altNames": [
+        "open canon",
+        "ongoing prophecy",
+        "latter-day revelation"
+      ],
+      "oneLine": "God continues to reveal himself through living prophets, visions or the inner voice of the Spirit, sometimes adding new authoritative scripture or teaching; revelation did not cease with the apostles.",
+      "coreClaims": [
+        "God has always spoken through prophets and does so still (Joel 2:28; Acts 2:17).",
+        "The Spirit leads into all truth (John 16:13).",
+        "In stronger forms, new scripture or binding revelation is given (Montanist oracles, Latter-day Saint scripture).",
+        "In weaker forms, prophecy and guidance continue but are subordinate to Scripture (Pentecostal, charismatic)."
+      ],
+      "keyTexts": [
+        "Joel 2:28-29",
+        "John 16:12-13",
+        "Acts 2:17-18",
+        "1 Corinthians 14:1-5, 29-32",
+        "Amos 3:7"
+      ],
+      "origin": "Claimed by the Montanist “New Prophecy” (c.156); by medieval visionaries and radical reformers; by Quakers (the Inner Light, 1650s); by Joseph Smith and the Latter-day Saints (Book of Mormon 1830; Doctrine and Covenants); by Adventist acceptance of Ellen G. White’s prophetic gift; and, subordinate to Scripture, by Pentecostal and charismatic prophecy.",
+      "originYear": 1830,
+      "proponentIds": [
+        "montanus",
+        "george-fox",
+        "joseph-smith",
+        "ellen-g-white",
+        "william-j-seymour",
+        "c-peter-wagner"
+      ],
+      "proponentsOther": [
+        "Maximilla and Priscilla",
+        "Thomas Müntzer",
+        "Latter-day Saint First Presidency",
+        "Prophetic ministries in African Initiated Churches"
+      ],
+      "traditionIds": [
+        "montanist",
+        "quaker",
+        "latter-day-saints",
+        "seventh-day-adventist",
+        "pentecostal",
+        "neo-charismatic",
+        "african-initiated-churches"
+      ],
+      "strongestArguments": [
+        "It takes seriously the biblical promises that prophecy would continue in the last days.",
+        "It accounts for widespread experiences of divine guidance.",
+        "It keeps the church open to correction and renewal by the living God."
+      ],
+      "strongestObjections": [
+        "Historic churches argue that public revelation was completed in Christ and the apostolic witness (Hebrews 1:1-2; Jude 3).",
+        "New scripture claims (Latter-day Saint) are rejected by Nicene Christians as contradicting the biblical revelation of God.",
+        "Cessationists argue prophecy claims lead to manipulation, false predictions and authoritarian leaders."
+      ],
+      "responses": [
+        "Pentecostals and charismatics distinguish ongoing prophecy, tested by Scripture, from canonical revelation.",
+        "Latter-day Saints argue that a living prophet is the mark of the restored church and that the Bible itself never claims a closed canon."
+      ],
+      "consequences": [
+        "Generated new religious movements outside historic Nicene orthodoxy (Latter-day Saints) as well as renewal movements within it.",
+        "Central to debates on prophecy in Pentecostalism and the New Apostolic Reformation."
+      ],
+      "relatedPositionIds": [
+        "closed-public-revelation",
+        "montanism",
+        "inner-light",
+        "latter-day-saint-restoration",
+        "continuationism",
+        "new-apostolic-reformation"
+      ],
+      "standing": "significant",
+      "sources": [
+        "tabbernee-prophets",
+        "bushman-rough-stone-rolling",
+        "anderson-pentecostalism",
+        "dandelion-quakers"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "closed-public-revelation",
+      "doctrineId": "revelation-apologetics",
+      "name": "Closed public revelation",
+      "altNames": [
+        "completed revelation",
+        "closed canon",
+        "finality of revelation in Christ"
+      ],
+      "oneLine": "God’s public, normative revelation was completed in Jesus Christ and the apostolic witness preserved in Scripture (and, for Catholics and Orthodox, apostolic Tradition); later “private revelations” or prophecies cannot add to it.",
+      "coreClaims": [
+        "God spoke finally in his Son (Hebrews 1:1-2).",
+        "The faith was “once for all delivered” (Jude 3).",
+        "Scripture is sufficient for faith and life (Protestant) or, with Tradition, transmits the deposit of faith (Catholic, Orthodox).",
+        "Private revelations may help piety but are never binding (Catholic)."
+      ],
+      "keyTexts": [
+        "Hebrews 1:1-2",
+        "Jude 3",
+        "Galatians 1:8-9",
+        "2 Timothy 3:16-17",
+        "Revelation 22:18-19"
+      ],
+      "origin": "Implicit in the patristic rejection of Montanism and the closing of the canon; stated in the Westminster Confession 1.1 (1646, “former ways … now ceased”) and in Vatican II’s Dei Verbum 4 (1965).",
+      "originYear": 1646,
+      "proponentIds": [
+        "irenaeus",
+        "john-calvin",
+        "b-b-warfield",
+        "paul-vi"
+      ],
+      "proponentsOther": [
+        "Westminster Confession 1.1, 1.6",
+        "Dei Verbum 4",
+        "Catechism of the Catholic Church 66-67",
+        "Richard Gaffin"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-orthodox",
+        "oriental-orthodox",
+        "lutheran",
+        "reformed",
+        "presbyterian",
+        "anglican",
+        "baptist",
+        "evangelical"
+      ],
+      "strongestArguments": [
+        "It protects the uniqueness and sufficiency of Christ’s revelation.",
+        "It provides a stable norm by which claimed prophecies can be tested.",
+        "It guards against new movements adding to or overriding the gospel."
+      ],
+      "strongestObjections": [
+        "Continuationists object that it confuses canonical revelation with the ongoing gift of prophecy promised to the church.",
+        "Latter-day Saints argue no biblical text closes the canon (Revelation 22 refers only to that book).",
+        "Some argue the doctrine can quench the Spirit and make faith merely textual."
+      ],
+      "responses": [
+        "Advocates distinguish public revelation from illumination and guidance, which continue.",
+        "Catholics accept approved private revelations (Lourdes, Fatima) while insisting they add nothing to the faith."
+      ],
+      "consequences": [
+        "Shaped confessional statements on Scripture and the rejection of new prophetic movements.",
+        "Underlies cessationist theology."
+      ],
+      "relatedPositionIds": [
+        "continuing-revelation",
+        "cessationism",
+        "sola-scriptura",
+        "scripture-and-tradition",
+        "general-special-revelation"
+      ],
+      "standing": "majority",
+      "sources": [
+        "schaff-creeds",
+        "vatican-ii-documents",
+        "ruthven-cessation"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "apologetics-to-islam",
+      "doctrineId": "revelation-apologetics",
+      "name": "Christian apologetics toward Islam (from Damascus to Agra)",
+      "altNames": [
+        "Arabic Christian apologetics",
+        "Christian–Muslim dialogue",
+        "Islamic-context apologetics"
+      ],
+      "oneLine": "In the encounter with Islam, Christians have defended the Trinity, incarnation, crucifixion and the integrity of the Bible using shared monotheism, reason and Scripture — ranging from sharp polemic to courteous dialogue.",
+      "coreClaims": [
+        "The Trinity is not tritheism: God is one with his Word and Spirit, as the Qur’an itself speaks of God’s Word and Spirit.",
+        "The Bible has not been corrupted (against the Islamic charge of tahrif).",
+        "Rational criteria can discern the true religion among many.",
+        "Christians can honour shared beliefs while proclaiming Christ."
+      ],
+      "keyTexts": [
+        "Deuteronomy 6:4",
+        "John 1:1-14",
+        "Matthew 28:19",
+        "1 Peter 3:15",
+        "Acts 17:22-31"
+      ],
+      "origin": "Began with John of Damascus (c.743) under the Umayyads and flowered in Syriac and Arabic: Timothy I’s dialogue with Caliph al-Mahdi (782), Theodore Abu Qurrah and ‘Ammar al-Basri (9th century); continued in Latin by Peter the Venerable, Ramon Llull and Nicholas of Cusa, and in modern missions by Henry Martyn and Karl Pfander.",
+      "originYear": 743,
+      "proponentIds": [
+        "john-of-damascus",
+        "timothy-i",
+        "theodore-abu-qurrah",
+        "karl-pfander",
+        "francis-of-assisi"
+      ],
+      "proponentsOther": [
+        "‘Ammar al-Basri",
+        "Habib ibn Khidma Abu Ra’ita (Syriac Orthodox)",
+        "Peter the Venerable",
+        "Ramon Llull",
+        "Nicholas of Cusa",
+        "Henry Martyn",
+        "Kenneth Cragg"
+      ],
+      "traditionIds": [
+        "church-of-the-east",
+        "eastern-orthodox",
+        "syriac-orthodox",
+        "coptic-orthodox",
+        "catholic",
+        "anglican",
+        "evangelical"
+      ],
+      "strongestArguments": [
+        "It was developed by Christians living under Islamic rule who knew Islam from the inside.",
+        "It used Arabic categories and kalām methods, a pioneering work of contextual theology.",
+        "At its best (Timothy I) it modelled respect and clarity together."
+      ],
+      "strongestObjections": [
+        "Polemical strands (John of Damascus, later medieval and missionary writers) misrepresented Islam and fostered hostility.",
+        "Muslim scholars (e.g. Kairanawi, 1854) turned European biblical criticism against claims of the Bible’s integrity.",
+        "Some modern Christians argue for dialogue without apologetics, or for “insider movement” approaches that critics consider syncretistic."
+      ],
+      "responses": [
+        "Defenders note that Eastern Christians wrote under real constraints and developed sophisticated, often irenic arguments.",
+        "Contemporary scholars of Arabic Christianity (Griffith) highlight its value for current dialogue."
+      ],
+      "consequences": [
+        "Created the first body of Christian theology in Arabic.",
+        "Shaped Nostra Aetate (1965) and modern Christian–Muslim dialogue as well as continued evangelical apologetics."
+      ],
+      "relatedPositionIds": [
+        "classical-apologetics",
+        "general-special-revelation",
+        "nicene-orthodoxy"
+      ],
+      "standing": "significant",
+      "sources": [
+        "griffith-church-shadow-mosque",
+        "thomas-cmr",
+        "powell-muslims-missionaries",
+        "baum-winkler-east"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "controversies": [
+    {
+      "id": "barth-brunner-natural-theology",
+      "title": "Barth vs Brunner: Is there a natural theology?",
+      "question": "Can human beings know anything true of God apart from his revelation in Jesus Christ, and is there a “point of contact” for the gospel in fallen humanity?",
+      "summary": "In 1934, in the middle of the German church struggle, Emil Brunner argued for a limited revelation in creation and a point of contact; Karl Barth answered with a thunderous “No!”. The exchange crystallised a debate that runs from Romans 1 through Aquinas, Calvin and Vatican I.",
+      "doctrineIds": [
+        "revelation-apologetics"
+      ],
+      "sides": [
+        {
+          "name": "Brunner: a point of contact",
+          "positionId": "brunner-point-of-contact",
+          "steelman": "God’s creation truly reveals him, and sinners remain addressable, responsible persons — the formal image of God. Calvin taught a revelation in creation and a sense of deity. Without some point of contact the gospel could not even be heard, and responsibility for sin would be unintelligible. Grace restores nature; it does not abolish it.",
+          "arguments": [
+            "Romans 1:19-21; 2:14-15",
+            "Calvin, Institutes 1.3-5",
+            "Human responsibility",
+            "Missionary communication"
+          ],
+          "counterArguments": [
+            "Opens the door to ideological “natural” theologies",
+            "Makes grace depend on a human capacity"
+          ],
+          "keyTexts": [
+            "Romans 1:19-21",
+            "Acts 17:27-28"
+          ],
+          "quoteIds": [
+            "brunner-contact-para",
+            "calvin-sense-of-deity"
+          ]
+        },
+        {
+          "name": "Barth: No!",
+          "positionId": "barthian-rejection-natural-theology",
+          "steelman": "God is known only where God makes himself known — in Jesus Christ, the one Word of God. Every “point of contact” and every natural theology ends by domesticating God to human projects; in 1934 that meant the German Christians’ God of race and nation. The church must listen to no other voice.",
+          "arguments": [
+            "Barmen thesis 1",
+            "John 14:6; Matthew 11:27",
+            "Noetic effects of sin",
+            "The church struggle against the German Christians"
+          ],
+          "counterArguments": [
+            "Neglects Psalm 19 and Romans 1",
+            "Isolates theology from public reason"
+          ],
+          "keyTexts": [
+            "John 1:18",
+            "Matthew 11:27",
+            "1 Corinthians 1:21"
+          ],
+          "quoteIds": [
+            "barth-nein-para",
+            "barmen-one-word-of-god"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 1559,
+          "text": "Calvin’s final Institutes teach a sense of deity and revelation in creation."
+        },
+        {
+          "year": 1870,
+          "text": "Vatican I defines that God can be known by natural reason.",
+          "eventId": "first-vatican-council-1870"
+        },
+        {
+          "year": 1922,
+          "text": "Barth’s second Romans commentary launches dialectical theology."
+        },
+        {
+          "year": 1934,
+          "text": "Barmen Declaration rejects other sources of revelation (May).",
+          "eventId": "barmen-declaration-1934"
+        },
+        {
+          "year": 1934,
+          "text": "Brunner’s Nature and Grace and Barth’s Nein!",
+          "eventId": "barth-brunner-debate-1934"
+        },
+        {
+          "year": 1946,
+          "text": "English translation Natural Theology spreads the debate."
+        },
+        {
+          "year": 1959,
+          "text": "Barth speaks of “little lights” of creation (CD IV/3)."
+        }
+      ],
+      "resolution": {
+        "kind": "open",
+        "text": "Unresolved. Barth and Brunner were later partially reconciled personally; Barth’s position shaped neo-orthodoxy, while Catholic, evangelical and analytic philosophers of religion have revived natural theology, and theologians such as T. F. Torrance and Alister McGrath propose natural theology re-grounded within revelation."
+      },
+      "consequences": [
+        "Defined a fault line between Barthian and mediating Protestant theologies.",
+        "Influenced church resistance to political ideologies.",
+        "Remains central to debates over apologetics and theology of religions."
+      ],
+      "sources": [
+        "barth-brunner-natural-theology",
+        "mccormack-barth",
+        "mcgrath-open-secret"
+      ]
+    },
+    {
+      "id": "apologetic-method-debate",
+      "title": "How should Christians defend the faith?",
+      "question": "Should Christian apologetics begin with neutral reason and evidence, with the presupposition of Scripture, or with neither?",
+      "summary": "Modern Protestant apologetics divides into classical, evidential, cumulative-case, presuppositional and Reformed-epistemology approaches, with fideist critics of the whole enterprise; the debate restates old tensions between Justin and Tertullian, Aquinas and Pascal.",
+      "doctrineIds": [
+        "revelation-apologetics"
+      ],
+      "sides": [
+        {
+          "name": "Classical and evidential",
+          "positionId": "classical-apologetics",
+          "steelman": "Peter told us to give a reason for the hope that is in us, and Paul reasoned in the synagogue and the Areopagus. God made us rational; arguments from the cosmos and the historical evidence for the resurrection meet unbelievers on common ground and remove barriers to faith.",
+          "arguments": [
+            "1 Peter 3:15",
+            "Acts 17",
+            "1 Corinthians 15:3-8",
+            "Long tradition from Aquinas to Butler"
+          ],
+          "counterArguments": [
+            "Grants autonomy to fallen reason",
+            "Probability cannot ground faith"
+          ],
+          "keyTexts": [
+            "1 Peter 3:15",
+            "Acts 17:22-31",
+            "1 Corinthians 15:3-8"
+          ],
+          "quoteIds": [
+            "aquinas-five-ways",
+            "butler-probability-guide",
+            "craig-kalam-para"
+          ]
+        },
+        {
+          "name": "Presuppositional",
+          "positionId": "presuppositional-apologetics",
+          "steelman": "There is no neutral ground. The unbeliever knows God but suppresses the truth, and his reasoning borrows capital from the Christian worldview. Rather than submitting God to the court of autonomous reason, the apologist should show that only the God of Scripture makes reason itself possible.",
+          "arguments": [
+            "Romans 1:18-21",
+            "2 Corinthians 10:5",
+            "Proverbs 1:7",
+            "Transcendental argument"
+          ],
+          "counterArguments": [
+            "Circular",
+            "Only persuades the already convinced"
+          ],
+          "keyTexts": [
+            "Romans 1:18-21",
+            "Colossians 2:3-8"
+          ],
+          "quoteIds": [
+            "van-til-presupposition-para"
+          ]
+        },
+        {
+          "name": "Reformed epistemology and fideist critics",
+          "positionId": "reformed-epistemology",
+          "steelman": "Most believers have never followed an argument for God, yet they are not irrational: belief in God can be properly basic. Kierkegaard warned that turning faith into the conclusion of probabilities betrays its passion. Arguments may help defend, but faith rests on God’s own witness.",
+          "arguments": [
+            "Sensus divinitatis",
+            "Testimony of the Spirit",
+            "Kierkegaard on approximation"
+          ],
+          "counterArguments": [
+            "Risk of irrationalism",
+            "Cannot adjudicate rival faiths"
+          ],
+          "keyTexts": [
+            "Romans 8:16",
+            "1 Corinthians 1:18-25"
+          ],
+          "quoteIds": [
+            "plantinga-properly-basic-para",
+            "kierkegaard-leap-para",
+            "tertullian-athens-jerusalem"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 155,
+          "text": "Justin Martyr’s Apologies engage philosophy.",
+          "eventId": "justin-first-apology-155"
+        },
+        {
+          "year": 200,
+          "text": "Tertullian: “What has Athens to do with Jerusalem?”"
+        },
+        {
+          "year": 1266,
+          "text": "Aquinas’ five ways.",
+          "eventId": "aquinas-summa-1265"
+        },
+        {
+          "year": 1670,
+          "text": "Pascal’s Pensées published."
+        },
+        {
+          "year": 1736,
+          "text": "Butler’s Analogy of Religion."
+        },
+        {
+          "year": 1846,
+          "text": "Kierkegaard’s Concluding Unscientific Postscript."
+        },
+        {
+          "year": 1955,
+          "text": "Van Til’s The Defense of the Faith."
+        },
+        {
+          "year": 1983,
+          "text": "Faith and Rationality launches Reformed epistemology."
+        },
+        {
+          "year": 2000,
+          "text": "Five Views on Apologetics maps the debate."
+        }
+      ],
+      "resolution": {
+        "kind": "open",
+        "text": "Unresolved and increasingly eclectic: many apologists combine methods, and the five-views framework is itself contested. Catholic teaching rejects strong fideism (Vatican I) while affirming that faith exceeds reason."
+      },
+      "consequences": [
+        "Shaped evangelical seminaries, debate culture and campus ministries.",
+        "Influenced how churches engage secularism, Islam and other religions."
+      ],
+      "sources": [
+        "cowan-five-views-apologetics",
+        "dulles-history-apologetics"
+      ]
+    }
+  ]
+}
