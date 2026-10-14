@@ -70,9 +70,11 @@ export interface FlowProps {
   doctrine: Doctrine;
   selectedId?: string;
   onSelect: (n: FlowNode | undefined) => void;
+  /** Start playing the development as soon as the chart is ready. */
+  autoPlay?: boolean;
 }
 
-function FlowInner({ doctrine, selectedId, onSelect }: FlowProps) {
+function FlowInner({ doctrine, selectedId, onSelect, autoPlay }: FlowProps) {
   const reduce = useReducedMotion();
   const pos = useMemo(() => layout(doctrine), [doctrine]);
   const years = useMemo(() => {
@@ -105,6 +107,12 @@ function FlowInner({ doctrine, selectedId, onSelect }: FlowProps) {
     if (year >= years.max) { seen.current = new Set(); setYear(years.min - 1); }
     setPlaying(true);
   };
+  useEffect(() => {
+    if (!autoPlay) return;
+    const t = setTimeout(play, 600);
+    return () => clearTimeout(t);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [autoPlay, doctrine.id]);
 
   // Open on the root question and its first answers at a readable zoom, rather than the whole (tiny) graph.
   const initialFit = useMemo(() => {

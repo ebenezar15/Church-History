@@ -1,5 +1,5 @@
 import { lazy, Suspense } from 'react';
-import { createBrowserRouter, createHashRouter, RouterProvider } from 'react-router-dom';
+import { createBrowserRouter, createMemoryRouter, RouterProvider, type RouteObject } from 'react-router-dom';
 import { MotionConfig } from 'framer-motion';
 import { Layout, PageLoader } from './components/Layout';
 import { ThemeSync } from './components/Theme';
@@ -10,9 +10,7 @@ const page = (load: () => Promise<{ default: React.ComponentType }>) => {
   return <C />;
 };
 
-// The single-file / offline build has no server to rewrite deep links, so it routes with #/paths instead.
-const createRouter = import.meta.env.VITE_HASH_ROUTER ? createHashRouter : createBrowserRouter;
-const router = createRouter([
+const routes: RouteObject[] = [
   {
     element: <Layout />,
     children: [
@@ -45,7 +43,52 @@ const router = createRouter([
       { path: '*', element: page(() => import('./pages/NotFound')) },
     ],
   },
-]);
+];
+
+const router = import.meta.env.VITE_HASH_ROUTER ? createPortableRouter(routes) : createBrowserRouter(routes);
+
+/**
+ * The single-file build runs from a file, a raw-file host or inside a sandboxed viewer frame, where the
+ * page address may be about:srcdoc or blob: and the History API may refuse to work. So it keeps its own
+ * page history in memory, and mirrors it to #/path in the address bar only where the browser allows,
+ * which keeps deep links and the Back button working wherever they can.
+ */
+function createPortableRouter(rs: RouteObject[]) {
+  const fromHash = () => {
+    try {
+      const h = window.location.hash.replace(/^#/, '');
+      return h.startsWith('/') ? h : '/';
+    } catch {
+      return '/';
+    }
+  };
+  const r = createMemoryRouter(rs, { initialEntries: [fromHash()] });
+  let syncing = false;
+  r.subscribe((state) => {
+    if (syncing) return;
+    const target = '#' + state.location.pathname + state.location.search;
+    try {
+      if (window.location.hash !== target) window.history.pushState(null, '', target);
+    } catch {
+      /* address bar not writable here: navigation still works in memory */
+    }
+  });
+  const onPop = () => {
+    const path = fromHash();
+    const cur = r.state.location.pathname + r.state.location.search;
+    if (path !== cur) {
+      syncing = true;
+      r.navigate(path).finally(() => { syncing = false; });
+    }
+  };
+  try {
+    window.addEventListener('popstate', onPop);
+    window.addEventListener('hashchange', onPop);
+  } catch {
+    /* ignore */
+  }
+  return r;
+}
 
 export function App() {
   const motion = useUi((s) => s.motion);

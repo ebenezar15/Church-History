@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Link, useParams } from 'react-router-dom';
+import { Link, useParams, useSearchParams } from 'react-router-dom';
 import { AnimatePresence, motion } from 'framer-motion';
 import { useAtlas, hrefFor, labelFor } from '../data/db';
 import type { FlowNode, Quote } from '../data/schema';
@@ -22,7 +22,10 @@ export default function DoctrineDetail() {
   const [tab, setTab] = useState<Tab>('flow');
   // Phones get the readable step-by-step story by default; the interactive chart is one tap away.
   const narrow = typeof window !== 'undefined' && window.matchMedia?.('(max-width: 767px)').matches;
-  const [view, setView] = useState<'chart' | 'story'>(narrow ? 'story' : 'chart');
+  // ?view=chart|story picks the view; ?play=1 starts the flowchart animation (links from the Doctrine Explorer).
+  const [params] = useSearchParams();
+  const autoPlay = params.get('play') === '1';
+  const [view, setView] = useState<'chart' | 'story'>(params.get('view') === 'story' ? 'story' : params.get('view') === 'chart' || autoPlay ? 'chart' : narrow ? 'story' : 'chart');
   const [node, setNode] = useState<FlowNode | undefined>();
   const positions = a.positionsByDoctrine.get(id) ?? [];
   const [pair, setPair] = useState<[string, string]>(['', '']);
@@ -72,7 +75,7 @@ export default function DoctrineDetail() {
               ) : (
                 <div className="grid gap-4 lg:grid-cols-[minmax(0,1fr)_340px]">
                   <div className="card h-[72vh] min-h-[420px] overflow-hidden">
-                    <DoctrineFlow doctrine={d} selectedId={node?.id} onSelect={setNode} />
+                    <DoctrineFlow doctrine={d} selectedId={node?.id} onSelect={setNode} autoPlay={autoPlay} />
                   </div>
                   <div className="hidden lg:block"><NodePanel node={node} /></div>
                   {/* On smaller screens a tapped node opens in a slide-up panel instead of far below the chart. */}

@@ -4,7 +4,8 @@ import { AnimatePresence, motion, useMotionValueEvent, useScroll, useSpring, use
 import { useAtlas } from '../data/db';
 import { layoutLanes, lanePath, timeScale, NOW } from '../viz/river';
 import { FAMILIES, formatYear, inkTone } from '../data/families';
-import { Icon, type IconName } from '../components/Icon';
+import { Icon } from '../components/Icon';
+import { WaysIn } from '../components/WaysIn';
 import { CountUp, GlowCard, QuoteBlock, cx } from '../components/ui';
 
 const HERO_IDS = new Set([
@@ -138,16 +139,6 @@ function RiverHero() {
   );
 }
 
-const FEATURES: { to: string; title: string; text: string; icon: IconName }[] = [
-  { to: '/timeline', title: 'Master Timeline', text: 'Zoom from centuries to single years across events, people, writings and doctrines.', icon: 'timeline' },
-  { to: '/traditions', title: 'Family Tree', text: 'Watch every tradition branch from the apostolic church, each split linked to its cause.', icon: 'tree' },
-  { to: '/doctrines', title: 'Doctrine Skeletons', text: 'Interactive flowcharts: the question, the Scriptures, the rivals, the councils, the fallout.', icon: 'trinity' },
-  { to: '/debates', title: 'Debate Arena', text: 'Each side’s best case in its own voice, then the counter-arguments.', icon: 'scales' },
-  { to: '/map', title: 'World Map', text: 'An animated spread of the faith from Jerusalem to Seoul, Lagos and São Paulo.', icon: 'map' },
-  { to: '/experiences', title: 'Experiences', text: 'Visions, tongues, healings and revivals, described neutrally and assessed from many sides.', icon: 'sparkles' },
-  { to: '/compare/featured/legal-vs-union-gospel', title: 'Legal vs Union Gospel', text: 'A featured side-by-side of forensic and participatory frameworks.', icon: 'cross' },
-  { to: '/paths', title: 'Study Paths', text: 'Guided, animated walkthroughs with a quiz at the end.', icon: 'compass' },
-];
 
 export default function Landing() {
   const a = useAtlas();
@@ -176,26 +167,13 @@ export default function Landing() {
           ))}
         </div>
 
-        <h2 className="mb-6 text-3xl font-bold">Ways in</h2>
-        <div className="mb-16 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-          {FEATURES.map((f, i) => (
-            <motion.div key={f.to} initial={{ opacity: 0, y: 30 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: (i % 4) * 0.07, type: 'spring', stiffness: 200, damping: 22 }}>
-              <GlowCard to={f.to}>
-                <motion.div whileHover={{ rotate: -10, scale: 1.1 }} className="mb-3 inline-flex h-11 w-11 items-center justify-center rounded-xl bg-surface-2 text-accent ring-1 ring-line">
-                  <Icon name={f.icon} size={22} />
-                </motion.div>
-                <h3 className="mb-1 text-lg font-bold">{f.title}</h3>
-                <p className="text-sm leading-relaxed text-ink-2">{f.text}</p>
-              </GlowCard>
-            </motion.div>
-          ))}
-        </div>
+        <WaysIn />
 
         <h2 className="mb-6 text-3xl font-bold">Thirteen eras</h2>
         <div className="scrollbar-thin -mx-4 mb-16 flex snap-x gap-4 overflow-x-auto px-4 pb-4">
           {a.eras.map((e, i) => (
             <motion.div key={e.id} initial={{ opacity: 0, x: 40 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: Math.min(i, 5) * 0.05 }} className="w-72 shrink-0 snap-start">
-              <GlowCard to={`/eras/${e.id}`} accent={e.colour}>
+              <GlowCard to={`/eras?open=${e.id}`} accent={e.colour}>
                 <div className="text-xs font-bold tabular-nums text-muted">{formatYear(e.startYear)} – {e.endYear >= NOW ? 'today' : formatYear(e.endYear)}</div>
                 <h3 className="mb-2 mt-1 text-lg font-bold leading-tight" style={{ color: inkTone(e.colour) }}>{e.name}</h3>
                 <p className="line-clamp-4 text-sm text-ink-2">{e.summary}</p>

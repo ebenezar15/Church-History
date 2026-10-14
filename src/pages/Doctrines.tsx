@@ -117,6 +117,7 @@ function Expanded({ d }: { d: Doctrine }) {
   const ps = a.positionsByDoctrine.get(d.id) ?? [];
   const debates = a.controversiesByDoctrine.get(d.id) ?? [];
   const [picked, setPicked] = useState<string | null>(null);
+  const [autoplay, setAutoplay] = useState(0);
   const people = useMemo(() => {
     const count = new Map<string, number>();
     for (const p of ps) for (const id of p.proponentIds) if (a.get('person', id)) count.set(id, (count.get(id) ?? 0) + 1);
@@ -139,8 +140,9 @@ function Expanded({ d }: { d: Doctrine }) {
         <div className="space-y-4">
           {quote && <QuoteBlock text={quote.text} kind={quote.kind} by={labelFor(a, 'person', quote.personId)} citation={quote.citation} />}
           <div className="flex flex-wrap gap-2">
-            <Link to={`/doctrines/${d.id}`} className="btn btn-primary"><Icon name="branch" size={15} /> Open flowchart &amp; story</Link>
-            <Link to={`/doctrines/${d.id}`} className="btn"><Icon name="play" size={15} /> Play the development</Link>
+            <button onClick={() => { setAutoplay((n) => n + 1); document.getElementById(`player-${d.id}`)?.scrollIntoView({ behavior: 'smooth', block: 'center' }); }} className="btn btn-primary"><Icon name="play" size={15} /> Play the development</button>
+            <Link to={`/doctrines/${d.id}?view=chart&play=1`} className="btn"><Icon name="branch" size={15} /> Open the flowchart</Link>
+            <Link to={`/doctrines/${d.id}?view=story`} className="btn"><Icon name="scroll" size={15} /> Read the full story</Link>
           </div>
         </div>
       </motion.div>
@@ -148,7 +150,7 @@ function Expanded({ d }: { d: Doctrine }) {
       {/* Development timeline */}
       <motion.section variants={rise}>
         <h3 className="mb-3 flex items-center gap-2 font-bold"><Icon name="timeline" className="text-accent" /> How it developed</h3>
-        <DevelopmentStrip d={d} />
+        <DevelopmentPlayer d={d} playSignal={autoplay} />
       </motion.section>
 
       {/* Positions */}
@@ -227,50 +229,97 @@ function Expanded({ d }: { d: Doctrine }) {
   );
 }
 
-/** A compact, animated strip of the flowchart's steps in date order. */
-function DevelopmentStrip({ d }: { d: Doctrine }) {
+/**
+ * The doctrine's development as an animated player: a strip of dated steps plus a large card for the
+ * current step. Play walks through every step in order; prev/next and the dots step by hand.
+ */
+function DevelopmentPlayer({ d, playSignal }: { d: Doctrine; playSignal: number }) {
   const a = useAtlas();
-  const nodes = [...d.flow.nodes].filter((n) => n.year !== undefined).sort((x, y) => x.year! - y.year!);
-  const [hover, setHover] = useState<string | null>(null);
-  const h = nodes.find((n) => n.id === hover) ?? nodes[0];
+  const nodes = useMemo(() => [...d.flow.nodes].sort((x, y) => (x.year ?? -99999) - (y.year ?? -99999)), [d]);
+  const [idx, setIdx] = useState(0);
+  const [playing, setPlaying] = useState(false);
+  const strip = useRef<HTMLDivElement>(null);
+  useEffect(() => { if (playSignal > 0) { setIdx(0); setPlaying(true); } }, [playSignal]);
+  useEffect(() => {
+    if (!playing) return;
+    const t = setTimeout(() => {
+      if (idx >= nodes.length - 1) setPlaying(false);
+      else setIdx((i) => i + 1);
+    }, 2600);
+    return () => clearTimeout(t);
+  }, [playing, idx, nodes.length]);
+  useEffect(() => {
+    const el = strip.current?.querySelector<HTMLElement>(`[data-i="${idx}"]`);
+    el?.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+  }, [idx]);
+  const n = nodes[idx];
+  if (!n) return null;
+  const m = FLOW_KIND_META[n.kind];
+  const quote = n.quoteIds.map((q) => a.get<Quote>('quote', q)).find(Boolean);
+  const go = (i: number) => { setPlaying(false); setIdx(Math.max(0, Math.min(nodes.length - 1, i))); };
+
   return (
-    <div>
-      <div className="scrollbar-thin -mx-1 overflow-x-auto px-1 pb-2">
-        <div className="relative flex min-w-max items-end gap-1 pt-2">
+    <div id={`player-${d.id}`} className="scroll-mt-24">
+      <div className="mb-3 flex flex-wrap items-center gap-2">
+        <button className="btn btn-primary !py-1.5" onClick={() => { if (idx >= nodes.length - 1) setIdx(0); setPlaying((p) => !p); }} aria-pressed={playing}>
+          <Icon name={playing ? 'pause' : 'play'} size={15} /> {playing ? 'Pause' : idx > 0 ? 'Resume' : 'Play the development'}
+        </button>
+        <button className="btn !px-2.5 !py-1.5" onClick={() => go(idx - 1)} disabled={idx === 0} aria-label="Previous step"><Icon name="arrow-left" size={15} /></button>
+        <button className="btn !px-2.5 !py-1.5" onClick={() => go(idx + 1)} disabled={idx === nodes.length - 1} aria-label="Next step"><Icon name="arrow" size={15} /></button>
+        <div className="ml-auto flex items-baseline gap-2">
+          <AnimatePresence mode="popLayout">
+            <motion.span key={n.year ?? 'q'} initial={{ y: 12, opacity: 0 }} animate={{ y: 0, opacity: 1 }} exit={{ y: -12, opacity: 0 }} className="text-2xl font-bold tabular-nums text-accent">
+              {n.year !== undefined ? formatYear(n.year) : 'The question'}
+            </motion.span>
+          </AnimatePresence>
+          <span className="text-xs text-muted">step {idx + 1} of {nodes.length}</span>
+        </div>
+      </div>
+      <div className="mb-3 h-1.5 overflow-hidden rounded-full bg-line">
+        <motion.div className="h-full rounded-full bg-accent" animate={{ width: `${((idx + 1) / nodes.length) * 100}%` }} transition={{ type: 'spring', stiffness: 120, damping: 20 }} />
+      </div>
+      <div ref={strip} className="scrollbar-thin -mx-1 overflow-x-auto px-1 pb-2">
+        <div className="relative flex min-w-max items-end gap-1 pt-1">
           <div className="absolute inset-x-0 bottom-[7px] h-0.5 bg-line" />
-          {nodes.map((n, i) => {
-            const m = FLOW_KIND_META[n.kind];
-            return (
-              <motion.button
-                key={n.id}
-                initial={{ opacity: 0, scale: 0 }}
-                animate={{ opacity: 1, scale: 1 }}
-                transition={{ delay: 0.25 + i * 0.03, type: 'spring', stiffness: 400, damping: 20 }}
-                onMouseEnter={() => setHover(n.id)}
-                onFocus={() => setHover(n.id)}
-                onClick={() => setHover(n.id)}
-                className="relative flex w-10 flex-col items-center gap-1"
-                aria-label={`${formatYear(n.year)}: ${n.label}`}
-              >
-                <span className="text-[10px] tabular-nums text-muted">{n.year! < 0 ? `${-n.year!}BC` : n.year}</span>
-                <span className={cx('h-4 w-4 rounded-full ring-2 ring-surface transition-transform', h?.id === n.id && 'scale-150')} style={{ background: m.colour }} />
-              </motion.button>
-            );
-          })}
+          {nodes.map((x, i) => (
+            <motion.button
+              key={x.id}
+              data-i={i}
+              initial={{ opacity: 0, scale: 0 }}
+              animate={{ opacity: i <= idx ? 1 : 0.35, scale: 1 }}
+              transition={{ delay: 0.2 + i * 0.02, type: 'spring', stiffness: 400, damping: 20 }}
+              onClick={() => go(i)}
+              className="relative flex w-10 flex-col items-center gap-1"
+              aria-label={`${x.year !== undefined ? formatYear(x.year) : 'Question'}: ${x.label}`}
+              aria-current={i === idx ? 'step' : undefined}
+            >
+              <span className="text-[10px] tabular-nums text-muted">{x.year === undefined ? 'Q' : x.year < 0 ? `${-x.year}BC` : x.year}</span>
+              <span className={cx('h-4 w-4 rounded-full ring-2 ring-surface transition-transform', i === idx && 'scale-150 ring-accent')} style={{ background: FLOW_KIND_META[x.kind].colour }} />
+            </motion.button>
+          ))}
         </div>
       </div>
       <AnimatePresence mode="wait">
-        {h && (
-          <motion.div key={h.id} initial={{ opacity: 0, y: 6 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -6 }} transition={{ duration: 0.18 }} className="mt-2 rounded-xl border border-line bg-surface-2 p-4" style={{ borderLeft: `4px solid ${FLOW_KIND_META[h.kind].colour}` }}>
-            <div className="text-[11px] font-bold uppercase tracking-widest" style={{ color: FLOW_KIND_META[h.kind].colour }}>{FLOW_KIND_META[h.kind].label} · {formatYear(h.year)}</div>
-            <div className="font-semibold">{h.label}</div>
-            {h.text && <p className="mt-1 text-sm leading-relaxed text-ink-2">{h.text}</p>}
-            {h.ref && !!a.get(h.ref.type, h.ref.id) && <Link to={hrefFor(h.ref.type, h.ref.id)} className="mt-1 inline-block text-sm font-semibold text-accent underline">Read more: {labelFor(a, h.ref.type, h.ref.id)}</Link>}
-          </motion.div>
-        )}
+        <motion.div
+          key={n.id}
+          initial={{ opacity: 0, x: 40, rotateY: -8 }}
+          animate={{ opacity: 1, x: 0, rotateY: 0 }}
+          exit={{ opacity: 0, x: -40, rotateY: 8 }}
+          transition={{ duration: 0.35, ease: [0.3, 0, 0.2, 1] }}
+          style={{ transformPerspective: 1000, borderLeft: `5px solid ${m.colour}` }}
+          className="mt-2 grid gap-4 rounded-2xl border border-line bg-surface-2 p-5 md:grid-cols-[minmax(0,1fr)_minmax(0,0.8fr)]"
+        >
+          <div>
+            <div className="mb-1 flex items-center gap-1.5 text-[11px] font-bold uppercase tracking-widest" style={{ color: m.colour }}><Icon name={m.icon} size={13} /> {m.label}</div>
+            <div className="text-lg font-bold leading-snug">{n.label}</div>
+            {n.text && <p className="mt-2 leading-relaxed text-ink-2">{n.text}</p>}
+            {n.ref && !!a.get(n.ref.type, n.ref.id) && <Link to={hrefFor(n.ref.type, n.ref.id)} className="mt-2 inline-block text-sm font-semibold text-accent underline">Read more: {labelFor(a, n.ref.type, n.ref.id)}</Link>}
+          </div>
+          {quote ? <QuoteBlock text={quote.text} kind={quote.kind} by={labelFor(a, 'person', quote.personId)} citation={quote.citation} /> : <div className="hidden md:block" />}
+        </motion.div>
       </AnimatePresence>
       <div className="mt-2 flex flex-wrap gap-3 text-[11px] text-muted">
-        {Object.values(FLOW_KIND_META).map((m) => <span key={m.label} className="flex items-center gap-1"><span className="h-2.5 w-2.5 rounded-full" style={{ background: m.colour }} />{m.label}</span>)}
+        {Object.values(FLOW_KIND_META).map((k) => <span key={k.label} className="flex items-center gap-1"><span className="h-2.5 w-2.5 rounded-full" style={{ background: k.colour }} />{k.label}</span>)}
       </div>
     </div>
   );
