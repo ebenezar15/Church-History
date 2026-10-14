@@ -1,4 +1,4 @@
-import { useMemo, useRef, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { AnimatePresence, motion, useMotionValueEvent, useScroll, useSpring, useTransform } from 'framer-motion';
 import { useAtlas } from '../data/db';
@@ -26,6 +26,18 @@ function RiverHero() {
   const H = Math.max(lanes.length * LANE, LANE);
   const clipW = useTransform(progress, [0, 0.92], [x(60), W]);
   const [year, setYear] = useState(30);
+  // On narrow screens, zoom in and let the viewport follow the river's front.
+  const box = useRef<HTMLDivElement>(null);
+  const [aspect, setAspect] = useState(2);
+  useEffect(() => {
+    if (!box.current) return;
+    const ro = new ResizeObserver(([e]) => setAspect(e.contentRect.width / Math.max(1, e.contentRect.height)));
+    ro.observe(box.current);
+    return () => ro.disconnect();
+  }, []);
+  const fullW = W + 300;
+  const vbW = aspect < 1.2 ? Math.max(380, (H + 60) * aspect) : fullW;
+  const vbX = vbW >= fullW ? -20 : Math.max(-20, Math.min(fullW - vbW - 20, x(year) - vbW * 0.62));
   useMotionValueEvent(progress, 'change', (p) => setYear(Math.round(x.invert(Math.min(W, x(60) + (W - x(60)) * Math.min(1, p / 0.92))))));
 
   const milestones = useMemo(
@@ -65,8 +77,8 @@ function RiverHero() {
           </div>
         </div>
 
-        <div className="relative flex-1 px-2 sm:px-6">
-          <svg viewBox={`-20 -30 ${W + 300} ${H + 60}`} className="h-full w-full" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Branching river of Christian traditions">
+        <div ref={box} className="relative min-h-0 flex-1 px-2 sm:px-6">
+          <svg viewBox={`${vbX} -30 ${vbW} ${H + 60}`} className="h-full w-full" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Branching river of Christian traditions">
             <defs>
               <clipPath id="river-clip">
                 <motion.rect x={-30} y={-40} height={H + 80} style={{ width: clipW }} />
