@@ -1,0 +1,338 @@
+{
+  "traditions": [
+    {
+      "id": "lutheran",
+      "name": "Lutheran Churches",
+      "family": "lutheran",
+      "parentIds": ["catholic"],
+      "splitEventId": "ninety-five-theses-1517",
+      "foundedYear": 1517,
+      "regions": ["western-europe", "northern-europe", "north-america", "sub-saharan-africa", "india", "southeast-asia"],
+      "adherents": { "estimate": 77000000, "year": 2022, "source": "lwf-statistics" },
+      "summary": "Churches shaped by Martin Luther's reformation and the confessions gathered in the Book of Concord (1580), above all the Augsburg Confession (1530). Lutherans understand themselves as a reform movement within the catholic church, centred on justification by grace through faith for Christ's sake. Once dominant in Germany and Scandinavia, Lutheranism now has its fastest growth in Ethiopia (Mekane Yesus), Tanzania, Madagascar and Indonesia. Most Lutheran churches belong to the Lutheran World Federation, which signed the Joint Declaration on Justification with Rome in 1999.",
+      "distinctives": [
+        "Justification by grace alone through faith alone",
+        "Law and Gospel distinction",
+        "Real presence of Christ's body and blood 'in, with and under' the bread and wine",
+        "Theology of the cross and the two kingdoms",
+        "Rich hymnody and church music (Luther, Bach)"
+      ],
+      "profile": {
+        "authority": "Scripture as the sole norm (norma normans), with the Lutheran Confessions as a faithful exposition (norma normata) and the ancient creeds.",
+        "salvation": "Sinners are justified by God's grace alone, received through faith alone, on account of Christ alone, apart from works; good works follow as fruits of faith.",
+        "sacraments": "Baptism (including infants) and the Lord's Supper, with confession/absolution sometimes counted; sacraments are means of grace in which God gives forgiveness.",
+        "eschatology": "Christ's visible return, resurrection of all, judgment, eternal life and condemnation; the Augsburg Confession rejects millennial kingdoms.",
+        "governance": "Varied: episcopal in Scandinavia (some with historic succession), synodal or consistorial elsewhere; historically linked to state churches.",
+        "worship": "Liturgical Divine Service with Word and Sacrament following the church year, with strong congregational hymn singing.",
+        "canon": "The 66-book Protestant canon; the Apocrypha historically printed between the Testaments as useful reading."
+      },
+      "status": "Active; c. 77 million in LWF member churches (2022), more in other Lutheran bodies.",
+      "sources": ["book-of-concord", "lwf-statistics", "macculloch-reformation", "mcgrath-iustitia", "odcc"]
+    },
+    {
+      "id": "reformed",
+      "name": "Reformed Churches",
+      "family": "reformed",
+      "parentIds": ["catholic"],
+      "foundedYear": 1519,
+      "regions": ["western-europe", "northern-europe", "eastern-europe", "north-america", "sub-saharan-africa", "east-asia", "southeast-asia", "latin-america", "global"],
+      "adherents": { "estimate": 100000000, "year": 2020, "source": "wcrc-statistics" },
+      "summary": "The tradition originating with Huldrych Zwingli in Zurich (from 1519) and consolidated by John Calvin in Geneva, Heinrich Bullinger and others, expressed in confessions such as the Heidelberg Catechism (1563), the Belgic Confession and the Canons of Dort (1619). It stresses the sovereignty of God, the authority of Scripture and the reform of worship and church order according to the Word. Reformed churches spread across Switzerland, France (Huguenots), the Netherlands, Scotland, Hungary and, through migration and mission, to every continent.",
+      "distinctives": [
+        "Sovereignty of God and the glory of God as the end of all things",
+        "Predestination and covenant theology",
+        "Worship regulated by Scripture, with emphasis on preaching",
+        "Spiritual presence of Christ in the Lord's Supper",
+        "Church discipline and ordered offices of pastor, elder and deacon"
+      ],
+      "profile": {
+        "authority": "Scripture alone as the supreme rule of faith and life, illuminated by the Spirit, with subordinate confessional standards.",
+        "salvation": "Salvation by grace alone through faith alone in Christ alone, grounded in God's eternal election; the elect persevere.",
+        "sacraments": "Baptism (including infants of believers, as a sign of the covenant) and the Lord's Supper, in which believers truly feed on Christ by the Spirit.",
+        "eschatology": "Christ's return, resurrection and judgment; amillennial and postmillennial views historically predominant.",
+        "governance": "Presbyterian-synodal (rule by elders in consistories, classes and synods); some congregational variants.",
+        "worship": "Simple, Word-centred worship with psalm singing, preaching and prayer; historically without images.",
+        "canon": "The 66-book Protestant canon; the Apocrypha excluded from Scripture."
+      },
+      "status": "Active; c. 100 million in WCRC member churches (2020), with additional conservative Reformed bodies.",
+      "sources": ["schaff-creeds", "macculloch-reformation", "wcrc-statistics", "mcgrath-historical-theology"]
+    },
+    {
+      "id": "presbyterian",
+      "name": "Presbyterian Churches",
+      "family": "reformed",
+      "parentIds": ["reformed"],
+      "foundedYear": 1560,
+      "regions": ["western-europe", "north-america", "east-asia", "sub-saharan-africa", "oceania", "india", "latin-america"],
+      "summary": "The English-speaking branch of the Reformed tradition, rooted in John Knox's Scottish Reformation (1560) and the Westminster Assembly (1643–1653), which produced the Westminster Confession and Catechisms. Named for government by presbyters (elders), Presbyterianism shaped Scotland, Ulster and colonial America, and through mission became strong in South Korea, Ghana, Malawi, Kenya, Brazil and north-east India. American Presbyterianism has repeatedly divided over revivalism, slavery, modernism and sexuality.",
+      "distinctives": [
+        "Government by elders in sessions, presbyteries and general assemblies",
+        "Westminster Standards (1646–1648)",
+        "Covenant theology",
+        "Strong emphasis on education and an educated ministry",
+        "Major growth in Korea (e.g. Pyongyang revival, 1907)"
+      ],
+      "profile": {
+        "authority": "Scripture as the only infallible rule, with the Westminster Confession or other Reformed standards as subordinate standards.",
+        "salvation": "Grace alone through faith alone, grounded in God's sovereign election and Christ's work; effectual calling, justification, adoption, sanctification.",
+        "sacraments": "Baptism (including infants) and the Lord's Supper as signs and seals of the covenant of grace.",
+        "eschatology": "Return of Christ, resurrection and last judgment; postmillennial hope was influential in the nineteenth century.",
+        "governance": "Presbyterian polity: teaching and ruling elders in graded courts.",
+        "worship": "Reformed worship ordered by the 'regulative principle' in conservative bodies; more varied in mainline churches.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; several tens of millions worldwide, with large churches in Korea, Africa and Brazil.",
+      "sources": ["schaff-creeds", "noll-christianity-us", "macculloch-reformation", "odcc"]
+    },
+    {
+      "id": "congregationalist",
+      "name": "Congregationalism",
+      "family": "reformed",
+      "parentIds": ["reformed"],
+      "foundedYear": 1582,
+      "regions": ["western-europe", "north-america", "oceania", "sub-saharan-africa"],
+      "summary": "A Reformed tradition holding that each gathered congregation of believers is a complete church under Christ, governing itself without bishops or presbyteries. It arose among English Separatists such as Robert Browne (1582) and the Pilgrims, and was established in Puritan New England, where it nurtured Harvard, Yale and the First Great Awakening (Jonathan Edwards). The Savoy Declaration (1658) adapted Westminster for Congregational polity. Many Congregationalist churches later merged into the United Church of Christ (US, 1957) and the United Reformed Church (UK, 1972).",
+      "distinctives": [
+        "Autonomy of the local covenanted congregation",
+        "Church covenant and gathered membership",
+        "Puritan heritage in New England",
+        "London Missionary Society (1795) and global missions",
+        "Influential role in American education and reform movements"
+      ],
+      "profile": {
+        "authority": "Scripture, with historic Reformed confessions (e.g. the Savoy Declaration) held as testimonies rather than tests in many churches.",
+        "salvation": "Historically Reformed teaching on grace and election; later wide theological diversity, including liberal Protestantism.",
+        "sacraments": "Baptism (including infants) and the Lord's Supper.",
+        "eschatology": "Historic Reformed hope; American Puritans often held a strong millennial expectation.",
+        "governance": "Congregational: each local church self-governing, linked in voluntary associations and councils.",
+        "worship": "Simple Reformed worship centred on preaching, in meeting houses.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active, chiefly within united churches; independent Congregational bodies remain small.",
+      "sources": ["ahlstrom-religious-history", "noll-christianity-us", "odcc"]
+    },
+    {
+      "id": "anglican",
+      "name": "Anglican Communion",
+      "family": "anglican",
+      "parentIds": ["catholic"],
+      "splitEventId": "act-of-supremacy-1534",
+      "foundedYear": 1534,
+      "regions": ["western-europe", "sub-saharan-africa", "north-america", "oceania", "india", "east-asia", "latin-america", "global"],
+      "adherents": { "estimate": 85000000, "year": 2020, "source": "anglican-communion-office" },
+      "summary": "The churches descended from the Church of England, which broke with Rome when Henry VIII was declared Supreme Head (1534) and was reformed under Edward VI and Elizabeth I through Cranmer's Book of Common Prayer and the Thirty-nine Articles. Anglicans see themselves as both catholic and reformed, keeping the historic episcopate. Through colonial expansion and mission, Anglicanism became a worldwide communion of some 42 provinces, now with its largest membership in Nigeria, Uganda and Kenya. Debates over women's ordination and sexuality have produced realignments such as GAFCON (2008).",
+      "distinctives": [
+        "Book of Common Prayer as a bond of unity",
+        "Historic episcopate with Protestant doctrine (Thirty-nine Articles)",
+        "Scripture, tradition and reason as sources of authority",
+        "Breadth: Anglo-Catholic, evangelical and liberal wings",
+        "Lambeth Conferences and the Archbishop of Canterbury as focus of unity"
+      ],
+      "profile": {
+        "authority": "Scripture 'containeth all things necessary to salvation', read with the creeds, the early Fathers and reason; the Lambeth Quadrilateral (1888) summarises essentials.",
+        "salvation": "Justification by faith in Christ (Article XI), understood in a range from Reformed to catholic emphases.",
+        "sacraments": "Two dominical sacraments (baptism and Eucharist), with five other 'commonly called sacraments'; views of the Eucharist range widely.",
+        "eschatology": "The creeds' hope of Christ's return, resurrection and life everlasting; prayers for the dead in Anglo-Catholic use.",
+        "governance": "Episcopal and synodical; national provinces are autonomous, bound by 'bonds of affection' rather than central authority.",
+        "worship": "Common prayer: Morning and Evening Prayer and Holy Communion, with choral tradition and diverse modern rites.",
+        "canon": "The 66-book canon; the Apocrypha read 'for example of life' but not to establish doctrine (Article VI)."
+      },
+      "status": "Active; c. 85 million members across about 42 provinces (2020).",
+      "sources": ["chapman-anglicanism", "anglican-communion-office", "macculloch-reformation", "schaff-creeds"]
+    },
+    {
+      "id": "anabaptist",
+      "name": "Anabaptist Movement",
+      "family": "anabaptist",
+      "parentIds": ["reformed"],
+      "splitEventId": "first-adult-baptisms-zurich-1525",
+      "foundedYear": 1525,
+      "regions": ["western-europe", "north-america", "sub-saharan-africa", "latin-america", "southeast-asia", "india"],
+      "adherents": { "estimate": 2130000, "year": 2022, "source": "mwc-census" },
+      "summary": "The 'radical' reformation that began when Conrad Grebel, Felix Manz and others in Zurich baptised one another as confessing believers in January 1525, breaking with Zwingli. Anabaptists ('rebaptisers', a name given by opponents) insisted on a voluntary church of committed disciples separate from the state. The Schleitheim Confession (1527) articulated nonresistance and refusal of oaths. Severely persecuted by Catholics and Protestants alike, and discredited by the Münster episode (1534–1535), the movement survived as Mennonites, Hutterites and later Amish and Brethren.",
+      "distinctives": [
+        "Believer's baptism on confession of faith",
+        "The church as a voluntary, disciplined community of disciples",
+        "Nonresistance and refusal of the sword",
+        "Separation of church and state; refusal of oaths",
+        "Following Christ (Nachfolge) in daily life"
+      ],
+      "profile": {
+        "authority": "Scripture, especially the New Testament and the Sermon on the Mount, interpreted in the gathered community under the Spirit.",
+        "salvation": "Grace received in faith that issues in a transformed life of obedient discipleship; salvation is not separable from following Christ.",
+        "sacraments": "Usually called ordinances: believer's baptism and the Lord's Supper as a memorial and community covenant meal; footwashing in some groups.",
+        "eschatology": "Varied: some early leaders expected an imminent end; most later Anabaptists held a sober hope of Christ's return.",
+        "governance": "Congregational, with elected bishops/elders, ministers and deacons and mutual discipline (the 'ban').",
+        "worship": "Simple gatherings for Scripture, preaching, prayer and hymn singing (e.g. the Ausbund, from 1564).",
+        "canon": "The Protestant canon, with the Apocrypha valued by early Anabaptists."
+      },
+      "status": "Active as Mennonite, Amish, Hutterite and Brethren churches; c. 2.1 million baptised members in MWC-related churches (2022).",
+      "sources": ["williams-radical-reformation", "schaff-creeds", "macculloch-reformation", "mwc-census"]
+    },
+    {
+      "id": "mennonite",
+      "name": "Mennonite Churches",
+      "family": "anabaptist",
+      "parentIds": ["anabaptist"],
+      "foundedYear": 1536,
+      "regions": ["western-europe", "north-america", "latin-america", "sub-saharan-africa", "india", "southeast-asia"],
+      "summary": "Anabaptist churches named after Menno Simons, a former Dutch Catholic priest who joined the movement in 1536 and gathered scattered communities in the Netherlands and northern Germany. The Dordrecht Confession (1632) became a standard. Mennonites migrated widely—to Prussia, Russia, North America and Paraguay—seeking religious freedom and exemption from military service. Today most Mennonites live in Africa, Asia and Latin America, with the largest national churches in Ethiopia (Meserete Kristos) and the Democratic Republic of the Congo.",
+      "distinctives": [
+        "Peace witness and conscientious objection",
+        "Believer's baptism and church discipline",
+        "Service and relief work (Mennonite Central Committee, 1920)",
+        "Simplicity of life",
+        "Strong congregational singing tradition"
+      ],
+      "profile": {
+        "authority": "Scripture interpreted Christocentrically in community; confessions such as Dordrecht (1632) and the Confession of Faith in a Mennonite Perspective (1995).",
+        "salvation": "Salvation by grace through faith expressed in discipleship, peacemaking and new life in Christ.",
+        "sacraments": "Ordinances of believer's baptism, the Lord's Supper and, in many congregations, footwashing.",
+        "eschatology": "Hope in Christ's return and the fulfilment of God's kingdom of peace.",
+        "governance": "Congregational with regional conferences; pastors and elders chosen by congregations.",
+        "worship": "Simple services with preaching and often unaccompanied four-part singing.",
+        "canon": "The Protestant 66-book canon."
+      },
+      "status": "Active; the majority of the c. 2.1 million Anabaptist-related believers worldwide.",
+      "sources": ["williams-radical-reformation", "mwc-census", "odcc"]
+    },
+    {
+      "id": "amish",
+      "name": "Amish",
+      "family": "anabaptist",
+      "parentIds": ["anabaptist"],
+      "foundedYear": 1693,
+      "regions": ["north-america"],
+      "adherents": { "estimate": 400000, "year": 2024, "source": "young-center-amish" },
+      "summary": "A conservative Anabaptist fellowship that separated from Swiss and Alsatian Mennonites in 1693 under Jakob Ammann, who called for stricter shunning (Meidung) of excommunicated members and more frequent communion. Amish migrated to Pennsylvania from the 1730s and now live almost entirely in the United States and Canada. Known for plain dress, horse-and-buggy transport and selective use of technology, they have one of the fastest population growth rates of any religious group, doubling roughly every twenty years.",
+      "distinctives": [
+        "Ordnung: unwritten community rules governing dress and technology",
+        "Social avoidance (shunning) of excommunicated members",
+        "Gelassenheit: yieldedness to God and community",
+        "Pennsylvania German language and home-based worship",
+        "Education through eighth grade in community schools"
+      ],
+      "profile": {
+        "authority": "Scripture, the Dordrecht Confession (1632) and the church district's Ordnung.",
+        "salvation": "Grace received in humble faith and obedience; Amish typically speak of a 'living hope' of salvation rather than assurance.",
+        "sacraments": "Adult baptism on joining the church (usually aged 16–25), twice-yearly communion with footwashing.",
+        "eschatology": "Hope of eternal life and Christ's return, with little speculative interest.",
+        "governance": "Autonomous church districts led by a bishop, ministers and a deacon chosen by lot.",
+        "worship": "Three-hour services every other Sunday in members' homes, with slow unison hymns from the Ausbund.",
+        "canon": "The Luther Bible (High German) and the Protestant canon."
+      },
+      "status": "Active; c. 400,000 people including children (2024), in over 600 settlements.",
+      "sources": ["kraybill-amish", "young-center-amish"]
+    },
+    {
+      "id": "hutterite",
+      "name": "Hutterian Brethren",
+      "family": "anabaptist",
+      "parentIds": ["anabaptist"],
+      "foundedYear": 1528,
+      "regions": ["eastern-europe", "north-america"],
+      "summary": "Anabaptists who practise community of goods, originating in Moravia in 1528 and named after Jakob Hutter, their leader until his execution in 1536. They flourished in Moravia, then endured persecution and migration through Slovakia, Transylvania and Ukraine before resettling in the Dakotas in the 1870s. Most now live in agricultural colonies in the Canadian prairies and the northern United States.",
+      "distinctives": [
+        "Community of goods based on Acts 2 and 4",
+        "Living in colonies (Bruderhöfe) of roughly 60–150 people",
+        "Nonresistance",
+        "Hutterisch dialect and historic sermons read in worship",
+        "Communal agriculture"
+      ],
+      "profile": {
+        "authority": "Scripture and the sixteenth-century writings of Peter Riedemann (Rechenschaft, 1540s) and early Hutterite sermons.",
+        "salvation": "Surrender of self and property to God and the community (Gelassenheit) as the path of discipleship.",
+        "sacraments": "Adult baptism and the Lord's Supper.",
+        "eschatology": "Expectation of Christ's return and judgment.",
+        "governance": "Colony led by a minister and elected council; three main branches (Schmiedeleut, Dariusleut, Lehrerleut).",
+        "worship": "Daily evening services and Sunday worship with readings of historic sermons.",
+        "canon": "The Protestant canon (Luther Bible)."
+      },
+      "status": "Active; c. 50,000 people in about 500 colonies.",
+      "sources": ["hostetler-hutterite", "williams-radical-reformation"]
+    },
+    {
+      "id": "quaker",
+      "name": "Religious Society of Friends (Quakers)",
+      "family": "independent",
+      "parentIds": ["anglican"],
+      "foundedYear": 1652,
+      "regions": ["western-europe", "north-america", "sub-saharan-africa", "latin-america"],
+      "adherents": { "estimate": 377000, "year": 2017, "source": "fwcc-statistics" },
+      "summary": "A movement begun in England in the 1650s under George Fox, who taught that Christ 'the inward light' can speak directly to every person without clergy, sacraments or set liturgy. Severely persecuted in Restoration England, Quakers founded Pennsylvania under William Penn (1681) and became pioneers of abolition, prison reform and peacemaking. Today Friends range from unprogrammed silent meetings to evangelical pastoral churches, with the largest numbers in Kenya.",
+      "distinctives": [
+        "The Inward Light of Christ in every person",
+        "Meeting for worship in expectant silence (unprogrammed tradition)",
+        "No outward sacraments or ordained clergy",
+        "Testimonies of peace, simplicity, integrity and equality",
+        "Early equality of women in ministry"
+      ],
+      "profile": {
+        "authority": "The living guidance of the Spirit of Christ, tested against Scripture and the discernment of the meeting.",
+        "salvation": "Inward transformation by the Light of Christ; early Friends taught the possibility of perfection (freedom from sin).",
+        "sacraments": "No outward sacraments; baptism and communion are understood as inward, spiritual realities.",
+        "eschatology": "Early Friends proclaimed that 'Christ has come to teach his people himself', a realised emphasis on the present kingdom.",
+        "governance": "Business meetings seeking unity under divine guidance, organised in monthly and yearly meetings without clergy (pastoral meetings have pastors).",
+        "worship": "Unprogrammed silent worship where anyone may minister; programmed meetings with hymns and sermons in evangelical yearly meetings.",
+        "canon": "The Protestant canon, held as secondary to the Spirit who gave it."
+      },
+      "status": "Active; c. 377,000 Friends worldwide (2017), about half in Africa.",
+      "sources": ["dandelion-quakers", "fwcc-statistics", "odcc"]
+    },
+    {
+      "id": "baptist",
+      "name": "Baptist Churches",
+      "family": "baptist",
+      "parentIds": ["congregationalist", "anabaptist"],
+      "foundedYear": 1609,
+      "regions": ["western-europe", "north-america", "sub-saharan-africa", "latin-america", "india", "east-asia", "eastern-europe", "global"],
+      "adherents": { "estimate": 47000000, "year": 2019, "source": "bwa-statistics" },
+      "summary": "Churches that arose among English Separatists in exile in Amsterdam, where John Smyth and Thomas Helwys baptised believers in 1609, influenced by contact with Mennonites. General (Arminian) and Particular (Calvinist) Baptist streams developed in England, and Baptists became the largest Protestant family in the United States, including major African American denominations. Strong advocates of religious liberty, Baptists launched the modern missionary movement through William Carey (1792) and are now numerous in Nigeria, Brazil, India's north-east and Myanmar.",
+      "distinctives": [
+        "Believer's baptism by immersion",
+        "Autonomy of the local congregation",
+        "Soul liberty and separation of church and state",
+        "Priesthood of all believers",
+        "Strong commitment to evangelism and mission"
+      ],
+      "profile": {
+        "authority": "Scripture as the sole and sufficient authority; confessions (e.g. the Second London Confession 1689, Baptist Faith and Message) are voluntary statements, not creeds.",
+        "salvation": "Salvation by grace through personal faith in Christ, with a conscious conversion experience; Calvinist and Arminian views both present.",
+        "sacraments": "Ordinances of believer's baptism by immersion and the Lord's Supper, usually understood as memorial and testimony.",
+        "eschatology": "Diverse: premillennial (often dispensational) views are common in North America; others amillennial or postmillennial.",
+        "governance": "Congregational, with pastors and deacons; voluntary associations and conventions.",
+        "worship": "Free-church worship centred on preaching, hymns and gospel music, with altar calls in many traditions.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; c. 47 million baptised believers in BWA churches (2019), and more outside it (e.g. the Southern Baptist Convention).",
+      "sources": ["bebbington-evangelicalism", "noll-christianity-us", "bwa-statistics", "odcc"]
+    },
+    {
+      "id": "unitarian",
+      "name": "Unitarianism",
+      "family": "nontrinitarian",
+      "parentIds": ["congregationalist"],
+      "foundedYear": 1825,
+      "regions": ["north-america", "western-europe", "eastern-europe"],
+      "summary": "A tradition affirming the unity of God rather than the Trinity, and so outside historic Nicene orthodoxy. Antitrinitarian churches appeared in the Reformation era in Poland (the Polish Brethren, influenced by Faustus Socinus) and Transylvania, where the Edict of Torda (1568) tolerated the church of Francis Dávid. In New England, liberal Congregationalists led by William Ellery Channing formed the American Unitarian Association (1825). Merging with the Universalists in 1961, the Unitarian Universalist Association became a pluralist, largely post-Christian body, while the Hungarian Unitarian Church remains explicitly Christian.",
+      "distinctives": [
+        "God is one person; Jesus is a uniquely inspired human teacher and exemplar",
+        "Reason and conscience in interpreting religion",
+        "No binding creed",
+        "Emphasis on ethics, social reform and freedom of belief",
+        "Unitarian Universalism welcomes non-Christian and humanist members"
+      ],
+      "profile": {
+        "authority": "Reason, conscience and experience; Scripture valued as a historical and inspirational source rather than final authority.",
+        "salvation": "Character and moral growth rather than atonement; Universalist heritage holds that all will ultimately be reconciled to God.",
+        "sacraments": "No sacraments in the traditional sense; child dedications and communion services in some Christian Unitarian congregations.",
+        "eschatology": "Little emphasis on final judgment; historically hope for universal salvation and human progress.",
+        "governance": "Congregational, linked in associations.",
+        "worship": "Services of readings, hymns, sermons and reflection, varying from liberal Christian to humanist.",
+        "canon": "No closed canon; the Bible is read alongside other sources of wisdom."
+      },
+      "status": "Active but small: c. 150,000 in the Unitarian Universalist Association (US), plus Unitarian churches in Transylvania and Britain; outside historic Nicene orthodoxy.",
+      "sources": ["wilbur-unitarianism", "ahlstrom-religious-history", "williams-radical-reformation"]
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "eras": [
+    {
+      "id": "apostolic-age",
+      "order": 1,
+      "name": "The Apostolic Age",
+      "short": "Apostolic",
+      "startYear": 30,
+      "endYear": 100,
+      "summary": "The followers of Jesus of Nazareth, proclaiming him crucified, risen and Messiah, formed communities first in Jerusalem and then across the eastern Mediterranean. Under leaders such as Peter, James and Paul, the movement wrestled with whether Gentile converts must keep the Mosaic law, a question addressed at the Council of Jerusalem (c. 49). Nero's persecution in Rome (64) and the Roman destruction of Jerusalem (70) reshaped the movement, accelerating its separation from Judaism. By the end of the century the writings later gathered into the New Testament were circulating, and churches existed from Syria and Asia Minor to Rome and probably Egypt.",
+      "keyThemes": [
+        "Resurrection proclamation and early worship of Jesus",
+        "Jewish roots and the Gentile mission",
+        "Paul's letters and the shape of the first churches",
+        "First persecutions under Rome",
+        "Formation of the Gospels and apostolic writings"
+      ],
+      "colour": "#8B1E2D",
+      "globalNotes": [
+        { "region": "mesopotamia-persia", "text": "Syriac tradition traces the faith in Edessa (Urfa) to Addai (Thaddeus), sent after the Abgar correspondence; the legend is late, but Jewish communities in Adiabene and Mesopotamia offered early bridges eastward." },
+        { "region": "india", "text": "The St Thomas Christians of Kerala hold that the apostle Thomas landed at Muziris c. 52 and was martyred near Mylapore c. 72; the tradition is ancient though not independently verifiable, and Roman–Indian sea trade makes a first-century contact plausible." },
+        { "region": "ethiopia-nubia", "text": "Acts 8 records the baptism of a court official of the Kandake (queen) of Kush (Meroë), often read as the first African convert beyond Egypt, though no lasting church in Nubia is known from this period." },
+        { "region": "egypt", "text": "Coptic tradition names Mark the Evangelist as founder of the church of Alexandria; the city's large Jewish population makes an early Christian presence likely, but firm evidence comes only in the second century." },
+        { "region": "arabia", "text": "Paul reports going to 'Arabia' (the Nabataean region) after his conversion (Galatians 1:17), and Arabs are listed among the crowd at Pentecost (Acts 2:11)." },
+        { "region": "armenia-caucasus", "text": "The Armenian Church venerates the apostles Thaddeus and Bartholomew as its first evangelists, a tradition that later gave it the name 'Apostolic'." }
+      ]
+    },
+    {
+      "id": "apostolic-fathers",
+      "order": 2,
+      "name": "The Apostolic Fathers and Apologists",
+      "short": "Apostolic Fathers",
+      "startYear": 100,
+      "endYear": 200,
+      "summary": "In the generation after the apostles, writers such as Clement of Rome, Ignatius of Antioch and Polycarp of Smyrna urged unity around bishops, the Eucharist and the apostolic teaching. Apologists like Justin Martyr defended the faith before pagan critics, while sporadic local persecution produced honoured martyrs. The church defined itself against rival movements—Marcion's rejection of the Old Testament, various Gnostic systems and the New Prophecy of Montanus—and in response Irenaeus articulated the 'rule of faith', apostolic succession and an emerging fourfold Gospel canon. By 200 a recognisable network of episcopally led churches stretched from Lyon to Edessa.",
+      "keyThemes": [
+        "Bishops, presbyters and the monarchical episcopate",
+        "Apologetics and engagement with Greek philosophy",
+        "Martyrdom as witness",
+        "Responses to Marcion, Gnosticism and Montanism",
+        "The rule of faith and the emerging New Testament canon"
+      ],
+      "colour": "#A12F2A",
+      "globalNotes": [
+        { "region": "mesopotamia-persia", "text": "Tatian, a Syrian student of Justin, returned east and composed the Diatessaron (c. 170), a Gospel harmony that became the standard Gospel text of Syriac-speaking churches for centuries." },
+        { "region": "mesopotamia-persia", "text": "The Chronicle of Edessa records a church building in Edessa destroyed by flood in 201, evidence of an established community; the Odes of Solomon, an early Syriac hymnbook, likely dates from this century." },
+        { "region": "egypt", "text": "Alexandria became an intellectual centre: Pantaenus led a catechetical school there (c. 180) and Bishop Demetrius (from 189) organised the Egyptian church; papyrus fragments such as P52 show Gospels circulating in Egypt." },
+        { "region": "india", "text": "Eusebius reports that Pantaenus travelled to 'India' (perhaps southern Arabia or India proper) and found there a Gospel of Matthew in Hebrew letters left by Bartholomew." },
+        { "region": "north-africa", "text": "The Scillitan Martyrs (180), executed at Carthage, left the earliest dated Christian document in Latin, signalling the rise of a Latin-speaking African church." },
+        { "region": "asia-minor", "text": "The Quartodeciman controversy over dating Easter pitted the churches of Asia, following John's tradition, against Bishop Victor of Rome (c. 190)." }
+      ]
+    },
+    {
+      "id": "persecution-early-theology",
+      "order": 3,
+      "name": "Persecution and Early Theology",
+      "short": "Persecution",
+      "startYear": 200,
+      "endYear": 313,
+      "summary": "The third century brought the first empire-wide persecutions, under Decius (250) and Valerian (257–258), culminating in the Great Persecution launched by Diocletian in 303. Disputes over readmitting lapsed Christians led to rigorist schisms (Novatian) and debates on baptism (Cyprian), foreshadowing the Donatist crisis. Theologians such as Tertullian, Origen and Hippolytus developed the language of Trinity, Logos and scriptural interpretation, while modalist and adoptionist views (Sabellius, Paul of Samosata) were rejected. Despite persecution the church grew rapidly, and Armenia became the first kingdom to adopt Christianity officially (traditionally 301).",
+      "keyThemes": [
+        "Empire-wide persecution and the problem of the lapsed",
+        "Tertullian, Origen and early Trinitarian vocabulary",
+        "Rigorist schisms and the nature of the church",
+        "Rise of Christian scholarship and biblical criticism",
+        "Spread into the countryside and beyond Roman borders"
+      ],
+      "colour": "#B5472A",
+      "globalNotes": [
+        { "region": "armenia-caucasus", "text": "Gregory the Illuminator baptised King Tiridates III, traditionally in 301 (many historians prefer c. 314), making Armenia the first state to adopt Christianity; Etchmiadzin became its spiritual centre." },
+        { "region": "mesopotamia-persia", "text": "Christians deported by Shapur I after his victories over Rome (250s–260s) settled in Persian cities, strengthening the church in the Sasanian empire; the Manichaean movement arose there in the same decades." },
+        { "region": "egypt", "text": "Antony of Egypt withdrew to the desert c. 270–285, inaugurating the eremitic monastic movement; Coptic translations of Scripture were under way, and the Coptic calendar dates its 'Era of the Martyrs' from Diocletian's accession in 284." },
+        { "region": "north-africa", "text": "North Africa produced Tertullian and Cyprian of Carthage; Cyprian's councils (c. 251–256) on the lapsed and rebaptism shaped Latin ecclesiology." },
+        { "region": "ethiopia-nubia", "text": "The Aksumite kingdom traded widely with the Roman world; Christian merchants were present at Adulis, preparing the way for the conversion of King Ezana in the next era." },
+        { "region": "levant", "text": "The house church at Dura-Europos on the Euphrates (c. 232–256), with its baptistery frescoes, is the earliest securely identified Christian building." }
+      ]
+    },
+    {
+      "id": "imperial-church",
+      "order": 4,
+      "name": "The Imperial Church and the Great Councils",
+      "short": "Imperial Church",
+      "startYear": 313,
+      "endYear": 451,
+      "summary": "Constantine's support and the Edict of Milan (313) ended persecution and drew the church into partnership with the Roman state. The Arian controversy over the Son's relation to the Father led to the Councils of Nicaea (325) and Constantinople (381), producing the Nicene Creed, while the Cappadocian Fathers refined Trinitarian language. Christological disputes followed: the Council of Ephesus (431) condemned Nestorius, a decision the Church of the East did not accept. Monasticism spread from Egypt and Syria across the empire, Augustine reshaped Western theology on grace and the church, and Theodosius I made Nicene Christianity the state religion (380).",
+      "keyThemes": [
+        "Constantine and the Christian empire",
+        "Nicaea, Constantinople and the Nicene Creed",
+        "Arianism and the Gothic mission",
+        "Monasticism and the desert fathers",
+        "Augustine, Pelagius and grace",
+        "Ephesus and the first lasting Christological division"
+      ],
+      "colour": "#C2652A",
+      "globalNotes": [
+        { "region": "ethiopia-nubia", "text": "Frumentius, a Syrian Christian captive at the Aksumite court, converted King Ezana c. 330s and was consecrated bishop by Athanasius of Alexandria, beginning the Ethiopian church's centuries-long link to the Coptic patriarchate; Ezana's coins replaced the crescent and disc with the cross." },
+        { "region": "mesopotamia-persia", "text": "Under Shapur II (from c. 340) Persian Christians, suspected as Roman sympathisers, suffered a forty-year persecution with thousands of martyrs, including Bishop Simeon bar Sabba'e; the Synod of Seleucia-Ctesiphon (410) then organised the Church of the East under its catholicos and adopted the Nicene Creed." },
+        { "region": "armenia-caucasus", "text": "Nino, a woman evangelist, converted King Mirian III of Georgia (Iberia) c. 337; Mesrop Mashtots invented the Armenian alphabet (c. 405), and tradition also credits him with the Georgian script, enabling vernacular Bible translation." },
+        { "region": "egypt", "text": "Pachomius founded communal (coenobitic) monasteries in Upper Egypt (c. 320s), and Athanasius' Life of Antony spread the monastic ideal; Shenoute of Atripe led the White Monastery, a centre of Coptic literature." },
+        { "region": "mesopotamia-persia", "text": "Ephrem the Syrian (d. 373) in Nisibis and Edessa wrote hymns and commentaries that made Syriac poetry a major vehicle of theology; Aphrahat, 'the Persian Sage', wrote his Demonstrations within the Sasanian empire." },
+        { "region": "arabia", "text": "Arab tribes on the Roman frontier received bishops, and the Arab queen Mavia (c. 375) demanded the monk Moses as bishop for her people as a condition of peace with Rome." },
+        { "region": "eastern-europe", "text": "Ulfilas (Wulfila) translated the Bible into Gothic (c. 350s), spreading a Homoian ('Arian') Christianity among the Goths that later shaped the barbarian kingdoms of the West." }
+      ]
+    },
+    {
+      "id": "late-antiquity",
+      "order": 5,
+      "name": "Late Antiquity: Chalcedon, Division and the Rise of Islam",
+      "short": "Late Antiquity",
+      "startYear": 451,
+      "endYear": 800,
+      "summary": "The Council of Chalcedon (451) defined Christ as one person 'in two natures', a formula rejected by the Miaphysite churches of Egypt, Syria and Armenia (later called Oriental Orthodox), producing the lasting division of Eastern Christianity. In the West the Roman Empire gave way to Germanic kingdoms, Benedictine monasticism and the papacy of Gregory the Great, while Irish and Anglo-Saxon missionaries evangelised northern Europe. The Arab conquests from 634 placed most of the Christian East under Muslim rule, and the iconoclast controversy in Byzantium was settled for icons at Nicaea II (787). Meanwhile the Church of the East carried the faith along the Silk Road as far as Tang China.",
+      "keyThemes": [
+        "Chalcedon and the Miaphysite/Dyophysite divide",
+        "The papacy and the barbarian kingdoms",
+        "Benedictine and Celtic monasticism",
+        "Christian life under early Islamic rule",
+        "Icons and iconoclasm",
+        "Silk Road missions of the Church of the East"
+      ],
+      "colour": "#C8862E",
+      "globalNotes": [
+        { "region": "east-asia", "text": "Alopen, a Church of the East monk, reached the Tang capital Chang'an in 635; Emperor Taizong permitted a monastery, and the Xi'an Stele (781) records 150 years of the 'Luminous Religion' (Jingjiao) in China." },
+        { "region": "ethiopia-nubia", "text": "The Nubian kingdoms of Nobadia, Makuria and Alodia were converted by rival Byzantine and Miaphysite missions in the 540s–570s; the Baqt treaty (652) with Arab Egypt protected Christian Nubia for some six centuries." },
+        { "region": "ethiopia-nubia", "text": "The 'Nine Saints', Miaphysite monks from the Roman East, arrived in Aksum in the late fifth century, founding monasteries such as Debre Damo and translating Scripture into Ge'ez." },
+        { "region": "egypt", "text": "After Chalcedon the Coptic church separated from the imperial (Melkite) hierarchy; the Arab conquest of Egypt (639–642) ended Byzantine pressure but began a long, gradual shift toward an Arabic-speaking Muslim majority." },
+        { "region": "mesopotamia-persia", "text": "Under the Abbasids the Church of the East's catholicos moved to Baghdad (c. 780); Timothy I (780–823) debated the caliph al-Mahdi and oversaw metropolitans from Syria to China, while Syriac Christians translated Greek philosophy into Arabic." },
+        { "region": "levant", "text": "Jacob Baradaeus (d. 578) secretly ordained clergy across Syria, building the Miaphysite Syriac Orthodox hierarchy (hence 'Jacobite'); John of Damascus wrote in defence of icons from Umayyad-ruled Palestine." },
+        { "region": "arabia", "text": "A Christian community at Najran in South Arabia was massacred by the Himyarite king Dhu Nuwas (c. 523), prompting Aksumite intervention; Christianity remained present in eastern Arabia and the Gulf into the eighth century." }
+      ]
+    },
+    {
+      "id": "carolingian-schism",
+      "order": 6,
+      "name": "The Carolingians to the Great Schism",
+      "short": "Carolingian–Schism",
+      "startYear": 800,
+      "endYear": 1054,
+      "summary": "Charlemagne's coronation by Pope Leo III (800) created a Western empire allied to the papacy, sponsoring liturgical reform, monastic schools and theological debates over predestination and the Eucharist. Byzantium ended iconoclasm for good (843) and launched missions to the Slavs through Cyril and Methodius, while Bulgaria, Serbia and Kievan Rus' (988) embraced Byzantine Christianity. Tensions between Rome and Constantinople grew over the Filioque, papal claims and jurisdiction, flaring in the Photian Schism and culminating in the mutual excommunications of 1054. Monastic reform movements like Cluny (910) revived Western religious life.",
+      "keyThemes": [
+        "Carolingian renaissance and church reform",
+        "Missions to the Slavs and Scandinavia",
+        "Triumph of Orthodoxy over iconoclasm",
+        "Filioque and papal authority",
+        "Cluniac monastic reform",
+        "East–West estrangement and 1054"
+      ],
+      "colour": "#C9A33A",
+      "globalNotes": [
+        { "region": "russia", "text": "Prince Vladimir of Kiev was baptised and led the mass baptism of Kiev's population in 988, tying the East Slavs to Byzantine Orthodoxy and Church Slavonic liturgy." },
+        { "region": "eastern-europe", "text": "Disciples of Cyril and Methodius, expelled from Moravia, found refuge in Bulgaria, where the Ohrid and Preslav schools (Clement and Naum of Ohrid) developed Slavonic literature and the Cyrillic script." },
+        { "region": "east-asia", "text": "The Tang emperor Wuzong's suppression of foreign religions (845) devastated Buddhism and effectively extinguished the Church of the East in China proper for several centuries." },
+        { "region": "central-asia", "text": "The Church of the East established metropolitans in Merv, Samarkand and beyond; c. 1007 the Keraite Turks of Mongolia reportedly converted, as recorded by the Syriac chronicler Bar Hebraeus." },
+        { "region": "ethiopia-nubia", "text": "Christian Nubia (Makuria) flourished, with cathedrals at Faras and Old Dongola decorated with distinctive frescoes, while Ethiopia endured a period of political decline after Aksum." },
+        { "region": "egypt", "text": "Copts served prominently in Fatimid administration, but the caliph al-Hakim's persecution (c. 1009–1013) destroyed many churches, including the Church of the Holy Sepulchre in Jerusalem." },
+        { "region": "india", "text": "Copper-plate grants of c. 849 (the Tharisapalli plates) record privileges given by a Kerala ruler to the Christian community of Quilon, linked to the Church of the East." }
+      ]
+    },
+    {
+      "id": "high-middle-ages",
+      "order": 7,
+      "name": "The High Middle Ages",
+      "short": "High Middle Ages",
+      "startYear": 1054,
+      "endYear": 1300,
+      "summary": "The Gregorian Reform asserted papal independence from secular rulers, leading to the Investiture Controversy and a papacy that reached its height under Innocent III, whose Fourth Lateran Council (1215) defined transubstantiation and required annual confession. The Crusades (from 1096) and the Latin sack of Constantinople (1204) deepened the East–West breach. New religious orders—Cistercians, Franciscans and Dominicans—and the rise of universities produced scholastic theology from Anselm to Thomas Aquinas. Dissenting movements such as the Waldensians and Cathars were met with preaching, crusade and inquisition.",
+      "keyThemes": [
+        "Gregorian reform and papal monarchy",
+        "Crusades and the sack of Constantinople",
+        "Scholasticism and the universities",
+        "Mendicant orders and lay piety",
+        "Heresy, dissent and inquisition"
+      ],
+      "colour": "#9A9B3A",
+      "globalNotes": [
+        { "region": "ethiopia-nubia", "text": "King Lalibela of the Zagwe dynasty (c. 1181–1221) commissioned the rock-hewn churches at Roha (Lalibela) as a 'New Jerusalem'; the Solomonic dynasty took power in 1270, fostering a revival of Ge'ez literature." },
+        { "region": "central-asia", "text": "Many Mongol royal women and some commanders were Church of the East Christians; Rabban Sauma, a Uyghur or Öngüt monk born near Beijing, travelled to Rome and Paris as an envoy of the Ilkhanate (1287–1288)." },
+        { "region": "mesopotamia-persia", "text": "Yahballaha III, an Öngüt from China, was elected catholicos of the Church of the East (1281), symbolising its vast reach just before Ilkhanid conversion to Islam (1295) brought renewed persecution." },
+        { "region": "east-asia", "text": "Under the Yuan (Mongol) dynasty, Church of the East communities revived in China, and the Franciscan John of Montecorvino arrived in Khanbaliq (Beijing) in 1294, later becoming its first Latin archbishop." },
+        { "region": "russia", "text": "The Mongol conquest of Rus' (1237–1240) placed the Russian church under the Golden Horde, which generally exempted clergy from tribute; Alexander Nevsky resisted Western crusading pressure from Swedes and Teutonic Knights." },
+        { "region": "armenia-caucasus", "text": "Armenian Cilicia allied with the crusaders and engaged in union talks with Rome, while Georgia under Queen Tamar (1184–1213) reached a golden age of Orthodox culture." },
+        { "region": "egypt", "text": "Coptic scholarship flowered in Arabic, notably the encyclopaedic works of the Awlad al-Assal brothers in the thirteenth century." }
+      ]
+    },
+    {
+      "id": "late-medieval",
+      "order": 8,
+      "name": "The Late Middle Ages",
+      "short": "Late Medieval",
+      "startYear": 1300,
+      "endYear": 1500,
+      "summary": "The papacy's residence at Avignon (1309–1377) and the Western Schism (1378–1417), with two and then three rival popes, damaged papal prestige and spurred the conciliar movement, which ended the schism at Constance (1414–1418). Plague, war and social upheaval fostered intense lay devotion, mysticism and the Devotio Moderna, alongside critics such as Wycliffe and Hus whose followers anticipated later reformations. In the East, Hesychasm was affirmed under Gregory Palamas, a brief reunion was proclaimed at Florence (1439) but rejected, and Constantinople fell to the Ottomans in 1453. Spanish and Portuguese voyages at the century's end opened the way to global Catholic missions.",
+      "keyThemes": [
+        "Avignon, the Western Schism and conciliarism",
+        "Black Death and popular piety",
+        "Mysticism and the Devotio Moderna",
+        "Wycliffe, Hus and calls for reform",
+        "Hesychasm and the fall of Constantinople",
+        "Renaissance humanism and printing"
+      ],
+      "colour": "#5E8C3E",
+      "globalNotes": [
+        { "region": "central-asia", "text": "Timur's campaigns (1370s–1405) and the conversion of Mongol successor states to Islam destroyed most Church of the East communities in Central Asia and Persia, leaving survivors chiefly in the mountains of Kurdistan and in India." },
+        { "region": "ethiopia-nubia", "text": "Emperor Zara Yaqob (1434–1468) reformed the Ethiopian church, enforced Sabbath observance alongside Sunday and sent delegates to the Council of Florence; the monastic leader Ewostatewos had earlier championed the Sabbath. Christian Nubia faded after the fall of Dongola, with Makuria disappearing by the late fifteenth century." },
+        { "region": "russia", "text": "Sergius of Radonezh (d. 1392) founded the Holy Trinity monastery and inspired a monastic revival; Moscow rejected the Union of Florence, its church became effectively autocephalous in 1448, and after 1453 some spoke of Moscow as a successor to Byzantium." },
+        { "region": "sub-saharan-africa", "text": "Portuguese navigators reached the Kingdom of Kongo (1483); King Nzinga a Nkuwu was baptised as João I in 1491, beginning a Kongolese Catholic tradition led by African rulers." },
+        { "region": "latin-america", "text": "Columbus' 1492 voyage opened the Americas to Spanish conquest; papal bulls of 1493 and the Treaty of Tordesillas (1494) divided mission and colonial rights between Spain and Portugal." },
+        { "region": "egypt", "text": "Under Mamluk rule the Coptic church suffered recurrent discriminatory decrees and riots in the fourteenth century, accelerating conversion to Islam and the decline of Coptic as a spoken language." },
+        { "region": "greece-balkans", "text": "Gregory Palamas' defence of the hesychast monks of Mount Athos and the distinction between God's essence and energies were endorsed by councils in Constantinople (1341–1351)." }
+      ]
+    },
+    {
+      "id": "reformations",
+      "order": 9,
+      "name": "The Reformations",
+      "short": "Reformations",
+      "startYear": 1500,
+      "endYear": 1650,
+      "summary": "Martin Luther's protest against indulgences (1517) grew into a reformation of doctrine centred on justification by faith and the authority of Scripture, followed by Reformed (Zwingli, Calvin), Anabaptist and Anglican movements, each with distinct theologies and church orders. The Catholic Church answered with the Council of Trent (1545–1563), new orders such as the Jesuits, and renewed spirituality. Confessional conflict produced wars of religion culminating in the Thirty Years' War, ended by the Peace of Westphalia (1648). At the same time Catholic missions spread Christianity across the Americas, Africa and Asia on an unprecedented scale.",
+      "keyThemes": [
+        "Justification by faith and sola scriptura",
+        "Lutheran, Reformed, Anabaptist and Anglican reformations",
+        "Catholic Reform and the Council of Trent",
+        "Confessions, catechisms and printing",
+        "Wars of religion and toleration",
+        "Global Catholic missions"
+      ],
+      "colour": "#2F7F5E",
+      "globalNotes": [
+        { "region": "latin-america", "text": "The Spanish conquest of Mexico (1519–1521) and Peru brought mass baptisms and mendicant missions; Bartolomé de las Casas condemned abuses of Indigenous peoples, informing the Valladolid debate (1550–1551), and the Guadalupe devotion took root in Mexico." },
+        { "region": "east-asia", "text": "Francis Xavier arrived in Japan in 1549; by 1600 Japan had perhaps 300,000 Christians, but persecution from 1614 forced 'hidden Christians' underground. Matteo Ricci reached Beijing in 1601, adapting Christianity to Confucian culture." },
+        { "region": "india", "text": "Portuguese Goa became a mission centre; the Synod of Diamper (1599) imposed Latin practices on the St Thomas Christians, a grievance that erupted in the Coonan Cross Oath (1653) just after this era." },
+        { "region": "ethiopia-nubia", "text": "Portuguese troops helped Ethiopia repel the Adal invasion of Ahmad Gragn (1529–1543); later Jesuit influence led Emperor Susenyos to declare Catholicism (1622), provoking civil war and his abdication, after which Fasilides expelled the Jesuits (1633)." },
+        { "region": "russia", "text": "The Moscow Patriarchate was established in 1589, and the Union of Brest (1596) brought part of the Ruthenian Orthodox church into communion with Rome as the Ukrainian Greek Catholic Church." },
+        { "region": "sub-saharan-africa", "text": "King Afonso I of Kongo (r. c. 1509–1542) promoted Catholicism, and his son Henrique was consecrated a bishop in 1518, the first sub-Saharan African bishop of the Latin church." },
+        { "region": "southeast-asia", "text": "Spanish Augustinians, Franciscans and Dominicans evangelised the Philippines after 1565, making it the first predominantly Christian society in Asia." }
+      ]
+    },
+    {
+      "id": "confessional-pietism",
+      "order": 10,
+      "name": "Confessional Orthodoxy and Pietism",
+      "short": "Confessional & Pietist",
+      "startYear": 1650,
+      "endYear": 1730,
+      "summary": "After Westphalia, Protestant churches consolidated their doctrine in detailed scholastic systems, while Catholicism experienced baroque devotion alongside the Jansenist controversy. Reacting against arid orthodoxy, Pietism under Spener and Francke stressed new birth, small groups and practical holiness, and radical movements such as the Quakers emphasised the inner light. The Enlightenment's rise brought deism, biblical criticism and growing calls for toleration. In Russia, Patriarch Nikon's liturgical reforms caused the Old Believer schism, and Peter the Great replaced the patriarchate with a state-controlled Holy Synod.",
+      "keyThemes": [
+        "Protestant scholasticism and confessional identity",
+        "Pietism and the religion of the heart",
+        "Jansenism, Quietism and baroque Catholicism",
+        "Early Enlightenment, deism and toleration",
+        "Old Believers and Peter the Great's church reform"
+      ],
+      "colour": "#23787A",
+      "globalNotes": [
+        { "region": "russia", "text": "Patriarch Nikon's reforms (1650s) aligning Russian rites with Greek usage were resisted by the Old Believers led by Archpriest Avvakum (burned 1682); Peter the Great abolished the patriarchate and created the Holy Synod (1721)." },
+        { "region": "east-asia", "text": "Emperor Kangxi's edict of toleration (1692) favoured Jesuit missions, but the Chinese Rites controversy—papal rulings of 1704 and 1715 forbidding Confucian rites—led Kangxi to restrict Christianity." },
+        { "region": "india", "text": "The Coonan Cross Oath (1653) split the St Thomas Christians; one party later entered communion with the Syriac Orthodox Church (from 1665). Lutheran Pietist missionaries Ziegenbalg and Plütschau arrived at Tranquebar (1706) and translated the New Testament into Tamil (1714)." },
+        { "region": "sub-saharan-africa", "text": "In Kongo, Beatriz Kimpa Vita led the Antonian movement (1704–1706), an Africanised Catholic prophetic movement; she was burned as a heretic, an early forerunner of African Initiated Churches." },
+        { "region": "latin-america", "text": "Jesuit 'reductions' among the Guaraní in Paraguay reached their peak, sheltering tens of thousands from slave raiders; Sor Juana Inés de la Cruz wrote theology and poetry in Mexico." },
+        { "region": "mesopotamia-persia", "text": "Divisions within the Church of the East produced rival patriarchal lines, one of which entered union with Rome, the origin of the Chaldean Catholic Church (formalised 1830)." }
+      ]
+    },
+    {
+      "id": "awakenings-missions",
+      "order": 11,
+      "name": "Awakenings and Missions",
+      "short": "Awakenings",
+      "startYear": 1730,
+      "endYear": 1850,
+      "summary": "Evangelical revivals swept Britain and North America through the preaching of Jonathan Edwards, George Whitefield and John and Charles Wesley, giving birth to Methodism and a transatlantic evangelical identity centred on conversion, the cross, the Bible and activism. The Moravians pioneered Protestant world mission, followed by William Carey and new missionary societies. Evangelicals led campaigns against the slave trade, abolished in Britain in 1807. The French Revolution shook European Catholicism, the Second Great Awakening spawned new American denominations and restorationist movements, and Adventist expectation peaked in 1844.",
+      "keyThemes": [
+        "Great Awakenings and evangelical conversion",
+        "Methodism and lay preaching",
+        "Protestant missionary societies",
+        "Abolition of the slave trade",
+        "Revolution, secularisation and Catholic resilience",
+        "American restorationism and Adventism"
+      ],
+      "colour": "#2A6A99",
+      "globalNotes": [
+        { "region": "sub-saharan-africa", "text": "Freed Black Loyalists founded Freetown, Sierra Leone (1792), with Methodist and Baptist congregations; the Church Missionary Society's Fourah Bay College (1827) educated Samuel Ajayi Crowther, a rescued Yoruba slave." },
+        { "region": "north-america", "text": "African Americans formed independent churches, notably Richard Allen's African Methodist Episcopal Church (1816), while slave Christianity developed its own spirituals and 'invisible institution'." },
+        { "region": "east-asia", "text": "Korean scholars, studying Catholic books from China, formed a lay-led church (1784) without missionaries; persecutions killed thousands, including in 1801 and 1839. Robert Morrison, the first Protestant missionary to China, arrived in 1807." },
+        { "region": "oceania", "text": "London Missionary Society workers reached Tahiti (1797); King Pōmare II's conversion (1812) began Polynesian Christianity, often spread thereafter by Pacific Islander missionaries themselves." },
+        { "region": "india", "text": "William Carey and the Serampore mission (from 1800) translated Scripture into dozens of Indian languages; the East India Company's ban on missionaries was lifted in 1813." },
+        { "region": "russia", "text": "Paisius Velichkovsky's Slavonic Philokalia (1793) and the elder Seraphim of Sarov (d. 1833) sparked a hesychast revival; Russian Orthodox missionaries reached Alaska (1794)." },
+        { "region": "latin-america", "text": "Independence wars (1810–1825) disrupted the colonial church; many bishops were royalist, while priests such as Miguel Hidalgo and José María Morelos led insurgencies in Mexico." }
+      ]
+    },
+    {
+      "id": "modern-era",
+      "order": 12,
+      "name": "The Modern Era",
+      "short": "Modern",
+      "startYear": 1850,
+      "endYear": 1945,
+      "summary": "Industrialisation, Darwinism and historical criticism of the Bible challenged traditional faith, producing liberal theology, Catholic ultramontanism (papal infallibility, 1870) and Protestant fundamentalism. The 'Great Century' of missions planted churches across Africa, Asia and the Pacific, often entangled with colonialism yet increasingly led by local Christians. The Holiness movement and the Azusa Street Revival (1906) launched Pentecostalism, destined to become one of the fastest-growing forms of Christianity. The world wars, totalitarian persecution in the Soviet Union and the Confessing Church's resistance to Nazism tested the churches profoundly, while the Edinburgh Conference (1910) began the modern ecumenical movement.",
+      "keyThemes": [
+        "Liberalism, modernism and fundamentalism",
+        "Papal infallibility and Catholic revival",
+        "Colonial-era missions and indigenous agency",
+        "Holiness and the birth of Pentecostalism",
+        "Ecumenism",
+        "Christianity under totalitarianism"
+      ],
+      "colour": "#3F56A6",
+      "globalNotes": [
+        { "region": "sub-saharan-africa", "text": "Samuel Ajayi Crowther became the first African Anglican bishop (1864); prophets such as William Wadé Harris (Ivory Coast, 1913–1915) and Simon Kimbangu (Congo, 1921) led mass movements, and African Initiated Churches like the Zionist and Aladura churches multiplied." },
+        { "region": "east-asia", "text": "The Taiping Rebellion (1850–1864), led by a visionary influenced by Protestant tracts, devastated China; after the Boxer Uprising (1900) Chinese Christians built self-governing churches and indigenous movements such as Watchman Nee's 'Little Flock' and the True Jesus Church." },
+        { "region": "east-asia", "text": "Japan's 'hidden Christians' revealed themselves to French priests in Nagasaki (1865); the Pyongyang Great Revival (1907) shaped Korean Protestantism." },
+        { "region": "russia", "text": "The Bolshevik revolution brought systematic persecution: thousands of clergy were killed, churches closed, and Patriarch Tikhon imprisoned; Stalin partially relaxed restrictions in 1943 for wartime purposes." },
+        { "region": "armenia-caucasus", "text": "The Armenian Genocide (1915–1923), along with massacres of Assyrian and Greek Christians in the Ottoman Empire, destroyed ancient Christian communities of Anatolia and northern Mesopotamia." },
+        { "region": "india", "text": "Dalit mass movements brought large numbers into Protestant churches; the Malankara church divided between Orthodox and Syriac (Jacobite) factions, and Sadhu Sundar Singh popularised an Indian Christian spirituality." },
+        { "region": "latin-america", "text": "Liberal governments curtailed church privileges; Mexico's anticlerical laws provoked the Cristero War (1926–1929), while Protestant and early Pentecostal missions (e.g. Chile's Methodist Pentecostal Church, 1910) began to grow." }
+      ]
+    },
+    {
+      "id": "contemporary",
+      "order": 13,
+      "name": "The Contemporary Era",
+      "short": "Contemporary",
+      "startYear": 1945,
+      "endYear": 2026,
+      "summary": "Since 1945 Christianity's centre of gravity has shifted decisively to the Global South, with explosive growth in sub-Saharan Africa, Latin America and parts of Asia, while church attendance declined across much of Europe and North America. The Second Vatican Council (1962–1965) transformed Catholic worship and ecumenical relations, the World Council of Churches (1948) and dialogues such as the Joint Declaration on Justification (1999) narrowed old divisions, and Pentecostal-charismatic Christianity became a global force. Christians lived under communism in Eastern Europe and China, faced conflict and emigration in the Middle East, and confronted new questions of liberation, gender, sexuality and abuse.",
+      "keyThemes": [
+        "Southward shift of global Christianity",
+        "Vatican II and Catholic aggiornamento",
+        "Ecumenism and interchurch dialogue",
+        "Pentecostal and charismatic expansion",
+        "Secularisation in the West",
+        "Persecution, liberation and public witness"
+      ],
+      "colour": "#6A4AA3",
+      "globalNotes": [
+        { "region": "sub-saharan-africa", "text": "Christians in sub-Saharan Africa grew from roughly 9% of the population in 1910 to over 60% by 2010, and the region now has the largest Christian population of any continent; leaders such as Desmond Tutu opposed apartheid." },
+        { "region": "east-asia", "text": "In China, Protestant churches were forced into the Three-Self Patriotic Movement (1954) and all churches closed during the Cultural Revolution (1966–1976), yet unregistered house churches multiplied; South Korea became a major missionary-sending nation." },
+        { "region": "latin-america", "text": "The bishops' conference at Medellín (1968) embraced a 'preferential option for the poor' and liberation theology; Archbishop Óscar Romero was assassinated (1980). Pentecostalism grew rapidly, and in 2013 the Argentine Jorge Bergoglio became Pope Francis." },
+        { "region": "russia", "text": "After Soviet persecution peaked under Khrushchev, the fall of communism (1991) brought an Orthodox revival in Russia and Eastern Europe; the 2018 Moscow–Constantinople rupture over Ukrainian autocephaly divided world Orthodoxy." },
+        { "region": "levant", "text": "War in Lebanon, Iraq and Syria and the rise of ISIS (2014) caused mass emigration of ancient Christian communities from the Middle East; Coptic Christians in Egypt have faced repeated attacks." },
+        { "region": "ethiopia-nubia", "text": "The Ethiopian Orthodox Tewahedo Church received its own patriarch (1959) after centuries under Coptic metropolitans; Eritrea's church became autocephalous (1993–1998), and Ethiopian Pentecostal (P'ent'ay) churches grew rapidly." },
+        { "region": "india", "text": "The Church of South India (1947) united Anglican, Methodist and Reformed churches; Christian communities in north-east India (Nagaland, Mizoram) became majority Christian." }
+      ]
+    }
+  ]
+}

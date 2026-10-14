@@ -1,0 +1,198 @@
+{
+  "traditions": [
+    {
+      "id": "catholic",
+      "name": "Roman Catholic Church",
+      "family": "catholic",
+      "parentIds": ["early-church"],
+      "splitEventId": "great-schism-1054",
+      "foundedYear": 1054,
+      "regions": ["global", "western-europe", "italy", "latin-america", "sub-saharan-africa", "southeast-asia", "north-america"],
+      "adherents": { "estimate": 1390000000, "year": 2022, "source": "annuario-statistics" },
+      "summary": "The church in communion with the Bishop of Rome, which understands itself as the one church founded by Christ on the apostles, continuous since Pentecost; the date here marks the East–West estrangement of 1054 rather than an origin it would accept. It comprises the Latin Church and 23 Eastern Catholic churches. Its doctrine was defined at a series of councils from Trent (1545–1563) to Vatican I (1870) and Vatican II (1962–1965). It is the largest Christian body, with about half of the world's Christians.",
+      "distinctives": [
+        "Primacy and infallibility (under defined conditions) of the Pope as successor of Peter",
+        "Seven sacraments, with the Eucharist as 'source and summit' of Christian life",
+        "Scripture and Tradition interpreted by the Magisterium",
+        "Marian dogmas: Immaculate Conception (1854) and Assumption (1950)",
+        "Religious orders and a global parish and diocesan structure",
+        "Developed social teaching since Rerum Novarum (1891)"
+      ],
+      "profile": {
+        "authority": "Sacred Scripture and Sacred Tradition form one deposit of faith, authentically interpreted by the Magisterium—the Pope and bishops in communion with him.",
+        "salvation": "Salvation by God's grace through Christ, received in baptism and faith working through love; justification involves real interior renewal and growth in grace through the sacraments.",
+        "sacraments": "Seven sacraments: baptism, confirmation, Eucharist (with transubstantiation), penance, anointing of the sick, holy orders and matrimony.",
+        "eschatology": "Particular judgment at death, heaven, purgatory as purification, hell, and the Second Coming with the resurrection of the body and final judgment; officially amillennial.",
+        "governance": "Hierarchical: the Pope, bishops in apostolic succession, priests and deacons; ecumenical councils with the Pope; the Roman Curia.",
+        "worship": "The Mass (chiefly the Roman Rite in vernacular since Vatican II), the liturgical year, devotions to Mary and the saints, Eucharistic adoration.",
+        "canon": "73 books, including the deuterocanonical books (Tobit, Judith, Wisdom, Sirach, Baruch, 1–2 Maccabees and additions), defined at Trent (1546)."
+      },
+      "status": "Active; c. 1.39 billion baptised members (2022).",
+      "sources": ["catechism-catholic-church", "annuario-statistics", "omalley-vatican-ii", "odcc", "macculloch-christianity"]
+    },
+    {
+      "id": "eastern-catholic",
+      "name": "Eastern Catholic Churches",
+      "family": "catholic",
+      "parentIds": ["catholic", "eastern-orthodox"],
+      "foundedYear": 1596,
+      "regions": ["eastern-europe", "levant", "india", "mesopotamia-persia", "ethiopia-nubia", "global"],
+      "summary": "Twenty-three self-governing (sui iuris) churches in full communion with Rome that retain Eastern liturgical, theological and canonical traditions—Byzantine, Alexandrian, Antiochene, Armenian and East Syriac. Some trace continuous communion with Rome (the Maronites); most arose from unions with groups of Orthodox, Oriental Orthodox or Church of the East Christians, such as the Union of Brest (1596) and the Chaldean union. Orthodox critics have called them 'Uniates', and the Balamand statement (1993) rejected union-making as a model for future reconciliation.",
+      "distinctives": [
+        "Eastern liturgies (Byzantine, Syriac, Coptic, Ge'ez, Armenian, Chaldean) in communion with Rome",
+        "Married priests permitted in most churches",
+        "Own patriarchs, synods and canon law (Code of Canons of the Eastern Churches, 1990)",
+        "Largest: Ukrainian Greek Catholic, Syro-Malabar, Maronite, Melkite and Chaldean churches",
+        "Bridge and point of tension between Rome and the Orthodox"
+      ],
+      "profile": {
+        "authority": "Scripture and Tradition as taught by the Catholic Magisterium, expressed through Eastern patristic theology and their own synods.",
+        "salvation": "Catholic teaching on grace, commonly articulated in Eastern terms of theosis.",
+        "sacraments": "Seven 'holy mysteries'; infants typically receive baptism, chrismation and communion together.",
+        "eschatology": "Catholic teaching, with Eastern emphasis on the final resurrection and prayer for the departed.",
+        "governance": "Self-governing churches under patriarchs, major archbishops or metropolitans with synods, in communion with the Pope.",
+        "worship": "Divine Liturgy of St John Chrysostom and other Eastern rites; icons and iconostasis.",
+        "canon": "The Catholic canon; liturgical use follows Eastern tradition."
+      },
+      "status": "Active; c. 18 million members (Annuario Pontificio estimates).",
+      "sources": ["roberson-eastern-churches", "ware-orthodox-church", "odcc"]
+    },
+    {
+      "id": "old-catholic",
+      "name": "Old Catholic Churches (Union of Utrecht)",
+      "family": "catholic",
+      "parentIds": ["catholic"],
+      "foundedYear": 1889,
+      "regions": ["western-europe", "northern-europe", "eastern-europe"],
+      "summary": "A communion of national churches in the Netherlands, Germany, Switzerland, Austria and elsewhere that rejected papal infallibility and universal jurisdiction as defined at Vatican I (1870). Its oldest member, the Church of Utrecht, separated from Rome in 1723 over Jansenism and episcopal election. The Union of Utrecht was formed in 1889, and since the Bonn Agreement (1931) it has been in full communion with the Anglican Communion. It ordains women and permits married clergy.",
+      "distinctives": [
+        "Rejection of papal infallibility and universal jurisdiction",
+        "Appeal to the faith of the undivided church of the first millennium",
+        "Full communion with Anglicans since 1931",
+        "Married clergy and, in most member churches, ordination of women",
+        "Vernacular liturgy since the nineteenth century"
+      ],
+      "profile": {
+        "authority": "Scripture and the tradition of the undivided church, especially the seven ecumenical councils, as received by the local episcopal church.",
+        "salvation": "Grace received through faith and the sacramental life of the church, in catholic but non-scholastic terms.",
+        "sacraments": "Seven sacraments; the Eucharist as the real presence of Christ without binding definition of transubstantiation.",
+        "eschatology": "Classical Christian hope of resurrection and judgment, with prayers for the departed.",
+        "governance": "Episcopal and synodal, with lay participation; bishops form the International Old Catholic Bishops' Conference.",
+        "worship": "Vernacular Eucharistic liturgy derived from the Roman rite.",
+        "canon": "The broader canon including deuterocanonical books."
+      },
+      "status": "Active; c. 100,000 members in the Union of Utrecht.",
+      "sources": ["odcc", "macculloch-christianity"]
+    },
+    {
+      "id": "eastern-orthodox",
+      "name": "Eastern Orthodox Church",
+      "family": "orthodox",
+      "parentIds": ["early-church"],
+      "splitEventId": "great-schism-1054",
+      "foundedYear": 1054,
+      "regions": ["greece-balkans", "russia", "eastern-europe", "levant", "asia-minor", "armenia-caucasus", "global"],
+      "summary": "A communion of self-governing (autocephalous) churches—including Constantinople, Alexandria, Antioch, Jerusalem, Russia, Serbia, Romania, Bulgaria, Georgia and Greece—sharing the faith of the seven ecumenical councils. It regards itself as the one church of the apostles in unbroken continuity; the date marks the 1054 breach with Rome. The Ecumenical Patriarch of Constantinople holds a primacy of honour. Orthodoxy emphasises theosis, the Divine Liturgy, icons and the hesychast tradition of prayer.",
+      "distinctives": [
+        "Faith of the seven ecumenical councils (325–787)",
+        "Theosis (deification) as the goal of salvation",
+        "Icons and the iconostasis",
+        "Rejection of the Filioque and of papal supremacy",
+        "Hesychasm and the essence–energies distinction",
+        "Autocephalous national churches in communion"
+      ],
+      "profile": {
+        "authority": "Holy Tradition, of which Scripture is the supreme expression, together with the councils, Fathers, liturgy and the consensus of the church guided by the Holy Spirit.",
+        "salvation": "Theosis: by grace and human cooperation (synergy) the believer participates in the divine energies and is transformed into the likeness of God.",
+        "sacraments": "The holy mysteries, usually counted as seven, with baptism by triple immersion, chrismation and communion given to infants.",
+        "eschatology": "Christ's return, the general resurrection and judgment; prayer for the dead without a doctrine of purgatory; some voices hope for universal restoration.",
+        "governance": "Conciliar and episcopal, with patriarchs or archbishops heading autocephalous churches; the Ecumenical Patriarch is first among equals.",
+        "worship": "Divine Liturgy of St John Chrysostom (and St Basil), sung throughout, with icons, incense and a rich cycle of feasts and fasts.",
+        "canon": "The Septuagint Old Testament, including the anagignoskomena (deuterocanonical books, with 3 Maccabees and others), and the 27-book New Testament."
+      },
+      "status": "Active; c. 220 million members (estimates vary; c. 260 million Orthodox in total including Oriental Orthodox, per Pew 2017).",
+      "sources": ["ware-orthodox-church", "pew-2017-orthodox", "meyendorff-imperial-unity", "odcc"]
+    },
+    {
+      "id": "russian-orthodox",
+      "name": "Russian Orthodox Church (Moscow Patriarchate)",
+      "family": "orthodox",
+      "parentIds": ["eastern-orthodox"],
+      "foundedYear": 988,
+      "regions": ["russia", "eastern-europe", "central-asia", "global"],
+      "summary": "The largest autocephalous Orthodox church, descended from the baptism of Rus' under Prince Vladimir (988). It became effectively independent of Constantinople in 1448 and received a patriarchate in 1589. Peter the Great replaced the patriarch with a Holy Synod (1721–1917); after the 1917 revolution the church suffered intense Soviet persecution, then a major revival after 1991. Its close relationship with the Russian state, including its stance on the war in Ukraine, has caused divisions within world Orthodoxy.",
+      "distinctives": [
+        "Largest Orthodox church by membership",
+        "Church Slavonic liturgy",
+        "Monastic elders (startsy) and the Optina tradition",
+        "Old Believer schism over the Nikonian reforms (1666)",
+        "Twentieth-century new martyrs under Soviet rule"
+      ],
+      "profile": {
+        "authority": "Holy Tradition and Scripture, the seven ecumenical councils and the teaching of the Russian church's councils and saints.",
+        "salvation": "Theosis through participation in the life of the church, repentance and the sacraments.",
+        "sacraments": "The seven holy mysteries, as in the Orthodox Church generally.",
+        "eschatology": "Orthodox teaching on resurrection and judgment; strong tradition of prayer for the departed.",
+        "governance": "Patriarch of Moscow and All Rus' with the Holy Synod and Local Council; dioceses across the former Soviet Union and abroad.",
+        "worship": "Byzantine-rite Divine Liturgy in Church Slavonic, with distinctive choral music and icon tradition (e.g. Rublev).",
+        "canon": "The Orthodox Slavonic Bible, including the anagignoskomena."
+      },
+      "status": "Active; claims c. 100–150 million faithful, though regular practice is far lower.",
+      "sources": ["ware-orthodox-church", "pew-2017-orthodox", "odcc"]
+    },
+    {
+      "id": "waldensian",
+      "name": "Waldensian Evangelical Church",
+      "family": "independent",
+      "parentIds": ["catholic"],
+      "foundedYear": 1173,
+      "regions": ["italy", "western-europe", "latin-america"],
+      "summary": "A movement founded by Valdes (Peter Waldo), a Lyon merchant who c. 1173 gave away his wealth to preach apostolic poverty. Excommunicated in 1184 for unauthorised lay preaching, the 'Poor of Lyon' survived persecution in the Alpine valleys of Piedmont. At the Synod of Chanforan (1532) they aligned with the Reformed Reformation, and today they form the Waldensian Evangelical Church of Italy and the Río de la Plata, united with Italian Methodists since 1975.",
+      "distinctives": [
+        "Apostolic poverty and lay preaching",
+        "Vernacular Scripture as the norm of faith",
+        "Adoption of Reformed theology at Chanforan (1532)",
+        "Survival through centuries of persecution in the Piedmont valleys",
+        "Union with Italian Methodists (1975)"
+      ],
+      "profile": {
+        "authority": "Scripture as sole rule of faith, now interpreted within the Reformed confessional tradition.",
+        "salvation": "Justification by grace through faith, in Reformed terms since the sixteenth century.",
+        "sacraments": "Baptism (including infants) and the Lord's Supper.",
+        "eschatology": "Mainline Protestant hope of Christ's return and the kingdom of God.",
+        "governance": "Presbyterian-synodal, with an annual synod at Torre Pellice; women ordained since 1962.",
+        "worship": "Reformed-style services centred on preaching, in Italian and Spanish.",
+        "canon": "The 66-book Protestant canon."
+      },
+      "status": "Active; c. 45,000 members in Italy, Uruguay and Argentina.",
+      "sources": ["cameron-waldenses", "lambert-medieval-heresy", "odcc"]
+    },
+    {
+      "id": "hussite-moravian",
+      "name": "Hussite and Moravian Churches (Unitas Fratrum)",
+      "family": "independent",
+      "parentIds": ["catholic"],
+      "foundedYear": 1415,
+      "regions": ["eastern-europe", "western-europe", "north-america", "sub-saharan-africa", "latin-america"],
+      "summary": "The reform movement inspired by Jan Hus, burned at the Council of Constance (1415), produced the Utraquist church (giving the cup to the laity) and the more radical Taborites. From it emerged the Unity of the Brethren (Unitas Fratrum, 1457), which was nearly destroyed after 1620 but renewed at Herrnhut, Saxony, under Count Zinzendorf (1722–1727). The Moravian Church pioneered Protestant missions; today most of its members live in Tanzania, South Africa and the Caribbean. The Czechoslovak Hussite Church (1920) is a separate modern body.",
+      "distinctives": [
+        "Communion in both kinds for the laity (Utraquism)",
+        "Primacy of Christian living, discipline and community",
+        "Herrnhut renewal and the 24-hour prayer watch (from 1727)",
+        "Pioneering global missions from 1732",
+        "Daily Texts (Losungen), published since 1731"
+      ],
+      "profile": {
+        "authority": "Scripture as the sole standard of doctrine, read Christocentrically; Moravians avoid elaborate confessional systems.",
+        "salvation": "Salvation by grace through faith in the crucified Christ, expressed in heart-religion and community life.",
+        "sacraments": "Baptism (including infants) and Holy Communion; also confirmation and the lovefeast as a fellowship rite.",
+        "eschatology": "Hope of Christ's coming and eternal life; Easter sunrise services in 'God's Acre' cemeteries.",
+        "governance": "Episcopal ministry (claimed in succession from 1467) with synodal government in self-governing provinces.",
+        "worship": "Liturgical and hymn-rich worship, lovefeasts, Moravian brass and the Easter Morning litany.",
+        "canon": "The Protestant 66-book canon."
+      },
+      "status": "Active; the Moravian Church has c. 1 million members, mostly in Africa.",
+      "sources": ["kaminsky-hussite", "macculloch-reformation", "odcc"]
+    }
+  ]
+}

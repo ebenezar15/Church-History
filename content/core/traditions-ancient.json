@@ -1,0 +1,391 @@
+{
+  "traditions": [
+    {
+      "id": "early-church",
+      "name": "The Early Church",
+      "family": "early",
+      "parentIds": [],
+      "foundedYear": 30,
+      "endYear": 451,
+      "regions": ["levant", "asia-minor", "greece-balkans", "italy", "egypt", "north-africa", "mesopotamia-persia", "armenia-caucasus"],
+      "summary": "The undivided communion of churches from Pentecost through the era of the first ecumenical councils, before the lasting divisions of Ephesus (431) and Chalcedon (451). Nearly every later tradition claims continuity with it, whether through apostolic succession, doctrine or a restored pattern of worship. It was not uniform: Greek, Latin, Syriac and Coptic churches developed distinctive liturgies and theologies within a shared episcopal network.",
+      "distinctives": [
+        "Communion of local churches led by bishops, presbyters and deacons",
+        "Baptism and Eucharist at the centre of community life",
+        "The 'rule of faith' and the gradual recognition of the New Testament canon",
+        "Synods and ecumenical councils to settle disputes",
+        "Veneration of martyrs and, from the fourth century, monasticism"
+      ],
+      "profile": {
+        "authority": "Scripture (the Septuagint and apostolic writings) read within the apostolic tradition handed down by bishops in succession and articulated in creeds and councils.",
+        "salvation": "Salvation through Christ's death and resurrection, received in faith and baptism and lived out in the church; Eastern writers stressed deification, Western ones increasingly grace and sin.",
+        "sacraments": "Baptism (usually with anointing) and the Eucharist as the central 'mysteries', with penance for serious post-baptismal sin and ordination of clergy.",
+        "eschatology": "Expectation of Christ's return, bodily resurrection and judgment; some (e.g. Papias, Irenaeus) held to an earthly millennium, others (Origen, later Augustine) read it spiritually.",
+        "governance": "Monarchical episcopate emerging by the second century, with metropolitan and patriarchal sees (Rome, Alexandria, Antioch, later Constantinople and Jerusalem) gaining precedence.",
+        "worship": "Sunday Eucharist with Scripture readings, prayers, psalms and hymns; catechumenate and Easter baptism; increasingly fixed liturgical families by the fourth century.",
+        "canon": "The Old Testament largely in its Greek (Septuagint) form; a New Testament core of Gospels and Pauline letters by c. 200, with Athanasius' Festal Letter (367) listing the 27 books."
+      },
+      "status": "Historical; its communion divided after Ephesus (431) and Chalcedon (451), with successor churches all claiming its heritage.",
+      "sources": ["chadwick-early-church", "kelly-doctrines", "wilken-first-thousand", "odcc"]
+    },
+    {
+      "id": "montanist",
+      "name": "Montanism (the New Prophecy)",
+      "family": "heterodox-ancient",
+      "parentIds": ["early-church"],
+      "foundedYear": 156,
+      "endYear": 600,
+      "regions": ["asia-minor", "north-africa", "italy"],
+      "summary": "A prophetic movement begun in Phrygia by Montanus and the prophetesses Priscilla and Maximilla, who claimed the Paraclete spoke directly through them. It called for stricter discipline, fasting and readiness for martyrdom, and expected the New Jerusalem to descend at Pepuza. Condemned by Asian synods, it nevertheless attracted Tertullian in North Africa and survived in Phrygia until suppressed in the sixth century.",
+      "distinctives": [
+        "Ecstatic prophecy as continuing revelation of the Paraclete",
+        "Prominent women prophets",
+        "Rigorist ethics: fasting, no remarriage, no flight from persecution",
+        "Expectation of the New Jerusalem at Pepuza"
+      ],
+      "profile": {
+        "authority": "Scripture and the apostolic faith, supplemented by the oracles of the New Prophecy, regarded as the Paraclete's fuller guidance.",
+        "salvation": "Broadly shared the church's teaching, with heightened stress on holiness and steadfastness under persecution.",
+        "sacraments": "Baptism and Eucharist as in the wider church; serious post-baptismal sins were considered beyond the church's power to forgive.",
+        "eschatology": "Imminent end, with the heavenly Jerusalem expected to descend at Pepuza in Phrygia.",
+        "governance": "Leadership by prophets alongside a hierarchy including 'patriarchs' and 'koinonoi' at Pepuza, according to later reports.",
+        "worship": "Assemblies featuring ecstatic prophecy; strict fasts; women were reportedly admitted to clerical roles.",
+        "canon": "Accepted the church's Scriptures; collections of the prophets' oracles circulated, alarming critics who feared an expanded canon."
+      },
+      "status": "Extinct; suppressed by Justinian's legislation in the sixth century.",
+      "sources": ["trevett-montanism", "eusebius-hist-eccl", "chadwick-early-church", "odcc"]
+    },
+    {
+      "id": "marcionite",
+      "name": "Marcionite Church",
+      "family": "heterodox-ancient",
+      "parentIds": ["early-church"],
+      "foundedYear": 144,
+      "endYear": 500,
+      "regions": ["italy", "asia-minor", "levant", "mesopotamia-persia"],
+      "summary": "Founded by Marcion of Sinope, excommunicated at Rome c. 144, who taught that the God of the Old Testament, a just creator, was distinct from the good, merciful Father revealed by Jesus. He rejected the Hebrew Scriptures and compiled a canon of an edited Luke and ten Pauline letters. His well-organised church spread widely and survived in Syria into the fifth century and later.",
+      "distinctives": [
+        "Distinction between the Creator-God of the Law and the higher God of love",
+        "Rejection of the Old Testament",
+        "First known fixed Christian canon (Gospel and Apostle)",
+        "Strict asceticism, including celibacy for the baptised",
+        "Docetic tendency regarding Christ's flesh"
+      ],
+      "profile": {
+        "authority": "Marcion's edited Gospel and ten Pauline letters, read as the uncorrupted message of Paul, along with Marcion's Antitheses.",
+        "salvation": "Rescue by the alien, good God from the dominion of the Creator through faith in Christ, who appeared without being born.",
+        "sacraments": "Baptism (only for the celibate) and a Eucharist reportedly using water rather than wine.",
+        "eschatology": "No future reign of the Creator's Messiah; the saved are taken into the realm of the good God.",
+        "governance": "Bishops and presbyters on the catholic model, forming a parallel church network.",
+        "worship": "Assemblies similar to those of the wider church, marked by rigorous asceticism.",
+        "canon": "The 'Evangelion' (an edited Luke) and 'Apostolikon' (ten Pauline letters, excluding the Pastorals)."
+      },
+      "status": "Extinct; declined after the fourth century, with remnants in Syria and Persia possibly into the tenth.",
+      "sources": ["harnack-marcion", "kelly-doctrines", "chadwick-early-church", "anf-npnf"]
+    },
+    {
+      "id": "gnostic",
+      "name": "Gnostic movements",
+      "family": "heterodox-ancient",
+      "parentIds": ["early-church"],
+      "foundedYear": 120,
+      "endYear": 500,
+      "regions": ["egypt", "italy", "levant", "asia-minor", "mesopotamia-persia"],
+      "summary": "A diverse range of second-century teachers and groups—Valentinians, 'Sethians', Basilideans and others—who taught that salvation comes through secret knowledge (gnosis) of the soul's divine origin. Most distinguished the true God from an inferior creator (the demiurge) and viewed the material world as flawed. Known mainly through critics like Irenaeus until the Nag Hammadi discovery (1945); modern scholars debate whether 'Gnosticism' names a single movement.",
+      "distinctives": [
+        "Salvation through revealed knowledge of one's divine origin",
+        "Elaborate mythologies of divine emanations (aeons)",
+        "A lesser creator responsible for the material world",
+        "Esoteric interpretation of Scripture and secret traditions",
+        "Spiritual elite distinguished from ordinary believers (in some systems)"
+      ],
+      "profile": {
+        "authority": "Secret apostolic traditions and revelations (e.g. Gospel of Truth, Apocryphon of John) alongside allegorically read Scripture.",
+        "salvation": "Awakening of the divine spark through gnosis imparted by a heavenly Redeemer, enabling the soul's return to the Pleroma.",
+        "sacraments": "Varied: Valentinians practised baptism, chrism, Eucharist and a 'bridal chamber' rite (Gospel of Philip).",
+        "eschatology": "Ascent of the spirit beyond the cosmic powers; rejection or reinterpretation of bodily resurrection.",
+        "governance": "Mostly teacher-centred circles, often meeting within or alongside catholic congregations.",
+        "worship": "Initiation rites, study and contemplative ritual; details vary greatly by group.",
+        "canon": "Used many of the church's writings plus their own gospels and revelation dialogues, many preserved in Coptic at Nag Hammadi."
+      },
+      "status": "Extinct as organised Christian movements by c. 500; Mandaeism and Manichaeism are related but distinct religions.",
+      "sources": ["king-gnosticism", "kelly-doctrines", "anf-npnf", "odcc"]
+    },
+    {
+      "id": "arian-homoian",
+      "name": "Arian and Homoian Christianity",
+      "family": "heterodox-ancient",
+      "parentIds": ["early-church"],
+      "foundedYear": 318,
+      "endYear": 700,
+      "regions": ["egypt", "asia-minor", "greece-balkans", "eastern-europe", "western-europe", "italy", "north-africa"],
+      "summary": "Arius of Alexandria taught that the Son, though divine and pre-existent, was created by the Father and not co-eternal ('there was when he was not'). Condemned at Nicaea (325), related views gained imperial favour in the mid-fourth century, and the Homoian creed ('the Son is like the Father') of 359–360 was adopted by the Goths through Ulfilas. Rejected at Constantinople (381), Homoian Christianity remained the faith of the Goths, Vandals and Lombards until their conversions to Nicene faith, Visigothic Spain renouncing it at Toledo in 589. 'Arian' was largely a label applied by opponents to diverse parties.",
+      "distinctives": [
+        "The Son as the first and highest creature, subordinate to the Father",
+        "Rejection of homoousios ('of the same substance')",
+        "Homoian formula: the Son is 'like' the Father according to the Scriptures",
+        "Vernacular Gothic Bible and liturgy",
+        "Identity marker of Germanic ruling elites in the West"
+      ],
+      "profile": {
+        "authority": "Scripture, with suspicion of non-biblical terms such as ousia in creeds.",
+        "salvation": "Salvation through the Son as mediator, the obedient and exalted Word through whom the Father created and redeems.",
+        "sacraments": "Baptism and Eucharist; baptism was sometimes administered in the name of the Father through the Son in the Holy Spirit.",
+        "eschatology": "Shared the general Christian expectation of resurrection and judgment.",
+        "governance": "Episcopal, with bishops often attached to Gothic and Vandal royal courts.",
+        "worship": "Liturgy in Greek, Latin or Gothic; distinct churches alongside Nicene ones in barbarian kingdoms (e.g. in Ravenna).",
+        "canon": "The common Scriptures; Ulfilas' Gothic translation reportedly omitted the books of Kings as too warlike."
+      },
+      "status": "Extinct; the last major Homoian kingdom, the Lombards, adopted Nicene faith in the seventh century.",
+      "sources": ["hanson-search", "kelly-doctrines", "gonzalez-story", "odcc"]
+    },
+    {
+      "id": "donatist",
+      "name": "Donatist Church",
+      "family": "heterodox-ancient",
+      "parentIds": ["early-church"],
+      "foundedYear": 311,
+      "endYear": 700,
+      "regions": ["north-africa"],
+      "summary": "A North African church that arose after the Diocletianic persecution, refusing to accept Caecilian as bishop of Carthage because one of his consecrators was alleged to have surrendered Scriptures (traditio). Named after Donatus, its bishop of Carthage, it held that sacraments administered by unworthy clergy were invalid and that the true church must be pure. Opposed by Augustine and imperial coercion after the Conference of Carthage (411), it persisted until the Arab conquest.",
+      "distinctives": [
+        "A pure church of the martyrs, uncontaminated by 'traditors'",
+        "Validity of sacraments dependent on the holiness of the minister",
+        "Rebaptism of converts from the catholic church",
+        "Intense veneration of martyrs",
+        "Strong regional Punic and Berber popular base"
+      ],
+      "profile": {
+        "authority": "Scripture and the tradition of Cyprian of Carthage, especially his teaching that there is no valid baptism outside the true church.",
+        "salvation": "Salvation within the holy, persecuted church of the martyrs, separated from compromise.",
+        "sacraments": "Baptism and Eucharist valid only when performed by clergy in the pure church; catholic baptism was repeated.",
+        "eschatology": "Shared expectation of judgment; martyrdom seen as a direct path to glory.",
+        "governance": "Episcopal, with rival bishops in hundreds of North African towns; at its height the larger church in Numidia.",
+        "worship": "Latin liturgy similar to that of the catholics, with fervent martyr cults; the Circumcellions were a radical associated group.",
+        "canon": "The common Latin Scriptures."
+      },
+      "status": "Extinct; disappeared with North African Latin Christianity after the Arab conquest (late seventh century).",
+      "sources": ["frend-donatist", "chadwick-early-church", "odcc"]
+    },
+    {
+      "id": "oriental-orthodox",
+      "name": "Oriental Orthodox Churches",
+      "family": "oriental",
+      "parentIds": ["early-church"],
+      "splitEventId": "council-of-chalcedon-451",
+      "foundedYear": 451,
+      "regions": ["egypt", "ethiopia-nubia", "armenia-caucasus", "levant", "india", "mesopotamia-persia", "global"],
+      "summary": "A communion of six autocephalous churches—Coptic, Ethiopian, Eritrean, Armenian, Syriac and Malankara (Indian)—that accept the first three ecumenical councils but not Chalcedon (451). They confess, following Cyril of Alexandria, 'one incarnate nature of God the Word', a Miaphysite position (called Monophysite by opponents) that they distinguish from the Eutychian heresy they also reject. Modern dialogues with Eastern Orthodox and Catholics have concluded that the Christological differences are largely terminological.",
+      "distinctives": [
+        "Miaphysite Christology: one united divine-human nature of Christ",
+        "Recognition of three ecumenical councils (Nicaea, Constantinople, Ephesus)",
+        "Ancient liturgical languages: Coptic, Ge'ez, Classical Armenian, Syriac",
+        "Rich monastic and martyr traditions under centuries of non-Christian rule",
+        "Communion among churches of very different cultures without a single primate"
+      ],
+      "profile": {
+        "authority": "Holy Scripture within Holy Tradition, as interpreted by the Fathers (especially Cyril and Dioscorus) and the three councils.",
+        "salvation": "Deification and salvation through union with the incarnate Word, received through faith, the sacraments and ascetic life.",
+        "sacraments": "Seven mysteries: baptism, chrismation, Eucharist, confession, unction of the sick, matrimony and priesthood.",
+        "eschatology": "Resurrection of the body, Christ's return and final judgment; prayers for the departed.",
+        "governance": "Episcopal and autocephalous, each church led by its own patriarch or catholicos.",
+        "worship": "Ancient liturgies (e.g. of St Basil, St James, the Armenian Divine Liturgy) with extensive fasting calendars.",
+        "canon": "Broad Old Testament canon including deuterocanonical books; the Ethiopian church has the widest canon, including Enoch and Jubilees."
+      },
+      "status": "Active; c. 60 million members (estimates vary widely, especially for Ethiopia).",
+      "sources": ["meyendorff-imperial-unity", "atiya-eastern-christianity", "roberson-eastern-churches", "parry-blackwell-eastern"]
+    },
+    {
+      "id": "coptic-orthodox",
+      "name": "Coptic Orthodox Church of Alexandria",
+      "family": "oriental",
+      "parentIds": ["oriental-orthodox"],
+      "foundedYear": 451,
+      "regions": ["egypt", "global"],
+      "summary": "The church of Egypt's native Christians, tracing its origins to St Mark and led by the Pope of Alexandria and Patriarch of the See of St Mark. It rejected Chalcedon under Dioscorus and became the largest Christian body in the Middle East, preserving Coptic in its liturgy after Arabic became the vernacular. Its desert monasteries, revived in the twentieth century, remain spiritual centres, and a large diaspora has formed since the 1960s.",
+      "distinctives": [
+        "Apostolic see of St Mark and the Alexandrian theological tradition",
+        "Birthplace of Christian monasticism (Antony, Pachomius)",
+        "Coptic and Arabic liturgy",
+        "Calendar of the Martyrs beginning in AD 284",
+        "Long experience as a minority under Islamic rule"
+      ],
+      "profile": {
+        "authority": "Scripture and Holy Tradition, the teaching of the Alexandrian Fathers, and the councils of Nicaea, Constantinople and Ephesus.",
+        "salvation": "Salvation through faith and life in Christ, nourished by the sacraments and a life of repentance and ascetic struggle.",
+        "sacraments": "Seven sacraments; baptism by triple immersion followed by chrismation and communion, including for infants.",
+        "eschatology": "Christ's return, the resurrection and judgment; commemoration and prayer for the departed.",
+        "governance": "Holy Synod led by the Pope of Alexandria, chosen in part by altar lot.",
+        "worship": "Liturgies of St Basil, St Gregory and St Cyril; extensive fasting (over 200 days a year) and hymnody accompanied by cymbals and triangle.",
+        "canon": "Old Testament including deuterocanonical books; the 27-book New Testament."
+      },
+      "status": "Active; c. 10 million members in Egypt and the diaspora (estimates range from 5 to 15 million).",
+      "sources": ["atiya-eastern-christianity", "isichei-africa", "roberson-eastern-churches"]
+    },
+    {
+      "id": "ethiopian-orthodox-tewahedo",
+      "name": "Ethiopian Orthodox Tewahedo Church",
+      "family": "oriental",
+      "parentIds": ["oriental-orthodox"],
+      "foundedYear": 330,
+      "regions": ["ethiopia-nubia", "global"],
+      "adherents": { "estimate": 32138126, "year": 2007, "source": "ethiopia-census-2007" },
+      "summary": "One of the oldest national churches, dating from the conversion of the Aksumite king Ezana under Frumentius in the fourth century. 'Tewahedo' ('made one') expresses its Miaphysite Christology. For sixteen centuries it received its head bishop from the Coptic Church, gaining its own patriarch in 1959. It preserves distinctive practices including the tabot (replica of the Ark of the Covenant) in every church, Sabbath observance, dietary laws and the broadest biblical canon in Christendom.",
+      "distinctives": [
+        "Tabot in every church, linked to the tradition that the Ark rests at Aksum",
+        "Observance of both Saturday and Sunday Sabbaths",
+        "Circumcision and Old Testament dietary practices",
+        "Ge'ez liturgy and rock-hewn churches (e.g. Lalibela)",
+        "Broadest canon (81 books), including Enoch and Jubilees"
+      ],
+      "profile": {
+        "authority": "Scripture, Holy Tradition and the Ethiopian patristic and legal tradition (e.g. the Fetha Nagast), under the Holy Synod.",
+        "salvation": "Union with Christ through faith, sacraments, fasting and prayer, leading toward the transformation of the believer.",
+        "sacraments": "Seven sacraments, with infant baptism and communion; marriage often blessed with the Eucharist.",
+        "eschatology": "Resurrection and final judgment; vivid traditions of the afterlife drawn from Enoch and other writings.",
+        "governance": "Autocephalous since 1959, led by the Patriarch of Ethiopia with a Holy Synod; a vast clergy including debtera (lay cantor-scholars).",
+        "worship": "Ge'ez liturgy with fourteen anaphoras, chant (zema) attributed to St Yared, liturgical dance and drums, and some 180–250 fast days.",
+        "canon": "The 81-book 'broader canon', including 1 Enoch, Jubilees and Meqabyan, plus church order books."
+      },
+      "status": "Active; 32.1 million in the 2007 census, now perhaps 40+ million including the diaspora.",
+      "sources": ["isichei-africa", "atiya-eastern-christianity", "ethiopia-census-2007", "roberson-eastern-churches"]
+    },
+    {
+      "id": "armenian-apostolic",
+      "name": "Armenian Apostolic Church",
+      "family": "oriental",
+      "parentIds": ["oriental-orthodox"],
+      "foundedYear": 301,
+      "regions": ["armenia-caucasus", "levant", "russia", "north-america", "western-europe", "global"],
+      "summary": "The national church of the Armenian people, tracing its origin to the apostles Thaddeus and Bartholomew and to Gregory the Illuminator's conversion of King Tiridates III, traditionally dated 301. It formally rejected Chalcedon at the Synods of Dvin in the sixth century. Its Catholicos of All Armenians sits at Etchmiadzin, with a second catholicosate of Cilicia (now in Antelias, Lebanon) and patriarchates in Jerusalem and Constantinople. Bound up with Armenian identity, it endured the Genocide of 1915–1923 and Soviet repression.",
+      "distinctives": [
+        "First state church (traditionally 301)",
+        "Mesrop Mashtots' alphabet and fifth-century Bible translation",
+        "Christmas and Theophany celebrated together on 6 January",
+        "Unmixed wine in the Eucharist and the madagh (blessed offering)",
+        "Khachkar (cross-stone) art"
+      ],
+      "profile": {
+        "authority": "Scripture, Tradition, the three ecumenical councils and the Armenian Fathers such as Gregory of Narek and Nerses Shnorhali.",
+        "salvation": "Restoration and deification of humanity through the incarnate Word, received in the life of the church.",
+        "sacraments": "Seven sacraments, with infant baptism, chrismation and communion given together.",
+        "eschatology": "Resurrection, Christ's return and judgment; commemoration of the dead.",
+        "governance": "Episcopal, led by the Catholicos of All Armenians in Etchmiadzin, with the Catholicosate of Cilicia and patriarchates of Jerusalem and Constantinople.",
+        "worship": "The Armenian Divine Liturgy in Classical Armenian (Grabar), with distinctive chant (sharakan).",
+        "canon": "Old Testament with deuterocanonical books; the 27-book New Testament (3 Corinthians was historically read in some periods)."
+      },
+      "status": "Active; c. 9 million members worldwide (estimates vary).",
+      "sources": ["atiya-eastern-christianity", "roberson-eastern-churches", "parry-blackwell-eastern"]
+    },
+    {
+      "id": "syriac-orthodox",
+      "name": "Syriac Orthodox Church of Antioch",
+      "family": "oriental",
+      "parentIds": ["oriental-orthodox"],
+      "foundedYear": 518,
+      "regions": ["levant", "mesopotamia-persia", "india", "global"],
+      "summary": "The Miaphysite church of the Patriarchate of Antioch, which separated from the Chalcedonian hierarchy after the deposition of Patriarch Severus (518). Its hierarchy was rebuilt by Jacob Baradaeus, hence the older name 'Jacobite'. Using West Syriac liturgy, it produced scholars such as Bar Hebraeus and has communities in Syria, Iraq, Turkey (Tur Abdin), the diaspora and India, where the Jacobite Syrian Christian Church is its largest body.",
+      "distinctives": [
+        "West Syriac liturgy and Aramaic-language heritage",
+        "Theological legacy of Severus of Antioch and Philoxenus of Mabbug",
+        "Ancient monasteries of Tur Abdin (e.g. Mor Gabriel)",
+        "Large Indian branch (Jacobite Syrian Christian Church)",
+        "Survival through repeated massacres, including the Sayfo (1914–1918)"
+      ],
+      "profile": {
+        "authority": "Scripture, Tradition and the Syriac Fathers, with the first three ecumenical councils.",
+        "salvation": "Salvation through the incarnate Word who unites humanity to God, appropriated through faith, repentance and sacramental life.",
+        "sacraments": "Seven sacraments, with the Eucharist offered using leavened bread.",
+        "eschatology": "Resurrection, judgment and prayer for the departed.",
+        "governance": "Patriarch of Antioch and All the East (residing in Damascus), with a catholicos for India.",
+        "worship": "The Liturgy of St James and many other anaphoras, in Syriac and vernacular languages.",
+        "canon": "The Peshitta tradition, with deuterocanonical books; historically some smaller NT books came in later."
+      },
+      "status": "Active; perhaps 2–4 million including the Indian Jacobite church (estimates vary).",
+      "sources": ["meyendorff-imperial-unity", "atiya-eastern-christianity", "roberson-eastern-churches"]
+    },
+    {
+      "id": "malankara-orthodox",
+      "name": "Malankara Orthodox Syrian Church",
+      "family": "oriental",
+      "parentIds": ["oriental-orthodox"],
+      "foundedYear": 1653,
+      "regions": ["india", "global"],
+      "summary": "An autocephalous church of the St Thomas Christians of Kerala, who trace their faith to the apostle Thomas. After the Coonan Cross Oath (1653) rejected Portuguese Latinisation, part of the community received West Syriac bishops from the Syriac Orthodox Church (from 1665). Disputes over the Antiochian patriarch's authority led to the establishment of the Catholicate of the East in India (1912); the Malankara Orthodox Church upholds its autocephaly, while the Jacobite faction remains under Antioch, and the Indian Supreme Court has repeatedly ruled on the dispute.",
+      "distinctives": [
+        "Apostolic heritage of St Thomas in India",
+        "West Syriac liturgy, now mostly in Malayalam",
+        "Catholicos of the East seated at Kottayam (Devalokam)",
+        "Indian cultural forms in church life",
+        "Long-running property and authority dispute with the Jacobite faction"
+      ],
+      "profile": {
+        "authority": "Scripture, Holy Tradition, the three ecumenical councils and the church's own 1934 constitution.",
+        "salvation": "Theosis through participation in Christ by faith, sacraments and the ascetic life.",
+        "sacraments": "Seven sacraments; infant baptism with chrismation and communion.",
+        "eschatology": "Resurrection, Christ's return and judgment; prayers for the departed.",
+        "governance": "Autocephalous, under the Catholicos of the East and Malankara Metropolitan with a Holy Synod and elected association.",
+        "worship": "The West Syriac Liturgy of St James in Malayalam, Syriac and English.",
+        "canon": "The Peshitta canon with deuterocanonical books."
+      },
+      "status": "Active; c. 2.5 million members (church estimate).",
+      "sources": ["frykenberg-india", "roberson-eastern-churches", "moffett-asia"]
+    },
+    {
+      "id": "church-of-the-east",
+      "name": "Church of the East",
+      "family": "east-syriac",
+      "parentIds": ["early-church"],
+      "splitEventId": "council-of-ephesus-431",
+      "foundedYear": 410,
+      "endYear": 1552,
+      "regions": ["mesopotamia-persia", "central-asia", "east-asia", "india", "arabia", "levant"],
+      "summary": "The church of Christians in the Persian (Sasanian) empire, organised under the Catholicos of Seleucia-Ctesiphon at the Synod of 410 and later based in Baghdad. It did not accept the condemnation of Nestorius at Ephesus (431) and adopted a Dyophysite Christology indebted to Theodore of Mopsuestia (opponents called it 'Nestorian', a label it rejects). Between the seventh and fourteenth centuries it was geographically the most widespread church in the world, reaching China, Mongolia, Central Asia and India, before collapse under Timur and later schism (1552) divided it into the lines that became the Assyrian and Chaldean churches.",
+      "distinctives": [
+        "Dyophysite Christology following Theodore of Mopsuestia",
+        "East Syriac liturgy (Addai and Mari, one of the oldest anaphoras)",
+        "Missions along the Silk Road to China and Mongolia",
+        "School of Nisibis and translation of Greek learning into Syriac and Arabic",
+        "Centuries of life under Zoroastrian, Muslim and Mongol rulers"
+      ],
+      "profile": {
+        "authority": "Scripture (the Peshitta), the Fathers—especially Theodore of Mopsuestia—and the synods of the Persian church.",
+        "salvation": "Christ as the second Adam restores humanity to immortality; salvation is participation in the 'new age' inaugurated by his resurrection.",
+        "sacraments": "'Mysteries' including baptism, Eucharist, ordination, the holy leaven (Malka) and sign of the cross; lists varied.",
+        "eschatology": "Strong emphasis on the two ages: this mortal age and the coming age of incorruption.",
+        "governance": "Catholicos-Patriarch with metropolitans across Asia, including 'exterior provinces' in India and China.",
+        "worship": "East Syriac rite with the Anaphora of Addai and Mari; no icons in many periods, but the cross was central.",
+        "canon": "The Peshitta, which originally lacked 2 Peter, 2–3 John, Jude and Revelation."
+      },
+      "status": "Historical as a single body; divided after 1552 into lines continued by the Assyrian Church of the East and the Chaldean Catholic Church.",
+      "sources": ["baum-winkler-east", "moffett-asia", "jenkins-lost-history", "atiya-eastern-christianity"]
+    },
+    {
+      "id": "assyrian-church-of-the-east",
+      "name": "Assyrian Church of the East",
+      "family": "east-syriac",
+      "parentIds": ["church-of-the-east"],
+      "foundedYear": 1552,
+      "regions": ["mesopotamia-persia", "levant", "india", "north-america", "oceania", "global"],
+      "summary": "The principal continuation of the historic Church of the East, whose patriarchal line survived in the Hakkari mountains and, after the massacres of 1914–1918, moved into exile; the patriarchate is now based in Erbil, Iraq. A calendar dispute in 1964 produced the separate Ancient Church of the East. In 1994 Patriarch Dinkha IV and Pope John Paul II signed a Common Christological Declaration affirming shared faith in Christ, and in 2001 Rome recognised the validity of the Anaphora of Addai and Mari.",
+      "distinctives": [
+        "Direct heir of the East Syriac Church of the East",
+        "Liturgy of Addai and Mari, sometimes without explicit words of institution",
+        "Theotokos not used historically; prefers 'Mother of Christ'",
+        "Strong Assyrian ethnic and linguistic identity (Neo-Aramaic)",
+        "Large diaspora in the US, Australia and Europe"
+      ],
+      "profile": {
+        "authority": "Scripture (Peshitta), the Fathers including Theodore of Mopsuestia and Nestorius, and the synods of the Church of the East.",
+        "salvation": "Restoration of humanity in Christ, the second Adam, received through baptism and the life of the church.",
+        "sacraments": "Traditionally seven mysteries including the holy leaven (Malka) and the sign of the cross.",
+        "eschatology": "Resurrection and the coming age of immortality, with prayers for the departed.",
+        "governance": "Catholicos-Patriarch (seated in Erbil since 2015) and Holy Synod; hereditary patriarchal succession was abandoned in 1976.",
+        "worship": "East Syriac rite in Classical Syriac and Neo-Aramaic; churches traditionally without images except the cross.",
+        "canon": "The Peshitta canon."
+      },
+      "status": "Active; c. 400,000 members, mostly in Iraq, Iran, Syria and the diaspora.",
+      "sources": ["baum-winkler-east", "roberson-eastern-churches", "jenkins-lost-history"]
+    }
+  ]
+}

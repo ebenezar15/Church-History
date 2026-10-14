@@ -1,0 +1,246 @@
+@import 'tailwindcss';
+@import '@fontsource/nunito-sans/400.css';
+@import '@fontsource/nunito-sans/600.css';
+@import '@fontsource/nunito-sans/700.css';
+@import '@fontsource/nunito-sans/800.css';
+@import '@fontsource/cormorant-garamond/500-italic.css';
+@import '@fontsource/cormorant-garamond/600.css';
+
+@custom-variant dark (&:where([data-theme='dark'], [data-theme='dark'] *));
+
+/*
+ * Avenir Next is the house typeface. It ships with macOS/iOS and many design
+ * workstations; it is a licensed font, so it cannot be bundled. Elsewhere we
+ * fall back to Nunito Sans, the closest open geometric-humanist match.
+ * To self-host a licensed Avenir Next webfont, add @font-face rules for
+ * "Avenir Next" pointing at files in /public/fonts.
+ */
+@theme {
+  --font-sans: 'Avenir Next', 'AvenirNext', 'Avenir Next LT Pro', 'Avenir', 'Nunito Sans', ui-sans-serif, system-ui, sans-serif;
+  --font-display: 'Avenir Next', 'AvenirNext', 'Avenir Next LT Pro', 'Avenir', 'Nunito Sans', ui-sans-serif, system-ui, sans-serif;
+  --font-serif: 'Cormorant Garamond', 'EB Garamond', Georgia, serif;
+
+  --color-bg: var(--bg);
+  --color-bg-2: var(--bg-2);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-ink: var(--ink);
+  --color-ink-2: var(--ink-2);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-accent: var(--accent);
+  --color-accent-2: var(--accent-2);
+  --color-accent-ink: var(--accent-ink);
+  --color-gold: var(--gold);
+  --color-good: var(--good);
+  --color-warn: var(--warn);
+  --color-bad: var(--bad);
+}
+
+/* ---------- Colour schemes: each has a light and a dark variant ---------- */
+:root,
+[data-scheme='parchment'] {
+  --bg: #f5eedf; --bg-2: #efe5cf; --surface: #fffaf0; --surface-2: #f8f0dd;
+  --ink: #2a2118; --ink-2: #4a3d2e; --muted: #7a6a55; --line: #ddcfb3;
+  --accent: #9a6b12; --accent-2: #7d2a1d; --accent-ink: #fffaf0; --gold: #b8892b;
+  --good: #2f6b3c; --warn: #8a5a00; --bad: #9b2c2c;
+  --glow: 184 137 43;
+}
+[data-scheme='parchment'][data-theme='dark'] {
+  --bg: #0c1424; --bg-2: #111b30; --surface: #15213a; --surface-2: #1b2945;
+  --ink: #efe6d2; --ink-2: #d2c6ad; --muted: #9a9283; --line: #2a3a5a;
+  --accent: #d9ad55; --accent-2: #e2836c; --accent-ink: #1a1408; --gold: #e0b862;
+  --good: #7cc58d; --warn: #e6b450; --bad: #f08a8a;
+  --glow: 224 184 98;
+}
+
+[data-scheme='byzantine'] {
+  --bg: #f3eef6; --bg-2: #e9e0ef; --surface: #fdfbff; --surface-2: #f2ebf7;
+  --ink: #261633; --ink-2: #44305a; --muted: #77668a; --line: #d9cbe4;
+  --accent: #6a2a8a; --accent-2: #a0700a; --accent-ink: #fdfbff; --gold: #a97c12;
+  --good: #2f6b3c; --warn: #8a5a00; --bad: #9b2c2c;
+  --glow: 106 42 138;
+}
+[data-scheme='byzantine'][data-theme='dark'] {
+  --bg: #120a1c; --bg-2: #1a1027; --surface: #221533; --surface-2: #2b1c40;
+  --ink: #f1e9f7; --ink-2: #d5c6e2; --muted: #a294b2; --line: #3c2a55;
+  --accent: #e4b84c; --accent-2: #c58bf0; --accent-ink: #1a1028; --gold: #e4b84c;
+  --good: #7cc58d; --warn: #e6b450; --bad: #f08a8a;
+  --glow: 228 184 76;
+}
+
+[data-scheme='iona'] {
+  --bg: #edf2ea; --bg-2: #e2eadd; --surface: #fbfdf9; --surface-2: #eef4ea;
+  --ink: #15261b; --ink-2: #2f4536; --muted: #627566; --line: #cbd9c6;
+  --accent: #2c6e45; --accent-2: #8a4a1c; --accent-ink: #fbfdf9; --gold: #9b7a2a;
+  --good: #2f6b3c; --warn: #8a5a00; --bad: #9b2c2c;
+  --glow: 44 110 69;
+}
+[data-scheme='iona'][data-theme='dark'] {
+  --bg: #0a1510; --bg-2: #0f1d16; --surface: #14261d; --surface-2: #1a3025;
+  --ink: #e6f0e6; --ink-2: #c3d6c6; --muted: #8aa190; --line: #284034;
+  --accent: #74c995; --accent-2: #e0a36b; --accent-ink: #0a1510; --gold: #d6b25c;
+  --good: #7cc58d; --warn: #e6b450; --bad: #f08a8a;
+  --glow: 116 201 149;
+}
+
+[data-scheme='lapis'] {
+  --bg: #edf1f8; --bg-2: #e2e9f4; --surface: #fbfcff; --surface-2: #eef2fa;
+  --ink: #111d36; --ink-2: #2b3a5c; --muted: #5f6d8a; --line: #ccd6e8;
+  --accent: #1d4ea6; --accent-2: #a37b16; --accent-ink: #fbfcff; --gold: #a37b16;
+  --good: #2f6b3c; --warn: #8a5a00; --bad: #9b2c2c;
+  --glow: 29 78 166;
+}
+[data-scheme='lapis'][data-theme='dark'] {
+  --bg: #070e20; --bg-2: #0c1530; --surface: #111d3e; --surface-2: #17264d;
+  --ink: #e8eefc; --ink-2: #c4cfe8; --muted: #8b98b8; --line: #243766;
+  --accent: #e2bd5e; --accent-2: #7fa8f5; --accent-ink: #0a1022; --gold: #e2bd5e;
+  --good: #7cc58d; --warn: #e6b450; --bad: #f08a8a;
+  --glow: 127 168 245;
+}
+
+[data-scheme='rose'] {
+  --bg: #faf0ee; --bg-2: #f4e4e1; --surface: #fffaf9; --surface-2: #f9ecea;
+  --ink: #2e1215; --ink-2: #4e2a2e; --muted: #85646a; --line: #ead0cd;
+  --accent: #9f1f2e; --accent-2: #1f5f8a; --accent-ink: #fffaf9; --gold: #a8801c;
+  --good: #2f6b3c; --warn: #8a5a00; --bad: #9b2c2c;
+  --glow: 159 31 46;
+}
+[data-scheme='rose'][data-theme='dark'] {
+  --bg: #170a0d; --bg-2: #210f13; --surface: #2b151a; --surface-2: #361b21;
+  --ink: #f7e7e8; --ink-2: #e0c4c7; --muted: #ad8f93; --line: #4a262d;
+  --accent: #f0727c; --accent-2: #6ec2f0; --accent-ink: #1a0a0d; --gold: #e6bd5a;
+  --good: #7cc58d; --warn: #e6b450; --bad: #f08a8a;
+  --glow: 240 114 124;
+}
+
+[data-scheme='desert'] {
+  --bg: #f7ede2; --bg-2: #f0e1d1; --surface: #fffaf4; --surface-2: #f7eadc;
+  --ink: #2c1a0f; --ink-2: #4d3322; --muted: #866a55; --line: #e5cfb9;
+  --accent: #a84b22; --accent-2: #2e6b6b; --accent-ink: #fffaf4; --gold: #a8801c;
+  --good: #2f6b3c; --warn: #8a5a00; --bad: #9b2c2c;
+  --glow: 168 75 34;
+}
+[data-scheme='desert'][data-theme='dark'] {
+  --bg: #170f0a; --bg-2: #20150e; --surface: #2a1c13; --surface-2: #352419;
+  --ink: #f6e9dc; --ink-2: #dcc6b1; --muted: #a8917c; --line: #4a3324;
+  --accent: #ec9663; --accent-2: #6cc6c0; --accent-ink: #1a0f08; --gold: #e3bb5c;
+  --good: #7cc58d; --warn: #e6b450; --bad: #f08a8a;
+  --glow: 236 150 99;
+}
+
+[data-scheme='monastic'] {
+  --bg: #f1f0ec; --bg-2: #e7e5df; --surface: #fcfbf8; --surface-2: #f0eee8;
+  --ink: #1f1f1c; --ink-2: #3c3b36; --muted: #6e6c64; --line: #d6d3ca;
+  --accent: #5d4b2c; --accent-2: #3a5a6b; --accent-ink: #fcfbf8; --gold: #8f7434;
+  --good: #2f6b3c; --warn: #8a5a00; --bad: #9b2c2c;
+  --glow: 93 75 44;
+}
+[data-scheme='monastic'][data-theme='dark'] {
+  --bg: #121211; --bg-2: #191917; --surface: #20201d; --surface-2: #292925;
+  --ink: #ecebe5; --ink-2: #cfcdc4; --muted: #9a978d; --line: #36352f;
+  --accent: #cdb68a; --accent-2: #8fb3c5; --accent-ink: #141412; --gold: #cdb68a;
+  --good: #7cc58d; --warn: #e6b450; --bad: #f08a8a;
+  --glow: 205 182 138;
+}
+
+/* ---------- Base ---------- */
+html { color-scheme: light; }
+html[data-theme='dark'] { color-scheme: dark; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  font-feature-settings: 'kern', 'liga';
+  -webkit-font-smoothing: antialiased;
+  transition: background-color 0.4s ease, color 0.4s ease;
+}
+
+h1, h2, h3, h4 { font-family: var(--font-display); letter-spacing: -0.015em; }
+
+::selection { background: rgb(var(--glow) / 0.3); }
+
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 6px; }
+
+@layer components {
+.paper-grain {
+  background-image:
+    radial-gradient(ellipse at 20% 0%, rgb(var(--glow) / 0.10), transparent 55%),
+    radial-gradient(ellipse at 90% 100%, rgb(var(--glow) / 0.08), transparent 50%);
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 1rem;
+}
+
+.chip {
+  display: inline-flex; align-items: center; gap: 0.35rem;
+  padding: 0.2rem 0.6rem; border-radius: 999px; font-size: 0.75rem; font-weight: 600;
+  border: 1px solid var(--line); background: var(--surface-2); color: var(--ink-2);
+  white-space: nowrap;
+}
+
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem;
+  padding: 0.5rem 0.95rem; border-radius: 0.75rem; font-weight: 600; font-size: 0.875rem;
+  border: 1px solid var(--line); background: var(--surface); color: var(--ink);
+  transition: transform 0.15s ease, background-color 0.2s, border-color 0.2s, box-shadow 0.2s;
+  cursor: pointer;
+}
+.btn:hover { border-color: var(--accent); box-shadow: 0 4px 18px -8px rgb(var(--glow) / 0.6); }
+.btn:active { transform: translateY(1px) scale(0.98); }
+.btn-primary { background: var(--accent); color: var(--accent-ink); border-color: transparent; }
+.btn-primary:hover { filter: brightness(1.08); }
+
+.prose-atlas p { margin: 0 0 0.9em; line-height: 1.7; }
+.prose-atlas p:last-child { margin-bottom: 0; }
+
+.illuminated::first-letter {
+  font-family: var(--font-serif);
+  float: left; font-size: 3.4em; line-height: 0.85; padding: 0.08em 0.12em 0 0;
+  color: var(--accent); font-weight: 600;
+}
+
+.gold-rule {
+  height: 1px; border: 0;
+  background: linear-gradient(90deg, transparent, var(--gold), transparent);
+}
+
+.text-gradient {
+  background: linear-gradient(100deg, var(--accent), var(--gold) 45%, var(--accent-2));
+  -webkit-background-clip: text; background-clip: text; color: transparent;
+}
+
+.scrollbar-thin { scrollbar-width: thin; scrollbar-color: var(--line) transparent; }
+
+}
+
+/* Shimmer used on loading skeletons and hero ornament */
+@keyframes shimmer { from { background-position: -200% 0; } to { background-position: 200% 0; } }
+.shimmer {
+  background: linear-gradient(90deg, transparent, rgb(var(--glow) / 0.25), transparent);
+  background-size: 200% 100%; animation: shimmer 2.4s linear infinite;
+}
+
+/* React Flow theming */
+.react-flow { --xy-background-color: transparent; }
+.react-flow__attribution { background: transparent !important; }
+.react-flow__attribution a { color: var(--muted) !important; }
+.react-flow__controls { box-shadow: none !important; }
+.react-flow__controls-button { background: var(--surface) !important; border-color: var(--line) !important; color: var(--ink) !important; fill: var(--ink) !important; }
+.react-flow__edge-textbg { fill: var(--bg) !important; }
+.react-flow__edge-text { fill: var(--muted) !important; font-size: 10px; font-weight: 600; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.001ms !important; animation-iteration-count: 1 !important; transition-duration: 0.001ms !important; scroll-behavior: auto !important; }
+}
+html[data-motion='reduced'] *, html[data-motion='reduced'] *::before, html[data-motion='reduced'] *::after {
+  animation-duration: 0.001ms !important; animation-iteration-count: 1 !important; transition-duration: 0.001ms !important;
+}
+
+/* View-transition theme swap: circular reveal from the click point */
+::view-transition-old(root), ::view-transition-new(root) { animation: none; mix-blend-mode: normal; }
