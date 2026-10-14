@@ -1,0 +1,4831 @@
+{
+  "doctrines": [
+    {
+      "id": "salvation",
+      "name": "Salvation (Soteriology)",
+      "icon": "scales",
+      "order": 4,
+      "question": "How is a human being saved — by grace, faith, works or the will — and will all be saved?",
+      "summary": "From Augustine and Pelagius to the Reformation, the Synod of Dort, Wesley, the New Perspective and Eastern theosis, Christians have agreed that salvation comes through Christ but disagreed sharply about how grace relates to human freedom, what justification is, what salvation finally consists in, and who will be saved.",
+      "longText": "Every Christian tradition confesses that salvation is the gift of God in Jesus Christ. The disagreements concern how that gift reaches human beings and what it finally is. The early Greek fathers spoke chiefly of rescue from corruption and death and of growth into God (theosis): Irenaeus’ Christ \"became what we are, that He might bring us to be even what He is Himself\", and Athanasius’ Word \"was made man that we might be made God\". That vision still governs Eastern Orthodox, Oriental Orthodox and Church of the East spirituality, refined by Maximus the Confessor and by Gregory Palamas’ distinction between God’s imparticipable essence and his participable energies.\n\nIn the Latin West the question became grace and free will. Pelagius, a British ascetic in Rome, insisted that God commands nothing impossible. Augustine, out of his own experience of a bound will, answered that since Adam humanity is a \"mass of sin\", that grace must heal and move the will from within, and that God freely predestines those he saves. Pelagianism was condemned (Carthage 418, Ephesus 431); the Gallic \"semi-Pelagian\" compromise of Cassian was answered at Orange (529) by a moderate Augustinianism without predestination to evil. Gottschalk’s ninth-century \"twofold predestination\", Thomas Aquinas’ synthesis of grace, merit and nature, and the Jesuit-Dominican conflict over Molina’s \"middle knowledge\" and Jansen’s Augustinus all reworked that inheritance.\n\nThe Reformation turned on justification. Luther, Melanchthon and Calvin taught that sinners are declared righteous before God for Christ’s sake through faith alone, his righteousness being \"imputed\" — though Luther’s \"joyful exchange\" and Calvin’s \"mystical union\" also put union with Christ at the centre. Trent (1547) answered that justification is both forgiveness and the inner renewal of the person by infused grace, with which the freed will cooperates. Within Protestantism the Remonstrants’ conditional election and resistible grace were rejected by the Synod of Dort (1618-19), whose canons later became the \"five points of Calvinism\"; Amyraldians, hyper-Calvinists and Wesleyan Arminians mapped further positions. Wesley’s doctrine of assurance and of entire sanctification fathered the Holiness movement, Keswick’s \"higher life\" and, through Holiness networks, Pentecostalism — which then divided over Durham’s \"Finished Work\".\n\nModern debates include free grace vs lordship salvation among evangelicals, the New Perspective on Paul (Sanders, Dunn, Wright) and its critics, the Lutheran-Catholic Joint Declaration (1999), and the long-running question of final destiny: eternal conscious punishment (the historic majority view), conditional immortality/annihilationism, and universal restoration from Origen and Gregory of Nyssa to modern \"evangelical universalists\". A featured comparison sets the \"legal/forensic\" and \"relational/union\" frameworks side by side.",
+      "flow": {
+        "nodes": [
+          {
+            "id": "q-salvation",
+            "kind": "question",
+            "label": "How is a human being saved — and what do grace, faith, works and the will each contribute?",
+            "text": "Behind every soteriological debate sit linked questions: what went wrong with humanity, what God has done in Christ, how that reaches a person (grace, faith, sacraments, the will), what salvation finally is (pardon, healing, union, deification), and whether all will share in it.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-romans",
+            "kind": "scripture",
+            "label": "Romans 3:21-5:21 — righteousness through faith",
+            "year": 57,
+            "text": "Justified \"freely by his grace\" (3:24) \"by faith without the deeds of the law\" (3:28); Abraham believed and it was counted to him (4:3); the Adam-Christ parallel (5:12-21). Central to Augustine, Luther, Calvin and the New Perspective alike.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-romans-9",
+            "kind": "scripture",
+            "label": "Romans 8:28-9:24; Ephesians 1:3-14 — election and predestination",
+            "year": 57,
+            "text": "Foreknown, predestined, called, justified, glorified (8:29-30); Jacob loved and Esau hated, the potter and the clay (9:13-21); chosen \"in him before the foundation of the world\" (Eph 1:4). Read individually (Augustine, Calvin), corporately (many Arminians, Barth, New Perspective) or Christologically.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-james-phil",
+            "kind": "scripture",
+            "label": "James 2:14-26; Philippians 2:12-13 — faith, works and synergy",
+            "year": 60,
+            "text": "\"By works a man is justified, and not by faith only\" (Jas 2:24); \"work out your own salvation with fear and trembling, for it is God which worketh in you\" (Phil 2:12-13). Key for Catholic, Orthodox, Arminian and lordship readings; harmonised by Protestants as evidence of living faith.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-divine-nature",
+            "kind": "scripture",
+            "label": "2 Peter 1:4; John 17:21-23; 2 Corinthians 3:18 — partakers of the divine nature",
+            "year": 65,
+            "text": "Believers become \"partakers of the divine nature\" and are \"changed into the same image from glory to glory\". The scriptural root of Eastern theosis and of Western \"union with Christ\" theologies.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-universal",
+            "kind": "scripture",
+            "label": "1 Timothy 2:4; 1 Corinthians 15:22-28; Matthew 25:46 — all, and the end",
+            "year": 64,
+            "text": "God \"will have all men to be saved\"; \"in Christ shall all be made alive … that God may be all in all\"; yet \"these shall go away into everlasting punishment\". The texts at the heart of universalism, annihilationism and eternal conscious punishment.",
+            "quoteIds": []
+          },
+          {
+            "id": "v-irenaeus",
+            "kind": "voice",
+            "label": "Irenaeus: he became what we are",
+            "year": 180,
+            "text": "Against the Gnostics Irenaeus describes salvation as Christ \"recapitulating\" Adam and leading humanity from infancy to maturity and incorruption — growth into God rather than escape from matter.",
+            "ref": {
+              "type": "person",
+              "id": "irenaeus"
+            },
+            "quoteIds": [
+              "irenaeus-become-what-we-are",
+              "irenaeus-glory-living-man"
+            ]
+          },
+          {
+            "id": "v-origen",
+            "kind": "voice",
+            "label": "Origen: the end is like the beginning",
+            "year": 229,
+            "text": "Free rational creatures fell from contemplation of God; through education and purifying punishment God will restore all, so that God is \"all in all\".",
+            "ref": {
+              "type": "person",
+              "id": "origen"
+            },
+            "quoteIds": [
+              "origen-end-like-beginning",
+              "origen-enemies-subdued"
+            ]
+          },
+          {
+            "id": "v-athanasius",
+            "kind": "voice",
+            "label": "Athanasius: made man that we might be made God",
+            "year": 318,
+            "text": "The Word took flesh to undo corruption and death from within and to restore the image of God — the classic formula of theosis.",
+            "ref": {
+              "type": "person",
+              "id": "athanasius"
+            },
+            "quoteIds": [
+              "athanasius-made-god"
+            ]
+          },
+          {
+            "id": "p-pelagianism",
+            "kind": "position",
+            "label": "Pelagius: God commands nothing impossible",
+            "year": 411,
+            "text": "Human nature, created good, retains the capacity to obey; grace is creation, law, Christ’s example and forgiveness.",
+            "ref": {
+              "type": "position",
+              "id": "pelagianism"
+            },
+            "quoteIds": [
+              "pelagius-demetrias-capacity"
+            ]
+          },
+          {
+            "id": "p-augustinianism",
+            "kind": "position",
+            "label": "Augustine: grace heals a bound will",
+            "year": 415,
+            "text": "Since Adam all are fallen and the will cannot love God without inner, efficacious grace; God freely predestines the elect.",
+            "ref": {
+              "type": "position",
+              "id": "augustinianism"
+            },
+            "quoteIds": [
+              "augustine-give-what-thou-commandest",
+              "augustine-nature-wounded",
+              "augustine-evil-use-of-free-will"
+            ]
+          },
+          {
+            "id": "a-infant-baptism",
+            "kind": "argument",
+            "label": "Argument from infant baptism and the Lord’s Prayer",
+            "year": 412,
+            "text": "Augustine argues that the Church baptises infants \"for the remission of sins\" and that all pray \"forgive us our debts\" — so all inherit sin and all need grace. Pelagians replied that infants are baptised for the kingdom, not for guilt.",
+            "ref": {
+              "type": "person",
+              "id": "augustine-of-hippo"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "d-carthage-418",
+            "kind": "decision",
+            "label": "Council of Carthage (418) and Pope Zosimus condemn Pelagianism",
+            "year": 418,
+            "text": "African bishops condemn denial of original sin and of grace as necessary for good works; Zosimus’ Tractoria follows; Ephesus (431) condemns Caelestius. Decision: Pelagianism rejected in East and West.",
+            "ref": {
+              "type": "event",
+              "id": "council-of-ephesus-431"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-semi-pelagianism",
+            "kind": "position",
+            "label": "Gallic monks: the first step can be ours",
+            "year": 427,
+            "text": "Cassian and later Faustus of Riez accept the need for grace but resist irresistible predestination: the initium fidei may arise from the will.",
+            "ref": {
+              "type": "position",
+              "id": "semi-pelagianism"
+            },
+            "quoteIds": [
+              "cassian-will-begins"
+            ]
+          },
+          {
+            "id": "d-orange",
+            "kind": "decision",
+            "label": "Council of Orange (529): grace before faith, no predestination to evil",
+            "year": 529,
+            "text": "Caesarius’ council affirms that even the beginning of faith is grace, while anathematising predestination to evil. Approved by Boniface II (531).",
+            "ref": {
+              "type": "event",
+              "id": "council-of-orange-529"
+            },
+            "quoteIds": [
+              "caesarius-orange-conclusion"
+            ]
+          },
+          {
+            "id": "p-gottschalk",
+            "kind": "position",
+            "label": "Gottschalk: twofold predestination",
+            "year": 848,
+            "text": "The monk of Orbais teaches predestination of the reprobate to damnation; condemned at Mainz (848) and Quierzy (849) under Hincmar, then partly vindicated at Valence (855).",
+            "ref": {
+              "type": "position",
+              "id": "gottschalk-double-predestination"
+            },
+            "quoteIds": [
+              "gottschalk-twofold"
+            ]
+          },
+          {
+            "id": "v-maximus",
+            "kind": "voice",
+            "label": "Maximus the Confessor: deification by grace",
+            "year": 640,
+            "text": "Maximus describes the whole economy as God becoming man so that man may become god by grace, through a human will freely conformed to the divine will in Christ.",
+            "ref": {
+              "type": "person",
+              "id": "maximus-the-confessor"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-thomism",
+            "kind": "position",
+            "label": "Aquinas: grace perfects nature, merit as gift",
+            "year": 1270,
+            "text": "Habitual and actual grace, predestination as God’s gratuitous plan, merit as the fruit of grace; later Dominicans stress \"physical premotion\".",
+            "ref": {
+              "type": "position",
+              "id": "thomist-grace"
+            },
+            "quoteIds": [
+              "aquinas-grace-perfects-nature",
+              "aquinas-grace-moves-will"
+            ]
+          },
+          {
+            "id": "p-palamas",
+            "kind": "position",
+            "label": "Palamas: participation in the uncreated energies",
+            "year": 1341,
+            "text": "Hesychast saints really see the uncreated light; God is participated in his energies, not his essence. Decision: councils at Constantinople (1341-1351) endorse Palamas, canonised 1368.",
+            "ref": {
+              "type": "position",
+              "id": "palamite-essence-energies"
+            },
+            "quoteIds": [
+              "palamas-energies"
+            ]
+          },
+          {
+            "id": "p-sola-fide",
+            "kind": "position",
+            "label": "Luther: justified by faith alone",
+            "year": 1520,
+            "text": "The sinner is declared righteous for Christ’s sake through faith alone; good works flow freely from faith but contribute nothing to justification.",
+            "ref": {
+              "type": "position",
+              "id": "justification-by-faith-alone"
+            },
+            "quoteIds": [
+              "luther-free-lord-servant",
+              "luther-joyful-exchange",
+              "melanchthon-augsburg-iv",
+              "luther-smalcald-chief-article"
+            ]
+          },
+          {
+            "id": "a-bondage",
+            "kind": "argument",
+            "label": "Erasmus vs Luther on free will (1524-25)",
+            "year": 1525,
+            "text": "Erasmus pleads that Scripture’s commands and exhortations presuppose a will able to cooperate; Luther answers that commands show what we ought, not what we can, and that God’s foreknowledge binds the fallen will.",
+            "ref": {
+              "type": "work",
+              "id": "luther-bondage-of-the-will"
+            },
+            "quoteIds": [
+              "luther-bound-will"
+            ]
+          },
+          {
+            "id": "p-trent",
+            "kind": "position",
+            "label": "Trent: justification as pardon and inner renewal",
+            "year": 1547,
+            "text": "Justification is the remission of sins and the sanctification of the inner person by infused charity; it begins with prevenient grace and free cooperation, can increase, and can be lost by mortal sin.",
+            "ref": {
+              "type": "position",
+              "id": "tridentine-justification"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "d-trent",
+            "kind": "decision",
+            "label": "Council of Trent, Session VI (1547)",
+            "year": 1547,
+            "text": "Thirty-three canons anathematise justification by faith alone understood as excluding cooperation, imputation without inner grace, and certainty of final perseverance. Decision: Western schism over justification confessionally fixed.",
+            "ref": {
+              "type": "event",
+              "id": "council-of-trent-1545"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-calvinism",
+            "kind": "position",
+            "label": "Calvin and Dort: sovereign particular grace",
+            "year": 1559,
+            "text": "Union with Christ by the Spirit yields the \"double grace\" of justification and sanctification; election is unconditional; Dort later codifies the five points.",
+            "ref": {
+              "type": "position",
+              "id": "calvinism-tulip"
+            },
+            "quoteIds": [
+              "calvin-without-christ",
+              "calvin-principal-hinge",
+              "calvin-predestination-defined"
+            ]
+          },
+          {
+            "id": "p-arminianism",
+            "kind": "position",
+            "label": "Arminius and the Remonstrants: resistible grace, conditional election",
+            "year": 1610,
+            "text": "Prevenient grace enables all to believe; election is in Christ of those foreseen to believe; Christ died for all; grace can be resisted.",
+            "ref": {
+              "type": "position",
+              "id": "arminianism"
+            },
+            "quoteIds": [
+              "arminius-grace-resistible"
+            ]
+          },
+          {
+            "id": "d-dort",
+            "kind": "decision",
+            "label": "Synod of Dort (1618-19)",
+            "year": 1619,
+            "text": "An international Reformed synod rejects the Remonstrance; about 200 Remonstrant ministers are deposed and Oldenbarnevelt is executed (1619) in the accompanying political crisis.",
+            "ref": {
+              "type": "event",
+              "id": "synod-of-dort-1618"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-molinism",
+            "kind": "position",
+            "label": "Molina: middle knowledge",
+            "year": 1588,
+            "text": "God’s knowledge of what free creatures would do reconciles efficacious providence with libertarian freedom; the papacy ends the De Auxiliis dispute (1607) without a verdict.",
+            "ref": {
+              "type": "position",
+              "id": "molinism"
+            },
+            "quoteIds": [
+              "molina-middle-knowledge"
+            ]
+          },
+          {
+            "id": "p-jansenism",
+            "kind": "position",
+            "label": "Jansen and Port-Royal: Augustine’s grace revived",
+            "year": 1640,
+            "text": "Augustinus (1640) teaches irresistible efficacious grace and a strict moral rigour; five propositions condemned by Innocent X (1653), Unigenitus (1713).",
+            "ref": {
+              "type": "position",
+              "id": "jansenism"
+            },
+            "quoteIds": [
+              "pascal-two-graces"
+            ]
+          },
+          {
+            "id": "p-wesleyan",
+            "kind": "position",
+            "label": "Wesley: assurance and perfect love",
+            "year": 1766,
+            "text": "Prevenient grace for all, justification by faith with felt assurance, and entire sanctification as a second work of grace.",
+            "ref": {
+              "type": "position",
+              "id": "wesleyan-entire-sanctification"
+            },
+            "quoteIds": [
+              "wesley-heart-strangely-warmed",
+              "wesley-perfect-love",
+              "palmer-altar"
+            ]
+          },
+          {
+            "id": "p-keswick",
+            "kind": "position",
+            "label": "Keswick: the higher life",
+            "year": 1875,
+            "text": "A crisis of full surrender brings a life of victory by the indwelling Christ, counteracting rather than eradicating the sinful nature.",
+            "ref": {
+              "type": "position",
+              "id": "keswick-higher-life"
+            },
+            "quoteIds": [
+              "smith-rest-of-faith"
+            ]
+          },
+          {
+            "id": "p-finished-work",
+            "kind": "position",
+            "label": "Durham: the Finished Work of Calvary",
+            "year": 1910,
+            "text": "Pentecostals divide between the holiness three-stage order and a two-stage order: sanctification is given at conversion and then appropriated.",
+            "ref": {
+              "type": "position",
+              "id": "finished-work-sanctification"
+            },
+            "quoteIds": [
+              "durham-finished-work"
+            ]
+          },
+          {
+            "id": "p-free-grace-lordship",
+            "kind": "argument",
+            "label": "Lordship controversy (1988-89)",
+            "year": 1988,
+            "text": "MacArthur argues saving faith includes submission to Christ as Lord; Hodges and Ryrie reply that this smuggles works into faith and destroys assurance.",
+            "ref": {
+              "type": "position",
+              "id": "lordship-salvation"
+            },
+            "quoteIds": [
+              "macarthur-lordship",
+              "hodges-free-grace"
+            ]
+          },
+          {
+            "id": "p-npp",
+            "kind": "position",
+            "label": "New Perspective on Paul",
+            "year": 1977,
+            "text": "Sanders, Dunn and Wright argue that Paul’s target was ethnic boundary markers, not works-righteousness, and that justification concerns membership in God’s covenant people.",
+            "ref": {
+              "type": "position",
+              "id": "new-perspective-on-paul"
+            },
+            "quoteIds": [
+              "sanders-covenantal-nomism",
+              "wright-justification-covenant"
+            ]
+          },
+          {
+            "id": "p-restoration",
+            "kind": "position",
+            "label": "Hopes of universal restoration",
+            "year": 380,
+            "text": "From Origen and Gregory of Nyssa through Isaac of Nineveh and Julian of Norwich to modern evangelical universalists, a minority hopes that God’s love finally restores all.",
+            "ref": {
+              "type": "position",
+              "id": "gregory-of-nyssa-restoration"
+            },
+            "quoteIds": [
+              "nyssa-evil-removed",
+              "isaac-scourge-of-love",
+              "julian-all-shall-be-well"
+            ]
+          },
+          {
+            "id": "d-553",
+            "kind": "decision",
+            "label": "Anathemas against Origenism (543; 553)",
+            "year": 553,
+            "text": "Justinian’s edict (543) and anathemas associated with the Second Council of Constantinople (553) condemn the pre-existence of souls and the restoration of demons and the damned; the conciliar status of the 15 anathemas is debated.",
+            "ref": {
+              "type": "event",
+              "id": "second-council-of-constantinople-553"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-hell-views",
+            "kind": "position",
+            "label": "Eternal punishment vs conditional immortality",
+            "year": 426,
+            "text": "Augustine’s defence of eternal conscious punishment becomes the Western consensus; from the 19th century, and widely after Fudge (1982) and Stott (1988), evangelical annihilationism revives.",
+            "ref": {
+              "type": "position",
+              "id": "eternal-conscious-punishment"
+            },
+            "quoteIds": [
+              "augustine-city-of-god-eternal",
+              "edwards-spider",
+              "fudge-destruction",
+              "stott-tentative-annihilation"
+            ]
+          },
+          {
+            "id": "c-confessional",
+            "kind": "consequence",
+            "label": "Confessionalisation and religious war",
+            "year": 1555,
+            "text": "Justification and predestination become marks of rival confessions: Lutheran, Reformed and Catholic territories (Peace of Augsburg 1555), Remonstrant exile, Huguenot and Jansenist persecution.",
+            "ref": {
+              "type": "event",
+              "id": "peace-of-augsburg-1555"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "c-holiness-pentecostal",
+            "kind": "consequence",
+            "label": "Holiness and Pentecostal churches",
+            "year": 1906,
+            "text": "Wesley’s second blessing gives birth to Holiness denominations, which supply Pentecostalism’s first framework; the Finished Work dispute shapes the Assemblies of God (1914).",
+            "ref": {
+              "type": "event",
+              "id": "azusa-street-revival-1906"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "m-jddj",
+            "kind": "modern",
+            "label": "Joint Declaration on the Doctrine of Justification (1999)",
+            "year": 1999,
+            "text": "Lutherans and Catholics state a \"consensus in basic truths\": by grace alone, in faith in Christ’s saving work and not because of any merit, we are accepted by God; the mutual condemnations are said not to apply to the teaching as presented. Methodists (2006), Reformed (2017) and Anglicans (2016-17) later associate themselves.",
+            "ref": {
+              "type": "event",
+              "id": "joint-declaration-justification-1999"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "m-today",
+            "kind": "modern",
+            "label": "Where things stand today",
+            "year": 2026,
+            "text": "Catholic and Orthodox churches teach grace-enabled synergy (Orthodox framed as theosis); Lutheran and Reformed churches forensic justification; Arminian-Wesleyan views dominate Methodist, Holiness and most Pentecostal churches (perhaps the majority of global evangelicals); a \"new Calvinist\" revival and the New Perspective debate continue; universalism and annihilationism are growing minority views among evangelicals.",
+            "quoteIds": []
+          }
+        ],
+        "edges": [
+          {
+            "from": "q-salvation",
+            "to": "s-romans",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q-salvation",
+            "to": "s-romans-9",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q-salvation",
+            "to": "s-james-phil",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q-salvation",
+            "to": "s-divine-nature",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q-salvation",
+            "to": "s-universal",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-divine-nature",
+            "to": "v-irenaeus",
+            "kind": "supports"
+          },
+          {
+            "from": "s-divine-nature",
+            "to": "v-athanasius",
+            "kind": "supports"
+          },
+          {
+            "from": "s-universal",
+            "to": "v-origen",
+            "kind": "supports"
+          },
+          {
+            "from": "v-irenaeus",
+            "to": "v-athanasius",
+            "kind": "develops"
+          },
+          {
+            "from": "v-athanasius",
+            "to": "v-maximus",
+            "kind": "develops"
+          },
+          {
+            "from": "v-maximus",
+            "to": "p-palamas",
+            "kind": "develops"
+          },
+          {
+            "from": "s-james-phil",
+            "to": "p-pelagianism",
+            "kind": "supports"
+          },
+          {
+            "from": "s-romans",
+            "to": "p-augustinianism",
+            "kind": "supports"
+          },
+          {
+            "from": "s-romans-9",
+            "to": "p-augustinianism",
+            "kind": "supports"
+          },
+          {
+            "from": "p-augustinianism",
+            "to": "p-pelagianism",
+            "kind": "objects"
+          },
+          {
+            "from": "a-infant-baptism",
+            "to": "p-pelagianism",
+            "kind": "objects"
+          },
+          {
+            "from": "p-augustinianism",
+            "to": "a-infant-baptism",
+            "kind": "develops"
+          },
+          {
+            "from": "p-augustinianism",
+            "to": "d-carthage-418",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-carthage-418",
+            "to": "p-pelagianism",
+            "kind": "rejects"
+          },
+          {
+            "from": "p-augustinianism",
+            "to": "p-semi-pelagianism",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-augustinianism",
+            "to": "d-orange",
+            "kind": "develops"
+          },
+          {
+            "from": "d-orange",
+            "to": "p-semi-pelagianism",
+            "kind": "rejects"
+          },
+          {
+            "from": "d-orange",
+            "to": "p-gottschalk",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-augustinianism",
+            "to": "p-gottschalk",
+            "kind": "develops"
+          },
+          {
+            "from": "d-orange",
+            "to": "p-thomism",
+            "kind": "develops"
+          },
+          {
+            "from": "s-romans",
+            "to": "p-sola-fide",
+            "kind": "supports"
+          },
+          {
+            "from": "p-augustinianism",
+            "to": "p-sola-fide",
+            "kind": "develops"
+          },
+          {
+            "from": "p-sola-fide",
+            "to": "a-bondage",
+            "kind": "develops"
+          },
+          {
+            "from": "p-sola-fide",
+            "to": "d-trent",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-trent",
+            "to": "p-trent",
+            "kind": "decides"
+          },
+          {
+            "from": "s-james-phil",
+            "to": "p-trent",
+            "kind": "supports"
+          },
+          {
+            "from": "p-thomism",
+            "to": "p-trent",
+            "kind": "develops"
+          },
+          {
+            "from": "p-thomism",
+            "to": "p-molinism",
+            "kind": "responds"
+          },
+          {
+            "from": "p-trent",
+            "to": "p-molinism",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-molinism",
+            "to": "p-jansenism",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-augustinianism",
+            "to": "p-jansenism",
+            "kind": "develops"
+          },
+          {
+            "from": "p-sola-fide",
+            "to": "p-calvinism",
+            "kind": "develops"
+          },
+          {
+            "from": "s-romans-9",
+            "to": "p-calvinism",
+            "kind": "supports"
+          },
+          {
+            "from": "p-calvinism",
+            "to": "p-arminianism",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-calvinism",
+            "to": "d-dort",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-dort",
+            "to": "p-arminianism",
+            "kind": "rejects"
+          },
+          {
+            "from": "d-trent",
+            "to": "c-confessional",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-dort",
+            "to": "c-confessional",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-arminianism",
+            "to": "p-wesleyan",
+            "kind": "develops"
+          },
+          {
+            "from": "p-wesleyan",
+            "to": "p-keswick",
+            "kind": "develops"
+          },
+          {
+            "from": "p-wesleyan",
+            "to": "c-holiness-pentecostal",
+            "kind": "leads-to"
+          },
+          {
+            "from": "c-holiness-pentecostal",
+            "to": "p-finished-work",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-keswick",
+            "to": "p-finished-work",
+            "kind": "develops"
+          },
+          {
+            "from": "p-calvinism",
+            "to": "p-free-grace-lordship",
+            "kind": "develops"
+          },
+          {
+            "from": "s-romans",
+            "to": "p-npp",
+            "kind": "supports"
+          },
+          {
+            "from": "p-npp",
+            "to": "p-sola-fide",
+            "kind": "objects"
+          },
+          {
+            "from": "v-origen",
+            "to": "p-restoration",
+            "kind": "develops"
+          },
+          {
+            "from": "p-hell-views",
+            "to": "d-553",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-553",
+            "to": "p-restoration",
+            "kind": "rejects"
+          },
+          {
+            "from": "s-universal",
+            "to": "p-hell-views",
+            "kind": "supports"
+          },
+          {
+            "from": "p-hell-views",
+            "to": "p-restoration",
+            "kind": "objects"
+          },
+          {
+            "from": "p-augustinianism",
+            "to": "p-hell-views",
+            "kind": "develops"
+          },
+          {
+            "from": "d-trent",
+            "to": "m-jddj",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-npp",
+            "to": "m-jddj",
+            "kind": "responds"
+          },
+          {
+            "from": "m-jddj",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-palamas",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-free-grace-lordship",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-finished-work",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-hell-views",
+            "to": "m-today",
+            "kind": "leads-to"
+          }
+        ]
+      },
+      "sources": [
+        "mcgrath-iustitia",
+        "pelikan-christian-tradition",
+        "kelly-doctrines",
+        "gonzalez-thought",
+        "odcc",
+        "russell-deification",
+        "ramelli-apokatastasis"
+      ]
+    }
+  ],
+  "positions": [
+    {
+      "id": "pelagianism",
+      "doctrineId": "salvation",
+      "name": "Pelagianism",
+      "altNames": [
+        "Pelagian teaching",
+        "moral-ability view"
+      ],
+      "oneLine": "Human nature, created good by God, retains the ability to obey God’s commands; grace is God’s gift of nature, law, Christ’s teaching and example, and forgiveness.",
+      "coreClaims": [
+        "Adam’s sin harmed his descendants by bad example, not by inherited guilt or a corrupted nature.",
+        "God, being just, commands nothing impossible; therefore human beings can avoid sin if they will.",
+        "Grace includes free will itself, the law, the teaching and example of Christ, and the forgiveness of past sins in baptism.",
+        "Christians are called to a demanding, perfectionist holiness without excuse."
+      ],
+      "keyTexts": [
+        "Deuteronomy 30:11-19",
+        "Ezekiel 18:20",
+        "Matthew 5:48",
+        "Romans 2:6-14",
+        "James 1:13-14"
+      ],
+      "origin": "Taught in Rome c.380-410 by the British ascetic Pelagius and his associate Caelestius, in reaction to moral laxity and to fatalistic readings of Augustine’s \"give what you command\"; developed polemically by Julian of Eclanum.",
+      "originYear": 405,
+      "proponentIds": [
+        "pelagius"
+      ],
+      "proponentsOther": [
+        "Caelestius",
+        "Julian of Eclanum",
+        "Rufinus the Syrian (influence debated)"
+      ],
+      "traditionIds": [
+        "early-church"
+      ],
+      "strongestArguments": [
+        "It takes divine commands seriously: \"ought\" implies \"can\", and a just God does not punish people for what they could not avoid.",
+        "It protects God’s justice from the charge of condemning infants and others for a sin they did not personally commit.",
+        "It produces moral seriousness and resists using human weakness as an excuse for sin."
+      ],
+      "strongestObjections": [
+        "Augustine: it makes Christ’s grace unnecessary and Christ merely a teacher and example (Gal 2:21).",
+        "It cannot explain the universality of sin or the Church’s practice of baptising infants \"for the remission of sins\".",
+        "Paul describes a will unable to do the good it desires (Rom 7:14-25) and salvation as wholly of grace (Eph 2:8-9)."
+      ],
+      "responses": [
+        "Pelagians replied that grace is indeed needed and everywhere present — in nature, law and Christ — and that Augustine’s view slides into Manichaean fatalism.",
+        "Some modern historians argue Pelagius has been caricatured and that his surviving letters are more grace-conscious than his opponents allowed."
+      ],
+      "consequences": [
+        "Condemned at Carthage (418), by Pope Zosimus (418) and at Ephesus (431); \"Pelagian\" became a byword for moralism in Western theology.",
+        "The controversy pushed Augustine into his strongest statements on original sin and predestination, shaping the entire Western debate."
+      ],
+      "relatedPositionIds": [
+        "augustinianism",
+        "semi-pelagianism"
+      ],
+      "standing": "rejected-by-councils",
+      "sources": [
+        "kelly-doctrines",
+        "pelikan-christian-tradition",
+        "chadwick-early-church",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "augustinianism",
+      "doctrineId": "salvation",
+      "name": "Augustinianism (Augustine’s doctrine of grace)",
+      "altNames": [
+        "monergism (in its strong form)",
+        "doctrine of efficacious grace"
+      ],
+      "oneLine": "Since Adam’s fall all humanity is bound in sin; only God’s unmerited, inwardly efficacious grace heals and frees the will, and God freely predestines those he saves.",
+      "coreClaims": [
+        "All humanity sinned \"in Adam\" and inherits a wounded nature and guilt (original sin).",
+        "The fallen will is free to sin but not able to love God without grace that \"goes before\" (prevenient) and accompanies it.",
+        "Grace is not merely external teaching but an inner delight and charity \"poured into our hearts by the Holy Spirit\" (Rom 5:5).",
+        "God, from eternity and without regard to merit, predestines some to salvation and grants them perseverance; others are justly left in the mass of perdition."
+      ],
+      "keyTexts": [
+        "Romans 5:12-21",
+        "Romans 7:14-25",
+        "Romans 9:10-24",
+        "1 Corinthians 4:7",
+        "Ephesians 2:1-10",
+        "John 6:44",
+        "Philippians 2:13"
+      ],
+      "origin": "Developed by Augustine of Hippo from To Simplician (396) through the anti-Pelagian writings (412-430), out of his reading of Paul and his own conversion.",
+      "originYear": 396,
+      "proponentIds": [
+        "augustine-of-hippo"
+      ],
+      "proponentsOther": [
+        "Prosper of Aquitaine",
+        "Fulgentius of Ruspe",
+        "Gregory of Rimini",
+        "Thomas Bradwardine"
+      ],
+      "traditionIds": [
+        "early-church",
+        "catholic",
+        "lutheran",
+        "reformed"
+      ],
+      "strongestArguments": [
+        "It does justice to Paul’s account of sin and grace and to the Church’s prayers: we pray for conversion because God gives it.",
+        "It safeguards grace as wholly unmerited — \"What do you have that you did not receive?\" (1 Cor 4:7).",
+        "It matches the experience of conversion as rescue rather than achievement, and grounds humility and assurance in God."
+      ],
+      "strongestObjections": [
+        "Eastern fathers never shared Augustine’s account of inherited guilt or his strong predestinarianism; many Orthodox see it as a Western distortion.",
+        "Pelagians and later Arminians object that it makes God responsible for the damnation of those he passes over.",
+        "Critics argue it depends on a mistranslation of Romans 5:12 (\"in whom all sinned\") in the Latin."
+      ],
+      "responses": [
+        "Augustinians reply that condemnation is just because all are guilty; God’s mercy to some wrongs no one (Matt 20:15).",
+        "They argue that the doctrine of original sin does not rest on one Latin phrase but on the whole Adam-Christ parallel and the universality of death and sin."
+      ],
+      "consequences": [
+        "Became the framework of Latin theology; approved in moderated form at Orange (529).",
+        "Claimed by Gottschalk, Aquinas, Luther, Calvin and Jansen alike, each in different ways — the common root of later Western divisions."
+      ],
+      "relatedPositionIds": [
+        "pelagianism",
+        "semi-pelagianism",
+        "orange-semi-augustinianism",
+        "calvinism-tulip",
+        "jansenism"
+      ],
+      "standing": "historic",
+      "sources": [
+        "kelly-doctrines",
+        "pelikan-christian-tradition",
+        "mcgrath-iustitia",
+        "anf-npnf"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "semi-pelagianism",
+      "doctrineId": "salvation",
+      "name": "Semi-Pelagianism (Massilianism)",
+      "altNames": [
+        "Massilian view",
+        "synergism of the initium fidei"
+      ],
+      "oneLine": "Grace is necessary for salvation, but the first movement of faith (initium fidei) can arise from the human will, which God then assists; predestination follows foreseen response.",
+      "coreClaims": [
+        "Grace is indispensable for completing salvation.",
+        "The beginning of faith or of the good will can come from the free will, sometimes before grace, sometimes after.",
+        "God wills all to be saved; predestination is based on foreknowledge of human response.",
+        "Perseverance is not an irresistible gift to a fixed number."
+      ],
+      "keyTexts": [
+        "1 Timothy 2:4",
+        "Matthew 7:7",
+        "Luke 15:17-20",
+        "Zechariah 1:3",
+        "Acts 10:1-4"
+      ],
+      "origin": "A 17th-century label (from the Molinist controversy) for the view of monks around Marseille and Lérins — John Cassian (Conference 13, c.427), Vincent of Lérins, later Faustus of Riez (On Grace, c.474) — who resisted Augustine’s late predestinarian writings.",
+      "originYear": 427,
+      "proponentIds": [
+        "john-cassian"
+      ],
+      "proponentsOther": [
+        "Vincent of Lérins",
+        "Faustus of Riez",
+        "Hilary of Arles (sympathetic)"
+      ],
+      "traditionIds": [
+        "early-church"
+      ],
+      "strongestArguments": [
+        "It honours Scripture’s calls to \"turn\" and \"seek\" and God’s universal saving will.",
+        "It reflects monastic experience of real cooperation in the spiritual struggle.",
+        "It avoids making God the cause of reprobation."
+      ],
+      "strongestObjections": [
+        "Prosper of Aquitaine and the Council of Orange: it makes the decisive beginning of salvation a human work, so grace responds to merit.",
+        "Augustinians: it contradicts \"No one can come to me unless the Father draws him\" (John 6:44).",
+        "Reformation theologians later charged late-medieval and Catholic theology with semi-Pelagianism (Catholics deny the charge)."
+      ],
+      "responses": [
+        "Defenders point out that the label is anachronistic and that Cassian is venerated as a saint in East and West.",
+        "Many Orthodox note that Cassian’s synergy is closer to the Eastern consensus than either Pelagius or Augustine."
+      ],
+      "consequences": [
+        "Condemned in substance at Orange (529).",
+        "\"Semi-Pelagian\" became a polemical charge in the Gottschalk, Reformation, Molinist and Calvinist-Arminian disputes."
+      ],
+      "relatedPositionIds": [
+        "pelagianism",
+        "augustinianism",
+        "orange-semi-augustinianism",
+        "arminianism"
+      ],
+      "standing": "rejected-by-councils",
+      "sources": [
+        "kelly-doctrines",
+        "pelikan-christian-tradition",
+        "odcc"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "orange-semi-augustinianism",
+      "doctrineId": "salvation",
+      "name": "Council of Orange: moderate (semi-)Augustinianism",
+      "altNames": [
+        "Arausican doctrine",
+        "semi-Augustinianism"
+      ],
+      "oneLine": "Even the beginning of faith is a gift of prevenient grace, and all the baptised, aided by Christ, can and should fulfil what pertains to salvation; no one is predestined to evil.",
+      "coreClaims": [
+        "Through Adam’s sin free will was weakened so that no one can believe or love God without prevenient grace.",
+        "The beginning of faith and the desire for baptism are gifts of grace, not natural achievements.",
+        "After baptism, by Christ’s grace, all can and ought to fulfil what pertains to salvation if they will labour faithfully.",
+        "Predestination of anyone to evil by divine power is anathematised."
+      ],
+      "keyTexts": [
+        "John 15:5",
+        "1 Corinthians 4:7",
+        "Philippians 1:6, 29",
+        "Ephesians 2:8",
+        "John 6:44"
+      ],
+      "origin": "Canons drafted by Caesarius of Arles from Augustine and Prosper of Aquitaine, adopted at Orange on 3 July 529 and confirmed by Pope Boniface II in 531.",
+      "originYear": 529,
+      "proponentIds": [
+        "caesarius-of-arles"
+      ],
+      "proponentsOther": [
+        "Prosper of Aquitaine (sources)",
+        "Pope Boniface II",
+        "Avitus of Vienne"
+      ],
+      "traditionIds": [
+        "early-church",
+        "catholic"
+      ],
+      "strongestArguments": [
+        "It preserves the priority of grace while avoiding double predestination.",
+        "It joins grace with sacramental and ethical responsibility in the life of the baptised.",
+        "Its papal confirmation gave it lasting authority in Catholic theology."
+      ],
+      "strongestObjections": [
+        "Strict Augustinians (Gottschalk, some Reformed) see it as softening Augustine on irresistible grace and particular predestination.",
+        "Arminians and Orthodox ask whether it leaves room for genuine human response.",
+        "Its canons were forgotten for centuries, raising questions about its real influence on medieval theology."
+      ],
+      "responses": [
+        "Catholic theologians answer that Orange defines the necessary minimum, leaving freedom for Thomist, Molinist and other schools.",
+        "Reformers like Calvin cited Orange approvingly as evidence that sola gratia was ancient catholic teaching."
+      ],
+      "consequences": [
+        "Ended the semi-Pelagian controversy in Gaul.",
+        "Rediscovered in the 16th century and invoked by both Trent and the Reformers."
+      ],
+      "relatedPositionIds": [
+        "augustinianism",
+        "semi-pelagianism",
+        "tridentine-justification",
+        "thomist-grace"
+      ],
+      "standing": "historic",
+      "sources": [
+        "kelly-doctrines",
+        "pelikan-christian-tradition",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "gottschalk-double-predestination",
+      "doctrineId": "salvation",
+      "name": "Gottschalk’s twofold predestination",
+      "altNames": [
+        "gemina praedestinatio",
+        "double predestination"
+      ],
+      "oneLine": "God has eternally predestined the elect to life and the reprobate to death; Christ died only for the elect, and God’s will to save is not universal.",
+      "coreClaims": [
+        "Predestination is \"twofold\" (gemina): of the elect to glory and of the reprobate to just punishment.",
+        "God’s immutable will cannot be frustrated; therefore he does not will the salvation of those who perish.",
+        "Christ’s blood was shed for the elect alone.",
+        "Gottschalk claimed to be simply repeating Augustine and Fulgentius."
+      ],
+      "keyTexts": [
+        "Romans 9:13-23",
+        "John 10:26-29",
+        "Proverbs 16:4",
+        "Ephesians 1:4-11"
+      ],
+      "origin": "Taught by Gottschalk of Orbais (c.808-c.867), a Saxon monk, from the 840s; condemned at Mainz (848) and Quierzy (849) under Archbishop Hincmar of Reims, and imprisoned for life.",
+      "originYear": 848,
+      "proponentIds": [
+        "gottschalk"
+      ],
+      "proponentsOther": [
+        "Ratramnus of Corbie (in part)",
+        "Prudentius of Troyes",
+        "Remigius of Lyon",
+        "Lupus of Ferrières"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "strongestArguments": [
+        "It applies Augustine’s logic consistently: if God’s will is omnipotent, those he wills to save are saved.",
+        "It finds support in Augustine and Fulgentius and in Pauline texts.",
+        "It protects God’s sovereignty and the effectiveness of Christ’s death."
+      ],
+      "strongestObjections": [
+        "Hincmar and John Scotus Eriugena: it makes God the author of damnation and contradicts 1 Timothy 2:4.",
+        "It removes the motive for moral effort and pastoral care.",
+        "Orange (529) had condemned predestination to evil."
+      ],
+      "responses": [
+        "Gottschalk distinguished predestination to just punishment (for sin) from predestination to sin, which he denied.",
+        "The councils of Valence (855) and Langres (859) defended a qualified double predestination, showing the Carolingian church was divided."
+      ],
+      "consequences": [
+        "First great medieval predestination controversy; led to a compromise at Tuzey (860).",
+        "Reformed theologians later rehabilitated Gottschalk as a forerunner."
+      ],
+      "relatedPositionIds": [
+        "augustinianism",
+        "calvinism-tulip",
+        "orange-semi-augustinianism"
+      ],
+      "standing": "historic",
+      "sources": [
+        "pelikan-christian-tradition",
+        "odcc",
+        "gonzalez-thought"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "thomist-grace",
+      "doctrineId": "salvation",
+      "name": "Thomism (Thomist doctrine of grace)",
+      "altNames": [
+        "Thomistic predestination",
+        "Báñezian Thomism (later form)"
+      ],
+      "oneLine": "Grace perfects nature: God’s gratuitous grace moves the free will from within, so that faith, charity and merit are wholly God’s gift and genuinely the believer’s act.",
+      "coreClaims": [
+        "Human beings need grace both to heal fallen nature and to be elevated to a supernatural end (the beatific vision).",
+        "Actual grace moves the will and habitual (sanctifying) grace transforms the soul; justification includes forgiveness and infused charity.",
+        "Merit is real but founded entirely on grace: God crowns his own gifts.",
+        "Predestination is God’s gratuitous plan to bring some to glory; later Dominicans (Báñez) speak of \"physical premotion\"."
+      ],
+      "keyTexts": [
+        "Romans 8:29-30",
+        "Philippians 2:13",
+        "2 Peter 1:4",
+        "John 15:5",
+        "Romans 5:5"
+      ],
+      "origin": "Thomas Aquinas’ Summa Theologiae (I q. 23; I-II qq. 109-114, c.1265-1274), systematised by Domingo Báñez (1528-1604) and the Dominican school.",
+      "originYear": 1270,
+      "proponentIds": [
+        "thomas-aquinas"
+      ],
+      "proponentsOther": [
+        "Domingo Báñez",
+        "Cajetan",
+        "Réginald Garrigou-Lagrange"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "strongestArguments": [
+        "It integrates Augustine’s priority of grace with a robust account of human nature and cooperation.",
+        "Its primary/secondary causation model explains how God and the creature can both be fully the cause of a good act.",
+        "It underlies much of Trent’s decree on justification."
+      ],
+      "strongestObjections": [
+        "Molinists: physical premotion seems to make human freedom illusory and God the cause of sin by withholding grace.",
+        "Protestants: infused grace and merit confuse justification with sanctification.",
+        "Orthodox: its created-grace framework obscures participation in God’s uncreated energies."
+      ],
+      "responses": [
+        "Thomists answer that God’s causality does not compete with creaturely freedom but grounds it.",
+        "Catholic theologians note that Trent explicitly says eternal life is both grace and reward."
+      ],
+      "consequences": [
+        "Foundation of Catholic scholastic soteriology.",
+        "One pole of the De Auxiliis controversy (1597-1607)."
+      ],
+      "relatedPositionIds": [
+        "molinism",
+        "tridentine-justification",
+        "augustinianism",
+        "orange-semi-augustinianism"
+      ],
+      "standing": "significant",
+      "sources": [
+        "pelikan-christian-tradition",
+        "mcgrath-iustitia",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "molinism",
+      "doctrineId": "salvation",
+      "name": "Molinism (middle knowledge)",
+      "altNames": [
+        "scientia media",
+        "Jesuit theory of grace"
+      ],
+      "oneLine": "God’s \"middle knowledge\" of what every free creature would do in any circumstance lets him providentially ordain all things and give efficacious grace without overriding libertarian freedom.",
+      "coreClaims": [
+        "God has natural knowledge (what could be), middle knowledge (what free creatures would do in any situation) and free knowledge (what will be).",
+        "By choosing which world and which circumstances to actualise, God sovereignly arranges salvation history.",
+        "Grace is efficacious not intrinsically but through the free consent God foresaw.",
+        "Human beings retain libertarian freedom to accept or refuse grace."
+      ],
+      "keyTexts": [
+        "1 Samuel 23:6-13",
+        "Matthew 11:21-23",
+        "1 Corinthians 2:8",
+        "Acts 2:23"
+      ],
+      "origin": "Luis de Molina, Concordia liberi arbitrii cum gratiae donis (Lisbon 1588); fought out with the Dominicans in the Congregatio de Auxiliis (1597-1607), which Pope Paul V closed without condemning either side.",
+      "originYear": 1588,
+      "proponentIds": [
+        "luis-de-molina"
+      ],
+      "proponentsOther": [
+        "Francisco Suárez (congruism)",
+        "Robert Bellarmine",
+        "Alvin Plantinga",
+        "William Lane Craig",
+        "Thomas Flint"
+      ],
+      "traditionIds": [
+        "catholic",
+        "evangelical"
+      ],
+      "strongestArguments": [
+        "It reconciles strong providence with genuine freedom, avoiding both fatalism and open theism.",
+        "Scripture appears to show God knowing counterfactuals (David at Keilah; Tyre and Sidon).",
+        "It has been revived in analytic philosophy of religion as a solution to the problem of evil."
+      ],
+      "strongestObjections": [
+        "The \"grounding objection\": what makes counterfactuals of freedom true before any creature exists?",
+        "Dominicans: it makes God dependent on creatures and grace dependent on human consent.",
+        "Calvinists: it still leaves God choosing which free responses to actualise, so it does not remove the problem it seeks to solve."
+      ],
+      "responses": [
+        "Molinists answer that counterfactuals need no grounding beyond themselves, as with other necessary truths.",
+        "They add that God’s choice of worlds is wise and loving, and that freedom is real within it."
+      ],
+      "consequences": [
+        "Permitted alongside Thomism in Catholic theology since 1607.",
+        "Popular among evangelical philosophers since the 1970s."
+      ],
+      "relatedPositionIds": [
+        "thomist-grace",
+        "arminianism",
+        "jansenism"
+      ],
+      "standing": "minority",
+      "sources": [
+        "odcc",
+        "pelikan-christian-tradition",
+        "mcgrath-historical-theology"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "jansenism",
+      "doctrineId": "salvation",
+      "name": "Jansenism",
+      "altNames": [
+        "Port-Royal Augustinianism"
+      ],
+      "oneLine": "A rigorous Catholic Augustinianism teaching that fallen humanity is wholly dependent on irresistible efficacious grace, joined to strict moral and sacramental discipline.",
+      "coreClaims": [
+        "After the fall the will is enslaved to concupiscence without efficacious grace.",
+        "Efficacious grace infallibly moves the will by a \"victorious delight\"; \"sufficient grace\" that does not suffice is an illusion.",
+        "Christ did not die for all in the same way; the number of elect is small.",
+        "Moral rigour: perfect contrition, infrequent communion, opposition to Jesuit casuistry."
+      ],
+      "keyTexts": [
+        "Romans 9",
+        "John 6:44",
+        "2 Corinthians 3:5",
+        "Matthew 22:14"
+      ],
+      "origin": "Cornelius Jansen’s posthumous Augustinus (1640), championed by Saint-Cyran, Antoine Arnauld, Pascal and the convent of Port-Royal; five propositions condemned by Innocent X (Cum occasione, 1653), the movement by Clement XI (Unigenitus, 1713).",
+      "originYear": 1640,
+      "proponentIds": [
+        "cornelius-jansen",
+        "blaise-pascal"
+      ],
+      "proponentsOther": [
+        "Jean Duvergier de Hauranne (Saint-Cyran)",
+        "Antoine Arnauld",
+        "Pasquier Quesnel",
+        "Angélique Arnauld"
+      ],
+      "traditionIds": [
+        "catholic",
+        "old-catholic"
+      ],
+      "strongestArguments": [
+        "It claims to be faithful to Augustine, the doctor of grace, against Jesuit innovations.",
+        "It produced remarkable piety and literature (Pascal’s Pensées and Provincial Letters).",
+        "It opposed moral laxity in confession."
+      ],
+      "strongestObjections": [
+        "Rome: the five propositions (including that Christ did not die for all) are heretical.",
+        "Jesuits: it is crypto-Calvinism that denies sufficient grace and God’s universal saving will.",
+        "Critics note its rigour discouraged sacramental life."
+      ],
+      "responses": [
+        "Jansenists distinguished \"right\" from \"fact\": the propositions were heretical but not in Jansen’s book.",
+        "Defenders point out that it remained Catholic in sacramental and ecclesial practice."
+      ],
+      "consequences": [
+        "Divided the French church for a century; Port-Royal was razed (1710-12).",
+        "Contributed to the Old Catholic Church of Utrecht (1723) and to Gallican and anti-Jesuit politics."
+      ],
+      "relatedPositionIds": [
+        "augustinianism",
+        "molinism",
+        "calvinism-tulip"
+      ],
+      "standing": "historic",
+      "sources": [
+        "odcc",
+        "pelikan-christian-tradition",
+        "macculloch-christianity"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "justification-by-faith-alone",
+      "doctrineId": "salvation",
+      "name": "Justification by faith alone (Lutheran)",
+      "altNames": [
+        "sola fide",
+        "forensic justification",
+        "Lutheran doctrine of justification"
+      ],
+      "oneLine": "Sinners are declared righteous before God freely, for Christ’s sake alone, through faith alone; Christ’s righteousness is reckoned to them, and good works follow as fruit, not as cause.",
+      "coreClaims": [
+        "Justification is a forensic (declarative) act: God forgives sins and accounts the believer righteous for Christ’s sake.",
+        "Faith alone — trust in God’s promise — receives Christ and his righteousness; works contribute nothing to justification.",
+        "The believer is simul iustus et peccator, at once righteous and a sinner.",
+        "Through faith the soul is united with Christ in a \"joyful exchange\", and freely serves the neighbour in love."
+      ],
+      "keyTexts": [
+        "Romans 1:16-17",
+        "Romans 3:21-28",
+        "Romans 4:1-8",
+        "Galatians 2:16",
+        "Ephesians 2:8-9",
+        "Philippians 3:9",
+        "Habakkuk 2:4"
+      ],
+      "origin": "Luther’s \"Reformation breakthrough\" on Romans 1:17 (dated variously 1513-1519), set out in The Freedom of a Christian (1520), the Augsburg Confession Art. IV (1530) and Melanchthon’s Apology (1531); clarified by the Formula of Concord (1577).",
+      "originYear": 1520,
+      "proponentIds": [
+        "martin-luther",
+        "philip-melanchthon"
+      ],
+      "proponentsOther": [
+        "Martin Chemnitz",
+        "Johann Gerhard",
+        "Thomas Cranmer (Anglican Article XI)"
+      ],
+      "traditionIds": [
+        "lutheran",
+        "anglican",
+        "reformed",
+        "evangelical"
+      ],
+      "strongestArguments": [
+        "Paul explicitly says a person is justified \"by faith apart from works of the law\" (Rom 3:28) and that God \"justifies the ungodly\" (Rom 4:5).",
+        "It gives troubled consciences assurance by resting salvation on Christ’s work, not on one’s own progress.",
+        "It magnifies grace and Christ’s sufficiency, excluding all boasting."
+      ],
+      "strongestObjections": [
+        "Catholic: \"By works a man is justified, and not by faith only\" (Jas 2:24); a merely declared righteousness seems a legal fiction.",
+        "It seems to separate justification from sanctification and may encourage antinomianism.",
+        "New Perspective: Paul’s \"works of the law\" concerns Jewish boundary markers, not moral achievement, so the Lutheran reading misframes Paul."
+      ],
+      "responses": [
+        "Lutherans answer that James addresses dead faith, not the ground of justification; living faith always works by love.",
+        "God’s declaration is creative, not fictional: the word that forgives also makes new, and faith unites to the living Christ."
+      ],
+      "consequences": [
+        "Split Western Christianity; became the \"article by which the church stands or falls\".",
+        "Re-examined in the Lutheran-Catholic Joint Declaration (1999)."
+      ],
+      "relatedPositionIds": [
+        "tridentine-justification",
+        "calvinism-tulip",
+        "new-perspective-on-paul",
+        "federal-forensic-framework"
+      ],
+      "standing": "majority",
+      "sources": [
+        "mcgrath-iustitia",
+        "macculloch-reformation",
+        "book-of-concord",
+        "schaff-creeds"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "tridentine-justification",
+      "doctrineId": "salvation",
+      "name": "Tridentine (Catholic) justification",
+      "altNames": [
+        "Council of Trent on justification",
+        "justification as renewal"
+      ],
+      "oneLine": "Justification is not only the remission of sins but the sanctification and renewal of the inner person through the voluntary reception of grace; faith is its beginning, charity its form.",
+      "coreClaims": [
+        "Prevenient grace, without any merit, calls the sinner; the person freely assents to and cooperates with that grace.",
+        "Justification is the forgiveness of sins and the infusion of sanctifying grace and charity; its instrumental cause is baptism.",
+        "Faith is \"the beginning, foundation and root\" of justification, but faith alone without hope and charity does not unite perfectly with Christ.",
+        "Justification can increase through good works, be lost by mortal sin, and be restored through penance; eternal life is both grace and reward."
+      ],
+      "keyTexts": [
+        "James 2:14-26",
+        "Galatians 5:6",
+        "1 Corinthians 13:2",
+        "Romans 5:5",
+        "Titus 3:5-7",
+        "Matthew 25:31-46"
+      ],
+      "origin": "Defined at the Council of Trent, Session VI, 13 January 1547 (16 chapters, 33 canons), after the failed Regensburg compromise on \"double justification\" (1541).",
+      "originYear": 1547,
+      "proponentIds": [],
+      "proponentsOther": [
+        "Girolamo Seripando",
+        "Cardinal Contarini (earlier dialogue)",
+        "Robert Bellarmine",
+        "Pope Paul III"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "strongestArguments": [
+        "It holds together forgiveness and real transformation, as in Titus 3:5 and Romans 5:5.",
+        "It honours the many New Testament texts on judgement according to works and the necessity of love.",
+        "It affirms the priority of grace (canons 1-3 condemn Pelagianism) while preserving human cooperation."
+      ],
+      "strongestObjections": [
+        "Protestants: by making infused righteousness the formal cause of justification it grounds acceptance on a work within us and undermines assurance.",
+        "Its anathemas against \"faith alone\" were often aimed at a caricature of Protestant teaching.",
+        "Merit language, however qualified, seems to compromise sola gratia."
+      ],
+      "responses": [
+        "Catholics answer that merit is itself grace, and that the Protestant view risks separating Christ’s righteousness from the believer’s real holiness.",
+        "The 1999 Joint Declaration concluded that Trent’s condemnations do not apply to the Lutheran teaching as presented there."
+      ],
+      "consequences": [
+        "Fixed Catholic identity for the Counter-Reformation.",
+        "The benchmark for later ecumenical dialogue (ARCIC, JDDJ)."
+      ],
+      "relatedPositionIds": [
+        "justification-by-faith-alone",
+        "thomist-grace",
+        "orange-semi-augustinianism",
+        "theosis"
+      ],
+      "standing": "majority",
+      "sources": [
+        "waterworth-trent",
+        "mcgrath-iustitia",
+        "catechism-catholic-church",
+        "schaff-creeds"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "calvinism-tulip",
+      "doctrineId": "salvation",
+      "name": "Calvinism (Reformed soteriology, \"TULIP\")",
+      "altNames": [
+        "five points of Calvinism",
+        "Doctrines of Grace",
+        "Dortian Calvinism"
+      ],
+      "oneLine": "Salvation is wholly God’s sovereign work: by unconditional election, particular redemption and effectual grace, God saves those he chose in Christ and keeps them to the end.",
+      "coreClaims": [
+        "Total depravity: sin affects every faculty, so no one can turn to God unaided.",
+        "Unconditional election: God chooses whom he will save, not on the basis of foreseen faith.",
+        "Limited (definite) atonement: Christ’s death is sufficient for all but intended to secure the salvation of the elect.",
+        "Irresistible (effectual) grace: the Spirit infallibly regenerates the elect; and perseverance of the saints: the truly regenerate cannot finally fall away.",
+        "For Calvin, all benefits come by union with Christ through the Spirit, yielding the \"double grace\" of justification and sanctification."
+      ],
+      "keyTexts": [
+        "Romans 8:28-39",
+        "Romans 9:6-24",
+        "Ephesians 1:3-14",
+        "Ephesians 2:1-10",
+        "John 6:37-44",
+        "John 10:11-29",
+        "Acts 13:48"
+      ],
+      "origin": "Rooted in Augustine and Calvin’s Institutes (1559, III.21-24); codified by the Synod of Dort (1618-19) against the Remonstrants; \"TULIP\" is an English mnemonic of the early 20th century.",
+      "originYear": 1619,
+      "proponentIds": [
+        "john-calvin",
+        "theodore-beza",
+        "john-owen",
+        "jonathan-edwards",
+        "charles-spurgeon",
+        "charles-hodge",
+        "j-i-packer",
+        "john-piper",
+        "george-whitefield"
+      ],
+      "proponentsOther": [
+        "Francis Turretin",
+        "B. B. Warfield",
+        "R. C. Sproul",
+        "Tim Keller"
+      ],
+      "traditionIds": [
+        "reformed",
+        "presbyterian",
+        "congregationalist",
+        "baptist",
+        "evangelical"
+      ],
+      "strongestArguments": [
+        "It is the natural reading of Romans 9 and Ephesians 1 and of Jesus’ words that none can come unless the Father draws them.",
+        "It gives all glory to God and grounds assurance in God’s faithfulness rather than human resolve.",
+        "It has inspired missions (Carey, Whitefield, Edwards) and the conviction that preaching is God’s means of calling the elect."
+      ],
+      "strongestObjections": [
+        "Arminians: it contradicts God’s universal love (John 3:16; 1 Tim 2:4; 2 Pet 3:9) and makes the gospel offer insincere to the non-elect.",
+        "Orthodox and Catholics: it makes God the author of reprobation and denies real human cooperation.",
+        "Some Reformed (Amyraldians, Barth) object to limited atonement and to a decree behind the back of Jesus Christ."
+      ],
+      "responses": [
+        "Calvinists answer that God’s universal love and particular saving love are distinct, and that the free offer is sincere because all who come are received.",
+        "Reprobation is God’s just passing over of sinners, not the cause of their sin (Westminster Confession 3.7)."
+      ],
+      "consequences": [
+        "Defining doctrine of continental Reformed and Presbyterian churches; animated Puritanism and the First Great Awakening.",
+        "A \"Young, Restless, Reformed\" resurgence among evangelicals since the 2000s."
+      ],
+      "relatedPositionIds": [
+        "arminianism",
+        "amyraldism",
+        "hyper-calvinism",
+        "augustinianism",
+        "justification-by-faith-alone",
+        "federal-forensic-framework"
+      ],
+      "standing": "significant",
+      "sources": [
+        "muller-calvin-after",
+        "macculloch-reformation",
+        "stewart-ten-myths",
+        "schaff-creeds"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "arminianism",
+      "doctrineId": "salvation",
+      "name": "Arminianism (Remonstrant)",
+      "altNames": [
+        "Remonstrant theology",
+        "evangelical Arminianism",
+        "Reformed Arminianism (classical)"
+      ],
+      "oneLine": "God sincerely wills all to be saved: by prevenient grace he enables every hearer to believe, elects in Christ those who believe, and saves through grace that can be resisted.",
+      "coreClaims": [
+        "Fallen humans cannot believe without grace, but prevenient grace restores the ability to respond.",
+        "Election is in Christ and conditional on foreseen faith (or corporate, in Christ as the Elect One).",
+        "Christ died for all people; his atonement is universal in intent though effective only for believers.",
+        "Grace is resistible; whether believers can finally fall away was left open in 1610 and later often affirmed."
+      ],
+      "keyTexts": [
+        "John 3:16",
+        "1 Timothy 2:4-6",
+        "2 Peter 3:9",
+        "1 John 2:2",
+        "Acts 7:51",
+        "Hebrews 6:4-6",
+        "Matthew 23:37"
+      ],
+      "origin": "Jacobus Arminius (1560-1609), Leiden professor, criticised Beza’s supralapsarianism; after his death the Five Articles of the Remonstrance (1610) were rejected at Dort (1618-19). Later forms: Grotius and Limborch (Remonstrant), Wesleyan \"evangelical Arminianism\".",
+      "originYear": 1610,
+      "proponentIds": [
+        "jacobus-arminius",
+        "hugo-grotius",
+        "john-wesley",
+        "charles-wesley",
+        "charles-finney"
+      ],
+      "proponentsOther": [
+        "Simon Episcopius",
+        "Johannes Uytenbogaert",
+        "Philipp van Limborch",
+        "Roger Olson",
+        "Thomas Oden"
+      ],
+      "traditionIds": [
+        "methodist",
+        "holiness-movement",
+        "pentecostal",
+        "assemblies-of-god",
+        "baptist",
+        "evangelical",
+        "anglican"
+      ],
+      "strongestArguments": [
+        "It takes at face value Scripture’s declarations of God’s universal love and Christ’s death for all.",
+        "It preserves the sincerity of the gospel offer and human moral responsibility.",
+        "Arminius himself insisted that it is fully a theology of grace: all good is from grace, which is necessary at every step."
+      ],
+      "strongestObjections": [
+        "Calvinists: conditional election makes the human decision the decisive factor and leaves room for boasting.",
+        "If grace is resistible, God’s purposes may fail and Christ might die for no one in particular.",
+        "Dort judged it a revival of semi-Pelagianism."
+      ],
+      "responses": [
+        "Arminians reply that receiving a gift by faith is not meritorious, and that God sovereignly chose to save through freely given faith.",
+        "They distinguish their view from semi-Pelagianism by insisting grace precedes and enables the first movement of faith."
+      ],
+      "consequences": [
+        "Remonstrant clergy deposed and banished after Dort; tolerated in the Netherlands from 1630.",
+        "Through Wesley, the dominant soteriology of Methodist, Holiness and Pentecostal Christianity and much global evangelicalism."
+      ],
+      "relatedPositionIds": [
+        "calvinism-tulip",
+        "semi-pelagianism",
+        "wesleyan-entire-sanctification",
+        "molinism",
+        "amyraldism"
+      ],
+      "standing": "majority",
+      "sources": [
+        "stanglin-mccall-arminius",
+        "schaff-creeds",
+        "macculloch-reformation"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "amyraldism",
+      "doctrineId": "salvation",
+      "name": "Amyraldism (hypothetical universalism)",
+      "altNames": [
+        "four-point Calvinism",
+        "Saumur theology",
+        "hypothetical universalism"
+      ],
+      "oneLine": "God first decreed that Christ should die for all on condition of faith, and then, since none would believe unaided, decreed to give faith to the elect.",
+      "coreClaims": [
+        "Christ’s atonement is universal in intent: he died sufficiently and conditionally for all.",
+        "Because humanity is morally unable to believe, God also eternally elects some to receive effectual grace.",
+        "The decree to provide redemption logically precedes the decree of election.",
+        "The universal offer of the gospel is grounded in a real universal provision."
+      ],
+      "keyTexts": [
+        "John 3:16",
+        "1 John 2:2",
+        "1 Timothy 4:10",
+        "Romans 9:15-16",
+        "Ezekiel 33:11"
+      ],
+      "origin": "Developed by the Scottish theologian John Cameron at Saumur and his student Moïse Amyraut (Brief Traitté de la prédestination, 1634); opposed by the Helvetic Consensus (1675). English hypothetical universalists (Davenant, Ussher, Baxter) held related views.",
+      "originYear": 1634,
+      "proponentIds": [
+        "moise-amyraut",
+        "richard-baxter"
+      ],
+      "proponentsOther": [
+        "John Cameron",
+        "John Davenant",
+        "James Ussher",
+        "Bruce Demarest"
+      ],
+      "traditionIds": [
+        "reformed",
+        "evangelical"
+      ],
+      "strongestArguments": [
+        "It honours both the universal texts and the particular texts of Scripture.",
+        "It grounds the free offer of the gospel in a genuine provision for all.",
+        "Defenders show that hypothetical universalism was represented among delegates at Dort and at Westminster."
+      ],
+      "strongestObjections": [
+        "Strict Calvinists: it introduces a frustrated divine intention and a disordered sequence of decrees.",
+        "Arminians: it still leaves the non-elect unable to benefit from the provision made for them.",
+        "Critics argue the universal decree is idle if it is never effective for anyone."
+      ],
+      "responses": [
+        "Amyraldians answer that Scripture itself speaks both of a love for the world and a special love for the elect.",
+        "They note that the Canons of Dort (II.3) affirm the death of Christ sufficient for the whole world."
+      ],
+      "consequences": [
+        "Tolerated within French Protestantism; controversial in Switzerland.",
+        "Persisting as a minority Reformed and evangelical option."
+      ],
+      "relatedPositionIds": [
+        "calvinism-tulip",
+        "arminianism"
+      ],
+      "standing": "minority",
+      "sources": [
+        "muller-calvin-after",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "hyper-calvinism",
+      "doctrineId": "salvation",
+      "name": "Hyper-Calvinism",
+      "altNames": [
+        "high Calvinism (pejoratively)",
+        "no-offer Calvinism"
+      ],
+      "oneLine": "Because only the elect can or will respond, the gospel should not be offered indiscriminately to all, nor all called to a duty of saving faith.",
+      "coreClaims": [
+        "God’s decrees are the controlling starting point; election and reprobation are emphasised.",
+        "There is no \"free offer\" of grace to sinners as such; the gospel is proclaimed but sensible sinners only are invited.",
+        "Saving faith is not the duty of the unregenerate (\"no duty-faith\").",
+        "Some held \"eternal justification\" of the elect."
+      ],
+      "keyTexts": [
+        "John 10:26",
+        "Romans 9:16",
+        "Matthew 11:28 (\"all ye that labour\")",
+        "Acts 13:48"
+      ],
+      "origin": "Emerged among English Independents and Particular Baptists c.1700, e.g. Joseph Hussey’s God’s Operations of Grace but No Offers of Grace (1707), and associated with John Brine and (debatedly) John Gill; challenged by Andrew Fuller’s The Gospel Worthy of All Acceptation (1785).",
+      "originYear": 1707,
+      "proponentIds": [
+        "john-gill"
+      ],
+      "proponentsOther": [
+        "Joseph Hussey",
+        "John Brine",
+        "William Huntington",
+        "J. C. Philpot",
+        "Gospel Standard Strict Baptists"
+      ],
+      "traditionIds": [
+        "baptist",
+        "congregationalist"
+      ],
+      "strongestArguments": [
+        "It claims logical consistency with particular redemption: it is incoherent to offer what was not provided.",
+        "It guards against \"duty-faith\" being turned into a work.",
+        "It protects God’s sovereignty in conversion."
+      ],
+      "strongestObjections": [
+        "Mainstream Calvinists (Fuller, Spurgeon) argue it contradicts the universal commands to repent and believe (Acts 17:30).",
+        "It suppressed evangelism and missions, as Carey’s generation complained.",
+        "It confuses God’s secret will with his revealed will."
+      ],
+      "responses": [
+        "Hyper-Calvinists answer that they do preach to all, but address invitations to those in whom the Spirit has produced a sense of need.",
+        "Some historians argue Gill has been unfairly labelled and did urge sinners to repent."
+      ],
+      "consequences": [
+        "Contributed to a decline of Particular Baptist evangelism in the 18th century.",
+        "Provoked Fullerism, which fed the Baptist Missionary Society (1792)."
+      ],
+      "relatedPositionIds": [
+        "calvinism-tulip"
+      ],
+      "standing": "minority",
+      "sources": [
+        "odcc",
+        "bebbington-evangelicalism"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "wesleyan-entire-sanctification",
+      "doctrineId": "salvation",
+      "name": "Wesleyan holiness and entire sanctification",
+      "altNames": [
+        "Christian perfection",
+        "second blessing",
+        "perfect love"
+      ],
+      "oneLine": "Beyond justification, believers may by faith receive a second work of grace in this life — entire sanctification — in which love for God and neighbour fills the heart and casts out willful sin.",
+      "coreClaims": [
+        "Prevenient grace is given to all; justification is by faith, ordinarily accompanied by the witness of the Spirit (assurance).",
+        "Sanctification begins at the new birth and grows; but a further instantaneous work of grace, received by faith, can cleanse the heart from inbred sin.",
+        "Perfection means perfect love, not freedom from ignorance, mistakes, infirmity or temptation.",
+        "Salvation can be lost through persistent unbelief."
+      ],
+      "keyTexts": [
+        "Matthew 5:48",
+        "1 Thessalonians 5:23",
+        "1 John 1:7-9",
+        "1 John 3:9",
+        "Hebrews 6:1",
+        "Romans 8:16",
+        "Ezekiel 36:25-27"
+      ],
+      "origin": "John Wesley (A Plain Account of Christian Perfection, 1766), drawing on Anglican, Pietist and Eastern patristic sources (Macarius); radicalised as \"altar theology\" by Phoebe Palmer (The Way of Holiness, 1843) and the 19th-century Holiness movement.",
+      "originYear": 1739,
+      "proponentIds": [
+        "john-wesley",
+        "charles-wesley",
+        "phoebe-palmer"
+      ],
+      "proponentsOther": [
+        "John Fletcher",
+        "Adam Clarke",
+        "Asa Mahan",
+        "Catherine and William Booth"
+      ],
+      "traditionIds": [
+        "methodist",
+        "holiness-movement",
+        "salvation-army",
+        "pentecostal"
+      ],
+      "strongestArguments": [
+        "Scripture commands and promises holiness in this life (1 Thess 5:23) and speaks of hearts cleansed by faith (Acts 15:9).",
+        "It holds high expectations of transformation instead of resigned sinfulness.",
+        "It produced social reform: abolition, women’s preaching, rescue missions."
+      ],
+      "strongestObjections": [
+        "Calvinists and Lutherans: indwelling sin remains to death (Rom 7; 1 John 1:8); perfectionism breeds either pride or despair.",
+        "Defining sin as \"voluntary transgression of a known law\" may trivialise sin.",
+        "Testimonies to instantaneous entire sanctification were often not borne out in life."
+      ],
+      "responses": [
+        "Wesleyans answer that perfection is relative and dynamic; it does not deny the need for Christ’s atonement moment by moment.",
+        "They distinguish sins proper from involuntary infirmities, which are covered by Christ’s blood."
+      ],
+      "consequences": [
+        "Shaped Methodism, the Holiness churches (Church of the Nazarene, Wesleyan Church, Salvation Army) and early Pentecostal theology."
+      ],
+      "relatedPositionIds": [
+        "arminianism",
+        "keswick-higher-life",
+        "finished-work-sanctification",
+        "theosis"
+      ],
+      "standing": "significant",
+      "sources": [
+        "heitzenrater-wesley",
+        "dieter-holiness-revival",
+        "synan-holiness-pentecostal"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "keswick-higher-life",
+      "doctrineId": "salvation",
+      "name": "Keswick (Higher Life) theology",
+      "altNames": [
+        "Higher Christian Life",
+        "victorious Christian life",
+        "deeper life"
+      ],
+      "oneLine": "A decisive crisis of full surrender and faith brings the believer into a life of rest and victory in which the indwelling Christ counteracts, though does not eradicate, the sinful nature.",
+      "coreClaims": [
+        "Many Christians live \"carnal\" lives below their privileges.",
+        "Through consecration and the \"rest of faith\" one enters a higher life of habitual victory over known sin.",
+        "Sin’s tendency is counteracted by the Spirit, not eradicated (contrast Wesleyan eradication).",
+        "This is often linked with a \"filling\" or empowering of the Spirit for service."
+      ],
+      "keyTexts": [
+        "Romans 6:1-14",
+        "Galatians 2:20",
+        "1 Corinthians 3:1-3",
+        "Ephesians 5:18",
+        "Romans 12:1"
+      ],
+      "origin": "Emerged from the American Higher Life movement (William Boardman, 1858) and the British meetings of Robert Pearsall and Hannah Whitall Smith (Oxford 1874, Brighton 1875); annual Keswick Convention in the English Lake District from 1875.",
+      "originYear": 1875,
+      "proponentIds": [
+        "hannah-whitall-smith"
+      ],
+      "proponentsOther": [
+        "Robert Pearsall Smith",
+        "William Boardman",
+        "Evan Hopkins",
+        "Handley Moule",
+        "F. B. Meyer",
+        "Andrew Murray",
+        "Hudson Taylor (speaker)"
+      ],
+      "traditionIds": [
+        "evangelical",
+        "anglican",
+        "holiness-movement"
+      ],
+      "strongestArguments": [
+        "It speaks to Christians frustrated by defeat and offers a grace-based way to holiness.",
+        "It fuelled missionary dedication (many missionaries were recruited at Keswick).",
+        "It avoids Wesleyan claims to sinless perfection while affirming real victory."
+      ],
+      "strongestObjections": [
+        "B. B. Warfield (Perfectionism, 1918-31): it is a quietist \"let go and let God\" that divides Christians into two classes.",
+        "J. I. Packer: it can produce passivity and disillusionment when promised victory does not come.",
+        "Wesleyans: it settles for counteraction rather than heart cleansing."
+      ],
+      "responses": [
+        "Keswick teachers answer that surrender is active trust and that growth continues after the crisis.",
+        "Later Keswick speakers moved toward a more Reformed, progressive view of sanctification."
+      ],
+      "consequences": [
+        "Shaped British and American evangelical spirituality, Christian and Missionary Alliance, and early Pentecostal language of \"overcoming\"."
+      ],
+      "relatedPositionIds": [
+        "wesleyan-entire-sanctification",
+        "finished-work-sanctification"
+      ],
+      "standing": "minority",
+      "sources": [
+        "bundy-keswick",
+        "bebbington-evangelicalism",
+        "dieter-holiness-revival"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "finished-work-sanctification",
+      "doctrineId": "salvation",
+      "name": "Finished Work (Durham) Pentecostalism",
+      "altNames": [
+        "Finished Work of Calvary",
+        "two-stage Pentecostalism"
+      ],
+      "oneLine": "Sanctification is accomplished in Christ’s finished work and given at conversion, then progressively appropriated; there is no separate second crisis of entire sanctification before Spirit baptism.",
+      "coreClaims": [
+        "Conversion includes justification and positional sanctification through identification with Christ.",
+        "Believers grow in holiness by continuing to reckon themselves dead to sin and alive to God.",
+        "The baptism in the Holy Spirit, evidenced by tongues, is the one subsequent experience.",
+        "The Wesleyan-Holiness three-stage order (conversion, sanctification, Spirit baptism) is rejected."
+      ],
+      "keyTexts": [
+        "Hebrews 10:10-14",
+        "John 19:30",
+        "Romans 6:11",
+        "1 Corinthians 6:11",
+        "Colossians 2:10"
+      ],
+      "origin": "Preached by William H. Durham at the 1910 Stone Church convention in Chicago; spread through Durham’s Los Angeles campaign (1911) and adopted by the Assemblies of God at its founding (1914).",
+      "originYear": 1910,
+      "proponentIds": [
+        "william-durham"
+      ],
+      "proponentsOther": [
+        "E. N. Bell",
+        "A. H. Argue",
+        "Howard Goss"
+      ],
+      "traditionIds": [
+        "pentecostal",
+        "assemblies-of-god",
+        "oneness-pentecostal"
+      ],
+      "strongestArguments": [
+        "It locates holiness in Christ’s completed work rather than in a further human experience.",
+        "It simplified Pentecostal teaching and appealed to converts from Baptist and non-Wesleyan backgrounds.",
+        "Texts like Hebrews 10:14 speak of believers already sanctified."
+      ],
+      "strongestObjections": [
+        "Holiness Pentecostals (Church of God in Christ, Church of God [Cleveland], Pentecostal Holiness Church): it lowers the standard of heart purity.",
+        "Seymour and Parham opposed it; critics saw it as a return to Baptist \"positional\" holiness.",
+        "Some see it opening the door to the Oneness (\"New Issue\") schism."
+      ],
+      "responses": [
+        "Finished Work Pentecostals answer that progressive sanctification is demanding and real.",
+        "They argue that a single subsequent experience better fits Acts."
+      ],
+      "consequences": [
+        "Divided Pentecostalism into Wesleyan (three-stage) and Finished Work (two-stage) families.",
+        "The latter, including the Assemblies of God, became the largest Pentecostal stream."
+      ],
+      "relatedPositionIds": [
+        "wesleyan-entire-sanctification",
+        "keswick-higher-life"
+      ],
+      "standing": "significant",
+      "sources": [
+        "synan-holiness-pentecostal",
+        "anderson-pentecostalism",
+        "burgess-pentecostal-dictionary"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "free-grace-theology",
+      "doctrineId": "salvation",
+      "name": "Free grace theology",
+      "altNames": [
+        "non-lordship salvation",
+        "Grace Evangelical Society view"
+      ],
+      "oneLine": "Eternal life is received simply by believing Jesus’ promise; repentance (as turning from sin), surrender to Christ’s lordship and perseverance in good works are not conditions of salvation or of assurance.",
+      "coreClaims": [
+        "Saving faith is persuasion that Jesus guarantees eternal life to the believer.",
+        "Discipleship and lordship are important but distinct from the free gift of salvation.",
+        "Assurance is of the essence of saving faith and rests on God’s promise, not on inspecting one’s works.",
+        "Believers who live carnally lose rewards, not salvation."
+      ],
+      "keyTexts": [
+        "John 3:16",
+        "John 5:24",
+        "John 6:47",
+        "Romans 4:4-5",
+        "Ephesians 2:8-9",
+        "1 Corinthians 3:11-15"
+      ],
+      "origin": "Rooted in dispensational teaching at Dallas Theological Seminary (Lewis Sperry Chafer); articulated by Zane Hodges (The Gospel Under Siege, 1981; Absolutely Free!, 1989) and Charles Ryrie (So Great Salvation, 1989); Grace Evangelical Society founded 1986.",
+      "originYear": 1981,
+      "proponentIds": [
+        "zane-hodges"
+      ],
+      "proponentsOther": [
+        "Charles Ryrie (moderate form)",
+        "Bob Wilkin",
+        "Joseph Dillow"
+      ],
+      "traditionIds": [
+        "evangelical"
+      ],
+      "strongestArguments": [
+        "It guards the gospel from any admixture of works and keeps grace free.",
+        "It gives assurance to struggling believers.",
+        "John’s Gospel, written that readers may believe and have life, names belief alone as the condition."
+      ],
+      "strongestObjections": [
+        "Lordship advocates: it produces \"easy believism\" and false assurance among the unregenerate.",
+        "It separates justification from regeneration and sanctification contrary to Romans 6 and James 2.",
+        "Its reduction of faith to assent ignores biblical calls to repentance."
+      ],
+      "responses": [
+        "Free grace teachers answer that lordship theology makes assurance impossible and turns faith into commitment-as-work.",
+        "They hold that God disciplines believers and that the judgement seat of Christ has real consequences."
+      ],
+      "consequences": [
+        "Divided American dispensationalists in the \"lordship controversy\" (1988-89)."
+      ],
+      "relatedPositionIds": [
+        "lordship-salvation",
+        "justification-by-faith-alone"
+      ],
+      "standing": "minority",
+      "sources": [
+        "bateman-lordship",
+        "marsden-fundamentalism"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "lordship-salvation",
+      "doctrineId": "salvation",
+      "name": "Lordship salvation",
+      "altNames": [
+        "lordship view",
+        "faith that works"
+      ],
+      "oneLine": "Saving faith includes repentance and submission to Jesus as Lord; though works do not earn salvation, a faith that produces no change is not saving faith.",
+      "coreClaims": [
+        "Jesus’ gospel calls sinners to repent, deny themselves and follow him.",
+        "Faith is not mere assent but whole-hearted trust that includes surrender.",
+        "Genuine believers persevere and bear fruit; assurance involves the evidence of a changed life.",
+        "This is not salvation by works but salvation that works."
+      ],
+      "keyTexts": [
+        "Matthew 7:21-23",
+        "Luke 9:23-26",
+        "Luke 14:25-33",
+        "Romans 10:9",
+        "James 2:14-26",
+        "1 John 2:3-6"
+      ],
+      "origin": "Named in the debate provoked by John MacArthur’s The Gospel According to Jesus (1988), defending the historic Reformed and Puritan view against the free grace position.",
+      "originYear": 1988,
+      "proponentIds": [
+        "john-macarthur",
+        "j-i-packer"
+      ],
+      "proponentsOther": [
+        "James Montgomery Boice",
+        "R. C. Sproul",
+        "Walter Chantry"
+      ],
+      "traditionIds": [
+        "evangelical",
+        "reformed",
+        "baptist"
+      ],
+      "strongestArguments": [
+        "It reflects the call of Jesus in the Gospels and the unity of justification and sanctification.",
+        "It warns nominal believers against false assurance.",
+        "It stands in continuity with Reformation teaching that faith alone justifies, but faith is never alone."
+      ],
+      "strongestObjections": [
+        "Free grace: it makes assurance depend on works and adds conditions to the gospel.",
+        "Its demands can foster introspection and legalism.",
+        "Some Lutherans fear it blurs law and gospel."
+      ],
+      "responses": [
+        "Lordship advocates distinguish the ground of salvation (Christ alone) from its evidence (fruit).",
+        "They argue that assurance rests primarily on Christ’s promise, confirmed by the Spirit’s work."
+      ],
+      "consequences": [
+        "Shaped evangelical evangelism away from simple \"decision\" models in Reformed circles."
+      ],
+      "relatedPositionIds": [
+        "free-grace-theology",
+        "calvinism-tulip",
+        "justification-by-faith-alone"
+      ],
+      "standing": "significant",
+      "sources": [
+        "bateman-lordship"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "new-perspective-on-paul",
+      "doctrineId": "salvation",
+      "name": "New Perspective on Paul",
+      "altNames": [
+        "NPP",
+        "covenantal reading of Paul"
+      ],
+      "oneLine": "Second Temple Judaism was a religion of grace, not legalism; Paul’s critique of \"works of the law\" targets Jewish boundary markers excluding Gentiles, and justification declares who belongs to God’s one covenant family.",
+      "coreClaims": [
+        "Judaism in Paul’s day was characterised by \"covenantal nomism\": election by grace, obedience as response (Sanders).",
+        "\"Works of the law\" refers especially to circumcision, food laws and Sabbath as ethnic badges (Dunn).",
+        "Justification is God’s covenant verdict that believers in Jesus — Jew and Gentile — belong to his people; future justification accords with the whole life (Wright).",
+        "Paul’s central themes include participation in Christ and the inclusion of the nations."
+      ],
+      "keyTexts": [
+        "Galatians 2:11-21",
+        "Romans 3:27-4:25",
+        "Romans 9-11",
+        "Ephesians 2:11-22",
+        "Philippians 3:2-11",
+        "Romans 2:13"
+      ],
+      "origin": "Anticipated by Krister Stendahl (1963), launched by E. P. Sanders’ Paul and Palestinian Judaism (1977), named by James Dunn (1982), popularised by N. T. Wright (What Saint Paul Really Said, 1997).",
+      "originYear": 1977,
+      "proponentIds": [
+        "e-p-sanders",
+        "james-d-g-dunn",
+        "n-t-wright"
+      ],
+      "proponentsOther": [
+        "Krister Stendahl",
+        "Richard Hays (related)",
+        "Douglas Campbell (apocalyptic Paul, related)"
+      ],
+      "traditionIds": [
+        "anglican",
+        "methodist",
+        "evangelical"
+      ],
+      "strongestArguments": [
+        "It reads Paul within his Jewish setting and corrects caricatures of Judaism.",
+        "It explains why the Jew-Gentile question dominates Galatians and Romans.",
+        "It reconnects justification with ecclesiology and ethics."
+      ],
+      "strongestObjections": [
+        "Reformed and Lutheran critics (Piper, Westerholm, Carson): Paul also opposes human achievement (Rom 4:4-5) and imputation of righteousness is biblical.",
+        "Second Temple Judaism was more varied, and some texts show merit-based expectations (\"variegated nomism\").",
+        "It risks making justification by faith secondary and the final verdict dependent on works."
+      ],
+      "responses": [
+        "Wright replies that he affirms the Reformers’ gospel but grounds it more fully in Paul’s covenant narrative.",
+        "Proponents note that many NPP insights (boundary markers, Gentile inclusion) are now widely accepted even by critics."
+      ],
+      "consequences": [
+        "Reshaped Pauline scholarship since the 1980s and sparked the Piper-Wright debate (2007-09).",
+        "Encouraged Jewish-Christian rapprochement and ecumenical readings of justification."
+      ],
+      "relatedPositionIds": [
+        "justification-by-faith-alone",
+        "tridentine-justification",
+        "participatory-union-atonement"
+      ],
+      "standing": "significant",
+      "sources": [
+        "westerholm-perspectives",
+        "sanders-paul-judaism",
+        "wright-justification",
+        "piper-future-justification"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "theosis",
+      "doctrineId": "salvation",
+      "name": "Theosis / deification (Eastern)",
+      "altNames": [
+        "deification",
+        "divinisation",
+        "theopoiesis"
+      ],
+      "oneLine": "Salvation is union with God: through the incarnate Son and the Holy Spirit, human beings become \"partakers of the divine nature\" and are transformed by grace into what God is by nature.",
+      "coreClaims": [
+        "God became human so that humans might become god by grace (Irenaeus, Athanasius).",
+        "Salvation is healing from corruption and death and growth from image to likeness, not merely acquittal.",
+        "Human freedom cooperates with grace (synergy) in prayer, sacraments and ascetic struggle.",
+        "Deification never erases the distinction between Creator and creature."
+      ],
+      "keyTexts": [
+        "2 Peter 1:4",
+        "John 17:21-23",
+        "Psalm 82:6 / John 10:34",
+        "2 Corinthians 3:18",
+        "1 John 3:2",
+        "Romans 8:29"
+      ],
+      "origin": "Rooted in Irenaeus and Athanasius; term theosis coined by Gregory of Nazianzus; systematised by Pseudo-Dionysius and Maximus the Confessor (7th c.); central to Eastern Orthodox, Oriental Orthodox and Church of the East piety.",
+      "originYear": 180,
+      "proponentIds": [
+        "irenaeus",
+        "athanasius",
+        "gregory-of-nazianzus",
+        "gregory-of-nyssa",
+        "maximus-the-confessor",
+        "symeon-new-theologian",
+        "gregory-palamas",
+        "ephrem-the-syrian"
+      ],
+      "proponentsOther": [
+        "Cyril of Alexandria",
+        "Vladimir Lossky",
+        "Dumitru Stăniloae",
+        "Finnish Luther research (Tuomo Mannermaa)"
+      ],
+      "traditionIds": [
+        "eastern-orthodox",
+        "russian-orthodox",
+        "oriental-orthodox",
+        "coptic-orthodox",
+        "ethiopian-orthodox-tewahedo",
+        "armenian-apostolic",
+        "syriac-orthodox",
+        "church-of-the-east",
+        "eastern-catholic"
+      ],
+      "strongestArguments": [
+        "It is rooted in the explicit language of Scripture and the consensus of the Greek fathers.",
+        "It unites incarnation, cross, resurrection, sacraments and holiness in one vision.",
+        "It avoids reducing salvation to legal status and affirms the goodness of human nature and the body."
+      ],
+      "strongestObjections": [
+        "Some Protestants: it risks blurring Creator and creature and downplays guilt, wrath and justification.",
+        "Its synergism can look semi-Pelagian to Augustinians.",
+        "Critics argue deification language owes more to Platonism than to Scripture."
+      ],
+      "responses": [
+        "Orthodox answer that deification is participation by grace in God’s energies, never in his essence, and presupposes forgiveness.",
+        "Western scholars have recovered deification themes in Augustine, Aquinas, Luther (Mannermaa) and Calvin (Billings), lessening the opposition."
+      ],
+      "consequences": [
+        "The governing vision of Eastern Christian spirituality, liturgy and monasticism.",
+        "Increasingly drawn upon by Western theologians, including union-centred Protestants."
+      ],
+      "relatedPositionIds": [
+        "palamite-essence-energies",
+        "participatory-union-atonement",
+        "trinitarian-union-framework",
+        "recapitulation"
+      ],
+      "standing": "significant",
+      "sources": [
+        "russell-deification",
+        "ware-orthodox-church",
+        "pelikan-christian-tradition",
+        "meyendorff-imperial-unity"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "palamite-essence-energies",
+      "doctrineId": "salvation",
+      "name": "Palamite essence-energies distinction",
+      "altNames": [
+        "Palamism",
+        "hesychast theology"
+      ],
+      "oneLine": "God is unknowable and imparticipable in his essence, yet truly and wholly present and participable in his uncreated energies, so that the saints — as in the light of Tabor — experience God himself.",
+      "coreClaims": [
+        "God’s essence (ousia) remains beyond all knowledge and participation.",
+        "God’s energies (energeiai) are uncreated and are God himself in his self-communication.",
+        "The light of the Transfiguration seen by hesychasts in prayer is uncreated divine light.",
+        "Grace is not a created quality but God’s own life shared."
+      ],
+      "keyTexts": [
+        "2 Peter 1:4",
+        "Matthew 17:1-8",
+        "Exodus 33:18-23",
+        "John 1:18",
+        "1 Timothy 6:16"
+      ],
+      "origin": "Gregory Palamas’ Triads (c.1338-1341) against Barlaam of Calabria; endorsed by councils at Constantinople in 1341, 1347 and 1351; Palamas canonised 1368.",
+      "originYear": 1341,
+      "proponentIds": [
+        "gregory-palamas"
+      ],
+      "proponentsOther": [
+        "Nicholas Cabasilas",
+        "Philotheos Kokkinos",
+        "John Meyendorff",
+        "Vladimir Lossky"
+      ],
+      "traditionIds": [
+        "eastern-orthodox",
+        "russian-orthodox"
+      ],
+      "strongestArguments": [
+        "It preserves both divine transcendence and real communion with God.",
+        "It articulates the experience of hesychast saints and the Tabor tradition.",
+        "It makes theosis coherent: we become god by grace, not by essence."
+      ],
+      "strongestObjections": [
+        "Barlaam, Akindynos and later Western critics: it compromises divine simplicity by introducing a real distinction in God.",
+        "Some Catholics argued the uncreated light is either God’s essence or a created effect.",
+        "Critics question whether the distinction is found in the earlier fathers."
+      ],
+      "responses": [
+        "Palamites answer that the distinction is neither a division nor a composition in God, and is found in Basil and Maximus.",
+        "Recent Catholic and Protestant scholarship has become more sympathetic."
+      ],
+      "consequences": [
+        "Dogmatic in Byzantine Orthodoxy after 1351; Sunday of St Gregory Palamas in Lent.",
+        "A point of East-West difference revisited in modern dialogue."
+      ],
+      "relatedPositionIds": [
+        "theosis"
+      ],
+      "standing": "significant",
+      "sources": [
+        "meyendorff-palamas",
+        "ware-orthodox-church",
+        "pelikan-christian-tradition"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "origen-apokatastasis",
+      "doctrineId": "salvation",
+      "name": "Apokatastasis (Origen)",
+      "altNames": [
+        "universal restoration",
+        "Origenist apocatastasis"
+      ],
+      "oneLine": "God’s goodness, working through Christ by persuasion and purifying punishment across ages, will restore all rational creatures to union with him, so that \"the end is like the beginning\" and God is all in all.",
+      "coreClaims": [
+        "All rational beings were created equal and free; their diversity results from their fall.",
+        "Punishment is medicinal and educational, not merely retributive.",
+        "Christ will subject all enemies to the Father by correcting them, so that God becomes all in all.",
+        "Origen sometimes speculated about the restoration even of the devil, though statements vary."
+      ],
+      "keyTexts": [
+        "1 Corinthians 15:22-28",
+        "Acts 3:21 (apokatastasis)",
+        "Colossians 1:20",
+        "Romans 11:32-36",
+        "Ephesians 1:10"
+      ],
+      "origin": "Origen of Alexandria, On First Principles (c.220-230) and later works; foreshadowed in Clement of Alexandria.",
+      "originYear": 229,
+      "proponentIds": [
+        "origen",
+        "clement-of-alexandria"
+      ],
+      "proponentsOther": [
+        "Didymus the Blind",
+        "Evagrius Ponticus",
+        "Diodore of Tarsus (debated)"
+      ],
+      "traditionIds": [
+        "early-church"
+      ],
+      "strongestArguments": [
+        "It coheres with God’s universal will and with texts of all things reconciled.",
+        "It treats God’s punishments as just and remedial, like a physician’s.",
+        "It expresses confidence that evil, having no substance, cannot have the last word."
+      ],
+      "strongestObjections": [
+        "It depends on the pre-existence of souls and endless cycles of fall, which the church rejected.",
+        "If the devil can be saved and saints fall again, the stability of salvation is threatened.",
+        "It seems to contradict texts of eternal punishment (Matt 25:46)."
+      ],
+      "responses": [
+        "Defenders note that aiōnios can mean \"age-long\" and that Origen held the restored will be confirmed in love.",
+        "Scholars such as Ramelli argue that many fathers shared restoration hopes without Origen’s cosmology."
+      ],
+      "consequences": [
+        "Condemned (in its Origenist form) by Justinian’s edict (543) and anathemas linked to Constantinople II (553).",
+        "Remained an underground current in East and West."
+      ],
+      "relatedPositionIds": [
+        "gregory-of-nyssa-restoration",
+        "evangelical-universalism",
+        "eternal-conscious-punishment"
+      ],
+      "standing": "rejected-by-councils",
+      "sources": [
+        "ramelli-apokatastasis",
+        "kelly-doctrines",
+        "odcc"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "gregory-of-nyssa-restoration",
+      "doctrineId": "salvation",
+      "name": "Gregory of Nyssa’s universal restoration",
+      "altNames": [
+        "Nyssen apokatastasis"
+      ],
+      "oneLine": "Because evil is non-being and God is infinite good, the fire of judgement purifies every soul until evil is wholly removed and all creation joins in thanksgiving to God.",
+      "coreClaims": [
+        "Evil has no substance; it is a privation that cannot be eternal.",
+        "Judgement is a refining fire, painful in proportion to the evil to be removed.",
+        "In the end every knee will bow in genuine confession and God will be all in all.",
+        "Unlike Origen, Gregory does not teach pre-existence of souls or endless cycles."
+      ],
+      "keyTexts": [
+        "1 Corinthians 15:28",
+        "Philippians 2:10-11",
+        "Malachi 3:2-3",
+        "1 Corinthians 3:13-15"
+      ],
+      "origin": "Gregory of Nyssa (c.335-c.395), especially On the Soul and the Resurrection (with his sister Macrina, c.380), Catechetical Oration 26 and On the Life of Moses.",
+      "originYear": 380,
+      "proponentIds": [
+        "gregory-of-nyssa",
+        "macrina-the-younger",
+        "isaac-of-nineveh",
+        "julian-of-norwich"
+      ],
+      "proponentsOther": [
+        "Maximus the Confessor (debated, as reticent)",
+        "John Scotus Eriugena",
+        "Hans Urs von Balthasar (hopeful)"
+      ],
+      "traditionIds": [
+        "early-church",
+        "eastern-orthodox",
+        "church-of-the-east"
+      ],
+      "strongestArguments": [
+        "Gregory was honoured by the Second Council of Nicaea (787) as \"father of fathers\" and never condemned by name.",
+        "It grounds hope in the nature of God and of evil rather than speculative cosmology.",
+        "It echoes Pauline texts of God being all in all."
+      ],
+      "strongestObjections": [
+        "Most later fathers (Augustine, John Chrysostom, later Orthodox tradition) affirmed unending punishment.",
+        "Some argue Gregory’s statements were interpolated or misread.",
+        "It appears to neglect the seriousness of human freedom to persist in refusing God."
+      ],
+      "responses": [
+        "Many Orthodox today speak of a permitted \"hope\" for all (Balthasar’s \"dare we hope\", Kallistos Ware) rather than dogmatic certainty.",
+        "Scholars note Gregory’s restorationism is too pervasive to be a later interpolation."
+      ],
+      "consequences": [
+        "Kept a tolerated hope of universal salvation alive within Orthodoxy.",
+        "Influential on modern Christian universalists."
+      ],
+      "relatedPositionIds": [
+        "origen-apokatastasis",
+        "evangelical-universalism",
+        "theosis"
+      ],
+      "standing": "minority",
+      "sources": [
+        "ramelli-apokatastasis",
+        "parry-universalism-history",
+        "ware-orthodox-church"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "evangelical-universalism",
+      "doctrineId": "salvation",
+      "name": "Evangelical (Christian) universalism",
+      "altNames": [
+        "Christian universalism",
+        "hopeful universalism (weaker form)",
+        "universal reconciliation"
+      ],
+      "oneLine": "Salvation is only through Christ, by grace and faith, yet God’s love will in the end bring every person — after death if need be — to freely embrace Christ, so that hell is real but not endless.",
+      "coreClaims": [
+        "Christ died for all and God desires and will accomplish the salvation of all.",
+        "Hell is a real, corrective punishment that can end in repentance.",
+        "Human freedom will not finally resist infinite love when its illusions are removed.",
+        "Distinct from pluralism: salvation is through Christ alone."
+      ],
+      "keyTexts": [
+        "Romans 5:18-19",
+        "1 Corinthians 15:22-28",
+        "Colossians 1:19-20",
+        "Philippians 2:9-11",
+        "1 Timothy 4:10",
+        "Revelation 21:25; 22:2"
+      ],
+      "origin": "Earlier forms: Elhanan Winchester’s The Universal Restoration (1788), the Universalist Church in America, George MacDonald; modern evangelical forms: Thomas Talbott (1999), Gregory MacDonald (Robin Parry, The Evangelical Universalist, 2006), David Bentley Hart (2019); debated popularly after Rob Bell’s Love Wins (2011).",
+      "originYear": 1788,
+      "proponentIds": [
+        "thomas-talbott",
+        "david-bentley-hart",
+        "rob-bell",
+        "jurgen-moltmann"
+      ],
+      "proponentsOther": [
+        "Elhanan Winchester",
+        "Hosea Ballou",
+        "George MacDonald",
+        "Robin Parry (Gregory MacDonald)",
+        "Brad Jersak"
+      ],
+      "traditionIds": [
+        "evangelical",
+        "eastern-orthodox",
+        "unitarian"
+      ],
+      "strongestArguments": [
+        "It takes the \"all\" texts at face value and gives God’s love final victory.",
+        "It solves moral objections to infinite punishment for finite sins.",
+        "It claims precedent in Gregory of Nyssa, Isaac of Nineveh and other fathers."
+      ],
+      "strongestObjections": [
+        "It contradicts the plain sense of Matthew 25:46, Revelation 14:11 and 20:10, and the church’s historic consensus.",
+        "It undercuts the urgency of evangelism and the seriousness of human choice.",
+        "Post-mortem conversion lacks clear scriptural basis."
+      ],
+      "responses": [
+        "Universalists answer that \"eternal\" (aiōnios) qualifies the age to come rather than mere duration, and that the urgency of avoiding hell remains.",
+        "They argue God’s persuasion is compatible with freedom, as every conversion shows."
+      ],
+      "consequences": [
+        "A growing but contested minority among evangelicals and Orthodox.",
+        "Many denominations still treat it as outside their confessions."
+      ],
+      "relatedPositionIds": [
+        "origen-apokatastasis",
+        "gregory-of-nyssa-restoration",
+        "annihilationism",
+        "eternal-conscious-punishment",
+        "trinitarian-union-framework"
+      ],
+      "standing": "minority",
+      "sources": [
+        "parry-universalism-history",
+        "date-four-views-hell"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "annihilationism",
+      "doctrineId": "salvation",
+      "name": "Annihilationism / conditional immortality",
+      "altNames": [
+        "conditionalism",
+        "terminal punishment",
+        "conditional immortality"
+      ],
+      "oneLine": "Immortality is God’s gift in Christ, not an innate property of the soul; the unrepentant, after judgement and a just measure of punishment, finally perish and cease to exist.",
+      "coreClaims": [
+        "Only God has immortality (1 Tim 6:16); eternal life is given to those in Christ.",
+        "Biblical language of death, destruction, perishing and consuming fire means the end of existence.",
+        "The punishment is \"eternal\" in its result (irreversible destruction), not in conscious duration.",
+        "The doctrine of the immortal soul owes more to Plato than to Scripture."
+      ],
+      "keyTexts": [
+        "Matthew 10:28",
+        "John 3:16",
+        "Romans 6:23",
+        "2 Thessalonians 1:9",
+        "Malachi 4:1-3",
+        "Jude 7",
+        "1 Timothy 6:16"
+      ],
+      "origin": "Precursors in Arnobius (c.300) and some Socinians; revived by 19th-century writers (Edward White, Life in Christ, 1846) and Adventists; brought into evangelical mainstream by Basil Atkinson, Edward Fudge (The Fire That Consumes, 1982) and John Stott (1988).",
+      "originYear": 1846,
+      "proponentIds": [
+        "edward-fudge",
+        "john-stott",
+        "ellen-g-white",
+        "charles-taze-russell"
+      ],
+      "proponentsOther": [
+        "Arnobius of Sicca",
+        "Edward White",
+        "Basil Atkinson",
+        "Clark Pinnock",
+        "Chris Date"
+      ],
+      "traditionIds": [
+        "seventh-day-adventist",
+        "jehovahs-witnesses",
+        "evangelical",
+        "anglican"
+      ],
+      "strongestArguments": [
+        "It takes biblical destruction language literally and avoids importing Greek immortality.",
+        "It removes the moral objection to unending torment while maintaining real judgement.",
+        "It fits texts where God finally makes all things new without an eternal realm of evil."
+      ],
+      "strongestObjections": [
+        "Matthew 25:46 parallels eternal punishment with eternal life, and Revelation 14:11 and 20:10 speak of torment \"for ever and ever\".",
+        "It breaks with the dominant Christian tradition since Augustine.",
+        "Critics argue it lessens the gravity of sin against an infinite God."
+      ],
+      "responses": [
+        "Conditionalists reply that \"eternal punishment\" can mean an irreversible punishment (\"eternal judgement\", Heb 6:2) and that Revelation’s imagery is symbolic.",
+        "They point out that the 2000 Evangelical Alliance (UK) report treated it as a legitimate evangelical view."
+      ],
+      "consequences": [
+        "Official teaching of Seventh-day Adventists and Jehovah’s Witnesses (the latter outside Nicene orthodoxy).",
+        "A widely tolerated minority view among evangelicals since the 1980s."
+      ],
+      "relatedPositionIds": [
+        "eternal-conscious-punishment",
+        "evangelical-universalism"
+      ],
+      "standing": "minority",
+      "sources": [
+        "fudge-fire",
+        "date-four-views-hell",
+        "land-adventism"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "eternal-conscious-punishment",
+      "doctrineId": "salvation",
+      "name": "Eternal conscious punishment",
+      "altNames": [
+        "traditional view of hell",
+        "everlasting punishment"
+      ],
+      "oneLine": "Those who die unreconciled to God will experience unending, conscious separation and punishment, as the just consequence of sin against an infinitely holy God.",
+      "coreClaims": [
+        "Jesus speaks of \"eternal punishment\" parallel to \"eternal life\" (Matt 25:46).",
+        "The soul (and resurrected body) is created to exist without end.",
+        "Punishment is just retribution, not merely corrective.",
+        "The final state is fixed at death or judgement; there is no post-mortem conversion."
+      ],
+      "keyTexts": [
+        "Matthew 25:41, 46",
+        "Mark 9:43-48",
+        "Luke 16:19-31",
+        "2 Thessalonians 1:9",
+        "Revelation 14:10-11",
+        "Revelation 20:10-15",
+        "Daniel 12:2"
+      ],
+      "origin": "Majority view of the patristic church from Tertullian and Augustine (City of God XXI, c.426); confirmed against Origenism (543/553), in the Athanasian Creed and Fourth Lateran (1215), and in the Reformation confessions (e.g. Westminster 33.2).",
+      "originYear": 426,
+      "proponentIds": [
+        "augustine-of-hippo",
+        "tertullian",
+        "thomas-aquinas",
+        "jonathan-edwards",
+        "john-calvin",
+        "john-piper"
+      ],
+      "proponentsOther": [
+        "John Chrysostom",
+        "Robert Peterson",
+        "Denny Burk"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-orthodox",
+        "lutheran",
+        "reformed",
+        "baptist",
+        "evangelical",
+        "pentecostal",
+        "oriental-orthodox"
+      ],
+      "strongestArguments": [
+        "It is the most straightforward reading of Jesus’ own words and of Revelation.",
+        "It represents the near-unanimous judgement of the church through most of its history.",
+        "It upholds the seriousness of sin, human freedom and the urgency of evangelism."
+      ],
+      "strongestObjections": [
+        "Moral objection: infinite punishment for finite sins seems disproportionate and incompatible with divine love.",
+        "Conditionalists: it assumes Greek immortality of the soul.",
+        "Universalists: an eternal realm of evil means God is never \"all in all\"."
+      ],
+      "responses": [
+        "Traditionalists answer that sin against an infinite God is infinitely serious and that the damned continue in rebellion.",
+        "Many modern defenders (C. S. Lewis) stress hell as self-chosen: \"the doors of hell are locked on the inside\"."
+      ],
+      "consequences": [
+        "Shaped preaching, art (Dante, Michelangelo) and revivalism for centuries.",
+        "Remains the official teaching of most churches."
+      ],
+      "relatedPositionIds": [
+        "annihilationism",
+        "evangelical-universalism",
+        "origen-apokatastasis"
+      ],
+      "standing": "majority",
+      "sources": [
+        "kirk-hell",
+        "date-four-views-hell",
+        "kelly-doctrines",
+        "catechism-catholic-church"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "controversies": [
+    {
+      "id": "augustine-vs-pelagius",
+      "title": "Augustine vs Pelagius",
+      "question": "Can human beings obey God by the nature he gave them, or does salvation require a grace that heals and moves the will?",
+      "summary": "The decisive Western debate on grace and free will (c.411-431), in which the North African church and Rome rejected Pelagius and Caelestius, and Augustine’s teaching on original sin and grace became normative in the Latin West.",
+      "doctrineIds": [
+        "salvation"
+      ],
+      "sides": [
+        {
+          "name": "Pelagius and Caelestius",
+          "positionId": "pelagianism",
+          "steelman": "We honour God’s grace by honouring what he made: a nature able to choose the good. God is just and does not command the impossible. To say we cannot obey is to slander our Creator and to excuse sin. Christ forgives our past and shows us the way; we must now walk in it.",
+          "arguments": [
+            "\"Ought\" implies \"can\": a just God would not command what is impossible.",
+            "Inherited guilt would make God unjust to infants.",
+            "Augustine’s \"give what you command\" breeds passivity."
+          ],
+          "counterArguments": [
+            "Universal sin and death suggest a corrupted inheritance (Rom 5).",
+            "The Church baptises infants for remission of sins.",
+            "Paul’s testimony of a divided will (Rom 7)."
+          ],
+          "keyTexts": [
+            "Deuteronomy 30:11-14",
+            "Ezekiel 18:20",
+            "Matthew 5:48"
+          ],
+          "quoteIds": [
+            "pelagius-demetrias-capacity"
+          ]
+        },
+        {
+          "name": "Augustine and the African bishops",
+          "positionId": "augustinianism",
+          "steelman": "We do not deny free will; we deny that a wounded will can heal itself. If righteousness came through nature, Christ died in vain. Grace is not merely a lesson set before the eyes but love poured into the heart by the Spirit. We pray for the conversion of others because God, not they, gives it.",
+          "arguments": [
+            "Salvation by grace would be emptied if nature sufficed (Gal 2:21).",
+            "Infant baptism presupposes inherited sin.",
+            "The Church’s prayers ask God for faith and perseverance."
+          ],
+          "counterArguments": [
+            "It seems to make God arbitrary in election.",
+            "It could undercut moral effort."
+          ],
+          "keyTexts": [
+            "Romans 5:12-21",
+            "Romans 7:14-25",
+            "1 Corinthians 4:7",
+            "John 15:5"
+          ],
+          "quoteIds": [
+            "augustine-give-what-thou-commandest",
+            "augustine-nature-wounded",
+            "augustine-evil-use-of-free-will"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 398,
+          "text": "Augustine’s Confessions includes the prayer \"give what you command\", which offends Pelagius in Rome."
+        },
+        {
+          "year": 411,
+          "text": "Caelestius condemned at Carthage after the refugees from the sack of Rome reach Africa."
+        },
+        {
+          "year": 415,
+          "text": "Synod of Diospolis (Lydda) acquits Pelagius; Augustine writes On Nature and Grace."
+        },
+        {
+          "year": 418,
+          "text": "Council of Carthage condemns Pelagian teaching; Pope Zosimus’ Tractoria and Emperor Honorius’ rescript follow."
+        },
+        {
+          "year": 431,
+          "text": "Council of Ephesus condemns Caelestius.",
+          "eventId": "council-of-ephesus-431"
+        },
+        {
+          "year": 529,
+          "text": "Orange settles the aftermath (semi-Pelagianism).",
+          "eventId": "council-of-orange-529"
+        }
+      ],
+      "resolution": {
+        "kind": "council",
+        "text": "Pelagianism was condemned by African councils, Rome and Ephesus (431). Augustine’s doctrine of the necessity of grace became normative in the West; his strong predestinarianism was received only in moderated form at Orange (529). The Eastern churches condemned Pelagianism but never adopted Augustine’s account of inherited guilt."
+      },
+      "consequences": [
+        "Original sin and the necessity of grace became fixed in Latin theology.",
+        "\"Pelagian\" became the Western theological insult par excellence, used in every later controversy.",
+        "Divergence between Western and Eastern anthropologies."
+      ],
+      "sources": [
+        "kelly-doctrines",
+        "pelikan-christian-tradition",
+        "chadwick-early-church",
+        "odcc"
+      ]
+    },
+    {
+      "id": "calvinism-vs-arminianism-dort",
+      "title": "Calvinism vs Arminianism at Dort",
+      "question": "Does God elect unconditionally and save by irresistible grace, or does he elect those he foresees will believe, with grace that can be resisted?",
+      "summary": "A Dutch Reformed dispute between the followers of Arminius (Remonstrants) and Gomarus (Counter-Remonstrants), entangled with Dutch politics, decided at the international Synod of Dort (1618-19), whose canons became the classic statement of Calvinism.",
+      "doctrineIds": [
+        "salvation",
+        "atonement"
+      ],
+      "sides": [
+        {
+          "name": "Remonstrants (Arminians)",
+          "positionId": "arminianism",
+          "steelman": "We confess salvation by grace alone. But Scripture says God loves the world, wills all to be saved, and that Christ died for all. Grace goes before every good thought, yet it can be refused, as Israel resisted the Spirit. Election is in Christ: God chose to save believers. Otherwise God’s invitations are insincere and he becomes the author of sin.",
+          "arguments": [
+            "Universal texts (John 3:16; 1 Tim 2:4; 1 John 2:2).",
+            "Warnings against apostasy (Heb 6).",
+            "Moral character of God."
+          ],
+          "counterArguments": [
+            "Election then rests on human decision.",
+            "Grace that may fail cannot guarantee salvation."
+          ],
+          "keyTexts": [
+            "John 3:16",
+            "1 Timothy 2:4",
+            "Acts 7:51",
+            "Hebrews 6:4-6"
+          ],
+          "quoteIds": [
+            "arminius-grace-resistible"
+          ]
+        },
+        {
+          "name": "Counter-Remonstrants (Synod of Dort)",
+          "positionId": "calvinism-tulip",
+          "steelman": "Faith itself is God’s gift. If God elected on the basis of foreseen faith, the difference between saved and lost would lie in the human will, not in grace. Christ’s death is sufficient for all, but God intended it to save his elect infallibly; the Spirit regenerates them effectually and keeps them to the end. This alone gives God the glory and his people a firm comfort.",
+          "arguments": [
+            "Election \"not because of works\" (Rom 9:11).",
+            "Faith is a gift (Eph 2:8; Phil 1:29).",
+            "Christ loses none given to him (John 6:37-40)."
+          ],
+          "counterArguments": [
+            "Makes the gospel offer to the non-elect insincere.",
+            "Seems to make God the cause of reprobation."
+          ],
+          "keyTexts": [
+            "Romans 9:11-16",
+            "Ephesians 1:4-11",
+            "John 6:37-44",
+            "Acts 13:48"
+          ],
+          "quoteIds": [
+            "calvin-predestination-defined"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 1603,
+          "text": "Arminius appointed professor at Leiden; disputes with Franciscus Gomarus follow."
+        },
+        {
+          "year": 1609,
+          "text": "Death of Arminius."
+        },
+        {
+          "year": 1610,
+          "text": "Five Articles of the Remonstrance presented to the States of Holland."
+        },
+        {
+          "year": 1618,
+          "text": "Synod of Dort convenes with delegates from the Netherlands, Britain, the Palatinate, Switzerland and elsewhere.",
+          "eventId": "synod-of-dort-1618"
+        },
+        {
+          "year": 1619,
+          "text": "Canons of Dort adopted; Remonstrant ministers deposed; Johan van Oldenbarnevelt executed; Grotius imprisoned."
+        },
+        {
+          "year": 1630,
+          "text": "Remonstrants tolerated again; Remonstrant Brotherhood established."
+        }
+      ],
+      "resolution": {
+        "kind": "mixed",
+        "text": "Dort decided for the Counter-Remonstrants within the Dutch Reformed Church, and its canons became one of the Three Forms of Unity. But Arminianism survived in the Remonstrant Brotherhood, among Anglicans and, through John Wesley, became the majority soteriology of Methodist, Holiness and Pentecostal Christianity. The debate remains open across evangelicalism."
+      },
+      "consequences": [
+        "Defined \"Calvinism\" as a set of five doctrines.",
+        "Political crisis in the Dutch Republic.",
+        "A lasting fault line in English Protestantism (Laudians, Puritans), Methodism (Wesley vs Whitefield) and modern evangelicalism."
+      ],
+      "sources": [
+        "schaff-creeds",
+        "stanglin-mccall-arminius",
+        "muller-calvin-after",
+        "macculloch-reformation"
+      ]
+    },
+    {
+      "id": "justification-wittenberg-vs-trent",
+      "title": "Justification: Wittenberg vs Trent",
+      "question": "Is a sinner justified by faith alone through the imputed righteousness of Christ, or by grace that renews the person inwardly, received in faith and working through love?",
+      "summary": "The central doctrinal conflict of the Reformation, from Luther’s 1517-20 writings through the Augsburg Confession (1530), the failed Regensburg colloquy (1541) and Trent’s Decree on Justification (1547), to the Joint Declaration of 1999.",
+      "doctrineIds": [
+        "salvation"
+      ],
+      "sides": [
+        {
+          "name": "Lutheran Reformation",
+          "positionId": "justification-by-faith-alone",
+          "steelman": "A troubled conscience cannot rest on its own renewal, which is always incomplete. God justifies the ungodly: he forgives and counts us righteous for Christ’s sake, received by faith alone. This faith unites us to Christ and is never idle; it serves the neighbour freely. To make inner renewal the ground of acceptance is to put our trust in ourselves.",
+          "arguments": [
+            "Romans 3:28; 4:5.",
+            "Assurance of salvation.",
+            "Christ’s sufficiency excludes merit."
+          ],
+          "counterArguments": [
+            "Legal fiction.",
+            "Neglect of charity and sanctification.",
+            "James 2:24."
+          ],
+          "keyTexts": [
+            "Romans 3:21-28",
+            "Romans 4:1-8",
+            "Galatians 2:16"
+          ],
+          "quoteIds": [
+            "melanchthon-augsburg-iv",
+            "luther-smalcald-chief-article",
+            "luther-joyful-exchange"
+          ]
+        },
+        {
+          "name": "Council of Trent",
+          "positionId": "tridentine-justification",
+          "steelman": "Grace is wholly gratuitous: no one merits the first grace. But God does not merely declare; he makes righteous, pouring charity into our hearts by the Spirit. Faith is the root, yet faith without love is dead. Those justified grow, can fall, and are restored; they merit eternal life only because God crowns his own gifts.",
+          "arguments": [
+            "Romans 5:5; Titus 3:5.",
+            "James 2:24; Galatians 5:6.",
+            "The unity of forgiveness and renewal."
+          ],
+          "counterArguments": [
+            "Undermines assurance.",
+            "Merit language compromises grace."
+          ],
+          "keyTexts": [
+            "James 2:14-26",
+            "Galatians 5:6",
+            "Titus 3:5-7"
+          ],
+          "quoteIds": [
+            "aquinas-grace-moves-will"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 1517,
+          "text": "Ninety-Five Theses.",
+          "eventId": "ninety-five-theses-1517"
+        },
+        {
+          "year": 1520,
+          "text": "The Freedom of a Christian."
+        },
+        {
+          "year": 1530,
+          "text": "Augsburg Confession, Article IV.",
+          "eventId": "augsburg-confession-1530"
+        },
+        {
+          "year": 1541,
+          "text": "Regensburg Colloquy: Contarini and Melanchthon agree on \"double justification\", rejected by Rome and Luther."
+        },
+        {
+          "year": 1547,
+          "text": "Trent, Session VI: Decree on Justification.",
+          "eventId": "council-of-trent-1545"
+        },
+        {
+          "year": 1999,
+          "text": "Joint Declaration on the Doctrine of Justification signed in Augsburg.",
+          "eventId": "joint-declaration-justification-1999"
+        }
+      ],
+      "resolution": {
+        "kind": "dialogue",
+        "text": "Trent fixed the division in 1547. After four centuries, the Lutheran World Federation and the Catholic Church declared in 1999 a \"consensus in basic truths\" and that the mutual condemnations do not apply to each other’s teaching as presented, while differences of emphasis (simul iustus et peccator, merit, assurance) remain. Many confessional Lutherans and evangelicals regard the agreement as inadequate."
+      },
+      "consequences": [
+        "The confessional division of the West.",
+        "Distinct pieties: Protestant assurance and preaching; Catholic sacramental growth and penance.",
+        "A model for later ecumenical method (\"differentiated consensus\")."
+      ],
+      "sources": [
+        "mcgrath-iustitia",
+        "waterworth-trent",
+        "jddj-1999",
+        "macculloch-reformation"
+      ]
+    },
+    {
+      "id": "hell-eternal-annihilation-restoration",
+      "title": "Hell: eternal, annihilation or restoration?",
+      "question": "Will those finally separated from God suffer consciously for ever, cease to exist, or ultimately be restored?",
+      "summary": "A debate as old as Origen and revived since the 19th century: eternal conscious punishment (the historic majority), conditional immortality/annihilationism, and universal restoration all claim scriptural and patristic support.",
+      "doctrineIds": [
+        "salvation",
+        "eschatology"
+      ],
+      "sides": [
+        {
+          "name": "Eternal conscious punishment",
+          "positionId": "eternal-conscious-punishment",
+          "steelman": "The Lord who wept over Jerusalem is the one who spoke most of hell. \"Eternal punishment\" stands beside \"eternal life\" in a single sentence. Hell is the just and self-chosen end of a creature who refuses God; to weaken it is to trivialise sin, holiness and the cross.",
+          "arguments": [
+            "Matthew 25:46 parallelism.",
+            "Consensus of tradition.",
+            "Gravity of sin against infinite holiness."
+          ],
+          "counterArguments": [
+            "Disproportionate punishment.",
+            "Assumes immortal soul."
+          ],
+          "keyTexts": [
+            "Matthew 25:46",
+            "Revelation 14:11",
+            "Mark 9:48"
+          ],
+          "quoteIds": [
+            "augustine-city-of-god-eternal",
+            "edwards-spider"
+          ]
+        },
+        {
+          "name": "Conditional immortality",
+          "positionId": "annihilationism",
+          "steelman": "Scripture’s words are death, destruction and perishing. Immortality is the gift of the gospel, not a possession of every soul. The wicked are judged justly and then are no more; the punishment is eternal because it is final.",
+          "arguments": [
+            "Destruction language.",
+            "God alone immortal.",
+            "Moral proportionality."
+          ],
+          "counterArguments": [
+            "Revelation 20:10 \"for ever and ever\".",
+            "Novel in tradition."
+          ],
+          "keyTexts": [
+            "Matthew 10:28",
+            "Romans 6:23",
+            "2 Thessalonians 1:9"
+          ],
+          "quoteIds": [
+            "fudge-destruction",
+            "stott-tentative-annihilation"
+          ]
+        },
+        {
+          "name": "Universal restoration",
+          "positionId": "evangelical-universalism",
+          "steelman": "God wills all to be saved, and what God wills he accomplishes. The fire is the love of God refining; every knee will bow and every tongue confess, freely, to the glory of the Father. Only so is God all in all.",
+          "arguments": [
+            "Universal texts (1 Cor 15:22-28; Col 1:20).",
+            "Patristic precedent (Gregory of Nyssa, Isaac of Nineveh).",
+            "God’s character as love."
+          ],
+          "counterArguments": [
+            "Contradicts the councils of 543/553.",
+            "Undercuts urgency and freedom."
+          ],
+          "keyTexts": [
+            "1 Corinthians 15:22-28",
+            "Colossians 1:20",
+            "Philippians 2:10-11"
+          ],
+          "quoteIds": [
+            "origen-end-like-beginning",
+            "nyssa-evil-removed",
+            "isaac-scourge-of-love",
+            "talbott-inescapable-love",
+            "hart-all-saved"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 229,
+          "text": "Origen’s On First Principles speaks of the restoration of all."
+        },
+        {
+          "year": 380,
+          "text": "Gregory of Nyssa’s On the Soul and the Resurrection."
+        },
+        {
+          "year": 426,
+          "text": "Augustine, City of God XXI, rebuts \"the merciful\"."
+        },
+        {
+          "year": 553,
+          "text": "Anathemas against Origenism associated with Constantinople II.",
+          "eventId": "second-council-of-constantinople-553"
+        },
+        {
+          "year": 1741,
+          "text": "Edwards preaches Sinners in the Hands of an Angry God."
+        },
+        {
+          "year": 1982,
+          "text": "Edward Fudge, The Fire That Consumes."
+        },
+        {
+          "year": 1988,
+          "text": "John Stott tentatively endorses annihilationism."
+        },
+        {
+          "year": 2011,
+          "text": "Rob Bell’s Love Wins provokes a popular evangelical controversy."
+        },
+        {
+          "year": 2019,
+          "text": "David Bentley Hart, That All Shall Be Saved."
+        }
+      ],
+      "resolution": {
+        "kind": "open",
+        "text": "Eternal conscious punishment remains the official teaching of the Catholic Church, most Orthodox theologians and most Protestant confessions. Conditional immortality is official for Adventists and widely tolerated among evangelicals; universal restoration was condemned in its Origenist form but survives as a \"hope\" in Orthodox and Catholic theology (von Balthasar) and as a growing evangelical minority view."
+      },
+      "consequences": [
+        "Shapes the urgency and tone of evangelism.",
+        "Reopened questions about divine justice and love in apologetics.",
+        "Boundary disputes in evangelical institutions."
+      ],
+      "sources": [
+        "date-four-views-hell",
+        "ramelli-apokatastasis",
+        "fudge-fire",
+        "kelly-doctrines"
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "id": "augustine-give-what-thou-commandest",
+      "text": "Give what Thou commandest, and command what Thou wilt.",
+      "kind": "quotation",
+      "translation": "tr. J. G. Pilkington, NPNF I/1 (1886)",
+      "personId": "augustine-of-hippo",
+      "citation": "Confessions X.29.40",
+      "topics": [
+        "grace",
+        "free will",
+        "Pelagian controversy"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "workId": "augustine-confessions",
+      "year": 398
+    },
+    {
+      "id": "augustine-restless-heart",
+      "text": "Thou hast formed us for Thyself, and our hearts are restless till they find rest in Thee.",
+      "kind": "quotation",
+      "translation": "tr. J. G. Pilkington, NPNF I/1 (1886)",
+      "personId": "augustine-of-hippo",
+      "citation": "Confessions I.1.1",
+      "topics": [
+        "grace",
+        "desire for God"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "workId": "augustine-confessions",
+      "year": 398
+    },
+    {
+      "id": "augustine-evil-use-of-free-will",
+      "text": "For it was by the evil use of his free-will that man destroyed both it and himself.",
+      "kind": "quotation",
+      "translation": "tr. J. F. Shaw, NPNF I/3 (1887)",
+      "personId": "augustine-of-hippo",
+      "citation": "Enchiridion 30",
+      "topics": [
+        "free will",
+        "original sin"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "workId": "augustine-enchiridion",
+      "year": 421
+    },
+    {
+      "id": "augustine-nature-wounded",
+      "text": "Human nature was created without fault, but in Adam it was wounded; the grace of Christ is therefore not only a law or a teaching laid before us but a healing medicine that sets the will free to love what it commands.",
+      "kind": "paraphrase",
+      "personId": "augustine-of-hippo",
+      "citation": "On Nature and Grace 3-4, 62-70 (paraphrase)",
+      "topics": [
+        "grace",
+        "nature",
+        "healing"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "workId": "augustine-on-nature-and-grace",
+      "year": 415
+    },
+    {
+      "id": "augustine-city-of-god-eternal",
+      "text": "Augustine argues that \"eternal\" in Matthew 25:46 must mean the same for punishment as for life, so that the hope of \"the merciful\" for an end to the torments of the damned cannot stand.",
+      "kind": "paraphrase",
+      "personId": "augustine-of-hippo",
+      "citation": "City of God XXI.17-23 (paraphrase)",
+      "topics": [
+        "hell",
+        "eternal punishment"
+      ],
+      "doctrineIds": [
+        "salvation",
+        "eschatology"
+      ],
+      "workId": "augustine-city-of-god",
+      "year": 426
+    },
+    {
+      "id": "pelagius-demetrias-capacity",
+      "text": "Pelagius tells Demetrias that before urging holiness he must first show the strength and quality of human nature: God, who is just, never commands the impossible, and the good of nature is proved even among the pagans.",
+      "kind": "paraphrase",
+      "personId": "pelagius",
+      "citation": "Letter to Demetrias 2-3, 16 (paraphrase)",
+      "topics": [
+        "free will",
+        "nature",
+        "moral effort"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "workId": "pelagius-letter-to-demetrias",
+      "year": 413
+    },
+    {
+      "id": "cassian-will-begins",
+      "text": "Cassian teaches that God sometimes anticipates the will and sometimes waits for it, so that when he sees in us the beginnings of a good will he at once enlightens, strengthens and urges it on to salvation.",
+      "kind": "paraphrase",
+      "personId": "john-cassian",
+      "citation": "Conferences 13.8-13.11 (paraphrase)",
+      "topics": [
+        "grace",
+        "free will",
+        "synergy"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "year": 427
+    },
+    {
+      "id": "caesarius-orange-conclusion",
+      "text": "The council concludes that through the sin of the first man free will was so weakened that no one can love God, believe, or do good for God’s sake unless grace has gone before; and it anathematises any who say that some are predestined to evil by divine power.",
+      "kind": "paraphrase",
+      "personId": "caesarius-of-arles",
+      "citation": "Second Council of Orange (529), Conclusion (paraphrase)",
+      "topics": [
+        "grace",
+        "predestination",
+        "semi-Pelagianism"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "workId": "canons-of-orange",
+      "year": 529
+    },
+    {
+      "id": "gottschalk-twofold",
+      "text": "Gottschalk confesses that God by an unchangeable decree has predestined the elect to eternal life and the reprobate to eternal death — a single predestination that is \"twofold\" (gemina).",
+      "kind": "paraphrase",
+      "personId": "gottschalk",
+      "citation": "Shorter Confession (Confessio brevior), c.848 (paraphrase)",
+      "topics": [
+        "predestination",
+        "reprobation"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "year": 848
+    },
+    {
+      "id": "aquinas-grace-perfects-nature",
+      "text": "Since therefore grace does not destroy nature, but perfects it, natural reason should minister to faith.",
+      "kind": "quotation",
+      "translation": "tr. Fathers of the English Dominican Province (1920)",
+      "personId": "thomas-aquinas",
+      "citation": "Summa Theologiae I, q. 1, a. 8, ad 2",
+      "topics": [
+        "grace",
+        "nature"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "workId": "aquinas-summa-theologiae",
+      "year": 1266
+    },
+    {
+      "id": "aquinas-grace-moves-will",
+      "text": "Aquinas teaches that a person cannot prepare himself for grace without the gratuitous help of God moving him inwardly, and that merit itself is the fruit of grace, since God crowns his own gifts.",
+      "kind": "paraphrase",
+      "personId": "thomas-aquinas",
+      "citation": "Summa Theologiae I-II, q. 109 a. 6; q. 114 a. 3 (paraphrase)",
+      "topics": [
+        "grace",
+        "merit"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "workId": "aquinas-summa-theologiae",
+      "year": 1271
+    },
+    {
+      "id": "molina-middle-knowledge",
+      "text": "Molina argues that God knows, prior to his decree, what every possible free creature would freely do in every possible circumstance; by choosing which circumstances to actualise, God providentially ordains all things without overriding freedom.",
+      "kind": "paraphrase",
+      "personId": "luis-de-molina",
+      "citation": "Concordia (1588), Part IV, disp. 52 (paraphrase)",
+      "topics": [
+        "middle knowledge",
+        "free will",
+        "providence"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "year": 1588
+    },
+    {
+      "id": "pascal-two-graces",
+      "text": "Pascal mocks a \"sufficient grace\" that does not suffice, defending against the Jesuit casuists the Augustinian teaching that efficacious grace infallibly and yet sweetly moves the will.",
+      "kind": "paraphrase",
+      "personId": "blaise-pascal",
+      "citation": "Provincial Letters 1-2 (1656) (paraphrase)",
+      "topics": [
+        "Jansenism",
+        "efficacious grace"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "year": 1656
+    },
+    {
+      "id": "luther-free-lord-servant",
+      "text": "A Christian man is the most free lord of all, and subject to none; a Christian man is the most dutiful servant of all, and subject to every one.",
+      "kind": "quotation",
+      "translation": "tr. H. Wace & C. A. Buchheim, First Principles of the Reformation (1883)",
+      "personId": "martin-luther",
+      "citation": "The Freedom of a Christian (1520), opening thesis",
+      "topics": [
+        "justification",
+        "freedom",
+        "good works"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "workId": "luther-freedom-of-a-christian",
+      "year": 1520
+    },
+    {
+      "id": "luther-joyful-exchange",
+      "text": "Faith unites the soul to Christ as a bride to her bridegroom: all that Christ has — grace, life, righteousness — becomes the soul’s, and all that the soul has — sin, death, damnation — becomes Christ’s.",
+      "kind": "paraphrase",
+      "personId": "martin-luther",
+      "citation": "The Freedom of a Christian (1520), §12 (paraphrase)",
+      "topics": [
+        "union with Christ",
+        "justification",
+        "happy exchange"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "workId": "luther-freedom-of-a-christian",
+      "year": 1520
+    },
+    {
+      "id": "luther-bound-will",
+      "text": "Against Erasmus, Luther likens the human will to a beast of burden standing between two riders: ridden by God it goes where God wills, ridden by Satan where Satan wills, and it cannot choose its rider.",
+      "kind": "paraphrase",
+      "personId": "martin-luther",
+      "citation": "The Bondage of the Will (1525), WA 18:635 (paraphrase)",
+      "topics": [
+        "free will",
+        "predestination"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "workId": "luther-bondage-of-the-will",
+      "year": 1525
+    },
+    {
+      "id": "luther-smalcald-chief-article",
+      "text": "Of this article nothing can be yielded or surrendered, even though heaven and earth, and whatever will not abide, should sink to ruin.",
+      "kind": "quotation",
+      "translation": "Concordia Triglotta (1921)",
+      "personId": "martin-luther",
+      "citation": "Smalcald Articles II.1.5",
+      "topics": [
+        "justification",
+        "sola fide"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "workId": "smalcald-articles",
+      "year": 1537
+    },
+    {
+      "id": "melanchthon-augsburg-iv",
+      "text": "Also they teach that men cannot be justified before God by their own strength, merits, or works, but are freely justified for Christ’s sake, through faith, when they believe that they are received into favor, and that their sins are forgiven for Christ’s sake, who, by His death, has made satisfaction for our sins.",
+      "kind": "quotation",
+      "translation": "Concordia Triglotta (1921)",
+      "personId": "philip-melanchthon",
+      "citation": "Augsburg Confession, Article IV",
+      "topics": [
+        "justification",
+        "sola fide"
+      ],
+      "doctrineIds": [
+        "salvation",
+        "atonement"
+      ],
+      "workId": "augsburg-confession",
+      "year": 1530
+    },
+    {
+      "id": "calvin-without-christ",
+      "text": "So long as we are without Christ and separated from him, nothing which he suffered and did for the salvation of the human race is of the least benefit to us.",
+      "kind": "quotation",
+      "translation": "tr. Henry Beveridge (1845)",
+      "personId": "john-calvin",
+      "citation": "Institutes III.1.1",
+      "topics": [
+        "union with Christ",
+        "Holy Spirit"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "workId": "calvin-institutes",
+      "year": 1559
+    },
+    {
+      "id": "calvin-principal-hinge",
+      "text": "The principal hinge by which religion is supported.",
+      "kind": "quotation",
+      "translation": "tr. Henry Beveridge (1845)",
+      "personId": "john-calvin",
+      "citation": "Institutes III.11.1 (of justification)",
+      "topics": [
+        "justification"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "workId": "calvin-institutes",
+      "year": 1559
+    },
+    {
+      "id": "calvin-predestination-defined",
+      "text": "By predestination we mean the eternal decree of God, by which he determined with himself whatever he wished to happen with regard to every man. All are not created on equal terms, but some are preordained to eternal life, others to eternal damnation.",
+      "kind": "quotation",
+      "translation": "tr. Henry Beveridge (1845)",
+      "personId": "john-calvin",
+      "citation": "Institutes III.21.5",
+      "topics": [
+        "predestination",
+        "election"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "workId": "calvin-institutes",
+      "year": 1559
+    },
+    {
+      "id": "calvin-mystical-union",
+      "text": "Calvin insists that we do not contemplate Christ at a distance so that his righteousness is imputed to us from outside; rather, because we have put on Christ and been grafted into his body, he deigns to make us one with himself — the \"mystical union\" he ranks of the highest importance.",
+      "kind": "paraphrase",
+      "personId": "john-calvin",
+      "citation": "Institutes III.11.10 (paraphrase)",
+      "topics": [
+        "union with Christ",
+        "imputation"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "workId": "calvin-institutes",
+      "year": 1559
+    },
+    {
+      "id": "arminius-grace-resistible",
+      "text": "Arminius declares that he ascribes to grace the beginning, continuation and completion of all good, so that even the regenerate can neither think nor do good without it; the only question is whether grace is an irresistible force — and he believes Scripture shows many who resisted the Holy Spirit.",
+      "kind": "paraphrase",
+      "personId": "jacobus-arminius",
+      "citation": "Declaration of Sentiments (1608), on grace and free will (paraphrase)",
+      "topics": [
+        "grace",
+        "free will",
+        "resistible grace"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "year": 1608
+    },
+    {
+      "id": "spurgeon-calvinism-gospel",
+      "text": "It is a nickname to call it Calvinism; Calvinism is the gospel, and nothing else.",
+      "kind": "quotation",
+      "personId": "charles-spurgeon",
+      "citation": "C. H. Spurgeon’s Autobiography, vol. 1, ch. 16, \"A Defence of Calvinism\"",
+      "topics": [
+        "Calvinism",
+        "preaching"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "year": 1897
+    },
+    {
+      "id": "wesley-heart-strangely-warmed",
+      "text": "I felt my heart strangely warmed. I felt I did trust in Christ, Christ alone, for salvation; and an assurance was given me that He had taken away my sins, even mine, and saved me from the law of sin and death.",
+      "kind": "quotation",
+      "personId": "john-wesley",
+      "citation": "Journal, 24 May 1738",
+      "topics": [
+        "assurance",
+        "conversion",
+        "faith"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "workId": "wesley-journal",
+      "year": 1738
+    },
+    {
+      "id": "wesley-perfect-love",
+      "text": "Wesley explains Christian perfection as nothing higher or lower than pure love filling the heart and governing words and actions — not freedom from ignorance, mistakes or temptation, and never a state beyond growth or beyond need of Christ.",
+      "kind": "paraphrase",
+      "personId": "john-wesley",
+      "citation": "A Plain Account of Christian Perfection (1766), §§19, 25 (paraphrase)",
+      "topics": [
+        "sanctification",
+        "perfection"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "workId": "wesley-plain-account",
+      "year": 1766
+    },
+    {
+      "id": "palmer-altar",
+      "text": "Phoebe Palmer taught a \"shorter way\": lay all on the altar, which is Christ, believe God’s promise that the altar sanctifies the gift, and testify to entire sanctification now rather than waiting for feelings.",
+      "kind": "paraphrase",
+      "personId": "phoebe-palmer",
+      "citation": "The Way of Holiness (1843) (paraphrase)",
+      "topics": [
+        "entire sanctification",
+        "altar theology"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "year": 1843
+    },
+    {
+      "id": "smith-rest-of-faith",
+      "text": "Hannah Whitall Smith urges believers to stop striving and to hand over the whole of life to Christ in full consecration, trusting him moment by moment to live the victorious life in them.",
+      "kind": "paraphrase",
+      "personId": "hannah-whitall-smith",
+      "citation": "The Christian’s Secret of a Happy Life (1875) (paraphrase)",
+      "topics": [
+        "Keswick",
+        "higher life",
+        "sanctification"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "year": 1875
+    },
+    {
+      "id": "durham-finished-work",
+      "text": "Durham argued that the believer is sanctified in Christ at conversion by the finished work of Calvary; there is no second crisis of cleansing, only an ongoing appropriation of what was already given.",
+      "kind": "paraphrase",
+      "personId": "william-durham",
+      "citation": "The Pentecostal Testimony (Chicago, 1911) (paraphrase)",
+      "topics": [
+        "sanctification",
+        "finished work"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "year": 1911
+    },
+    {
+      "id": "hodges-free-grace",
+      "text": "Hodges holds that eternal life is given freely to anyone who believes Jesus’ promise of it; to require surrender, perseverance or fruit as conditions of salvation or of assurance would turn grace into a reward.",
+      "kind": "paraphrase",
+      "personId": "zane-hodges",
+      "citation": "Absolutely Free! (1989) (paraphrase)",
+      "topics": [
+        "free grace",
+        "assurance",
+        "faith"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "year": 1989
+    },
+    {
+      "id": "macarthur-lordship",
+      "text": "MacArthur argues that the gospel Jesus preached calls sinners to repentance and to submit to him as Lord; a \"faith\" that leaves life unchanged is not the saving faith of the New Testament.",
+      "kind": "paraphrase",
+      "personId": "john-macarthur",
+      "citation": "The Gospel According to Jesus (1988) (paraphrase)",
+      "topics": [
+        "lordship salvation",
+        "repentance"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "year": 1988
+    },
+    {
+      "id": "sanders-covenantal-nomism",
+      "text": "Sanders argues that in Palestinian Judaism one \"gets in\" to the covenant by God’s gracious election and \"stays in\" by obedience and atonement — a pattern he calls covenantal nomism, not legalistic earning of salvation.",
+      "kind": "paraphrase",
+      "personId": "e-p-sanders",
+      "citation": "Paul and Palestinian Judaism (1977), conclusion (paraphrase)",
+      "topics": [
+        "New Perspective",
+        "Judaism",
+        "law"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "year": 1977
+    },
+    {
+      "id": "wright-justification-covenant",
+      "text": "Wright argues that for Paul justification is God’s declaration of who belongs to his single worldwide covenant family, marked by faith in Jesus, anticipating the final verdict that will accord with the whole life lived in the Spirit.",
+      "kind": "paraphrase",
+      "personId": "n-t-wright",
+      "citation": "What Saint Paul Really Said (1997); Justification (2009) (paraphrase)",
+      "topics": [
+        "New Perspective",
+        "justification",
+        "covenant"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "year": 2009
+    },
+    {
+      "id": "athanasius-made-god",
+      "text": "For He was made man that we might be made God; and He manifested Himself by a body that we might receive the idea of the unseen Father; and He endured the insolence of men that we might inherit immortality.",
+      "kind": "quotation",
+      "translation": "tr. Archibald Robertson, NPNF II/4 (1892)",
+      "personId": "athanasius",
+      "citation": "On the Incarnation 54.3",
+      "topics": [
+        "theosis",
+        "incarnation",
+        "union with Christ"
+      ],
+      "doctrineIds": [
+        "salvation",
+        "atonement",
+        "christology"
+      ],
+      "workId": "athanasius-on-the-incarnation",
+      "year": 318
+    },
+    {
+      "id": "irenaeus-become-what-we-are",
+      "text": "Our Lord Jesus Christ, who did, through His transcendent love, become what we are, that He might bring us to be even what He is Himself.",
+      "kind": "quotation",
+      "translation": "tr. A. Roberts & W. Rambaut, ANF 1 (1885)",
+      "personId": "irenaeus",
+      "citation": "Against Heresies V, Preface",
+      "topics": [
+        "theosis",
+        "incarnation",
+        "union with Christ"
+      ],
+      "doctrineIds": [
+        "salvation",
+        "atonement"
+      ],
+      "workId": "irenaeus-against-heresies",
+      "year": 180
+    },
+    {
+      "id": "irenaeus-glory-living-man",
+      "text": "For the glory of God is a living man; and the life of man consists in beholding God.",
+      "kind": "quotation",
+      "translation": "tr. A. Roberts & W. Rambaut, ANF 1 (1885)",
+      "personId": "irenaeus",
+      "citation": "Against Heresies IV.20.7",
+      "topics": [
+        "theosis",
+        "vision of God"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "workId": "irenaeus-against-heresies",
+      "year": 180
+    },
+    {
+      "id": "palamas-energies",
+      "text": "Palamas teaches that God is wholly present in his uncreated energies, so that the saints truly participate in God and become gods by grace, while God’s essence remains utterly beyond participation and knowledge.",
+      "kind": "paraphrase",
+      "personId": "gregory-palamas",
+      "citation": "Triads III.2-3; One Hundred and Fifty Chapters 75-81 (paraphrase)",
+      "topics": [
+        "theosis",
+        "essence and energies",
+        "hesychasm"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "workId": "palamas-triads",
+      "year": 1340
+    },
+    {
+      "id": "origen-end-like-beginning",
+      "text": "For the end is always like the beginning.",
+      "kind": "quotation",
+      "translation": "tr. Frederick Crombie, ANF 4 (1885), from Rufinus’ Latin",
+      "personId": "origen",
+      "citation": "On First Principles I.6.2",
+      "topics": [
+        "apokatastasis",
+        "eschatology"
+      ],
+      "doctrineIds": [
+        "salvation",
+        "eschatology"
+      ],
+      "workId": "origen-de-principiis",
+      "year": 229
+    },
+    {
+      "id": "origen-enemies-subdued",
+      "text": "Origen reasons from 1 Corinthians 15:24-28 that when Christ subjects all things to the Father, his enemies are conquered not by destruction but by correction, so that God may be \"all in all\".",
+      "kind": "paraphrase",
+      "personId": "origen",
+      "citation": "On First Principles I.6.1-3; III.6.5 (paraphrase)",
+      "topics": [
+        "apokatastasis",
+        "restoration"
+      ],
+      "doctrineIds": [
+        "salvation",
+        "eschatology"
+      ],
+      "workId": "origen-de-principiis",
+      "year": 229
+    },
+    {
+      "id": "nyssa-evil-removed",
+      "text": "In the dialogue Macrina argues that evil has no existence of its own and so cannot last forever; the fire of judgement purifies like a refiner’s fire until evil is wholly removed and God is all in all.",
+      "kind": "paraphrase",
+      "personId": "gregory-of-nyssa",
+      "citation": "On the Soul and the Resurrection (paraphrase)",
+      "topics": [
+        "apokatastasis",
+        "purgation"
+      ],
+      "doctrineIds": [
+        "salvation",
+        "eschatology"
+      ],
+      "workId": "gregory-nyssa-soul-resurrection",
+      "year": 380
+    },
+    {
+      "id": "isaac-scourge-of-love",
+      "text": "Isaac of Nineveh teaches that those in Gehenna are scourged by the scourge of love, and in his later homilies hopes that the mercy which created all things will not be defeated in the end.",
+      "kind": "paraphrase",
+      "personId": "isaac-of-nineveh",
+      "citation": "Ascetical Homilies I.28; Second Part, Homilies 39-41 (paraphrase)",
+      "topics": [
+        "hell",
+        "mercy",
+        "universal hope"
+      ],
+      "doctrineIds": [
+        "salvation",
+        "eschatology"
+      ],
+      "year": 680
+    },
+    {
+      "id": "julian-all-shall-be-well",
+      "text": "All shall be well, and all shall be well, and all manner of thing shall be well.",
+      "kind": "quotation",
+      "translation": "Long Text, ed. Grace Warrack (1901)",
+      "personId": "julian-of-norwich",
+      "citation": "Revelations of Divine Love, ch. 27 (Thirteenth Revelation)",
+      "topics": [
+        "hope",
+        "sin",
+        "providence"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "workId": "julian-revelations",
+      "year": 1393
+    },
+    {
+      "id": "talbott-inescapable-love",
+      "text": "Talbott argues that a God of perfect love would never cease seeking the lost, and that since no fully informed person could have a motive to reject the source of their own happiness forever, God’s love will in the end win everyone freely.",
+      "kind": "paraphrase",
+      "personId": "thomas-talbott",
+      "citation": "The Inescapable Love of God (1999) (paraphrase)",
+      "topics": [
+        "universalism",
+        "freedom",
+        "love of God"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "year": 1999
+    },
+    {
+      "id": "hart-all-saved",
+      "text": "Hart contends that a God who creates freely out of nothing is morally responsible for the final end of all he makes, so that eternal torment would make God’s goodness unintelligible.",
+      "kind": "paraphrase",
+      "personId": "david-bentley-hart",
+      "citation": "That All Shall Be Saved (2019) (paraphrase)",
+      "topics": [
+        "universalism",
+        "creation",
+        "goodness of God"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "year": 2019
+    },
+    {
+      "id": "fudge-destruction",
+      "text": "Fudge argues that the Bible’s language of death, destruction and consuming fire means that the unsaved finally perish; immortality is God’s gift in Christ, not a natural possession of every soul.",
+      "kind": "paraphrase",
+      "personId": "edward-fudge",
+      "citation": "The Fire That Consumes (1982) (paraphrase)",
+      "topics": [
+        "annihilationism",
+        "conditional immortality"
+      ],
+      "doctrineIds": [
+        "salvation",
+        "eschatology"
+      ],
+      "year": 1982
+    },
+    {
+      "id": "stott-tentative-annihilation",
+      "text": "Stott wrote that he held the view tentatively, but found it emotionally intolerable and exegetically unpersuasive that people could be kept in conscious torment for ever; he judged final annihilation a legitimate, biblically founded alternative.",
+      "kind": "paraphrase",
+      "personId": "john-stott",
+      "citation": "Essentials: A Liberal-Evangelical Dialogue (with David L. Edwards, 1988), pp. 312-320 (paraphrase)",
+      "topics": [
+        "annihilationism",
+        "hell"
+      ],
+      "doctrineIds": [
+        "salvation",
+        "eschatology"
+      ],
+      "year": 1988
+    },
+    {
+      "id": "edwards-spider",
+      "text": "The God that holds you over the pit of hell, much as one holds a spider, or some loathsome insect, over the fire, abhors you, and is dreadfully provoked.",
+      "kind": "quotation",
+      "personId": "jonathan-edwards",
+      "citation": "Sinners in the Hands of an Angry God (Enfield, 8 July 1741)",
+      "topics": [
+        "hell",
+        "wrath",
+        "revival preaching"
+      ],
+      "doctrineIds": [
+        "salvation",
+        "eschatology"
+      ],
+      "workId": "edwards-sinners",
+      "year": 1741
+    }
+  ],
+  "people": [
+    {
+      "id": "caesarius-of-arles",
+      "name": "Caesarius of Arles",
+      "born": 470,
+      "died": 542,
+      "circa": true,
+      "roles": [
+        "bishop",
+        "preacher",
+        "monastic founder"
+      ],
+      "traditionIds": [
+        "early-church",
+        "catholic"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Bishop of Arles (502-542), popular preacher and monastic legislator, who presided over the Second Council of Orange (529) that settled the semi-Pelagian controversy in favour of a moderate Augustinianism.",
+      "keyIdeas": [
+        "Prevenient grace begins faith",
+        "Rejection of predestination to evil",
+        "Pastoral preaching for ordinary believers"
+      ],
+      "influencedBy": [
+        "augustine-of-hippo"
+      ],
+      "sources": [
+        "odcc",
+        "kelly-doctrines"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "david-bentley-hart",
+      "name": "David Bentley Hart",
+      "born": 1965,
+      "circa": false,
+      "roles": [
+        "Orthodox theologian",
+        "translator"
+      ],
+      "traditionIds": [
+        "eastern-orthodox"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "American Orthodox theologian and translator of the New Testament (2017) whose That All Shall Be Saved (2019) argues that eternal torment is incompatible with God as creator ex nihilo and perfect goodness.",
+      "keyIdeas": [
+        "Universal salvation",
+        "Classical theism and the goodness of God"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "parry-universalism-history"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "e-p-sanders",
+      "name": "E. P. Sanders",
+      "born": 1937,
+      "died": 2022,
+      "circa": false,
+      "roles": [
+        "New Testament scholar"
+      ],
+      "traditionIds": [],
+      "regions": [
+        "north-america",
+        "western-europe"
+      ],
+      "summary": "American scholar whose Paul and Palestinian Judaism (1977) argued that Second Temple Judaism was a religion of grace (\"covenantal nomism\"), not legalistic works-righteousness, launching what became the New Perspective on Paul.",
+      "keyIdeas": [
+        "Covenantal nomism",
+        "Participationist eschatology in Paul"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "sanders-paul-judaism",
+        "westerholm-perspectives"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "hannah-whitall-smith",
+      "name": "Hannah Whitall Smith",
+      "born": 1832,
+      "died": 1911,
+      "circa": false,
+      "roles": [
+        "author",
+        "evangelist",
+        "reformer"
+      ],
+      "traditionIds": [
+        "holiness-movement",
+        "quaker"
+      ],
+      "regions": [
+        "north-america",
+        "western-europe"
+      ],
+      "summary": "American Quaker-born Holiness writer whose The Christian’s Secret of a Happy Life (1875), with the Brighton and Oxford conventions she and her husband Robert Pearsall Smith led, helped launch the Keswick \"higher life\" movement.",
+      "keyIdeas": [
+        "Rest of faith",
+        "Surrender and consecration",
+        "Victorious Christian life"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "bundy-keswick",
+        "bebbington-evangelicalism"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "isaac-of-nineveh",
+      "name": "Isaac of Nineveh (Isaac the Syrian)",
+      "born": 613,
+      "died": 700,
+      "circa": true,
+      "roles": [
+        "bishop",
+        "ascetic writer"
+      ],
+      "traditionIds": [
+        "church-of-the-east",
+        "assyrian-church-of-the-east"
+      ],
+      "regions": [
+        "mesopotamia-persia"
+      ],
+      "summary": "Seventh-century monk of the Church of the East, briefly bishop of Nineveh, whose ascetic homilies were translated into Greek and loved across Orthodox Christendom; in his \"Second Part\" he expressed the hope that Gehenna is remedial and that God’s love will finally prevail for all.",
+      "keyIdeas": [
+        "Mercy of God beyond justice",
+        "Gehenna as the scourge of love",
+        "Hope for universal restoration"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "jenkins-lost-history",
+        "parry-universalism-history"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "james-d-g-dunn",
+      "name": "James D. G. Dunn",
+      "born": 1939,
+      "died": 2020,
+      "circa": false,
+      "roles": [
+        "New Testament scholar",
+        "Methodist local preacher"
+      ],
+      "traditionIds": [
+        "methodist"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "British New Testament scholar (Durham) who named the \"New Perspective on Paul\" (1982 Manson lecture), arguing that \"works of the law\" refers chiefly to Jewish boundary markers; his Baptism in the Holy Spirit (1970) argued that Spirit-baptism in the New Testament is part of conversion-initiation.",
+      "keyIdeas": [
+        "New Perspective on Paul",
+        "Spirit-baptism as conversion-initiation"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "westerholm-perspectives",
+        "dunn-baptism-spirit"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "john-cassian",
+      "name": "John Cassian",
+      "born": 360,
+      "died": 435,
+      "circa": true,
+      "roles": [
+        "monk",
+        "theologian"
+      ],
+      "traditionIds": [
+        "early-church",
+        "catholic",
+        "eastern-orthodox"
+      ],
+      "regions": [
+        "western-europe",
+        "egypt"
+      ],
+      "summary": "Monk trained among the Desert Fathers of Egypt who founded monasteries at Marseille; his Conferences (c.426-429), especially Conference 13, held that the first movement toward God can arise from the human will, assisted by grace — a view later labelled \"semi-Pelagian\". He is venerated as a saint in East and West.",
+      "keyIdeas": [
+        "Synergy of grace and will",
+        "Desert spirituality transmitted to the West"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "odcc",
+        "chadwick-early-church"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "john-gill",
+      "name": "John Gill",
+      "born": 1697,
+      "died": 1771,
+      "circa": false,
+      "roles": [
+        "Baptist pastor",
+        "theologian"
+      ],
+      "traditionIds": [
+        "baptist"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "English Particular Baptist pastor in Southwark and learned commentator; often associated with \"high\" or hyper-Calvinism for teaching eternal justification and reluctance to offer the gospel indiscriminately, though scholars debate how far he denied the free offer.",
+      "keyIdeas": [
+        "Eternal justification",
+        "Supralapsarian ordering"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "odcc",
+        "bebbington-evangelicalism"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "john-macarthur",
+      "name": "John MacArthur",
+      "born": 1939,
+      "circa": false,
+      "roles": [
+        "pastor",
+        "author"
+      ],
+      "traditionIds": [
+        "evangelical"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "Pastor of Grace Community Church, Sun Valley, California, whose The Gospel According to Jesus (1988) argued that saving faith includes submission to Christ as Lord, sparking the \"lordship salvation\" debate.",
+      "keyIdeas": [
+        "Lordship salvation",
+        "Genuine faith perseveres in obedience"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "bateman-lordship"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "luis-de-molina",
+      "name": "Luis de Molina",
+      "born": 1535,
+      "died": 1600,
+      "circa": false,
+      "roles": [
+        "Jesuit theologian"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Spanish Jesuit whose Concordia (1588) reconciled grace, foreknowledge and free will through God’s \"middle knowledge\" (scientia media) of what free creatures would do in any circumstance; this provoked the De Auxiliis controversy with the Dominicans.",
+      "keyIdeas": [
+        "Middle knowledge",
+        "Grace efficacious through free consent"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "odcc",
+        "pelikan-christian-tradition"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "moise-amyraut",
+      "name": "Moïse Amyraut",
+      "born": 1596,
+      "died": 1664,
+      "circa": false,
+      "roles": [
+        "Reformed theologian",
+        "professor at Saumur"
+      ],
+      "traditionIds": [
+        "reformed"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "French Huguenot theologian at the Academy of Saumur whose Brief Traitté de la prédestination (1634), developing John Cameron, taught a \"hypothetical universalism\": Christ died for all on condition of faith, while God elects some to receive faith.",
+      "keyIdeas": [
+        "Hypothetical universalism",
+        "Universal conditional decree prior to particular election"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "odcc",
+        "muller-calvin-after"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "thomas-talbott",
+      "name": "Thomas Talbott",
+      "born": 1941,
+      "circa": false,
+      "roles": [
+        "philosopher"
+      ],
+      "traditionIds": [
+        "evangelical"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "American philosopher (Willamette University) whose The Inescapable Love of God (1999) argued on biblical and philosophical grounds that God’s love will eventually win every person freely.",
+      "keyIdeas": [
+        "Evangelical universalism",
+        "Irresistible love compatible with freedom"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "parry-universalism-history"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "william-durham",
+      "name": "William H. Durham",
+      "born": 1873,
+      "died": 1912,
+      "circa": false,
+      "roles": [
+        "Pentecostal pastor"
+      ],
+      "traditionIds": [
+        "pentecostal"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "Chicago pastor baptized in the Spirit at Azusa Street (1907) who in 1910 preached \"the Finished Work of Calvary\": sanctification is received at conversion by identification with Christ and then progressively appropriated, rejecting a separate second work of entire sanctification.",
+      "keyIdeas": [
+        "Finished work of Calvary",
+        "Two-stage (not three-stage) Pentecostal order"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "synan-holiness-pentecostal",
+        "anderson-pentecostalism"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "zane-hodges",
+      "name": "Zane C. Hodges",
+      "born": 1932,
+      "died": 2008,
+      "circa": false,
+      "roles": [
+        "New Testament scholar"
+      ],
+      "traditionIds": [
+        "evangelical"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "Dallas Theological Seminary professor and co-founder of the Grace Evangelical Society (1986), leading exponent of \"free grace\" theology: eternal life is received by believing Jesus’ promise, without requiring commitment to his lordship or evidence of fruit.",
+      "keyIdeas": [
+        "Free grace",
+        "Assurance from the promise, not from works"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "bateman-lordship"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "works": [
+    {
+      "id": "augustine-confessions",
+      "title": "Confessions",
+      "authorId": "augustine-of-hippo",
+      "year": 398,
+      "circa": true,
+      "language": "Latin",
+      "genre": "testimony",
+      "summary": "Augustine's autobiographical prayer to God, narrating his restless search, his conversion in the garden at Milan (386) and meditations on memory, time and creation.",
+      "significance": "Its prayer \"give what you command\" provoked Pelagius; it became the model of Christian autobiography and of grace experienced as rescue.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/1101.htm",
+      "doctrineIds": [
+        "salvation"
+      ],
+      "sources": [
+        "anf-npnf",
+        "new-advent"
+      ]
+    },
+    {
+      "id": "augustine-enchiridion",
+      "title": "Enchiridion on Faith, Hope and Love",
+      "authorId": "augustine-of-hippo",
+      "year": 421,
+      "circa": true,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "A short handbook of the faith organised around the Creed and the Lord’s Prayer, written for a layman named Laurentius.",
+      "significance": "A compact summary of Augustine's mature theology of sin, grace and predestination.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/1302.htm",
+      "doctrineIds": [
+        "salvation"
+      ],
+      "sources": [
+        "anf-npnf",
+        "new-advent"
+      ]
+    },
+    {
+      "id": "augustine-on-nature-and-grace",
+      "title": "On Nature and Grace (De natura et gratia)",
+      "authorId": "augustine-of-hippo",
+      "year": 415,
+      "circa": false,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "Augustine's reply to Pelagius' lost treatise On Nature. He argues that human nature, created good, has been wounded by Adam's sin so that it cannot be healed or fulfil the law without the grace of Christ, which is not merely teaching or example but an inner healing power.",
+      "significance": "The first full anti-Pelagian answer that names Pelagius directly; it fixed the Western framing of nature and grace for a millennium.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/1503.htm",
+      "doctrineIds": [
+        "salvation"
+      ],
+      "sources": [
+        "anf-npnf",
+        "new-advent"
+      ]
+    },
+    {
+      "id": "canons-of-orange",
+      "title": "Canons of the Second Council of Orange",
+      "authorId": "caesarius-of-arles",
+      "author": "Council of Orange (Arausio), presided over by Caesarius of Arles",
+      "year": 529,
+      "circa": false,
+      "language": "Latin",
+      "genre": "canon",
+      "summary": "Twenty-five canons and a conclusion, drawn largely from Augustine and Prosper of Aquitaine, affirming that even the beginning of faith is a gift of grace, while rejecting predestination to evil.",
+      "significance": "Defined a moderate Augustinianism against \"semi-Pelagianism\"; confirmed by Pope Boniface II in 531, then largely forgotten until rediscovered in the 16th century.",
+      "doctrineIds": [
+        "salvation"
+      ],
+      "sources": [
+        "kelly-doctrines",
+        "pelikan-christian-tradition",
+        "odcc"
+      ]
+    },
+    {
+      "id": "edwards-sinners",
+      "title": "Sinners in the Hands of an Angry God",
+      "authorId": "jonathan-edwards",
+      "year": 1741,
+      "circa": false,
+      "language": "English",
+      "genre": "sermon",
+      "summary": "Sermon preached at Enfield, Connecticut, on 8 July 1741 on Deuteronomy 32:35, depicting the precariousness of the unconverted.",
+      "significance": "The most famous sermon of the First Great Awakening and an emblem of the doctrine of eternal punishment in American memory.",
+      "fullTextUrl": "https://www.ccel.org/ccel/edwards/sermons.sinners.html",
+      "doctrineIds": [
+        "salvation",
+        "eschatology"
+      ],
+      "sources": [
+        "noll-christianity-us",
+        "ccel"
+      ]
+    },
+    {
+      "id": "gregory-nyssa-soul-resurrection",
+      "title": "On the Soul and the Resurrection",
+      "authorId": "gregory-of-nyssa",
+      "year": 380,
+      "circa": true,
+      "language": "Greek",
+      "genre": "treatise",
+      "summary": "A dialogue modelled on Plato's Phaedo between Gregory and his dying sister Macrina on death, resurrection and the purifying end of evil.",
+      "significance": "Principal source for Gregory's hope of universal restoration.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/2915.htm",
+      "doctrineIds": [
+        "salvation",
+        "eschatology"
+      ],
+      "sources": [
+        "anf-npnf",
+        "ramelli-apokatastasis"
+      ]
+    },
+    {
+      "id": "julian-revelations",
+      "title": "Revelations of Divine Love",
+      "authorId": "julian-of-norwich",
+      "year": 1393,
+      "circa": true,
+      "language": "Middle English",
+      "genre": "devotional",
+      "summary": "Julian’s account and long meditation on sixteen \"showings\" received in May 1373, including the assurance that \"all shall be well\".",
+      "significance": "The first book in English known to be written by a woman; a touchstone for later hopeful eschatologies.",
+      "fullTextUrl": "https://www.ccel.org/ccel/julian/revelations",
+      "doctrineIds": [
+        "salvation"
+      ],
+      "sources": [
+        "mcginn-mysticism",
+        "ccel"
+      ]
+    },
+    {
+      "id": "luther-bondage-of-the-will",
+      "title": "The Bondage of the Will (De servo arbitrio)",
+      "authorId": "martin-luther",
+      "year": 1525,
+      "circa": false,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "Luther's reply to Erasmus' Diatribe on Free Will (1524), arguing that the fallen will is bound in matters of salvation and that God's foreknowledge and will are immutable.",
+      "significance": "Luther considered it, with the Catechism, among his few books worth preserving; it marked the break between humanism and the Reformation.",
+      "doctrineIds": [
+        "salvation"
+      ],
+      "sources": [
+        "macculloch-reformation",
+        "mcgrath-reformation-thought"
+      ]
+    },
+    {
+      "id": "luther-freedom-of-a-christian",
+      "title": "The Freedom of a Christian (De libertate christiana)",
+      "authorId": "martin-luther",
+      "year": 1520,
+      "circa": false,
+      "language": "German / Latin",
+      "genre": "treatise",
+      "summary": "Luther's short treatise, sent with a letter to Pope Leo X, arguing that faith alone justifies, unites the soul with Christ like a bride with a bridegroom (the 'joyful exchange'), and then freely overflows in love to the neighbour.",
+      "significance": "The most widely read summary of Reformation soteriology; it holds forensic justification and union with Christ together.",
+      "fullTextUrl": "https://www.gutenberg.org/ebooks/1911",
+      "doctrineIds": [
+        "salvation"
+      ],
+      "sources": [
+        "macculloch-reformation",
+        "mcgrath-iustitia"
+      ]
+    },
+    {
+      "id": "palamas-triads",
+      "title": "Triads in Defence of the Holy Hesychasts",
+      "authorId": "gregory-palamas",
+      "year": 1340,
+      "circa": true,
+      "language": "Greek",
+      "genre": "treatise",
+      "summary": "Three sets of three treatises defending hesychast prayer against Barlaam of Calabria, arguing that the saints truly participate in God’s uncreated energies (as in the light of Tabor) while God’s essence remains imparticipable.",
+      "significance": "Source of the essence/energies distinction endorsed by the Constantinople councils of 1341-1351.",
+      "doctrineIds": [
+        "salvation",
+        "holy-spirit"
+      ],
+      "sources": [
+        "meyendorff-palamas",
+        "ware-orthodox-church"
+      ]
+    },
+    {
+      "id": "pelagius-letter-to-demetrias",
+      "title": "Letter to Demetrias (Epistula ad Demetriadem)",
+      "authorId": "pelagius",
+      "year": 413,
+      "circa": true,
+      "language": "Latin",
+      "genre": "letter",
+      "summary": "A spiritual letter to the young Roman aristocrat Demetrias on her taking the veil, urging her that God commands nothing impossible and that human nature, as created by God, is capable of holiness.",
+      "significance": "The most complete surviving statement of Pelagius' own teaching (long transmitted under the names of Jerome and Augustine).",
+      "doctrineIds": [
+        "salvation"
+      ],
+      "sources": [
+        "kelly-doctrines",
+        "pelikan-christian-tradition"
+      ]
+    },
+    {
+      "id": "smalcald-articles",
+      "title": "Smalcald Articles",
+      "authorId": "martin-luther",
+      "year": 1537,
+      "circa": false,
+      "language": "German",
+      "genre": "confession",
+      "summary": "Articles drawn up by Luther for a proposed general council, distinguishing points that can and cannot be yielded; the \"first and chief article\" is justification through Christ.",
+      "significance": "Part of the Lutheran Book of Concord (1580).",
+      "fullTextUrl": "https://bookofconcord.org/smalcald-articles/",
+      "doctrineIds": [
+        "salvation"
+      ],
+      "sources": [
+        "book-of-concord"
+      ]
+    },
+    {
+      "id": "wesley-journal",
+      "title": "Journal of John Wesley",
+      "authorId": "john-wesley",
+      "year": 1738,
+      "circa": false,
+      "language": "English",
+      "genre": "testimony",
+      "summary": "Wesley's published journal (1735-1790), including the Aldersgate entry of 24 May 1738 describing his assurance of forgiveness.",
+      "significance": "A primary source for the Evangelical Revival and for the Methodist doctrine of assurance.",
+      "fullTextUrl": "https://www.ccel.org/ccel/wesley/journal",
+      "doctrineIds": [
+        "salvation"
+      ],
+      "sources": [
+        "heitzenrater-wesley",
+        "ccel"
+      ]
+    },
+    {
+      "id": "wesley-plain-account",
+      "title": "A Plain Account of Christian Perfection",
+      "authorId": "john-wesley",
+      "year": 1766,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "Wesley's account of his teaching on Christian perfection (entire sanctification): love filling the heart and excluding sin, received by faith, often instantaneously, yet always growing.",
+      "significance": "Charter text of the Methodist and later Holiness doctrine of entire sanctification.",
+      "doctrineIds": [
+        "salvation"
+      ],
+      "sources": [
+        "heitzenrater-wesley",
+        "dieter-holiness-revival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bateman-lordship",
+      "title": "Four Views on the Role of Works at the Final Judgment",
+      "author": "Alan P. Stanley, ed.",
+      "year": 2013,
+      "kind": "secondary"
+    },
+    {
+      "id": "bundy-keswick",
+      "title": "Keswick: A Bibliographic Introduction to the Higher Life Movements",
+      "author": "David D. Bundy",
+      "year": 1975,
+      "kind": "reference"
+    },
+    {
+      "id": "date-four-views-hell",
+      "title": "Four Views on Hell",
+      "author": "Preston Sprinkle, ed.",
+      "year": 2016,
+      "kind": "secondary",
+      "note": "2nd ed.; earlier ed. William Crockett, 1992"
+    },
+    {
+      "id": "dieter-holiness-revival",
+      "title": "The Holiness Revival of the Nineteenth Century",
+      "author": "Melvin E. Dieter",
+      "year": 1980,
+      "kind": "secondary"
+    },
+    {
+      "id": "dunn-baptism-spirit",
+      "title": "Baptism in the Holy Spirit",
+      "author": "James D. G. Dunn",
+      "year": 1970,
+      "kind": "secondary"
+    },
+    {
+      "id": "fudge-fire",
+      "title": "The Fire That Consumes: A Biblical and Historical Study of the Doctrine of Final Punishment",
+      "author": "Edward William Fudge",
+      "year": 1982,
+      "kind": "secondary",
+      "note": "3rd ed. 2011"
+    },
+    {
+      "id": "jddj-1999",
+      "title": "Joint Declaration on the Doctrine of Justification (Lutheran World Federation and Roman Catholic Church)",
+      "author": "LWF / Pontifical Council for Promoting Christian Unity",
+      "year": 1999,
+      "kind": "primary",
+      "url": "https://www.vatican.va/roman_curia/pontifical_councils/chrstuni/documents/rc_pc_chrstuni_doc_31101999_cath-luth-joint-declaration_en.html"
+    },
+    {
+      "id": "kirk-hell",
+      "title": "The Formation of Hell: Death and Retribution in the Ancient and Early Christian Worlds",
+      "author": "Alan E. Bernstein",
+      "year": 1993,
+      "kind": "secondary"
+    },
+    {
+      "id": "mcgrath-reformation-thought",
+      "title": "Reformation Thought: An Introduction",
+      "author": "Alister McGrath",
+      "year": 2012,
+      "kind": "secondary",
+      "note": "4th ed."
+    },
+    {
+      "id": "muller-calvin-after",
+      "title": "After Calvin: Studies in the Development of a Theological Tradition",
+      "author": "Richard A. Muller",
+      "year": 2003,
+      "kind": "secondary"
+    },
+    {
+      "id": "parry-universalism-history",
+      "title": "\"All Shall Be Well\": Explorations in Universal Salvation and Christian Theology, from Origen to Moltmann",
+      "author": "Gregory MacDonald (Robin Parry), ed.",
+      "year": 2011,
+      "kind": "secondary"
+    },
+    {
+      "id": "piper-future-justification",
+      "title": "The Future of Justification: A Response to N. T. Wright",
+      "author": "John Piper",
+      "year": 2007,
+      "kind": "secondary"
+    },
+    {
+      "id": "ramelli-apokatastasis",
+      "title": "The Christian Doctrine of Apokatastasis: A Critical Assessment from the New Testament to Eriugena",
+      "author": "Ilaria L. E. Ramelli",
+      "year": 2013,
+      "kind": "secondary"
+    },
+    {
+      "id": "russell-deification",
+      "title": "The Doctrine of Deification in the Greek Patristic Tradition",
+      "author": "Norman Russell",
+      "year": 2004,
+      "kind": "secondary"
+    },
+    {
+      "id": "sanders-paul-judaism",
+      "title": "Paul and Palestinian Judaism",
+      "author": "E. P. Sanders",
+      "year": 1977,
+      "kind": "secondary"
+    },
+    {
+      "id": "stanglin-mccall-arminius",
+      "title": "Jacob Arminius: Theologian of Grace",
+      "author": "Keith D. Stanglin and Thomas H. McCall",
+      "year": 2012,
+      "kind": "secondary"
+    },
+    {
+      "id": "stewart-ten-myths",
+      "title": "Ten Myths about Calvinism",
+      "author": "Kenneth J. Stewart",
+      "year": 2011,
+      "kind": "secondary"
+    },
+    {
+      "id": "waterworth-trent",
+      "title": "The Canons and Decrees of the Sacred and Oecumenical Council of Trent",
+      "author": "J. Waterworth, tr.",
+      "year": 1848,
+      "kind": "primary",
+      "url": "https://history.hanover.edu/texts/trent/ct06.html"
+    },
+    {
+      "id": "westerholm-perspectives",
+      "title": "Perspectives Old and New on Paul: The \"Lutheran\" Paul and His Critics",
+      "author": "Stephen Westerholm",
+      "year": 2004,
+      "kind": "secondary"
+    },
+    {
+      "id": "wright-justification",
+      "title": "Justification: God's Plan and Paul's Vision",
+      "author": "N. T. Wright",
+      "year": 2009,
+      "kind": "secondary"
+    }
+  ]
+}

@@ -1,0 +1,1944 @@
+{
+  "paths": [
+    {
+      "id": "how-the-trinity-was-defined",
+      "title": "How the Trinity was defined",
+      "icon": "trinity",
+      "summary": "From the worship of the first Jewish Christians to the creeds of Nicaea and Constantinople: how the church moved from praying to Father, Son and Spirit to defining one God in three persons, and who disagreed along the way.",
+      "steps": [
+        {
+          "title": "Raw material: one God, worship of Jesus, the Spirit",
+          "text": "The first Christians were Jewish monotheists who confessed the Shema (Deuteronomy 6:4) yet prayed to and through Jesus as Lord, and spoke of the Spirit as God's own presence. Texts such as Matthew 28:19, 2 Corinthians 13:14 and John 1:1-14 set Father, Son and Spirit side by side without yet offering a technical account of how they relate.",
+          "year": 55,
+          "refs": [
+            {
+              "type": "doctrine",
+              "id": "trinity"
+            },
+            {
+              "type": "era",
+              "id": "apostolic-age"
+            },
+            {
+              "type": "person",
+              "id": "paul-of-tarsus"
+            },
+            {
+              "type": "person",
+              "id": "john-apostle"
+            },
+            {
+              "type": "experience",
+              "id": "pentecost-acts-2"
+            }
+          ]
+        },
+        {
+          "title": "Apologists and the Logos",
+          "text": "Second-century writers like Justin Martyr explained Christ as the divine Logos (Word/Reason) through whom God made and reveals the world; Irenaeus spoke of the Son and Spirit as God's 'two hands'. Their language was sometimes subordinationist by later standards, but it secured Christ's divine origin against Gnostic and Marcionite systems.",
+          "year": 155,
+          "refs": [
+            {
+              "type": "person",
+              "id": "justin-martyr"
+            },
+            {
+              "type": "person",
+              "id": "irenaeus"
+            },
+            {
+              "type": "era",
+              "id": "apostolic-fathers"
+            },
+            {
+              "type": "tradition",
+              "id": "gnostic"
+            },
+            {
+              "type": "tradition",
+              "id": "marcionite"
+            }
+          ]
+        },
+        {
+          "title": "Tertullian and the threat of modalism",
+          "text": "Against Praxeas, who taught that the Father himself was born and suffered, Tertullian coined Latin terms that would last: God is one 'substance' (substantia) in three 'persons' (personae), a 'trinity' (trinitas). Modalism, later linked with Sabellius, held that Father, Son and Spirit are successive modes of one person; it was rejected as erasing real relationships within God.",
+          "year": 213,
+          "refs": [
+            {
+              "type": "person",
+              "id": "tertullian"
+            },
+            {
+              "type": "person",
+              "id": "sabellius"
+            },
+            {
+              "type": "era",
+              "id": "persecution-early-theology"
+            }
+          ]
+        },
+        {
+          "title": "Origen and eternal generation",
+          "text": "Origen of Alexandria taught that the Son is eternally begotten of the Father: there was never a time when the Father was without his Word. Yet he also ranked the Son and Spirit beneath the Father, so both sides of the fourth-century debate could claim his legacy.",
+          "year": 230,
+          "refs": [
+            {
+              "type": "person",
+              "id": "origen"
+            },
+            {
+              "type": "person",
+              "id": "clement-of-alexandria"
+            }
+          ]
+        },
+        {
+          "title": "Arius and the Council of Nicaea",
+          "text": "The Alexandrian presbyter Arius argued that the Son, though exalted, was a creature: 'there was when he was not'. Constantine summoned the first ecumenical council, which declared the Son 'of the same substance' (homoousios) as the Father and anathematised Arius' slogans.",
+          "year": 325,
+          "refs": [
+            {
+              "type": "event",
+              "id": "council-of-nicaea-325"
+            },
+            {
+              "type": "person",
+              "id": "arius"
+            },
+            {
+              "type": "person",
+              "id": "constantine-i"
+            },
+            {
+              "type": "person",
+              "id": "eusebius-of-caesarea"
+            },
+            {
+              "type": "era",
+              "id": "imperial-church"
+            }
+          ]
+        },
+        {
+          "title": "Fifty years of conflict",
+          "text": "Nicaea did not end the dispute. Many bishops disliked homoousios as unscriptural or modalist-sounding; emperors favoured compromise formulas, and at Ariminum and Seleucia (359) a 'homoian' creed (the Son is 'like' the Father) prevailed for a time. Athanasius, exiled five times, defended Nicaea as necessary for salvation: only God can make us partakers of God.",
+          "year": 359,
+          "refs": [
+            {
+              "type": "person",
+              "id": "athanasius"
+            },
+            {
+              "type": "tradition",
+              "id": "arian-homoian"
+            },
+            {
+              "type": "doctrine",
+              "id": "christology"
+            }
+          ]
+        },
+        {
+          "title": "The Cappadocians and the Spirit",
+          "text": "Basil of Caesarea, Gregory of Nazianzus and Gregory of Nyssa (with their sister Macrina's influence) distinguished one ousia (being) from three hypostaseis (persons), defined by their relations: unbegotten, begotten, proceeding. Basil's On the Holy Spirit defended worshipping the Spirit with the Father and the Son against the 'Spirit-fighters' (Pneumatomachi).",
+          "year": 375,
+          "refs": [
+            {
+              "type": "person",
+              "id": "basil-of-caesarea"
+            },
+            {
+              "type": "person",
+              "id": "gregory-of-nazianzus"
+            },
+            {
+              "type": "person",
+              "id": "gregory-of-nyssa"
+            },
+            {
+              "type": "person",
+              "id": "macrina-the-younger"
+            },
+            {
+              "type": "doctrine",
+              "id": "holy-spirit"
+            }
+          ]
+        },
+        {
+          "title": "Constantinople 381: the Nicene Creed completed",
+          "text": "The second ecumenical council reaffirmed Nicaea and expanded the article on the Holy Spirit, 'the Lord, the giver of life, who proceeds from the Father, who with the Father and the Son is worshipped and glorified'. This Niceno-Constantinopolitan Creed is still shared by Orthodox, Catholics, Oriental Orthodox, the Church of the East and most Protestants.",
+          "year": 381,
+          "refs": [
+            {
+              "type": "event",
+              "id": "council-of-constantinople-381"
+            },
+            {
+              "type": "doctrine",
+              "id": "holy-spirit"
+            },
+            {
+              "type": "tradition",
+              "id": "early-church"
+            }
+          ]
+        },
+        {
+          "title": "Augustine, the West and the filioque",
+          "text": "Augustine's On the Trinity (c. 400-420) explored the Trinity through analogies of the mind and stressed the Spirit as the bond of love between Father and Son. In Spain the Third Council of Toledo (589) added that the Spirit proceeds from the Father 'and the Son' (filioque), an addition that later became a central grievance in the East-West schism.",
+          "year": 589,
+          "refs": [
+            {
+              "type": "person",
+              "id": "augustine-of-hippo"
+            },
+            {
+              "type": "event",
+              "id": "council-of-toledo-589"
+            },
+            {
+              "type": "event",
+              "id": "great-schism-1054"
+            },
+            {
+              "type": "tradition",
+              "id": "catholic"
+            },
+            {
+              "type": "tradition",
+              "id": "eastern-orthodox"
+            }
+          ]
+        },
+        {
+          "title": "Dissenters and modern revival",
+          "text": "Trinitarian faith has been challenged since the Reformation by antitrinitarian movements (Socinians, Unitarians), and in the modern era by groups outside historic Nicene orthodoxy such as Jehovah's Witnesses, Latter-day Saints and Oneness Pentecostals. At the same time 20th-century theologians such as Karl Barth and Karl Rahner (whose 1967 essay argued that the 'economic' Trinity is the 'immanent' Trinity) sparked a major revival of Trinitarian theology.",
+          "year": 1967,
+          "refs": [
+            {
+              "type": "tradition",
+              "id": "unitarian"
+            },
+            {
+              "type": "tradition",
+              "id": "jehovahs-witnesses"
+            },
+            {
+              "type": "tradition",
+              "id": "latter-day-saints"
+            },
+            {
+              "type": "tradition",
+              "id": "oneness-pentecostal"
+            },
+            {
+              "type": "person",
+              "id": "karl-barth"
+            },
+            {
+              "type": "person",
+              "id": "karl-rahner"
+            },
+            {
+              "type": "era",
+              "id": "contemporary"
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Who is the first known writer to use the Latin word 'trinitas' for God?",
+          "options": [
+            "Augustine",
+            "Tertullian",
+            "Athanasius",
+            "Origen"
+          ],
+          "answer": 1,
+          "explanation": "Tertullian used 'trinitas' (and 'substance' and 'persons') around 213 in Against Praxeas. The Greek 'trias' appears slightly earlier in Theophilus of Antioch (c. 180)."
+        },
+        {
+          "question": "What key word did the Council of Nicaea (325) use to describe the Son's relation to the Father?",
+          "options": [
+            "Homoiousios (of similar substance)",
+            "Homoios (like)",
+            "Homoousios (of the same substance)",
+            "Hypostasis (person)"
+          ],
+          "answer": 2,
+          "explanation": "Nicaea declared the Son homoousios with the Father; 'homoiousios' and 'homoios' were later compromise or rival terms."
+        },
+        {
+          "question": "Which slogan is associated with Arius?",
+          "options": [
+            "'God became man that we might become God'",
+            "'There was when he was not'",
+            "'One substance, three persons'",
+            "'What has not been assumed has not been healed'"
+          ],
+          "answer": 1,
+          "explanation": "Arius held that the Son had a beginning: 'there was when he was not'. The other lines come from Athanasius, Tertullian and Gregory of Nazianzus."
+        },
+        {
+          "question": "Modalism, associated with Sabellius, taught that...",
+          "options": [
+            "The Son is a creature",
+            "Father, Son and Spirit are three gods",
+            "Father, Son and Spirit are successive modes or masks of one person",
+            "The Spirit is a force, not a person"
+          ],
+          "answer": 2,
+          "explanation": "Modalism preserves God's oneness by treating the three as roles or modes of a single person, which critics said erased the real relationships seen in the Gospels."
+        },
+        {
+          "question": "Which council expanded the creed's article on the Holy Spirit?",
+          "options": [
+            "Nicaea (325)",
+            "Constantinople (381)",
+            "Ephesus (431)",
+            "Chalcedon (451)"
+          ],
+          "answer": 1,
+          "explanation": "The Council of Constantinople in 381 confessed the Spirit as 'the Lord, the giver of life' who is worshipped and glorified with the Father and the Son."
+        },
+        {
+          "question": "The Cappadocian formula for the Trinity is usually summarised as...",
+          "options": [
+            "One person, three natures",
+            "One ousia, three hypostaseis",
+            "Three substances, one will",
+            "One mode, three names"
+          ],
+          "answer": 1,
+          "explanation": "Basil and the Gregories distinguished the one divine being (ousia) from the three persons (hypostaseis)."
+        },
+        {
+          "question": "Where was the filioque ('and the Son') first officially added to the creed?",
+          "options": [
+            "Rome, 1014",
+            "Toledo, 589",
+            "Aachen, 809",
+            "Constantinople, 867"
+          ],
+          "answer": 1,
+          "explanation": "The Third Council of Toledo (589) is the earliest well-known conciliar use; Rome adopted the addition in the liturgy only around 1014."
+        },
+        {
+          "question": "Which of these groups rejects the doctrine of the Trinity?",
+          "options": [
+            "Coptic Orthodox Church",
+            "Lutheran churches",
+            "Jehovah's Witnesses",
+            "Armenian Apostolic Church"
+          ],
+          "answer": 2,
+          "explanation": "Jehovah's Witnesses teach that the Son is a created being, placing them outside historic Nicene orthodoxy; the other three affirm the Nicene Creed."
+        }
+      ]
+    },
+    {
+      "id": "why-the-reformation-happened",
+      "title": "Why the Reformation happened",
+      "icon": "scroll",
+      "summary": "Not one cause but many: a weakened papacy, earlier reform movements, humanism and printing, the indulgence controversy, rival theologies of grace and the sacraments, and princes who saw their chance.",
+      "steps": [
+        {
+          "title": "A papacy in crisis",
+          "text": "The popes' residence at Avignon (1309-77) and then the Great Western Schism (1378-1417), when two and then three rival popes claimed authority, damaged papal prestige and encouraged conciliarism, the idea that general councils stand above popes.",
+          "year": 1378,
+          "refs": [
+            {
+              "type": "event",
+              "id": "avignon-papacy-1309"
+            },
+            {
+              "type": "event",
+              "id": "western-schism-1378"
+            },
+            {
+              "type": "era",
+              "id": "late-medieval"
+            },
+            {
+              "type": "tradition",
+              "id": "catholic"
+            }
+          ]
+        },
+        {
+          "title": "Forerunners: Waldensians, Wycliffe and Hus",
+          "text": "Long before Luther, the Waldensians preached apostolic poverty and vernacular Scripture; John Wycliffe attacked papal power and transubstantiation; Jan Hus in Prague called for reform and was burned at the Council of Constance in 1415 despite a safe-conduct. Hussite churches survived in Bohemia.",
+          "year": 1415,
+          "refs": [
+            {
+              "type": "person",
+              "id": "john-wycliffe"
+            },
+            {
+              "type": "person",
+              "id": "jan-hus"
+            },
+            {
+              "type": "event",
+              "id": "council-of-constance-1414"
+            },
+            {
+              "type": "tradition",
+              "id": "waldensian"
+            },
+            {
+              "type": "tradition",
+              "id": "hussite-moravian"
+            }
+          ]
+        },
+        {
+          "title": "Humanism and the printing press",
+          "text": "Renaissance humanists cried 'ad fontes' (back to the sources). Erasmus published the Greek New Testament in 1516 and satirised clerical abuses. Gutenberg's printing press (c. 1450) meant reformers' pamphlets could spread across Europe within weeks.",
+          "year": 1516,
+          "refs": [
+            {
+              "type": "person",
+              "id": "erasmus"
+            },
+            {
+              "type": "doctrine",
+              "id": "scripture-authority"
+            }
+          ]
+        },
+        {
+          "title": "Indulgences and the 95 Theses",
+          "text": "Johann Tetzel's preaching of an indulgence to fund St Peter's in Rome provoked the Augustinian friar and professor Martin Luther to issue 95 theses for debate (31 October 1517). Behind the protest lay Luther's discovery, through Romans, of justification as a gift received by faith rather than earned by penance.",
+          "year": 1517,
+          "refs": [
+            {
+              "type": "event",
+              "id": "ninety-five-theses-1517"
+            },
+            {
+              "type": "person",
+              "id": "martin-luther"
+            },
+            {
+              "type": "doctrine",
+              "id": "salvation"
+            },
+            {
+              "type": "era",
+              "id": "reformations"
+            }
+          ]
+        },
+        {
+          "title": "Worms: Scripture and conscience",
+          "text": "Excommunicated in 1521, Luther refused to recant before Emperor Charles V at the Diet of Worms unless convinced by Scripture and plain reason. Protected by Frederick the Wise of Saxony, he translated the New Testament into German, making Scripture's authority over church tradition a defining issue.",
+          "year": 1521,
+          "refs": [
+            {
+              "type": "event",
+              "id": "diet-of-worms-1521"
+            },
+            {
+              "type": "doctrine",
+              "id": "scripture-authority"
+            },
+            {
+              "type": "tradition",
+              "id": "lutheran"
+            },
+            {
+              "type": "person",
+              "id": "philip-melanchthon"
+            }
+          ]
+        },
+        {
+          "title": "Zurich and the Supper",
+          "text": "In Zurich Huldrych Zwingli led an independent, more radical reform of worship. At the Marburg Colloquy (1529) Luther and Zwingli agreed on fourteen of fifteen articles but split over Christ's presence in the Lord's Supper, dividing Protestantism into Lutheran and Reformed streams.",
+          "year": 1529,
+          "refs": [
+            {
+              "type": "person",
+              "id": "huldrych-zwingli"
+            },
+            {
+              "type": "event",
+              "id": "marburg-colloquy-1529"
+            },
+            {
+              "type": "doctrine",
+              "id": "church-sacraments"
+            },
+            {
+              "type": "tradition",
+              "id": "reformed"
+            }
+          ]
+        },
+        {
+          "title": "The Radical Reformation",
+          "text": "Some of Zwingli's followers, including Conrad Grebel, concluded that baptism belongs only to confessing believers and that the church must be separate from the state. Their adult baptisms in January 1525 began the Anabaptist movement, persecuted by Catholics and Protestants alike.",
+          "year": 1525,
+          "refs": [
+            {
+              "type": "event",
+              "id": "first-adult-baptisms-zurich-1525"
+            },
+            {
+              "type": "person",
+              "id": "conrad-grebel"
+            },
+            {
+              "type": "tradition",
+              "id": "anabaptist"
+            },
+            {
+              "type": "doctrine",
+              "id": "baptism"
+            },
+            {
+              "type": "event",
+              "id": "schleitheim-confession-1527"
+            }
+          ]
+        },
+        {
+          "title": "Princes, kings and politics",
+          "text": "The Reformation succeeded where rulers backed it. Lutheran princes presented the Augsburg Confession (1530); Henry VIII broke with Rome through the Act of Supremacy (1534), largely over his marriage; the Peace of Augsburg (1555) let each German ruler choose Lutheranism or Catholicism for his territory.",
+          "year": 1534,
+          "refs": [
+            {
+              "type": "event",
+              "id": "augsburg-confession-1530"
+            },
+            {
+              "type": "event",
+              "id": "act-of-supremacy-1534"
+            },
+            {
+              "type": "event",
+              "id": "peace-of-augsburg-1555"
+            },
+            {
+              "type": "tradition",
+              "id": "anglican"
+            },
+            {
+              "type": "doctrine",
+              "id": "ethics-church-state"
+            }
+          ]
+        },
+        {
+          "title": "Calvin and an international Reformed movement",
+          "text": "John Calvin's Institutes (final edition 1559) and his Geneva Academy trained pastors for France, the Netherlands, Scotland and beyond, making Reformed Protestantism an international movement with presbyterian church order.",
+          "year": 1559,
+          "refs": [
+            {
+              "type": "person",
+              "id": "john-calvin"
+            },
+            {
+              "type": "person",
+              "id": "theodore-beza"
+            },
+            {
+              "type": "tradition",
+              "id": "reformed"
+            },
+            {
+              "type": "tradition",
+              "id": "presbyterian"
+            }
+          ]
+        },
+        {
+          "title": "Catholic Reform and the long aftermath",
+          "text": "The Council of Trent (1545-63) answered Protestant teaching on Scripture, justification and the sacraments while reforming clerical discipline; new orders such as Ignatius of Loyola's Jesuits renewed Catholic education and mission. Religious wars followed until the Peace of Westphalia (1648).",
+          "year": 1545,
+          "refs": [
+            {
+              "type": "event",
+              "id": "council-of-trent-1545"
+            },
+            {
+              "type": "person",
+              "id": "ignatius-of-loyola"
+            },
+            {
+              "type": "event",
+              "id": "thirty-years-war-1618"
+            },
+            {
+              "type": "event",
+              "id": "peace-of-westphalia-1648"
+            },
+            {
+              "type": "experience",
+              "id": "ignatius-manresa"
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What immediately provoked Luther's 95 Theses in 1517?",
+          "options": [
+            "The burning of Jan Hus",
+            "The preaching of an indulgence to fund St Peter's in Rome",
+            "Henry VIII's divorce",
+            "The Council of Trent"
+          ],
+          "answer": 1,
+          "explanation": "Johann Tetzel's indulgence campaign, partly funding the rebuilding of St Peter's Basilica, prompted the theses."
+        },
+        {
+          "question": "Which reformer was burned at the Council of Constance in 1415?",
+          "options": [
+            "John Wycliffe",
+            "Jan Hus",
+            "Peter Waldo",
+            "Girolamo Savonarola"
+          ],
+          "answer": 1,
+          "explanation": "Jan Hus was condemned and burned at Constance; Wycliffe died in 1384 and his remains were later exhumed and burned."
+        },
+        {
+          "question": "What was the main disagreement at the Marburg Colloquy (1529)?",
+          "options": [
+            "Infant baptism",
+            "The authority of the pope",
+            "Christ's presence in the Lord's Supper",
+            "Predestination"
+          ],
+          "answer": 2,
+          "explanation": "Luther and Zwingli disagreed on whether Christ's body is truly present in the bread and wine."
+        },
+        {
+          "question": "What did the first Anabaptists do in Zurich in January 1525?",
+          "options": [
+            "Burned papal bulls",
+            "Baptised one another as confessing adults",
+            "Elected a bishop",
+            "Translated the Bible into German"
+          ],
+          "answer": 1,
+          "explanation": "Conrad Grebel baptised George Blaurock, who then baptised others, rejecting infant baptism."
+        },
+        {
+          "question": "The principle later summarised as 'cuius regio, eius religio' comes from...",
+          "options": [
+            "The Peace of Augsburg (1555)",
+            "The Diet of Worms (1521)",
+            "The Synod of Dort (1618)",
+            "The Act of Supremacy (1534)"
+          ],
+          "answer": 0,
+          "explanation": "The Peace of Augsburg allowed each ruler in the Empire to choose Lutheranism or Catholicism for his lands; the Latin tag was coined later."
+        },
+        {
+          "question": "Who published the first printed Greek New Testament in 1516?",
+          "options": [
+            "Martin Luther",
+            "Erasmus",
+            "John Calvin",
+            "Philip Melanchthon"
+          ],
+          "answer": 1,
+          "explanation": "Erasmus' Novum Instrumentum (1516) fed the humanist return to the sources that Luther used."
+        },
+        {
+          "question": "Which council was the main Catholic response to the Reformation?",
+          "options": [
+            "Fourth Lateran",
+            "Constance",
+            "Trent",
+            "Vatican I"
+          ],
+          "answer": 2,
+          "explanation": "The Council of Trent met in three periods between 1545 and 1563."
+        }
+      ]
+    },
+    {
+      "id": "legal-vs-union-gospels",
+      "title": "Legal vs union gospels",
+      "icon": "scales",
+      "summary": "Is salvation chiefly a courtroom verdict, a sharing in God's own life, or both? Trace the 'legal' (forensic) and 'union' (participatory) ways of telling the gospel from the New Testament to today's debates, with each side in its best light.",
+      "steps": [
+        {
+          "title": "Two vocabularies in the New Testament",
+          "text": "Paul speaks both of justification (a legal verdict: Romans 3-5) and of being 'in Christ', crucified and raised with him (Galatians 2:20; Romans 6); John speaks of abiding in Christ (John 15), and 2 Peter 1:4 of becoming 'partakers of the divine nature'. Every later tradition draws on both, but weights them differently.",
+          "year": 57,
+          "refs": [
+            {
+              "type": "comparison",
+              "id": "legal-vs-union-gospel"
+            },
+            {
+              "type": "doctrine",
+              "id": "salvation"
+            },
+            {
+              "type": "person",
+              "id": "paul-of-tarsus"
+            },
+            {
+              "type": "person",
+              "id": "john-apostle"
+            }
+          ]
+        },
+        {
+          "title": "Irenaeus: recapitulation",
+          "text": "Irenaeus taught that Christ 'recapitulates' (sums up) the human story, undoing Adam's disobedience by his obedience, so that humanity can grow into God's likeness. Salvation here is the healing and maturing of the human race in union with the incarnate Son.",
+          "year": 180,
+          "refs": [
+            {
+              "type": "person",
+              "id": "irenaeus"
+            },
+            {
+              "type": "doctrine",
+              "id": "atonement"
+            },
+            {
+              "type": "era",
+              "id": "apostolic-fathers"
+            }
+          ]
+        },
+        {
+          "title": "Athanasius: God became man",
+          "text": "In On the Incarnation Athanasius argued that the Word became human so that humans might be made divine (ch. 54) and that his death paid the debt and defeated corruption and death. Eastern Christianity built on this the doctrine of theosis.",
+          "year": 318,
+          "refs": [
+            {
+              "type": "person",
+              "id": "athanasius"
+            },
+            {
+              "type": "tradition",
+              "id": "eastern-orthodox"
+            },
+            {
+              "type": "doctrine",
+              "id": "christology"
+            }
+          ]
+        },
+        {
+          "title": "Augustine and Western grace",
+          "text": "Augustine's battle with Pelagius made grace, original sin and guilt central in the West. Latin theology, shaped also by Tertullian's legal vocabulary, increasingly framed salvation in terms of sin, debt, merit and justice, though Augustine also wrote richly of union with Christ.",
+          "year": 412,
+          "refs": [
+            {
+              "type": "person",
+              "id": "augustine-of-hippo"
+            },
+            {
+              "type": "person",
+              "id": "pelagius"
+            },
+            {
+              "type": "person",
+              "id": "tertullian"
+            },
+            {
+              "type": "doctrine",
+              "id": "salvation"
+            }
+          ]
+        },
+        {
+          "title": "Anselm: satisfaction",
+          "text": "Anselm's Cur Deus Homo argued that sin dishonours God and that only a God-man could offer the satisfaction humanity owes. Abelard replied that the cross chiefly reveals love that awakens love. These became the poles of medieval Western atonement theory.",
+          "year": 1098,
+          "refs": [
+            {
+              "type": "person",
+              "id": "anselm"
+            },
+            {
+              "type": "person",
+              "id": "abelard"
+            },
+            {
+              "type": "doctrine",
+              "id": "atonement"
+            },
+            {
+              "type": "era",
+              "id": "high-middle-ages"
+            }
+          ]
+        },
+        {
+          "title": "Palamas: participation in uncreated energies",
+          "text": "In the East, Gregory Palamas defended the hesychasts' claim to see the uncreated light: humans truly participate in God's energies while God's essence remains beyond them. For Orthodoxy this secured real union with God without pantheism.",
+          "year": 1341,
+          "refs": [
+            {
+              "type": "person",
+              "id": "gregory-palamas"
+            },
+            {
+              "type": "event",
+              "id": "hesychast-controversy-1341"
+            },
+            {
+              "type": "experience",
+              "id": "hesychasm-light-of-tabor"
+            }
+          ]
+        },
+        {
+          "title": "Luther and Calvin: verdict and union",
+          "text": "Luther taught justification by faith alone through the imputed righteousness of Christ, and also a 'joyful exchange' in which Christ and the believer share all things. Calvin's Institutes (1559) made union with Christ the source of a 'double grace': justification and sanctification.",
+          "year": 1559,
+          "refs": [
+            {
+              "type": "person",
+              "id": "martin-luther"
+            },
+            {
+              "type": "person",
+              "id": "john-calvin"
+            },
+            {
+              "type": "tradition",
+              "id": "lutheran"
+            },
+            {
+              "type": "tradition",
+              "id": "reformed"
+            },
+            {
+              "type": "event",
+              "id": "ninety-five-theses-1517"
+            }
+          ]
+        },
+        {
+          "title": "Federal theology and the courtroom gospel",
+          "text": "Reformed 'federal' (covenant) theology, codified in the Westminster Confession, framed history as a covenant of works with Adam and a covenant of grace in Christ, the last Adam, who bears the penalty for sin. Penal substitution became central to much evangelical preaching.",
+          "year": 1646,
+          "refs": [
+            {
+              "type": "event",
+              "id": "westminster-assembly-1643"
+            },
+            {
+              "type": "tradition",
+              "id": "presbyterian"
+            },
+            {
+              "type": "person",
+              "id": "john-owen"
+            },
+            {
+              "type": "tradition",
+              "id": "evangelical"
+            }
+          ]
+        },
+        {
+          "title": "Scottish dissent: McLeod Campbell and the Torrances",
+          "text": "John McLeod Campbell, deposed in 1831 for teaching that Christ died for all, argued in The Nature of the Atonement (1856) that Christ offered a perfect 'amen' of repentance and sonship on our behalf. In the 20th century T.F. and J.B. Torrance contrasted 'covenant' with 'contract' and stressed Christ's vicarious humanity; Gustaf Aulén's Christus Victor (1931) revived the patristic victory motif.",
+          "year": 1856,
+          "refs": [
+            {
+              "type": "person",
+              "id": "john-mcleod-campbell"
+            },
+            {
+              "type": "person",
+              "id": "thomas-f-torrance"
+            },
+            {
+              "type": "person",
+              "id": "james-b-torrance"
+            },
+            {
+              "type": "person",
+              "id": "gustaf-aulen"
+            },
+            {
+              "type": "person",
+              "id": "karl-barth"
+            }
+          ]
+        },
+        {
+          "title": "Today's debate",
+          "text": "Writers such as C. Baxter Kruger and François du Toit press a strongly incarnational 'union' gospel in which humanity is already included in Christ, while defenders of penal substitution such as J.I. Packer and John Piper argue that the legal dimension is non-negotiable. Others, like N.T. Wright, reframe justification around covenant membership. Compare the positions side by side in the Legal vs Union comparison.",
+          "year": 2000,
+          "refs": [
+            {
+              "type": "person",
+              "id": "c-baxter-kruger"
+            },
+            {
+              "type": "person",
+              "id": "francois-du-toit"
+            },
+            {
+              "type": "person",
+              "id": "j-i-packer"
+            },
+            {
+              "type": "person",
+              "id": "john-piper"
+            },
+            {
+              "type": "person",
+              "id": "n-t-wright"
+            },
+            {
+              "type": "comparison",
+              "id": "legal-vs-union-gospel"
+            },
+            {
+              "type": "era",
+              "id": "contemporary"
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which work by Anselm set out the satisfaction theory of atonement?",
+          "options": [
+            "Proslogion",
+            "Cur Deus Homo",
+            "Monologion",
+            "Summa Theologiae"
+          ],
+          "answer": 1,
+          "explanation": "Cur Deus Homo ('Why God Became Man', 1098) argues that only a God-man could make satisfaction for human sin."
+        },
+        {
+          "question": "Who wrote that the Word 'became man that we might be made God'?",
+          "options": [
+            "Augustine",
+            "Athanasius",
+            "Anselm",
+            "Calvin"
+          ],
+          "answer": 1,
+          "explanation": "Athanasius, On the Incarnation 54, a foundational text for the doctrine of theosis."
+        },
+        {
+          "question": "What did Calvin call the twofold benefit received through union with Christ?",
+          "options": [
+            "Simul iustus et peccator",
+            "Duplex gratia (double grace)",
+            "Recapitulation",
+            "Prevenient grace"
+          ],
+          "answer": 1,
+          "explanation": "For Calvin, union with Christ yields the 'double grace' of justification and sanctification (Institutes 3.11.1)."
+        },
+        {
+          "question": "Why was John McLeod Campbell deposed from the Church of Scotland ministry in 1831?",
+          "options": [
+            "For denying the Trinity",
+            "For teaching that Christ died for all and that assurance belongs to faith",
+            "For becoming an Anglican",
+            "For rejecting infant baptism"
+          ],
+          "answer": 1,
+          "explanation": "The General Assembly judged his teaching on universal atonement and assurance contrary to the Westminster Confession."
+        },
+        {
+          "question": "Gustaf Aulén's 1931 book revived which view of the atonement?",
+          "options": [
+            "Moral influence",
+            "Penal substitution",
+            "Christus Victor (the 'classic' view)",
+            "Governmental theory"
+          ],
+          "answer": 2,
+          "explanation": "Aulén argued that the early church's dominant view was Christ's victory over sin, death and the devil."
+        },
+        {
+          "question": "James B. Torrance contrasted the biblical idea of covenant with what?",
+          "options": [
+            "Contract",
+            "Sacrament",
+            "Law of nature",
+            "Liturgy"
+          ],
+          "answer": 0,
+          "explanation": "Torrance argued that federal theology tended to turn God's unconditional covenant of grace into a conditional contract."
+        },
+        {
+          "question": "Which theologian is most associated with the defence of hesychast experience of the uncreated light?",
+          "options": [
+            "Symeon the New Theologian",
+            "Gregory Palamas",
+            "John of Damascus",
+            "Maximus the Confessor"
+          ],
+          "answer": 1,
+          "explanation": "Gregory Palamas' Triads (1338-41) defended the hesychasts; councils at Constantinople upheld his teaching (1341-51)."
+        }
+      ]
+    },
+    {
+      "id": "roots-of-pentecostalism",
+      "title": "Roots of Pentecostalism",
+      "icon": "flame",
+      "summary": "How a movement that began in small prayer meetings in 1901-1906 came to number hundreds of millions: its roots in Acts, earlier prophetic and revival movements, Methodism and the Holiness movement, and its many birthplaces around the world.",
+      "steps": [
+        {
+          "title": "The pattern of Acts",
+          "text": "Pentecostals read Acts 2 not only as history but as a pattern: the disciples were 'filled with the Holy Ghost' and spoke in tongues. Joel's promise that God would pour out his Spirit 'on all flesh' became a key text of the movement.",
+          "year": 30,
+          "refs": [
+            {
+              "type": "event",
+              "id": "pentecost-30"
+            },
+            {
+              "type": "experience",
+              "id": "pentecost-acts-2"
+            },
+            {
+              "type": "experience",
+              "id": "cornelius-household-acts-10"
+            },
+            {
+              "type": "doctrine",
+              "id": "holy-spirit"
+            }
+          ]
+        },
+        {
+          "title": "Prophecy in the early church",
+          "text": "Prophecy continued in the second century, but the Montanist 'New Prophecy' and its ecstatic oracles led the wider church to test prophecy by apostolic teaching and episcopal oversight. Pentecostal historians often cite this as the moment charismatic gifts receded from the mainstream.",
+          "year": 156,
+          "refs": [
+            {
+              "type": "event",
+              "id": "montanist-movement-156"
+            },
+            {
+              "type": "person",
+              "id": "montanus"
+            },
+            {
+              "type": "experience",
+              "id": "montanist-new-prophecy"
+            },
+            {
+              "type": "tradition",
+              "id": "montanist"
+            }
+          ]
+        },
+        {
+          "title": "Pietism and the Moravians",
+          "text": "German Pietism stressed new birth and heart religion. The Moravian community at Herrnhut experienced a communal outpouring in August 1727 and began a round-the-clock prayer watch and worldwide missions.",
+          "year": 1727,
+          "refs": [
+            {
+              "type": "event",
+              "id": "moravian-herrnhut-revival-1727"
+            },
+            {
+              "type": "person",
+              "id": "nicolaus-zinzendorf"
+            },
+            {
+              "type": "experience",
+              "id": "herrnhut-moravian-pentecost"
+            },
+            {
+              "type": "event",
+              "id": "pietism-pia-desideria-1675"
+            }
+          ]
+        },
+        {
+          "title": "Wesley: assurance and perfection",
+          "text": "John Wesley's heart was 'strangely warmed' at Aldersgate. His teaching on assurance and on 'Christian perfection' (entire sanctification) as a second work of grace after conversion became the theological seed of the 'second blessing' idea.",
+          "year": 1738,
+          "refs": [
+            {
+              "type": "event",
+              "id": "aldersgate-1738"
+            },
+            {
+              "type": "person",
+              "id": "john-wesley"
+            },
+            {
+              "type": "experience",
+              "id": "aldersgate-heart-strangely-warmed"
+            },
+            {
+              "type": "tradition",
+              "id": "methodist"
+            }
+          ]
+        },
+        {
+          "title": "Camp meetings and revivalism",
+          "text": "The Cane Ridge meeting in Kentucky (1801) and the Second Great Awakening spread an American revival culture of camp meetings, falling, shouting and immediate decision; Charles Finney later systematised 'new measures' for revival.",
+          "year": 1801,
+          "refs": [
+            {
+              "type": "event",
+              "id": "cane-ridge-revival-1801"
+            },
+            {
+              "type": "event",
+              "id": "second-great-awakening-1800"
+            },
+            {
+              "type": "experience",
+              "id": "cane-ridge-revival"
+            },
+            {
+              "type": "person",
+              "id": "charles-finney"
+            }
+          ]
+        },
+        {
+          "title": "The Holiness movement and 'Spirit baptism'",
+          "text": "Phoebe Palmer's 'altar theology' taught that entire sanctification could be received instantly by consecration and faith. By the late 19th century many Holiness preachers called this a 'baptism of the Holy Ghost' empowering believers, alongside a growing divine healing movement and expectation of Christ's imminent return.",
+          "year": 1843,
+          "refs": [
+            {
+              "type": "person",
+              "id": "phoebe-palmer"
+            },
+            {
+              "type": "tradition",
+              "id": "holiness-movement"
+            },
+            {
+              "type": "tradition",
+              "id": "salvation-army"
+            },
+            {
+              "type": "doctrine",
+              "id": "eschatology"
+            }
+          ]
+        },
+        {
+          "title": "Topeka 1901: tongues as evidence",
+          "text": "At Charles Parham's Bethel Bible School in Topeka, Agnes Ozman spoke in tongues on 1 January 1901. Parham taught that tongues were the 'Bible evidence' of Spirit baptism, giving Pentecostalism its distinctive doctrine.",
+          "year": 1901,
+          "refs": [
+            {
+              "type": "person",
+              "id": "charles-parham"
+            },
+            {
+              "type": "experience",
+              "id": "topeka-agnes-ozman-1901"
+            }
+          ]
+        },
+        {
+          "title": "A global wave, 1904-1907",
+          "text": "Revival swept Wales under Evan Roberts (1904-05), the Mukti Mission of Pandita Ramabai in India (1905) and Pyongyang in Korea (1907). News travelled through missionary periodicals, so Pentecostalism had several origins, not only an American one.",
+          "year": 1905,
+          "refs": [
+            {
+              "type": "event",
+              "id": "welsh-revival-1904"
+            },
+            {
+              "type": "person",
+              "id": "evan-roberts"
+            },
+            {
+              "type": "experience",
+              "id": "welsh-revival-1904"
+            },
+            {
+              "type": "experience",
+              "id": "mukti-revival-ramabai"
+            },
+            {
+              "type": "experience",
+              "id": "pyongyang-great-revival-1907"
+            }
+          ]
+        },
+        {
+          "title": "Azusa Street",
+          "text": "William J. Seymour's interracial mission at 312 Azusa Street, Los Angeles (1906-09) became the movement's most famous centre, sending missionaries worldwide. Disputes soon followed: over race, over sanctification (Finished Work, 1910) and over the Trinity, which produced Oneness Pentecostalism (1913-16). The Assemblies of God formed in 1914.",
+          "year": 1906,
+          "refs": [
+            {
+              "type": "event",
+              "id": "azusa-street-revival-1906"
+            },
+            {
+              "type": "person",
+              "id": "william-j-seymour"
+            },
+            {
+              "type": "experience",
+              "id": "azusa-street-revival"
+            },
+            {
+              "type": "tradition",
+              "id": "pentecostal"
+            },
+            {
+              "type": "tradition",
+              "id": "assemblies-of-god"
+            },
+            {
+              "type": "tradition",
+              "id": "oneness-pentecostal"
+            }
+          ]
+        },
+        {
+          "title": "Charismatic renewal and the global South",
+          "text": "From 1960 Pentecostal experience entered mainline Protestant and, from 1967, Catholic churches (the Charismatic Renewal), while independent 'neo-charismatic' and African, Latin American and Asian churches grew rapidly. By the early 21st century Pentecostal and charismatic Christians were estimated at roughly a quarter of all Christians, most in the global South.",
+          "year": 1960,
+          "refs": [
+            {
+              "type": "event",
+              "id": "charismatic-renewal-1960"
+            },
+            {
+              "type": "tradition",
+              "id": "charismatic-renewal"
+            },
+            {
+              "type": "tradition",
+              "id": "neo-charismatic"
+            },
+            {
+              "type": "tradition",
+              "id": "african-initiated-churches"
+            },
+            {
+              "type": "experience",
+              "id": "brazil-pentecostal-belem-1911"
+            },
+            {
+              "type": "experience",
+              "id": "harris-prophet-west-africa"
+            },
+            {
+              "type": "era",
+              "id": "contemporary"
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Who led the Azusa Street Mission in Los Angeles from 1906?",
+          "options": [
+            "Charles Parham",
+            "William J. Seymour",
+            "Aimee Semple McPherson",
+            "Evan Roberts"
+          ],
+          "answer": 1,
+          "explanation": "Seymour, an African American Holiness preacher and former student of Parham, led the mission."
+        },
+        {
+          "question": "Where did Agnes Ozman speak in tongues on 1 January 1901?",
+          "options": [
+            "Los Angeles",
+            "Topeka, Kansas",
+            "Loughor, Wales",
+            "Kedgaon, India"
+          ],
+          "answer": 1,
+          "explanation": "At Charles Parham's Bethel Bible School in Topeka."
+        },
+        {
+          "question": "Classical Pentecostals teach that the 'initial physical evidence' of Spirit baptism is...",
+          "options": [
+            "Prophecy",
+            "Healing",
+            "Speaking in tongues",
+            "Falling under the power"
+          ],
+          "answer": 2,
+          "explanation": "The 'initial evidence' doctrine, formulated by Parham, became standard in groups such as the Assemblies of God."
+        },
+        {
+          "question": "Which Wesleyan teaching paved the way for the idea of a 'second blessing'?",
+          "options": [
+            "Predestination",
+            "Christian perfection (entire sanctification)",
+            "Baptismal regeneration",
+            "Dispensationalism"
+          ],
+          "answer": 1,
+          "explanation": "Wesley's teaching on Christian perfection as a distinct work of grace was developed by the Holiness movement into an instantaneous 'second blessing'."
+        },
+        {
+          "question": "Who led the revival at the Mukti Mission in India in 1905?",
+          "options": [
+            "Sadhu Sundar Singh",
+            "Pandita Ramabai",
+            "John Sung",
+            "Gil Seon-ju"
+          ],
+          "answer": 1,
+          "explanation": "Pandita Ramabai's mission for widows and orphans at Kedgaon experienced revival from June 1905."
+        },
+        {
+          "question": "Oneness Pentecostalism, which emerged around 1913-16, differs from most Pentecostals by...",
+          "options": [
+            "Rejecting tongues",
+            "Rejecting the doctrine of the Trinity and baptising in Jesus' name only",
+            "Practising infant baptism",
+            "Rejecting divine healing"
+          ],
+          "answer": 1,
+          "explanation": "Oneness Pentecostals reject classical Trinitarianism, placing them outside historic Nicene orthodoxy."
+        },
+        {
+          "question": "Whose 'altar theology' taught instantaneous entire sanctification by consecration and faith?",
+          "options": [
+            "Phoebe Palmer",
+            "Charles Finney",
+            "John Wesley",
+            "Hudson Taylor"
+          ],
+          "answer": 0,
+          "explanation": "Phoebe Palmer's teaching (The Way of Holiness, 1843) shaped the Holiness movement."
+        }
+      ]
+    },
+    {
+      "id": "great-schism-east-and-west",
+      "title": "The Great Schism: East and West part ways",
+      "icon": "crown",
+      "summary": "The break between Rome and Constantinople was not a single event in 1054 but a slow estrangement over language, politics, papal authority and the creed, sealed by the Crusades and still being addressed today.",
+      "steps": [
+        {
+          "title": "Two halves of one empire",
+          "text": "Constantine founded Constantinople as a 'New Rome' (330). Over the following centuries the Greek-speaking East and Latin-speaking West grew apart in language, theology and politics, especially after the Western Empire fell in 476.",
+          "year": 330,
+          "refs": [
+            {
+              "type": "person",
+              "id": "constantine-i"
+            },
+            {
+              "type": "era",
+              "id": "imperial-church"
+            },
+            {
+              "type": "tradition",
+              "id": "early-church"
+            }
+          ]
+        },
+        {
+          "title": "Rome's primacy and Chalcedon's canon 28",
+          "text": "Pope Leo I's Tome shaped the Christology of Chalcedon (451), but Leo rejected the council's canon 28, which gave Constantinople privileges second only to Rome because it was the imperial city. Rome grounded its primacy in Peter; the East tended to ground rank in a city's importance and conciliar consensus.",
+          "year": 451,
+          "refs": [
+            {
+              "type": "person",
+              "id": "leo-i"
+            },
+            {
+              "type": "event",
+              "id": "council-of-chalcedon-451"
+            },
+            {
+              "type": "person",
+              "id": "peter-apostle"
+            }
+          ]
+        },
+        {
+          "title": "The filioque enters the Western creed",
+          "text": "The Spanish addition of 'and the Son' to the creed's article on the Spirit (Toledo, 589) spread through the Frankish church. The East objected both to the theology and to changing an ecumenical creed without an ecumenical council.",
+          "year": 589,
+          "refs": [
+            {
+              "type": "event",
+              "id": "council-of-toledo-589"
+            },
+            {
+              "type": "doctrine",
+              "id": "holy-spirit"
+            },
+            {
+              "type": "doctrine",
+              "id": "trinity"
+            }
+          ]
+        },
+        {
+          "title": "Icons and empire",
+          "text": "Byzantine iconoclasm (from 726) and the restoration of icons at Nicaea II (787), defended by John of Damascus, were largely Eastern struggles; the Frankish court misunderstood the council's decisions, a sign of growing distance.",
+          "year": 787,
+          "refs": [
+            {
+              "type": "event",
+              "id": "iconoclasm-begins-726"
+            },
+            {
+              "type": "event",
+              "id": "second-council-of-nicaea-787"
+            },
+            {
+              "type": "person",
+              "id": "john-of-damascus"
+            },
+            {
+              "type": "era",
+              "id": "late-antiquity"
+            }
+          ]
+        },
+        {
+          "title": "A Western emperor",
+          "text": "When Pope Leo III crowned Charlemagne emperor in Rome (800), Byzantium regarded it as usurpation. Carolingian theologians championed the filioque and criticised the Greeks.",
+          "year": 800,
+          "refs": [
+            {
+              "type": "event",
+              "id": "coronation-of-charlemagne-800"
+            },
+            {
+              "type": "person",
+              "id": "charlemagne"
+            },
+            {
+              "type": "era",
+              "id": "carolingian-schism"
+            }
+          ]
+        },
+        {
+          "title": "Photius and the mission to the Slavs",
+          "text": "Rivalry over missions to the Slavs and Bulgarians, and the dispute between Patriarch Photius and Pope Nicholas I, produced a temporary schism (863-867). Photius' encyclical attacked the filioque. Meanwhile Cyril and Methodius' Slavonic liturgy and the baptism of Rus' (988) extended Byzantine Christianity northward.",
+          "year": 863,
+          "refs": [
+            {
+              "type": "person",
+              "id": "photius"
+            },
+            {
+              "type": "event",
+              "id": "mission-of-cyril-and-methodius-863"
+            },
+            {
+              "type": "person",
+              "id": "cyril-and-methodius"
+            },
+            {
+              "type": "event",
+              "id": "baptism-of-rus-988"
+            },
+            {
+              "type": "tradition",
+              "id": "russian-orthodox"
+            }
+          ]
+        },
+        {
+          "title": "1054: mutual excommunications",
+          "text": "Papal legates led by Cardinal Humbert laid a bull excommunicating Patriarch Michael Cerularius on the altar of Hagia Sophia; the patriarch's synod excommunicated the legates. Disputes included papal authority, the filioque and unleavened bread. At the time it looked like one more quarrel.",
+          "year": 1054,
+          "refs": [
+            {
+              "type": "event",
+              "id": "great-schism-1054"
+            },
+            {
+              "type": "tradition",
+              "id": "catholic"
+            },
+            {
+              "type": "tradition",
+              "id": "eastern-orthodox"
+            },
+            {
+              "type": "era",
+              "id": "high-middle-ages"
+            }
+          ]
+        },
+        {
+          "title": "Crusades and the sack of Constantinople",
+          "text": "The Crusades brought Latins into the East in force. In 1204 the Fourth Crusade sacked Constantinople and installed a Latin patriarch; for many Orthodox this, more than 1054, made the schism real and bitter.",
+          "year": 1204,
+          "refs": [
+            {
+              "type": "event",
+              "id": "first-crusade-1096"
+            },
+            {
+              "type": "event",
+              "id": "sack-of-constantinople-1204"
+            }
+          ]
+        },
+        {
+          "title": "Failed reunions",
+          "text": "Reunion councils at Lyon (1274) and Florence (1439) produced agreements signed under Byzantine political pressure but rejected by most Orthodox clergy and people (Mark of Ephesus refused to sign). The hesychast victory had meanwhile confirmed a distinct Eastern theology. Constantinople fell to the Ottomans in 1453; later 'Eastern Catholic' churches united with Rome while keeping Eastern rites.",
+          "year": 1439,
+          "refs": [
+            {
+              "type": "event",
+              "id": "council-of-lyon-1274"
+            },
+            {
+              "type": "event",
+              "id": "council-of-florence-1439"
+            },
+            {
+              "type": "event",
+              "id": "hesychast-controversy-1341"
+            },
+            {
+              "type": "event",
+              "id": "fall-of-constantinople-1453"
+            },
+            {
+              "type": "tradition",
+              "id": "eastern-catholic"
+            }
+          ]
+        },
+        {
+          "title": "Toward reconciliation",
+          "text": "On 7 December 1965, at the close of Vatican II, Pope Paul VI and Ecumenical Patriarch Athenagoras lifted the 1054 excommunications. Theological dialogue continues on primacy and the filioque, with recent popes (John Paul II, Francis) and patriarchs meeting regularly, though full communion has not been restored.",
+          "year": 1965,
+          "refs": [
+            {
+              "type": "event",
+              "id": "second-vatican-council-1962"
+            },
+            {
+              "type": "person",
+              "id": "john-paul-ii"
+            },
+            {
+              "type": "person",
+              "id": "pope-francis"
+            },
+            {
+              "type": "era",
+              "id": "contemporary"
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What does 'filioque' mean?",
+          "options": [
+            "'From the Father alone'",
+            "'And the Son'",
+            "'Of one substance'",
+            "'Mother of God'"
+          ],
+          "answer": 1,
+          "explanation": "Filioque means 'and the Son', added to say the Spirit proceeds from the Father and the Son."
+        },
+        {
+          "question": "Who were the principal figures in the excommunications of 1054?",
+          "options": [
+            "Leo I and Dioscorus",
+            "Cardinal Humbert and Patriarch Michael Cerularius",
+            "Photius and Nicholas I",
+            "Paul VI and Athenagoras"
+          ],
+          "answer": 1,
+          "explanation": "Humbert, as papal legate, excommunicated Cerularius, who in turn anathematised the legates."
+        },
+        {
+          "question": "Which event do many Orthodox consider the real turning point that made the schism bitter?",
+          "options": [
+            "The coronation of Charlemagne",
+            "The sack of Constantinople by the Fourth Crusade in 1204",
+            "The Council of Trent",
+            "The fall of Rome in 476"
+          ],
+          "answer": 1,
+          "explanation": "The 1204 sack of Constantinople by Western crusaders left lasting bitterness."
+        },
+        {
+          "question": "Why did Pope Leo I reject canon 28 of Chalcedon?",
+          "options": [
+            "It denied Christ's two natures",
+            "It gave Constantinople privileges second only to Rome on political grounds",
+            "It added the filioque",
+            "It condemned icons"
+          ],
+          "answer": 1,
+          "explanation": "Leo held that Rome's primacy rested on Peter, not on imperial status, and rejected the canon."
+        },
+        {
+          "question": "What happened at the Council of Florence (1439)?",
+          "options": [
+            "A lasting reunion of East and West",
+            "A union agreement that was largely rejected in the East",
+            "The excommunication of Photius",
+            "The definition of papal infallibility"
+          ],
+          "answer": 1,
+          "explanation": "The union was signed under political pressure but rejected by most Orthodox; Mark of Ephesus refused to sign."
+        },
+        {
+          "question": "When were the 1054 excommunications lifted?",
+          "options": [
+            "1439",
+            "1870",
+            "1965",
+            "2000"
+          ],
+          "answer": 2,
+          "explanation": "Paul VI and Athenagoras lifted them on 7 December 1965."
+        },
+        {
+          "question": "Which council restored the veneration of icons in 787?",
+          "options": [
+            "Nicaea II",
+            "Constantinople III",
+            "Ephesus",
+            "Lyon"
+          ],
+          "answer": 0,
+          "explanation": "The Second Council of Nicaea, the seventh ecumenical council for both Orthodox and Catholics."
+        }
+      ]
+    },
+    {
+      "id": "christianity-beyond-the-west",
+      "title": "Christianity beyond the West: Persia, Ethiopia, India, China",
+      "icon": "globe",
+      "summary": "For its first thousand years Christianity was as much an Asian and African faith as a European one. Follow the churches of Armenia, Ethiopia, Persia, India and China, the councils that divided them, and their survival and renewal.",
+      "steps": [
+        {
+          "title": "A multilingual beginning",
+          "text": "Luke's Pentecost crowd included Parthians, Medes, Elamites and residents of Mesopotamia, Egypt and Libya (Acts 2:9-11). Christianity spread early in Syriac-speaking Edessa and Mesopotamia, outside the Roman Empire.",
+          "year": 30,
+          "refs": [
+            {
+              "type": "event",
+              "id": "pentecost-30"
+            },
+            {
+              "type": "experience",
+              "id": "pentecost-acts-2"
+            },
+            {
+              "type": "era",
+              "id": "apostolic-age"
+            }
+          ]
+        },
+        {
+          "title": "Armenia: the first Christian kingdom",
+          "text": "According to tradition, Gregory the Illuminator converted King Tiridates III, making Armenia the first state to adopt Christianity (traditionally 301; some scholars prefer c. 314). Mesrop Mashtots later created the Armenian alphabet to translate the Bible.",
+          "year": 301,
+          "refs": [
+            {
+              "type": "event",
+              "id": "conversion-of-armenia-301"
+            },
+            {
+              "type": "tradition",
+              "id": "armenian-apostolic"
+            }
+          ]
+        },
+        {
+          "title": "Ethiopia: Frumentius at Aksum",
+          "text": "Frumentius, a Syrian Christian captive who rose at the court of Aksum, was consecrated bishop by Athanasius of Alexandria; King Ezana adopted Christianity around 330-340. The Ethiopian church kept close ties with Alexandria for 1,600 years and preserved a distinctive canon and liturgy.",
+          "year": 330,
+          "refs": [
+            {
+              "type": "event",
+              "id": "conversion-of-ethiopia-aksum-330"
+            },
+            {
+              "type": "person",
+              "id": "frumentius"
+            },
+            {
+              "type": "person",
+              "id": "athanasius"
+            },
+            {
+              "type": "tradition",
+              "id": "ethiopian-orthodox-tewahedo"
+            }
+          ]
+        },
+        {
+          "title": "Syriac Christianity and Ephrem",
+          "text": "Ephrem the Syrian, deacon of Nisibis and Edessa, wrote theology as poetry and hymns, showing a Semitic, non-Hellenistic way of doing theology that shaped both Syriac Orthodox and Church of the East traditions.",
+          "year": 363,
+          "refs": [
+            {
+              "type": "person",
+              "id": "ephrem-the-syrian"
+            },
+            {
+              "type": "tradition",
+              "id": "syriac-orthodox"
+            },
+            {
+              "type": "tradition",
+              "id": "church-of-the-east"
+            }
+          ]
+        },
+        {
+          "title": "Persia and the Church of the East",
+          "text": "Christians in the Persian Empire suffered persecution under Shapur II and organised their own synods (410). After the Council of Ephesus (431) condemned Nestorius, the Persian church followed the Antiochene theology of Theodore of Mopsuestia and became the Church of the East (often called 'Nestorian' by opponents).",
+          "year": 431,
+          "refs": [
+            {
+              "type": "event",
+              "id": "council-of-ephesus-431"
+            },
+            {
+              "type": "person",
+              "id": "nestorius"
+            },
+            {
+              "type": "tradition",
+              "id": "church-of-the-east"
+            },
+            {
+              "type": "tradition",
+              "id": "assyrian-church-of-the-east"
+            }
+          ]
+        },
+        {
+          "title": "Chalcedon and the Oriental Orthodox",
+          "text": "Coptic, Syriac, Armenian and Ethiopian churches rejected Chalcedon's 'in two natures' formula, preferring Cyril's 'one incarnate nature of God the Word'. Called 'Monophysite' by opponents, they describe themselves as Miaphysite; modern dialogues have found much common ground with Chalcedonians.",
+          "year": 451,
+          "refs": [
+            {
+              "type": "event",
+              "id": "council-of-chalcedon-451"
+            },
+            {
+              "type": "tradition",
+              "id": "oriental-orthodox"
+            },
+            {
+              "type": "tradition",
+              "id": "coptic-orthodox"
+            },
+            {
+              "type": "person",
+              "id": "dioscorus"
+            },
+            {
+              "type": "person",
+              "id": "severus-of-antioch"
+            },
+            {
+              "type": "person",
+              "id": "cyril-of-alexandria"
+            }
+          ]
+        },
+        {
+          "title": "India: the Thomas Christians",
+          "text": "Christians of Kerala trace their church to the apostle Thomas. Their presence is attested by the 6th century (Cosmas Indicopleustes), and they long received bishops from the Church of the East. After Portuguese pressure (Synod of Diamper, 1599) they divided into several churches, including the Malankara Orthodox.",
+          "year": 550,
+          "refs": [
+            {
+              "type": "tradition",
+              "id": "malankara-orthodox"
+            },
+            {
+              "type": "tradition",
+              "id": "church-of-the-east"
+            },
+            {
+              "type": "era",
+              "id": "late-antiquity"
+            }
+          ]
+        },
+        {
+          "title": "China: Alopen and the Xi'an stele",
+          "text": "A Church of the East mission led by Alopen reached the Tang capital Chang'an in 635 and received imperial permission to build a monastery. The Xi'an stele (781) recounts its history in Chinese and Syriac, presenting Christianity as the 'Luminous Teaching'.",
+          "year": 635,
+          "refs": [
+            {
+              "type": "event",
+              "id": "alopen-reaches-chang-an-635"
+            },
+            {
+              "type": "person",
+              "id": "alopen"
+            }
+          ]
+        },
+        {
+          "title": "Under Islam and the Mongols",
+          "text": "After the Arab conquests (from 634) Christians in the Middle East became protected but subordinate communities, yet the Church of the East reached its greatest extent, from Mesopotamia to China, by the 13th century; the monk Rabban Sauma travelled from Beijing to Rome and Paris in 1287. The Mongol khanates' turn to Islam and the campaigns of Timur (c. 1400) devastated these churches.",
+          "year": 1287,
+          "refs": [
+            {
+              "type": "event",
+              "id": "rise-of-islam-arab-conquests-634"
+            },
+            {
+              "type": "tradition",
+              "id": "church-of-the-east"
+            },
+            {
+              "type": "era",
+              "id": "high-middle-ages"
+            },
+            {
+              "type": "era",
+              "id": "late-medieval"
+            }
+          ]
+        },
+        {
+          "title": "New waves and today's global South",
+          "text": "Catholic missions (Francis Xavier in Japan, 1549; Matteo Ricci in China from 1583) and later Protestant missions began a second wave in Asia and Africa. In the 20th century independent African churches, the East African Revival and Chinese house churches made Africa and Asia central to world Christianity.",
+          "year": 1549,
+          "refs": [
+            {
+              "type": "person",
+              "id": "francis-xavier"
+            },
+            {
+              "type": "person",
+              "id": "matteo-ricci"
+            },
+            {
+              "type": "event",
+              "id": "jesuit-mission-to-japan-1549"
+            },
+            {
+              "type": "tradition",
+              "id": "chinese-house-churches"
+            },
+            {
+              "type": "experience",
+              "id": "east-african-revival"
+            },
+            {
+              "type": "experience",
+              "id": "chinese-house-church-healings"
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which kingdom is traditionally regarded as the first to adopt Christianity as its state religion?",
+          "options": [
+            "Ethiopia (Aksum)",
+            "Armenia",
+            "The Roman Empire",
+            "Georgia"
+          ],
+          "answer": 1,
+          "explanation": "Armenia under Tiridates III, traditionally dated 301 (some scholars prefer c. 314)."
+        },
+        {
+          "question": "Who consecrated Frumentius as bishop for Aksum?",
+          "options": [
+            "Cyril of Alexandria",
+            "Athanasius of Alexandria",
+            "Leo I",
+            "John Chrysostom"
+          ],
+          "answer": 1,
+          "explanation": "Athanasius, Patriarch of Alexandria, beginning Ethiopia's long link with the Coptic church."
+        },
+        {
+          "question": "The Xi'an stele, erected in 781, records the arrival of which missionary in 635?",
+          "options": [
+            "Matteo Ricci",
+            "Alopen",
+            "Francis Xavier",
+            "Rabban Sauma"
+          ],
+          "answer": 1,
+          "explanation": "Alopen led the Church of the East mission to the Tang capital Chang'an."
+        },
+        {
+          "question": "After which council did the Persian church become the separate Church of the East?",
+          "options": [
+            "Nicaea (325)",
+            "Ephesus (431)",
+            "Chalcedon (451)",
+            "Constantinople II (553)"
+          ],
+          "answer": 1,
+          "explanation": "Ephesus' condemnation of Nestorius was not accepted by the Persian church, which followed Antiochene theology."
+        },
+        {
+          "question": "How do the Oriental Orthodox churches usually describe their Christology?",
+          "options": [
+            "Monophysite",
+            "Miaphysite",
+            "Nestorian",
+            "Monothelite"
+          ],
+          "answer": 1,
+          "explanation": "They call themselves Miaphysite ('one nature' of the incarnate Word, following Cyril); 'Monophysite' was a label used by opponents."
+        },
+        {
+          "question": "Indian Christians of Kerala trace their origin to which apostle?",
+          "options": [
+            "Paul",
+            "Peter",
+            "Thomas",
+            "Bartholomew"
+          ],
+          "answer": 2,
+          "explanation": "The 'Thomas Christians' hold that the apostle Thomas evangelised South India."
+        },
+        {
+          "question": "Which Syriac poet-theologian wrote much of his theology as hymns?",
+          "options": [
+            "Ephrem the Syrian",
+            "Severus of Antioch",
+            "Nestorius",
+            "John of Damascus"
+          ],
+          "answer": 0,
+          "explanation": "Ephrem (d. 373), deacon of Nisibis and Edessa, is the great Syriac hymn-writer."
+        },
+        {
+          "question": "Which 14th-15th century development devastated the Church of the East across Asia?",
+          "options": [
+            "The Reformation",
+            "The Mongol khanates' conversion to Islam and Timur's campaigns",
+            "The Fourth Crusade",
+            "The Council of Trent"
+          ],
+          "answer": 1,
+          "explanation": "Islamisation of the Mongol successor states and Timur's wars (c. 1400) destroyed much of the church's Asian network."
+        }
+      ]
+    }
+  ]
+}

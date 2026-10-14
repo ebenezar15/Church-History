@@ -1,0 +1,3147 @@
+{
+  "sources": [
+    {
+      "id": "sasse-this-is-my-body",
+      "title": "This Is My Body: Luther’s Contention for the Real Presence in the Sacrament of the Altar",
+      "kind": "secondary",
+      "author": "Hermann Sasse",
+      "year": 1959
+    },
+    {
+      "id": "frend-donatist-church",
+      "title": "The Donatist Church: A Movement of Protest in Roman North Africa",
+      "kind": "secondary",
+      "author": "W. H. C. Frend",
+      "year": 1952
+    },
+    {
+      "id": "bem-1982",
+      "title": "Baptism, Eucharist and Ministry (Faith and Order Paper No. 111)",
+      "kind": "primary",
+      "author": "World Council of Churches",
+      "year": 1982,
+      "url": "https://www.oikoumene.org/resources/documents/baptism-eucharist-and-ministry-faith-and-order-paper-no-111-the-lima-text"
+    },
+    {
+      "id": "macy-banquet",
+      "title": "The Banquet’s Wisdom: A Short History of the Theologies of the Lord’s Supper",
+      "kind": "secondary",
+      "author": "Gary Macy",
+      "year": 1992
+    },
+    {
+      "id": "ccc-1997",
+      "title": "Catechism of the Catholic Church, 2nd ed.",
+      "kind": "primary",
+      "author": "Holy See",
+      "year": 1997,
+      "url": "https://www.vatican.va/archive/ENG0015/_INDEX.HTM"
+    },
+    {
+      "id": "vatican-ii-documents",
+      "title": "Documents of the Second Vatican Council",
+      "kind": "primary",
+      "author": "Holy See",
+      "year": 1965,
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm"
+    },
+    {
+      "id": "bradshaw-origins-worship",
+      "title": "The Search for the Origins of Christian Worship",
+      "kind": "secondary",
+      "author": "Paul F. Bradshaw",
+      "year": 2002,
+      "note": "2nd ed."
+    },
+    {
+      "id": "chaves-ordaining-women",
+      "title": "Ordaining Women: Culture and Conflict in Religious Organizations",
+      "kind": "secondary",
+      "author": "Mark Chaves",
+      "year": 1997
+    },
+    {
+      "id": "madigan-osiek-ordained-women",
+      "title": "Ordained Women in the Early Church: A Documentary History",
+      "kind": "secondary",
+      "author": "Kevin Madigan and Carolyn Osiek",
+      "year": 2005
+    },
+    {
+      "id": "pontifical-addai-mari-2001",
+      "title": "Guidelines for Admission to the Eucharist between the Chaldean Church and the Assyrian Church of the East",
+      "kind": "primary",
+      "author": "Pontifical Council for Promoting Christian Unity",
+      "year": 2001,
+      "url": "https://www.vatican.va/roman_curia/pontifical_councils/chrstuni/documents/rc_pc_chrstuni_doc_20011025_chiesa-caldea-assira_en.html"
+    },
+    {
+      "id": "leuenberg-1973",
+      "title": "Leuenberg Agreement (Agreement between Reformation Churches in Europe)",
+      "kind": "primary",
+      "author": "Community of Protestant Churches in Europe",
+      "year": 1973
+    }
+  ],
+  "doctrines": [
+    {
+      "id": "church-sacraments",
+      "name": "Church, Ministry and Sacraments",
+      "icon": "chalice",
+      "order": 6,
+      "question": "What is the Church, who leads it, and what happens in its sacraments?",
+      "summary": "Christians agree that Christ founded a Church and gave it baptism and the Supper, but have divided over how Christ is present in the Eucharist, how many sacraments there are, whether bishops in apostolic succession are essential, how churches should be governed, whether an unworthy minister invalidates a sacrament, and whether women may be ordained.",
+      "longText": "The earliest Christian sources already show a Church gathered around the apostles’ teaching, the breaking of bread and prayer (Acts 2:42), led by overseers, elders and deacons. By about 107 Ignatius of Antioch describes a single bishop with presbyters and deacons in each city and calls the Eucharist \"the flesh of our Saviour\"; Justin (c.155) says the consecrated food is \"not common bread\"; Irenaeus (c.180) points to public successions of bishops as the guarantee of apostolic teaching. These three convictions (an apostolic ministry, a realist Eucharist and a visible catholic unity) shaped the Church of the first millennium, East and West.\n\nCrises refined them. After the Diocletian persecution the Donatist schism in North Africa asked whether unworthy clergy could give valid sacraments; Augustine answered that Christ himself baptises and that the Church is a mixed body until the end, establishing the Western doctrine of sacramental validity. In the 9th and 11th centuries Western theologians debated how the Eucharist is Christ’s body; the Fourth Lateran Council (1215) adopted the term \"transubstantiation\", Thomas Aquinas gave it Aristotelian precision, and the number of sacraments was fixed at seven. The Eastern churches, Chalcedonian and non-Chalcedonian, likewise counted seven mysteries (with East Syriac variations) and affirmed a real change of the gifts by the Spirit, while declining to define its mode.\n\nThe Reformation broke this consensus. Luther reduced the sacraments to two and rejected transubstantiation and the sacrifice of the Mass, yet insisted on Christ’s bodily presence \"in, with and under\" the bread. Zwingli read \"is\" as \"signifies\"; the failure of the Marburg Colloquy (1529) divided Lutheran and Reformed Protestants for four centuries, and Calvin’s doctrine of a spiritual real presence became the Reformed standard. Trent reaffirmed seven sacraments and transubstantiation. Questions of church government followed: episcopal, presbyterian and congregational polities each claimed biblical warrant, with consequences for politics and religious liberty from Scotland to New England.\n\nIn the modern era the ecumenical movement produced significant convergence (the Leuenberg Agreement of 1973, the WCC’s Baptism, Eucharist and Ministry of 1982, and Rome’s recognition in 2001 of the ancient East Syriac Anaphora of Addai and Mari), while the ordination of women became a new dividing line: practised by Quakers, Holiness and Pentecostal churches, Methodists and most mainline Protestants and many Anglicans, but rejected by the Catholic and Orthodox churches and by complementarian evangelicals. This section presents each view in its own terms, the objections each faces and the replies its defenders make.",
+      "flow": {
+        "nodes": [
+          {
+            "id": "q",
+            "kind": "question",
+            "label": "What is the Church, who leads it, and what happens in its sacraments?",
+            "text": "Jesus gathered disciples, appointed apostles, commanded baptism and said over bread and wine \"this is my body ... this is my blood\". How is Christ present in the Supper? How many sacraments are there, and are they means of grace or signs of obedience? Who has authority to ordain and preside, and through what form of government? Can an unworthy minister invalidate a sacrament? May women be ordained?",
+            "quoteIds": []
+          },
+          {
+            "id": "s-supper",
+            "kind": "scripture",
+            "label": "Words of institution and the bread of life (Mark 14:22–24; John 6:48–63)",
+            "year": 30,
+            "text": "\"Take, eat: this is my body\"; \"except ye eat the flesh of the Son of man, and drink his blood, ye have no life in you\" (John 6:53); yet \"it is the spirit that quickeneth; the flesh profiteth nothing\" (6:63). Realists and symbolists both appeal to these texts.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-peter",
+            "kind": "scripture",
+            "label": "Matthew 16:18–19: \"upon this rock I will build my church\"",
+            "year": 30,
+            "text": "Read as founding Petrine primacy and apostolic succession (Catholic), as Peter’s confession of faith (most Protestants and many Fathers), or as the foundation shared by all bishops (Cyprian, Orthodox).",
+            "quoteIds": []
+          },
+          {
+            "id": "s-corinth",
+            "kind": "scripture",
+            "label": "1 Corinthians 10:16–17; 11:23–29",
+            "year": 54,
+            "text": "\"The cup of blessing ... is it not the communion of the blood of Christ?\"; whoever eats \"unworthily\" is \"guilty of the body and blood of the Lord\", \"not discerning the Lord’s body\".",
+            "quoteIds": []
+          },
+          {
+            "id": "s-offices",
+            "kind": "scripture",
+            "label": "Offices and ministries (Acts 6; 14:23; Philippians 1:1; 1 Timothy 2–3; Titus 1; Romans 16:1–7; Galatians 3:28)",
+            "year": 62,
+            "text": "Overseers (episkopoi), elders (presbyteroi) and deacons, with \"bishop\" and \"elder\" used interchangeably in some texts (Titus 1:5–7); Phoebe a deacon, Junia \"of note among the apostles\"; but also \"I suffer not a woman to teach, nor to usurp authority\" (1 Tim 2:12). Dates of the Pastorals are debated (c.62–100).",
+            "quoteIds": []
+          },
+          {
+            "id": "v-clement",
+            "kind": "voice",
+            "label": "Clement of Rome: apostles appointed successors (c.96)",
+            "year": 96,
+            "text": "Rome tells Corinth that the apostles appointed bishops and deacons and provided for their succession, so deposing them is wrong.",
+            "ref": {
+              "type": "person",
+              "id": "clement-of-rome"
+            },
+            "quoteIds": [
+              "clement-strife-episcopate"
+            ]
+          },
+          {
+            "id": "v-ignatius",
+            "kind": "voice",
+            "label": "Ignatius of Antioch: bishop, Eucharist and \"the Catholic Church\" (c.107)",
+            "year": 107,
+            "text": "A single bishop with presbyters and deacons is the focus of unity; the Eucharist is the flesh of Christ.",
+            "ref": {
+              "type": "person",
+              "id": "ignatius-of-antioch"
+            },
+            "quoteIds": [
+              "ignatius-follow-the-bishop",
+              "ignatius-eucharist-flesh"
+            ]
+          },
+          {
+            "id": "v-justin",
+            "kind": "voice",
+            "label": "Justin Martyr: \"not as common bread\" (c.155)",
+            "year": 155,
+            "text": "Earliest description of the Sunday Eucharist, with a realist understanding of the consecrated food.",
+            "ref": {
+              "type": "person",
+              "id": "justin-martyr"
+            },
+            "quoteIds": [
+              "justin-not-common-bread"
+            ]
+          },
+          {
+            "id": "v-irenaeus",
+            "kind": "voice",
+            "label": "Irenaeus: succession of bishops guarantees apostolic teaching (c.180)",
+            "year": 180,
+            "text": "Against Gnostic secret traditions, public lists of bishops show where apostolic doctrine is found.",
+            "ref": {
+              "type": "person",
+              "id": "irenaeus"
+            },
+            "quoteIds": [
+              "irenaeus-succession-of-bishops"
+            ]
+          },
+          {
+            "id": "p-succession",
+            "kind": "position",
+            "label": "Apostolic succession and episcopal polity",
+            "year": 180,
+            "text": "Bishops in continuous succession from the apostles guard faith and sacraments; the threefold ministry of bishops, priests and deacons becomes universal by c.200.",
+            "ref": {
+              "type": "position",
+              "id": "apostolic-succession"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "v-cyprian",
+            "kind": "voice",
+            "label": "Cyprian: no salvation outside the Church; rebaptise schismatics (c.251)",
+            "year": 251,
+            "text": "Cyprian’s view that sacraments outside the one Church are void becomes the root of Donatist theology.",
+            "ref": {
+              "type": "person",
+              "id": "cyprian"
+            },
+            "quoteIds": [
+              "cyprian-church-mother"
+            ]
+          },
+          {
+            "id": "p-donatism",
+            "kind": "position",
+            "label": "Donatism: a pure Church and pure ministers",
+            "year": 311,
+            "text": "North Africans reject Caecilian of Carthage because a bishop who consecrated him was accused of handing over Scriptures in persecution; sacraments of traitor clergy are invalid.",
+            "ref": {
+              "type": "position",
+              "id": "donatism"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "v-augustine",
+            "kind": "voice",
+            "label": "Augustine: Christ is the true minister (c.400–416)",
+            "year": 405,
+            "text": "Sacraments belong to Christ, not the minister; the visible Church is a mixed body until the harvest.",
+            "ref": {
+              "type": "person",
+              "id": "augustine-of-hippo"
+            },
+            "quoteIds": [
+              "augustine-he-that-baptizeth",
+              "augustine-visible-word"
+            ]
+          },
+          {
+            "id": "d-carthage",
+            "kind": "decision",
+            "label": "Conference of Carthage rules against the Donatists (411)",
+            "year": 411,
+            "text": "Before the imperial commissioner Marcellinus, 286 Catholic and 284 Donatist bishops debate; the verdict for the Catholics is followed by coercive imperial laws, which Augustine reluctantly defended.",
+            "ref": {
+              "type": "position",
+              "id": "catholic-sacramental-validity"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "v-damascus",
+            "kind": "voice",
+            "label": "John of Damascus: \"not merely figures\" (c.743)",
+            "year": 743,
+            "text": "The Greek tradition affirms a real change of the gifts by the Holy Spirit at the epiclesis without philosophical definition.",
+            "ref": {
+              "type": "person",
+              "id": "john-of-damascus"
+            },
+            "quoteIds": [
+              "john-damascus-not-figures",
+              "cyril-jerusalem-seeming-bread"
+            ]
+          },
+          {
+            "id": "p-orthodox",
+            "kind": "position",
+            "label": "Orthodox eucharistic mystery",
+            "year": 787,
+            "text": "Eastern, Oriental and East Syriac churches affirm the real change (metabolē) of the gifts into Christ’s body and blood as a mystery, centred on the Spirit’s descent.",
+            "ref": {
+              "type": "position",
+              "id": "orthodox-eucharistic-mystery"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "a-carolingian",
+            "kind": "argument",
+            "label": "Paschasius vs Ratramnus at Corbie (831–843)",
+            "year": 843,
+            "text": "Paschasius Radbertus identifies the eucharistic body with the historical body born of Mary; Ratramnus distinguishes Christ’s body \"in figure\" from his historical body. Berengar of Tours (d.1088) later revives Ratramnus and is forced to recant (1059, 1079).",
+            "quoteIds": []
+          },
+          {
+            "id": "p-seven",
+            "kind": "position",
+            "label": "Seven sacraments",
+            "year": 1150,
+            "text": "Peter Lombard’s Sentences (c.1150) fixes the number at seven: baptism, confirmation, Eucharist, penance, anointing, orders, marriage.",
+            "ref": {
+              "type": "position",
+              "id": "seven-sacraments"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "d-lateran",
+            "kind": "decision",
+            "label": "Fourth Lateran Council: \"transubstantiated\" (1215)",
+            "year": 1215,
+            "text": "Canon 1 confesses that Christ’s body and blood are truly contained under the species of bread and wine, \"the bread being transubstantiated into the body\"; annual confession and Easter communion are made obligatory.",
+            "ref": {
+              "type": "event",
+              "id": "fourth-lateran-council-1215"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-transub",
+            "kind": "position",
+            "label": "Transubstantiation",
+            "year": 1215,
+            "text": "Thomas Aquinas explains that the whole substance of bread and wine becomes Christ’s body and blood while the accidents (appearances) remain.",
+            "ref": {
+              "type": "position",
+              "id": "transubstantiation"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "d-florence",
+            "kind": "decision",
+            "label": "Florence’s Decree for the Armenians: seven sacraments (1439)",
+            "year": 1439,
+            "text": "The union council lists seven sacraments with matter, form and minister, building on the profession of Michael VIII at Lyon (1274).",
+            "ref": {
+              "type": "event",
+              "id": "council-of-florence-1439"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "a-captivity",
+            "kind": "argument",
+            "label": "Luther, The Babylonian Captivity of the Church (1520)",
+            "year": 1520,
+            "text": "Only rites with Christ’s command and promise and a visible sign are sacraments; Luther attacks the withheld cup, transubstantiation as philosophy and the Mass as sacrifice.",
+            "ref": {
+              "type": "work",
+              "id": "luther-babylonian-captivity"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-two",
+            "kind": "position",
+            "label": "Two sacraments (or ordinances)",
+            "year": 1520,
+            "text": "Baptism and the Lord’s Supper alone are dominical sacraments; Anabaptists and later Baptists call them \"ordinances\" of obedience.",
+            "ref": {
+              "type": "position",
+              "id": "two-sacraments"
+            },
+            "quoteIds": [
+              "articles-two-sacraments"
+            ]
+          },
+          {
+            "id": "p-zwingli",
+            "kind": "position",
+            "label": "Zwinglian memorial view",
+            "year": 1525,
+            "text": "\"Is\" means \"signifies\"; the Supper is a commemoration and public confession of faith.",
+            "ref": {
+              "type": "position",
+              "id": "zwinglian-memorial"
+            },
+            "quoteIds": [
+              "zwingli-is-signifies"
+            ]
+          },
+          {
+            "id": "p-lutheran",
+            "kind": "position",
+            "label": "Lutheran sacramental union",
+            "year": 1529,
+            "text": "Christ’s true body and blood are present \"in, with and under\" the bread and wine and received by all communicants.",
+            "ref": {
+              "type": "position",
+              "id": "lutheran-sacramental-union"
+            },
+            "quoteIds": [
+              "luther-small-catechism-altar"
+            ]
+          },
+          {
+            "id": "d-marburg",
+            "kind": "decision",
+            "label": "Marburg Colloquy fails on the Supper (1529)",
+            "year": 1529,
+            "text": "Philip of Hesse brings Luther and Zwingli together to build a Protestant alliance; they agree on fourteen and a half of fifteen articles, but not on the bodily presence. Luther refuses Zwingli’s hand of fellowship.",
+            "ref": {
+              "type": "event",
+              "id": "marburg-colloquy-1529"
+            },
+            "quoteIds": [
+              "luther-hoc-est-corpus",
+              "marburg-article-15"
+            ]
+          },
+          {
+            "id": "c-protestant-split",
+            "kind": "consequence",
+            "label": "Lutheran and Reformed churches go separate ways",
+            "year": 1530,
+            "text": "Separate confessions (Augsburg 1530; Tetrapolitan 1530; Zwingli’s Fidei Ratio 1530), no common military alliance, and centuries of mutual non-communion; Zwingli dies at Kappel (1531).",
+            "ref": {
+              "type": "event",
+              "id": "augsburg-confession-1530"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-reformed",
+            "kind": "position",
+            "label": "Reformed spiritual presence",
+            "year": 1559,
+            "text": "Calvin: believers truly feed on Christ’s body and blood, as the Spirit lifts them to the ascended Christ; Consensus Tigurinus (1549) with Bullinger.",
+            "ref": {
+              "type": "position",
+              "id": "reformed-spiritual-presence"
+            },
+            "quoteIds": [
+              "calvin-spirit-unites",
+              "articles-heavenly-spiritual-manner"
+            ]
+          },
+          {
+            "id": "d-trent",
+            "kind": "decision",
+            "label": "Council of Trent defines transubstantiation and seven sacraments (1547–63)",
+            "year": 1551,
+            "text": "Session 7 (1547) anathematises denial of seven sacraments; Session 13 (1551) calls the change of substance \"fittingly and properly\" transubstantiation; Session 22 (1562) defines the Mass as a propitiatory sacrifice; Session 23 (1563) defends priesthood and hierarchy.",
+            "ref": {
+              "type": "event",
+              "id": "council-of-trent-1545"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-polities",
+            "kind": "position",
+            "label": "Presbyterian and congregational polities",
+            "year": 1560,
+            "text": "Calvin’s four offices (1541) and the Scottish Books of Discipline (1560, 1578) establish government by elders in graded courts; English Separatists (Robert Browne, 1582) and the Cambridge Platform (1648) set out congregational autonomy, later adopted by Baptists.",
+            "ref": {
+              "type": "position",
+              "id": "presbyterian-polity"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "d-westminster",
+            "kind": "decision",
+            "label": "Westminster Assembly debates church government (1643–48)",
+            "year": 1645,
+            "text": "Presbyterian majority, Independent (congregationalist) \"dissenting brethren\" and Erastians clash; the Form of Presbyterial Church-Government (1645) shapes world Presbyterianism; episcopacy is restored in England in 1660.",
+            "ref": {
+              "type": "event",
+              "id": "westminster-assembly-1643"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-women-yes",
+            "kind": "position",
+            "label": "Ordination of women affirmed",
+            "year": 1853,
+            "text": "From Quaker women preachers and Antoinette Brown’s Congregationalist ordination (1853) to Holiness and Pentecostal women evangelists and Florence Li Tim-Oi’s Anglican priesthood (1944).",
+            "ref": {
+              "type": "position",
+              "id": "womens-ordination-affirmed"
+            },
+            "quoteIds": [
+              "palmer-promise-father-para"
+            ]
+          },
+          {
+            "id": "p-women-no",
+            "kind": "position",
+            "label": "Ordination reserved to men",
+            "year": 1976,
+            "text": "Catholic (Inter Insigniores 1976; Ordinatio Sacerdotalis 1994) and Orthodox teaching, with complementarian evangelicals (Danvers Statement 1987), hold that presbyteral or pastoral office belongs to men.",
+            "ref": {
+              "type": "position",
+              "id": "womens-ordination-restricted"
+            },
+            "quoteIds": [
+              "ordinatio-sacerdotalis-para"
+            ]
+          },
+          {
+            "id": "m-bem",
+            "kind": "modern",
+            "label": "Convergence: Leuenberg (1973), BEM (1982), Addai and Mari (2001)",
+            "year": 1982,
+            "text": "Lutheran and Reformed churches in Europe declare pulpit and altar fellowship (Leuenberg, 1973); the WCC’s Lima text Baptism, Eucharist and Ministry (1982) records wide convergence; Rome recognises the validity of the Assyrian Church of the East’s anaphora of Addai and Mari, which lacks the words of institution (2001); Lutheran–Anglican Porvoo (1992) and Called to Common Mission (1999) share the historic episcopate.",
+            "ref": {
+              "type": "position",
+              "id": "reformed-spiritual-presence"
+            },
+            "quoteIds": [
+              "lumen-gentium-subsists"
+            ]
+          },
+          {
+            "id": "m-today",
+            "kind": "modern",
+            "label": "Today: who holds what?",
+            "year": 2025,
+            "text": "Catholics, Orthodox, Oriental Orthodox and the Church of the East (together well over half of all Christians) hold seven sacraments, a real change of the elements and episcopal succession, and ordain only men as priests. Lutherans hold sacramental union; Reformed and Anglicans a spiritual real presence; most Baptists, evangelicals and Pentecostals a memorial view of two ordinances, usually with congregational or elder-led polity. Women are ordained in most mainline Protestant, Anglican (in many provinces), Methodist and many Pentecostal churches, but not in Catholic, Orthodox, Southern Baptist, LCMS or many conservative evangelical bodies.",
+            "quoteIds": []
+          }
+        ],
+        "edges": [
+          {
+            "from": "q",
+            "to": "s-supper",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q",
+            "to": "s-peter",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q",
+            "to": "s-corinth",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q",
+            "to": "s-offices",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-offices",
+            "to": "v-clement",
+            "kind": "supports"
+          },
+          {
+            "from": "s-peter",
+            "to": "v-clement",
+            "kind": "supports"
+          },
+          {
+            "from": "v-clement",
+            "to": "v-ignatius",
+            "kind": "develops"
+          },
+          {
+            "from": "s-supper",
+            "to": "v-ignatius",
+            "kind": "supports"
+          },
+          {
+            "from": "s-corinth",
+            "to": "v-justin",
+            "kind": "supports"
+          },
+          {
+            "from": "v-ignatius",
+            "to": "v-justin",
+            "kind": "develops"
+          },
+          {
+            "from": "v-ignatius",
+            "to": "v-irenaeus",
+            "kind": "develops"
+          },
+          {
+            "from": "v-irenaeus",
+            "to": "p-succession",
+            "kind": "develops"
+          },
+          {
+            "from": "p-succession",
+            "to": "v-cyprian",
+            "kind": "develops"
+          },
+          {
+            "from": "v-cyprian",
+            "to": "p-donatism",
+            "kind": "develops"
+          },
+          {
+            "from": "p-donatism",
+            "to": "v-augustine",
+            "kind": "leads-to"
+          },
+          {
+            "from": "v-augustine",
+            "to": "d-carthage",
+            "kind": "supports"
+          },
+          {
+            "from": "p-donatism",
+            "to": "d-carthage",
+            "kind": "leads-to"
+          },
+          {
+            "from": "v-justin",
+            "to": "v-damascus",
+            "kind": "develops"
+          },
+          {
+            "from": "v-damascus",
+            "to": "p-orthodox",
+            "kind": "develops"
+          },
+          {
+            "from": "v-augustine",
+            "to": "a-carolingian",
+            "kind": "leads-to"
+          },
+          {
+            "from": "v-damascus",
+            "to": "a-carolingian",
+            "kind": "leads-to"
+          },
+          {
+            "from": "a-carolingian",
+            "to": "d-lateran",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-lateran",
+            "to": "p-transub",
+            "kind": "decides"
+          },
+          {
+            "from": "v-augustine",
+            "to": "p-seven",
+            "kind": "develops"
+          },
+          {
+            "from": "p-seven",
+            "to": "d-florence",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-transub",
+            "to": "a-captivity",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-florence",
+            "to": "a-captivity",
+            "kind": "leads-to"
+          },
+          {
+            "from": "a-captivity",
+            "to": "p-two",
+            "kind": "develops"
+          },
+          {
+            "from": "a-captivity",
+            "to": "p-lutheran",
+            "kind": "develops"
+          },
+          {
+            "from": "p-two",
+            "to": "p-zwingli",
+            "kind": "develops"
+          },
+          {
+            "from": "s-supper",
+            "to": "p-zwingli",
+            "kind": "supports"
+          },
+          {
+            "from": "p-zwingli",
+            "to": "d-marburg",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-lutheran",
+            "to": "d-marburg",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-marburg",
+            "to": "c-protestant-split",
+            "kind": "leads-to"
+          },
+          {
+            "from": "c-protestant-split",
+            "to": "p-reformed",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-zwingli",
+            "to": "p-reformed",
+            "kind": "develops"
+          },
+          {
+            "from": "p-transub",
+            "to": "d-trent",
+            "kind": "leads-to"
+          },
+          {
+            "from": "a-captivity",
+            "to": "d-trent",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-florence",
+            "to": "d-trent",
+            "kind": "develops"
+          },
+          {
+            "from": "p-reformed",
+            "to": "p-polities",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-polities",
+            "to": "d-westminster",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-offices",
+            "to": "p-women-yes",
+            "kind": "supports"
+          },
+          {
+            "from": "d-westminster",
+            "to": "p-women-yes",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-women-yes",
+            "to": "p-women-no",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-trent",
+            "to": "p-women-no",
+            "kind": "develops"
+          },
+          {
+            "from": "p-orthodox",
+            "to": "m-bem",
+            "kind": "leads-to"
+          },
+          {
+            "from": "c-protestant-split",
+            "to": "m-bem",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-reformed",
+            "to": "m-bem",
+            "kind": "develops"
+          },
+          {
+            "from": "d-trent",
+            "to": "m-bem",
+            "kind": "leads-to"
+          },
+          {
+            "from": "m-bem",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-women-no",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-carthage",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-westminster",
+            "to": "m-today",
+            "kind": "leads-to"
+          }
+        ]
+      },
+      "sources": [
+        "pelikan-christian-tradition",
+        "macy-banquet",
+        "sasse-this-is-my-body",
+        "kelly-doctrines",
+        "chadwick-early-church",
+        "macculloch-reformation",
+        "bem-1982",
+        "ware-orthodox-church",
+        "odcc"
+      ]
+    }
+  ],
+  "positions": [
+    {
+      "id": "seven-sacraments",
+      "doctrineId": "church-sacraments",
+      "name": "Seven sacraments",
+      "altNames": [
+        "Seven holy mysteries (Orthodox)"
+      ],
+      "oneLine": "Christ instituted seven sacraments (baptism, confirmation/chrismation, Eucharist, penance, anointing of the sick, holy orders and matrimony), efficacious signs that confer the grace they signify.",
+      "coreClaims": [
+        "Sacraments are visible signs instituted by Christ that truly confer grace ex opere operato (by the rite itself) when received without obstacle.",
+        "There are exactly seven, accompanying the whole of life: initiation (baptism, confirmation, Eucharist), healing (penance, anointing) and service of communion (orders, matrimony).",
+        "Baptism, confirmation and orders imprint an indelible \"character\" and are not repeated.",
+        "Sacraments are entrusted to the Church and normally require a validly ordained minister (except baptism and, in the West, marriage)."
+      ],
+      "keyTexts": [
+        "Matthew 28:19 (baptism)",
+        "Acts 8:14–17 (confirmation)",
+        "Luke 22:19–20 (Eucharist)",
+        "John 20:22–23 (penance)",
+        "James 5:14–15 (anointing)",
+        "1 Timothy 4:14; 2 Timothy 1:6 (orders)",
+        "Ephesians 5:31–32 (matrimony, \"mysterion/sacramentum\")"
+      ],
+      "origin": "The early Church used \"mystery\"/\"sacrament\" broadly for many holy rites. Hugh of St Victor counted around thirty; Peter Lombard’s Sentences (c.1150) fixed seven. The number was professed at the Second Council of Lyon (1274), taught to the Armenians at Florence (1439) and defined by Trent (Session 7, 1547). The Orthodox commonly count seven mysteries since the 13th century (Confession of Peter Mogila, 1640) but treat the number less rigidly; the Church of the East’s lists (e.g. Abdisho of Nisibis, 1298) include the holy leaven and sign of the cross.",
+      "originYear": 1150,
+      "proponentIds": [
+        "thomas-aquinas",
+        "bonaventure"
+      ],
+      "proponentsOther": [
+        "Peter Lombard",
+        "Hugh of St Victor",
+        "Council of Trent",
+        "Peter Mogila",
+        "Abdisho bar Brikha (East Syriac variant list)"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-orthodox",
+        "oriental-orthodox",
+        "eastern-catholic",
+        "old-catholic"
+      ],
+      "strongestArguments": [
+        "Each of the seven has a biblical basis in Christ’s or the apostles’ practice, and all were practised by the early Church.",
+        "East and West reached the same number independently enough that it reflects shared apostolic tradition, not a single school.",
+        "It expresses a fully sacramental view of creation and grace accompanying every stage of human life."
+      ],
+      "strongestObjections": [
+        "Protestants argue that only baptism and the Supper have an explicit command of Christ joined to a visible sign and a promise of grace (Luther, Babylonian Captivity, 1520).",
+        "The number seven was not fixed until the 12th century, showing it is a later systematisation.",
+        "Critics argue that ex opere operato risks mechanical religion and clerical control of grace."
+      ],
+      "responses": [
+        "Catholics and Orthodox reply that the Church’s recognition of sacraments developed like the canon of Scripture, articulating what had always been practised.",
+        "Ex opere operato means Christ, not the minister’s merit, acts in the sacrament; fruitful reception still requires faith and disposition (Trent Session 7, canons 6–8)."
+      ],
+      "consequences": [
+        "Structured medieval and modern Catholic and Orthodox religious life (confession, last rites, sacramental marriage law).",
+        "A sharp point of division with Protestantism from 1520 onward.",
+        "Shapes Catholic canon law (e.g. marriage tribunals, annulments)."
+      ],
+      "relatedPositionIds": [
+        "two-sacraments",
+        "transubstantiation",
+        "orthodox-eucharistic-mystery",
+        "catholic-sacramental-validity"
+      ],
+      "standing": "majority",
+      "sources": [
+        "pelikan-christian-tradition",
+        "ccc-1997",
+        "ware-orthodox-church",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "two-sacraments",
+      "doctrineId": "church-sacraments",
+      "name": "Two sacraments (or ordinances)",
+      "altNames": [
+        "Dominical sacraments",
+        "Ordinances (Baptist and Anabaptist usage)"
+      ],
+      "oneLine": "Only baptism and the Lord’s Supper were instituted by Christ as sacraments of the gospel; for many evangelicals they are \"ordinances\" of obedience rather than means of grace.",
+      "coreClaims": [
+        "A sacrament requires Christ’s explicit command, a visible sign and a promise of grace attached to it.",
+        "Only baptism (Matt 28:19) and the Supper (1 Cor 11:23–26) meet these criteria.",
+        "Confirmation, penance, orders, marriage and anointing are worthy rites or callings but not sacraments of the gospel.",
+        "For Lutherans, Anglicans and Reformed the two are means of grace; for Baptists and many evangelicals they are ordinances: acts of obedience that symbolise and proclaim grace received by faith."
+      ],
+      "keyTexts": [
+        "Matthew 28:19–20",
+        "1 Corinthians 11:23–26",
+        "Romans 6:3–4",
+        "1 Corinthians 10:1–4",
+        "Acts 2:41–42"
+      ],
+      "origin": "Luther’s The Babylonian Captivity of the Church (1520) reduced seven sacraments to three (baptism, bread, penance) and then effectively to two. The Augsburg Confession (1530), Zwingli, Calvin (Institutes 4.19), the Anglican Thirty-Nine Articles (XXV) and the Westminster Confession (27.4) all teach two. Anabaptists and Baptists (London Confession, 1644) prefer \"ordinances\".",
+      "originYear": 1520,
+      "proponentIds": [
+        "martin-luther",
+        "john-calvin",
+        "huldrych-zwingli",
+        "thomas-cranmer",
+        "menno-simons"
+      ],
+      "proponentsOther": [
+        "Thirty-Nine Articles",
+        "Westminster Confession 27",
+        "Baptist confessions (1644, 1689)"
+      ],
+      "traditionIds": [
+        "lutheran",
+        "reformed",
+        "presbyterian",
+        "anglican",
+        "baptist",
+        "methodist",
+        "evangelical",
+        "anabaptist",
+        "pentecostal"
+      ],
+      "strongestArguments": [
+        "It ties sacramental status strictly to Christ’s explicit word, guarding against human additions.",
+        "Paul pairs the two rites as the Church’s defining signs (1 Cor 10:1–4; 12:13).",
+        "It refocuses worship on Word and faith rather than a priestly system."
+      ],
+      "strongestObjections": [
+        "Catholics and Orthodox reply that Scripture also attaches grace to the laying on of hands (2 Tim 1:6), anointing (James 5:14–15) and forgiveness by the apostles (John 20:23).",
+        "The number two is itself a 16th-century systematisation that the early Church did not know.",
+        "Within Protestantism, the \"ordinance\" view is criticised by Lutherans and Reformed as reducing sacraments to human acts (Zwinglianism)."
+      ],
+      "responses": [
+        "Protestants reply that other rites may be biblical and beneficial without being sacraments in the strict sense; Anglicans call them \"commonly called sacraments\".",
+        "Baptists reply that ordinances honour Christ’s commands while guarding against belief that grace is conferred automatically."
+      ],
+      "consequences": [
+        "Simplified Protestant worship and church life; ended clerical sacramental confession in most Protestant churches.",
+        "Marriage became a civil and religious covenant rather than a sacrament, eventually opening the way to legal divorce in Protestant lands.",
+        "Created intra-Protestant diversity between sacramental and ordinance views."
+      ],
+      "relatedPositionIds": [
+        "seven-sacraments",
+        "zwinglian-memorial",
+        "reformed-spiritual-presence",
+        "lutheran-sacramental-union"
+      ],
+      "standing": "significant",
+      "sources": [
+        "macculloch-reformation",
+        "schaff-creeds",
+        "mcgrath-historical-theology"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "transubstantiation",
+      "doctrineId": "church-sacraments",
+      "name": "Transubstantiation",
+      "altNames": [
+        "Substantial change",
+        "Catholic real presence"
+      ],
+      "oneLine": "At the consecration the whole substance of the bread and wine is changed into the substance of Christ’s body and blood, while the appearances (accidents) of bread and wine remain.",
+      "coreClaims": [
+        "Christ is truly, really and substantially present, body, blood, soul and divinity, under the appearances of bread and wine.",
+        "The change occurs through the words of consecration spoken by a validly ordained priest.",
+        "Only the appearances (taste, colour, extension) of bread and wine remain; their substance does not.",
+        "Christ remains present as long as the species endure, so the reserved sacrament is adored.",
+        "The Mass makes present the one sacrifice of Calvary."
+      ],
+      "keyTexts": [
+        "Matthew 26:26–28",
+        "John 6:51–58",
+        "1 Corinthians 10:16; 11:27–29",
+        "Fourth Lateran Council, canon 1 (1215)",
+        "Council of Trent, Session 13 (1551), ch. 4 and canon 2"
+      ],
+      "origin": "Patristic realism (Ignatius, Justin, Cyril of Jerusalem, Ambrose’s De Mysteriis) and the 9th-century Corbie debate prepared the way; after Berengar of Tours questioned a substantial change, Rome required him to confess it (1059, 1079). The term \"transubstantiation\" appears in the 12th century and in Lateran IV (1215); Thomas Aquinas gave it Aristotelian precision (Summa Theologiae III q.75–77); Trent (1551) declared it \"fittingly and properly\" named; Paul VI’s Mysterium Fidei (1965) reaffirmed it.",
+      "originYear": 1215,
+      "proponentIds": [
+        "thomas-aquinas",
+        "paul-vi",
+        "john-paul-ii"
+      ],
+      "proponentsOther": [
+        "Lanfranc of Bec",
+        "Paschasius Radbertus (precursor)",
+        "Council of Trent",
+        "Pope Benedict XVI"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-catholic"
+      ],
+      "strongestArguments": [
+        "It takes Jesus’ words \"this is my body\" and John 6 (\"my flesh is meat indeed\") in their most direct sense.",
+        "The early Fathers consistently speak of the Eucharist as Christ’s flesh and of a change in the elements.",
+        "Paul warns that unworthy reception is guilt against \"the body and blood of the Lord\" (1 Cor 11:27), implying more than a symbol.",
+        "\"Substance\" is a metaphysical, not physical, claim, so it is not refuted by chemistry and protects both real presence and the reality of the appearances."
+      ],
+      "strongestObjections": [
+        "Protestants argue it depends on Aristotelian categories alien to Scripture and was unknown as such for a thousand years.",
+        "Reformed critics argue Christ’s human body is now in heaven (Acts 3:21) and cannot be locally present on many altars.",
+        "Jesus’ words in John 6:63 (\"the flesh profiteth nothing ... the words that I speak ... are spirit\") point to a spiritual reading.",
+        "Eucharistic adoration and the sacrifice of the Mass seemed to Reformers to detract from Christ’s once-for-all sacrifice (Heb 10:10–14)."
+      ],
+      "responses": [
+        "Catholics reply that the doctrine predates Aristotle’s rediscovery (Lateran IV, 1215) and that the term protects a mystery rather than explaining it.",
+        "Christ’s glorified body is present sacramentally, not locally or by spatial multiplication (Aquinas, ST III q.76 a.5).",
+        "The Mass is not a new sacrifice but the sacramental re-presentation of the one sacrifice (Trent Session 22; CCC 1366–1367)."
+      ],
+      "consequences": [
+        "Shaped medieval devotion: elevation of the host, Corpus Christi (1264), monstrances and processions.",
+        "A central issue in the Reformation and in the martyrdoms of Protestants (e.g. in Marian England) and Catholics.",
+        "Remains a key point in Catholic–Protestant dialogue, softened by ecumenical statements (e.g. ARCIC Windsor Statement, 1971)."
+      ],
+      "relatedPositionIds": [
+        "orthodox-eucharistic-mystery",
+        "lutheran-sacramental-union",
+        "reformed-spiritual-presence",
+        "seven-sacraments"
+      ],
+      "standing": "majority",
+      "sources": [
+        "macy-banquet",
+        "pelikan-christian-tradition",
+        "ccc-1997",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "orthodox-eucharistic-mystery",
+      "doctrineId": "church-sacraments",
+      "name": "Orthodox eucharistic mystery",
+      "altNames": [
+        "Metabolē (change)",
+        "Eastern real presence"
+      ],
+      "oneLine": "Through the invocation of the Holy Spirit the bread and wine truly become the body and blood of Christ, a mystery to be received in faith rather than explained philosophically.",
+      "coreClaims": [
+        "The gifts are truly changed (metaballo) into Christ’s body and blood.",
+        "The change is the work of the Holy Spirit invoked in the epiclesis of the anaphora, not of the words of institution alone.",
+        "The manner of the change is a mystery beyond definition; philosophical terms are secondary.",
+        "The Eucharist is the Church’s participation in the heavenly liturgy and the foretaste of the Kingdom, received by all the baptised including infants."
+      ],
+      "keyTexts": [
+        "John 6:51–58",
+        "Luke 22:19–20",
+        "1 Corinthians 10:16–17",
+        "Liturgies of St John Chrysostom and St Basil (epiclesis)",
+        "John of Damascus, Exact Exposition 4.13"
+      ],
+      "origin": "Rooted in Greek and Syriac patristic teaching (Cyril of Jerusalem, Gregory of Nyssa, John Chrysostom, John of Damascus) and the Eastern anaphoras. Against Protestant influence (the Calvinist-leaning Confession of Cyril Lucaris, 1629), the Synod of Jerusalem (1672) under Dositheus used the term metousiōsis; many modern Orthodox theologians prefer to avoid scholastic categories. Oriental Orthodox and the Church of the East hold comparable realist views; Rome recognised the validity of the East Syriac Anaphora of Addai and Mari, which has no explicit institution narrative, in 2001.",
+      "originYear": 787,
+      "proponentIds": [
+        "john-of-damascus",
+        "cyril-of-jerusalem",
+        "john-chrysostom",
+        "gregory-of-nyssa"
+      ],
+      "proponentsOther": [
+        "Nicholas Cabasilas",
+        "Dositheus of Jerusalem",
+        "Alexander Schmemann",
+        "John Zizioulas"
+      ],
+      "traditionIds": [
+        "eastern-orthodox",
+        "oriental-orthodox",
+        "church-of-the-east",
+        "assyrian-church-of-the-east",
+        "russian-orthodox",
+        "coptic-orthodox",
+        "ethiopian-orthodox-tewahedo",
+        "armenian-apostolic",
+        "syriac-orthodox",
+        "malankara-orthodox"
+      ],
+      "strongestArguments": [
+        "It preserves the patristic language of real change without binding faith to a medieval philosophical system.",
+        "It gives the Holy Spirit his biblical role in consecration and in the Church’s life.",
+        "It locates the Eucharist within the whole liturgy and eschatological vision of the Church rather than a moment of consecration."
+      ],
+      "strongestObjections": [
+        "Catholic theologians historically argued that without the precision of transubstantiation, the Orthodox view could drift (as with Lucaris); the epiclesis controversy disputed when the change occurs.",
+        "Protestants raise the same objections as against transubstantiation: Christ’s body is in heaven and faith, not change of elements, is decisive.",
+        "Some argue the 1672 adoption of metousiosis shows the Orthodox could not, in fact, avoid scholastic categories."
+      ],
+      "responses": [
+        "Orthodox reply that the whole anaphora consecrates, so the institution narrative and epiclesis need not be set against each other.",
+        "They argue the Spirit’s descent \"makes\" the gifts Christ’s body precisely so that believers ascend to the Kingdom, answering the \"body in heaven\" objection."
+      ],
+      "consequences": [
+        "Shapes Orthodox worship: frequent communion movements, infant communion, leavened bread (azymes controversy with the West).",
+        "A largely shared realism makes Catholic–Orthodox Eucharistic disagreement chiefly about authority and communion, not presence.",
+        "The 2001 Addai and Mari decision allowed limited eucharistic sharing between Chaldean Catholics and the Assyrian Church of the East."
+      ],
+      "relatedPositionIds": [
+        "transubstantiation",
+        "lutheran-sacramental-union",
+        "seven-sacraments"
+      ],
+      "standing": "significant",
+      "sources": [
+        "ware-orthodox-church",
+        "pelikan-christian-tradition",
+        "pontifical-addai-mari-2001",
+        "meyendorff-imperial-unity"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "lutheran-sacramental-union",
+      "doctrineId": "church-sacraments",
+      "name": "Lutheran sacramental union",
+      "altNames": [
+        "Real presence \"in, with and under\"",
+        "Consubstantiation (a label Lutherans reject)"
+      ],
+      "oneLine": "Christ’s true body and blood are truly present \"in, with and under\" the bread and wine, which remain, and are received orally by all communicants, believers to blessing and unbelievers to judgement.",
+      "coreClaims": [
+        "\"This is my body\" must be taken literally: the bread is Christ’s body by sacramental union.",
+        "The bread and wine are not annihilated or transubstantiated; both realities are present.",
+        "All who receive eat and drink Christ’s body and blood with the mouth (manducatio oralis), including the unworthy (manducatio indignorum).",
+        "The presence depends on Christ’s word and institution, not on the faith of the recipient or the merit of the minister.",
+        "The Supper is a gift and testament for the forgiveness of sins, not a sacrifice offered to God."
+      ],
+      "keyTexts": [
+        "Matthew 26:26–28",
+        "1 Corinthians 10:16",
+        "1 Corinthians 11:27–29",
+        "Augsburg Confession X",
+        "Small Catechism, Sacrament of the Altar",
+        "Formula of Concord VII (1577)"
+      ],
+      "origin": "Developed by Martin Luther in debates with Karlstadt and Zwingli (That These Words of Christ Still Stand Firm, 1527; Confession Concerning Christ’s Supper, 1528), and given confessional form in the Augsburg Confession X (1530), the Wittenberg Concord (1536) and the Formula of Concord VII (1577). Luther defended it partly via the communication of attributes: Christ’s glorified humanity shares the divine power to be present wherever he wills.",
+      "originYear": 1527,
+      "proponentIds": [
+        "martin-luther",
+        "philip-melanchthon"
+      ],
+      "proponentsOther": [
+        "Martin Chemnitz",
+        "Johannes Brenz",
+        "Formula of Concord",
+        "Hermann Sasse"
+      ],
+      "traditionIds": [
+        "lutheran"
+      ],
+      "strongestArguments": [
+        "It is the most straightforward reading of Christ’s words, and Paul’s \"guilty of the body and blood\" (1 Cor 11:27) implies the unworthy really receive it.",
+        "It affirms real presence without dependence on Aristotelian substance theory.",
+        "Christ’s promise and power ground assurance: the gift does not depend on our faith or spiritual ascent."
+      ],
+      "strongestObjections": [
+        "Reformed critics argue that the ubiquity or multipresence of Christ’s body compromises the true humanity of Christ (a body must be in one place) and edges towards Eutychianism.",
+        "Catholics argue that \"this is my body\" cannot also be \"this is bread\", so sacramental union contradicts the plain sense it claims to defend.",
+        "Zwinglians argue the flesh \"profiteth nothing\" (John 6:63) and that Jesus also said \"I am the door\" without being wood."
+      ],
+      "responses": [
+        "Lutherans reply that the communication of attributes (genus maiestaticum) is a proper consequence of the personal union of Christ’s natures (Chalcedon).",
+        "They cite Paul’s language \"the bread which we break, is it not the communion of the body of Christ?\" (1 Cor 10:16), which holds bread and body together."
+      ],
+      "consequences": [
+        "Caused the failure of the Marburg Colloquy and the lasting Lutheran–Reformed split.",
+        "Shaped Lutheran liturgy and piety (frequent communion, retention of vestments and altars).",
+        "Partly overcome for European Lutheran and Reformed churches by the Leuenberg Agreement (1973) and in the US by the Formula of Agreement (1997), though rejected by confessional Lutherans (e.g. LCMS)."
+      ],
+      "relatedPositionIds": [
+        "transubstantiation",
+        "reformed-spiritual-presence",
+        "zwinglian-memorial"
+      ],
+      "standing": "significant",
+      "sources": [
+        "sasse-this-is-my-body",
+        "schaff-creeds",
+        "macculloch-reformation",
+        "leuenberg-1973"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "reformed-spiritual-presence",
+      "doctrineId": "church-sacraments",
+      "name": "Reformed spiritual real presence",
+      "altNames": [
+        "Calvinist view",
+        "Spiritual real presence",
+        "Receptionism (in some Anglican forms)"
+      ],
+      "oneLine": "In the Supper believers truly feed on the body and blood of Christ, not because Christ descends into the bread but because the Holy Spirit lifts them by faith into communion with the ascended Christ.",
+      "coreClaims": [
+        "The bread and wine remain bread and wine and are signs and seals of Christ’s body and blood.",
+        "Christ’s human body is locally in heaven; it is not enclosed in the elements.",
+        "By the secret power of the Spirit, believers really partake of Christ’s whole person, being nourished by his flesh and blood.",
+        "Unbelievers receive only the signs, to their judgement, not the reality.",
+        "The Supper strengthens union with Christ and with one another."
+      ],
+      "keyTexts": [
+        "1 Corinthians 10:16–17",
+        "John 6:53–63",
+        "Colossians 3:1–3",
+        "Acts 3:21",
+        "Calvin, Institutes 4.17",
+        "Heidelberg Catechism Q.75–80",
+        "Westminster Confession 29.7",
+        "Thirty-Nine Articles XXVIII"
+      ],
+      "origin": "Martin Bucer at Strasbourg, then John Calvin (Short Treatise on the Lord’s Supper, 1541; Institutes 4.17, 1559), mediated between Luther and Zwingli. The Consensus Tigurinus (1549) united Calvin with Bullinger; the Belgic Confession (1561), Heidelberg Catechism (1563), Second Helvetic Confession (1566), Westminster Confession (1647) and, in substance, the Anglican Articles (XXVIII) teach it.",
+      "originYear": 1541,
+      "proponentIds": [
+        "john-calvin",
+        "heinrich-bullinger",
+        "thomas-cranmer",
+        "john-owen"
+      ],
+      "proponentsOther": [
+        "Martin Bucer",
+        "Peter Martyr Vermigli",
+        "John Williamson Nevin (Mercersburg)",
+        "Keith Mathison"
+      ],
+      "traditionIds": [
+        "reformed",
+        "presbyterian",
+        "anglican",
+        "congregationalist"
+      ],
+      "strongestArguments": [
+        "It affirms a true feeding on Christ while honouring the reality of his ascended human body (Acts 3:21; Heb 8:1).",
+        "It gives the Holy Spirit a central role in uniting believers to Christ, consistent with the Bible’s teaching on union with Christ.",
+        "It has strong patristic resonance with the liturgical call \"Lift up your hearts\" (sursum corda) and Augustine’s distinction of sign and reality."
+      ],
+      "strongestObjections": [
+        "Lutherans charge that it makes the presence depend on faith, so that Christ’s word \"this is my body\" is not strictly true of the bread.",
+        "Catholics and Orthodox argue it is still a form of spiritualising that departs from the patristic language of change.",
+        "Zwinglians and many evangelicals find the language of \"feeding on Christ’s flesh\" obscure and hard to distinguish from their own spiritual communion."
+      ],
+      "responses": [
+        "Calvinists reply that the Spirit \"truly unites things separated by space\" (Institutes 4.17.10), so the presence is real, not imaginary, though not local.",
+        "They argue that their view, not Zwingli’s, became the confessional Reformed position, and that the reality is objectively offered to all though received only by faith."
+      ],
+      "consequences": [
+        "Became the official teaching of Reformed, Presbyterian and (in substance) Anglican confessions.",
+        "Allowed Reformed–Lutheran rapprochement in the 20th century (Arnoldshain Theses 1957; Leuenberg 1973).",
+        "Often eroded in popular practice towards a memorial view, prompting revival movements (Mercersburg theology, 1840s)."
+      ],
+      "relatedPositionIds": [
+        "zwinglian-memorial",
+        "lutheran-sacramental-union",
+        "transubstantiation"
+      ],
+      "standing": "significant",
+      "sources": [
+        "macculloch-reformation",
+        "schaff-creeds",
+        "mcgrath-historical-theology",
+        "bem-1982"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "zwinglian-memorial",
+      "doctrineId": "church-sacraments",
+      "name": "Zwinglian memorial view",
+      "altNames": [
+        "Memorialism",
+        "Symbolic view",
+        "Ordinance view of the Supper"
+      ],
+      "oneLine": "The Lord’s Supper is a commemoration of Christ’s death and a public pledge of faith in which bread and wine signify, but do not contain, Christ’s body and blood.",
+      "coreClaims": [
+        "In \"this is my body\" the word \"is\" means \"signifies\", as in \"I am the vine\" or \"that rock was Christ\".",
+        "Christ’s risen body is at the right hand of God and cannot be physically present in many places.",
+        "\"It is the spirit that quickeneth; the flesh profiteth nothing\" (John 6:63): eating Christ means believing in him.",
+        "The Supper is a thankful remembrance (eucharistia) and the community’s oath of allegiance (sacramentum as soldier’s oath).",
+        "Christ is present to the faith of the gathered believers, not in the elements."
+      ],
+      "keyTexts": [
+        "Luke 22:19 (\"this do in remembrance of me\")",
+        "1 Corinthians 11:24–26",
+        "John 6:35, 47, 63",
+        "John 15:1; 1 Corinthians 10:4",
+        "Acts 3:21"
+      ],
+      "origin": "The Dutch lawyer Cornelius Hoen’s letter (c.1521) proposed that \"is\" means \"signifies\"; Huldrych Zwingli in Zurich adopted and developed this (letter to Matthew Alber, 1524; Commentary on True and False Religion, 1525). Zurich celebrated a simple memorial Supper from Easter 1525. Anabaptists (Schleitheim, 1527) and later Baptists and most evangelicals took up a memorial view. Zwingli’s own later writings (Fidei Ratio 1530; Fidei Expositio 1531) speak of a presence \"by the contemplation of faith\", richer than \"mere memorialism\".",
+      "originYear": 1525,
+      "proponentIds": [
+        "huldrych-zwingli",
+        "conrad-grebel"
+      ],
+      "proponentsOther": [
+        "Cornelius Hoen",
+        "Johannes Oecolampadius",
+        "Andreas Karlstadt",
+        "Many Baptist, Brethren, evangelical and Pentecostal churches"
+      ],
+      "traditionIds": [
+        "baptist",
+        "anabaptist",
+        "mennonite",
+        "evangelical",
+        "pentecostal",
+        "stone-campbell-restoration"
+      ],
+      "strongestArguments": [
+        "Scripture regularly uses \"is\" figuratively, and the disciples could hardly have thought the bread in Jesus’ living hand was his body.",
+        "The command is \"this do in remembrance of me\", and Paul says we \"proclaim the Lord’s death\" in eating (1 Cor 11:26).",
+        "It safeguards the uniqueness of Christ’s finished sacrifice and his true, located humanity.",
+        "It removes superstition and clerical power over grace."
+      ],
+      "strongestObjections": [
+        "Lutherans, Catholics and Orthodox argue it contradicts the plain sense of the words and the unanimous realism of the early Church (Ignatius, Justin).",
+        "Paul’s warnings about \"not discerning the Lord’s body\" and sickness and death among unworthy communicants (1 Cor 11:29–30) suggest more than a memorial.",
+        "Calvin and the Reformed argue it reduces the Supper to the believer’s act, rather than God’s gift."
+      ],
+      "responses": [
+        "Memorialists reply that \"discerning the body\" may refer to the Church as the body (1 Cor 10:17; 12:27), whose divisions Paul was rebuking.",
+        "They argue that patristic realism is often symbolic in its own idiom (Augustine, Tertullian’s \"figure of my body\", Against Marcion 4.40)."
+      ],
+      "consequences": [
+        "Caused the rupture at Marburg (1529) and shaped Swiss, Anabaptist and Baptist worship.",
+        "Became the majority practical view among evangelical, Baptist and Pentecostal Christians worldwide.",
+        "Encouraged infrequent communion in some traditions (quarterly or monthly), though others celebrate weekly (Churches of Christ, Brethren)."
+      ],
+      "relatedPositionIds": [
+        "reformed-spiritual-presence",
+        "lutheran-sacramental-union",
+        "two-sacraments"
+      ],
+      "standing": "significant",
+      "sources": [
+        "macculloch-reformation",
+        "sasse-this-is-my-body",
+        "macy-banquet"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "apostolic-succession",
+      "doctrineId": "church-sacraments",
+      "name": "Apostolic succession",
+      "altNames": [
+        "Historic episcopate",
+        "Episcopal succession"
+      ],
+      "oneLine": "Bishops, ordained by the laying on of hands in an unbroken line from the apostles, are the guardians of apostolic faith and the ministers through whom valid ordination and sacraments are transmitted.",
+      "coreClaims": [
+        "Christ commissioned the apostles, who appointed successors (Acts 14:23; 2 Tim 2:2; Titus 1:5).",
+        "An unbroken succession of bishops by ordination preserves the Church’s continuity and apostolic teaching.",
+        "Valid priesthood and (for most holders) valid Eucharist depend on ordination by bishops in succession.",
+        "The bishop is the focus of the local church’s unity (Ignatius).",
+        "For Catholics, the college of bishops is in communion with and under the bishop of Rome as Peter’s successor."
+      ],
+      "keyTexts": [
+        "Matthew 16:18–19; 28:18–20",
+        "John 20:21–23",
+        "Acts 1:20–26; 14:23",
+        "1 Timothy 4:14; 5:22",
+        "2 Timothy 1:6; 2:2",
+        "Titus 1:5",
+        "1 Clement 42–44",
+        "Irenaeus, Against Heresies 3.3"
+      ],
+      "origin": "Attested in 1 Clement (c.96) and developed by Hegesippus and Irenaeus (c.180) as a public succession of teachers guaranteeing apostolic tradition against Gnostics; under Cyprian (c.250) it became the basis of sacramental validity. Universal in Catholic, Orthodox, Oriental Orthodox and East Syriac churches; retained by the Church of England (though Leo XIII’s Apostolicae Curae, 1896, declared Anglican orders \"absolutely null and utterly void\"), Old Catholics and the Church of Sweden; shared with Nordic and Baltic Lutherans by the Porvoo Agreement (1992).",
+      "originYear": 96,
+      "proponentIds": [
+        "clement-of-rome",
+        "ignatius-of-antioch",
+        "irenaeus",
+        "cyprian",
+        "paul-vi"
+      ],
+      "proponentsOther": [
+        "Hegesippus",
+        "Tertullian (Prescription against Heretics 32)",
+        "John Henry Newman and the Oxford Movement",
+        "Porvoo Communion"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-orthodox",
+        "oriental-orthodox",
+        "church-of-the-east",
+        "anglican",
+        "old-catholic",
+        "eastern-catholic"
+      ],
+      "strongestArguments": [
+        "It is among the earliest documented structures of the post-apostolic Church and was universal by the end of the 2nd century, East and West.",
+        "It provides a visible, verifiable link to the apostles that guards against innovation and schism.",
+        "It explains how the Church preserved the canon and the creeds through bishops in council."
+      ],
+      "strongestObjections": [
+        "Protestants argue the New Testament uses \"bishop\" and \"elder\" interchangeably (Titus 1:5–7; Acts 20:17, 28) and that monepiscopacy developed later; apostolic succession is properly succession of doctrine.",
+        "Historians note gaps and uncertainties in early succession lists (e.g. the order of the first Roman bishops).",
+        "Critics argue it can make grace dependent on institutional pedigree; corrupt bishops have stood in succession while teaching error.",
+        "Churches without historic episcopate (Reformed, Baptist, Pentecostal) display evident spiritual fruit and orthodoxy."
+      ],
+      "responses": [
+        "Defenders reply that monepiscopacy is clear by Ignatius (c.107) and that an orderly ministry derived from the apostles is implicit in the Pastoral Epistles.",
+        "Many (e.g. Anglicans, BEM 1982) present the historic episcopate as a sign of continuity rather than a guarantee, recognising the apostolicity of churches without it."
+      ],
+      "consequences": [
+        "Became the structural backbone of Catholic, Orthodox and Anglican churches.",
+        "Central to ecumenical disputes over the validity of orders (Apostolicae Curae 1896) and to ecumenical agreements (Porvoo 1992; Called to Common Mission 1999).",
+        "Shaped Protestant alternatives: presbyterian and congregational polities, and modern apostolic networks claiming charismatic rather than tactile succession."
+      ],
+      "relatedPositionIds": [
+        "episcopal-polity",
+        "presbyterian-polity",
+        "congregational-polity",
+        "catholic-sacramental-validity"
+      ],
+      "standing": "majority",
+      "sources": [
+        "kelly-doctrines",
+        "chadwick-early-church",
+        "bem-1982",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "episcopal-polity",
+      "doctrineId": "church-sacraments",
+      "name": "Episcopal polity",
+      "altNames": [
+        "Government by bishops",
+        "Threefold ministry"
+      ],
+      "oneLine": "The Church is governed by bishops, assisted by priests (presbyters) and deacons, with authority flowing through the episcopate rather than from congregations.",
+      "coreClaims": [
+        "There are three orders of ordained ministry: bishop, priest/presbyter and deacon.",
+        "Bishops ordain, confirm, oversee dioceses and teach authoritatively.",
+        "Bishops govern collegially in synods and councils (and, for Catholics, under the pope; for Orthodox, as autocephalous churches with patriarchs and synods).",
+        "Laity participate through various councils but do not hold the power of orders."
+      ],
+      "keyTexts": [
+        "Acts 15",
+        "Philippians 1:1",
+        "1 Timothy 3:1–13",
+        "Titus 1:5–9",
+        "Ignatius, Letter to the Smyrnaeans 8"
+      ],
+      "origin": "The threefold ministry with one bishop per city is clear in Ignatius of Antioch (c.107) and universal by c.200. Methodists retained bishops in America (Coke and Asbury, 1784) without claiming tactile succession; some Lutheran churches retained bishops as a matter of good order.",
+      "originYear": 107,
+      "proponentIds": [
+        "ignatius-of-antioch",
+        "cyprian",
+        "thomas-cranmer",
+        "john-wesley"
+      ],
+      "proponentsOther": [
+        "Richard Hooker (Laws of Ecclesiastical Polity, 1594)",
+        "Francis Asbury"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-orthodox",
+        "oriental-orthodox",
+        "church-of-the-east",
+        "anglican",
+        "methodist",
+        "lutheran"
+      ],
+      "strongestArguments": [
+        "It is the most ancient and widespread form of church order, attested within a generation of the apostles.",
+        "It provides clear oversight and unity across congregations and regions.",
+        "It mirrors the apostolic oversight of churches by figures such as Timothy and Titus."
+      ],
+      "strongestObjections": [
+        "Presbyterians argue that New Testament \"bishops\" were the same as elders and that a single ruling bishop is a later development.",
+        "Congregationalists object that it concentrates power and weakens the priesthood of all believers.",
+        "Historically associated with state establishment and political power (prince-bishops, House of Lords)."
+      ],
+      "responses": [
+        "Episcopalians, from Hooker on, argue that even if the threefold order developed, it did so under apostolic guidance and Spirit-led tradition.",
+        "Synodical government (e.g. Anglican houses of clergy and laity) balances episcopal authority with lay participation."
+      ],
+      "consequences": [
+        "The polity of the large majority of the world’s Christians.",
+        "Conflict over bishops helped cause the English Civil Wars (Bishops’ Wars, 1639–40).",
+        "Methodist episcopacy shaped American denominational organisation."
+      ],
+      "relatedPositionIds": [
+        "apostolic-succession",
+        "presbyterian-polity",
+        "congregational-polity"
+      ],
+      "standing": "majority",
+      "sources": [
+        "chadwick-early-church",
+        "odcc",
+        "macculloch-christianity"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "presbyterian-polity",
+      "doctrineId": "church-sacraments",
+      "name": "Presbyterian polity",
+      "altNames": [
+        "Government by elders",
+        "Conciliar Reformed polity"
+      ],
+      "oneLine": "The Church is governed by elders (teaching and ruling) of equal rank, meeting in a hierarchy of representative courts: session, presbytery, synod and general assembly.",
+      "coreClaims": [
+        "\"Bishop\" (overseer) and \"elder\" (presbyter) are the same office in the New Testament.",
+        "Each congregation is ruled by a session of elders, including lay ruling elders and ordained ministers.",
+        "Congregations are bound together by higher courts (presbyteries and assemblies) with real authority, as in the Jerusalem council (Acts 15).",
+        "Christ alone is head of the Church; no individual bishop or civil ruler governs it."
+      ],
+      "keyTexts": [
+        "Acts 14:23; 15:1–35; 20:17, 28",
+        "1 Timothy 4:14 (laying on of hands by the presbytery); 5:17",
+        "Titus 1:5–7",
+        "1 Peter 5:1–4"
+      ],
+      "origin": "John Calvin’s Ecclesiastical Ordinances (Geneva, 1541) set out four offices (pastors, doctors, elders, deacons) and a consistory; the French Reformed national synod (1559), John Knox’s First Book of Discipline (1560) and Andrew Melville’s Second Book of Discipline (1578) developed graded courts; the Westminster Assembly’s Form of Presbyterial Church-Government (1645) became the model for Presbyterians worldwide, including the large Korean, Ghanaian and Brazilian Presbyterian churches.",
+      "originYear": 1541,
+      "proponentIds": [
+        "john-calvin",
+        "theodore-beza"
+      ],
+      "proponentsOther": [
+        "John Knox",
+        "Andrew Melville",
+        "Samuel Rutherford",
+        "Westminster Assembly"
+      ],
+      "traditionIds": [
+        "presbyterian",
+        "reformed"
+      ],
+      "strongestArguments": [
+        "It matches the New Testament interchangeability of \"bishop\" and \"elder\" and the plurality of elders in each church.",
+        "Graded courts reflect the Jerusalem council’s binding decision for many churches (Acts 15:28; 16:4).",
+        "It balances clerical and lay leadership and provides accountability without a single ruler."
+      ],
+      "strongestObjections": [
+        "Episcopalians argue it breaks continuity with the universal ancient Church order and with apostolic succession.",
+        "Congregationalists argue higher courts have no clear biblical warrant to override local congregations.",
+        "Critics note its record of division: Scottish and American Presbyterianism repeatedly split (Disruption of 1843; numerous American divisions)."
+      ],
+      "responses": [
+        "Presbyterians reply that Jerome himself noted that bishops and presbyters were originally the same (Letter 146).",
+        "They argue that divisions arose from doctrinal conflicts that any polity would face, and that presbyterian courts provide a procedure for resolving them."
+      ],
+      "consequences": [
+        "Shaped the Scottish Reformation, the Puritan movement and the American Revolution era (representative government analogies).",
+        "Spread through missions to Korea (where Presbyterians number in the millions), Ghana, Cameroon, Brazil, Taiwan and elsewhere."
+      ],
+      "relatedPositionIds": [
+        "episcopal-polity",
+        "congregational-polity",
+        "apostolic-succession"
+      ],
+      "standing": "significant",
+      "sources": [
+        "macculloch-reformation",
+        "schaff-creeds",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "congregational-polity",
+      "doctrineId": "church-sacraments",
+      "name": "Congregational polity",
+      "altNames": [
+        "Independency",
+        "Local church autonomy",
+        "Free church polity"
+      ],
+      "oneLine": "Each gathered congregation of believers is self-governing under Christ, choosing its own officers, with no binding authority above it.",
+      "coreClaims": [
+        "The local church, a covenanted community of believers, is the full expression of the Church.",
+        "Christ rules the congregation directly through his Word; the members together discern his will.",
+        "The congregation calls and dismisses its pastors/elders and deacons and exercises discipline (Matt 18:17).",
+        "Associations and conventions are voluntary fellowships with advisory, not binding, authority."
+      ],
+      "keyTexts": [
+        "Matthew 18:15–20",
+        "Acts 6:1–6; 15:22",
+        "1 Corinthians 5:4–5",
+        "2 Corinthians 2:6",
+        "1 Peter 2:5, 9"
+      ],
+      "origin": "English Separatists such as Robert Browne (A Treatise of Reformation without Tarrying for Any, 1582) and Henry Barrow argued for gathered churches independent of bishops and state. The \"Independents\" at the Westminster Assembly, the Cambridge Platform of New England (1648) and the Savoy Declaration (1658) formalised it; Baptists, many Pentecostals and most independent evangelical and house churches practise it.",
+      "originYear": 1582,
+      "proponentIds": [
+        "john-owen"
+      ],
+      "proponentsOther": [
+        "Robert Browne",
+        "Henry Barrow",
+        "John Robinson",
+        "Thomas Goodwin",
+        "John Cotton",
+        "Cambridge Platform (1648)"
+      ],
+      "traditionIds": [
+        "congregationalist",
+        "baptist",
+        "evangelical",
+        "pentecostal",
+        "stone-campbell-restoration",
+        "chinese-house-churches"
+      ],
+      "strongestArguments": [
+        "It takes seriously the priesthood of all believers and the congregation’s role in discipline and choosing leaders in the New Testament (Matt 18:17; Acts 6:3).",
+        "It protects churches from coercion by hierarchies and states, a key factor in the history of religious liberty.",
+        "It allows rapid church planting and adaptation, as in Baptist, Pentecostal and house-church expansion."
+      ],
+      "strongestObjections": [
+        "Episcopal and presbyterian critics argue that it lacks accountability and fosters fragmentation and doctrinal drift.",
+        "The New Testament shows apostolic and conciliar authority over multiple churches (Acts 15; the Pastorals).",
+        "Congregational votes can marginalise minorities or empower charismatic individuals without checks."
+      ],
+      "responses": [
+        "Congregationalists reply that apostolic authority now resides in Scripture, not successors, and that voluntary associations can provide accountability.",
+        "They point to the vitality of free churches, e.g. Baptists and house churches, as evidence of its effectiveness."
+      ],
+      "consequences": [
+        "Contributed to the rise of religious liberty and disestablishment, notably in England and America.",
+        "Shapes Baptist life worldwide (Southern Baptist Convention, Baptist World Alliance).",
+        "Ideal for underground churches under persecution, e.g. Chinese house churches."
+      ],
+      "relatedPositionIds": [
+        "presbyterian-polity",
+        "episcopal-polity",
+        "two-sacraments"
+      ],
+      "standing": "significant",
+      "sources": [
+        "macculloch-reformation",
+        "odcc",
+        "noll-turning-points"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "womens-ordination-affirmed",
+      "doctrineId": "church-sacraments",
+      "name": "Ordination of women affirmed",
+      "altNames": [
+        "Egalitarian view",
+        "Mutualism"
+      ],
+      "oneLine": "Women may be called and ordained to all offices of ministry, including pastor, priest and bishop, because in Christ there is \"neither male nor female\" and the Spirit gifts women for leadership.",
+      "coreClaims": [
+        "Gender is not a barrier to any ministry: the Spirit is poured out on sons and daughters alike (Joel 2:28; Acts 2:17–18).",
+        "Women exercised leadership in the New Testament: Phoebe as deacon (Rom 16:1), Junia \"of note among the apostles\" (Rom 16:7), Priscilla as teacher (Acts 18:26), women prophets (1 Cor 11:5).",
+        "Restrictive texts (1 Cor 14:34–35; 1 Tim 2:11–15) addressed specific local situations, not universal rules.",
+        "Male-only priesthood rests on cultural assumptions rather than the gospel."
+      ],
+      "keyTexts": [
+        "Galatians 3:28",
+        "Joel 2:28–29; Acts 2:17–18",
+        "Romans 16:1–7",
+        "Acts 18:26; 21:9",
+        "Judges 4–5 (Deborah)",
+        "1 Corinthians 11:5"
+      ],
+      "origin": "Women deacons existed in the early Church, especially in the East (Council of Chalcedon canon 15), and abbesses exercised authority. Quakers recognised women preachers from the 1650s (Margaret Fell, Women’s Speaking Justified, 1666). Antoinette Brown was ordained by a Congregational church in 1853; Holiness and Salvation Army women (Catherine Booth, Phoebe Palmer) and early Pentecostals (Aimee Semple McPherson) preached widely. Florence Li Tim-Oi became the first Anglican woman priest in 1944; US Methodists granted full clergy rights in 1956; the Church of England ordained women priests from 1994 and bishops from 2014.",
+      "originYear": 1853,
+      "proponentIds": [
+        "phoebe-palmer",
+        "george-fox",
+        "florence-li-tim-oi",
+        "desmond-tutu"
+      ],
+      "proponentsOther": [
+        "Margaret Fell",
+        "Antoinette Brown Blackwell",
+        "Catherine Booth",
+        "Aimee Semple McPherson",
+        "Christians for Biblical Equality (1987)",
+        "Gordon Fee",
+        "N. T. Wright (on Romans 16 and 1 Timothy 2)"
+      ],
+      "traditionIds": [
+        "quaker",
+        "methodist",
+        "salvation-army",
+        "anglican",
+        "lutheran",
+        "presbyterian",
+        "pentecostal",
+        "congregationalist",
+        "holiness-movement"
+      ],
+      "strongestArguments": [
+        "The new creation in Christ overcomes the hierarchy of the fall (Gal 3:28; Gen 3:16), and Pentecost explicitly includes women prophets.",
+        "Romans 16 names women in prominent ministry roles, including one apostle (Junia).",
+        "The fruit of women’s ministry in missions, revivals and pastorates is evident across history.",
+        "Paul’s restrictions appear tied to particular problems (e.g. false teaching at Ephesus), and other cultural instructions (head coverings, slavery) are not applied literally today."
+      ],
+      "strongestObjections": [
+        "Catholics and Orthodox argue Christ freely chose only men as apostles and the Church has never ordained women priests, so it lacks authority to do so.",
+        "Complementarians argue 1 Timothy 2:12–14 grounds its restriction in creation order (Adam formed first), not culture.",
+        "Critics argue women’s ordination has accompanied wider liberal theological shifts in some denominations.",
+        "It has caused splits and impaired communion (e.g. Anglican Communion, Old Catholic–Polish National Catholic break in 2003)."
+      ],
+      "responses": [
+        "Egalitarians reply that Jesus’ choice of twelve Jewish men symbolised Israel’s twelve tribes, not a permanent rule (he also chose no Gentiles).",
+        "They argue the creation-order reference illustrates deception in the Ephesian context, and that \"authority\" (authentein) in 1 Timothy 2:12 is a rare word possibly meaning \"domineer\".",
+        "Many evangelical egalitarians hold high views of Scripture, showing the issue is exegetical, not a liberal-conservative divide."
+      ],
+      "consequences": [
+        "Most mainline Protestant and many Pentecostal churches ordain women; by the 2020s women formed a large share of clergy in several Western denominations.",
+        "Created tensions in ecumenical relations with Rome and Orthodoxy.",
+        "Contributed to divisions within Anglicanism, Lutheranism and Baptists."
+      ],
+      "relatedPositionIds": [
+        "womens-ordination-restricted",
+        "apostolic-succession"
+      ],
+      "standing": "significant",
+      "sources": [
+        "chaves-ordaining-women",
+        "madigan-osiek-ordained-women",
+        "synan-holiness-pentecostal",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "womens-ordination-restricted",
+      "doctrineId": "church-sacraments",
+      "name": "Ordination reserved to men",
+      "altNames": [
+        "Male-only priesthood (Catholic and Orthodox)",
+        "Complementarianism (evangelical)"
+      ],
+      "oneLine": "The ordained priesthood (Catholic and Orthodox) or the pastoral/elder office (complementarian Protestants) is reserved to men, though women serve in many other ministries.",
+      "coreClaims": [
+        "Christ freely chose only men as the Twelve, and the apostles did the same; the Church is bound by this example.",
+        "For Catholics and Orthodox, the priest acts in persona Christi, as icon of Christ the Bridegroom, so the sacramental sign requires a male.",
+        "For complementarians, men and women are equal in dignity but have distinct, complementary roles grounded in creation (1 Tim 2:12–13; 1 Cor 11:3).",
+        "Women’s ministries (deaconess, abbess, teacher of women, missionary, prophet) are honoured and needed."
+      ],
+      "keyTexts": [
+        "Mark 3:13–19",
+        "1 Timothy 2:11–15",
+        "1 Timothy 3:1–7; Titus 1:6",
+        "1 Corinthians 11:3; 14:33–35",
+        "Ephesians 5:22–33",
+        "Genesis 2:18–24"
+      ],
+      "origin": "The constant practice of Catholic, Orthodox and Oriental churches, formally articulated in response to Protestant ordinations: Paul VI’s Congregation for the Doctrine of the Faith, Inter Insigniores (1976); John Paul II, Ordinatio Sacerdotalis (1994). Evangelical complementarianism was formalised by the Council on Biblical Manhood and Womanhood’s Danvers Statement (1987); the Southern Baptist Convention’s Baptist Faith and Message (2000) limits the pastoral office to men.",
+      "originYear": 1976,
+      "proponentIds": [
+        "john-paul-ii",
+        "paul-vi",
+        "john-piper"
+      ],
+      "proponentsOther": [
+        "Wayne Grudem",
+        "Thomas Schreiner",
+        "Danvers Statement (1987)",
+        "Southern Baptist Convention",
+        "Lutheran Church–Missouri Synod",
+        "Presbyterian Church in America",
+        "Kallistos Ware (initially; later more open)"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-orthodox",
+        "oriental-orthodox",
+        "church-of-the-east",
+        "baptist",
+        "evangelical",
+        "lutheran",
+        "presbyterian"
+      ],
+      "strongestArguments": [
+        "It has the unbroken support of the Church’s practice across East and West for nearly two thousand years.",
+        "Paul grounds his restriction in creation, not in local culture (1 Tim 2:13; 1 Cor 11:8–9).",
+        "Jesus defied cultural norms in his treatment of women, so his choice of male apostles was not merely cultural.",
+        "Sacramental iconicity: the priest represents Christ the Bridegroom to the Church his bride."
+      ],
+      "strongestObjections": [
+        "Egalitarians argue it is inconsistent with Galatians 3:28, Pentecost and Paul’s commendation of women leaders (Rom 16).",
+        "Historians note that women deacons were ordained by laying on of hands in the early and Byzantine Church, complicating claims of uniform tradition.",
+        "Critics argue it can sustain wider patterns of exclusion or abuse of power."
+      ],
+      "responses": [
+        "Catholics and Orthodox reply that the diaconate is distinct from the priesthood and that the question of deaconesses does not affect priestly ordination (Pope Francis’ commissions on women deacons, 2016 and 2020, left this open).",
+        "Complementarians stress equality of dignity and broad scope for women’s ministry, and condemn abuse as contrary to servant headship (Eph 5:25)."
+      ],
+      "consequences": [
+        "The practice of the majority of the world’s Christians (Catholic and Orthodox), as well as many evangelical bodies.",
+        "A major obstacle to full communion between Rome/Orthodoxy and Anglicans/Lutherans.",
+        "Fuels ongoing debates over women deacons and the scope of women’s leadership in Catholic and evangelical churches."
+      ],
+      "relatedPositionIds": [
+        "womens-ordination-affirmed",
+        "apostolic-succession",
+        "episcopal-polity"
+      ],
+      "standing": "majority",
+      "sources": [
+        "ccc-1997",
+        "chaves-ordaining-women",
+        "madigan-osiek-ordained-women",
+        "ware-orthodox-church"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "donatism",
+      "doctrineId": "church-sacraments",
+      "name": "Donatism",
+      "altNames": [
+        "The Church of the martyrs (self-designation)",
+        "Pars Donati (opponents’ term)"
+      ],
+      "oneLine": "The Church must be a pure community of the holy; clergy who betrayed the faith in persecution lose the power to administer valid sacraments, so their baptisms and ordinations are void.",
+      "coreClaims": [
+        "The Church is the spotless bride of Christ, a community of the pure separated from the world.",
+        "Bishops who were traditores (who handed over Scriptures in the Diocletian persecution) or in communion with them cannot give the Spirit.",
+        "Sacraments administered by unworthy or schismatic clergy are invalid, so converts must be (re)baptised.",
+        "The true Church is the persecuted Church of the martyrs, not the one allied with the emperor."
+      ],
+      "keyTexts": [
+        "Ephesians 5:25–27",
+        "Song of Songs 4:7–12 (\"a garden enclosed\")",
+        "Psalm 141:5 (Latin: \"let not the oil of the sinner anoint my head\")",
+        "Cyprian, On the Unity of the Church; Letters on rebaptism"
+      ],
+      "origin": "After the Diocletian persecution (303–305), Caecilian was consecrated bishop of Carthage (c.311) by Felix of Aptunga, accused of being a traditor. Numidian bishops elected Majorinus, then Donatus (from 313). Constantine’s inquiries (Rome 313; Council of Arles 314) found for Caecilian. Drawing on Cyprian’s ecclesiology, the Donatists became the majority church in much of North Africa for a century, with radical Circumcellion bands. Tyconius was a dissenting Donatist theologian.",
+      "originYear": 311,
+      "proponentIds": [
+        "tyconius",
+        "cyprian"
+      ],
+      "proponentsOther": [
+        "Donatus Magnus",
+        "Parmenian",
+        "Petilian of Constantine",
+        "Gaudentius of Thamugadi"
+      ],
+      "traditionIds": [
+        "donatist"
+      ],
+      "strongestArguments": [
+        "It takes holiness and costly faithfulness under persecution with utmost seriousness; restoring betrayers casually dishonours the martyrs.",
+        "It could claim the authority of Cyprian, the great African martyr-bishop, who had rebaptised schismatics.",
+        "It resisted the emerging alliance of Church and empire and the use of state coercion in religion."
+      ],
+      "strongestObjections": [
+        "Augustine argued that sacraments belong to Christ, not to the minister: \"this is He that baptizeth\" (Tractates on John 6.7); otherwise no believer could be sure of their baptism.",
+        "Jesus’ parables of wheat and tares and the dragnet (Matt 13) teach that the visible Church is mixed until the judgement.",
+        "Donatism confined the Church to Africa, contradicting its catholicity throughout the world.",
+        "The Circumcellions’ violence undermined claims to purity."
+      ],
+      "responses": [
+        "Donatists replied that a \"catholic\" church spread worldwide but corrupt was no Church, and that Catholics themselves used imperial violence against them.",
+        "Modern historians (Frend) see Donatism also as an expression of North African regional and social identity, which explains its endurance."
+      ],
+      "consequences": [
+        "Led to Augustine’s doctrines of sacramental validity and the mixed Church, foundational for Western theology.",
+        "Prompted the first major use of imperial coercion against fellow Christians, which Augustine justified (\"compel them to come in\", Luke 14:23), a precedent later used to justify persecution.",
+        "Weakened North African Christianity before the Vandal (429) and Arab conquests; Donatist communities persisted into the 7th century.",
+        "\"Donatist\" became a byword for perfectionist separatism, applied to later movements (Anabaptists, some revivalists)."
+      ],
+      "relatedPositionIds": [
+        "catholic-sacramental-validity",
+        "anabaptist-separation"
+      ],
+      "standing": "rejected-by-councils",
+      "sources": [
+        "frend-donatist-church",
+        "chadwick-early-church",
+        "gonzalez-story",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "catholic-sacramental-validity",
+      "doctrineId": "church-sacraments",
+      "name": "Catholic (Augustinian) sacramental validity",
+      "altNames": [
+        "Ex opere operato",
+        "Anti-Donatist view",
+        "Mixed-church ecclesiology"
+      ],
+      "oneLine": "Sacraments rightly administered with the Church’s intention are valid regardless of the personal holiness of the minister, because Christ himself is their true minister; the visible Church is a mixed body until the last judgement.",
+      "coreClaims": [
+        "Christ is the principal minister of every sacrament; the human minister is an instrument.",
+        "Baptism and ordination administered even by heretics or schismatics in the right form are valid (though not fruitful outside the Church) and are not repeated.",
+        "The Church on earth contains both wheat and tares (corpus permixtum), and purity is an eschatological, not present, condition.",
+        "Unity and charity are the marks of the true Church; schism destroys love."
+      ],
+      "keyTexts": [
+        "Matthew 13:24–30, 47–50",
+        "John 1:33 (\"the same is he which baptizeth with the Holy Ghost\")",
+        "Philippians 1:15–18",
+        "Augustine, On Baptism, against the Donatists; Tractates on John 6"
+      ],
+      "origin": "Rome under Pope Stephen (c.256) refused to rebaptise heretics, against Cyprian. The Council of Arles (314) ruled against rebaptising those baptised in the Trinitarian name. Optatus of Milevis (c.367) and above all Augustine (On Baptism, 400–401) formulated the theology, vindicated at the Conference of Carthage (411). Scholastics coined \"ex opere operato\", defined by Trent (Session 7, canon 8, 1547). Magisterial Protestants largely accepted the anti-Donatist principle (Augsburg Confession VIII; Thirty-Nine Articles XXVI).",
+      "originYear": 400,
+      "proponentIds": [
+        "augustine-of-hippo",
+        "thomas-aquinas"
+      ],
+      "proponentsOther": [
+        "Pope Stephen I",
+        "Optatus of Milevis",
+        "Council of Arles (314)",
+        "Augsburg Confession VIII",
+        "Thirty-Nine Articles XXVI"
+      ],
+      "traditionIds": [
+        "catholic",
+        "lutheran",
+        "anglican",
+        "reformed",
+        "eastern-orthodox"
+      ],
+      "strongestArguments": [
+        "It grounds the believer’s assurance in Christ’s action, not in the unverifiable holiness of a minister.",
+        "It matches Jesus’ teaching that the Church will be mixed until the end and Paul’s rejoicing that Christ is preached even from bad motives (Phil 1:18).",
+        "It preserves unity: schism in the name of purity sins against love, the greatest gift."
+      ],
+      "strongestObjections": [
+        "Donatists and later perfectionist movements argue that it tolerates corruption and severs sacrament from holiness of life.",
+        "Orthodox theology traditionally treats sacraments outside the Church more strictly (debates over \"economy\" and reception of converts by baptism or chrismation).",
+        "Its association with imperial coercion against Donatists (approved by Augustine) set a dangerous precedent."
+      ],
+      "responses": [
+        "Augustine replied that a valid sacrament is not therefore fruitful: unrepentant ministers and recipients incur judgement, so holiness still matters.",
+        "Modern Catholic and Protestant theologians accept the validity principle while repudiating coercion, as Vatican II’s Dignitatis Humanae (1965) did."
+      ],
+      "consequences": [
+        "Became the Western consensus on sacramental validity and the non-repetition of baptism and ordination.",
+        "Underlies modern ecumenical mutual recognition of baptism (e.g. BEM, 1982).",
+        "Shaped debates over the validity of orders (Anglican, Old Catholic) and over abusive clergy."
+      ],
+      "relatedPositionIds": [
+        "donatism",
+        "apostolic-succession",
+        "seven-sacraments"
+      ],
+      "standing": "majority",
+      "sources": [
+        "frend-donatist-church",
+        "kelly-doctrines",
+        "pelikan-christian-tradition",
+        "anf-npnf"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "controversies": [
+    {
+      "id": "what-happens-at-the-lords-supper",
+      "question": "What happens at the Lord’s Supper?",
+      "title": "The Eucharistic controversies and the Marburg Colloquy",
+      "summary": "All Christians celebrate the Supper Jesus instituted, but they disagree on how (or whether) Christ is present in the bread and wine, whether it is a sacrifice and who may preside. The disagreement divided Catholics from Protestants and, at Marburg in 1529, Lutherans from Reformed.",
+      "doctrineIds": [
+        "church-sacraments"
+      ],
+      "sides": [
+        {
+          "name": "Transubstantiation (Catholic)",
+          "positionId": "transubstantiation",
+          "steelman": "Christ said \"this is my body\", and he cannot lie. From Ignatius and Justin onward the Church has believed the bread becomes his flesh. We call the change transubstantiation to say that the reality, not the appearance, is changed: Christ is wholly present, to be received and adored, and the one sacrifice of Calvary is made present on our altars.",
+          "arguments": [
+            "Literal sense of the words of institution and John 6",
+            "Patristic realism",
+            "Lateran IV and Trent"
+          ],
+          "counterArguments": [
+            "Aristotelian philosophy",
+            "Christ’s body is in heaven"
+          ],
+          "keyTexts": [
+            "Matthew 26:26–28",
+            "John 6:51–58"
+          ],
+          "quoteIds": [
+            "justin-not-common-bread",
+            "ignatius-eucharist-flesh"
+          ]
+        },
+        {
+          "name": "Orthodox mystery",
+          "positionId": "orthodox-eucharistic-mystery",
+          "steelman": "The Holy Spirit descends on the gifts and makes them truly the Body and Blood of Christ. We confess the change with the Fathers but do not presume to explain it; the Eucharist is heaven on earth, the Church becoming what it receives.",
+          "arguments": [
+            "Epiclesis",
+            "Patristic language of change",
+            "Apophatic restraint"
+          ],
+          "counterArguments": [
+            "Imprecision (Western critique)",
+            "Same \"body in heaven\" objection"
+          ],
+          "keyTexts": [
+            "John 6:51–58",
+            "1 Corinthians 10:16–17"
+          ],
+          "quoteIds": [
+            "john-damascus-not-figures",
+            "cyril-jerusalem-seeming-bread"
+          ]
+        },
+        {
+          "name": "Lutheran sacramental union",
+          "positionId": "lutheran-sacramental-union",
+          "steelman": "\"This is my body\": the words stand firm. We will not explain them away with Zwingli’s \"signifies\" or with Rome’s philosophy. Christ’s body and blood are truly in, with and under the bread and wine, given to all who eat, for the forgiveness of sins.",
+          "arguments": [
+            "Plain words",
+            "Manducation of the unworthy (1 Cor 11:27)",
+            "Communication of attributes"
+          ],
+          "counterArguments": [
+            "Ubiquity compromises Christ’s humanity",
+            "Bread and body cannot both be"
+          ],
+          "keyTexts": [
+            "1 Corinthians 10:16",
+            "1 Corinthians 11:27–29"
+          ],
+          "quoteIds": [
+            "luther-small-catechism-altar",
+            "luther-hoc-est-corpus"
+          ]
+        },
+        {
+          "name": "Reformed spiritual presence",
+          "positionId": "reformed-spiritual-presence",
+          "steelman": "We truly feed on Christ’s flesh and blood, not by dragging him down into the bread but by being lifted up to him by the Holy Spirit. The signs are not empty: God gives what they signify to faith.",
+          "arguments": [
+            "Ascension and true humanity",
+            "Spirit’s uniting work",
+            "Sursum corda"
+          ],
+          "counterArguments": [
+            "Presence depends on faith (Lutheran critique)"
+          ],
+          "keyTexts": [
+            "1 Corinthians 10:16–17",
+            "Colossians 3:1"
+          ],
+          "quoteIds": [
+            "calvin-spirit-unites",
+            "articles-heavenly-spiritual-manner"
+          ]
+        },
+        {
+          "name": "Zwinglian memorial",
+          "positionId": "zwinglian-memorial",
+          "steelman": "The flesh profits nothing; the Spirit gives life. \"Is\" here means \"signifies\", as when Christ says \"I am the vine\". In the Supper we remember his once-for-all sacrifice, give thanks and pledge ourselves to him as a body; to seek his flesh in bread is to look for the living among the dead.",
+          "arguments": [
+            "Figurative \"is\"",
+            "John 6:63",
+            "Remembrance command"
+          ],
+          "counterArguments": [
+            "Contradicts patristic realism",
+            "1 Cor 11:29–30"
+          ],
+          "keyTexts": [
+            "Luke 22:19",
+            "John 6:63"
+          ],
+          "quoteIds": [
+            "zwingli-is-signifies"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 155,
+          "text": "Justin describes the Eucharist as \"not common bread\"."
+        },
+        {
+          "year": 831,
+          "text": "Paschasius Radbertus’ On the Body and Blood of the Lord; Ratramnus replies (c.843)."
+        },
+        {
+          "year": 1059,
+          "text": "Berengar of Tours forced to swear that Christ’s body is sensibly broken by priests’ hands."
+        },
+        {
+          "year": 1215,
+          "text": "Fourth Lateran Council uses \"transubstantiated\".",
+          "eventId": "fourth-lateran-council-1215"
+        },
+        {
+          "year": 1264,
+          "text": "Urban IV institutes the feast of Corpus Christi."
+        },
+        {
+          "year": 1520,
+          "text": "Luther’s Babylonian Captivity attacks transubstantiation and the sacrifice of the Mass."
+        },
+        {
+          "year": 1529,
+          "text": "Marburg Colloquy: Luther and Zwingli fail to agree on the bodily presence.",
+          "eventId": "marburg-colloquy-1529"
+        },
+        {
+          "year": 1530,
+          "text": "Augsburg Confession X affirms the true presence.",
+          "eventId": "augsburg-confession-1530"
+        },
+        {
+          "year": 1549,
+          "text": "Consensus Tigurinus unites Calvin and Bullinger."
+        },
+        {
+          "year": 1551,
+          "text": "Trent, Session 13, defines transubstantiation.",
+          "eventId": "council-of-trent-1545"
+        },
+        {
+          "year": 1577,
+          "text": "Lutheran Formula of Concord VII rejects the Reformed view."
+        },
+        {
+          "year": 1672,
+          "text": "Orthodox Synod of Jerusalem adopts \"metousiosis\"."
+        },
+        {
+          "year": 1973,
+          "text": "Leuenberg Agreement: European Lutheran and Reformed churches declare table fellowship."
+        },
+        {
+          "year": 1982,
+          "text": "WCC’s Baptism, Eucharist and Ministry records broad convergence."
+        },
+        {
+          "year": 2001,
+          "text": "Rome recognises the Anaphora of Addai and Mari of the Assyrian Church of the East."
+        }
+      ],
+      "resolution": {
+        "kind": "mixed",
+        "text": "Partly resolved by dialogue: Lutheran and Reformed churches in Europe (1973) and the US (1997) entered full communion; Catholic–Lutheran and Anglican–Catholic dialogues found substantial agreement on real presence. Yet Catholic, Orthodox, confessional Lutheran and many evangelical churches still do not share communion, and the memorial view predominates among evangelicals."
+      },
+      "consequences": [
+        "Prevented a united Protestant front in 1529–30; Zwingli died in battle in 1531 without Lutheran allies.",
+        "Shaped distinct liturgies, church architecture and devotional lives.",
+        "Remains the most visible sign of Christian division: separate tables."
+      ],
+      "sources": [
+        "sasse-this-is-my-body",
+        "macy-banquet",
+        "macculloch-reformation",
+        "pelikan-christian-tradition",
+        "bem-1982"
+      ]
+    },
+    {
+      "id": "who-may-be-ordained",
+      "question": "Who may be ordained?",
+      "title": "Ordination, succession and women’s ministry",
+      "summary": "Christian traditions disagree about who may be ordained and by whom: whether valid ordination requires bishops in apostolic succession, and whether women may be ordained as deacons, priests, pastors or bishops. The question has become one of the most divisive in modern church life.",
+      "doctrineIds": [
+        "church-sacraments"
+      ],
+      "sides": [
+        {
+          "name": "Women may be ordained to all ministries",
+          "positionId": "womens-ordination-affirmed",
+          "steelman": "At Pentecost the Spirit fell on sons and daughters. Paul names women as deacon, co-worker and even apostle, and declares that in Christ there is neither male nor female. The few restrictive verses addressed particular problems, just as Paul’s instructions to slaves did. Two centuries of women preachers, missionaries and pastors show the Spirit’s gifting.",
+          "arguments": [
+            "Galatians 3:28",
+            "Acts 2:17–18",
+            "Romans 16 (Phoebe, Junia, Priscilla)",
+            "Fruit of women’s ministry"
+          ],
+          "counterArguments": [
+            "Unbroken tradition",
+            "Creation-order argument of 1 Tim 2:13"
+          ],
+          "keyTexts": [
+            "Galatians 3:28",
+            "Romans 16:1–7",
+            "Acts 2:17–18"
+          ],
+          "quoteIds": [
+            "palmer-promise-father-para"
+          ]
+        },
+        {
+          "name": "Priesthood reserved to men (Catholic and Orthodox)",
+          "positionId": "womens-ordination-restricted",
+          "steelman": "Christ, who broke many conventions about women, chose twelve men as apostles, and the Church East and West has never ordained women priests. The priest stands in persona Christi, the Bridegroom, before the Church his bride. This is not a judgement of worth: Mary, the greatest of the saints, was not an apostle.",
+          "arguments": [
+            "Christ’s choice of the Twelve",
+            "Unbroken tradition",
+            "Sacramental iconicity"
+          ],
+          "counterArguments": [
+            "Women deacons in the early Church",
+            "Galatians 3:28"
+          ],
+          "keyTexts": [
+            "Mark 3:13–19",
+            "Ephesians 5:25–32"
+          ],
+          "quoteIds": [
+            "ordinatio-sacerdotalis-para"
+          ]
+        },
+        {
+          "name": "Complementarian evangelical",
+          "positionId": "womens-ordination-restricted",
+          "steelman": "Men and women are equally made in God’s image, but Scripture reserves the office of pastor-elder to qualified men, grounding this in creation, not culture (1 Tim 2:13). Women are gifted for countless ministries, but the eldership is a role of servant headship modelled on Christ.",
+          "arguments": [
+            "1 Timothy 2:12–14",
+            "Elder qualifications (1 Tim 3:2)",
+            "Creation order"
+          ],
+          "counterArguments": [
+            "Local-situation readings of 1 Timothy 2",
+            "Women leaders in Romans 16"
+          ],
+          "keyTexts": [
+            "1 Timothy 2:11–15",
+            "1 Timothy 3:1–7"
+          ],
+          "quoteIds": []
+        },
+        {
+          "name": "Apostolic succession required",
+          "positionId": "apostolic-succession",
+          "steelman": "Ordination is not a congregation’s appointment but Christ’s gift through the apostles and their successors by the laying on of hands. Clement and Irenaeus point to this succession as the guarantee of apostolic faith; without it, the Church’s ministry loses its sacramental link to the apostles.",
+          "arguments": [
+            "1 Clement 42–44",
+            "Irenaeus, Against Heresies 3.3",
+            "Laying on of hands (2 Tim 1:6)"
+          ],
+          "counterArguments": [
+            "Bishop and elder identical in NT",
+            "Succession of doctrine suffices"
+          ],
+          "keyTexts": [
+            "2 Timothy 1:6; 2:2",
+            "Titus 1:5"
+          ],
+          "quoteIds": [
+            "clement-strife-episcopate",
+            "irenaeus-succession-of-bishops"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 96,
+          "text": "1 Clement describes apostolic appointment of successors."
+        },
+        {
+          "year": 451,
+          "text": "Chalcedon canon 15 regulates the ordination of deaconesses (minimum age 40).",
+          "eventId": "council-of-chalcedon-451"
+        },
+        {
+          "year": 1666,
+          "text": "Quaker Margaret Fell publishes Women’s Speaking Justified."
+        },
+        {
+          "year": 1853,
+          "text": "Antoinette Brown is ordained by a Congregational church in New York."
+        },
+        {
+          "year": 1896,
+          "text": "Leo XIII’s Apostolicae Curae declares Anglican orders invalid."
+        },
+        {
+          "year": 1944,
+          "text": "Florence Li Tim-Oi ordained priest in China, the first in the Anglican Communion."
+        },
+        {
+          "year": 1976,
+          "text": "Inter Insigniores restates Catholic teaching on male priesthood."
+        },
+        {
+          "year": 1987,
+          "text": "Danvers Statement (complementarian) and founding of Christians for Biblical Equality (egalitarian)."
+        },
+        {
+          "year": 1992,
+          "text": "Church of England General Synod votes to ordain women priests; Porvoo Agreement shares episcopal succession with Nordic and Baltic Lutherans."
+        },
+        {
+          "year": 1994,
+          "text": "Ordinatio Sacerdotalis; first women priests ordained in the Church of England."
+        },
+        {
+          "year": 2000,
+          "text": "Southern Baptist Convention limits pastoral office to men."
+        },
+        {
+          "year": 2014,
+          "text": "Church of England approves women bishops."
+        }
+      ],
+      "resolution": {
+        "kind": "mixed",
+        "text": "No common resolution. Catholic and Orthodox churches hold male priesthood as unchangeable; most mainline Protestant and many Pentecostal churches ordain women; evangelicals are divided. Disputes over women’s and LGBTQ ordination contributed to realignments such as GAFCON (2008) and the United Methodist schism (2019–2024)."
+      },
+      "consequences": [
+        "Shapes ecumenical prospects between Catholic/Orthodox and Anglican/Lutheran churches.",
+        "Has driven denominational splits and new alignments.",
+        "Transformed the composition of clergy in many Protestant churches."
+      ],
+      "sources": [
+        "chaves-ordaining-women",
+        "madigan-osiek-ordained-women",
+        "ccc-1997",
+        "bem-1982"
+      ]
+    },
+    {
+      "id": "donatist-controversy",
+      "question": "Does an unworthy minister invalidate the sacraments?",
+      "title": "The Donatist controversy",
+      "summary": "After the Great Persecution, North African Christians split over whether bishops who had compromised could validly ordain and baptise. The Donatist church of the martyrs insisted on purity; Augustine and the Catholics replied that Christ is the true minister of every sacrament and that the Church is a mixed body until the judgement.",
+      "doctrineIds": [
+        "church-sacraments",
+        "baptism"
+      ],
+      "sides": [
+        {
+          "name": "Donatists",
+          "positionId": "donatism",
+          "steelman": "Our fathers died rather than hand over the Scriptures. How can those who betrayed Christ, or who share communion with betrayers, give the Holy Spirit they have lost? The Church is the spotless bride, the enclosed garden; Cyprian taught us that there is no baptism outside it. We are the Church of the martyrs, persecuted again now by bishops in league with the emperor.",
+          "arguments": [
+            "Holiness of the Church (Eph 5:27)",
+            "Authority of Cyprian",
+            "Witness of the martyrs"
+          ],
+          "counterArguments": [
+            "Christ is the true minister",
+            "Parable of wheat and tares"
+          ],
+          "keyTexts": [
+            "Ephesians 5:25–27",
+            "Song of Songs 4:12"
+          ],
+          "quoteIds": [
+            "cyprian-church-mother"
+          ]
+        },
+        {
+          "name": "Catholics (Augustine)",
+          "positionId": "catholic-sacramental-validity",
+          "steelman": "If baptism depended on the holiness of the minister, no one could know they were truly baptised. Peter, Paul or Judas may baptise: it is Christ who baptises. The Church will contain wheat and tares until the harvest; to tear it apart for the sake of purity is to sin against the love that is its very life.",
+          "arguments": [
+            "Christ the true minister",
+            "Mixed Church (Matt 13)",
+            "Catholicity throughout the world"
+          ],
+          "counterArguments": [
+            "Tolerance of corruption",
+            "Use of imperial coercion"
+          ],
+          "keyTexts": [
+            "John 1:33",
+            "Matthew 13:24–30"
+          ],
+          "quoteIds": [
+            "augustine-he-that-baptizeth",
+            "augustine-visible-word"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 303,
+          "text": "Diocletian’s persecution demands the surrender of Scriptures.",
+          "eventId": "diocletian-persecution-303"
+        },
+        {
+          "year": 311,
+          "text": "Caecilian consecrated bishop of Carthage; Numidian bishops elect Majorinus."
+        },
+        {
+          "year": 313,
+          "text": "Constantine’s favour to the Church; a Roman synod under Miltiades finds for Caecilian.",
+          "eventId": "edict-of-milan-313"
+        },
+        {
+          "year": 314,
+          "text": "Council of Arles rules against rebaptism and for Caecilian."
+        },
+        {
+          "year": 347,
+          "text": "Imperial \"Macarian\" repression; Donatus exiled."
+        },
+        {
+          "year": 400,
+          "text": "Augustine’s On Baptism, against the Donatists."
+        },
+        {
+          "year": 411,
+          "text": "Conference of Carthage under Marcellinus finds for the Catholics."
+        },
+        {
+          "year": 429,
+          "text": "Vandal invasion of North Africa overtakes the conflict."
+        }
+      ],
+      "resolution": {
+        "kind": "schism",
+        "text": "The imperial verdict of 411 and subsequent coercive laws gave the Catholic party legal victory, but Donatist communities survived until the Arab conquest. Theologically, Augustine’s position became the norm for Western Catholic and magisterial Protestant churches."
+      },
+      "consequences": [
+        "Established the principle that sacraments are valid regardless of the minister’s worthiness.",
+        "Set a precedent for state coercion of dissenting Christians, justified by Augustine.",
+        "Weakened North African Christianity before the Vandal and Arab conquests."
+      ],
+      "sources": [
+        "frend-donatist-church",
+        "chadwick-early-church",
+        "gonzalez-story",
+        "anf-npnf"
+      ]
+    }
+  ],
+  "people": [
+    {
+      "id": "cyril-of-jerusalem",
+      "name": "Cyril of Jerusalem",
+      "born": 313,
+      "died": 386,
+      "circa": true,
+      "roles": [
+        "bishop of Jerusalem",
+        "catechist"
+      ],
+      "traditionIds": [
+        "early-church"
+      ],
+      "regions": [
+        "levant"
+      ],
+      "summary": "Bishop of Jerusalem (c.350–386), several times exiled during the Arian controversies, whose Catechetical Lectures (c.350) and Mystagogical Catecheses (attributed to him or his successor John) give a vivid picture of baptism, chrismation and Eucharist in 4th-century Jerusalem, including a strong realist teaching on the change of bread and wine and the invocation (epiclesis) of the Spirit.",
+      "keyIdeas": [
+        "Mystagogy: explaining the sacraments after initiation",
+        "Real change of the eucharistic elements",
+        "Epiclesis of the Holy Spirit"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Jerusalem",
+        "lat": 31.7784,
+        "lng": 35.2298
+      },
+      "sources": [
+        "anf-npnf",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "paul-vi",
+      "name": "Pope Paul VI",
+      "born": 1897,
+      "died": 1978,
+      "circa": false,
+      "roles": [
+        "pope (1963–1978)"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "italy",
+        "global"
+      ],
+      "summary": "Giovanni Battista Montini, pope from 1963 to 1978, who carried the Second Vatican Council to completion, promulgating Lumen Gentium, Unitatis Redintegratio and other documents, implemented liturgical reform, met Patriarch Athenagoras (mutual lifting of the 1054 excommunications, 1965), defended transubstantiation (Mysterium Fidei, 1965) and issued Humanae Vitae (1968).",
+      "keyIdeas": [
+        "Implementation of Vatican II",
+        "Catholic–Orthodox rapprochement",
+        "Eucharistic realism (Mysterium Fidei)",
+        "Populorum Progressio on development"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Rome",
+        "lat": 41.9029,
+        "lng": 12.4534
+      },
+      "sources": [
+        "vatican-ii-documents",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "florence-li-tim-oi",
+      "name": "Florence Li Tim-Oi",
+      "born": 1907,
+      "died": 1992,
+      "circa": false,
+      "roles": [
+        "Anglican priest"
+      ],
+      "traditionIds": [
+        "anglican"
+      ],
+      "regions": [
+        "east-asia",
+        "north-america"
+      ],
+      "summary": "Hong Kong-born Anglican who, ordained priest by Bishop Ronald Hall in 1944 to serve Macau’s Christians during the Japanese occupation, became the first woman priest in the Anglican Communion. Under pressure she ceased to exercise her priesthood after the war; she later suffered re-education during the Cultural Revolution, and her orders were publicly recognised again in Hong Kong in 1971 and in Canada, where she died.",
+      "keyIdeas": [
+        "First woman ordained priest in the Anglican Communion (1944)",
+        "Faithfulness under persecution in Communist China"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Macau",
+        "lat": 22.1987,
+        "lng": 113.5439
+      },
+      "sources": [
+        "chaves-ordaining-women",
+        "odcc"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "works": [
+    {
+      "id": "clement-1-clement",
+      "title": "First Epistle of Clement to the Corinthians",
+      "authorId": "clement-of-rome",
+      "year": 96,
+      "circa": true,
+      "language": "Greek",
+      "genre": "letter",
+      "summary": "Letter from the church of Rome to the church of Corinth urging the restoration of deposed presbyters.",
+      "significance": "Earliest non-canonical Christian letter; chapters 42–44 give an early theory of apostolic appointment and succession of church leaders.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/1010.htm",
+      "doctrineIds": [
+        "church-sacraments"
+      ],
+      "sources": [
+        "anf-npnf"
+      ]
+    },
+    {
+      "id": "ignatius-to-the-smyrnaeans",
+      "title": "Letter to the Smyrnaeans",
+      "authorId": "ignatius-of-antioch",
+      "year": 107,
+      "circa": true,
+      "language": "Greek",
+      "genre": "letter",
+      "summary": "One of seven letters written by Ignatius of Antioch on his way to martyrdom in Rome.",
+      "significance": "Contains the first use of \"the Catholic Church\" and strong statements on the bishop and on the Eucharist as Christ’s flesh.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/0109.htm",
+      "doctrineIds": [
+        "church-sacraments",
+        "christology"
+      ],
+      "sources": [
+        "anf-npnf"
+      ]
+    },
+    {
+      "id": "justin-first-apology",
+      "title": "First Apology",
+      "authorId": "justin-martyr",
+      "year": 155,
+      "circa": true,
+      "language": "Greek",
+      "genre": "apology",
+      "summary": "Defence of Christianity addressed to Emperor Antoninus Pius.",
+      "significance": "Chapters 61–67 give the earliest detailed description of Christian baptism and Sunday Eucharist.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/0126.htm",
+      "doctrineIds": [
+        "church-sacraments",
+        "baptism"
+      ],
+      "sources": [
+        "anf-npnf"
+      ]
+    },
+    {
+      "id": "cyprian-unity-of-the-church",
+      "title": "On the Unity of the Catholic Church (De Unitate)",
+      "authorId": "cyprian",
+      "year": 251,
+      "circa": false,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "Cyprian’s tract against the Novatianist schism, insisting on the unity of the episcopate.",
+      "significance": "Classic statement that there is no salvation outside the Church; its chapter 4 exists in two versions (one more papal), debated since the Reformation.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/050701.htm",
+      "doctrineIds": [
+        "church-sacraments",
+        "baptism"
+      ],
+      "sources": [
+        "anf-npnf"
+      ]
+    },
+    {
+      "id": "augustine-tractates-on-john",
+      "title": "Tractates on the Gospel of John",
+      "authorId": "augustine-of-hippo",
+      "year": 416,
+      "circa": true,
+      "language": "Latin",
+      "genre": "sermon",
+      "summary": "124 homilies on John’s Gospel.",
+      "significance": "Source of Augustine’s definition of a sacrament (\"the word is added to the element\") and of anti-Donatist arguments that Christ is the true minister of baptism.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/1701.htm",
+      "doctrineIds": [
+        "church-sacraments",
+        "baptism"
+      ],
+      "sources": [
+        "anf-npnf"
+      ]
+    },
+    {
+      "id": "john-damascus-exact-exposition",
+      "title": "An Exact Exposition of the Orthodox Faith",
+      "authorId": "john-of-damascus",
+      "year": 743,
+      "circa": true,
+      "language": "Greek",
+      "genre": "treatise",
+      "summary": "Third part of John of Damascus’ Fount of Knowledge, summarising Greek patristic theology.",
+      "significance": "Standard Byzantine compendium; 4.13 teaches that the elements become the deified body and blood of Christ through the Holy Spirit.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/3304.htm",
+      "doctrineIds": [
+        "church-sacraments",
+        "christology",
+        "trinity"
+      ],
+      "sources": [
+        "anf-npnf"
+      ]
+    },
+    {
+      "id": "luther-babylonian-captivity",
+      "title": "On the Babylonian Captivity of the Church",
+      "authorId": "martin-luther",
+      "year": 1520,
+      "circa": false,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "Luther’s attack on the medieval sacramental system: withholding the cup, transubstantiation and the Mass as sacrifice.",
+      "significance": "Reduced the sacraments to baptism and the Supper (with penance at first wavering), setting the Protestant sacramental agenda.",
+      "doctrineIds": [
+        "church-sacraments",
+        "baptism"
+      ],
+      "sources": [
+        "macculloch-reformation"
+      ]
+    },
+    {
+      "id": "luther-small-catechism",
+      "title": "Small Catechism",
+      "authorId": "martin-luther",
+      "year": 1529,
+      "circa": false,
+      "language": "German",
+      "genre": "catechism",
+      "summary": "Luther’s brief instruction on the Ten Commandments, Creed, Lord’s Prayer, Baptism, Confession and the Sacrament of the Altar for households.",
+      "significance": "One of the most widely used catechisms in history; part of the Lutheran Book of Concord (1580).",
+      "fullTextUrl": "https://www.ccel.org/ccel/schaff/creeds3.iii.iv.html",
+      "doctrineIds": [
+        "church-sacraments",
+        "baptism",
+        "salvation"
+      ],
+      "sources": [
+        "schaff-creeds"
+      ]
+    },
+    {
+      "id": "zwingli-true-and-false-religion",
+      "title": "Commentary on True and False Religion",
+      "authorId": "huldrych-zwingli",
+      "year": 1525,
+      "circa": false,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "Zwingli’s systematic statement of Reformed faith dedicated to Francis I of France.",
+      "significance": "Argues that \"is\" in \"this is my body\" means \"signifies\" and that the Supper is a commemoration and pledge of faith.",
+      "doctrineIds": [
+        "church-sacraments"
+      ],
+      "sources": [
+        "macculloch-reformation"
+      ]
+    },
+    {
+      "id": "marburg-articles",
+      "title": "Marburg Articles",
+      "authorId": "martin-luther",
+      "year": 1529,
+      "circa": false,
+      "language": "German",
+      "genre": "confession",
+      "summary": "Fifteen articles drafted by Luther after the Marburg Colloquy (1–4 October 1529) between Lutheran and Swiss/Strasbourg reformers.",
+      "significance": "Agreement on fourteen articles and most of the fifteenth, but failure on whether Christ’s body and blood are bodily present in the bread and wine, fixing the Lutheran–Reformed division.",
+      "doctrineIds": [
+        "church-sacraments"
+      ],
+      "sources": [
+        "sasse-this-is-my-body",
+        "macculloch-reformation"
+      ]
+    },
+    {
+      "id": "thirty-nine-articles",
+      "title": "Thirty-Nine Articles of Religion",
+      "authorId": "thomas-cranmer",
+      "year": 1563,
+      "circa": false,
+      "language": "Latin and English",
+      "genre": "confession",
+      "summary": "Doctrinal statement of the Church of England, revised from Cranmer’s Forty-Two Articles (1553), finalised in 1571.",
+      "significance": "Defines Anglican positions on Scripture, justification, the two sacraments of the Gospel (XXV) and the Supper (XXVIII).",
+      "fullTextUrl": "https://www.ccel.org/ccel/schaff/creeds3.iv.xvi.html",
+      "doctrineIds": [
+        "church-sacraments",
+        "salvation",
+        "scripture-authority"
+      ],
+      "sources": [
+        "schaff-creeds"
+      ]
+    },
+    {
+      "id": "lumen-gentium",
+      "title": "Lumen Gentium (Dogmatic Constitution on the Church)",
+      "authorId": "paul-vi",
+      "year": 1964,
+      "circa": false,
+      "language": "Latin",
+      "genre": "creed",
+      "summary": "Vatican II’s constitution on the Church as mystery, people of God and hierarchical communion.",
+      "significance": "Taught that the Church of Christ \"subsists in\" the Catholic Church while elements of sanctification exist outside it; affirmed episcopal collegiality and the universal call to holiness.",
+      "fullTextUrl": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html",
+      "doctrineIds": [
+        "church-sacraments",
+        "modern-movements",
+        "mary-saints"
+      ],
+      "sources": [
+        "vatican-ii-documents"
+      ]
+    },
+    {
+      "id": "ordinatio-sacerdotalis",
+      "title": "Ordinatio Sacerdotalis",
+      "authorId": "john-paul-ii",
+      "year": 1994,
+      "circa": false,
+      "language": "Latin",
+      "genre": "letter",
+      "summary": "Apostolic letter of John Paul II on reserving priestly ordination to men.",
+      "significance": "Declared that the Church has no authority to ordain women priests and that this judgement is to be definitively held.",
+      "fullTextUrl": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1994/documents/hf_jp-ii_apl_19940522_ordinatio-sacerdotalis.html",
+      "doctrineIds": [
+        "church-sacraments"
+      ],
+      "sources": [
+        "ccc-1997"
+      ]
+    },
+    {
+      "id": "palmer-promise-of-the-father",
+      "title": "The Promise of the Father",
+      "authorId": "phoebe-palmer",
+      "year": 1859,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "Phoebe Palmer’s defence of women’s public speaking and ministry from Joel 2 and Acts 2.",
+      "significance": "Foundational for women’s ministry in the Holiness and Pentecostal movements.",
+      "doctrineIds": [
+        "church-sacraments",
+        "holy-spirit"
+      ],
+      "sources": [
+        "synan-holiness-pentecostal"
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "id": "clement-strife-episcopate",
+      "text": "Our apostles also knew, through our Lord Jesus Christ, that there would be strife on account of the office of the episcopate.",
+      "kind": "quotation",
+      "personId": "clement-of-rome",
+      "citation": "1 Clement 44.1 (ANF vol. 1)",
+      "workId": "clement-1-clement",
+      "year": 96,
+      "topics": [
+        "apostolic succession",
+        "ministry"
+      ],
+      "doctrineIds": [
+        "church-sacraments"
+      ]
+    },
+    {
+      "id": "ignatius-follow-the-bishop",
+      "text": "See that ye all follow the bishop, even as Jesus Christ does the Father, and the presbytery as ye would the apostles ... Wherever the bishop shall appear, there let the multitude of the people also be; even as, wherever Jesus Christ is, there is the Catholic Church.",
+      "kind": "quotation",
+      "personId": "ignatius-of-antioch",
+      "citation": "Ignatius of Antioch, Letter to the Smyrnaeans 8 (ANF vol. 1)",
+      "workId": "ignatius-to-the-smyrnaeans",
+      "year": 107,
+      "topics": [
+        "episcopacy",
+        "catholic church",
+        "polity"
+      ],
+      "doctrineIds": [
+        "church-sacraments"
+      ]
+    },
+    {
+      "id": "ignatius-eucharist-flesh",
+      "text": "They abstain from the Eucharist and from prayer, because they confess not the Eucharist to be the flesh of our Saviour Jesus Christ, which suffered for our sins, and which the Father, of His goodness, raised up again.",
+      "kind": "quotation",
+      "personId": "ignatius-of-antioch",
+      "citation": "Ignatius of Antioch, Letter to the Smyrnaeans 7 (ANF vol. 1), on Docetists",
+      "workId": "ignatius-to-the-smyrnaeans",
+      "year": 107,
+      "topics": [
+        "eucharist",
+        "real presence",
+        "docetism"
+      ],
+      "doctrineIds": [
+        "church-sacraments",
+        "christology"
+      ]
+    },
+    {
+      "id": "justin-not-common-bread",
+      "text": "For not as common bread and common drink do we receive these; but in like manner as Jesus Christ our Saviour, having been made flesh by the Word of God, had both flesh and blood for our salvation, so likewise have we been taught that the food which is blessed by the prayer of His word, and from which our blood and flesh by transmutation are nourished, is the flesh and blood of that Jesus who was made flesh.",
+      "kind": "quotation",
+      "personId": "justin-martyr",
+      "citation": "Justin Martyr, First Apology 66 (ANF vol. 1)",
+      "workId": "justin-first-apology",
+      "year": 155,
+      "topics": [
+        "eucharist",
+        "real presence"
+      ],
+      "doctrineIds": [
+        "church-sacraments"
+      ]
+    },
+    {
+      "id": "irenaeus-succession-of-bishops",
+      "text": "It is within the power of all, therefore, in every Church, who may wish to see the truth, to contemplate clearly the tradition of the apostles manifested throughout the whole world; and we are in a position to reckon up those who were by the apostles instituted bishops in the Churches, and to demonstrate the succession of these men to our own times.",
+      "kind": "quotation",
+      "personId": "irenaeus",
+      "citation": "Irenaeus, Against Heresies 3.3.1 (ANF vol. 1)",
+      "workId": "irenaeus-against-heresies",
+      "year": 180,
+      "topics": [
+        "apostolic succession",
+        "tradition"
+      ],
+      "doctrineIds": [
+        "church-sacraments",
+        "scripture-authority"
+      ]
+    },
+    {
+      "id": "cyprian-church-mother",
+      "text": "He can no longer have God for his Father, who has not the Church for his mother.",
+      "kind": "quotation",
+      "personId": "cyprian",
+      "citation": "Cyprian, On the Unity of the Church 6 (ANF vol. 5)",
+      "workId": "cyprian-unity-of-the-church",
+      "year": 251,
+      "topics": [
+        "church",
+        "unity",
+        "schism"
+      ],
+      "doctrineIds": [
+        "church-sacraments"
+      ]
+    },
+    {
+      "id": "cyril-jerusalem-seeming-bread",
+      "text": "Cyril tells the newly baptised that what appears to be bread is not bread, though it tastes like bread, but the Body of Christ, and what appears to be wine is not wine but the Blood of Christ; they should not judge by taste but be fully assured by faith.",
+      "kind": "paraphrase",
+      "personId": "cyril-of-jerusalem",
+      "citation": "Paraphrase of Cyril of Jerusalem (attr.), Mystagogical Catecheses 4.9 (c.350–390)",
+      "year": 350,
+      "topics": [
+        "eucharist",
+        "real presence",
+        "change"
+      ],
+      "doctrineIds": [
+        "church-sacraments"
+      ]
+    },
+    {
+      "id": "augustine-visible-word",
+      "text": "The word is added to the element, and there results the Sacrament, as if itself also a kind of visible word.",
+      "kind": "quotation",
+      "personId": "augustine-of-hippo",
+      "citation": "Augustine, Tractates on the Gospel of John 80.3 (NPNF 1st ser. vol. 7)",
+      "workId": "augustine-tractates-on-john",
+      "year": 416,
+      "topics": [
+        "sacrament",
+        "definition"
+      ],
+      "doctrineIds": [
+        "church-sacraments",
+        "baptism"
+      ]
+    },
+    {
+      "id": "augustine-he-that-baptizeth",
+      "text": "Peter may baptize, but this is He that baptizeth; Paul may baptize, yet this is He that baptizeth; Judas may baptize, still this is He that baptizeth.",
+      "kind": "quotation",
+      "personId": "augustine-of-hippo",
+      "citation": "Augustine, Tractates on the Gospel of John 6.7 (NPNF 1st ser. vol. 7)",
+      "workId": "augustine-tractates-on-john",
+      "year": 416,
+      "topics": [
+        "donatism",
+        "validity",
+        "minister"
+      ],
+      "doctrineIds": [
+        "church-sacraments",
+        "baptism"
+      ]
+    },
+    {
+      "id": "john-damascus-not-figures",
+      "text": "The bread and the wine are not merely figures of the body and blood of Christ (God forbid!) but the deified body of the Lord itself.",
+      "kind": "quotation",
+      "personId": "john-of-damascus",
+      "citation": "John of Damascus, An Exact Exposition of the Orthodox Faith 4.13 (NPNF 2nd ser. vol. 9)",
+      "workId": "john-damascus-exact-exposition",
+      "year": 743,
+      "topics": [
+        "eucharist",
+        "real presence",
+        "orthodoxy"
+      ],
+      "doctrineIds": [
+        "church-sacraments"
+      ]
+    },
+    {
+      "id": "luther-small-catechism-altar",
+      "text": "It is the true body and blood of our Lord Jesus Christ, under the bread and wine, for us Christians to eat and to drink, instituted by Christ Himself.",
+      "kind": "quotation",
+      "personId": "martin-luther",
+      "citation": "Luther, Small Catechism (1529), The Sacrament of the Altar, answer to \"What is the Sacrament of the Altar?\" (tr. Triglot Concordia)",
+      "workId": "luther-small-catechism",
+      "year": 1529,
+      "topics": [
+        "eucharist",
+        "real presence",
+        "lutheranism"
+      ],
+      "doctrineIds": [
+        "church-sacraments"
+      ]
+    },
+    {
+      "id": "luther-hoc-est-corpus",
+      "text": "Hoc est corpus meum",
+      "kind": "quotation",
+      "personId": "martin-luther",
+      "citation": "Words Luther chalked on the table at the Marburg Colloquy, October 1529, as reported by participants",
+      "translation": "This is my body",
+      "year": 1529,
+      "topics": [
+        "marburg",
+        "real presence"
+      ],
+      "doctrineIds": [
+        "church-sacraments"
+      ]
+    },
+    {
+      "id": "zwingli-is-signifies",
+      "text": "Zwingli argued that in \"this is my body\" the word \"is\" must be taken as \"signifies\", as in \"I am the vine\"; since \"the flesh profiteth nothing\" (John 6:63) and Christ’s body is at the right hand of God, the Supper is a thankful remembrance in which the believing community confesses its faith.",
+      "kind": "paraphrase",
+      "personId": "huldrych-zwingli",
+      "citation": "Paraphrase of Huldrych Zwingli, Commentary on True and False Religion (1525), \"On the Eucharist\"",
+      "workId": "zwingli-true-and-false-religion",
+      "year": 1525,
+      "topics": [
+        "memorial",
+        "eucharist",
+        "zwinglianism"
+      ],
+      "doctrineIds": [
+        "church-sacraments"
+      ]
+    },
+    {
+      "id": "marburg-article-15",
+      "text": "The fifteenth Marburg Article records agreement that the Supper should be received in both kinds, that it is a sacrament of the true body and blood of Christ, and that spiritual partaking of that body and blood is necessary; but the parties \"have not at this time agreed\" whether the true body and blood are bodily present in the bread and wine, and each should show the other Christian love as far as conscience allows.",
+      "kind": "paraphrase",
+      "personId": "martin-luther",
+      "citation": "Paraphrase of the Marburg Articles (4 October 1529), Article 15",
+      "workId": "marburg-articles",
+      "year": 1529,
+      "topics": [
+        "marburg",
+        "eucharist",
+        "ecumenism"
+      ],
+      "doctrineIds": [
+        "church-sacraments"
+      ]
+    },
+    {
+      "id": "calvin-spirit-unites",
+      "text": "What our mind does not comprehend, let faith conceive, viz., that the Spirit truly unites things separated by space.",
+      "kind": "quotation",
+      "personId": "john-calvin",
+      "citation": "Calvin, Institutes 4.17.10 (tr. Beveridge, 1845)",
+      "workId": "calvin-institutes",
+      "year": 1559,
+      "topics": [
+        "eucharist",
+        "spiritual presence",
+        "holy spirit"
+      ],
+      "doctrineIds": [
+        "church-sacraments"
+      ]
+    },
+    {
+      "id": "articles-two-sacraments",
+      "text": "There are two Sacraments ordained of Christ our Lord in the Gospel, that is to say, Baptism, and the Supper of the Lord. Those five commonly called Sacraments, that is to say, Confirmation, Penance, Orders, Matrimony, and extreme Unction, are not to be counted for Sacraments of the Gospel.",
+      "kind": "quotation",
+      "personId": "thomas-cranmer",
+      "citation": "Articles of Religion (1563/1571), Article XXV, revised from Cranmer’s Forty-Two Articles (1553)",
+      "workId": "thirty-nine-articles",
+      "year": 1563,
+      "topics": [
+        "two sacraments",
+        "anglicanism"
+      ],
+      "doctrineIds": [
+        "church-sacraments"
+      ]
+    },
+    {
+      "id": "articles-heavenly-spiritual-manner",
+      "text": "The Body of Christ is given, taken, and eaten, in the Supper, only after an heavenly and spiritual manner. And the mean whereby the Body of Christ is received and eaten in the Supper is Faith.",
+      "kind": "quotation",
+      "personId": "thomas-cranmer",
+      "citation": "Articles of Religion (1563/1571), Article XXVIII",
+      "workId": "thirty-nine-articles",
+      "year": 1563,
+      "topics": [
+        "eucharist",
+        "spiritual presence",
+        "anglicanism"
+      ],
+      "doctrineIds": [
+        "church-sacraments"
+      ]
+    },
+    {
+      "id": "palmer-promise-father-para",
+      "text": "Palmer argued that the outpouring of the Spirit at Pentecost fulfilled Joel’s promise that \"your sons and your daughters shall prophesy\", so that silencing Spirit-filled women is to quench the Spirit and hinder the Church’s witness.",
+      "kind": "paraphrase",
+      "personId": "phoebe-palmer",
+      "citation": "Paraphrase of Phoebe Palmer, The Promise of the Father (Boston, 1859)",
+      "workId": "palmer-promise-of-the-father",
+      "year": 1859,
+      "topics": [
+        "women in ministry",
+        "holiness movement"
+      ],
+      "doctrineIds": [
+        "church-sacraments",
+        "holy-spirit"
+      ]
+    },
+    {
+      "id": "lumen-gentium-subsists",
+      "text": "Vatican II taught that the one Church of Christ confessed in the Creed \"subsists in\" the Catholic Church governed by the successor of Peter and the bishops in communion with him, while many elements of sanctification and truth are found outside its visible structure, which as gifts belonging to Christ’s Church impel towards unity.",
+      "kind": "paraphrase",
+      "personId": "paul-vi",
+      "citation": "Paraphrase of Lumen Gentium 8 (21 November 1964)",
+      "workId": "lumen-gentium",
+      "year": 1964,
+      "topics": [
+        "ecclesiology",
+        "ecumenism"
+      ],
+      "doctrineIds": [
+        "church-sacraments",
+        "modern-movements"
+      ]
+    },
+    {
+      "id": "ordinatio-sacerdotalis-para",
+      "text": "John Paul II declared that the Church has no authority whatsoever to confer priestly ordination on women, and that this judgement is to be definitively held by all the faithful, appealing to Christ’s choice of twelve men and the Church’s constant tradition.",
+      "kind": "paraphrase",
+      "personId": "john-paul-ii",
+      "citation": "Paraphrase of John Paul II, Ordinatio Sacerdotalis 4 (22 May 1994)",
+      "workId": "ordinatio-sacerdotalis",
+      "year": 1994,
+      "topics": [
+        "ordination",
+        "women"
+      ],
+      "doctrineIds": [
+        "church-sacraments"
+      ]
+    }
+  ]
+}

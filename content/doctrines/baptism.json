@@ -1,0 +1,2654 @@
+{
+  "doctrines": [
+    {
+      "id": "baptism",
+      "name": "Baptism",
+      "icon": "water",
+      "order": 7,
+      "question": "Who should be baptised, how, in whose name — and what does baptism actually do?",
+      "summary": "Christians agree that Christ commanded baptism, but divide over infants or believers only, immersion or pouring, sacramental regeneration or symbolic testimony, the baptismal formula, and whether baptism in the Holy Spirit is a second experience after conversion.",
+      "longText": "Baptism is the one rite that almost every Christian body shares, and most churches recognise each other’s baptisms in the name of the Father, Son and Holy Spirit. The earliest evidence — the Didache, Justin Martyr, Tertullian, Hippolytus’ Apostolic Tradition and the third-century baptistery at Dura-Europos — shows a rite of catechesis, renunciation, immersion (or, where needed, pouring) in the triune name, anointing and first communion, understood as new birth, illumination and the forgiveness of sins.\n\nInfant baptism appears by about 200: Tertullian counsels delay, Origen calls it apostolic, and Cyprian’s council (c.253) refuses to make infants wait. Augustine’s use of infant baptism against Pelagius tied it to original sin, and by the early Middle Ages infant baptism was universal in East and West. The East kept triple immersion with chrismation and infant communion; the West gradually adopted pouring and sprinkling and separated confirmation.\n\nThe Reformation reopened everything. Luther kept infant baptism as God’s regenerating Word in water; Zwingli, Bullinger and Calvin reinterpreted it as the sign and seal of the covenant of grace, parallel to circumcision. The Swiss Brethren drew the opposite conclusion: on 21 January 1525 in Zurich they baptised believers, and the Anabaptist movement — defined at Schleitheim (1527) and later by Menno Simons — was savagely persecuted by Catholics and Protestants alike. English Separatists in Amsterdam (Smyth, 1609) founded the Baptist tradition, which later insisted on immersion. Quakers abandoned outward baptism altogether.\n\nIn 19th-century America the Stone-Campbell movement taught immersion \"for the remission of sins\"; the Holiness movement spoke of a \"baptism of the Holy Ghost\" after conversion, which Pentecostals (Topeka 1901, Azusa Street 1906) linked with speaking in tongues; and the 1913-16 \"New Issue\" produced Oneness Pentecostals who baptise \"in Jesus’ name\" and reject the Trinity. In the 20th century scholars such as James Dunn argued that Spirit-baptism belongs to conversion itself, and the WCC’s Baptism, Eucharist and Ministry (1982) charted a remarkable ecumenical convergence while leaving the infant/believer divide unresolved.",
+      "flow": {
+        "nodes": [
+          {
+            "id": "q-baptism",
+            "kind": "question",
+            "label": "What is baptism, who should receive it, how, and what does it do?",
+            "text": "All major Christian traditions baptise in water (Quakers and the Salvation Army are notable exceptions), and most recognise one another’s Trinitarian baptisms. They disagree on the subjects (infants or believers), the mode (immersion, pouring, sprinkling), the effect (regeneration, sign and seal, or public testimony), the formula, and how \"baptism in the Holy Spirit\" relates to water baptism.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-commission",
+            "kind": "scripture",
+            "label": "Matthew 28:19; Mark 16:16 — the Great Commission",
+            "year": 80,
+            "text": "\"Baptizing them in the name of the Father, and of the Son, and of the Holy Ghost\"; \"He that believeth and is baptized shall be saved.\" The Trinitarian formula and the faith-baptism sequence.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-acts-2-38",
+            "kind": "scripture",
+            "label": "Acts 2:38-41; 22:16 — for the remission of sins",
+            "year": 85,
+            "text": "\"Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost … For the promise is unto you, and to your children.\" Key for regeneration, Restorationist, Oneness and paedobaptist arguments alike.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-households",
+            "kind": "scripture",
+            "label": "Acts 16:15, 33; 1 Corinthians 1:16; 7:14 — household baptisms",
+            "year": 85,
+            "text": "Lydia \"and her household\", the jailer \"and all his\"; children of a believer are \"holy\". Paedobaptists read households as including infants; credobaptists note no infant is mentioned.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-romans-6",
+            "kind": "scripture",
+            "label": "Romans 6:3-4; Colossians 2:11-12 — buried with him",
+            "year": 57,
+            "text": "\"Buried with him by baptism into death\"; \"circumcised with the circumcision made without hands … buried with him in baptism.\" The basis for immersion symbolism and for the covenant-circumcision analogy.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-new-birth",
+            "kind": "scripture",
+            "label": "John 3:5; Titus 3:5; 1 Peter 3:21 — water, Spirit and new birth",
+            "year": 90,
+            "text": "\"Born of water and of the Spirit\"; \"the washing of regeneration\"; \"baptism doth also now save us … the answer of a good conscience toward God.\" Central to baptismal regeneration and to its critics.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-spirit",
+            "kind": "scripture",
+            "label": "Acts 1:5; 8:14-17; 10:44-48; 19:1-7; 1 Corinthians 12:13",
+            "year": 85,
+            "text": "Samaritans baptised but receiving the Spirit later; Cornelius receiving the Spirit before water; \"by one Spirit are we all baptized into one body\". The texts of the subsequence debate.",
+            "quoteIds": []
+          },
+          {
+            "id": "v-didache",
+            "kind": "voice",
+            "label": "Didache: living water, or pour thrice",
+            "year": 100,
+            "text": "The early church manual directs baptism \"into the name of the Father, and of the Son, and of the Holy Spirit, in living water\", permitting other water and, if necessary, pouring water three times on the head; baptiser and candidate fast beforehand.",
+            "quoteIds": []
+          },
+          {
+            "id": "v-justin",
+            "kind": "voice",
+            "label": "Justin Martyr: washing and illumination",
+            "year": 155,
+            "text": "Believers who have been taught, pray and fast are \"regenerated\" in water in the triune name.",
+            "ref": {
+              "type": "work",
+              "id": "justin-first-apology"
+            },
+            "quoteIds": [
+              "justin-regenerated-in-water"
+            ]
+          },
+          {
+            "id": "v-tertullian",
+            "kind": "voice",
+            "label": "Tertullian: little fishes — and delay for children",
+            "year": 203,
+            "text": "The first treatise on baptism defends its necessity but counsels delay for little children and the unmarried — the first evidence that infants were being baptised.",
+            "ref": {
+              "type": "work",
+              "id": "tertullian-on-baptism"
+            },
+            "quoteIds": [
+              "tertullian-little-fishes",
+              "tertullian-delay-baptism"
+            ]
+          },
+          {
+            "id": "v-origen-cyprian",
+            "kind": "voice",
+            "label": "Origen and Cyprian: infant baptism as apostolic tradition",
+            "year": 253,
+            "text": "Origen calls infant baptism a tradition from the apostles; Cyprian’s African council (c.253) rules that newborns need not wait until the eighth day.",
+            "ref": {
+              "type": "person",
+              "id": "cyprian"
+            },
+            "quoteIds": [
+              "origen-infant-tradition",
+              "cyprian-to-fidus"
+            ]
+          },
+          {
+            "id": "v-cyril",
+            "kind": "voice",
+            "label": "Cyril of Jerusalem: your grave and your mother",
+            "year": 350,
+            "text": "Easter mystagogy describes renunciation, triple immersion and anointing: the font as tomb and womb.",
+            "ref": {
+              "type": "work",
+              "id": "cyril-mystagogical-catecheses"
+            },
+            "quoteIds": [
+              "cyril-grave-and-mother"
+            ]
+          },
+          {
+            "id": "d-one-baptism",
+            "kind": "decision",
+            "label": "Creed of Constantinople (381): \"one baptism for the remission of sins\"",
+            "year": 381,
+            "text": "The Niceno-Constantinopolitan Creed confesses one, unrepeatable baptism; the Donatist and rebaptism controversies settle that Trinitarian baptism by heretics or schismatics is not repeated.",
+            "ref": {
+              "type": "event",
+              "id": "council-of-constantinople-381"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-sacramental-paedo",
+            "kind": "position",
+            "label": "Sacramental infant baptism",
+            "year": 412,
+            "text": "Infants are baptised for the remission of (original) sin and regenerated; East and West baptise infants, the East with chrismation and communion.",
+            "ref": {
+              "type": "position",
+              "id": "paedobaptism-sacramental"
+            },
+            "quoteIds": [
+              "augustine-infant-baptism-sin"
+            ]
+          },
+          {
+            "id": "p-regeneration",
+            "kind": "position",
+            "label": "Baptismal regeneration",
+            "year": 1529,
+            "text": "God gives new birth and forgiveness through the water joined to the Word: Catholic, Orthodox, Lutheran and (for believers) Restorationist teaching.",
+            "ref": {
+              "type": "position",
+              "id": "baptismal-regeneration"
+            },
+            "quoteIds": [
+              "luther-baptism-gives",
+              "luther-not-the-water"
+            ]
+          },
+          {
+            "id": "p-mode",
+            "kind": "position",
+            "label": "Mode: immersion, pouring or sprinkling",
+            "year": 1000,
+            "text": "The East keeps triple immersion; the medieval West moves toward affusion (pouring) and aspersion (sprinkling); Baptists later insist on immersion as of the essence.",
+            "ref": {
+              "type": "position",
+              "id": "mode-immersion"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "a-circumcision",
+            "kind": "argument",
+            "label": "Covenant argument: baptism replaces circumcision",
+            "year": 1525,
+            "text": "Zwingli and Bullinger argue that, as Israel’s infants received circumcision, the children of believers receive baptism as the sign of the one covenant of grace (Col 2:11-12; Acts 2:39).",
+            "ref": {
+              "type": "person",
+              "id": "huldrych-zwingli"
+            },
+            "quoteIds": [
+              "zwingli-baptism-pledge"
+            ]
+          },
+          {
+            "id": "a-no-command",
+            "kind": "argument",
+            "label": "Believers’ argument: faith before baptism",
+            "year": 1525,
+            "text": "Hubmaier and the Swiss Brethren reply that Christ commanded teaching, faith, then baptism; no infant baptism appears in the New Testament; and baptism is the pledge of a good conscience (1 Pet 3:21).",
+            "ref": {
+              "type": "person",
+              "id": "balthasar-hubmaier"
+            },
+            "quoteIds": [
+              "hubmaier-order-of-christ"
+            ]
+          },
+          {
+            "id": "d-zurich",
+            "kind": "decision",
+            "label": "First adult baptisms in Zurich (21 January 1525)",
+            "year": 1525,
+            "text": "After the Zurich council orders infants baptised, Conrad Grebel baptises George Blaurock in Felix Manz’s house; the Anabaptist movement begins.",
+            "ref": {
+              "type": "event",
+              "id": "first-adult-baptisms-zurich-1525"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-covenantal-paedo",
+            "kind": "position",
+            "label": "Covenantal infant baptism (Reformed)",
+            "year": 1559,
+            "text": "Baptism is the sign and seal of the covenant of grace given to believers and their children; its efficacy is tied to God’s promise and the Spirit’s timing.",
+            "ref": {
+              "type": "position",
+              "id": "paedobaptism-covenantal"
+            },
+            "quoteIds": [
+              "calvin-initiatory-sign"
+            ]
+          },
+          {
+            "id": "p-anabaptist",
+            "kind": "position",
+            "label": "Anabaptist covenant baptism",
+            "year": 1527,
+            "text": "Baptism upon confession, as entry into a disciplined, separated community.",
+            "ref": {
+              "type": "position",
+              "id": "anabaptist-baptism"
+            },
+            "quoteIds": [
+              "schleitheim-article-one",
+              "menno-baptism-obedience"
+            ]
+          },
+          {
+            "id": "d-schleitheim",
+            "kind": "decision",
+            "label": "Schleitheim Confession (1527)",
+            "year": 1527,
+            "text": "Swiss Brethren agree seven articles, beginning with believers’ baptism.",
+            "ref": {
+              "type": "event",
+              "id": "schleitheim-confession-1527"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "c-persecution",
+            "kind": "consequence",
+            "label": "Persecution of the Anabaptists",
+            "year": 1527,
+            "text": "Felix Manz is drowned in the Limmat (5 January 1527), Michael Sattler burned (May 1527); Catholic and Protestant authorities execute thousands under imperial law (Speyer, 1529); the Münster debacle (1534-35) hardens hostility.",
+            "ref": {
+              "type": "event",
+              "id": "munster-rebellion-1534"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "d-trent-vii",
+            "kind": "decision",
+            "label": "Trent, Session VII (1547): canons on baptism",
+            "year": 1547,
+            "text": "Trent anathematises denial of infant baptism, rebaptism of those baptised as infants, and the view that baptism is not necessary for salvation.",
+            "ref": {
+              "type": "event",
+              "id": "council-of-trent-1545"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-believers",
+            "kind": "position",
+            "label": "Believers’ baptism (Baptists)",
+            "year": 1609,
+            "text": "John Smyth (1609) and Thomas Helwys (1612) found Baptist churches; Particular Baptists adopt immersion (c.1641).",
+            "ref": {
+              "type": "position",
+              "id": "believers-baptism"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "c-baptists",
+            "kind": "consequence",
+            "label": "Baptist and believers’-church growth",
+            "year": 1792,
+            "text": "Believers’ baptism spreads with Baptist missions (William Carey, 1792) and later with Pentecostal and many evangelical and independent churches worldwide.",
+            "ref": {
+              "type": "event",
+              "id": "baptist-missionary-society-1792"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-quaker",
+            "kind": "position",
+            "label": "Quaker inward baptism",
+            "year": 1676,
+            "text": "Friends hold that the one baptism is the inward baptism of the Spirit and practise no outward rite (Barclay, Apology, 1676).",
+            "ref": {
+              "type": "position",
+              "id": "quaker-inward-baptism"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-stone-campbell",
+            "kind": "position",
+            "label": "Stone-Campbell: immersion for the remission of sins",
+            "year": 1835,
+            "text": "Believers are immersed \"for the remission of sins\"; baptism is the point of pardon.",
+            "ref": {
+              "type": "position",
+              "id": "stone-campbell-baptism-remission"
+            },
+            "quoteIds": [
+              "campbell-remission"
+            ]
+          },
+          {
+            "id": "p-second-blessing",
+            "kind": "position",
+            "label": "Spirit baptism as a subsequent experience",
+            "year": 1906,
+            "text": "Holiness and Pentecostal teaching: after conversion, believers should seek baptism in the Spirit for power, evidenced (for classical Pentecostals) by tongues.",
+            "ref": {
+              "type": "position",
+              "id": "spirit-baptism-second-blessing"
+            },
+            "quoteIds": [
+              "seymour-spirit-on-sanctified"
+            ]
+          },
+          {
+            "id": "p-oneness",
+            "kind": "position",
+            "label": "Oneness: baptism in Jesus’ name",
+            "year": 1914,
+            "text": "From the 1913 Arroyo Seco camp meeting, some Pentecostals re-baptise \"in the name of Jesus\" and adopt a non-Trinitarian Oneness doctrine of God.",
+            "ref": {
+              "type": "position",
+              "id": "oneness-jesus-name-baptism"
+            },
+            "quoteIds": [
+              "ewart-jesus-name"
+            ]
+          },
+          {
+            "id": "d-aog-1916",
+            "kind": "decision",
+            "label": "Assemblies of God General Council (1916)",
+            "year": 1916,
+            "text": "The AoG adopts a Trinitarian Statement of Fundamental Truths; about a quarter of its ministers leave to form Oneness bodies (later the United Pentecostal Church, 1945).",
+            "ref": {
+              "type": "tradition",
+              "id": "oneness-pentecostal"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-spirit-conversion",
+            "kind": "position",
+            "label": "Spirit baptism at conversion",
+            "year": 1970,
+            "text": "Reformed, Baptist and many evangelical scholars hold that every believer is baptised in the Spirit at conversion; subsequent experiences are fillings.",
+            "ref": {
+              "type": "position",
+              "id": "spirit-baptism-at-conversion"
+            },
+            "quoteIds": [
+              "dunn-conversion-initiation"
+            ]
+          },
+          {
+            "id": "m-bem",
+            "kind": "modern",
+            "label": "Baptism, Eucharist and Ministry (Lima, 1982)",
+            "year": 1982,
+            "text": "The WCC Faith and Order text records convergence: baptism as participation in Christ’s death and resurrection, unrepeatable, with infant and believers’ baptism both seen as legitimate expressions within a lifelong process; calls for mutual recognition. Many churches now issue mutual recognition agreements (e.g. Germany, Magdeburg 2007).",
+            "quoteIds": []
+          },
+          {
+            "id": "m-today",
+            "kind": "modern",
+            "label": "Where things stand today",
+            "year": 2026,
+            "text": "Most of the world’s Christians (Catholic, Orthodox, Oriental, Lutheran, Anglican, Reformed, Methodist) baptise infants; Baptists, Pentecostals, most independent and Global South evangelical churches baptise believers, usually by immersion; Pentecostal-charismatic Spirit-baptism experience is shared by hundreds of millions; Oneness Pentecostals (outside Nicene orthodoxy) baptise in Jesus’ name.",
+            "quoteIds": []
+          }
+        ],
+        "edges": [
+          {
+            "from": "q-baptism",
+            "to": "s-commission",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q-baptism",
+            "to": "s-acts-2-38",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q-baptism",
+            "to": "s-households",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q-baptism",
+            "to": "s-romans-6",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q-baptism",
+            "to": "s-new-birth",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q-baptism",
+            "to": "s-spirit",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-commission",
+            "to": "v-didache",
+            "kind": "supports"
+          },
+          {
+            "from": "s-commission",
+            "to": "v-justin",
+            "kind": "supports"
+          },
+          {
+            "from": "s-new-birth",
+            "to": "v-justin",
+            "kind": "supports"
+          },
+          {
+            "from": "v-didache",
+            "to": "v-justin",
+            "kind": "develops"
+          },
+          {
+            "from": "v-justin",
+            "to": "v-tertullian",
+            "kind": "develops"
+          },
+          {
+            "from": "s-households",
+            "to": "v-origen-cyprian",
+            "kind": "supports"
+          },
+          {
+            "from": "v-tertullian",
+            "to": "v-origen-cyprian",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-romans-6",
+            "to": "v-cyril",
+            "kind": "supports"
+          },
+          {
+            "from": "v-justin",
+            "to": "v-cyril",
+            "kind": "develops"
+          },
+          {
+            "from": "v-cyril",
+            "to": "d-one-baptism",
+            "kind": "leads-to"
+          },
+          {
+            "from": "v-origen-cyprian",
+            "to": "d-one-baptism",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-one-baptism",
+            "to": "p-sacramental-paedo",
+            "kind": "develops"
+          },
+          {
+            "from": "v-origen-cyprian",
+            "to": "p-sacramental-paedo",
+            "kind": "supports"
+          },
+          {
+            "from": "s-new-birth",
+            "to": "p-regeneration",
+            "kind": "supports"
+          },
+          {
+            "from": "p-sacramental-paedo",
+            "to": "p-regeneration",
+            "kind": "develops"
+          },
+          {
+            "from": "v-didache",
+            "to": "p-mode",
+            "kind": "supports"
+          },
+          {
+            "from": "v-cyril",
+            "to": "p-mode",
+            "kind": "supports"
+          },
+          {
+            "from": "p-sacramental-paedo",
+            "to": "a-circumcision",
+            "kind": "develops"
+          },
+          {
+            "from": "s-households",
+            "to": "a-circumcision",
+            "kind": "supports"
+          },
+          {
+            "from": "s-romans-6",
+            "to": "a-circumcision",
+            "kind": "supports"
+          },
+          {
+            "from": "a-circumcision",
+            "to": "p-covenantal-paedo",
+            "kind": "supports"
+          },
+          {
+            "from": "a-no-command",
+            "to": "a-circumcision",
+            "kind": "objects"
+          },
+          {
+            "from": "s-commission",
+            "to": "a-no-command",
+            "kind": "supports"
+          },
+          {
+            "from": "a-no-command",
+            "to": "d-zurich",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-zurich",
+            "to": "p-anabaptist",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-anabaptist",
+            "to": "d-schleitheim",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-schleitheim",
+            "to": "c-persecution",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-regeneration",
+            "to": "d-trent-vii",
+            "kind": "develops"
+          },
+          {
+            "from": "d-trent-vii",
+            "to": "p-anabaptist",
+            "kind": "rejects"
+          },
+          {
+            "from": "p-anabaptist",
+            "to": "p-believers",
+            "kind": "develops"
+          },
+          {
+            "from": "s-romans-6",
+            "to": "p-believers",
+            "kind": "supports"
+          },
+          {
+            "from": "p-believers",
+            "to": "c-baptists",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-mode",
+            "to": "p-believers",
+            "kind": "develops"
+          },
+          {
+            "from": "s-spirit",
+            "to": "p-quaker",
+            "kind": "supports"
+          },
+          {
+            "from": "s-acts-2-38",
+            "to": "p-stone-campbell",
+            "kind": "supports"
+          },
+          {
+            "from": "p-believers",
+            "to": "p-stone-campbell",
+            "kind": "develops"
+          },
+          {
+            "from": "p-regeneration",
+            "to": "p-stone-campbell",
+            "kind": "develops"
+          },
+          {
+            "from": "s-spirit",
+            "to": "p-second-blessing",
+            "kind": "supports"
+          },
+          {
+            "from": "p-second-blessing",
+            "to": "p-oneness",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-acts-2-38",
+            "to": "p-oneness",
+            "kind": "supports"
+          },
+          {
+            "from": "p-oneness",
+            "to": "d-aog-1916",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-spirit-conversion",
+            "to": "p-second-blessing",
+            "kind": "objects"
+          },
+          {
+            "from": "s-spirit",
+            "to": "p-spirit-conversion",
+            "kind": "supports"
+          },
+          {
+            "from": "p-covenantal-paedo",
+            "to": "m-bem",
+            "kind": "leads-to"
+          },
+          {
+            "from": "c-baptists",
+            "to": "m-bem",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-trent-vii",
+            "to": "m-bem",
+            "kind": "leads-to"
+          },
+          {
+            "from": "m-bem",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-aog-1916",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-stone-campbell",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-spirit-conversion",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-quaker",
+            "to": "m-today",
+            "kind": "leads-to"
+          }
+        ]
+      },
+      "sources": [
+        "ferguson-baptism",
+        "williams-radical-reformation",
+        "odcc",
+        "bem-1982",
+        "dunn-baptism-spirit",
+        "reed-oneness"
+      ]
+    }
+  ],
+  "positions": [
+    {
+      "id": "paedobaptism-sacramental",
+      "doctrineId": "baptism",
+      "name": "Infant baptism (sacramental)",
+      "altNames": [
+        "paedobaptism",
+        "sacramental paedobaptism"
+      ],
+      "oneLine": "Infants are to be baptised because baptism is God’s gift of new birth, forgiveness of (original) sin and incorporation into Christ’s Church, received in the faith of the Church and of parents and godparents.",
+      "coreClaims": [
+        "Baptism truly effects what it signifies: regeneration, cleansing from original sin and adoption.",
+        "Grace precedes any human response, so infants are fitting recipients.",
+        "Infants are baptised in the faith of the Church, voiced by parents and godparents, to be personally professed later.",
+        "In the Eastern churches infants are baptised by triple immersion, chrismated and communicated at once."
+      ],
+      "keyTexts": [
+        "Mark 10:13-16",
+        "John 3:5",
+        "Acts 2:38-39",
+        "Acts 16:15, 33",
+        "Romans 5:12-19",
+        "Colossians 2:11-12"
+      ],
+      "origin": "Practised by c.200 (Tertullian, Origen, Hippolytus); defended by Cyprian (c.253) and Augustine (412) against Pelagius; universal in East and West by the early Middle Ages; retained by Lutherans and Anglicans.",
+      "originYear": 200,
+      "proponentIds": [
+        "augustine-of-hippo",
+        "cyprian",
+        "origen",
+        "martin-luther",
+        "thomas-aquinas",
+        "thomas-cranmer"
+      ],
+      "proponentsOther": [
+        "Hippolytus of Rome",
+        "Gregory of Nazianzus (counselled delay till about three unless danger)",
+        "Catechism of the Catholic Church 1250-1252"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-orthodox",
+        "oriental-orthodox",
+        "coptic-orthodox",
+        "ethiopian-orthodox-tewahedo",
+        "armenian-apostolic",
+        "syriac-orthodox",
+        "church-of-the-east",
+        "lutheran",
+        "anglican",
+        "eastern-catholic"
+      ],
+      "strongestArguments": [
+        "It expresses the priority of grace: God acts before we can respond.",
+        "It stands in unbroken practice from at least the late second century, attested as apostolic tradition by Origen.",
+        "Jesus welcomed children and the promise is \"to you and to your children\" (Acts 2:39)."
+      ],
+      "strongestObjections": [
+        "Believers’ baptists: the New Testament pattern is repentance and faith before baptism; no infant baptism is clearly recorded.",
+        "Tertullian already counselled delay, and many fourth-century saints (Basil, Gregory Nazianzen, Ambrose, Augustine, Chrysostom) were baptised as adults.",
+        "Mass infant baptism produced nominal Christendom."
+      ],
+      "responses": [
+        "Paedobaptists answer that household baptisms and the covenant pattern imply children; adult baptisms in the 4th century reflect delay, not denial.",
+        "They argue that faith is nurtured within the Church after baptism, completed in confirmation/chrismation and personal confession."
+      ],
+      "consequences": [
+        "Made baptism coextensive with membership in Christian society for over a millennium.",
+        "Defended against Anabaptists by both Trent and the magisterial Reformers."
+      ],
+      "relatedPositionIds": [
+        "paedobaptism-covenantal",
+        "baptismal-regeneration",
+        "believers-baptism",
+        "mode-immersion"
+      ],
+      "standing": "majority",
+      "sources": [
+        "ferguson-baptism",
+        "wright-baptism-history",
+        "catechism-catholic-church",
+        "ware-orthodox-church"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "paedobaptism-covenantal",
+      "doctrineId": "baptism",
+      "name": "Infant baptism (covenantal, Reformed)",
+      "altNames": [
+        "covenant baptism",
+        "federal paedobaptism"
+      ],
+      "oneLine": "The children of believers are members of the covenant of grace and should receive its sign and seal, as Israel’s sons received circumcision; baptism does not automatically regenerate but signifies and seals God’s promise, which the Spirit applies in his time.",
+      "coreClaims": [
+        "There is one covenant of grace in Old and New Testaments; baptism replaces circumcision as its sign (Col 2:11-12).",
+        "God’s promise is \"to you and to your children\" (Acts 2:39); children of a believer are \"holy\" (1 Cor 7:14).",
+        "The efficacy of baptism is not tied to the moment of administration but to God’s promise received by faith.",
+        "Baptised children are to be raised as members of the Church and called to personal faith."
+      ],
+      "keyTexts": [
+        "Genesis 17:7-14",
+        "Acts 2:39",
+        "Acts 16:15, 31-34",
+        "1 Corinthians 7:14",
+        "Colossians 2:11-12",
+        "Romans 4:11"
+      ],
+      "origin": "Formulated by Zwingli (Of Baptism, 1525) and Bullinger against the Anabaptists, developed by Calvin (Institutes IV.16, 1559), the Heidelberg Catechism (1563, Q. 74) and the Westminster Confession (1646, ch. 28).",
+      "originYear": 1525,
+      "proponentIds": [
+        "huldrych-zwingli",
+        "heinrich-bullinger",
+        "john-calvin",
+        "charles-hodge"
+      ],
+      "proponentsOther": [
+        "Zacharias Ursinus",
+        "Herman Bavinck",
+        "John Murray",
+        "Methodist and Congregational practice"
+      ],
+      "traditionIds": [
+        "reformed",
+        "presbyterian",
+        "congregationalist",
+        "methodist"
+      ],
+      "strongestArguments": [
+        "It reads the Bible as one covenant story in which households and children are included.",
+        "It honours the continuity of God’s dealings with families.",
+        "It avoids both sacramental automatism and individualism."
+      ],
+      "strongestObjections": [
+        "Baptists: the new covenant is made with those who know the Lord (Jer 31:34); its sign belongs to regenerate believers.",
+        "Circumcision was a sign of ethnic and national membership that the New Testament replaces with Spirit-wrought faith.",
+        "Sacramental paedobaptists: it weakens what baptism actually does."
+      ],
+      "responses": [
+        "Reformed paedobaptists answer that the new covenant community still contains a visible/invisible distinction (Heb 6; Rom 11).",
+        "They reply to sacramentalists that baptism is truly a means of grace, though grace is not bound to its moment (Westminster 28.6)."
+      ],
+      "consequences": [
+        "Shaped Reformed family religion, catechising and the debate over \"covenant children\".",
+        "Recast by Methodists within a Wesleyan framework of prevenient grace."
+      ],
+      "relatedPositionIds": [
+        "paedobaptism-sacramental",
+        "believers-baptism",
+        "mode-aspersion"
+      ],
+      "standing": "significant",
+      "sources": [
+        "jewett-infant-baptism",
+        "schaff-creeds",
+        "macculloch-reformation"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "believers-baptism",
+      "doctrineId": "baptism",
+      "name": "Believer’s baptism (credobaptism)",
+      "altNames": [
+        "credobaptism",
+        "believers’ church baptism",
+        "baptism as ordinance"
+      ],
+      "oneLine": "Baptism is for those who personally repent and confess faith in Christ; it is an ordinance of obedience and public testimony to union with Christ in his death and resurrection, normally by immersion.",
+      "coreClaims": [
+        "The New Testament order is hearing, believing, then being baptised (Acts 2:41; 8:12; 18:8).",
+        "The church is a fellowship of professing believers; baptism marks entry into it.",
+        "Baptism signifies, and some say seals, a salvation already received by faith; it does not regenerate.",
+        "Immersion best displays burial and resurrection with Christ."
+      ],
+      "keyTexts": [
+        "Matthew 28:19-20",
+        "Mark 16:16",
+        "Acts 2:41",
+        "Acts 8:12, 36-38",
+        "Romans 6:3-4",
+        "1 Peter 3:21"
+      ],
+      "origin": "Anticipated by the Anabaptists (1525); Baptist churches founded by John Smyth (Amsterdam, 1609) and Thomas Helwys (London, 1612); Particular Baptists (c.1638) adopted immersion c.1641 and confessed it in the London Confessions (1644, 1689).",
+      "originYear": 1609,
+      "proponentIds": [
+        "john-smyth",
+        "balthasar-hubmaier",
+        "menno-simons",
+        "charles-spurgeon",
+        "billy-graham",
+        "william-carey"
+      ],
+      "proponentsOther": [
+        "Thomas Helwys",
+        "Roger Williams",
+        "Karl Barth (critic of infant baptism, 1943)",
+        "G. R. Beasley-Murray"
+      ],
+      "traditionIds": [
+        "baptist",
+        "anabaptist",
+        "mennonite",
+        "pentecostal",
+        "assemblies-of-god",
+        "stone-campbell-restoration",
+        "seventh-day-adventist",
+        "evangelical",
+        "chinese-house-churches"
+      ],
+      "strongestArguments": [
+        "It follows the explicit pattern and commands of the New Testament.",
+        "It guards the church as a community of conscious disciples and resists nominal Christianity.",
+        "Even the paedobaptist Karl Barth judged infant baptism a \"wound\" in the church’s practice."
+      ],
+      "strongestObjections": [
+        "Paedobaptists: it severs the continuity of the covenant and excludes children from the visible people of God.",
+        "Sacramentalists: it turns God’s act into a human act of testimony.",
+        "Rebaptising those baptised as infants denies \"one baptism\"."
+      ],
+      "responses": [
+        "Credobaptists answer that the new covenant is a covenant of the Spirit, entered personally by faith.",
+        "They regard infant baptism as no baptism, so believers’ baptism is not a re-baptism."
+      ],
+      "consequences": [
+        "Generated the global Baptist family and is the practice of most Pentecostal and independent churches.",
+        "Linked historically with religious liberty and church-state separation."
+      ],
+      "relatedPositionIds": [
+        "paedobaptism-covenantal",
+        "paedobaptism-sacramental",
+        "anabaptist-baptism",
+        "mode-immersion",
+        "stone-campbell-baptism-remission"
+      ],
+      "standing": "significant",
+      "sources": [
+        "schreiner-wright-believers",
+        "bebbington-evangelicalism",
+        "williams-radical-reformation"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "baptismal-regeneration",
+      "doctrineId": "baptism",
+      "name": "Baptismal regeneration",
+      "altNames": [
+        "sacramental efficacy of baptism",
+        "bath of rebirth"
+      ],
+      "oneLine": "In baptism God himself, through the water joined to his Word and the Spirit, gives new birth, forgives sins and unites the baptised to Christ; baptism is normatively necessary for salvation.",
+      "coreClaims": [
+        "Scripture attributes salvation to baptism: \"born of water and the Spirit\", \"washing of regeneration\", \"baptism now saves you\".",
+        "Baptism is God’s work, not merely a human testimony.",
+        "Faith receives what baptism gives; in infants God creates faith or it is supplied by the Church.",
+        "Catholic and Orthodox teaching adds that baptism imprints an indelible character; God is not bound by the sacrament in extraordinary cases (baptism of blood and desire)."
+      ],
+      "keyTexts": [
+        "John 3:5",
+        "Acts 2:38",
+        "Acts 22:16",
+        "Romans 6:3-5",
+        "Galatians 3:27",
+        "Titus 3:5",
+        "1 Peter 3:21",
+        "Mark 16:16"
+      ],
+      "origin": "Universal patristic teaching (Justin, Tertullian, Cyril of Jerusalem, Augustine); defined by Florence (1439) and Trent (Session VII, 1547); confessed by Lutherans (Small Catechism, 1529); taught in a believers’-baptism form by the Stone-Campbell Churches of Christ.",
+      "originYear": 155,
+      "proponentIds": [
+        "justin-martyr",
+        "tertullian",
+        "cyril-of-jerusalem",
+        "augustine-of-hippo",
+        "martin-luther",
+        "alexander-campbell"
+      ],
+      "proponentsOther": [
+        "Basil of Caesarea",
+        "Council of Trent",
+        "Catechism of the Catholic Church 1213-1284"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-orthodox",
+        "oriental-orthodox",
+        "lutheran",
+        "anglican",
+        "stone-campbell-restoration"
+      ],
+      "strongestArguments": [
+        "It takes at face value the strongest New Testament statements about baptism.",
+        "It reflects the consensus of the early church.",
+        "It roots assurance in God’s objective promise: \"I am baptised\"."
+      ],
+      "strongestObjections": [
+        "Evangelical critics: it makes salvation depend on a rite rather than faith (Eph 2:8-9), and the thief on the cross was saved unbaptised.",
+        "Many baptised people show no sign of new life.",
+        "Reformed: it ties the Spirit’s freedom to the moment of administration."
+      ],
+      "responses": [
+        "Sacramentalists answer that baptism is the gospel promise in action, received by faith, not a work.",
+        "They note that God can save outside baptism, but has bound us to it; the baptised can fall away."
+      ],
+      "consequences": [
+        "Shapes liturgy, emergency baptism and pastoral practice (e.g. baptism of dying infants).",
+        "Divides Restorationist Churches of Christ from Baptists."
+      ],
+      "relatedPositionIds": [
+        "paedobaptism-sacramental",
+        "stone-campbell-baptism-remission",
+        "believers-baptism"
+      ],
+      "standing": "majority",
+      "sources": [
+        "ferguson-baptism",
+        "book-of-concord",
+        "catechism-catholic-church",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "mode-immersion",
+      "doctrineId": "baptism",
+      "name": "Mode: immersion",
+      "altNames": [
+        "submersion",
+        "dipping",
+        "trine immersion (Eastern form)"
+      ],
+      "oneLine": "Baptism should be (or is best) administered by immersing the whole body in water, enacting burial and resurrection with Christ; in Eastern churches by a threefold immersion in the name of each divine Person.",
+      "coreClaims": [
+        "Baptizō means to dip or plunge.",
+        "Romans 6:4 and Colossians 2:12 picture burial and rising.",
+        "New Testament baptisms took place \"in\" rivers with candidates coming \"up out of the water\".",
+        "Eastern practice: triple immersion, even of infants; many Baptists hold immersion essential to valid baptism."
+      ],
+      "keyTexts": [
+        "Mark 1:9-10",
+        "John 3:23",
+        "Acts 8:38-39",
+        "Romans 6:3-4",
+        "Colossians 2:12"
+      ],
+      "origin": "The early church’s normal practice (Didache, Hippolytus, Cyril of Jerusalem); preserved in Eastern and Oriental churches; restored in the West by Baptists (c.1641), Churches of Christ, Brethren (Dunkers, trine immersion), Pentecostals; permitted and encouraged in Catholic adult initiation since 1972.",
+      "originYear": 100,
+      "proponentIds": [
+        "cyril-of-jerusalem",
+        "john-smyth",
+        "alexander-campbell"
+      ],
+      "proponentsOther": [
+        "Eastern Orthodox churches",
+        "Church of the Brethren (trine immersion)",
+        "Particular Baptists"
+      ],
+      "traditionIds": [
+        "eastern-orthodox",
+        "oriental-orthodox",
+        "baptist",
+        "stone-campbell-restoration",
+        "pentecostal",
+        "seventh-day-adventist",
+        "ethiopian-orthodox-tewahedo"
+      ],
+      "strongestArguments": [
+        "It best fits the meaning of the word and the symbolism of death and resurrection.",
+        "It is attested as the norm in the early church in East and West.",
+        "Its dramatic symbolism aids teaching and memory."
+      ],
+      "strongestObjections": [
+        "Affusion and aspersion advocates: the Didache permitted pouring, and the meaning of baptism does not depend on quantity of water.",
+        "Some New Testament baptisms (the jailer at night, 3,000 at Pentecost) may not have allowed immersion.",
+        "Making mode essential divides Christians unnecessarily."
+      ],
+      "responses": [
+        "Immersionists answer that Jerusalem had many pools (mikvaot) and that the Didache’s exception proves the rule.",
+        "Many now hold immersion preferable without denying the validity of other modes."
+      ],
+      "consequences": [
+        "Baptistery and river-baptism traditions; Orthodox insistence on triple immersion affects recognition of Western baptisms in some cases."
+      ],
+      "relatedPositionIds": [
+        "mode-affusion",
+        "mode-aspersion",
+        "believers-baptism"
+      ],
+      "standing": "significant",
+      "sources": [
+        "ferguson-baptism",
+        "ware-orthodox-church",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "mode-affusion",
+      "doctrineId": "baptism",
+      "name": "Mode: affusion (pouring)",
+      "altNames": [
+        "pouring",
+        "infusion"
+      ],
+      "oneLine": "Baptism by pouring water over the head (often three times) is a valid and ancient mode, symbolising the outpouring of the Spirit and cleansing.",
+      "coreClaims": [
+        "The Didache explicitly permits pouring water three times when immersion is impractical.",
+        "Pouring signifies the Spirit \"poured out\" (Acts 2:17-18; Titus 3:5-6).",
+        "The essence of baptism is washing with water in the triune name, not the quantity of water.",
+        "Many Mennonites baptise adult believers by pouring."
+      ],
+      "keyTexts": [
+        "Joel 2:28",
+        "Acts 2:17-18, 33",
+        "Acts 10:44-48",
+        "Titus 3:5-6",
+        "Ezekiel 36:25"
+      ],
+      "origin": "Attested in the Didache (c.100) and early catacomb art showing water poured over a candidate standing in a font; became the normal Latin practice in the later Middle Ages and remains the most common Catholic mode.",
+      "originYear": 100,
+      "proponentIds": [
+        "menno-simons"
+      ],
+      "proponentsOther": [
+        "Catholic Western practice",
+        "Mennonite Church USA",
+        "Anglican and Lutheran practice"
+      ],
+      "traditionIds": [
+        "catholic",
+        "mennonite",
+        "anglican",
+        "lutheran",
+        "methodist"
+      ],
+      "strongestArguments": [
+        "It is explicitly authorised in the earliest church order outside the New Testament.",
+        "It ties baptism to the gift of the Spirit.",
+        "It is practical in all climates and for the sick."
+      ],
+      "strongestObjections": [
+        "Immersionists: it loses the burial-resurrection symbolism of Romans 6.",
+        "The Didache treats it as an exception, not the norm.",
+        "The Eastern churches regard it as irregular except in emergencies."
+      ],
+      "responses": [
+        "Defenders reply that Scripture uses many images of baptism (washing, pouring, clothing, sealing).",
+        "Early iconography often shows candidates standing in water with water poured over them — a combination of modes."
+      ],
+      "consequences": [
+        "Normal practice of Western Catholicism and many Protestant churches."
+      ],
+      "relatedPositionIds": [
+        "mode-immersion",
+        "mode-aspersion"
+      ],
+      "standing": "majority",
+      "sources": [
+        "ferguson-baptism",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "mode-aspersion",
+      "doctrineId": "baptism",
+      "name": "Mode: aspersion (sprinkling)",
+      "altNames": [
+        "sprinkling",
+        "clinical baptism (historic form)"
+      ],
+      "oneLine": "Baptism by sprinkling water is valid, recalling the sprinkling of purification and of the blood of the covenant.",
+      "coreClaims": [
+        "Old Testament purification by sprinkling foreshadows baptismal cleansing.",
+        "Hebrews speaks of hearts \"sprinkled\" and bodies \"washed\".",
+        "Validity rests on the Word and the triune name, not on the amount of water.",
+        "Historically used for the sick (\"clinical baptism\", as of Novatian c.250)."
+      ],
+      "keyTexts": [
+        "Ezekiel 36:25",
+        "Numbers 19:18-19",
+        "Hebrews 9:13-14, 19",
+        "Hebrews 10:22",
+        "1 Peter 1:2"
+      ],
+      "origin": "Clinical baptism of the sick is attested by c.250 (Cornelius on Novatian, in Eusebius HE 6.43), accepted with reservations by Cyprian; sprinkling became common in Reformed, Presbyterian and Methodist infant baptism.",
+      "originYear": 250,
+      "proponentIds": [
+        "cyprian",
+        "john-calvin"
+      ],
+      "proponentsOther": [
+        "Westminster Directory for Public Worship (1645)",
+        "Presbyterian and Methodist practice"
+      ],
+      "traditionIds": [
+        "reformed",
+        "presbyterian",
+        "methodist",
+        "congregationalist"
+      ],
+      "strongestArguments": [
+        "Scripture links sprinkling with covenant cleansing (Ezek 36:25; Heb 10:22).",
+        "Cyprian defended the validity of clinical baptism by sprinkling.",
+        "It is gentle and practical for infants."
+      ],
+      "strongestObjections": [
+        "Immersionists: baptizō never means sprinkle.",
+        "Clinical baptism was regarded as irregular; Novatian’s ordination was questioned partly for this reason.",
+        "Eastern churches reject it except in necessity."
+      ],
+      "responses": [
+        "Defenders answer that the New Testament uses baptizō for ritual washings (Mark 7:4; Luke 11:38) not requiring full immersion.",
+        "Calvin held the mode a matter of indifference to be decided by the church according to climate and custom (Institutes IV.15.19)."
+      ],
+      "consequences": [
+        "Typical of Reformed and Methodist infant baptism in Europe and North America."
+      ],
+      "relatedPositionIds": [
+        "mode-immersion",
+        "mode-affusion",
+        "paedobaptism-covenantal"
+      ],
+      "standing": "minority",
+      "sources": [
+        "ferguson-baptism",
+        "odcc",
+        "eusebius-hist-eccl"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "anabaptist-baptism",
+      "doctrineId": "baptism",
+      "name": "Anabaptist covenant (believers’) baptism",
+      "altNames": [
+        "Täufer baptism",
+        "baptism as pledge",
+        "rebaptism (opponents’ term)"
+      ],
+      "oneLine": "Baptism is the visible covenant of a good conscience with God and the church, given only to those who have repented and believed, and marks entry into a disciplined, separated community of disciples ready to suffer.",
+      "coreClaims": [
+        "Infant baptism is not baptism, since faith and repentance must precede; hence the name \"Anabaptist\" (re-baptiser) was rejected by those so called.",
+        "Baptism is a pledge (Bundeszeichen) to walk in obedience and to accept fraternal admonition and the ban.",
+        "Three baptisms: of the Spirit (inward), of water (outward), and of blood (martyrdom) — as Hans Hut and Hubmaier taught.",
+        "The church is a voluntary community separate from state coercion."
+      ],
+      "keyTexts": [
+        "Matthew 28:19-20",
+        "Mark 16:16",
+        "1 Peter 3:21",
+        "1 John 5:6-8",
+        "Matthew 18:15-18",
+        "Acts 2:41-42"
+      ],
+      "origin": "Swiss Brethren in Zurich (Grebel, Manz, Blaurock, 21 January 1525), Hubmaier at Waldshut (1525), the Schleitheim Confession (1527), Pilgram Marpeck, Hutterites (1528) and Menno Simons (from 1536).",
+      "originYear": 1525,
+      "proponentIds": [
+        "conrad-grebel",
+        "balthasar-hubmaier",
+        "michael-sattler",
+        "menno-simons"
+      ],
+      "proponentsOther": [
+        "Felix Manz",
+        "George Blaurock",
+        "Pilgram Marpeck",
+        "Dirk Philips",
+        "Jacob Hutter"
+      ],
+      "traditionIds": [
+        "anabaptist",
+        "mennonite",
+        "amish",
+        "hutterite"
+      ],
+      "strongestArguments": [
+        "It restores the New Testament order and the church as a community of committed disciples.",
+        "It refuses state-enforced religion and coerced faith, anticipating religious liberty.",
+        "Its witness was sealed by thousands of martyrs."
+      ],
+      "strongestObjections": [
+        "Magisterial Reformers and Catholics: rebaptism repeats the unrepeatable sacrament and is sedition (Code of Justinian revived at Speyer, 1529).",
+        "Its separatism withdraws Christians from public responsibility.",
+        "Münster (1534-35) showed, critics said, its revolutionary potential (though most Anabaptists were pacifist)."
+      ],
+      "responses": [
+        "Anabaptists replied that Christ’s kingdom is not of this world and faith cannot be coerced.",
+        "Mennonite historians distinguish the pacifist mainstream from Münsterite apocalypticism."
+      ],
+      "consequences": [
+        "Thousands executed by drowning, burning and beheading; migrations to Moravia, the Netherlands, Prussia, Russia and the Americas.",
+        "Source of Mennonite, Amish, Hutterite and (indirectly) Baptist traditions."
+      ],
+      "relatedPositionIds": [
+        "believers-baptism",
+        "mode-affusion",
+        "quaker-inward-baptism"
+      ],
+      "standing": "minority",
+      "sources": [
+        "williams-radical-reformation",
+        "macculloch-reformation",
+        "mwc-census"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "oneness-jesus-name-baptism",
+      "doctrineId": "baptism",
+      "name": "Oneness \"Jesus’ name\" baptism",
+      "altNames": [
+        "Apostolic baptism",
+        "Jesus Only (opponents’ term)",
+        "New Issue"
+      ],
+      "oneLine": "Valid baptism is by immersion \"in the name of Jesus Christ\" (Acts 2:38), because Jesus is the one name of the Father, Son and Holy Spirit; baptism (with Spirit baptism evidenced by tongues) is part of the new birth.",
+      "coreClaims": [
+        "The apostles consistently baptised in the name of Jesus (Acts 2:38; 8:16; 10:48; 19:5).",
+        "Matthew 28:19 commands baptism into \"the name\" (singular), which is Jesus.",
+        "God is one, revealed as Father, Son and Spirit as modes or manifestations, not three persons (outside historic Nicene orthodoxy).",
+        "Many Oneness churches teach that repentance, water baptism in Jesus’ name and Spirit baptism with tongues together constitute salvation."
+      ],
+      "keyTexts": [
+        "Acts 2:38",
+        "Acts 8:16",
+        "Acts 10:48",
+        "Acts 19:5",
+        "Matthew 28:19",
+        "Colossians 2:9",
+        "Deuteronomy 6:4"
+      ],
+      "origin": "Arose at the Arroyo Seco world-wide camp meeting near Los Angeles (1913) after R. E. McAlister’s remark on apostolic baptism; Frank Ewart and Glenn Cook re-baptised in Jesus’ name (April 1914); the \"New Issue\" split the Assemblies of God (1916); United Pentecostal Church International formed 1945.",
+      "originYear": 1913,
+      "proponentIds": [
+        "frank-ewart"
+      ],
+      "proponentsOther": [
+        "R. E. McAlister",
+        "Glenn A. Cook",
+        "G. T. Haywood",
+        "Andrew Urshan",
+        "David K. Bernard"
+      ],
+      "traditionIds": [
+        "oneness-pentecostal"
+      ],
+      "strongestArguments": [
+        "It follows the actual formula recorded in Acts.",
+        "It emphasises the full deity of Jesus and the oneness of God.",
+        "It treats the apostolic pattern in Acts as normative for today."
+      ],
+      "strongestObjections": [
+        "Trinitarian Christians: it rests on a modalist doctrine of God rejected since the 3rd century, placing it outside historic Nicene orthodoxy.",
+        "\"In the name of Jesus\" in Acts likely denotes Christian (as opposed to John’s) baptism, not a liturgical formula excluding Matthew 28:19.",
+        "Requiring tongues and a specific formula for salvation unchurches most Christians."
+      ],
+      "responses": [
+        "Oneness theologians answer that they confess Father, Son and Spirit, but as one person revealed in Jesus.",
+        "They argue the Didache and Matthew’s triadic formula are fulfilled, not contradicted, by the name of Jesus."
+      ],
+      "consequences": [
+        "A distinct Pentecostal family of perhaps 20-30 million worldwide (estimates vary), strong in the Americas, Ethiopia (\"Jesus Only\" churches) and Asia."
+      ],
+      "relatedPositionIds": [
+        "spirit-baptism-second-blessing",
+        "believers-baptism",
+        "mode-immersion"
+      ],
+      "standing": "minority",
+      "sources": [
+        "reed-oneness",
+        "synan-holiness-pentecostal",
+        "anderson-pentecostalism"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "spirit-baptism-second-blessing",
+      "doctrineId": "baptism",
+      "name": "Spirit baptism as a subsequent experience",
+      "altNames": [
+        "second (or third) blessing",
+        "baptism in the Holy Spirit (Pentecostal)",
+        "subsequence doctrine"
+      ],
+      "oneLine": "After conversion, believers may and should receive a distinct \"baptism in the Holy Spirit\" that empowers them for witness and service — for classical Pentecostals initially evidenced by speaking in other tongues.",
+      "coreClaims": [
+        "In Acts, believers (the apostles, Samaritans, Ephesian disciples) received the Spirit in a distinct experience after believing.",
+        "The purpose of Spirit baptism is power for witness (Acts 1:8), not salvation itself.",
+        "Classical Pentecostals hold that speaking in tongues is the initial physical evidence (Acts 2:4; 10:46; 19:6).",
+        "Wesleyan Holiness Pentecostals placed it after entire sanctification (three stages); Finished Work Pentecostals after conversion (two stages)."
+      ],
+      "keyTexts": [
+        "Luke 24:49",
+        "Acts 1:5-8",
+        "Acts 2:1-4, 38-39",
+        "Acts 8:14-17",
+        "Acts 19:1-7",
+        "Ephesians 5:18"
+      ],
+      "origin": "Prepared by Wesleyan and Holiness language of a \"baptism of the Holy Ghost\" (Fletcher, Phoebe Palmer, Asa Mahan 1870) and Reformed revivalists (R. A. Torrey, 1895); linked with tongues by Charles Parham at Topeka (January 1901) and spread by the Azusa Street Revival under William J. Seymour (1906); defined as initial evidence by the Assemblies of God (1916).",
+      "originYear": 1901,
+      "proponentIds": [
+        "charles-parham",
+        "william-j-seymour",
+        "phoebe-palmer"
+      ],
+      "proponentsOther": [
+        "Asa Mahan",
+        "R. A. Torrey",
+        "Agnes Ozman",
+        "Dennis Bennett (charismatic renewal)"
+      ],
+      "traditionIds": [
+        "pentecostal",
+        "assemblies-of-god",
+        "holiness-movement",
+        "charismatic-renewal",
+        "neo-charismatic",
+        "african-initiated-churches"
+      ],
+      "strongestArguments": [
+        "The narrative of Acts repeatedly separates faith and the reception of the Spirit.",
+        "It accounts for the transforming experience of hundreds of millions of Pentecostals and charismatics.",
+        "It expects New Testament power and gifts in the church today."
+      ],
+      "strongestObjections": [
+        "Reformed, Baptist and many evangelical scholars: 1 Corinthians 12:13 says all believers are baptised in the Spirit; Acts records unique transitional events.",
+        "Initial-evidence teaching lacks didactic support and can create two classes of Christians.",
+        "Historic churches locate the gift of the Spirit in baptism and chrismation/confirmation."
+      ],
+      "responses": [
+        "Pentecostals answer that Luke has a distinct theology of empowerment that complements Paul’s soteriological pneumatology (Roger Stronstad).",
+        "Many charismatics speak of \"release\" of the Spirit given in baptism, bridging the views."
+      ],
+      "consequences": [
+        "Gave rise to the Pentecostal movement and charismatic renewal, now perhaps a quarter of world Christianity."
+      ],
+      "relatedPositionIds": [
+        "spirit-baptism-at-conversion",
+        "finished-work-sanctification",
+        "wesleyan-entire-sanctification",
+        "oneness-jesus-name-baptism"
+      ],
+      "standing": "significant",
+      "sources": [
+        "synan-holiness-pentecostal",
+        "anderson-pentecostalism",
+        "burgess-pentecostal-dictionary",
+        "bruner-spirit"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "spirit-baptism-at-conversion",
+      "doctrineId": "baptism",
+      "name": "Spirit baptism at conversion",
+      "altNames": [
+        "conversion-initiation view",
+        "non-subsequence view",
+        "sacramental view (in historic churches)"
+      ],
+      "oneLine": "Every Christian is baptised in the Holy Spirit at conversion-initiation; later experiences are renewed fillings or releases, not a second baptism.",
+      "coreClaims": [
+        "\"By one Spirit are we all baptized into one body\" (1 Cor 12:13) — Spirit baptism is universal among believers.",
+        "\"If any man have not the Spirit of Christ, he is none of his\" (Rom 8:9).",
+        "The Acts episodes are transitional moments in salvation history (Jerusalem, Samaria, Gentiles, John’s disciples).",
+        "Believers are commanded to be filled continually (Eph 5:18), not to seek a second baptism."
+      ],
+      "keyTexts": [
+        "1 Corinthians 12:13",
+        "Romans 8:9",
+        "Galatians 3:2-3, 14",
+        "Ephesians 1:13-14",
+        "Ephesians 5:18",
+        "Titus 3:5-6"
+      ],
+      "origin": "The historic Catholic, Orthodox and Protestant consensus that the Spirit is given in Christian initiation; articulated against Pentecostal subsequence by Frederick Dale Bruner (1970), James D. G. Dunn (Baptism in the Holy Spirit, 1970) and John Stott (Baptism and Fullness, 1964/1975).",
+      "originYear": 1970,
+      "proponentIds": [
+        "james-d-g-dunn",
+        "john-stott"
+      ],
+      "proponentsOther": [
+        "Frederick Dale Bruner",
+        "Anthony Hoekema",
+        "Gordon Fee (in modified form)",
+        "Wayne Grudem (continuationist form)"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-orthodox",
+        "reformed",
+        "baptist",
+        "evangelical",
+        "lutheran",
+        "anglican"
+      ],
+      "strongestArguments": [
+        "It rests on Paul’s explicit teaching rather than narrative precedent.",
+        "It affirms the full Christian standing of every believer.",
+        "Many continuationists hold it while affirming spiritual gifts today."
+      ],
+      "strongestObjections": [
+        "Pentecostals: it flattens Luke’s distinct theology of empowerment and the clear subsequence in Acts 8 and 19.",
+        "It can underplay the experiential dimension of the Spirit’s work.",
+        "Charismatic Catholics and Anglicans experience a definite \"release\" that seems more than ordinary growth."
+      ],
+      "responses": [
+        "Proponents answer that they welcome subsequent fillings and experiences, but not as a second baptism.",
+        "Dunn and others grant that conversion-initiation in Acts was an experienced, often dramatic event."
+      ],
+      "consequences": [
+        "Framed evangelical responses to Pentecostal and charismatic renewal; many \"Third Wave\" charismatics adopted it (John Wimber)."
+      ],
+      "relatedPositionIds": [
+        "spirit-baptism-second-blessing",
+        "baptismal-regeneration"
+      ],
+      "standing": "majority",
+      "sources": [
+        "dunn-baptism-spirit",
+        "bruner-spirit",
+        "anderson-pentecostalism"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "stone-campbell-baptism-remission",
+      "doctrineId": "baptism",
+      "name": "Stone-Campbell baptism for the remission of sins",
+      "altNames": [
+        "Restorationist baptism",
+        "baptism for remission (Churches of Christ)"
+      ],
+      "oneLine": "Penitent believers are to be immersed \"for the remission of sins\" (Acts 2:38); baptism is the appointed moment at which God grants forgiveness and the gift of the Spirit, and the culmination of the response of faith.",
+      "coreClaims": [
+        "The New Testament conversion pattern is hear, believe, repent, confess, be baptised (Walter Scott’s \"five-finger exercise\", 1827).",
+        "Baptism is immersion of believers only.",
+        "Baptism is \"for\" (eis) the remission of sins, not a testimony to sins already forgiven.",
+        "This is obedience of faith, not a meritorious work."
+      ],
+      "keyTexts": [
+        "Acts 2:38",
+        "Acts 22:16",
+        "Mark 16:16",
+        "Romans 6:3-4",
+        "Galatians 3:26-27",
+        "1 Peter 3:21"
+      ],
+      "origin": "Alexander Campbell (immersed 1812; debate with W. L. Maccalla 1823; The Christian System 1835), Walter Scott’s evangelism from 1827, and Barton W. Stone’s Christians, united 1832; held most strictly today by the Churches of Christ, more flexibly by the Christian Churches and Disciples of Christ.",
+      "originYear": 1823,
+      "proponentIds": [
+        "alexander-campbell",
+        "barton-w-stone"
+      ],
+      "proponentsOther": [
+        "Thomas Campbell",
+        "Walter Scott",
+        "Churches of Christ"
+      ],
+      "traditionIds": [
+        "stone-campbell-restoration"
+      ],
+      "strongestArguments": [
+        "It takes Acts 2:38 and Acts 22:16 in their most natural sense.",
+        "It unites believers’ baptism with the historic church’s conviction that baptism is for forgiveness.",
+        "It provides a clear, objective moment of assurance."
+      ],
+      "strongestObjections": [
+        "Baptists and evangelicals: it makes a rite necessary for salvation and comes close to works-righteousness.",
+        "It implies that sincere unimmersed believers are unforgiven — though Campbell himself (Lunenburg letter, 1837) refused to say so.",
+        "Paedobaptists: it rejects the baptism of most Christians."
+      ],
+      "responses": [
+        "Restorationists answer that baptism is God’s act, received by faith, and that Scripture itself joins the two.",
+        "The Lunenburg letter shows Campbell recognising Christians among the unimmersed, a stance many Disciples follow."
+      ],
+      "consequences": [
+        "Distinctive of a family of churches with millions of members in North America, Africa and Asia.",
+        "Fuelled debates with Baptists in 19th-century America."
+      ],
+      "relatedPositionIds": [
+        "believers-baptism",
+        "baptismal-regeneration",
+        "mode-immersion"
+      ],
+      "standing": "minority",
+      "sources": [
+        "hughes-restoration",
+        "noll-christianity-us"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "quaker-inward-baptism",
+      "doctrineId": "baptism",
+      "name": "Quaker inward (spiritual) baptism",
+      "altNames": [
+        "baptism of the Spirit only",
+        "non-sacramental view"
+      ],
+      "oneLine": "The one baptism of the new covenant is the inward baptism of Christ with the Holy Spirit and fire; outward water baptism was a temporary Jewish-Christian rite and is not to be continued.",
+      "coreClaims": [
+        "John’s water baptism was preparatory; Christ baptises with the Spirit (Matt 3:11).",
+        "There is \"one baptism\" (Eph 4:5), which must be spiritual.",
+        "Outward rites can substitute for inward reality.",
+        "The Salvation Army likewise omits sacraments (from 1883), for different, pragmatic and theological reasons."
+      ],
+      "keyTexts": [
+        "Matthew 3:11",
+        "John 4:23-24",
+        "1 Corinthians 1:17",
+        "Ephesians 4:5",
+        "1 Peter 3:21",
+        "Romans 2:28-29"
+      ],
+      "origin": "George Fox and early Friends (1650s); systematised by Robert Barclay, An Apology for the True Christian Divinity (1676), Proposition 12.",
+      "originYear": 1652,
+      "proponentIds": [
+        "george-fox"
+      ],
+      "proponentsOther": [
+        "Robert Barclay",
+        "William Penn",
+        "Salvation Army (practice)"
+      ],
+      "traditionIds": [
+        "quaker",
+        "salvation-army"
+      ],
+      "strongestArguments": [
+        "It stresses inward reality over external form.",
+        "Paul says Christ did not send him to baptise but to preach (1 Cor 1:17).",
+        "It avoids divisive disputes over subjects and modes."
+      ],
+      "strongestObjections": [
+        "Almost all churches: Christ’s command (Matt 28:19) is permanent, and the apostles baptised with water after Pentecost (Acts 2:41; 10:47).",
+        "Rejecting the sacraments breaks continuity with the universal practice of the church.",
+        "Inward experience without outward signs can become individualistic."
+      ],
+      "responses": [
+        "Friends answer that the Great Commission speaks of baptising \"into the name\", i.e. into the power of God, not with water.",
+        "Salvationists stress that the sacraments are not forbidden but not necessary."
+      ],
+      "consequences": [
+        "Distinctive mark of Quakers and the Salvation Army."
+      ],
+      "relatedPositionIds": [
+        "anabaptist-baptism",
+        "spirit-baptism-at-conversion"
+      ],
+      "standing": "minority",
+      "sources": [
+        "dandelion-quakers",
+        "odcc"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "controversies": [
+    {
+      "id": "infant-vs-believers-baptism",
+      "title": "Infant vs believer’s baptism",
+      "question": "Should the children of Christians be baptised, or only those who personally repent and believe?",
+      "summary": "Implicit from Tertullian’s counsel of delay (c.203), the dispute exploded in Zurich in 1525 and has divided Protestants ever since; the WCC’s Lima document (1982) found convergence but not agreement.",
+      "doctrineIds": [
+        "baptism"
+      ],
+      "sides": [
+        {
+          "name": "Infant baptism",
+          "positionId": "paedobaptism-covenantal",
+          "steelman": "God’s promise is to us and to our children. As Israel’s infants received the covenant sign, so the children of believers receive baptism. Grace comes before our response — none of us chooses God first — and infant baptism proclaims exactly that. The church has done this since the apostles.",
+          "arguments": [
+            "Acts 2:39; household baptisms.",
+            "Covenant continuity (Col 2:11-12).",
+            "Practice from at least c.200."
+          ],
+          "counterArguments": [
+            "No explicit infant baptism in the New Testament.",
+            "Faith precedes baptism in every recorded case."
+          ],
+          "keyTexts": [
+            "Acts 2:39",
+            "Acts 16:15, 33",
+            "Colossians 2:11-12",
+            "Mark 10:14"
+          ],
+          "quoteIds": [
+            "calvin-initiatory-sign",
+            "zwingli-baptism-pledge",
+            "origen-infant-tradition",
+            "cyprian-to-fidus",
+            "augustine-infant-baptism-sin"
+          ]
+        },
+        {
+          "name": "Believer’s baptism",
+          "positionId": "believers-baptism",
+          "steelman": "Christ commanded us to make disciples and baptise them. Every baptism in the New Testament follows hearing and believing. The new covenant is written on hearts; its sign belongs to those who know the Lord. Infant baptism created a Christendom of the baptised but unconverted.",
+          "arguments": [
+            "Order of the Great Commission.",
+            "Acts pattern.",
+            "Regenerate church membership."
+          ],
+          "counterArguments": [
+            "Excludes children from the covenant.",
+            "Repeats baptism."
+          ],
+          "keyTexts": [
+            "Matthew 28:19-20",
+            "Acts 2:41",
+            "Acts 8:12",
+            "Romans 6:3-4"
+          ],
+          "quoteIds": [
+            "tertullian-delay-baptism",
+            "hubmaier-order-of-christ",
+            "schleitheim-article-one",
+            "menno-baptism-obedience"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 203,
+          "text": "Tertullian counsels delay of baptism for little children."
+        },
+        {
+          "year": 253,
+          "text": "Cyprian’s council: infants need not wait for the eighth day."
+        },
+        {
+          "year": 1525,
+          "text": "First believers’ baptisms in Zurich.",
+          "eventId": "first-adult-baptisms-zurich-1525"
+        },
+        {
+          "year": 1527,
+          "text": "Schleitheim Confession; Felix Manz drowned.",
+          "eventId": "schleitheim-confession-1527"
+        },
+        {
+          "year": 1534,
+          "text": "Anabaptist kingdom at Münster discredits the movement.",
+          "eventId": "munster-rebellion-1534"
+        },
+        {
+          "year": 1609,
+          "text": "John Smyth’s believers’ baptism in Amsterdam: Baptist beginnings."
+        },
+        {
+          "year": 1943,
+          "text": "Karl Barth criticises infant baptism in The Teaching of the Church Regarding Baptism."
+        },
+        {
+          "year": 1982,
+          "text": "Baptism, Eucharist and Ministry (Lima) records convergence."
+        }
+      ],
+      "resolution": {
+        "kind": "open",
+        "text": "Unresolved. Paedobaptist churches comprise the large majority of Christians; credobaptist churches are the largest Protestant family in many countries and dominate Pentecostal and Global South independent Christianity. Mutual recognition agreements usually exclude or carefully qualify the infant/believer question."
+      },
+      "consequences": [
+        "Persecution and martyrdom of Anabaptists (16th century).",
+        "Birth of Baptist, Mennonite and believers’-church traditions.",
+        "Linked to debates on religious liberty and church-state separation."
+      ],
+      "sources": [
+        "williams-radical-reformation",
+        "ferguson-baptism",
+        "jewett-infant-baptism",
+        "schreiner-wright-believers",
+        "bem-1982"
+      ]
+    },
+    {
+      "id": "baptism-and-salvation",
+      "title": "Does baptism save? Regeneration vs ordinance",
+      "question": "Is baptism the means by which God regenerates and forgives, or an ordinance that testifies to salvation already received by faith?",
+      "summary": "A question dividing sacramental churches (Catholic, Orthodox, Lutheran, Anglican), Restorationists, Reformed and Baptists/evangelicals, and a running debate between Churches of Christ and Baptists in America.",
+      "doctrineIds": [
+        "baptism",
+        "salvation"
+      ],
+      "sides": [
+        {
+          "name": "Baptismal regeneration",
+          "positionId": "baptismal-regeneration",
+          "steelman": "Scripture says baptism saves, washes away sins and gives new birth. It is not our work but God’s Word with water. To deny this is to turn God’s gift into a mere human pledge and to rob believers of a concrete promise: \"I am baptised\".",
+          "arguments": [
+            "John 3:5; Titus 3:5; 1 Peter 3:21.",
+            "Patristic consensus.",
+            "Objective assurance."
+          ],
+          "counterArguments": [
+            "Salvation by faith not rites.",
+            "The thief on the cross."
+          ],
+          "keyTexts": [
+            "John 3:5",
+            "Acts 22:16",
+            "Titus 3:5",
+            "1 Peter 3:21"
+          ],
+          "quoteIds": [
+            "justin-regenerated-in-water",
+            "cyril-grave-and-mother",
+            "luther-baptism-gives",
+            "luther-not-the-water"
+          ]
+        },
+        {
+          "name": "Baptism as ordinance and testimony",
+          "positionId": "believers-baptism",
+          "steelman": "We are saved by grace through faith, not by any rite. Baptism is commanded and precious: it pictures our union with Christ and publicly confesses it. But to say the water saves is to make salvation depend on a ceremony and to unchurch every believer who died unbaptised.",
+          "arguments": [
+            "Ephesians 2:8-9.",
+            "Cornelius received the Spirit before baptism.",
+            "The thief on the cross."
+          ],
+          "counterArguments": [
+            "Weakens the strong New Testament language about baptism."
+          ],
+          "keyTexts": [
+            "Ephesians 2:8-9",
+            "Acts 10:44-48",
+            "Luke 23:42-43",
+            "1 Corinthians 1:17"
+          ],
+          "quoteIds": [
+            "menno-baptism-obedience"
+          ]
+        },
+        {
+          "name": "Stone-Campbell: baptism for remission",
+          "positionId": "stone-campbell-baptism-remission",
+          "steelman": "Peter said, \"Repent and be baptised for the remission of sins.\" We baptise believers only, and we believe God meets them there with pardon. This is not works but the obedience of faith.",
+          "arguments": [
+            "Acts 2:38; 22:16.",
+            "Mark 16:16."
+          ],
+          "counterArguments": [
+            "Too close to ritual necessity.",
+            "Unchurches the unimmersed."
+          ],
+          "keyTexts": [
+            "Acts 2:38",
+            "Mark 16:16",
+            "Galatians 3:27"
+          ],
+          "quoteIds": [
+            "campbell-remission"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 155,
+          "text": "Justin calls baptism \"regeneration\"."
+        },
+        {
+          "year": 1525,
+          "text": "Zwingli’s Of Baptism reinterprets sacraments as pledges."
+        },
+        {
+          "year": 1529,
+          "text": "Luther’s Small Catechism on what baptism gives."
+        },
+        {
+          "year": 1547,
+          "text": "Trent, Session VII, canons on baptism.",
+          "eventId": "council-of-trent-1545"
+        },
+        {
+          "year": 1823,
+          "text": "Campbell-Maccalla debate on baptism."
+        },
+        {
+          "year": 1837,
+          "text": "Campbell’s Lunenburg letter on the unimmersed."
+        }
+      ],
+      "resolution": {
+        "kind": "open",
+        "text": "No agreement. Sacramental churches teach baptismal regeneration; Reformed churches speak of baptism as a means of grace not tied to its moment; Baptists and most evangelicals regard it as an ordinance; Churches of Christ teach baptism for remission."
+      },
+      "consequences": [
+        "Shapes evangelism (altar call vs baptismal invitation), emergency baptism and funeral practice."
+      ],
+      "sources": [
+        "ferguson-baptism",
+        "hughes-restoration",
+        "book-of-concord",
+        "schreiner-wright-believers"
+      ]
+    },
+    {
+      "id": "spirit-baptism-subsequence",
+      "title": "Baptism in the Spirit: second blessing or conversion?",
+      "question": "Is the baptism in the Holy Spirit a distinct experience after conversion (evidenced by tongues), or what happens to every believer at conversion?",
+      "summary": "The defining theological question of Pentecostalism, debated with Reformed, Baptist and sacramental traditions since 1901, and within the charismatic movement.",
+      "doctrineIds": [
+        "baptism",
+        "holy-spirit"
+      ],
+      "sides": [
+        {
+          "name": "Subsequence (Pentecostal)",
+          "positionId": "spirit-baptism-second-blessing",
+          "steelman": "The disciples were believers before Pentecost; the Samaritans believed and were baptised but had not yet received the Spirit; the Ephesian disciples received the Spirit when Paul laid hands on them and they spoke in tongues. Luke shows a pattern of empowerment that every believer may and should seek.",
+          "arguments": [
+            "Acts 2, 8, 10, 19.",
+            "Luke’s theology of empowerment.",
+            "Experience of global Pentecostalism."
+          ],
+          "counterArguments": [
+            "1 Corinthians 12:13.",
+            "Narrative is not normative."
+          ],
+          "keyTexts": [
+            "Acts 1:8",
+            "Acts 8:14-17",
+            "Acts 19:1-7"
+          ],
+          "quoteIds": [
+            "seymour-spirit-on-sanctified"
+          ]
+        },
+        {
+          "name": "Conversion-initiation",
+          "positionId": "spirit-baptism-at-conversion",
+          "steelman": "Paul says all believers have been baptised by one Spirit into one body. To have the Spirit is to belong to Christ. The Acts episodes mark the gospel’s advance across new frontiers. Seek to be filled, again and again — but do not divide the church into the baptised and the un-baptised in the Spirit.",
+          "arguments": [
+            "1 Corinthians 12:13; Romans 8:9.",
+            "Salvation-historical reading of Acts."
+          ],
+          "counterArguments": [
+            "Flattens Luke.",
+            "Underplays experience."
+          ],
+          "keyTexts": [
+            "1 Corinthians 12:13",
+            "Romans 8:9",
+            "Galatians 3:2"
+          ],
+          "quoteIds": [
+            "dunn-conversion-initiation"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 1870,
+          "text": "Asa Mahan’s The Baptism of the Holy Ghost (Holiness movement)."
+        },
+        {
+          "year": 1901,
+          "text": "Agnes Ozman speaks in tongues at Parham’s Bethel Bible School, Topeka."
+        },
+        {
+          "year": 1906,
+          "text": "Azusa Street Revival.",
+          "eventId": "azusa-street-revival-1906"
+        },
+        {
+          "year": 1916,
+          "text": "Assemblies of God defines tongues as initial evidence."
+        },
+        {
+          "year": 1960,
+          "text": "Charismatic renewal in historic churches.",
+          "eventId": "charismatic-renewal-1960"
+        },
+        {
+          "year": 1970,
+          "text": "Dunn’s and Bruner’s critiques of subsequence."
+        }
+      ],
+      "resolution": {
+        "kind": "open",
+        "text": "Classical Pentecostal churches retain subsequence and initial evidence; many charismatics in historic churches speak of a \"release\" of the Spirit given in sacramental initiation; Third Wave and most evangelicals hold Spirit baptism at conversion with ongoing fillings."
+      },
+      "consequences": [
+        "Formation of Pentecostal denominations.",
+        "Debates over spiritual \"classes\" of Christians.",
+        "Ecumenical Pentecostal-Catholic dialogue since 1972."
+      ],
+      "sources": [
+        "dunn-baptism-spirit",
+        "bruner-spirit",
+        "synan-holiness-pentecostal",
+        "anderson-pentecostalism"
+      ]
+    },
+    {
+      "id": "jesus-name-new-issue",
+      "title": "The \"New Issue\": Jesus’ name or triune name?",
+      "question": "Must baptism be performed \"in the name of Jesus\" (Acts 2:38), or in the name of the Father, Son and Holy Spirit (Matthew 28:19)?",
+      "summary": "A 1913-1916 controversy within early Pentecostalism that began over the baptismal formula and became a dispute over the Trinity, producing the Oneness Pentecostal movement, which stands outside historic Nicene orthodoxy.",
+      "doctrineIds": [
+        "baptism",
+        "trinity"
+      ],
+      "sides": [
+        {
+          "name": "Oneness (\"Jesus’ name\")",
+          "positionId": "oneness-jesus-name-baptism",
+          "steelman": "The apostles never once baptised with the triadic words; they baptised in the name of Jesus Christ. Jesus is the name of the Father, the Son and the Holy Spirit, for in him dwells all the fullness of the Godhead bodily. We restore apostolic practice.",
+          "arguments": [
+            "Acts 2:38; 8:16; 10:48; 19:5.",
+            "Singular \"name\" in Matthew 28:19.",
+            "Colossians 2:9."
+          ],
+          "counterArguments": [
+            "Modalism rejected since the 3rd century.",
+            "\"In Jesus’ name\" is not a formula."
+          ],
+          "keyTexts": [
+            "Acts 2:38",
+            "Matthew 28:19",
+            "Colossians 2:9"
+          ],
+          "quoteIds": [
+            "ewart-jesus-name"
+          ]
+        },
+        {
+          "name": "Trinitarian Pentecostals",
+          "positionId": "spirit-baptism-second-blessing",
+          "steelman": "Jesus himself commanded baptism in the name of the Father, Son and Holy Spirit, and the church has obeyed from the Didache onward. \"In the name of Jesus\" describes the authority and character of Christian baptism. The new teaching departs from the faith of the whole church about God.",
+          "arguments": [
+            "Matthew 28:19.",
+            "Didache and Justin.",
+            "Nicene faith."
+          ],
+          "counterArguments": [
+            "Acts never records the triadic formula."
+          ],
+          "keyTexts": [
+            "Matthew 28:19",
+            "2 Corinthians 13:14"
+          ],
+          "quoteIds": [
+            "justin-regenerated-in-water"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 1913,
+          "text": "Arroyo Seco camp meeting, Los Angeles: R. E. McAlister’s comment on apostolic baptism."
+        },
+        {
+          "year": 1914,
+          "text": "Frank Ewart and Glenn Cook re-baptise each other in Jesus’ name."
+        },
+        {
+          "year": 1916,
+          "text": "Assemblies of God adopts a Trinitarian Statement of Fundamental Truths; Oneness ministers leave."
+        },
+        {
+          "year": 1945,
+          "text": "United Pentecostal Church formed."
+        }
+      ],
+      "resolution": {
+        "kind": "schism",
+        "text": "The Assemblies of God and most Pentecostals affirmed the Trinity; Oneness Pentecostals formed separate bodies (Pentecostal Assemblies of the World, United Pentecostal Church International). Dialogue (e.g. Society for Pentecostal Studies) continues without resolution."
+      },
+      "consequences": [
+        "A distinct non-Trinitarian Pentecostal family.",
+        "Racially integrated early Oneness bodies (PAW) were later divided along racial lines."
+      ],
+      "sources": [
+        "reed-oneness",
+        "synan-holiness-pentecostal",
+        "anderson-pentecostalism"
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "id": "justin-regenerated-in-water",
+      "text": "Then they are brought by us where there is water, and are regenerated in the same manner in which we were ourselves regenerated. For, in the name of God, the Father and Lord of the universe, and of our Saviour Jesus Christ, and of the Holy Spirit, they then receive the washing with water.",
+      "kind": "quotation",
+      "translation": "tr. M. Dods & G. Reith, ANF 1 (1885)",
+      "personId": "justin-martyr",
+      "citation": "First Apology 61",
+      "topics": [
+        "baptism",
+        "regeneration",
+        "Trinitarian formula"
+      ],
+      "doctrineIds": [
+        "baptism"
+      ],
+      "workId": "justin-first-apology",
+      "year": 155
+    },
+    {
+      "id": "tertullian-little-fishes",
+      "text": "But we, little fishes, after the example of our ΙΧΘΥΣ Jesus Christ, are born in water, nor have we safety in any other way than by permanently abiding in water.",
+      "kind": "quotation",
+      "translation": "tr. S. Thelwall, ANF 3 (1885)",
+      "personId": "tertullian",
+      "citation": "On Baptism 1",
+      "topics": [
+        "baptism",
+        "new birth"
+      ],
+      "doctrineIds": [
+        "baptism"
+      ],
+      "workId": "tertullian-on-baptism",
+      "year": 203
+    },
+    {
+      "id": "tertullian-delay-baptism",
+      "text": "And so, according to the circumstances and disposition, and even age, of each individual, the delay of baptism is preferable; principally, however, in the case of little children.",
+      "kind": "quotation",
+      "translation": "tr. S. Thelwall, ANF 3 (1885)",
+      "personId": "tertullian",
+      "citation": "On Baptism 18",
+      "topics": [
+        "infant baptism",
+        "delay of baptism"
+      ],
+      "doctrineIds": [
+        "baptism"
+      ],
+      "workId": "tertullian-on-baptism",
+      "year": 203
+    },
+    {
+      "id": "origen-infant-tradition",
+      "text": "Origen states that the Church received from the apostles the tradition of giving baptism even to little children, because there is in everyone the innate stain of sin that must be washed away by water and the Spirit.",
+      "kind": "paraphrase",
+      "personId": "origen",
+      "citation": "Commentary on Romans 5.9 (Rufinus’ Latin) (paraphrase)",
+      "topics": [
+        "infant baptism",
+        "apostolic tradition"
+      ],
+      "doctrineIds": [
+        "baptism"
+      ],
+      "year": 246
+    },
+    {
+      "id": "cyprian-to-fidus",
+      "text": "Cyprian reports that a council of sixty-six bishops rejected the view that infants should wait until the eighth day like circumcision: God’s grace and mercy are to be denied to no one born, least of all to the newborn.",
+      "kind": "paraphrase",
+      "personId": "cyprian",
+      "citation": "Letter 58 (64) to Fidus (c.253) (paraphrase)",
+      "topics": [
+        "infant baptism",
+        "grace"
+      ],
+      "doctrineIds": [
+        "baptism"
+      ],
+      "year": 253
+    },
+    {
+      "id": "cyril-grave-and-mother",
+      "text": "And at the self-same moment ye were both dying and being born; and that Water of salvation was at once your grave and your mother.",
+      "kind": "quotation",
+      "translation": "tr. E. H. Gifford, NPNF II/7 (1894)",
+      "personId": "cyril-of-jerusalem",
+      "citation": "Mystagogical Catecheses 2.4",
+      "topics": [
+        "baptism",
+        "death and resurrection",
+        "immersion"
+      ],
+      "doctrineIds": [
+        "baptism"
+      ],
+      "workId": "cyril-mystagogical-catecheses",
+      "year": 350
+    },
+    {
+      "id": "augustine-infant-baptism-sin",
+      "text": "Augustine argues that the universal custom of baptising infants \"for the remission of sins\", with exorcism and renunciation, proves that even newborns share the sin of Adam and need Christ the Saviour.",
+      "kind": "paraphrase",
+      "personId": "augustine-of-hippo",
+      "citation": "On the Merits and Forgiveness of Sins and on Infant Baptism I.39, III.7 (412) (paraphrase)",
+      "topics": [
+        "infant baptism",
+        "original sin"
+      ],
+      "doctrineIds": [
+        "baptism",
+        "salvation"
+      ],
+      "year": 412
+    },
+    {
+      "id": "luther-baptism-gives",
+      "text": "It works forgiveness of sins, delivers from death and the devil, and gives eternal salvation to all who believe this, as the words and promises of God declare.",
+      "kind": "quotation",
+      "translation": "Concordia Triglotta (1921)",
+      "personId": "martin-luther",
+      "citation": "Small Catechism, Part IV (Baptism), Second",
+      "topics": [
+        "baptismal regeneration",
+        "forgiveness"
+      ],
+      "doctrineIds": [
+        "baptism"
+      ],
+      "workId": "luther-small-catechism",
+      "year": 1529
+    },
+    {
+      "id": "luther-not-the-water",
+      "text": "It is not the water indeed that does them, but the word of God which is in and with the water, and faith, which trusts such word of God in the water.",
+      "kind": "quotation",
+      "translation": "Concordia Triglotta (1921)",
+      "personId": "martin-luther",
+      "citation": "Small Catechism, Part IV (Baptism), Third",
+      "topics": [
+        "baptism",
+        "Word and faith"
+      ],
+      "doctrineIds": [
+        "baptism"
+      ],
+      "workId": "luther-small-catechism",
+      "year": 1529
+    },
+    {
+      "id": "calvin-initiatory-sign",
+      "text": "Baptism is the initiatory sign by which we are admitted to the fellowship of the Church, that being ingrafted into Christ we may be accounted children of God.",
+      "kind": "quotation",
+      "translation": "tr. Henry Beveridge (1845)",
+      "personId": "john-calvin",
+      "citation": "Institutes IV.15.1",
+      "topics": [
+        "baptism",
+        "union with Christ",
+        "covenant"
+      ],
+      "doctrineIds": [
+        "baptism"
+      ],
+      "workId": "calvin-institutes",
+      "year": 1559
+    },
+    {
+      "id": "zwingli-baptism-pledge",
+      "text": "Zwingli argues that sacraments are pledges or signs of allegiance, like the white cross a Swiss confederate sews on his coat; baptism does not cleanse the soul, but marks those who belong to God’s people, and the children of Christians belong to the covenant as Israel’s children were circumcised.",
+      "kind": "paraphrase",
+      "personId": "huldrych-zwingli",
+      "citation": "Of Baptism (Von der Taufe, 1525) (paraphrase)",
+      "topics": [
+        "covenant",
+        "infant baptism",
+        "symbolic view"
+      ],
+      "doctrineIds": [
+        "baptism"
+      ],
+      "year": 1525
+    },
+    {
+      "id": "hubmaier-order-of-christ",
+      "text": "Hubmaier insists on the order of Christ’s command — first preaching, then faith, then baptism — so that baptism is the public pledge of one who has already believed and commits himself to live according to the Rule of Christ.",
+      "kind": "paraphrase",
+      "personId": "balthasar-hubmaier",
+      "citation": "On the Christian Baptism of Believers (1525) (paraphrase)",
+      "topics": [
+        "believers baptism",
+        "pledge"
+      ],
+      "doctrineIds": [
+        "baptism"
+      ],
+      "workId": "hubmaier-christian-baptism",
+      "year": 1525
+    },
+    {
+      "id": "schleitheim-article-one",
+      "text": "The first Schleitheim article reserves baptism for all who have learned repentance and amendment of life, believe that their sins are taken away by Christ, and wish to walk in his resurrection; it rejects infant baptism as the chief abomination of the pope.",
+      "kind": "paraphrase",
+      "personId": "michael-sattler",
+      "citation": "Schleitheim Confession (1527), Article 1 (paraphrase)",
+      "topics": [
+        "believers baptism",
+        "Anabaptist"
+      ],
+      "doctrineIds": [
+        "baptism"
+      ],
+      "workId": "schleitheim-confession",
+      "year": 1527
+    },
+    {
+      "id": "menno-baptism-obedience",
+      "text": "Menno teaches that we are not cleansed by the water of baptism but by the blood of Christ received in faith; believers are baptised in obedience to Christ’s command as a sign of the new birth they have already received.",
+      "kind": "paraphrase",
+      "personId": "menno-simons",
+      "citation": "Foundation of Christian Doctrine (1539) (paraphrase)",
+      "topics": [
+        "believers baptism",
+        "new birth"
+      ],
+      "doctrineIds": [
+        "baptism"
+      ],
+      "year": 1539
+    },
+    {
+      "id": "campbell-remission",
+      "text": "Campbell teaches that immersion is the divinely appointed act in which the penitent believer receives the formal, personal remission of sins promised in Acts 2:38 — not a work that earns forgiveness but the moment God assures it.",
+      "kind": "paraphrase",
+      "personId": "alexander-campbell",
+      "citation": "The Christian System (1835), \"Remission of Sins\" (paraphrase)",
+      "topics": [
+        "baptism for remission",
+        "Restoration"
+      ],
+      "doctrineIds": [
+        "baptism"
+      ],
+      "workId": "campbell-christian-system",
+      "year": 1835
+    },
+    {
+      "id": "ewart-jesus-name",
+      "text": "Ewart argued that the apostles everywhere baptised \"in the name of Jesus\", which is the one saving name of the Father, Son and Holy Spirit, so that Matthew 28:19 is fulfilled by Acts 2:38.",
+      "kind": "paraphrase",
+      "personId": "frank-ewart",
+      "citation": "The Phenomenon of Pentecost (1947) (paraphrase)",
+      "topics": [
+        "Jesus’ name baptism",
+        "Oneness"
+      ],
+      "doctrineIds": [
+        "baptism"
+      ],
+      "year": 1947
+    },
+    {
+      "id": "seymour-spirit-on-sanctified",
+      "text": "The Azusa Street paper taught that the baptism with the Holy Ghost is a gift of power upon the sanctified life, evidenced by speaking in tongues as on the day of Pentecost.",
+      "kind": "paraphrase",
+      "personId": "william-j-seymour",
+      "citation": "The Apostolic Faith (Los Angeles), vol. 1 no. 1, September 1906, \"The Apostolic Faith Movement\" (paraphrase)",
+      "topics": [
+        "Spirit baptism",
+        "subsequence",
+        "tongues"
+      ],
+      "doctrineIds": [
+        "baptism",
+        "holy-spirit"
+      ],
+      "year": 1906
+    },
+    {
+      "id": "dunn-conversion-initiation",
+      "text": "Dunn argues that in the New Testament the gift of the Spirit is the chief element in conversion-initiation: to become a Christian is to receive the Spirit, so that \"baptism in the Spirit\" names the beginning of Christian life, not a later stage.",
+      "kind": "paraphrase",
+      "personId": "james-d-g-dunn",
+      "citation": "Baptism in the Holy Spirit (1970) (paraphrase)",
+      "topics": [
+        "Spirit baptism",
+        "conversion"
+      ],
+      "doctrineIds": [
+        "baptism",
+        "holy-spirit"
+      ],
+      "year": 1970
+    }
+  ],
+  "people": [
+    {
+      "id": "alexander-campbell",
+      "name": "Alexander Campbell",
+      "born": 1788,
+      "died": 1866,
+      "circa": false,
+      "roles": [
+        "Restorationist leader",
+        "editor",
+        "educator"
+      ],
+      "traditionIds": [
+        "stone-campbell-restoration"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "Irish-born American reformer, founder of Bethany College, who with his father Thomas and with Barton W. Stone led the Stone-Campbell Restoration Movement; he taught immersion of believers \"for the remission of sins\".",
+      "keyIdeas": [
+        "Restoration of New Testament Christianity",
+        "Baptism for remission of sins",
+        "Christian unity on the Bible alone"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "hughes-restoration"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "james-d-g-dunn",
+      "name": "James D. G. Dunn",
+      "born": 1939,
+      "died": 2020,
+      "circa": false,
+      "roles": [
+        "New Testament scholar",
+        "Methodist local preacher"
+      ],
+      "traditionIds": [
+        "methodist"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "British New Testament scholar (Durham) who named the \"New Perspective on Paul\" (1982 Manson lecture), arguing that \"works of the law\" refers chiefly to Jewish boundary markers; his Baptism in the Holy Spirit (1970) argued that Spirit-baptism in the New Testament is part of conversion-initiation.",
+      "keyIdeas": [
+        "New Perspective on Paul",
+        "Spirit-baptism as conversion-initiation"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "westerholm-perspectives",
+        "dunn-baptism-spirit"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "john-smyth",
+      "name": "John Smyth",
+      "born": 1570,
+      "died": 1612,
+      "circa": true,
+      "roles": [
+        "Separatist minister"
+      ],
+      "traditionIds": [
+        "baptist"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "English Separatist who in Amsterdam (1609) baptized himself and his congregation on profession of faith, founding the first identifiable Baptist church; he later sought union with the Waterlander Mennonites.",
+      "keyIdeas": [
+        "Believers’ baptism",
+        "Gathered church"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "odcc",
+        "bebbington-evangelicalism"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "michael-sattler",
+      "name": "Michael Sattler",
+      "born": 1490,
+      "died": 1527,
+      "circa": true,
+      "roles": [
+        "former Benedictine prior",
+        "Anabaptist leader",
+        "martyr"
+      ],
+      "traditionIds": [
+        "anabaptist"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Former Benedictine prior who joined the Swiss Brethren, chaired the meeting that produced the Schleitheim Confession (February 1527), and was executed at Rottenburg in May 1527.",
+      "keyIdeas": [
+        "Believers’ baptism",
+        "Separation from the world",
+        "Nonresistance"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "williams-radical-reformation"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "works": [
+    {
+      "id": "campbell-christian-system",
+      "title": "The Christian System",
+      "authorId": "alexander-campbell",
+      "year": 1835,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "Campbell’s summary of Restorationist teaching, including immersion of penitent believers \"for the remission of sins\" (Acts 2:38) as the divinely appointed moment of forgiveness.",
+      "significance": "Defined the Stone-Campbell understanding of baptism.",
+      "doctrineIds": [
+        "baptism",
+        "modern-movements"
+      ],
+      "sources": [
+        "hughes-restoration"
+      ]
+    },
+    {
+      "id": "cyril-mystagogical-catecheses",
+      "title": "Mystagogical Catecheses",
+      "authorId": "cyril-of-jerusalem",
+      "year": 350,
+      "circa": true,
+      "language": "Greek",
+      "genre": "catechism",
+      "summary": "Five post-baptismal lectures given in Easter week in the Church of the Holy Sepulchre explaining baptism, chrismation and the Eucharist to the newly baptized (authorship sometimes assigned to Cyril’s successor John).",
+      "significance": "A vivid witness to fourth-century baptismal rites: renunciation facing west, threefold immersion, anointing.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/310120.htm",
+      "doctrineIds": [
+        "baptism",
+        "church-sacraments"
+      ],
+      "sources": [
+        "ferguson-baptism",
+        "anf-npnf"
+      ]
+    },
+    {
+      "id": "hubmaier-christian-baptism",
+      "title": "On the Christian Baptism of Believers (Von der christlichen Taufe der Gläubigen)",
+      "authorId": "balthasar-hubmaier",
+      "year": 1525,
+      "circa": false,
+      "language": "German",
+      "genre": "treatise",
+      "summary": "Hubmaier’s systematic defence of believers’ baptism against Zwingli: the order of Christ’s command is preaching, faith, then baptism as a public pledge.",
+      "significance": "The most learned early Anabaptist argument for believers’ baptism.",
+      "doctrineIds": [
+        "baptism"
+      ],
+      "sources": [
+        "williams-radical-reformation"
+      ]
+    },
+    {
+      "id": "schleitheim-confession",
+      "title": "Schleitheim Confession (Brotherly Union)",
+      "authorId": "michael-sattler",
+      "year": 1527,
+      "circa": false,
+      "language": "German",
+      "genre": "confession",
+      "summary": "Seven articles agreed by Swiss Brethren at Schleitheim, 24 February 1527: baptism only for those who have learned repentance and amendment of life, the ban, the breaking of bread, separation from the world, pastors, the sword and the oath.",
+      "significance": "Earliest Anabaptist confession; defined the believers’-church pattern.",
+      "doctrineIds": [
+        "baptism",
+        "ethics-church-state"
+      ],
+      "sources": [
+        "williams-radical-reformation",
+        "schaff-creeds"
+      ]
+    },
+    {
+      "id": "tertullian-on-baptism",
+      "title": "On Baptism (De baptismo)",
+      "authorId": "tertullian",
+      "year": 203,
+      "circa": true,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "The oldest surviving Christian treatise on baptism, written against a Cainite teacher who denied its necessity; it defends water baptism and counsels delaying baptism for little children and the unmarried.",
+      "significance": "Earliest evidence both for infant baptism being practised and for a dissenting counsel to delay it.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/0321.htm",
+      "doctrineIds": [
+        "baptism"
+      ],
+      "sources": [
+        "ferguson-baptism",
+        "anf-npnf"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bruner-spirit",
+      "title": "A Theology of the Holy Spirit: The Pentecostal Experience and the New Testament Witness",
+      "author": "Frederick Dale Bruner",
+      "year": 1970,
+      "kind": "secondary"
+    },
+    {
+      "id": "dunn-baptism-spirit",
+      "title": "Baptism in the Holy Spirit",
+      "author": "James D. G. Dunn",
+      "year": 1970,
+      "kind": "secondary"
+    },
+    {
+      "id": "ferguson-baptism",
+      "title": "Baptism in the Early Church: History, Theology, and Liturgy in the First Five Centuries",
+      "author": "Everett Ferguson",
+      "year": 2009,
+      "kind": "secondary"
+    },
+    {
+      "id": "jewett-infant-baptism",
+      "title": "Infant Baptism and the Covenant of Grace",
+      "author": "Paul K. Jewett",
+      "year": 1978,
+      "kind": "secondary"
+    },
+    {
+      "id": "schreiner-wright-believers",
+      "title": "Believer's Baptism: Sign of the New Covenant in Christ",
+      "author": "Thomas R. Schreiner and Shawn D. Wright, eds.",
+      "year": 2006,
+      "kind": "secondary"
+    },
+    {
+      "id": "westerholm-perspectives",
+      "title": "Perspectives Old and New on Paul: The \"Lutheran\" Paul and His Critics",
+      "author": "Stephen Westerholm",
+      "year": 2004,
+      "kind": "secondary"
+    },
+    {
+      "id": "wright-baptism-history",
+      "title": "What Is Baptism? / Infant Baptism in Historical Perspective",
+      "author": "David F. Wright",
+      "year": 2007,
+      "kind": "secondary"
+    }
+  ]
+}

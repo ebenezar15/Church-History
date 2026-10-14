@@ -1,0 +1,1174 @@
+{
+  "sources": [
+    { "id": "grillmeier-christ", "title": "Christ in Christian Tradition (vols 1–2)", "author": "Aloys Grillmeier", "year": "1965–1996", "kind": "secondary" },
+    { "id": "mcguckin-cyril", "title": "St Cyril of Alexandria: The Christological Controversy", "author": "John A. McGuckin", "year": 1994, "kind": "secondary" },
+    { "id": "price-gaddis-chalcedon", "title": "The Acts of the Council of Chalcedon (3 vols)", "author": "Richard Price & Michael Gaddis (trans.)", "year": 2005, "kind": "primary" },
+    { "id": "oriental-orthodox-dialogue-1990", "title": "Joint Commission of the Theological Dialogue between the Orthodox Church and the Oriental Orthodox Churches: Second Agreed Statement (Chambésy)", "year": 1990, "kind": "primary" },
+    { "id": "common-christological-declaration-1994", "title": "Common Christological Declaration between the Catholic Church and the Assyrian Church of the East", "author": "Pope John Paul II & Patriarch Mar Dinkha IV", "year": 1994, "kind": "primary", "url": "https://www.christianunity.va/content/unitacristiani/en/dialoghi/sezione-orientale/chiesa-assira-dell-oriente/dichiarazioni-comuni/common-christological-declaration.html" },
+    { "id": "evans-kenotic", "title": "Exploring Kenotic Christology: The Self-Emptying of God", "author": "C. Stephen Evans (ed.)", "year": 2006, "kind": "secondary" }
+  ],
+  "doctrines": [
+    {
+      "id": "christology",
+      "name": "Christology",
+      "icon": "cross",
+      "order": 2,
+      "question": "If Jesus Christ is truly God, how is he also truly human — and how are deity and humanity united in one Christ?",
+      "summary": "Once Nicaea confessed the Son fully God, the question became how God the Word is also a real man. Docetists denied a real body; adoptionists denied real deity; Apollinaris denied a human mind; the Antiochene school stressed two complete natures, the Alexandrian school one incarnate Word. Ephesus (431) and Chalcedon (451) produced the formula ‘one person in two natures’ — and three lasting communions: Chalcedonian (Orthodox, Catholic, Protestant), Miaphysite (Oriental Orthodox) and East Syriac (Church of the East). Later debates concerned Christ's wills (681), his self-emptying (kenotic Christology) and whether he could have sinned.",
+      "longText": "The earliest Christological controversies concerned Christ's humanity, not his deity. Ignatius of Antioch (c. 110) wrote against those who said Christ ‘only seemed to suffer’ (Greek dokein, hence docetism), and the Johannine letters insist that ‘Jesus Christ is come in the flesh’ (1 John 4:2). Gnostic and Marcionite teachers distinguished the heavenly Christ from the man Jesus or denied his birth. At the other pole, Ebionites and later adoptionists held that Jesus was a man chosen and filled with God's power.\n\nAfter Nicaea, the issue sharpened. Apollinaris of Laodicea, a staunch Nicene, proposed that in Christ the divine Word took the place of the human rational soul — guaranteeing a single, sinless subject. Gregory of Nazianzus replied with a principle that governed all later Christology: ‘that which He has not assumed He has not healed’. Apollinarianism was condemned at Constantinople (381).\n\nTwo schools then clashed. Antiochene theologians (Diodore of Tarsus, Theodore of Mopsuestia, Nestorius) stressed the full humanity of Jesus — his growth, temptation, and obedience — and spoke of the Word dwelling in the man as in a temple, joined in one prosopon (presentation). Alexandrian theologians (Athanasius, Cyril) stressed that the one subject of every act of Christ is God the Word himself, who ‘became flesh’. When Nestorius, archbishop of Constantinople, objected to calling Mary Theotokos (‘God-bearer’), preferring Christotokos, Cyril of Alexandria led the opposition. The Council of Ephesus (431) deposed Nestorius and affirmed Theotokos; the Formula of Reunion (433) reconciled Cyril with the Antiochenes.\n\nThe Archimandrite Eutyches then taught that after the union Christ's humanity was not consubstantial with ours. The ‘Robber Synod’ of Ephesus (449) vindicated him; Pope Leo I's Tome insisted on two natures each acting in communion with the other. The Council of Chalcedon (451) defined Christ as ‘one and the same… acknowledged in two natures, without confusion, without change, without division, without separation’. For Rome and Constantinople this balanced Cyril and Leo; for many in Egypt, Syria and Armenia, ‘in two natures’ sounded Nestorian and betrayed Cyril's ‘one incarnate nature of God the Word’. The Miaphysite churches — Coptic, Ethiopian, Armenian, Syriac, later Malankara — separated over the following century. The Church of the East in Persia, already independent and honouring Theodore, formally adopted a dyophysite Christology at synods in 484–486 and later (Babai the Great) of two natures and two qnome in one parsopa.\n\nImperial attempts at reunion — the Henotikon (482), Justinian's condemnation of the ‘Three Chapters’ at Constantinople II (553), and Heraclius' monoenergism and monothelitism (‘one will’) — failed. Maximus the Confessor, mutilated for his resistance, argued that a complete human nature must have a human will; the Third Council of Constantinople (681) defined two wills and two energies harmoniously united.\n\nModern Christology has asked new questions. Lutheran and Anglican ‘kenotic’ theologians (Thomasius, Gore) proposed that the Word laid aside divine attributes such as omniscience in becoming man (Philippians 2:7). Liberal theologians (Schleiermacher, Ritschl) built Christology ‘from below’, beginning with the historical Jesus. Evangelical and Reformed theologians debate whether Christ was impeccable (unable to sin) or only sinless. Ecumenically, the late 20th century brought remarkable rapprochement: Catholic and Oriental Orthodox declarations (1971, 1973, 1984), the Orthodox–Oriental Orthodox agreed statements (1989–90), and the Catholic–Assyrian Common Christological Declaration (1994) concluded that the 5th-century divisions were largely about terminology.",
+      "flow": {
+        "nodes": [
+          { "id": "q-god-and-man", "kind": "question", "label": "How is Christ both truly God and truly human — and one?", "text": "After Nicaea settled that the Son is fully God, the question became how God the Word is also a complete human being without becoming two Christs.", "quoteIds": [] },
+          { "id": "s-phil-2", "kind": "scripture", "label": "Phil 2:6–8 — ‘emptied himself, taking the form of a servant’", "year": 55, "text": "The kenosis hymn: basic for every view of how the divine Son became human; central to modern kenotic Christology.", "quoteIds": [] },
+          { "id": "s-heb-4", "kind": "scripture", "label": "Heb 2:17; 4:15 — ‘in all points tempted like as we are, yet without sin’", "year": 65, "text": "Full humanity, real temptation and sinlessness — the root of the impeccability debate.", "quoteIds": [] },
+          { "id": "s-matt-26", "kind": "scripture", "label": "Matt 26:39 — ‘not as I will, but as thou wilt’", "year": 75, "text": "Gethsemane: the key text in the monothelite controversy over Christ's human will.", "quoteIds": [] },
+          { "id": "s-luke-2", "kind": "scripture", "label": "Luke 2:52; Mark 13:32 — ‘increased in wisdom’; ‘neither the Son’", "year": 80, "text": "Growth and limited knowledge: Antiochene evidence for a full human mind; kenotic evidence for self-limitation.", "quoteIds": [] },
+          { "id": "s-john-1-14", "kind": "scripture", "label": "John 1:14; 1 John 4:2 — ‘the Word was made flesh’", "year": 90, "text": "The Alexandrian keystone: the Word himself became flesh. The Johannine letters already oppose those who deny Christ ‘come in the flesh’.", "quoteIds": [] },
+          { "id": "p-docetism", "kind": "position", "label": "Docetism: Christ only seemed human", "year": 100, "ref": { "type": "position", "id": "docetism" }, "text": "Spiritual Christ, phantom body; found among Gnostics and Marcion.", "quoteIds": [] },
+          { "id": "p-adoptionism", "kind": "position", "label": "Adoptionism: a man adopted as Son", "year": 100, "ref": { "type": "position", "id": "adoptionism" }, "text": "Ebionites, Theodotus, Paul of Samosata; revived in 8th-century Spain.", "quoteIds": [] },
+          { "id": "v-ignatius", "kind": "voice", "label": "Ignatius: ‘God existing in flesh’ — truly born, truly suffered", "year": 110, "ref": { "type": "person", "id": "ignatius-of-antioch" }, "text": "On the road to martyrdom in Rome, Ignatius insists the reality of Christ's flesh is the basis of the Eucharist and of his own suffering.", "quoteIds": ["ignatius-one-physician", "ignatius-seemed-to-suffer"] },
+          { "id": "v-irenaeus", "kind": "voice", "label": "Irenaeus: he became what we are", "year": 180, "ref": { "type": "person", "id": "irenaeus" }, "text": "Recapitulation: Christ sums up and heals human life by living it in full.", "quoteIds": ["irenaeus-became-what-we-are"] },
+          { "id": "p-apollinarianism", "kind": "position", "label": "Apollinaris: the Word replaces the human mind", "year": 362, "ref": { "type": "position", "id": "apollinarianism" }, "text": "One divine subject, one nature; no human rational soul in Christ.", "quoteIds": [] },
+          { "id": "a-unassumed", "kind": "argument", "label": "Gregory: ‘that which He has not assumed He has not healed’", "year": 382, "ref": { "type": "person", "id": "gregory-of-nazianzus" }, "text": "If Christ lacked a human mind, the human mind — the seat of sin — is not redeemed.", "quoteIds": ["gregory-nazianzus-unassumed"] },
+          { "id": "d-constantinople-381", "kind": "decision", "label": "Constantinople I condemns Apollinarianism", "year": 381, "ref": { "type": "event", "id": "council-of-constantinople-381" }, "text": "The council anathematises the Apollinarians among others.", "quoteIds": [] },
+          { "id": "v-theodore", "kind": "voice", "label": "Antioch: Theodore of Mopsuestia — two complete natures", "year": 400, "ref": { "type": "person", "id": "theodore-of-mopsuestia" }, "text": "The Word indwells the assumed man ‘by good pleasure’; strong emphasis on Christ's human moral struggle.", "quoteIds": [] },
+          { "id": "p-nestorian", "kind": "position", "label": "Nestorius: ‘Christotokos’, two natures conjoined", "year": 428, "ref": { "type": "position", "id": "east-syriac-dyophysitism" }, "text": "Nestorius objects to calling Mary ‘Mother of God’; opponents accuse him of teaching two sons.", "quoteIds": ["nestorius-two-months-old"] },
+          { "id": "a-cyril", "kind": "argument", "label": "Cyril: one incarnate Word; Mary is Theotokos", "year": 430, "ref": { "type": "person", "id": "cyril-of-alexandria" }, "text": "The single subject of Christ's acts and sufferings is God the Word; the Twelve Anathemas.", "quoteIds": ["cyril-anathema-theotokos", "cyril-one-incarnate-nature"] },
+          { "id": "d-ephesus", "kind": "decision", "label": "Council of Ephesus deposes Nestorius", "year": 431, "ref": { "type": "event", "id": "council-of-ephesus-431" }, "text": "Theotokos affirmed; rival Antiochene council; reconciled by the Formula of Reunion (433).", "quoteIds": [] },
+          { "id": "c-church-east", "kind": "consequence", "label": "Church of the East adopts dyophysite Christology", "year": 486, "ref": { "type": "tradition", "id": "church-of-the-east" }, "text": "Synods of Beth Lapat (484) and Seleucia-Ctesiphon (486); the School of Edessa moves to Nisibis; the East Syriac church spreads to India, Central Asia and China.", "quoteIds": [] },
+          { "id": "p-eutyches", "kind": "position", "label": "Eutyches: humanity absorbed in deity", "year": 448, "ref": { "type": "position", "id": "eutychianism" }, "text": "Two natures before the union, one after; Christ's body not consubstantial with ours.", "quoteIds": [] },
+          { "id": "d-ephesus-449", "kind": "decision", "label": "Second Ephesus (‘Robber Synod’) restores Eutyches", "year": 449, "ref": { "type": "person", "id": "dioscorus" }, "text": "Under Dioscorus of Alexandria; Flavian of Constantinople is deposed and dies; Leo calls it a latrocinium.", "quoteIds": [] },
+          { "id": "a-leo", "kind": "argument", "label": "Leo's Tome: each nature acts in communion with the other", "year": 449, "ref": { "type": "work", "id": "tome-of-leo" }, "text": "Two natures, one person; the Word does what belongs to the Word, the flesh what belongs to the flesh.", "quoteIds": ["leo-each-form"] },
+          { "id": "d-chalcedon", "kind": "decision", "label": "Council of Chalcedon: one person ‘in two natures’", "year": 451, "ref": { "type": "event", "id": "council-of-chalcedon-451" }, "text": "Without confusion, change, division or separation. Dioscorus deposed.", "quoteIds": [] },
+          { "id": "p-chalcedonian", "kind": "position", "label": "Chalcedonian Dyophysitism", "year": 451, "ref": { "type": "position", "id": "chalcedonian-dyophysitism" }, "text": "Received by Rome, Constantinople and later the Protestant churches.", "quoteIds": [] },
+          { "id": "p-miaphysite", "kind": "position", "label": "Miaphysitism: one united divine-human nature", "year": 451, "ref": { "type": "position", "id": "miaphysitism" }, "text": "Cyril's ‘one incarnate nature of God the Word’; rejects both Eutyches and Chalcedon. Severus of Antioch its great theologian.", "quoteIds": [] },
+          { "id": "c-oriental-split", "kind": "consequence", "label": "Oriental Orthodox communion separates", "year": 518, "ref": { "type": "tradition", "id": "oriental-orthodox" }, "text": "Henotikon (482) fails; Severus exiled (518); Jacob Baradaeus ordains a parallel hierarchy (from 542). Egypt, Ethiopia, Armenia, much of Syria remain non-Chalcedonian.", "quoteIds": [] },
+          { "id": "d-constantinople-553", "kind": "decision", "label": "Constantinople II condemns the ‘Three Chapters’", "year": 553, "ref": { "type": "event", "id": "second-council-of-constantinople-553" }, "text": "Justinian reads Chalcedon in a Cyrilline (‘Neo-Chalcedonian’) sense, condemning Theodore of Mopsuestia, to win back Miaphysites. It does not.", "quoteIds": [] },
+          { "id": "p-monothelite", "kind": "position", "label": "Monoenergism / Monothelitism: one will", "year": 633, "ref": { "type": "position", "id": "monothelitism" }, "text": "Patriarch Sergius and Emperor Heraclius' compromise: two natures, one divine-human operation and will (Ekthesis, 638).", "quoteIds": [] },
+          { "id": "a-maximus", "kind": "argument", "label": "Maximus the Confessor: a full humanity needs a human will", "year": 645, "ref": { "type": "person", "id": "maximus-the-confessor" }, "text": "In Gethsemane the human will freely submits to the divine. Maximus' tongue and right hand were cut off (662).", "quoteIds": ["maximus-two-wills"] },
+          { "id": "d-constantinople-681", "kind": "decision", "label": "Constantinople III: two wills, two energies", "year": 681, "ref": { "type": "event", "id": "third-council-of-constantinople-681" }, "text": "The human will follows the divine without resistance; Pope Honorius I posthumously condemned.", "quoteIds": [] },
+          { "id": "p-from-below", "kind": "position", "label": "Christology from below (Schleiermacher, liberal theology)", "year": 1830, "ref": { "type": "position", "id": "christology-from-below" }, "text": "Christ's divinity as the perfect strength of his God-consciousness.", "quoteIds": ["schleiermacher-god-consciousness"] },
+          { "id": "p-kenotic", "kind": "position", "label": "Kenotic Christology", "year": 1853, "ref": { "type": "position", "id": "kenotic-christology" }, "text": "Thomasius (1853), Gore (1889–91), P. T. Forsyth: the Son lays aside or limits divine attributes in becoming man.", "quoteIds": [] },
+          { "id": "p-impeccability", "kind": "position", "label": "Could Christ have sinned? Impeccability vs peccability", "year": 1830, "ref": { "type": "position", "id": "impeccability" }, "text": "Edward Irving's teaching that Christ took fallen flesh (deposed 1833) and later evangelical debate (Hodge vs Shedd).", "quoteIds": [] },
+          { "id": "m-oriental-dialogue", "kind": "modern", "label": "Orthodox–Oriental Orthodox agreed statements", "year": 1990, "text": "Anba Bishoy (1989) and Chambésy (1990): both families share the same faith expressed in different terms; Catholic–Coptic (1973) and Catholic–Syriac (1984) declarations.", "quoteIds": [] },
+          { "id": "m-assyrian-1994", "kind": "modern", "label": "Catholic–Assyrian Common Christological Declaration", "year": 1994, "text": "John Paul II and Mar Dinkha IV: divisions due largely to misunderstanding; the Assyrian Church may call Mary ‘Mother of Christ our God and Saviour’.", "quoteIds": [] },
+          { "id": "m-today", "kind": "modern", "label": "Today: three Christological families in growing dialogue", "year": 2026, "text": "Chalcedonians (Catholic, Eastern Orthodox, most Protestants), Miaphysites (c. 60 million Oriental Orthodox, largely in Ethiopia, Egypt, Armenia, India, Syria) and the Assyrian/East Syriac churches; full communion not yet restored.", "quoteIds": [] }
+        ],
+        "edges": [
+          { "from": "q-god-and-man", "to": "s-phil-2", "kind": "leads-to" },
+          { "from": "q-god-and-man", "to": "s-heb-4", "kind": "leads-to" },
+          { "from": "q-god-and-man", "to": "s-matt-26", "kind": "leads-to" },
+          { "from": "q-god-and-man", "to": "s-luke-2", "kind": "leads-to" },
+          { "from": "q-god-and-man", "to": "s-john-1-14", "kind": "leads-to" },
+          { "from": "s-john-1-14", "to": "v-ignatius", "kind": "supports" },
+          { "from": "v-ignatius", "to": "p-docetism", "kind": "objects" },
+          { "from": "s-luke-2", "to": "p-adoptionism", "kind": "supports" },
+          { "from": "v-ignatius", "to": "v-irenaeus", "kind": "develops" },
+          { "from": "v-irenaeus", "to": "p-docetism", "kind": "rejects" },
+          { "from": "s-john-1-14", "to": "p-apollinarianism", "kind": "supports" },
+          { "from": "p-apollinarianism", "to": "a-unassumed", "kind": "leads-to" },
+          { "from": "a-unassumed", "to": "p-apollinarianism", "kind": "objects" },
+          { "from": "p-apollinarianism", "to": "d-constantinople-381", "kind": "leads-to" },
+          { "from": "d-constantinople-381", "to": "p-apollinarianism", "kind": "rejects" },
+          { "from": "s-heb-4", "to": "v-theodore", "kind": "supports" },
+          { "from": "d-constantinople-381", "to": "v-theodore", "kind": "leads-to" },
+          { "from": "v-theodore", "to": "p-nestorian", "kind": "develops" },
+          { "from": "p-nestorian", "to": "a-cyril", "kind": "leads-to" },
+          { "from": "a-cyril", "to": "p-nestorian", "kind": "objects" },
+          { "from": "s-john-1-14", "to": "a-cyril", "kind": "supports" },
+          { "from": "a-cyril", "to": "d-ephesus", "kind": "supports" },
+          { "from": "d-ephesus", "to": "p-nestorian", "kind": "rejects" },
+          { "from": "d-ephesus", "to": "c-church-east", "kind": "leads-to" },
+          { "from": "a-cyril", "to": "p-eutyches", "kind": "develops" },
+          { "from": "p-eutyches", "to": "d-ephesus-449", "kind": "leads-to" },
+          { "from": "d-ephesus-449", "to": "a-leo", "kind": "leads-to" },
+          { "from": "a-leo", "to": "p-eutyches", "kind": "objects" },
+          { "from": "a-leo", "to": "d-chalcedon", "kind": "supports" },
+          { "from": "d-chalcedon", "to": "p-eutyches", "kind": "rejects" },
+          { "from": "d-chalcedon", "to": "p-chalcedonian", "kind": "decides" },
+          { "from": "d-chalcedon", "to": "p-miaphysite", "kind": "leads-to" },
+          { "from": "a-cyril", "to": "p-miaphysite", "kind": "develops" },
+          { "from": "p-miaphysite", "to": "d-chalcedon", "kind": "objects" },
+          { "from": "p-miaphysite", "to": "c-oriental-split", "kind": "leads-to" },
+          { "from": "p-chalcedonian", "to": "d-constantinople-553", "kind": "develops" },
+          { "from": "c-oriental-split", "to": "d-constantinople-553", "kind": "leads-to" },
+          { "from": "d-constantinople-553", "to": "p-monothelite", "kind": "leads-to" },
+          { "from": "s-matt-26", "to": "a-maximus", "kind": "supports" },
+          { "from": "p-monothelite", "to": "a-maximus", "kind": "leads-to" },
+          { "from": "a-maximus", "to": "p-monothelite", "kind": "objects" },
+          { "from": "a-maximus", "to": "d-constantinople-681", "kind": "supports" },
+          { "from": "d-constantinople-681", "to": "p-monothelite", "kind": "rejects" },
+          { "from": "p-adoptionism", "to": "p-from-below", "kind": "develops" },
+          { "from": "s-phil-2", "to": "p-kenotic", "kind": "supports" },
+          { "from": "d-constantinople-681", "to": "p-kenotic", "kind": "leads-to" },
+          { "from": "s-heb-4", "to": "p-impeccability", "kind": "supports" },
+          { "from": "d-constantinople-681", "to": "p-impeccability", "kind": "leads-to" },
+          { "from": "c-oriental-split", "to": "m-oriental-dialogue", "kind": "leads-to" },
+          { "from": "c-church-east", "to": "m-assyrian-1994", "kind": "leads-to" },
+          { "from": "m-oriental-dialogue", "to": "m-today", "kind": "leads-to" },
+          { "from": "m-assyrian-1994", "to": "m-today", "kind": "leads-to" },
+          { "from": "p-kenotic", "to": "m-today", "kind": "leads-to" },
+          { "from": "p-from-below", "to": "m-today", "kind": "leads-to" },
+          { "from": "p-impeccability", "to": "m-today", "kind": "leads-to" }
+        ]
+      },
+      "sources": ["grillmeier-christ", "kelly-doctrines", "pelikan-christian-tradition", "meyendorff-imperial-unity", "mcguckin-cyril", "baum-winkler-east", "price-gaddis-chalcedon", "bible"]
+    }
+  ],
+  "positions": [
+    {
+      "id": "docetism",
+      "doctrineId": "christology",
+      "name": "Docetism",
+      "altNames": ["Phantasiasm", "Gnostic Christology (in part)"],
+      "oneLine": "The divine Christ only seemed (dokein) to have a real body, to be born and to suffer; true divinity cannot be touched by flesh or pain.",
+      "coreClaims": [
+        "Matter and flesh are unworthy of, or incompatible with, the pure divine.",
+        "Christ's body was a phantom or a heavenly, non-material body.",
+        "The heavenly Christ did not truly suffer or die; in some versions he departed from the man Jesus before the cross, or another (Simon of Cyrene) was crucified in his place.",
+        "Salvation is revelation of saving knowledge, not redemption of the body."
+      ],
+      "keyTexts": ["Romans 8:3 (‘likeness of sinful flesh’)", "Philippians 2:7 (‘likeness of men’)", "John 6:63", "Luke 24:31 (disappearance)"],
+      "origin": "Opposed already in 1 John 4:2–3 and 2 John 7 and by Ignatius of Antioch (c. 110); held in varied forms by Cerinthus, Basilides, Valentinian Gnostics, Marcion and later Manichaeans.",
+      "originYear": 100,
+      "proponentIds": ["marcion"],
+      "proponentsOther": ["Cerinthus (separation Christology)", "Basilides", "Valentinus' followers", "Serapion's Gospel of Peter controversy (c. 190)", "Manichaeans"],
+      "traditionIds": ["gnostic", "marcionite"],
+      "strongestArguments": [
+        "It protects divine transcendence and impassibility, widely assumed in ancient philosophy.",
+        "It can appeal to Paul's ‘likeness’ language.",
+        "It made sense to ancient audiences familiar with gods appearing in human guise."
+      ],
+      "strongestObjections": [
+        "1 John 4:2–3: ‘every spirit that confesseth not that Jesus Christ is come in the flesh is not of God.’",
+        "If Christ did not truly suffer, the cross, the Eucharist and Christian martyrdom are emptied of meaning (Ignatius).",
+        "The resurrection narratives stress a body of flesh and bones (Luke 24:39; John 20:27).",
+        "Salvation of the body requires that the Saviour truly took a body (Irenaeus, Tertullian, On the Flesh of Christ)."
+      ],
+      "responses": [
+        "Docetists read the ‘flesh’ passages as accommodated appearances for weak believers.",
+        "Gnostic teachers argued that the spirit, not the body, is what is saved, so the Saviour need not have a material body."
+      ],
+      "consequences": [
+        "Its rejection made the reality of Christ's flesh, the bodily resurrection and the goodness of creation foundational to Christian orthodoxy.",
+        "Shaped the earliest rule-of-faith formulas (‘born… suffered… crucified… buried’) in the Apostles' Creed.",
+        "Echoes appear in later movements (Cathars, some Anabaptist ‘celestial flesh’ Christologies such as Melchior Hoffman's and Menno Simons')."
+      ],
+      "relatedPositionIds": ["adoptionism", "eutychianism", "chalcedonian-dyophysitism"],
+      "standing": "rejected-by-councils",
+      "sources": ["kelly-doctrines", "king-gnosticism", "anf-npnf"],
+      "confidence": "established"
+    },
+    {
+      "id": "adoptionism",
+      "doctrineId": "christology",
+      "name": "Adoptionism",
+      "altNames": ["Ebionite Christology", "Psilanthropism", "Spanish Adoptionism (8th c.)"],
+      "oneLine": "Jesus was a righteous man whom God chose and adopted as his Son — at his baptism, resurrection or conception — rather than the eternal Son incarnate.",
+      "coreClaims": [
+        "Jesus was fully and only human (in early forms), born of Joseph and Mary or of the Virgin.",
+        "God's Spirit or power came upon him (at baptism), making him Messiah and Son by adoption.",
+        "His sonship was a reward for perfect obedience.",
+        "(Spanish Adoptionism, 8th c., a different and more orthodox form) The eternal Son is Son by nature, but Christ in his humanity is Son by adoption."
+      ],
+      "keyTexts": ["Mark 1:9–11", "Psalm 2:7", "Acts 2:36", "Acts 13:33", "Romans 1:4", "Hebrews 5:5–9"],
+      "origin": "Early Jewish-Christian Ebionites; Theodotus the Cobbler at Rome (c. 190) and Paul of Samosata (deposed 268). In 8th-century Spain, Elipandus of Toledo and Felix of Urgell taught that Christ's humanity was adopted; condemned at Frankfurt (794) under Charlemagne, after Alcuin's opposition.",
+      "originYear": 100,
+      "proponentIds": ["theodotus-of-byzantium", "paul-of-samosata", "elipandus-of-toledo"],
+      "proponentsOther": ["Ebionites", "Artemon", "Felix of Urgell", "some modern ‘low’ Christologies"],
+      "traditionIds": ["early-church"],
+      "strongestArguments": [
+        "The baptismal voice (‘Thou art my beloved Son’) echoes the royal adoption formula of Psalm 2:7.",
+        "Early preaching in Acts speaks of God making Jesus Lord and Christ at the resurrection.",
+        "It places Jesus' real human obedience at the centre."
+      ],
+      "strongestObjections": [
+        "It contradicts the pre-existence and agency in creation of the Son (John 1:1–3; Colossians 1:16; Hebrews 1:2).",
+        "A man adopted by grace differs only in degree from other saints; he could not unite God and humanity.",
+        "Against Spanish Adoptionism: sonship belongs to the person, not the nature; there is only one Son, so two sonships divide Christ (Alcuin)."
+      ],
+      "responses": [
+        "Ebionites and Theodotians appealed to early synoptic and Acts traditions as more primitive than John.",
+        "Elipandus argued that he followed the Mozarabic liturgy's language of the ‘adopted man’ and was protecting Christ's full humanity."
+      ],
+      "consequences": [
+        "Shaped early creeds by provoking emphasis on the Son's eternal pre-existence.",
+        "The Spanish controversy highlighted tensions between Mozarabic Christians under Muslim rule and the Frankish church.",
+        "Modern historical-critical scholarship revived debate about ‘exaltation’ Christology in the earliest sources."
+      ],
+      "relatedPositionIds": ["dynamic-monarchianism", "christology-from-below", "east-syriac-dyophysitism"],
+      "standing": "rejected-by-councils",
+      "sources": ["kelly-doctrines", "eusebius-hist-eccl", "pelikan-christian-tradition"],
+      "confidence": "established"
+    },
+    {
+      "id": "apollinarianism",
+      "doctrineId": "christology",
+      "name": "Apollinarianism",
+      "altNames": ["Logos–sarx Christology (extreme form)"],
+      "oneLine": "In Christ the divine Word took the place of the human rational mind (nous), uniting with a human body and animal soul to form one nature.",
+      "coreClaims": [
+        "Christ is one living, single subject: the divine Word enfleshed.",
+        "Two complete natures (each with its own mind) would mean two persons and two sons.",
+        "A human mind is changeable and prone to sin; the divine mind in Christ guarantees sinlessness.",
+        "‘One incarnate nature of God the Word’ (a phrase Cyril later adopted, believing it Athanasian)."
+      ],
+      "keyTexts": ["John 1:14", "1 Corinthians 2:16", "Philippians 2:7", "1 Corinthians 15:47"],
+      "origin": "Apollinaris (Apollinarius), bishop of Laodicea in Syria and a strong Nicene ally of Athanasius, developed it c. 360–375; condemned by Roman synods (377), Antioch (379) and Constantinople (381).",
+      "originYear": 362,
+      "proponentIds": ["apollinaris-of-laodicea"],
+      "proponentsOther": ["Vitalis of Antioch", "Polemon", "Timothy of Berytus"],
+      "traditionIds": ["early-church"],
+      "strongestArguments": [
+        "It secures the unity of Christ as one acting subject, avoiding two Sons.",
+        "It explains Christ's sinlessness simply.",
+        "It takes John 1:14 (‘the Word became flesh’, not ‘became a man’) at face value."
+      ],
+      "strongestObjections": [
+        "Gregory of Nazianzus: ‘that which He has not assumed He has not healed’ — the human mind is the seat of sin and must be redeemed.",
+        "The Gospels show Christ's human ignorance, growth, fear and choice (Luke 2:52; Mark 13:32; Matthew 26:39).",
+        "A Christ without a human mind is not ‘consubstantial with us’ and so not a true example or representative."
+      ],
+      "responses": [
+        "Apollinarians replied that Christ's divine mind could still experience human limitation through the flesh.",
+        "Some argued that the true image of God in humanity is the Logos-mind, which Christ restores by being it."
+      ],
+      "consequences": [
+        "Established the principle of the ‘unassumed is unhealed’, which governs later Christology.",
+        "Apollinarian writings circulated under orthodox names (Athanasius, Julius of Rome), unwittingly shaping Cyril's ‘one nature’ formula."
+      ],
+      "relatedPositionIds": ["miaphysitism", "eutychianism", "chalcedonian-dyophysitism"],
+      "standing": "rejected-by-councils",
+      "sources": ["kelly-doctrines", "grillmeier-christ", "anf-npnf"],
+      "confidence": "established"
+    },
+    {
+      "id": "east-syriac-dyophysitism",
+      "doctrineId": "christology",
+      "name": "Antiochene / East Syriac Dyophysitism (called ‘Nestorianism’ by opponents)",
+      "altNames": ["Nestorianism (opponents' term)", "Two-qnome Christology", "Antiochene Christology"],
+      "oneLine": "Christ is one person (parsopa / prosopon) in two complete natures, each with its own concrete individuation (qnoma), united without mixture — so that Mary is best called ‘Christotokos’ or ‘Mother of Christ’.",
+      "coreClaims": [
+        "Godhead and manhood in Christ are each complete and remain distinct; the impassible Word did not suffer in his divine nature.",
+        "The union is a union of good pleasure and of one prosopon — one Lord, one Son, worshipped together.",
+        "Divine attributes and human experiences should be ascribed carefully: ‘God was born’ or ‘God died’ is misleading.",
+        "(Church of the East, Babai the Great, c. 612) two natures, two qnome, one parsopa of the Son.",
+        "The Church of the East has never accepted that it teaches ‘two sons’ or the views condemned at Ephesus."
+      ],
+      "keyTexts": ["Luke 2:52", "John 2:19–21 (temple of his body)", "Hebrews 2:10–18", "Hebrews 5:7–9", "Philippians 2:6–8", "Colossians 2:9"],
+      "origin": "Antiochene theology of Diodore of Tarsus and Theodore of Mopsuestia (d. 428), taken up by Nestorius as archbishop of Constantinople (428); condemned at Ephesus (431). The Church of the East in the Persian Empire, honouring Theodore as ‘the Interpreter’, adopted a dyophysite Christology at synods of 484–486 and 612 and through Babai the Great.",
+      "originYear": 428,
+      "proponentIds": ["nestorius", "theodore-of-mopsuestia", "babai-the-great"],
+      "proponentsOther": ["Diodore of Tarsus", "Theodoret of Cyrrhus (early)", "Ibas of Edessa", "Narsai of Nisibis", "Mar Dinkha IV (modern)"],
+      "traditionIds": ["church-of-the-east", "assyrian-church-of-the-east"],
+      "strongestArguments": [
+        "It protects the full, struggling humanity of Jesus that the Gospels and Hebrews depict.",
+        "It preserves the impassibility and transcendence of God, avoiding the language of ‘God died’ that seemed to mix Creator and creature.",
+        "It anticipated Chalcedon's ‘two natures’ and Leo's Tome; Nestorius himself, reading the Tome late in life (Book of Heraclides), believed it agreed with him.",
+        "Many historians argue Nestorius was condemned partly through church politics and Cyril's aggressive tactics."
+      ],
+      "strongestObjections": [
+        "Cyril: if the subject of Christ's sufferings is not God the Word, then a mere man died for us and Christ is divided into two sons.",
+        "Rejecting Theotokos implies that the one born of Mary was not God — contradicting John 1:14.",
+        "A union ‘of good pleasure’ looks like the indwelling of a saint, differing only in degree.",
+        "Chalcedonians and Miaphysites alike reject the Church of the East's veneration of Theodore and Nestorius."
+      ],
+      "responses": [
+        "East Syriac theologians answer that ‘one parsopa’ means a true single Son and that they never taught two sons.",
+        "The 1994 Common Christological Declaration with Rome recognised that the Assyrian Church confesses the same faith in different terms, accepting ‘Mother of Christ our God and Saviour’.",
+        "Scholars note that Syriac qnoma does not mean ‘person’, so ‘two qnome’ is not ‘two persons’."
+      ],
+      "consequences": [
+        "The Church of the East became the great missionary church of Asia: Persia, Arabia, India (Saint Thomas Christians), Central Asia, Mongolia and Tang China (Xi'an Stele, 781).",
+        "Its separation from the Roman-Byzantine church spared it imperial suspicion in Persia.",
+        "‘Nestorian’ became a pejorative label; the Assyrian Church of the East and the Chaldean Catholic Church are its heirs today."
+      ],
+      "relatedPositionIds": ["chalcedonian-dyophysitism", "miaphysitism", "adoptionism"],
+      "standing": "significant",
+      "sources": ["baum-winkler-east", "grillmeier-christ", "meyendorff-imperial-unity", "common-christological-declaration-1994", "moffett-asia"],
+      "confidence": "established"
+    },
+    {
+      "id": "eutychianism",
+      "doctrineId": "christology",
+      "name": "Eutychianism (Monophysitism in the strict sense)",
+      "altNames": ["Eutychianism", "Real Monophysitism"],
+      "oneLine": "Christ was ‘of two natures’ before the union but has only one nature after it, his humanity being absorbed into or transformed by the divinity, so that his body is not consubstantial with ours.",
+      "coreClaims": [
+        "After the incarnation there is one nature only.",
+        "Christ's humanity is not of the same essence as ours (Eutyches at the Synod of Constantinople, 448).",
+        "To speak of two natures after the union is Nestorian."
+      ],
+      "keyTexts": ["John 1:14", "John 3:13", "1 Corinthians 15:47"],
+      "origin": "Eutyches, an elderly archimandrite in Constantinople and fierce anti-Nestorian, condemned by Patriarch Flavian (448), restored by the Second Council of Ephesus (449), condemned at Chalcedon (451). Later rejected also by Miaphysite leaders such as Timothy Aelurus and Severus.",
+      "originYear": 448,
+      "proponentIds": ["eutyches"],
+      "proponentsOther": ["Some Julianists (aphthartodocetists, related)"],
+      "traditionIds": ["early-church"],
+      "strongestArguments": [
+        "It appeared to be the logical extreme of Cyril's insistence on one subject.",
+        "It honours the transfiguring power of the divine over flesh."
+      ],
+      "strongestObjections": [
+        "If Christ's humanity is not consubstantial with ours, he is not our representative and cannot heal our nature.",
+        "Rejected by Chalcedonians and Miaphysites alike — Oriental Orthodox churches anathematise Eutyches.",
+        "Contradicts the Gospel accounts of Christ's real hunger, fatigue and death."
+      ],
+      "responses": [
+        "Eutyches' supporters argued he meant only to deny a separate human person, and that he was a poor theologian rather than a heretic."
+      ],
+      "consequences": [
+        "Precipitated Leo's Tome and the Council of Chalcedon.",
+        "The label ‘Monophysite’ was later applied polemically to Miaphysites, who reject Eutyches."
+      ],
+      "relatedPositionIds": ["miaphysitism", "apollinarianism", "chalcedonian-dyophysitism"],
+      "standing": "rejected-by-councils",
+      "sources": ["grillmeier-christ", "price-gaddis-chalcedon", "kelly-doctrines"],
+      "confidence": "established"
+    },
+    {
+      "id": "miaphysitism",
+      "doctrineId": "christology",
+      "name": "Miaphysitism (called ‘Monophysite’ by opponents)",
+      "altNames": ["Cyrilline Christology", "Non-Chalcedonian Christology", "Monophysitism (opponents' term)"],
+      "oneLine": "Christ is one incarnate nature of God the Word — one united divine-human nature, from two, without mixture, confusion or alteration — in which full divinity and full humanity remain real.",
+      "coreClaims": [
+        "Following Cyril: ‘one incarnate nature (mia physis) of God the Word’.",
+        "Christ is from two natures, but after the union one cannot speak of ‘two natures’ as if two acting subjects.",
+        "His humanity is complete and consubstantial with ours; divinity and humanity are not mixed (Eutyches is anathematised).",
+        "Chalcedon's ‘in two natures’ and Leo's Tome reintroduce Nestorian division.",
+        "The one Word incarnate suffered in the flesh; Mary is Theotokos."
+      ],
+      "keyTexts": ["John 1:14", "Hebrews 2:14", "Galatians 4:4", "1 Corinthians 2:8 (‘crucified the Lord of glory’)"],
+      "origin": "Rooted in Cyril of Alexandria; Dioscorus of Alexandria (deposed at Chalcedon, 451); theologically developed by Timothy Aelurus, Philoxenus of Mabbug and above all Severus of Antioch (d. 538); church structures rebuilt by Jacob Baradaeus. The Armenian Church rejected Chalcedon formally in the 6th century (Dvin, 506 and 554).",
+      "originYear": 451,
+      "proponentIds": ["cyril-of-alexandria", "dioscorus", "severus-of-antioch", "jacob-baradaeus"],
+      "proponentsOther": ["Timothy Aelurus", "Philoxenus of Mabbug", "Theodosius of Alexandria", "Nerses Shnorhali (Armenian)", "Pope Shenouda III (modern)"],
+      "traditionIds": ["oriental-orthodox", "coptic-orthodox", "ethiopian-orthodox-tewahedo", "armenian-apostolic", "syriac-orthodox", "malankara-orthodox"],
+      "strongestArguments": [
+        "It is the faithful continuation of Cyril and of the Council of Ephesus, which Chalcedon itself claimed to follow.",
+        "It secures that the one who suffered and died is God the Word himself — the basis of salvation.",
+        "Before Chalcedon, ‘physis’ was often used to mean a concrete individual; ‘one nature’ therefore meant ‘one Christ’, not a mixture.",
+        "The Ethiopian word Tewahedo (‘made one’) expresses the unity that the Oriental churches see as the heart of the gospel."
+      ],
+      "strongestObjections": [
+        "Chalcedonians argue ‘one nature’ obscures the abiding distinctness of the humanity and risks Eutychian absorption.",
+        "Leo and later Chalcedonians held that two natures, each acting in communion with the other, are required for Christ to be truly consubstantial with us.",
+        "The rejection of Chalcedon divided the church at a time of external threat (Persian and Arab invasions)."
+      ],
+      "responses": [
+        "Miaphysites point out that they condemn Eutyches and affirm Christ's humanity as complete and unconfused.",
+        "Modern agreed statements (1989–90) accepted that both sides confess the same faith with different terminology, each rejecting Nestorian and Eutychian extremes.",
+        "They note that Chalcedonians themselves added Cyrilline clarifications at Constantinople II (553)."
+      ],
+      "consequences": [
+        "The Oriental Orthodox churches — Coptic, Ethiopian, Eritrean, Armenian, Syriac, Malankara — form a distinct communion of roughly 60 million people.",
+        "Under Arab rule after the 630s, Miaphysite churches survived as large Christian minorities; the Ethiopian church became a national church.",
+        "Long-standing estrangement from Chalcedonian churches, now eased by dialogue and common declarations (Paul VI and Shenouda III, 1973)."
+      ],
+      "relatedPositionIds": ["chalcedonian-dyophysitism", "eutychianism", "east-syriac-dyophysitism", "apollinarianism"],
+      "standing": "significant",
+      "sources": ["meyendorff-imperial-unity", "grillmeier-christ", "oriental-orthodox-dialogue-1990", "atiya-eastern-christianity"],
+      "confidence": "established"
+    },
+    {
+      "id": "chalcedonian-dyophysitism",
+      "doctrineId": "christology",
+      "name": "Chalcedonian Dyophysitism",
+      "altNames": ["Chalcedonian Christology", "Two-nature Christology", "Hypostatic union", "Neo-Chalcedonianism (Cyrilline reading)"],
+      "oneLine": "One and the same Christ, Son, Lord, only-begotten, is acknowledged in two natures, without confusion, without change, without division, without separation, the properties of each preserved and concurring in one person (hypostasis).",
+      "coreClaims": [
+        "Christ is perfect in Godhead and perfect in manhood, consubstantial with the Father as to Godhead and with us as to manhood.",
+        "The two natures remain distinct after the union, each with its properties, united in one hypostasis (the hypostatic union).",
+        "The one person is the eternal Word; Mary is Theotokos.",
+        "Communicatio idiomatum: what belongs to either nature may be predicated of the one person (‘the Lord of glory was crucified’).",
+        "(Constantinople III, 681) Christ has two natural wills and two energies, the human freely subject to the divine."
+      ],
+      "keyTexts": ["John 1:14", "Romans 1:3–4", "Romans 9:5", "Philippians 2:5–11", "Hebrews 2:14–17", "Hebrews 4:15", "1 Timothy 2:5", "Matthew 26:39"],
+      "origin": "Defined at the Council of Chalcedon (451), drawing on Cyril's letters, the Formula of Reunion (433) and Leo's Tome; interpreted in a Cyrilline direction at Constantinople II (553) and completed by Constantinople III (681). Received by Catholic, Eastern Orthodox, Anglican, Lutheran and Reformed churches; Lutheran and Reformed later differed over the communication of attributes.",
+      "originYear": 451,
+      "proponentIds": ["leo-i", "cyril-of-alexandria", "maximus-the-confessor", "john-of-damascus", "thomas-aquinas", "martin-luther", "john-calvin"],
+      "proponentsOther": ["Flavian of Constantinople", "Leontius of Byzantium", "Leontius of Jerusalem", "Emperor Justinian I", "Martin Chemnitz"],
+      "traditionIds": ["catholic", "eastern-orthodox", "anglican", "lutheran", "reformed", "methodist", "baptist", "evangelical", "pentecostal"],
+      "strongestArguments": [
+        "It holds together all the biblical data: Christ's full deity and full humanity in one subject.",
+        "Its four negative adverbs set boundaries against both Nestorian division and Eutychian confusion, without claiming to explain the mystery.",
+        "It reconciled the best of Alexandria (one subject) and Antioch and Rome (two complete natures).",
+        "It has been received by the large majority of Christians for 1,500 years."
+      ],
+      "strongestObjections": [
+        "Miaphysites: ‘in two natures’ sounds like two subjects; Leo's Tome seems to make each nature an actor.",
+        "The Church of the East: it confuses by insisting on one hypostasis and Theotokos, compromising divine impassibility.",
+        "Modern critics: its static Greek categories (nature, substance) cannot do justice to a historical, personal Jesus (e.g. Schleiermacher, Harnack).",
+        "It was enforced by emperors and caused centuries of schism in Egypt and Syria."
+      ],
+      "responses": [
+        "Chalcedonians stress that the definition explicitly confesses ‘one and the same’ Son, and that Constantinople II clarified its Cyrilline meaning.",
+        "Defenders argue that the definition is a ‘grammar’ of boundaries rather than a speculative theory, compatible with modern historical study.",
+        "Agreed statements with Oriental Orthodox and Assyrian churches suggest the disagreements were largely terminological."
+      ],
+      "consequences": [
+        "Basis of Christology in Catholic, Eastern Orthodox and Protestant confessions.",
+        "Its rejection created the Oriental Orthodox communion; imperial efforts at reunion produced further controversies (Henotikon, Three Chapters, monothelitism).",
+        "Shaped Reformation debates (Lutheran ubiquity vs Reformed ‘extra Calvinisticum’) about Christ's presence in the Eucharist."
+      ],
+      "relatedPositionIds": ["miaphysitism", "east-syriac-dyophysitism", "eutychianism", "monothelitism", "kenotic-christology"],
+      "standing": "majority",
+      "sources": ["price-gaddis-chalcedon", "grillmeier-christ", "kelly-creeds", "schaff-creeds", "pelikan-christian-tradition"],
+      "confidence": "established"
+    },
+    {
+      "id": "monothelitism",
+      "doctrineId": "christology",
+      "name": "Monoenergism and Monothelitism",
+      "altNames": ["Monoenergism", "Monotheletism", "Doctrine of the Ekthesis"],
+      "oneLine": "Christ has two natures but one ‘theandric’ (divine-human) energy, or one will, since a single person can have only one will.",
+      "coreClaims": [
+        "Will belongs to the person, not the nature: one person, one will.",
+        "Two wills in Christ would imply conflict between them and two subjects.",
+        "Christ's humanity acts as the instrument of the one divine-human operation.",
+        "This formula could reconcile Chalcedonians and Miaphysites without abandoning Chalcedon."
+      ],
+      "keyTexts": ["John 6:38", "John 4:34", "John 10:30"],
+      "origin": "Proposed by Patriarch Sergius of Constantinople with Emperor Heraclius (c. 619–633) to reunite Miaphysite provinces against Persia and then the Arabs; the Pact of Union at Alexandria (633), the Ekthesis (638) and later the Typos (648) forbidding discussion. Pope Honorius I endorsed ‘one will’. Condemned by the Lateran Synod (649) and Constantinople III (681).",
+      "originYear": 633,
+      "proponentIds": ["sergius-of-constantinople"],
+      "proponentsOther": ["Emperor Heraclius", "Cyrus of Alexandria", "Pyrrhus of Constantinople", "Pope Honorius I", "Macarius of Antioch", "the Maronites (historically associated; they deny holding it)"],
+      "traditionIds": ["early-church"],
+      "strongestArguments": [
+        "A single person naturally has a single will; two wills seem to divide Christ.",
+        "It avoided any hint of internal conflict in Christ's moral life.",
+        "Ecumenically, it offered a realistic bridge to Miaphysite Christians at a time of existential threat to the empire."
+      ],
+      "strongestObjections": [
+        "Maximus: will belongs to nature; if Christ has no human will, his humanity is incomplete and our will is not healed (‘the unassumed is unhealed’).",
+        "Gethsemane (Matthew 26:39) shows a human will submitting to the divine.",
+        "Two wills need not conflict: the human freely follows the divine (Constantinople III)."
+      ],
+      "responses": [
+        "Monothelites argued that the prayer in Gethsemane was an economy for our instruction, not evidence of a separate will.",
+        "They understood ‘one will’ as a moral unity, not denial of human volition."
+      ],
+      "consequences": [
+        "The persecution of Pope Martin I (d. 655 in exile) and Maximus the Confessor (d. 662).",
+        "The posthumous condemnation of Pope Honorius I (681), later cited in debates on papal infallibility (1870).",
+        "Completed the Chalcedonian Christology of two wills and two energies, important for later theology of human freedom and synergy."
+      ],
+      "relatedPositionIds": ["chalcedonian-dyophysitism", "miaphysitism"],
+      "standing": "rejected-by-councils",
+      "sources": ["meyendorff-imperial-unity", "pelikan-christian-tradition", "odcc"],
+      "confidence": "established"
+    },
+    {
+      "id": "kenotic-christology",
+      "doctrineId": "christology",
+      "name": "Kenotic Christology",
+      "altNames": ["Kenoticism", "Self-limitation Christology"],
+      "oneLine": "In becoming man the eternal Son ‘emptied himself’ (Philippians 2:7) by laying aside or restricting the exercise of divine attributes such as omniscience and omnipresence, so as to live a truly human life.",
+      "coreClaims": [
+        "The incarnation involved real divine self-limitation, not merely a veiling.",
+        "Christ's human ignorance (Mark 13:32), growth and dependence on the Spirit are real.",
+        "‘Relative’ attributes (omniscience, omnipotence, omnipresence) can be given up while ‘essential’ attributes (love, holiness) remain (Thomasius).",
+        "God's power is supremely revealed in self-giving love."
+      ],
+      "keyTexts": ["Philippians 2:5–11", "2 Corinthians 8:9", "Mark 13:32", "Luke 2:52", "John 17:5"],
+      "origin": "Anticipated in 17th-century Lutheran debates (Giessen vs Tübingen, 1619–27) over Christ's use of divine attributes; formulated by Gottfried Thomasius (Christi Person und Werk, 1853) and others at Erlangen; developed in Britain by Charles Gore (Lux Mundi, 1889; Bampton Lectures 1891), H. R. Mackintosh and P. T. Forsyth; revived by some analytic philosophers (Stephen Evans) and evangelicals.",
+      "originYear": 1853,
+      "proponentIds": ["gottfried-thomasius", "charles-gore"],
+      "proponentsOther": ["W. F. Gess", "Frank Weston (critic)", "H. R. Mackintosh", "P. T. Forsyth", "Sergei Bulgakov (Orthodox, distinct form)", "C. Stephen Evans", "Gerald Hawthorne (Spirit Christology)"],
+      "traditionIds": ["lutheran", "anglican", "reformed", "evangelical"],
+      "strongestArguments": [
+        "It takes Philippians 2:7 and the Gospels' portrait of human limitation seriously.",
+        "It reconciles orthodox Christology with the results of historical study (Jesus as a first-century Jew with human knowledge).",
+        "It presents the incarnation as a costly act of divine love."
+      ],
+      "strongestObjections": [
+        "If the Son gives up divine attributes, he ceases to be fully God during the incarnation (‘a depotentiated God’).",
+        "What happened to the Son's cosmic functions (upholding all things, Hebrews 1:3) while he was an infant?",
+        "Classical Christology (Cyril, Aquinas, Calvin's extra Calvinisticum) explains limitation by the two natures without divine change.",
+        "‘Emptied himself’ in Greek idiom may mean ‘made himself nothing’ by taking the form of a servant, not subtracting attributes."
+      ],
+      "responses": [
+        "Kenoticists distinguish possession of attributes from their exercise, keeping the Son fully divine.",
+        "Some modern forms (Spirit Christology) locate Christ's miracles and knowledge in the Spirit's empowerment rather than in his divine nature."
+      ],
+      "consequences": [
+        "Became a way for Anglican and Lutheran theologians to accept biblical criticism while confessing Christ's deity.",
+        "Influential in popular evangelical and Pentecostal preaching that Jesus lived ‘as a man filled with the Spirit’.",
+        "Some contemporary forms are criticised as quasi-kenotic or ‘functional kenoticism’."
+      ],
+      "relatedPositionIds": ["chalcedonian-dyophysitism", "christology-from-below", "impeccability"],
+      "standing": "minority",
+      "sources": ["evans-kenotic", "mcgrath-historical-theology", "odcc"],
+      "confidence": "established"
+    },
+    {
+      "id": "christology-from-below",
+      "doctrineId": "christology",
+      "name": "Christology from below (liberal and historical Christology)",
+      "altNames": ["Liberal Christology", "Consciousness Christology", "Ascending Christology"],
+      "oneLine": "Christology should begin with the historical, human Jesus and his unique God-consciousness or relationship to God, rather than with the pre-existent Word and the metaphysics of natures.",
+      "coreClaims": [
+        "The starting point is the Jesus of history and the church's experience of redemption.",
+        "Christ's divinity consists in the constant potency of his God-consciousness (Schleiermacher) or his perfect vocation (Ritschl).",
+        "The two-natures doctrine uses outdated metaphysical categories.",
+        "(Some forms) Pre-existence and virgin birth are symbolic expressions of Jesus' significance."
+      ],
+      "keyTexts": ["Luke 2:52", "Acts 2:22", "Hebrews 5:7–9", "Mark 10:18"],
+      "origin": "Friedrich Schleiermacher (The Christian Faith, 1821–22, rev. 1830–31), Albrecht Ritschl and the Ritschlian school, Adolf von Harnack; in the 20th century varied ‘from below’ approaches (Pannenberg's methodology, though orthodox in conclusion; John Hick's The Myth of God Incarnate, 1977).",
+      "originYear": 1830,
+      "proponentIds": ["friedrich-schleiermacher"],
+      "proponentsOther": ["Albrecht Ritschl", "Adolf von Harnack", "Wolfhart Pannenberg (method only)", "John Hick", "Roger Haight", "Marcus Borg"],
+      "traditionIds": ["lutheran", "reformed", "unitarian"],
+      "strongestArguments": [
+        "It engages modern historical consciousness and the quest for the historical Jesus.",
+        "It begins where the first disciples began: with a man they met.",
+        "It makes Christ's humanity central and existentially accessible."
+      ],
+      "strongestObjections": [
+        "It cannot reach a truly divine Christ; it ends with a highly God-conscious man (adoptionism under another name).",
+        "Barth: it substitutes religious experience for revelation.",
+        "The New Testament's earliest documents (Paul's letters, Philippians 2) already contain high Christology, undermining the evolutionary picture."
+      ],
+      "responses": [
+        "Advocates answer that the confession of divinity grows out of encounter with the human Jesus, as in the Gospels.",
+        "Pannenberg argued that a ‘from below’ method, through the resurrection, arrives at full Chalcedonian conclusions."
+      ],
+      "consequences": [
+        "Dominant in 19th-century liberal Protestantism; provoked Barth's neo-orthodoxy and fundamentalist reaction.",
+        "Shaped the historical-Jesus quests (Schweitzer, 1906; ‘New Quest’ from 1953; Jesus Seminar 1985)."
+      ],
+      "relatedPositionIds": ["adoptionism", "kenotic-christology", "chalcedonian-dyophysitism"],
+      "standing": "minority",
+      "sources": ["mcgrath-historical-theology", "pelikan-christian-tradition"],
+      "confidence": "established"
+    },
+    {
+      "id": "impeccability",
+      "doctrineId": "christology",
+      "name": "Impeccability of Christ (non posse peccare)",
+      "altNames": ["Non posse peccare", "Christ could not sin"],
+      "oneLine": "Christ not only did not sin but could not sin, because the person acting in his human nature is the eternal Son, who cannot will evil; his temptations were nevertheless real.",
+      "coreClaims": [
+        "The subject of Christ's acts is the divine Word; a divine person cannot sin.",
+        "Christ's human will was perfectly and freely united to the divine (Constantinople III).",
+        "Temptation can be real without the possibility of yielding — like an attack on an impregnable fortress.",
+        "Christ's victory is assured, guaranteeing salvation."
+      ],
+      "keyTexts": ["Hebrews 4:15", "Hebrews 7:26", "John 8:46", "John 14:30", "2 Corinthians 5:21", "James 1:13", "1 Peter 2:22"],
+      "origin": "Common patristic and medieval teaching (Augustine, John of Damascus, Aquinas, ST III q. 15); defended by Reformed theologians such as W. G. T. Shedd (1888) and in most Catholic and Orthodox theology.",
+      "originYear": 400,
+      "proponentIds": ["augustine-of-hippo", "john-of-damascus", "thomas-aquinas"],
+      "proponentsOther": ["W. G. T. Shedd", "Louis Berkhof", "John Walvoord", "Donald Macleod (with nuance)"],
+      "traditionIds": ["catholic", "eastern-orthodox", "reformed", "lutheran", "evangelical"],
+      "strongestArguments": [
+        "If Christ could have sinned, God himself could have sinned — impossible (James 1:13).",
+        "God's plan of salvation would have been at risk.",
+        "It follows from the hypostatic union as defined at Chalcedon and Constantinople III."
+      ],
+      "strongestObjections": [
+        "If Christ could not sin, his temptations were not like ours and he is not a real example (Hebrews 2:18; 4:15).",
+        "A will that cannot choose otherwise seems not free in the libertarian sense.",
+        "It seems to make the human nature a passive instrument."
+      ],
+      "responses": [
+        "Impeccabilists argue that real temptation is measured by intensity, not by the possibility of yielding — only one who never yields feels its full force.",
+        "Freedom in its highest form is the inability to sin (Augustine's non posse peccare for the blessed)."
+      ],
+      "consequences": [
+        "Supports assurance in Christ's finished work.",
+        "Central in 19th–20th-century evangelical debates with peccabilists (Charles Hodge held a peccabilist view)."
+      ],
+      "relatedPositionIds": ["peccability", "chalcedonian-dyophysitism", "kenotic-christology"],
+      "standing": "majority",
+      "sources": ["pelikan-christian-tradition", "odcc", "mcgrath-historical-theology"],
+      "confidence": "established"
+    },
+    {
+      "id": "peccability",
+      "doctrineId": "christology",
+      "name": "Peccability (Christ could have sinned but did not)",
+      "altNames": ["Posse peccare et non peccare", "Fallen-nature Christology (Irving, Barth, T. F. Torrance — related)"],
+      "oneLine": "Christ was genuinely able to sin, yet by his free obedience in dependence on the Spirit he did not; this makes his temptations and victory fully real.",
+      "coreClaims": [
+        "Genuine temptation implies a genuine possibility of yielding.",
+        "Christ's sinlessness was achieved by moral struggle and reliance on the Spirit and the Word.",
+        "(Irving, Barth, Torrance — a related but distinct claim) The Son assumed fallen human nature, sanctifying it from within, without himself sinning."
+      ],
+      "keyTexts": ["Hebrews 2:17–18", "Hebrews 4:15", "Hebrews 5:7–8", "Matthew 4:1–11", "Romans 8:3", "Luke 22:42–44"],
+      "origin": "Suggested by some Antiochene theologians (Theodore of Mopsuestia); sharpened by Edward Irving in London (1820s), who was deposed by the Presbytery of Annan in 1833 for teaching Christ's ‘sinful flesh’; held by Charles Hodge (Systematic Theology, 1872) and many modern evangelicals; fallen-nature Christology taken up by Karl Barth and T. F. Torrance.",
+      "originYear": 1830,
+      "proponentIds": ["edward-irving", "charles-hodge", "theodore-of-mopsuestia"],
+      "proponentsOther": ["Karl Barth (fallen nature)", "T. F. Torrance (fallen nature)", "Colin Gunton", "many evangelical writers"],
+      "traditionIds": ["reformed", "presbyterian", "evangelical", "pentecostal"],
+      "strongestArguments": [
+        "Hebrews says Christ was tempted ‘in all points like as we are’ and ‘learned obedience by the things which he suffered’.",
+        "Christ's real moral victory is the basis of his sympathy and example.",
+        "Gregory's principle (‘the unassumed is unhealed’) implies he took our actual, fallen condition."
+      ],
+      "strongestObjections": [
+        "It implies the possibility that a divine person could sin — impossible for God.",
+        "It threatens the certainty of salvation.",
+        "Assuming ‘fallen’ flesh seems to make Christ himself a sinner in need of redemption (the charge against Irving)."
+      ],
+      "responses": [
+        "Peccabilists distinguish the hypothetical possibility of sin (in his human nature) from its moral certainty given his perfect will.",
+        "Irving, Barth and Torrance distinguish assuming fallen nature from committing sin: Christ sanctified our nature by perfect obedience."
+      ],
+      "consequences": [
+        "Irving's deposition contributed to the founding of the Catholic Apostolic Church.",
+        "A live topic in contemporary evangelical and Reformed Christology."
+      ],
+      "relatedPositionIds": ["impeccability", "kenotic-christology"],
+      "standing": "significant",
+      "sources": ["mcgrath-historical-theology", "odcc"],
+      "confidence": "established"
+    }
+  ],
+  "controversies": [
+    {
+      "id": "chalcedon-controversy",
+      "title": "Chalcedon: one nature or two?",
+      "question": "After the incarnation, is Christ one person ‘in two natures’ (Chalcedon), ‘one incarnate nature of God the Word’ (Miaphysite), or two natures and two qnome in one parsopa (Church of the East)?",
+      "summary": "The fifth-century Christological struggle divided the churches of the Roman and Persian worlds into three communions that endure today. Each side claimed to defend both Christ's full deity and full humanity; each accused the others of either dividing or confusing them.",
+      "doctrineIds": ["christology", "mary-saints"],
+      "sides": [
+        {
+          "name": "Chalcedonian (Rome, Constantinople, later Protestants)",
+          "positionId": "chalcedonian-dyophysitism",
+          "steelman": "We confess with Cyril one and the same Son, and with Leo that he is acknowledged in two natures. Unless the humanity remains truly human after the union, Christ is not consubstantial with us and our nature is not healed; unless the person is one, he is not our Saviour but a pair. Our four negatives — without confusion, without change, without division, without separation — fence the mystery from both errors without claiming to explain it.",
+          "arguments": [
+            "Leo's Tome: each nature does what is proper to it in communion with the other.",
+            "Two natures guarantee real consubstantiality with both God and us.",
+            "Cyril himself accepted the Formula of Reunion (433), which spoke of a union of two natures."
+          ],
+          "counterArguments": [
+            "‘In two natures’ looks like two subjects (Miaphysite objection).",
+            "Insisting on one hypostasis compromises the integrity of each nature (East Syriac objection)."
+          ],
+          "keyTexts": ["John 1:14", "Romans 9:5", "Hebrews 2:14–17", "Hebrews 4:15"],
+          "quoteIds": ["leo-each-form"]
+        },
+        {
+          "name": "Miaphysite (Oriental Orthodox)",
+          "positionId": "miaphysitism",
+          "steelman": "We hold to the faith of Cyril and of Ephesus: one incarnate nature of God the Word. We anathematise Eutyches; Christ's humanity is perfect and unmixed. But after the union we will not count two natures as if two subjects acted side by side — for the one who was born, suffered and rose is God the Word himself. Leo's Tome, which makes each ‘form’ act, revives the very Nestorianism that Ephesus condemned.",
+          "arguments": [
+            "‘One incarnate nature of God the Word’ is Cyril's own formula.",
+            "Salvation depends on the Word himself being the subject of suffering and death (1 Corinthians 2:8).",
+            "Chalcedon reinstated Ibas and Theodoret, sympathisers of Nestorius."
+          ],
+          "counterArguments": [
+            "‘One nature’ risks absorbing the humanity (Chalcedonian objection).",
+            "Dioscorus had rehabilitated Eutyches in 449."
+          ],
+          "keyTexts": ["John 1:14", "1 Corinthians 2:8", "Hebrews 2:14", "Galatians 4:4"],
+          "quoteIds": ["cyril-one-incarnate-nature"]
+        },
+        {
+          "name": "East Syriac (Church of the East)",
+          "positionId": "east-syriac-dyophysitism",
+          "steelman": "The eternal Word cannot change or die; the man he assumed is complete, with his own concrete reality, growing in wisdom and learning obedience. Two natures and their two qnome are united in one parsopa of the Son, worshipped as one Lord. To say ‘God died’ confuses Creator and creature. We follow Theodore the Interpreter, whose exegesis of the Scriptures is faithful to the Gospels' human Jesus.",
+          "arguments": [
+            "It protects divine impassibility and the integrity of Christ's human moral struggle.",
+            "Qnoma means concrete nature, not person; two qnome do not imply two sons.",
+            "Ephesus (431) was held without the Antiochene bishops present."
+          ],
+          "counterArguments": [
+            "A union of two concrete individuals looks like two subjects (Cyrilline objection).",
+            "Refusing Theotokos denies that the one born of Mary is God."
+          ],
+          "keyTexts": ["Luke 2:52", "John 2:19–21", "Hebrews 5:7–9"],
+          "quoteIds": ["nestorius-two-months-old"]
+        }
+      ],
+      "timeline": [
+        { "year": 428, "text": "Nestorius becomes archbishop of Constantinople and opposes the title Theotokos." },
+        { "year": 431, "text": "Council of Ephesus deposes Nestorius.", "eventId": "council-of-ephesus-431" },
+        { "year": 433, "text": "Formula of Reunion between Cyril and John of Antioch." },
+        { "year": 449, "text": "Second Council of Ephesus restores Eutyches; Leo's Tome is ignored." },
+        { "year": 451, "text": "Council of Chalcedon defines ‘one person in two natures’.", "eventId": "council-of-chalcedon-451" },
+        { "year": 482, "text": "Emperor Zeno's Henotikon tries to bypass Chalcedon; Acacian schism with Rome (484–519)." },
+        { "year": 486, "text": "Synod of the Church of the East at Seleucia-Ctesiphon adopts dyophysite language." },
+        { "year": 553, "text": "Constantinople II condemns the ‘Three Chapters’.", "eventId": "second-council-of-constantinople-553" },
+        { "year": 1973, "text": "Pope Paul VI and Pope Shenouda III sign a common Christological declaration." },
+        { "year": 1990, "text": "Orthodox–Oriental Orthodox Second Agreed Statement (Chambésy)." },
+        { "year": 1994, "text": "Catholic–Assyrian Common Christological Declaration." }
+      ],
+      "resolution": { "kind": "dialogue", "text": "The council resolved it for Rome and Constantinople, but caused lasting schism. Modern dialogue has produced agreed statements recognising a common faith beneath different terms; full communion has not been restored, chiefly over the status of councils after 451 and of saints condemned by the other side." },
+      "consequences": [
+        "Three enduring Christian families: Chalcedonian, Oriental Orthodox and East Syriac.",
+        "Religious alienation in Egypt and Syria that some historians link to the ease of the Arab conquests (debated).",
+        "The Church of the East's mission across Asia, and the Ethiopian and Armenian national churches' Miaphysite identity."
+      ],
+      "sources": ["grillmeier-christ", "meyendorff-imperial-unity", "price-gaddis-chalcedon", "baum-winkler-east", "oriental-orthodox-dialogue-1990", "common-christological-declaration-1994"]
+    },
+    {
+      "id": "monothelite-controversy",
+      "title": "The Monothelite controversy: one will or two?",
+      "question": "Does Christ have one will (as one person) or two wills, divine and human (as two natures)?",
+      "summary": "A seventh-century imperial compromise designed to reconcile Miaphysites proposed one ‘energy’ and then one ‘will’ in Christ. Maximus the Confessor and the popes of Rome resisted, at great personal cost; the Third Council of Constantinople (681) defined two natural wills in harmony.",
+      "doctrineIds": ["christology"],
+      "sides": [
+        {
+          "name": "Monothelite / Monoenergist",
+          "positionId": "monothelitism",
+          "steelman": "We accept Chalcedon's two natures. But will belongs to the one who wills — the person — and Christ is one person. To speak of two wills is to imagine a human ego set against God inside the Saviour. Confessing one theandric operation and one will protects his unity and can heal the wounds of Chalcedon with our Egyptian and Syrian brethren.",
+          "arguments": [
+            "One person implies one will.",
+            "Two wills would imply potential conflict in Christ.",
+            "Pope Honorius I himself spoke of ‘one will’."
+          ],
+          "counterArguments": [
+            "A nature without a will is incomplete.",
+            "Gethsemane shows a human will distinct from the divine."
+          ],
+          "keyTexts": ["John 6:38", "John 4:34"],
+          "quoteIds": []
+        },
+        {
+          "name": "Dyothelite (Maximus, Rome, Constantinople III)",
+          "positionId": "chalcedonian-dyophysitism",
+          "steelman": "Will is a property of nature: the Father, Son and Spirit have one will because they share one nature; Christ, having two natures, has two wills. If he did not assume a human will, our will — the very place where Adam fell — remains unhealed. In Gethsemane we see the human will of the Son, in agony, freely bending to the divine. That obedience is our salvation.",
+          "arguments": [
+            "Will belongs to nature, not person (the Trinity has three persons and one will).",
+            "The unassumed is the unhealed.",
+            "Matthew 26:39 reveals a human will freely submitting."
+          ],
+          "counterArguments": [
+            "Two wills appear to imply two subjects."
+          ],
+          "keyTexts": ["Matthew 26:39", "Luke 22:42", "Hebrews 5:7–8", "Philippians 2:8"],
+          "quoteIds": ["maximus-two-wills"]
+        }
+      ],
+      "timeline": [
+        { "year": 633, "text": "Pact of Union in Alexandria on ‘one theandric energy’." },
+        { "year": 638, "text": "Heraclius' Ekthesis declares one will." },
+        { "year": 645, "text": "Maximus debates Pyrrhus at Carthage." },
+        { "year": 649, "text": "Lateran Synod under Pope Martin I condemns monothelitism." },
+        { "year": 655, "text": "Pope Martin I dies in exile in Crimea." },
+        { "year": 662, "text": "Maximus the Confessor dies in exile after mutilation." },
+        { "year": 681, "text": "Third Council of Constantinople defines two wills and energies.", "eventId": "third-council-of-constantinople-681" }
+      ],
+      "resolution": { "kind": "council", "text": "Resolved at the Third Council of Constantinople (680–681), which condemned monothelitism and Pope Honorius I. Dyothelitism is held by Catholic, Orthodox and Protestant churches; Oriental Orthodox churches confess one united will that is both divine and human." },
+      "consequences": [
+        "Completed the Chalcedonian definition.",
+        "The condemnation of Honorius became a test case in the 1870 debate on papal infallibility.",
+        "Maximus' theology of the will shaped Orthodox teaching on synergy and deification."
+      ],
+      "sources": ["meyendorff-imperial-unity", "pelikan-christian-tradition", "odcc"]
+    }
+  ],
+  "people": [
+    {
+      "id": "apollinaris-of-laodicea",
+      "name": "Apollinaris of Laodicea",
+      "born": 310,
+      "died": 390,
+      "circa": true,
+      "roles": ["bishop", "theologian"],
+      "traditionIds": ["early-church"],
+      "regions": ["levant"],
+      "summary": "Bishop of Laodicea in Syria, scholar and friend of Athanasius, who defended Nicaea but taught that the divine Word replaced the human mind in Christ. Condemned at Constantinople (381).",
+      "keyIdeas": ["Word in place of human mind", "One incarnate nature"],
+      "influencedBy": ["athanasius"],
+      "sources": ["kelly-doctrines", "grillmeier-christ"],
+      "confidence": "established"
+    },
+    {
+      "id": "theodore-of-mopsuestia",
+      "name": "Theodore of Mopsuestia",
+      "born": 350,
+      "died": 428,
+      "circa": true,
+      "roles": ["bishop", "theologian", "exegete"],
+      "traditionIds": ["early-church", "church-of-the-east"],
+      "regions": ["asia-minor", "levant"],
+      "summary": "Antiochene bishop and biblical commentator, friend of John Chrysostom, honoured in the Church of the East as ‘the Interpreter’. He emphasised the full humanity of Christ and literal-historical exegesis; condemned posthumously at Constantinople II (553).",
+      "keyIdeas": ["Indwelling by good pleasure", "Literal-historical exegesis", "Two ages (katastases)"],
+      "influencedBy": [],
+      "sources": ["grillmeier-christ", "baum-winkler-east"],
+      "confidence": "established"
+    },
+    {
+      "id": "eutyches",
+      "name": "Eutyches",
+      "born": 380,
+      "died": 456,
+      "circa": true,
+      "roles": ["archimandrite", "monk"],
+      "traditionIds": ["early-church"],
+      "regions": ["asia-minor"],
+      "summary": "Archimandrite of a large monastery in Constantinople, godfather of the eunuch Chrysaphius. His teaching that Christ's humanity was not consubstantial with ours after the union led to the Robber Synod (449) and Chalcedon (451), which condemned him.",
+      "keyIdeas": ["One nature after the union"],
+      "influencedBy": ["cyril-of-alexandria"],
+      "sources": ["grillmeier-christ", "price-gaddis-chalcedon"],
+      "confidence": "established"
+    },
+    {
+      "id": "sergius-of-constantinople",
+      "name": "Sergius I of Constantinople",
+      "born": 565,
+      "died": 638,
+      "circa": true,
+      "roles": ["patriarch"],
+      "traditionIds": ["early-church"],
+      "regions": ["asia-minor"],
+      "summary": "Patriarch of Constantinople (610–638) who led the city's defence during the Avar-Persian siege of 626 and devised monoenergism and monothelitism with Emperor Heraclius to reunite the Miaphysites.",
+      "keyIdeas": ["One energy", "One will (Ekthesis)"],
+      "influencedBy": [],
+      "sources": ["meyendorff-imperial-unity", "odcc"],
+      "confidence": "established"
+    },
+    {
+      "id": "babai-the-great",
+      "name": "Babai the Great",
+      "born": 551,
+      "died": 628,
+      "circa": true,
+      "roles": ["monk", "theologian"],
+      "traditionIds": ["church-of-the-east"],
+      "regions": ["mesopotamia-persia"],
+      "summary": "Abbot of the Great Monastery on Mount Izla and leading theologian of the Church of the East, whose Book of the Union formulated its classic Christology of two natures and two qnome in one parsopa.",
+      "keyIdeas": ["Two qnome, one parsopa", "Monastic reform"],
+      "influencedBy": ["theodore-of-mopsuestia"],
+      "sources": ["baum-winkler-east", "grillmeier-christ"],
+      "confidence": "established"
+    },
+    {
+      "id": "jacob-baradaeus",
+      "name": "Jacob Baradaeus",
+      "born": 500,
+      "died": 578,
+      "circa": true,
+      "roles": ["bishop", "missionary"],
+      "traditionIds": ["syriac-orthodox", "oriental-orthodox"],
+      "regions": ["levant", "asia-minor", "mesopotamia-persia"],
+      "summary": "Bishop of Edessa, consecrated c. 542 with the backing of Empress Theodora, who travelled in disguise ordaining clergy and bishops across Syria and beyond, creating the hierarchy of the Syriac Orthodox Church (hence the name ‘Jacobite’).",
+      "keyIdeas": ["Rebuilding a Miaphysite hierarchy"],
+      "influencedBy": ["severus-of-antioch"],
+      "sources": ["atiya-eastern-christianity", "meyendorff-imperial-unity"],
+      "confidence": "established"
+    },
+    {
+      "id": "elipandus-of-toledo",
+      "name": "Elipandus of Toledo",
+      "born": 717,
+      "died": 808,
+      "circa": true,
+      "roles": ["archbishop"],
+      "traditionIds": ["catholic"],
+      "regions": ["western-europe"],
+      "summary": "Archbishop of Toledo in Muslim-ruled Spain who, with Felix of Urgell, taught that Christ in his humanity is Son of God by adoption. Condemned by Frankish synods (Regensburg 792, Frankfurt 794), though he himself remained in office under Umayyad rule.",
+      "keyIdeas": ["Spanish Adoptionism"],
+      "influencedBy": [],
+      "sources": ["pelikan-christian-tradition", "odcc"],
+      "confidence": "established"
+    },
+    {
+      "id": "gottfried-thomasius",
+      "name": "Gottfried Thomasius",
+      "born": 1802,
+      "died": 1875,
+      "roles": ["theologian"],
+      "traditionIds": ["lutheran"],
+      "regions": ["western-europe"],
+      "summary": "Lutheran theologian of the Erlangen school whose Christi Person und Werk (1853–61) gave the classic form of kenotic Christology.",
+      "keyIdeas": ["Kenosis of relative attributes"],
+      "influencedBy": [],
+      "sources": ["evans-kenotic", "odcc"],
+      "confidence": "established"
+    },
+    {
+      "id": "charles-gore",
+      "name": "Charles Gore",
+      "born": 1853,
+      "died": 1932,
+      "roles": ["bishop", "theologian"],
+      "traditionIds": ["anglican"],
+      "regions": ["western-europe"],
+      "summary": "Anglican bishop of Worcester, Birmingham and Oxford and editor of Lux Mundi (1889), whose essay and Bampton Lectures (1891) introduced kenotic Christology to Anglo-Catholic theology and sought to reconcile Catholic faith with biblical criticism.",
+      "keyIdeas": ["Kenotic Christology", "Liberal Catholicism", "Christian social concern"],
+      "influencedBy": [],
+      "sources": ["odcc", "chapman-anglicanism"],
+      "confidence": "established"
+    },
+    {
+      "id": "edward-irving",
+      "name": "Edward Irving",
+      "born": 1792,
+      "died": 1834,
+      "roles": ["minister", "preacher"],
+      "traditionIds": ["presbyterian"],
+      "regions": ["western-europe"],
+      "summary": "Scottish preacher in London whose teaching that Christ assumed fallen human nature led to his deposition (1833); his congregation's experiences of tongues and prophecy (1831) and his premillennialism fed into the Catholic Apostolic Church.",
+      "keyIdeas": ["Christ's assumption of fallen flesh", "Restoration of spiritual gifts", "Premillennialism"],
+      "influencedBy": [],
+      "sources": ["odcc", "burgess-pentecostal-dictionary"],
+      "confidence": "established"
+    }
+  ],
+  "works": [
+    {
+      "id": "ignatius-letter-to-the-ephesians",
+      "title": "Letter to the Ephesians",
+      "authorId": "ignatius-of-antioch",
+      "year": 110,
+      "circa": true,
+      "language": "Greek",
+      "genre": "letter",
+      "summary": "Written on the way to martyrdom in Rome, urging unity with the bishop and confessing Christ as both flesh and spirit, God in man.",
+      "significance": "One of the earliest post-New Testament statements of Christ's deity and humanity.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/0104.htm",
+      "doctrineIds": ["christology", "church-sacraments"],
+      "sources": ["anf-npnf", "new-advent"]
+    },
+    {
+      "id": "ignatius-letter-to-the-trallians",
+      "title": "Letter to the Trallians",
+      "authorId": "ignatius-of-antioch",
+      "year": 110,
+      "circa": true,
+      "language": "Greek",
+      "genre": "letter",
+      "summary": "Warns against docetists who say Christ only seemed to suffer and insists on his true birth, suffering, death and resurrection.",
+      "significance": "Key early anti-docetic text.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/0106.htm",
+      "doctrineIds": ["christology"],
+      "sources": ["anf-npnf", "new-advent"]
+    },
+    {
+      "id": "ignatius-letter-to-the-smyrnaeans",
+      "title": "Letter to the Smyrnaeans",
+      "authorId": "ignatius-of-antioch",
+      "year": 110,
+      "circa": true,
+      "language": "Greek",
+      "genre": "letter",
+      "summary": "Against docetists: Christ truly suffered and rose in the flesh; the Eucharist is his flesh; ‘wherever Jesus Christ is, there is the catholic Church’.",
+      "significance": "Earliest use of ‘catholic Church’ and an early witness to Eucharistic realism.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/0109.htm",
+      "doctrineIds": ["christology", "church-sacraments"],
+      "sources": ["anf-npnf", "new-advent"]
+    },
+    {
+      "id": "gregory-letter-101-cledonius",
+      "title": "Letter 101, to Cledonius (First Letter against Apollinaris)",
+      "authorId": "gregory-of-nazianzus",
+      "year": 382,
+      "language": "Greek",
+      "genre": "letter",
+      "summary": "Gregory's refutation of Apollinarianism, insisting that Christ assumed a complete human nature including a rational soul.",
+      "significance": "Source of the principle ‘the unassumed is the unhealed’; read at Chalcedon.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/3103a.htm",
+      "doctrineIds": ["christology", "salvation"],
+      "sources": ["anf-npnf", "new-advent"]
+    },
+    {
+      "id": "cyril-third-letter-to-nestorius",
+      "title": "Third Letter to Nestorius, with the Twelve Anathemas",
+      "authorId": "cyril-of-alexandria",
+      "year": 430,
+      "language": "Greek",
+      "genre": "letter",
+      "summary": "Cyril's synodical letter demanding that Nestorius confess the hypostatic union and Theotokos, ending in twelve anathemas.",
+      "significance": "Read at Ephesus (431); the anathemas remained controversial with Antiochenes but were later received at Constantinople II (553).",
+      "fullTextUrl": "https://www.newadvent.org/fathers/3810.htm",
+      "doctrineIds": ["christology", "mary-saints"],
+      "sources": ["anf-npnf", "mcguckin-cyril"]
+    },
+    {
+      "id": "cyril-letters-to-succensus",
+      "title": "Letters to Succensus",
+      "authorId": "cyril-of-alexandria",
+      "year": 433,
+      "circa": true,
+      "language": "Greek",
+      "genre": "letter",
+      "summary": "Two letters explaining, after the Formula of Reunion, how ‘one incarnate nature of God the Word’ is compatible with the integrity of Christ's humanity.",
+      "significance": "Primary basis of Miaphysite Christology.",
+      "doctrineIds": ["christology"],
+      "sources": ["mcguckin-cyril"]
+    },
+    {
+      "id": "tome-of-leo",
+      "title": "Tome of Leo (Letter 28 to Flavian)",
+      "authorId": "leo-i",
+      "year": 449,
+      "language": "Latin",
+      "genre": "letter",
+      "summary": "Pope Leo I's dogmatic letter to Patriarch Flavian against Eutyches: one person, two natures, each acting in communion with the other.",
+      "significance": "Acclaimed at Chalcedon (‘Peter has spoken through Leo’); rejected by Miaphysites as Nestorian.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/3604028.htm",
+      "doctrineIds": ["christology"],
+      "sources": ["anf-npnf", "price-gaddis-chalcedon"]
+    },
+    {
+      "id": "chalcedonian-definition",
+      "title": "Definition of Faith of the Council of Chalcedon",
+      "author": "Council of Chalcedon",
+      "year": 451,
+      "language": "Greek",
+      "genre": "creed",
+      "summary": "Confesses one and the same Christ ‘in two natures, without confusion, without change, without division, without separation’, the properties of each preserved in one person and hypostasis; Mary called Theotokos.",
+      "significance": "The standard of Christological orthodoxy for Catholic, Eastern Orthodox and most Protestant churches; the cause of the Oriental Orthodox separation.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/3811.htm",
+      "doctrineIds": ["christology", "mary-saints"],
+      "sources": ["price-gaddis-chalcedon", "schaff-creeds", "kelly-creeds"]
+    },
+    {
+      "id": "maximus-disputation-with-pyrrhus",
+      "title": "Disputation with Pyrrhus",
+      "authorId": "maximus-the-confessor",
+      "year": 645,
+      "language": "Greek",
+      "genre": "treatise",
+      "summary": "Record of Maximus' public debate at Carthage with the deposed patriarch Pyrrhus, in which Maximus argues that will belongs to nature, so Christ has two wills.",
+      "significance": "The central text of dyothelite Christology.",
+      "doctrineIds": ["christology"],
+      "sources": ["meyendorff-imperial-unity"]
+    },
+    {
+      "id": "schleiermacher-christian-faith",
+      "title": "The Christian Faith (Der christliche Glaube)",
+      "authorId": "friedrich-schleiermacher",
+      "year": 1821,
+      "language": "German",
+      "genre": "treatise",
+      "summary": "A dogmatics grounded in the feeling of absolute dependence; Christ is the Redeemer through the perfect potency of his God-consciousness. Second edition 1830–31.",
+      "significance": "The founding work of liberal Protestant theology.",
+      "doctrineIds": ["christology", "scripture-authority"],
+      "sources": ["mcgrath-historical-theology"]
+    }
+  ],
+  "quotes": [
+    {
+      "id": "ignatius-one-physician",
+      "text": "There is one Physician who is possessed both of flesh and spirit; both made and not made; God existing in flesh; true life in death; both of Mary and of God; first passible and then impassible, even Jesus Christ our Lord.",
+      "kind": "quotation",
+      "translation": "ANF vol. 1, trans. Roberts & Donaldson",
+      "personId": "ignatius-of-antioch",
+      "workId": "ignatius-letter-to-the-ephesians",
+      "citation": "Ignatius of Antioch, Letter to the Ephesians 7",
+      "year": 110,
+      "topics": ["deity and humanity", "early Christology"],
+      "doctrineIds": ["christology"]
+    },
+    {
+      "id": "ignatius-seemed-to-suffer",
+      "text": "But if, as some that are without God, that is, the unbelieving, say, that He only seemed to suffer (they themselves only seeming to exist), then why am I in bonds?",
+      "kind": "quotation",
+      "translation": "ANF vol. 1, trans. Roberts & Donaldson",
+      "personId": "ignatius-of-antioch",
+      "workId": "ignatius-letter-to-the-trallians",
+      "citation": "Ignatius of Antioch, Letter to the Trallians 10",
+      "year": 110,
+      "topics": ["docetism", "martyrdom"],
+      "doctrineIds": ["christology"]
+    },
+    {
+      "id": "ignatius-eucharist-flesh",
+      "text": "They abstain from the Eucharist and from prayer, because they confess not the Eucharist to be the flesh of our Saviour Jesus Christ, which suffered for our sins, and which the Father, of His goodness, raised up again.",
+      "kind": "quotation",
+      "translation": "ANF vol. 1, trans. Roberts & Donaldson",
+      "personId": "ignatius-of-antioch",
+      "workId": "ignatius-letter-to-the-smyrnaeans",
+      "citation": "Ignatius of Antioch, Letter to the Smyrnaeans 7",
+      "year": 110,
+      "topics": ["docetism", "Eucharist"],
+      "doctrineIds": ["christology", "church-sacraments"]
+    },
+    {
+      "id": "irenaeus-became-what-we-are",
+      "text": "…the only true and steadfast Teacher, the Word of God, our Lord Jesus Christ, who did, through His transcendent love, become what we are, that He might bring us to be even what He is Himself.",
+      "kind": "quotation",
+      "translation": "ANF vol. 1, trans. Roberts & Rambaut",
+      "personId": "irenaeus",
+      "workId": "irenaeus-against-heresies",
+      "citation": "Irenaeus, Against Heresies 5, Preface",
+      "year": 180,
+      "topics": ["incarnation", "deification", "recapitulation"],
+      "doctrineIds": ["christology", "salvation"]
+    },
+    {
+      "id": "gregory-nazianzus-unassumed",
+      "text": "For that which He has not assumed He has not healed; but that which is united to His Godhead is also saved.",
+      "kind": "quotation",
+      "translation": "NPNF ser. 2 vol. 7, trans. Browne & Swallow",
+      "personId": "gregory-of-nazianzus",
+      "workId": "gregory-letter-101-cledonius",
+      "citation": "Gregory of Nazianzus, Letter 101 (to Cledonius)",
+      "year": 382,
+      "topics": ["Apollinarianism", "soteriology", "the unassumed is unhealed"],
+      "doctrineIds": ["christology", "salvation"]
+    },
+    {
+      "id": "nestorius-two-months-old",
+      "text": "According to the church historian Socrates, Nestorius declared that he could not call ‘God’ one who had been two or three months old — objecting to language that attributed infancy and birth to the divine nature.",
+      "kind": "paraphrase",
+      "personId": "nestorius",
+      "citation": "Socrates Scholasticus, Ecclesiastical History 7.34 (reported saying; paraphrase)",
+      "year": 431,
+      "topics": ["Theotokos", "Nestorius", "communicatio idiomatum"],
+      "doctrineIds": ["christology", "mary-saints"]
+    },
+    {
+      "id": "cyril-anathema-theotokos",
+      "text": "If anyone will not confess that the Emmanuel is very God, and that therefore the Holy Virgin is the Mother of God (Θεοτόκος), inasmuch as in the flesh she bore the Word of God made flesh, let him be anathema.",
+      "kind": "quotation",
+      "translation": "NPNF ser. 2 vol. 14, ed. Percival",
+      "personId": "cyril-of-alexandria",
+      "workId": "cyril-third-letter-to-nestorius",
+      "citation": "Cyril of Alexandria, Third Letter to Nestorius, Anathema 1",
+      "year": 430,
+      "topics": ["Theotokos", "hypostatic union"],
+      "doctrineIds": ["christology", "mary-saints"]
+    },
+    {
+      "id": "cyril-one-incarnate-nature",
+      "text": "Cyril maintains that after the union we should speak of ‘one incarnate nature of God the Word’, while insisting that the flesh remains flesh and is not changed into the nature of the Godhead.",
+      "kind": "paraphrase",
+      "personId": "cyril-of-alexandria",
+      "workId": "cyril-letters-to-succensus",
+      "citation": "Cyril of Alexandria, First Letter to Succensus 6–7 (paraphrase)",
+      "year": 433,
+      "topics": ["Miaphysitism", "one nature"],
+      "doctrineIds": ["christology"]
+    },
+    {
+      "id": "leo-each-form",
+      "text": "For each form does the acts which belong to it, in communion with the other; that is the Word performing what appertains to the Word, and the flesh carrying out what appertains to the flesh.",
+      "kind": "quotation",
+      "translation": "NPNF ser. 2 vol. 12, trans. C. L. Feltoe",
+      "personId": "leo-i",
+      "workId": "tome-of-leo",
+      "citation": "Leo I, Letter 28 (Tome) 4",
+      "year": 449,
+      "topics": ["two natures", "Chalcedon"],
+      "doctrineIds": ["christology"]
+    },
+    {
+      "id": "maximus-two-wills",
+      "text": "Maximus argues that willing is a property of nature, not of person: since Christ is consubstantial with the Father in his divinity and with us in his humanity, he wills naturally as God and as man, and in Gethsemane his human will freely conformed itself to the divine.",
+      "kind": "paraphrase",
+      "personId": "maximus-the-confessor",
+      "workId": "maximus-disputation-with-pyrrhus",
+      "citation": "Maximus the Confessor, Disputation with Pyrrhus (paraphrase)",
+      "year": 645,
+      "topics": ["two wills", "Gethsemane", "dyothelitism"],
+      "doctrineIds": ["christology"]
+    },
+    {
+      "id": "schleiermacher-god-consciousness",
+      "text": "Schleiermacher holds that the Redeemer is like all human beings in virtue of his identical human nature, but distinguished from them all by the constant potency of his God-consciousness, which was a veritable existence of God in him.",
+      "kind": "paraphrase",
+      "personId": "friedrich-schleiermacher",
+      "workId": "schleiermacher-christian-faith",
+      "citation": "Schleiermacher, The Christian Faith §94 (paraphrase)",
+      "year": 1830,
+      "topics": ["God-consciousness", "liberal Christology"],
+      "doctrineIds": ["christology"]
+    }
+  ]
+}

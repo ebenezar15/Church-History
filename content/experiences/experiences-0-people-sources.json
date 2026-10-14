@@ -1,0 +1,1385 @@
+{
+  "sources": [
+    {
+      "id": "passio-perpetuae",
+      "title": "The Passion of Saints Perpetua and Felicity",
+      "author": "Perpetua and an anonymous editor",
+      "year": "c. 203",
+      "kind": "primary",
+      "url": "https://www.newadvent.org/fathers/0324.htm",
+      "note": "ANF vol. 3, trans. R.E. Wallis"
+    },
+    {
+      "id": "athanasius-life-antony",
+      "title": "Life of Antony (Vita Antonii)",
+      "author": "Athanasius of Alexandria",
+      "year": "c. 360",
+      "kind": "primary",
+      "url": "https://www.newadvent.org/fathers/2811.htm",
+      "note": "NPNF series 2, vol. 4"
+    },
+    {
+      "id": "augustine-confessions",
+      "title": "Confessions",
+      "author": "Augustine of Hippo",
+      "year": "c. 397-400",
+      "kind": "primary",
+      "url": "https://www.ccel.org/ccel/augustine/confess.html",
+      "note": "trans. E.B. Pusey (1838)"
+    },
+    {
+      "id": "symeon-catecheses",
+      "title": "The Discourses (Catecheses) and Hymns of Divine Love",
+      "author": "Symeon the New Theologian",
+      "year": "c. 980-1009",
+      "kind": "primary",
+      "note": "English trans. C.J. deCatanzaro, Symeon the New Theologian: The Discourses (Paulist, 1980)"
+    },
+    {
+      "id": "palamas-triads",
+      "title": "Triads in Defence of the Holy Hesychasts",
+      "author": "Gregory Palamas",
+      "year": "1338-1341",
+      "kind": "primary",
+      "note": "ed. J. Meyendorff (1959); English selection trans. N. Gendle (Paulist, 1983)"
+    },
+    {
+      "id": "hildegard-scivias",
+      "title": "Scivias",
+      "author": "Hildegard of Bingen",
+      "year": "1141-1151",
+      "kind": "primary",
+      "note": "English trans. C. Hart & J. Bishop (Paulist, 1990)"
+    },
+    {
+      "id": "bonaventure-legenda-maior",
+      "title": "Legenda Maior (Major Life of St Francis)",
+      "author": "Bonaventure",
+      "year": "1260-1263",
+      "kind": "primary",
+      "note": "with Thomas of Celano's First Life (1229); in Francis of Assisi: Early Documents, vol. 2 (1999-2000)"
+    },
+    {
+      "id": "julian-revelations",
+      "title": "Revelations of Divine Love",
+      "author": "Julian of Norwich",
+      "year": "c. 1390s",
+      "kind": "primary",
+      "url": "https://www.ccel.org/ccel/julian/revelations.html",
+      "note": "Long Text"
+    },
+    {
+      "id": "teresa-life",
+      "title": "The Life of Teresa of Jesus (Libro de la vida)",
+      "author": "Teresa of Ávila",
+      "year": "1565",
+      "kind": "primary",
+      "url": "https://www.ccel.org/ccel/teresa/life.html",
+      "note": "trans. David Lewis (1870)"
+    },
+    {
+      "id": "john-cross-works",
+      "title": "The Dark Night; Ascent of Mount Carmel; Spiritual Canticle",
+      "author": "John of the Cross",
+      "year": "c. 1578-1585",
+      "kind": "primary",
+      "url": "https://www.ccel.org/ccel/john_cross/dark_night.html"
+    },
+    {
+      "id": "ignatius-autobiography",
+      "title": "Autobiography (Reminiscences) and Spiritual Exercises",
+      "author": "Ignatius of Loyola",
+      "year": "1548-1555",
+      "kind": "primary",
+      "url": "https://www.ccel.org/ccel/ignatius/exercises.html"
+    },
+    {
+      "id": "pascal-memorial",
+      "title": "Le Mémorial",
+      "author": "Blaise Pascal",
+      "year": 1654,
+      "kind": "primary",
+      "note": "Found sewn into Pascal's coat in 1662; printed in editions of the Pensées"
+    },
+    {
+      "id": "fox-journal",
+      "title": "Journal of George Fox",
+      "author": "George Fox",
+      "year": 1694,
+      "kind": "primary",
+      "note": "ed. Thomas Ellwood (1694); critical ed. J.L. Nickalls (1952)"
+    },
+    {
+      "id": "theatre-sacre-cevennes",
+      "title": "Le Théâtre sacré des Cévennes",
+      "author": "Maximilien Misson (ed.)",
+      "year": 1707,
+      "kind": "primary",
+      "note": "English: A Cry from the Desart (1707)"
+    },
+    {
+      "id": "edwards-faithful-narrative",
+      "title": "A Faithful Narrative of the Surprising Work of God in the Conversion of Many Hundred Souls in Northampton",
+      "author": "Jonathan Edwards",
+      "year": 1737,
+      "kind": "primary",
+      "note": "with The Distinguishing Marks (1741) and Religious Affections (1746)"
+    },
+    {
+      "id": "wesley-journal",
+      "title": "The Journal of John Wesley",
+      "author": "John Wesley",
+      "year": "1735-1790",
+      "kind": "primary",
+      "url": "https://www.ccel.org/ccel/wesley/journal.html"
+    },
+    {
+      "id": "stone-autobiography",
+      "title": "A Short History of the Life of Barton W. Stone, Written by Himself",
+      "author": "Barton W. Stone",
+      "year": 1847,
+      "kind": "primary"
+    },
+    {
+      "id": "motovilov-conversation",
+      "title": "Conversation of St Seraphim of Sarov with N.A. Motovilov",
+      "author": "N.A. Motovilov (pub. Sergei Nilus)",
+      "year": 1903,
+      "kind": "primary",
+      "note": "Notes of an 1831 conversation, first published 1903"
+    },
+    {
+      "id": "lucia-memoirs",
+      "title": "Fatima in Lucia's Own Words (Memoirs)",
+      "author": "Lúcia dos Santos",
+      "year": "1935-1993",
+      "kind": "primary"
+    },
+    {
+      "id": "apostolic-faith-1906",
+      "title": "The Apostolic Faith (Los Angeles)",
+      "author": "Azusa Street Mission (ed. W.J. Seymour, Clara Lum)",
+      "year": "1906-1908",
+      "kind": "primary"
+    },
+    {
+      "id": "bartleman-azusa",
+      "title": "How Pentecost Came to Los Angeles",
+      "author": "Frank Bartleman",
+      "year": 1925,
+      "kind": "primary"
+    },
+    {
+      "id": "mukti-prayer-bell",
+      "title": "Mukti Prayer-Bell",
+      "author": "Pandita Ramabai and the Mukti Mission",
+      "year": "1905-1907",
+      "kind": "primary",
+      "note": "with Minnie F. Abrams, The Baptism of the Holy Ghost and Fire (1906)"
+    },
+    {
+      "id": "stead-revival-west",
+      "title": "The Revival in the West",
+      "author": "W.T. Stead",
+      "year": 1905,
+      "kind": "primary"
+    },
+    {
+      "id": "kuhlman-i-believe",
+      "title": "I Believe in Miracles",
+      "author": "Kathryn Kuhlman",
+      "year": 1962,
+      "kind": "primary"
+    },
+    {
+      "id": "church-quest-highest",
+      "title": "Quest for the Highest: An Autobiographical Account of the East African Revival",
+      "author": "J.E. Church",
+      "year": 1981,
+      "kind": "primary"
+    },
+    {
+      "id": "koch-revival-indonesia",
+      "title": "The Revival in Indonesia",
+      "author": "Kurt Koch",
+      "year": 1970,
+      "kind": "primary",
+      "note": "Popular account; compare Mel Tari, Like a Mighty Wind (1971)"
+    },
+    {
+      "id": "asbury-2023-reports",
+      "title": "Asbury University statements and press coverage of the Asbury Outpouring",
+      "author": "Asbury University; Christianity Today; The New York Times",
+      "year": 2023,
+      "kind": "primary",
+      "note": "Contemporary reports, February 2023"
+    },
+    {
+      "id": "dunn-jesus-spirit",
+      "title": "Jesus and the Spirit",
+      "author": "James D.G. Dunn",
+      "year": 1975,
+      "kind": "secondary"
+    },
+    {
+      "id": "fee-gods-empowering",
+      "title": "God's Empowering Presence: The Holy Spirit in the Letters of Paul",
+      "author": "Gordon D. Fee",
+      "year": 1994,
+      "kind": "secondary"
+    },
+    {
+      "id": "james-varieties",
+      "title": "The Varieties of Religious Experience",
+      "author": "William James",
+      "year": 1902,
+      "kind": "secondary",
+      "url": "https://www.gutenberg.org/ebooks/621"
+    },
+    {
+      "id": "taves-fits-trances",
+      "title": "Fits, Trances, and Visions: Experiencing Religion and Explaining Experience from Wesley to James",
+      "author": "Ann Taves",
+      "year": 1999,
+      "kind": "secondary"
+    },
+    {
+      "id": "knox-enthusiasm",
+      "title": "Enthusiasm: A Chapter in the History of Religion",
+      "author": "Ronald A. Knox",
+      "year": 1950,
+      "kind": "secondary"
+    },
+    {
+      "id": "tabbernee-prophets",
+      "title": "Prophets and Gravestones: An Imaginative History of Montanists and Other Early Christians",
+      "author": "William Tabbernee",
+      "year": 2009,
+      "kind": "secondary"
+    },
+    {
+      "id": "trevett-montanism",
+      "title": "Montanism: Gender, Authority and the New Prophecy",
+      "author": "Christine Trevett",
+      "year": 1996,
+      "kind": "secondary"
+    },
+    {
+      "id": "heffernan-perpetua",
+      "title": "The Passion of Perpetua and Felicity",
+      "author": "Thomas J. Heffernan",
+      "year": 2012,
+      "kind": "secondary"
+    },
+    {
+      "id": "chitty-desert-city",
+      "title": "The Desert a City",
+      "author": "Derwas J. Chitty",
+      "year": 1966,
+      "kind": "secondary"
+    },
+    {
+      "id": "brakke-athanasius",
+      "title": "Athanasius and the Politics of Asceticism",
+      "author": "David Brakke",
+      "year": 1995,
+      "kind": "secondary"
+    },
+    {
+      "id": "brown-augustine",
+      "title": "Augustine of Hippo: A Biography",
+      "author": "Peter Brown",
+      "year": "1967; rev. 2000",
+      "kind": "secondary"
+    },
+    {
+      "id": "krivocheine-symeon",
+      "title": "In the Light of Christ: St Symeon the New Theologian",
+      "author": "Basil Krivocheine",
+      "year": 1986,
+      "kind": "secondary"
+    },
+    {
+      "id": "lossky-mystical",
+      "title": "The Mystical Theology of the Eastern Church",
+      "author": "Vladimir Lossky",
+      "year": "1944; Eng. 1957",
+      "kind": "secondary"
+    },
+    {
+      "id": "meyendorff-palamas",
+      "title": "A Study of Gregory Palamas",
+      "author": "John Meyendorff",
+      "year": "1959; Eng. 1964",
+      "kind": "secondary"
+    },
+    {
+      "id": "newman-hildegard",
+      "title": "Sister of Wisdom: St Hildegard's Theology of the Feminine",
+      "author": "Barbara Newman",
+      "year": 1987,
+      "kind": "secondary"
+    },
+    {
+      "id": "vauchez-francis",
+      "title": "Francis of Assisi: The Life and Afterlife of a Medieval Saint",
+      "author": "André Vauchez",
+      "year": 2012,
+      "kind": "secondary"
+    },
+    {
+      "id": "bynum-holy-feast",
+      "title": "Holy Feast and Holy Fast",
+      "author": "Caroline Walker Bynum",
+      "year": 1987,
+      "kind": "secondary"
+    },
+    {
+      "id": "watson-jenkins-julian",
+      "title": "The Writings of Julian of Norwich",
+      "author": "Nicholas Watson & Jacqueline Jenkins (eds.)",
+      "year": 2006,
+      "kind": "secondary"
+    },
+    {
+      "id": "omalley-first-jesuits",
+      "title": "The First Jesuits",
+      "author": "John W. O'Malley",
+      "year": 1993,
+      "kind": "secondary"
+    },
+    {
+      "id": "poole-guadalupe",
+      "title": "Our Lady of Guadalupe: The Origins and Sources of a Mexican National Symbol, 1531-1797",
+      "author": "Stafford Poole",
+      "year": 1995,
+      "kind": "secondary"
+    },
+    {
+      "id": "brading-mexican-phoenix",
+      "title": "Mexican Phoenix: Our Lady of Guadalupe",
+      "author": "D.A. Brading",
+      "year": 2001,
+      "kind": "secondary"
+    },
+    {
+      "id": "zimdars-swartz-encountering-mary",
+      "title": "Encountering Mary: From La Salette to Medjugorje",
+      "author": "Sandra L. Zimdars-Swartz",
+      "year": 1991,
+      "kind": "secondary"
+    },
+    {
+      "id": "moore-light-consciences",
+      "title": "The Light in Their Consciences: Early Quakers in Britain, 1646-1666",
+      "author": "Rosemary Moore",
+      "year": 2000,
+      "kind": "secondary"
+    },
+    {
+      "id": "garrett-spirit-possession",
+      "title": "Spirit Possession and Popular Religion: From the Camisards to the Shakers",
+      "author": "Clarke Garrett",
+      "year": 1987,
+      "kind": "secondary"
+    },
+    {
+      "id": "ward-protestant-awakening",
+      "title": "The Protestant Evangelical Awakening",
+      "author": "W.R. Ward",
+      "year": 1992,
+      "kind": "secondary"
+    },
+    {
+      "id": "marsden-edwards",
+      "title": "Jonathan Edwards: A Life",
+      "author": "George M. Marsden",
+      "year": 2003,
+      "kind": "secondary"
+    },
+    {
+      "id": "kidd-great-awakening",
+      "title": "The Great Awakening: The Roots of Evangelical Christianity in Colonial America",
+      "author": "Thomas S. Kidd",
+      "year": 2007,
+      "kind": "secondary"
+    },
+    {
+      "id": "rack-reasonable-enthusiast",
+      "title": "Reasonable Enthusiast: John Wesley and the Rise of Methodism",
+      "author": "Henry D. Rack",
+      "year": 1989,
+      "kind": "secondary"
+    },
+    {
+      "id": "conkin-cane-ridge",
+      "title": "Cane Ridge: America's Pentecost",
+      "author": "Paul K. Conkin",
+      "year": 1990,
+      "kind": "secondary"
+    },
+    {
+      "id": "harris-lourdes",
+      "title": "Lourdes: Body and Spirit in the Secular Age",
+      "author": "Ruth Harris",
+      "year": 1999,
+      "kind": "secondary"
+    },
+    {
+      "id": "goff-fields-white",
+      "title": "Fields White unto Harvest: Charles F. Parham and the Missionary Origins of Pentecostalism",
+      "author": "James R. Goff Jr.",
+      "year": 1988,
+      "kind": "secondary"
+    },
+    {
+      "id": "robeck-azusa",
+      "title": "The Azusa Street Mission and Revival",
+      "author": "Cecil M. Robeck Jr.",
+      "year": 2006,
+      "kind": "secondary"
+    },
+    {
+      "id": "evans-welsh-revival",
+      "title": "The Welsh Revival of 1904",
+      "author": "Eifion Evans",
+      "year": 1969,
+      "kind": "secondary"
+    },
+    {
+      "id": "blair-hunt-korean-pentecost",
+      "title": "The Korean Pentecost and the Sufferings Which Followed",
+      "author": "William Blair & Bruce Hunt",
+      "year": 1977,
+      "kind": "secondary"
+    },
+    {
+      "id": "luzzatto-padre-pio",
+      "title": "Padre Pio: Miracles and Politics in a Secular Age",
+      "author": "Sergio Luzzatto",
+      "year": "2007; Eng. 2010",
+      "kind": "secondary"
+    },
+    {
+      "id": "harrell-all-things-possible",
+      "title": "All Things Are Possible: The Healing and Charismatic Revivals in Modern America",
+      "author": "David Edwin Harrell Jr.",
+      "year": 1975,
+      "kind": "secondary"
+    },
+    {
+      "id": "harrell-oral-roberts",
+      "title": "Oral Roberts: An American Life",
+      "author": "David Edwin Harrell Jr.",
+      "year": 1985,
+      "kind": "secondary"
+    },
+    {
+      "id": "weaver-branham",
+      "title": "The Healer-Prophet: William Marrion Branham",
+      "author": "C. Douglas Weaver",
+      "year": 1987,
+      "kind": "secondary"
+    },
+    {
+      "id": "nolen-healing",
+      "title": "Healing: A Doctor in Search of a Miracle",
+      "author": "William A. Nolen",
+      "year": 1974,
+      "kind": "secondary"
+    },
+    {
+      "id": "poloma-main-street-mystics",
+      "title": "Main Street Mystics: The Toronto Blessing and Reviving Pentecostalism",
+      "author": "Margaret M. Poloma",
+      "year": 2003,
+      "kind": "secondary"
+    },
+    {
+      "id": "hanegraaff-counterfeit-revival",
+      "title": "Counterfeit Revival",
+      "author": "Hank Hanegraaff",
+      "year": 1997,
+      "kind": "secondary"
+    },
+    {
+      "id": "shank-prophet-harris",
+      "title": "Prophet Harris, the 'Black Elijah' of West Africa",
+      "author": "David A. Shank",
+      "year": 1994,
+      "kind": "secondary"
+    },
+    {
+      "id": "martin-kimbangu",
+      "title": "Kimbangu: An African Prophet and His Church",
+      "author": "Marie-Louise Martin",
+      "year": 1975,
+      "kind": "secondary"
+    },
+    {
+      "id": "peel-aladura",
+      "title": "Aladura: A Religious Movement among the Yoruba",
+      "author": "J.D.Y. Peel",
+      "year": 1968,
+      "kind": "secondary"
+    },
+    {
+      "id": "ward-wild-wood-east-african-revival",
+      "title": "The East African Revival: History and Legacies",
+      "author": "Kevin Ward & Emma Wild-Wood (eds.)",
+      "year": 2012,
+      "kind": "secondary"
+    },
+    {
+      "id": "streeter-appasamy-sadhu",
+      "title": "The Sadhu: A Study in Mysticism and Practical Religion",
+      "author": "B.H. Streeter & A.J. Appasamy",
+      "year": 1921,
+      "kind": "secondary"
+    },
+    {
+      "id": "lian-redeemed-by-fire",
+      "title": "Redeemed by Fire: The Rise of Popular Christianity in Modern China",
+      "author": "Lian Xi",
+      "year": 2010,
+      "kind": "secondary"
+    },
+    {
+      "id": "hunter-chan-protestantism-china",
+      "title": "Protestantism in Contemporary China",
+      "author": "Alan Hunter & Kim-Kwong Chan",
+      "year": 1993,
+      "kind": "secondary"
+    },
+    {
+      "id": "willis-indonesian-revival",
+      "title": "Indonesian Revival: Why Two Million Came to Christ",
+      "author": "Avery T. Willis Jr.",
+      "year": 1977,
+      "kind": "secondary"
+    },
+    {
+      "id": "miller-yamamori-global-pentecostalism",
+      "title": "Global Pentecostalism: The New Face of Christian Social Engagement",
+      "author": "Donald E. Miller & Tetsunao Yamamori",
+      "year": 2007,
+      "kind": "secondary"
+    },
+    {
+      "id": "chesnut-born-again-brazil",
+      "title": "Born Again in Brazil: The Pentecostal Boom and the Pathogens of Poverty",
+      "author": "R. Andrew Chesnut",
+      "year": 1997,
+      "kind": "secondary"
+    }
+  ],
+  "people": [
+    {
+      "id": "antony-the-great",
+      "name": "Antony the Great (Antony of Egypt)",
+      "born": 251,
+      "died": 356,
+      "circa": true,
+      "roles": [
+        "monk",
+        "desert father"
+      ],
+      "traditionIds": [
+        "early-church",
+        "coptic-orthodox"
+      ],
+      "regions": [
+        "egypt"
+      ],
+      "summary": "Egyptian Christian who withdrew to the desert c. 270-285 and became the archetypal hermit and 'father of monks'; Athanasius' Life of Antony spread his fame and the monastic ideal across the Christian world.",
+      "keyIdeas": [
+        "Spiritual combat against demons",
+        "Withdrawal (anachoresis) and prayer",
+        "Discernment of spirits"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Monastery of St Antony, Egypt",
+        "lat": 28.9236,
+        "lng": 32.3497
+      },
+      "sources": [
+        "athanasius-life-antony",
+        "chitty-desert-city"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "juan-diego",
+      "name": "Juan Diego Cuauhtlatoatzin",
+      "born": 1474,
+      "died": 1548,
+      "circa": true,
+      "roles": [
+        "visionary",
+        "saint"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "latin-america"
+      ],
+      "summary": "Indigenous (Nahua) convert to whom, according to tradition first published in 1648-49, the Virgin of Guadalupe appeared at Tepeyac in 1531. His historicity is debated by historians; he was canonised by John Paul II in 2002.",
+      "keyIdeas": [
+        "Guadalupan devotion",
+        "Indigenous Catholicism in Mexico"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Tepeyac, Mexico City",
+        "lat": 19.4847,
+        "lng": -99.1172
+      },
+      "sources": [
+        "poole-guadalupe",
+        "brading-mexican-phoenix"
+      ],
+      "confidence": "traditional"
+    },
+    {
+      "id": "jean-cavalier",
+      "name": "Jean Cavalier",
+      "born": 1681,
+      "died": 1740,
+      "circa": false,
+      "roles": [
+        "Camisard leader",
+        "soldier"
+      ],
+      "traditionIds": [
+        "reformed"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Huguenot baker's apprentice who became a leading commander of the Camisard revolt in the Cévennes (1702-04), in a movement inspired by ecstatic prophets; after negotiating with Marshal Villars he went into exile and ended his life as a British officer and lieutenant-governor of Jersey.",
+      "keyIdeas": [
+        "Armed resistance to persecution of Huguenots",
+        "Prophetic inspiration in the Camisard war"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Cévennes, France",
+        "lat": 44.3667,
+        "lng": 3.75
+      },
+      "sources": [
+        "garrett-spirit-possession",
+        "theatre-sacre-cevennes"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "barton-w-stone",
+      "name": "Barton W. Stone",
+      "born": 1772,
+      "died": 1844,
+      "circa": false,
+      "roles": [
+        "preacher",
+        "revivalist",
+        "founder"
+      ],
+      "traditionIds": [
+        "presbyterian",
+        "stone-campbell-restoration"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "Presbyterian minister who hosted the Cane Ridge camp meeting (1801), then left the Presbyterian synod and led the 'Christian' movement that merged in 1832 with Alexander Campbell's Disciples to form the Stone-Campbell Restoration Movement.",
+      "keyIdeas": [
+        "Christian unity on the Bible alone",
+        "Revivalism",
+        "Rejection of creeds as tests of fellowship"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Cane Ridge, Kentucky",
+        "lat": 38.2034,
+        "lng": -84.1088
+      },
+      "sources": [
+        "conkin-cane-ridge",
+        "stone-autobiography"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "seraphim-of-sarov",
+      "name": "Seraphim of Sarov",
+      "born": 1754,
+      "died": 1833,
+      "circa": true,
+      "roles": [
+        "monk",
+        "starets",
+        "saint"
+      ],
+      "traditionIds": [
+        "russian-orthodox",
+        "eastern-orthodox"
+      ],
+      "regions": [
+        "russia"
+      ],
+      "summary": "Russian monk and hermit of the Sarov monastery, famed as a spiritual elder, healer and teacher of the 'acquisition of the Holy Spirit'; canonised in 1903. Born in Kursk; his birth year is given as 1754 or 1759.",
+      "keyIdeas": [
+        "Acquisition of the Holy Spirit as the aim of Christian life",
+        "Uncreated light and theosis",
+        "Joyful asceticism"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Sarov",
+        "lat": 54.9333,
+        "lng": 43.3167
+      },
+      "sources": [
+        "motovilov-conversation",
+        "ware-orthodox-church"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "bernadette-soubirous",
+      "name": "Bernadette Soubirous",
+      "born": 1844,
+      "died": 1879,
+      "circa": false,
+      "roles": [
+        "visionary",
+        "nun",
+        "saint"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Miller's daughter from Lourdes who reported eighteen apparitions of the Virgin Mary in 1858; she later became a Sister of Charity at Nevers and was canonised in 1933.",
+      "keyIdeas": [
+        "Lourdes apparitions",
+        "'I am the Immaculate Conception'"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Lourdes",
+        "lat": 43.0971,
+        "lng": -0.0577
+      },
+      "sources": [
+        "harris-lourdes",
+        "zimdars-swartz-encountering-mary"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "agnes-ozman",
+      "name": "Agnes Ozman",
+      "born": 1870,
+      "died": 1937,
+      "circa": false,
+      "roles": [
+        "student",
+        "evangelist"
+      ],
+      "traditionIds": [
+        "holiness-movement",
+        "pentecostal"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "Student at Charles Parham's Bethel Bible School in Topeka who, on 1 January 1901, became the first in Parham's circle to speak in tongues, an event central to the formulation of the Pentecostal 'initial evidence' doctrine.",
+      "keyIdeas": [
+        "Tongues as evidence of Spirit baptism"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Topeka, Kansas",
+        "lat": 39.0473,
+        "lng": -95.6752
+      },
+      "sources": [
+        "goff-fields-white",
+        "anderson-pentecostalism"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "pandita-ramabai",
+      "name": "Pandita Ramabai Sarasvati",
+      "born": 1858,
+      "died": 1922,
+      "circa": false,
+      "roles": [
+        "scholar",
+        "social reformer",
+        "Bible translator"
+      ],
+      "traditionIds": [
+        "anglican",
+        "evangelical"
+      ],
+      "regions": [
+        "india"
+      ],
+      "summary": "Marathi Brahmin Sanskrit scholar who became a Christian (baptised 1883), campaigned for women's education and founded the Mukti Mission at Kedgaon for widows and orphans, where a revival broke out in 1905; she translated the Bible into Marathi.",
+      "keyIdeas": [
+        "Women's education and rights in India",
+        "Indian-led Christianity",
+        "Revival and prayer"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Kedgaon, near Pune",
+        "lat": 18.45,
+        "lng": 74.33
+      },
+      "sources": [
+        "anderson-pentecostalism",
+        "mukti-prayer-bell"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "gil-seon-ju",
+      "name": "Gil Seon-ju (Kil Sun-ju)",
+      "born": 1869,
+      "died": 1935,
+      "circa": false,
+      "roles": [
+        "pastor",
+        "revival leader"
+      ],
+      "traditionIds": [
+        "presbyterian"
+      ],
+      "regions": [
+        "east-asia"
+      ],
+      "summary": "Korean Presbyterian elder and later one of the first seven ordained Korean pastors (1907), whose public confession helped spark the Pyongyang Great Revival; credited with the Korean practice of daybreak prayer and a signatory of the 1919 March First independence declaration.",
+      "keyIdeas": [
+        "Daybreak prayer (saebyeok kido)",
+        "Public confession and repentance",
+        "Korean independence"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Pyongyang",
+        "lat": 39.0392,
+        "lng": 125.7625
+      },
+      "sources": [
+        "moffett-asia",
+        "blair-hunt-korean-pentecost"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "lucia-dos-santos",
+      "name": "Lúcia dos Santos",
+      "born": 1907,
+      "died": 2005,
+      "circa": false,
+      "roles": [
+        "visionary",
+        "Carmelite nun"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Eldest of the three shepherd children of Fátima (with her cousins Francisco and Jacinta Marto, d. 1919 and 1920) who reported Marian apparitions in 1917; she became a Carmelite nun and wrote the Memoirs that are the main source for the 'secrets'.",
+      "keyIdeas": [
+        "Fátima apparitions and messages",
+        "Devotion to the Immaculate Heart of Mary"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Fátima",
+        "lat": 39.6316,
+        "lng": -8.6727
+      },
+      "sources": [
+        "lucia-memoirs",
+        "zimdars-swartz-encountering-mary"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "pio-of-pietrelcina",
+      "name": "Pio of Pietrelcina (Padre Pio)",
+      "born": 1887,
+      "died": 1968,
+      "circa": false,
+      "roles": [
+        "Capuchin friar",
+        "priest",
+        "saint"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "regions": [
+        "italy"
+      ],
+      "summary": "Italian Capuchin who reported receiving the stigmata in 1918 and became one of the most popular and controversial figures of 20th-century Catholicism; investigated repeatedly by the Holy Office, he was canonised in 2002.",
+      "keyIdeas": [
+        "Stigmata",
+        "Confession and spiritual direction",
+        "Redemptive suffering"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "San Giovanni Rotondo",
+        "lat": 41.7066,
+        "lng": 15.7286
+      },
+      "sources": [
+        "luzzatto-padre-pio"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "kathryn-kuhlman",
+      "name": "Kathryn Kuhlman",
+      "born": 1907,
+      "died": 1976,
+      "circa": false,
+      "roles": [
+        "evangelist",
+        "healing minister",
+        "broadcaster"
+      ],
+      "traditionIds": [
+        "charismatic-renewal",
+        "evangelical"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "American evangelist whose 'miracle services' (from 1947) and television programme made her a leading healing evangelist; she credited healings to the Holy Spirit rather than herself and helped bridge Pentecostal and mainline/Catholic audiences.",
+      "keyIdeas": [
+        "Healing by the sovereign work of the Holy Spirit",
+        "Words of knowledge",
+        "Being 'slain in the Spirit'"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Pittsburgh",
+        "lat": 40.4406,
+        "lng": -79.9959
+      },
+      "sources": [
+        "harrell-all-things-possible",
+        "kuhlman-i-believe"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "william-branham",
+      "name": "William Marrion Branham",
+      "born": 1909,
+      "died": 1965,
+      "circa": false,
+      "roles": [
+        "evangelist",
+        "healing evangelist"
+      ],
+      "traditionIds": [
+        "pentecostal",
+        "oneness-pentecostal"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "American healing evangelist who catalysed the post-war healing revival (1946-55); his later teachings (Oneness baptism, 'serpent seed', his own role as end-time prophet) are rejected by most Pentecostals and lie outside historic Nicene orthodoxy, but 'Message' churches still follow him.",
+      "keyIdeas": [
+        "Gift of healing and discernment",
+        "End-time prophet (later teaching)",
+        "Oneness baptism (later teaching)"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Jeffersonville, Indiana",
+        "lat": 38.2776,
+        "lng": -85.7372
+      },
+      "sources": [
+        "weaver-branham",
+        "harrell-all-things-possible"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "john-arnott",
+      "name": "John Arnott",
+      "born": 1940,
+      "circa": false,
+      "roles": [
+        "pastor"
+      ],
+      "traditionIds": [
+        "neo-charismatic"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "Canadian pastor who, with his wife Carol, led the Toronto Airport Vineyard (later Toronto Airport Christian Fellowship / Catch the Fire), home of the 'Toronto Blessing' from 1994.",
+      "keyIdeas": [
+        "Renewal and 'the Father's love'",
+        "Soaking prayer"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Toronto",
+        "lat": 43.6873,
+        "lng": -79.5939
+      },
+      "sources": [
+        "poloma-main-street-mystics"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "randy-clark",
+      "name": "Randy Clark",
+      "born": 1952,
+      "circa": false,
+      "roles": [
+        "evangelist",
+        "pastor"
+      ],
+      "traditionIds": [
+        "neo-charismatic"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "American Vineyard pastor whose January 1994 meetings in Toronto started the 'Toronto Blessing'; he later founded Global Awakening, emphasising healing and impartation.",
+      "keyIdeas": [
+        "Impartation",
+        "Healing ministry"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "poloma-main-street-mystics"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "steve-hill",
+      "name": "Steve Hill",
+      "born": 1954,
+      "died": 2014,
+      "circa": false,
+      "roles": [
+        "evangelist"
+      ],
+      "traditionIds": [
+        "assemblies-of-god"
+      ],
+      "regions": [
+        "north-america",
+        "latin-america"
+      ],
+      "summary": "American Assemblies of God evangelist, previously a missionary in Argentina, whose Father's Day 1995 sermon at Brownsville Assembly of God in Pensacola launched the Brownsville Revival.",
+      "keyIdeas": [
+        "Repentance preaching",
+        "Revival"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Pensacola, Florida",
+        "lat": 30.433,
+        "lng": -87.247
+      },
+      "sources": [
+        "anderson-pentecostalism",
+        "hanegraaff-counterfeit-revival"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "joseph-ayo-babalola",
+      "name": "Joseph Ayo Babalola",
+      "born": 1904,
+      "died": 1959,
+      "circa": false,
+      "roles": [
+        "prophet",
+        "evangelist"
+      ],
+      "traditionIds": [
+        "african-initiated-churches",
+        "pentecostal"
+      ],
+      "regions": [
+        "sub-saharan-africa"
+      ],
+      "summary": "Yoruba evangelist whose 1930 revival at Ilesa, marked by healings and the burning of traditional objects, was central to the Aladura movement; he became the first spiritual leader of the Christ Apostolic Church.",
+      "keyIdeas": [
+        "Divine healing through prayer",
+        "Rejection of traditional religious objects",
+        "Aladura prayer"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Ilesa, Nigeria",
+        "lat": 7.6167,
+        "lng": 4.7167
+      },
+      "sources": [
+        "peel-aladura",
+        "isichei-africa"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "simeon-nsibambi",
+      "name": "Simeon Nsibambi",
+      "born": 1897,
+      "died": 1978,
+      "circa": false,
+      "roles": [
+        "lay evangelist"
+      ],
+      "traditionIds": [
+        "anglican"
+      ],
+      "regions": [
+        "sub-saharan-africa"
+      ],
+      "summary": "Ugandan Anglican layman whose 1929 meeting with Joe Church helped spark the East African Revival; he emphasised repentance, holiness and 'walking in the light'.",
+      "keyIdeas": [
+        "Repentance and public confession",
+        "Fellowship of the 'saved ones' (Balokole)"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Kampala",
+        "lat": 0.3476,
+        "lng": 32.5825
+      },
+      "sources": [
+        "ward-wild-wood-east-african-revival"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "joe-church",
+      "name": "John Edward (Joe) Church",
+      "born": 1899,
+      "died": 1989,
+      "circa": false,
+      "roles": [
+        "missionary doctor"
+      ],
+      "traditionIds": [
+        "anglican",
+        "evangelical"
+      ],
+      "regions": [
+        "sub-saharan-africa"
+      ],
+      "summary": "English Anglican (CMS Ruanda Mission) medical missionary at Gahini, Rwanda, who with Simeon Nsibambi was a leading figure of the East African Revival.",
+      "keyIdeas": [
+        "Revival fellowship across racial lines",
+        "Bible study and confession"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Gahini, Rwanda",
+        "lat": -1.84,
+        "lng": 30.47
+      },
+      "sources": [
+        "church-quest-highest",
+        "ward-wild-wood-east-african-revival"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "sadhu-sundar-singh",
+      "name": "Sadhu Sundar Singh",
+      "born": 1889,
+      "died": 1929,
+      "circa": true,
+      "roles": [
+        "evangelist",
+        "sadhu",
+        "mystic"
+      ],
+      "traditionIds": [
+        "anglican",
+        "evangelical"
+      ],
+      "regions": [
+        "india"
+      ],
+      "summary": "Sikh-born Indian Christian who reported a vision of Christ in 1904, became a wandering sadhu evangelist across India, Tibet and beyond, and was famous in Europe in the 1920s; he disappeared in the Himalayas in 1929.",
+      "keyIdeas": [
+        "Indian forms of Christian discipleship",
+        "Direct experience of Christ",
+        "Suffering as witness"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Punjab",
+        "lat": 30.901,
+        "lng": 75.8573
+      },
+      "sources": [
+        "streeter-appasamy-sadhu",
+        "moffett-asia"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "john-sung",
+      "name": "John Sung (Song Shangjie)",
+      "born": 1901,
+      "died": 1944,
+      "circa": false,
+      "roles": [
+        "evangelist",
+        "revivalist"
+      ],
+      "traditionIds": [
+        "evangelical"
+      ],
+      "regions": [
+        "east-asia",
+        "southeast-asia"
+      ],
+      "summary": "Chinese evangelist with a US doctorate in chemistry who led revival and healing campaigns across China and Southeast Asia (1927-1940), founding many evangelistic bands and shaping independent Chinese Protestantism.",
+      "keyIdeas": [
+        "Repentance and new birth",
+        "Healing prayer",
+        "Lay evangelistic bands"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Putian (Hinghwa), Fujian",
+        "lat": 25.431,
+        "lng": 119.0077
+      },
+      "sources": [
+        "lian-redeemed-by-fire",
+        "moffett-asia"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "carlos-annacondia",
+      "name": "Carlos Annacondia",
+      "born": 1944,
+      "circa": false,
+      "roles": [
+        "evangelist"
+      ],
+      "traditionIds": [
+        "neo-charismatic",
+        "evangelical"
+      ],
+      "regions": [
+        "latin-america"
+      ],
+      "summary": "Argentine businessman turned evangelist whose mass campaigns from the early 1980s, with an emphasis on deliverance from demons and healing, were central to the Argentine revival.",
+      "keyIdeas": [
+        "Deliverance ministry",
+        "Mass evangelism",
+        "Spiritual warfare"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Quilmes, Buenos Aires",
+        "lat": -34.7206,
+        "lng": -58.2546
+      },
+      "sources": [
+        "miller-yamamori-global-pentecostalism",
+        "anderson-pentecostalism"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "gunnar-vingren",
+      "name": "Gunnar Vingren",
+      "born": 1879,
+      "died": 1933,
+      "circa": false,
+      "roles": [
+        "missionary",
+        "pastor"
+      ],
+      "traditionIds": [
+        "pentecostal",
+        "assemblies-of-god"
+      ],
+      "regions": [
+        "latin-america"
+      ],
+      "summary": "Swedish-born Baptist pastor turned Pentecostal who, with Daniel Berg, founded what became the Assembleias de Deus in Brazil after arriving in Belém in 1910.",
+      "keyIdeas": [
+        "Pentecostal mission",
+        "Spirit baptism"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Belém, Brazil",
+        "lat": -1.4558,
+        "lng": -48.5039
+      },
+      "sources": [
+        "chesnut-born-again-brazil",
+        "anderson-pentecostalism"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "daniel-berg",
+      "name": "Daniel Berg",
+      "born": 1884,
+      "died": 1963,
+      "circa": false,
+      "roles": [
+        "missionary"
+      ],
+      "traditionIds": [
+        "pentecostal",
+        "assemblies-of-god"
+      ],
+      "regions": [
+        "latin-america"
+      ],
+      "summary": "Swedish-born Pentecostal missionary who co-founded the Assembleias de Deus in Brazil with Gunnar Vingren, supporting the work partly as a foundry worker and colporteur.",
+      "keyIdeas": [
+        "Pentecostal mission",
+        "Lay evangelism"
+      ],
+      "influencedBy": [],
+      "place": {
+        "name": "Belém, Brazil",
+        "lat": -1.4558,
+        "lng": -48.5039
+      },
+      "sources": [
+        "chesnut-born-again-brazil",
+        "anderson-pentecostalism"
+      ],
+      "confidence": "established"
+    }
+  ]
+}

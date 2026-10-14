@@ -1,0 +1,634 @@
+{
+  "experiences": [
+    {
+      "id": "harris-prophet-west-africa",
+      "title": "Prophet William Wadé Harris and the Ivorian mass movement",
+      "year": 1910,
+      "endYear": 1915,
+      "circa": false,
+      "place": {
+        "name": "Harper, Cape Palmas, Liberia",
+        "lat": 4.375,
+        "lng": -7.7169
+      },
+      "regions": [
+        "sub-saharan-africa"
+      ],
+      "personIds": [
+        "william-wade-harris"
+      ],
+      "traditionIds": [
+        "african-initiated-churches",
+        "methodist"
+      ],
+      "phenomena": [
+        "vision",
+        "prophecy",
+        "conversion",
+        "healing",
+        "deliverance",
+        "revival"
+      ],
+      "account": "Paraphrase of Harris's statements recorded by visitors and of David Shank's reconstruction: while imprisoned in Liberia for political activity (1910), the Grebo teacher William Wadé Harris received a visit from the angel Gabriel, who called him to be a prophet, to burn fetishes and to baptise. From 1913 to 1915, dressed in a white robe with a cross-topped staff, a Bible and a calabash rattle, he walked along the coast of the French Ivory Coast and the Gold Coast, preaching against traditional 'fetishes', baptising perhaps 100,000-120,000 people, and directing converts to wait for teachers 'with the Bible'.",
+      "primarySource": {
+        "title": "Accounts collected by missionaries and administrators (e.g. Methodist missionary reports, 1914-1926)",
+        "citation": "Testimonies gathered by W.J. Platt and others; Harris's 1926 interview with Pierre Benoit"
+      },
+      "contemporaryInterpretation": "French colonial authorities expelled Harris in 1915, fearing unrest. When Methodist missionaries arrived in 1924 they found thousands of Harris converts awaiting them; others formed the independent Harrist Church.",
+      "assessments": [
+        {
+          "perspective": "African-initiated churches",
+          "text": "Harris is honoured as a prophet of African Christianity who preached in an indigenous idiom, accepted polygamy among converts, and empowered African agency."
+        },
+        {
+          "perspective": "Methodist / mission churches",
+          "text": "Mission churches in Côte d'Ivoire and Ghana grew directly from his movement; Methodists honour his evangelistic role while distancing themselves from some practices."
+        },
+        {
+          "perspective": "Pentecostal / charismatic",
+          "text": "Seen as a forerunner of African Pentecostalism's emphasis on power encounter, healing and deliverance from spirits."
+        },
+        {
+          "perspective": "Historian",
+          "text": "Lamin Sanneh, Adrian Hastings and David Shank use Harris as a key case of African-led Christianisation outpacing Western missions."
+        }
+      ],
+      "debates": [
+        "Power encounter and the burning of traditional objects.",
+        "Polygamy and mission discipline.",
+        "Colonial suppression of prophets."
+      ],
+      "confidence": "well-documented",
+      "sources": [
+        "shank-prophet-harris",
+        "isichei-africa",
+        "sanneh-whose-religion"
+      ]
+    },
+    {
+      "id": "kimbangu-healings-nkamba",
+      "title": "Simon Kimbangu's healing ministry at Nkamba",
+      "year": 1921,
+      "endYear": 1921,
+      "circa": false,
+      "place": {
+        "name": "Nkamba, Bas-Congo (Kongo Central), DR Congo",
+        "lat": -5.25,
+        "lng": 14.87
+      },
+      "regions": [
+        "sub-saharan-africa"
+      ],
+      "personIds": [
+        "simon-kimbangu"
+      ],
+      "traditionIds": [
+        "african-initiated-churches",
+        "baptist"
+      ],
+      "phenomena": [
+        "healing",
+        "prophecy",
+        "deliverance",
+        "revival"
+      ],
+      "account": "Paraphrase of Kimbanguist tradition and colonial and Baptist mission records: in April 1921 the Baptist catechist Simon Kimbangu, who had resisted earlier calls he believed came from Christ, laid hands on a sick woman who was reported healed. For about five months crowds flocked to his village of Nkamba seeking healing; he preached against fetishes and polygamy and in favour of Bible reading. Belgian authorities, alarmed by the movement and by workers leaving their jobs, arrested him in September 1921; his death sentence was commuted to life imprisonment, and he died in prison in Élisabethville (Lubumbashi) in 1951.",
+      "primarySource": {
+        "title": "Records of the Baptist Missionary Society and Belgian colonial trial documents (1921)",
+        "citation": "Marie-Louise Martin, Kimbangu: An African Prophet and His Church (1975), drawing on oral and archival sources"
+      },
+      "contemporaryInterpretation": "Colonial officials saw a political threat; Baptist missionaries were divided. The movement survived underground and was legally recognised in 1959 as the Church of Jesus Christ on Earth by His Messenger Simon Kimbangu (EJCSK), which joined the World Council of Churches in 1969.",
+      "assessments": [
+        {
+          "perspective": "Kimbanguist",
+          "text": "Kimbangu is God's messenger and Nkamba is the 'New Jerusalem'; his suffering is seen as Christlike. Later Kimbanguist teaching attributed elevated spiritual status to Kimbangu and his descendants."
+        },
+        {
+          "perspective": "Mission Protestant / Catholic",
+          "text": "Many recognised a genuine evangelistic movement but have voiced concerns about later doctrinal developments regarding the Kimbangu family."
+        },
+        {
+          "perspective": "Pentecostal / charismatic",
+          "text": "Seen as an early African healing revival, comparable to Harris and the Aladura."
+        },
+        {
+          "perspective": "Historian",
+          "text": "Historians emphasise its anticolonial significance in Belgian Congo and its role as a model of African Christian independence."
+        }
+      ],
+      "debates": [
+        "Prophet movements and colonial power.",
+        "Later Christological teaching about Kimbangu and orthodoxy."
+      ],
+      "confidence": "well-documented",
+      "sources": [
+        "martin-kimbangu",
+        "isichei-africa",
+        "sanneh-whose-religion"
+      ]
+    },
+    {
+      "id": "aladura-babalola-revival",
+      "title": "Aladura revival and Joseph Babalola at Ilesa",
+      "year": 1930,
+      "circa": false,
+      "place": {
+        "name": "Oke-Oye, Ilesa, Nigeria",
+        "lat": 7.6167,
+        "lng": 4.7167
+      },
+      "regions": [
+        "sub-saharan-africa"
+      ],
+      "personIds": [
+        "joseph-ayo-babalola"
+      ],
+      "traditionIds": [
+        "african-initiated-churches",
+        "pentecostal",
+        "anglican"
+      ],
+      "phenomena": [
+        "healing",
+        "prophecy",
+        "revival",
+        "deliverance",
+        "vision"
+      ],
+      "account": "Paraphrase of J.D.Y. Peel's reconstruction and church histories: Aladura ('people of prayer') groups arose in Yorubaland during the 1918 influenza epidemic, when Anglican members of the Precious Stone/Faith Tabernacle prayer society relied on prayer and blessed water. In July 1930, Joseph Ayo Babalola, a former steamroller driver who had reported a call in a vision (1928), began a revival at Oke-Oye, Ilesa: crowds came for healing by prayer and water, traditional objects were burned and thousands converted. Similar prophet-led churches include the Cherubim and Seraphim (from 1925) and the Church of the Lord (Aladura) (1930).",
+      "primarySource": {
+        "title": "Church histories of the Christ Apostolic Church; colonial and missionary reports (1930-31)",
+        "citation": "J.D.Y. Peel, Aladura: A Religious Movement among the Yoruba (1968)"
+      },
+      "contemporaryInterpretation": "Colonial authorities and mission churches were uneasy about mass healing meetings and conflict with the use of medicine; Babalola was briefly imprisoned in 1932 in connection with witch-finding activities. The movement led to the Christ Apostolic Church (1941), after a split with British Apostolic Church missionaries over the use of medicine.",
+      "assessments": [
+        {
+          "perspective": "Aladura churches",
+          "text": "The revival is a foundational sign of God's power in Africa; prayer, visions, fasting and holy water are central to worship."
+        },
+        {
+          "perspective": "Mission Protestant (Anglican, Methodist)",
+          "text": "Historically critical of rejection of medicine and syncretism concerns, while today acknowledging the Aladura as authentic African Christianity."
+        },
+        {
+          "perspective": "Pentecostal / charismatic",
+          "text": "African Pentecostals see Aladura as forerunners, though newer Pentecostal churches often criticise Aladura use of candles, water and robes as syncretistic."
+        },
+        {
+          "perspective": "Historian / anthropologist",
+          "text": "Peel interprets Aladura as a Yoruba search for power and well-being expressed in Christian form during colonial upheaval."
+        }
+      ],
+      "debates": [
+        "Faith healing vs. medicine.",
+        "Inculturation vs. syncretism.",
+        "Witch-finding and its dangers."
+      ],
+      "confidence": "well-documented",
+      "sources": [
+        "peel-aladura",
+        "isichei-africa",
+        "anderson-pentecostalism"
+      ]
+    },
+    {
+      "id": "east-african-revival",
+      "title": "The East African Revival (Balokole)",
+      "year": 1933,
+      "endYear": 1960,
+      "circa": true,
+      "place": {
+        "name": "Gahini mission hospital, Rwanda",
+        "lat": -1.84,
+        "lng": 30.47
+      },
+      "regions": [
+        "sub-saharan-africa"
+      ],
+      "personIds": [
+        "simeon-nsibambi",
+        "joe-church"
+      ],
+      "traditionIds": [
+        "anglican",
+        "evangelical"
+      ],
+      "phenomena": [
+        "revival",
+        "conversion",
+        "trembling",
+        "vision"
+      ],
+      "account": "Paraphrase of Joe Church's memoir and later histories: after the Ugandan layman Simeon Nsibambi and the English missionary doctor Joe Church met in Kampala in 1929 and studied the Bible together, a revival broke out at the Gahini mission in Rwanda in 1933, then spread through Uganda, Kenya and Tanganyika. Its marks were conviction of sin, public confession, restitution and 'walking in the light' in fellowship. Some meetings in the 1930s saw people trembling, weeping and having visions, which leaders came to downplay.",
+      "primarySource": {
+        "title": "J.E. (Joe) Church, Quest for the Highest: An Autobiographical Account of the East African Revival (1981)",
+        "citation": "Church 1981; Ruanda Mission (CMS) records"
+      },
+      "contemporaryInterpretation": "The revival largely stayed within the Anglican Church, though at times it clashed with clergy who found the Balokole ('saved ones') judgemental. During the Mau Mau emergency (1950s) many revivalists refused to take oaths and were killed, which gave the movement moral prestige.",
+      "assessments": [
+        {
+          "perspective": "Anglican / evangelical",
+          "text": "A formative renewal shaping East African Anglicanism and leaders such as Archbishop Janani Luwum and Festo Kivengere."
+        },
+        {
+          "perspective": "Pentecostal / charismatic",
+          "text": "Sometimes claimed as a precursor, though the revival mainly avoided tongues and sought order within the established church."
+        },
+        {
+          "perspective": "Historian",
+          "text": "Kevin Ward and Emma Wild-Wood stress its African leadership, interracial fellowship (Brethren) and its tensions with both mission and nationalist politics."
+        },
+        {
+          "perspective": "Psychology of religion",
+          "text": "Public confession created strong community bonds and moral accountability, but some critics noted pressure and perfectionism."
+        }
+      ],
+      "debates": [
+        "Public confession and communal discipline.",
+        "Revival within an established church.",
+        "Revivalists and political violence (Mau Mau)."
+      ],
+      "confidence": "well-documented",
+      "sources": [
+        "ward-wild-wood-east-african-revival",
+        "church-quest-highest",
+        "isichei-africa"
+      ]
+    },
+    {
+      "id": "sadhu-sundar-singh-vision",
+      "title": "Sadhu Sundar Singh's vision of Christ",
+      "year": 1904,
+      "circa": false,
+      "place": {
+        "name": "Rampur, Ludhiana district, Punjab",
+        "lat": 30.901,
+        "lng": 75.8573
+      },
+      "regions": [
+        "india"
+      ],
+      "personIds": [
+        "sadhu-sundar-singh"
+      ],
+      "traditionIds": [
+        "anglican",
+        "evangelical"
+      ],
+      "phenomena": [
+        "vision",
+        "conversion",
+        "light",
+        "miracle"
+      ],
+      "account": "Paraphrase of Sundar Singh's own testimony as recorded by Streeter and Appasamy: a fifteen-year-old Sikh boy, grieving his mother's death and hostile to Christianity (he publicly burned a Bible), prayed through the night of 18 December 1904 resolved to die on the railway line before the morning train unless God revealed himself. Before dawn a light filled his room and he saw the figure of Jesus with nail-pierced hands, who spoke to him in Hindustani. Baptised in the Anglican church in Shimla in 1905, he became a wandering Christian sadhu in saffron robes, travelling across India and into Tibet.",
+      "primarySource": {
+        "title": "B.H. Streeter and A.J. Appasamy, The Sadhu: A Study in Mysticism and Practical Religion (1921)",
+        "citation": "Streeter & Appasamy 1921; Sundar Singh's own writings, e.g. At the Master's Feet (1922)"
+      },
+      "contemporaryInterpretation": "His vision and ascetic Indian style made him famous in Europe in the 1920s. He disappeared on a journey into Tibet in 1929. Some European critics (the Jesuit Fr Hosten and the psychoanalyst Oskar Pfister, 1926) questioned miracle stories in his travels, such as a 300-year-old 'Maharishi of Kailash'.",
+      "assessments": [
+        {
+          "perspective": "Indian Protestant / Anglican",
+          "text": "Celebrated as a pioneer of indigenous Indian Christianity who showed that faith in Christ need not mean Westernisation."
+        },
+        {
+          "perspective": "Catholic",
+          "text": "Respected as a mystic; some Catholic critics in his day investigated and disputed specific miracle claims."
+        },
+        {
+          "perspective": "Pentecostal / charismatic",
+          "text": "His visions are often cited as examples of direct revelation of Christ to people of other faiths, a theme recurring in reports from the Muslim world."
+        },
+        {
+          "perspective": "Historian / psychology of religion",
+          "text": "Pfister's psychoanalytic study and later scholars debate how to read his visions; his conversion account is consistent and first-hand, while the later travel miracles are less corroborated."
+        }
+      ],
+      "debates": [
+        "Visions of Christ to non-Christians.",
+        "Corroboration of travel miracle stories.",
+        "Indian forms of Christian discipleship."
+      ],
+      "confidence": "contested",
+      "sources": [
+        "streeter-appasamy-sadhu",
+        "moffett-asia",
+        "jenkins-next-christendom"
+      ]
+    },
+    {
+      "id": "john-sung-revival-campaigns",
+      "title": "John Sung's revival and healing campaigns in China and Southeast Asia",
+      "year": 1931,
+      "endYear": 1940,
+      "circa": false,
+      "place": {
+        "name": "Shanghai (Bethel Mission)",
+        "lat": 31.2304,
+        "lng": 121.4737
+      },
+      "regions": [
+        "east-asia",
+        "southeast-asia"
+      ],
+      "personIds": [
+        "john-sung"
+      ],
+      "traditionIds": [
+        "evangelical",
+        "chinese-house-churches"
+      ],
+      "phenomena": [
+        "revival",
+        "healing",
+        "conversion"
+      ],
+      "account": "Paraphrase of Sung's diaries and Lian Xi's study: John Sung (Song Shangjie), a Fujianese pastor's son with a PhD in chemistry from Ohio State University, experienced a dramatic conversion in New York in 1927 and was confined for six months in a psychiatric hospital before returning to China. From 1931 with the Bethel Worldwide Evangelistic Band, and independently from 1933, he preached across China and among Chinese in the Philippines, Malaya, Singapore and the Dutch East Indies until about 1940, with intense calls to repentance, dramatic gestures and healing services in which thousands reported cures.",
+      "primarySource": {
+        "title": "John Sung's diaries (published in Chinese as The Diaries of John Sung, ed. Levi Sung, 1995)",
+        "citation": "Lian Xi, Redeemed by Fire (2010); Leslie Lyall, A Biography of John Sung (1954)"
+      },
+      "contemporaryInterpretation": "Admirers called him the 'Wesley of China'; Chinese Christians credited him with planting hundreds of preaching bands. Critics, including some missionaries, disliked his harshness and theatrical methods. He died of tuberculosis in 1944.",
+      "assessments": [
+        {
+          "perspective": "Chinese evangelical / house church",
+          "text": "A spiritual father of independent Chinese Protestantism whose emphasis on repentance, Bible and evangelistic bands influenced later house churches."
+        },
+        {
+          "perspective": "Mainline mission",
+          "text": "Some missionaries criticised his anti-modernist polemics and emotional style but acknowledged his effectiveness."
+        },
+        {
+          "perspective": "Historian",
+          "text": "Lian Xi places Sung within the rise of an indigenous, millenarian popular Protestantism in Republican China."
+        },
+        {
+          "perspective": "Psychology of religion",
+          "text": "His 1927 hospitalisation is variously read as a breakdown, a misunderstood conversion crisis or both."
+        }
+      ],
+      "debates": [
+        "Healing services and verification.",
+        "Indigenous leadership vs. mission control.",
+        "Mental illness and religious experience."
+      ],
+      "confidence": "well-documented",
+      "sources": [
+        "lian-redeemed-by-fire",
+        "moffett-asia"
+      ]
+    },
+    {
+      "id": "indonesian-revival-timor-1965",
+      "title": "The Indonesian revival (Timor, 1965)",
+      "year": 1965,
+      "endYear": 1970,
+      "circa": false,
+      "place": {
+        "name": "Soe, Timor, Indonesia",
+        "lat": -9.8607,
+        "lng": 124.284
+      },
+      "regions": [
+        "southeast-asia"
+      ],
+      "personIds": [],
+      "traditionIds": [
+        "reformed",
+        "evangelical"
+      ],
+      "phenomena": [
+        "revival",
+        "miracle",
+        "healing",
+        "vision",
+        "conversion"
+      ],
+      "account": "Paraphrase of popular accounts: from September 1965 in the Reformed (GMIT) church at Soe, West Timor, lay evangelistic teams went out after reported visions and a sound like wind. Popular books (Kurt Koch, The Revival in Indonesia, 1970; Mel Tari, Like a Mighty Wind, 1971) reported healings, people walking across rivers, water turned to wine at communion and the dead raised. At the same time, after the failed coup of 30 September 1965 and the anti-communist killings of 1965-66, large numbers of Indonesians, especially in Java, joined churches.",
+      "primarySource": {
+        "title": "Kurt Koch, The Revival in Indonesia (1970); Mel Tari, Like a Mighty Wind (1971)",
+        "citation": "Koch 1970; Tari 1971; Avery T. Willis, Indonesian Revival: Why Two Million Came to Christ (1977)"
+      },
+      "contemporaryInterpretation": "Indonesian church leaders welcomed the growth; Some Indonesian church leaders later warned against exaggerated miracle claims. The government required every citizen to profess a recognised religion, which also pushed conversions.",
+      "assessments": [
+        {
+          "perspective": "Pentecostal / charismatic",
+          "text": "The Timor accounts became famous evidence for modern 'signs and wonders' in the 1970s."
+        },
+        {
+          "perspective": "Reformed (including Indonesian churches)",
+          "text": "The GMIT and other churches recognised renewal but criticised sensational claims and later disorder in some teams."
+        },
+        {
+          "perspective": "Historian",
+          "text": "Avery Willis and others attribute the Java conversions largely to political and social causes after 1965 (the killing of perhaps 500,000 alleged communists and the need to register a religion), as well as to Christian care for detainees' families."
+        },
+        {
+          "perspective": "Skeptic",
+          "text": "Spectacular miracle reports, especially in Mel Tari's book, have not been independently verified and are widely treated as embellished."
+        }
+      ],
+      "debates": [
+        "Verification of spectacular miracle claims.",
+        "Conversion and political violence.",
+        "Popular revival literature and exaggeration."
+      ],
+      "confidence": "contested",
+      "sources": [
+        "willis-indonesian-revival",
+        "koch-revival-indonesia",
+        "moffett-asia"
+      ]
+    },
+    {
+      "id": "argentine-revival-1980s",
+      "title": "The Argentine revival and Carlos Annacondia's campaigns",
+      "year": 1982,
+      "endYear": 1997,
+      "circa": true,
+      "place": {
+        "name": "Greater Buenos Aires",
+        "lat": -34.6037,
+        "lng": -58.3816
+      },
+      "regions": [
+        "latin-america"
+      ],
+      "personIds": [
+        "carlos-annacondia"
+      ],
+      "traditionIds": [
+        "neo-charismatic",
+        "pentecostal",
+        "evangelical"
+      ],
+      "phenomena": [
+        "deliverance",
+        "healing",
+        "revival",
+        "slain-in-spirit",
+        "laughter"
+      ],
+      "account": "Paraphrase of participants' and scholars' accounts: after the Falklands/Malvinas war (1982) and the return to democracy (1983), mass open-air evangelistic campaigns by the businessman-evangelist Carlos Annacondia drew huge crowds in Greater Buenos Aires and La Plata. Annacondia confronted demons directly from the platform, with people manifesting and being taken to 'spiritual intensive care' tents for deliverance; healings were reported. Other figures included Omar Cabrera and, from 1992, Claudio Freidzon, whose meetings featured holy laughter.",
+      "primarySource": {
+        "title": "Carlos Annacondia, Listen to Me, Satan! (1998); contemporary campaign reports",
+        "citation": "Annacondia 1998; Donald Miller & Tetsunao Yamamori, Global Pentecostalism (2007)"
+      },
+      "contemporaryInterpretation": "Argentine evangelicals experienced rapid growth in the 1980s-90s. The revival's spiritual warfare emphasis strongly influenced North American 'strategic-level spiritual warfare' teaching (e.g. C. Peter Wagner) and the Toronto Blessing through visitors.",
+      "assessments": [
+        {
+          "perspective": "Pentecostal / charismatic",
+          "text": "Hailed as a model of revival through prayer, evangelism and deliverance; Argentine leaders became influential worldwide."
+        },
+        {
+          "perspective": "Catholic",
+          "text": "Catholic bishops were concerned about proselytism; at the same time Catholic Charismatic Renewal grew in Argentina, and the future Pope Francis built friendships with Pentecostal leaders."
+        },
+        {
+          "perspective": "Reformed / evangelical critics",
+          "text": "Criticise 'spiritual warfare' practices and holy laughter as lacking biblical warrant."
+        },
+        {
+          "perspective": "Sociologist",
+          "text": "Scholars connect growth to post-dictatorship religious freedom, urban migration and the appeal of personal empowerment."
+        }
+      ],
+      "debates": [
+        "Strategic-level spiritual warfare.",
+        "Deliverance ministry practices.",
+        "Pentecostal-Catholic relations."
+      ],
+      "confidence": "contested",
+      "sources": [
+        "miller-yamamori-global-pentecostalism",
+        "anderson-pentecostalism"
+      ]
+    },
+    {
+      "id": "brazil-pentecostal-belem-1911",
+      "title": "Pentecostal beginnings in Belém and Brazil's Pentecostal growth",
+      "year": 1911,
+      "circa": false,
+      "place": {
+        "name": "Belém, Pará",
+        "lat": -1.4558,
+        "lng": -48.5039
+      },
+      "regions": [
+        "latin-america"
+      ],
+      "personIds": [
+        "gunnar-vingren",
+        "daniel-berg"
+      ],
+      "traditionIds": [
+        "pentecostal",
+        "assemblies-of-god",
+        "baptist"
+      ],
+      "phenomena": [
+        "tongues",
+        "healing",
+        "revival"
+      ],
+      "account": "Paraphrase of Assembleias de Deus histories: two Swedish Baptist immigrants from Chicago, Gunnar Vingren and Daniel Berg, came to Belém in 1910 after a prophecy naming 'Pará'. In June 1911 Celina de Albuquerque, a member of the Baptist church where they worshipped, was reported to be the first in Brazil to speak in tongues; the Pentecostal group was expelled and formed the Apostolic Faith Mission, renamed Assembleia de Deus in 1918. Healing became a hallmark of later Brazilian Pentecostalism, from the 1950s tent crusades to the neo-Pentecostal Universal Church of the Kingdom of God (founded 1977).",
+      "primarySource": {
+        "title": "Histories of the Assembleias de Deus no Brasil; Gunnar Vingren's diary",
+        "citation": "Vingren, Diário do pioneiro (published 1973); R. Andrew Chesnut, Born Again in Brazil (1997)"
+      },
+      "contemporaryInterpretation": "Early Brazilian Pentecostals faced Catholic opposition and were largely poor and urban; today the Assemblies of God in Brazil is one of the largest Pentecostal bodies in the world, and evangelicals were over a fifth of Brazil's population by the 2010 census, most of them Pentecostal.",
+      "assessments": [
+        {
+          "perspective": "Pentecostal",
+          "text": "Brazilian Pentecostalism is a central example of the global South's 'Spirit-filled' Christianity, with healing and deliverance as means of evangelism."
+        },
+        {
+          "perspective": "Catholic",
+          "text": "Catholic bishops (e.g. at the Aparecida conference, 2007) responded to losses to Pentecostalism; Catholic Charismatic Renewal grew strongly in Brazil."
+        },
+        {
+          "perspective": "Reformed / evangelical critics",
+          "text": "Criticise neo-Pentecostal prosperity teaching and commercialisation of healing (especially in the Universal Church)."
+        },
+        {
+          "perspective": "Sociologist",
+          "text": "Andrew Chesnut argues Pentecostalism grows by offering healing from the 'pathogens of poverty' (illness, alcoholism, family breakdown); Paul Freston notes its growing political influence."
+        }
+      ],
+      "debates": [
+        "Prosperity theology and neo-Pentecostalism.",
+        "Pentecostal politics in Brazil.",
+        "Healing and poverty."
+      ],
+      "confidence": "well-documented",
+      "sources": [
+        "chesnut-born-again-brazil",
+        "anderson-pentecostalism",
+        "jenkins-next-christendom"
+      ]
+    },
+    {
+      "id": "chinese-house-church-healings",
+      "title": "Healing and growth in Chinese house churches",
+      "year": 1970,
+      "endYear": 2000,
+      "circa": true,
+      "place": {
+        "name": "Henan province, China",
+        "lat": 34.7466,
+        "lng": 113.6253
+      },
+      "regions": [
+        "east-asia"
+      ],
+      "personIds": [],
+      "traditionIds": [
+        "chinese-house-churches",
+        "evangelical"
+      ],
+      "phenomena": [
+        "healing",
+        "deliverance",
+        "conversion",
+        "revival",
+        "prophecy"
+      ],
+      "account": "Paraphrase of field studies and testimonies: during and after the Cultural Revolution, when public churches were closed, Protestant house-church networks grew rapidly in rural provinces such as Henan, Anhui and Zhejiang. Surveys and interviews from the 1980s-2000s repeatedly found that experiences of healing from illness, often after prayer by lay evangelists, or deliverance from spirits, were among the most common reasons given for conversion. Networks such as Fangcheng and Tanghe sent itinerant evangelists across China.",
+      "primarySource": {
+        "title": "Fieldwork and testimonies collected by scholars and ministries",
+        "citation": "Alan Hunter & Kim-Kwong Chan, Protestantism in Contemporary China (1993); Lian Xi, Redeemed by Fire (2010)"
+      },
+      "contemporaryInterpretation": "Chinese authorities often treated unregistered groups as illegal and sometimes labelled healing practices as 'superstition'; registered Three-Self churches tended to be more cautious about healing. Some sectarian groups arising from the same milieu (e.g. Eastern Lightning) were rejected by house churches as heretical.",
+      "assessments": [
+        {
+          "perspective": "Chinese house church",
+          "text": "Healing and answered prayer are read as signs of the living God's power under persecution, in line with Acts."
+        },
+        {
+          "perspective": "Three-Self / registered Protestant",
+          "text": "Often more cautious, emphasising rational faith and order, while acknowledging prayer for the sick."
+        },
+        {
+          "perspective": "Pentecostal / charismatic",
+          "text": "Cited as among the largest examples of 'signs and wonders' evangelism in the world, though many house churches do not identify as Pentecostal."
+        },
+        {
+          "perspective": "Historian / sociologist",
+          "text": "Healing claims are hard to verify; scholars explain their importance by limited rural healthcare, folk-religious expectations and the social support of house churches. Growth estimates vary widely."
+        }
+      ],
+      "debates": [
+        "Verification of healing claims and growth statistics.",
+        "Heterodox sects arising in the same networks.",
+        "State control and 'superstition'."
+      ],
+      "confidence": "contested",
+      "sources": [
+        "lian-redeemed-by-fire",
+        "hunter-chan-protestantism-china",
+        "jenkins-next-christendom"
+      ]
+    }
+  ]
+}

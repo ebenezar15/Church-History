@@ -1,0 +1,2403 @@
+{
+  "doctrines": [
+    {
+      "id": "atonement",
+      "name": "Atonement",
+      "icon": "cross",
+      "order": 5,
+      "question": "What did Christ’s death accomplish, and how does it reconcile God and humanity?",
+      "summary": "The creeds confess that Christ was crucified \"for us and for our salvation\" but never defined how the cross saves. Ransom, recapitulation, satisfaction, moral influence, penal substitution, governmental, Christus Victor, mimetic, nonviolent and participatory models each take up different biblical images and different accounts of the human plight.",
+      "longText": "Unlike the Trinity or the person of Christ, the work of Christ was never defined by an ecumenical council. The Nicene Creed says only that he was crucified \"for us\" and \"for our salvation\". The New Testament offers a rich cluster of images — ransom (Mark 10:45), sacrifice and the Day of Atonement (Hebrews), propitiation or expiation (Romans 3:25), curse-bearing (Galatians 3:13), victory over the powers (Colossians 2:15), reconciliation (2 Corinthians 5) and example (1 Peter 2:21) — and later theology organised them into \"theories\" or \"models\".\n\nThe early church spoke above all of victory, healing and participation. Irenaeus saw Christ \"recapitulating\" Adam’s story and redeeming captives; Athanasius saw the incorruptible Word abolishing death in the body he assumed; Origen and Gregory of Nyssa described a ransom paid to, or a fish-hook concealed from, the devil — imagery that Gregory of Nazianzus and John of Damascus qualified. The Orthodox Easter hymn \"trampling down death by death\" still carries this vision.\n\nIn 1098 Anselm’s Cur Deus Homo reframed the question in terms of God’s honour: sinful humanity owes a satisfaction it cannot pay, so a God-man must pay it. Abelard answered that the cross saves by revealing and kindling love, and was condemned at Sens (1141). The Reformers sharpened satisfaction into penal substitution: Christ bore the penalty of God’s law and the curse due to sinners, and his righteousness is imputed to believers. Socinus denied that satisfaction and forgiveness are compatible; Grotius answered with a \"governmental\" theory; Owen and the Synod of Dort argued for a definite atonement for the elect, while Amyraldians, Arminians and Wesleyans held that Christ died for all.\n\nIn the 19th and 20th centuries John McLeod Campbell re-centred atonement on Christ’s filial response to the Father in our humanity, a line developed by T. F. and J. B. Torrance; Gustaf Aulén’s Christus Victor (1930) revived the \"classic\" victory model; René Girard’s mimetic theory read the cross as unmasking scapegoat violence; and feminist, womanist and Anabaptist critics proposed nonviolent models. Evangelicals have vigorously defended penal substitution (Packer, Stott, Pierced for Our Transgressions), while many theologians now speak of complementary models within a \"kaleidoscope\". The \"legal vs union\" comparison traces how these choices shape whole frameworks of the gospel.",
+      "flow": {
+        "nodes": [
+          {
+            "id": "q-atonement",
+            "kind": "question",
+            "label": "What did Christ’s death accomplish — and how does it reconcile God and humanity?",
+            "text": "The New Testament uses many images: ransom, sacrifice, propitiation/expiation, victory over powers, reconciliation, example, new creation. No ecumenical council ever defined a single theory of the atonement, so \"models\" multiplied, each emphasising different texts and a different account of the human plight.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-isaiah",
+            "kind": "scripture",
+            "label": "Isaiah 52:13-53:12 — the suffering servant",
+            "year": -540,
+            "text": "\"He was wounded for our transgressions … the chastisement of our peace was upon him … the LORD hath laid on him the iniquity of us all.\" Central to substitutionary readings; also read as solidarity and vindication.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-leviticus",
+            "kind": "scripture",
+            "label": "Leviticus 16; Hebrews 9-10 — the Day of Atonement",
+            "year": -500,
+            "text": "The sacrificed goat and the \"scapegoat\" bearing Israel’s sins into the wilderness; Hebrews presents Christ as high priest and once-for-all sacrifice. Read sacrificially, penally, or (Girard) as exposing the scapegoat mechanism.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-ransom",
+            "kind": "scripture",
+            "label": "Mark 10:45; 1 Timothy 2:6 — a ransom for many",
+            "year": 70,
+            "text": "\"The Son of man came … to give his life a ransom for many.\" The root of the patristic ransom motif.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-romans-3",
+            "kind": "scripture",
+            "label": "Romans 3:21-26; 2 Corinthians 5:14-21; Galatians 3:13",
+            "year": 57,
+            "text": "Christ \"set forth to be a propitiation (hilastērion)\"; God \"made him to be sin for us\"; Christ \"made a curse for us\". Key texts of satisfaction and penal substitution — and of participation: \"one died for all, therefore all died.\"",
+            "quoteIds": []
+          },
+          {
+            "id": "s-victory",
+            "kind": "scripture",
+            "label": "Colossians 2:13-15; Hebrews 2:14-15; 1 John 3:8",
+            "year": 60,
+            "text": "Christ \"spoiled principalities and powers … triumphing over them\"; through death he destroyed \"him that had the power of death\". The Christus Victor texts.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-example",
+            "kind": "scripture",
+            "label": "1 Peter 2:21-24; 1 John 4:9-10; Romans 5:8",
+            "year": 64,
+            "text": "\"Christ also suffered for us, leaving us an example\"; \"herein is love … that he loved us, and sent his Son to be the propitiation\". Texts of moral influence and of love as the source of atonement.",
+            "quoteIds": []
+          },
+          {
+            "id": "v-irenaeus",
+            "kind": "voice",
+            "label": "Irenaeus: recapitulation and redemption",
+            "year": 180,
+            "text": "Christ sums up and reverses Adam’s story — obedient at a tree where Adam disobeyed — and redeems captives \"in a manner consonant to reason\".",
+            "ref": {
+              "type": "person",
+              "id": "irenaeus"
+            },
+            "quoteIds": [
+              "irenaeus-recapitulation",
+              "irenaeus-redeeming-blood"
+            ]
+          },
+          {
+            "id": "v-athanasius",
+            "kind": "voice",
+            "label": "Athanasius: death abolished in the Lord’s body",
+            "year": 318,
+            "text": "The incorruptible Word takes a mortal body so that the death of all is accomplished in him and corruption is undone from within.",
+            "ref": {
+              "type": "work",
+              "id": "athanasius-on-the-incarnation"
+            },
+            "quoteIds": [
+              "athanasius-death-of-all",
+              "athanasius-made-god"
+            ]
+          },
+          {
+            "id": "v-origen",
+            "kind": "voice",
+            "label": "Origen: the ransom paid to the evil one",
+            "year": 246,
+            "text": "Origen reads Mark 10:45 literally: the ransom was paid to the devil, who could not hold the soul of Jesus.",
+            "ref": {
+              "type": "person",
+              "id": "origen"
+            },
+            "quoteIds": [
+              "origen-ransom-to-devil"
+            ]
+          },
+          {
+            "id": "v-nyssa",
+            "kind": "voice",
+            "label": "Gregory of Nyssa: the divine fish-hook",
+            "year": 385,
+            "text": "The devil swallows the bait of Christ’s flesh and is caught by the hook of his divinity.",
+            "ref": {
+              "type": "work",
+              "id": "gregory-nyssa-catechetical-oration"
+            },
+            "quoteIds": [
+              "nyssa-fishhook"
+            ]
+          },
+          {
+            "id": "a-nazianzen",
+            "kind": "argument",
+            "label": "Gregory of Nazianzus: to whom was the ransom paid?",
+            "year": 383,
+            "text": "Gregory rejects payment to the devil as outrageous, and payment demanded by the Father as unworthy; he stresses healing by assumption.",
+            "ref": {
+              "type": "person",
+              "id": "gregory-of-nazianzus"
+            },
+            "quoteIds": [
+              "nazianzen-to-whom-ransom",
+              "nazianzen-unassumed-unhealed"
+            ]
+          },
+          {
+            "id": "p-ransom",
+            "kind": "position",
+            "label": "Ransom theory",
+            "year": 246,
+            "text": "Humanity is held captive by the devil; Christ’s death is the price or the bait that frees us.",
+            "ref": {
+              "type": "position",
+              "id": "ransom-theory"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-recapitulation",
+            "kind": "position",
+            "label": "Recapitulation",
+            "year": 180,
+            "text": "Christ re-lives and heals the whole human story, undoing Adam’s disobedience.",
+            "ref": {
+              "type": "position",
+              "id": "recapitulation"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-satisfaction",
+            "kind": "position",
+            "label": "Anselm: satisfaction of God’s honour",
+            "year": 1098,
+            "text": "Sin robs God of honour; only a God-man can repay; Christ’s free death merits a reward passed to us.",
+            "ref": {
+              "type": "position",
+              "id": "satisfaction-theory"
+            },
+            "quoteIds": [
+              "anselm-satisfaction-owed",
+              "anselm-god-man"
+            ]
+          },
+          {
+            "id": "p-moral",
+            "kind": "position",
+            "label": "Abelard: love that kindles love",
+            "year": 1135,
+            "text": "The cross reveals God’s love and awakens responsive love that frees us from sin.",
+            "ref": {
+              "type": "position",
+              "id": "moral-influence"
+            },
+            "quoteIds": [
+              "abelard-love-kindled"
+            ]
+          },
+          {
+            "id": "a-bernard",
+            "kind": "argument",
+            "label": "Bernard of Clairvaux against Abelard",
+            "year": 1140,
+            "text": "Bernard charges that Abelard leaves Christ a mere example and denies real redemption from the devil’s power.",
+            "ref": {
+              "type": "person",
+              "id": "bernard-of-clairvaux"
+            },
+            "quoteIds": [
+              "bernard-against-abelard"
+            ]
+          },
+          {
+            "id": "d-sens",
+            "kind": "decision",
+            "label": "Council of Sens (1141) condemns Abelard",
+            "year": 1141,
+            "text": "Propositions drawn from Abelard (including on redemption) are condemned and Innocent II confirms; satisfaction thinking, refined by Aquinas, becomes the medieval norm.",
+            "ref": {
+              "type": "person",
+              "id": "abelard"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "c-passion-piety",
+            "kind": "consequence",
+            "label": "Late-medieval devotion to the suffering Christ",
+            "year": 1300,
+            "text": "Satisfaction and merit language shapes Western piety: the realistic crucifix, the Stations of the Cross, indulgences drawn on Christ’s superabundant merits — contrasting with the victorious Christ of Eastern icons.",
+            "ref": {
+              "type": "person",
+              "id": "thomas-aquinas"
+            },
+            "quoteIds": [
+              "aquinas-superabundant-satisfaction"
+            ]
+          },
+          {
+            "id": "p-penal",
+            "kind": "position",
+            "label": "Reformers: penal substitution",
+            "year": 1559,
+            "text": "Christ bears in our place the penalty of God’s law and the curse of sin; his righteousness is imputed to us.",
+            "ref": {
+              "type": "position",
+              "id": "penal-substitution"
+            },
+            "quoteIds": [
+              "luther-greatest-sinner",
+              "calvin-curse-and-love"
+            ]
+          },
+          {
+            "id": "a-socinus",
+            "kind": "argument",
+            "label": "Socinus: satisfaction and forgiveness are incompatible",
+            "year": 1594,
+            "text": "If the debt is paid, it is not forgiven; the Polish Brethren reject satisfaction altogether.",
+            "ref": {
+              "type": "person",
+              "id": "faustus-socinus"
+            },
+            "quoteIds": [
+              "socinus-no-satisfaction"
+            ]
+          },
+          {
+            "id": "p-governmental",
+            "kind": "position",
+            "label": "Grotius: governmental theory",
+            "year": 1617,
+            "text": "God as ruler upholds moral order by a public display of what sin deserves, then pardons.",
+            "ref": {
+              "type": "position",
+              "id": "governmental-theory"
+            },
+            "quoteIds": [
+              "grotius-rector"
+            ]
+          },
+          {
+            "id": "d-dort",
+            "kind": "decision",
+            "label": "Dort (1619) and Westminster (1646): definite atonement, satisfaction of justice",
+            "year": 1619,
+            "text": "Reformed confessions declare Christ’s death \"sufficient for all, efficient for the elect\" (Dort II) and that he \"fully satisfied the justice of his Father\" (WCF 8.5).",
+            "ref": {
+              "type": "event",
+              "id": "synod-of-dort-1618"
+            },
+            "quoteIds": [
+              "owen-triple-choice"
+            ]
+          },
+          {
+            "id": "d-campbell-deposed",
+            "kind": "decision",
+            "label": "General Assembly deposes John McLeod Campbell (1831)",
+            "year": 1831,
+            "text": "The Church of Scotland deposes Campbell for teaching that Christ died for all and that assurance belongs to faith; his later Nature of the Atonement (1856) reframes atonement filially.",
+            "ref": {
+              "type": "person",
+              "id": "john-mcleod-campbell"
+            },
+            "quoteIds": []
+          },
+          {
+            "id": "p-participatory",
+            "kind": "position",
+            "label": "Participatory / union model",
+            "year": 1856,
+            "text": "Atonement happens in Christ’s whole vicarious humanity: he includes us, confesses, repents, obeys and offers us to the Father.",
+            "ref": {
+              "type": "position",
+              "id": "participatory-union-atonement"
+            },
+            "quoteIds": [
+              "campbell-perfect-amen",
+              "campbell-filial",
+              "tf-torrance-vicarious-humanity"
+            ]
+          },
+          {
+            "id": "c-evangelical",
+            "kind": "consequence",
+            "label": "Penal substitution in evangelical preaching and hymnody",
+            "year": 1740,
+            "text": "From the Evangelical Revival to Hodge, Spurgeon and Billy Graham, penal substitution becomes the heart of evangelical proclamation and assurance.",
+            "ref": {
+              "type": "person",
+              "id": "charles-hodge"
+            },
+            "quoteIds": [
+              "hodge-satisfaction-justice"
+            ]
+          },
+          {
+            "id": "p-cv",
+            "kind": "position",
+            "label": "Aulén: Christus Victor",
+            "year": 1930,
+            "text": "The \"classic\" view: God in Christ conquers sin, death and the devil.",
+            "ref": {
+              "type": "position",
+              "id": "christus-victor"
+            },
+            "quoteIds": [
+              "aulen-classic-type",
+              "chrysostom-paschal-homily"
+            ]
+          },
+          {
+            "id": "p-mimetic",
+            "kind": "position",
+            "label": "Girard: the scapegoat unmasked",
+            "year": 1978,
+            "text": "The cross exposes and ends the violent scapegoat mechanism on which cultures are built.",
+            "ref": {
+              "type": "position",
+              "id": "mimetic-scapegoat"
+            },
+            "quoteIds": [
+              "girard-scapegoat"
+            ]
+          },
+          {
+            "id": "a-violence",
+            "kind": "argument",
+            "label": "Feminist, womanist and pacifist critiques",
+            "year": 1989,
+            "text": "Critics such as Joanne Carlson Brown and Rebecca Parker (1989) and Delores Williams (1993) ask whether atonement theories sanctify suffering and violence (\"divine child abuse\").",
+            "quoteIds": []
+          },
+          {
+            "id": "p-nonviolent",
+            "kind": "position",
+            "label": "Nonviolent atonement",
+            "year": 2001,
+            "text": "Narrative Christus Victor without a God who requires violence.",
+            "ref": {
+              "type": "position",
+              "id": "nonviolent-atonement"
+            },
+            "quoteIds": [
+              "weaver-narrative-cv"
+            ]
+          },
+          {
+            "id": "a-defence",
+            "kind": "argument",
+            "label": "Defences of penal substitution",
+            "year": 2007,
+            "text": "After Steve Chalke’s Lost Message of Jesus (2003) provoked controversy in British evangelicalism, Pierced for Our Transgressions (2007) and others restate penal substitution as Trinitarian self-giving, not abuse.",
+            "ref": {
+              "type": "position",
+              "id": "penal-substitution"
+            },
+            "quoteIds": [
+              "packer-penal-substitution",
+              "stott-self-substitution"
+            ]
+          },
+          {
+            "id": "m-today",
+            "kind": "modern",
+            "label": "Where things stand today",
+            "year": 2026,
+            "text": "Orthodox churches emphasise victory and theosis (the paschal \"trampling down death by death\"); Catholic teaching speaks of sacrifice, satisfaction and merit (Catechism 599-618); confessional Reformed, Lutheran and many evangelical bodies treat penal substitution as central; many scholars favour a \"kaleidoscopic\" plurality of models, while Christus Victor, participatory and nonviolent models are widely revived.",
+            "quoteIds": []
+          }
+        ],
+        "edges": [
+          {
+            "from": "q-atonement",
+            "to": "s-isaiah",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q-atonement",
+            "to": "s-leviticus",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q-atonement",
+            "to": "s-ransom",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q-atonement",
+            "to": "s-romans-3",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q-atonement",
+            "to": "s-victory",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q-atonement",
+            "to": "s-example",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-ransom",
+            "to": "v-irenaeus",
+            "kind": "supports"
+          },
+          {
+            "from": "s-victory",
+            "to": "v-irenaeus",
+            "kind": "supports"
+          },
+          {
+            "from": "s-romans-3",
+            "to": "v-athanasius",
+            "kind": "supports"
+          },
+          {
+            "from": "v-irenaeus",
+            "to": "v-athanasius",
+            "kind": "develops"
+          },
+          {
+            "from": "v-irenaeus",
+            "to": "p-recapitulation",
+            "kind": "develops"
+          },
+          {
+            "from": "v-athanasius",
+            "to": "p-recapitulation",
+            "kind": "develops"
+          },
+          {
+            "from": "s-ransom",
+            "to": "v-origen",
+            "kind": "supports"
+          },
+          {
+            "from": "v-origen",
+            "to": "p-ransom",
+            "kind": "develops"
+          },
+          {
+            "from": "v-nyssa",
+            "to": "p-ransom",
+            "kind": "develops"
+          },
+          {
+            "from": "v-origen",
+            "to": "v-nyssa",
+            "kind": "develops"
+          },
+          {
+            "from": "a-nazianzen",
+            "to": "p-ransom",
+            "kind": "objects"
+          },
+          {
+            "from": "v-athanasius",
+            "to": "a-nazianzen",
+            "kind": "develops"
+          },
+          {
+            "from": "s-romans-3",
+            "to": "p-satisfaction",
+            "kind": "supports"
+          },
+          {
+            "from": "p-satisfaction",
+            "to": "p-ransom",
+            "kind": "rejects"
+          },
+          {
+            "from": "s-example",
+            "to": "p-moral",
+            "kind": "supports"
+          },
+          {
+            "from": "p-satisfaction",
+            "to": "p-moral",
+            "kind": "leads-to"
+          },
+          {
+            "from": "a-bernard",
+            "to": "p-moral",
+            "kind": "objects"
+          },
+          {
+            "from": "p-satisfaction",
+            "to": "a-bernard",
+            "kind": "supports"
+          },
+          {
+            "from": "a-bernard",
+            "to": "d-sens",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-sens",
+            "to": "c-passion-piety",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-satisfaction",
+            "to": "c-passion-piety",
+            "kind": "develops"
+          },
+          {
+            "from": "p-satisfaction",
+            "to": "p-penal",
+            "kind": "develops"
+          },
+          {
+            "from": "s-isaiah",
+            "to": "p-penal",
+            "kind": "supports"
+          },
+          {
+            "from": "s-romans-3",
+            "to": "p-penal",
+            "kind": "supports"
+          },
+          {
+            "from": "a-socinus",
+            "to": "p-penal",
+            "kind": "objects"
+          },
+          {
+            "from": "a-socinus",
+            "to": "p-satisfaction",
+            "kind": "objects"
+          },
+          {
+            "from": "a-socinus",
+            "to": "p-governmental",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-penal",
+            "to": "p-governmental",
+            "kind": "develops"
+          },
+          {
+            "from": "p-penal",
+            "to": "d-dort",
+            "kind": "decides"
+          },
+          {
+            "from": "d-dort",
+            "to": "c-evangelical",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-governmental",
+            "to": "c-evangelical",
+            "kind": "develops"
+          },
+          {
+            "from": "d-dort",
+            "to": "d-campbell-deposed",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-campbell-deposed",
+            "to": "p-participatory",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-recapitulation",
+            "to": "p-participatory",
+            "kind": "develops"
+          },
+          {
+            "from": "p-ransom",
+            "to": "p-cv",
+            "kind": "develops"
+          },
+          {
+            "from": "s-victory",
+            "to": "p-cv",
+            "kind": "supports"
+          },
+          {
+            "from": "p-cv",
+            "to": "p-penal",
+            "kind": "objects"
+          },
+          {
+            "from": "s-leviticus",
+            "to": "p-mimetic",
+            "kind": "supports"
+          },
+          {
+            "from": "p-mimetic",
+            "to": "a-violence",
+            "kind": "leads-to"
+          },
+          {
+            "from": "a-violence",
+            "to": "p-penal",
+            "kind": "objects"
+          },
+          {
+            "from": "a-violence",
+            "to": "p-nonviolent",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-cv",
+            "to": "p-nonviolent",
+            "kind": "develops"
+          },
+          {
+            "from": "p-mimetic",
+            "to": "p-nonviolent",
+            "kind": "develops"
+          },
+          {
+            "from": "a-defence",
+            "to": "a-violence",
+            "kind": "responds"
+          },
+          {
+            "from": "c-evangelical",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-participatory",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-nonviolent",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "a-defence",
+            "to": "m-today",
+            "kind": "leads-to"
+          }
+        ]
+      },
+      "sources": [
+        "aulen-christus-victor",
+        "pelikan-christian-tradition",
+        "kelly-doctrines",
+        "stott-cross",
+        "beilby-eddy-atonement",
+        "mcgrath-historical-theology"
+      ]
+    }
+  ],
+  "positions": [
+    {
+      "id": "ransom-theory",
+      "doctrineId": "atonement",
+      "name": "Ransom theory",
+      "altNames": [
+        "ransom to Satan",
+        "fish-hook theory",
+        "abuse-of-power theory"
+      ],
+      "oneLine": "Humanity, held captive by the devil through sin, is set free because Christ gave his life as a ransom — in many versions, a \"bait\" by which the devil overreached himself and lost his rights.",
+      "coreClaims": [
+        "After the fall the devil held humanity in bondage and, in some sense, by right.",
+        "Christ’s life was given as the ransom price for captives (Mark 10:45).",
+        "The devil, seizing the sinless Christ to whom he had no claim, forfeited his power (\"abuse of power\"), or was deceived by divinity hidden in flesh (fish-hook).",
+        "Salvation is liberation from captivity to sin, death and the devil."
+      ],
+      "keyTexts": [
+        "Mark 10:45",
+        "1 Timothy 2:5-6",
+        "1 Corinthians 2:8",
+        "Hebrews 2:14-15",
+        "Colossians 2:15",
+        "1 Peter 1:18-19"
+      ],
+      "origin": "Hints in Irenaeus (redemption from apostasy); explicit in Origen’s Commentary on Matthew (c.246); developed by Gregory of Nyssa (Catechetical Oration, c.385), Rufinus, Augustine (the cross as \"mousetrap\") and Gregory the Great; dominant in popular Western imagination until Anselm.",
+      "originYear": 246,
+      "proponentIds": [
+        "origen",
+        "gregory-of-nyssa",
+        "augustine-of-hippo",
+        "gregory-the-great"
+      ],
+      "proponentsOther": [
+        "Rufinus of Aquileia",
+        "Ambrose (in part)",
+        "Leo the Great (in part)"
+      ],
+      "traditionIds": [
+        "early-church",
+        "eastern-orthodox",
+        "catholic"
+      ],
+      "strongestArguments": [
+        "It takes the biblical language of ransom and captivity seriously.",
+        "It vividly expresses the cosmic drama of liberation from hostile powers.",
+        "It was widely held for a millennium in East and West."
+      ],
+      "strongestObjections": [
+        "Gregory of Nazianzus: paying a ransom to the robber himself is an outrage.",
+        "Anselm and Abelard: the devil has no rights against God; God owes him nothing.",
+        "The deception motif seems unworthy of God."
+      ],
+      "responses": [
+        "Defenders reply that the \"price\" language is metaphorical, expressing the costliness of liberation, not a commercial transaction with Satan.",
+        "Aulén argued that the ransom imagery is a pictorial form of the deeper \"classic\" victory idea."
+      ],
+      "consequences": [
+        "Shaped early liturgy, art (the harrowing of hell) and drama.",
+        "Absorbed into Christus Victor in the 20th century."
+      ],
+      "relatedPositionIds": [
+        "christus-victor",
+        "recapitulation",
+        "satisfaction-theory"
+      ],
+      "standing": "historic",
+      "sources": [
+        "aulen-christus-victor",
+        "kelly-doctrines",
+        "pelikan-christian-tradition"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "recapitulation",
+      "doctrineId": "atonement",
+      "name": "Recapitulation",
+      "altNames": [
+        "anakephalaiōsis",
+        "Irenaean theory"
+      ],
+      "oneLine": "Christ, the new Adam, \"sums up\" and re-lives the whole human story in obedience, undoing at every stage what Adam did, and leads humanity to incorruption and the likeness of God.",
+      "coreClaims": [
+        "The incarnate Son passes through every age of human life, sanctifying it.",
+        "Where Adam disobeyed at a tree, Christ obeyed on the tree; where Eve disobeyed, Mary obeyed.",
+        "Christ conquers the enemy in the same human nature that was conquered.",
+        "Salvation is the restoration and completion of the image and likeness of God."
+      ],
+      "keyTexts": [
+        "Ephesians 1:10",
+        "Romans 5:12-21",
+        "1 Corinthians 15:21-22, 45-49",
+        "Luke 3:23-38",
+        "Hebrews 2:10-18"
+      ],
+      "origin": "Irenaeus of Lyon, Against Heresies (c.180), especially III.18-23 and V.14-21, against the Gnostic disparagement of creation.",
+      "originYear": 180,
+      "proponentIds": [
+        "irenaeus",
+        "athanasius"
+      ],
+      "proponentsOther": [
+        "Methodius of Olympus",
+        "Gustaf Wingren",
+        "Eastern Orthodox theologians"
+      ],
+      "traditionIds": [
+        "early-church",
+        "eastern-orthodox",
+        "oriental-orthodox"
+      ],
+      "strongestArguments": [
+        "It integrates incarnation, life, death and resurrection rather than isolating the cross.",
+        "It affirms the goodness of creation and the body against Gnosticism.",
+        "Its Adam-Christ structure is thoroughly Pauline."
+      ],
+      "strongestObjections": [
+        "It may leave unclear why the death of Christ in particular is necessary.",
+        "Western critics see in it too little attention to guilt and justice.",
+        "Some details (e.g. Christ living to old age) are speculative."
+      ],
+      "responses": [
+        "Irenaeans answer that death is precisely the climax of the recapitulation, where the enemy is defeated in his own domain.",
+        "Recent scholarship (Wingren, Behr) sees Irenaeus as a biblical theologian of the whole economy, not a speculative one."
+      ],
+      "consequences": [
+        "Foundational for Eastern soteriology and theosis.",
+        "Influential on modern participatory and union theologies."
+      ],
+      "relatedPositionIds": [
+        "participatory-union-atonement",
+        "christus-victor",
+        "theosis"
+      ],
+      "standing": "significant",
+      "sources": [
+        "kelly-doctrines",
+        "aulen-christus-victor",
+        "anf-npnf"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "satisfaction-theory",
+      "doctrineId": "atonement",
+      "name": "Satisfaction theory (Anselm)",
+      "altNames": [
+        "Anselmian satisfaction",
+        "Latin theory"
+      ],
+      "oneLine": "By sin humanity robbed God of the honour due to him and owes a satisfaction it cannot pay; Christ, as God-man, freely offers his sinless life, restoring God’s honour and meriting grace for humanity.",
+      "coreClaims": [
+        "Sin is the failure to render God the honour due to him.",
+        "God’s justice and the order of creation require either punishment or satisfaction (aut poena aut satisfactio).",
+        "Only God can pay, but only humanity ought to pay — hence the God-man.",
+        "Christ’s voluntary death earns a reward he does not need, which he gives to humanity."
+      ],
+      "keyTexts": [
+        "Romans 3:23-26",
+        "Hebrews 10:5-14",
+        "Philippians 2:5-11",
+        "Psalm 51:4"
+      ],
+      "origin": "Anselm of Canterbury, Cur Deus Homo (completed 1098), drawing on feudal notions of honour and the penitential system of satisfaction; refined by Thomas Aquinas (ST III q. 46-49) as superabundant satisfaction motivated by love.",
+      "originYear": 1098,
+      "proponentIds": [
+        "anselm",
+        "thomas-aquinas"
+      ],
+      "proponentsOther": [
+        "Bonaventure",
+        "Council of Trent (Session VI ch. 7)",
+        "David Bentley Hart (sympathetic reading)"
+      ],
+      "traditionIds": [
+        "catholic",
+        "anglican"
+      ],
+      "strongestArguments": [
+        "It explains why the incarnation and death of Christ were fitting and necessary.",
+        "It takes sin seriously as an offence against God, not only harm to humans.",
+        "It decisively rejected the idea that the devil had rights."
+      ],
+      "strongestObjections": [
+        "Abelard and modern critics: it pictures God as a feudal lord concerned for his honour.",
+        "Orthodox critics: it isolates the death of Christ from the incarnation and resurrection.",
+        "Socinus: if satisfaction is made, forgiveness is not free."
+      ],
+      "responses": [
+        "Defenders argue that God’s \"honour\" is the right order of creation, not personal vanity, and that God himself provides the satisfaction out of mercy.",
+        "Aquinas grounds satisfaction in Christ’s love and obedience rather than the quantity of suffering."
+      ],
+      "consequences": [
+        "Became the dominant Western framework; shaped penance, indulgences and Reformation penal theories."
+      ],
+      "relatedPositionIds": [
+        "penal-substitution",
+        "ransom-theory",
+        "moral-influence"
+      ],
+      "standing": "significant",
+      "sources": [
+        "aulen-christus-victor",
+        "pelikan-christian-tradition",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "moral-influence",
+      "doctrineId": "atonement",
+      "name": "Moral influence (exemplarist) theory",
+      "altNames": [
+        "subjective theory",
+        "Abelardian view",
+        "moral exemplar"
+      ],
+      "oneLine": "The cross saves primarily by revealing God’s love so powerfully that it awakens repentance and responsive love in human hearts, transforming them.",
+      "coreClaims": [
+        "God needs no payment to forgive; the obstacle to reconciliation lies in human hearts.",
+        "Christ’s life and death display God’s love to the uttermost.",
+        "That love kindles love in us, freeing us from sin and binding us to God.",
+        "Redemption is this greater love produced in us by Christ’s passion."
+      ],
+      "keyTexts": [
+        "Romans 5:8",
+        "John 15:13",
+        "1 John 4:9-11, 19",
+        "1 Peter 2:21",
+        "John 12:32"
+      ],
+      "origin": "Peter Abelard, Commentary on Romans (c.1133-37); renewed in liberal Protestantism by Schleiermacher, Albrecht Ritschl, Horace Bushnell and Hastings Rashdall (The Idea of Atonement in Christian Theology, 1919).",
+      "originYear": 1135,
+      "proponentIds": [
+        "abelard",
+        "friedrich-schleiermacher"
+      ],
+      "proponentsOther": [
+        "Albrecht Ritschl",
+        "Horace Bushnell",
+        "Hastings Rashdall"
+      ],
+      "traditionIds": [
+        "catholic",
+        "unitarian"
+      ],
+      "strongestArguments": [
+        "It locates the source of atonement firmly in God’s love.",
+        "It avoids any suggestion of God being placated by violence.",
+        "It addresses the transformation of the person, not only legal status."
+      ],
+      "strongestObjections": [
+        "Bernard: it reduces Christ to an example and denies objective redemption.",
+        "Why must Christ die if only a demonstration of love is needed? A purposeless death demonstrates nothing (Denney).",
+        "It underestimates the power of sin and the need for liberation and forgiveness."
+      ],
+      "responses": [
+        "Some historians argue Abelard himself also affirmed objective elements (Christ’s merit and intercession).",
+        "Defenders respond that love that suffers with and for sinners is itself the most objective reality."
+      ],
+      "consequences": [
+        "Condemned in Abelard’s person at Sens (1141); revived in 19th-century liberalism.",
+        "Now commonly included as one dimension of the atonement."
+      ],
+      "relatedPositionIds": [
+        "satisfaction-theory",
+        "nonviolent-atonement",
+        "mimetic-scapegoat"
+      ],
+      "standing": "minority",
+      "sources": [
+        "pelikan-christian-tradition",
+        "aulen-christus-victor",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "penal-substitution",
+      "doctrineId": "atonement",
+      "name": "Penal substitutionary atonement",
+      "altNames": [
+        "PSA",
+        "vicarious punishment",
+        "forensic atonement"
+      ],
+      "oneLine": "Out of love, God the Son bore in our place the penalty that divine justice decreed against sin, so that God is just in forgiving and justifying sinners.",
+      "coreClaims": [
+        "Sin is guilt before God’s holy law and incurs his just wrath and the penalty of death.",
+        "Christ, as substitute and representative, bore that penalty and curse in our place.",
+        "God’s justice is satisfied and his wrath propitiated; the believer’s guilt is removed and Christ’s righteousness imputed.",
+        "The source is God’s love: the Father gives the Son and the Son freely gives himself."
+      ],
+      "keyTexts": [
+        "Isaiah 53:4-12",
+        "Romans 3:21-26",
+        "Romans 8:3",
+        "2 Corinthians 5:21",
+        "Galatians 3:13",
+        "1 Peter 2:24; 3:18",
+        "1 John 2:2; 4:10"
+      ],
+      "origin": "Penal elements appear in the fathers (e.g. Eusebius, Augustine on Christ bearing our punishment); developed by Luther and Calvin (Institutes II.16, 1559), systematised by Turretin, Owen (1647), the Westminster Confession and Charles Hodge (1872-73); restated by Packer (1974), Stott (1986).",
+      "originYear": 1559,
+      "proponentIds": [
+        "martin-luther",
+        "john-calvin",
+        "john-owen",
+        "charles-hodge",
+        "j-i-packer",
+        "john-stott",
+        "john-piper",
+        "charles-spurgeon"
+      ],
+      "proponentsOther": [
+        "Francis Turretin",
+        "Louis Berkhof",
+        "Leon Morris",
+        "Steve Jeffery, Michael Ovey and Andrew Sach"
+      ],
+      "traditionIds": [
+        "reformed",
+        "presbyterian",
+        "lutheran",
+        "baptist",
+        "evangelical",
+        "anglican"
+      ],
+      "strongestArguments": [
+        "It accounts for texts of curse-bearing, propitiation and \"made sin for us\".",
+        "It shows how God is both just and the justifier (Rom 3:26) and grounds assurance of complete forgiveness.",
+        "It expresses substitution as the self-giving of the Triune God, not the punishment of an unwilling third party."
+      ],
+      "strongestObjections": [
+        "Socinus and liberals: punishment cannot be transferred; forgiveness that requires payment is not forgiveness.",
+        "Christus Victor and Orthodox critics: it makes the Father’s wrath the problem and narrows atonement to a legal transaction.",
+        "Feminist and nonviolent critics: it risks portraying \"divine child abuse\" and sanctifying violence."
+      ],
+      "responses": [
+        "Defenders answer that the Father and Son act in one will of love (Stott’s \"self-substitution of God\").",
+        "They argue that penal substitution includes victory and example rather than excluding them, and that wrath is God’s settled opposition to evil, not caprice."
+      ],
+      "consequences": [
+        "Central to Protestant confessional and evangelical preaching, hymnody and assurance.",
+        "A major identity marker in modern evangelical debates."
+      ],
+      "relatedPositionIds": [
+        "satisfaction-theory",
+        "governmental-theory",
+        "christus-victor",
+        "federal-forensic-framework"
+      ],
+      "standing": "majority",
+      "sources": [
+        "stott-cross",
+        "packer-cross-achieve",
+        "jeffery-pierced",
+        "beilby-eddy-atonement",
+        "mcgrath-historical-theology"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "governmental-theory",
+      "doctrineId": "atonement",
+      "name": "Governmental theory",
+      "altNames": [
+        "rectoral theory",
+        "Grotian theory"
+      ],
+      "oneLine": "God, as moral governor of the universe, forgives sinners, but displays in Christ’s death what sin deserves, upholding the authority of his law and deterring sin.",
+      "coreClaims": [
+        "God acts as ruler (rector), not as private creditor or offended party.",
+        "The penalty of the law can be relaxed, but not without upholding the law’s honour.",
+        "Christ’s suffering is a penal example demonstrating God’s hatred of sin, not an exact equivalent of our punishment.",
+        "Forgiveness is then offered conditionally on repentance and faith."
+      ],
+      "keyTexts": [
+        "Isaiah 42:21",
+        "Romans 3:25-26",
+        "Hebrews 2:10",
+        "1 Timothy 1:15-16"
+      ],
+      "origin": "Hugo Grotius, Defensio fidei catholicae de satisfactione Christi (1617), against Socinus; developed by New England theologians (Joseph Bellamy, Jonathan Edwards Jr.), Charles Finney and Methodist theologians such as John Miley (1879).",
+      "originYear": 1617,
+      "proponentIds": [
+        "hugo-grotius",
+        "charles-finney"
+      ],
+      "proponentsOther": [
+        "Joseph Bellamy",
+        "Jonathan Edwards Jr.",
+        "Nathaniel W. Taylor",
+        "John Miley"
+      ],
+      "traditionIds": [
+        "methodist",
+        "holiness-movement",
+        "congregationalist"
+      ],
+      "strongestArguments": [
+        "It answers Socinus by showing why forgiveness requires the cross without strict transfer of punishment.",
+        "It fits an Arminian theology of universal atonement and conditional pardon.",
+        "It emphasises God’s moral order and public justice."
+      ],
+      "strongestObjections": [
+        "Reformed critics: it makes the cross a symbol rather than a real bearing of penalty.",
+        "If Christ was not actually punished for our sins, the demonstration seems theatrical.",
+        "It may present God more as administrator than as loving Father."
+      ],
+      "responses": [
+        "Grotians reply that the display is real suffering endured for sin, not mere theatre.",
+        "They argue it best preserves both justice and free grace."
+      ],
+      "consequences": [
+        "Influential in New England theology, Finney’s revivalism and some Wesleyan systematic theology."
+      ],
+      "relatedPositionIds": [
+        "penal-substitution",
+        "moral-influence",
+        "satisfaction-theory"
+      ],
+      "standing": "minority",
+      "sources": [
+        "odcc",
+        "pelikan-christian-tradition",
+        "beilby-eddy-atonement"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "christus-victor",
+      "doctrineId": "atonement",
+      "name": "Christus Victor (classic theory)",
+      "altNames": [
+        "classic view",
+        "dramatic view",
+        "victory model"
+      ],
+      "oneLine": "In Christ God himself enters the battle against the tyrants that hold humanity — sin, death, the devil and the powers — and through the cross and resurrection triumphs over them and sets creation free.",
+      "coreClaims": [
+        "The human plight is bondage to hostile powers, not only guilt.",
+        "Atonement is God’s own continuous work from first to last, not an offering from below.",
+        "The cross and resurrection form one victory: death is \"trampled down by death\".",
+        "The victory is applied as liberation, new life and participation in Christ’s triumph."
+      ],
+      "keyTexts": [
+        "Colossians 2:13-15",
+        "Hebrews 2:14-15",
+        "1 John 3:8",
+        "1 Corinthians 15:54-57",
+        "Genesis 3:15",
+        "Revelation 12:10-11"
+      ],
+      "origin": "Named by Gustaf Aulén (Christus Victor, Swedish 1930, English 1931), who argued it was the dominant view of the New Testament, the fathers and Luther; deeply rooted in Eastern Orthodox paschal liturgy.",
+      "originYear": 1930,
+      "proponentIds": [
+        "gustaf-aulen",
+        "irenaeus",
+        "martin-luther",
+        "john-chrysostom"
+      ],
+      "proponentsOther": [
+        "Anders Nygren",
+        "Gregory Boyd",
+        "Eastern Orthodox liturgy"
+      ],
+      "traditionIds": [
+        "eastern-orthodox",
+        "oriental-orthodox",
+        "lutheran",
+        "pentecostal",
+        "mennonite"
+      ],
+      "strongestArguments": [
+        "It reflects the dominant patristic and liturgical imagery, especially of Easter.",
+        "It integrates resurrection and cosmic redemption.",
+        "It resonates in cultures attentive to spiritual powers (much of Africa, Asia and Latin America)."
+      ],
+      "strongestObjections": [
+        "It is less clear about how the victory deals with guilt and the justice of God.",
+        "Critics say Aulén’s historical typology oversimplifies the fathers and Luther, both of whom also used penal and sacrificial language.",
+        "The \"mechanism\" of victory can remain vague."
+      ],
+      "responses": [
+        "Proponents answer that it is a motif, not a mechanism, and can include forgiveness as liberation from sin’s dominion.",
+        "Many now argue for Christus Victor as the overarching frame within which substitution functions."
+      ],
+      "consequences": [
+        "Revived across denominations after 1931; influential in Pentecostal spiritual-warfare piety and Anabaptist theology."
+      ],
+      "relatedPositionIds": [
+        "ransom-theory",
+        "recapitulation",
+        "nonviolent-atonement",
+        "penal-substitution"
+      ],
+      "standing": "significant",
+      "sources": [
+        "aulen-christus-victor",
+        "beilby-eddy-atonement",
+        "ware-orthodox-church"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "mimetic-scapegoat",
+      "doctrineId": "atonement",
+      "name": "Scapegoat / mimetic theory (Girard)",
+      "altNames": [
+        "Girardian atonement",
+        "mimetic theory"
+      ],
+      "oneLine": "Human societies contain rivalrous violence by uniting against scapegoats; the Gospels tell the story from the innocent victim’s side, unmasking and ending sacred violence, so the cross saves by exposing rather than satisfying violence.",
+      "coreClaims": [
+        "Human desire is mimetic and leads to rivalry and violence.",
+        "Archaic religion channels this violence onto a scapegoat, whose death restores peace and is then sacralised.",
+        "The Bible progressively sides with victims; in the Passion the mechanism is fully revealed.",
+        "God does not demand the victim; humans do. Christ’s forgiveness breaks the cycle."
+      ],
+      "keyTexts": [
+        "Leviticus 16:20-22",
+        "John 11:49-52",
+        "Luke 23:34",
+        "Genesis 4:1-16",
+        "Matthew 23:34-35",
+        "Colossians 2:15"
+      ],
+      "origin": "René Girard (Violence and the Sacred, 1972; Things Hidden Since the Foundation of the World, 1978; I See Satan Fall Like Lightning, 1999), developed theologically by Raymund Schwager, James Alison and S. Mark Heim.",
+      "originYear": 1978,
+      "proponentIds": [
+        "rene-girard"
+      ],
+      "proponentsOther": [
+        "Raymund Schwager",
+        "James Alison",
+        "S. Mark Heim",
+        "Michael Hardin"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "strongestArguments": [
+        "It offers a powerful anthropology linking the cross to the persistence of scapegoating violence.",
+        "It explains why the Gospels emphasise Jesus’ innocence and the crowd’s unanimity.",
+        "It removes any suggestion that God requires violence."
+      ],
+      "strongestObjections": [
+        "It may make sin chiefly social violence and neglect guilt before God.",
+        "Many anthropologists dispute the universality of the scapegoat mechanism.",
+        "Evangelicals argue it cannot account for texts where God \"laid on him the iniquity of us all\"."
+      ],
+      "responses": [
+        "Girardians answer that \"sin\" in Scripture is profoundly bound up with violence and idolatry.",
+        "Girard himself later allowed a reinterpreted sense of \"sacrifice\" as self-giving love."
+      ],
+      "consequences": [
+        "Influential in peace theology, restorative justice and literary studies."
+      ],
+      "relatedPositionIds": [
+        "nonviolent-atonement",
+        "moral-influence",
+        "christus-victor"
+      ],
+      "standing": "minority",
+      "sources": [
+        "girard-things-hidden",
+        "beilby-eddy-atonement"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "nonviolent-atonement",
+      "doctrineId": "atonement",
+      "name": "Nonviolent atonement",
+      "altNames": [
+        "narrative Christus Victor",
+        "nonviolent models"
+      ],
+      "oneLine": "God does not require or will the violent death of Jesus; the cross is the result of the powers’ rejection of the reign of God, and God saves by the resurrection’s victory and by Christ’s nonviolent faithfulness.",
+      "coreClaims": [
+        "Atonement models that make violence God’s instrument misrepresent the God revealed in Jesus.",
+        "Jesus’ death is the consequence of his confrontation with the powers.",
+        "The resurrection is God’s victory and vindication.",
+        "Salvation means joining Jesus’ nonviolent reign of God."
+      ],
+      "keyTexts": [
+        "Matthew 5:38-48",
+        "Luke 4:16-21",
+        "Colossians 2:15",
+        "Acts 2:23-24",
+        "Revelation 5:6-10"
+      ],
+      "origin": "Proposed by J. Denny Weaver (The Nonviolent Atonement, 2001), drawing on Anabaptist ethics, Black and womanist theology (Delores Williams), and feminist critiques such as Joanne Carlson Brown and Rebecca Parker (1989).",
+      "originYear": 2001,
+      "proponentIds": [
+        "j-denny-weaver"
+      ],
+      "proponentsOther": [
+        "Delores Williams",
+        "Rita Nakashima Brock",
+        "Rebecca Parker",
+        "Joanne Carlson Brown",
+        "Brian Zahnd"
+      ],
+      "traditionIds": [
+        "mennonite",
+        "anabaptist"
+      ],
+      "strongestArguments": [
+        "It coheres with Jesus’ teaching on nonviolence and love of enemies.",
+        "It responds to pastoral concerns that atonement theology has been used to justify abuse and passive suffering.",
+        "It recovers the narrative and political dimensions of the Gospels."
+      ],
+      "strongestObjections": [
+        "It struggles with texts of the Father \"giving up\" the Son (Rom 8:32; Isa 53:10).",
+        "Critics argue it confuses God’s judgement on sin with human violence.",
+        "Orthodox and evangelical critics see it as reducing atonement to ethics."
+      ],
+      "responses": [
+        "Proponents answer that God \"giving up\" the Son means sending him into a violent world in love, not inflicting violence.",
+        "They point to the early church’s pacifism and Christus Victor imagery as precedent."
+      ],
+      "consequences": [
+        "Influential in peace churches, progressive evangelicalism and feminist theology."
+      ],
+      "relatedPositionIds": [
+        "christus-victor",
+        "mimetic-scapegoat",
+        "moral-influence"
+      ],
+      "standing": "minority",
+      "sources": [
+        "weaver-nonviolent",
+        "beilby-eddy-atonement"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "participatory-union-atonement",
+      "doctrineId": "atonement",
+      "name": "Participatory / union atonement",
+      "altNames": [
+        "vicarious humanity of Christ",
+        "interchange",
+        "incarnational atonement",
+        "ontological atonement"
+      ],
+      "oneLine": "Atonement takes place within the person of Christ: by assuming our humanity, living, dying and rising as its representative, he includes us in himself, heals and reconciles human nature from within, and brings us into the Son’s communion with the Father by the Spirit.",
+      "coreClaims": [
+        "\"What is not assumed is not healed\": the incarnation is itself atoning.",
+        "Christ acts as our representative and substitute in his whole life — faith, obedience, worship, repentance — not only in his death.",
+        "Believers are saved by sharing in Christ (\"in Christ\", \"with Christ\"): his death is our death, his life our life.",
+        "Atonement is both forensic and ontological, filial rather than merely legal."
+      ],
+      "keyTexts": [
+        "2 Corinthians 5:14-21",
+        "Romans 6:3-11",
+        "Galatians 2:19-20",
+        "Hebrews 2:10-18",
+        "Colossians 3:1-4",
+        "John 17:21-26"
+      ],
+      "origin": "Rooted in Irenaeus, Athanasius and Gregory of Nazianzus; renewed by John McLeod Campbell (1856), Karl Barth, T. F. Torrance (The Mediation of Christ, 1983; Atonement, 2009) and J. B. Torrance; in New Testament studies by Morna Hooker’s \"interchange\" (1971) and Michael Gorman.",
+      "originYear": 1856,
+      "proponentIds": [
+        "john-mcleod-campbell",
+        "thomas-f-torrance",
+        "james-b-torrance",
+        "karl-barth",
+        "athanasius",
+        "irenaeus",
+        "gregory-of-nazianzus",
+        "c-baxter-kruger"
+      ],
+      "proponentsOther": [
+        "Morna Hooker",
+        "Michael Gorman",
+        "Douglas Campbell",
+        "Colin Gunton"
+      ],
+      "traditionIds": [
+        "reformed",
+        "presbyterian",
+        "eastern-orthodox",
+        "anglican"
+      ],
+      "strongestArguments": [
+        "It takes the pervasive Pauline \"in Christ\" and \"with Christ\" language as central.",
+        "It holds incarnation, cross, resurrection and ascension together.",
+        "It grounds assurance and worship in Christ’s own response to the Father rather than in our faith."
+      ],
+      "strongestObjections": [
+        "Critics say it can blur Creator and creature or make atonement automatic for all humanity.",
+        "Reformed critics argue that Campbell and the Torrances weaken penal substitution and the wrath of God.",
+        "Questions remain about the role of personal faith if humanity is already included in Christ."
+      ],
+      "responses": [
+        "Proponents reply that they affirm substitution, reframed within the vicarious humanity of the Son.",
+        "They distinguish the objective inclusion of humanity in Christ from its subjective realisation by the Spirit through faith."
+      ],
+      "consequences": [
+        "Shapes Scottish and Torrance-influenced Reformed theology, Trinitarian \"union\" movements and ecumenical dialogue with Orthodoxy."
+      ],
+      "relatedPositionIds": [
+        "recapitulation",
+        "penal-substitution",
+        "theosis",
+        "trinitarian-union-framework"
+      ],
+      "standing": "significant",
+      "sources": [
+        "torrance-atonement",
+        "mcleod-campbell-nature",
+        "torrance-scottish",
+        "beilby-eddy-atonement"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "controversies": [
+    {
+      "id": "penal-substitution-vs-christus-victor",
+      "title": "Penal substitution vs Christus Victor",
+      "question": "Is the heart of the atonement Christ bearing the penalty of God’s justice in our place, or God’s victory in Christ over sin, death and the powers?",
+      "summary": "A 20th- and 21st-century debate sharpened by Aulén’s Christus Victor (1930) and by evangelical controversies (Chalke 2003; Pierced for Our Transgressions 2007), over which model is central and whether they can be combined.",
+      "doctrineIds": [
+        "atonement"
+      ],
+      "sides": [
+        {
+          "name": "Penal substitution",
+          "positionId": "penal-substitution",
+          "steelman": "Our deepest problem is guilt before a holy God. The good news is that God himself, in the Son, took our place under judgement and bore the curse. Only so is forgiveness both free and just, and only so can the troubled conscience rest. Victory over the powers is real — but the devil’s weapon is accusation, which is disarmed when our guilt is removed.",
+          "arguments": [
+            "Isaiah 53; Romans 3:25-26; Galatians 3:13; 2 Corinthians 5:21.",
+            "Assurance and justice.",
+            "Coherence with justification."
+          ],
+          "counterArguments": [
+            "Narrow, legal, individualistic.",
+            "Risk of pitting Father against Son."
+          ],
+          "keyTexts": [
+            "Isaiah 53:5-6",
+            "Romans 3:25-26",
+            "Galatians 3:13"
+          ],
+          "quoteIds": [
+            "packer-penal-substitution",
+            "stott-self-substitution",
+            "calvin-curse-and-love"
+          ]
+        },
+        {
+          "name": "Christus Victor",
+          "positionId": "christus-victor",
+          "steelman": "From the fathers to Luther, the church sang of the cross as God’s triumph. Our plight is bondage — to sin, death and the devil — and God himself comes to set us free. The resurrection is no mere sequel but the victory itself. To make the Father’s wrath the main problem is to shrink the gospel and distort God’s face.",
+          "arguments": [
+            "Colossians 2:15; Hebrews 2:14.",
+            "Patristic and liturgical consensus.",
+            "Cosmic scope."
+          ],
+          "counterArguments": [
+            "Vague mechanism.",
+            "Neglects guilt and justice."
+          ],
+          "keyTexts": [
+            "Colossians 2:15",
+            "Hebrews 2:14-15",
+            "1 John 3:8"
+          ],
+          "quoteIds": [
+            "aulen-classic-type",
+            "chrysostom-paschal-homily",
+            "nyssa-fishhook"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 1098,
+          "text": "Anselm’s Cur Deus Homo moves the West toward satisfaction."
+        },
+        {
+          "year": 1559,
+          "text": "Calvin’s Institutes II.16 sets out penal substitution."
+        },
+        {
+          "year": 1930,
+          "text": "Aulén’s Uppsala lectures, Christus Victor."
+        },
+        {
+          "year": 1974,
+          "text": "Packer’s \"What Did the Cross Achieve?\""
+        },
+        {
+          "year": 2003,
+          "text": "Steve Chalke’s Lost Message of Jesus sparks controversy in the UK Evangelical Alliance."
+        },
+        {
+          "year": 2007,
+          "text": "Pierced for Our Transgressions defends penal substitution."
+        }
+      ],
+      "resolution": {
+        "kind": "open",
+        "text": "No council has ever defined a single theory. Confessional Reformed and many evangelical bodies treat penal substitution as essential; Orthodox, many Anabaptist and some mainline theologians prefer Christus Victor. A widespread contemporary view (the \"kaleidoscopic\" approach) sees the models as complementary, though which is central remains disputed."
+      },
+      "consequences": [
+        "Shapes evangelistic proclamation (guilt-forgiveness vs liberation).",
+        "Divides evangelical institutions and fuels \"progressive\" vs conservative identity debates."
+      ],
+      "sources": [
+        "aulen-christus-victor",
+        "beilby-eddy-atonement",
+        "jeffery-pierced",
+        "stott-cross"
+      ]
+    },
+    {
+      "id": "anselm-vs-abelard",
+      "title": "Satisfaction vs moral influence (Anselm and Abelard)",
+      "question": "Is the cross directed chiefly toward God (satisfying his justice or honour) or toward us (revealing love that transforms)?",
+      "summary": "The medieval contrast between \"objective\" and \"subjective\" atonement, crystallised by Anselm (1098) and Abelard (c.1135), and repeated in the Reformation, Socinian and liberal debates.",
+      "doctrineIds": [
+        "atonement"
+      ],
+      "sides": [
+        {
+          "name": "Satisfaction (objective)",
+          "positionId": "satisfaction-theory",
+          "steelman": "Sin is not merely a bad example; it is a real disorder in the relation between creature and Creator. God in mercy provides what we cannot: a God-man who freely restores the honour owed. Without something objective done for us, love would be only a spectacle.",
+          "arguments": [
+            "Necessity of the incarnation.",
+            "Seriousness of sin.",
+            "Rejection of devil’s rights."
+          ],
+          "counterArguments": [
+            "Feudal categories.",
+            "Death isolated from life and resurrection."
+          ],
+          "keyTexts": [
+            "Romans 3:23-26",
+            "Hebrews 10:5-14"
+          ],
+          "quoteIds": [
+            "anselm-satisfaction-owed",
+            "anselm-god-man"
+          ]
+        },
+        {
+          "name": "Moral influence (subjective)",
+          "positionId": "moral-influence",
+          "steelman": "God needed no price to forgive. The barrier is our hard hearts. In Christ, God loves us to the end, and that love wins us back. Redemption is the love that the cross kindles in us.",
+          "arguments": [
+            "Romans 5:8; 1 John 4:19.",
+            "God’s free forgiveness.",
+            "Transformation of the heart."
+          ],
+          "counterArguments": [
+            "Purposeless death proves nothing.",
+            "Neglects bondage and guilt."
+          ],
+          "keyTexts": [
+            "Romans 5:8",
+            "1 John 4:9-11"
+          ],
+          "quoteIds": [
+            "abelard-love-kindled",
+            "bernard-against-abelard"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 1098,
+          "text": "Cur Deus Homo completed."
+        },
+        {
+          "year": 1135,
+          "text": "Abelard’s Commentary on Romans (approximate)."
+        },
+        {
+          "year": 1140,
+          "text": "Bernard of Clairvaux’s letter against Abelard’s errors."
+        },
+        {
+          "year": 1141,
+          "text": "Council of Sens condemns propositions of Abelard."
+        },
+        {
+          "year": 1594,
+          "text": "Socinus revives objections to satisfaction."
+        },
+        {
+          "year": 1919,
+          "text": "Hastings Rashdall’s The Idea of Atonement defends Abelard."
+        }
+      ],
+      "resolution": {
+        "kind": "mixed",
+        "text": "Abelard was condemned and satisfaction became the Western norm, but the \"subjective\" dimension was absorbed by Aquinas and later theologians, revived by liberal Protestantism, and is now generally treated as one true aspect of the atonement rather than a complete account."
+      },
+      "consequences": [
+        "The objective/subjective framework became the standard typology of atonement theories."
+      ],
+      "sources": [
+        "pelikan-christian-tradition",
+        "aulen-christus-victor",
+        "odcc"
+      ]
+    },
+    {
+      "id": "extent-of-the-atonement",
+      "title": "For whom did Christ die? (Extent of the atonement)",
+      "question": "Did Christ die to secure the salvation of the elect only, or to make salvation possible for all?",
+      "summary": "A Protestant debate from Gottschalk’s precedent through Dort (1619), Owen (1647), Amyraut and Wesley to the present, over \"limited\" (definite) versus \"unlimited\" (general) atonement.",
+      "doctrineIds": [
+        "atonement",
+        "salvation"
+      ],
+      "sides": [
+        {
+          "name": "Definite (limited) atonement",
+          "positionId": "calvinism-tulip",
+          "steelman": "Christ did not die to make salvation merely possible but to save. The Good Shepherd lays down his life for the sheep. If he bore the punishment of every sin of every person, none could justly be condemned. His death is infinitely sufficient for all, but God designed it to be effectual for his people.",
+          "arguments": [
+            "John 10:11-15; Ephesians 5:25.",
+            "Owen’s triple choice.",
+            "Unity of the Trinity’s saving purpose."
+          ],
+          "counterArguments": [
+            "John 3:16; 1 John 2:2; 1 Timothy 2:6.",
+            "Free offer of the gospel."
+          ],
+          "keyTexts": [
+            "John 10:11-15",
+            "Ephesians 5:25",
+            "Matthew 1:21"
+          ],
+          "quoteIds": [
+            "owen-triple-choice"
+          ]
+        },
+        {
+          "name": "General (unlimited) atonement",
+          "positionId": "arminianism",
+          "steelman": "Christ is \"the propitiation … for the sins of the whole world\" and \"gave himself a ransom for all\". Unless Christ died for every hearer, the gospel cannot be offered sincerely to every hearer. The atonement is universal in provision and becomes effectual through faith.",
+          "arguments": [
+            "1 John 2:2; 1 Timothy 2:6; Hebrews 2:9.",
+            "Sincerity of the gospel offer.",
+            "God’s universal love."
+          ],
+          "counterArguments": [
+            "Atonement that fails to save.",
+            "Double payment problem."
+          ],
+          "keyTexts": [
+            "1 John 2:2",
+            "1 Timothy 2:4-6",
+            "2 Peter 2:1"
+          ],
+          "quoteIds": [
+            "arminius-grace-resistible"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 849,
+          "text": "Gottschalk condemned at Quierzy for teaching that Christ died only for the elect."
+        },
+        {
+          "year": 1619,
+          "text": "Canons of Dort, Second Head: sufficient for all, efficient for the elect.",
+          "eventId": "synod-of-dort-1618"
+        },
+        {
+          "year": 1634,
+          "text": "Amyraut’s hypothetical universalism."
+        },
+        {
+          "year": 1647,
+          "text": "Owen’s The Death of Death in the Death of Christ."
+        },
+        {
+          "year": 1739,
+          "text": "Wesley’s sermon \"Free Grace\" opens the Calvinist-Methodist rift with Whitefield."
+        }
+      ],
+      "resolution": {
+        "kind": "open",
+        "text": "Reformed confessions teach definite atonement (though hypothetical universalism was tolerated at Dort and Westminster); Lutheran, Catholic, Orthodox, Methodist, Arminian Baptist and Pentecostal churches teach that Christ died for all. Barth reframed the question through election in Christ."
+      },
+      "consequences": [
+        "Divided Calvinist and Wesleyan Methodism (1740s).",
+        "Shapes how evangelists phrase the gospel offer (\"Christ died for you\")."
+      ],
+      "sources": [
+        "muller-calvin-after",
+        "stanglin-mccall-arminius",
+        "schaff-creeds"
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "id": "irenaeus-recapitulation",
+      "text": "When He became incarnate, and was made man, He commenced afresh the long line of human beings, and furnished us, in a brief, comprehensive manner, with salvation; so that what we had lost in Adam—namely, to be according to the image and likeness of God—that we might recover in Christ Jesus.",
+      "kind": "quotation",
+      "translation": "tr. A. Roberts & W. Rambaut, ANF 1 (1885)",
+      "personId": "irenaeus",
+      "citation": "Against Heresies III.18.1",
+      "topics": [
+        "recapitulation",
+        "incarnation",
+        "image of God"
+      ],
+      "doctrineIds": [
+        "atonement",
+        "salvation"
+      ],
+      "workId": "irenaeus-against-heresies",
+      "year": 180
+    },
+    {
+      "id": "irenaeus-redeeming-blood",
+      "text": "The mighty Word, and very man, who, redeeming us by His own blood in a manner consonant to reason, gave Himself as a redemption for those who had been led into captivity.",
+      "kind": "quotation",
+      "translation": "tr. A. Roberts & W. Rambaut, ANF 1 (1885)",
+      "personId": "irenaeus",
+      "citation": "Against Heresies V.1.1",
+      "topics": [
+        "ransom",
+        "redemption"
+      ],
+      "doctrineIds": [
+        "atonement"
+      ],
+      "workId": "irenaeus-against-heresies",
+      "year": 180
+    },
+    {
+      "id": "origen-ransom-to-devil",
+      "text": "Origen asks to whom Christ gave his life as a ransom (Matt 20:28) and answers that it could not be to God; it was paid to the evil one who held us captive until the soul of Jesus was given for us — though death could not hold it.",
+      "kind": "paraphrase",
+      "personId": "origen",
+      "citation": "Commentary on Matthew 16.8 (paraphrase)",
+      "topics": [
+        "ransom",
+        "devil"
+      ],
+      "doctrineIds": [
+        "atonement"
+      ],
+      "year": 246
+    },
+    {
+      "id": "nyssa-fishhook",
+      "text": "Gregory explains that the Deity was hidden under the veil of human flesh so that the enemy, seeing only the bait of flesh, swallowed the hook of divinity, and so life entered the house of death and destroyed it — a just \"deception\" that benefits even the deceiver.",
+      "kind": "paraphrase",
+      "personId": "gregory-of-nyssa",
+      "citation": "Great Catechism (Catechetical Oration) 22-26 (paraphrase)",
+      "topics": [
+        "ransom",
+        "Christus Victor",
+        "deception of the devil"
+      ],
+      "doctrineIds": [
+        "atonement"
+      ],
+      "workId": "gregory-nyssa-catechetical-oration",
+      "year": 385
+    },
+    {
+      "id": "nazianzen-to-whom-ransom",
+      "text": "Gregory of Nazianzus asks to whom the blood was offered: not to the evil one, which would be an outrage, nor strictly to the Father, who did not demand it; rather the Father accepts it for the sake of the economy, because humanity had to be sanctified by the humanity of God.",
+      "kind": "paraphrase",
+      "personId": "gregory-of-nazianzus",
+      "citation": "Oration 45 (Second Oration on Easter) 22 (paraphrase)",
+      "topics": [
+        "ransom",
+        "critique"
+      ],
+      "doctrineIds": [
+        "atonement"
+      ],
+      "year": 383
+    },
+    {
+      "id": "nazianzen-unassumed-unhealed",
+      "text": "For that which He has not assumed He has not healed; but that which is united to His Godhead is also saved.",
+      "kind": "quotation",
+      "translation": "tr. C. G. Browne & J. E. Swallow, NPNF II/7 (1894)",
+      "personId": "gregory-of-nazianzus",
+      "citation": "Letter 101 (to Cledonius)",
+      "topics": [
+        "incarnation",
+        "healing",
+        "union"
+      ],
+      "doctrineIds": [
+        "atonement",
+        "christology",
+        "salvation"
+      ],
+      "workId": "nazianzen-letter-to-cledonius",
+      "year": 382
+    },
+    {
+      "id": "athanasius-death-of-all",
+      "text": "The death of all was accomplished in the Lord’s body; yet, moreover, because the Word was in it, death and corruption were in the same act utterly abolished.",
+      "kind": "quotation",
+      "translation": "tr. Archibald Robertson, NPNF II/4 (1892)",
+      "personId": "athanasius",
+      "citation": "On the Incarnation 20.5",
+      "topics": [
+        "participation",
+        "death",
+        "incorruption"
+      ],
+      "doctrineIds": [
+        "atonement",
+        "salvation"
+      ],
+      "workId": "athanasius-on-the-incarnation",
+      "year": 318
+    },
+    {
+      "id": "chrysostom-paschal-homily",
+      "text": "The Paschal homily read at every Orthodox Easter proclaims that Hell was embittered when it met Christ below: it took a body and met God; Christ is risen and the demons are fallen, and life reigns.",
+      "kind": "paraphrase",
+      "personId": "john-chrysostom",
+      "citation": "Catechetical (Paschal) Homily attributed to John Chrysostom (paraphrase)",
+      "topics": [
+        "Christus Victor",
+        "resurrection",
+        "liturgy"
+      ],
+      "doctrineIds": [
+        "atonement"
+      ],
+      "year": 400
+    },
+    {
+      "id": "anselm-satisfaction-owed",
+      "text": "Therefore, every one who sins ought to pay back the honor of which he has robbed God; and this is the satisfaction which every sinner owes to God.",
+      "kind": "quotation",
+      "translation": "tr. Sidney Norton Deane (1903)",
+      "personId": "anselm",
+      "citation": "Cur Deus Homo I.11",
+      "topics": [
+        "satisfaction",
+        "honour",
+        "sin"
+      ],
+      "doctrineIds": [
+        "atonement"
+      ],
+      "workId": "anselm-cur-deus-homo",
+      "year": 1098
+    },
+    {
+      "id": "anselm-god-man",
+      "text": "If it be necessary, therefore, as it appears, that the heavenly kingdom be made up of men, and this cannot be effected unless the aforesaid satisfaction be made, which none but God can make and none but man ought to make, it is necessary for the God-man to make it.",
+      "kind": "quotation",
+      "translation": "tr. Sidney Norton Deane (1903)",
+      "personId": "anselm",
+      "citation": "Cur Deus Homo II.6",
+      "topics": [
+        "satisfaction",
+        "incarnation"
+      ],
+      "doctrineIds": [
+        "atonement",
+        "christology"
+      ],
+      "workId": "anselm-cur-deus-homo",
+      "year": 1098
+    },
+    {
+      "id": "abelard-love-kindled",
+      "text": "Abelard argues that no ransom could be owed to the devil, and that it would be cruel for God to demand innocent blood; rather, by persevering to death in teaching us by word and example, Christ binds us to himself by love, so that our redemption is that greater love kindled in us by his passion.",
+      "kind": "paraphrase",
+      "personId": "abelard",
+      "citation": "Commentary on Romans, on 3:19-26 (paraphrase)",
+      "topics": [
+        "moral influence",
+        "love"
+      ],
+      "doctrineIds": [
+        "atonement"
+      ],
+      "workId": "abelard-commentary-romans",
+      "year": 1135
+    },
+    {
+      "id": "bernard-against-abelard",
+      "text": "Bernard protests that Abelard reduces the work of Christ to an example of love, and replies that Christ not only taught righteousness but gave it, not only showed love but redeemed us from the power of darkness.",
+      "kind": "paraphrase",
+      "personId": "bernard-of-clairvaux",
+      "citation": "Letter 190 (Against the Errors of Abelard), c.1140 (paraphrase)",
+      "topics": [
+        "moral influence",
+        "critique"
+      ],
+      "doctrineIds": [
+        "atonement"
+      ],
+      "year": 1140
+    },
+    {
+      "id": "aquinas-superabundant-satisfaction",
+      "text": "Aquinas teaches that Christ’s passion was not only sufficient but a superabundant satisfaction for the sins of the human race, because of the greatness of his love, the dignity of his life as God and man, and the extent of his suffering.",
+      "kind": "paraphrase",
+      "personId": "thomas-aquinas",
+      "citation": "Summa Theologiae III, q. 48, a. 2 (paraphrase)",
+      "topics": [
+        "satisfaction",
+        "merit",
+        "love"
+      ],
+      "doctrineIds": [
+        "atonement"
+      ],
+      "workId": "aquinas-summa-theologiae",
+      "year": 1273
+    },
+    {
+      "id": "luther-greatest-sinner",
+      "text": "Commenting on Galatians 3:13, Luther says that Christ, innocent in himself, took upon his own body all the sins of all people and so became, by imputation, the greatest sinner, bearing our curse so that we might be free of it.",
+      "kind": "paraphrase",
+      "personId": "martin-luther",
+      "citation": "Lectures on Galatians (1535), on 3:13 (paraphrase)",
+      "topics": [
+        "penal substitution",
+        "curse",
+        "exchange"
+      ],
+      "doctrineIds": [
+        "atonement"
+      ],
+      "year": 1535
+    },
+    {
+      "id": "calvin-curse-and-love",
+      "text": "Calvin teaches that Christ took on himself the curse and punishment due to us, appeasing God’s just wrath — yet, following Augustine, insists that God’s love for us came first and was the cause, not the result, of reconciliation.",
+      "kind": "paraphrase",
+      "personId": "john-calvin",
+      "citation": "Institutes II.16.2-6 (paraphrase)",
+      "topics": [
+        "penal substitution",
+        "love of God",
+        "wrath"
+      ],
+      "doctrineIds": [
+        "atonement"
+      ],
+      "workId": "calvin-institutes",
+      "year": 1559
+    },
+    {
+      "id": "owen-triple-choice",
+      "text": "The Father imposed his wrath due unto, and the Son underwent punishment for, either: 1. All the sins of all men. 2. All the sins of some men; or, 3. Some sins of all men.",
+      "kind": "quotation",
+      "personId": "john-owen",
+      "citation": "The Death of Death in the Death of Christ (1647)",
+      "topics": [
+        "limited atonement",
+        "penal substitution"
+      ],
+      "doctrineIds": [
+        "atonement",
+        "salvation"
+      ],
+      "workId": "owen-death-of-death",
+      "year": 1647
+    },
+    {
+      "id": "socinus-no-satisfaction",
+      "text": "Socinus argues that if a debt is fully paid by a substitute it is not freely forgiven, and if it is forgiven it need not be paid; Scripture says God forgives freely, so Christ saves as revealer, example and exalted Lord, not as one satisfying justice.",
+      "kind": "paraphrase",
+      "personId": "faustus-socinus",
+      "citation": "De Jesu Christo Servatore (1594) (paraphrase)",
+      "topics": [
+        "critique of satisfaction",
+        "forgiveness"
+      ],
+      "doctrineIds": [
+        "atonement"
+      ],
+      "year": 1594
+    },
+    {
+      "id": "grotius-rector",
+      "text": "Grotius presents God as ruler (rector) rather than offended creditor: he may relax the penalty of his law, but to uphold moral government and deter sin he set forth Christ’s suffering as a public example of what sin deserves.",
+      "kind": "paraphrase",
+      "personId": "hugo-grotius",
+      "citation": "Defensio fidei catholicae de satisfactione Christi (1617), chs. 2-5 (paraphrase)",
+      "topics": [
+        "governmental theory",
+        "moral government"
+      ],
+      "doctrineIds": [
+        "atonement"
+      ],
+      "workId": "grotius-defensio",
+      "year": 1617
+    },
+    {
+      "id": "hodge-satisfaction-justice",
+      "text": "Hodge argues that Christ’s work was a true satisfaction of divine justice: he obeyed the law and bore its penalty as the substitute of his people, so that God remains just in justifying the ungodly.",
+      "kind": "paraphrase",
+      "personId": "charles-hodge",
+      "citation": "Systematic Theology (1872-73), vol. 2, part 3, ch. 6 (paraphrase)",
+      "topics": [
+        "penal substitution",
+        "justice"
+      ],
+      "doctrineIds": [
+        "atonement",
+        "salvation"
+      ],
+      "year": 1872
+    },
+    {
+      "id": "campbell-perfect-amen",
+      "text": "A perfect Amen in humanity to the judgment of God on the sin of man.",
+      "kind": "quotation",
+      "personId": "john-mcleod-campbell",
+      "citation": "The Nature of the Atonement (1856), ch. 6",
+      "topics": [
+        "vicarious repentance",
+        "union",
+        "filial atonement"
+      ],
+      "doctrineIds": [
+        "atonement",
+        "salvation"
+      ],
+      "workId": "campbell-nature-of-atonement",
+      "year": 1856
+    },
+    {
+      "id": "campbell-filial",
+      "text": "Campbell holds that the atonement must be understood from the Father’s heart: Christ, in our humanity, confessed our sin and responded to the Father as a perfect Son, and his work reveals and opens to us a filial relationship rather than a merely legal standing.",
+      "kind": "paraphrase",
+      "personId": "john-mcleod-campbell",
+      "citation": "The Nature of the Atonement (1856), chs. 1-7 (paraphrase)",
+      "topics": [
+        "vicarious humanity",
+        "sonship"
+      ],
+      "doctrineIds": [
+        "atonement",
+        "salvation"
+      ],
+      "workId": "campbell-nature-of-atonement",
+      "year": 1856
+    },
+    {
+      "id": "aulen-classic-type",
+      "text": "Aulén argues that the \"classic\" idea of the atonement — God himself in Christ fighting and triumphing over the tyrants of sin, death and the devil — is the dominant view of the New Testament and the fathers, recovered by Luther, and distinct from both the Latin and the subjective types.",
+      "kind": "paraphrase",
+      "personId": "gustaf-aulen",
+      "citation": "Christus Victor (1931), chs. 1, 8 (paraphrase)",
+      "topics": [
+        "Christus Victor",
+        "historical typology"
+      ],
+      "doctrineIds": [
+        "atonement"
+      ],
+      "workId": "aulen-christus-victor-work",
+      "year": 1930
+    },
+    {
+      "id": "girard-scapegoat",
+      "text": "Girard argues that human cultures are founded on the collective murder of scapegoats, disguised as sacred necessity; the Gospels expose this mechanism from the side of the innocent victim, and Christ’s death ends sacrificial violence rather than satisfying divine violence.",
+      "kind": "paraphrase",
+      "personId": "rene-girard",
+      "citation": "Things Hidden Since the Foundation of the World (1978), Book II (paraphrase)",
+      "topics": [
+        "mimetic theory",
+        "scapegoat",
+        "violence"
+      ],
+      "doctrineIds": [
+        "atonement"
+      ],
+      "year": 1978
+    },
+    {
+      "id": "weaver-narrative-cv",
+      "text": "Weaver proposes a \"narrative Christus Victor\": Jesus’ death is the consequence of his confrontation with the powers, not something God required, and the resurrection is God’s victory over them — an atonement without divinely sanctioned violence.",
+      "kind": "paraphrase",
+      "personId": "j-denny-weaver",
+      "citation": "The Nonviolent Atonement (2001) (paraphrase)",
+      "topics": [
+        "nonviolence",
+        "Christus Victor",
+        "Anabaptist"
+      ],
+      "doctrineIds": [
+        "atonement"
+      ],
+      "year": 2001
+    },
+    {
+      "id": "packer-penal-substitution",
+      "text": "Packer argues that penal substitution is the heart of the gospel: Jesus Christ, moved by love, endured in our place the penal judgement we deserved, so that we are forgiven, adopted and glorified — a truth to be confessed with wonder, not reduced to a mechanical theory.",
+      "kind": "paraphrase",
+      "personId": "j-i-packer",
+      "citation": "What Did the Cross Achieve? The Logic of Penal Substitution (1974) (paraphrase)",
+      "topics": [
+        "penal substitution"
+      ],
+      "doctrineIds": [
+        "atonement"
+      ],
+      "year": 1974
+    },
+    {
+      "id": "stott-self-substitution",
+      "text": "Stott describes the cross as the \"self-substitution of God\": the holy love of God satisfies itself by God himself, in the person of his Son, taking our place and bearing our penalty.",
+      "kind": "paraphrase",
+      "personId": "john-stott",
+      "citation": "The Cross of Christ (1986), ch. 6 (paraphrase)",
+      "topics": [
+        "penal substitution",
+        "love",
+        "Trinity"
+      ],
+      "doctrineIds": [
+        "atonement"
+      ],
+      "year": 1986
+    },
+    {
+      "id": "tf-torrance-vicarious-humanity",
+      "text": "T. F. Torrance teaches that atonement takes place within the incarnate life of the Son: from the virgin birth to the ascension, Christ assumed our fallen humanity, healed and sanctified it from within, and offered it to the Father, so that the atonement is ontological as well as forensic.",
+      "kind": "paraphrase",
+      "personId": "thomas-f-torrance",
+      "citation": "The Mediation of Christ (1983); Atonement (2009) (paraphrase)",
+      "topics": [
+        "vicarious humanity",
+        "union",
+        "incarnation"
+      ],
+      "doctrineIds": [
+        "atonement",
+        "salvation"
+      ],
+      "year": 1983
+    }
+  ],
+  "people": [
+    {
+      "id": "j-denny-weaver",
+      "name": "J. Denny Weaver",
+      "born": 1941,
+      "circa": false,
+      "roles": [
+        "Mennonite theologian"
+      ],
+      "traditionIds": [
+        "mennonite"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "American Mennonite theologian (Bluffton University) whose The Nonviolent Atonement (2001) proposed \"narrative Christus Victor\" as an atonement model without divinely sanctioned violence.",
+      "keyIdeas": [
+        "Narrative Christus Victor",
+        "Nonviolence and the atonement"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "weaver-nonviolent"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "works": [
+    {
+      "id": "abelard-commentary-romans",
+      "title": "Commentary on the Epistle to the Romans",
+      "authorId": "abelard",
+      "year": 1135,
+      "circa": true,
+      "language": "Latin",
+      "genre": "commentary",
+      "summary": "Abelard’s commentary, whose excursus on Romans 3:19-26 asks to whom a ransom could be paid and answers that Christ’s passion reveals and kindles love in us.",
+      "significance": "Locus classicus of the \"moral influence\" (exemplarist) view; attacked by Bernard of Clairvaux.",
+      "doctrineIds": [
+        "atonement"
+      ],
+      "sources": [
+        "pelikan-christian-tradition",
+        "odcc"
+      ]
+    },
+    {
+      "id": "anselm-cur-deus-homo",
+      "title": "Why God Became Man (Cur Deus Homo)",
+      "authorId": "anselm",
+      "year": 1098,
+      "circa": false,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "A dialogue with the monk Boso arguing \"by necessary reasons\" that only a God-man could render the satisfaction owed to God’s honour by sinful humanity.",
+      "significance": "Origin of the satisfaction theory; it displaced the idea of rights of the devil and set the agenda for Western atonement theology.",
+      "fullTextUrl": "https://sourcebooks.fordham.edu/basis/anselm-curdeus.asp",
+      "doctrineIds": [
+        "atonement"
+      ],
+      "sources": [
+        "aulen-christus-victor",
+        "pelikan-christian-tradition",
+        "odcc"
+      ]
+    },
+    {
+      "id": "aulen-christus-victor-work",
+      "title": "Christus Victor: An Historical Study of the Three Main Types of the Idea of the Atonement",
+      "authorId": "gustaf-aulen",
+      "year": 1930,
+      "circa": false,
+      "language": "Swedish",
+      "genre": "treatise",
+      "summary": "Aulén's Uppsala lectures (1930; English 1931) arguing that the 'classic' patristic and Lutheran idea of the atonement is God's victory in Christ over sin, death and the devil, distinct from the Latin (satisfaction) and subjective (moral influence) types.",
+      "significance": "Revived the dramatic \"victory\" model across denominations.",
+      "doctrineIds": [
+        "atonement"
+      ],
+      "sources": [
+        "aulen-christus-victor"
+      ]
+    },
+    {
+      "id": "campbell-nature-of-atonement",
+      "title": "The Nature of the Atonement",
+      "authorId": "john-mcleod-campbell",
+      "year": 1856,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "Campbell's mature work after his deposition (1831): Christ's atoning work is a perfect confession of and repentance for humanity's sin, a 'perfect Amen' to God's judgement, revealing the Father's love; atonement is filial and relational rather than legal.",
+      "significance": "Seminal for the Torrances and for relational, union-centred accounts of the atonement.",
+      "doctrineIds": [
+        "atonement",
+        "salvation"
+      ],
+      "sources": [
+        "mcleod-campbell-nature",
+        "torrance-scottish"
+      ]
+    },
+    {
+      "id": "gregory-nyssa-catechetical-oration",
+      "title": "The Great Catechism (Catechetical Oration)",
+      "authorId": "gregory-of-nyssa",
+      "year": 385,
+      "circa": true,
+      "language": "Greek",
+      "genre": "catechism",
+      "summary": "A manual for catechists explaining the Trinity, incarnation, redemption and sacraments; chapters 22-26 present the ransom as a just deception of the devil (the \"fish-hook\" image).",
+      "significance": "Classic statement of the patristic ransom motif.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/2908.htm",
+      "doctrineIds": [
+        "atonement",
+        "salvation",
+        "baptism"
+      ],
+      "sources": [
+        "anf-npnf",
+        "aulen-christus-victor"
+      ]
+    },
+    {
+      "id": "grotius-defensio",
+      "title": "Defence of the Catholic Faith concerning the Satisfaction of Christ against Faustus Socinus (Defensio fidei catholicae de satisfactione Christi)",
+      "authorId": "hugo-grotius",
+      "year": 1617,
+      "circa": false,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "Against Socinus, Grotius defends the necessity of Christ’s death by casting God as Rector (governor) who relaxes the law for the elect while upholding moral order by a public example of punishment.",
+      "significance": "Origin of the \"governmental\" theory; influential in New England theology and Methodism.",
+      "doctrineIds": [
+        "atonement"
+      ],
+      "sources": [
+        "odcc",
+        "pelikan-christian-tradition"
+      ]
+    },
+    {
+      "id": "nazianzen-letter-to-cledonius",
+      "title": "Letter 101 to Cledonius (First Letter against Apollinarius)",
+      "authorId": "gregory-of-nazianzus",
+      "year": 382,
+      "circa": true,
+      "language": "Greek",
+      "genre": "letter",
+      "summary": "Letter against Apollinarius insisting that Christ assumed a complete human nature, including a rational mind, because \"that which He has not assumed He has not healed\".",
+      "significance": "Classic statement of the soteriological principle behind Chalcedonian Christology and participatory atonement.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/3103a.htm",
+      "doctrineIds": [
+        "christology",
+        "atonement"
+      ],
+      "sources": [
+        "anf-npnf",
+        "new-advent"
+      ]
+    },
+    {
+      "id": "owen-death-of-death",
+      "title": "The Death of Death in the Death of Christ",
+      "authorId": "john-owen",
+      "year": 1647,
+      "circa": false,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "Owen's defence of definite (particular) redemption against universal redemption, arguing that Christ's death actually secures the salvation of those for whom it was intended.",
+      "significance": "The classic Reformed argument for limited atonement and for penal substitution understood as effective.",
+      "doctrineIds": [
+        "atonement",
+        "salvation"
+      ],
+      "sources": [
+        "muller-calvin-after",
+        "odcc"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "beilby-eddy-atonement",
+      "title": "The Nature of the Atonement: Four Views",
+      "author": "James Beilby and Paul R. Eddy, eds.",
+      "year": 2006,
+      "kind": "secondary"
+    },
+    {
+      "id": "jeffery-pierced",
+      "title": "Pierced for Our Transgressions: Rediscovering the Glory of Penal Substitution",
+      "author": "Steve Jeffery, Michael Ovey and Andrew Sach",
+      "year": 2007,
+      "kind": "secondary"
+    },
+    {
+      "id": "mcleod-campbell-nature",
+      "title": "The Nature of the Atonement and Its Relation to Remission of Sins and Eternal Life",
+      "author": "John McLeod Campbell",
+      "year": 1856,
+      "kind": "primary"
+    },
+    {
+      "id": "muller-calvin-after",
+      "title": "After Calvin: Studies in the Development of a Theological Tradition",
+      "author": "Richard A. Muller",
+      "year": 2003,
+      "kind": "secondary"
+    },
+    {
+      "id": "packer-cross-achieve",
+      "title": "What Did the Cross Achieve? The Logic of Penal Substitution (Tyndale Bulletin 25)",
+      "author": "J. I. Packer",
+      "year": 1974,
+      "kind": "secondary"
+    },
+    {
+      "id": "stanglin-mccall-arminius",
+      "title": "Jacob Arminius: Theologian of Grace",
+      "author": "Keith D. Stanglin and Thomas H. McCall",
+      "year": 2012,
+      "kind": "secondary"
+    },
+    {
+      "id": "stott-cross",
+      "title": "The Cross of Christ",
+      "author": "John Stott",
+      "year": 1986,
+      "kind": "secondary"
+    },
+    {
+      "id": "torrance-atonement",
+      "title": "Atonement: The Person and Work of Christ",
+      "author": "Thomas F. Torrance (ed. Robert T. Walker)",
+      "year": 2009,
+      "kind": "secondary"
+    },
+    {
+      "id": "torrance-scottish",
+      "title": "Scottish Theology: From John Knox to John McLeod Campbell",
+      "author": "Thomas F. Torrance",
+      "year": 1996,
+      "kind": "secondary"
+    },
+    {
+      "id": "weaver-nonviolent",
+      "title": "The Nonviolent Atonement",
+      "author": "J. Denny Weaver",
+      "year": 2001,
+      "kind": "secondary",
+      "note": "2nd ed. 2011"
+    }
+  ]
+}

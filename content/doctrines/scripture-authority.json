@@ -1,0 +1,2941 @@
+{
+  "sources": [
+    {
+      "id": "metzger-canon",
+      "title": "The Canon of the New Testament: Its Origin, Development, and Significance",
+      "author": "Bruce M. Metzger",
+      "year": 1987,
+      "kind": "secondary"
+    },
+    {
+      "id": "mcdonald-canon",
+      "title": "The Biblical Canon: Its Origin, Transmission, and Authority",
+      "author": "Lee Martin McDonald",
+      "year": 2007,
+      "kind": "secondary"
+    },
+    {
+      "id": "bruce-canon",
+      "title": "The Canon of Scripture",
+      "author": "F. F. Bruce",
+      "year": 1988,
+      "kind": "secondary"
+    },
+    {
+      "id": "omalley-vatican-i",
+      "title": "Vatican I: The Council and the Making of the Ultramontane Church",
+      "author": "John W. O'Malley",
+      "year": 2018,
+      "kind": "secondary"
+    },
+    {
+      "id": "abraham-canon-criterion",
+      "title": "Canon and Criterion in Christian Theology",
+      "author": "William J. Abraham",
+      "year": 1998,
+      "kind": "secondary"
+    },
+    {
+      "id": "cowley-ethiopian-canon",
+      "title": "The Biblical Canon of the Ethiopian Orthodox Church Today",
+      "author": "R. W. Cowley",
+      "year": 1974,
+      "kind": "secondary",
+      "note": "Ostkirchliche Studien 23 (1974): 318–323"
+    },
+    {
+      "id": "chicago-statement-1978",
+      "title": "The Chicago Statement on Biblical Inerrancy",
+      "author": "International Council on Biblical Inerrancy",
+      "year": 1978,
+      "kind": "primary"
+    }
+  ],
+  "doctrines": [
+    {
+      "id": "scripture-authority",
+      "name": "Scripture and Authority",
+      "icon": "book",
+      "order": 3,
+      "question": "Which books are Scripture, and where does final authority for Christian belief lie — in Scripture alone, in Scripture with Tradition, in the Church's teaching office, or with reason and experience alongside?",
+      "summary": "The early church received Israel's Scriptures and gradually recognised a New Testament against Marcion and the Gnostics, guided by apostolic origin, orthodoxy and catholic use. Canon lists (Muratorian fragment, Athanasius 367, Carthage 397) converged on 27 New Testament books, but Old Testament canons still differ: Protestant 66, Catholic 73, Orthodox larger, Ethiopian 81. The deeper question — how Scripture relates to Tradition, councils, bishops and popes — divided Reformation churches (sola scriptura) from Trent, shaped Vatican I's definition of papal infallibility (1870), and continues in debates over inerrancy, higher criticism, and Wesleyan, Pentecostal and global-South approaches.",
+      "longText": "Jesus and the apostles appealed to ‘the scriptures’ — the Law, the Prophets and the Psalms (Luke 24:44) — usually in the Greek Septuagint, which included books later called deuterocanonical or apocryphal. Alongside them, the churches read the apostles' letters and the Gospels; 2 Peter 3:16 already counts Paul's letters with ‘the other scriptures’. In the second century, Marcion of Sinope rejected the Old Testament and published a canon of an edited Luke and ten Pauline letters; Gnostic teachers produced new gospels. In response, Irenaeus defended a fourfold Gospel, the ‘rule of faith’ and succession of bishops from the apostles as public tests of truth.\n\nThe New Testament canon took shape through use more than decree. The Muratorian fragment (traditionally c. 170–200; some scholars date it to the 4th century) lists most of our books. Eusebius (c. 325) sorted books into acknowledged, disputed and spurious. Athanasius' 39th Festal Letter (367) is the first list of exactly our 27 books; North African councils at Hippo (393) and Carthage (397) agreed, and Pope Innocent I (405) concurred. Jerome, translating the Vulgate from Hebrew, regarded books outside the Hebrew canon as ecclesiastical rather than canonical; Augustine accepted the broader Septuagint collection. Eastern churches long hesitated over Revelation; the Syriac Peshitta omitted 2 Peter, 2–3 John, Jude and Revelation; the Ethiopian church developed the largest canon, including Enoch and Jubilees.\n\nThe Reformation turned the question of canon into a question of authority. Luther at Worms (1521) refused to recant unless convinced ‘by Scripture and plain reason’; the Reformers held that Scripture is the supreme, sufficient and self-interpreting norm (sola scriptura), with creeds and councils as subordinate standards. They followed Jerome in placing the Apocrypha in a separate section — useful but not doctrinally authoritative — later omitted from many Protestant Bibles. The Council of Trent (1546) responded by defining the larger canon and declaring that saving truth is contained ‘in the written books and the unwritten traditions’, to be received with equal reverence, interpreted by the Church. Radical reformers and Quakers emphasised the inner Word or Light; Anglicans appealed to Scripture, the early Fathers and reason; John Wesley, a ‘man of one book’, also drew on tradition, reason and experience — a pattern later called the Wesleyan quadrilateral.\n\nThe nineteenth century brought historical criticism (Strauss, Wellhausen), which read the Bible as a collection of human documents with complex histories, and responses ranging from liberal accommodation to the Princeton doctrine of inerrancy (Hodge and Warfield, 1881) and the later fundamentalist movement. In 1870 the First Vatican Council defined that the pope, speaking ex cathedra on faith and morals, is preserved from error — a decision opposed by a minority and leading to the Old Catholic schism. Eastern Orthodox theologians present Scripture as the heart of Holy Tradition, guarded by the whole conciliar Church rather than by a single office.\n\nThe twentieth century added neo-orthodoxy (Barth: Scripture as witness to the Word of God), Vatican II's Dei Verbum (1965: Scripture and Tradition flowing from the same divine wellspring), the Chicago Statement on Biblical Inerrancy (1978) and evangelical debates over limited inerrancy, alongside Pentecostal and global-South readings in which Scripture is read with expectation of present prophetic power. All Christian traditions treat Scripture as uniquely authoritative; they disagree about its extent, its interpreter and its relation to the living church.",
+      "flow": {
+        "nodes": [
+          {
+            "id": "q-authority",
+            "kind": "question",
+            "label": "Which books are Scripture — and who or what has final authority to interpret them?",
+            "text": "Two linked questions: the extent of the canon, and the relation of Scripture to tradition, church office, reason and experience.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-2thess-2",
+            "kind": "scripture",
+            "label": "2 Thess 2:15 — ‘hold the traditions… whether by word, or our epistle’",
+            "year": 51,
+            "text": "Apostolic tradition in both oral and written form; a key text for Catholics and Orthodox.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-2tim-3",
+            "kind": "scripture",
+            "label": "2 Tim 3:15–17 — ‘All scripture is given by inspiration of God’",
+            "year": 65,
+            "text": "Inspiration and sufficiency for teaching; the classic proof-text for sola scriptura and inerrancy.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-mark-7",
+            "kind": "scripture",
+            "label": "Mark 7:8–13 — ‘the tradition of men’",
+            "year": 70,
+            "text": "Jesus criticises traditions that nullify God's word; cited by Reformers against human traditions.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-matt-16",
+            "kind": "scripture",
+            "label": "Matt 16:18–19 — ‘thou art Peter, and upon this rock’",
+            "year": 80,
+            "text": "The keys given to Peter: foundation of Catholic claims for papal primacy; read by others of Peter's confession or of all apostles.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-luke-24",
+            "kind": "scripture",
+            "label": "Luke 24:44 — ‘the law of Moses, the prophets, and the psalms’",
+            "year": 85,
+            "text": "A three-part Jewish Scripture, the background for later debates about the Old Testament canon and the Septuagint.",
+            "quoteIds": []
+          },
+          {
+            "id": "s-2pet-3",
+            "kind": "scripture",
+            "label": "2 Pet 1:20–21; 3:16 — Paul's letters among ‘the other scriptures’",
+            "year": 100,
+            "text": "Prophecy not of private interpretation; Paul's letters already counted as Scripture.",
+            "quoteIds": []
+          },
+          {
+            "id": "p-marcion",
+            "kind": "position",
+            "label": "Marcion's canon: edited Luke + ten Pauline letters",
+            "year": 144,
+            "ref": {
+              "type": "position",
+              "id": "marcionite-canon"
+            },
+            "text": "The first known closed Christian canon, rejecting the Old Testament and its God.",
+            "quoteIds": [
+              "tertullian-marcion-knife"
+            ]
+          },
+          {
+            "id": "v-irenaeus",
+            "kind": "voice",
+            "label": "Irenaeus: four Gospels, rule of faith, apostolic succession",
+            "year": 180,
+            "ref": {
+              "type": "person",
+              "id": "irenaeus"
+            },
+            "text": "Public, apostolic tradition in the churches, especially Rome, against secret Gnostic tradition.",
+            "quoteIds": [
+              "irenaeus-four-gospels",
+              "irenaeus-rome-preeminent"
+            ]
+          },
+          {
+            "id": "v-muratorian",
+            "kind": "voice",
+            "label": "Muratorian fragment: an early list of New Testament books",
+            "year": 190,
+            "ref": {
+              "type": "work",
+              "id": "muratorian-fragment"
+            },
+            "text": "Accepts four Gospels, Acts, thirteen Pauline letters, Jude, two letters of John, Revelation and the Wisdom of Solomon; Hermas allowed to be read privately. Dating debated.",
+            "quoteIds": []
+          },
+          {
+            "id": "v-athanasius-367",
+            "kind": "voice",
+            "label": "Athanasius' 39th Festal Letter: the 27 books",
+            "year": 367,
+            "ref": {
+              "type": "work",
+              "id": "athanasius-festal-letter-39"
+            },
+            "text": "First list identical to the modern New Testament; Old Testament close to the Hebrew canon plus Baruch, with Wisdom, Sirach, Esther, Judith, Tobit ‘to be read’.",
+            "quoteIds": [
+              "athanasius-fountains-of-salvation"
+            ]
+          },
+          {
+            "id": "v-basil-tradition",
+            "kind": "voice",
+            "label": "Basil: written and unwritten apostolic tradition",
+            "year": 375,
+            "ref": {
+              "type": "work",
+              "id": "basil-on-the-holy-spirit"
+            },
+            "text": "Some practices come from Scripture, others from unwritten tradition; both have the same force.",
+            "quoteIds": [
+              "basil-unwritten-tradition"
+            ]
+          },
+          {
+            "id": "d-carthage",
+            "kind": "decision",
+            "label": "Councils of Hippo (393) and Carthage (397) list the canon",
+            "year": 397,
+            "ref": {
+              "type": "event",
+              "id": "council-of-carthage-397"
+            },
+            "text": "African councils list the broader Old Testament (with Tobit, Judith, Wisdom, Sirach, Maccabees) and the 27 New Testament books.",
+            "quoteIds": []
+          },
+          {
+            "id": "v-augustine",
+            "kind": "voice",
+            "label": "Augustine: the Church's authority moves me to believe the Gospel",
+            "year": 397,
+            "ref": {
+              "type": "person",
+              "id": "augustine-of-hippo"
+            },
+            "text": "Scripture is supreme, but its recognition is bound up with the catholic Church.",
+            "quoteIds": [
+              "augustine-gospel-church-authority"
+            ]
+          },
+          {
+            "id": "v-jerome",
+            "kind": "voice",
+            "label": "Jerome: ‘Hebrew verity’ and the Apocrypha",
+            "year": 405,
+            "ref": {
+              "type": "person",
+              "id": "jerome"
+            },
+            "text": "Vulgate translator who distinguished canonical (Hebrew) books from those read for edification.",
+            "quoteIds": [
+              "jerome-apocrypha-church-reads"
+            ]
+          },
+          {
+            "id": "v-vincent",
+            "kind": "voice",
+            "label": "Vincent of Lérins: everywhere, always, by all",
+            "year": 434,
+            "ref": {
+              "type": "person",
+              "id": "vincent-of-lerins"
+            },
+            "text": "Scripture is sufficient, but must be interpreted by the catholic consensus.",
+            "quoteIds": [
+              "vincent-everywhere-always"
+            ]
+          },
+          {
+            "id": "c-ethiopian",
+            "kind": "consequence",
+            "label": "Ethiopian canon: 81 books including Enoch and Jubilees",
+            "year": 500,
+            "ref": {
+              "type": "position",
+              "id": "ethiopian-canon"
+            },
+            "text": "Ge'ez translation from the 5th–6th centuries; the broadest canon in Christianity.",
+            "quoteIds": []
+          },
+          {
+            "id": "p-papal-primacy",
+            "kind": "position",
+            "label": "Papal supremacy claims grow (Gregory VII to Boniface VIII)",
+            "year": 1302,
+            "ref": {
+              "type": "position",
+              "id": "papal-infallibility"
+            },
+            "text": "Dictatus papae (1075), Unam Sanctam (1302): the Roman pontiff as supreme judge in the Church.",
+            "quoteIds": []
+          },
+          {
+            "id": "p-conciliarism",
+            "kind": "position",
+            "label": "Conciliarism: a general council above the pope",
+            "year": 1415,
+            "ref": {
+              "type": "position",
+              "id": "conciliarism"
+            },
+            "text": "The Council of Constance ends the Western Schism and declares (Haec Sancta) that councils hold power directly from Christ.",
+            "quoteIds": []
+          },
+          {
+            "id": "p-sola-scriptura",
+            "kind": "position",
+            "label": "Sola scriptura: Luther at Worms",
+            "year": 1521,
+            "ref": {
+              "type": "position",
+              "id": "sola-scriptura"
+            },
+            "text": "Conscience captive to the Word of God; popes and councils can err.",
+            "quoteIds": [
+              "luther-worms-conscience"
+            ]
+          },
+          {
+            "id": "p-protestant-canon",
+            "kind": "position",
+            "label": "Protestant canon: 66 books; Apocrypha set apart",
+            "year": 1534,
+            "ref": {
+              "type": "position",
+              "id": "protestant-canon"
+            },
+            "text": "Luther's Bible (1534) prints the Apocrypha separately; Westminster (1647) excludes it from the canon.",
+            "quoteIds": []
+          },
+          {
+            "id": "d-trent",
+            "kind": "decision",
+            "label": "Council of Trent: canon defined; Scripture and unwritten traditions",
+            "year": 1546,
+            "ref": {
+              "type": "event",
+              "id": "council-of-trent-1545"
+            },
+            "text": "Session IV (8 April 1546) defines 73 books and the Vulgate as authentic; the Church interprets Scripture.",
+            "quoteIds": []
+          },
+          {
+            "id": "p-scripture-tradition",
+            "kind": "position",
+            "label": "Catholic: Scripture and Tradition under the Magisterium",
+            "year": 1546,
+            "ref": {
+              "type": "position",
+              "id": "scripture-and-tradition"
+            },
+            "text": "One deposit of faith in two modes, authentically interpreted by the bishops in communion with the pope.",
+            "quoteIds": []
+          },
+          {
+            "id": "p-inner-light",
+            "kind": "position",
+            "label": "Quakers: the Inner Light",
+            "year": 1652,
+            "ref": {
+              "type": "position",
+              "id": "inner-light"
+            },
+            "text": "George Fox: Christ speaks directly to the soul; Scripture is a secondary rule.",
+            "quoteIds": []
+          },
+          {
+            "id": "v-wesley",
+            "kind": "voice",
+            "label": "Wesley: Scripture, tradition, reason, experience",
+            "year": 1746,
+            "ref": {
+              "type": "position",
+              "id": "wesleyan-quadrilateral"
+            },
+            "text": "‘A man of one book’ who also appealed to the early church, reason and experience.",
+            "quoteIds": [
+              "wesley-homo-unius-libri"
+            ]
+          },
+          {
+            "id": "p-higher-criticism",
+            "kind": "position",
+            "label": "Historical (higher) criticism",
+            "year": 1878,
+            "ref": {
+              "type": "position",
+              "id": "historical-critical-method"
+            },
+            "text": "Strauss' Life of Jesus (1835), Wellhausen's Prolegomena (1878): the Bible as historically developed human literature.",
+            "quoteIds": []
+          },
+          {
+            "id": "d-vatican-i",
+            "kind": "decision",
+            "label": "Vatican I: papal infallibility defined",
+            "year": 1870,
+            "ref": {
+              "type": "event",
+              "id": "first-vatican-council-1870"
+            },
+            "text": "Pastor Aeternus: ex cathedra definitions are irreformable of themselves; opposition leads to the Old Catholic churches.",
+            "quoteIds": [
+              "pius-ix-ex-cathedra"
+            ]
+          },
+          {
+            "id": "p-inerrancy",
+            "kind": "position",
+            "label": "Inerrancy: Princeton theology",
+            "year": 1881,
+            "ref": {
+              "type": "position",
+              "id": "inerrancy"
+            },
+            "text": "Hodge and Warfield: Scripture is without error in the original autographs.",
+            "quoteIds": [
+              "warfield-inspiration"
+            ]
+          },
+          {
+            "id": "v-barth",
+            "kind": "voice",
+            "label": "Barth: the threefold Word of God",
+            "year": 1932,
+            "ref": {
+              "type": "position",
+              "id": "neo-orthodox-word-of-god"
+            },
+            "text": "Jesus Christ is the Word; Scripture witnesses to him and becomes God's Word in the event of revelation.",
+            "quoteIds": []
+          },
+          {
+            "id": "d-dei-verbum",
+            "kind": "decision",
+            "label": "Vatican II, Dei Verbum",
+            "year": 1965,
+            "ref": {
+              "type": "event",
+              "id": "second-vatican-council-1962"
+            },
+            "text": "Scripture and Tradition flow from the same divine wellspring; the Magisterium is not above the Word of God but serves it.",
+            "quoteIds": []
+          },
+          {
+            "id": "p-limited-inerrancy",
+            "kind": "position",
+            "label": "Infallibility of purpose / limited inerrancy",
+            "year": 1974,
+            "ref": {
+              "type": "position",
+              "id": "limited-inerrancy"
+            },
+            "text": "Scripture is fully trustworthy in what it intends to teach about salvation and faith, not necessarily in incidental science or history.",
+            "quoteIds": []
+          },
+          {
+            "id": "d-chicago",
+            "kind": "decision",
+            "label": "Chicago Statement on Biblical Inerrancy",
+            "year": 1978,
+            "ref": {
+              "type": "position",
+              "id": "inerrancy"
+            },
+            "text": "Nearly 300 evangelical leaders affirm inerrancy in nineteen articles; the Southern Baptist ‘conservative resurgence’ follows (from 1979).",
+            "quoteIds": []
+          },
+          {
+            "id": "p-orthodox-tradition",
+            "kind": "position",
+            "label": "Orthodox: Scripture within Holy Tradition",
+            "year": 1848,
+            "ref": {
+              "type": "position",
+              "id": "holy-tradition-orthodox"
+            },
+            "text": "The Encyclical of the Eastern Patriarchs (1848): the guardian of faith is the whole people of God; councils express the Church's mind.",
+            "quoteIds": []
+          },
+          {
+            "id": "m-global",
+            "kind": "modern",
+            "label": "Global South: Bible-centred, Spirit-expectant reading",
+            "year": 2000,
+            "text": "African, Asian and Latin American churches often read Scripture as directly applicable to healing, spiritual powers and justice; translation into thousands of languages shapes local theology.",
+            "quoteIds": []
+          },
+          {
+            "id": "m-today",
+            "kind": "modern",
+            "label": "Today: shared Scriptures, different canons and interpreters",
+            "year": 2026,
+            "text": "All traditions share the 27-book New Testament; Old Testament canons still differ. The magisterium, conciliarity, sola scriptura, inerrancy and critical scholarship remain live fault-lines and dialogue topics.",
+            "quoteIds": []
+          }
+        ],
+        "edges": [
+          {
+            "from": "q-authority",
+            "to": "s-2thess-2",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q-authority",
+            "to": "s-2tim-3",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q-authority",
+            "to": "s-mark-7",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q-authority",
+            "to": "s-matt-16",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q-authority",
+            "to": "s-luke-24",
+            "kind": "leads-to"
+          },
+          {
+            "from": "q-authority",
+            "to": "s-2pet-3",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-2pet-3",
+            "to": "p-marcion",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-marcion",
+            "to": "v-irenaeus",
+            "kind": "leads-to"
+          },
+          {
+            "from": "v-irenaeus",
+            "to": "p-marcion",
+            "kind": "objects"
+          },
+          {
+            "from": "s-2thess-2",
+            "to": "v-irenaeus",
+            "kind": "supports"
+          },
+          {
+            "from": "v-irenaeus",
+            "to": "v-muratorian",
+            "kind": "develops"
+          },
+          {
+            "from": "v-muratorian",
+            "to": "v-athanasius-367",
+            "kind": "develops"
+          },
+          {
+            "from": "s-luke-24",
+            "to": "v-athanasius-367",
+            "kind": "supports"
+          },
+          {
+            "from": "s-2thess-2",
+            "to": "v-basil-tradition",
+            "kind": "supports"
+          },
+          {
+            "from": "v-athanasius-367",
+            "to": "d-carthage",
+            "kind": "supports"
+          },
+          {
+            "from": "v-augustine",
+            "to": "d-carthage",
+            "kind": "supports"
+          },
+          {
+            "from": "d-carthage",
+            "to": "v-jerome",
+            "kind": "leads-to"
+          },
+          {
+            "from": "v-jerome",
+            "to": "d-carthage",
+            "kind": "objects"
+          },
+          {
+            "from": "v-basil-tradition",
+            "to": "v-vincent",
+            "kind": "develops"
+          },
+          {
+            "from": "v-augustine",
+            "to": "v-vincent",
+            "kind": "develops"
+          },
+          {
+            "from": "d-carthage",
+            "to": "c-ethiopian",
+            "kind": "leads-to"
+          },
+          {
+            "from": "s-matt-16",
+            "to": "p-papal-primacy",
+            "kind": "supports"
+          },
+          {
+            "from": "v-vincent",
+            "to": "p-papal-primacy",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-papal-primacy",
+            "to": "p-conciliarism",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-conciliarism",
+            "to": "p-papal-primacy",
+            "kind": "objects"
+          },
+          {
+            "from": "s-2tim-3",
+            "to": "p-sola-scriptura",
+            "kind": "supports"
+          },
+          {
+            "from": "s-mark-7",
+            "to": "p-sola-scriptura",
+            "kind": "supports"
+          },
+          {
+            "from": "p-conciliarism",
+            "to": "p-sola-scriptura",
+            "kind": "leads-to"
+          },
+          {
+            "from": "v-jerome",
+            "to": "p-protestant-canon",
+            "kind": "supports"
+          },
+          {
+            "from": "p-sola-scriptura",
+            "to": "p-protestant-canon",
+            "kind": "develops"
+          },
+          {
+            "from": "p-sola-scriptura",
+            "to": "d-trent",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-trent",
+            "to": "p-sola-scriptura",
+            "kind": "rejects"
+          },
+          {
+            "from": "d-trent",
+            "to": "p-scripture-tradition",
+            "kind": "decides"
+          },
+          {
+            "from": "v-vincent",
+            "to": "p-scripture-tradition",
+            "kind": "supports"
+          },
+          {
+            "from": "p-sola-scriptura",
+            "to": "p-inner-light",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-sola-scriptura",
+            "to": "v-wesley",
+            "kind": "develops"
+          },
+          {
+            "from": "p-sola-scriptura",
+            "to": "p-higher-criticism",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-scripture-tradition",
+            "to": "d-vatican-i",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-papal-primacy",
+            "to": "d-vatican-i",
+            "kind": "develops"
+          },
+          {
+            "from": "d-vatican-i",
+            "to": "p-conciliarism",
+            "kind": "rejects"
+          },
+          {
+            "from": "p-higher-criticism",
+            "to": "p-inerrancy",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-inerrancy",
+            "to": "p-higher-criticism",
+            "kind": "objects"
+          },
+          {
+            "from": "p-higher-criticism",
+            "to": "v-barth",
+            "kind": "leads-to"
+          },
+          {
+            "from": "v-basil-tradition",
+            "to": "p-orthodox-tradition",
+            "kind": "develops"
+          },
+          {
+            "from": "p-orthodox-tradition",
+            "to": "d-vatican-i",
+            "kind": "objects"
+          },
+          {
+            "from": "d-vatican-i",
+            "to": "d-dei-verbum",
+            "kind": "leads-to"
+          },
+          {
+            "from": "v-barth",
+            "to": "d-dei-verbum",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-inerrancy",
+            "to": "p-limited-inerrancy",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-limited-inerrancy",
+            "to": "d-chicago",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-chicago",
+            "to": "p-limited-inerrancy",
+            "kind": "rejects"
+          },
+          {
+            "from": "p-inerrancy",
+            "to": "d-chicago",
+            "kind": "develops"
+          },
+          {
+            "from": "v-wesley",
+            "to": "m-global",
+            "kind": "leads-to"
+          },
+          {
+            "from": "c-ethiopian",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-dei-verbum",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "d-chicago",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "m-global",
+            "to": "m-today",
+            "kind": "leads-to"
+          },
+          {
+            "from": "p-inner-light",
+            "to": "m-today",
+            "kind": "leads-to"
+          }
+        ]
+      },
+      "sources": [
+        "metzger-canon",
+        "mcdonald-canon",
+        "bruce-canon",
+        "pelikan-christian-tradition",
+        "mcgrath-historical-theology",
+        "omalley-vatican-i",
+        "abraham-canon-criterion",
+        "odcc",
+        "bible"
+      ]
+    }
+  ],
+  "positions": [
+    {
+      "id": "sola-scriptura",
+      "doctrineId": "scripture-authority",
+      "name": "Sola scriptura (Scripture alone)",
+      "altNames": [
+        "Scripture alone",
+        "Formal principle of the Reformation",
+        "Prima Scriptura (in a softer sense)"
+      ],
+      "oneLine": "Holy Scripture is the only infallible rule of faith and practice; creeds, councils and church teachers are real but subordinate authorities to be tested by it.",
+      "coreClaims": [
+        "Scripture is the inspired Word of God and the supreme norm (norma normans) for doctrine.",
+        "Scripture is sufficient: all things necessary for salvation are set down in it or deduced from it (Westminster Confession 1.6; Thirty-Nine Articles 6).",
+        "Scripture is clear (perspicuous) in what is necessary for salvation and interprets itself (Scriptura sui ipsius interpres).",
+        "Popes and councils can err and have erred; their decrees bind only insofar as they agree with Scripture.",
+        "Scripture's authority is recognised through the inner witness of the Holy Spirit, not conferred by the church (Calvin)."
+      ],
+      "keyTexts": [
+        "2 Timothy 3:15–17",
+        "Isaiah 8:20",
+        "Mark 7:8–13",
+        "Acts 17:11",
+        "Galatians 1:8–9",
+        "1 Corinthians 4:6",
+        "Psalm 119:105"
+      ],
+      "origin": "Anticipated by Wycliffe and Hus; formulated by Martin Luther in his conflict with Rome (Leipzig Disputation 1519, Diet of Worms 1521); confessionally defined in the Formula of Concord (1577), the Thirty-Nine Articles (1563/1571), the Belgic Confession (1561) and the Westminster Confession (1647).",
+      "originYear": 1521,
+      "proponentIds": [
+        "john-wycliffe",
+        "martin-luther",
+        "huldrych-zwingli",
+        "john-calvin",
+        "heinrich-bullinger",
+        "thomas-cranmer"
+      ],
+      "proponentsOther": [
+        "William Tyndale",
+        "Martin Chemnitz (Examination of the Council of Trent)",
+        "Francis Turretin",
+        "Keith Mathison (modern, distinguishing it from ‘solo scriptura’)"
+      ],
+      "traditionIds": [
+        "lutheran",
+        "reformed",
+        "presbyterian",
+        "anglican",
+        "baptist",
+        "methodist",
+        "evangelical",
+        "anabaptist",
+        "pentecostal"
+      ],
+      "strongestArguments": [
+        "Only Scripture is ‘God-breathed’ (2 Timothy 3:16); all other authorities are human and fallible.",
+        "Jesus judged the traditions of the elders by the written Word (Mark 7).",
+        "Church history shows that popes and councils have contradicted one another (e.g. Honorius condemned by a council, conflicting papal claims during the Western Schism).",
+        "It makes possible reform of the church and gives every believer direct access to God's Word in the vernacular."
+      ],
+      "strongestObjections": [
+        "Scripture nowhere teaches that Scripture alone is the rule of faith; 2 Thessalonians 2:15 commends oral tradition.",
+        "The canon itself was recognised by the church's tradition, which sola scriptura cannot account for without circularity.",
+        "Protestantism has fragmented into many denominations disagreeing on interpretation, suggesting Scripture alone is not sufficiently clear.",
+        "In practice Protestants also rely on traditions (creeds, confessions, interpretive communities)."
+      ],
+      "responses": [
+        "Reformers distinguished sola scriptura from ‘solo scriptura’ (‘nuda scriptura’): tradition and creeds are valued as ministerial, not magisterial, authorities.",
+        "The church recognises the canon as a shepherd recognises a flock's voice — it does not create it (John 10:27).",
+        "Disagreements exist equally within Catholicism and Orthodoxy; Scripture is clear on the essentials of salvation.",
+        "The apostolic oral tradition of 2 Thessalonians was inscripturated; no other verifiable apostolic deposit remains."
+      ],
+      "consequences": [
+        "Vernacular Bible translation, literacy and preaching-centred worship across Protestant cultures.",
+        "Multiplication of confessions and denominations; a tension between individual interpretation and confessional authority.",
+        "Foundation for later evangelical, Pentecostal and global-South Bible movements and Bible societies (British and Foreign Bible Society, 1804)."
+      ],
+      "relatedPositionIds": [
+        "scripture-and-tradition",
+        "holy-tradition-orthodox",
+        "protestant-canon",
+        "inerrancy",
+        "wesleyan-quadrilateral"
+      ],
+      "standing": "majority",
+      "sources": [
+        "macculloch-reformation",
+        "mcgrath-historical-theology",
+        "schaff-creeds",
+        "pelikan-christian-tradition"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "scripture-and-tradition",
+      "doctrineId": "scripture-authority",
+      "name": "Scripture and Tradition under the Magisterium (Catholic)",
+      "altNames": [
+        "Two-source theory (older formulation)",
+        "Single deposit of faith",
+        "Dei Verbum model"
+      ],
+      "oneLine": "God's revelation is handed on in Sacred Scripture and Sacred Tradition, which form one sacred deposit of the Word of God, authentically interpreted by the living teaching office (Magisterium) of the bishops in communion with the pope.",
+      "coreClaims": [
+        "Christ entrusted the gospel to the apostles, who handed it on in preaching, example, institutions and writings.",
+        "Scripture and Tradition flow from the same divine wellspring and are to be accepted with equal devotion and reverence (Trent; Dei Verbum 9).",
+        "The Magisterium is not above the Word of God but serves it, teaching only what has been handed on (Dei Verbum 10).",
+        "The Church recognised and defined the canon, including the deuterocanonical books.",
+        "Doctrine develops organically over time (Newman) without changing in substance."
+      ],
+      "keyTexts": [
+        "2 Thessalonians 2:15",
+        "2 Thessalonians 3:6",
+        "2 Timothy 2:2",
+        "John 16:12–13",
+        "John 21:25",
+        "Matthew 16:18–19",
+        "Matthew 18:17",
+        "1 Timothy 3:15",
+        "Acts 15:28"
+      ],
+      "origin": "Rooted in Irenaeus, Tertullian (Prescription against Heretics), Basil and Vincent of Lérins; defined against the Reformers at Trent, Session IV (1546); refined at Vatican I (Dei Filius, 1870) and Vatican II (Dei Verbum, 1965).",
+      "originYear": 1546,
+      "proponentIds": [
+        "irenaeus",
+        "vincent-of-lerins",
+        "augustine-of-hippo",
+        "thomas-aquinas",
+        "john-henry-newman",
+        "karl-rahner"
+      ],
+      "proponentsOther": [
+        "Robert Bellarmine",
+        "Johann Adam Möhler",
+        "Yves Congar",
+        "Joseph Ratzinger"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-catholic"
+      ],
+      "strongestArguments": [
+        "Historically, the church existed and taught before the New Testament was written or collected; the canon was recognised by the church's tradition.",
+        "Scripture itself commends unwritten tradition and points to the church as ‘the pillar and ground of the truth’ (1 Timothy 3:15).",
+        "A living, authoritative interpreter is needed to resolve disputes, as at the Council of Jerusalem (Acts 15).",
+        "It provides doctrinal unity across a global communion of over a billion members."
+      ],
+      "strongestObjections": [
+        "Protestants argue that it subordinates Scripture to the church in practice, allowing doctrines with little biblical basis (e.g. Marian dogmas).",
+        "Tradition is too broad and inconsistent to function as a reliable norm; the Fathers disagree among themselves.",
+        "Orthodox critics argue the Magisterium, especially the papacy, has displaced the conciliar mind of the whole church.",
+        "Historical criticism shows that some ‘traditions’ claimed as apostolic arose later."
+      ],
+      "responses": [
+        "Catholics answer that every interpretive community has a tradition; the question is whether it is accountable and apostolic.",
+        "Newman's theory of development explains how later doctrines unfold what was implicit in revelation.",
+        "Vatican II explicitly subordinated the Magisterium to the Word of God and encouraged biblical study and vernacular Scripture."
+      ],
+      "consequences": [
+        "Trent's decree fixed the Catholic canon and the authority of the Vulgate until the 20th century.",
+        "Enabled definitions such as the Immaculate Conception (1854) and Assumption (1950).",
+        "Vatican II's Dei Verbum opened Catholic biblical scholarship and ecumenical dialogue on Scripture and Tradition."
+      ],
+      "relatedPositionIds": [
+        "sola-scriptura",
+        "holy-tradition-orthodox",
+        "papal-infallibility",
+        "catholic-deuterocanon"
+      ],
+      "standing": "majority",
+      "sources": [
+        "pelikan-christian-tradition",
+        "mcgrath-historical-theology",
+        "catechism-catholic-church",
+        "omalley-vatican-ii"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "holy-tradition-orthodox",
+      "doctrineId": "scripture-authority",
+      "name": "Scripture within Holy Tradition (Eastern and Oriental Orthodox)",
+      "altNames": [
+        "Holy Tradition",
+        "Conciliarity (sobornost)",
+        "Consensus Patrum"
+      ],
+      "oneLine": "Holy Scripture is the supreme expression of Holy Tradition — the life of the Holy Spirit in the Church — interpreted through the Fathers, the ecumenical councils, the liturgy and icons, and guarded by the whole people of God rather than by any single office.",
+      "coreClaims": [
+        "Tradition is not a second source beside Scripture but the living memory of the Church in which Scripture is read.",
+        "The ecumenical councils, received by the whole Church, are infallible expressions of its faith.",
+        "The liturgy is a primary interpreter of Scripture (lex orandi, lex credendi).",
+        "No single bishop, including the bishop of Rome, has infallibility apart from the Church.",
+        "The Septuagint is the authoritative Old Testament text."
+      ],
+      "keyTexts": [
+        "John 16:13",
+        "Acts 15:28",
+        "1 Timothy 3:15",
+        "2 Thessalonians 2:15",
+        "1 John 2:20–27"
+      ],
+      "origin": "Expressed by Basil (On the Holy Spirit 27), Vincent of Lérins, John of Damascus and the Seventh Ecumenical Council (787); formulated against Protestant and Catholic positions by the Synod of Jerusalem (1672) and the Encyclical of the Eastern Patriarchs (1848); developed by Khomiakov (sobornost), Florovsky (‘neo-patristic synthesis’) and Ware.",
+      "originYear": 787,
+      "proponentIds": [
+        "basil-of-caesarea",
+        "john-of-damascus",
+        "gregory-palamas"
+      ],
+      "proponentsOther": [
+        "Aleksei Khomiakov",
+        "Georges Florovsky",
+        "Vladimir Lossky",
+        "Kallistos Ware",
+        "Pope Shenouda III (Coptic)"
+      ],
+      "traditionIds": [
+        "eastern-orthodox",
+        "russian-orthodox",
+        "oriental-orthodox",
+        "coptic-orthodox",
+        "ethiopian-orthodox-tewahedo",
+        "armenian-apostolic",
+        "syriac-orthodox",
+        "church-of-the-east"
+      ],
+      "strongestArguments": [
+        "It reflects how Scripture was actually received: within worshipping communities guided by bishops and councils.",
+        "It avoids both Protestant individualism and the concentration of authority in one office.",
+        "Continuity of liturgy and doctrine across many cultures and centuries under pressure (Arab, Ottoman, Soviet) without a central magisterium."
+      ],
+      "strongestObjections": [
+        "Protestants: it places tradition beyond biblical correction, allowing practices such as icon veneration to be made binding.",
+        "Catholics: without a final arbiter, the Orthodox cannot convene ecumenical councils or settle disputes (e.g. disputes between patriarchates, 2018 Moscow–Constantinople schism).",
+        "The criterion of ‘reception’ seems circular: a council is ecumenical if received, and received if orthodox."
+      ],
+      "responses": [
+        "Orthodox theologians answer that the Holy Spirit, not a juridical office, guarantees truth, and reception is the Spirit's work in the Church.",
+        "Scripture holds primacy within Tradition, and the Fathers are honoured precisely as interpreters of Scripture."
+      ],
+      "consequences": [
+        "Underpins the Orthodox rejection of papal infallibility and the Filioque.",
+        "Explains the authority of icons, liturgy and the canons in Orthodox life.",
+        "Shapes Orthodox participation in ecumenism, especially the World Council of Churches."
+      ],
+      "relatedPositionIds": [
+        "scripture-and-tradition",
+        "sola-scriptura",
+        "papal-infallibility",
+        "eastern-orthodox-canon"
+      ],
+      "standing": "significant",
+      "sources": [
+        "ware-orthodox-church",
+        "pelikan-christian-tradition",
+        "meyendorff-imperial-unity"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "papal-infallibility",
+      "doctrineId": "scripture-authority",
+      "name": "Papal primacy and infallibility",
+      "altNames": [
+        "Ultramontanism",
+        "Pastor Aeternus doctrine",
+        "Petrine primacy"
+      ],
+      "oneLine": "The bishop of Rome, as successor of Peter, has full, supreme and universal jurisdiction over the Church, and when he defines ex cathedra a doctrine of faith or morals to be held by the whole Church he is preserved from error by the Holy Spirit.",
+      "coreClaims": [
+        "Christ made Peter the rock and gave him the keys (Matthew 16:18–19), commanded him to strengthen his brethren (Luke 22:32) and feed his sheep (John 21:15–17).",
+        "Peter's primacy continues in the bishops of Rome.",
+        "The pope has ordinary, immediate jurisdiction over all churches and pastors (Pastor Aeternus, ch. 3).",
+        "Ex cathedra definitions are irreformable ‘of themselves, and not from the consent of the Church’ (ch. 4).",
+        "Infallibility is a negative protection, not inspiration or impeccability; it has been formally invoked rarely (e.g. 1854, 1950)."
+      ],
+      "keyTexts": [
+        "Matthew 16:18–19",
+        "Luke 22:31–32",
+        "John 21:15–17",
+        "Acts 15:7–11",
+        "Isaiah 22:22"
+      ],
+      "origin": "Roman primacy appears early (Clement's letter to Corinth c. 96; Irenaeus c. 180; Pope Stephen and Cyprian, 250s); developed by Leo I (‘Peter has spoken through Leo’, 451), Gregory VII (Dictatus papae, 1075) and Boniface VIII (Unam Sanctam, 1302); infallibility discussed by Peter Olivi (c. 1280) and defined at the First Vatican Council (18 July 1870) under Pius IX; set in collegial context by Vatican II (Lumen Gentium, 1964).",
+      "originYear": 1870,
+      "proponentIds": [
+        "leo-i",
+        "gregory-the-great",
+        "pius-ix",
+        "john-paul-ii"
+      ],
+      "proponentsOther": [
+        "Gregory VII",
+        "Innocent III",
+        "Boniface VIII",
+        "Robert Bellarmine",
+        "Henry Edward Manning",
+        "Joseph de Maistre"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-catholic"
+      ],
+      "strongestArguments": [
+        "The Petrine texts give Peter a unique role; the early Church recognised Rome's pre-eminence as the church of Peter and Paul (Irenaeus, Against Heresies 3.3.2).",
+        "A visible church needs a visible principle of unity and a final court of appeal.",
+        "Rome's doctrinal record in the early controversies (Leo's Tome, opposition to monothelitism under Martin I) was remarkably consistent.",
+        "Infallibility is limited in scope and invoked rarely, protecting the Church's unity without making the pope an oracle."
+      ],
+      "strongestObjections": [
+        "Orthodox: Peter's primacy was among equals and did not pass uniquely to Rome; the ecumenical councils, not the pope, settled doctrine (canon 28 of Chalcedon grounded Rome's status in its imperial rank).",
+        "Historical cases such as Pope Honorius I, condemned by Constantinople III (681), suggest popes erred in doctrine.",
+        "Protestants: Matthew 16 refers to Peter's confession or to Peter as an apostle among others; no successor is mentioned.",
+        "Döllinger and the Old Catholics argued it was a historical novelty unknown to the first millennium."
+      ],
+      "responses": [
+        "Catholic historians answer that Honorius wrote as a private theologian, not ex cathedra.",
+        "Development of doctrine (Newman) explains how a primacy present in seed became explicit.",
+        "Vatican II and John Paul II's Ut Unum Sint (1995) invited other churches to discuss how the primacy might be exercised."
+      ],
+      "consequences": [
+        "Old Catholic schism (Utrecht Union, 1889) and the Kulturkampf in Germany.",
+        "Strengthened centralisation of the Catholic Church (ultramontanism) in the 19th–20th centuries.",
+        "A central topic of Catholic–Orthodox dialogue (Ravenna Document, 2007) and of Anglican–Catholic dialogue (ARCIC, The Gift of Authority, 1999)."
+      ],
+      "relatedPositionIds": [
+        "conciliarism",
+        "scripture-and-tradition",
+        "holy-tradition-orthodox"
+      ],
+      "standing": "significant",
+      "sources": [
+        "omalley-vatican-i",
+        "pelikan-christian-tradition",
+        "odcc",
+        "catechism-catholic-church"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "conciliarism",
+      "doctrineId": "scripture-authority",
+      "name": "Conciliarism",
+      "altNames": [
+        "Conciliar theory",
+        "Gallicanism (later, related)",
+        "Febronianism (related)"
+      ],
+      "oneLine": "Supreme authority in the Church resides in a general council representing the whole Church, to which even the pope is subject in matters of faith, schism and reform.",
+      "coreClaims": [
+        "The Church as a whole, not one bishop, is indefectible.",
+        "A general council receives its power directly from Christ and can judge and depose a pope (Haec Sancta, Constance, 1415).",
+        "Councils should meet regularly (Frequens, 1417).",
+        "(Gallicanism, 1682) papal definitions are not irreformable without the consent of the Church."
+      ],
+      "keyTexts": [
+        "Acts 15:6–29",
+        "Matthew 18:17–20",
+        "Galatians 2:11"
+      ],
+      "origin": "Developed from canon lawyers' discussions of a heretical pope, by Marsilius of Padua, William of Ockham, Jean Gerson and Pierre d'Ailly, during the Western Schism (1378–1417); applied at the Council of Constance (1414–18), which deposed rival popes; weakened after the Council of Basel; condemned by Pius II (Execrabilis, 1460) and decisively by Vatican I (1870).",
+      "originYear": 1415,
+      "proponentIds": [
+        "william-of-ockham",
+        "ignaz-von-dollinger"
+      ],
+      "proponentsOther": [
+        "Jean Gerson",
+        "Pierre d'Ailly",
+        "Nicholas of Cusa (early)",
+        "Francesco Zabarella",
+        "Jacques-Bénigne Bossuet (Gallican)"
+      ],
+      "traditionIds": [
+        "catholic",
+        "old-catholic"
+      ],
+      "strongestArguments": [
+        "It ended the Western Schism when three rival popes claimed office.",
+        "The Council of Jerusalem (Acts 15) decided collectively; Paul rebuked Peter (Galatians 2:11).",
+        "It corresponds to the conciliar practice of the first millennium."
+      ],
+      "strongestObjections": [
+        "Papalists argue that councils have no authority without the pope's confirmation.",
+        "Conciliar assemblies (Basel) proved divisive and unworkable.",
+        "Vatican I defined that papal definitions are irreformable of themselves, excluding conciliarism."
+      ],
+      "responses": [
+        "Conciliarists point out that the legitimacy of every later pope rests on Constance's action.",
+        "Vatican II's doctrine of collegiality partially rehabilitated conciliar concerns."
+      ],
+      "consequences": [
+        "Ended the Western Schism (1417).",
+        "Influenced Gallicanism, Old Catholicism and Anglican and Protestant theories of church governance.",
+        "Its defeat prepared the way for papal centralisation."
+      ],
+      "relatedPositionIds": [
+        "papal-infallibility",
+        "holy-tradition-orthodox"
+      ],
+      "standing": "historic",
+      "sources": [
+        "odcc",
+        "pelikan-christian-tradition",
+        "omalley-vatican-i"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "inerrancy",
+      "doctrineId": "scripture-authority",
+      "name": "Biblical inerrancy",
+      "altNames": [
+        "Plenary verbal inspiration",
+        "Full inerrancy",
+        "Chicago Statement position"
+      ],
+      "oneLine": "Because Scripture is breathed out by God, it is without error in all that it affirms — including history and science — in the original manuscripts (autographs).",
+      "coreClaims": [
+        "Inspiration is plenary (all of Scripture) and verbal (extends to the words), working through human authors' personalities.",
+        "God cannot lie; therefore Scripture, as his Word, is wholly true in all it affirms.",
+        "Inerrancy applies strictly to the autographs; copies and translations are reliable to the extent they reflect them.",
+        "Apparent errors are due to copying, misinterpretation or incomplete knowledge, and do not count against inerrancy.",
+        "Denying inerrancy leads to a loss of biblical authority (the ‘slippery slope’)."
+      ],
+      "keyTexts": [
+        "2 Timothy 3:16",
+        "2 Peter 1:20–21",
+        "John 10:35",
+        "Matthew 5:17–18",
+        "Psalm 12:6",
+        "Proverbs 30:5",
+        "Numbers 23:19"
+      ],
+      "origin": "Building on patristic, medieval and Reformation teaching on Scripture's truthfulness, formulated with precision by the Princeton theologians A. A. Hodge and B. B. Warfield (‘Inspiration’, 1881), defended in The Fundamentals (1910–15), and codified by the International Council on Biblical Inerrancy's Chicago Statement (1978).",
+      "originYear": 1881,
+      "proponentIds": [
+        "charles-hodge",
+        "b-b-warfield",
+        "j-i-packer",
+        "billy-graham"
+      ],
+      "proponentsOther": [
+        "A. A. Hodge",
+        "Carl F. H. Henry",
+        "R. C. Sproul",
+        "Norman Geisler",
+        "Harold Lindsell (The Battle for the Bible, 1976)",
+        "Southern Baptist Convention (Baptist Faith and Message 2000)"
+      ],
+      "traditionIds": [
+        "evangelical",
+        "presbyterian",
+        "baptist",
+        "reformed",
+        "pentecostal"
+      ],
+      "strongestArguments": [
+        "Jesus treated Scripture as wholly authoritative: ‘the scripture cannot be broken’ (John 10:35); ‘not one jot or tittle’ (Matthew 5:18).",
+        "Augustine, Aquinas, Luther and Calvin all affirmed that Scripture does not err.",
+        "Without inerrancy, the reader decides which parts are true, making human judgement the final authority.",
+        "Much apparent conflict has been resolved by archaeology and better textual knowledge."
+      ],
+      "strongestObjections": [
+        "The autographs no longer exist, making the claim unfalsifiable and practically irrelevant.",
+        "The texts show phenomena (differing numbers in Kings and Chronicles, Gospel discrepancies) that require strained harmonisation.",
+        "It imposes modern standards of scientific and historical precision on ancient literature.",
+        "Critics argue it is a 19th-century reaction to modernism, more precise than earlier tradition."
+      ],
+      "responses": [
+        "Inerrantists answer that the autographs are recoverable with high confidence through textual criticism.",
+        "The Chicago Statement allows for ancient conventions — round numbers, phenomenological language, topical arrangement — so inerrancy is not modern precision.",
+        "Historians such as John Woodbridge argue that the essence of inerrancy is ancient, not a Princeton invention."
+      ],
+      "consequences": [
+        "Defining issue of North American fundamentalist–modernist conflicts and later evangelical boundary disputes.",
+        "The Southern Baptist Convention's ‘conservative resurgence’ (1979–90s) and the founding of new seminaries.",
+        "Widely held in global evangelical and Pentecostal churches; in tension with young-earth vs old-earth debates."
+      ],
+      "relatedPositionIds": [
+        "limited-inerrancy",
+        "historical-critical-method",
+        "sola-scriptura",
+        "neo-orthodox-word-of-god"
+      ],
+      "standing": "significant",
+      "sources": [
+        "marsden-fundamentalism",
+        "noll-turning-points",
+        "chicago-statement-1978",
+        "mcgrath-historical-theology"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "limited-inerrancy",
+      "doctrineId": "scripture-authority",
+      "name": "Infallibility of purpose (limited inerrancy)",
+      "altNames": [
+        "Infallibilism",
+        "Limited inerrancy",
+        "Soteriological inerrancy"
+      ],
+      "oneLine": "Scripture is fully reliable and authoritative — infallible — in what it intends to teach about God, salvation, faith and life, but need not be free of every incidental error in matters of science, chronology or detail.",
+      "coreClaims": [
+        "The purpose of Scripture is to make us ‘wise unto salvation’ (2 Timothy 3:15).",
+        "Inspiration works through human authors with the knowledge of their time.",
+        "Authority lies in Scripture's divinely intended message, not its incidental details.",
+        "This view allows honest engagement with critical scholarship without loss of faith."
+      ],
+      "keyTexts": [
+        "2 Timothy 3:15–17",
+        "John 20:31",
+        "Romans 15:4",
+        "Hebrews 1:1–2"
+      ],
+      "origin": "Precedents in Augustine's and Calvin's doctrine of accommodation; held by British evangelicals such as James Orr; became prominent at Fuller Theological Seminary, which revised its statement of faith (1971–72); Lausanne Covenant (1974) affirmed Scripture ‘without error in all that it affirms’, a phrase read in both ways. Catholic Dei Verbum 11 speaks of truth ‘for the sake of salvation’.",
+      "originYear": 1971,
+      "proponentIds": [
+        "c-s-lewis",
+        "n-t-wright"
+      ],
+      "proponentsOther": [
+        "James Orr",
+        "Jack Rogers & Donald McKim (The Authority and Interpretation of the Bible, 1979)",
+        "Daniel Fuller",
+        "Peter Enns",
+        "I. Howard Marshall"
+      ],
+      "traditionIds": [
+        "evangelical",
+        "anglican",
+        "methodist",
+        "reformed",
+        "catholic"
+      ],
+      "strongestArguments": [
+        "It matches Scripture's stated purpose: salvation and godliness.",
+        "It takes the human, historical character of the Bible seriously.",
+        "It avoids staking faith on harmonising every detail.",
+        "Dei Verbum 11's wording points in a similar direction for Catholics."
+      ],
+      "strongestObjections": [
+        "Inerrantists: if Scripture errs in history, why trust it about the resurrection, which is a historical claim?",
+        "It is hard to separate ‘salvific’ from ‘incidental’ content consistently.",
+        "Warfield and the Chicago Statement argue that Scripture claims truthfulness in all its parts."
+      ],
+      "responses": [
+        "Proponents answer that genre and authorial intent guide what a text affirms; the resurrection is central to the gospel's intent, unlike, say, numbers in Chronicles.",
+        "They argue the inerrancy–infallibility distinction mirrors the Bible's own unconcern with modern precision."
+      ],
+      "consequences": [
+        "The ‘Battle for the Bible’ in North American evangelicalism (1970s).",
+        "Broadened evangelical engagement with biblical criticism in Britain and elsewhere."
+      ],
+      "relatedPositionIds": [
+        "inerrancy",
+        "historical-critical-method",
+        "neo-orthodox-word-of-god"
+      ],
+      "standing": "significant",
+      "sources": [
+        "marsden-fundamentalism",
+        "bebbington-evangelicalism",
+        "mcgrath-historical-theology"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "historical-critical-method",
+      "doctrineId": "scripture-authority",
+      "name": "Historical (higher) criticism",
+      "altNames": [
+        "Higher criticism",
+        "Historical-critical method",
+        "Documentary hypothesis (Pentateuch)"
+      ],
+      "oneLine": "The Bible should be studied like other ancient literature, with historical and literary methods, to reconstruct its sources, authors, dates and settings — whatever the theological implications.",
+      "coreClaims": [
+        "Biblical books have complex histories of composition and editing (e.g. the J, E, D and P sources of the Pentateuch).",
+        "Texts must be read in their original historical context before theological application.",
+        "Traditional authorship claims (e.g. Moses, Isaiah 40–66, the Pastorals) are open to historical judgement.",
+        "Supernatural claims are assessed with historical methods (in many practitioners, under methodological naturalism)."
+      ],
+      "keyTexts": [
+        "Luke 1:1–4 (use of sources)",
+        "Genesis 1–2 (doublet creation accounts)",
+        "Isaiah 40–55",
+        "Synoptic Gospels (synoptic problem)"
+      ],
+      "origin": "Anticipated by Spinoza (1670) and Richard Simon (1678); developed in German universities by J. S. Semler, J. G. Eichhorn, W. M. L. de Wette, D. F. Strauss (Life of Jesus, 1835), F. C. Baur and Julius Wellhausen (Prolegomena, 1878); entered British debate with Essays and Reviews (1860) and William Robertson Smith's trial (1881).",
+      "originYear": 1878,
+      "proponentIds": [
+        "julius-wellhausen",
+        "rudolf-bultmann",
+        "friedrich-schleiermacher"
+      ],
+      "proponentsOther": [
+        "J. G. Eichhorn",
+        "David Friedrich Strauss",
+        "F. C. Baur",
+        "Hermann Gunkel",
+        "Albert Schweitzer",
+        "Raymond Brown (Catholic)",
+        "Marie-Joseph Lagrange (Catholic)"
+      ],
+      "traditionIds": [
+        "lutheran",
+        "reformed",
+        "anglican",
+        "catholic"
+      ],
+      "strongestArguments": [
+        "It takes seriously that God's Word came through real human history and languages.",
+        "It explains features of the texts (doublets, differing names for God, Synoptic parallels) better than traditional authorship assumptions.",
+        "Its tools have greatly advanced understanding of ancient contexts, languages and textual history.",
+        "Catholic teaching (Divino Afflante Spiritu, 1943; Dei Verbum, 1965) endorses its responsible use."
+      ],
+      "strongestObjections": [
+        "When joined to methodological naturalism, it excludes divine action in advance, prejudging miracles and prophecy.",
+        "Its hypotheses shift and sometimes reflect the scholar's own assumptions (e.g. Wellhausen's evolutionary view of religion).",
+        "It can fragment the text, losing its canonical unity and theological message.",
+        "Conservative critics argue it contributed to declining confidence in Scripture in Western churches."
+      ],
+      "responses": [
+        "Practitioners distinguish the method from naturalistic presuppositions; many believing scholars use it.",
+        "Canonical criticism (Brevard Childs) and theological interpretation seek to integrate critical findings with the final form of the text."
+      ],
+      "consequences": [
+        "The modernist–fundamentalist controversy and heresy trials (Robertson Smith 1881, Briggs 1893).",
+        "Catholic Modernist crisis (Pascendi, 1907) followed by gradual acceptance (1943, 1965).",
+        "Standard method in university biblical studies worldwide."
+      ],
+      "relatedPositionIds": [
+        "inerrancy",
+        "limited-inerrancy",
+        "neo-orthodox-word-of-god"
+      ],
+      "standing": "significant",
+      "sources": [
+        "mcgrath-historical-theology",
+        "marsden-fundamentalism",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "wesleyan-quadrilateral",
+      "doctrineId": "scripture-authority",
+      "name": "Wesleyan quadrilateral",
+      "altNames": [
+        "Prima scriptura",
+        "Methodist quadrilateral"
+      ],
+      "oneLine": "Scripture is primary, but it is interpreted with the help of tradition (especially the early church), reason, and Christian experience of the Spirit's work.",
+      "coreClaims": [
+        "Scripture is the primary and final authority (‘a man of one book’).",
+        "Christian antiquity and the Church of England's formularies help read Scripture rightly.",
+        "Reason is God's gift for understanding and applying Scripture.",
+        "Experience, especially the witness of the Spirit and assurance, confirms Scripture's truth in the believer's life."
+      ],
+      "keyTexts": [
+        "Romans 8:16",
+        "1 Thessalonians 5:21",
+        "Acts 17:11",
+        "2 Timothy 3:16"
+      ],
+      "origin": "Implicit in John Wesley's sermons and writings (1740s–1780s), building on Anglican appeals to Scripture, reason and tradition (Richard Hooker); named and systematised by Albert Outler in the 1960s and adopted in the United Methodist Book of Discipline (1972; revised 1988 to stress Scripture's primacy).",
+      "originYear": 1746,
+      "proponentIds": [
+        "john-wesley",
+        "albert-outler"
+      ],
+      "proponentsOther": [
+        "Richard Hooker (Anglican triad)",
+        "Thomas Oden",
+        "Randy Maddox"
+      ],
+      "traditionIds": [
+        "methodist",
+        "holiness-movement",
+        "anglican",
+        "pentecostal"
+      ],
+      "strongestArguments": [
+        "It describes how believers actually interpret Scripture.",
+        "It values the Spirit's present work while keeping Scripture primary.",
+        "It encourages a generous, ecumenical reading of the church's tradition."
+      ],
+      "strongestObjections": [
+        "The geometric image suggests four equal authorities; experience and reason can override Scripture in practice (Outler himself regretted the term).",
+        "Experience is subjective and culturally shaped.",
+        "Reformed critics see it as a departure from sola scriptura."
+      ],
+      "responses": [
+        "Methodists emphasise that Scripture is primary and the others are interpretive aids, as the 1988 revision of the Discipline states.",
+        "Wesley tested experience by Scripture throughout his ministry."
+      ],
+      "consequences": [
+        "Shaped Methodist, Holiness and Pentecostal hermeneutics.",
+        "Became a focal point in recent United Methodist debates on sexuality and authority (leading to the 2022–24 separations)."
+      ],
+      "relatedPositionIds": [
+        "sola-scriptura",
+        "inner-light",
+        "scripture-and-tradition"
+      ],
+      "standing": "significant",
+      "sources": [
+        "heitzenrater-wesley",
+        "noll-turning-points",
+        "abraham-canon-criterion"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "neo-orthodox-word-of-god",
+      "doctrineId": "scripture-authority",
+      "name": "Neo-orthodox view: Scripture as witness to the Word",
+      "altNames": [
+        "Dialectical theology",
+        "Barthian doctrine of Scripture",
+        "Threefold form of the Word"
+      ],
+      "oneLine": "The Word of God is primarily Jesus Christ; Scripture is the human witness to him, which becomes God's Word when God speaks through it, and preaching is the Word proclaimed.",
+      "coreClaims": [
+        "Revelation is God's self-revelation in Christ, not information in propositions.",
+        "Scripture is a fully human, fallible witness that God freely uses to speak.",
+        "The Bible ‘becomes’ the Word of God in the event of revelation by the Spirit.",
+        "Natural theology and religious experience cannot reach God; only God's free revelation can."
+      ],
+      "keyTexts": [
+        "John 1:1–14",
+        "Hebrews 1:1–2",
+        "John 5:39",
+        "2 Corinthians 4:6"
+      ],
+      "origin": "Karl Barth's Epistle to the Romans (1919/1922) and Church Dogmatics I/1–2 (1932–38), with Emil Brunner and the Barmen Declaration (1934), in reaction against liberal theology.",
+      "originYear": 1932,
+      "proponentIds": [
+        "karl-barth",
+        "dietrich-bonhoeffer",
+        "thomas-f-torrance"
+      ],
+      "proponentsOther": [
+        "Emil Brunner",
+        "Eduard Thurneysen",
+        "Reinhold Niebuhr (related)"
+      ],
+      "traditionIds": [
+        "reformed",
+        "lutheran",
+        "presbyterian"
+      ],
+      "strongestArguments": [
+        "It centres authority on Christ himself, as the Bible does.",
+        "It accepts critical scholarship while recovering a strong doctrine of revelation.",
+        "Its resistance to Nazi ideology (Barmen, 1934) showed the force of confessing Christ as the one Word of God."
+      ],
+      "strongestObjections": [
+        "Evangelicals argue it makes Scripture's authority dependent on an event, not intrinsic to the text.",
+        "Liberals argue it is an arbitrary fideism that refuses rational scrutiny.",
+        "Catholic and Orthodox critics see it as lacking an account of the church's role in interpretation."
+      ],
+      "responses": [
+        "Barthians answer that Scripture's authority is God's free, faithful use of it — a fact grounded in God, not in the reader's experience.",
+        "They argue that recognising the Bible's humanity honours the incarnational pattern of revelation."
+      ],
+      "consequences": [
+        "Dominant in mid-20th-century Protestant theology and ecumenism.",
+        "Influenced the Barmen Declaration and the Confessing Church.",
+        "Renewed interest in Barth's theology of Scripture among some evangelicals."
+      ],
+      "relatedPositionIds": [
+        "sola-scriptura",
+        "inerrancy",
+        "historical-critical-method"
+      ],
+      "standing": "significant",
+      "sources": [
+        "mcgrath-historical-theology",
+        "noll-turning-points"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "inner-light",
+      "doctrineId": "scripture-authority",
+      "name": "The Inner Light (Quaker)",
+      "altNames": [
+        "Inward Light",
+        "Light of Christ within",
+        "Spiritualist Reformation (Schwenckfeld, Franck)"
+      ],
+      "oneLine": "Christ, the Light who enlightens everyone (John 1:9), speaks directly in the heart; the Spirit who gave the Scriptures is the primary authority, and Scripture is a true but secondary rule.",
+      "coreClaims": [
+        "Immediate revelation by the Spirit continues and is available to all.",
+        "Scriptures are a declaration of the source, not the source itself (Barclay, Apology, Proposition 3).",
+        "Discernment takes place in the gathered meeting waiting in silence.",
+        "Outward rites and a paid ministry are unnecessary."
+      ],
+      "keyTexts": [
+        "John 1:9",
+        "John 16:13",
+        "Jeremiah 31:33–34",
+        "1 John 2:27",
+        "Joel 2:28"
+      ],
+      "origin": "Anticipated by Spiritualist reformers (Caspar Schwenckfeld, Sebastian Franck); founded by George Fox's preaching (from 1647; Pendle Hill vision 1652) and systematised by Robert Barclay's Apology (1676).",
+      "originYear": 1652,
+      "proponentIds": [
+        "george-fox"
+      ],
+      "proponentsOther": [
+        "Robert Barclay",
+        "William Penn",
+        "Margaret Fell",
+        "Caspar Schwenckfeld",
+        "Sebastian Franck"
+      ],
+      "traditionIds": [
+        "quaker"
+      ],
+      "strongestArguments": [
+        "It honours the promise that the Spirit will guide into all truth and write God's law on hearts.",
+        "It avoids bibliolatry and clerical control of interpretation.",
+        "It produced remarkable ethical fruit: early Quaker leadership in abolition, prison reform and peace witness."
+      ],
+      "strongestObjections": [
+        "Without Scripture as a final check, private revelation becomes subjective and divisive (the James Nayler episode, 1656).",
+        "Reformers argued that the Spirit binds himself to the Word.",
+        "Later liberal Quakerism moved far from Christian orthodoxy, which critics attribute to this principle."
+      ],
+      "responses": [
+        "Early Quakers held that the Spirit never contradicts the Scriptures, and practised corporate discernment.",
+        "Evangelical Friends emphasise Scripture alongside the Light."
+      ],
+      "consequences": [
+        "Quaker silent worship and non-hierarchical governance.",
+        "Influenced Pentecostal and charismatic emphasis on immediate guidance, and liberal religious individualism."
+      ],
+      "relatedPositionIds": [
+        "sola-scriptura",
+        "wesleyan-quadrilateral"
+      ],
+      "standing": "minority",
+      "sources": [
+        "dandelion-quakers",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "marcionite-canon",
+      "doctrineId": "scripture-authority",
+      "name": "Marcionite canon",
+      "altNames": [
+        "Marcionism (scriptural aspect)"
+      ],
+      "oneLine": "Christian Scripture should consist only of an edited Gospel (Luke) and ten letters of Paul, purged of Jewish ‘interpolations’; the Old Testament belongs to the lesser Creator-God, not the Father of Jesus.",
+      "coreClaims": [
+        "The God of the Law (just, wrathful) is different from the good Father revealed by Jesus.",
+        "Only Paul truly understood the gospel; the other apostles judaised it.",
+        "The Gospel and Paul's letters must be corrected to remove Jewish additions.",
+        "The Old Testament is not Christian Scripture."
+      ],
+      "keyTexts": [
+        "Galatians 1:6–9",
+        "Galatians 2:11–14",
+        "Luke 5:36–39",
+        "2 Corinthians 4:4"
+      ],
+      "origin": "Marcion of Sinope, a wealthy shipowner, was excluded from the Roman church in 144 and founded a widespread church with its own canon (Euangelion and Apostolikon) and Antitheses.",
+      "originYear": 144,
+      "proponentIds": [
+        "marcion"
+      ],
+      "proponentsOther": [
+        "Apelles",
+        "Marcionite churches (extant in Syria into the 5th century)"
+      ],
+      "traditionIds": [
+        "marcionite"
+      ],
+      "strongestArguments": [
+        "It took seriously the newness of the gospel and Paul's contrast between law and grace.",
+        "It solved, in its own way, the moral difficulties of some Old Testament texts.",
+        "It offered a clear, fixed list of authoritative books."
+      ],
+      "strongestObjections": [
+        "Jesus and the apostles constantly appealed to the Old Testament as God's Word.",
+        "Its ‘corrections’ are arbitrary editing (Tertullian: he used ‘the knife, not the pen’).",
+        "Separating Creator from Redeemer undermines the goodness of creation and the incarnation."
+      ],
+      "responses": [
+        "Marcionites claimed their texts were the original, uncorrupted versions."
+      ],
+      "consequences": [
+        "Spurred the mainstream church to define its own canon of both Testaments.",
+        "Adolf von Harnack (1921) controversially suggested the church might drop the Old Testament — an idea repudiated, especially after the Holocaust."
+      ],
+      "relatedPositionIds": [
+        "protestant-canon",
+        "catholic-deuterocanon"
+      ],
+      "standing": "rejected-by-councils",
+      "sources": [
+        "harnack-marcion",
+        "metzger-canon",
+        "kelly-doctrines"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "protestant-canon",
+      "doctrineId": "scripture-authority",
+      "name": "Protestant canon (66 books)",
+      "altNames": [
+        "Hebrew canon (Old Testament)",
+        "Jerome's canon"
+      ],
+      "oneLine": "The Old Testament canon is the 39 books of the Hebrew Bible (the 24 books of the Jewish canon, counted differently); the deuterocanonical books (‘Apocrypha’) may be read for example of life but not to establish doctrine.",
+      "coreClaims": [
+        "The Old Testament canon is that of the Jewish people, to whom were entrusted ‘the oracles of God’ (Romans 3:2).",
+        "Jesus' reference to ‘the law, the prophets and the psalms’ reflects the Hebrew canon.",
+        "Jerome and other Fathers distinguished canonical from ecclesiastical books.",
+        "The New Testament canon is the 27 books shared by all major traditions.",
+        "The Apocrypha is useful (Luther, Thirty-Nine Articles 6) or merely human (Westminster 1.3)."
+      ],
+      "keyTexts": [
+        "Romans 3:2",
+        "Luke 24:44",
+        "Luke 11:51",
+        "2 Timothy 3:16"
+      ],
+      "origin": "Based on Jerome's ‘Hebrew verity’; Luther's Bible (1534) placed the Apocrypha in an appendix; Reformed confessions (Gallican 1559, Belgic 1561, Westminster 1647) excluded it from the canon; the British and Foreign Bible Society stopped printing it in 1826.",
+      "originYear": 1534,
+      "proponentIds": [
+        "jerome",
+        "martin-luther",
+        "john-calvin"
+      ],
+      "proponentsOther": [
+        "Andreas Karlstadt (De canonicis scripturis, 1520)",
+        "Cardinal Cajetan (sympathetic to Jerome's view)",
+        "Westminster Assembly"
+      ],
+      "traditionIds": [
+        "lutheran",
+        "reformed",
+        "presbyterian",
+        "anglican",
+        "baptist",
+        "methodist",
+        "evangelical",
+        "pentecostal"
+      ],
+      "strongestArguments": [
+        "It matches the canon of first-century Judaism as reflected by Josephus (Against Apion 1.8) and the Hebrew Bible.",
+        "Many Fathers (Melito, Origen's Hebrew list, Athanasius, Jerome, Gregory the Great) distinguished the extra books.",
+        "Some apocryphal books contain teaching (prayers for the dead in 2 Maccabees 12) Protestants believe conflicts with Scripture."
+      ],
+      "strongestObjections": [
+        "The early church's Bible was the Septuagint, which included the deuterocanonical books; New Testament writers allude to Wisdom and Sirach.",
+        "Councils (Hippo, Carthage) and most Western Fathers, including Augustine, accepted the broader canon.",
+        "Luther's critique of James, Hebrews, Jude and Revelation shows doctrinal criteria shaping canon decisions."
+      ],
+      "responses": [
+        "Protestants answer that the regional councils of Hippo and Carthage were not ecumenical and that Jerome and others dissented.",
+        "Allusion does not establish canonicity (Jude cites 1 Enoch, which most do not accept)."
+      ],
+      "consequences": [
+        "A visible difference in Bibles between Protestants and Catholics/Orthodox.",
+        "Doctrinal disputes over purgatory and prayers for the dead partly depend on it."
+      ],
+      "relatedPositionIds": [
+        "catholic-deuterocanon",
+        "eastern-orthodox-canon",
+        "ethiopian-canon",
+        "sola-scriptura"
+      ],
+      "standing": "majority",
+      "sources": [
+        "metzger-canon",
+        "bruce-canon",
+        "mcdonald-canon"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "catholic-deuterocanon",
+      "doctrineId": "scripture-authority",
+      "name": "Catholic canon (73 books, with the deuterocanon)",
+      "altNames": [
+        "Tridentine canon",
+        "Septuagint-based canon"
+      ],
+      "oneLine": "The canon includes Tobit, Judith, Wisdom, Sirach, Baruch, 1–2 Maccabees and Greek additions to Esther and Daniel as fully inspired Scripture, as defined at Trent.",
+      "coreClaims": [
+        "The deuterocanonical books were part of the Septuagint used by the apostolic church.",
+        "The church's tradition, councils (Rome 382 per the Decretum Gelasianum's attribution, Hippo 393, Carthage 397, Florence 1442) and Trent (1546) recognised them.",
+        "The church, not the Jewish rabbinate after Christ, determines the Christian canon."
+      ],
+      "keyTexts": [
+        "2 Maccabees 12:43–46",
+        "Wisdom 2:12–20 (cf. Matthew 27:43)",
+        "Sirach 28:2 (cf. Matthew 6:14)",
+        "Hebrews 11:35 (cf. 2 Maccabees 7)"
+      ],
+      "origin": "Augustine and the North African councils; Pope Innocent I's letter to Exsuperius (405); the Council of Florence (Decree for the Copts, 1442); defined dogmatically at Trent, Session IV (1546).",
+      "originYear": 1546,
+      "proponentIds": [
+        "augustine-of-hippo"
+      ],
+      "proponentsOther": [
+        "Pope Innocent I",
+        "Council of Trent",
+        "Robert Bellarmine"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-catholic"
+      ],
+      "strongestArguments": [
+        "It reflects the Bible actually used by most early Christians.",
+        "Hebrews 11:35 appears to refer to the martyrs of 2 Maccabees 7.",
+        "Continuity with the broad Western consensus from Augustine to the Reformation."
+      ],
+      "strongestObjections": [
+        "Jerome, Gregory the Great and Cardinal Cajetan doubted the books' canonicity.",
+        "Jesus and the apostles never cite them explicitly as Scripture.",
+        "Trent defined the canon in a polemical context, after a millennium of ambiguity."
+      ],
+      "responses": [
+        "Catholics answer that Jerome deferred to the church's judgement and translated the books.",
+        "The absence of explicit citation also applies to several protocanonical books (Esther, Song of Songs)."
+      ],
+      "consequences": [
+        "Catholic Bibles include 73 books; doctrinal support for prayers for the dead and purgatory.",
+        "Ecumenical Bibles (e.g. NRSV) print the deuterocanon in a separate section."
+      ],
+      "relatedPositionIds": [
+        "protestant-canon",
+        "eastern-orthodox-canon",
+        "scripture-and-tradition"
+      ],
+      "standing": "majority",
+      "sources": [
+        "metzger-canon",
+        "mcdonald-canon",
+        "catechism-catholic-church"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "eastern-orthodox-canon",
+      "doctrineId": "scripture-authority",
+      "name": "Eastern Orthodox canon (Septuagint-based, broader)",
+      "altNames": [
+        "Anagignoskomena (‘books to be read’)"
+      ],
+      "oneLine": "The Old Testament follows the Septuagint, including the Catholic deuterocanon plus 1 Esdras, 3 Maccabees, the Prayer of Manasseh and Psalm 151 (with 4 Maccabees in an appendix); the canon has never been closed by a single ecumenical decree.",
+      "coreClaims": [
+        "The Septuagint is the Church's Old Testament, used by the apostles.",
+        "The ‘readable’ books (anagignoskomena) are received for reading in church, with some theological distinction from the Hebrew-canon books in some Orthodox writers.",
+        "The canon is defined by liturgical use and conciliar reception (Trullo 692; Synod of Jerusalem 1672)."
+      ],
+      "keyTexts": [
+        "Luke 24:44",
+        "Hebrews 11:35"
+      ],
+      "origin": "Inherited Byzantine practice; affirmed by the Council in Trullo (692), which endorsed earlier lists, and the Synod of Jerusalem (1672) against Protestant views.",
+      "originYear": 692,
+      "proponentIds": [
+        "john-of-damascus"
+      ],
+      "proponentsOther": [
+        "Synod of Jerusalem (Dositheus of Jerusalem)",
+        "Greek and Russian Synodal Bibles"
+      ],
+      "traditionIds": [
+        "eastern-orthodox",
+        "russian-orthodox"
+      ],
+      "strongestArguments": [
+        "Continuity with the Septuagint of the apostolic church and Byzantine liturgy.",
+        "It reflects a canon shaped by worship rather than polemics."
+      ],
+      "strongestObjections": [
+        "The lack of a precise, universal list leaves ambiguity.",
+        "Protestants raise the same objections as to the Catholic deuterocanon."
+      ],
+      "responses": [
+        "Orthodox writers argue that the Church's lived use is a sufficient criterion and that precision is a Western concern."
+      ],
+      "consequences": [
+        "Orthodox Bibles differ slightly among Greek, Slavonic and Georgian traditions."
+      ],
+      "relatedPositionIds": [
+        "catholic-deuterocanon",
+        "protestant-canon",
+        "ethiopian-canon",
+        "holy-tradition-orthodox"
+      ],
+      "standing": "significant",
+      "sources": [
+        "mcdonald-canon",
+        "ware-orthodox-church"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "ethiopian-canon",
+      "doctrineId": "scripture-authority",
+      "name": "Ethiopian Orthodox Tewahedo canon (81 books)",
+      "altNames": [
+        "Broader canon",
+        "Narrower and broader canons of Ethiopia"
+      ],
+      "oneLine": "The Ethiopian Orthodox Tewahedo Church receives 81 books, including 1 Enoch, Jubilees, the Ethiopian books of Meqabyan and, in the broader canon, church-order books such as the Sinodos and Ethiopic Clement.",
+      "coreClaims": [
+        "1 Enoch and Jubilees are inspired Scripture (Jude 14–15 quotes 1 Enoch).",
+        "The canon of 81 books is counted in a ‘narrower’ form (46 OT + 35 NT including church orders, in some reckonings) and a ‘broader’ form; lists vary.",
+        "The Ge'ez Bible, translated from the 4th–6th centuries, preserves texts lost elsewhere."
+      ],
+      "keyTexts": [
+        "Jude 14–15 (citing 1 Enoch 1:9)",
+        "1 Enoch",
+        "Jubilees"
+      ],
+      "origin": "Christianity reached Aksum under Frumentius (c. 330) and King Ezana; Ge'ez translations by the 5th–6th centuries (traditionally the ‘Nine Saints’ from Syria); 1 Enoch and Jubilees survive complete only in Ge'ez.",
+      "originYear": 500,
+      "proponentIds": [
+        "frumentius"
+      ],
+      "proponentsOther": [
+        "The Nine Saints (traditional)",
+        "Ethiopian scribal tradition",
+        "Eritrean Orthodox Tewahedo Church"
+      ],
+      "traditionIds": [
+        "ethiopian-orthodox-tewahedo"
+      ],
+      "strongestArguments": [
+        "1 Enoch is quoted in Jude and was widely read in Second Temple Judaism and early Christianity (e.g. Epistle of Barnabas, Tertullian).",
+        "It preserves an independent, ancient African Christian tradition.",
+        "It shows the canon was received in different communities with different breadth."
+      ],
+      "strongestObjections": [
+        "Most other churches did not accept Enoch or Jubilees, and some early writers rejected them.",
+        "The inclusion of church-order books blurs the line between Scripture and canon law.",
+        "The list is not uniform in practice."
+      ],
+      "responses": [
+        "Ethiopian scholars answer that the canon reflects early Christian usage that other churches later narrowed."
+      ],
+      "consequences": [
+        "Ethiopia preserved Enoch and Jubilees for world scholarship (European rediscovery via James Bruce, 1773).",
+        "A distinctive African biblical heritage shaping Ethiopian liturgy, art and identity."
+      ],
+      "relatedPositionIds": [
+        "eastern-orthodox-canon",
+        "catholic-deuterocanon",
+        "protestant-canon"
+      ],
+      "standing": "minority",
+      "sources": [
+        "cowley-ethiopian-canon",
+        "mcdonald-canon",
+        "isichei-africa"
+      ],
+      "confidence": "debated"
+    }
+  ],
+  "controversies": [
+    {
+      "id": "sola-scriptura-vs-tradition",
+      "title": "Sola scriptura vs Scripture and Tradition",
+      "question": "Is Scripture alone the final, infallible rule of faith — or is it received, interpreted and complemented by Tradition and the Church's teaching authority?",
+      "summary": "The central authority debate of the Reformation. Protestants held that Scripture alone is the infallible norm; Trent defined that revelation is transmitted in Scripture and unwritten traditions, interpreted by the Church; the Orthodox present Scripture as the heart of a living Holy Tradition. Modern dialogue has narrowed the gap but not closed it.",
+      "doctrineIds": [
+        "scripture-authority"
+      ],
+      "sides": [
+        {
+          "name": "Sola scriptura (Protestant)",
+          "positionId": "sola-scriptura",
+          "steelman": "God has spoken, and his speech is written down. Councils and popes have erred and contradicted one another; only Scripture is God-breathed. We honour the creeds and the Fathers, but as witnesses who stand under the Word, not over it. When the church is corrupt, it must be reformed by the Word that created it — as Josiah's reform began with a rediscovered book.",
+          "arguments": [
+            "Only Scripture is inspired (2 Timothy 3:16).",
+            "Jesus judged traditions by Scripture (Mark 7:8–13).",
+            "Popes and councils have contradicted one another.",
+            "The Spirit enables believers to understand Scripture's clear message."
+          ],
+          "counterArguments": [
+            "The canon was recognised by tradition.",
+            "Protestant fragmentation shows the need for an authoritative interpreter."
+          ],
+          "keyTexts": [
+            "2 Timothy 3:15–17",
+            "Mark 7:8–13",
+            "Acts 17:11",
+            "Galatians 1:8",
+            "Isaiah 8:20"
+          ],
+          "quoteIds": [
+            "luther-worms-conscience",
+            "wesley-homo-unius-libri"
+          ]
+        },
+        {
+          "name": "Scripture and Tradition (Catholic)",
+          "positionId": "scripture-and-tradition",
+          "steelman": "The Church came before the New Testament; the apostles handed on the gospel by word and letter, and they appointed successors to guard it. Scripture is the supreme written witness, but it does not interpret itself — every Protestant body proves this by its confessions. The same Spirit who inspired the Scriptures guides the Church that recognised them and teaches them faithfully through the bishops in communion with Peter's successor.",
+          "arguments": [
+            "2 Thessalonians 2:15 commends both oral and written tradition.",
+            "The church is ‘the pillar and ground of the truth’ (1 Timothy 3:15).",
+            "The canon itself is a datum of tradition.",
+            "A living magisterium preserves unity of doctrine."
+          ],
+          "counterArguments": [
+            "Doctrines without clear biblical warrant (Marian dogmas) have been made binding.",
+            "Tradition is diverse and has contained errors."
+          ],
+          "keyTexts": [
+            "2 Thessalonians 2:15",
+            "1 Timothy 3:15",
+            "Matthew 16:18–19",
+            "John 16:13",
+            "Acts 15:28"
+          ],
+          "quoteIds": [
+            "augustine-gospel-church-authority",
+            "vincent-everywhere-always",
+            "irenaeus-rome-preeminent"
+          ]
+        },
+        {
+          "name": "Holy Tradition (Orthodox)",
+          "positionId": "holy-tradition-orthodox",
+          "steelman": "To set Scripture and Tradition against each other is a Western question. Tradition is the life of the Holy Spirit in the Church; Scripture is its supreme written expression, read in the liturgy, illumined by the Fathers and safeguarded by councils received by the whole people of God. No single bishop is its guarantor — the Spirit is.",
+          "arguments": [
+            "Basil: written and unwritten traditions have the same force.",
+            "The liturgy and councils embody the Church's reading of Scripture.",
+            "Authority is conciliar, not monarchical."
+          ],
+          "counterArguments": [
+            "Without a final arbiter, disputes cannot be settled.",
+            "Tradition cannot be corrected by Scripture if Scripture is only read within it."
+          ],
+          "keyTexts": [
+            "John 16:13",
+            "1 John 2:20–27",
+            "Acts 15:28"
+          ],
+          "quoteIds": [
+            "basil-unwritten-tradition"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 180,
+          "text": "Irenaeus appeals to Scripture, the rule of faith and apostolic succession against Gnostics."
+        },
+        {
+          "year": 434,
+          "text": "Vincent of Lérins' Commonitorium: ‘everywhere, always, by all’."
+        },
+        {
+          "year": 1378,
+          "text": "Wycliffe's On the Truth of Holy Scripture."
+        },
+        {
+          "year": 1521,
+          "text": "Luther at the Diet of Worms refuses to recant without proof from Scripture and reason.",
+          "eventId": "diet-of-worms-1521"
+        },
+        {
+          "year": 1546,
+          "text": "Council of Trent, Session IV: Scripture and unwritten traditions.",
+          "eventId": "council-of-trent-1545"
+        },
+        {
+          "year": 1647,
+          "text": "Westminster Confession, chapter 1, articulates Scripture's sufficiency.",
+          "eventId": "westminster-assembly-1643"
+        },
+        {
+          "year": 1672,
+          "text": "Synod of Jerusalem sets out Orthodox teaching against Calvinist positions."
+        },
+        {
+          "year": 1845,
+          "text": "Newman's Essay on the Development of Christian Doctrine."
+        },
+        {
+          "year": 1963,
+          "text": "Faith and Order (Montreal): ‘Scripture, Tradition and traditions’ — Protestants and Orthodox recognise the role of Tradition."
+        },
+        {
+          "year": 1965,
+          "text": "Vatican II's Dei Verbum: one sacred deposit; Magisterium serves the Word.",
+          "eventId": "second-vatican-council-1962"
+        }
+      ],
+      "resolution": {
+        "kind": "open",
+        "text": "Unresolved, though softened: Protestants increasingly value tradition as a ministerial authority, and Catholics since Dei Verbum emphasise Scripture's primacy and the material sufficiency of Scripture is debated within Catholic theology. The question of who has authority to interpret remains the key difference."
+      },
+      "consequences": [
+        "The fundamental divide between Protestant and Catholic/Orthodox understandings of authority.",
+        "Shaped vernacular Bible translation, catechesis and preaching in every tradition.",
+        "Continuing ecumenical dialogue (Faith and Order; Lutheran–Catholic; Evangelicals and Catholics Together)."
+      ],
+      "sources": [
+        "pelikan-christian-tradition",
+        "mcgrath-historical-theology",
+        "macculloch-reformation",
+        "ware-orthodox-church"
+      ]
+    },
+    {
+      "id": "papal-infallibility-controversy",
+      "title": "Papal infallibility",
+      "question": "Can the bishop of Rome, speaking ex cathedra, define doctrine infallibly — and does he hold universal jurisdiction over the Church?",
+      "summary": "Debated in medieval canon law, the conciliar movement and Gallicanism, papal infallibility was defined at Vatican I (1870) amid fierce opposition from a minority who left the council before the vote. It remains a principal obstacle in Catholic dialogue with Orthodox, Anglican and Protestant churches.",
+      "doctrineIds": [
+        "scripture-authority",
+        "church-sacraments"
+      ],
+      "sides": [
+        {
+          "name": "Ultramontane / Vatican I",
+          "positionId": "papal-infallibility",
+          "steelman": "Christ prayed that Peter's faith would not fail and charged him to strengthen his brethren. The Roman see, where Peter and Paul died, has been the touchstone of orthodoxy from Irenaeus to Leo's Tome. In an age of revolution and unbelief, the Church needs a sure voice. Infallibility is not a power to invent doctrine but a promise that the successor of Peter, when he solemnly defines what the Church has always believed, will not lead it into error.",
+          "arguments": [
+            "Matthew 16:18–19; Luke 22:32; John 21:15–17.",
+            "Irenaeus: every church must agree with Rome because of its pre-eminent authority.",
+            "Rome's consistent orthodoxy in the early controversies.",
+            "Unity requires a final, visible authority."
+          ],
+          "counterArguments": [
+            "Pope Honorius I was condemned for heresy by an ecumenical council.",
+            "The first millennium settled doctrine by councils."
+          ],
+          "keyTexts": [
+            "Matthew 16:18–19",
+            "Luke 22:31–32",
+            "John 21:15–17"
+          ],
+          "quoteIds": [
+            "pius-ix-ex-cathedra",
+            "irenaeus-rome-preeminent"
+          ]
+        },
+        {
+          "name": "Minority bishops and Old Catholics",
+          "positionId": "conciliarism",
+          "steelman": "We revere the Holy See, but history is a stubborn witness. The ancient Church decided doctrine in councils; Pope Honorius was condemned; the Council of Constance judged popes. To declare papal definitions irreformable ‘of themselves, and not from the consent of the Church’ is a novelty unknown to the Fathers, and it will drive away the separated churches of East and West.",
+          "arguments": [
+            "Historical counter-examples (Honorius, Liberius, Vigilius).",
+            "Constance's decrees and conciliar tradition.",
+            "Inopportunism: the definition would hinder reunion and inflame states."
+          ],
+          "counterArguments": [
+            "Those popes did not speak ex cathedra.",
+            "Constance's superiority decrees were never confirmed by a legitimate pope."
+          ],
+          "keyTexts": [
+            "Acts 15:6–29",
+            "Galatians 2:11"
+          ],
+          "quoteIds": [
+            "dollinger-cannot-accept"
+          ]
+        },
+        {
+          "name": "Eastern Orthodox",
+          "positionId": "holy-tradition-orthodox",
+          "steelman": "Rome was first among equal sister churches, honoured as the ancient capital and the church of Peter and Paul. But infallibility belongs to the whole Church in the Holy Spirit, expressed by ecumenical councils received by the people of God. A single bishop's universal jurisdiction contradicts the canons and the ecclesiology of the first millennium.",
+          "arguments": [
+            "Canon 28 of Chalcedon grounds Rome's rank in its imperial status.",
+            "The Encyclical of the Eastern Patriarchs (1848): the guardian of faith is the whole body of the Church.",
+            "Each local church under its bishop is the full Church."
+          ],
+          "counterArguments": [
+            "The Orthodox cannot themselves convene an ecumenical council without a centre of unity.",
+            "Early popes intervened in Eastern disputes with acknowledged authority."
+          ],
+          "keyTexts": [
+            "Matthew 18:18",
+            "Acts 15:28",
+            "1 Peter 5:1–4"
+          ],
+          "quoteIds": []
+        }
+      ],
+      "timeline": [
+        {
+          "year": 451,
+          "text": "Chalcedon acclaims Leo's Tome but grants Constantinople privileges equal to Rome (canon 28).",
+          "eventId": "council-of-chalcedon-451"
+        },
+        {
+          "year": 681,
+          "text": "Constantinople III anathematises Pope Honorius I.",
+          "eventId": "third-council-of-constantinople-681"
+        },
+        {
+          "year": 1302,
+          "text": "Boniface VIII, Unam Sanctam."
+        },
+        {
+          "year": 1415,
+          "text": "Council of Constance, Haec Sancta.",
+          "eventId": "council-of-constance-1414"
+        },
+        {
+          "year": 1682,
+          "text": "Gallican Articles: papal judgements not irreformable without the Church's consent."
+        },
+        {
+          "year": 1870,
+          "text": "Vatican I defines papal primacy and infallibility (Pastor Aeternus, 18 July).",
+          "eventId": "first-vatican-council-1870"
+        },
+        {
+          "year": 1871,
+          "text": "Döllinger excommunicated; Old Catholic movement organises (Utrecht Union 1889)."
+        },
+        {
+          "year": 1950,
+          "text": "Pius XII defines the Assumption ex cathedra.",
+          "eventId": "assumption-dogma-1950"
+        },
+        {
+          "year": 1964,
+          "text": "Vatican II's Lumen Gentium places the papacy within the college of bishops.",
+          "eventId": "second-vatican-council-1962"
+        },
+        {
+          "year": 1995,
+          "text": "John Paul II's Ut Unum Sint invites dialogue on the exercise of primacy."
+        },
+        {
+          "year": 2007,
+          "text": "Catholic–Orthodox Ravenna Document on conciliarity and authority."
+        }
+      ],
+      "resolution": {
+        "kind": "mixed",
+        "text": "Defined as Catholic dogma (1870), producing the small Old Catholic schism. Rejected by Orthodox, Oriental Orthodox, Anglican and Protestant churches. Since Vatican II, dialogue has focused on how a universal primacy might be exercised in service of unity (Ut Unum Sint, Ravenna 2007, the 2024 Dicastery document ‘The Bishop of Rome’)."
+      },
+      "consequences": [
+        "Old Catholic churches formed in Germany, Switzerland and Austria; Kulturkampf in Prussia.",
+        "Centralisation of Catholic authority in the 20th century.",
+        "A central agenda item in all Catholic ecumenical dialogues."
+      ],
+      "sources": [
+        "omalley-vatican-i",
+        "pelikan-christian-tradition",
+        "ware-orthodox-church",
+        "odcc"
+      ]
+    }
+  ],
+  "people": [
+    {
+      "id": "vincent-of-lerins",
+      "name": "Vincent of Lérins",
+      "died": 445,
+      "circa": true,
+      "roles": [
+        "monk",
+        "theologian"
+      ],
+      "traditionIds": [
+        "early-church"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Gallic monk of the island monastery of Lérins whose Commonitorium (434) proposed the canon that the catholic faith is what has been believed ‘everywhere, always, by all’, and allowed for development as organic growth.",
+      "keyIdeas": [
+        "Vincentian canon",
+        "Development as growth, not alteration",
+        "Tradition as interpreter of Scripture"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "odcc",
+        "pelikan-christian-tradition"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "john-henry-newman",
+      "name": "John Henry Newman",
+      "born": 1801,
+      "died": 1890,
+      "roles": [
+        "priest",
+        "cardinal",
+        "theologian"
+      ],
+      "traditionIds": [
+        "anglican",
+        "catholic"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Leader of the Anglican Oxford Movement who became a Catholic in 1845 and a cardinal in 1879. His Essay on the Development of Christian Doctrine (1845) argued that doctrine grows organically; canonised in 2019.",
+      "keyIdeas": [
+        "Development of doctrine",
+        "Via media (Anglican period)",
+        "Conscience",
+        "Illative sense"
+      ],
+      "influencedBy": [
+        "vincent-of-lerins",
+        "athanasius"
+      ],
+      "sources": [
+        "odcc",
+        "chapman-anglicanism"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "ignaz-von-dollinger",
+      "name": "Ignaz von Döllinger",
+      "born": 1799,
+      "died": 1890,
+      "roles": [
+        "priest",
+        "historian",
+        "theologian"
+      ],
+      "traditionIds": [
+        "catholic",
+        "old-catholic"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "Leading German Catholic church historian at Munich who opposed the definition of papal infallibility on historical grounds; excommunicated in 1871, he inspired but did not formally join the Old Catholic movement.",
+      "keyIdeas": [
+        "Historical critique of infallibility",
+        "Reunion of churches (Bonn conferences 1874–75)"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "omalley-vatican-i",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "julius-wellhausen",
+      "name": "Julius Wellhausen",
+      "born": 1844,
+      "died": 1918,
+      "roles": [
+        "scholar",
+        "orientalist"
+      ],
+      "traditionIds": [
+        "lutheran"
+      ],
+      "regions": [
+        "western-europe"
+      ],
+      "summary": "German biblical scholar whose Prolegomena to the History of Israel (1878, 1883) gave classic form to the documentary hypothesis (J, E, D, P) and to a developmental history of Israelite religion. He resigned his theology chair (1882) over the tension between his scholarship and training ministers.",
+      "keyIdeas": [
+        "Documentary hypothesis",
+        "Late dating of the Priestly source"
+      ],
+      "influencedBy": [],
+      "sources": [
+        "odcc",
+        "mcgrath-historical-theology"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "b-b-warfield",
+      "name": "B. B. Warfield",
+      "born": 1851,
+      "died": 1921,
+      "roles": [
+        "theologian",
+        "professor"
+      ],
+      "traditionIds": [
+        "presbyterian",
+        "reformed"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "Benjamin Breckinridge Warfield, professor at Princeton Theological Seminary (1887–1921), the most influential defender of biblical inerrancy and of Old Princeton Calvinism; also a critic of Pentecostal-type claims (Counterfeit Miracles, 1918).",
+      "keyIdeas": [
+        "Inerrancy of the autographs",
+        "Plenary verbal inspiration",
+        "Cessationism"
+      ],
+      "influencedBy": [
+        "charles-hodge",
+        "john-calvin"
+      ],
+      "sources": [
+        "marsden-fundamentalism",
+        "noll-christianity-us"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "albert-outler",
+      "name": "Albert C. Outler",
+      "born": 1908,
+      "died": 1989,
+      "roles": [
+        "theologian",
+        "historian"
+      ],
+      "traditionIds": [
+        "methodist"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "summary": "American Methodist historian and ecumenist, observer at Vatican II, who coined the term ‘Wesleyan quadrilateral’ to describe Wesley's use of Scripture, tradition, reason and experience.",
+      "keyIdeas": [
+        "Wesleyan quadrilateral",
+        "Ecumenical Wesley studies"
+      ],
+      "influencedBy": [
+        "john-wesley"
+      ],
+      "sources": [
+        "heitzenrater-wesley"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "works": [
+    {
+      "id": "muratorian-fragment",
+      "title": "Muratorian Fragment (Muratorian Canon)",
+      "author": "Anonymous (Latin translation of a Greek original?)",
+      "year": 190,
+      "circa": true,
+      "language": "Latin",
+      "genre": "canon",
+      "summary": "An 85-line fragment, discovered by L. A. Muratori in Milan (published 1740), listing books read in the church — four Gospels, Acts, thirteen Pauline letters, Jude, two (or three) letters of John, Wisdom of Solomon, Revelation and the Apocalypse of Peter (disputed) — and rejecting Marcionite and other writings.",
+      "significance": "Traditionally the oldest known list of New Testament books (late 2nd century, Rome); some scholars (Sundberg, Hahneman) argue for a 4th-century Eastern date.",
+      "fullTextUrl": "https://www.earlychristianwritings.com/text/muratorian.html",
+      "doctrineIds": [
+        "scripture-authority"
+      ],
+      "sources": [
+        "metzger-canon",
+        "mcdonald-canon"
+      ]
+    },
+    {
+      "id": "athanasius-festal-letter-39",
+      "title": "Thirty-Ninth Festal Letter",
+      "authorId": "athanasius",
+      "year": 367,
+      "language": "Greek",
+      "genre": "letter",
+      "summary": "Athanasius' Easter letter to the Egyptian churches listing the books of the Old and New Testaments, with others to be read by catechumens, and rejecting apocryphal writings used by heretics.",
+      "significance": "The first surviving list of exactly the 27 books of the New Testament.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/2806039.htm",
+      "doctrineIds": [
+        "scripture-authority"
+      ],
+      "sources": [
+        "anf-npnf",
+        "metzger-canon"
+      ]
+    },
+    {
+      "id": "tertullian-prescription-against-heretics",
+      "title": "Prescription against Heretics",
+      "authorId": "tertullian",
+      "year": 200,
+      "circa": true,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "Argues that heretics have no right to use the Scriptures, which belong to the apostolic churches that received them; includes the question ‘What has Athens to do with Jerusalem?’.",
+      "significance": "Classic statement of the church's ownership of Scripture and apostolic tradition.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/0311.htm",
+      "doctrineIds": [
+        "scripture-authority"
+      ],
+      "sources": [
+        "anf-npnf",
+        "new-advent"
+      ]
+    },
+    {
+      "id": "augustine-against-epistle-of-manichaeus",
+      "title": "Against the Epistle of Manichaeus called Fundamental",
+      "authorId": "augustine-of-hippo",
+      "year": 397,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "Augustine refutes the Manichaean foundational letter and explains what keeps him in the catholic Church.",
+      "significance": "Contains his often-cited remark on the authority of the Church in relation to the Gospel.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/1405.htm",
+      "doctrineIds": [
+        "scripture-authority"
+      ],
+      "sources": [
+        "anf-npnf",
+        "new-advent"
+      ]
+    },
+    {
+      "id": "jerome-prologus-galeatus",
+      "title": "Preface to the Books of Samuel and Kings (Prologus Galeatus)",
+      "authorId": "jerome",
+      "year": 391,
+      "circa": true,
+      "language": "Latin",
+      "genre": "commentary",
+      "summary": "Jerome's ‘helmeted preface’ to his translation from the Hebrew, listing the Hebrew canon and placing other books among the apocrypha.",
+      "significance": "Basis for later Protestant (and some Catholic) distinctions between canonical and deuterocanonical books.",
+      "doctrineIds": [
+        "scripture-authority"
+      ],
+      "sources": [
+        "metzger-canon",
+        "anf-npnf"
+      ]
+    },
+    {
+      "id": "vincent-commonitorium",
+      "title": "Commonitorium",
+      "authorId": "vincent-of-lerins",
+      "year": 434,
+      "language": "Latin",
+      "genre": "treatise",
+      "summary": "A guide to distinguishing catholic truth from heresy: Scripture interpreted by universal, ancient and consensual tradition; development as organic growth.",
+      "significance": "The ‘Vincentian canon’, cited by Catholics, Orthodox and Anglicans alike.",
+      "fullTextUrl": "https://www.newadvent.org/fathers/3506.htm",
+      "doctrineIds": [
+        "scripture-authority"
+      ],
+      "sources": [
+        "anf-npnf",
+        "new-advent"
+      ]
+    },
+    {
+      "id": "luther-speech-at-worms",
+      "title": "Speech at the Diet of Worms",
+      "authorId": "martin-luther",
+      "year": 1521,
+      "language": "Latin / German",
+      "genre": "testimony",
+      "summary": "Luther's reply before Emperor Charles V on 18 April 1521, refusing to recant unless convinced by Scripture and plain reason. The words ‘Here I stand’ appear in early printed versions but are not in the contemporary transcript.",
+      "significance": "A symbolic founding moment of Protestant appeals to Scripture and conscience.",
+      "doctrineIds": [
+        "scripture-authority"
+      ],
+      "sources": [
+        "macculloch-reformation",
+        "odcc"
+      ]
+    },
+    {
+      "id": "trent-decree-on-scripture",
+      "title": "Council of Trent, Session IV: Decree concerning the Canonical Scriptures",
+      "author": "Council of Trent",
+      "year": 1546,
+      "language": "Latin",
+      "genre": "canon",
+      "summary": "Lists the canonical books (including the deuterocanon), declares that truth and discipline are contained ‘in the written books and the unwritten traditions’ received with equal reverence, and declares the Vulgate authentic.",
+      "significance": "Defined the Catholic canon and the Catholic position against sola scriptura.",
+      "doctrineIds": [
+        "scripture-authority"
+      ],
+      "sources": [
+        "schaff-creeds",
+        "pelikan-christian-tradition"
+      ]
+    },
+    {
+      "id": "westminster-confession",
+      "title": "Westminster Confession of Faith",
+      "author": "Westminster Assembly",
+      "year": 1647,
+      "language": "English",
+      "genre": "confession",
+      "summary": "The confession of the Westminster Assembly; chapter 1 ‘Of the Holy Scripture’ sets out the canon, inspiration, sufficiency, perspicuity and self-interpretation of Scripture.",
+      "significance": "Standard of Presbyterian churches worldwide and, in modified forms, of Congregationalists and Particular Baptists.",
+      "doctrineIds": [
+        "scripture-authority",
+        "salvation"
+      ],
+      "sources": [
+        "schaff-creeds"
+      ]
+    },
+    {
+      "id": "wesley-sermons-preface",
+      "title": "Sermons on Several Occasions, Preface",
+      "authorId": "john-wesley",
+      "year": 1746,
+      "language": "English",
+      "genre": "sermon",
+      "summary": "Wesley's preface to his standard sermons, describing his aim to be ‘a man of one book’ and his method of reading Scripture.",
+      "significance": "Key source for Wesley's view of Scripture and its relation to reason and experience.",
+      "doctrineIds": [
+        "scripture-authority"
+      ],
+      "sources": [
+        "heitzenrater-wesley",
+        "ccel"
+      ]
+    },
+    {
+      "id": "pastor-aeternus",
+      "title": "Pastor Aeternus (First Dogmatic Constitution on the Church of Christ)",
+      "authorId": "pius-ix",
+      "year": 1870,
+      "language": "Latin",
+      "genre": "canon",
+      "summary": "Vatican I's constitution defining the primacy of jurisdiction of the Roman Pontiff and the infallibility of his ex cathedra definitions on faith and morals.",
+      "significance": "The definitive Catholic statement on papal authority; a major ecumenical obstacle.",
+      "fullTextUrl": "https://www.papalencyclicals.net/councils/ecum20.htm",
+      "doctrineIds": [
+        "scripture-authority",
+        "church-sacraments"
+      ],
+      "sources": [
+        "omalley-vatican-i",
+        "schaff-creeds"
+      ]
+    },
+    {
+      "id": "hodge-warfield-inspiration",
+      "title": "Inspiration",
+      "author": "A. A. Hodge & B. B. Warfield",
+      "authorId": "b-b-warfield",
+      "year": 1881,
+      "language": "English",
+      "genre": "treatise",
+      "summary": "An article in the Presbyterian Review defending plenary verbal inspiration and the inerrancy of the original autographs.",
+      "significance": "The classic statement of the Princeton doctrine of inerrancy.",
+      "doctrineIds": [
+        "scripture-authority"
+      ],
+      "sources": [
+        "marsden-fundamentalism",
+        "noll-christianity-us"
+      ]
+    },
+    {
+      "id": "wellhausen-prolegomena",
+      "title": "Prolegomena to the History of Israel",
+      "authorId": "julius-wellhausen",
+      "year": 1878,
+      "language": "German",
+      "genre": "history",
+      "summary": "Argues that the Law (Priestly source) is later than the Prophets and reconstructs the sources of the Pentateuch.",
+      "significance": "The landmark of Old Testament higher criticism.",
+      "fullTextUrl": "https://www.gutenberg.org/ebooks/4732",
+      "doctrineIds": [
+        "scripture-authority"
+      ],
+      "sources": [
+        "odcc"
+      ]
+    },
+    {
+      "id": "dei-verbum",
+      "title": "Dei Verbum (Dogmatic Constitution on Divine Revelation)",
+      "author": "Second Vatican Council",
+      "year": 1965,
+      "language": "Latin",
+      "genre": "canon",
+      "summary": "Teaches that Scripture and Tradition form one sacred deposit of the Word of God, that the Magisterium serves the Word, that Scripture teaches without error the truth God wanted put into writing for our salvation, and encourages biblical study and access to Scripture.",
+      "significance": "The modern Catholic charter on revelation and Scripture.",
+      "fullTextUrl": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html",
+      "doctrineIds": [
+        "scripture-authority"
+      ],
+      "sources": [
+        "omalley-vatican-ii",
+        "catechism-catholic-church"
+      ]
+    },
+    {
+      "id": "chicago-statement-inerrancy",
+      "title": "The Chicago Statement on Biblical Inerrancy",
+      "author": "International Council on Biblical Inerrancy",
+      "year": 1978,
+      "language": "English",
+      "genre": "confession",
+      "summary": "Nineteen articles of affirmation and denial defining inerrancy, with an exposition; signed by nearly 300 evangelical leaders.",
+      "significance": "The standard definition of inerrancy in North American evangelicalism.",
+      "doctrineIds": [
+        "scripture-authority"
+      ],
+      "sources": [
+        "chicago-statement-1978",
+        "marsden-fundamentalism"
+      ]
+    },
+    {
+      "id": "barth-church-dogmatics",
+      "title": "Church Dogmatics",
+      "authorId": "karl-barth",
+      "year": 1932,
+      "language": "German",
+      "genre": "treatise",
+      "summary": "Barth's unfinished 13-part dogmatics (1932–67): the Word of God, the doctrine of God (including election in Christ), creation and reconciliation.",
+      "significance": "The most influential Protestant theology of the 20th century.",
+      "doctrineIds": [
+        "scripture-authority",
+        "trinity",
+        "salvation"
+      ],
+      "sources": [
+        "mcgrath-historical-theology"
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "id": "tertullian-marcion-knife",
+      "text": "Marcion expressly and openly used the knife, not the pen, since he made such an excision of the Scriptures as suited his own subject-matter.",
+      "kind": "quotation",
+      "translation": "ANF vol. 3, trans. Holmes",
+      "personId": "tertullian",
+      "workId": "tertullian-prescription-against-heretics",
+      "citation": "Tertullian, Prescription against Heretics 38",
+      "year": 200,
+      "topics": [
+        "Marcion",
+        "canon"
+      ],
+      "doctrineIds": [
+        "scripture-authority"
+      ]
+    },
+    {
+      "id": "irenaeus-four-gospels",
+      "text": "It is not possible that the Gospels can be either more or fewer in number than they are. For, since there are four zones of the world in which we live, and four principal winds, while the Church is scattered throughout all the world, and the ‘pillar and ground’ of the Church is the Gospel and the spirit of life; it is fitting that she should have four pillars.",
+      "kind": "quotation",
+      "translation": "ANF vol. 1, trans. Roberts & Rambaut",
+      "personId": "irenaeus",
+      "workId": "irenaeus-against-heresies",
+      "citation": "Irenaeus, Against Heresies 3.11.8",
+      "year": 180,
+      "topics": [
+        "canon",
+        "fourfold Gospel"
+      ],
+      "doctrineIds": [
+        "scripture-authority"
+      ]
+    },
+    {
+      "id": "irenaeus-rome-preeminent",
+      "text": "For it is a matter of necessity that every Church should agree with this Church, on account of its pre-eminent authority, that is, the faithful everywhere, inasmuch as the apostolical tradition has been preserved continuously by those faithful men who exist everywhere.",
+      "kind": "quotation",
+      "translation": "ANF vol. 1, trans. Roberts & Rambaut (the Latin is variously construed)",
+      "personId": "irenaeus",
+      "workId": "irenaeus-against-heresies",
+      "citation": "Irenaeus, Against Heresies 3.3.2",
+      "year": 180,
+      "topics": [
+        "Rome",
+        "apostolic tradition",
+        "primacy"
+      ],
+      "doctrineIds": [
+        "scripture-authority"
+      ]
+    },
+    {
+      "id": "athanasius-fountains-of-salvation",
+      "text": "These are fountains of salvation, that they who thirst may be satisfied with the living words they contain. In these alone is proclaimed the doctrine of godliness. Let no man add to these, neither let him take ought from these.",
+      "kind": "quotation",
+      "translation": "NPNF ser. 2 vol. 4, trans. A. Robertson",
+      "personId": "athanasius",
+      "workId": "athanasius-festal-letter-39",
+      "citation": "Athanasius, Festal Letter 39.6",
+      "year": 367,
+      "topics": [
+        "canon",
+        "sufficiency of Scripture"
+      ],
+      "doctrineIds": [
+        "scripture-authority"
+      ]
+    },
+    {
+      "id": "basil-unwritten-tradition",
+      "text": "Of the beliefs and practices whether generally accepted or publicly enjoined which are preserved in the Church some we possess derived from written teaching; others we have received delivered to us ‘in a mystery’ by the tradition of the apostles; and both of these in relation to true religion have the same force.",
+      "kind": "quotation",
+      "translation": "NPNF ser. 2 vol. 8, trans. Blomfield Jackson",
+      "personId": "basil-of-caesarea",
+      "workId": "basil-on-the-holy-spirit",
+      "citation": "Basil of Caesarea, On the Holy Spirit 27.66",
+      "year": 375,
+      "topics": [
+        "tradition",
+        "unwritten tradition"
+      ],
+      "doctrineIds": [
+        "scripture-authority"
+      ]
+    },
+    {
+      "id": "augustine-gospel-church-authority",
+      "text": "For my part, I should not believe the gospel except as moved by the authority of the Catholic Church.",
+      "kind": "quotation",
+      "translation": "NPNF ser. 1 vol. 4, trans. R. Stothert",
+      "personId": "augustine-of-hippo",
+      "workId": "augustine-against-epistle-of-manichaeus",
+      "citation": "Augustine, Against the Epistle of Manichaeus called Fundamental 5.6",
+      "year": 397,
+      "topics": [
+        "church authority",
+        "canon"
+      ],
+      "doctrineIds": [
+        "scripture-authority"
+      ]
+    },
+    {
+      "id": "jerome-apocrypha-church-reads",
+      "text": "Jerome lists the books of the Hebrew canon and says that whatever is outside them is to be placed among the apocrypha; elsewhere he says the church reads Judith, Tobit and Maccabees for edification but does not use them to establish doctrine.",
+      "kind": "paraphrase",
+      "personId": "jerome",
+      "workId": "jerome-prologus-galeatus",
+      "citation": "Jerome, Prologus Galeatus; Preface to the Books of Solomon (paraphrase)",
+      "year": 391,
+      "topics": [
+        "Apocrypha",
+        "Hebrew canon"
+      ],
+      "doctrineIds": [
+        "scripture-authority"
+      ]
+    },
+    {
+      "id": "vincent-everywhere-always",
+      "text": "Moreover, in the Catholic Church itself, all possible care must be taken, that we hold that faith which has been believed everywhere, always, by all.",
+      "kind": "quotation",
+      "translation": "NPNF ser. 2 vol. 11, trans. C. A. Heurtley",
+      "personId": "vincent-of-lerins",
+      "workId": "vincent-commonitorium",
+      "citation": "Vincent of Lérins, Commonitorium 2.6",
+      "year": 434,
+      "topics": [
+        "Vincentian canon",
+        "tradition",
+        "catholicity"
+      ],
+      "doctrineIds": [
+        "scripture-authority"
+      ]
+    },
+    {
+      "id": "luther-worms-conscience",
+      "text": "Luther told the Diet that unless he were convinced by the testimony of Scripture or by clear reason — since popes and councils have often erred and contradicted themselves — he was bound by the Scriptures he had cited; his conscience was captive to the Word of God, and he could not and would not recant, since to act against conscience is neither safe nor right.",
+      "kind": "paraphrase",
+      "personId": "martin-luther",
+      "workId": "luther-speech-at-worms",
+      "citation": "Luther at the Diet of Worms, 18 April 1521 (Weimar Ausgabe 7:838; paraphrase)",
+      "year": 1521,
+      "topics": [
+        "sola scriptura",
+        "conscience"
+      ],
+      "doctrineIds": [
+        "scripture-authority"
+      ]
+    },
+    {
+      "id": "wesley-homo-unius-libri",
+      "text": "O give me that book! At any price, give me the book of God! I have it: here is knowledge enough for me. Let me be homo unius libri.",
+      "kind": "quotation",
+      "personId": "john-wesley",
+      "workId": "wesley-sermons-preface",
+      "citation": "John Wesley, Sermons on Several Occasions (1746), Preface §5",
+      "year": 1746,
+      "topics": [
+        "Scripture",
+        "Wesley"
+      ],
+      "doctrineIds": [
+        "scripture-authority"
+      ]
+    },
+    {
+      "id": "pius-ix-ex-cathedra",
+      "text": "Pastor Aeternus defines that when the Roman Pontiff speaks ex cathedra — defining, as pastor and teacher of all Christians, a doctrine of faith or morals to be held by the whole Church — he possesses, through divine assistance promised to Peter, the infallibility with which Christ willed his Church to be endowed, so that such definitions are irreformable of themselves and not from the consent of the Church.",
+      "kind": "paraphrase",
+      "personId": "pius-ix",
+      "workId": "pastor-aeternus",
+      "citation": "First Vatican Council, Pastor Aeternus (1870), ch. 4 (paraphrase)",
+      "year": 1870,
+      "topics": [
+        "papal infallibility",
+        "ex cathedra"
+      ],
+      "doctrineIds": [
+        "scripture-authority"
+      ]
+    },
+    {
+      "id": "dollinger-cannot-accept",
+      "text": "Döllinger wrote to the Archbishop of Munich that, as a Christian, a theologian, a historian and a citizen, he could not accept the new dogma of papal infallibility, which he judged contrary to Scripture, the Fathers and the history of the Church.",
+      "kind": "paraphrase",
+      "personId": "ignaz-von-dollinger",
+      "citation": "Döllinger, Letter to Archbishop Scherr, 28 March 1871 (paraphrase)",
+      "year": 1871,
+      "topics": [
+        "papal infallibility",
+        "Old Catholics"
+      ],
+      "doctrineIds": [
+        "scripture-authority"
+      ]
+    },
+    {
+      "id": "warfield-inspiration",
+      "text": "Hodge and Warfield argue that Scripture's inspiration extends to its words, so that the original autographs are without error in everything they affirm; an alleged error must be proved to have stood in the autograph before it counts against the doctrine.",
+      "kind": "paraphrase",
+      "personId": "b-b-warfield",
+      "workId": "hodge-warfield-inspiration",
+      "citation": "A. A. Hodge & B. B. Warfield, ‘Inspiration’, Presbyterian Review 2 (1881) (paraphrase)",
+      "year": 1881,
+      "topics": [
+        "inerrancy",
+        "autographs"
+      ],
+      "doctrineIds": [
+        "scripture-authority"
+      ]
+    },
+    {
+      "id": "calvin-self-authenticating",
+      "text": "Calvin teaches that Scripture is self-authenticating: those inwardly taught by the Holy Spirit rest on it with certainty, and its authority does not depend on the judgement of the Church, which rather receives Scripture as the foundation on which it is built.",
+      "kind": "paraphrase",
+      "personId": "john-calvin",
+      "workId": "calvin-institutes",
+      "citation": "Calvin, Institutes 1.7.2–5 (paraphrase)",
+      "year": 1559,
+      "topics": [
+        "inner witness of the Spirit",
+        "self-authentication"
+      ],
+      "doctrineIds": [
+        "scripture-authority"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,619 @@
+{
+  "experiences": [
+    {
+      "id": "guadalupe-tepeyac",
+      "title": "Our Lady of Guadalupe at Tepeyac",
+      "year": 1531,
+      "endYear": 1531,
+      "circa": false,
+      "place": {
+        "name": "Tepeyac hill, Mexico City",
+        "lat": 19.4847,
+        "lng": -99.1172
+      },
+      "regions": [
+        "latin-america"
+      ],
+      "personIds": [
+        "juan-diego"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "phenomena": [
+        "apparition",
+        "miracle",
+        "healing"
+      ],
+      "account": "Paraphrase of the Nahuatl Nican Mopohua (printed 1649): on 9-12 December 1531 the Virgin Mary appears to an Indigenous convert, Juan Diego Cuauhtlatoatzin, on the hill of Tepeyac, speaking in Nahuatl and asking that a church be built there. Bishop Juan de Zumárraga asks for a sign; Mary tells Juan Diego to gather roses blooming out of season, and when he opens his cloak (tilma) before the bishop an image of the Virgin is found imprinted on it. His uncle Juan Bernardino is also said to be healed.",
+      "primarySource": {
+        "title": "Nican Mopohua (attributed to Antonio Valeriano), in Luis Laso de la Vega, Huei tlamahuiçoltica (1649); Miguel Sánchez, Imagen de la Virgen María (1648)",
+        "citation": "Nican Mopohua; Sánchez 1648; 1556 inquiry of Archbishop Montúfar into the Tepeyac shrine"
+      },
+      "contemporaryInterpretation": "A shrine and image of Guadalupe at Tepeyac are attested by the 1550s, when the Franciscan Francisco de Bustamante preached (1556) against the devotion as encouraging idolatry, since Tepeyac had been a site associated with the Mexica mother-goddess Tonantzin. The apparition narrative itself appears in print only in 1648-49.",
+      "assessments": [
+        {
+          "perspective": "Catholic",
+          "text": "Approved devotion: the image is venerated in the most visited Marian shrine in the world, Mary is proclaimed Patroness of the Americas, and Juan Diego was canonised in 2002. The Church presents the apparition as a sign of God's closeness to Indigenous peoples amid conquest."
+        },
+        {
+          "perspective": "Protestant",
+          "text": "Generally rejects Marian apparitions as private revelation lacking scriptural warrant and sees veneration of the image as problematic, while recognising its cultural importance for Mexican identity."
+        },
+        {
+          "perspective": "Historian",
+          "text": "Scholars disagree sharply: Stafford Poole argues there is no contemporary 16th-century evidence for the apparitions (Zumárraga's writings are silent) and that the story crystallised in the 1640s; others (e.g. defenders of the 'Escalada codex') argue for earlier oral and pictorial tradition. The image's materials and technique remain debated."
+        },
+        {
+          "perspective": "Indigenous and Latin American theology",
+          "text": "Many read Guadalupe as an inculturated gospel: Mary appears as a mestiza-looking woman speaking Nahuatl to a poor Indigenous man, challenging Spanish ecclesiastical power; critics see the devotion as also serving colonial and later nationalist ends."
+        }
+      ],
+      "debates": [
+        "Historicity of Juan Diego and the 1531 apparitions (the 1996 doubts of Abbot Guillermo Schulenburg caused controversy).",
+        "Syncretism vs. inculturation (Tonantzin and Tepeyac).",
+        "Status of private revelation."
+      ],
+      "confidence": "hagiographical",
+      "sources": [
+        "poole-guadalupe",
+        "brading-mexican-phoenix",
+        "zimdars-swartz-encountering-mary"
+      ]
+    },
+    {
+      "id": "pascal-memorial-fire",
+      "title": "Pascal's 'Night of Fire' memorial",
+      "year": 1654,
+      "circa": false,
+      "place": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "regions": [
+        "western-europe"
+      ],
+      "personIds": [
+        "blaise-pascal"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "phenomena": [
+        "conversion",
+        "light",
+        "mystical-union"
+      ],
+      "account": "Quotation (French original, public domain) from the Memorial, which records an experience 'from about half past ten in the evening until about half past midnight' on Monday 23 November 1654: 'FEU. Dieu d'Abraham, Dieu d'Isaac, Dieu de Jacob, non des philosophes et des savants. Certitude. Certitude. Sentiment. Joie. Paix.' (Translation: 'FIRE. God of Abraham, God of Isaac, God of Jacob, not of the philosophers and scholars. Certainty. Certainty. Feeling. Joy. Peace.') It continues 'Joie, joie, joie, pleurs de joie' ('Joy, joy, joy, tears of joy').",
+      "primarySource": {
+        "title": "Blaise Pascal, Le Mémorial (1654)",
+        "citation": "Memorial, parchment and paper copies sewn into Pascal's coat, discovered after his death in 1662; printed in editions of the Pensées (e.g. Lafuma 913, Brunschvicg p. 142)"
+      },
+      "contemporaryInterpretation": "Pascal told no one; a servant found the text sewn into the lining of his coat after his death. The experience marked his 'second conversion', his closer association with the Jansenist community at Port-Royal, and the apologetic project that became the Pensées.",
+      "assessments": [
+        {
+          "perspective": "Catholic",
+          "text": "Read as an authentic personal encounter with the living God, though Pascal's Jansenist sympathies (condemned by Rome) make him a complex figure in Catholic memory."
+        },
+        {
+          "perspective": "Protestant",
+          "text": "Often cited as a model of personal, heart-felt faith that distinguishes the God of biblical revelation from the God of the philosophers."
+        },
+        {
+          "perspective": "Philosophy of religion",
+          "text": "The Memorial is a classic text for the contrast between rational theism and experiential faith, echoed in Pascal's line that the heart has reasons reason does not know (Pensées)."
+        },
+        {
+          "perspective": "Psychology of religion",
+          "text": "Some biographers link it to Pascal's chronic illness and a near-fatal carriage accident (an unverified story); the text itself is a rare first-hand, contemporaneous record of a mystical experience."
+        }
+      ],
+      "debates": [
+        "Faith and reason: the God of Abraham vs. the God of the philosophers.",
+        "Jansenism and grace."
+      ],
+      "confidence": "well-documented",
+      "sources": [
+        "pascal-memorial",
+        "odcc",
+        "mcginn-mysticism"
+      ]
+    },
+    {
+      "id": "quaker-trembling",
+      "title": "George Fox and the trembling 'Quakers'",
+      "year": 1650,
+      "circa": false,
+      "place": {
+        "name": "Derby",
+        "lat": 52.9225,
+        "lng": -1.4746
+      },
+      "regions": [
+        "western-europe"
+      ],
+      "personIds": [
+        "george-fox"
+      ],
+      "traditionIds": [
+        "quaker"
+      ],
+      "phenomena": [
+        "trembling",
+        "prophecy",
+        "ecstasy",
+        "healing"
+      ],
+      "account": "From Fox's Journal (1694 edition, public domain): 'Justice Bennet of Derby was the first that called us Quakers, because I bid them tremble at the word of the Lord. This was in the year 1650.' Earlier (1647) Fox describes hearing a voice saying 'There is one, even Christ Jesus, that can speak to thy condition.' Early Friends' meetings were marked by long silence, bodily shaking and spontaneous prophetic speaking; some members went 'naked as a sign', and Fox's Book of Miracles recorded healings.",
+      "primarySource": {
+        "title": "George Fox, Journal (ed. Thomas Ellwood, 1694)",
+        "citation": "Journal, 1647 and 1650 entries; Fox, Book of Miracles (reconstructed by H.J. Cadbury, 1948)"
+      },
+      "contemporaryInterpretation": "Opponents mocked the trembling as madness or demonic possession; Puritan authorities feared the Quakers' claim of an Inner Light superior to Scripture and clergy. James Nayler's 1656 re-enactment of Christ's entry into Jerusalem at Bristol led to his brutal punishment and pushed Friends toward greater discipline.",
+      "assessments": [
+        {
+          "perspective": "Quaker",
+          "text": "Trembling expressed the awe of being searched by the Light of Christ within; modern Friends mostly practise silent waiting worship and see the early phenomena as a historic intensity of the same Spirit."
+        },
+        {
+          "perspective": "Reformed (17th-century and modern)",
+          "text": "Puritan critics such as John Owen judged the Quaker Inner Light a dangerous subordination of Scripture to subjective experience; many Reformed writers still class early Quakerism with 'enthusiasm'."
+        },
+        {
+          "perspective": "Pentecostal / charismatic",
+          "text": "Some see early Friends as forerunners of Spirit-led worship and bodily manifestations, though Quaker theology differs widely from Pentecostalism."
+        },
+        {
+          "perspective": "Historian",
+          "text": "Rosemary Moore and others show the movement's radical Civil War context; Fox's Journal was edited after his death, and his miracle book was largely suppressed by later Friends."
+        }
+      ],
+      "debates": [
+        "Inner Light vs. sufficiency of Scripture.",
+        "'Enthusiasm' and public order in Restoration England."
+      ],
+      "confidence": "well-documented",
+      "sources": [
+        "fox-journal",
+        "moore-light-consciences",
+        "knox-enthusiasm"
+      ]
+    },
+    {
+      "id": "camisard-prophets",
+      "title": "The prophets of the Cévennes (Camisards)",
+      "year": 1688,
+      "endYear": 1710,
+      "circa": true,
+      "place": {
+        "name": "Le Pont-de-Montvert, Cévennes",
+        "lat": 44.3667,
+        "lng": 3.75
+      },
+      "regions": [
+        "western-europe"
+      ],
+      "personIds": [
+        "jean-cavalier"
+      ],
+      "traditionIds": [
+        "reformed"
+      ],
+      "phenomena": [
+        "prophecy",
+        "trembling",
+        "ecstasy"
+      ],
+      "account": "Paraphrase of the testimonies collected in Le Théâtre sacré des Cévennes (London, 1707): after Louis XIV revoked the Edict of Nantes (1685), Huguenot peasants in the Cévennes, often children and young people, began to fall to the ground, shake and convulse, then speak prophecies in good French (rather than their Occitan dialect) calling for repentance and resistance to 'Babylon'. The movement fed the Camisard revolt (1702-1704/5); refugee 'French Prophets' later caused a sensation in London (1706 onwards).",
+      "primarySource": {
+        "title": "Le Théâtre sacré des Cévennes (ed. Maximilien Misson, 1707); English trans. A Cry from the Desart (1707)",
+        "citation": "Théâtre sacré des Cévennes, testimonies of eyewitnesses"
+      },
+      "contemporaryInterpretation": "Catholic authorities treated the prophets as fanatics and rebels; many exiled Reformed pastors (e.g. in Geneva and London) were also embarrassed and disowned them. In England the French Prophets attracted followers and were mocked as 'enthusiasts'; some later influenced the Shakers.",
+      "assessments": [
+        {
+          "perspective": "Reformed / Huguenot",
+          "text": "Remembered as a desperate witness of a persecuted 'Church of the Desert'; Reformed theology, which is largely cessationist, has been ambivalent about the prophetic phenomena while honouring the martyrs."
+        },
+        {
+          "perspective": "Catholic",
+          "text": "Historically condemned as rebellious fanaticism; today Catholic historians also recognise the brutality of the dragonnades and the war."
+        },
+        {
+          "perspective": "Pentecostal / charismatic",
+          "text": "Some historians of Pentecostalism list the Camisards among pre-modern 'charismatic' movements showing prophecy and bodily manifestations under persecution."
+        },
+        {
+          "perspective": "Historian / psychology of religion",
+          "text": "Clarke Garrett and others analyse the phenomena as a form of spirit possession and popular religion under extreme stress; contemporary Catholic doctors also tried to explain them medically."
+        }
+      ],
+      "debates": [
+        "Prophecy and violence: the link to armed rebellion.",
+        "Embarrassment of mainstream Reformed churches toward ecstatic prophecy."
+      ],
+      "confidence": "contested",
+      "sources": [
+        "garrett-spirit-possession",
+        "theatre-sacre-cevennes",
+        "knox-enthusiasm"
+      ]
+    },
+    {
+      "id": "herrnhut-moravian-pentecost",
+      "title": "The Moravian 'Pentecost' at Herrnhut",
+      "year": 1727,
+      "circa": false,
+      "place": {
+        "name": "Herrnhut (and Berthelsdorf church), Saxony",
+        "lat": 51.0167,
+        "lng": 14.7444
+      },
+      "regions": [
+        "western-europe"
+      ],
+      "personIds": [
+        "nicolaus-zinzendorf"
+      ],
+      "traditionIds": [
+        "hussite-moravian",
+        "lutheran"
+      ],
+      "phenomena": [
+        "revival",
+        "conversion"
+      ],
+      "account": "Paraphrase of Moravian accounts: the refugee community at Herrnhut, divided by disputes, signed a 'Brotherly Agreement' in May 1727; on 13 August 1727, at a communion service in the Lutheran parish church at Berthelsdorf, participants reported an overwhelming sense of the Spirit's presence, reconciliation and love. Shortly afterward a round-the-clock prayer watch began, said to have continued for about a hundred years, and from 1732 Moravian missionaries went to the Caribbean, Greenland and beyond.",
+      "primarySource": {
+        "title": "Moravian Church memoirs and Zinzendorf's later recollections",
+        "citation": "Herrnhut Diary, August 1727; accounts collected in Moravian histories"
+      },
+      "contemporaryInterpretation": "Zinzendorf and the Brethren regarded 13 August as the spiritual birthday of the Renewed Unity of the Brethren. The experience was quiet and communal rather than ecstatic.",
+      "assessments": [
+        {
+          "perspective": "Moravian / Lutheran",
+          "text": "Celebrated annually as the renewal of the Unitas Fratrum; it shaped a heart-religion centred on the wounds of Christ and missionary zeal."
+        },
+        {
+          "perspective": "Methodist / evangelical",
+          "text": "Moravians directly influenced John Wesley (on the voyage to Georgia and in London), so Herrnhut is seen as one root of the Evangelical Revival."
+        },
+        {
+          "perspective": "Pentecostal / charismatic",
+          "text": "The 24-hour prayer watch is a model for modern prayer movements (e.g. 24-7 Prayer)."
+        },
+        {
+          "perspective": "Historian",
+          "text": "W.R. Ward places Herrnhut within a wider Central European Protestant awakening driven by persecution, migration and Pietism."
+        }
+      ],
+      "debates": [
+        "Emotional 'heart religion' and its critics in Lutheran orthodoxy.",
+        "Later Moravian 'Sifting Time' excesses in the 1740s."
+      ],
+      "confidence": "well-documented",
+      "sources": [
+        "ward-protestant-awakening",
+        "odcc"
+      ]
+    },
+    {
+      "id": "northampton-awakening-edwards",
+      "title": "Jonathan Edwards and the Northampton awakening",
+      "year": 1734,
+      "endYear": 1742,
+      "circa": false,
+      "place": {
+        "name": "Northampton, Massachusetts",
+        "lat": 42.3251,
+        "lng": -72.6412
+      },
+      "regions": [
+        "north-america"
+      ],
+      "personIds": [
+        "jonathan-edwards",
+        "george-whitefield"
+      ],
+      "traditionIds": [
+        "congregationalist",
+        "reformed"
+      ],
+      "phenomena": [
+        "revival",
+        "conversion",
+        "ecstasy",
+        "trembling"
+      ],
+      "account": "Paraphrase of Edwards' A Faithful Narrative of the Surprising Work of God (1737): from late 1734, after sermons on justification by faith, religious concern spread through Northampton until 'scarcely a single person in the whole town' was unconcerned about eternal things; Edwards estimated more than 300 conversions in six months, describing cases such as the dying Abigail Hutchinson and four-year-old Phebe Bartlet. The revival waned after his uncle Joseph Hawley took his own life (1735). In 1740-42, with George Whitefield's preaching, outcries, fainting and convulsions became common.",
+      "primarySource": {
+        "title": "Jonathan Edwards, A Faithful Narrative (1737); The Distinguishing Marks of a Work of the Spirit of God (1741); Religious Affections (1746)",
+        "citation": "Faithful Narrative; Distinguishing Marks; Religious Affections, Part III"
+      },
+      "contemporaryInterpretation": "Edwards defended the revival against critics like Charles Chauncy (Seasonable Thoughts, 1743), who saw 'enthusiasm' and disorder; yet Edwards also argued that bodily effects and strong emotions prove nothing either way, and that true 'religious affections' are known by their fruit in holiness.",
+      "assessments": [
+        {
+          "perspective": "Reformed (evangelical Calvinist)",
+          "text": "Edwards' discernment framework (Distinguishing Marks, Religious Affections) is still the classic Reformed guide: revival is a sovereign work of God, but manifestations must be tested by Scripture and fruit."
+        },
+        {
+          "perspective": "Cessationist Reformed",
+          "text": "Even cessationists generally accept the Awakening as genuine revival, distinguishing it from claims of new revelation or miraculous gifts."
+        },
+        {
+          "perspective": "Pentecostal / charismatic",
+          "text": "Charismatic leaders (e.g. during the Toronto Blessing) cited Edwards to defend falling and outcries, a use that Reformed critics contest."
+        },
+        {
+          "perspective": "Historian",
+          "text": "Thomas Kidd and others show a transatlantic revival network; contemporaries split into 'New Lights' and 'Old Lights'. Edwards was dismissed by his church in 1750 over communion qualifications."
+        }
+      ],
+      "debates": [
+        "Bodily manifestations as evidence (Edwards: neither proof nor disproof).",
+        "Old Lights vs. New Lights; 'enthusiasm'.",
+        "Suicide and religious melancholy during revival."
+      ],
+      "confidence": "well-documented",
+      "sources": [
+        "edwards-faithful-narrative",
+        "marsden-edwards",
+        "kidd-great-awakening",
+        "noll-turning-points"
+      ]
+    },
+    {
+      "id": "aldersgate-heart-strangely-warmed",
+      "title": "Wesley's heart 'strangely warmed' at Aldersgate",
+      "year": 1738,
+      "circa": false,
+      "place": {
+        "name": "Aldersgate Street, London",
+        "lat": 51.5195,
+        "lng": -0.0972
+      },
+      "regions": [
+        "western-europe"
+      ],
+      "personIds": [
+        "john-wesley",
+        "charles-wesley"
+      ],
+      "traditionIds": [
+        "anglican",
+        "methodist",
+        "hussite-moravian"
+      ],
+      "phenomena": [
+        "conversion",
+        "ecstasy",
+        "slain-in-spirit"
+      ],
+      "account": "From John Wesley's Journal, 24 May 1738 (public domain): 'In the evening I went very unwillingly to a society in Aldersgate Street, where one was reading Luther's preface to the Epistle to the Romans. About a quarter before nine, while he was describing the change which God works in the heart through faith in Christ, I felt my heart strangely warmed. I felt I did trust in Christ, Christ alone, for salvation; and an assurance was given me that He had taken away my sins, even mine, and saved me from the law of sin and death.' On 1 January 1739, at a Fetter Lane love feast, Wesley records that 'the power of God came mightily upon us', many crying out for joy and falling to the ground.",
+      "primarySource": {
+        "title": "John Wesley, Journal",
+        "citation": "Journal, 24 May 1738; 1 January 1739",
+        "url": "https://www.ccel.org/ccel/wesley/journal.html"
+      },
+      "contemporaryInterpretation": "Wesley, influenced by the Moravian Peter Böhler, interpreted the experience as receiving the assurance of saving faith. His brother Charles had a similar experience three days earlier. In Wesley's field-preaching from 1739, hearers often cried out, convulsed or fell; Wesley generally regarded this as God's work mixed with natural and sometimes diabolical elements.",
+      "assessments": [
+        {
+          "perspective": "Methodist",
+          "text": "Aldersgate Day (24 May) is commemorated; the experience grounds the Methodist doctrine of assurance, though historians and Methodist theologians debate whether it was Wesley's 'conversion' or one stage in a longer journey."
+        },
+        {
+          "perspective": "Anglican",
+          "text": "Wesley remained an Anglican priest; contemporary bishops worried about 'enthusiasm' and the irregularity of field-preaching."
+        },
+        {
+          "perspective": "Pentecostal / charismatic",
+          "text": "Wesley's account of people falling under the power of God is often cited as a historical precedent for being 'slain in the Spirit'."
+        },
+        {
+          "perspective": "Historian",
+          "text": "Henry Rack shows Wesley's later journals rarely mention Aldersgate and that his spiritual doubts continued; the episode gained iconic status largely in 19th-century Methodism."
+        }
+      ],
+      "debates": [
+        "Assurance of salvation: normative or occasional?",
+        "Was Aldersgate Wesley's conversion?",
+        "Enthusiasm and bodily manifestations in early Methodism."
+      ],
+      "confidence": "well-documented",
+      "sources": [
+        "wesley-journal",
+        "rack-reasonable-enthusiast",
+        "bebbington-evangelicalism"
+      ]
+    },
+    {
+      "id": "cane-ridge-revival",
+      "title": "Cane Ridge camp meeting: falling, jerks and holy laughter",
+      "year": 1801,
+      "circa": false,
+      "place": {
+        "name": "Cane Ridge Meeting House, Bourbon County, Kentucky",
+        "lat": 38.2034,
+        "lng": -84.1088
+      },
+      "regions": [
+        "north-america"
+      ],
+      "personIds": [
+        "barton-w-stone"
+      ],
+      "traditionIds": [
+        "presbyterian",
+        "methodist",
+        "baptist",
+        "stone-campbell-restoration"
+      ],
+      "phenomena": [
+        "revival",
+        "slain-in-spirit",
+        "trembling",
+        "laughter",
+        "conversion"
+      ],
+      "account": "Paraphrase of Barton W. Stone's autobiography and contemporary letters: at a Presbyterian sacramental gathering on 6-12 August 1801, attended by an estimated 10,000-20,000 people with Presbyterian, Methodist and Baptist preachers speaking from several stands at once, many fell to the ground and lay helpless for hours. Stone lists 'exercises': the falling exercise, the jerks (violent jerking of head and body), the dancing, barking, laughing, running and singing exercises.",
+      "primarySource": {
+        "title": "Barton W. Stone, A Short History of the Life of Barton W. Stone, Written by Himself (1847)",
+        "citation": "Stone, Autobiography, ch. 'The Great Revival'; letters published in contemporary religious magazines"
+      },
+      "contemporaryInterpretation": "Supporters saw an American Pentecost; critics in the Presbyterian Synod of Kentucky saw disorder and doctrinal laxity. The revival contributed to the Cumberland Presbyterian and Stone-Campbell (Christian Church/Disciples) splits and fuelled the Methodist and Baptist camp-meeting tradition.",
+      "assessments": [
+        {
+          "perspective": "Methodist / Baptist / Stone-Campbell",
+          "text": "Remembered as a foundational frontier revival; Stone himself later grew more cautious, judging some exercises genuine and others the result of excitement or imitation."
+        },
+        {
+          "perspective": "Reformed (Old School Presbyterian)",
+          "text": "Often regarded as an example of revivalism that confused emotion with grace and weakened confessional order."
+        },
+        {
+          "perspective": "Pentecostal / charismatic",
+          "text": "Cited as a precedent for falling, shaking and laughter in modern revivals such as Toronto (1994)."
+        },
+        {
+          "perspective": "Historian / psychology of religion",
+          "text": "Paul Conkin calls it 'America's Pentecost'; historians emphasise sacramental-season roots in Scottish Presbyterianism, crowd dynamics and frontier social life; Ann Taves traces how such 'fits and trances' were interpreted religiously and medically."
+        }
+      ],
+      "debates": [
+        "Emotionalism and crowd contagion.",
+        "Revivalism vs. confessional order.",
+        "Interpreting bodily 'exercises'."
+      ],
+      "confidence": "well-documented",
+      "sources": [
+        "conkin-cane-ridge",
+        "stone-autobiography",
+        "taves-fits-trances",
+        "noll-turning-points"
+      ]
+    },
+    {
+      "id": "seraphim-sarov-motovilov",
+      "title": "Seraphim of Sarov and the 'acquisition of the Holy Spirit'",
+      "year": 1831,
+      "circa": false,
+      "place": {
+        "name": "Sarov forest, near the Sarov monastery",
+        "lat": 54.9333,
+        "lng": 43.3167
+      },
+      "regions": [
+        "russia"
+      ],
+      "personIds": [
+        "seraphim-of-sarov"
+      ],
+      "traditionIds": [
+        "russian-orthodox",
+        "eastern-orthodox"
+      ],
+      "phenomena": [
+        "light",
+        "mystical-union",
+        "healing"
+      ],
+      "account": "Paraphrase of the 'Conversation with Motovilov' (November 1831): in a snowy forest clearing the layman Nicholas Motovilov asks Seraphim how one can know one is in the Spirit of God. Seraphim tells him that the true aim of the Christian life is the acquisition of the Holy Spirit, then grasps his shoulders: Motovilov sees Seraphim's face shining brighter than the sun, feels warmth, peace, sweetness and joy though snow is falling, and is told that he too is now in the fullness of the Spirit.",
+      "primarySource": {
+        "title": "Conversation of St Seraphim of Sarov with N.A. Motovilov (manuscript published by Sergei Nilus, 1903)",
+        "citation": "Motovilov's notes, published 1903 in Moscovskie Vedomosti and in Nilus' writings"
+      },
+      "contemporaryInterpretation": "Seraphim was widely venerated as a starets, healer and clairvoyant in his lifetime; his canonisation in 1903 was strongly supported by Tsar Nicholas II against some reluctance in the Holy Synod.",
+      "assessments": [
+        {
+          "perspective": "Eastern Orthodox",
+          "text": "One of the most beloved Russian saints; the conversation is a classic statement of theosis and of the uncreated light, linking him to hesychasm."
+        },
+        {
+          "perspective": "Catholic",
+          "text": "Admired as a model of Eastern holiness; Pope John Paul II referred to him positively in ecumenical contexts."
+        },
+        {
+          "perspective": "Pentecostal / charismatic",
+          "text": "Some charismatic writers cite 'acquire the Spirit' as an Orthodox parallel to Spirit-filled spirituality."
+        },
+        {
+          "perspective": "Historian",
+          "text": "The text surfaced 70 years later through Sergei Nilus (also responsible for publishing the forged Protocols of the Elders of Zion), so its exact wording is debated, though most Orthodox scholars accept its substance."
+        }
+      ],
+      "debates": [
+        "Authenticity of the Nilus-published manuscript.",
+        "Imperial politics of the 1903 canonisation."
+      ],
+      "confidence": "contested",
+      "sources": [
+        "motovilov-conversation",
+        "ware-orthodox-church",
+        "odcc"
+      ]
+    },
+    {
+      "id": "lourdes-apparitions",
+      "title": "Bernadette Soubirous and the apparitions at Lourdes",
+      "year": 1858,
+      "endYear": 1858,
+      "circa": false,
+      "place": {
+        "name": "Grotto of Massabielle, Lourdes",
+        "lat": 43.0971,
+        "lng": -0.0577
+      },
+      "regions": [
+        "western-europe"
+      ],
+      "personIds": [
+        "bernadette-soubirous",
+        "pius-ix"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "phenomena": [
+        "apparition",
+        "healing",
+        "miracle"
+      ],
+      "account": "Paraphrase of Bernadette's statements to investigators: between 11 February and 16 July 1858, fourteen-year-old Bernadette, from a poor family, reports eighteen appearances of a young lady in white in a grotto by the river Gave. On 25 February she scrapes at the ground and a spring emerges. On 25 March, asked her name, the lady says in the local Occitan 'Que soy era Immaculada Councepciou' ('I am the Immaculate Conception'), a phrase Bernadette says she did not understand. Pilgrims soon reported healings from the spring water.",
+      "primarySource": {
+        "title": "Bernadette's statements and the episcopal commission of Tarbes",
+        "citation": "Testimonies to Abbé Peyramale and Commissioner Jacomet (1858); pastoral letter of Bishop Laurence approving the apparitions (18 January 1862)"
+      },
+      "contemporaryInterpretation": "Local civil authorities initially closed the grotto; the bishop's commission approved the apparitions in 1862. Many Catholics saw them as heaven's confirmation of Pius IX's 1854 definition of the Immaculate Conception. A Medical Bureau (founded 1883) examines claimed cures; around 70 have been declared miraculous by bishops.",
+      "assessments": [
+        {
+          "perspective": "Catholic",
+          "text": "An approved apparition and one of the largest pilgrimage sites in the world; belief in it is permitted but not required. The Church applies stringent criteria to declare healings miraculous."
+        },
+        {
+          "perspective": "Eastern Orthodox",
+          "text": "Orthodoxy does not accept the dogma of the Immaculate Conception as defined by Rome, and so is reserved about the apparition's central message."
+        },
+        {
+          "perspective": "Protestant",
+          "text": "Generally sceptical of Marian apparitions; some Protestants acknowledge the reported healings without accepting their Marian interpretation."
+        },
+        {
+          "perspective": "Historian / skeptic",
+          "text": "Ruth Harris situates Lourdes in the battle between Catholic revival and secular science in 19th-century France (Zola wrote a critical novel, 1894); skeptics note how few healings are certified relative to millions of sick pilgrims."
+        }
+      ],
+      "debates": [
+        "Criteria for miraculous healing (Lourdes Medical Bureau).",
+        "Marian dogma and private revelation.",
+        "Commercialisation of pilgrimage."
+      ],
+      "confidence": "well-documented",
+      "sources": [
+        "harris-lourdes",
+        "zimdars-swartz-encountering-mary",
+        "odcc"
+      ]
+    }
+  ]
+}

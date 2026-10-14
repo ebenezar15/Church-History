@@ -1,0 +1,875 @@
+{
+  "experiences": [
+    {
+      "id": "topeka-agnes-ozman-1901",
+      "title": "Topeka 1901: Agnes Ozman and 'Bible evidence'",
+      "year": 1901,
+      "circa": false,
+      "place": {
+        "name": "Bethel Bible School, Topeka, Kansas",
+        "lat": 39.0473,
+        "lng": -95.6752
+      },
+      "regions": [
+        "north-america"
+      ],
+      "personIds": [
+        "charles-parham",
+        "agnes-ozman"
+      ],
+      "traditionIds": [
+        "holiness-movement",
+        "pentecostal"
+      ],
+      "phenomena": [
+        "tongues"
+      ],
+      "account": "Paraphrase of Parham's and Ozman's later accounts: Charles Parham had set his students to study what the Bible gave as evidence of the baptism of the Holy Spirit; they concluded it was speaking in tongues. On 1 January 1901 Agnes Ozman asked Parham to lay hands on her and began speaking what was believed to be Chinese, reportedly unable to speak English for several days. Parham and other students soon reported the same experience.",
+      "primarySource": {
+        "title": "Charles F. Parham, Kol Kare Bomidbar: A Voice Crying in the Wilderness (1902); Agnes Ozman LaBerge, What God Hath Wrought (c. 1921)",
+        "citation": "Parham 1902; Ozman's testimony in Apostolic Faith publications"
+      },
+      "contemporaryInterpretation": "Parham taught that tongues were real foreign languages (xenolalia) given for end-time missions, so missionaries need not study languages; this expectation was not borne out and later Pentecostals generally reinterpreted tongues as prayer languages (glossolalia).",
+      "assessments": [
+        {
+          "perspective": "Classical Pentecostal",
+          "text": "Topeka is where the 'initial evidence' doctrine was formulated; most Pentecostal histories treat it as a starting point, with Azusa Street as the decisive spread."
+        },
+        {
+          "perspective": "Cessationist Reformed",
+          "text": "The failure of missionary xenolalia is cited as evidence that modern tongues are not the New Testament gift."
+        },
+        {
+          "perspective": "Historian",
+          "text": "James Goff stresses Parham's role as the doctrinal founder of Pentecostalism; historians also note his later moral scandal (1907 arrest, charges dropped) and his racial views, which led him to denounce the interracial Azusa revival."
+        },
+        {
+          "perspective": "Psychology of religion / linguistics",
+          "text": "Studies of glossolalia (e.g. William Samarin, 1972) found it lacks the structure of natural language, while being a learnable, non-pathological religious behaviour."
+        }
+      ],
+      "debates": [
+        "Xenolalia vs. glossolalia.",
+        "Initial evidence doctrine.",
+        "Parham's racism and moral controversies."
+      ],
+      "confidence": "well-documented",
+      "sources": [
+        "goff-fields-white",
+        "anderson-pentecostalism",
+        "synan-holiness-pentecostal"
+      ]
+    },
+    {
+      "id": "welsh-revival-1904",
+      "title": "The Welsh Revival and Evan Roberts",
+      "year": 1904,
+      "endYear": 1905,
+      "circa": false,
+      "place": {
+        "name": "Moriah Chapel, Loughor, Glamorgan",
+        "lat": 51.662,
+        "lng": -4.073
+      },
+      "regions": [
+        "western-europe"
+      ],
+      "personIds": [
+        "evan-roberts"
+      ],
+      "traditionIds": [
+        "congregationalist",
+        "methodist",
+        "baptist",
+        "evangelical"
+      ],
+      "phenomena": [
+        "revival",
+        "conversion",
+        "vision",
+        "prophecy"
+      ],
+      "account": "Paraphrase of contemporary press reports (Western Mail; W.T. Stead) and Roberts' own statements: after an intense experience at Blaenannerch in September 1904, during which he prayed 'Bend me', 25-year-old former miner Evan Roberts returned home and began meetings at Moriah Chapel, Loughor, on 31 October 1904. Meetings lasted into the early morning with spontaneous prayer, hymn-singing in Welsh, confession and few sermons. Roberts urged four conditions: confess all known sin, remove anything doubtful, obey the Spirit promptly, and confess Christ publicly. Some 100,000 conversions were claimed within months; magistrates reported reduced drunkenness and crime.",
+      "primarySource": {
+        "title": "W.T. Stead, The Revival in the West (1905); Western Mail reports (1904-05)",
+        "citation": "Stead 1905; Western Mail 'Religious Revival in Wales' pamphlets (1904-05)"
+      },
+      "contemporaryInterpretation": "Supporters hailed it as a modern Pentecost; critics such as Rev. Peter Price (1905) attacked Roberts as a 'sham revival' leader. Roberts claimed visions and the ability to discern hidden sin in meetings, then collapsed from exhaustion in 1906 and withdrew, later co-writing War on the Saints (1912) with Jessie Penn-Lewis, which warned of deceptive spirits.",
+      "assessments": [
+        {
+          "perspective": "Welsh Nonconformist / evangelical",
+          "text": "Remembered as the last great Welsh revival and a model of prayer-led, Spirit-led worship; many argue its moral fruit was real though short-lived in chapel attendance."
+        },
+        {
+          "perspective": "Pentecostal / charismatic",
+          "text": "A direct precursor: Frank Bartleman corresponded with Roberts before Azusa Street, and many early British Pentecostal leaders (e.g. the Jeffreys brothers, Donald Gee's generation) were touched by it."
+        },
+        {
+          "perspective": "Reformed critics",
+          "text": "Some Reformed writers question its weak preaching and stress on immediate impressions, and point to Roberts' breakdown."
+        },
+        {
+          "perspective": "Historian",
+          "text": "Eifion Evans and others link it to Welsh culture, the coal-mining society and pre-war religious anxiety; conversion numbers were real but chapel membership declined steadily after 1906."
+        }
+      ],
+      "debates": [
+        "Spirit-led worship without preaching.",
+        "Roberts' claimed discernment and later breakdown.",
+        "Long-term fruit vs. short-term enthusiasm."
+      ],
+      "confidence": "well-documented",
+      "sources": [
+        "evans-welsh-revival",
+        "stead-revival-west",
+        "bebbington-evangelicalism",
+        "anderson-pentecostalism"
+      ]
+    },
+    {
+      "id": "mukti-revival-ramabai",
+      "title": "The Mukti revival under Pandita Ramabai",
+      "year": 1905,
+      "endYear": 1907,
+      "circa": false,
+      "place": {
+        "name": "Mukti Mission, Kedgaon, near Pune",
+        "lat": 18.45,
+        "lng": 74.33
+      },
+      "regions": [
+        "india"
+      ],
+      "personIds": [
+        "pandita-ramabai"
+      ],
+      "traditionIds": [
+        "evangelical",
+        "pentecostal",
+        "anglican"
+      ],
+      "phenomena": [
+        "revival",
+        "tongues",
+        "vision",
+        "trembling",
+        "conversion"
+      ],
+      "account": "Paraphrase of Mukti Prayer-Bell reports and Minnie Abrams' account: after Ramabai organised daily prayer for revival among the young widows and orphans in her care, on 29-30 June 1905 girls at the Mukti Mission reported seeing fire and being 'baptised with fire': many wept, confessed sins, shook, prayed aloud for hours and some fell into trances or saw visions. By late 1906 some were speaking in tongues, including, it was reported, languages they had not learned.",
+      "primarySource": {
+        "title": "Mukti Prayer-Bell (Mukti Mission newsletter, 1905-07); Minnie F. Abrams, The Baptism of the Holy Ghost and Fire (1906)",
+        "citation": "Mukti Prayer-Bell, September 1905; Abrams 1906"
+      },
+      "contemporaryInterpretation": "Ramabai, a Marathi Brahmin scholar turned Christian reformer, interpreted the revival as the Spirit's answer to prayer and an Indian-led renewal. News of Mukti reached Los Angeles and Chile (through Abrams' pamphlet to Willis Hoover), contributing to the global Pentecostal network independent of Azusa.",
+      "assessments": [
+        {
+          "perspective": "Pentecostal / charismatic",
+          "text": "Allan Anderson and others cite Mukti as evidence that Pentecostalism had multiple origins, not only in North America."
+        },
+        {
+          "perspective": "Evangelical",
+          "text": "Ramabai is honoured as a Bible translator (Marathi) and champion of women; the revival is valued for repentance and social care, with some caution about manifestations."
+        },
+        {
+          "perspective": "Historian",
+          "text": "Historians note the revival's context: Brahmin widowhood, famine orphans and Indian Christian nationalism; Ramabai resisted Western missionary control."
+        },
+        {
+          "perspective": "Hindu and Indian critics",
+          "text": "At the time some Hindu reformers accused Ramabai of using her mission to convert vulnerable girls, a controversy that shaped her reputation in India."
+        }
+      ],
+      "debates": [
+        "Multiple origins of Pentecostalism.",
+        "Mission, conversion and vulnerable women.",
+        "Indigenous leadership vs. missionary control."
+      ],
+      "confidence": "well-documented",
+      "sources": [
+        "anderson-pentecostalism",
+        "mukti-prayer-bell",
+        "jenkins-next-christendom"
+      ]
+    },
+    {
+      "id": "azusa-street-revival",
+      "title": "Azusa Street Mission, Los Angeles",
+      "year": 1906,
+      "endYear": 1909,
+      "circa": false,
+      "place": {
+        "name": "312 Azusa Street, Los Angeles",
+        "lat": 34.0492,
+        "lng": -118.2406
+      },
+      "regions": [
+        "north-america"
+      ],
+      "personIds": [
+        "william-j-seymour",
+        "charles-parham"
+      ],
+      "traditionIds": [
+        "pentecostal",
+        "holiness-movement"
+      ],
+      "phenomena": [
+        "tongues",
+        "healing",
+        "slain-in-spirit",
+        "revival",
+        "prophecy"
+      ],
+      "account": "Paraphrase of The Apostolic Faith (Los Angeles, 1906-08) and Frank Bartleman's 1925 memoir: in April 1906, prayer meetings led by the African American Holiness preacher William J. Seymour at 214 Bonnie Brae Street saw people speak in tongues and fall under the power; the meetings moved to a former AME church at 312 Azusa Street. Services ran almost continuously for three years, with Black, white, Latino and Asian worshippers, women leaders, tongues, healings and people 'slain' on the floor. Bartleman wrote that 'the color line was washed away in the blood.' The Los Angeles Times mocked it as a 'Weird Babel of Tongues' (18 April 1906).",
+      "primarySource": {
+        "title": "The Apostolic Faith (newspaper of the Azusa Street Mission), 1906-08; Frank Bartleman, How Pentecost Came to Los Angeles (1925)",
+        "citation": "The Apostolic Faith 1:1 (September 1906); Bartleman 1925; Los Angeles Daily Times, 18 April 1906"
+      },
+      "contemporaryInterpretation": "Participants saw a restoration of Pentecost before Christ's return; missionaries left for Africa, Asia and Europe within months. Parham visited in October 1906 and denounced what he saw as fanaticism and racial mixing; the mission later split, and Seymour's congregation became mostly Black.",
+      "assessments": [
+        {
+          "perspective": "Pentecostal / charismatic",
+          "text": "Azusa Street is the iconic birthplace of global Pentecostalism, whose interracial, egalitarian beginnings are celebrated as a sign of the Spirit's work."
+        },
+        {
+          "perspective": "Cessationist Reformed",
+          "text": "Critics from B.B. Warfield onward argued modern tongues and healings are not the apostolic gifts; some describe Azusa as emotional excess."
+        },
+        {
+          "perspective": "Holiness (anti-Pentecostal)",
+          "text": "Many Holiness leaders (e.g. Alma White, the Pillar of Fire) denounced the revival as 'the last vomit of Satan'; the movement divided Holiness churches."
+        },
+        {
+          "perspective": "Historian",
+          "text": "Cecil M. Robeck Jr. documents the revival's racial and social dynamics; Allan Anderson stresses that Azusa was one of several centres (Wales, Mukti, Pyongyang, Chile)."
+        }
+      ],
+      "debates": [
+        "Initial evidence and tongues.",
+        "Race and the interracial ideal (and its collapse).",
+        "Seymour vs. Parham on leadership and discernment."
+      ],
+      "confidence": "well-documented",
+      "sources": [
+        "robeck-azusa",
+        "bartleman-azusa",
+        "apostolic-faith-1906",
+        "anderson-pentecostalism",
+        "synan-holiness-pentecostal"
+      ]
+    },
+    {
+      "id": "pyongyang-great-revival-1907",
+      "title": "The Pyongyang Great Revival",
+      "year": 1907,
+      "circa": false,
+      "place": {
+        "name": "Jangdaehyun (Central) Presbyterian Church, Pyongyang",
+        "lat": 39.0392,
+        "lng": 125.7625
+      },
+      "regions": [
+        "east-asia"
+      ],
+      "personIds": [
+        "gil-seon-ju"
+      ],
+      "traditionIds": [
+        "presbyterian",
+        "methodist"
+      ],
+      "phenomena": [
+        "revival",
+        "conversion",
+        "trembling"
+      ],
+      "account": "Paraphrase of missionary reports (Graham Lee, William Blair) in The Korea Mission Field (1907): during a winter Bible conference in January 1907, on the evenings of 14-15 January, after an invitation for many to pray aloud at once, the congregation broke into simultaneous audible prayer, weeping and public confession of sins including theft, hatred and adultery; some fell to the floor in agony. Elder Gil Seon-ju (Kil Sun-ju) confessed to embezzling money from a deceased friend's estate. The movement spread through Korea's churches and schools.",
+      "primarySource": {
+        "title": "The Korea Mission Field (1907); William Blair and Bruce Hunt, The Korean Pentecost and the Sufferings Which Followed (1977, incl. Blair's earlier account)",
+        "citation": "Graham Lee, 'How the Spirit Came to Pyeng Yang', Korea Mission Field, March 1907; Blair & Hunt 1977"
+      },
+      "contemporaryInterpretation": "Missionaries called it the 'Korean Pentecost'. It shaped distinct Korean practices: tongsong kido (praying aloud together), daybreak prayer (saebyeok kido, associated with Gil Seon-ju) and intensive Bible study. Japanese colonial pressure (protectorate 1905, annexation 1910) formed the background.",
+      "assessments": [
+        {
+          "perspective": "Korean Protestant (Presbyterian / Methodist)",
+          "text": "Regarded as the spiritual foundation of Korean Christianity's growth; its centenary in 2007 was widely celebrated."
+        },
+        {
+          "perspective": "Pentecostal / charismatic",
+          "text": "Cited as one of the global revivals of 1904-07 alongside Wales and Azusa, though it was not characterised by tongues."
+        },
+        {
+          "perspective": "Historian",
+          "text": "Scholars debate whether missionaries encouraged the revival partly to depoliticise Korean Christians under Japanese rule; others stress its indigenous agency and confession culture."
+        },
+        {
+          "perspective": "Psychology of religion",
+          "text": "Collective weeping and confession are analysed as cathartic responses to national humiliation and social stress."
+        }
+      ],
+      "debates": [
+        "Revival and politics under colonialism.",
+        "Public confession: healing or coercive?"
+      ],
+      "confidence": "well-documented",
+      "sources": [
+        "moffett-asia",
+        "blair-hunt-korean-pentecost",
+        "anderson-pentecostalism"
+      ]
+    },
+    {
+      "id": "fatima-apparitions",
+      "title": "Fátima and the 'Miracle of the Sun'",
+      "year": 1917,
+      "endYear": 1917,
+      "circa": false,
+      "place": {
+        "name": "Cova da Iria, Fátima",
+        "lat": 39.6316,
+        "lng": -8.6727
+      },
+      "regions": [
+        "western-europe"
+      ],
+      "personIds": [
+        "lucia-dos-santos"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "phenomena": [
+        "apparition",
+        "vision",
+        "prophecy",
+        "miracle",
+        "light"
+      ],
+      "account": "Paraphrase of Lúcia's later Memoirs and 1917 press reports: from 13 May to 13 October 1917 three shepherd children, Lúcia dos Santos and her cousins Francisco and Jacinta Marto, report monthly appearances of a lady 'brighter than the sun' calling for prayer of the rosary and penance for the end of the war. On 13 October 1917 a crowd estimated at 30,000-70,000, including journalists from the anticlerical paper O Século, saw (by many accounts) the sun spin, change colour and appear to plunge toward the earth; some present saw nothing unusual.",
+      "primarySource": {
+        "title": "Lúcia dos Santos, Memoirs (written 1935-1941 and later); O Século report by Avelino de Almeida, 15 October 1917",
+        "citation": "Memoirs I-IV; O Século, 15 October 1917; pastoral letter of the Bishop of Leiria (1930)"
+      },
+      "contemporaryInterpretation": "Republican Portugal's anticlerical authorities briefly detained the children in August 1917. The Bishop of Leiria declared the visions worthy of belief in 1930. The 'three secrets' (Lúcia wrote them down 1941-44; the third was published by the Vatican in 2000) linked the apparitions to hell, Russia's conversion and the persecution of the Church, and became central to Cold War Catholic piety.",
+      "assessments": [
+        {
+          "perspective": "Catholic",
+          "text": "An approved apparition; Francisco and Jacinta were canonised in 2017. The Vatican's 2000 commentary (Cardinal Ratzinger) interpreted the third secret symbolically and stressed that private revelation adds nothing to public revelation."
+        },
+        {
+          "perspective": "Eastern Orthodox",
+          "text": "Generally reserved, especially about messages concerning the 'consecration of Russia'."
+        },
+        {
+          "perspective": "Protestant",
+          "text": "Usually sceptical of the Marian messages; some accept that witnesses saw an unusual phenomenon without accepting its interpretation."
+        },
+        {
+          "perspective": "Historian / skeptic",
+          "text": "Witness reports vary greatly; proposed explanations include optical effects from staring at the sun and collective expectation. Much of the detailed content of the visions comes from Lúcia's memoirs written two decades later."
+        }
+      ],
+      "debates": [
+        "Collective perception and the 'dancing sun'.",
+        "Later-written secrets and their political use.",
+        "Private revelation and its limits."
+      ],
+      "confidence": "contested",
+      "sources": [
+        "zimdars-swartz-encountering-mary",
+        "lucia-memoirs",
+        "odcc"
+      ]
+    },
+    {
+      "id": "padre-pio-stigmata",
+      "title": "Padre Pio's stigmata at San Giovanni Rotondo",
+      "year": 1918,
+      "endYear": 1968,
+      "circa": false,
+      "place": {
+        "name": "San Giovanni Rotondo, Apulia",
+        "lat": 41.7066,
+        "lng": 15.7286
+      },
+      "regions": [
+        "italy"
+      ],
+      "personIds": [
+        "pio-of-pietrelcina"
+      ],
+      "traditionIds": [
+        "catholic"
+      ],
+      "phenomena": [
+        "stigmata",
+        "healing",
+        "prophecy",
+        "miracle"
+      ],
+      "account": "Paraphrase of Padre Pio's letter to his superior (22 October 1918): on 20 September 1918, praying before a crucifix in the friary choir, the Capuchin friar Pio of Pietrelcina saw a mysterious figure with bleeding hands, feet and side, and found the same wounds on himself; they bled for the next fifty years. Devotees attributed to him healings, prophetic knowledge of penitents' sins and bilocation.",
+      "primarySource": {
+        "title": "Padre Pio, Letters (Epistolario), vol. 1",
+        "citation": "Letter to Padre Benedetto of San Marco in Lamis, 22 October 1918; medical reports of Luigi Romanelli (1919) and Giorgio Festa"
+      },
+      "contemporaryInterpretation": "Doctors examined the wounds with conflicting conclusions; Fr Agostino Gemelli, physician and Franciscan, judged them suspect. The Holy Office restricted Pio's public ministry several times (1923, 1931-33) and investigated him again under John XXIII. Paul VI lifted restrictions; John Paul II canonised him in 2002.",
+      "assessments": [
+        {
+          "perspective": "Catholic",
+          "text": "One of the most popular modern saints; the stigmata are widely believed to be supernatural, though canonisation rests on his heroic virtue and attested miracles, not on the wounds as such."
+        },
+        {
+          "perspective": "Protestant",
+          "text": "Mostly sceptical; some respect his austere piety while rejecting stigmata and bilocation claims as unproven."
+        },
+        {
+          "perspective": "Historian",
+          "text": "Sergio Luzzatto's study discusses archival allegations (e.g. a 1919 purchase of carbolic acid) and the political uses of Pio's cult in Fascist and post-war Italy; supporters dispute these interpretations."
+        },
+        {
+          "perspective": "Skeptic / medical",
+          "text": "Skeptics propose self-inflicted or psychosomatic wounds; no independent medical study during his lifetime settled the question."
+        }
+      ],
+      "debates": [
+        "Vatican investigations and discernment.",
+        "Natural vs. supernatural explanations of stigmata.",
+        "Popular cult and commerce."
+      ],
+      "confidence": "contested",
+      "sources": [
+        "luzzatto-padre-pio",
+        "odcc"
+      ]
+    },
+    {
+      "id": "kathryn-kuhlman-miracle-services",
+      "title": "Kathryn Kuhlman's 'miracle services'",
+      "year": 1948,
+      "endYear": 1976,
+      "circa": false,
+      "place": {
+        "name": "Carnegie Hall and First Presbyterian Church, Pittsburgh",
+        "lat": 40.4406,
+        "lng": -79.9959
+      },
+      "regions": [
+        "north-america"
+      ],
+      "personIds": [
+        "kathryn-kuhlman"
+      ],
+      "traditionIds": [
+        "charismatic-renewal",
+        "evangelical"
+      ],
+      "phenomena": [
+        "healing",
+        "slain-in-spirit"
+      ],
+      "account": "Paraphrase of Kuhlman's I Believe in Miracles (1962): after a woman testified in 1947 (in Franklin, Pennsylvania) to being healed of a tumour during Kuhlman's preaching, without any prayer for her, Kuhlman's services became famous for healings announced from the platform by 'word of knowledge' rather than by prayer lines. Many who came forward fell backward 'under the power' when she prayed. From 1948 she held services in Pittsburgh, later at the Shrine Auditorium in Los Angeles and on national television.",
+      "primarySource": {
+        "title": "Kathryn Kuhlman, I Believe in Miracles (1962)",
+        "citation": "Kuhlman 1962; William A. Nolen, Healing: A Doctor in Search of a Miracle (1974)"
+      },
+      "contemporaryInterpretation": "Kuhlman insisted she had no healing power and credited the Holy Spirit; her ministry crossed denominational lines and helped prepare the Charismatic Renewal, including among Catholics.",
+      "assessments": [
+        {
+          "perspective": "Pentecostal / charismatic",
+          "text": "Regarded as a pioneer whose emphasis on the Holy Spirit's sovereignty, rather than the healer's faith, influenced later figures such as Benny Hinn."
+        },
+        {
+          "perspective": "Cessationist Reformed",
+          "text": "Cessationists cite the absence of verifiable organic healings and her personal controversies as evidence against modern healing gifts."
+        },
+        {
+          "perspective": "Medical skeptic",
+          "text": "The surgeon William Nolen followed up people claimed as healed at a 1970s Kuhlman meeting and reported that he could not confirm any organic cures; some were harmed by abandoning treatment. Supporters reply that sample selection was limited."
+        },
+        {
+          "perspective": "Historian",
+          "text": "David Harrell places her within the post-war healing revival but notes her greater respectability and appeal to mainline and Catholic audiences."
+        }
+      ],
+      "debates": [
+        "Verification of healing claims.",
+        "Being 'slain in the Spirit'.",
+        "Celebrity and finances in healing ministries."
+      ],
+      "confidence": "contested",
+      "sources": [
+        "harrell-all-things-possible",
+        "kuhlman-i-believe",
+        "nolen-healing"
+      ]
+    },
+    {
+      "id": "oral-roberts-healing-crusades",
+      "title": "Oral Roberts' tent healing crusades",
+      "year": 1947,
+      "endYear": 1968,
+      "circa": false,
+      "place": {
+        "name": "Tulsa, Oklahoma",
+        "lat": 36.154,
+        "lng": -95.9928
+      },
+      "regions": [
+        "north-america"
+      ],
+      "personIds": [
+        "oral-roberts"
+      ],
+      "traditionIds": [
+        "pentecostal",
+        "charismatic-renewal",
+        "methodist"
+      ],
+      "phenomena": [
+        "healing",
+        "deliverance",
+        "conversion"
+      ],
+      "account": "Paraphrase of Roberts' autobiographical accounts: healed of tuberculosis and stuttering as a teenager (1935), the Pentecostal Holiness preacher Oral Roberts launched healing campaigns in 1947 from Tulsa. In a huge tent seating thousands, he laid hands on long 'healing lines' of the sick, often praying against demons and disease. From 1955 his crusades were filmed for television, bringing Pentecostal healing into American living rooms.",
+      "primarySource": {
+        "title": "Oral Roberts, Expect a Miracle: My Life and Ministry (1995); Healing Waters / Abundant Life magazine (1947-)",
+        "citation": "Roberts 1995; campaign reports in Healing Waters"
+      },
+      "contemporaryInterpretation": "Admirers saw a restoration of apostolic healing; journalists and doctors questioned unverified cures. Roberts later founded Oral Roberts University (1963), joined the United Methodist Church (1968) and taught 'seed faith' giving, an early form of prosperity theology. His 1987 appeal that God would 'call him home' unless he raised $8 million drew widespread criticism.",
+      "assessments": [
+        {
+          "perspective": "Pentecostal / charismatic",
+          "text": "A key bridge from classical Pentecostalism to the Charismatic Renewal and televangelism; many credit his ministry with physical and spiritual healing."
+        },
+        {
+          "perspective": "Mainline Protestant",
+          "text": "His move into Methodism symbolised growing mainline openness to charismatic practice, though many mainline clergy were critical of his methods."
+        },
+        {
+          "perspective": "Cessationist Reformed / evangelical critics",
+          "text": "Critics such as John MacArthur challenge prosperity teaching and unverifiable healing claims."
+        },
+        {
+          "perspective": "Historian",
+          "text": "David Harrell's biography shows a complex figure who moved from the tent revival to institution-building; historians link his 'seed faith' to the rise of the prosperity gospel."
+        }
+      ],
+      "debates": [
+        "Prosperity theology ('seed faith').",
+        "Verification of healing.",
+        "Televangelism and fundraising ethics."
+      ],
+      "confidence": "contested",
+      "sources": [
+        "harrell-oral-roberts",
+        "harrell-all-things-possible",
+        "anderson-pentecostalism"
+      ]
+    },
+    {
+      "id": "william-branham-healing-revival",
+      "title": "William Branham and the post-war healing revival",
+      "year": 1946,
+      "endYear": 1965,
+      "circa": false,
+      "place": {
+        "name": "Jeffersonville, Indiana",
+        "lat": 38.2776,
+        "lng": -85.7372
+      },
+      "regions": [
+        "north-america"
+      ],
+      "personIds": [
+        "william-branham"
+      ],
+      "traditionIds": [
+        "pentecostal",
+        "oneness-pentecostal"
+      ],
+      "phenomena": [
+        "healing",
+        "prophecy",
+        "vision"
+      ],
+      "account": "Paraphrase of Branham's own accounts and campaign literature: Branham said that on 7 May 1946 an angel appeared to him and commissioned him to take a gift of healing to the world, with a sign of vibrations in his left hand that revealed diseases, and later the ability to discern people's names and secrets. His 1946-55 campaigns drew vast crowds in North America, Europe, South Africa and India. A 1950 photograph in Houston was promoted as showing a supernatural light above his head.",
+      "primarySource": {
+        "title": "Gordon Lindsay, William Branham: A Man Sent from God (1950); The Voice of Healing magazine (1948-)",
+        "citation": "Lindsay 1950; Branham's recorded sermons (1947-65)"
+      },
+      "contemporaryInterpretation": "Branham is often regarded as the catalyst of the 1946-58 'Voice of Healing' revival, which included Oral Roberts, Jack Coe and A.A. Allen. In later years he taught the 'serpent seed' doctrine, baptism in Jesus' name only (Oneness theology) and his own role as an end-time Elijah; these teachings separated him from most Pentecostal churches. His followers ('Message' believers) remain numerous, especially in Africa.",
+      "assessments": [
+        {
+          "perspective": "Pentecostal / charismatic",
+          "text": "Many credit his early ministry with genuine healings and prophetic accuracy, while rejecting his later doctrines; he is a cautionary example of gifting without sound teaching."
+        },
+        {
+          "perspective": "Trinitarian evangelical critics",
+          "text": "His Oneness, serpent-seed and self-prophetic teachings are seen as heretical or cultic; his story is used to argue that miracles do not validate doctrine."
+        },
+        {
+          "perspective": "Historian",
+          "text": "C. Douglas Weaver's study analyses Branham's charisma and the healing revival's mass-media methods; historians also note documented failed prophecies and contested healing claims."
+        },
+        {
+          "perspective": "Branhamite ('Message') believers",
+          "text": "Regard him as the prophet of the last church age whose recorded sermons carry special authority."
+        }
+      ],
+      "debates": [
+        "Miracles vs. doctrine as a test of a prophet (cf. Deuteronomy 13).",
+        "Oneness theology and Nicene orthodoxy.",
+        "Charismatic personality cults."
+      ],
+      "confidence": "contested",
+      "sources": [
+        "weaver-branham",
+        "harrell-all-things-possible"
+      ]
+    },
+    {
+      "id": "zeitoun-marian-apparitions",
+      "title": "Lights over the church at Zeitoun, Cairo",
+      "year": 1968,
+      "endYear": 1971,
+      "circa": false,
+      "place": {
+        "name": "Church of St Mary, Zeitoun, Cairo",
+        "lat": 30.1044,
+        "lng": 31.3114
+      },
+      "regions": [
+        "egypt"
+      ],
+      "personIds": [],
+      "traditionIds": [
+        "coptic-orthodox"
+      ],
+      "phenomena": [
+        "apparition",
+        "light",
+        "healing"
+      ],
+      "account": "Paraphrase of press and church reports: from the night of 2 April 1968, Muslim mechanics working opposite the Coptic Orthodox Church of St Mary in Zeitoun reported a luminous female figure on the church dome. Over the next two to three years crowds, Christian and Muslim, numbering in the tens of thousands on some nights, reported luminous figures, glowing 'doves' and lights; photographs were published, and healings were claimed.",
+      "primarySource": {
+        "title": "Statement of the Coptic Orthodox Patriarchate (4 May 1968); Egyptian press reports, April-May 1968",
+        "citation": "Patriarchal statement under Pope Cyril VI (Kyrillos VI), 4 May 1968"
+      },
+      "contemporaryInterpretation": "Pope Cyril VI's commission declared the apparitions authentic in May 1968, and many Egyptians read them as consolation after the 1967 war. The Zeitoun site, believed to lie on the route of the Holy Family's flight into Egypt, became a major pilgrimage centre.",
+      "assessments": [
+        {
+          "perspective": "Coptic Orthodox",
+          "text": "Accepted as genuine appearances of the Theotokos, celebrated annually; seen as a sign of God's care for Egypt's Christians."
+        },
+        {
+          "perspective": "Catholic",
+          "text": "Catholic observers reported positively at the time, but the Vatican has issued no formal judgement since it was not a Catholic site."
+        },
+        {
+          "perspective": "Protestant",
+          "text": "Generally sceptical of Marian apparitions, while some accept that unusual lights were observed."
+        },
+        {
+          "perspective": "Skeptic / scientific",
+          "text": "Proposed explanations include tectonic strain or earthquake lights (Derr and Persinger, 1989), reflections, and mass expectation; others suspected projection, though no evidence of this was found."
+        }
+      ],
+      "debates": [
+        "Natural explanations for collectively observed lights.",
+        "Interreligious meaning (Muslim witnesses).",
+        "Political context after 1967."
+      ],
+      "confidence": "contested",
+      "sources": [
+        "zimdars-swartz-encountering-mary",
+        "isichei-africa"
+      ]
+    },
+    {
+      "id": "toronto-blessing",
+      "title": "The Toronto Blessing: holy laughter and 'soaking'",
+      "year": 1994,
+      "circa": false,
+      "place": {
+        "name": "Toronto Airport Vineyard (now Catch the Fire), Toronto",
+        "lat": 43.6873,
+        "lng": -79.5939
+      },
+      "regions": [
+        "north-america"
+      ],
+      "personIds": [
+        "john-arnott",
+        "randy-clark",
+        "john-wimber"
+      ],
+      "traditionIds": [
+        "neo-charismatic",
+        "charismatic-renewal"
+      ],
+      "phenomena": [
+        "laughter",
+        "slain-in-spirit",
+        "trembling",
+        "healing",
+        "prophecy"
+      ],
+      "account": "Paraphrase of participants' and observers' accounts: on 20 January 1994 the Missouri Vineyard pastor Randy Clark, recently touched at meetings of the South African evangelist Rodney Howard-Browne, began meetings at John and Carol Arnott's Toronto Airport Vineyard. Congregants laughed uncontrollably ('holy laughter'), fell to the floor, shook, wept and, controversially, sometimes roared or made animal-like sounds. Nightly meetings continued for years, drawing hundreds of thousands of visitors from around the world, many of whom carried the 'blessing' to their home churches (e.g. Holy Trinity Brompton, London).",
+      "primarySource": {
+        "title": "Contemporary accounts by participants (e.g. Guy Chevreau, Catch the Fire, 1994) and sociological fieldwork",
+        "citation": "Margaret Poloma, Main Street Mystics (2003); Chevreau 1994"
+      },
+      "contemporaryInterpretation": "Supporters spoke of refreshing and renewal rather than revival proper, emphasising the Father's love. In December 1995 John Wimber's Association of Vineyard Churches withdrew its endorsement, citing manifestations given excessive prominence and unbiblical interpretation; the church became Toronto Airport Christian Fellowship.",
+      "assessments": [
+        {
+          "perspective": "Pentecostal / charismatic",
+          "text": "Many testify to deep renewal, healing of emotional wounds and missionary fruit (e.g. Heidi and Rolland Baker's Iris Ministries in Mozambique); defenders cite Edwards and Wesley to argue manifestations are secondary to fruit."
+        },
+        {
+          "perspective": "Cessationist Reformed / evangelical critics",
+          "text": "Critics such as Hank Hanegraaff (Counterfeit Revival, 1997) argued the phenomena were induced by suggestion and lacked biblical warrant; others warned against experience-centred worship."
+        },
+        {
+          "perspective": "Catholic / Anglican charismatic",
+          "text": "Some charismatic Anglicans and Catholics embraced the 'blessing'; others counselled discernment and integration with sacramental life."
+        },
+        {
+          "perspective": "Sociology / psychology of religion",
+          "text": "Margaret Poloma's surveys found many participants reported lasting positive changes; scholars analyse the role of expectation, music and group dynamics in inducing bodily manifestations."
+        }
+      ],
+      "debates": [
+        "Animal noises and bizarre manifestations.",
+        "Vineyard's separation (1995).",
+        "Renewal vs. revival; fruit vs. phenomena."
+      ],
+      "confidence": "well-documented",
+      "sources": [
+        "poloma-main-street-mystics",
+        "hanegraaff-counterfeit-revival",
+        "anderson-pentecostalism"
+      ]
+    },
+    {
+      "id": "brownsville-revival",
+      "title": "The Brownsville (Pensacola) Revival",
+      "year": 1995,
+      "endYear": 2000,
+      "circa": false,
+      "place": {
+        "name": "Brownsville Assembly of God, Pensacola, Florida",
+        "lat": 30.433,
+        "lng": -87.247
+      },
+      "regions": [
+        "north-america"
+      ],
+      "personIds": [
+        "steve-hill"
+      ],
+      "traditionIds": [
+        "assemblies-of-god",
+        "pentecostal"
+      ],
+      "phenomena": [
+        "revival",
+        "conversion",
+        "slain-in-spirit",
+        "trembling"
+      ],
+      "account": "Paraphrase of church and press reports: on Father's Day, 18 June 1995, evangelist Steve Hill, recently prayed for at Holy Trinity Brompton in London, preached at Brownsville Assembly of God (pastor John Kilpatrick). Hundreds came forward; many fell, shook or jerked. Meetings continued four or five nights a week until about 2000; the church claimed some 2.5 million visitors and well over 100,000 recorded 'decisions'. Unlike Toronto, the emphasis was on repentance and conversion with Hill's urgent preaching.",
+      "primarySource": {
+        "title": "Brownsville Assembly of God reports; John Kilpatrick, Feast of Fire (1995)",
+        "citation": "Kilpatrick 1995; Pensacola News Journal investigative series (November 1997)"
+      },
+      "contemporaryInterpretation": "Assemblies of God leaders largely endorsed the revival as authentic. A 1997 Pensacola News Journal series questioned the planning of the original outbreak, the revival's finances and the manifestations; leaders disputed its conclusions. A ministry school trained students for missions.",
+      "assessments": [
+        {
+          "perspective": "Pentecostal / Assemblies of God",
+          "text": "Widely regarded as one of the largest US revivals of the late 20th century, emphasising holiness and evangelism."
+        },
+        {
+          "perspective": "Cessationist Reformed / evangelical critics",
+          "text": "Critics such as Hank Hanegraaff argued the manifestations were induced and the theology shallow."
+        },
+        {
+          "perspective": "Journalist / skeptic",
+          "text": "The Pensacola News Journal series alleged the 'spontaneous' outbreak had been anticipated and raised questions about money and statistics; supporters countered with testimonies of transformed lives."
+        },
+        {
+          "perspective": "Historian",
+          "text": "Placed in the wave of 1990s 'renewal' revivals linked through Holy Trinity Brompton and Toronto, but with a distinctly classical Pentecostal, repentance-centred style."
+        }
+      ],
+      "debates": [
+        "Spontaneity vs. planning.",
+        "Statistics and finances.",
+        "Manifestations and discernment."
+      ],
+      "confidence": "well-documented",
+      "sources": [
+        "hanegraaff-counterfeit-revival",
+        "anderson-pentecostalism",
+        "poloma-main-street-mystics"
+      ]
+    },
+    {
+      "id": "asbury-revival-2023",
+      "title": "Asbury Outpouring",
+      "year": 2023,
+      "circa": false,
+      "place": {
+        "name": "Hughes Auditorium, Asbury University, Wilmore, Kentucky",
+        "lat": 37.8636,
+        "lng": -84.6636
+      },
+      "regions": [
+        "north-america"
+      ],
+      "personIds": [],
+      "traditionIds": [
+        "methodist",
+        "holiness-movement",
+        "evangelical"
+      ],
+      "phenomena": [
+        "revival",
+        "conversion",
+        "healing"
+      ],
+      "account": "Paraphrase of university statements and news reports: after a routine student chapel service on 8 February 2023, a number of students stayed to pray, sing and confess sins. The gathering continued around the clock for about sixteen days, spreading by social media; tens of thousands of visitors (estimates around 50,000) queued to enter Wilmore, a town of about 6,000. Leaders deliberately avoided celebrity speakers, stage lighting and fund-raising, emphasising humility, confession and worship; some testified to healings. Public services ended on 23-24 February, with a gathering for young people.",
+      "primarySource": {
+        "title": "Asbury University public statements and press coverage, February 2023",
+        "citation": "Asbury University statements (February 2023); reports in Christianity Today, The New York Times and others"
+      },
+      "contemporaryInterpretation": "Asbury had experienced similar extended chapel revivals in 1905, 1950 and 1970. Participants debated whether to call it a 'revival' or an 'outpouring' and worried about outside promotion and politicisation.",
+      "assessments": [
+        {
+          "perspective": "Wesleyan-Holiness / Methodist",
+          "text": "Seen as a renewal in the tradition of the Holiness movement, notable for its quietness and humility."
+        },
+        {
+          "perspective": "Pentecostal / charismatic",
+          "text": "Welcomed as a sign of a wider awakening among Generation Z; some charismatic leaders sought to visit or promote it, prompting the university to ask for restraint."
+        },
+        {
+          "perspective": "Reformed / cessationist",
+          "text": "Many welcomed the emphasis on confession and Scripture while urging caution about calling it revival before its long-term fruit is seen."
+        },
+        {
+          "perspective": "Sociologist / historian",
+          "text": "Observers linked it to post-pandemic loneliness and social media; its lasting impact is still under assessment."
+        }
+      ],
+      "debates": [
+        "Revival vs. outpouring: how to define and measure.",
+        "Social media and the risk of spectacle.",
+        "Long-term fruit."
+      ],
+      "confidence": "well-documented",
+      "sources": [
+        "asbury-2023-reports"
+      ]
+    }
+  ]
+}

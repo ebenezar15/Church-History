@@ -1,0 +1,779 @@
+{
+  "positions": [
+    {
+      "id": "federal-forensic-framework",
+      "doctrineId": "salvation",
+      "name": "Legal / forensic (federal) framework",
+      "altNames": [
+        "covenant (federal) theology",
+        "forensic gospel",
+        "legal model of salvation"
+      ],
+      "oneLine": "God the righteous Judge has bound humanity to himself by covenant; Adam’s sin brought guilt and condemnation on all he represented, and Christ, the second federal head, fulfilled the law and bore its penalty for his people, whose sins are forgiven and to whom his righteousness is imputed through faith.",
+      "coreClaims": [
+        "God relates to humanity through covenants: a covenant of works with Adam and a covenant of grace in Christ (Westminster Confession 7).",
+        "Sin is primarily guilt and liability to punishment before God’s holy law; Adam’s guilt is imputed to his posterity.",
+        "Christ’s active obedience and passive suffering satisfy divine justice as substitute for the elect (penal substitution).",
+        "Justification is a forensic verdict: sins pardoned and Christ’s righteousness imputed, received by faith alone; sanctification follows as a distinct work.",
+        "Union with Christ is affirmed, often as the federal and mystical bond through which justification is applied."
+      ],
+      "keyTexts": [
+        "Romans 3:21-26",
+        "Romans 4:1-8",
+        "Romans 5:12-21",
+        "2 Corinthians 5:21",
+        "Galatians 3:10-14",
+        "Philippians 3:9"
+      ],
+      "origin": "Developed from Reformation forensic justification (Melanchthon, Calvin) into federal theology (Ursinus, Olevianus, Cocceius), codified in the Westminster Standards (1646-47); expounded by John Owen, Francis Turretin, Charles Hodge and the Princeton theology; restated by J. I. Packer, R. C. Sproul and John Piper.",
+      "originYear": 1646,
+      "proponentIds": [
+        "john-owen",
+        "charles-hodge",
+        "j-i-packer",
+        "john-piper",
+        "jonathan-edwards"
+      ],
+      "proponentsOther": [
+        "Westminster Assembly",
+        "Francis Turretin",
+        "Herman Witsius",
+        "B. B. Warfield",
+        "Louis Berkhof",
+        "R. C. Sproul",
+        "Michael Horton"
+      ],
+      "traditionIds": [
+        "reformed",
+        "presbyterian",
+        "baptist",
+        "evangelical",
+        "lutheran"
+      ],
+      "strongestArguments": [
+        "It explains Paul’s courtroom vocabulary (justify, condemn, reckon, impute) on its own terms.",
+        "It grounds assurance outside the believer, in Christ’s finished obedience and a once-for-all verdict.",
+        "It preserves the seriousness of sin, the holiness of God and the necessity of personal faith and repentance."
+      ],
+      "strongestObjections": [
+        "Union critics (Campbell, the Torrances): it makes God’s relation to humanity fundamentally legal rather than filial, and turns covenant into contract.",
+        "Orthodox: it reduces salvation to a change of status, neglecting healing and theosis.",
+        "New Perspective: it reads Paul through late-medieval and Reformation anxieties about merit."
+      ],
+      "responses": [
+        "Federal theologians reply that the law expresses God’s own holy character and that adoption and union are inseparable from justification.",
+        "Recent Reformed scholarship (Fesko, Gaffin) stresses that union with Christ has always been the context of forensic justification in Reformed theology."
+      ],
+      "consequences": [
+        "Shaped Puritan and Presbyterian piety, revival preaching and much of modern evangelicalism.",
+        "Encourages careful distinction of justification and sanctification, law and gospel."
+      ],
+      "relatedPositionIds": [
+        "justification-by-faith-alone",
+        "penal-substitution",
+        "calvinism-tulip",
+        "trinitarian-union-framework"
+      ],
+      "standing": "significant",
+      "sources": [
+        "schaff-creeds",
+        "muller-calvin-after",
+        "fesko-union",
+        "mcgrath-iustitia"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "trinitarian-union-framework",
+      "doctrineId": "salvation",
+      "name": "Relational / participatory / union framework",
+      "altNames": [
+        "gospel of union",
+        "Trinitarian incarnational theology",
+        "inclusion theology (in its stronger forms)",
+        "grace message (popular forms)"
+      ],
+      "oneLine": "God is first the Father, Son and Spirit in a communion of love; in the incarnation the Son united himself to all humanity, healed and reconciled it in his own person, and by the Spirit draws people to share his relationship with the Father; salvation is union and participation rather than primarily a legal transaction.",
+      "coreClaims": [
+        "God’s primary identity is the Triune communion of love; law and judgement serve that love.",
+        "Sin is primarily alienation, bondage and corruption of relationship, including but not reduced to guilt.",
+        "In the incarnation, Christ assumed fallen humanity and included all people in his vicarious life, death and resurrection (\"one died for all, therefore all died\").",
+        "Faith is the Spirit-given response that participates in, rather than completes, what God has done in Christ; in stronger forms (Kruger, du Toit) the gospel announces an inclusion already true of all.",
+        "Wrath is the opposition of God’s love to what destroys his children, not a hostility needing to be changed into love."
+      ],
+      "keyTexts": [
+        "John 1:1-18",
+        "John 14:20; 17:21-26",
+        "2 Corinthians 5:14-21",
+        "Romans 5:18-19",
+        "Ephesians 1:3-14",
+        "Colossians 1:15-20",
+        "Galatians 2:20",
+        "2 Peter 1:4"
+      ],
+      "origin": "Draws on Irenaeus, Athanasius and Eastern theosis and on Calvin’s union with Christ; reshaped by John McLeod Campbell (1856), Karl Barth’s doctrine of election (Church Dogmatics II/2, 1942), T. F. and J. B. Torrance; popularised by C. Baxter Kruger (Perichoresis, from 1997), Francois du Toit’s Mirror Bible and Mirror Word, and global \"finished work\"/grace-message preaching.",
+      "originYear": 1856,
+      "proponentIds": [
+        "irenaeus",
+        "athanasius",
+        "john-calvin",
+        "john-mcleod-campbell",
+        "karl-barth",
+        "thomas-f-torrance",
+        "james-b-torrance",
+        "c-baxter-kruger",
+        "francois-du-toit"
+      ],
+      "proponentsOther": [
+        "Gregory of Nazianzus (principle of assumption)",
+        "Edward Irving",
+        "Colin Gunton",
+        "Michael Jinkins",
+        "Joseph Prince (Singapore, grace message, distinct emphases)",
+        "Grace Communion International (adopted Trinitarian theology c.2000s)"
+      ],
+      "traditionIds": [
+        "reformed",
+        "presbyterian",
+        "eastern-orthodox",
+        "evangelical",
+        "charismatic-renewal",
+        "neo-charismatic"
+      ],
+      "strongestArguments": [
+        "It places the person of Christ and the Trinity, rather than an abstract law, at the centre of the gospel.",
+        "It takes seriously the pervasive New Testament language of being \"in Christ\" and of Christ’s representative humanity.",
+        "It grounds assurance in who Christ is for all, freeing preaching from fear and conditionality."
+      ],
+      "strongestObjections": [
+        "Legal critics: it downplays guilt, wrath and the need for personal faith and repentance, and in stronger forms implies universalism.",
+        "Many Reformed scholars argue the Torrances misread federal theology and Calvin, who held union and imputation together.",
+        "Orthodox observers note that Western inclusion theologies differ from patristic theosis, which is synergistic and sacramental."
+      ],
+      "responses": [
+        "Most academic representatives (T. F. Torrance, Barth) explicitly refused universalism as a system and insisted on faith as real participation.",
+        "They reply that they do not deny judgement or substitution but relocate them within the Son’s filial relation to the Father."
+      ],
+      "consequences": [
+        "Shapes Torrance-influenced Scottish and American Reformed theology, Trinitarian ministry networks, and grace-message movements in Africa, Asia and North America.",
+        "Has prompted denominational reassessment (e.g. Grace Communion International) and debates about universalism."
+      ],
+      "relatedPositionIds": [
+        "theosis",
+        "participatory-union-atonement",
+        "evangelical-universalism",
+        "federal-forensic-framework",
+        "recapitulation"
+      ],
+      "standing": "minority",
+      "sources": [
+        "torrance-atonement",
+        "torrance-worship",
+        "torrance-scottish",
+        "mcleod-campbell-nature",
+        "kruger-great-dance",
+        "du-toit-mirror",
+        "billings-calvin-participation"
+      ],
+      "confidence": "debated"
+    }
+  ],
+  "comparisons": [
+    {
+      "id": "legal-vs-union-gospel",
+      "title": "Legal gospel vs relational gospel (gospel of union)",
+      "summary": "Two broad ways of framing the good news that cut across denominations. The legal/forensic framework sees God first as righteous Judge and Lawgiver and the gospel as the verdict of acquittal secured by Christ’s substitution; the relational/participatory/union framework sees God first as Father, Son and Spirit in communion and the gospel as humanity’s inclusion, healing and adoption in the incarnate Son. Both claim Paul, Calvin and the \"in Christ\" texts; many theologians hold elements of both.",
+      "columns": [
+        {
+          "name": "Legal / forensic framework",
+          "positionIds": [
+            "federal-forensic-framework",
+            "penal-substitution",
+            "justification-by-faith-alone",
+            "calvinism-tulip"
+          ],
+          "proponentIds": [
+            "john-owen",
+            "charles-hodge",
+            "j-i-packer",
+            "john-piper",
+            "john-calvin",
+            "jonathan-edwards"
+          ],
+          "colour": "#8b2e2e"
+        },
+        {
+          "name": "Relational / participatory / union framework",
+          "positionIds": [
+            "trinitarian-union-framework",
+            "participatory-union-atonement",
+            "theosis",
+            "recapitulation"
+          ],
+          "proponentIds": [
+            "irenaeus",
+            "athanasius",
+            "john-calvin",
+            "john-mcleod-campbell",
+            "karl-barth",
+            "thomas-f-torrance",
+            "james-b-torrance",
+            "c-baxter-kruger",
+            "francois-du-toit"
+          ],
+          "colour": "#2e6b8b"
+        }
+      ],
+      "rows": [
+        {
+          "topic": "God’s primary identity",
+          "cells": [
+            "Holy Lawgiver and Judge who is also loving Father; justice and love are equally ultimate attributes of the one God.",
+            "Father, Son and Spirit in eternal communion; God’s love and fatherhood are primary, and justice is the righteousness of that love."
+          ]
+        },
+        {
+          "topic": "Creation and covenant",
+          "cells": [
+            "A covenant of works with Adam as federal head (Westminster 7.2), followed by a covenant of grace in Christ.",
+            "One covenant of grace from the beginning; humanity created in and for the Son (Col 1:16). J. B. Torrance warns against turning covenant into contract."
+          ]
+        },
+        {
+          "topic": "The human plight (sin)",
+          "cells": [
+            "Guilt and condemnation before God’s law; Adam’s sin imputed; corruption of nature as its penalty.",
+            "Alienation, bondage, corruption and death; a broken relationship and a blinded identity — including real guilt, but not reducible to it."
+          ]
+        },
+        {
+          "topic": "The incarnation",
+          "cells": [
+            "Necessary so that a sinless human substitute could obey the law and bear its penalty.",
+            "Itself saving: \"what is not assumed is not healed\". The Son unites all humanity to himself and heals it from within."
+          ]
+        },
+        {
+          "topic": "The cross",
+          "cells": [
+            "Penal substitution: Christ bears the penalty of sin in place of his people, satisfying divine justice.",
+            "Christ’s vicarious self-offering in our humanity: the death of the old Adam, a \"perfect Amen\" to the Father’s judgement (Campbell), victory over death."
+          ]
+        },
+        {
+          "topic": "The wrath of God",
+          "cells": [
+            "God’s holy, judicial opposition to sin and sinners, propitiated by Christ’s sacrifice.",
+            "The resistance of God’s love to all that destroys his children; not something that must be changed into love, since the cross flows from love."
+          ]
+        },
+        {
+          "topic": "Justification",
+          "cells": [
+            "A forensic declaration: sins pardoned and Christ’s righteousness imputed, once for all, through faith alone.",
+            "Grounded in Christ’s own justified humanity; we are justified because we are in him. Many affirm a forensic dimension within union (Calvin, Torrance)."
+          ]
+        },
+        {
+          "topic": "The role of faith",
+          "cells": [
+            "The God-given instrument by which an individual receives Christ and his benefits; without faith, no saving benefit.",
+            "The Spirit-given participation in Christ’s own faith and obedience; in stronger forms, awakening to and agreeing with what is already true (du Toit, Kruger)."
+          ]
+        },
+        {
+          "topic": "Scope: inclusion of humanity in Christ",
+          "cells": [
+            "Christ represents the elect (definite atonement) or provides for all conditionally (Arminian/Amyraldian forms); inclusion follows faith.",
+            "Christ assumed the humanity of all; all are objectively included in his death and resurrection (2 Cor 5:14). Subjective realisation by the Spirit through faith."
+          ]
+        },
+        {
+          "topic": "Election",
+          "cells": [
+            "God’s eternal decree choosing particular persons to salvation in Christ (Westminster 3; Dort).",
+            "Barth: Jesus Christ is the electing God and the elected man; all humanity is elected in him, and he bore the rejection."
+          ]
+        },
+        {
+          "topic": "Assurance",
+          "cells": [
+            "Rests on the promise of the gospel and the finished work; confirmed by the Spirit’s witness and the fruits of faith (sometimes leading to introspection).",
+            "Rests on who Christ is for all humanity; believers look away from their faith to Christ’s faith and finished work (McLeod Campbell’s concern from Row, 1820s)."
+          ]
+        },
+        {
+          "topic": "Calvin’s place",
+          "cells": [
+            "Calvin taught justification as \"the principal hinge\" of religion, imputation, penal substitution and predestination; federal theology developed his thought faithfully.",
+            "Calvin made union with Christ primary (Institutes III.1.1; III.11.10): justification and sanctification as a \"double grace\" from union; later federal Calvinism narrowed him."
+          ]
+        },
+        {
+          "topic": "Paul’s \"in Christ\"",
+          "cells": [
+            "Chiefly representative and covenantal: believers are in Christ as their federal head and mystically united to him by faith and the Spirit.",
+            "Ontological and participatory: humanity’s being has been gathered up in Christ (Eph 1:10); \"in Christ\" names the new reality of all creation."
+          ]
+        },
+        {
+          "topic": "Sanctification",
+          "cells": [
+            "A distinct, progressive work of the Spirit following justification, driven by gratitude and the third use of the law.",
+            "Participation in Christ’s already-sanctified humanity; becoming who we are in him; growth in communion rather than performance."
+          ]
+        },
+        {
+          "topic": "The universalism question",
+          "cells": [
+            "Rejected: only those who believe are saved; hell is real (usually eternal conscious punishment).",
+            "Divided: Torrance and most academics reject universalism as a system; Barth left it open; some popular proponents are hopeful or convinced universalists, while others insist on the possibility of final refusal."
+          ]
+        },
+        {
+          "topic": "Key texts",
+          "cells": [
+            "Romans 3:21-26; 4:1-8; 5:12-21; 2 Corinthians 5:21; Galatians 3:10-14; Philippians 3:9.",
+            "John 1:1-18; 14:20; 17:21-26; 2 Corinthians 5:14-19; Ephesians 1:3-10; 2:5-6; Colossians 1:15-20; 2 Peter 1:4."
+          ]
+        },
+        {
+          "topic": "Historic and modern representatives",
+          "cells": [
+            "Westminster Standards, John Owen, Francis Turretin, Jonathan Edwards, Charles Hodge, B. B. Warfield, J. I. Packer, R. C. Sproul, John Piper.",
+            "Irenaeus, Athanasius, Eastern theosis, Calvin (on union), John McLeod Campbell, Karl Barth, T. F. and J. B. Torrance, C. Baxter Kruger, Francois du Toit, grace-message preachers."
+          ]
+        }
+      ],
+      "overlaps": [
+        "Both confess salvation by grace alone through Christ alone, and the full deity and humanity of Christ.",
+        "Both claim the apostle Paul and the \"in Christ\" texts as foundational.",
+        "Both claim John Calvin, who held union with Christ and forensic justification together.",
+        "Both affirm that Christ acted as our substitute and representative, though they interpret it differently.",
+        "Many Reformed theologians (Calvin, Owen on communion with God, modern \"union with Christ\" scholars) integrate both frameworks.",
+        "Both are Trinitarian and reject Pelagian accounts of salvation."
+      ],
+      "differences": [
+        "Whether God’s relation to humanity is fundamentally legal (covenant of works) or filial (Father-Son).",
+        "Whether all humanity is objectively included in Christ’s incarnation and death, or only the elect/believers.",
+        "The nature of divine wrath: judicial hostility to be propitiated, or love’s opposition to evil.",
+        "The role of faith: instrument that receives, or participation/awakening that acknowledges.",
+        "Whether union language implies universalism.",
+        "How to read Calvin, federal theology and the Westminster tradition."
+      ],
+      "critiques": [
+        [
+          "J. B. Torrance: federal theology turns covenant into contract and makes grace conditional.",
+          "John McLeod Campbell: it makes God’s fatherhood secondary to his justice and leaves anxious believers seeking evidence of election.",
+          "Eastern Orthodox: it reduces salvation to status and neglects healing and deification.",
+          "New Perspective scholars: it imports Reformation questions into Paul.",
+          "Pastoral critics: it can foster fear-based preaching and introspective assurance."
+        ],
+        [
+          "Federal theologians: it downplays guilt, divine justice and the necessity of personal faith and repentance.",
+          "Many Reformed historians (Muller, Fesko): the Torrances misrepresent federal theology and Calvin.",
+          "Evangelical critics: inclusion theology in its popular forms (Kruger, du Toit, some grace preachers) tends toward universalism and an unconditional gospel that removes the call to repent.",
+          "Orthodox observers: modern Western inclusion differs from patristic theosis, which is ascetic, sacramental and synergistic.",
+          "Critics of \"hyper-grace\": it can neglect confession of sin and moral exhortation."
+        ]
+      ],
+      "practical": [
+        {
+          "area": "Preaching",
+          "cells": [
+            "Law then gospel: diagnose guilt, proclaim Christ’s substitution, call for repentance and faith.",
+            "Announce who people already are in Christ and invite them to see, believe and live it; exhortation flows from the indicative."
+          ]
+        },
+        {
+          "area": "Assurance",
+          "cells": [
+            "Look to Christ’s finished work and promise, confirmed by the Spirit and the fruit of faith.",
+            "Look away from one’s own faith to Christ’s faith and vicarious humanity; assurance is of the essence of believing the gospel."
+          ]
+        },
+        {
+          "area": "Evangelism",
+          "cells": [
+            "Urgent call to flee coming wrath and receive Christ; conversion as a decisive transfer from condemnation to justification.",
+            "Telling people the good news of their inclusion and adoption, and calling them to awaken to it; less emphasis on crisis decision."
+          ]
+        },
+        {
+          "area": "Pastoral care",
+          "cells": [
+            "Applying forgiveness to guilty consciences; discipline and accountability under God’s law.",
+            "Healing of identity, shame and broken relationships; emphasis on belonging and the Father’s love."
+          ]
+        },
+        {
+          "area": "Worship and sacraments",
+          "cells": [
+            "Worship as grateful response to God’s saving acts; sacraments as signs and seals of the covenant.",
+            "Worship as participation by the Spirit in the Son’s own worship of the Father (J. B. Torrance); sacraments as participation in Christ."
+          ]
+        }
+      ],
+      "sources": [
+        "torrance-worship",
+        "torrance-scottish",
+        "mcleod-campbell-nature",
+        "fesko-union",
+        "billings-calvin-participation",
+        "kruger-great-dance",
+        "du-toit-mirror",
+        "schaff-creeds",
+        "mcgrath-iustitia",
+        "packer-cross-achieve"
+      ]
+    }
+  ],
+  "controversies": [
+    {
+      "id": "legal-vs-union-gospel-debate",
+      "title": "Legal gospel vs gospel of union",
+      "question": "Is the gospel fundamentally God’s legal verdict of acquittal for those who believe, or the announcement of humanity’s inclusion and adoption in the incarnate Son?",
+      "summary": "A debate running from McLeod Campbell’s deposition (1831) through Barth and the Torrances’ critique of federal Calvinism to contemporary controversies over Trinitarian \"inclusion\" theology, the Mirror Bible and the global grace message.",
+      "doctrineIds": [
+        "salvation",
+        "atonement"
+      ],
+      "sides": [
+        {
+          "name": "Legal / forensic framework",
+          "positionId": "federal-forensic-framework",
+          "steelman": "The gospel is good news because the bad news is real: we stand guilty before a holy God. In Christ, God himself has kept the law and borne its curse for us, and through faith alone we receive a verdict that will never be reversed. Union with Christ is precious, but without imputed righteousness and propitiation, \"union\" becomes a vague sentiment and assurance has no foundation.",
+          "arguments": [
+            "Paul’s forensic vocabulary.",
+            "God’s justice and holiness.",
+            "Necessity of personal faith (John 3:18, 36)."
+          ],
+          "counterArguments": [
+            "Makes God’s fatherhood secondary.",
+            "Conditional \"contract\" grace."
+          ],
+          "keyTexts": [
+            "Romans 3:21-26",
+            "Romans 4:5",
+            "2 Corinthians 5:21",
+            "John 3:36"
+          ],
+          "quoteIds": [
+            "hodge-imputation",
+            "piper-imputation",
+            "packer-legal-framework",
+            "owen-triple-choice",
+            "calvin-principal-hinge",
+            "melanchthon-augsburg-iv"
+          ]
+        },
+        {
+          "name": "Relational / union framework",
+          "positionId": "trinitarian-union-framework",
+          "steelman": "The gospel begins with the Father, Son and Spirit, not with a law above God. The Son became what we are so that we might share what he is; he gathered all humanity into his life, death and resurrection. Faith does not make this true; it is the Spirit opening our eyes to it. Only so is assurance Christ-centred and the gospel truly good news for all.",
+          "arguments": [
+            "Incarnation and \"what is not assumed is not healed\".",
+            "2 Corinthians 5:14; Ephesians 1:10; Colossians 1:20.",
+            "Patristic theosis and Calvin’s union."
+          ],
+          "counterArguments": [
+            "Universalism.",
+            "Loss of guilt, wrath and repentance."
+          ],
+          "keyTexts": [
+            "2 Corinthians 5:14-19",
+            "John 14:20",
+            "Ephesians 1:3-10",
+            "Colossians 1:15-20"
+          ],
+          "quoteIds": [
+            "irenaeus-become-what-we-are",
+            "athanasius-made-god",
+            "calvin-without-christ",
+            "calvin-mystical-union",
+            "campbell-perfect-amen",
+            "tf-torrance-latin-heresy",
+            "jb-torrance-covenant-contract",
+            "barth-election-in-christ",
+            "kruger-included",
+            "du-toit-mirror"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "year": 180,
+          "text": "Irenaeus: Christ became what we are."
+        },
+        {
+          "year": 318,
+          "text": "Athanasius: made man that we might be made God."
+        },
+        {
+          "year": 1559,
+          "text": "Calvin’s final Institutes: union with Christ and the double grace."
+        },
+        {
+          "year": 1646,
+          "text": "Westminster Confession codifies covenant of works and grace.",
+          "eventId": "westminster-assembly-1643"
+        },
+        {
+          "year": 1831,
+          "text": "John McLeod Campbell deposed by the General Assembly of the Church of Scotland."
+        },
+        {
+          "year": 1856,
+          "text": "Campbell’s The Nature of the Atonement."
+        },
+        {
+          "year": 1942,
+          "text": "Barth’s Church Dogmatics II/2 on election in Christ."
+        },
+        {
+          "year": 1970,
+          "text": "J. B. Torrance, \"Covenant or Contract?\""
+        },
+        {
+          "year": 2000,
+          "text": "C. Baxter Kruger’s The Great Dance."
+        },
+        {
+          "year": 2012,
+          "text": "Francois du Toit’s complete Mirror Bible New Testament."
+        }
+      ],
+      "resolution": {
+        "kind": "open",
+        "text": "Unresolved and often cross-cutting: many Reformed theologians now emphasise union with Christ as the context of forensic justification, while debate continues over inclusion of all humanity in Christ, the nature of wrath and the universalism question."
+      },
+      "consequences": [
+        "Renewed scholarship on union with Christ in Calvin and Reformed orthodoxy.",
+        "Grace-message and Trinitarian ministry networks in Africa, Asia and North America.",
+        "Denominational change (Grace Communion International) and controversies in evangelical institutions."
+      ],
+      "sources": [
+        "torrance-scottish",
+        "fesko-union",
+        "billings-calvin-participation",
+        "mcleod-campbell-nature",
+        "muller-calvin-after"
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "id": "hodge-imputation",
+      "text": "Hodge teaches that as Adam’s sin is imputed to his posterity by virtue of the covenant in which he stood as their federal head, so Christ’s righteousness — his obedience and his satisfaction of justice — is imputed to believers as the sole ground of their justification, which is a forensic declaration, not an inward change.",
+      "kind": "paraphrase",
+      "personId": "charles-hodge",
+      "citation": "Systematic Theology (1872-73), vol. 3, ch. 17 \"Justification\" (paraphrase)",
+      "topics": [
+        "imputation",
+        "federal theology",
+        "justification"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "year": 1873
+    },
+    {
+      "id": "piper-imputation",
+      "text": "Piper argues that the imputation of Christ’s perfect righteousness to the believer is essential to the gospel: God counts us righteous in Christ not because of any transformation in us, and this alone gives a sure footing for assurance and joy before a holy God.",
+      "kind": "paraphrase",
+      "personId": "john-piper",
+      "citation": "Counted Righteous in Christ (2002); The Future of Justification (2007) (paraphrase)",
+      "topics": [
+        "imputation",
+        "justification",
+        "assurance"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "year": 2007
+    },
+    {
+      "id": "tf-torrance-latin-heresy",
+      "text": "T. F. Torrance criticises what he calls the \"Latin heresy\": a habit of thinking of Christ’s relation to sinners in external, legal terms, so that atonement becomes a transaction outside the person of the Mediator rather than reconciliation worked out within his incarnate humanity.",
+      "kind": "paraphrase",
+      "personId": "thomas-f-torrance",
+      "citation": "\"Karl Barth and the Latin Heresy\", Scottish Journal of Theology 39 (1986) (paraphrase)",
+      "topics": [
+        "union with Christ",
+        "critique of legalism",
+        "vicarious humanity"
+      ],
+      "doctrineIds": [
+        "salvation",
+        "atonement"
+      ],
+      "year": 1986
+    },
+    {
+      "id": "jb-torrance-covenant-contract",
+      "text": "J. B. Torrance contrasts covenant with contract: in a covenant God freely commits himself in love and then calls for a response of gratitude, whereas federal theology’s \"covenant of works\" turned grace into a conditional contract, so that the indicatives of grace were made dependent on the imperatives of law.",
+      "kind": "paraphrase",
+      "personId": "james-b-torrance",
+      "citation": "\"Covenant or Contract?\", Scottish Journal of Theology 23 (1970); Worship, Community and the Triune God of Grace (1996) (paraphrase)",
+      "topics": [
+        "covenant",
+        "federal theology",
+        "grace"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "year": 1970
+    },
+    {
+      "id": "jb-torrance-worship",
+      "text": "J. B. Torrance describes Christian worship as the gift of participating through the Spirit in the incarnate Son’s own communion with the Father, rather than a human work offered to God to secure his favour.",
+      "kind": "paraphrase",
+      "personId": "james-b-torrance",
+      "citation": "Worship, Community and the Triune God of Grace (1996), ch. 1 (paraphrase)",
+      "topics": [
+        "worship",
+        "participation",
+        "Trinity"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "year": 1996
+    },
+    {
+      "id": "barth-election-in-christ",
+      "text": "Barth teaches that Jesus Christ is both the electing God and the elected man: in him God has chosen humanity for fellowship with himself and has taken the rejection due to sinners upon himself, so that election is the sum of the gospel. He declined either to affirm or to deny universal salvation as a doctrine.",
+      "kind": "paraphrase",
+      "personId": "karl-barth",
+      "citation": "Church Dogmatics II/2 (1942), §§32-35 (paraphrase)",
+      "topics": [
+        "election",
+        "union with Christ",
+        "universalism question"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "year": 1942
+    },
+    {
+      "id": "kruger-included",
+      "text": "Kruger argues that the Father, Son and Spirit share a life of fellowship and joy, and that in becoming human the Son has included the whole human race in that life; the gospel announces what is already true in Jesus and invites people to believe and live it, rather than to make it true by their decision.",
+      "kind": "paraphrase",
+      "personId": "c-baxter-kruger",
+      "citation": "The Great Dance (2000); Jesus and the Undoing of Adam (2003) (paraphrase)",
+      "topics": [
+        "inclusion",
+        "Trinity",
+        "adoption"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "year": 2000
+    },
+    {
+      "id": "du-toit-mirror",
+      "text": "Du Toit teaches that Scripture is a mirror revealing humanity’s original identity in Christ: in Jesus’ death and resurrection all humanity was co-crucified and co-raised (2 Corinthians 5:14; Ephesians 2:5-6), so that faith is awakening to and agreeing with what God has already accomplished, not a condition that completes it.",
+      "kind": "paraphrase",
+      "personId": "francois-du-toit",
+      "citation": "The Mirror Bible, notes on 2 Corinthians 5:14-21 and Ephesians 2:5-6 (paraphrase)",
+      "topics": [
+        "inclusion",
+        "identity",
+        "finished work",
+        "faith"
+      ],
+      "doctrineIds": [
+        "salvation"
+      ],
+      "year": 2012
+    },
+    {
+      "id": "packer-legal-framework",
+      "text": "Packer argues that God’s relation to humanity is rightly described in legal terms because God is Judge as well as Father; justification is God’s judicial verdict of acquittal grounded on Christ’s substitutionary satisfaction, and without it adoption and assurance have no foundation.",
+      "kind": "paraphrase",
+      "personId": "j-i-packer",
+      "citation": "Knowing God (1973), chs. 18-19; \"What Did the Cross Achieve?\" (1974) (paraphrase)",
+      "topics": [
+        "justification",
+        "adoption",
+        "penal substitution"
+      ],
+      "doctrineIds": [
+        "salvation",
+        "atonement"
+      ],
+      "year": 1973
+    }
+  ],
+  "sources": [
+    {
+      "id": "billings-calvin-participation",
+      "title": "Calvin, Participation, and the Gift: The Activity of Believers in Union with Christ",
+      "author": "J. Todd Billings",
+      "year": 2007,
+      "kind": "secondary"
+    },
+    {
+      "id": "du-toit-mirror",
+      "title": "The Mirror Bible (Mirror Study Bible)",
+      "author": "Francois du Toit",
+      "year": 2012,
+      "kind": "primary",
+      "note": "paraphrase-translation of the New Testament; first portions published 2007"
+    },
+    {
+      "id": "fesko-union",
+      "title": "Beyond Calvin: Union with Christ and Justification in Early Modern Reformed Theology",
+      "author": "J. V. Fesko",
+      "year": 2012,
+      "kind": "secondary"
+    },
+    {
+      "id": "mcleod-campbell-nature",
+      "title": "The Nature of the Atonement and Its Relation to Remission of Sins and Eternal Life",
+      "author": "John McLeod Campbell",
+      "year": 1856,
+      "kind": "primary"
+    },
+    {
+      "id": "muller-calvin-after",
+      "title": "After Calvin: Studies in the Development of a Theological Tradition",
+      "author": "Richard A. Muller",
+      "year": 2003,
+      "kind": "secondary"
+    },
+    {
+      "id": "packer-cross-achieve",
+      "title": "What Did the Cross Achieve? The Logic of Penal Substitution (Tyndale Bulletin 25)",
+      "author": "J. I. Packer",
+      "year": 1974,
+      "kind": "secondary"
+    },
+    {
+      "id": "torrance-atonement",
+      "title": "Atonement: The Person and Work of Christ",
+      "author": "Thomas F. Torrance (ed. Robert T. Walker)",
+      "year": 2009,
+      "kind": "secondary"
+    },
+    {
+      "id": "torrance-scottish",
+      "title": "Scottish Theology: From John Knox to John McLeod Campbell",
+      "author": "Thomas F. Torrance",
+      "year": 1996,
+      "kind": "secondary"
+    },
+    {
+      "id": "torrance-worship",
+      "title": "Worship, Community and the Triune God of Grace",
+      "author": "James B. Torrance",
+      "year": 1996,
+      "kind": "secondary"
+    }
+  ]
+}
