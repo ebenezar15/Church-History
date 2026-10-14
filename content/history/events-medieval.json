@@ -5,52 +5,17 @@
       "title": "Council of Chalcedon",
       "year": 451,
       "circa": false,
-      "place": {
-        "name": "Chalcedon (Kadıköy)",
-        "lat": 40.9917,
-        "lng": 29.0277
-      },
+      "place": {"name": "Chalcedon (Kadıköy)", "lat": 40.9917, "lng": 29.0277},
       "category": "council",
-      "regions": [
-        "asia-minor",
-        "egypt",
-        "levant",
-        "armenia-caucasus",
-        "global"
-      ],
+      "regions": ["asia-minor", "egypt", "levant", "armenia-caucasus", "global"],
       "summary": "Some 520 bishops, summoned by Emperor Marcian, deposed Dioscorus of Alexandria, received Leo's Tome and defined Christ as one person 'acknowledged in two natures, without confusion, without change, without division, without separation'. Canon 28 raised Constantinople to near-parity with Rome. The definition was rejected by most Christians of Egypt, Syria and Armenia, producing the first lasting division of the church.",
       "longText": "Chalcedon sought to close the debate left open after Ephesus by holding together the Alexandrian insistence on one incarnate Word and the Antiochene concern for two complete natures. Its definition borrowed from Cyril's letters, Leo's Tome and the Formula of Reunion, confessing one and the same Son, perfect in Godhead and perfect in manhood, 'in two natures'. For its defenders — Catholic, Eastern Orthodox and most Protestants — it is a balanced boundary marking out heresies on both sides. For the Miaphysite (often called Monophysite by opponents) churches of Egypt, Syria, Armenia and Ethiopia, 'in two natures' sounded Nestorian and betrayed Cyril's formula 'one incarnate nature of God the Word'; they regarded the deposition of Dioscorus as political, the work of Rome and Constantinople. Imperial attempts at reconciliation (the Henotikon of 482, Justinian's council of 553, Monoenergism and Monothelitism in the 7th century) failed, and separate hierarchies emerged through figures like Severus of Antioch and Jacob Baradaeus. Many historians now see the dispute as partly terminological and bound up with language, regional identity and imperial politics. Agreed statements between Eastern Orthodox and Oriental Orthodox theologians (1989–1990) and between Rome and individual Oriental churches have affirmed a common faith in Christ expressed in different formulas.",
-      "causes": [
-        "Robber Council of 449",
-        "Leo's Tome",
-        "Alexandrian–Constantinopolitan rivalry"
-      ],
-      "consequences": [
-        "Chalcedonian definition of two natures",
-        "Separation of the Oriental Orthodox churches",
-        "Canon 28 and Rome–Constantinople tension",
-        "Persistent imperial efforts at reunion"
-      ],
-      "peopleIds": [
-        "leo-i",
-        "dioscorus",
-        "cyril-of-alexandria"
-      ],
-      "doctrineIds": [
-        "christology"
-      ],
-      "traditionIds": [
-        "early-church",
-        "oriental-orthodox",
-        "catholic",
-        "eastern-orthodox"
-      ],
-      "sources": [
-        "tanner-decrees",
-        "meyendorff-imperial-unity",
-        "kelly-creeds",
-        "atiya-eastern-christianity"
-      ],
+      "causes": ["Robber Council of 449", "Leo's Tome", "Alexandrian–Constantinopolitan rivalry"],
+      "consequences": ["Chalcedonian definition of two natures", "Separation of the Oriental Orthodox churches", "Canon 28 and Rome–Constantinople tension", "Persistent imperial efforts at reunion"],
+      "peopleIds": ["leo-i", "dioscorus", "cyril-of-alexandria"],
+      "doctrineIds": ["christology"],
+      "traditionIds": ["early-church", "oriental-orthodox", "catholic", "eastern-orthodox"],
+      "sources": ["tanner-decrees", "meyendorff-imperial-unity", "kelly-creeds", "atiya-eastern-christianity"],
       "confidence": "established"
     },
     {
@@ -58,34 +23,16 @@
       "title": "School of the Persians moves to Nisibis",
       "year": 489,
       "circa": false,
-      "place": {
-        "name": "Nisibis (Nusaybin)",
-        "lat": 37.0742,
-        "lng": 41.2142
-      },
+      "place": {"name": "Nisibis (Nusaybin)", "lat": 37.0742, "lng": 41.2142},
       "category": "intellectual",
-      "regions": [
-        "mesopotamia-persia"
-      ],
+      "regions": ["mesopotamia-persia"],
       "summary": "Emperor Zeno closed the 'School of the Persians' at Edessa for its Antiochene (Dyophysite) theology; its teachers, led by Narsai, reestablished it at Nisibis under Bishop Barsauma in Persian territory. Nisibis became the theological academy of the Church of the East, which at synods in 484–486 formally adopted Theodore of Mopsuestia's theology.",
-      "causes": [
-        "Imperial pressure against Antiochene theology"
-      ],
-      "consequences": [
-        "Intellectual centre for the Church of the East for two centuries",
-        "Transmission of Greek learning into Syriac and later Arabic"
-      ],
+      "causes": ["Imperial pressure against Antiochene theology"],
+      "consequences": ["Intellectual centre for the Church of the East for two centuries", "Transmission of Greek learning into Syriac and later Arabic"],
       "peopleIds": [],
-      "doctrineIds": [
-        "christology"
-      ],
-      "traditionIds": [
-        "church-of-the-east"
-      ],
-      "sources": [
-        "baum-winkler-east",
-        "moffett-asia"
-      ],
+      "doctrineIds": ["christology"],
+      "traditionIds": ["church-of-the-east"],
+      "sources": ["baum-winkler-east", "moffett-asia"],
       "confidence": "established"
     },
     {
@@ -93,33 +40,16 @@
       "title": "Arrival of the Nine Saints in Ethiopia",
       "year": 480,
       "circa": true,
-      "place": {
-        "name": "Debre Damo",
-        "lat": 14.3725,
-        "lng": 39.29
-      },
+      "place": {"name": "Debre Damo", "lat": 14.3725, "lng": 39.29},
       "category": "mission",
-      "regions": [
-        "ethiopia-nubia"
-      ],
+      "regions": ["ethiopia-nubia"],
       "summary": "Ethiopian tradition tells of nine monks from the Roman East, probably non-Chalcedonians, who came to Aksum in the late fifth century, founded monasteries such as Debre Damo, evangelised the countryside and translated Scripture and texts into Ge'ez. They gave Ethiopian Christianity its monastic and Miaphysite character.",
-      "causes": [
-        "Flight of anti-Chalcedonian monks from imperial pressure"
-      ],
-      "consequences": [
-        "Ethiopian monastic network",
-        "Ge'ez Bible and liturgy"
-      ],
+      "causes": ["Flight of anti-Chalcedonian monks from imperial pressure"],
+      "consequences": ["Ethiopian monastic network", "Ge'ez Bible and liturgy"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "ethiopian-orthodox-tewahedo",
-        "oriental-orthodox"
-      ],
-      "sources": [
-        "isichei-africa",
-        "hastings-church-in-africa"
-      ],
+      "traditionIds": ["ethiopian-orthodox-tewahedo", "oriental-orthodox"],
+      "sources": ["isichei-africa", "hastings-church-in-africa"],
       "confidence": "traditional"
     },
     {
@@ -127,35 +57,16 @@
       "title": "Baptism of Clovis, king of the Franks",
       "year": 496,
       "circa": true,
-      "place": {
-        "name": "Reims",
-        "lat": 49.2583,
-        "lng": 4.0317
-      },
+      "place": {"name": "Reims", "lat": 49.2583, "lng": 4.0317},
       "category": "mission",
-      "regions": [
-        "western-europe"
-      ],
+      "regions": ["western-europe"],
       "summary": "Clovis, influenced by his Catholic wife Clotilde and a victory over the Alamanni, was baptized by Bishop Remigius at Reims (dates range 496–508). Unlike other Germanic kings, who were Homoian, he chose Nicene Catholicism, aligning the Franks with the Gallo-Roman bishops and the papacy.",
-      "causes": [
-        "Clotilde's influence",
-        "Political advantage with Gallo-Roman elites"
-      ],
-      "consequences": [
-        "Frankish Catholic kingdom",
-        "Foundation of the later Carolingian alliance with Rome"
-      ],
+      "causes": ["Clotilde's influence", "Political advantage with Gallo-Roman elites"],
+      "consequences": ["Frankish Catholic kingdom", "Foundation of the later Carolingian alliance with Rome"],
       "peopleIds": [],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "brown-rise-western",
-        "odcc"
-      ],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["catholic"],
+      "sources": ["brown-rise-western", "odcc"],
       "confidence": "debated"
     },
     {
@@ -163,34 +74,16 @@
       "title": "Benedict founds Monte Cassino",
       "year": 529,
       "circa": true,
-      "place": {
-        "name": "Monte Cassino",
-        "lat": 41.4903,
-        "lng": 13.8137
-      },
+      "place": {"name": "Monte Cassino", "lat": 41.4903, "lng": 13.8137},
       "category": "reform",
-      "regions": [
-        "italy"
-      ],
+      "regions": ["italy"],
       "summary": "Benedict of Nursia established a monastery on Monte Cassino and wrote his Rule, a moderate guide to communal prayer, work and obedience drawing on earlier masters. Through Carolingian promotion it became the standard rule of Western monasticism.",
-      "causes": [
-        "Desire for ordered communal life amid social collapse"
-      ],
-      "consequences": [
-        "Benedictine monasticism",
-        "Preservation of learning and liturgy in the West"
-      ],
-      "peopleIds": [
-        "benedict-of-nursia"
-      ],
+      "causes": ["Desire for ordered communal life amid social collapse"],
+      "consequences": ["Benedictine monasticism", "Preservation of learning and liturgy in the West"],
+      "peopleIds": ["benedict-of-nursia"],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "odcc",
-        "brown-rise-western"
-      ],
+      "traditionIds": ["catholic"],
+      "sources": ["odcc", "brown-rise-western"],
       "confidence": "established"
     },
     {
@@ -198,37 +91,16 @@
       "title": "Second Council of Orange",
       "year": 529,
       "circa": false,
-      "place": {
-        "name": "Arausio (Orange)",
-        "lat": 44.1381,
-        "lng": 4.8075
-      },
+      "place": {"name": "Arausio (Orange)", "lat": 44.1381, "lng": 4.8075},
       "category": "council",
-      "regions": [
-        "western-europe"
-      ],
+      "regions": ["western-europe"],
       "summary": "A small Gallic council under Caesarius of Arles condemned 'Semi-Pelagian' views that the beginning of faith lies in human free will, affirming that even the first movement toward God is a gift of grace. It did not endorse double predestination, which it explicitly rejected. Pope Boniface II confirmed it in 531.",
-      "causes": [
-        "Debates following Augustine's death, involving John Cassian and Faustus of Riez"
-      ],
-      "consequences": [
-        "Moderate Augustinianism in Western doctrine",
-        "Rediscovered in the 16th century and cited by Catholics and Protestants alike"
-      ],
-      "peopleIds": [
-        "augustine-of-hippo"
-      ],
-      "doctrineIds": [
-        "salvation"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "mcgrath-iustitia",
-        "pelikan-christian-tradition",
-        "schaff-history"
-      ],
+      "causes": ["Debates following Augustine's death, involving John Cassian and Faustus of Riez"],
+      "consequences": ["Moderate Augustinianism in Western doctrine", "Rediscovered in the 16th century and cited by Catholics and Protestants alike"],
+      "peopleIds": ["augustine-of-hippo"],
+      "doctrineIds": ["salvation"],
+      "traditionIds": ["catholic"],
+      "sources": ["mcgrath-iustitia", "pelikan-christian-tradition", "schaff-history"],
       "confidence": "established"
     },
     {
@@ -236,33 +108,16 @@
       "title": "Justinian dedicates Hagia Sophia",
       "year": 537,
       "circa": false,
-      "place": {
-        "name": "Constantinople (Istanbul)",
-        "lat": 41.0082,
-        "lng": 28.9784
-      },
+      "place": {"name": "Constantinople (Istanbul)", "lat": 41.0082, "lng": 28.9784},
       "category": "liturgical",
-      "regions": [
-        "greece-balkans",
-        "asia-minor"
-      ],
+      "regions": ["greece-balkans", "asia-minor"],
       "summary": "Justinian rebuilt the Great Church of Holy Wisdom with a vast dome by Anthemius and Isidore, dedicated on 27 December 537. It became the symbol of Byzantine Orthodoxy; the Russian Primary Chronicle credits its liturgy with persuading Vladimir's envoys.",
-      "causes": [
-        "Nika riots destroyed the previous church (532)"
-      ],
-      "consequences": [
-        "Model of domed church architecture",
-        "Centre of imperial liturgy until 1453"
-      ],
+      "causes": ["Nika riots destroyed the previous church (532)"],
+      "consequences": ["Model of domed church architecture", "Centre of imperial liturgy until 1453"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "eastern-orthodox"
-      ],
-      "sources": [
-        "hussey-byzantine",
-        "macculloch-christianity"
-      ],
+      "traditionIds": ["eastern-orthodox"],
+      "sources": ["hussey-byzantine", "macculloch-christianity"],
       "confidence": "established"
     },
     {
@@ -270,40 +125,16 @@
       "title": "Jacob Baradaeus builds a Miaphysite hierarchy",
       "year": 542,
       "circa": true,
-      "place": {
-        "name": "Edessa (Şanlıurfa)",
-        "lat": 37.1591,
-        "lng": 38.7969
-      },
+      "place": {"name": "Edessa (Şanlıurfa)", "lat": 37.1591, "lng": 38.7969},
       "category": "schism",
-      "regions": [
-        "levant",
-        "mesopotamia-persia",
-        "asia-minor"
-      ],
+      "regions": ["levant", "mesopotamia-persia", "asia-minor"],
       "summary": "Consecrated secretly bishop of Edessa with the help of Empress Theodora, Jacob Baradaeus travelled in disguise across Syria and Asia Minor ordaining bishops and priests. He gave the anti-Chalcedonian church of Syria an independent hierarchy; its members were long called 'Jacobites'.",
-      "causes": [
-        "Imperial deposition of anti-Chalcedonian bishops",
-        "Death of Severus of Antioch (538)"
-      ],
-      "consequences": [
-        "Syriac Orthodox Church as a separate communion"
-      ],
-      "peopleIds": [
-        "jacob-baradaeus",
-        "severus-of-antioch"
-      ],
-      "doctrineIds": [
-        "christology"
-      ],
-      "traditionIds": [
-        "syriac-orthodox",
-        "oriental-orthodox"
-      ],
-      "sources": [
-        "meyendorff-imperial-unity",
-        "atiya-eastern-christianity"
-      ],
+      "causes": ["Imperial deposition of anti-Chalcedonian bishops", "Death of Severus of Antioch (538)"],
+      "consequences": ["Syriac Orthodox Church as a separate communion"],
+      "peopleIds": ["jacob-baradaeus", "severus-of-antioch"],
+      "doctrineIds": ["christology"],
+      "traditionIds": ["syriac-orthodox", "oriental-orthodox"],
+      "sources": ["meyendorff-imperial-unity", "atiya-eastern-christianity"],
       "confidence": "established"
     },
     {
@@ -312,33 +143,16 @@
       "year": 543,
       "endYear": 580,
       "circa": true,
-      "place": {
-        "name": "Faras (Pachoras)",
-        "lat": 22.2,
-        "lng": 31.48
-      },
+      "place": {"name": "Faras (Pachoras)", "lat": 22.2, "lng": 31.48},
       "category": "mission",
-      "regions": [
-        "ethiopia-nubia"
-      ],
+      "regions": ["ethiopia-nubia"],
       "summary": "Rival missions sent by Theodora (Miaphysite) and Justinian (Chalcedonian) reached the Nubian kingdoms of Nobadia, Makuria and Alodia between 543 and 580. Christian Nubia flourished for some 800 years, with cathedrals such as Faras decorated with remarkable frescoes.",
-      "causes": [
-        "Byzantine imperial rivalry over Christology"
-      ],
-      "consequences": [
-        "Christian Nubia until the 15th century",
-        "Baqt treaty with Muslim Egypt (652)"
-      ],
+      "causes": ["Byzantine imperial rivalry over Christology"],
+      "consequences": ["Christian Nubia until the 15th century", "Baqt treaty with Muslim Egypt (652)"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "coptic-orthodox",
-        "oriental-orthodox"
-      ],
-      "sources": [
-        "isichei-africa",
-        "hastings-church-in-africa"
-      ],
+      "traditionIds": ["coptic-orthodox", "oriental-orthodox"],
+      "sources": ["isichei-africa", "hastings-church-in-africa"],
       "confidence": "established"
     },
     {
@@ -346,44 +160,17 @@
       "title": "Second Council of Constantinople",
       "year": 553,
       "circa": false,
-      "place": {
-        "name": "Constantinople (Istanbul)",
-        "lat": 41.0082,
-        "lng": 28.9784
-      },
+      "place": {"name": "Constantinople (Istanbul)", "lat": 41.0082, "lng": 28.9784},
       "category": "council",
-      "regions": [
-        "greece-balkans",
-        "asia-minor",
-        "levant"
-      ],
+      "regions": ["greece-balkans", "asia-minor", "levant"],
       "summary": "Justinian, hoping to reconcile the Miaphysites, had the council condemn the 'Three Chapters' — writings of Theodore of Mopsuestia, Theodoret and Ibas — and interpret Chalcedon in a Cyrilline sense. Pope Vigilius, held in Constantinople, resisted and then acquiesced; the council also condemned Origenist teachings.",
       "longText": "The Fifth Ecumenical Council is the clearest case of an emperor driving doctrine. Justinian believed that if Chalcedon was shown to be fully compatible with Cyril, and if the Antiochene theologians most offensive to Miaphysites were condemned, the anti-Chalcedonian majority in Egypt and Syria could be won back. The council's canons stress that the Word 'one of the Trinity' suffered in the flesh (theopaschism) and that the union is 'hypostatic'. Pope Vigilius, who had been brought to the capital, first refused, then submitted; churches in northern Italy and Africa broke communion with Rome for decades (the Schism of the Three Chapters). The Miaphysites were not reconciled, and the Church of the East, which revered Theodore as 'the Interpreter', was further estranged. Orthodox and Catholic churches count the council as ecumenical; Protestants vary in their regard for councils after Chalcedon.",
-      "causes": [
-        "Justinian's search for unity with Miaphysites"
-      ],
-      "consequences": [
-        "Neo-Chalcedonian Christology",
-        "Western Three Chapters schism",
-        "Condemnation of Origenism"
-      ],
-      "peopleIds": [
-        "origen",
-        "severus-of-antioch"
-      ],
-      "doctrineIds": [
-        "christology",
-        "eschatology"
-      ],
-      "traditionIds": [
-        "eastern-orthodox",
-        "catholic",
-        "church-of-the-east"
-      ],
-      "sources": [
-        "tanner-decrees",
-        "meyendorff-imperial-unity"
-      ],
+      "causes": ["Justinian's search for unity with Miaphysites"],
+      "consequences": ["Neo-Chalcedonian Christology", "Western Three Chapters schism", "Condemnation of Origenism"],
+      "peopleIds": ["origen", "severus-of-antioch"],
+      "doctrineIds": ["christology", "eschatology"],
+      "traditionIds": ["eastern-orthodox", "catholic", "church-of-the-east"],
+      "sources": ["tanner-decrees", "meyendorff-imperial-unity"],
       "confidence": "established"
     },
     {
@@ -391,34 +178,16 @@
       "title": "Columba founds Iona",
       "year": 563,
       "circa": false,
-      "place": {
-        "name": "Iona",
-        "lat": 56.3344,
-        "lng": -6.392
-      },
+      "place": {"name": "Iona", "lat": 56.3344, "lng": -6.392},
       "category": "mission",
-      "regions": [
-        "northern-europe"
-      ],
+      "regions": ["northern-europe"],
       "summary": "The Irish monk Columba (Colum Cille) sailed with twelve companions to Iona, founding a monastery that evangelised the Picts of Scotland and, through Aidan of Lindisfarne (635), much of northern England.",
-      "causes": [
-        "Irish monastic peregrinatio"
-      ],
-      "consequences": [
-        "Celtic Christianity in Scotland and Northumbria",
-        "Book of Kells tradition"
-      ],
-      "peopleIds": [
-        "columba"
-      ],
+      "causes": ["Irish monastic peregrinatio"],
+      "consequences": ["Celtic Christianity in Scotland and Northumbria", "Book of Kells tradition"],
+      "peopleIds": ["columba"],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "bede-ecclesiastical-history",
-        "brown-rise-western"
-      ],
+      "traditionIds": ["catholic"],
+      "sources": ["bede-ecclesiastical-history", "brown-rise-western"],
       "confidence": "established"
     },
     {
@@ -426,37 +195,16 @@
       "title": "Third Council of Toledo",
       "year": 589,
       "circa": false,
-      "place": {
-        "name": "Toledo",
-        "lat": 39.8628,
-        "lng": -4.0273
-      },
+      "place": {"name": "Toledo", "lat": 39.8628, "lng": -4.0273},
       "category": "council",
-      "regions": [
-        "western-europe"
-      ],
+      "regions": ["western-europe"],
       "summary": "King Reccared and the Visigothic nobility renounced Homoian ('Arian') Christianity for Catholic Nicene faith. The council's creed included the Holy Spirit's procession from the Father 'and the Son' (Filioque), an early step toward the later East–West dispute.",
-      "causes": [
-        "Reccared's conversion (587)",
-        "Desire to unify Goths and Hispano-Romans"
-      ],
-      "consequences": [
-        "End of Arianism in Spain",
-        "Spread of the Filioque in Western creeds"
-      ],
+      "causes": ["Reccared's conversion (587)", "Desire to unify Goths and Hispano-Romans"],
+      "consequences": ["End of Arianism in Spain", "Spread of the Filioque in Western creeds"],
       "peopleIds": [],
-      "doctrineIds": [
-        "holy-spirit",
-        "trinity"
-      ],
-      "traditionIds": [
-        "catholic",
-        "arian-homoian"
-      ],
-      "sources": [
-        "odcc",
-        "pelikan-christian-tradition"
-      ],
+      "doctrineIds": ["holy-spirit", "trinity"],
+      "traditionIds": ["catholic", "arian-homoian"],
+      "sources": ["odcc", "pelikan-christian-tradition"],
       "confidence": "established"
     },
     {
@@ -464,34 +212,16 @@
       "title": "Gregory the Great's mission to the English",
       "year": 597,
       "circa": false,
-      "place": {
-        "name": "Canterbury",
-        "lat": 51.2802,
-        "lng": 1.0789
-      },
+      "place": {"name": "Canterbury", "lat": 51.2802, "lng": 1.0789},
       "category": "mission",
-      "regions": [
-        "northern-europe"
-      ],
+      "regions": ["northern-europe"],
       "summary": "Pope Gregory I sent Augustine, prior of his Roman monastery, with about forty monks to Kent, where King Æthelberht, whose wife Bertha was Christian, was baptized. Gregory's letters advised adapting pagan temples and festivals rather than destroying them.",
-      "causes": [
-        "Gregory's missionary vision"
-      ],
-      "consequences": [
-        "See of Canterbury",
-        "Roman-oriented English church, later meeting Celtic missions"
-      ],
-      "peopleIds": [
-        "gregory-the-great"
-      ],
+      "causes": ["Gregory's missionary vision"],
+      "consequences": ["See of Canterbury", "Roman-oriented English church, later meeting Celtic missions"],
+      "peopleIds": ["gregory-the-great"],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "bede-ecclesiastical-history",
-        "brown-rise-western"
-      ],
+      "traditionIds": ["catholic"],
+      "sources": ["bede-ecclesiastical-history", "brown-rise-western"],
       "confidence": "established"
     },
     {
@@ -500,48 +230,17 @@
       "year": 634,
       "endYear": 711,
       "circa": false,
-      "place": {
-        "name": "Jerusalem",
-        "lat": 31.7767,
-        "lng": 35.2345
-      },
+      "place": {"name": "Jerusalem", "lat": 31.7767, "lng": 35.2345},
       "category": "political",
-      "regions": [
-        "arabia",
-        "levant",
-        "egypt",
-        "mesopotamia-persia",
-        "north-africa",
-        "armenia-caucasus"
-      ],
+      "regions": ["arabia", "levant", "egypt", "mesopotamia-persia", "north-africa", "armenia-caucasus"],
       "summary": "After Muhammad's death (632), Arab armies conquered Byzantine Syria, Palestine and Egypt and the Sasanian Empire within two decades, then North Africa and Spain by 711. Most Christians of the Middle East — Chalcedonian, Miaphysite and Church of the East — became protected but subordinate dhimmi communities under Muslim rule.",
       "longText": "The conquests were the decisive geopolitical event of Christian late antiquity. Jerusalem surrendered to Caliph Umar in 638, Alexandria in 641–642, Ctesiphon fell in 637. For many non-Chalcedonian Christians, Arab rule at first meant relief from Byzantine pressure; Christians served as administrators, physicians and translators, and the Church of the East reached its greatest extent under the Abbasids. Over centuries, however, the jizya tax, legal disabilities, periodic persecution and social incentives led to gradual conversion, Arabisation and decline, so that Christians became minorities in lands that had been Christian heartlands. The loss of Alexandria, Antioch and Jerusalem to Muslim rule left Rome and Constantinople as the chief Christian centres and shifted Christianity's centre of gravity northward and westward. Islam's critique of the Trinity and of images also shaped Christian theology, from John of Damascus to the iconoclast debates.",
-      "causes": [
-        "Exhaustion of Rome and Persia after the war of 602–628",
-        "Unification of Arabia under Islam"
-      ],
-      "consequences": [
-        "Christian communities become dhimmi minorities",
-        "Patriarchates of Alexandria, Antioch, Jerusalem under Muslim rule",
-        "Long-term decline of Christianity in the Middle East and North Africa",
-        "Christian–Muslim theological dialogue and polemic"
-      ],
+      "causes": ["Exhaustion of Rome and Persia after the war of 602–628", "Unification of Arabia under Islam"],
+      "consequences": ["Christian communities become dhimmi minorities", "Patriarchates of Alexandria, Antioch, Jerusalem under Muslim rule", "Long-term decline of Christianity in the Middle East and North Africa", "Christian–Muslim theological dialogue and polemic"],
       "peopleIds": [],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "eastern-orthodox",
-        "oriental-orthodox",
-        "church-of-the-east",
-        "coptic-orthodox",
-        "syriac-orthodox"
-      ],
-      "sources": [
-        "jenkins-lost-history",
-        "macculloch-christianity",
-        "atiya-eastern-christianity"
-      ],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["eastern-orthodox", "oriental-orthodox", "church-of-the-east", "coptic-orthodox", "syriac-orthodox"],
+      "sources": ["jenkins-lost-history", "macculloch-christianity", "atiya-eastern-christianity"],
       "confidence": "established"
     },
     {
@@ -549,39 +248,16 @@
       "title": "Alopen brings the 'Luminous Religion' to China",
       "year": 635,
       "circa": false,
-      "place": {
-        "name": "Chang'an (Xi'an)",
-        "lat": 34.3416,
-        "lng": 108.9398
-      },
+      "place": {"name": "Chang'an (Xi'an)", "lat": 34.3416, "lng": 108.9398},
       "category": "mission",
-      "regions": [
-        "east-asia",
-        "central-asia"
-      ],
+      "regions": ["east-asia", "central-asia"],
       "summary": "A Church of the East mission led by Alopen arrived at the Tang capital Chang'an, where Emperor Taizong received him, had the scriptures translated and in 638 authorised a monastery. The Xi'an Stele of 781 recounts the mission and summarises the faith in Chinese, Buddhist and Daoist vocabulary.",
-      "causes": [
-        "Church of the East networks along the Silk Road",
-        "Tang openness to foreign religions"
-      ],
-      "consequences": [
-        "Monasteries in many Tang prefectures",
-        "Chinese Christian texts (the 'Jesus Sutras')",
-        "Decline after the 845 persecution"
-      ],
-      "peopleIds": [
-        "alopen"
-      ],
+      "causes": ["Church of the East networks along the Silk Road", "Tang openness to foreign religions"],
+      "consequences": ["Monasteries in many Tang prefectures", "Chinese Christian texts (the 'Jesus Sutras')", "Decline after the 845 persecution"],
+      "peopleIds": ["alopen"],
       "doctrineIds": [],
-      "traditionIds": [
-        "church-of-the-east"
-      ],
-      "sources": [
-        "xian-stele",
-        "moffett-asia",
-        "baum-winkler-east",
-        "gillman-klimkeit"
-      ],
+      "traditionIds": ["church-of-the-east"],
+      "sources": ["xian-stele", "moffett-asia", "baum-winkler-east", "gillman-klimkeit"],
       "confidence": "established"
     },
     {
@@ -589,36 +265,16 @@
       "title": "Synod of Whitby",
       "year": 664,
       "circa": false,
-      "place": {
-        "name": "Whitby",
-        "lat": 54.4858,
-        "lng": -0.6206
-      },
+      "place": {"name": "Whitby", "lat": 54.4858, "lng": -0.6206},
       "category": "council",
-      "regions": [
-        "northern-europe"
-      ],
+      "regions": ["northern-europe"],
       "summary": "King Oswiu of Northumbria, hosted by Abbess Hilda, heard the Irish party (Colman) and the Roman party (Wilfrid) argue over the date of Easter and the tonsure. Oswiu chose Roman usage, citing Peter's keys, which drew the English church into closer conformity with Rome.",
-      "causes": [
-        "Different Easter calculations in one royal household"
-      ],
-      "consequences": [
-        "Roman customs in England",
-        "Withdrawal of Irish monks from Lindisfarne"
-      ],
-      "peopleIds": [
-        "columba"
-      ],
-      "doctrineIds": [
-        "church-sacraments"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "bede-ecclesiastical-history",
-        "brown-rise-western"
-      ],
+      "causes": ["Different Easter calculations in one royal household"],
+      "consequences": ["Roman customs in England", "Withdrawal of Irish monks from Lindisfarne"],
+      "peopleIds": ["columba"],
+      "doctrineIds": ["church-sacraments"],
+      "traditionIds": ["catholic"],
+      "sources": ["bede-ecclesiastical-history", "brown-rise-western"],
       "confidence": "established"
     },
     {
@@ -627,42 +283,17 @@
       "year": 680,
       "endYear": 681,
       "circa": false,
-      "place": {
-        "name": "Constantinople (Istanbul)",
-        "lat": 41.0082,
-        "lng": 28.9784
-      },
+      "place": {"name": "Constantinople (Istanbul)", "lat": 41.0082, "lng": 28.9784},
       "category": "council",
-      "regions": [
-        "greece-balkans",
-        "asia-minor",
-        "italy"
-      ],
+      "regions": ["greece-balkans", "asia-minor", "italy"],
       "summary": "The Sixth Ecumenical Council condemned Monothelitism, the imperial compromise teaching one will in Christ, and affirmed two natural wills and operations, divine and human, in harmony. It vindicated Maximus the Confessor, mutilated and exiled for his opposition, and condemned Pope Honorius I posthumously.",
       "longText": "Monoenergism and Monothelitism were launched by Patriarch Sergius and Emperor Heraclius in the 620s–630s to win back the Miaphysites as the empire fought Persia and then the Arabs. Maximus the Confessor argued that a nature without its own will would be incomplete, and that Christ's human will, freely obedient to the divine, is the place where human freedom is healed; with Pope Martin I he secured condemnation of Monothelitism at the Lateran Synod of 649, for which both suffered. The council of 680–681 under Constantine IV affirmed 'two natural wills and two natural operations, without division, change, separation or confusion'. Its anathema on Honorius was later cited in debates over papal infallibility at Vatican I. Maronite tradition maintains that its church was never Monothelite, a point historians debate.",
-      "causes": [
-        "Imperial Monothelite policy",
-        "Opposition of Maximus and Rome"
-      ],
-      "consequences": [
-        "Dyothelite Christology",
-        "Honorius question in later papal debates"
-      ],
-      "peopleIds": [
-        "maximus-the-confessor"
-      ],
-      "doctrineIds": [
-        "christology"
-      ],
-      "traditionIds": [
-        "eastern-orthodox",
-        "catholic"
-      ],
-      "sources": [
-        "tanner-decrees",
-        "meyendorff-imperial-unity",
-        "pelikan-christian-tradition"
-      ],
+      "causes": ["Imperial Monothelite policy", "Opposition of Maximus and Rome"],
+      "consequences": ["Dyothelite Christology", "Honorius question in later papal debates"],
+      "peopleIds": ["maximus-the-confessor"],
+      "doctrineIds": ["christology"],
+      "traditionIds": ["eastern-orthodox", "catholic"],
+      "sources": ["tanner-decrees", "meyendorff-imperial-unity", "pelikan-christian-tradition"],
       "confidence": "established"
     },
     {
@@ -670,33 +301,16 @@
       "title": "Boniface fells Donar's Oak",
       "year": 723,
       "circa": true,
-      "place": {
-        "name": "Geismar near Fritzlar",
-        "lat": 51.13,
-        "lng": 9.27
-      },
+      "place": {"name": "Geismar near Fritzlar", "lat": 51.13, "lng": 9.27},
       "category": "mission",
-      "regions": [
-        "western-europe"
-      ],
+      "regions": ["western-europe"],
       "summary": "The English monk Boniface (Wynfrith), commissioned by Rome, cut down the sacred oak of Thor at Geismar in Hesse and used its wood to build a chapel. He organised the German church under papal authority and was martyred in Frisia in 754.",
-      "causes": [
-        "Anglo-Saxon missionary zeal",
-        "Frankish political support"
-      ],
-      "consequences": [
-        "Papal-oriented German church",
-        "Reform of the Frankish church"
-      ],
+      "causes": ["Anglo-Saxon missionary zeal", "Frankish political support"],
+      "consequences": ["Papal-oriented German church", "Reform of the Frankish church"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "brown-rise-western",
-        "neill-missions"
-      ],
+      "traditionIds": ["catholic"],
+      "sources": ["brown-rise-western", "neill-missions"],
       "confidence": "established"
     },
     {
@@ -705,43 +319,16 @@
       "year": 726,
       "endYear": 843,
       "circa": true,
-      "place": {
-        "name": "Constantinople (Istanbul)",
-        "lat": 41.0082,
-        "lng": 28.9784
-      },
+      "place": {"name": "Constantinople (Istanbul)", "lat": 41.0082, "lng": 28.9784},
       "category": "schism",
-      "regions": [
-        "greece-balkans",
-        "asia-minor",
-        "levant"
-      ],
+      "regions": ["greece-balkans", "asia-minor", "levant"],
       "summary": "Emperor Leo III is traditionally said to have removed the icon of Christ above the Chalke Gate around 726–730, beginning a century of imperial campaigns against religious images. John of Damascus, living under Muslim rule, wrote the classic defence of icons based on the incarnation.",
-      "causes": [
-        "Military disasters interpreted as divine judgement",
-        "Biblical prohibition of images",
-        "Islamic and Jewish critique of images"
-      ],
-      "consequences": [
-        "Destruction of images and persecution of monks",
-        "Theology of the icon",
-        "Strained relations with Rome"
-      ],
-      "peopleIds": [
-        "john-of-damascus"
-      ],
-      "doctrineIds": [
-        "mary-saints",
-        "christology"
-      ],
-      "traditionIds": [
-        "eastern-orthodox"
-      ],
-      "sources": [
-        "hussey-byzantine",
-        "pelikan-christian-tradition",
-        "ware-orthodox-church"
-      ],
+      "causes": ["Military disasters interpreted as divine judgement", "Biblical prohibition of images", "Islamic and Jewish critique of images"],
+      "consequences": ["Destruction of images and persecution of monks", "Theology of the icon", "Strained relations with Rome"],
+      "peopleIds": ["john-of-damascus"],
+      "doctrineIds": ["mary-saints", "christology"],
+      "traditionIds": ["eastern-orthodox"],
+      "sources": ["hussey-byzantine", "pelikan-christian-tradition", "ware-orthodox-church"],
       "confidence": "debated"
     },
     {
@@ -750,38 +337,16 @@
       "year": 780,
       "endYear": 823,
       "circa": false,
-      "place": {
-        "name": "Baghdad",
-        "lat": 33.3152,
-        "lng": 44.3661
-      },
+      "place": {"name": "Baghdad", "lat": 33.3152, "lng": 44.3661},
       "category": "mission",
-      "regions": [
-        "mesopotamia-persia",
-        "central-asia",
-        "east-asia",
-        "india"
-      ],
+      "regions": ["mesopotamia-persia", "central-asia", "east-asia", "india"],
       "summary": "From the new Abbasid capital Baghdad, Catholicos Timothy I led a church spanning from Syria to China. He recorded a courteous debate on Christianity with Caliph al-Mahdi (c. 782), sent missionaries to the Turks and Tibet and appointed metropolitans for India and China.",
-      "causes": [
-        "Abbasid patronage of Christian scholars and physicians"
-      ],
-      "consequences": [
-        "Peak geographic extent of the Church of the East",
-        "Model of Christian–Muslim dialogue"
-      ],
-      "peopleIds": [
-        "timothy-i"
-      ],
+      "causes": ["Abbasid patronage of Christian scholars and physicians"],
+      "consequences": ["Peak geographic extent of the Church of the East", "Model of Christian–Muslim dialogue"],
+      "peopleIds": ["timothy-i"],
       "doctrineIds": [],
-      "traditionIds": [
-        "church-of-the-east"
-      ],
-      "sources": [
-        "baum-winkler-east",
-        "jenkins-lost-history",
-        "moffett-asia"
-      ],
+      "traditionIds": ["church-of-the-east"],
+      "sources": ["baum-winkler-east", "jenkins-lost-history", "moffett-asia"],
       "confidence": "established"
     },
     {
@@ -789,34 +354,16 @@
       "title": "Xi'an Stele erected",
       "year": 781,
       "circa": false,
-      "place": {
-        "name": "Chang'an (Xi'an)",
-        "lat": 34.3416,
-        "lng": 108.9398
-      },
+      "place": {"name": "Chang'an (Xi'an)", "lat": 34.3416, "lng": 108.9398},
       "category": "intellectual",
-      "regions": [
-        "east-asia"
-      ],
+      "regions": ["east-asia"],
       "summary": "The monk Jingjing (Adam) composed a Chinese inscription, with Syriac names of clergy, commemorating 146 years of the 'Luminous Religion' (Jingjiao) in China. Rediscovered around 1625, the stele became the chief proof of early Christianity in China.",
-      "causes": [
-        "Church of the East presence under the Tang"
-      ],
-      "consequences": [
-        "Key primary source for Asian Christianity"
-      ],
-      "peopleIds": [
-        "alopen"
-      ],
+      "causes": ["Church of the East presence under the Tang"],
+      "consequences": ["Key primary source for Asian Christianity"],
+      "peopleIds": ["alopen"],
       "doctrineIds": [],
-      "traditionIds": [
-        "church-of-the-east"
-      ],
-      "sources": [
-        "xian-stele",
-        "moffett-asia",
-        "baum-winkler-east"
-      ],
+      "traditionIds": ["church-of-the-east"],
+      "sources": ["xian-stele", "moffett-asia", "baum-winkler-east"],
       "confidence": "established"
     },
     {
@@ -824,43 +371,17 @@
       "title": "Second Council of Nicaea",
       "year": 787,
       "circa": false,
-      "place": {
-        "name": "Nicaea (İznik)",
-        "lat": 40.4292,
-        "lng": 29.7211
-      },
+      "place": {"name": "Nicaea (İznik)", "lat": 40.4292, "lng": 29.7211},
       "category": "council",
-      "regions": [
-        "asia-minor",
-        "greece-balkans",
-        "italy"
-      ],
+      "regions": ["asia-minor", "greece-balkans", "italy"],
       "summary": "Convened by Empress Irene, the Seventh Ecumenical Council restored the veneration of icons, distinguishing honour-veneration (proskynesis) from worship (latreia) due to God alone. 'The honour paid to the image passes to its prototype.' The Frankish court, working from a poor translation, rejected it in the Libri Carolini.",
       "longText": "After sixty years of imperial iconoclasm, Irene, regent for her son Constantine VI, prepared a council with Patriarch Tarasios and papal legates; an initial attempt in Constantinople in 786 was broken up by iconoclast soldiers. At Nicaea in 787 the bishops grounded icon veneration in the incarnation: because the invisible God became visible in Christ, Christ may be depicted, and the saints and the Theotokos honoured in images. The council's distinction between veneration and worship drew on John of Damascus. A second iconoclast period (815–843) followed, ended by the 'Triumph of Orthodoxy' in 843, still celebrated on the first Sunday of Lent. In the West, Charlemagne's theologians criticised the council, though Rome accepted it. Protestant traditions vary: Lutherans and Anglicans often retain images while rejecting their veneration; Reformed churches have generally seen the council as endorsing idolatry, while Orthodox regard it as defending the reality of the incarnation.",
-      "causes": [
-        "Irene's reversal of iconoclast policy"
-      ],
-      "consequences": [
-        "Icon veneration defined",
-        "Frankish–Byzantine friction",
-        "Seventh and last council recognised by Eastern Orthodox"
-      ],
-      "peopleIds": [
-        "john-of-damascus"
-      ],
-      "doctrineIds": [
-        "mary-saints",
-        "christology"
-      ],
-      "traditionIds": [
-        "eastern-orthodox",
-        "catholic"
-      ],
-      "sources": [
-        "tanner-decrees",
-        "pelikan-christian-tradition",
-        "ware-orthodox-church"
-      ],
+      "causes": ["Irene's reversal of iconoclast policy"],
+      "consequences": ["Icon veneration defined", "Frankish–Byzantine friction", "Seventh and last council recognised by Eastern Orthodox"],
+      "peopleIds": ["john-of-damascus"],
+      "doctrineIds": ["mary-saints", "christology"],
+      "traditionIds": ["eastern-orthodox", "catholic"],
+      "sources": ["tanner-decrees", "pelikan-christian-tradition", "ware-orthodox-church"],
       "confidence": "established"
     },
     {
@@ -868,39 +389,16 @@
       "title": "Coronation of Charlemagne",
       "year": 800,
       "circa": false,
-      "place": {
-        "name": "Rome",
-        "lat": 41.9022,
-        "lng": 12.4539
-      },
+      "place": {"name": "Rome", "lat": 41.9022, "lng": 12.4539},
       "category": "political",
-      "regions": [
-        "western-europe",
-        "italy"
-      ],
+      "regions": ["western-europe", "italy"],
       "summary": "On Christmas Day 800 Pope Leo III crowned the Frankish king Charlemagne emperor in St Peter's, Rome. The act created a Western Christian empire rivalling Byzantium, tied papacy and Frankish monarchy together and fed centuries of debate over the relation of spiritual and temporal power.",
-      "causes": [
-        "Papal need for protection against Lombards and Roman factions",
-        "Irene ruling in Constantinople as a woman"
-      ],
-      "consequences": [
-        "Holy Roman Empire ideal",
-        "Carolingian renaissance",
-        "Byzantine resentment"
-      ],
-      "peopleIds": [
-        "charlemagne"
-      ],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "brown-rise-western",
-        "macculloch-christianity"
-      ],
+      "causes": ["Papal need for protection against Lombards and Roman factions", "Irene ruling in Constantinople as a woman"],
+      "consequences": ["Holy Roman Empire ideal", "Carolingian renaissance", "Byzantine resentment"],
+      "peopleIds": ["charlemagne"],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["catholic"],
+      "sources": ["brown-rise-western", "macculloch-christianity"],
       "confidence": "established"
     },
     {
@@ -908,37 +406,16 @@
       "title": "Council of Aachen endorses the Filioque",
       "year": 809,
       "circa": false,
-      "place": {
-        "name": "Aachen",
-        "lat": 50.7753,
-        "lng": 6.0839
-      },
+      "place": {"name": "Aachen", "lat": 50.7753, "lng": 6.0839},
       "category": "council",
-      "regions": [
-        "western-europe"
-      ],
+      "regions": ["western-europe"],
       "summary": "After Frankish monks in Jerusalem were accused of heresy for singing 'and the Son' in the creed, Charlemagne's council at Aachen defended the Filioque. Pope Leo III agreed with the doctrine but refused to add it to the creed, displaying the text without it on silver shields in St Peter's.",
-      "causes": [
-        "Spanish and Frankish creedal usage"
-      ],
-      "consequences": [
-        "Filioque spreads in Frankish liturgy",
-        "Later Roman adoption (1014)"
-      ],
-      "peopleIds": [
-        "charlemagne"
-      ],
-      "doctrineIds": [
-        "holy-spirit",
-        "trinity"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "pelikan-christian-tradition",
-        "ware-orthodox-church"
-      ],
+      "causes": ["Spanish and Frankish creedal usage"],
+      "consequences": ["Filioque spreads in Frankish liturgy", "Later Roman adoption (1014)"],
+      "peopleIds": ["charlemagne"],
+      "doctrineIds": ["holy-spirit", "trinity"],
+      "traditionIds": ["catholic"],
+      "sources": ["pelikan-christian-tradition", "ware-orthodox-church"],
       "confidence": "established"
     },
     {
@@ -946,31 +423,16 @@
       "title": "Ansgar's mission to Birka",
       "year": 829,
       "circa": true,
-      "place": {
-        "name": "Birka",
-        "lat": 59.3353,
-        "lng": 17.5431
-      },
+      "place": {"name": "Birka", "lat": 59.3353, "lng": 17.5431},
       "category": "mission",
-      "regions": [
-        "northern-europe"
-      ],
+      "regions": ["northern-europe"],
       "summary": "The Frankish monk Ansgar preached at the Swedish trading town of Birka and later became archbishop of Hamburg-Bremen. His mission had little lasting success, but earned him the title 'Apostle of the North'; Scandinavia was largely Christianised between the late tenth and twelfth centuries.",
-      "causes": [
-        "Carolingian missionary policy"
-      ],
-      "consequences": [
-        "Archdiocese of Hamburg-Bremen as base for Nordic missions"
-      ],
+      "causes": ["Carolingian missionary policy"],
+      "consequences": ["Archdiocese of Hamburg-Bremen as base for Nordic missions"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "neill-missions",
-        "brown-rise-western"
-      ],
+      "traditionIds": ["catholic"],
+      "sources": ["neill-missions", "brown-rise-western"],
       "confidence": "established"
     },
     {
@@ -978,35 +440,16 @@
       "title": "Triumph of Orthodoxy",
       "year": 843,
       "circa": false,
-      "place": {
-        "name": "Constantinople (Istanbul)",
-        "lat": 41.0082,
-        "lng": 28.9784
-      },
+      "place": {"name": "Constantinople (Istanbul)", "lat": 41.0082, "lng": 28.9784},
       "category": "liturgical",
-      "regions": [
-        "greece-balkans",
-        "asia-minor"
-      ],
+      "regions": ["greece-balkans", "asia-minor"],
       "summary": "Empress Theodora, regent for Michael III, ended the second period of iconoclasm and restored icons on the first Sunday of Lent 843. The feast of the Triumph of Orthodoxy is still kept annually with a procession of icons.",
-      "causes": [
-        "Death of the iconoclast emperor Theophilos"
-      ],
-      "consequences": [
-        "Definitive Orthodox iconography",
-        "Synodikon of Orthodoxy"
-      ],
+      "causes": ["Death of the iconoclast emperor Theophilos"],
+      "consequences": ["Definitive Orthodox iconography", "Synodikon of Orthodoxy"],
       "peopleIds": [],
-      "doctrineIds": [
-        "mary-saints"
-      ],
-      "traditionIds": [
-        "eastern-orthodox"
-      ],
-      "sources": [
-        "ware-orthodox-church",
-        "hussey-byzantine"
-      ],
+      "doctrineIds": ["mary-saints"],
+      "traditionIds": ["eastern-orthodox"],
+      "sources": ["ware-orthodox-church", "hussey-byzantine"],
       "confidence": "established"
     },
     {
@@ -1014,32 +457,16 @@
       "title": "Huichang persecution of foreign religions in China",
       "year": 845,
       "circa": false,
-      "place": {
-        "name": "Chang'an (Xi'an)",
-        "lat": 34.3416,
-        "lng": 108.9398
-      },
+      "place": {"name": "Chang'an (Xi'an)", "lat": 34.3416, "lng": 108.9398},
       "category": "persecution",
-      "regions": [
-        "east-asia"
-      ],
+      "regions": ["east-asia"],
       "summary": "Tang Emperor Wuzong suppressed Buddhism and with it the foreign religions, including Church of the East Christianity, ordering monks and nuns to return to lay life. Christianity largely disappeared from China proper until the Mongol era.",
-      "causes": [
-        "Economic and nativist reaction against Buddhist monasteries"
-      ],
-      "consequences": [
-        "Collapse of the first Chinese church"
-      ],
+      "causes": ["Economic and nativist reaction against Buddhist monasteries"],
+      "consequences": ["Collapse of the first Chinese church"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "church-of-the-east"
-      ],
-      "sources": [
-        "moffett-asia",
-        "baum-winkler-east",
-        "jenkins-lost-history"
-      ],
+      "traditionIds": ["church-of-the-east"],
+      "sources": ["moffett-asia", "baum-winkler-east", "jenkins-lost-history"],
       "confidence": "established"
     },
     {
@@ -1047,37 +474,16 @@
       "title": "Gottschalk condemned at Quierzy",
       "year": 849,
       "circa": false,
-      "place": {
-        "name": "Quierzy",
-        "lat": 49.57,
-        "lng": 3.13
-      },
+      "place": {"name": "Quierzy", "lat": 49.57, "lng": 3.13},
       "category": "council",
-      "regions": [
-        "western-europe"
-      ],
+      "regions": ["western-europe"],
       "summary": "The Saxon monk Gottschalk of Orbais taught a strict double predestination drawn from Augustine. Archbishop Hincmar had him flogged and imprisoned; Eriugena wrote against him, but other theologians defended aspects of his view, making this the first great Western predestination controversy.",
-      "causes": [
-        "Gottschalk's reading of Augustine"
-      ],
-      "consequences": [
-        "Debate rehearsed in the Reformation and later Calvinism"
-      ],
-      "peopleIds": [
-        "gottschalk",
-        "john-scotus-eriugena",
-        "augustine-of-hippo"
-      ],
-      "doctrineIds": [
-        "salvation"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "pelikan-christian-tradition",
-        "gonzalez-thought"
-      ],
+      "causes": ["Gottschalk's reading of Augustine"],
+      "consequences": ["Debate rehearsed in the Reformation and later Calvinism"],
+      "peopleIds": ["gottschalk", "john-scotus-eriugena", "augustine-of-hippo"],
+      "doctrineIds": ["salvation"],
+      "traditionIds": ["catholic"],
+      "sources": ["pelikan-christian-tradition", "gonzalez-thought"],
       "confidence": "established"
     },
     {
@@ -1086,40 +492,16 @@
       "year": 863,
       "endYear": 867,
       "circa": false,
-      "place": {
-        "name": "Constantinople (Istanbul)",
-        "lat": 41.0082,
-        "lng": 28.9784
-      },
+      "place": {"name": "Constantinople (Istanbul)", "lat": 41.0082, "lng": 28.9784},
       "category": "schism",
-      "regions": [
-        "greece-balkans",
-        "italy"
-      ],
+      "regions": ["greece-balkans", "italy"],
       "summary": "Pope Nicholas I refused to recognise Photius, who had replaced the deposed patriarch Ignatius, and the two sees also clashed over the mission to Bulgaria. In 867 Photius denounced the Filioque and Frankish missionaries' practices; the breach was later healed, but it rehearsed the issues of 1054.",
-      "causes": [
-        "Disputed patriarchal succession",
-        "Competition for Bulgaria"
-      ],
-      "consequences": [
-        "Filioque becomes a defining Orthodox objection",
-        "Papal primacy claims tested"
-      ],
-      "peopleIds": [
-        "photius"
-      ],
-      "doctrineIds": [
-        "holy-spirit",
-        "church-sacraments"
-      ],
-      "traditionIds": [
-        "eastern-orthodox",
-        "catholic"
-      ],
-      "sources": [
-        "ware-orthodox-church",
-        "hussey-byzantine"
-      ],
+      "causes": ["Disputed patriarchal succession", "Competition for Bulgaria"],
+      "consequences": ["Filioque becomes a defining Orthodox objection", "Papal primacy claims tested"],
+      "peopleIds": ["photius"],
+      "doctrineIds": ["holy-spirit", "church-sacraments"],
+      "traditionIds": ["eastern-orthodox", "catholic"],
+      "sources": ["ware-orthodox-church", "hussey-byzantine"],
       "confidence": "established"
     },
     {
@@ -1127,39 +509,16 @@
       "title": "Mission of Cyril and Methodius to Moravia",
       "year": 863,
       "circa": false,
-      "place": {
-        "name": "Velehrad, Great Moravia",
-        "lat": 49.105,
-        "lng": 17.394
-      },
+      "place": {"name": "Velehrad, Great Moravia", "lat": 49.105, "lng": 17.394},
       "category": "mission",
-      "regions": [
-        "eastern-europe",
-        "greece-balkans"
-      ],
+      "regions": ["eastern-europe", "greece-balkans"],
       "summary": "At Prince Rastislav's request, Emperor Michael III sent the Thessalonian brothers Constantine (Cyril) and Methodius to Great Moravia. They created the Glagolitic alphabet and translated Scripture and liturgy into Slavonic, defending vernacular worship before the pope against Frankish clergy.",
-      "causes": [
-        "Rastislav's desire for clergy independent of the Franks"
-      ],
-      "consequences": [
-        "Church Slavonic liturgy",
-        "Cyrillic script developed by their disciples in Bulgaria",
-        "Foundation of Slavic Orthodox culture"
-      ],
-      "peopleIds": [
-        "cyril-and-methodius"
-      ],
-      "doctrineIds": [
-        "scripture-authority"
-      ],
-      "traditionIds": [
-        "eastern-orthodox",
-        "catholic"
-      ],
-      "sources": [
-        "ware-orthodox-church",
-        "neill-missions"
-      ],
+      "causes": ["Rastislav's desire for clergy independent of the Franks"],
+      "consequences": ["Church Slavonic liturgy", "Cyrillic script developed by their disciples in Bulgaria", "Foundation of Slavic Orthodox culture"],
+      "peopleIds": ["cyril-and-methodius"],
+      "doctrineIds": ["scripture-authority"],
+      "traditionIds": ["eastern-orthodox", "catholic"],
+      "sources": ["ware-orthodox-church", "neill-missions"],
       "confidence": "established"
     },
     {
@@ -1167,34 +526,16 @@
       "title": "Baptism of Boris I of Bulgaria",
       "year": 864,
       "circa": false,
-      "place": {
-        "name": "Pliska",
-        "lat": 43.37,
-        "lng": 27.12
-      },
+      "place": {"name": "Pliska", "lat": 43.37, "lng": 27.12},
       "category": "mission",
-      "regions": [
-        "greece-balkans",
-        "eastern-europe"
-      ],
+      "regions": ["greece-balkans", "eastern-europe"],
       "summary": "Khan Boris I accepted baptism from Byzantine clergy, then courted Rome before settling with Constantinople in 870. Disciples of Methodius expelled from Moravia found refuge in Bulgaria, where the Ohrid and Preslav schools produced Slavonic literature and the Cyrillic alphabet.",
-      "causes": [
-        "Byzantine military pressure",
-        "Desire for an independent church"
-      ],
-      "consequences": [
-        "Bulgarian Orthodox Church",
-        "Slavonic literature transmitted to Serbia and Rus'"
-      ],
+      "causes": ["Byzantine military pressure", "Desire for an independent church"],
+      "consequences": ["Bulgarian Orthodox Church", "Slavonic literature transmitted to Serbia and Rus'"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "eastern-orthodox"
-      ],
-      "sources": [
-        "ware-orthodox-church",
-        "hussey-byzantine"
-      ],
+      "traditionIds": ["eastern-orthodox"],
+      "sources": ["ware-orthodox-church", "hussey-byzantine"],
       "confidence": "established"
     },
     {
@@ -1202,32 +543,16 @@
       "title": "Founding of Cluny",
       "year": 910,
       "circa": false,
-      "place": {
-        "name": "Cluny",
-        "lat": 46.4344,
-        "lng": 4.6589
-      },
+      "place": {"name": "Cluny", "lat": 46.4344, "lng": 4.6589},
       "category": "reform",
-      "regions": [
-        "western-europe"
-      ],
+      "regions": ["western-europe"],
       "summary": "Duke William of Aquitaine founded the abbey of Cluny, freeing it from lay and episcopal control under direct papal protection. Cluny's network of priories led a monastic reform stressing elaborate liturgy and helped inspire the Gregorian reform.",
-      "causes": [
-        "Lay domination of monasteries"
-      ],
-      "consequences": [
-        "Cluniac reform",
-        "Model of exemption under papal authority"
-      ],
+      "causes": ["Lay domination of monasteries"],
+      "consequences": ["Cluniac reform", "Model of exemption under papal authority"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "odcc",
-        "macculloch-christianity"
-      ],
+      "traditionIds": ["catholic"],
+      "sources": ["odcc", "macculloch-christianity"],
       "confidence": "established"
     },
     {
@@ -1235,32 +560,16 @@
       "title": "Great Lavra founded on Mount Athos",
       "year": 963,
       "circa": false,
-      "place": {
-        "name": "Great Lavra, Mount Athos",
-        "lat": 40.172,
-        "lng": 24.383
-      },
+      "place": {"name": "Great Lavra, Mount Athos", "lat": 40.172, "lng": 24.383},
       "category": "reform",
-      "regions": [
-        "greece-balkans"
-      ],
+      "regions": ["greece-balkans"],
       "summary": "Athanasius the Athonite, with support from Emperor Nikephoros Phokas, founded the Great Lavra, the first large cenobitic monastery on the Holy Mountain. Athos became the spiritual heart of Orthodoxy, drawing Greek, Slav, Georgian and Romanian monks.",
-      "causes": [
-        "Growth of hermit communities on Athos"
-      ],
-      "consequences": [
-        "Athonite monasticism",
-        "Later centre of hesychasm"
-      ],
+      "causes": ["Growth of hermit communities on Athos"],
+      "consequences": ["Athonite monasticism", "Later centre of hesychasm"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "eastern-orthodox"
-      ],
-      "sources": [
-        "ware-orthodox-church",
-        "hussey-byzantine"
-      ],
+      "traditionIds": ["eastern-orthodox"],
+      "sources": ["ware-orthodox-church", "hussey-byzantine"],
       "confidence": "established"
     },
     {
@@ -1268,32 +577,16 @@
       "title": "Baptism of Mieszko I of Poland",
       "year": 966,
       "circa": false,
-      "place": {
-        "name": "Gniezno",
-        "lat": 52.5348,
-        "lng": 17.5826
-      },
+      "place": {"name": "Gniezno", "lat": 52.5348, "lng": 17.5826},
       "category": "mission",
-      "regions": [
-        "eastern-europe"
-      ],
+      "regions": ["eastern-europe"],
       "summary": "Duke Mieszko I accepted Latin Christianity, partly through his Czech Christian wife Dobrawa, aligning Poland with Rome rather than with the German empire. Gniezno became Poland's archbishopric in 1000.",
-      "causes": [
-        "Political alliance with Bohemia",
-        "Need for recognition among Christian rulers"
-      ],
-      "consequences": [
-        "Latin Christian Poland"
-      ],
+      "causes": ["Political alliance with Bohemia", "Need for recognition among Christian rulers"],
+      "consequences": ["Latin Christian Poland"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "macculloch-christianity",
-        "latourette-expansion"
-      ],
+      "traditionIds": ["catholic"],
+      "sources": ["macculloch-christianity", "latourette-expansion"],
       "confidence": "established"
     },
     {
@@ -1301,38 +594,16 @@
       "title": "Baptism of Kyivan Rus'",
       "year": 988,
       "circa": true,
-      "place": {
-        "name": "Kyiv",
-        "lat": 50.4501,
-        "lng": 30.5234
-      },
+      "place": {"name": "Kyiv", "lat": 50.4501, "lng": 30.5234},
       "category": "mission",
-      "regions": [
-        "eastern-europe",
-        "russia"
-      ],
+      "regions": ["eastern-europe", "russia"],
       "summary": "Grand Prince Vladimir of Kyiv, after marrying the Byzantine princess Anna, was baptized and had the people of Kyiv baptized in the Dnieper. The Primary Chronicle tells of envoys who, in Hagia Sophia, 'knew not whether we were in heaven or on earth'. Ukrainian, Russian and Belarusian Orthodoxy trace their origins to this event.",
-      "causes": [
-        "Alliance with Byzantium",
-        "Vladimir's search for a unifying religion"
-      ],
-      "consequences": [
-        "Byzantine Orthodoxy in Eastern Slavic lands",
-        "Church Slavonic culture",
-        "Later contested legacy between Kyiv and Moscow"
-      ],
-      "peopleIds": [
-        "vladimir-the-great"
-      ],
+      "causes": ["Alliance with Byzantium", "Vladimir's search for a unifying religion"],
+      "consequences": ["Byzantine Orthodoxy in Eastern Slavic lands", "Church Slavonic culture", "Later contested legacy between Kyiv and Moscow"],
+      "peopleIds": ["vladimir-the-great"],
       "doctrineIds": [],
-      "traditionIds": [
-        "eastern-orthodox",
-        "russian-orthodox"
-      ],
-      "sources": [
-        "russian-primary-chronicle",
-        "ware-orthodox-church"
-      ],
+      "traditionIds": ["eastern-orthodox", "russian-orthodox"],
+      "sources": ["russian-primary-chronicle", "ware-orthodox-church"],
       "confidence": "established"
     },
     {
@@ -1340,30 +611,16 @@
       "title": "Iceland's Althing adopts Christianity",
       "year": 1000,
       "circa": true,
-      "place": {
-        "name": "Þingvellir",
-        "lat": 64.2559,
-        "lng": -21.1299
-      },
+      "place": {"name": "Þingvellir", "lat": 64.2559, "lng": -21.1299},
       "category": "political",
-      "regions": [
-        "northern-europe"
-      ],
+      "regions": ["northern-europe"],
       "summary": "To avoid civil war, the Icelandic assembly accepted the lawspeaker Thorgeir's ruling that all should be baptized, while private pagan practices were temporarily tolerated. It is a rare example of a negotiated, legal conversion.",
-      "causes": [
-        "Pressure from Norway's King Olaf Tryggvason"
-      ],
-      "consequences": [
-        "Christian Iceland and saga literature"
-      ],
+      "causes": ["Pressure from Norway's King Olaf Tryggvason"],
+      "consequences": ["Christian Iceland and saga literature"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "macculloch-christianity"
-      ],
+      "traditionIds": ["catholic"],
+      "sources": ["macculloch-christianity"],
       "confidence": "established"
     },
     {
@@ -1371,32 +628,16 @@
       "title": "Conversion of the Kerait Turks/Mongols",
       "year": 1007,
       "circa": true,
-      "place": {
-        "name": "Kerait lands, Tuul river (Mongolia)",
-        "lat": 47.9,
-        "lng": 106.9
-      },
+      "place": {"name": "Kerait lands, Tuul river (Mongolia)", "lat": 47.9, "lng": 106.9},
       "category": "mission",
-      "regions": [
-        "central-asia"
-      ],
+      "regions": ["central-asia"],
       "summary": "Bar Hebraeus records that the metropolitan of Merv reported the conversion of a Kerait khan and some 200,000 of his people after a vision, asking how they might fast without grain. Kerait and Naiman Christianity later gave Christian wives and mothers to the Mongol royal house.",
-      "causes": [
-        "Church of the East merchants and monks on the steppe"
-      ],
-      "consequences": [
-        "Christian presence at the Mongol court in the 13th century"
-      ],
+      "causes": ["Church of the East merchants and monks on the steppe"],
+      "consequences": ["Christian presence at the Mongol court in the 13th century"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "church-of-the-east"
-      ],
-      "sources": [
-        "baum-winkler-east",
-        "moffett-asia",
-        "gillman-klimkeit"
-      ],
+      "traditionIds": ["church-of-the-east"],
+      "sources": ["baum-winkler-east", "moffett-asia", "gillman-klimkeit"],
       "confidence": "debated"
     },
     {
@@ -1404,34 +645,16 @@
       "title": "Al-Hakim destroys the Church of the Holy Sepulchre",
       "year": 1009,
       "circa": false,
-      "place": {
-        "name": "Church of the Holy Sepulchre, Jerusalem",
-        "lat": 31.7784,
-        "lng": 35.2296
-      },
+      "place": {"name": "Church of the Holy Sepulchre, Jerusalem", "lat": 31.7784, "lng": 35.2296},
       "category": "persecution",
-      "regions": [
-        "levant",
-        "egypt"
-      ],
+      "regions": ["levant", "egypt"],
       "summary": "The Fatimid caliph al-Hakim ordered the destruction of the Holy Sepulchre and a wider persecution of Christians and Jews in Egypt and Syria. Though later reversed and the church partly rebuilt by Byzantium, the event fed Western crusading memory.",
-      "causes": [
-        "Al-Hakim's erratic religious policy"
-      ],
-      "consequences": [
-        "Coptic and Melkite suffering",
-        "Later Western crusade propaganda"
-      ],
+      "causes": ["Al-Hakim's erratic religious policy"],
+      "consequences": ["Coptic and Melkite suffering", "Later Western crusade propaganda"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "coptic-orthodox",
-        "eastern-orthodox"
-      ],
-      "sources": [
-        "atiya-eastern-christianity",
-        "riley-smith-crusades"
-      ],
+      "traditionIds": ["coptic-orthodox", "eastern-orthodox"],
+      "sources": ["atiya-eastern-christianity", "riley-smith-crusades"],
       "confidence": "established"
     },
     {
@@ -1439,36 +662,16 @@
       "title": "Symeon the New Theologian at St Mamas",
       "year": 980,
       "circa": true,
-      "place": {
-        "name": "Constantinople (Istanbul)",
-        "lat": 41.0082,
-        "lng": 28.9784
-      },
+      "place": {"name": "Constantinople (Istanbul)", "lat": 41.0082, "lng": 28.9784},
       "category": "experiential",
-      "regions": [
-        "greece-balkans"
-      ],
+      "regions": ["greece-balkans"],
       "summary": "As abbot of St Mamas in Constantinople, Symeon taught that every Christian may consciously experience the uncreated light of God, describing his own visions in hymns. His insistence on experiential holiness provoked conflict with church authorities and anticipated hesychasm.",
-      "causes": [
-        "Symeon's own mystical experiences under his elder Symeon the Studite"
-      ],
-      "consequences": [
-        "Orthodox mystical theology of light",
-        "Influence on hesychasm and the Philokalia"
-      ],
-      "peopleIds": [
-        "symeon-new-theologian"
-      ],
-      "doctrineIds": [
-        "holy-spirit"
-      ],
-      "traditionIds": [
-        "eastern-orthodox"
-      ],
-      "sources": [
-        "ware-orthodox-church",
-        "pelikan-christian-tradition"
-      ],
+      "causes": ["Symeon's own mystical experiences under his elder Symeon the Studite"],
+      "consequences": ["Orthodox mystical theology of light", "Influence on hesychasm and the Philokalia"],
+      "peopleIds": ["symeon-new-theologian"],
+      "doctrineIds": ["holy-spirit"],
+      "traditionIds": ["eastern-orthodox"],
+      "sources": ["ware-orthodox-church", "pelikan-christian-tradition"],
       "confidence": "established"
     },
     {
@@ -1476,48 +679,17 @@
       "title": "The Great Schism (East–West)",
       "year": 1054,
       "circa": false,
-      "place": {
-        "name": "Hagia Sophia, Constantinople",
-        "lat": 41.0086,
-        "lng": 28.9802
-      },
+      "place": {"name": "Hagia Sophia, Constantinople", "lat": 41.0086, "lng": 28.9802},
       "category": "schism",
-      "regions": [
-        "greece-balkans",
-        "italy",
-        "western-europe",
-        "eastern-europe",
-        "global"
-      ],
+      "regions": ["greece-balkans", "italy", "western-europe", "eastern-europe", "global"],
       "summary": "On 16 July 1054 the papal legate Cardinal Humbert laid a bull excommunicating Patriarch Michael Cerularius on the altar of Hagia Sophia; the patriarch's synod excommunicated the legates in turn. Though symbolic rather than final, the episode came to stand for the separation of the Catholic West and Orthodox East.",
       "longText": "The schism was the culmination of centuries of estrangement: language (Latin vs Greek), the Carolingian empire, the Filioque, the use of unleavened bread in the Eucharist, clerical celibacy and, above all, the reforming papacy's claim to universal jurisdiction versus the Eastern conception of a pentarchy of patriarchs in conciliar communion. Cerularius had closed Latin churches in Constantinople; Pope Leo IX's legates, led by the combative Humbert, came to negotiate but issued an excommunication that technically lapsed with Leo's death. Contemporaries did not see 1054 as final — communion continued in places for decades — and historians stress that the Crusades, especially the sack of Constantinople in 1204, made the division popular and permanent. Reunion attempts at Lyon (1274) and Florence (1439) failed. In 1965 Pope Paul VI and Patriarch Athenagoras lifted the mutual excommunications, and theological dialogue continues. Catholics generally describe the division as a schism rather than a heresy and regard the Orthodox as sister churches with valid sacraments; Orthodox views range from similar openness to the conviction that Rome departed from the faith on the Filioque and papal claims.",
-      "causes": [
-        "Papal primacy vs pentarchy",
-        "Filioque",
-        "Azymes (unleavened bread)",
-        "Cultural and linguistic drift",
-        "Norman conquests in Byzantine southern Italy"
-      ],
-      "consequences": [
-        "Catholic and Eastern Orthodox communions",
-        "Failed reunion councils",
-        "Mutual excommunications lifted 1965"
-      ],
+      "causes": ["Papal primacy vs pentarchy", "Filioque", "Azymes (unleavened bread)", "Cultural and linguistic drift", "Norman conquests in Byzantine southern Italy"],
+      "consequences": ["Catholic and Eastern Orthodox communions", "Failed reunion councils", "Mutual excommunications lifted 1965"],
       "peopleIds": [],
-      "doctrineIds": [
-        "holy-spirit",
-        "church-sacraments"
-      ],
-      "traditionIds": [
-        "catholic",
-        "eastern-orthodox"
-      ],
-      "sources": [
-        "ware-orthodox-church",
-        "macculloch-christianity",
-        "pelikan-christian-tradition",
-        "meyendorff-imperial-unity"
-      ],
+      "doctrineIds": ["holy-spirit", "church-sacraments"],
+      "traditionIds": ["catholic", "eastern-orthodox"],
+      "sources": ["ware-orthodox-church", "macculloch-christianity", "pelikan-christian-tradition", "meyendorff-imperial-unity"],
       "confidence": "established"
     },
     {
@@ -1525,35 +697,16 @@
       "title": "Henry IV at Canossa (Investiture Controversy)",
       "year": 1077,
       "circa": false,
-      "place": {
-        "name": "Canossa",
-        "lat": 44.5768,
-        "lng": 10.4555
-      },
+      "place": {"name": "Canossa", "lat": 44.5768, "lng": 10.4555},
       "category": "political",
-      "regions": [
-        "italy",
-        "western-europe"
-      ],
+      "regions": ["italy", "western-europe"],
       "summary": "Excommunicated by Pope Gregory VII for appointing bishops, Emperor Henry IV stood penitent in the snow outside Canossa castle for three days to obtain absolution. The Investiture Controversy, settled by the Concordat of Worms (1122), established the church's independence in appointing clergy.",
-      "causes": [
-        "Gregorian reform against lay investiture and simony"
-      ],
-      "consequences": [
-        "Papal monarchy",
-        "Distinction of spiritual and temporal power in the West"
-      ],
+      "causes": ["Gregorian reform against lay investiture and simony"],
+      "consequences": ["Papal monarchy", "Distinction of spiritual and temporal power in the West"],
       "peopleIds": [],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "macculloch-christianity",
-        "odcc"
-      ],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["catholic"],
+      "sources": ["macculloch-christianity", "odcc"],
       "confidence": "established"
     },
     {
@@ -1562,39 +715,16 @@
       "year": 1096,
       "endYear": 1099,
       "circa": false,
-      "place": {
-        "name": "Jerusalem",
-        "lat": 31.7767,
-        "lng": 35.2345
-      },
+      "place": {"name": "Jerusalem", "lat": 31.7767, "lng": 35.2345},
       "category": "political",
-      "regions": [
-        "levant",
-        "asia-minor",
-        "western-europe"
-      ],
+      "regions": ["levant", "asia-minor", "western-europe"],
       "summary": "Responding to Byzantine appeals and Pope Urban II's call at Clermont (1095), armies of Western knights and pilgrims marched east, massacring Rhineland Jews on the way and capturing Jerusalem in July 1099 with great slaughter. Crusader states were founded in the Levant.",
-      "causes": [
-        "Seljuk advances after Manzikert (1071)",
-        "Urban II's preaching and penitential indulgence",
-        "Reform-era piety and pilgrimage"
-      ],
-      "consequences": [
-        "Crusader states and military orders",
-        "Massacres of Jews and Muslims",
-        "Deepened estrangement from Eastern Christians"
-      ],
+      "causes": ["Seljuk advances after Manzikert (1071)", "Urban II's preaching and penitential indulgence", "Reform-era piety and pilgrimage"],
+      "consequences": ["Crusader states and military orders", "Massacres of Jews and Muslims", "Deepened estrangement from Eastern Christians"],
       "peopleIds": [],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "riley-smith-crusades",
-        "macculloch-christianity"
-      ],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["catholic"],
+      "sources": ["riley-smith-crusades", "macculloch-christianity"],
       "confidence": "established"
     },
     {
@@ -1602,37 +732,16 @@
       "title": "Anselm writes Cur Deus Homo",
       "year": 1098,
       "circa": false,
-      "place": {
-        "name": "Canterbury",
-        "lat": 51.2798,
-        "lng": 1.0828
-      },
+      "place": {"name": "Canterbury", "lat": 51.2798, "lng": 1.0828},
       "category": "intellectual",
-      "regions": [
-        "northern-europe",
-        "italy"
-      ],
+      "regions": ["northern-europe", "italy"],
       "summary": "Archbishop Anselm of Canterbury, in exile, completed Why God Became Man, arguing that human sin dishonoured God and that only a God-man could render the satisfaction owed. It became the classic Western statement of satisfaction theory of the atonement.",
-      "causes": [
-        "Scholastic 'faith seeking understanding'"
-      ],
-      "consequences": [
-        "Satisfaction theory and later penal substitution",
-        "Aulén's critique in Christus Victor"
-      ],
-      "peopleIds": [
-        "anselm"
-      ],
-      "doctrineIds": [
-        "atonement"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "aulen-christus-victor",
-        "mcgrath-historical-theology"
-      ],
+      "causes": ["Scholastic 'faith seeking understanding'"],
+      "consequences": ["Satisfaction theory and later penal substitution", "Aulén's critique in Christus Victor"],
+      "peopleIds": ["anselm"],
+      "doctrineIds": ["atonement"],
+      "traditionIds": ["catholic"],
+      "sources": ["aulen-christus-victor", "mcgrath-historical-theology"],
       "confidence": "established"
     },
     {
@@ -1640,34 +749,16 @@
       "title": "Bernard founds Clairvaux",
       "year": 1115,
       "circa": false,
-      "place": {
-        "name": "Clairvaux",
-        "lat": 48.15,
-        "lng": 4.79
-      },
+      "place": {"name": "Clairvaux", "lat": 48.15, "lng": 4.79},
       "category": "reform",
-      "regions": [
-        "western-europe"
-      ],
+      "regions": ["western-europe"],
       "summary": "Bernard led twelve monks from Cîteaux to found Clairvaux, which became the dynamo of the Cistercian order's austere reform. Bernard became the most influential churchman of his age, preaching the Second Crusade and opposing Abelard.",
-      "causes": [
-        "Desire for simpler Benedictine observance"
-      ],
-      "consequences": [
-        "Over 300 Cistercian houses by Bernard's death",
-        "Bridal mysticism"
-      ],
-      "peopleIds": [
-        "bernard-of-clairvaux"
-      ],
+      "causes": ["Desire for simpler Benedictine observance"],
+      "consequences": ["Over 300 Cistercian houses by Bernard's death", "Bridal mysticism"],
+      "peopleIds": ["bernard-of-clairvaux"],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "mcginn-mysticism",
-        "odcc"
-      ],
+      "traditionIds": ["catholic"],
+      "sources": ["mcginn-mysticism", "odcc"],
       "confidence": "established"
     },
     {
@@ -1675,37 +766,16 @@
       "title": "Abelard condemned at Sens",
       "year": 1141,
       "circa": true,
-      "place": {
-        "name": "Sens",
-        "lat": 48.1975,
-        "lng": 3.2833
-      },
+      "place": {"name": "Sens", "lat": 48.1975, "lng": 3.2833},
       "category": "council",
-      "regions": [
-        "western-europe"
-      ],
+      "regions": ["western-europe"],
       "summary": "At Bernard of Clairvaux's instigation, a council at Sens condemned propositions from Peter Abelard's teaching, including his account of the atonement as an example of love. Abelard retired to Cluny under Peter the Venerable and died in 1142.",
-      "causes": [
-        "Clash of dialectical theology and monastic theology"
-      ],
-      "consequences": [
-        "Moral influence theory recalled in modern theology",
-        "Rise of scholastic method nonetheless"
-      ],
-      "peopleIds": [
-        "abelard",
-        "bernard-of-clairvaux"
-      ],
-      "doctrineIds": [
-        "atonement"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "mcgrath-historical-theology",
-        "gonzalez-thought"
-      ],
+      "causes": ["Clash of dialectical theology and monastic theology"],
+      "consequences": ["Moral influence theory recalled in modern theology", "Rise of scholastic method nonetheless"],
+      "peopleIds": ["abelard", "bernard-of-clairvaux"],
+      "doctrineIds": ["atonement"],
+      "traditionIds": ["catholic"],
+      "sources": ["mcgrath-historical-theology", "gonzalez-thought"],
       "confidence": "established"
     },
     {
@@ -1713,36 +783,16 @@
       "title": "Peter Waldo and the Poor of Lyon",
       "year": 1173,
       "circa": true,
-      "place": {
-        "name": "Lyon",
-        "lat": 45.764,
-        "lng": 4.8357
-      },
+      "place": {"name": "Lyon", "lat": 45.764, "lng": 4.8357},
       "category": "reform",
-      "regions": [
-        "western-europe",
-        "italy"
-      ],
+      "regions": ["western-europe", "italy"],
       "summary": "The Lyon merchant Valdes (Peter Waldo) gave away his wealth, had the Gospels translated into the vernacular and began lay preaching. Condemned in 1184 for preaching without licence, the Waldensians survived persecution in Alpine valleys and joined the Reformed movement in 1532.",
-      "causes": [
-        "Apostolic poverty ideal",
-        "Lay desire for Scripture"
-      ],
-      "consequences": [
-        "Waldensian church",
-        "Precursor of later reform movements"
-      ],
+      "causes": ["Apostolic poverty ideal", "Lay desire for Scripture"],
+      "consequences": ["Waldensian church", "Precursor of later reform movements"],
       "peopleIds": [],
-      "doctrineIds": [
-        "scripture-authority"
-      ],
-      "traditionIds": [
-        "waldensian"
-      ],
-      "sources": [
-        "cameron-waldenses",
-        "lambert-medieval-heresy"
-      ],
+      "doctrineIds": ["scripture-authority"],
+      "traditionIds": ["waldensian"],
+      "sources": ["cameron-waldenses", "lambert-medieval-heresy"],
       "confidence": "established"
     },
     {
@@ -1751,33 +801,16 @@
       "year": 1181,
       "endYear": 1221,
       "circa": true,
-      "place": {
-        "name": "Lalibela",
-        "lat": 12.0317,
-        "lng": 39.0411
-      },
+      "place": {"name": "Lalibela", "lat": 12.0317, "lng": 39.0411},
       "category": "liturgical",
-      "regions": [
-        "ethiopia-nubia"
-      ],
+      "regions": ["ethiopia-nubia"],
       "summary": "King Gebre Meskel Lalibela of the Zagwe dynasty is credited with carving eleven monolithic churches from the rock at Roha, conceived as a 'New Jerusalem' after Saladin's capture of Jerusalem (1187) made pilgrimage difficult. They remain active places of Ethiopian Orthodox worship and pilgrimage.",
-      "causes": [
-        "Zagwe royal piety",
-        "Loss of Jerusalem pilgrimage routes"
-      ],
-      "consequences": [
-        "Ethiopian pilgrimage centre",
-        "UNESCO World Heritage site"
-      ],
+      "causes": ["Zagwe royal piety", "Loss of Jerusalem pilgrimage routes"],
+      "consequences": ["Ethiopian pilgrimage centre", "UNESCO World Heritage site"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "ethiopian-orthodox-tewahedo"
-      ],
-      "sources": [
-        "isichei-africa",
-        "hastings-church-in-africa"
-      ],
+      "traditionIds": ["ethiopian-orthodox-tewahedo"],
+      "sources": ["isichei-africa", "hastings-church-in-africa"],
       "confidence": "debated"
     },
     {
@@ -1785,44 +818,17 @@
       "title": "Fourth Crusade sacks Constantinople",
       "year": 1204,
       "circa": false,
-      "place": {
-        "name": "Constantinople (Istanbul)",
-        "lat": 41.0082,
-        "lng": 28.9784
-      },
+      "place": {"name": "Constantinople (Istanbul)", "lat": 41.0082, "lng": 28.9784},
       "category": "political",
-      "regions": [
-        "greece-balkans",
-        "asia-minor",
-        "italy"
-      ],
+      "regions": ["greece-balkans", "asia-minor", "italy"],
       "summary": "Diverted by Venetian debts and a Byzantine succession dispute, crusaders stormed Constantinople in April 1204, looting churches and installing a Latin emperor and patriarch. Innocent III condemned the violence but accepted the Latin church. The Orthodox remembered the sack as the decisive betrayal that made the schism popular.",
       "longText": "The Fourth Crusade was meant for Egypt. Unable to pay Venice for its fleet, the crusaders first attacked the Christian city of Zara and then agreed to restore the deposed Byzantine prince Alexios IV in exchange for money and the submission of the Greek church to Rome. When Alexios was murdered and payments failed, the crusaders sacked the city for three days, despoiling Hagia Sophia, where a prostitute was said to have been seated on the patriarchal throne. Relics, including the famous bronze horses now in Venice, were carried west. A Latin Empire ruled until 1261, and Greek bishops were replaced by Latins. For Orthodox Christians, 1204 transformed a clerical quarrel into a lived national grievance, explaining later resistance to the union of Florence. In 2001 Pope John Paul II expressed sorrow for the sack, and in 2004 he apologised to Patriarch Bartholomew.",
-      "causes": [
-        "Venetian financial interests",
-        "Byzantine dynastic disputes",
-        "Latin–Greek hostility"
-      ],
-      "consequences": [
-        "Latin Empire of Constantinople (1204–61)",
-        "Lasting Orthodox distrust of the West",
-        "Weakening of Byzantium before the Ottomans"
-      ],
-      "peopleIds": [
-        "john-paul-ii"
-      ],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "eastern-orthodox",
-        "catholic"
-      ],
-      "sources": [
-        "riley-smith-crusades",
-        "ware-orthodox-church",
-        "hussey-byzantine"
-      ],
+      "causes": ["Venetian financial interests", "Byzantine dynastic disputes", "Latin–Greek hostility"],
+      "consequences": ["Latin Empire of Constantinople (1204–61)", "Lasting Orthodox distrust of the West", "Weakening of Byzantium before the Ottomans"],
+      "peopleIds": ["john-paul-ii"],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["eastern-orthodox", "catholic"],
+      "sources": ["riley-smith-crusades", "ware-orthodox-church", "hussey-byzantine"],
       "confidence": "established"
     },
     {
@@ -1831,38 +837,16 @@
       "year": 1209,
       "endYear": 1229,
       "circa": false,
-      "place": {
-        "name": "Béziers",
-        "lat": 43.3442,
-        "lng": 3.2158
-      },
+      "place": {"name": "Béziers", "lat": 43.3442, "lng": 3.2158},
       "category": "persecution",
-      "regions": [
-        "western-europe"
-      ],
+      "regions": ["western-europe"],
       "summary": "Innocent III launched a crusade against the dualist Cathars of Languedoc and their noble protectors. The massacre at Béziers in 1209 began two decades of war; the papal Inquisition was created afterward to root out remaining heresy.",
-      "causes": [
-        "Spread of Cathar dualism",
-        "Murder of the papal legate (1208)"
-      ],
-      "consequences": [
-        "Destruction of Catharism",
-        "Papal Inquisition (1230s)",
-        "Northern French control of the south"
-      ],
-      "peopleIds": [
-        "dominic"
-      ],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "lambert-medieval-heresy",
-        "macculloch-christianity"
-      ],
+      "causes": ["Spread of Cathar dualism", "Murder of the papal legate (1208)"],
+      "consequences": ["Destruction of Catharism", "Papal Inquisition (1230s)", "Northern French control of the south"],
+      "peopleIds": ["dominic"],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["catholic"],
+      "sources": ["lambert-medieval-heresy", "macculloch-christianity"],
       "confidence": "established"
     },
     {
@@ -1870,35 +854,16 @@
       "title": "Francis of Assisi and the Friars Minor",
       "year": 1209,
       "circa": false,
-      "place": {
-        "name": "Assisi",
-        "lat": 43.0707,
-        "lng": 12.6196
-      },
+      "place": {"name": "Assisi", "lat": 43.0707, "lng": 12.6196},
       "category": "reform",
-      "regions": [
-        "italy"
-      ],
+      "regions": ["italy"],
       "summary": "Francis, a merchant's son who embraced radical poverty, received oral approval of his simple rule from Innocent III in 1209. The Friars Minor spread rapidly through preaching and service; Francis went to Egypt during the Fifth Crusade (1219) to preach before Sultan al-Kamil.",
-      "causes": [
-        "Urban wealth and lay religious hunger"
-      ],
-      "consequences": [
-        "Mendicant orders",
-        "Franciscan missions to Muslims and Mongols",
-        "Poor Clares"
-      ],
-      "peopleIds": [
-        "francis-of-assisi"
-      ],
+      "causes": ["Urban wealth and lay religious hunger"],
+      "consequences": ["Mendicant orders", "Franciscan missions to Muslims and Mongols", "Poor Clares"],
+      "peopleIds": ["francis-of-assisi"],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "odcc",
-        "macculloch-christianity"
-      ],
+      "traditionIds": ["catholic"],
+      "sources": ["odcc", "macculloch-christianity"],
       "confidence": "established"
     },
     {
@@ -1906,44 +871,17 @@
       "title": "Fourth Lateran Council",
       "year": 1215,
       "circa": false,
-      "place": {
-        "name": "Lateran Basilica, Rome",
-        "lat": 41.8859,
-        "lng": 12.5057
-      },
+      "place": {"name": "Lateran Basilica, Rome", "lat": 41.8859, "lng": 12.5057},
       "category": "council",
-      "regions": [
-        "italy",
-        "western-europe",
-        "global"
-      ],
+      "regions": ["italy", "western-europe", "global"],
       "summary": "Innocent III's great council of over 400 bishops defined that in the Eucharist the bread and wine are 'transubstantiated' into Christ's body and blood, required annual confession and communion, condemned Cathars, regulated clergy and imposed distinctive dress on Jews and Muslims. It marked the height of papal monarchy.",
       "longText": "Fourth Lateran was the most important Western council of the Middle Ages. Its first constitution, a creed directed against Cathar dualism, contains the first conciliar use of 'transubstantiation'. Canon 21 (Omnis utriusque sexus) obliged every adult to confess to their own priest and receive communion at least at Easter, shaping lay piety for centuries. Other canons forbade new religious orders without approved rules, prohibited clergy from participating in ordeals, condemned Joachim of Fiore's Trinitarian views and planned a new crusade. Canon 68 required Jews and Muslims to wear distinguishing dress, contributing to later segregation. The council was attended by representatives of the Latin patriarchates set up after 1204. Protestant Reformers later rejected transubstantiation and compulsory auricular confession; Orthodox theology affirms the Eucharistic change but has generally avoided Aristotelian terminology.",
-      "causes": [
-        "Innocent III's reform programme",
-        "Cathar and Waldensian movements"
-      ],
-      "consequences": [
-        "Transubstantiation defined",
-        "Annual confession",
-        "Canon on Jewish dress"
-      ],
-      "peopleIds": [
-        "joachim-of-fiore",
-        "francis-of-assisi",
-        "dominic"
-      ],
-      "doctrineIds": [
-        "church-sacraments"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "tanner-decrees",
-        "macculloch-christianity",
-        "odcc"
-      ],
+      "causes": ["Innocent III's reform programme", "Cathar and Waldensian movements"],
+      "consequences": ["Transubstantiation defined", "Annual confession", "Canon on Jewish dress"],
+      "peopleIds": ["joachim-of-fiore", "francis-of-assisi", "dominic"],
+      "doctrineIds": ["church-sacraments"],
+      "traditionIds": ["catholic"],
+      "sources": ["tanner-decrees", "macculloch-christianity", "odcc"],
       "confidence": "established"
     },
     {
@@ -1951,34 +889,16 @@
       "title": "Dominican Order approved",
       "year": 1216,
       "circa": false,
-      "place": {
-        "name": "Toulouse",
-        "lat": 43.6047,
-        "lng": 1.4442
-      },
+      "place": {"name": "Toulouse", "lat": 43.6047, "lng": 1.4442},
       "category": "reform",
-      "regions": [
-        "western-europe"
-      ],
+      "regions": ["western-europe"],
       "summary": "Dominic de Guzmán, after preaching among Cathars in Languedoc, founded the Order of Preachers at Toulouse, approved by Honorius III in 1216. Committed to study and preaching, Dominicans dominated universities and later staffed the Inquisition.",
-      "causes": [
-        "Need for educated preachers against heresy"
-      ],
-      "consequences": [
-        "Dominican theology (Aquinas)",
-        "Missions in the Americas and Asia"
-      ],
-      "peopleIds": [
-        "dominic"
-      ],
+      "causes": ["Need for educated preachers against heresy"],
+      "consequences": ["Dominican theology (Aquinas)", "Missions in the Americas and Asia"],
+      "peopleIds": ["dominic"],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "odcc",
-        "gonzalez-story"
-      ],
+      "traditionIds": ["catholic"],
+      "sources": ["odcc", "gonzalez-story"],
       "confidence": "established"
     },
     {
@@ -1986,32 +906,16 @@
       "title": "Sava secures Serbian church autocephaly",
       "year": 1219,
       "circa": false,
-      "place": {
-        "name": "Žiča Monastery",
-        "lat": 43.7006,
-        "lng": 20.6464
-      },
+      "place": {"name": "Žiča Monastery", "lat": 43.7006, "lng": 20.6464},
       "category": "reform",
-      "regions": [
-        "greece-balkans"
-      ],
+      "regions": ["greece-balkans"],
       "summary": "Sava, a Serbian prince turned Athonite monk, obtained from the patriarch at Nicaea recognition of an autocephalous Serbian archbishopric, based at Žiča. He organised dioceses and law, becoming Serbia's patron saint.",
-      "causes": [
-        "Weakening of Byzantium after 1204",
-        "Serbian state-building"
-      ],
-      "consequences": [
-        "Serbian Orthodox Church"
-      ],
+      "causes": ["Weakening of Byzantium after 1204", "Serbian state-building"],
+      "consequences": ["Serbian Orthodox Church"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "eastern-orthodox"
-      ],
-      "sources": [
-        "ware-orthodox-church",
-        "roberson-eastern-churches"
-      ],
+      "traditionIds": ["eastern-orthodox"],
+      "sources": ["ware-orthodox-church", "roberson-eastern-churches"],
       "confidence": "established"
     },
     {
@@ -2019,33 +923,16 @@
       "title": "William of Rubruck debates at Karakorum",
       "year": 1254,
       "circa": false,
-      "place": {
-        "name": "Karakorum",
-        "lat": 47.1975,
-        "lng": 102.8238
-      },
+      "place": {"name": "Karakorum", "lat": 47.1975, "lng": 102.8238},
       "category": "mission",
-      "regions": [
-        "central-asia",
-        "east-asia"
-      ],
+      "regions": ["central-asia", "east-asia"],
       "summary": "The Flemish Franciscan William of Rubruck visited the Great Khan Möngke and took part in a formal religious debate among Latin Christians, Church of the East clergy, Muslims and Buddhists. His report describes a vigorous East Syriac Christianity at the Mongol court.",
-      "causes": [
-        "Hopes of a Mongol alliance against Islam"
-      ],
-      "consequences": [
-        "Western knowledge of Asian Christianity"
-      ],
+      "causes": ["Hopes of a Mongol alliance against Islam"],
+      "consequences": ["Western knowledge of Asian Christianity"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic",
-        "church-of-the-east"
-      ],
-      "sources": [
-        "moffett-asia",
-        "gillman-klimkeit"
-      ],
+      "traditionIds": ["catholic", "church-of-the-east"],
+      "sources": ["moffett-asia", "gillman-klimkeit"],
       "confidence": "established"
     },
     {
@@ -2053,32 +940,16 @@
       "title": "Mongol sack of Baghdad",
       "year": 1258,
       "circa": false,
-      "place": {
-        "name": "Baghdad",
-        "lat": 33.3152,
-        "lng": 44.3661
-      },
+      "place": {"name": "Baghdad", "lat": 33.3152, "lng": 44.3661},
       "category": "political",
-      "regions": [
-        "mesopotamia-persia"
-      ],
+      "regions": ["mesopotamia-persia"],
       "summary": "Hülegü's Mongols destroyed the Abbasid caliphate; at the intervention of his Christian wife Doquz Khatun, Christians were largely spared and the catholicos received a palace. For a generation the Ilkhanate favoured Christians, before its rulers embraced Islam in 1295.",
-      "causes": [
-        "Mongol expansion"
-      ],
-      "consequences": [
-        "Brief golden age for Middle Eastern Christians",
-        "Backlash after the Ilkhans converted to Islam"
-      ],
+      "causes": ["Mongol expansion"],
+      "consequences": ["Brief golden age for Middle Eastern Christians", "Backlash after the Ilkhans converted to Islam"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "church-of-the-east"
-      ],
-      "sources": [
-        "baum-winkler-east",
-        "jenkins-lost-history"
-      ],
+      "traditionIds": ["church-of-the-east"],
+      "sources": ["baum-winkler-east", "jenkins-lost-history"],
       "confidence": "established"
     },
     {
@@ -2087,40 +958,16 @@
       "year": 1265,
       "endYear": 1274,
       "circa": false,
-      "place": {
-        "name": "Paris",
-        "lat": 48.853,
-        "lng": 2.3499
-      },
+      "place": {"name": "Paris", "lat": 48.853, "lng": 2.3499},
       "category": "intellectual",
-      "regions": [
-        "western-europe",
-        "italy"
-      ],
+      "regions": ["western-europe", "italy"],
       "summary": "Aquinas, Dominican master at Paris and in Italy, began the unfinished Summa Theologiae, synthesising Aristotle, Augustine and the Fathers in a structured account of God, creation, ethics and Christ. Declared the church's common doctor, his thought dominated Catholic theology after Trent and especially after 1879.",
-      "causes": [
-        "Recovery of Aristotle via Arabic and Greek sources"
-      ],
-      "consequences": [
-        "Thomism",
-        "Natural-law ethics",
-        "Sacramental theology"
-      ],
-      "peopleIds": [
-        "thomas-aquinas"
-      ],
-      "doctrineIds": [
-        "church-sacraments",
-        "salvation",
-        "trinity"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "gonzalez-thought",
-        "odcc"
-      ],
+      "causes": ["Recovery of Aristotle via Arabic and Greek sources"],
+      "consequences": ["Thomism", "Natural-law ethics", "Sacramental theology"],
+      "peopleIds": ["thomas-aquinas"],
+      "doctrineIds": ["church-sacraments", "salvation", "trinity"],
+      "traditionIds": ["catholic"],
+      "sources": ["gonzalez-thought", "odcc"],
       "confidence": "established"
     },
     {
@@ -2128,41 +975,17 @@
       "title": "Second Council of Lyon",
       "year": 1274,
       "circa": false,
-      "place": {
-        "name": "Lyon",
-        "lat": 45.764,
-        "lng": 4.8357
-      },
+      "place": {"name": "Lyon", "lat": 45.764, "lng": 4.8357},
       "category": "council",
-      "regions": [
-        "western-europe",
-        "greece-balkans"
-      ],
+      "regions": ["western-europe", "greece-balkans"],
       "summary": "Gregory X's council received the submission of Byzantine envoys of Michael VIII, who accepted the Filioque and papal primacy to secure Western support. Bonaventure died during the council and Aquinas on his way to it. The union was repudiated by the Byzantine clergy and people and lapsed by 1282.",
       "longText": "Michael VIII Palaiologos, who had recovered Constantinople in 1261, feared an attack by Charles of Anjou and sought papal protection through church union. At Lyon his envoys professed the Roman faith, including the procession of the Holy Spirit from Father and Son 'as from one principle', and the Greek and Latin creeds were sung. The council also reformed papal elections (the conclave) and approved new orders. In Byzantium the union was imposed by force against fierce monastic opposition, and after Michael's death in 1282 a synod repudiated it. Lyon became for the Orthodox a warning of union imposed for political ends; for Catholics a council counted as ecumenical.",
-      "causes": [
-        "Michael VIII's need for Western protection"
-      ],
-      "consequences": [
-        "Short-lived union",
-        "Definition of the Filioque 'as from one principle'",
-        "Conclave rules"
-      ],
-      "peopleIds": [
-        "bonaventure",
-        "thomas-aquinas"
-      ],
-      "doctrineIds": [
-        "holy-spirit"
-      ],
-      "traditionIds": [
-        "catholic",
-        "eastern-orthodox"
-      ],
-      "sources": [
-        "tanner-decrees",
-        "ware-orthodox-church"
-      ],
+      "causes": ["Michael VIII's need for Western protection"],
+      "consequences": ["Short-lived union", "Definition of the Filioque 'as from one principle'", "Conclave rules"],
+      "peopleIds": ["bonaventure", "thomas-aquinas"],
+      "doctrineIds": ["holy-spirit"],
+      "traditionIds": ["catholic", "eastern-orthodox"],
+      "sources": ["tanner-decrees", "ware-orthodox-church"],
       "confidence": "established"
     },
     {
@@ -2171,38 +994,16 @@
       "year": 1287,
       "endYear": 1288,
       "circa": false,
-      "place": {
-        "name": "Khanbaliq (Beijing)",
-        "lat": 39.9042,
-        "lng": 116.4074
-      },
+      "place": {"name": "Khanbaliq (Beijing)", "lat": 39.9042, "lng": 116.4074},
       "category": "mission",
-      "regions": [
-        "east-asia",
-        "central-asia",
-        "mesopotamia-persia",
-        "italy",
-        "western-europe"
-      ],
+      "regions": ["east-asia", "central-asia", "mesopotamia-persia", "italy", "western-europe"],
       "summary": "Rabban Sauma, an Uyghur or Önggüd monk of the Church of the East born near Khanbaliq, travelled west on pilgrimage and was sent by the Ilkhan Arghun as envoy to Constantinople, Rome, Paris and Gascony. He celebrated the Eucharist before Pope Nicholas IV and King Edward I — a reverse Marco Polo.",
-      "causes": [
-        "Mongol–European diplomacy against the Mamluks"
-      ],
-      "consequences": [
-        "Remarkable account of Europe from an Asian Christian"
-      ],
-      "peopleIds": [
-        "rabban-sauma"
-      ],
+      "causes": ["Mongol–European diplomacy against the Mamluks"],
+      "consequences": ["Remarkable account of Europe from an Asian Christian"],
+      "peopleIds": ["rabban-sauma"],
       "doctrineIds": [],
-      "traditionIds": [
-        "church-of-the-east"
-      ],
-      "sources": [
-        "moffett-asia",
-        "baum-winkler-east",
-        "jenkins-lost-history"
-      ],
+      "traditionIds": ["church-of-the-east"],
+      "sources": ["moffett-asia", "baum-winkler-east", "jenkins-lost-history"],
       "confidence": "established"
     },
     {
@@ -2210,32 +1011,16 @@
       "title": "John of Montecorvino reaches Khanbaliq",
       "year": 1294,
       "circa": false,
-      "place": {
-        "name": "Khanbaliq (Beijing)",
-        "lat": 39.9042,
-        "lng": 116.4074
-      },
+      "place": {"name": "Khanbaliq (Beijing)", "lat": 39.9042, "lng": 116.4074},
       "category": "mission",
-      "regions": [
-        "east-asia"
-      ],
+      "regions": ["east-asia"],
       "summary": "The Franciscan John of Montecorvino reached the Yuan capital, built churches, translated the Psalms and New Testament into a Mongolian or Uyghur language and baptised thousands. Made archbishop of Khanbaliq in 1307, he clashed with Church of the East clergy; the mission vanished after the Ming came to power in 1368.",
-      "causes": [
-        "Papal outreach to the Mongols"
-      ],
-      "consequences": [
-        "First Catholic mission in China"
-      ],
+      "causes": ["Papal outreach to the Mongols"],
+      "consequences": ["First Catholic mission in China"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic",
-        "church-of-the-east"
-      ],
-      "sources": [
-        "moffett-asia",
-        "neill-missions"
-      ],
+      "traditionIds": ["catholic", "church-of-the-east"],
+      "sources": ["moffett-asia", "neill-missions"],
       "confidence": "established"
     },
     {
@@ -2244,39 +1029,16 @@
       "year": 1309,
       "endYear": 1377,
       "circa": false,
-      "place": {
-        "name": "Avignon",
-        "lat": 43.9493,
-        "lng": 4.8055
-      },
+      "place": {"name": "Avignon", "lat": 43.9493, "lng": 4.8055},
       "category": "political",
-      "regions": [
-        "western-europe",
-        "italy"
-      ],
+      "regions": ["western-europe", "italy"],
       "summary": "Clement V, a Frenchman, settled the papal court at Avignon, where seven popes resided until Gregory XI returned to Rome in 1377, urged by Catherine of Siena. The 'Babylonian Captivity' brought efficient administration but also accusations of French domination and fiscal greed.",
-      "causes": [
-        "Conflict between Boniface VIII and Philip IV of France",
-        "Unrest in Rome"
-      ],
-      "consequences": [
-        "Centralised papal finances",
-        "Decline of papal prestige",
-        "Prelude to the Western Schism"
-      ],
-      "peopleIds": [
-        "catherine-of-siena"
-      ],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "macculloch-christianity",
-        "odcc"
-      ],
+      "causes": ["Conflict between Boniface VIII and Philip IV of France", "Unrest in Rome"],
+      "consequences": ["Centralised papal finances", "Decline of papal prestige", "Prelude to the Western Schism"],
+      "peopleIds": ["catherine-of-siena"],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["catholic"],
+      "sources": ["macculloch-christianity", "odcc"],
       "confidence": "established"
     },
     {
@@ -2285,43 +1047,17 @@
       "year": 1341,
       "endYear": 1351,
       "circa": false,
-      "place": {
-        "name": "Constantinople (Istanbul)",
-        "lat": 41.0082,
-        "lng": 28.9784
-      },
+      "place": {"name": "Constantinople (Istanbul)", "lat": 41.0082, "lng": 28.9784},
       "category": "council",
-      "regions": [
-        "greece-balkans"
-      ],
+      "regions": ["greece-balkans"],
       "summary": "Barlaam of Calabria attacked the Athonite monks' hesychast prayer and claims to see the uncreated light of Tabor. Gregory Palamas defended them by distinguishing God's unknowable essence from his uncreated energies, in which believers truly participate. Councils in 1341, 1347 and 1351 vindicated Palamas.",
       "longText": "Hesychasm ('stillness') was a method of contemplative prayer centred on the Jesus Prayer, sometimes linked to breathing and posture. Barlaam, a learned Greek from southern Italy, mocked it as 'navel-gazing' and argued that God can be known only indirectly. Palamas replied in the Triads that the vision of light granted to the disciples at the Transfiguration was a real, though not essential, participation in God — the divine energies are God himself in his self-giving, while his essence remains beyond participation. The controversy became entangled with the civil war between John VI Kantakouzenos and the regency of John V. The synods of 1341 and 1351 endorsed Palamite theology, which entered the Synodikon of Orthodoxy; Palamas was canonised in 1368. Orthodox theology sees the essence–energies distinction as safeguarding both divine transcendence and real deification (theosis). Many Catholic theologians historically viewed it as compromising divine simplicity, though recent scholarship and dialogue see more convergence.",
-      "causes": [
-        "Athonite hesychast revival",
-        "Barlaam's nominalist-leaning critique"
-      ],
-      "consequences": [
-        "Essence–energies distinction in Orthodox theology",
-        "Hesychasm spreads to the Slavic world",
-        "Later revived through the Philokalia"
-      ],
-      "peopleIds": [
-        "gregory-palamas",
-        "symeon-new-theologian"
-      ],
-      "doctrineIds": [
-        "salvation",
-        "holy-spirit",
-        "trinity"
-      ],
-      "traditionIds": [
-        "eastern-orthodox"
-      ],
-      "sources": [
-        "ware-orthodox-church",
-        "pelikan-christian-tradition",
-        "meyendorff-imperial-unity"
-      ],
+      "causes": ["Athonite hesychast revival", "Barlaam's nominalist-leaning critique"],
+      "consequences": ["Essence–energies distinction in Orthodox theology", "Hesychasm spreads to the Slavic world", "Later revived through the Philokalia"],
+      "peopleIds": ["gregory-palamas", "symeon-new-theologian"],
+      "doctrineIds": ["salvation", "holy-spirit", "trinity"],
+      "traditionIds": ["eastern-orthodox"],
+      "sources": ["ware-orthodox-church", "pelikan-christian-tradition", "meyendorff-imperial-unity"],
       "confidence": "established"
     },
     {
@@ -2330,38 +1066,16 @@
       "year": 1347,
       "endYear": 1351,
       "circa": false,
-      "place": {
-        "name": "Messina",
-        "lat": 38.1938,
-        "lng": 15.554
-      },
+      "place": {"name": "Messina", "lat": 38.1938, "lng": 15.554},
       "category": "political",
-      "regions": [
-        "western-europe",
-        "italy",
-        "levant",
-        "egypt",
-        "eastern-europe"
-      ],
+      "regions": ["western-europe", "italy", "levant", "egypt", "eastern-europe"],
       "summary": "Bubonic plague killed perhaps a third to a half of the population of Europe and the Middle East. It provoked flagellant movements, pogroms against Jews accused of poisoning wells, intense devotion to death and judgement, and a shortage of clergy.",
-      "causes": [
-        "Plague carried along trade routes from Central Asia"
-      ],
-      "consequences": [
-        "Massacres of Jews",
-        "Penitential piety and art of the 'dance of death'",
-        "Social upheaval"
-      ],
+      "causes": ["Plague carried along trade routes from Central Asia"],
+      "consequences": ["Massacres of Jews", "Penitential piety and art of the 'dance of death'", "Social upheaval"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic",
-        "eastern-orthodox",
-        "coptic-orthodox"
-      ],
-      "sources": [
-        "macculloch-christianity"
-      ],
+      "traditionIds": ["catholic", "eastern-orthodox", "coptic-orthodox"],
+      "sources": ["macculloch-christianity"],
       "confidence": "established"
     },
     {
@@ -2369,33 +1083,16 @@
       "title": "Sergius of Radonezh founds the Trinity Lavra",
       "year": 1345,
       "circa": true,
-      "place": {
-        "name": "Sergiev Posad",
-        "lat": 56.3109,
-        "lng": 38.1302
-      },
+      "place": {"name": "Sergiev Posad", "lat": 56.3109, "lng": 38.1302},
       "category": "reform",
-      "regions": [
-        "russia"
-      ],
+      "regions": ["russia"],
       "summary": "Sergius of Radonezh founded a hermitage dedicated to the Holy Trinity in the forests north-east of Moscow, which grew into the greatest Russian monastery. His blessing of Prince Dmitri before the battle of Kulikovo (1380) made him a symbol of national revival.",
-      "causes": [
-        "Hesychast influence reaching Rus'"
-      ],
-      "consequences": [
-        "Northern monastic colonisation",
-        "Rublev's Trinity icon painted for the Lavra"
-      ],
-      "peopleIds": [
-        "sergius-of-radonezh"
-      ],
+      "causes": ["Hesychast influence reaching Rus'"],
+      "consequences": ["Northern monastic colonisation", "Rublev's Trinity icon painted for the Lavra"],
+      "peopleIds": ["sergius-of-radonezh"],
       "doctrineIds": [],
-      "traditionIds": [
-        "russian-orthodox"
-      ],
-      "sources": [
-        "ware-orthodox-church"
-      ],
+      "traditionIds": ["russian-orthodox"],
+      "sources": ["ware-orthodox-church"],
       "confidence": "established"
     },
     {
@@ -2404,39 +1101,16 @@
       "year": 1378,
       "endYear": 1417,
       "circa": false,
-      "place": {
-        "name": "Rome and Avignon",
-        "lat": 41.9022,
-        "lng": 12.4539
-      },
+      "place": {"name": "Rome and Avignon", "lat": 41.9022, "lng": 12.4539},
       "category": "schism",
-      "regions": [
-        "western-europe",
-        "italy"
-      ],
+      "regions": ["western-europe", "italy"],
       "summary": "The election of Urban VI in Rome was repudiated by French cardinals, who elected Clement VII in Avignon. Western Christendom divided its allegiance along political lines; a council at Pisa (1409) added a third pope. Constance ended the schism in 1417.",
-      "causes": [
-        "Contested papal election",
-        "French–Italian rivalry"
-      ],
-      "consequences": [
-        "Conciliarism",
-        "Loss of papal moral authority",
-        "Council of Constance"
-      ],
-      "peopleIds": [
-        "catherine-of-siena"
-      ],
-      "doctrineIds": [
-        "church-sacraments"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "macculloch-christianity",
-        "odcc"
-      ],
+      "causes": ["Contested papal election", "French–Italian rivalry"],
+      "consequences": ["Conciliarism", "Loss of papal moral authority", "Council of Constance"],
+      "peopleIds": ["catherine-of-siena"],
+      "doctrineIds": ["church-sacraments"],
+      "traditionIds": ["catholic"],
+      "sources": ["macculloch-christianity", "odcc"],
       "confidence": "established"
     },
     {
@@ -2444,37 +1118,16 @@
       "title": "Wycliffe condemned at the Blackfriars Synod",
       "year": 1382,
       "circa": false,
-      "place": {
-        "name": "Blackfriars, London",
-        "lat": 51.512,
-        "lng": -0.103
-      },
+      "place": {"name": "Blackfriars, London", "lat": 51.512, "lng": -0.103},
       "category": "council",
-      "regions": [
-        "northern-europe"
-      ],
+      "regions": ["northern-europe"],
       "summary": "Archbishop Courtenay's 'Earthquake Synod' condemned propositions of John Wycliffe, who had attacked transubstantiation, clerical wealth and papal authority and urged the Bible as supreme authority. His followers produced the first complete English Bible; the Lollards were persecuted after 1401.",
-      "causes": [
-        "Wycliffe's Oxford teaching and royal patronage"
-      ],
-      "consequences": [
-        "Lollardy",
-        "Influence on Hus in Bohemia"
-      ],
-      "peopleIds": [
-        "john-wycliffe"
-      ],
-      "doctrineIds": [
-        "scripture-authority",
-        "church-sacraments"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "lambert-medieval-heresy",
-        "macculloch-christianity"
-      ],
+      "causes": ["Wycliffe's Oxford teaching and royal patronage"],
+      "consequences": ["Lollardy", "Influence on Hus in Bohemia"],
+      "peopleIds": ["john-wycliffe"],
+      "doctrineIds": ["scripture-authority", "church-sacraments"],
+      "traditionIds": ["catholic"],
+      "sources": ["lambert-medieval-heresy", "macculloch-christianity"],
       "confidence": "established"
     },
     {
@@ -2483,36 +1136,16 @@
       "year": 1393,
       "endYear": 1405,
       "circa": true,
-      "place": {
-        "name": "Baghdad",
-        "lat": 33.3152,
-        "lng": 44.3661
-      },
+      "place": {"name": "Baghdad", "lat": 33.3152, "lng": 44.3661},
       "category": "persecution",
-      "regions": [
-        "mesopotamia-persia",
-        "central-asia",
-        "armenia-caucasus"
-      ],
+      "regions": ["mesopotamia-persia", "central-asia", "armenia-caucasus"],
       "summary": "Timur (Tamerlane) sacked Baghdad (1393, 1401), devastated cities across Persia, Mesopotamia, Georgia and Central Asia, and massacred populations including many Christians. Following earlier losses after the Ilkhans became Muslim, the Church of the East shrank to the mountains of Hakkari and northern Mesopotamia and to Kerala.",
-      "causes": [
-        "Timur's campaigns of conquest"
-      ],
-      "consequences": [
-        "Near-disappearance of Christianity in Central Asia",
-        "Church of the East reduced to a mountain refuge"
-      ],
+      "causes": ["Timur's campaigns of conquest"],
+      "consequences": ["Near-disappearance of Christianity in Central Asia", "Church of the East reduced to a mountain refuge"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "church-of-the-east",
-        "armenian-apostolic"
-      ],
-      "sources": [
-        "jenkins-lost-history",
-        "baum-winkler-east",
-        "moffett-asia"
-      ],
+      "traditionIds": ["church-of-the-east", "armenian-apostolic"],
+      "sources": ["jenkins-lost-history", "baum-winkler-east", "moffett-asia"],
       "confidence": "established"
     },
     {
@@ -2521,44 +1154,17 @@
       "year": 1414,
       "endYear": 1418,
       "circa": false,
-      "place": {
-        "name": "Konstanz",
-        "lat": 47.6603,
-        "lng": 9.1758
-      },
+      "place": {"name": "Konstanz", "lat": 47.6603, "lng": 9.1758},
       "category": "council",
-      "regions": [
-        "western-europe",
-        "eastern-europe"
-      ],
+      "regions": ["western-europe", "eastern-europe"],
       "summary": "The largest medieval council ended the Western Schism by deposing or receiving the resignations of three rival popes and electing Martin V. Its decree Haec sancta asserted conciliar authority over popes. It condemned Wycliffe and burned Jan Hus (1415) and Jerome of Prague despite Hus's safe-conduct.",
       "longText": "Convened by Pope John XXIII (of the Pisan line) at the urging of Emperor Sigismund, Constance gathered bishops, theologians, princes and envoys from across Latin Christendom, voting by 'nations'. When John fled, the council declared in Haec sancta (1415) that it held its power immediately from Christ and that even a pope must obey it in matters of faith, schism and reform; Frequens (1417) required regular councils. Gregory XII resigned, Benedict XIII was deposed, and Martin V was elected in 1417. Hus, who came under imperial safe-conduct to defend himself, was condemned for Wycliffite errors and burned on 6 July 1415, sparking the Hussite revolution in Bohemia. Catholic theology later debated Haec sancta's authority: conciliarists saw it as binding; papal theologians, and finally Vatican I, rejected conciliar supremacy. Protestants regard Hus as a forerunner of the Reformation.",
-      "causes": [
-        "Three rival popes",
-        "Calls for reform 'in head and members'"
-      ],
-      "consequences": [
-        "End of the Western Schism",
-        "Conciliar theory",
-        "Execution of Hus and the Hussite wars"
-      ],
-      "peopleIds": [
-        "jan-hus",
-        "john-wycliffe"
-      ],
-      "doctrineIds": [
-        "church-sacraments",
-        "scripture-authority"
-      ],
-      "traditionIds": [
-        "catholic",
-        "hussite-moravian"
-      ],
-      "sources": [
-        "tanner-decrees",
-        "kaminsky-hussite",
-        "macculloch-christianity"
-      ],
+      "causes": ["Three rival popes", "Calls for reform 'in head and members'"],
+      "consequences": ["End of the Western Schism", "Conciliar theory", "Execution of Hus and the Hussite wars"],
+      "peopleIds": ["jan-hus", "john-wycliffe"],
+      "doctrineIds": ["church-sacraments", "scripture-authority"],
+      "traditionIds": ["catholic", "hussite-moravian"],
+      "sources": ["tanner-decrees", "kaminsky-hussite", "macculloch-christianity"],
       "confidence": "established"
     },
     {
@@ -2567,37 +1173,16 @@
       "year": 1419,
       "endYear": 1434,
       "circa": false,
-      "place": {
-        "name": "Prague",
-        "lat": 50.0755,
-        "lng": 14.4378
-      },
+      "place": {"name": "Prague", "lat": 50.0755, "lng": 14.4378},
       "category": "reform",
-      "regions": [
-        "eastern-europe"
-      ],
+      "regions": ["eastern-europe"],
       "summary": "Outraged by Hus's execution, Bohemian reformers demanded communion in both kinds (the chalice for the laity), free preaching and clerical poverty. After the defenestration of Prague (1419), Hussite armies under Jan Žižka defeated five crusades; the moderate Utraquists won recognition at Basel (1436), and the Unity of Brethren emerged in 1457.",
-      "causes": [
-        "Execution of Hus",
-        "Czech national and reform sentiment"
-      ],
-      "consequences": [
-        "First successful reform church in the West",
-        "Unitas Fratrum, ancestor of the Moravians"
-      ],
-      "peopleIds": [
-        "jan-hus"
-      ],
-      "doctrineIds": [
-        "church-sacraments"
-      ],
-      "traditionIds": [
-        "hussite-moravian"
-      ],
-      "sources": [
-        "kaminsky-hussite",
-        "macculloch-reformation"
-      ],
+      "causes": ["Execution of Hus", "Czech national and reform sentiment"],
+      "consequences": ["First successful reform church in the West", "Unitas Fratrum, ancestor of the Moravians"],
+      "peopleIds": ["jan-hus"],
+      "doctrineIds": ["church-sacraments"],
+      "traditionIds": ["hussite-moravian"],
+      "sources": ["kaminsky-hussite", "macculloch-reformation"],
       "confidence": "established"
     },
     {
@@ -2605,34 +1190,16 @@
       "title": "Imitation of Christ and the Devotio Moderna",
       "year": 1418,
       "circa": true,
-      "place": {
-        "name": "Deventer",
-        "lat": 52.2552,
-        "lng": 6.1639
-      },
+      "place": {"name": "Deventer", "lat": 52.2552, "lng": 6.1639},
       "category": "reform",
-      "regions": [
-        "western-europe"
-      ],
+      "regions": ["western-europe"],
       "summary": "The Brethren of the Common Life, founded by Geert Groote at Deventer, cultivated inward piety among laypeople and clergy. The Imitation of Christ, attributed to Thomas à Kempis (c. 1418–27), became after the Bible perhaps the most widely read Christian book.",
-      "causes": [
-        "Lay hunger for personal devotion"
-      ],
-      "consequences": [
-        "Schools attended by Erasmus and others",
-        "Influence on Catholic and Protestant spirituality"
-      ],
-      "peopleIds": [
-        "erasmus"
-      ],
+      "causes": ["Lay hunger for personal devotion"],
+      "consequences": ["Schools attended by Erasmus and others", "Influence on Catholic and Protestant spirituality"],
+      "peopleIds": ["erasmus"],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "mcginn-mysticism",
-        "macculloch-reformation"
-      ],
+      "traditionIds": ["catholic"],
+      "sources": ["mcginn-mysticism", "macculloch-reformation"],
       "confidence": "established"
     },
     {
@@ -2641,50 +1208,17 @@
       "year": 1438,
       "endYear": 1445,
       "circa": false,
-      "place": {
-        "name": "Florence",
-        "lat": 43.7696,
-        "lng": 11.2558
-      },
+      "place": {"name": "Florence", "lat": 43.7696, "lng": 11.2558},
       "category": "council",
-      "regions": [
-        "italy",
-        "greece-balkans",
-        "armenia-caucasus",
-        "egypt",
-        "ethiopia-nubia",
-        "russia"
-      ],
+      "regions": ["italy", "greece-balkans", "armenia-caucasus", "egypt", "ethiopia-nubia", "russia"],
       "summary": "Emperor John VIII, Patriarch Joseph II and a large Greek delegation joined Pope Eugenius IV to negotiate reunion; the decree Laetentur caeli (6 July 1439) accepted the Filioque, purgatory, unleavened bread and papal primacy. Unions with Armenians (1439), Copts (1442) and others followed, and Ethiopian monks attended. Mark of Ephesus refused to sign, and the union was rejected in Constantinople and Moscow.",
       "longText": "Florence was the most serious medieval attempt to heal the East–West schism. The Byzantines, facing the Ottomans, hoped for military aid; theologians including Bessarion and Mark of Ephesus debated the Filioque for months, reaching a formula that the Spirit proceeds from the Father 'through the Son' understood as equivalent to 'and the Son'. The Decree for the Armenians summarised Latin sacramental theology (seven sacraments), and the Decree for the Jacobites (Copts) of 1442 contained the strict statement that no one outside the Catholic Church can be saved. Ethiopian delegates from Jerusalem attended, though no lasting union with Ethiopia followed. On their return, the Greek bishops faced popular hostility; Metropolitan Isidore of Kyiv was arrested in Moscow, which then elected its own metropolitan (1448). The union was proclaimed in Hagia Sophia only in December 1452, months before the city fell. Catholics count Florence as ecumenical; the Orthodox regard it as a false union, and Mark of Ephesus is venerated as a saint for his refusal.",
-      "causes": [
-        "Ottoman threat to Byzantium",
-        "Conciliarist rivalry with the Council of Basel"
-      ],
-      "consequences": [
-        "Short-lived unions",
-        "Russian autocephaly",
-        "Doctrinal statements on purgatory and sacraments",
-        "Templates for later Eastern Catholic unions"
-      ],
+      "causes": ["Ottoman threat to Byzantium", "Conciliarist rivalry with the Council of Basel"],
+      "consequences": ["Short-lived unions", "Russian autocephaly", "Doctrinal statements on purgatory and sacraments", "Templates for later Eastern Catholic unions"],
       "peopleIds": [],
-      "doctrineIds": [
-        "holy-spirit",
-        "church-sacraments",
-        "eschatology"
-      ],
-      "traditionIds": [
-        "catholic",
-        "eastern-orthodox",
-        "armenian-apostolic",
-        "coptic-orthodox",
-        "ethiopian-orthodox-tewahedo"
-      ],
-      "sources": [
-        "tanner-decrees",
-        "ware-orthodox-church",
-        "meyendorff-imperial-unity"
-      ],
+      "doctrineIds": ["holy-spirit", "church-sacraments", "eschatology"],
+      "traditionIds": ["catholic", "eastern-orthodox", "armenian-apostolic", "coptic-orthodox", "ethiopian-orthodox-tewahedo"],
+      "sources": ["tanner-decrees", "ware-orthodox-church", "meyendorff-imperial-unity"],
       "confidence": "established"
     },
     {
@@ -2692,31 +1226,16 @@
       "title": "Moscow elects its own metropolitan",
       "year": 1448,
       "circa": false,
-      "place": {
-        "name": "Moscow",
-        "lat": 55.7558,
-        "lng": 37.6173
-      },
+      "place": {"name": "Moscow", "lat": 55.7558, "lng": 37.6173},
       "category": "schism",
-      "regions": [
-        "russia"
-      ],
+      "regions": ["russia"],
       "summary": "Having rejected the union of Florence and imprisoned Metropolitan Isidore, Russian bishops elected Jonah metropolitan without Constantinople's consent, making the Russian church de facto autocephalous. After 1453 Moscow increasingly saw itself as the guardian of Orthodoxy — later expressed as the 'Third Rome' idea.",
-      "causes": [
-        "Rejection of Florence"
-      ],
-      "consequences": [
-        "Autocephalous Russian church",
-        "Moscow as 'Third Rome'"
-      ],
+      "causes": ["Rejection of Florence"],
+      "consequences": ["Autocephalous Russian church", "Moscow as 'Third Rome'"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "russian-orthodox"
-      ],
-      "sources": [
-        "ware-orthodox-church"
-      ],
+      "traditionIds": ["russian-orthodox"],
+      "sources": ["ware-orthodox-church"],
       "confidence": "established"
     },
     {
@@ -2724,34 +1243,16 @@
       "title": "Zara Yaqob's council and Ethiopian church reforms",
       "year": 1450,
       "circa": true,
-      "place": {
-        "name": "Debre Berhan",
-        "lat": 9.6797,
-        "lng": 39.5322
-      },
+      "place": {"name": "Debre Berhan", "lat": 9.6797, "lng": 39.5322},
       "category": "council",
-      "regions": [
-        "ethiopia-nubia"
-      ],
+      "regions": ["ethiopia-nubia"],
       "summary": "Emperor Zara Yaqob convened a council at Debre Mitmaq (1450) that reconciled the followers of Ewostatewos by accepting observance of both Saturday and Sunday Sabbaths, and promoted Marian devotion and liturgical reform. He also wrote theological treatises and suppressed rival cults harshly.",
-      "causes": [
-        "Sabbath controversy dividing Ethiopian monasticism"
-      ],
-      "consequences": [
-        "Distinctive Ethiopian observance of two Sabbaths",
-        "Strengthened Marian piety"
-      ],
+      "causes": ["Sabbath controversy dividing Ethiopian monasticism"],
+      "consequences": ["Distinctive Ethiopian observance of two Sabbaths", "Strengthened Marian piety"],
       "peopleIds": [],
-      "doctrineIds": [
-        "mary-saints"
-      ],
-      "traditionIds": [
-        "ethiopian-orthodox-tewahedo"
-      ],
-      "sources": [
-        "isichei-africa",
-        "hastings-church-in-africa"
-      ],
+      "doctrineIds": ["mary-saints"],
+      "traditionIds": ["ethiopian-orthodox-tewahedo"],
+      "sources": ["isichei-africa", "hastings-church-in-africa"],
       "confidence": "established"
     },
     {
@@ -2759,39 +1260,17 @@
       "title": "Fall of Constantinople",
       "year": 1453,
       "circa": false,
-      "place": {
-        "name": "Constantinople (Istanbul)",
-        "lat": 41.0082,
-        "lng": 28.9784
-      },
+      "place": {"name": "Constantinople (Istanbul)", "lat": 41.0082, "lng": 28.9784},
       "category": "political",
-      "regions": [
-        "greece-balkans",
-        "asia-minor",
-        "russia"
-      ],
+      "regions": ["greece-balkans", "asia-minor", "russia"],
       "summary": "On 29 May 1453 the Ottoman Sultan Mehmed II captured Constantinople; the last emperor Constantine XI died in battle and Hagia Sophia became a mosque. Mehmed appointed the anti-unionist Gennadios Scholarios patriarch, making him head of the Orthodox millet within the Ottoman Empire.",
       "longText": "The fall ended the Roman Empire in the East after more than eleven centuries. Western help had been minimal despite the union of Florence. Under the millet system, the Ecumenical Patriarch became both spiritual and civil head of the Ottoman Orthodox, which preserved the church but also tied it to Ottoman politics, with patriarchs frequently deposed. Greek scholars fleeing west contributed to the Renaissance study of Greek, and thus to Erasmus' Greek New Testament. Moscow, now the most powerful Orthodox state, increasingly claimed Byzantium's mantle. For the Orthodox, the fall began centuries of 'Turkocratia', with neo-martyrs, crypto-Christians and a theology shaped by survival; for the West, it fed crusading proposals and apocalyptic speculation.",
-      "causes": [
-        "Ottoman expansion",
-        "Byzantine decline after 1204"
-      ],
-      "consequences": [
-        "Orthodox millet under the Ottomans",
-        "Hagia Sophia converted into a mosque",
-        "Moscow as Third Rome",
-        "Greek learning in the Renaissance West"
-      ],
+      "causes": ["Ottoman expansion", "Byzantine decline after 1204"],
+      "consequences": ["Orthodox millet under the Ottomans", "Hagia Sophia converted into a mosque", "Moscow as Third Rome", "Greek learning in the Renaissance West"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "eastern-orthodox"
-      ],
-      "sources": [
-        "ware-orthodox-church",
-        "hussey-byzantine",
-        "macculloch-christianity"
-      ],
+      "traditionIds": ["eastern-orthodox"],
+      "sources": ["ware-orthodox-church", "hussey-byzantine", "macculloch-christianity"],
       "confidence": "established"
     },
     {
@@ -2799,33 +1278,16 @@
       "title": "Gutenberg Bible printed",
       "year": 1455,
       "circa": true,
-      "place": {
-        "name": "Mainz",
-        "lat": 49.9929,
-        "lng": 8.2473
-      },
+      "place": {"name": "Mainz", "lat": 49.9929, "lng": 8.2473},
       "category": "intellectual",
-      "regions": [
-        "western-europe"
-      ],
+      "regions": ["western-europe"],
       "summary": "Johannes Gutenberg's workshop in Mainz completed the first major book printed with movable metal type, a Latin Vulgate Bible. Printing transformed the spread of Scripture, devotional books and, within two generations, Reformation pamphlets.",
-      "causes": [
-        "Technological innovation and demand for books"
-      ],
-      "consequences": [
-        "Print culture enabling the Reformation",
-        "Vernacular Bibles"
-      ],
+      "causes": ["Technological innovation and demand for books"],
+      "consequences": ["Print culture enabling the Reformation", "Vernacular Bibles"],
       "peopleIds": [],
-      "doctrineIds": [
-        "scripture-authority"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "macculloch-reformation"
-      ],
+      "doctrineIds": ["scripture-authority"],
+      "traditionIds": ["catholic"],
+      "sources": ["macculloch-reformation"],
       "confidence": "established"
     },
     {
@@ -2833,36 +1295,16 @@
       "title": "Spanish Inquisition founded",
       "year": 1478,
       "circa": false,
-      "place": {
-        "name": "Seville",
-        "lat": 37.3891,
-        "lng": -5.9845
-      },
+      "place": {"name": "Seville", "lat": 37.3891, "lng": -5.9845},
       "category": "persecution",
-      "regions": [
-        "western-europe",
-        "latin-america"
-      ],
+      "regions": ["western-europe", "latin-america"],
       "summary": "With papal approval, Ferdinand and Isabella established a royal Inquisition to investigate conversos suspected of secretly practising Judaism. It led to the expulsion of Jews from Spain (1492) and later pursued Moriscos, Protestants and mystics, and operated in Spanish America.",
-      "causes": [
-        "Suspicion of forced converts",
-        "Royal consolidation"
-      ],
-      "consequences": [
-        "Expulsion of Jews (1492)",
-        "Purity-of-blood statutes"
-      ],
+      "causes": ["Suspicion of forced converts", "Royal consolidation"],
+      "consequences": ["Expulsion of Jews (1492)", "Purity-of-blood statutes"],
       "peopleIds": [],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "macculloch-reformation",
-        "odcc"
-      ],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["catholic"],
+      "sources": ["macculloch-reformation", "odcc"],
       "confidence": "established"
     },
     {
@@ -2870,34 +1312,16 @@
       "title": "Conversion of the Kingdom of Kongo",
       "year": 1491,
       "circa": false,
-      "place": {
-        "name": "Mbanza Kongo",
-        "lat": -6.2667,
-        "lng": 14.25
-      },
+      "place": {"name": "Mbanza Kongo", "lat": -6.2667, "lng": 14.25},
       "category": "mission",
-      "regions": [
-        "sub-saharan-africa"
-      ],
+      "regions": ["sub-saharan-africa"],
       "summary": "Portuguese priests baptised the Manikongo Nzinga a Nkuwu (João I) at Mbanza Kongo in May 1491. His son Afonso I (r. 1509–1543) made Catholicism the religion of the kingdom, building an African Christian state with its own literate elite that lasted for centuries.",
-      "causes": [
-        "Portuguese voyages down the African coast"
-      ],
-      "consequences": [
-        "Kongolese Catholicism",
-        "Entanglement with the Portuguese slave trade"
-      ],
-      "peopleIds": [
-        "afonso-i-of-kongo"
-      ],
+      "causes": ["Portuguese voyages down the African coast"],
+      "consequences": ["Kongolese Catholicism", "Entanglement with the Portuguese slave trade"],
+      "peopleIds": ["afonso-i-of-kongo"],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "hastings-church-in-africa",
-        "isichei-africa"
-      ],
+      "traditionIds": ["catholic"],
+      "sources": ["hastings-church-in-africa", "isichei-africa"],
       "confidence": "established"
     },
     {
@@ -2905,42 +1329,17 @@
       "title": "Columbus and the beginning of Spanish conquest in the Americas",
       "year": 1492,
       "circa": false,
-      "place": {
-        "name": "Santo Domingo, Hispaniola",
-        "lat": 18.4861,
-        "lng": -69.9312
-      },
+      "place": {"name": "Santo Domingo, Hispaniola", "lat": 18.4861, "lng": -69.9312},
       "category": "mission",
-      "regions": [
-        "latin-america"
-      ],
+      "regions": ["latin-america"],
       "summary": "Columbus' landfall in the Caribbean in October 1492 began the Spanish conquest of the Americas. Papal bulls (1493) granted Spain rights over new lands in return for evangelisation, and the patronato real gave the crown control of the church. Conquest, forced labour and epidemic disease devastated Indigenous peoples, even as friars preached and some protested.",
       "longText": "The Iberian conquest joined evangelisation to empire. The encomienda system placed Indigenous people under Spanish lords obliged to Christianise them, and the requerimiento read to them demanded submission to pope and crown. Within a century, epidemic disease and violence reduced Indigenous populations catastrophically. Dominicans such as Antonio de Montesinos (1511) and Bartolomé de las Casas denounced the abuses, leading to the New Laws (1542) and the Valladolid debate (1550–51) on the humanity and rights of Indigenous peoples. Franciscans, Dominicans, Augustinians and later Jesuits baptised millions, built churches and learned languages, while Indigenous Christianity developed its own forms, such as devotion to Our Lady of Guadalupe. Latin American Christians today interpret this legacy variously: as the birth of a mestizo Catholic culture, as an evangelisation compromised by conquest, or as an injustice requiring repentance, as Popes John Paul II and Francis acknowledged in apologies.",
-      "causes": [
-        "Iberian reconquista mentality",
-        "Search for trade routes to Asia",
-        "Papal grants of patronage"
-      ],
-      "consequences": [
-        "Catholicism in Latin America",
-        "Indigenous demographic collapse",
-        "Debates over just war and human rights",
-        "Later Atlantic slave trade"
-      ],
-      "peopleIds": [
-        "bartolome-de-las-casas"
-      ],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "gonzalez-latin-america",
-        "latourette-expansion",
-        "neill-missions"
-      ],
+      "causes": ["Iberian reconquista mentality", "Search for trade routes to Asia", "Papal grants of patronage"],
+      "consequences": ["Catholicism in Latin America", "Indigenous demographic collapse", "Debates over just war and human rights", "Later Atlantic slave trade"],
+      "peopleIds": ["bartolome-de-las-casas"],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["catholic"],
+      "sources": ["gonzalez-latin-america", "latourette-expansion", "neill-missions"],
       "confidence": "established"
     },
     {
@@ -2948,33 +1347,16 @@
       "title": "Savonarola executed in Florence",
       "year": 1498,
       "circa": false,
-      "place": {
-        "name": "Piazza della Signoria, Florence",
-        "lat": 43.7696,
-        "lng": 11.2556
-      },
+      "place": {"name": "Piazza della Signoria, Florence", "lat": 43.7696, "lng": 11.2556},
       "category": "reform",
-      "regions": [
-        "italy"
-      ],
+      "regions": ["italy"],
       "summary": "The Dominican friar Girolamo Savonarola preached apocalyptic repentance, dominated Florentine politics after 1494 and staged 'bonfires of the vanities'. Excommunicated by Alexander VI, he was hanged and burned on 23 May 1498.",
-      "causes": [
-        "Corruption in the Borgia papacy",
-        "French invasion of Italy"
-      ],
-      "consequences": [
-        "Admired by later reformers Catholic and Protestant"
-      ],
+      "causes": ["Corruption in the Borgia papacy", "French invasion of Italy"],
+      "consequences": ["Admired by later reformers Catholic and Protestant"],
       "peopleIds": [],
-      "doctrineIds": [
-        "eschatology"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "macculloch-reformation"
-      ],
+      "doctrineIds": ["eschatology"],
+      "traditionIds": ["catholic"],
+      "sources": ["macculloch-reformation"],
       "confidence": "established"
     }
   ]

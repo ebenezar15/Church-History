@@ -5,35 +5,16 @@
       "title": "Moravian mission to enslaved Africans on St Thomas",
       "year": 1732,
       "circa": false,
-      "place": {
-        "name": "Charlotte Amalie, St Thomas",
-        "lat": 18.3419,
-        "lng": -64.9307
-      },
+      "place": {"name": "Charlotte Amalie, St Thomas", "lat": 18.3419, "lng": -64.9307},
       "category": "mission",
-      "regions": [
-        "latin-america",
-        "north-america"
-      ],
+      "regions": ["latin-america", "north-america"],
       "summary": "Leonhard Dober and David Nitschmann sailed from Herrnhut to the Danish West Indies to preach to enslaved Africans — the first Protestant mission to the enslaved. Under Friedrich Martin, Afro-Caribbean congregations formed with Black helpers such as Rebecca Protten.",
-      "causes": [
-        "Herrnhut revival and Zinzendorf's missionary vision"
-      ],
-      "consequences": [
-        "Moravian missions worldwide",
-        "Afro-Caribbean Protestantism"
-      ],
-      "peopleIds": [
-        "nicolaus-zinzendorf"
-      ],
+      "causes": ["Herrnhut revival and Zinzendorf's missionary vision"],
+      "consequences": ["Moravian missions worldwide", "Afro-Caribbean Protestantism"],
+      "peopleIds": ["nicolaus-zinzendorf"],
       "doctrineIds": [],
-      "traditionIds": [
-        "hussite-moravian"
-      ],
-      "sources": [
-        "ward-protestant-awakening",
-        "neill-missions"
-      ],
+      "traditionIds": ["hussite-moravian"],
+      "sources": ["ward-protestant-awakening", "neill-missions"],
       "confidence": "established"
     },
     {
@@ -42,44 +23,16 @@
       "year": 1734,
       "endYear": 1745,
       "circa": false,
-      "place": {
-        "name": "Northampton, Massachusetts",
-        "lat": 42.3251,
-        "lng": -72.6412
-      },
+      "place": {"name": "Northampton, Massachusetts", "lat": 42.3251, "lng": -72.6412},
       "category": "revival",
-      "regions": [
-        "north-america",
-        "northern-europe"
-      ],
+      "regions": ["north-america", "northern-europe"],
       "summary": "Revival began under Jonathan Edwards in Northampton (1734–35) and swept the American colonies with George Whitefield's open-air preaching tours (1739–41), paralleling awakenings in Wales, Scotland and England. Converts testified to the 'new birth'; critics deplored emotional excess, splitting churches into New and Old Lights.",
-      "causes": [
-        "Pietist and Puritan heart-religion",
-        "Itinerant preaching and print"
-      ],
-      "consequences": [
-        "Evangelical identity across denominations",
-        "Growth of Baptists and Presbyterians",
-        "Colleges like Princeton"
-      ],
-      "peopleIds": [
-        "jonathan-edwards",
-        "george-whitefield"
-      ],
-      "doctrineIds": [
-        "salvation",
-        "holy-spirit"
-      ],
-      "traditionIds": [
-        "evangelical",
-        "congregationalist",
-        "presbyterian"
-      ],
-      "sources": [
-        "noll-christianity-us",
-        "bebbington-evangelicalism",
-        "ward-protestant-awakening"
-      ],
+      "causes": ["Pietist and Puritan heart-religion", "Itinerant preaching and print"],
+      "consequences": ["Evangelical identity across denominations", "Growth of Baptists and Presbyterians", "Colleges like Princeton"],
+      "peopleIds": ["jonathan-edwards", "george-whitefield"],
+      "doctrineIds": ["salvation", "holy-spirit"],
+      "traditionIds": ["evangelical", "congregationalist", "presbyterian"],
+      "sources": ["noll-christianity-us", "bebbington-evangelicalism", "ward-protestant-awakening"],
       "confidence": "established"
     },
     {
@@ -87,40 +40,16 @@
       "title": "John Wesley's Aldersgate experience",
       "year": 1738,
       "circa": false,
-      "place": {
-        "name": "Aldersgate Street, London",
-        "lat": 51.5194,
-        "lng": -0.0972
-      },
+      "place": {"name": "Aldersgate Street, London", "lat": 51.5194, "lng": -0.0972},
       "category": "experiential",
-      "regions": [
-        "northern-europe"
-      ],
+      "regions": ["northern-europe"],
       "summary": "On 24 May 1738, hearing Luther's preface to Romans read at a Moravian society meeting, John Wesley felt his 'heart strangely warmed' and received assurance that Christ had taken away his sins. Within a year he took to field preaching and organised the Methodist societies.",
-      "causes": [
-        "Wesley's spiritual struggles and Moravian influence"
-      ],
-      "consequences": [
-        "Methodist revival",
-        "Doctrine of assurance"
-      ],
-      "peopleIds": [
-        "john-wesley",
-        "charles-wesley",
-        "martin-luther"
-      ],
-      "doctrineIds": [
-        "salvation",
-        "holy-spirit"
-      ],
-      "traditionIds": [
-        "methodist",
-        "anglican"
-      ],
-      "sources": [
-        "heitzenrater-wesley",
-        "noll-turning-points"
-      ],
+      "causes": ["Wesley's spiritual struggles and Moravian influence"],
+      "consequences": ["Methodist revival", "Doctrine of assurance"],
+      "peopleIds": ["john-wesley", "charles-wesley", "martin-luther"],
+      "doctrineIds": ["salvation", "holy-spirit"],
+      "traditionIds": ["methodist", "anglican"],
+      "sources": ["heitzenrater-wesley", "noll-turning-points"],
       "confidence": "established"
     },
     {
@@ -128,39 +57,16 @@
       "title": "The Philokalia published",
       "year": 1782,
       "circa": false,
-      "place": {
-        "name": "Venice",
-        "lat": 45.4408,
-        "lng": 12.3155
-      },
+      "place": {"name": "Venice", "lat": 45.4408, "lng": 12.3155},
       "category": "intellectual",
-      "regions": [
-        "greece-balkans",
-        "russia"
-      ],
+      "regions": ["greece-balkans", "russia"],
       "summary": "Nikodemos the Hagiorite and Makarios of Corinth compiled the Philokalia, an anthology of hesychast texts from the 4th to 15th centuries, printed in Venice. Paisius Velichkovsky's Slavonic version (1793) fuelled a Russian revival of eldership (startsy) and the Jesus Prayer.",
-      "causes": [
-        "Kollyvades renewal movement on Athos"
-      ],
-      "consequences": [
-        "Revival of hesychasm",
-        "Russian startsy (Optina)",
-        "Modern Orthodox spirituality"
-      ],
-      "peopleIds": [
-        "gregory-palamas",
-        "paisius-velichkovsky"
-      ],
-      "doctrineIds": [
-        "salvation"
-      ],
-      "traditionIds": [
-        "eastern-orthodox",
-        "russian-orthodox"
-      ],
-      "sources": [
-        "ware-orthodox-church"
-      ],
+      "causes": ["Kollyvades renewal movement on Athos"],
+      "consequences": ["Revival of hesychasm", "Russian startsy (Optina)", "Modern Orthodox spirituality"],
+      "peopleIds": ["gregory-palamas", "paisius-velichkovsky"],
+      "doctrineIds": ["salvation"],
+      "traditionIds": ["eastern-orthodox", "russian-orthodox"],
+      "sources": ["ware-orthodox-church"],
       "confidence": "established"
     },
     {
@@ -168,35 +74,16 @@
       "title": "Self-founded Catholic church in Korea",
       "year": 1784,
       "circa": false,
-      "place": {
-        "name": "Seoul",
-        "lat": 37.5665,
-        "lng": 126.978
-      },
+      "place": {"name": "Seoul", "lat": 37.5665, "lng": 126.978},
       "category": "mission",
-      "regions": [
-        "east-asia"
-      ],
+      "regions": ["east-asia"],
       "summary": "Korean scholars studying Catholic books from China sent Yi Seung-hun to Beijing, where he was baptised in 1784; on returning he baptised others, founding a church without missionaries. Repeated persecutions (1791, 1801, 1839, 1866) produced thousands of martyrs, including Andrew Kim Taegon (1846).",
-      "causes": [
-        "Silhak scholars' interest in Western learning"
-      ],
-      "consequences": [
-        "Korean Catholic martyr church",
-        "103 martyrs canonised 1984"
-      ],
-      "peopleIds": [
-        "yi-seung-hun",
-        "andrew-kim-taegon"
-      ],
+      "causes": ["Silhak scholars' interest in Western learning"],
+      "consequences": ["Korean Catholic martyr church", "103 martyrs canonised 1984"],
+      "peopleIds": ["yi-seung-hun", "andrew-kim-taegon"],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "kim-korea",
-        "moffett-asia"
-      ],
+      "traditionIds": ["catholic"],
+      "sources": ["kim-korea", "moffett-asia"],
       "confidence": "established"
     },
     {
@@ -204,32 +91,16 @@
       "title": "First Christian service in Australia",
       "year": 1788,
       "circa": false,
-      "place": {
-        "name": "Sydney Cove",
-        "lat": -33.8599,
-        "lng": 151.2111
-      },
+      "place": {"name": "Sydney Cove", "lat": -33.8599, "lng": 151.2111},
       "category": "mission",
-      "regions": [
-        "oceania"
-      ],
+      "regions": ["oceania"],
       "summary": "The Anglican chaplain Richard Johnson held the first Christian service in Australia on 3 February 1788 for the convicts and marines of the First Fleet. Christianity in Australia began as a chaplaincy to a penal colony, while Aboriginal peoples experienced dispossession.",
-      "causes": [
-        "British penal colonisation"
-      ],
-      "consequences": [
-        "Anglican, Catholic and Protestant churches of Australia",
-        "Complex legacy for Aboriginal peoples"
-      ],
+      "causes": ["British penal colonisation"],
+      "consequences": ["Anglican, Catholic and Protestant churches of Australia", "Complex legacy for Aboriginal peoples"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "anglican"
-      ],
-      "sources": [
-        "garrett-oceania",
-        "neill-missions"
-      ],
+      "traditionIds": ["anglican"],
+      "sources": ["garrett-oceania", "neill-missions"],
       "confidence": "established"
     },
     {
@@ -237,37 +108,16 @@
       "title": "Baptist Missionary Society founded",
       "year": 1792,
       "circa": false,
-      "place": {
-        "name": "Kettering",
-        "lat": 52.3984,
-        "lng": -0.7253
-      },
+      "place": {"name": "Kettering", "lat": 52.3984, "lng": -0.7253},
       "category": "mission",
-      "regions": [
-        "northern-europe",
-        "india"
-      ],
+      "regions": ["northern-europe", "india"],
       "summary": "Inspired by William Carey's Enquiry into the Obligations of Christians to Use Means for the Conversion of the Heathens, Particular Baptist ministers founded a missionary society at Kettering. Carey sailed for India in 1793; the BMS inaugurated the age of voluntary Protestant mission societies.",
-      "causes": [
-        "Evangelical revival",
-        "Carey's argument from the Great Commission"
-      ],
-      "consequences": [
-        "LMS (1795), CMS (1799) and many more societies",
-        "Serampore mission"
-      ],
-      "peopleIds": [
-        "william-carey"
-      ],
+      "causes": ["Evangelical revival", "Carey's argument from the Great Commission"],
+      "consequences": ["LMS (1795), CMS (1799) and many more societies", "Serampore mission"],
+      "peopleIds": ["william-carey"],
       "doctrineIds": [],
-      "traditionIds": [
-        "baptist"
-      ],
-      "sources": [
-        "neill-missions",
-        "robert-christian-mission",
-        "noll-turning-points"
-      ],
+      "traditionIds": ["baptist"],
+      "sources": ["neill-missions", "robert-christian-mission", "noll-turning-points"],
       "confidence": "established"
     },
     {
@@ -275,34 +125,16 @@
       "title": "Black Christian settlers found Freetown",
       "year": 1792,
       "circa": false,
-      "place": {
-        "name": "Freetown",
-        "lat": 8.4657,
-        "lng": -13.2317
-      },
+      "place": {"name": "Freetown", "lat": 8.4657, "lng": -13.2317},
       "category": "mission",
-      "regions": [
-        "sub-saharan-africa"
-      ],
+      "regions": ["sub-saharan-africa"],
       "summary": "About 1,100 Black Loyalists from Nova Scotia — many Baptist, Methodist and Countess of Huntingdon's Connexion Christians — sailed to Sierra Leone and founded Freetown, arriving singing hymns. Freetown became the base for West African Christianity, later home to recaptives like Samuel Ajayi Crowther.",
-      "causes": [
-        "American Revolution and British promises of freedom",
-        "Abolitionist Sierra Leone Company"
-      ],
-      "consequences": [
-        "First Protestant churches in West Africa led by Africans",
-        "Fourah Bay College (1827)"
-      ],
+      "causes": ["American Revolution and British promises of freedom", "Abolitionist Sierra Leone Company"],
+      "consequences": ["First Protestant churches in West Africa led by Africans", "Fourah Bay College (1827)"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "methodist",
-        "baptist"
-      ],
-      "sources": [
-        "sanneh-whose-religion",
-        "hastings-church-in-africa"
-      ],
+      "traditionIds": ["methodist", "baptist"],
+      "sources": ["sanneh-whose-religion", "hastings-church-in-africa"],
       "confidence": "established"
     },
     {
@@ -310,32 +142,16 @@
       "title": "LMS missionaries land on Tahiti",
       "year": 1797,
       "circa": false,
-      "place": {
-        "name": "Matavai Bay, Tahiti",
-        "lat": -17.495,
-        "lng": -149.5
-      },
+      "place": {"name": "Matavai Bay, Tahiti", "lat": -17.495, "lng": -149.5},
       "category": "mission",
-      "regions": [
-        "oceania"
-      ],
+      "regions": ["oceania"],
       "summary": "The ship Duff landed thirty London Missionary Society artisans and ministers at Matavai Bay. After years of hardship, chief Pōmare II converted (1812), and Tahitian and other Islander evangelists carried Christianity across Polynesia, often faster than European missionaries.",
-      "causes": [
-        "Evangelical enthusiasm after Cook's voyages"
-      ],
-      "consequences": [
-        "Christian Polynesia",
-        "Islander missionaries to Samoa, Fiji and beyond"
-      ],
+      "causes": ["Evangelical enthusiasm after Cook's voyages"],
+      "consequences": ["Christian Polynesia", "Islander missionaries to Samoa, Fiji and beyond"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "congregationalist"
-      ],
-      "sources": [
-        "garrett-oceania",
-        "neill-missions"
-      ],
+      "traditionIds": ["congregationalist"],
+      "sources": ["garrett-oceania", "neill-missions"],
       "confidence": "established"
     },
     {
@@ -344,43 +160,16 @@
       "year": 1800,
       "endYear": 1840,
       "circa": true,
-      "place": {
-        "name": "Kentucky frontier",
-        "lat": 37.8393,
-        "lng": -84.27
-      },
+      "place": {"name": "Kentucky frontier", "lat": 37.8393, "lng": -84.27},
       "category": "revival",
-      "regions": [
-        "north-america"
-      ],
+      "regions": ["north-america"],
       "summary": "A prolonged wave of revivals in the early United States, from frontier camp meetings to Charles Finney's urban campaigns, made Methodists and Baptists the largest denominations and spawned reform movements — temperance, abolition, missions — and new religious bodies.",
-      "causes": [
-        "Disestablishment and religious free market",
-        "Frontier expansion",
-        "Arminian evangelical preaching"
-      ],
-      "consequences": [
-        "Evangelical dominance in 19th-century America",
-        "Voluntary societies",
-        "Restorationist and new movements, including Adventism and Latter-day Saints"
-      ],
-      "peopleIds": [
-        "charles-finney"
-      ],
-      "doctrineIds": [
-        "salvation",
-        "holy-spirit"
-      ],
-      "traditionIds": [
-        "methodist",
-        "baptist",
-        "evangelical",
-        "stone-campbell-restoration"
-      ],
-      "sources": [
-        "noll-christianity-us",
-        "ahlstrom-religious-history"
-      ],
+      "causes": ["Disestablishment and religious free market", "Frontier expansion", "Arminian evangelical preaching"],
+      "consequences": ["Evangelical dominance in 19th-century America", "Voluntary societies", "Restorationist and new movements, including Adventism and Latter-day Saints"],
+      "peopleIds": ["charles-finney"],
+      "doctrineIds": ["salvation", "holy-spirit"],
+      "traditionIds": ["methodist", "baptist", "evangelical", "stone-campbell-restoration"],
+      "sources": ["noll-christianity-us", "ahlstrom-religious-history"],
       "confidence": "established"
     },
     {
@@ -388,36 +177,16 @@
       "title": "Serampore mission and Bible translation",
       "year": 1800,
       "circa": false,
-      "place": {
-        "name": "Serampore",
-        "lat": 22.7505,
-        "lng": 88.3406
-      },
+      "place": {"name": "Serampore", "lat": 22.7505, "lng": 88.3406},
       "category": "mission",
-      "regions": [
-        "india"
-      ],
+      "regions": ["india"],
       "summary": "William Carey, Joshua Marshman and William Ward settled in Danish Serampore, establishing a press that printed Scripture in some 40 Indian and Asian languages, a college (1818) and schools. Carey's opposition to sati contributed to its abolition (1829).",
-      "causes": [
-        "East India Company hostility to missionaries in British territory"
-      ],
-      "consequences": [
-        "Bible translation as mission priority",
-        "Serampore College"
-      ],
-      "peopleIds": [
-        "william-carey"
-      ],
-      "doctrineIds": [
-        "scripture-authority"
-      ],
-      "traditionIds": [
-        "baptist"
-      ],
-      "sources": [
-        "frykenberg-india",
-        "neill-missions"
-      ],
+      "causes": ["East India Company hostility to missionaries in British territory"],
+      "consequences": ["Bible translation as mission priority", "Serampore College"],
+      "peopleIds": ["william-carey"],
+      "doctrineIds": ["scripture-authority"],
+      "traditionIds": ["baptist"],
+      "sources": ["frykenberg-india", "neill-missions"],
       "confidence": "established"
     },
     {
@@ -425,37 +194,16 @@
       "title": "Cane Ridge camp meeting",
       "year": 1801,
       "circa": false,
-      "place": {
-        "name": "Cane Ridge, Kentucky",
-        "lat": 38.2051,
-        "lng": -84.1105
-      },
+      "place": {"name": "Cane Ridge, Kentucky", "lat": 38.2051, "lng": -84.1105},
       "category": "revival",
-      "regions": [
-        "north-america"
-      ],
+      "regions": ["north-america"],
       "summary": "In August 1801 perhaps 10,000–20,000 people gathered at Cane Ridge for a week-long Presbyterian communion that became a revival with Methodist and Baptist preachers; many fell, jerked or shouted. Barton Stone, its host, later helped found the Restoration Movement.",
-      "causes": [
-        "Scottish communion seasons",
-        "Frontier revivalism"
-      ],
-      "consequences": [
-        "Camp meeting tradition",
-        "Stone-Campbell movement"
-      ],
+      "causes": ["Scottish communion seasons", "Frontier revivalism"],
+      "consequences": ["Camp meeting tradition", "Stone-Campbell movement"],
       "peopleIds": [],
-      "doctrineIds": [
-        "holy-spirit"
-      ],
-      "traditionIds": [
-        "presbyterian",
-        "methodist",
-        "stone-campbell-restoration"
-      ],
-      "sources": [
-        "noll-christianity-us",
-        "hughes-restoration"
-      ],
+      "doctrineIds": ["holy-spirit"],
+      "traditionIds": ["presbyterian", "methodist", "stone-campbell-restoration"],
+      "sources": ["noll-christianity-us", "hughes-restoration"],
       "confidence": "established"
     },
     {
@@ -463,43 +211,16 @@
       "title": "Britain abolishes the slave trade",
       "year": 1807,
       "circa": false,
-      "place": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
+      "place": {"name": "London", "lat": 51.5074, "lng": -0.1278},
       "category": "reform",
-      "regions": [
-        "northern-europe",
-        "sub-saharan-africa",
-        "latin-america",
-        "north-america"
-      ],
+      "regions": ["northern-europe", "sub-saharan-africa", "latin-america", "north-america"],
       "summary": "After a twenty-year campaign led in Parliament by the evangelical William Wilberforce, with Quakers, the Clapham Sect and formerly enslaved writers like Olaudah Equiano, Britain outlawed the Atlantic slave trade. Slavery itself was abolished in the British Empire in 1833.",
-      "causes": [
-        "Evangelical and Quaker conscience",
-        "Enslaved resistance and testimony"
-      ],
-      "consequences": [
-        "Royal Navy suppression patrols",
-        "Recaptives settled in Sierra Leone",
-        "Abolition of slavery (1833)"
-      ],
-      "peopleIds": [
-        "william-wilberforce"
-      ],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "anglican",
-        "quaker",
-        "evangelical"
-      ],
-      "sources": [
-        "bebbington-evangelicalism",
-        "noll-turning-points"
-      ],
+      "causes": ["Evangelical and Quaker conscience", "Enslaved resistance and testimony"],
+      "consequences": ["Royal Navy suppression patrols", "Recaptives settled in Sierra Leone", "Abolition of slavery (1833)"],
+      "peopleIds": ["william-wilberforce"],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["anglican", "quaker", "evangelical"],
+      "sources": ["bebbington-evangelicalism", "noll-turning-points"],
       "confidence": "established"
     },
     {
@@ -507,36 +228,16 @@
       "title": "Robert Morrison begins Protestant mission in China",
       "year": 1807,
       "circa": false,
-      "place": {
-        "name": "Guangzhou (Canton)",
-        "lat": 23.1291,
-        "lng": 113.2644
-      },
+      "place": {"name": "Guangzhou (Canton)", "lat": 23.1291, "lng": 113.2644},
       "category": "mission",
-      "regions": [
-        "east-asia"
-      ],
+      "regions": ["east-asia"],
       "summary": "Robert Morrison of the London Missionary Society arrived in Canton, working for the East India Company as translator. He completed a Chinese Bible (1823) with William Milne and a Chinese–English dictionary, but baptised only a handful of converts.",
-      "causes": [
-        "Evangelical missionary societies"
-      ],
-      "consequences": [
-        "Chinese Protestant Bible",
-        "Foundation for later missions"
-      ],
-      "peopleIds": [
-        "robert-morrison"
-      ],
-      "doctrineIds": [
-        "scripture-authority"
-      ],
-      "traditionIds": [
-        "congregationalist"
-      ],
-      "sources": [
-        "bays-china",
-        "neill-missions"
-      ],
+      "causes": ["Evangelical missionary societies"],
+      "consequences": ["Chinese Protestant Bible", "Foundation for later missions"],
+      "peopleIds": ["robert-morrison"],
+      "doctrineIds": ["scripture-authority"],
+      "traditionIds": ["congregationalist"],
+      "sources": ["bays-china", "neill-missions"],
       "confidence": "established"
     },
     {
@@ -544,32 +245,16 @@
       "title": "Samuel Marsden preaches in New Zealand",
       "year": 1814,
       "circa": false,
-      "place": {
-        "name": "Oihi Bay, Bay of Islands",
-        "lat": -35.2,
-        "lng": 174.13
-      },
+      "place": {"name": "Oihi Bay, Bay of Islands", "lat": -35.2, "lng": 174.13},
       "category": "mission",
-      "regions": [
-        "oceania"
-      ],
+      "regions": ["oceania"],
       "summary": "On Christmas Day 1814, Samuel Marsden preached on Luke 2:10 at Oihi with the support of the Ngāpuhi chief Ruatara, who translated. Māori conversion grew rapidly from the 1830s, often led by Māori evangelists, and Christianity shaped the Treaty of Waitangi (1840).",
-      "causes": [
-        "Church Missionary Society",
-        "Ruatara's patronage"
-      ],
-      "consequences": [
-        "Māori Christianity",
-        "Missionary involvement in colonisation"
-      ],
+      "causes": ["Church Missionary Society", "Ruatara's patronage"],
+      "consequences": ["Māori Christianity", "Missionary involvement in colonisation"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "anglican"
-      ],
-      "sources": [
-        "garrett-oceania"
-      ],
+      "traditionIds": ["anglican"],
+      "sources": ["garrett-oceania"],
       "confidence": "established"
     },
     {
@@ -577,32 +262,16 @@
       "title": "African Methodist Episcopal Church founded",
       "year": 1816,
       "circa": false,
-      "place": {
-        "name": "Philadelphia",
-        "lat": 39.9526,
-        "lng": -75.1652
-      },
+      "place": {"name": "Philadelphia", "lat": 39.9526, "lng": -75.1652},
       "category": "schism",
-      "regions": [
-        "north-america"
-      ],
+      "regions": ["north-america"],
       "summary": "After being pulled from their knees in St George's Methodist Church, Richard Allen and Black Methodists founded Bethel Church and, in 1816, the African Methodist Episcopal Church, the first independent Black denomination in the United States.",
-      "causes": [
-        "Racial discrimination in white churches"
-      ],
-      "consequences": [
-        "Independent Black churches",
-        "AME missions in Africa and the Caribbean"
-      ],
+      "causes": ["Racial discrimination in white churches"],
+      "consequences": ["Independent Black churches", "AME missions in Africa and the Caribbean"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "methodist"
-      ],
-      "sources": [
-        "noll-christianity-us",
-        "ahlstrom-religious-history"
-      ],
+      "traditionIds": ["methodist"],
+      "sources": ["noll-christianity-us", "ahlstrom-religious-history"],
       "confidence": "established"
     },
     {
@@ -610,33 +279,16 @@
       "title": "American missionaries arrive in Hawai'i",
       "year": 1820,
       "circa": false,
-      "place": {
-        "name": "Kailua-Kona",
-        "lat": 19.64,
-        "lng": -155.9969
-      },
+      "place": {"name": "Kailua-Kona", "lat": 19.64, "lng": -155.9969},
       "category": "mission",
-      "regions": [
-        "oceania"
-      ],
+      "regions": ["oceania"],
       "summary": "Missionaries of the American Board arrived months after the abolition of the kapu system; Queen Kaʻahumanu became a Christian and promoted the faith. Missionaries created a written Hawaiian language, schools and churches, and some descendants later joined the economic elite that overthrew the monarchy (1893).",
-      "causes": [
-        "Abolition of kapu",
-        "Second Great Awakening missionary zeal"
-      ],
-      "consequences": [
-        "Christian Hawai'i",
-        "Hawaiian literacy"
-      ],
+      "causes": ["Abolition of kapu", "Second Great Awakening missionary zeal"],
+      "consequences": ["Christian Hawai'i", "Hawaiian literacy"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "congregationalist"
-      ],
-      "sources": [
-        "garrett-oceania",
-        "neill-missions"
-      ],
+      "traditionIds": ["congregationalist"],
+      "sources": ["garrett-oceania", "neill-missions"],
       "confidence": "established"
     },
     {
@@ -645,32 +297,16 @@
       "year": 1835,
       "endYear": 1861,
       "circa": false,
-      "place": {
-        "name": "Antananarivo",
-        "lat": -18.8792,
-        "lng": 47.5079
-      },
+      "place": {"name": "Antananarivo", "lat": -18.8792, "lng": 47.5079},
       "category": "persecution",
-      "regions": [
-        "sub-saharan-africa"
-      ],
+      "regions": ["sub-saharan-africa"],
       "summary": "Queen Ranavalona I banned Christianity, expelled LMS missionaries and executed many Malagasy believers, some thrown from the cliffs of Ampamarinana. The underground church grew; after her death the court converted (1869) and Protestantism became dominant in the highlands.",
-      "causes": [
-        "Fear of foreign influence"
-      ],
-      "consequences": [
-        "Malagasy martyr church",
-        "Royal conversion 1869"
-      ],
+      "causes": ["Fear of foreign influence"],
+      "consequences": ["Malagasy martyr church", "Royal conversion 1869"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "congregationalist"
-      ],
-      "sources": [
-        "isichei-africa",
-        "hastings-church-in-africa"
-      ],
+      "traditionIds": ["congregationalist"],
+      "sources": ["isichei-africa", "hastings-church-in-africa"],
       "confidence": "established"
     },
     {
@@ -679,35 +315,16 @@
       "year": 1841,
       "endYear": 1843,
       "circa": false,
-      "place": {
-        "name": "Lokoja (Niger–Benue confluence)",
-        "lat": 7.8023,
-        "lng": 6.7333
-      },
+      "place": {"name": "Lokoja (Niger–Benue confluence)", "lat": 7.8023, "lng": 6.7333},
       "category": "mission",
-      "regions": [
-        "sub-saharan-africa"
-      ],
+      "regions": ["sub-saharan-africa"],
       "summary": "A British expedition up the Niger to promote 'Christianity and commerce' and end the slave trade lost many Europeans to fever, but the Yoruba recaptive Samuel Ajayi Crowther's journal impressed the CMS, which had him ordained in London in 1843. Henry Venn's vision of self-governing African churches followed.",
-      "causes": [
-        "Abolitionist strategy of Thomas Fowell Buxton"
-      ],
-      "consequences": [
-        "Crowther's ordination and Yoruba mission",
-        "Policy of African agency"
-      ],
-      "peopleIds": [
-        "samuel-ajayi-crowther"
-      ],
+      "causes": ["Abolitionist strategy of Thomas Fowell Buxton"],
+      "consequences": ["Crowther's ordination and Yoruba mission", "Policy of African agency"],
+      "peopleIds": ["samuel-ajayi-crowther"],
       "doctrineIds": [],
-      "traditionIds": [
-        "anglican"
-      ],
-      "sources": [
-        "sanneh-whose-religion",
-        "hastings-church-in-africa",
-        "dacb"
-      ],
+      "traditionIds": ["anglican"],
+      "sources": ["sanneh-whose-religion", "hastings-church-in-africa", "dacb"],
       "confidence": "established"
     },
     {
@@ -715,40 +332,16 @@
       "title": "The Great Disappointment",
       "year": 1844,
       "circa": false,
-      "place": {
-        "name": "Low Hampton, New York",
-        "lat": 43.53,
-        "lng": -73.29
-      },
+      "place": {"name": "Low Hampton, New York", "lat": 43.53, "lng": -73.29},
       "category": "experiential",
-      "regions": [
-        "north-america"
-      ],
+      "regions": ["north-america"],
       "summary": "Followers of the Baptist preacher William Miller expected Christ's return on 22 October 1844 based on calculations from Daniel 8:14. When it did not happen, the movement fragmented; one group reinterpreted the date as Christ entering the heavenly sanctuary and, with Ellen G. White, formed the Seventh-day Adventist Church (1863).",
-      "causes": [
-        "Millerite prophetic calculations",
-        "Second Great Awakening millennial fervour"
-      ],
-      "consequences": [
-        "Seventh-day Adventism",
-        "Advent Christian Church",
-        "Later influence on the Bible Student movement"
-      ],
-      "peopleIds": [
-        "william-miller",
-        "ellen-g-white"
-      ],
-      "doctrineIds": [
-        "eschatology"
-      ],
-      "traditionIds": [
-        "seventh-day-adventist",
-        "baptist"
-      ],
-      "sources": [
-        "land-adventism",
-        "weber-shadow"
-      ],
+      "causes": ["Millerite prophetic calculations", "Second Great Awakening millennial fervour"],
+      "consequences": ["Seventh-day Adventism", "Advent Christian Church", "Later influence on the Bible Student movement"],
+      "peopleIds": ["william-miller", "ellen-g-white"],
+      "doctrineIds": ["eschatology"],
+      "traditionIds": ["seventh-day-adventist", "baptist"],
+      "sources": ["land-adventism", "weber-shadow"],
       "confidence": "established"
     },
     {
@@ -757,33 +350,16 @@
       "year": 1851,
       "endYear": 1864,
       "circa": false,
-      "place": {
-        "name": "Nanjing",
-        "lat": 32.0603,
-        "lng": 118.7969
-      },
+      "place": {"name": "Nanjing", "lat": 32.0603, "lng": 118.7969},
       "category": "political",
-      "regions": [
-        "east-asia"
-      ],
+      "regions": ["east-asia"],
       "summary": "Hong Xiuquan, after reading a Protestant tract and visionary experiences, proclaimed himself Jesus' younger brother and led the 'Heavenly Kingdom of Great Peace' from Nanjing. The civil war cost perhaps 20 million lives and left lasting Chinese suspicion of Christianity as subversive.",
-      "causes": [
-        "Qing decline",
-        "Protestant tracts by Liang Fa"
-      ],
-      "consequences": [
-        "Massive loss of life",
-        "Missionaries' ambivalent relations with Taiping"
-      ],
+      "causes": ["Qing decline", "Protestant tracts by Liang Fa"],
+      "consequences": ["Massive loss of life", "Missionaries' ambivalent relations with Taiping"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "evangelical"
-      ],
-      "sources": [
-        "bays-china",
-        "moffett-asia"
-      ],
+      "traditionIds": ["evangelical"],
+      "sources": ["bays-china", "moffett-asia"],
       "confidence": "established"
     },
     {
@@ -791,39 +367,16 @@
       "title": "Dogma of the Immaculate Conception",
       "year": 1854,
       "circa": false,
-      "place": {
-        "name": "Vatican City",
-        "lat": 41.9029,
-        "lng": 12.4534
-      },
+      "place": {"name": "Vatican City", "lat": 41.9029, "lng": 12.4534},
       "category": "council",
-      "regions": [
-        "italy",
-        "global"
-      ],
+      "regions": ["italy", "global"],
       "summary": "In the bull Ineffabilis Deus (8 December 1854), Pius IX defined that Mary was preserved from original sin from the first moment of her conception by a singular grace in view of Christ's merits. It was the first dogma proclaimed by a pope on his own authority after consulting bishops.",
-      "causes": [
-        "Long-standing devotion and Franciscan theology (Duns Scotus)",
-        "Ultramontane revival"
-      ],
-      "consequences": [
-        "Marian piety; Lourdes (1858)",
-        "Precedent for papal infallibility"
-      ],
-      "peopleIds": [
-        "pius-ix",
-        "duns-scotus"
-      ],
-      "doctrineIds": [
-        "mary-saints"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "odcc",
-        "catechism-catholic-church"
-      ],
+      "causes": ["Long-standing devotion and Franciscan theology (Duns Scotus)", "Ultramontane revival"],
+      "consequences": ["Marian piety; Lourdes (1858)", "Precedent for papal infallibility"],
+      "peopleIds": ["pius-ix", "duns-scotus"],
+      "doctrineIds": ["mary-saints"],
+      "traditionIds": ["catholic"],
+      "sources": ["odcc", "catechism-catholic-church"],
       "confidence": "established"
     },
     {
@@ -831,36 +384,16 @@
       "title": "Crowther's Niger Mission at Onitsha",
       "year": 1857,
       "circa": false,
-      "place": {
-        "name": "Onitsha",
-        "lat": 6.1416,
-        "lng": 6.7857
-      },
+      "place": {"name": "Onitsha", "lat": 6.1416, "lng": 6.7857},
       "category": "mission",
-      "regions": [
-        "sub-saharan-africa"
-      ],
+      "regions": ["sub-saharan-africa"],
       "summary": "Samuel Ajayi Crowther founded the CMS Niger Mission with an all-African staff at Onitsha. Consecrated bishop in Canterbury Cathedral in 1864, he became the first African Anglican bishop; European missionaries later undermined him, and his forced resignation (1890) prompted African church independence movements.",
-      "causes": [
-        "Venn's three-self policy"
-      ],
-      "consequences": [
-        "Igbo Christianity",
-        "African independent churches after Crowther's humiliation"
-      ],
-      "peopleIds": [
-        "samuel-ajayi-crowther"
-      ],
+      "causes": ["Venn's three-self policy"],
+      "consequences": ["Igbo Christianity", "African independent churches after Crowther's humiliation"],
+      "peopleIds": ["samuel-ajayi-crowther"],
       "doctrineIds": [],
-      "traditionIds": [
-        "anglican",
-        "african-initiated-churches"
-      ],
-      "sources": [
-        "sanneh-whose-religion",
-        "hastings-church-in-africa",
-        "dacb"
-      ],
+      "traditionIds": ["anglican", "african-initiated-churches"],
+      "sources": ["sanneh-whose-religion", "hastings-church-in-africa", "dacb"],
       "confidence": "established"
     },
     {
@@ -868,35 +401,16 @@
       "title": "China Inland Mission founded",
       "year": 1865,
       "circa": false,
-      "place": {
-        "name": "Hangzhou",
-        "lat": 30.2741,
-        "lng": 120.1551
-      },
+      "place": {"name": "Hangzhou", "lat": 30.2741, "lng": 120.1551},
       "category": "mission",
-      "regions": [
-        "east-asia"
-      ],
+      "regions": ["east-asia"],
       "summary": "Hudson Taylor founded the China Inland Mission, interdenominational and faith-based, whose missionaries wore Chinese dress and went into all the interior provinces. The Lammermuir party reached Hangzhou in 1866. By 1900 it was the largest Protestant mission in China.",
-      "causes": [
-        "Treaties opening the interior",
-        "Taylor's conviction about unreached millions"
-      ],
-      "consequences": [
-        "Faith missions model",
-        "Protestant presence across China"
-      ],
-      "peopleIds": [
-        "hudson-taylor"
-      ],
+      "causes": ["Treaties opening the interior", "Taylor's conviction about unreached millions"],
+      "consequences": ["Faith missions model", "Protestant presence across China"],
+      "peopleIds": ["hudson-taylor"],
       "doctrineIds": [],
-      "traditionIds": [
-        "evangelical"
-      ],
-      "sources": [
-        "bays-china",
-        "neill-missions"
-      ],
+      "traditionIds": ["evangelical"],
+      "sources": ["bays-china", "neill-missions"],
       "confidence": "established"
     },
     {
@@ -905,44 +419,17 @@
       "year": 1869,
       "endYear": 1870,
       "circa": false,
-      "place": {
-        "name": "Vatican City",
-        "lat": 41.9029,
-        "lng": 12.4534
-      },
+      "place": {"name": "Vatican City", "lat": 41.9029, "lng": 12.4534},
       "category": "council",
-      "regions": [
-        "italy",
-        "global"
-      ],
+      "regions": ["italy", "global"],
       "summary": "Pius IX's council defined in Pastor aeternus (18 July 1870) the pope's universal jurisdiction and his infallibility when speaking ex cathedra on faith and morals. A minority left Rome rather than vote no; the council was suspended when Italian troops took Rome. Dissenters in Germany, Switzerland and Austria formed the Old Catholic churches.",
       "longText": "Vatican I took place amid the loss of the Papal States and the Catholic Church's struggle with liberalism, rationalism and nation-states. The constitution Dei Filius affirmed that God can be known by natural reason and that faith and reason cannot conflict. Pastor aeternus taught that the Roman pontiff, when he defines doctrine ex cathedra, possesses the infallibility Christ willed his church to have, and that such definitions are irreformable 'of themselves, and not from the consent of the church'. Some 60 bishops of the minority, including leading German and French prelates, considered the definition inopportune or historically problematic (the case of Honorius) and left before the final vote. Ignaz von Döllinger refused to accept it and was excommunicated; the Old Catholic churches formed and joined the Union of Utrecht (1889). Orthodox and Protestants saw the definition as the decisive barrier to reunion. Catholic theology since Vatican II has set infallibility within the collegiality of bishops and the sense of the faithful, and only one later definition (1950) is universally regarded as ex cathedra.",
-      "causes": [
-        "Ultramontane movement",
-        "Loss of papal temporal power",
-        "Reaction to liberalism"
-      ],
-      "consequences": [
-        "Papal infallibility and universal jurisdiction",
-        "Old Catholic schism",
-        "Kulturkampf in Germany"
-      ],
-      "peopleIds": [
-        "pius-ix"
-      ],
-      "doctrineIds": [
-        "church-sacraments",
-        "scripture-authority"
-      ],
-      "traditionIds": [
-        "catholic",
-        "old-catholic"
-      ],
-      "sources": [
-        "tanner-decrees",
-        "odcc",
-        "macculloch-christianity"
-      ],
+      "causes": ["Ultramontane movement", "Loss of papal temporal power", "Reaction to liberalism"],
+      "consequences": ["Papal infallibility and universal jurisdiction", "Old Catholic schism", "Kulturkampf in Germany"],
+      "peopleIds": ["pius-ix"],
+      "doctrineIds": ["church-sacraments", "scripture-authority"],
+      "traditionIds": ["catholic", "old-catholic"],
+      "sources": ["tanner-decrees", "odcc", "macculloch-christianity"],
       "confidence": "established"
     },
     {
@@ -950,35 +437,16 @@
       "title": "Uganda martyrs",
       "year": 1886,
       "circa": false,
-      "place": {
-        "name": "Namugongo",
-        "lat": 0.4053,
-        "lng": 32.6511
-      },
+      "place": {"name": "Namugongo", "lat": 0.4053, "lng": 32.6511},
       "category": "persecution",
-      "regions": [
-        "sub-saharan-africa"
-      ],
+      "regions": ["sub-saharan-africa"],
       "summary": "Kabaka Mwanga II of Buganda executed Catholic and Anglican pages and courtiers who refused his demands, burning 32 alive at Namugongo on 3 June 1886, among them Charles Lwanga. Their deaths fuelled rapid growth of both churches; the Catholic martyrs were canonised in 1964.",
-      "causes": [
-        "Political struggle at the Buganda court",
-        "Christians' refusal of the king's sexual demands"
-      ],
-      "consequences": [
-        "Ugandan Christianity's martyr identity",
-        "Namugongo pilgrimage"
-      ],
+      "causes": ["Political struggle at the Buganda court", "Christians' refusal of the king's sexual demands"],
+      "consequences": ["Ugandan Christianity's martyr identity", "Namugongo pilgrimage"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic",
-        "anglican"
-      ],
-      "sources": [
-        "hastings-church-in-africa",
-        "isichei-africa",
-        "dacb"
-      ],
+      "traditionIds": ["catholic", "anglican"],
+      "sources": ["hastings-church-in-africa", "isichei-africa", "dacb"],
       "confidence": "established"
     },
     {
@@ -986,36 +454,16 @@
       "title": "Rerum Novarum and Catholic social teaching",
       "year": 1891,
       "circa": false,
-      "place": {
-        "name": "Vatican City",
-        "lat": 41.9029,
-        "lng": 12.4534
-      },
+      "place": {"name": "Vatican City", "lat": 41.9029, "lng": 12.4534},
       "category": "reform",
-      "regions": [
-        "italy",
-        "global"
-      ],
+      "regions": ["italy", "global"],
       "summary": "Leo XIII's encyclical on capital and labour defended private property against socialism while affirming workers' rights to a just wage and to form unions. It launched modern Catholic social teaching, developed by later popes.",
-      "causes": [
-        "Industrial poverty",
-        "Rise of socialism"
-      ],
-      "consequences": [
-        "Christian democratic movements",
-        "Catholic trade unions"
-      ],
+      "causes": ["Industrial poverty", "Rise of socialism"],
+      "consequences": ["Christian democratic movements", "Catholic trade unions"],
       "peopleIds": [],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "odcc",
-        "macculloch-christianity"
-      ],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["catholic"],
+      "sources": ["odcc", "macculloch-christianity"],
       "confidence": "established"
     },
     {
@@ -1023,34 +471,16 @@
       "title": "Boxer Uprising",
       "year": 1900,
       "circa": false,
-      "place": {
-        "name": "Taiyuan",
-        "lat": 37.8706,
-        "lng": 112.5489
-      },
+      "place": {"name": "Taiyuan", "lat": 37.8706, "lng": 112.5489},
       "category": "persecution",
-      "regions": [
-        "east-asia"
-      ],
+      "regions": ["east-asia"],
       "summary": "The anti-foreign Boxer movement, with Qing support, killed some 32,000 Chinese Catholics, 2,000 Protestants and over 200 missionaries in northern China, notably at Taiyuan in Shanxi. Foreign armies crushed the uprising and imposed indemnities; Chinese Christians' sufferings were later honoured by both Catholics and Protestants.",
-      "causes": [
-        "Imperialist pressure and missionary privileges",
-        "Drought and unrest"
-      ],
-      "consequences": [
-        "Martyr memory in Chinese churches",
-        "Indemnity-funded institutions"
-      ],
+      "causes": ["Imperialist pressure and missionary privileges", "Drought and unrest"],
+      "consequences": ["Martyr memory in Chinese churches", "Indemnity-funded institutions"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic",
-        "evangelical"
-      ],
-      "sources": [
-        "bays-china",
-        "moffett-asia"
-      ],
+      "traditionIds": ["catholic", "evangelical"],
+      "sources": ["bays-china", "moffett-asia"],
       "confidence": "established"
     },
     {
@@ -1059,37 +489,16 @@
       "year": 1904,
       "endYear": 1905,
       "circa": false,
-      "place": {
-        "name": "Loughor",
-        "lat": 51.6629,
-        "lng": -4.0745
-      },
+      "place": {"name": "Loughor", "lat": 51.6629, "lng": -4.0745},
       "category": "revival",
-      "regions": [
-        "northern-europe"
-      ],
+      "regions": ["northern-europe"],
       "summary": "The young ex-miner Evan Roberts led meetings marked by spontaneous prayer, singing and confession, beginning at Loughor in November 1904. Some 100,000 conversions were reported in Wales within months, with reports inspiring revivals in India, Korea and Los Angeles.",
-      "causes": [
-        "Prayer movements in Welsh chapels"
-      ],
-      "consequences": [
-        "Inspiration for Azusa Street and Pyongyang",
-        "Rapid decline after 1905"
-      ],
-      "peopleIds": [
-        "evan-roberts"
-      ],
-      "doctrineIds": [
-        "holy-spirit"
-      ],
-      "traditionIds": [
-        "evangelical",
-        "methodist"
-      ],
-      "sources": [
-        "synan-holiness-pentecostal",
-        "anderson-pentecostalism"
-      ],
+      "causes": ["Prayer movements in Welsh chapels"],
+      "consequences": ["Inspiration for Azusa Street and Pyongyang", "Rapid decline after 1905"],
+      "peopleIds": ["evan-roberts"],
+      "doctrineIds": ["holy-spirit"],
+      "traditionIds": ["evangelical", "methodist"],
+      "sources": ["synan-holiness-pentecostal", "anderson-pentecostalism"],
       "confidence": "established"
     },
     {
@@ -1097,37 +506,16 @@
       "title": "Mukti revival in India",
       "year": 1905,
       "circa": false,
-      "place": {
-        "name": "Kedgaon (Mukti Mission)",
-        "lat": 18.4361,
-        "lng": 74.3271
-      },
+      "place": {"name": "Kedgaon (Mukti Mission)", "lat": 18.4361, "lng": 74.3271},
       "category": "revival",
-      "regions": [
-        "india"
-      ],
+      "regions": ["india"],
       "summary": "At Pandita Ramabai's Mukti Mission for widows and orphaned girls, prayer for revival led in 1905 to intense repentance, visions and, by some reports, speaking in tongues. It is often cited as an Indian origin of Pentecostalism independent of North America.",
-      "causes": [
-        "Ramabai's prayer bands inspired by Welsh reports"
-      ],
-      "consequences": [
-        "Indian Pentecostal currents",
-        "Debates on Pentecostal origins"
-      ],
-      "peopleIds": [
-        "pandita-ramabai"
-      ],
-      "doctrineIds": [
-        "holy-spirit"
-      ],
-      "traditionIds": [
-        "pentecostal",
-        "evangelical"
-      ],
-      "sources": [
-        "anderson-pentecostalism",
-        "frykenberg-india"
-      ],
+      "causes": ["Ramabai's prayer bands inspired by Welsh reports"],
+      "consequences": ["Indian Pentecostal currents", "Debates on Pentecostal origins"],
+      "peopleIds": ["pandita-ramabai"],
+      "doctrineIds": ["holy-spirit"],
+      "traditionIds": ["pentecostal", "evangelical"],
+      "sources": ["anderson-pentecostalism", "frykenberg-india"],
       "confidence": "established"
     },
     {
@@ -1136,45 +524,17 @@
       "year": 1906,
       "endYear": 1909,
       "circa": false,
-      "place": {
-        "name": "312 Azusa Street, Los Angeles",
-        "lat": 34.0496,
-        "lng": -118.2414
-      },
+      "place": {"name": "312 Azusa Street, Los Angeles", "lat": 34.0496, "lng": -118.2414},
       "category": "revival",
-      "regions": [
-        "north-america",
-        "global"
-      ],
+      "regions": ["north-america", "global"],
       "summary": "William J. Seymour, an African American Holiness preacher taught by Charles Parham, led meetings at the Apostolic Faith Mission on Azusa Street from April 1906, where Black, white, Latino and Asian worshippers spoke in tongues and reported healings. Missionaries spread the message within two years to some 50 countries.",
       "longText": "Seymour had accepted Parham's teaching that speaking in tongues is the initial evidence of baptism in the Holy Spirit, though Parham's segregation forced him to listen from outside the classroom. Invited to Los Angeles, he was locked out of a Holiness church and began meetings in a home on Bonnie Brae Street, where tongues broke out on 9 April 1906; the meetings moved to a former AME building at 312 Azusa Street. Its newspaper, The Apostolic Faith, reached tens of thousands. Visitors noted the interracial character — 'the color line was washed away in the blood' — a striking contrast with Jim Crow America, though racial divisions soon re-emerged, including Parham's own denunciation. Critics mocked the noise and claimed demonic influence; Pentecostals see it as a latter-rain outpouring. Historians stress Azusa's catalytic role while noting parallel revivals in Wales, India (Mukti), Korea and Chile. The Pentecostal and charismatic movements descending from these currents now number hundreds of millions.",
-      "causes": [
-        "Holiness movement",
-        "Parham's teaching on tongues",
-        "Welsh Revival reports"
-      ],
-      "consequences": [
-        "Classical Pentecostal denominations",
-        "Global Pentecostal missions",
-        "Charismatic renewal later"
-      ],
-      "peopleIds": [
-        "william-j-seymour",
-        "charles-parham"
-      ],
-      "doctrineIds": [
-        "holy-spirit",
-        "modern-movements"
-      ],
-      "traditionIds": [
-        "pentecostal",
-        "holiness-movement"
-      ],
-      "sources": [
-        "anderson-pentecostalism",
-        "synan-holiness-pentecostal",
-        "blumhofer-restoring"
-      ],
+      "causes": ["Holiness movement", "Parham's teaching on tongues", "Welsh Revival reports"],
+      "consequences": ["Classical Pentecostal denominations", "Global Pentecostal missions", "Charismatic renewal later"],
+      "peopleIds": ["william-j-seymour", "charles-parham"],
+      "doctrineIds": ["holy-spirit", "modern-movements"],
+      "traditionIds": ["pentecostal", "holiness-movement"],
+      "sources": ["anderson-pentecostalism", "synan-holiness-pentecostal", "blumhofer-restoring"],
       "confidence": "established"
     },
     {
@@ -1182,36 +542,16 @@
       "title": "Pyongyang Great Revival",
       "year": 1907,
       "circa": false,
-      "place": {
-        "name": "Pyongyang",
-        "lat": 39.0392,
-        "lng": 125.7625
-      },
+      "place": {"name": "Pyongyang", "lat": 39.0392, "lng": 125.7625},
       "category": "revival",
-      "regions": [
-        "east-asia"
-      ],
+      "regions": ["east-asia"],
       "summary": "During a Bible class at Jangdaehyun Church in January 1907, Korean elder Kil Seon-ju and others led public confession of sins that spread through the Presbyterian and Methodist churches. Early-morning prayer and Bible study became hallmarks of Korean Protestantism; Pyongyang was called the 'Jerusalem of the East'.",
-      "causes": [
-        "Japanese protectorate and national humiliation",
-        "Missionary Bible-class system"
-      ],
-      "consequences": [
-        "Rapid Korean Protestant growth",
-        "Korean revival spirituality"
-      ],
+      "causes": ["Japanese protectorate and national humiliation", "Missionary Bible-class system"],
+      "consequences": ["Rapid Korean Protestant growth", "Korean revival spirituality"],
       "peopleIds": [],
-      "doctrineIds": [
-        "holy-spirit"
-      ],
-      "traditionIds": [
-        "presbyterian",
-        "methodist"
-      ],
-      "sources": [
-        "kim-korea",
-        "moffett-asia"
-      ],
+      "doctrineIds": ["holy-spirit"],
+      "traditionIds": ["presbyterian", "methodist"],
+      "sources": ["kim-korea", "moffett-asia"],
       "confidence": "established"
     },
     {
@@ -1219,40 +559,16 @@
       "title": "Scofield Reference Bible",
       "year": 1909,
       "circa": false,
-      "place": {
-        "name": "New York (Oxford University Press)",
-        "lat": 40.7128,
-        "lng": -74.006
-      },
+      "place": {"name": "New York (Oxford University Press)", "lat": 40.7128, "lng": -74.006},
       "category": "intellectual",
-      "regions": [
-        "north-america",
-        "global"
-      ],
+      "regions": ["north-america", "global"],
       "summary": "Cyrus I. Scofield's annotated King James Bible built Darby's dispensational premillennialism into its notes, dividing history into seven dispensations and distinguishing Israel and the church. It sold millions and shaped fundamentalist and evangelical eschatology for generations.",
-      "causes": [
-        "Bible and prophecy conferences",
-        "Darby's dispensationalism"
-      ],
-      "consequences": [
-        "Popular pre-tribulation rapture belief",
-        "Influence on Christian Zionism"
-      ],
-      "peopleIds": [
-        "cyrus-scofield",
-        "john-nelson-darby"
-      ],
-      "doctrineIds": [
-        "eschatology",
-        "scripture-authority"
-      ],
-      "traditionIds": [
-        "evangelical"
-      ],
-      "sources": [
-        "weber-shadow",
-        "marsden-fundamentalism"
-      ],
+      "causes": ["Bible and prophecy conferences", "Darby's dispensationalism"],
+      "consequences": ["Popular pre-tribulation rapture belief", "Influence on Christian Zionism"],
+      "peopleIds": ["cyrus-scofield", "john-nelson-darby"],
+      "doctrineIds": ["eschatology", "scripture-authority"],
+      "traditionIds": ["evangelical"],
+      "sources": ["weber-shadow", "marsden-fundamentalism"],
       "confidence": "established"
     },
     {
@@ -1260,39 +576,16 @@
       "title": "World Missionary Conference, Edinburgh",
       "year": 1910,
       "circa": false,
-      "place": {
-        "name": "Edinburgh",
-        "lat": 55.9533,
-        "lng": -3.1883
-      },
+      "place": {"name": "Edinburgh", "lat": 55.9533, "lng": -3.1883},
       "category": "council",
-      "regions": [
-        "northern-europe",
-        "global"
-      ],
+      "regions": ["northern-europe", "global"],
       "summary": "Some 1,200 delegates of Protestant mission societies, chaired by John R. Mott, met to plan 'the evangelisation of the world in this generation'. Only about 18 delegates were from Asia; V. S. Azariah's plea 'give us friends' became famous. Its continuation committee led to the International Missionary Council and the ecumenical movement.",
-      "causes": [
-        "Student Volunteer Movement",
-        "Protestant missionary expansion"
-      ],
-      "consequences": [
-        "Modern ecumenical movement",
-        "World Council of Churches (1948)"
-      ],
+      "causes": ["Student Volunteer Movement", "Protestant missionary expansion"],
+      "consequences": ["Modern ecumenical movement", "World Council of Churches (1948)"],
       "peopleIds": [],
-      "doctrineIds": [
-        "modern-movements"
-      ],
-      "traditionIds": [
-        "evangelical",
-        "anglican",
-        "presbyterian",
-        "methodist"
-      ],
-      "sources": [
-        "robert-christian-mission",
-        "neill-missions"
-      ],
+      "doctrineIds": ["modern-movements"],
+      "traditionIds": ["evangelical", "anglican", "presbyterian", "methodist"],
+      "sources": ["robert-christian-mission", "neill-missions"],
       "confidence": "established"
     },
     {
@@ -1301,36 +594,16 @@
       "year": 1910,
       "endYear": 1915,
       "circa": false,
-      "place": {
-        "name": "Los Angeles",
-        "lat": 34.0522,
-        "lng": -118.2437
-      },
+      "place": {"name": "Los Angeles", "lat": 34.0522, "lng": -118.2437},
       "category": "intellectual",
-      "regions": [
-        "north-america"
-      ],
+      "regions": ["north-america"],
       "summary": "Funded by oil businessmen Lyman and Milton Stewart, ninety essays in twelve volumes defended biblical inerrancy, the virgin birth, substitutionary atonement, bodily resurrection and miracles against higher criticism and liberal theology. Distributed free to clergy, they gave the name 'fundamentalist' to the movement.",
-      "causes": [
-        "Higher criticism and Darwinism",
-        "Liberal theology in seminaries"
-      ],
-      "consequences": [
-        "Fundamentalist–modernist controversy",
-        "Evangelical identity"
-      ],
+      "causes": ["Higher criticism and Darwinism", "Liberal theology in seminaries"],
+      "consequences": ["Fundamentalist–modernist controversy", "Evangelical identity"],
       "peopleIds": [],
-      "doctrineIds": [
-        "scripture-authority",
-        "atonement"
-      ],
-      "traditionIds": [
-        "evangelical"
-      ],
-      "sources": [
-        "marsden-fundamentalism",
-        "noll-christianity-us"
-      ],
+      "doctrineIds": ["scripture-authority", "atonement"],
+      "traditionIds": ["evangelical"],
+      "sources": ["marsden-fundamentalism", "noll-christianity-us"],
       "confidence": "established"
     },
     {
@@ -1339,37 +612,16 @@
       "year": 1913,
       "endYear": 1915,
       "circa": false,
-      "place": {
-        "name": "Grand-Lahou, Côte d'Ivoire",
-        "lat": 5.1333,
-        "lng": -5.0167
-      },
+      "place": {"name": "Grand-Lahou, Côte d'Ivoire", "lat": 5.1333, "lng": -5.0167},
       "category": "revival",
-      "regions": [
-        "sub-saharan-africa"
-      ],
+      "regions": ["sub-saharan-africa"],
       "summary": "The Liberian Grebo prophet William Wade Harris, in white robe with cross, Bible and calabash, walked along the Ivory Coast and Gold Coast calling people to burn fetishes and be baptised. Perhaps 100,000–120,000 people converted in eighteen months before French authorities expelled him; Methodist and Harrist churches grew from his work.",
-      "causes": [
-        "Harris's prison vision of the angel Gabriel"
-      ],
-      "consequences": [
-        "Harrist Church",
-        "Methodist growth in Côte d'Ivoire",
-        "Model of African prophet-led conversion"
-      ],
-      "peopleIds": [
-        "william-wade-harris"
-      ],
+      "causes": ["Harris's prison vision of the angel Gabriel"],
+      "consequences": ["Harrist Church", "Methodist growth in Côte d'Ivoire", "Model of African prophet-led conversion"],
+      "peopleIds": ["william-wade-harris"],
       "doctrineIds": [],
-      "traditionIds": [
-        "african-initiated-churches",
-        "methodist"
-      ],
-      "sources": [
-        "sanneh-whose-religion",
-        "hastings-church-in-africa",
-        "dacb"
-      ],
+      "traditionIds": ["african-initiated-churches", "methodist"],
+      "sources": ["sanneh-whose-religion", "hastings-church-in-africa", "dacb"],
       "confidence": "established"
     },
     {
@@ -1378,39 +630,16 @@
       "year": 1915,
       "endYear": 1923,
       "circa": false,
-      "place": {
-        "name": "Deir ez-Zor",
-        "lat": 35.3359,
-        "lng": 40.1408
-      },
+      "place": {"name": "Deir ez-Zor", "lat": 35.3359, "lng": 40.1408},
       "category": "persecution",
-      "regions": [
-        "asia-minor",
-        "armenia-caucasus",
-        "mesopotamia-persia",
-        "levant"
-      ],
+      "regions": ["asia-minor", "armenia-caucasus", "mesopotamia-persia", "levant"],
       "summary": "During World War I the Ottoman government deported and massacred an estimated one million or more Armenians, along with Syriac (Assyrian) Christians in the Sayfo ('sword') and Greeks of Anatolia. Death marches ended in the Syrian desert at Deir ez-Zor. The ancient Christian presence in Anatolia was nearly erased.",
-      "causes": [
-        "Ottoman wartime nationalism and fear of Christian minorities"
-      ],
-      "consequences": [
-        "Destruction of Anatolian Christianity",
-        "Armenian and Assyrian diasporas",
-        "Canonisation of the martyrs by the Armenian Church (2015)"
-      ],
+      "causes": ["Ottoman wartime nationalism and fear of Christian minorities"],
+      "consequences": ["Destruction of Anatolian Christianity", "Armenian and Assyrian diasporas", "Canonisation of the martyrs by the Armenian Church (2015)"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "armenian-apostolic",
-        "syriac-orthodox",
-        "assyrian-church-of-the-east",
-        "eastern-orthodox"
-      ],
-      "sources": [
-        "jenkins-lost-history",
-        "atiya-eastern-christianity"
-      ],
+      "traditionIds": ["armenian-apostolic", "syriac-orthodox", "assyrian-church-of-the-east", "eastern-orthodox"],
+      "sources": ["jenkins-lost-history", "atiya-eastern-christianity"],
       "confidence": "established"
     },
     {
@@ -1418,35 +647,16 @@
       "title": "Fátima apparitions",
       "year": 1917,
       "circa": false,
-      "place": {
-        "name": "Fátima",
-        "lat": 39.6172,
-        "lng": -8.6522
-      },
+      "place": {"name": "Fátima", "lat": 39.6172, "lng": -8.6522},
       "category": "experiential",
-      "regions": [
-        "western-europe"
-      ],
+      "regions": ["western-europe"],
       "summary": "Three shepherd children — Lúcia, Francisco and Jacinta — reported six appearances of the Virgin Mary between May and October 1917, calling for prayer, penance and the consecration of Russia. On 13 October a crowd reported the 'miracle of the sun'. The church approved the devotion in 1930.",
-      "causes": [
-        "Wartime anxieties and Portuguese anticlerical republic"
-      ],
-      "consequences": [
-        "Major pilgrimage centre",
-        "Cold War-era Marian piety"
-      ],
-      "peopleIds": [
-        "john-paul-ii"
-      ],
-      "doctrineIds": [
-        "mary-saints"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "odcc"
-      ],
+      "causes": ["Wartime anxieties and Portuguese anticlerical republic"],
+      "consequences": ["Major pilgrimage centre", "Cold War-era Marian piety"],
+      "peopleIds": ["john-paul-ii"],
+      "doctrineIds": ["mary-saints"],
+      "traditionIds": ["catholic"],
+      "sources": ["odcc"],
       "confidence": "traditional"
     },
     {
@@ -1455,37 +665,16 @@
       "year": 1917,
       "endYear": 1918,
       "circa": false,
-      "place": {
-        "name": "Moscow",
-        "lat": 55.7558,
-        "lng": 37.6173
-      },
+      "place": {"name": "Moscow", "lat": 55.7558, "lng": 37.6173},
       "category": "persecution",
-      "regions": [
-        "russia"
-      ],
+      "regions": ["russia"],
       "summary": "The All-Russian Church Council restored the patriarchate and elected Tikhon in November 1917, days after the Bolshevik revolution. The Soviet state separated church and state, confiscated property and launched persecutions that killed tens of thousands of clergy and believers in the following decades.",
-      "causes": [
-        "Collapse of tsarist synodal system",
-        "Militant atheism of the Bolsheviks"
-      ],
-      "consequences": [
-        "New martyrs of Russia",
-        "Catacomb church and Russian Orthodox Church Outside Russia"
-      ],
-      "peopleIds": [
-        "tikhon-of-moscow"
-      ],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "russian-orthodox"
-      ],
-      "sources": [
-        "ware-orthodox-church",
-        "macculloch-christianity"
-      ],
+      "causes": ["Collapse of tsarist synodal system", "Militant atheism of the Bolsheviks"],
+      "consequences": ["New martyrs of Russia", "Catacomb church and Russian Orthodox Church Outside Russia"],
+      "peopleIds": ["tikhon-of-moscow"],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["russian-orthodox"],
+      "sources": ["ware-orthodox-church", "macculloch-christianity"],
       "confidence": "established"
     },
     {
@@ -1493,37 +682,16 @@
       "title": "Simon Kimbangu's healing ministry",
       "year": 1921,
       "circa": false,
-      "place": {
-        "name": "Nkamba",
-        "lat": -5.2,
-        "lng": 14.83
-      },
+      "place": {"name": "Nkamba", "lat": -5.2, "lng": 14.83},
       "category": "revival",
-      "regions": [
-        "sub-saharan-africa"
-      ],
+      "regions": ["sub-saharan-africa"],
       "summary": "Simon Kimbangu, a Baptist catechist in the Belgian Congo, began a healing and preaching ministry at Nkamba in April 1921 that drew crowds and emptied mission churches. Arrested within months and sentenced to death (commuted), he spent thirty years in prison; his followers formed one of Africa's largest independent churches.",
-      "causes": [
-        "Colonial oppression",
-        "Bible-reading Baptist converts seeking African prophecy"
-      ],
-      "consequences": [
-        "Kimbanguist Church (EJCSK), member of WCC since 1969"
-      ],
-      "peopleIds": [
-        "simon-kimbangu"
-      ],
-      "doctrineIds": [
-        "holy-spirit"
-      ],
-      "traditionIds": [
-        "african-initiated-churches"
-      ],
-      "sources": [
-        "hastings-church-in-africa",
-        "isichei-africa",
-        "dacb"
-      ],
+      "causes": ["Colonial oppression", "Bible-reading Baptist converts seeking African prophecy"],
+      "consequences": ["Kimbanguist Church (EJCSK), member of WCC since 1969"],
+      "peopleIds": ["simon-kimbangu"],
+      "doctrineIds": ["holy-spirit"],
+      "traditionIds": ["african-initiated-churches"],
+      "sources": ["hastings-church-in-africa", "isichei-africa", "dacb"],
       "confidence": "established"
     },
     {
@@ -1531,35 +699,16 @@
       "title": "Scopes Trial",
       "year": 1925,
       "circa": false,
-      "place": {
-        "name": "Dayton, Tennessee",
-        "lat": 35.4934,
-        "lng": -85.0124
-      },
+      "place": {"name": "Dayton, Tennessee", "lat": 35.4934, "lng": -85.0124},
       "category": "intellectual",
-      "regions": [
-        "north-america"
-      ],
+      "regions": ["north-america"],
       "summary": "Teacher John Scopes was tried for teaching evolution contrary to Tennessee's Butler Act; William Jennings Bryan helped the prosecution and Clarence Darrow the defence. Scopes was convicted (later overturned on a technicality), but press coverage portrayed fundamentalists as backward, accelerating their withdrawal from mainline institutions.",
-      "causes": [
-        "Fundamentalist–modernist conflict",
-        "Anti-evolution laws"
-      ],
-      "consequences": [
-        "Fundamentalist subculture",
-        "Later creationism movements"
-      ],
+      "causes": ["Fundamentalist–modernist conflict", "Anti-evolution laws"],
+      "consequences": ["Fundamentalist subculture", "Later creationism movements"],
       "peopleIds": [],
-      "doctrineIds": [
-        "scripture-authority"
-      ],
-      "traditionIds": [
-        "evangelical"
-      ],
-      "sources": [
-        "marsden-fundamentalism",
-        "noll-christianity-us"
-      ],
+      "doctrineIds": ["scripture-authority"],
+      "traditionIds": ["evangelical"],
+      "sources": ["marsden-fundamentalism", "noll-christianity-us"],
       "confidence": "established"
     },
     {
@@ -1568,33 +717,16 @@
       "year": 1926,
       "endYear": 1929,
       "circa": false,
-      "place": {
-        "name": "Guadalajara",
-        "lat": 20.6597,
-        "lng": -103.3496
-      },
+      "place": {"name": "Guadalajara", "lat": 20.6597, "lng": -103.3496},
       "category": "persecution",
-      "regions": [
-        "latin-america"
-      ],
+      "regions": ["latin-america"],
       "summary": "Enforcement of the anticlerical articles of Mexico's 1917 constitution by President Calles led bishops to suspend public worship and Catholic peasants to rise up with the cry '¡Viva Cristo Rey!'. Around 90,000 died before a 1929 settlement; many martyrs, including the Jesuit Miguel Pro, were later beatified or canonised.",
-      "causes": [
-        "Revolutionary anticlericalism"
-      ],
-      "consequences": [
-        "Church–state modus vivendi",
-        "Martyr memory in Mexican Catholicism"
-      ],
+      "causes": ["Revolutionary anticlericalism"],
+      "consequences": ["Church–state modus vivendi", "Martyr memory in Mexican Catholicism"],
       "peopleIds": [],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "gonzalez-latin-america"
-      ],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["catholic"],
+      "sources": ["gonzalez-latin-america"],
       "confidence": "established"
     },
     {
@@ -1602,39 +734,16 @@
       "title": "Aladura revival in Nigeria",
       "year": 1930,
       "circa": false,
-      "place": {
-        "name": "Ilesa",
-        "lat": 7.6167,
-        "lng": 4.7333
-      },
+      "place": {"name": "Ilesa", "lat": 7.6167, "lng": 4.7333},
       "category": "revival",
-      "regions": [
-        "sub-saharan-africa"
-      ],
+      "regions": ["sub-saharan-africa"],
       "summary": "Joseph Ayo Babalola, a former road-roller driver, led a healing revival at Oke-Oye, Ilesa in 1930 that drew vast crowds. The Yoruba 'praying' (aladura) churches — Christ Apostolic Church, Cherubim and Seraphim, Church of the Lord (Aladura) — combined prayer, prophecy and healing with African forms.",
-      "causes": [
-        "1918 influenza epidemic and prayer groups",
-        "Dissatisfaction with mission churches' approach to healing"
-      ],
-      "consequences": [
-        "Christ Apostolic Church",
-        "African Pentecostal currents"
-      ],
-      "peopleIds": [
-        "joseph-ayo-babalola"
-      ],
-      "doctrineIds": [
-        "holy-spirit"
-      ],
-      "traditionIds": [
-        "african-initiated-churches",
-        "pentecostal"
-      ],
-      "sources": [
-        "kalu-african-pentecostalism",
-        "isichei-africa",
-        "dacb"
-      ],
+      "causes": ["1918 influenza epidemic and prayer groups", "Dissatisfaction with mission churches' approach to healing"],
+      "consequences": ["Christ Apostolic Church", "African Pentecostal currents"],
+      "peopleIds": ["joseph-ayo-babalola"],
+      "doctrineIds": ["holy-spirit"],
+      "traditionIds": ["african-initiated-churches", "pentecostal"],
+      "sources": ["kalu-african-pentecostalism", "isichei-africa", "dacb"],
       "confidence": "established"
     },
     {
@@ -1642,40 +751,16 @@
       "title": "Barmen Declaration",
       "year": 1934,
       "circa": false,
-      "place": {
-        "name": "Wuppertal-Barmen",
-        "lat": 51.2717,
-        "lng": 7.2
-      },
+      "place": {"name": "Wuppertal-Barmen", "lat": 51.2717, "lng": 7.2},
       "category": "council",
-      "regions": [
-        "western-europe"
-      ],
+      "regions": ["western-europe"],
       "summary": "At a synod in Barmen, Lutheran, Reformed and United delegates of the Confessing Church adopted six theses, largely drafted by Karl Barth, rejecting the pro-Nazi 'German Christians': Jesus Christ is the one Word of God whom we must trust and obey. It did not explicitly mention the Jews, a silence later lamented.",
-      "causes": [
-        "Nazi attempt to control the Protestant church",
-        "Aryan paragraph"
-      ],
-      "consequences": [
-        "Confessing Church",
-        "Model of confessional resistance (e.g., Kairos, Belhar)"
-      ],
-      "peopleIds": [
-        "karl-barth",
-        "dietrich-bonhoeffer"
-      ],
-      "doctrineIds": [
-        "ethics-church-state",
-        "scripture-authority"
-      ],
-      "traditionIds": [
-        "lutheran",
-        "reformed"
-      ],
-      "sources": [
-        "schaff-creeds",
-        "macculloch-christianity"
-      ],
+      "causes": ["Nazi attempt to control the Protestant church", "Aryan paragraph"],
+      "consequences": ["Confessing Church", "Model of confessional resistance (e.g., Kairos, Belhar)"],
+      "peopleIds": ["karl-barth", "dietrich-bonhoeffer"],
+      "doctrineIds": ["ethics-church-state", "scripture-authority"],
+      "traditionIds": ["lutheran", "reformed"],
+      "sources": ["schaff-creeds", "macculloch-christianity"],
       "confidence": "established"
     },
     {
@@ -1683,37 +768,16 @@
       "title": "Tambaram missionary conference",
       "year": 1938,
       "circa": false,
-      "place": {
-        "name": "Tambaram, Madras",
-        "lat": 12.9249,
-        "lng": 80.1
-      },
+      "place": {"name": "Tambaram, Madras", "lat": 12.9249, "lng": 80.1},
       "category": "council",
-      "regions": [
-        "india",
-        "global"
-      ],
+      "regions": ["india", "global"],
       "summary": "The International Missionary Council met at Madras Christian College, Tambaram, with for the first time a majority of delegates from the 'younger churches' of Asia, Africa and Latin America. Hendrik Kraemer's book on the Christian message in a non-Christian world framed debate on religions.",
-      "causes": [
-        "Growth of non-Western churches"
-      ],
-      "consequences": [
-        "Theology of religions debates",
-        "Indigenous leadership in ecumenism"
-      ],
+      "causes": ["Growth of non-Western churches"],
+      "consequences": ["Theology of religions debates", "Indigenous leadership in ecumenism"],
       "peopleIds": [],
-      "doctrineIds": [
-        "modern-movements"
-      ],
-      "traditionIds": [
-        "evangelical",
-        "anglican",
-        "presbyterian"
-      ],
-      "sources": [
-        "neill-missions",
-        "robert-christian-mission"
-      ],
+      "doctrineIds": ["modern-movements"],
+      "traditionIds": ["evangelical", "anglican", "presbyterian"],
+      "sources": ["neill-missions", "robert-christian-mission"],
       "confidence": "established"
     },
     {
@@ -1721,36 +785,16 @@
       "title": "Church of South India formed",
       "year": 1947,
       "circa": false,
-      "place": {
-        "name": "St George's Cathedral, Madras (Chennai)",
-        "lat": 13.0569,
-        "lng": 80.2537
-      },
+      "place": {"name": "St George's Cathedral, Madras (Chennai)", "lat": 13.0569, "lng": 80.2537},
       "category": "council",
-      "regions": [
-        "india"
-      ],
+      "regions": ["india"],
       "summary": "Anglicans, Methodists and the South India United Church (Presbyterian and Congregational) united on 27 September 1947, weeks after Indian independence, accepting episcopacy while recognising existing ministries. It was the first union of episcopal and non-episcopal churches.",
-      "causes": [
-        "Indian church leaders' desire for unity beyond Western divisions"
-      ],
-      "consequences": [
-        "Model for Church of North India (1970) and other unions"
-      ],
+      "causes": ["Indian church leaders' desire for unity beyond Western divisions"],
+      "consequences": ["Model for Church of North India (1970) and other unions"],
       "peopleIds": [],
-      "doctrineIds": [
-        "church-sacraments"
-      ],
-      "traditionIds": [
-        "anglican",
-        "methodist",
-        "presbyterian",
-        "congregationalist"
-      ],
-      "sources": [
-        "frykenberg-india",
-        "neill-missions"
-      ],
+      "doctrineIds": ["church-sacraments"],
+      "traditionIds": ["anglican", "methodist", "presbyterian", "congregationalist"],
+      "sources": ["frykenberg-india", "neill-missions"],
       "confidence": "established"
     },
     {
@@ -1758,41 +802,16 @@
       "title": "World Council of Churches founded",
       "year": 1948,
       "circa": false,
-      "place": {
-        "name": "Amsterdam",
-        "lat": 52.3676,
-        "lng": 4.9041
-      },
+      "place": {"name": "Amsterdam", "lat": 52.3676, "lng": 4.9041},
       "category": "council",
-      "regions": [
-        "western-europe",
-        "global"
-      ],
+      "regions": ["western-europe", "global"],
       "summary": "Some 147 churches met in Amsterdam to form the WCC, uniting the Faith and Order and Life and Work movements. Most Orthodox churches joined by 1961; the Catholic Church is not a member but cooperates. Many evangelicals and Pentecostals remained critical of its theology and social activism.",
-      "causes": [
-        "Edinburgh 1910 legacy",
-        "Post-war reconciliation"
-      ],
-      "consequences": [
-        "Ecumenical dialogue (e.g., BEM 1982)",
-        "Evangelical alternative networks"
-      ],
+      "causes": ["Edinburgh 1910 legacy", "Post-war reconciliation"],
+      "consequences": ["Ecumenical dialogue (e.g., BEM 1982)", "Evangelical alternative networks"],
       "peopleIds": [],
-      "doctrineIds": [
-        "modern-movements",
-        "church-sacraments"
-      ],
-      "traditionIds": [
-        "eastern-orthodox",
-        "anglican",
-        "lutheran",
-        "reformed",
-        "methodist"
-      ],
-      "sources": [
-        "macculloch-christianity",
-        "robert-christian-mission"
-      ],
+      "doctrineIds": ["modern-movements", "church-sacraments"],
+      "traditionIds": ["eastern-orthodox", "anglican", "lutheran", "reformed", "methodist"],
+      "sources": ["macculloch-christianity", "robert-christian-mission"],
       "confidence": "established"
     },
     {
@@ -1800,38 +819,16 @@
       "title": "Dogma of the Assumption of Mary",
       "year": 1950,
       "circa": false,
-      "place": {
-        "name": "Vatican City",
-        "lat": 41.9029,
-        "lng": 12.4534
-      },
+      "place": {"name": "Vatican City", "lat": 41.9029, "lng": 12.4534},
       "category": "council",
-      "regions": [
-        "italy",
-        "global"
-      ],
+      "regions": ["italy", "global"],
       "summary": "In Munificentissimus Deus (1 November 1950) Pius XII defined that Mary, having completed the course of her earthly life, was assumed body and soul into heavenly glory — the only universally recognised ex cathedra definition after 1870. Orthodox believe in her Dormition and bodily assumption but reject the papal definition; Protestants mostly reject the doctrine as unbiblical.",
-      "causes": [
-        "Ancient Dormition tradition",
-        "Petitions from bishops and faithful"
-      ],
-      "consequences": [
-        "Marian theology",
-        "Ecumenical difficulty"
-      ],
-      "peopleIds": [
-        "pius-xii"
-      ],
-      "doctrineIds": [
-        "mary-saints"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "odcc",
-        "catechism-catholic-church"
-      ],
+      "causes": ["Ancient Dormition tradition", "Petitions from bishops and faithful"],
+      "consequences": ["Marian theology", "Ecumenical difficulty"],
+      "peopleIds": ["pius-xii"],
+      "doctrineIds": ["mary-saints"],
+      "traditionIds": ["catholic"],
+      "sources": ["odcc", "catechism-catholic-church"],
       "confidence": "established"
     },
     {
@@ -1839,38 +836,16 @@
       "title": "Three-Self Patriotic Movement formalised",
       "year": 1954,
       "circa": false,
-      "place": {
-        "name": "Beijing",
-        "lat": 39.9042,
-        "lng": 116.4074
-      },
+      "place": {"name": "Beijing", "lat": 39.9042, "lng": 116.4074},
       "category": "political",
-      "regions": [
-        "east-asia"
-      ],
+      "regions": ["east-asia"],
       "summary": "After the 1950 'Christian Manifesto' and expulsion of foreign missionaries, China's Protestants were organised under the state-sanctioned Three-Self (self-governing, self-supporting, self-propagating) Patriotic Movement. Christians refusing registration, such as Wang Mingdao and Watchman Nee's Little Flock, were imprisoned; unregistered 'house churches' grew.",
-      "causes": [
-        "Communist victory (1949)",
-        "Anti-imperialist campaigns"
-      ],
-      "consequences": [
-        "Registered and unregistered church division",
-        "Catholic Patriotic Association (1957)"
-      ],
-      "peopleIds": [
-        "watchman-nee"
-      ],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "chinese-house-churches",
-        "evangelical"
-      ],
-      "sources": [
-        "bays-china",
-        "lian-redeemed-by-fire"
-      ],
+      "causes": ["Communist victory (1949)", "Anti-imperialist campaigns"],
+      "consequences": ["Registered and unregistered church division", "Catholic Patriotic Association (1957)"],
+      "peopleIds": ["watchman-nee"],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["chinese-house-churches", "evangelical"],
+      "sources": ["bays-china", "lian-redeemed-by-fire"],
       "confidence": "established"
     },
     {
@@ -1878,40 +853,16 @@
       "title": "Yoido Full Gospel Church founded",
       "year": 1958,
       "circa": false,
-      "place": {
-        "name": "Seoul (later Yeouido)",
-        "lat": 37.5262,
-        "lng": 126.9246
-      },
+      "place": {"name": "Seoul (later Yeouido)", "lat": 37.5262, "lng": 126.9246},
       "category": "revival",
-      "regions": [
-        "east-asia"
-      ],
+      "regions": ["east-asia"],
       "summary": "David Yonggi Cho and Choi Ja-shil began a tent church in a Seoul slum in 1958 preaching healing, prosperity and the 'fourfold gospel'. Moving to Yeouido island in 1973 and organised through cell groups, it grew to some 800,000 members by the 2000s, the largest congregation in the world.",
-      "causes": [
-        "Post-Korean War poverty",
-        "Pentecostal missionaries (Assemblies of God)"
-      ],
-      "consequences": [
-        "Cell-church model",
-        "Megachurch movement",
-        "Korean Pentecostal missions"
-      ],
-      "peopleIds": [
-        "yong-gi-cho"
-      ],
-      "doctrineIds": [
-        "holy-spirit",
-        "modern-movements"
-      ],
-      "traditionIds": [
-        "assemblies-of-god",
-        "pentecostal"
-      ],
-      "sources": [
-        "kim-korea",
-        "anderson-pentecostalism"
-      ],
+      "causes": ["Post-Korean War poverty", "Pentecostal missionaries (Assemblies of God)"],
+      "consequences": ["Cell-church model", "Megachurch movement", "Korean Pentecostal missions"],
+      "peopleIds": ["yong-gi-cho"],
+      "doctrineIds": ["holy-spirit", "modern-movements"],
+      "traditionIds": ["assemblies-of-god", "pentecostal"],
+      "sources": ["kim-korea", "anderson-pentecostalism"],
       "confidence": "established"
     },
     {
@@ -1919,39 +870,16 @@
       "title": "Charismatic renewal begins in historic churches",
       "year": 1960,
       "circa": false,
-      "place": {
-        "name": "Van Nuys, California",
-        "lat": 34.1899,
-        "lng": -118.4514
-      },
+      "place": {"name": "Van Nuys, California", "lat": 34.1899, "lng": -118.4514},
       "category": "revival",
-      "regions": [
-        "north-america",
-        "global"
-      ],
+      "regions": ["north-america", "global"],
       "summary": "Episcopal rector Dennis Bennett's announcement on Passion Sunday 1960 that he had spoken in tongues marked the public start of the charismatic movement in mainline churches. Catholic renewal followed at Duquesne University in 1967; by the 1980s charismatics were found in nearly every tradition.",
-      "causes": [
-        "Pentecostal influence through Full Gospel Business Men",
-        "Desire for spiritual renewal"
-      ],
-      "consequences": [
-        "Charismatic Anglicans, Lutherans, Catholics",
-        "Contemporary worship music"
-      ],
+      "causes": ["Pentecostal influence through Full Gospel Business Men", "Desire for spiritual renewal"],
+      "consequences": ["Charismatic Anglicans, Lutherans, Catholics", "Contemporary worship music"],
       "peopleIds": [],
-      "doctrineIds": [
-        "holy-spirit",
-        "modern-movements"
-      ],
-      "traditionIds": [
-        "charismatic-renewal",
-        "anglican",
-        "catholic"
-      ],
-      "sources": [
-        "anderson-pentecostalism",
-        "burgess-pentecostal-dictionary"
-      ],
+      "doctrineIds": ["holy-spirit", "modern-movements"],
+      "traditionIds": ["charismatic-renewal", "anglican", "catholic"],
+      "sources": ["anderson-pentecostalism", "burgess-pentecostal-dictionary"],
       "confidence": "established"
     },
     {
@@ -1960,50 +888,17 @@
       "year": 1962,
       "endYear": 1965,
       "circa": false,
-      "place": {
-        "name": "St Peter's Basilica, Vatican City",
-        "lat": 41.9022,
-        "lng": 12.4539
-      },
+      "place": {"name": "St Peter's Basilica, Vatican City", "lat": 41.9022, "lng": 12.4539},
       "category": "council",
-      "regions": [
-        "italy",
-        "global",
-        "latin-america",
-        "sub-saharan-africa"
-      ],
+      "regions": ["italy", "global", "latin-america", "sub-saharan-africa"],
       "summary": "Called by John XXIII for aggiornamento (updating), some 2,500 bishops from every continent produced sixteen documents on liturgy, revelation, the church and the modern world. Vernacular liturgy, collegiality, religious freedom, ecumenism and a new stance toward Judaism and other religions reshaped global Catholicism.",
       "longText": "Vatican II was the first truly global council, with bishops from Africa, Asia and Latin America and observers from Orthodox and Protestant churches. Sacrosanctum Concilium (1963) called for 'full, conscious and active participation' and opened the way for vernacular Mass. Dei Verbum taught that Scripture and Tradition form one sacred deposit and encouraged biblical scholarship. Lumen Gentium described the church as the people of God and a sacrament of salvation, affirmed episcopal collegiality and the universal call to holiness, and said the church of Christ 'subsists in' the Catholic Church while elements of truth exist beyond it. Unitatis Redintegratio called other Christians 'separated brethren'; Nostra Aetate repudiated blaming Jews collectively for Christ's death; Dignitatis Humanae affirmed religious freedom; Gaudium et Spes engaged the modern world. Interpretation remains contested: progressives saw an unfinished revolution, traditionalists (notably Archbishop Lefebvre) a rupture, and Popes Benedict XVI and Francis spoke of a 'hermeneutic of reform' in continuity. Many Protestants welcomed the Bible-centred liturgy and ecumenical openness while noting that core doctrinal differences remained.",
-      "causes": [
-        "John XXIII's vision",
-        "Liturgical and biblical movements",
-        "Post-war world and decolonisation"
-      ],
-      "consequences": [
-        "Vernacular liturgy",
-        "Ecumenical and interreligious dialogue",
-        "Liberation theology and inculturation",
-        "Traditionalist dissent"
-      ],
-      "peopleIds": [
-        "john-xxiii",
-        "karl-rahner",
-        "hans-urs-von-balthasar",
-        "john-paul-ii"
-      ],
-      "doctrineIds": [
-        "church-sacraments",
-        "scripture-authority",
-        "modern-movements"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "omalley-vatican-ii",
-        "tanner-decrees",
-        "macculloch-christianity"
-      ],
+      "causes": ["John XXIII's vision", "Liturgical and biblical movements", "Post-war world and decolonisation"],
+      "consequences": ["Vernacular liturgy", "Ecumenical and interreligious dialogue", "Liberation theology and inculturation", "Traditionalist dissent"],
+      "peopleIds": ["john-xxiii", "karl-rahner", "hans-urs-von-balthasar", "john-paul-ii"],
+      "doctrineIds": ["church-sacraments", "scripture-authority", "modern-movements"],
+      "traditionIds": ["catholic"],
+      "sources": ["omalley-vatican-ii", "tanner-decrees", "macculloch-christianity"],
       "confidence": "established"
     },
     {
@@ -2012,35 +907,16 @@
       "year": 1966,
       "endYear": 1976,
       "circa": false,
-      "place": {
-        "name": "Beijing",
-        "lat": 39.9042,
-        "lng": 116.4074
-      },
+      "place": {"name": "Beijing", "lat": 39.9042, "lng": 116.4074},
       "category": "persecution",
-      "regions": [
-        "east-asia"
-      ],
+      "regions": ["east-asia"],
       "summary": "Mao's Cultural Revolution closed all churches, including Three-Self ones; Bibles were burned and clergy sent to labour camps. Christianity survived in secret home gatherings and, after 1979, emerged much larger, especially in rural house-church networks.",
-      "causes": [
-        "Maoist campaign against 'old ideas'"
-      ],
-      "consequences": [
-        "Underground church growth",
-        "Post-1979 Christian revival in China"
-      ],
+      "causes": ["Maoist campaign against 'old ideas'"],
+      "consequences": ["Underground church growth", "Post-1979 Christian revival in China"],
       "peopleIds": [],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "chinese-house-churches",
-        "catholic"
-      ],
-      "sources": [
-        "bays-china",
-        "lian-redeemed-by-fire"
-      ],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["chinese-house-churches", "catholic"],
+      "sources": ["bays-china", "lian-redeemed-by-fire"],
       "confidence": "established"
     },
     {
@@ -2048,40 +924,16 @@
       "title": "Medellín Conference of Latin American bishops",
       "year": 1968,
       "circa": false,
-      "place": {
-        "name": "Medellín",
-        "lat": 6.2442,
-        "lng": -75.5812
-      },
+      "place": {"name": "Medellín", "lat": 6.2442, "lng": -75.5812},
       "category": "council",
-      "regions": [
-        "latin-america"
-      ],
+      "regions": ["latin-america"],
       "summary": "The second general conference of CELAM applied Vatican II to a continent of poverty and dictatorship, denouncing 'institutionalised violence' and endorsing base ecclesial communities and a preferential concern for the poor. It gave momentum to liberation theology, formulated by Gustavo Gutiérrez in 1971.",
-      "causes": [
-        "Vatican II",
-        "Poverty and military regimes"
-      ],
-      "consequences": [
-        "Liberation theology",
-        "Base communities",
-        "Martyrs such as Óscar Romero"
-      ],
-      "peopleIds": [
-        "gustavo-gutierrez",
-        "oscar-romero"
-      ],
-      "doctrineIds": [
-        "ethics-church-state",
-        "modern-movements"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "gonzalez-latin-america",
-        "macculloch-christianity"
-      ],
+      "causes": ["Vatican II", "Poverty and military regimes"],
+      "consequences": ["Liberation theology", "Base communities", "Martyrs such as Óscar Romero"],
+      "peopleIds": ["gustavo-gutierrez", "oscar-romero"],
+      "doctrineIds": ["ethics-church-state", "modern-movements"],
+      "traditionIds": ["catholic"],
+      "sources": ["gonzalez-latin-america", "macculloch-christianity"],
       "confidence": "established"
     },
     {
@@ -2089,41 +941,16 @@
       "title": "Lausanne Congress on World Evangelization",
       "year": 1974,
       "circa": false,
-      "place": {
-        "name": "Lausanne",
-        "lat": 46.5197,
-        "lng": 6.6323
-      },
+      "place": {"name": "Lausanne", "lat": 46.5197, "lng": 6.6323},
       "category": "council",
-      "regions": [
-        "western-europe",
-        "global"
-      ],
+      "regions": ["western-europe", "global"],
       "summary": "Convened by Billy Graham, 2,700 evangelicals from 150 countries adopted the Lausanne Covenant, chiefly drafted by John Stott. Latin American voices such as René Padilla and Samuel Escobar pressed for social responsibility alongside evangelism; Ralph Winter introduced 'unreached people groups'.",
-      "causes": [
-        "Evangelical global networking",
-        "Unease with WCC"
-      ],
-      "consequences": [
-        "Lausanne Movement",
-        "Holistic mission",
-        "Unreached peoples focus"
-      ],
-      "peopleIds": [
-        "billy-graham",
-        "john-stott"
-      ],
-      "doctrineIds": [
-        "modern-movements",
-        "scripture-authority"
-      ],
-      "traditionIds": [
-        "evangelical"
-      ],
-      "sources": [
-        "robert-christian-mission",
-        "bebbington-evangelicalism"
-      ],
+      "causes": ["Evangelical global networking", "Unease with WCC"],
+      "consequences": ["Lausanne Movement", "Holistic mission", "Unreached peoples focus"],
+      "peopleIds": ["billy-graham", "john-stott"],
+      "doctrineIds": ["modern-movements", "scripture-authority"],
+      "traditionIds": ["evangelical"],
+      "sources": ["robert-christian-mission", "bebbington-evangelicalism"],
       "confidence": "established"
     },
     {
@@ -2131,37 +958,16 @@
       "title": "Assassination of Óscar Romero",
       "year": 1980,
       "circa": false,
-      "place": {
-        "name": "San Salvador",
-        "lat": 13.6929,
-        "lng": -89.2182
-      },
+      "place": {"name": "San Salvador", "lat": 13.6929, "lng": -89.2182},
       "category": "persecution",
-      "regions": [
-        "latin-america"
-      ],
+      "regions": ["latin-america"],
       "summary": "Archbishop Óscar Romero of San Salvador, who had become an outspoken defender of the poor against the military regime, was shot dead while celebrating Mass on 24 March 1980. He was canonised in 2018 and is honoured across denominations as a modern martyr.",
-      "causes": [
-        "Salvadoran civil conflict",
-        "Romero's sermons against repression"
-      ],
-      "consequences": [
-        "Symbol of liberation-minded Catholicism",
-        "Ecumenical martyr commemoration"
-      ],
-      "peopleIds": [
-        "oscar-romero",
-        "pope-francis"
-      ],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "gonzalez-latin-america"
-      ],
+      "causes": ["Salvadoran civil conflict", "Romero's sermons against repression"],
+      "consequences": ["Symbol of liberation-minded Catholicism", "Ecumenical martyr commemoration"],
+      "peopleIds": ["oscar-romero", "pope-francis"],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["catholic"],
+      "sources": ["gonzalez-latin-america"],
       "confidence": "established"
     },
     {
@@ -2169,37 +975,16 @@
       "title": "Kairos Document in South Africa",
       "year": 1985,
       "circa": false,
-      "place": {
-        "name": "Soweto",
-        "lat": -26.2485,
-        "lng": 27.854
-      },
+      "place": {"name": "Soweto", "lat": -26.2485, "lng": 27.854},
       "category": "intellectual",
-      "regions": [
-        "sub-saharan-africa"
-      ],
+      "regions": ["sub-saharan-africa"],
       "summary": "Black South African theologians in Soweto issued the Kairos Document, criticising 'state theology' that justified apartheid and 'church theology' that sought cheap reconciliation, and calling for prophetic theology. Alongside Desmond Tutu's leadership and the Belhar Confession, churches helped bring apartheid to an end.",
-      "causes": [
-        "State of emergency under apartheid"
-      ],
-      "consequences": [
-        "Church role in transition; Truth and Reconciliation Commission (1996)"
-      ],
-      "peopleIds": [
-        "desmond-tutu"
-      ],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "anglican",
-        "reformed",
-        "african-initiated-churches"
-      ],
-      "sources": [
-        "hastings-church-in-africa",
-        "isichei-africa"
-      ],
+      "causes": ["State of emergency under apartheid"],
+      "consequences": ["Church role in transition; Truth and Reconciliation Commission (1996)"],
+      "peopleIds": ["desmond-tutu"],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["anglican", "reformed", "african-initiated-churches"],
+      "sources": ["hastings-church-in-africa", "isichei-africa"],
       "confidence": "established"
     },
     {
@@ -2207,34 +992,16 @@
       "title": "Millennium of the Baptism of Rus' and Orthodox revival",
       "year": 1988,
       "circa": false,
-      "place": {
-        "name": "Moscow",
-        "lat": 55.7558,
-        "lng": 37.6173
-      },
+      "place": {"name": "Moscow", "lat": 55.7558, "lng": 37.6173},
       "category": "liturgical",
-      "regions": [
-        "russia",
-        "eastern-europe"
-      ],
+      "regions": ["russia", "eastern-europe"],
       "summary": "Gorbachev permitted public celebration of the millennium of Rus' baptism, signalling an end to Soviet persecution. After 1991 thousands of churches and monasteries reopened across Russia, Ukraine and Belarus, though Orthodoxy's close ties to the Russian state became contested.",
-      "causes": [
-        "Perestroika and glasnost"
-      ],
-      "consequences": [
-        "Post-Soviet Orthodox revival",
-        "Church–state partnership in Russia"
-      ],
+      "causes": ["Perestroika and glasnost"],
+      "consequences": ["Post-Soviet Orthodox revival", "Church–state partnership in Russia"],
       "peopleIds": [],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "russian-orthodox"
-      ],
-      "sources": [
-        "ware-orthodox-church"
-      ],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["russian-orthodox"],
+      "sources": ["ware-orthodox-church"],
       "confidence": "established"
     },
     {
@@ -2242,38 +1009,16 @@
       "title": "Common Christological Declaration with the Assyrian Church of the East",
       "year": 1994,
       "circa": false,
-      "place": {
-        "name": "Vatican City",
-        "lat": 41.9029,
-        "lng": 12.4534
-      },
+      "place": {"name": "Vatican City", "lat": 41.9029, "lng": 12.4534},
       "category": "council",
-      "regions": [
-        "mesopotamia-persia",
-        "italy"
-      ],
+      "regions": ["mesopotamia-persia", "italy"],
       "summary": "Pope John Paul II and Catholicos-Patriarch Mar Dinkha IV signed a declaration recognising that Catholics and the Assyrian Church of the East confess the same faith in Christ, true God and true man, despite different terms (Theotokos vs 'Mother of Christ our God and Saviour'). It ended a division dating to 431 at the level of Christology.",
-      "causes": [
-        "Ecumenical dialogue after Vatican II"
-      ],
-      "consequences": [
-        "Agreed Guidelines on Eucharistic admission with the Chaldean Church (2001)"
-      ],
-      "peopleIds": [
-        "john-paul-ii",
-        "nestorius"
-      ],
-      "doctrineIds": [
-        "christology"
-      ],
-      "traditionIds": [
-        "assyrian-church-of-the-east",
-        "catholic"
-      ],
-      "sources": [
-        "roberson-eastern-churches",
-        "baum-winkler-east"
-      ],
+      "causes": ["Ecumenical dialogue after Vatican II"],
+      "consequences": ["Agreed Guidelines on Eucharistic admission with the Chaldean Church (2001)"],
+      "peopleIds": ["john-paul-ii", "nestorius"],
+      "doctrineIds": ["christology"],
+      "traditionIds": ["assyrian-church-of-the-east", "catholic"],
+      "sources": ["roberson-eastern-churches", "baum-winkler-east"],
       "confidence": "established"
     },
     {
@@ -2281,39 +1026,16 @@
       "title": "Toronto Blessing",
       "year": 1994,
       "circa": false,
-      "place": {
-        "name": "Toronto Airport Vineyard",
-        "lat": 43.6777,
-        "lng": -79.6248
-      },
+      "place": {"name": "Toronto Airport Vineyard", "lat": 43.6777, "lng": -79.6248},
       "category": "revival",
-      "regions": [
-        "north-america",
-        "global"
-      ],
+      "regions": ["north-america", "global"],
       "summary": "From January 1994 meetings at the Toronto Airport Vineyard church led by John and Carol Arnott featured 'holy laughter', falling, shaking and animal-like noises interpreted as a refreshing of the Holy Spirit. Hundreds of thousands visited; John Wimber's Vineyard disaffiliated the church in 1995, and critics questioned the phenomena.",
-      "causes": [
-        "Rodney Howard-Browne's meetings",
-        "Third Wave charismatic expectation"
-      ],
-      "consequences": [
-        "Spread to Holy Trinity Brompton and globally",
-        "Debates on discernment of manifestations"
-      ],
-      "peopleIds": [
-        "john-wimber"
-      ],
-      "doctrineIds": [
-        "holy-spirit",
-        "modern-movements"
-      ],
-      "traditionIds": [
-        "neo-charismatic"
-      ],
-      "sources": [
-        "anderson-pentecostalism",
-        "burgess-pentecostal-dictionary"
-      ],
+      "causes": ["Rodney Howard-Browne's meetings", "Third Wave charismatic expectation"],
+      "consequences": ["Spread to Holy Trinity Brompton and globally", "Debates on discernment of manifestations"],
+      "peopleIds": ["john-wimber"],
+      "doctrineIds": ["holy-spirit", "modern-movements"],
+      "traditionIds": ["neo-charismatic"],
+      "sources": ["anderson-pentecostalism", "burgess-pentecostal-dictionary"],
       "confidence": "established"
     },
     {
@@ -2322,35 +1044,16 @@
       "year": 1995,
       "endYear": 2000,
       "circa": false,
-      "place": {
-        "name": "Pensacola, Florida",
-        "lat": 30.4213,
-        "lng": -87.2169
-      },
+      "place": {"name": "Pensacola, Florida", "lat": 30.4213, "lng": -87.2169},
       "category": "revival",
-      "regions": [
-        "north-america"
-      ],
+      "regions": ["north-america"],
       "summary": "Beginning on Father's Day 1995 at Brownsville Assembly of God, evangelist Steve Hill's preaching on repentance launched nightly meetings over five years that drew an estimated 2.5 million visitors. Supporters reported conversions and restored lives; critics questioned manifestations and reported numbers.",
-      "causes": [
-        "Toronto Blessing influence",
-        "Prayer for revival"
-      ],
-      "consequences": [
-        "Brownsville School of Ministry",
-        "Revival-tourism debates"
-      ],
+      "causes": ["Toronto Blessing influence", "Prayer for revival"],
+      "consequences": ["Brownsville School of Ministry", "Revival-tourism debates"],
       "peopleIds": [],
-      "doctrineIds": [
-        "holy-spirit"
-      ],
-      "traditionIds": [
-        "assemblies-of-god"
-      ],
-      "sources": [
-        "burgess-pentecostal-dictionary",
-        "anderson-pentecostalism"
-      ],
+      "doctrineIds": ["holy-spirit"],
+      "traditionIds": ["assemblies-of-god"],
+      "sources": ["burgess-pentecostal-dictionary", "anderson-pentecostalism"],
       "confidence": "established"
     },
     {
@@ -2358,42 +1061,16 @@
       "title": "Joint Declaration on the Doctrine of Justification",
       "year": 1999,
       "circa": false,
-      "place": {
-        "name": "Augsburg",
-        "lat": 48.3705,
-        "lng": 10.8978
-      },
+      "place": {"name": "Augsburg", "lat": 48.3705, "lng": 10.8978},
       "category": "council",
-      "regions": [
-        "western-europe",
-        "global"
-      ],
+      "regions": ["western-europe", "global"],
       "summary": "On Reformation Day 1999 the Lutheran World Federation and the Catholic Church signed a declaration stating a 'consensus in basic truths' on justification — by grace alone, through faith, not because of any merit — and that the 16th-century condemnations do not apply to the teaching it presents. Methodists (2006), Reformed (2017) and Anglicans (2016/17) later associated themselves.",
-      "causes": [
-        "Decades of Lutheran–Catholic dialogue"
-      ],
-      "consequences": [
-        "Ecumenical rapprochement",
-        "Critiques from confessional Lutherans and some Catholics"
-      ],
-      "peopleIds": [
-        "martin-luther",
-        "john-paul-ii"
-      ],
-      "doctrineIds": [
-        "salvation"
-      ],
-      "traditionIds": [
-        "lutheran",
-        "catholic",
-        "methodist",
-        "reformed",
-        "anglican"
-      ],
-      "sources": [
-        "jddj-1999",
-        "mcgrath-iustitia"
-      ],
+      "causes": ["Decades of Lutheran–Catholic dialogue"],
+      "consequences": ["Ecumenical rapprochement", "Critiques from confessional Lutherans and some Catholics"],
+      "peopleIds": ["martin-luther", "john-paul-ii"],
+      "doctrineIds": ["salvation"],
+      "traditionIds": ["lutheran", "catholic", "methodist", "reformed", "anglican"],
+      "sources": ["jddj-1999", "mcgrath-iustitia"],
       "confidence": "established"
     },
     {
@@ -2401,40 +1078,16 @@
       "title": "Election of Pope Francis, first Latin American pope",
       "year": 2013,
       "circa": false,
-      "place": {
-        "name": "Vatican City",
-        "lat": 41.9029,
-        "lng": 12.4534
-      },
+      "place": {"name": "Vatican City", "lat": 41.9029, "lng": 12.4534},
       "category": "political",
-      "regions": [
-        "latin-america",
-        "italy",
-        "global"
-      ],
+      "regions": ["latin-america", "italy", "global"],
       "summary": "Jorge Mario Bergoglio, Jesuit archbishop of Buenos Aires, was elected pope on 13 March 2013, the first from the Americas and the global South. His emphasis on mercy, the poor, the environment (Laudato si', 2015) and synodality reflected the shift of Catholicism's centre of gravity southward.",
-      "causes": [
-        "Resignation of Benedict XVI",
-        "Growth of Catholicism in the global South"
-      ],
-      "consequences": [
-        "Synod on synodality (2021–24)",
-        "Debates between progressive and traditionalist Catholics"
-      ],
-      "peopleIds": [
-        "pope-francis"
-      ],
-      "doctrineIds": [
-        "ethics-church-state",
-        "modern-movements"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "annuario-statistics",
-        "macculloch-christianity"
-      ],
+      "causes": ["Resignation of Benedict XVI", "Growth of Catholicism in the global South"],
+      "consequences": ["Synod on synodality (2021–24)", "Debates between progressive and traditionalist Catholics"],
+      "peopleIds": ["pope-francis"],
+      "doctrineIds": ["ethics-church-state", "modern-movements"],
+      "traditionIds": ["catholic"],
+      "sources": ["annuario-statistics", "macculloch-christianity"],
       "confidence": "established"
     },
     {
@@ -2442,37 +1095,16 @@
       "title": "Christians expelled from Mosul and the Nineveh Plains",
       "year": 2014,
       "circa": false,
-      "place": {
-        "name": "Mosul",
-        "lat": 36.34,
-        "lng": 43.13
-      },
+      "place": {"name": "Mosul", "lat": 36.34, "lng": 43.13},
       "category": "persecution",
-      "regions": [
-        "mesopotamia-persia",
-        "levant"
-      ],
+      "regions": ["mesopotamia-persia", "levant"],
       "summary": "In July–August 2014 the so-called Islamic State ordered Christians in Mosul to convert, pay jizya or leave, and then overran the Nineveh Plains, driving out some 120,000 Chaldean, Syriac and Assyrian Christians. It accelerated the collapse of Iraq's Christian population from over a million before 2003.",
-      "causes": [
-        "Iraq war and sectarian conflict"
-      ],
-      "consequences": [
-        "Near-extinction of ancient Christian communities in Iraq and Syria",
-        "Papal visit to Iraq (2021)"
-      ],
-      "peopleIds": [
-        "pope-francis"
-      ],
+      "causes": ["Iraq war and sectarian conflict"],
+      "consequences": ["Near-extinction of ancient Christian communities in Iraq and Syria", "Papal visit to Iraq (2021)"],
+      "peopleIds": ["pope-francis"],
       "doctrineIds": [],
-      "traditionIds": [
-        "assyrian-church-of-the-east",
-        "syriac-orthodox",
-        "catholic"
-      ],
-      "sources": [
-        "jenkins-lost-history",
-        "wcd-2025"
-      ],
+      "traditionIds": ["assyrian-church-of-the-east", "syriac-orthodox", "catholic"],
+      "sources": ["jenkins-lost-history", "wcd-2025"],
       "confidence": "established"
     },
     {
@@ -2480,35 +1112,16 @@
       "title": "Holy and Great Council of Crete",
       "year": 2016,
       "circa": false,
-      "place": {
-        "name": "Orthodox Academy of Crete, Kolymbari",
-        "lat": 35.5414,
-        "lng": 23.7814
-      },
+      "place": {"name": "Orthodox Academy of Crete, Kolymbari", "lat": 35.5414, "lng": 23.7814},
       "category": "council",
-      "regions": [
-        "greece-balkans",
-        "russia"
-      ],
+      "regions": ["greece-balkans", "russia"],
       "summary": "After decades of preparation, ten autocephalous Orthodox churches met under Ecumenical Patriarch Bartholomew at Kolymbari. The churches of Russia, Antioch, Georgia and Bulgaria withdrew shortly before, exposing tensions over primacy within Orthodoxy.",
-      "causes": [
-        "Preparatory process since 1961"
-      ],
-      "consequences": [
-        "Documents on mission, diaspora, marriage and relations with other Christians",
-        "Moscow–Constantinople rivalry"
-      ],
+      "causes": ["Preparatory process since 1961"],
+      "consequences": ["Documents on mission, diaspora, marriage and relations with other Christians", "Moscow–Constantinople rivalry"],
       "peopleIds": [],
-      "doctrineIds": [
-        "church-sacraments"
-      ],
-      "traditionIds": [
-        "eastern-orthodox",
-        "russian-orthodox"
-      ],
-      "sources": [
-        "ware-orthodox-church"
-      ],
+      "doctrineIds": ["church-sacraments"],
+      "traditionIds": ["eastern-orthodox", "russian-orthodox"],
+      "sources": ["ware-orthodox-church"],
       "confidence": "established"
     },
     {
@@ -2516,37 +1129,16 @@
       "title": "Autocephaly of the Orthodox Church of Ukraine",
       "year": 2019,
       "circa": false,
-      "place": {
-        "name": "Kyiv",
-        "lat": 50.4501,
-        "lng": 30.5234
-      },
+      "place": {"name": "Kyiv", "lat": 50.4501, "lng": 30.5234},
       "category": "schism",
-      "regions": [
-        "eastern-europe",
-        "russia"
-      ],
+      "regions": ["eastern-europe", "russia"],
       "summary": "The Ecumenical Patriarchate granted a tomos of autocephaly to the newly united Orthodox Church of Ukraine in January 2019. The Moscow Patriarchate broke communion with Constantinople, deepening a schism within world Orthodoxy that worsened after Russia's 2022 invasion of Ukraine.",
-      "causes": [
-        "Russia–Ukraine conflict since 2014",
-        "Disputes over Constantinople's primacy"
-      ],
-      "consequences": [
-        "Moscow–Constantinople schism",
-        "Ukrainian church realignment"
-      ],
+      "causes": ["Russia–Ukraine conflict since 2014", "Disputes over Constantinople's primacy"],
+      "consequences": ["Moscow–Constantinople schism", "Ukrainian church realignment"],
       "peopleIds": [],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "eastern-orthodox",
-        "russian-orthodox"
-      ],
-      "sources": [
-        "ware-orthodox-church",
-        "pew-2017-orthodox"
-      ],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["eastern-orthodox", "russian-orthodox"],
+      "sources": ["ware-orthodox-church", "pew-2017-orthodox"],
       "confidence": "established"
     },
     {
@@ -2554,36 +1146,16 @@
       "title": "Asbury Revival",
       "year": 2023,
       "circa": false,
-      "place": {
-        "name": "Asbury University, Wilmore, Kentucky",
-        "lat": 37.8645,
-        "lng": -84.6616
-      },
+      "place": {"name": "Asbury University, Wilmore, Kentucky", "lat": 37.8645, "lng": -84.6616},
       "category": "revival",
-      "regions": [
-        "north-america"
-      ],
+      "regions": ["north-america"],
       "summary": "After a routine chapel service on 8 February 2023 at Asbury University, students remained to pray, sing and confess for about two weeks of continuous worship that drew an estimated 50,000 visitors. Leaders deliberately avoided celebrity preachers; observers debated whether it constituted 'revival' and how much social media amplified it.",
-      "causes": [
-        "Holiness-Methodist campus tradition",
-        "Gen-Z spiritual hunger"
-      ],
-      "consequences": [
-        "Similar gatherings on other campuses",
-        "Discussion of revival in a digital age"
-      ],
+      "causes": ["Holiness-Methodist campus tradition", "Gen-Z spiritual hunger"],
+      "consequences": ["Similar gatherings on other campuses", "Discussion of revival in a digital age"],
       "peopleIds": [],
-      "doctrineIds": [
-        "holy-spirit"
-      ],
-      "traditionIds": [
-        "holiness-movement",
-        "methodist"
-      ],
-      "sources": [
-        "asbury-university-2023",
-        "noll-christianity-us"
-      ],
+      "doctrineIds": ["holy-spirit"],
+      "traditionIds": ["holiness-movement", "methodist"],
+      "sources": ["asbury-university-2023", "noll-christianity-us"],
       "confidence": "established"
     }
   ]

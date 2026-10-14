@@ -5,42 +5,16 @@
       "title": "Pentecost and the Jerusalem community",
       "year": 30,
       "circa": true,
-      "place": {
-        "name": "Jerusalem",
-        "lat": 31.7767,
-        "lng": 35.2345
-      },
+      "place": {"name": "Jerusalem", "lat": 31.7767, "lng": 35.2345},
       "category": "experiential",
-      "regions": [
-        "levant"
-      ],
+      "regions": ["levant"],
       "summary": "According to Acts 2, some fifty days after Jesus' crucifixion his followers gathered in Jerusalem experienced the outpouring of the Holy Spirit, spoke in other tongues and Peter preached to pilgrims from across the diaspora. Christians of every tradition treat the day as the birth of the Church, and the existence of a Jerusalem community led by Peter, John and James is historically secure.",
-      "causes": [
-        "Resurrection proclamation by Jesus' disciples",
-        "Jewish pilgrimage festival of Shavuot gathered diaspora Jews in Jerusalem"
-      ],
-      "consequences": [
-        "Formation of the first Christian community in Jerusalem",
-        "Pattern of Spirit-baptism later central to Pentecostal theology",
-        "Mission to the diaspora implied by the list of nations in Acts 2"
-      ],
-      "peopleIds": [
-        "peter-apostle",
-        "john-apostle",
-        "james-of-jerusalem"
-      ],
-      "doctrineIds": [
-        "holy-spirit",
-        "baptism"
-      ],
-      "traditionIds": [
-        "early-church"
-      ],
-      "sources": [
-        "bible",
-        "chadwick-early-church",
-        "macculloch-christianity"
-      ],
+      "causes": ["Resurrection proclamation by Jesus' disciples", "Jewish pilgrimage festival of Shavuot gathered diaspora Jews in Jerusalem"],
+      "consequences": ["Formation of the first Christian community in Jerusalem", "Pattern of Spirit-baptism later central to Pentecostal theology", "Mission to the diaspora implied by the list of nations in Acts 2"],
+      "peopleIds": ["peter-apostle", "john-apostle", "james-of-jerusalem"],
+      "doctrineIds": ["holy-spirit", "baptism"],
+      "traditionIds": ["early-church"],
+      "sources": ["bible", "chadwick-early-church", "macculloch-christianity"],
       "confidence": "established"
     },
     {
@@ -48,36 +22,16 @@
       "title": "Philip baptizes an Ethiopian court official",
       "year": 34,
       "circa": true,
-      "place": {
-        "name": "Road from Jerusalem to Gaza",
-        "lat": 31.5,
-        "lng": 34.47
-      },
+      "place": {"name": "Road from Jerusalem to Gaza", "lat": 31.5, "lng": 34.47},
       "category": "mission",
-      "regions": [
-        "levant",
-        "ethiopia-nubia"
-      ],
+      "regions": ["levant", "ethiopia-nubia"],
       "summary": "Acts 8 tells how Philip the evangelist baptized a eunuch, treasurer of the Kandake (queen) of 'Ethiopia' — the Nubian kingdom of Meroë — on the road to Gaza. Ethiopian Christians regard the story as the first seed of the faith in Africa beyond Egypt, though no organised church is attested in the region until the fourth century.",
-      "causes": [
-        "Dispersal of Hellenist believers after the death of Stephen"
-      ],
-      "consequences": [
-        "Symbol of African Christianity's apostolic roots",
-        "Frequently cited in Ethiopian Orthodox self-understanding"
-      ],
+      "causes": ["Dispersal of Hellenist believers after the death of Stephen"],
+      "consequences": ["Symbol of African Christianity's apostolic roots", "Frequently cited in Ethiopian Orthodox self-understanding"],
       "peopleIds": [],
-      "doctrineIds": [
-        "baptism"
-      ],
-      "traditionIds": [
-        "early-church",
-        "ethiopian-orthodox-tewahedo"
-      ],
-      "sources": [
-        "bible",
-        "isichei-africa"
-      ],
+      "doctrineIds": ["baptism"],
+      "traditionIds": ["early-church", "ethiopian-orthodox-tewahedo"],
+      "sources": ["bible", "isichei-africa"],
       "confidence": "traditional"
     },
     {
@@ -85,36 +39,16 @@
       "title": "Conversion of Paul on the Damascus road",
       "year": 34,
       "circa": true,
-      "place": {
-        "name": "Damascus",
-        "lat": 33.5138,
-        "lng": 36.2765
-      },
+      "place": {"name": "Damascus", "lat": 33.5138, "lng": 36.2765},
       "category": "experiential",
-      "regions": [
-        "levant"
-      ],
+      "regions": ["levant"],
       "summary": "Saul of Tarsus, a Pharisee who had persecuted the followers of Jesus, experienced a vision of the risen Christ near Damascus (Galatians 1; Acts 9, 22, 26). He became the most influential missionary and theologian of the first generation, insisting that Gentiles be received without circumcision.",
-      "causes": [
-        "Paul's zeal against the early Jesus movement"
-      ],
-      "consequences": [
-        "The Gentile mission",
-        "Pauline letters, the earliest Christian writings"
-      ],
-      "peopleIds": [
-        "paul-of-tarsus"
-      ],
-      "doctrineIds": [
-        "salvation"
-      ],
-      "traditionIds": [
-        "early-church"
-      ],
-      "sources": [
-        "bible",
-        "chadwick-early-church"
-      ],
+      "causes": ["Paul's zeal against the early Jesus movement"],
+      "consequences": ["The Gentile mission", "Pauline letters, the earliest Christian writings"],
+      "peopleIds": ["paul-of-tarsus"],
+      "doctrineIds": ["salvation"],
+      "traditionIds": ["early-church"],
+      "sources": ["bible", "chadwick-early-church"],
       "confidence": "established"
     },
     {
@@ -122,36 +56,16 @@
       "title": "Believers first called 'Christians' at Antioch",
       "year": 40,
       "circa": true,
-      "place": {
-        "name": "Antioch on the Orontes (Antakya)",
-        "lat": 36.2021,
-        "lng": 36.1606
-      },
+      "place": {"name": "Antioch on the Orontes (Antakya)", "lat": 36.2021, "lng": 36.1606},
       "category": "mission",
-      "regions": [
-        "levant"
-      ],
+      "regions": ["levant"],
       "summary": "Acts 11:26 records that at Antioch, the third city of the Roman Empire, Jews and Gentiles worshipped together and the disciples were first called Christianoi. Antioch became the base of the Gentile mission and later one of the great patriarchates.",
-      "causes": [
-        "Hellenist believers preached to Greeks after Stephen's martyrdom"
-      ],
-      "consequences": [
-        "Antioch becomes the launch-point for Paul and Barnabas",
-        "Christian identity distinct from other Jewish groups begins to form"
-      ],
-      "peopleIds": [
-        "paul-of-tarsus",
-        "peter-apostle"
-      ],
+      "causes": ["Hellenist believers preached to Greeks after Stephen's martyrdom"],
+      "consequences": ["Antioch becomes the launch-point for Paul and Barnabas", "Christian identity distinct from other Jewish groups begins to form"],
+      "peopleIds": ["paul-of-tarsus", "peter-apostle"],
       "doctrineIds": [],
-      "traditionIds": [
-        "early-church",
-        "syriac-orthodox"
-      ],
-      "sources": [
-        "bible",
-        "chadwick-early-church"
-      ],
+      "traditionIds": ["early-church", "syriac-orthodox"],
+      "sources": ["bible", "chadwick-early-church"],
       "confidence": "established"
     },
     {
@@ -160,35 +74,16 @@
       "year": 46,
       "endYear": 48,
       "circa": true,
-      "place": {
-        "name": "Paphos, Cyprus",
-        "lat": 34.7754,
-        "lng": 32.4245
-      },
+      "place": {"name": "Paphos, Cyprus", "lat": 34.7754, "lng": 32.4245},
       "category": "mission",
-      "regions": [
-        "asia-minor",
-        "levant"
-      ],
+      "regions": ["asia-minor", "levant"],
       "summary": "Sent out by the church of Antioch, Paul and Barnabas preached in Cyprus and the cities of southern Galatia (Pisidian Antioch, Iconium, Lystra, Derbe). Their reception of uncircumcised Gentile converts raised the question settled at the Jerusalem council.",
-      "causes": [
-        "Antiochene commissioning (Acts 13)"
-      ],
-      "consequences": [
-        "Gentile churches in Asia Minor",
-        "Controversy over circumcision"
-      ],
-      "peopleIds": [
-        "paul-of-tarsus"
-      ],
+      "causes": ["Antiochene commissioning (Acts 13)"],
+      "consequences": ["Gentile churches in Asia Minor", "Controversy over circumcision"],
+      "peopleIds": ["paul-of-tarsus"],
       "doctrineIds": [],
-      "traditionIds": [
-        "early-church"
-      ],
-      "sources": [
-        "bible",
-        "gonzalez-story"
-      ],
+      "traditionIds": ["early-church"],
+      "sources": ["bible", "gonzalez-story"],
       "confidence": "established"
     },
     {
@@ -196,43 +91,17 @@
       "title": "Council of Jerusalem",
       "year": 49,
       "circa": true,
-      "place": {
-        "name": "Jerusalem",
-        "lat": 31.7767,
-        "lng": 35.2345
-      },
+      "place": {"name": "Jerusalem", "lat": 31.7767, "lng": 35.2345},
       "category": "council",
-      "regions": [
-        "levant"
-      ],
+      "regions": ["levant"],
       "summary": "Apostles and elders met in Jerusalem to decide whether Gentile converts must be circumcised and keep the Law of Moses. Led by James, with Peter and Paul testifying, they ruled that Gentiles need only abstain from idolatry, blood, strangled meat and sexual immorality (Acts 15; compare Galatians 2).",
       "longText": "Often called the first church council, the Jerusalem meeting addressed the most explosive question of the first generation: was faith in Jesus a form of Judaism that Gentiles must enter through circumcision, or did the Messiah open a new people of God in which Jew and Gentile stood on equal footing? Acts presents Peter recounting the conversion of Cornelius, Paul and Barnabas reporting signs among the Gentiles, and James citing Amos before issuing a decree with four minimal requirements. Paul's own account in Galatians 2 emphasises a private agreement dividing mission fields, and the later incident at Antioch shows that table fellowship remained contested. Catholic and Orthodox writers see in the meeting a model of conciliar authority; Protestants stress its appeal to Scripture and the grace of God. Historians debate how Acts 15 and Galatians 2 relate, but agree that the outcome made a law-free Gentile mission possible.",
-      "causes": [
-        "Gentile conversions in Antioch and Galatia",
-        "Pressure from Judean believers who required circumcision"
-      ],
-      "consequences": [
-        "Gentiles admitted without circumcision",
-        "Model for later conciliar decision-making",
-        "Gradual parting of the ways between church and synagogue"
-      ],
-      "peopleIds": [
-        "james-of-jerusalem",
-        "peter-apostle",
-        "paul-of-tarsus"
-      ],
-      "doctrineIds": [
-        "salvation",
-        "scripture-authority"
-      ],
-      "traditionIds": [
-        "early-church"
-      ],
-      "sources": [
-        "bible",
-        "chadwick-early-church",
-        "macculloch-christianity"
-      ],
+      "causes": ["Gentile conversions in Antioch and Galatia", "Pressure from Judean believers who required circumcision"],
+      "consequences": ["Gentiles admitted without circumcision", "Model for later conciliar decision-making", "Gradual parting of the ways between church and synagogue"],
+      "peopleIds": ["james-of-jerusalem", "peter-apostle", "paul-of-tarsus"],
+      "doctrineIds": ["salvation", "scripture-authority"],
+      "traditionIds": ["early-church"],
+      "sources": ["bible", "chadwick-early-church", "macculloch-christianity"],
       "confidence": "established"
     },
     {
@@ -240,38 +109,16 @@
       "title": "Paul writes 1 Thessalonians, the earliest Christian text",
       "year": 50,
       "circa": true,
-      "place": {
-        "name": "Corinth",
-        "lat": 37.9057,
-        "lng": 22.8797
-      },
+      "place": {"name": "Corinth", "lat": 37.9057, "lng": 22.8797},
       "category": "intellectual",
-      "regions": [
-        "greece-balkans"
-      ],
+      "regions": ["greece-balkans"],
       "summary": "During his eighteen-month stay at Corinth, Paul wrote to the young church at Thessalonica — most likely the oldest surviving Christian document. His letters to Galatians, Corinthians and Romans over the following decade set the agenda for Christian theology on grace, the Law, the church and resurrection.",
-      "causes": [
-        "Paul's second journey into Macedonia and Achaia"
-      ],
-      "consequences": [
-        "The Pauline corpus becomes Scripture",
-        "Foundational texts for later debates on justification"
-      ],
-      "peopleIds": [
-        "paul-of-tarsus"
-      ],
-      "doctrineIds": [
-        "scripture-authority",
-        "eschatology",
-        "salvation"
-      ],
-      "traditionIds": [
-        "early-church"
-      ],
-      "sources": [
-        "bible",
-        "gonzalez-story"
-      ],
+      "causes": ["Paul's second journey into Macedonia and Achaia"],
+      "consequences": ["The Pauline corpus becomes Scripture", "Foundational texts for later debates on justification"],
+      "peopleIds": ["paul-of-tarsus"],
+      "doctrineIds": ["scripture-authority", "eschatology", "salvation"],
+      "traditionIds": ["early-church"],
+      "sources": ["bible", "gonzalez-story"],
       "confidence": "established"
     },
     {
@@ -279,36 +126,16 @@
       "title": "Apostle Thomas arrives in Kerala (tradition)",
       "year": 52,
       "circa": true,
-      "place": {
-        "name": "Muziris (Kodungallur), Kerala",
-        "lat": 10.2236,
-        "lng": 76.196
-      },
+      "place": {"name": "Muziris (Kodungallur), Kerala", "lat": 10.2236, "lng": 76.196},
       "category": "mission",
-      "regions": [
-        "india"
-      ],
+      "regions": ["india"],
       "summary": "The St Thomas Christians of Kerala hold that the apostle Thomas landed at Muziris in AD 52, founded seven churches and was martyred at Mylapore near Chennai around 72. The Acts of Thomas (3rd century) link him to India; Roman trade with the Malabar coast makes an early mission plausible, though firm evidence of Indian Christians dates from later centuries.",
-      "causes": [
-        "Roman–Indian spice trade through the Red Sea"
-      ],
-      "consequences": [
-        "Identity of the Thomas Christians (Syro-Malabar, Malankara and others)",
-        "Later ties with the Church of the East"
-      ],
-      "peopleIds": [
-        "thomas-apostle"
-      ],
+      "causes": ["Roman–Indian spice trade through the Red Sea"],
+      "consequences": ["Identity of the Thomas Christians (Syro-Malabar, Malankara and others)", "Later ties with the Church of the East"],
+      "peopleIds": ["thomas-apostle"],
       "doctrineIds": [],
-      "traditionIds": [
-        "early-church",
-        "malankara-orthodox",
-        "church-of-the-east"
-      ],
-      "sources": [
-        "frykenberg-india",
-        "moffett-asia"
-      ],
+      "traditionIds": ["early-church", "malankara-orthodox", "church-of-the-east"],
+      "sources": ["frykenberg-india", "moffett-asia"],
       "confidence": "traditional"
     },
     {
@@ -316,35 +143,16 @@
       "title": "Martyrdom of James, brother of the Lord",
       "year": 62,
       "circa": false,
-      "place": {
-        "name": "Jerusalem",
-        "lat": 31.7767,
-        "lng": 35.2345
-      },
+      "place": {"name": "Jerusalem", "lat": 31.7767, "lng": 35.2345},
       "category": "persecution",
-      "regions": [
-        "levant"
-      ],
+      "regions": ["levant"],
       "summary": "Josephus reports that the high priest Ananus had James 'the brother of Jesus who was called Christ' stoned during an interregnum between Roman governors. James had led the Jerusalem church and embodied a Torah-observant Jewish Christianity.",
-      "causes": [
-        "Tension between the priestly aristocracy and the Jerusalem church"
-      ],
-      "consequences": [
-        "Leadership of the Jerusalem church passes to Symeon",
-        "Weakening of Jewish-Christian leadership before the war"
-      ],
-      "peopleIds": [
-        "james-of-jerusalem"
-      ],
+      "causes": ["Tension between the priestly aristocracy and the Jerusalem church"],
+      "consequences": ["Leadership of the Jerusalem church passes to Symeon", "Weakening of Jewish-Christian leadership before the war"],
+      "peopleIds": ["james-of-jerusalem"],
       "doctrineIds": [],
-      "traditionIds": [
-        "early-church"
-      ],
-      "sources": [
-        "josephus-antiquities",
-        "eusebius-hist-eccl",
-        "chadwick-early-church"
-      ],
+      "traditionIds": ["early-church"],
+      "sources": ["josephus-antiquities", "eusebius-hist-eccl", "chadwick-early-church"],
       "confidence": "established"
     },
     {
@@ -352,37 +160,16 @@
       "title": "Neronian persecution in Rome",
       "year": 64,
       "circa": false,
-      "place": {
-        "name": "Rome",
-        "lat": 41.8902,
-        "lng": 12.4922
-      },
+      "place": {"name": "Rome", "lat": 41.8902, "lng": 12.4922},
       "category": "persecution",
-      "regions": [
-        "italy"
-      ],
+      "regions": ["italy"],
       "summary": "After the great fire of Rome in July 64, Nero blamed the Christians; Tacitus describes victims torn by dogs, crucified and burned as torches. Strong early tradition holds that Peter and Paul were executed in Rome in this period.",
-      "causes": [
-        "Great Fire of Rome",
-        "Popular suspicion of the new 'superstition'"
-      ],
-      "consequences": [
-        "Martyrdom tradition of Peter and Paul at Rome",
-        "Christianity identified by Roman authorities as distinct from Judaism"
-      ],
-      "peopleIds": [
-        "peter-apostle",
-        "paul-of-tarsus"
-      ],
+      "causes": ["Great Fire of Rome", "Popular suspicion of the new 'superstition'"],
+      "consequences": ["Martyrdom tradition of Peter and Paul at Rome", "Christianity identified by Roman authorities as distinct from Judaism"],
+      "peopleIds": ["peter-apostle", "paul-of-tarsus"],
       "doctrineIds": [],
-      "traditionIds": [
-        "early-church"
-      ],
-      "sources": [
-        "tacitus-annals",
-        "frend-rise",
-        "chadwick-early-church"
-      ],
+      "traditionIds": ["early-church"],
+      "sources": ["tacitus-annals", "frend-rise", "chadwick-early-church"],
       "confidence": "established"
     },
     {
@@ -390,33 +177,16 @@
       "title": "Mark founds the church of Alexandria (tradition)",
       "year": 60,
       "circa": true,
-      "place": {
-        "name": "Alexandria",
-        "lat": 31.2001,
-        "lng": 29.9187
-      },
+      "place": {"name": "Alexandria", "lat": 31.2001, "lng": 29.9187},
       "category": "mission",
-      "regions": [
-        "egypt"
-      ],
+      "regions": ["egypt"],
       "summary": "Eusebius records the tradition that Mark the evangelist was the first to preach in Egypt and founded the church in Alexandria. The Coptic Orthodox Church counts its popes in unbroken succession from Mark, whom it honours as martyr; reliable records of Alexandrian Christianity begin in the second century.",
-      "causes": [
-        "Large Jewish community in Alexandria"
-      ],
-      "consequences": [
-        "Alexandria becomes a leading see and intellectual centre",
-        "Coptic identity as 'the See of St Mark'"
-      ],
+      "causes": ["Large Jewish community in Alexandria"],
+      "consequences": ["Alexandria becomes a leading see and intellectual centre", "Coptic identity as 'the See of St Mark'"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "early-church",
-        "coptic-orthodox"
-      ],
-      "sources": [
-        "eusebius-hist-eccl",
-        "atiya-eastern-christianity"
-      ],
+      "traditionIds": ["early-church", "coptic-orthodox"],
+      "sources": ["eusebius-hist-eccl", "atiya-eastern-christianity"],
       "confidence": "traditional"
     },
     {
@@ -424,36 +194,16 @@
       "title": "Fall of Jerusalem and destruction of the Temple",
       "year": 70,
       "circa": false,
-      "place": {
-        "name": "Jerusalem",
-        "lat": 31.7767,
-        "lng": 35.2345
-      },
+      "place": {"name": "Jerusalem", "lat": 31.7767, "lng": 35.2345},
       "category": "political",
-      "regions": [
-        "levant"
-      ],
+      "regions": ["levant"],
       "summary": "Roman legions under Titus captured Jerusalem and destroyed the Second Temple, ending the Jewish revolt begun in 66. Eusebius reports that the Jerusalem Christians had fled to Pella. The catastrophe reshaped both rabbinic Judaism and Christianity and accelerated their separation.",
-      "causes": [
-        "Jewish revolt against Rome (66)"
-      ],
-      "consequences": [
-        "End of Temple worship",
-        "Decline of Jerusalem as Christian centre",
-        "Christian interpretation of the fall as fulfilment of Jesus' warnings (Mark 13)"
-      ],
+      "causes": ["Jewish revolt against Rome (66)"],
+      "consequences": ["End of Temple worship", "Decline of Jerusalem as Christian centre", "Christian interpretation of the fall as fulfilment of Jesus' warnings (Mark 13)"],
       "peopleIds": [],
-      "doctrineIds": [
-        "eschatology"
-      ],
-      "traditionIds": [
-        "early-church"
-      ],
-      "sources": [
-        "josephus-antiquities",
-        "eusebius-hist-eccl",
-        "chadwick-early-church"
-      ],
+      "doctrineIds": ["eschatology"],
+      "traditionIds": ["early-church"],
+      "sources": ["josephus-antiquities", "eusebius-hist-eccl", "chadwick-early-church"],
       "confidence": "established"
     },
     {
@@ -461,35 +211,16 @@
       "title": "Addai's mission to Edessa (tradition)",
       "year": 60,
       "circa": true,
-      "place": {
-        "name": "Edessa (Şanlıurfa)",
-        "lat": 37.1591,
-        "lng": 38.7969
-      },
+      "place": {"name": "Edessa (Şanlıurfa)", "lat": 37.1591, "lng": 38.7969},
       "category": "mission",
-      "regions": [
-        "mesopotamia-persia"
-      ],
+      "regions": ["mesopotamia-persia"],
       "summary": "Syriac tradition, preserved by Eusebius and the Doctrine of Addai, says that King Abgar of Edessa corresponded with Jesus and was healed by Addai (Thaddaeus), one of the Seventy. The legend is not historical in its details, but Edessa became the cradle of Syriac-speaking Christianity by the late second century.",
-      "causes": [
-        "Edessa's position on trade routes between Rome and Parthia"
-      ],
-      "consequences": [
-        "Edessa's self-image as the first Christian city",
-        "Foundational legend for Syriac churches east and west"
-      ],
+      "causes": ["Edessa's position on trade routes between Rome and Parthia"],
+      "consequences": ["Edessa's self-image as the first Christian city", "Foundational legend for Syriac churches east and west"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "early-church",
-        "church-of-the-east",
-        "syriac-orthodox"
-      ],
-      "sources": [
-        "eusebius-hist-eccl",
-        "baum-winkler-east",
-        "moffett-asia"
-      ],
+      "traditionIds": ["early-church", "church-of-the-east", "syriac-orthodox"],
+      "sources": ["eusebius-hist-eccl", "baum-winkler-east", "moffett-asia"],
       "confidence": "traditional"
     },
     {
@@ -497,37 +228,16 @@
       "title": "Clement of Rome writes to Corinth",
       "year": 96,
       "circa": true,
-      "place": {
-        "name": "Rome",
-        "lat": 41.8902,
-        "lng": 12.4922
-      },
+      "place": {"name": "Rome", "lat": 41.8902, "lng": 12.4922},
       "category": "intellectual",
-      "regions": [
-        "italy",
-        "greece-balkans"
-      ],
+      "regions": ["italy", "greece-balkans"],
       "summary": "The church of Rome, through Clement, wrote to the Corinthian church urging reinstatement of deposed presbyters and grounding church order in apostolic succession. 1 Clement is the earliest Christian writing outside the New Testament and an important witness to early church office.",
-      "causes": [
-        "Factional dispute in the Corinthian church"
-      ],
-      "consequences": [
-        "Early statement of ordered ministry",
-        "Evidence of Roman concern for other churches"
-      ],
-      "peopleIds": [
-        "clement-of-rome"
-      ],
-      "doctrineIds": [
-        "church-sacraments"
-      ],
-      "traditionIds": [
-        "early-church"
-      ],
-      "sources": [
-        "anf-npnf",
-        "chadwick-early-church"
-      ],
+      "causes": ["Factional dispute in the Corinthian church"],
+      "consequences": ["Early statement of ordered ministry", "Evidence of Roman concern for other churches"],
+      "peopleIds": ["clement-of-rome"],
+      "doctrineIds": ["church-sacraments"],
+      "traditionIds": ["early-church"],
+      "sources": ["anf-npnf", "chadwick-early-church"],
       "confidence": "established"
     },
     {
@@ -535,38 +245,16 @@
       "title": "John's Revelation on Patmos",
       "year": 95,
       "circa": true,
-      "place": {
-        "name": "Patmos",
-        "lat": 37.3088,
-        "lng": 26.5468
-      },
+      "place": {"name": "Patmos", "lat": 37.3088, "lng": 26.5468},
       "category": "intellectual",
-      "regions": [
-        "asia-minor",
-        "greece-balkans"
-      ],
+      "regions": ["asia-minor", "greece-balkans"],
       "summary": "The Book of Revelation, addressed to seven churches of Asia, was written by a prophet named John exiled on Patmos, most likely under Domitian. Its visions of the Lamb, the beast and the New Jerusalem have shaped Christian worship, art and eschatology ever since; authorship and dating are debated.",
-      "causes": [
-        "Pressure of the imperial cult in Asia Minor"
-      ],
-      "consequences": [
-        "Millennial and apocalyptic traditions",
-        "Canonical status long disputed in the East"
-      ],
-      "peopleIds": [
-        "john-apostle"
-      ],
-      "doctrineIds": [
-        "eschatology",
-        "scripture-authority"
-      ],
-      "traditionIds": [
-        "early-church"
-      ],
-      "sources": [
-        "bible",
-        "eusebius-hist-eccl"
-      ],
+      "causes": ["Pressure of the imperial cult in Asia Minor"],
+      "consequences": ["Millennial and apocalyptic traditions", "Canonical status long disputed in the East"],
+      "peopleIds": ["john-apostle"],
+      "doctrineIds": ["eschatology", "scripture-authority"],
+      "traditionIds": ["early-church"],
+      "sources": ["bible", "eusebius-hist-eccl"],
       "confidence": "debated"
     },
     {
@@ -574,41 +262,16 @@
       "title": "Ignatius of Antioch writes on the road to martyrdom",
       "year": 110,
       "circa": true,
-      "place": {
-        "name": "Smyrna (İzmir)",
-        "lat": 38.4237,
-        "lng": 27.1428
-      },
+      "place": {"name": "Smyrna (İzmir)", "lat": 38.4237, "lng": 27.1428},
       "category": "intellectual",
-      "regions": [
-        "asia-minor",
-        "levant"
-      ],
+      "regions": ["asia-minor", "levant"],
       "summary": "Bishop Ignatius of Antioch, taken under guard to Rome to die in the arena, wrote seven letters to churches in Asia Minor and Rome. They urge unity around the bishop, presbyters and deacons, insist on the real humanity of Christ against docetists, and call the Eucharist 'the medicine of immortality'.",
-      "causes": [
-        "Persecution under Trajan",
-        "Docetic teaching in Asia"
-      ],
-      "consequences": [
-        "Earliest witness to the single bishop (monepiscopate)",
-        "Martyrdom spirituality"
-      ],
-      "peopleIds": [
-        "ignatius-of-antioch",
-        "polycarp"
-      ],
-      "doctrineIds": [
-        "church-sacraments",
-        "christology"
-      ],
-      "traditionIds": [
-        "early-church"
-      ],
-      "sources": [
-        "anf-npnf",
-        "chadwick-early-church",
-        "kelly-doctrines"
-      ],
+      "causes": ["Persecution under Trajan", "Docetic teaching in Asia"],
+      "consequences": ["Earliest witness to the single bishop (monepiscopate)", "Martyrdom spirituality"],
+      "peopleIds": ["ignatius-of-antioch", "polycarp"],
+      "doctrineIds": ["church-sacraments", "christology"],
+      "traditionIds": ["early-church"],
+      "sources": ["anf-npnf", "chadwick-early-church", "kelly-doctrines"],
       "confidence": "established"
     },
     {
@@ -616,32 +279,16 @@
       "title": "Pliny's letter to Trajan on the Christians",
       "year": 112,
       "circa": true,
-      "place": {
-        "name": "Amisus, Bithynia-Pontus (Samsun)",
-        "lat": 41.2867,
-        "lng": 36.33
-      },
+      "place": {"name": "Amisus, Bithynia-Pontus (Samsun)", "lat": 41.2867, "lng": 36.33},
       "category": "persecution",
-      "regions": [
-        "asia-minor"
-      ],
+      "regions": ["asia-minor"],
       "summary": "As governor of Bithynia-Pontus, Pliny the Younger asked Trajan how to treat Christians, describing their dawn meetings to sing a hymn 'to Christ as to a god' and their shared meal. Trajan replied that they were not to be hunted out, but if accused and obstinate they should be punished.",
-      "causes": [
-        "Christianity spreading in town and countryside",
-        "Complaints from temple interests"
-      ],
-      "consequences": [
-        "Legal pattern of sporadic, accusation-driven persecution for over a century"
-      ],
+      "causes": ["Christianity spreading in town and countryside", "Complaints from temple interests"],
+      "consequences": ["Legal pattern of sporadic, accusation-driven persecution for over a century"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "early-church"
-      ],
-      "sources": [
-        "pliny-letters",
-        "frend-rise"
-      ],
+      "traditionIds": ["early-church"],
+      "sources": ["pliny-letters", "frend-rise"],
       "confidence": "established"
     },
     {
@@ -650,32 +297,16 @@
       "year": 132,
       "endYear": 135,
       "circa": false,
-      "place": {
-        "name": "Jerusalem",
-        "lat": 31.7767,
-        "lng": 35.2345
-      },
+      "place": {"name": "Jerusalem", "lat": 31.7767, "lng": 35.2345},
       "category": "political",
-      "regions": [
-        "levant"
-      ],
+      "regions": ["levant"],
       "summary": "The second Jewish revolt under Simon bar Kokhba was crushed by Hadrian, who refounded Jerusalem as the pagan colony Aelia Capitolina and banned Jews from the city. Jewish Christians who would not accept Bar Kokhba as messiah suffered from both sides, and the Jerusalem church thereafter had Gentile bishops.",
-      "causes": [
-        "Hadrian's policies in Judaea"
-      ],
-      "consequences": [
-        "Jerusalem church becomes Gentile",
-        "Deepening separation of church and synagogue"
-      ],
+      "causes": ["Hadrian's policies in Judaea"],
+      "consequences": ["Jerusalem church becomes Gentile", "Deepening separation of church and synagogue"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "early-church"
-      ],
-      "sources": [
-        "eusebius-hist-eccl",
-        "frend-rise"
-      ],
+      "traditionIds": ["early-church"],
+      "sources": ["eusebius-hist-eccl", "frend-rise"],
       "confidence": "established"
     },
     {
@@ -683,39 +314,16 @@
       "title": "Marcion breaks with the Roman church",
       "year": 144,
       "circa": true,
-      "place": {
-        "name": "Rome",
-        "lat": 41.8902,
-        "lng": 12.4922
-      },
+      "place": {"name": "Rome", "lat": 41.8902, "lng": 12.4922},
       "category": "schism",
-      "regions": [
-        "italy",
-        "asia-minor"
-      ],
+      "regions": ["italy", "asia-minor"],
       "summary": "Marcion, a wealthy shipowner from Sinope, taught that the God of the Old Testament was a lesser, just deity distinct from the loving Father revealed by Jesus. Expelled by the Roman church, he organised a rival church with a canon of an edited Luke and ten Pauline letters.",
-      "causes": [
-        "Pauline contrast of Law and gospel pushed to an extreme"
-      ],
-      "consequences": [
-        "Marcionite churches across the empire into the 5th century",
-        "Stimulus to defining the New Testament canon and affirming the Old Testament"
-      ],
-      "peopleIds": [
-        "marcion"
-      ],
-      "doctrineIds": [
-        "scripture-authority",
-        "trinity"
-      ],
-      "traditionIds": [
-        "marcionite"
-      ],
-      "sources": [
-        "harnack-marcion",
-        "kelly-doctrines",
-        "chadwick-early-church"
-      ],
+      "causes": ["Pauline contrast of Law and gospel pushed to an extreme"],
+      "consequences": ["Marcionite churches across the empire into the 5th century", "Stimulus to defining the New Testament canon and affirming the Old Testament"],
+      "peopleIds": ["marcion"],
+      "doctrineIds": ["scripture-authority", "trinity"],
+      "traditionIds": ["marcionite"],
+      "sources": ["harnack-marcion", "kelly-doctrines", "chadwick-early-church"],
       "confidence": "established"
     },
     {
@@ -723,38 +331,16 @@
       "title": "Justin Martyr's First Apology",
       "year": 155,
       "circa": true,
-      "place": {
-        "name": "Rome",
-        "lat": 41.8902,
-        "lng": 12.4922
-      },
+      "place": {"name": "Rome", "lat": 41.8902, "lng": 12.4922},
       "category": "intellectual",
-      "regions": [
-        "italy"
-      ],
+      "regions": ["italy"],
       "summary": "Justin, a convert philosopher teaching in Rome, addressed Antoninus Pius defending Christians against charges of atheism and immorality. His Apology presents Christ as the Logos who seeded truth in philosophers and gives the earliest detailed description of Sunday Eucharist and baptism. He was martyred around 165.",
-      "causes": [
-        "Pagan slanders and legal vulnerability of Christians"
-      ],
-      "consequences": [
-        "Logos theology",
-        "Model of Christian engagement with philosophy"
-      ],
-      "peopleIds": [
-        "justin-martyr"
-      ],
-      "doctrineIds": [
-        "christology",
-        "church-sacraments",
-        "baptism"
-      ],
-      "traditionIds": [
-        "early-church"
-      ],
-      "sources": [
-        "anf-npnf",
-        "chadwick-early-church"
-      ],
+      "causes": ["Pagan slanders and legal vulnerability of Christians"],
+      "consequences": ["Logos theology", "Model of Christian engagement with philosophy"],
+      "peopleIds": ["justin-martyr"],
+      "doctrineIds": ["christology", "church-sacraments", "baptism"],
+      "traditionIds": ["early-church"],
+      "sources": ["anf-npnf", "chadwick-early-church"],
       "confidence": "established"
     },
     {
@@ -762,38 +348,16 @@
       "title": "Martyrdom of Polycarp",
       "year": 155,
       "circa": true,
-      "place": {
-        "name": "Smyrna (İzmir)",
-        "lat": 38.4237,
-        "lng": 27.1428
-      },
+      "place": {"name": "Smyrna (İzmir)", "lat": 38.4237, "lng": 27.1428},
       "category": "persecution",
-      "regions": [
-        "asia-minor"
-      ],
+      "regions": ["asia-minor"],
       "summary": "The aged bishop Polycarp of Smyrna, a link to the apostle John, was burned in the stadium after refusing to swear by Caesar's genius: 'Eighty and six years have I served him'. The Martyrdom of Polycarp is the earliest martyr-acts and the first evidence for an annual commemoration at a martyr's tomb.",
-      "causes": [
-        "Local mob pressure during games",
-        "Refusal to offer the imperial oath"
-      ],
-      "consequences": [
-        "Beginning of the cult of martyrs and their relics",
-        "Model for later martyr literature"
-      ],
-      "peopleIds": [
-        "polycarp"
-      ],
-      "doctrineIds": [
-        "mary-saints"
-      ],
-      "traditionIds": [
-        "early-church"
-      ],
-      "sources": [
-        "eusebius-hist-eccl",
-        "anf-npnf",
-        "frend-rise"
-      ],
+      "causes": ["Local mob pressure during games", "Refusal to offer the imperial oath"],
+      "consequences": ["Beginning of the cult of martyrs and their relics", "Model for later martyr literature"],
+      "peopleIds": ["polycarp"],
+      "doctrineIds": ["mary-saints"],
+      "traditionIds": ["early-church"],
+      "sources": ["eusebius-hist-eccl", "anf-npnf", "frend-rise"],
       "confidence": "established"
     },
     {
@@ -801,41 +365,16 @@
       "title": "Rise of Montanism ('the New Prophecy')",
       "year": 156,
       "circa": true,
-      "place": {
-        "name": "Pepouza, Phrygia",
-        "lat": 38.65,
-        "lng": 29.25
-      },
+      "place": {"name": "Pepouza, Phrygia", "lat": 38.65, "lng": 29.25},
       "category": "schism",
-      "regions": [
-        "asia-minor",
-        "north-africa"
-      ],
+      "regions": ["asia-minor", "north-africa"],
       "summary": "In Phrygia, Montanus and the prophetesses Priscilla and Maximilla delivered ecstatic oracles in the first person of the Paraclete, called for rigorous fasting and expected the New Jerusalem at Pepouza. Bishops in Asia condemned the movement, but it spread to Rome and North Africa, where Tertullian embraced it.",
-      "causes": [
-        "Desire for renewed prophecy and moral rigour",
-        "Strong apocalyptic hopes in Asia Minor"
-      ],
-      "consequences": [
-        "Church leaders sharpen the distinction between apostolic and ongoing prophecy",
-        "Influence on debates about the canon and church authority"
-      ],
-      "peopleIds": [
-        "montanus",
-        "tertullian"
-      ],
-      "doctrineIds": [
-        "holy-spirit",
-        "eschatology"
-      ],
-      "traditionIds": [
-        "montanist"
-      ],
-      "sources": [
-        "trevett-montanism",
-        "eusebius-hist-eccl",
-        "frend-rise"
-      ],
+      "causes": ["Desire for renewed prophecy and moral rigour", "Strong apocalyptic hopes in Asia Minor"],
+      "consequences": ["Church leaders sharpen the distinction between apostolic and ongoing prophecy", "Influence on debates about the canon and church authority"],
+      "peopleIds": ["montanus", "tertullian"],
+      "doctrineIds": ["holy-spirit", "eschatology"],
+      "traditionIds": ["montanist"],
+      "sources": ["trevett-montanism", "eusebius-hist-eccl", "frend-rise"],
       "confidence": "debated"
     },
     {
@@ -843,35 +382,16 @@
       "title": "Tatian's Diatessaron and early Syriac Christianity",
       "year": 170,
       "circa": true,
-      "place": {
-        "name": "Edessa (Şanlıurfa)",
-        "lat": 37.1591,
-        "lng": 38.7969
-      },
+      "place": {"name": "Edessa (Şanlıurfa)", "lat": 37.1591, "lng": 38.7969},
       "category": "intellectual",
-      "regions": [
-        "mesopotamia-persia",
-        "levant"
-      ],
+      "regions": ["mesopotamia-persia", "levant"],
       "summary": "Tatian, a pupil of Justin, returned east and compiled the Diatessaron, a harmony of the four Gospels that became the standard Gospel text in Syriac-speaking churches until the fifth century. It reveals a vigorous Christianity in Mesopotamia with an ascetic bent.",
-      "causes": [
-        "Spread of Christianity among Syriac speakers"
-      ],
-      "consequences": [
-        "Ephrem's commentary on the Diatessaron",
-        "Later replacement by the Peshitta separate Gospels"
-      ],
+      "causes": ["Spread of Christianity among Syriac speakers"],
+      "consequences": ["Ephrem's commentary on the Diatessaron", "Later replacement by the Peshitta separate Gospels"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "early-church",
-        "church-of-the-east",
-        "syriac-orthodox"
-      ],
-      "sources": [
-        "baum-winkler-east",
-        "moffett-asia"
-      ],
+      "traditionIds": ["early-church", "church-of-the-east", "syriac-orthodox"],
+      "sources": ["baum-winkler-east", "moffett-asia"],
       "confidence": "debated"
     },
     {
@@ -879,34 +399,16 @@
       "title": "Martyrs of Lyon and Vienne",
       "year": 177,
       "circa": false,
-      "place": {
-        "name": "Lugdunum (Lyon)",
-        "lat": 45.764,
-        "lng": 4.8357
-      },
+      "place": {"name": "Lugdunum (Lyon)", "lat": 45.764, "lng": 4.8357},
       "category": "persecution",
-      "regions": [
-        "western-europe"
-      ],
+      "regions": ["western-europe"],
       "summary": "A mob-driven persecution killed some forty-eight Christians in Lyon, including the elderly bishop Pothinus and the slave girl Blandina, whose endurance was celebrated in a letter preserved by Eusebius. Irenaeus succeeded Pothinus as bishop.",
-      "causes": [
-        "Popular hostility and rumours of cannibalism and incest"
-      ],
-      "consequences": [
-        "Irenaeus becomes bishop",
-        "Widely read martyr letter shaping Christian ideals"
-      ],
-      "peopleIds": [
-        "irenaeus"
-      ],
+      "causes": ["Popular hostility and rumours of cannibalism and incest"],
+      "consequences": ["Irenaeus becomes bishop", "Widely read martyr letter shaping Christian ideals"],
+      "peopleIds": ["irenaeus"],
       "doctrineIds": [],
-      "traditionIds": [
-        "early-church"
-      ],
-      "sources": [
-        "eusebius-hist-eccl",
-        "frend-rise"
-      ],
+      "traditionIds": ["early-church"],
+      "sources": ["eusebius-hist-eccl", "frend-rise"],
       "confidence": "established"
     },
     {
@@ -914,31 +416,16 @@
       "title": "Scillitan martyrs: first dated Latin Christian text",
       "year": 180,
       "circa": false,
-      "place": {
-        "name": "Carthage",
-        "lat": 36.8528,
-        "lng": 10.3233
-      },
+      "place": {"name": "Carthage", "lat": 36.8528, "lng": 10.3233},
       "category": "persecution",
-      "regions": [
-        "north-africa"
-      ],
+      "regions": ["north-africa"],
       "summary": "On 17 July 180 twelve Christians from Scillium in Numidia were beheaded at Carthage after refusing to swear by the emperor. The Acts of the Scillitan Martyrs, which mention 'the books and letters of Paul', are the earliest dated Christian document in Latin and the first evidence of African Christianity.",
-      "causes": [
-        "Refusal of the imperial oath"
-      ],
-      "consequences": [
-        "North Africa emerges as a heartland of Latin Christianity"
-      ],
+      "causes": ["Refusal of the imperial oath"],
+      "consequences": ["North Africa emerges as a heartland of Latin Christianity"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "early-church"
-      ],
-      "sources": [
-        "frend-rise",
-        "isichei-africa"
-      ],
+      "traditionIds": ["early-church"],
+      "sources": ["frend-rise", "isichei-africa"],
       "confidence": "established"
     },
     {
@@ -946,43 +433,16 @@
       "title": "Irenaeus writes Against Heresies",
       "year": 180,
       "circa": true,
-      "place": {
-        "name": "Lugdunum (Lyon)",
-        "lat": 45.764,
-        "lng": 4.8357
-      },
+      "place": {"name": "Lugdunum (Lyon)", "lat": 45.764, "lng": 4.8357},
       "category": "intellectual",
-      "regions": [
-        "western-europe",
-        "asia-minor"
-      ],
+      "regions": ["western-europe", "asia-minor"],
       "summary": "Irenaeus, a native of Asia Minor taught by Polycarp, refuted Valentinian and other Gnostic systems. He appealed to the rule of faith, the four Gospels and the succession of bishops, and taught that Christ 'recapitulated' humanity, undoing Adam's fall.",
-      "causes": [
-        "Spread of Gnostic teachers in Gaul and Rome"
-      ],
-      "consequences": [
-        "Rule of faith and apostolic succession as tests of orthodoxy",
-        "Four-Gospel canon affirmed",
-        "Recapitulation theory of atonement"
-      ],
-      "peopleIds": [
-        "irenaeus",
-        "polycarp"
-      ],
-      "doctrineIds": [
-        "scripture-authority",
-        "atonement",
-        "christology"
-      ],
-      "traditionIds": [
-        "early-church",
-        "gnostic"
-      ],
-      "sources": [
-        "anf-npnf",
-        "kelly-doctrines",
-        "king-gnosticism"
-      ],
+      "causes": ["Spread of Gnostic teachers in Gaul and Rome"],
+      "consequences": ["Rule of faith and apostolic succession as tests of orthodoxy", "Four-Gospel canon affirmed", "Recapitulation theory of atonement"],
+      "peopleIds": ["irenaeus", "polycarp"],
+      "doctrineIds": ["scripture-authority", "atonement", "christology"],
+      "traditionIds": ["early-church", "gnostic"],
+      "sources": ["anf-npnf", "kelly-doctrines", "king-gnosticism"],
       "confidence": "established"
     },
     {
@@ -990,40 +450,16 @@
       "title": "Catechetical school of Alexandria under Pantaenus",
       "year": 180,
       "circa": true,
-      "place": {
-        "name": "Alexandria",
-        "lat": 31.2001,
-        "lng": 29.9187
-      },
+      "place": {"name": "Alexandria", "lat": 31.2001, "lng": 29.9187},
       "category": "intellectual",
-      "regions": [
-        "egypt",
-        "india"
-      ],
+      "regions": ["egypt", "india"],
       "summary": "Pantaenus, a converted Stoic, led the Christian school at Alexandria, followed by Clement and Origen. Eusebius reports that Pantaenus travelled to 'India' and found Christians there using a Gospel of Matthew in Hebrew letters — perhaps southern Arabia or India proper.",
-      "causes": [
-        "Alexandria's role as capital of Greek learning"
-      ],
-      "consequences": [
-        "Alexandrian allegorical exegesis",
-        "Christian Platonism of Clement and Origen"
-      ],
-      "peopleIds": [
-        "clement-of-alexandria",
-        "origen"
-      ],
-      "doctrineIds": [
-        "scripture-authority"
-      ],
-      "traditionIds": [
-        "early-church",
-        "coptic-orthodox"
-      ],
-      "sources": [
-        "eusebius-hist-eccl",
-        "atiya-eastern-christianity",
-        "chadwick-early-church"
-      ],
+      "causes": ["Alexandria's role as capital of Greek learning"],
+      "consequences": ["Alexandrian allegorical exegesis", "Christian Platonism of Clement and Origen"],
+      "peopleIds": ["clement-of-alexandria", "origen"],
+      "doctrineIds": ["scripture-authority"],
+      "traditionIds": ["early-church", "coptic-orthodox"],
+      "sources": ["eusebius-hist-eccl", "atiya-eastern-christianity", "chadwick-early-church"],
       "confidence": "debated"
     },
     {
@@ -1031,38 +467,16 @@
       "title": "Easter (Quartodeciman) controversy",
       "year": 190,
       "circa": true,
-      "place": {
-        "name": "Rome",
-        "lat": 41.8902,
-        "lng": 12.4922
-      },
+      "place": {"name": "Rome", "lat": 41.8902, "lng": 12.4922},
       "category": "liturgical",
-      "regions": [
-        "italy",
-        "asia-minor"
-      ],
+      "regions": ["italy", "asia-minor"],
       "summary": "Bishop Victor of Rome sought to excommunicate the churches of Asia, led by Polycrates of Ephesus, for keeping Easter on 14 Nisan rather than on Sunday. Irenaeus rebuked Victor for breaking communion over custom. The dispute foreshadowed later contests over Roman authority and the date of Easter.",
-      "causes": [
-        "Divergent Johannine and Roman paschal customs"
-      ],
-      "consequences": [
-        "Sunday Easter becomes the norm; settled further at Nicaea",
-        "Precedent for debates over papal authority"
-      ],
-      "peopleIds": [
-        "irenaeus",
-        "polycarp"
-      ],
-      "doctrineIds": [
-        "church-sacraments"
-      ],
-      "traditionIds": [
-        "early-church"
-      ],
-      "sources": [
-        "eusebius-hist-eccl",
-        "chadwick-early-church"
-      ],
+      "causes": ["Divergent Johannine and Roman paschal customs"],
+      "consequences": ["Sunday Easter becomes the norm; settled further at Nicaea", "Precedent for debates over papal authority"],
+      "peopleIds": ["irenaeus", "polycarp"],
+      "doctrineIds": ["church-sacraments"],
+      "traditionIds": ["early-church"],
+      "sources": ["eusebius-hist-eccl", "chadwick-early-church"],
       "confidence": "established"
     },
     {
@@ -1070,33 +484,16 @@
       "title": "Church building at Edessa recorded",
       "year": 201,
       "circa": false,
-      "place": {
-        "name": "Edessa (Şanlıurfa)",
-        "lat": 37.1591,
-        "lng": 38.7969
-      },
+      "place": {"name": "Edessa (Şanlıurfa)", "lat": 37.1591, "lng": 38.7969},
       "category": "liturgical",
-      "regions": [
-        "mesopotamia-persia"
-      ],
+      "regions": ["mesopotamia-persia"],
       "summary": "The Chronicle of Edessa records that a flood in 201 damaged 'the temple of the church of the Christians' — one of the earliest references anywhere to a dedicated church building. Edessa, under its Abgarid kings, was by now a centre of Syriac-speaking Christianity; claims that Abgar VIII became Christian are debated.",
-      "causes": [
-        "Growth of Christianity in Osrhoene"
-      ],
-      "consequences": [
-        "Edessa as the intellectual capital of Syriac Christianity"
-      ],
+      "causes": ["Growth of Christianity in Osrhoene"],
+      "consequences": ["Edessa as the intellectual capital of Syriac Christianity"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "early-church",
-        "church-of-the-east",
-        "syriac-orthodox"
-      ],
-      "sources": [
-        "baum-winkler-east",
-        "moffett-asia"
-      ],
+      "traditionIds": ["early-church", "church-of-the-east", "syriac-orthodox"],
+      "sources": ["baum-winkler-east", "moffett-asia"],
       "confidence": "debated"
     },
     {
@@ -1104,35 +501,16 @@
       "title": "Martyrdom of Perpetua and Felicity",
       "year": 203,
       "circa": false,
-      "place": {
-        "name": "Carthage",
-        "lat": 36.8528,
-        "lng": 10.3233
-      },
+      "place": {"name": "Carthage", "lat": 36.8528, "lng": 10.3233},
       "category": "persecution",
-      "regions": [
-        "north-africa"
-      ],
+      "regions": ["north-africa"],
       "summary": "Vibia Perpetua, a young noblewoman and nursing mother, and the pregnant slave Felicity were killed in the amphitheatre at Carthage with other catechumens. Perpetua's prison diary, with her visions, is among the earliest surviving writings by a Christian woman.",
-      "causes": [
-        "Severan measures against conversion"
-      ],
-      "consequences": [
-        "Widely read in North African churches, even in liturgy",
-        "Ideals of martyr courage across class and gender"
-      ],
-      "peopleIds": [
-        "perpetua",
-        "tertullian"
-      ],
+      "causes": ["Severan measures against conversion"],
+      "consequences": ["Widely read in North African churches, even in liturgy", "Ideals of martyr courage across class and gender"],
+      "peopleIds": ["perpetua", "tertullian"],
       "doctrineIds": [],
-      "traditionIds": [
-        "early-church"
-      ],
-      "sources": [
-        "anf-npnf",
-        "frend-rise"
-      ],
+      "traditionIds": ["early-church"],
+      "sources": ["anf-npnf", "frend-rise"],
       "confidence": "established"
     },
     {
@@ -1140,40 +518,16 @@
       "title": "Origen settles at Caesarea",
       "year": 231,
       "circa": true,
-      "place": {
-        "name": "Caesarea Maritima",
-        "lat": 32.5,
-        "lng": 34.892
-      },
+      "place": {"name": "Caesarea Maritima", "lat": 32.5, "lng": 34.892},
       "category": "intellectual",
-      "regions": [
-        "levant",
-        "egypt"
-      ],
+      "regions": ["levant", "egypt"],
       "summary": "After a conflict with Bishop Demetrius of Alexandria, Origen moved to Caesarea in Palestine, where he taught, preached and built a great library. His Hexapla, commentaries and On First Principles made him the most prolific and influential theologian of the century, though some speculations were later condemned.",
-      "causes": [
-        "Dispute over Origen's ordination outside Alexandria"
-      ],
-      "consequences": [
-        "Caesarea library later used by Eusebius and Jerome",
-        "Origenist controversies of the 4th–6th centuries"
-      ],
-      "peopleIds": [
-        "origen",
-        "eusebius-of-caesarea"
-      ],
-      "doctrineIds": [
-        "scripture-authority",
-        "trinity",
-        "eschatology"
-      ],
-      "traditionIds": [
-        "early-church"
-      ],
-      "sources": [
-        "chadwick-early-church",
-        "kelly-doctrines"
-      ],
+      "causes": ["Dispute over Origen's ordination outside Alexandria"],
+      "consequences": ["Caesarea library later used by Eusebius and Jerome", "Origenist controversies of the 4th–6th centuries"],
+      "peopleIds": ["origen", "eusebius-of-caesarea"],
+      "doctrineIds": ["scripture-authority", "trinity", "eschatology"],
+      "traditionIds": ["early-church"],
+      "sources": ["chadwick-early-church", "kelly-doctrines"],
       "confidence": "established"
     },
     {
@@ -1181,34 +535,16 @@
       "title": "House church of Dura-Europos",
       "year": 232,
       "circa": true,
-      "place": {
-        "name": "Dura-Europos",
-        "lat": 34.7469,
-        "lng": 40.7297
-      },
+      "place": {"name": "Dura-Europos", "lat": 34.7469, "lng": 40.7297},
       "category": "liturgical",
-      "regions": [
-        "mesopotamia-persia",
-        "levant"
-      ],
+      "regions": ["mesopotamia-persia", "levant"],
       "summary": "At the frontier city of Dura-Europos on the Euphrates, a private house was converted into a church around 232–240, with an assembly room and a baptistery painted with the Good Shepherd, Adam and Eve and the women at the tomb. Buried when the Persians besieged the city in 256, it is the oldest securely identified church building.",
-      "causes": [
-        "Growth of congregations in the eastern frontier"
-      ],
-      "consequences": [
-        "Key evidence for early Christian art and baptism"
-      ],
+      "causes": ["Growth of congregations in the eastern frontier"],
+      "consequences": ["Key evidence for early Christian art and baptism"],
       "peopleIds": [],
-      "doctrineIds": [
-        "baptism"
-      ],
-      "traditionIds": [
-        "early-church"
-      ],
-      "sources": [
-        "macculloch-christianity",
-        "frend-rise"
-      ],
+      "doctrineIds": ["baptism"],
+      "traditionIds": ["early-church"],
+      "sources": ["macculloch-christianity", "frend-rise"],
       "confidence": "established"
     },
     {
@@ -1217,43 +553,16 @@
       "year": 250,
       "endYear": 251,
       "circa": false,
-      "place": {
-        "name": "Rome",
-        "lat": 41.8902,
-        "lng": 12.4922
-      },
+      "place": {"name": "Rome", "lat": 41.8902, "lng": 12.4922},
       "category": "persecution",
-      "regions": [
-        "italy",
-        "north-africa",
-        "egypt",
-        "asia-minor"
-      ],
+      "regions": ["italy", "north-africa", "egypt", "asia-minor"],
       "summary": "Emperor Decius ordered all inhabitants to sacrifice to the gods and obtain a certificate (libellus). It was the first empire-wide persecution; Bishop Fabian of Rome died, Origen was tortured, and many Christians lapsed. The question of how to readmit the lapsed divided the churches.",
-      "causes": [
-        "Decius' programme to restore traditional religion amid crisis"
-      ],
-      "consequences": [
-        "Lapsi controversy",
-        "Novatianist schism",
-        "Cyprian's theology of the church's unity"
-      ],
-      "peopleIds": [
-        "cyprian",
-        "novatian",
-        "origen"
-      ],
-      "doctrineIds": [
-        "church-sacraments"
-      ],
-      "traditionIds": [
-        "early-church"
-      ],
-      "sources": [
-        "eusebius-hist-eccl",
-        "frend-rise",
-        "chadwick-early-church"
-      ],
+      "causes": ["Decius' programme to restore traditional religion amid crisis"],
+      "consequences": ["Lapsi controversy", "Novatianist schism", "Cyprian's theology of the church's unity"],
+      "peopleIds": ["cyprian", "novatian", "origen"],
+      "doctrineIds": ["church-sacraments"],
+      "traditionIds": ["early-church"],
+      "sources": ["eusebius-hist-eccl", "frend-rise", "chadwick-early-church"],
       "confidence": "established"
     },
     {
@@ -1261,39 +570,16 @@
       "title": "Novatianist schism",
       "year": 251,
       "circa": false,
-      "place": {
-        "name": "Rome",
-        "lat": 41.8902,
-        "lng": 12.4922
-      },
+      "place": {"name": "Rome", "lat": 41.8902, "lng": 12.4922},
       "category": "schism",
-      "regions": [
-        "italy",
-        "north-africa",
-        "asia-minor"
-      ],
+      "regions": ["italy", "north-africa", "asia-minor"],
       "summary": "When Cornelius was elected bishop of Rome and favoured readmitting penitent lapsed Christians, the rigorist presbyter Novatian was consecrated as rival bishop. His 'church of the pure' survived for centuries; Cyprian of Carthage sided with Cornelius.",
-      "causes": [
-        "Dispute over the lapsed after Decius"
-      ],
-      "consequences": [
-        "Rigorist churches lasting into the 5th century",
-        "Development of penitential discipline"
-      ],
-      "peopleIds": [
-        "novatian",
-        "cyprian"
-      ],
-      "doctrineIds": [
-        "church-sacraments"
-      ],
-      "traditionIds": [
-        "early-church"
-      ],
-      "sources": [
-        "eusebius-hist-eccl",
-        "chadwick-early-church"
-      ],
+      "causes": ["Dispute over the lapsed after Decius"],
+      "consequences": ["Rigorist churches lasting into the 5th century", "Development of penitential discipline"],
+      "peopleIds": ["novatian", "cyprian"],
+      "doctrineIds": ["church-sacraments"],
+      "traditionIds": ["early-church"],
+      "sources": ["eusebius-hist-eccl", "chadwick-early-church"],
       "confidence": "established"
     },
     {
@@ -1301,38 +587,16 @@
       "title": "Cyprian and Stephen dispute rebaptism",
       "year": 256,
       "circa": false,
-      "place": {
-        "name": "Carthage",
-        "lat": 36.8528,
-        "lng": 10.3233
-      },
+      "place": {"name": "Carthage", "lat": 36.8528, "lng": 10.3233},
       "category": "council",
-      "regions": [
-        "north-africa",
-        "italy"
-      ],
+      "regions": ["north-africa", "italy"],
       "summary": "African synods under Cyprian held that baptism outside the church was invalid and converts from schism must be baptized; Stephen of Rome insisted that such baptism be recognised by laying on of hands. The dispute, cut short by persecution, foreshadowed the Donatist conflict.",
-      "causes": [
-        "Converts from Novatianist and other groups"
-      ],
-      "consequences": [
-        "Augustine later develops the theory of valid but fruitless sacraments",
-        "Early test of Roman claims"
-      ],
-      "peopleIds": [
-        "cyprian"
-      ],
-      "doctrineIds": [
-        "baptism",
-        "church-sacraments"
-      ],
-      "traditionIds": [
-        "early-church"
-      ],
-      "sources": [
-        "frend-rise",
-        "kelly-doctrines"
-      ],
+      "causes": ["Converts from Novatianist and other groups"],
+      "consequences": ["Augustine later develops the theory of valid but fruitless sacraments", "Early test of Roman claims"],
+      "peopleIds": ["cyprian"],
+      "doctrineIds": ["baptism", "church-sacraments"],
+      "traditionIds": ["early-church"],
+      "sources": ["frend-rise", "kelly-doctrines"],
       "confidence": "established"
     },
     {
@@ -1340,34 +604,16 @@
       "title": "Valerian persecution and death of Cyprian",
       "year": 258,
       "circa": false,
-      "place": {
-        "name": "Carthage",
-        "lat": 36.8528,
-        "lng": 10.3233
-      },
+      "place": {"name": "Carthage", "lat": 36.8528, "lng": 10.3233},
       "category": "persecution",
-      "regions": [
-        "north-africa",
-        "italy"
-      ],
+      "regions": ["north-africa", "italy"],
       "summary": "Valerian's edicts targeted clergy and confiscated church property. Sixtus II of Rome was beheaded with his deacons and Cyprian of Carthage was executed on 14 September 258. Gallienus ended the persecution in 260, beginning forty years of relative peace.",
-      "causes": [
-        "Imperial crisis and search for scapegoats"
-      ],
-      "consequences": [
-        "Forty years' peace allowing growth and church building"
-      ],
-      "peopleIds": [
-        "cyprian"
-      ],
+      "causes": ["Imperial crisis and search for scapegoats"],
+      "consequences": ["Forty years' peace allowing growth and church building"],
+      "peopleIds": ["cyprian"],
       "doctrineIds": [],
-      "traditionIds": [
-        "early-church"
-      ],
-      "sources": [
-        "eusebius-hist-eccl",
-        "frend-rise"
-      ],
+      "traditionIds": ["early-church"],
+      "sources": ["eusebius-hist-eccl", "frend-rise"],
       "confidence": "established"
     },
     {
@@ -1375,35 +621,16 @@
       "title": "Shapur I deports Roman Christians to Persia",
       "year": 260,
       "circa": true,
-      "place": {
-        "name": "Gundeshapur (Beth Lapat), Persia",
-        "lat": 32.28,
-        "lng": 48.53
-      },
+      "place": {"name": "Gundeshapur (Beth Lapat), Persia", "lat": 32.28, "lng": 48.53},
       "category": "mission",
-      "regions": [
-        "mesopotamia-persia",
-        "levant"
-      ],
+      "regions": ["mesopotamia-persia", "levant"],
       "summary": "After capturing Antioch and the emperor Valerian, the Sasanian king Shapur I resettled thousands of Roman captives, many of them Christians, in Persian cities such as Gundeshapur. These communities, alongside native Syriac converts, strengthened the church that became the Church of the East.",
-      "causes": [
-        "Sasanian victories over Rome"
-      ],
-      "consequences": [
-        "Greek- and Syriac-speaking congregations in Persia",
-        "Later Persian suspicion of Christians as a Roman fifth column"
-      ],
+      "causes": ["Sasanian victories over Rome"],
+      "consequences": ["Greek- and Syriac-speaking congregations in Persia", "Later Persian suspicion of Christians as a Roman fifth column"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "early-church",
-        "church-of-the-east"
-      ],
-      "sources": [
-        "baum-winkler-east",
-        "moffett-asia",
-        "jenkins-lost-history"
-      ],
+      "traditionIds": ["early-church", "church-of-the-east"],
+      "sources": ["baum-winkler-east", "moffett-asia", "jenkins-lost-history"],
       "confidence": "established"
     },
     {
@@ -1411,38 +638,16 @@
       "title": "Synod of Antioch deposes Paul of Samosata",
       "year": 268,
       "circa": false,
-      "place": {
-        "name": "Antioch on the Orontes (Antakya)",
-        "lat": 36.2021,
-        "lng": 36.1606
-      },
+      "place": {"name": "Antioch on the Orontes (Antakya)", "lat": 36.2021, "lng": 36.1606},
       "category": "council",
-      "regions": [
-        "levant"
-      ],
+      "regions": ["levant"],
       "summary": "A synod at Antioch deposed its bishop Paul of Samosata for teaching that Jesus was a man indwelt by the divine Word rather than the Word incarnate. The synod rejected the term homoousios in Paul's sense — a fact later cited against Nicaea.",
-      "causes": [
-        "Adoptionist Christology",
-        "Paul's secular office under Zenobia"
-      ],
-      "consequences": [
-        "Precedent for synodal deposition of bishops",
-        "Complicated the later reception of homoousios"
-      ],
-      "peopleIds": [
-        "paul-of-samosata"
-      ],
-      "doctrineIds": [
-        "christology",
-        "trinity"
-      ],
-      "traditionIds": [
-        "early-church"
-      ],
-      "sources": [
-        "eusebius-hist-eccl",
-        "kelly-doctrines"
-      ],
+      "causes": ["Adoptionist Christology", "Paul's secular office under Zenobia"],
+      "consequences": ["Precedent for synodal deposition of bishops", "Complicated the later reception of homoousios"],
+      "peopleIds": ["paul-of-samosata"],
+      "doctrineIds": ["christology", "trinity"],
+      "traditionIds": ["early-church"],
+      "sources": ["eusebius-hist-eccl", "kelly-doctrines"],
       "confidence": "established"
     },
     {
@@ -1450,38 +655,16 @@
       "title": "Antony withdraws to the Egyptian desert",
       "year": 270,
       "circa": true,
-      "place": {
-        "name": "Monastery of St Antony, Eastern Desert",
-        "lat": 28.9244,
-        "lng": 32.3497
-      },
+      "place": {"name": "Monastery of St Antony, Eastern Desert", "lat": 28.9244, "lng": 32.3497},
       "category": "reform",
-      "regions": [
-        "egypt"
-      ],
+      "regions": ["egypt"],
       "summary": "Hearing the Gospel call to sell all, the Coptic peasant Antony gave away his property and withdrew progressively deeper into the desert, eventually to the Red Sea mountains. Athanasius' Life of Antony made him the model of the hermit and launched monasticism across the Christian world.",
-      "causes": [
-        "Gospel radicalism",
-        "Decline of martyrdom as the path of heroic witness"
-      ],
-      "consequences": [
-        "Eremitic monasticism",
-        "Life of Antony shapes Augustine's conversion and Western monasticism"
-      ],
-      "peopleIds": [
-        "antony-of-egypt",
-        "athanasius"
-      ],
+      "causes": ["Gospel radicalism", "Decline of martyrdom as the path of heroic witness"],
+      "consequences": ["Eremitic monasticism", "Life of Antony shapes Augustine's conversion and Western monasticism"],
+      "peopleIds": ["antony-of-egypt", "athanasius"],
       "doctrineIds": [],
-      "traditionIds": [
-        "early-church",
-        "coptic-orthodox"
-      ],
-      "sources": [
-        "anf-npnf",
-        "atiya-eastern-christianity",
-        "chadwick-early-church"
-      ],
+      "traditionIds": ["early-church", "coptic-orthodox"],
+      "sources": ["anf-npnf", "atiya-eastern-christianity", "chadwick-early-church"],
       "confidence": "established"
     },
     {
@@ -1489,37 +672,16 @@
       "title": "Conversion of Armenia",
       "year": 301,
       "circa": true,
-      "place": {
-        "name": "Vagharshapat (Etchmiadzin)",
-        "lat": 40.1619,
-        "lng": 44.2911
-      },
+      "place": {"name": "Vagharshapat (Etchmiadzin)", "lat": 40.1619, "lng": 44.2911},
       "category": "mission",
-      "regions": [
-        "armenia-caucasus"
-      ],
+      "regions": ["armenia-caucasus"],
       "summary": "According to Armenian tradition, Gregory the Illuminator, after years in a pit at Khor Virap, healed King Tiridates III, who made Christianity the religion of the kingdom — traditionally dated 301, though many scholars prefer c. 314. Armenia thus claims to be the first Christian state, with Etchmiadzin as its mother cathedral.",
-      "causes": [
-        "Missionary work of Gregory, trained in Cappadocian Caesarea",
-        "Armenian desire to distinguish itself from Persia"
-      ],
-      "consequences": [
-        "First state church",
-        "Armenian Apostolic Church and later Armenian alphabet and literature"
-      ],
-      "peopleIds": [
-        "gregory-the-illuminator"
-      ],
+      "causes": ["Missionary work of Gregory, trained in Cappadocian Caesarea", "Armenian desire to distinguish itself from Persia"],
+      "consequences": ["First state church", "Armenian Apostolic Church and later Armenian alphabet and literature"],
+      "peopleIds": ["gregory-the-illuminator"],
       "doctrineIds": [],
-      "traditionIds": [
-        "armenian-apostolic",
-        "early-church"
-      ],
-      "sources": [
-        "atiya-eastern-christianity",
-        "macculloch-christianity",
-        "roberson-eastern-churches"
-      ],
+      "traditionIds": ["armenian-apostolic", "early-church"],
+      "sources": ["atiya-eastern-christianity", "macculloch-christianity", "roberson-eastern-churches"],
       "confidence": "debated"
     },
     {
@@ -1528,39 +690,16 @@
       "year": 303,
       "endYear": 311,
       "circa": false,
-      "place": {
-        "name": "Nicomedia (İzmit)",
-        "lat": 40.7654,
-        "lng": 29.9408
-      },
+      "place": {"name": "Nicomedia (İzmit)", "lat": 40.7654, "lng": 29.9408},
       "category": "persecution",
-      "regions": [
-        "asia-minor",
-        "egypt",
-        "levant",
-        "north-africa",
-        "italy"
-      ],
+      "regions": ["asia-minor", "egypt", "levant", "north-africa", "italy"],
       "summary": "Beginning on 23 February 303 at Nicomedia, Diocletian and Galerius ordered churches destroyed, Scriptures surrendered and eventually universal sacrifice. The persecution was harshest in Egypt and the East, lasting until Galerius' edict of toleration in 311 (and later under Maximinus Daia).",
-      "causes": [
-        "Tetrarchic drive for religious unity",
-        "Galerius' hostility to Christians"
-      ],
-      "consequences": [
-        "Thousands of martyrs, especially in Egypt (the Coptic 'Era of Martyrs' calendar dates from 284)",
-        "Traditores controversy leading to Donatism",
-        "Failure of persecution paves way for Constantine"
-      ],
+      "causes": ["Tetrarchic drive for religious unity", "Galerius' hostility to Christians"],
+      "consequences": ["Thousands of martyrs, especially in Egypt (the Coptic 'Era of Martyrs' calendar dates from 284)", "Traditores controversy leading to Donatism", "Failure of persecution paves way for Constantine"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "early-church",
-        "coptic-orthodox"
-      ],
-      "sources": [
-        "eusebius-hist-eccl",
-        "frend-rise"
-      ],
+      "traditionIds": ["early-church", "coptic-orthodox"],
+      "sources": ["eusebius-hist-eccl", "frend-rise"],
       "confidence": "established"
     },
     {
@@ -1568,39 +707,16 @@
       "title": "Donatist schism in North Africa",
       "year": 311,
       "circa": true,
-      "place": {
-        "name": "Carthage",
-        "lat": 36.8528,
-        "lng": 10.3233
-      },
+      "place": {"name": "Carthage", "lat": 36.8528, "lng": 10.3233},
       "category": "schism",
-      "regions": [
-        "north-africa"
-      ],
+      "regions": ["north-africa"],
       "summary": "Many Numidian bishops rejected Caecilian as bishop of Carthage because one of his consecrators was alleged to be a traditor who had handed over Scriptures in the persecution. They elected Majorinus, then Donatus, creating a rival church of the martyrs that dominated parts of Africa for a century.",
-      "causes": [
-        "Bitterness over traditores",
-        "Cyprianic theology of a pure church"
-      ],
-      "consequences": [
-        "Imperial intervention (Council of Arles 314)",
-        "Augustine's theology of church and sacraments",
-        "Use of coercion against dissenters"
-      ],
-      "peopleIds": [
-        "augustine-of-hippo"
-      ],
-      "doctrineIds": [
-        "church-sacraments",
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "donatist"
-      ],
-      "sources": [
-        "frend-donatist",
-        "chadwick-early-church"
-      ],
+      "causes": ["Bitterness over traditores", "Cyprianic theology of a pure church"],
+      "consequences": ["Imperial intervention (Council of Arles 314)", "Augustine's theology of church and sacraments", "Use of coercion against dissenters"],
+      "peopleIds": ["augustine-of-hippo"],
+      "doctrineIds": ["church-sacraments", "ethics-church-state"],
+      "traditionIds": ["donatist"],
+      "sources": ["frend-donatist", "chadwick-early-church"],
       "confidence": "established"
     },
     {
@@ -1608,39 +724,16 @@
       "title": "Edict of Milan",
       "year": 313,
       "circa": false,
-      "place": {
-        "name": "Mediolanum (Milan)",
-        "lat": 45.4642,
-        "lng": 9.19
-      },
+      "place": {"name": "Mediolanum (Milan)", "lat": 45.4642, "lng": 9.19},
       "category": "political",
-      "regions": [
-        "italy",
-        "global"
-      ],
+      "regions": ["italy", "global"],
       "summary": "Meeting at Milan, Constantine and Licinius agreed to grant Christians and all others freedom of worship and to restore confiscated church property. Following Constantine's victory at the Milvian Bridge (312) under the sign of Christ, it began the transformation of Christianity into the favoured religion of the empire.",
-      "causes": [
-        "Constantine's conversion",
-        "Failure of the Great Persecution"
-      ],
-      "consequences": [
-        "Imperial patronage, basilica building and clerical privileges",
-        "Emperor's involvement in church disputes"
-      ],
-      "peopleIds": [
-        "constantine-i"
-      ],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "early-church"
-      ],
-      "sources": [
-        "eusebius-hist-eccl",
-        "chadwick-early-church",
-        "macculloch-christianity"
-      ],
+      "causes": ["Constantine's conversion", "Failure of the Great Persecution"],
+      "consequences": ["Imperial patronage, basilica building and clerical privileges", "Emperor's involvement in church disputes"],
+      "peopleIds": ["constantine-i"],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["early-church"],
+      "sources": ["eusebius-hist-eccl", "chadwick-early-church", "macculloch-christianity"],
       "confidence": "established"
     },
     {
@@ -1648,33 +741,16 @@
       "title": "Pachomius founds communal monasticism",
       "year": 320,
       "circa": true,
-      "place": {
-        "name": "Tabennisi, Upper Egypt",
-        "lat": 26.1,
-        "lng": 32.6
-      },
+      "place": {"name": "Tabennisi, Upper Egypt", "lat": 26.1, "lng": 32.6},
       "category": "reform",
-      "regions": [
-        "egypt"
-      ],
+      "regions": ["egypt"],
       "summary": "Pachomius, a former soldier, organised monks in the Thebaid into a koinonia of monasteries with a written rule, shared labour and obedience to an abbot. By his death in 346 thousands followed his system, the model for cenobitic monasticism East and West.",
-      "causes": [
-        "Growth of desert asceticism"
-      ],
-      "consequences": [
-        "Cenobitic rule, later influential on Basil and Benedict",
-        "Coptic monastic culture"
-      ],
+      "causes": ["Growth of desert asceticism"],
+      "consequences": ["Cenobitic rule, later influential on Basil and Benedict", "Coptic monastic culture"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "early-church",
-        "coptic-orthodox"
-      ],
-      "sources": [
-        "atiya-eastern-christianity",
-        "chadwick-early-church"
-      ],
+      "traditionIds": ["early-church", "coptic-orthodox"],
+      "sources": ["atiya-eastern-christianity", "chadwick-early-church"],
       "confidence": "established"
     },
     {
@@ -1682,48 +758,17 @@
       "title": "First Council of Nicaea",
       "year": 325,
       "circa": false,
-      "place": {
-        "name": "Nicaea (İznik)",
-        "lat": 40.4292,
-        "lng": 29.7211
-      },
+      "place": {"name": "Nicaea (İznik)", "lat": 40.4292, "lng": 29.7211},
       "category": "council",
-      "regions": [
-        "asia-minor",
-        "global"
-      ],
+      "regions": ["asia-minor", "global"],
       "summary": "Convened by Constantine, some 250–300 bishops condemned Arius' teaching that the Son was a creature and declared the Son 'of one substance' (homoousios) with the Father. The council also set the date of Easter and issued canons on church order, including the precedence of Alexandria, Rome and Antioch.",
       "longText": "The crisis began in Alexandria around 318 when the presbyter Arius taught that the Son of God, though first and highest of creatures, 'was not before he was begotten' — there was when he was not. Bishop Alexander, with his deacon Athanasius, saw this as undermining salvation itself: only one who is truly God can unite humanity to God. Constantine, newly sole ruler and eager for unity, summoned bishops mostly from the East to the lakeside town of Nicaea in May–June 325. The creed they adopted, built on an existing baptismal creed, added anti-Arian phrases — 'from the substance of the Father', 'true God from true God', 'begotten not made', 'homoousios' — with anathemas. Arius and two bishops refused to sign and were exiled. Nicaea did not end the controversy: homoousios was suspect to many as unscriptural or Sabellian, and for half a century imperial policy swung toward Homoian compromises until Constantinople (381). Nevertheless, Nicaea became the template for ecumenical councils and its creed (as expanded in 381) is confessed by Catholic, Orthodox, Oriental Orthodox, Church of the East and most Protestant churches. Nontrinitarian groups regard it as a departure from apostolic teaching under imperial pressure; its defenders reply that it articulated the faith already present in Scripture and worship.",
-      "causes": [
-        "Arian controversy in Alexandria",
-        "Constantine's desire for unity"
-      ],
-      "consequences": [
-        "Nicene Creed and homoousios",
-        "Arian/Homoian controversy for 56 years",
-        "Model of imperially summoned ecumenical council",
-        "Easter computation unified"
-      ],
-      "peopleIds": [
-        "constantine-i",
-        "arius",
-        "athanasius",
-        "eusebius-of-caesarea"
-      ],
-      "doctrineIds": [
-        "trinity",
-        "christology"
-      ],
-      "traditionIds": [
-        "early-church",
-        "arian-homoian"
-      ],
-      "sources": [
-        "tanner-decrees",
-        "kelly-creeds",
-        "hanson-search",
-        "chadwick-early-church"
-      ],
+      "causes": ["Arian controversy in Alexandria", "Constantine's desire for unity"],
+      "consequences": ["Nicene Creed and homoousios", "Arian/Homoian controversy for 56 years", "Model of imperially summoned ecumenical council", "Easter computation unified"],
+      "peopleIds": ["constantine-i", "arius", "athanasius", "eusebius-of-caesarea"],
+      "doctrineIds": ["trinity", "christology"],
+      "traditionIds": ["early-church", "arian-homoian"],
+      "sources": ["tanner-decrees", "kelly-creeds", "hanson-search", "chadwick-early-church"],
       "confidence": "established"
     },
     {
@@ -1731,38 +776,16 @@
       "title": "Dedication of Constantinople",
       "year": 330,
       "circa": false,
-      "place": {
-        "name": "Constantinople (Istanbul)",
-        "lat": 41.0082,
-        "lng": 28.9784
-      },
+      "place": {"name": "Constantinople (Istanbul)", "lat": 41.0082, "lng": 28.9784},
       "category": "political",
-      "regions": [
-        "greece-balkans",
-        "asia-minor"
-      ],
+      "regions": ["greece-balkans", "asia-minor"],
       "summary": "Constantine refounded Byzantium as 'New Rome', dedicated on 11 May 330, with churches such as Holy Apostles. Its bishop would rise to second rank after Rome (381) and become the Ecumenical Patriarch, centre of Byzantine Orthodoxy for over a thousand years.",
-      "causes": [
-        "Strategic need for an eastern capital"
-      ],
-      "consequences": [
-        "Rivalry between Old and New Rome",
-        "Byzantine imperial church"
-      ],
-      "peopleIds": [
-        "constantine-i"
-      ],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "early-church",
-        "eastern-orthodox"
-      ],
-      "sources": [
-        "hussey-byzantine",
-        "macculloch-christianity"
-      ],
+      "causes": ["Strategic need for an eastern capital"],
+      "consequences": ["Rivalry between Old and New Rome", "Byzantine imperial church"],
+      "peopleIds": ["constantine-i"],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["early-church", "eastern-orthodox"],
+      "sources": ["hussey-byzantine", "macculloch-christianity"],
       "confidence": "established"
     },
     {
@@ -1770,39 +793,16 @@
       "title": "Conversion of the kingdom of Aksum",
       "year": 330,
       "circa": true,
-      "place": {
-        "name": "Aksum",
-        "lat": 14.1211,
-        "lng": 38.7234
-      },
+      "place": {"name": "Aksum", "lat": 14.1211, "lng": 38.7234},
       "category": "mission",
-      "regions": [
-        "ethiopia-nubia"
-      ],
+      "regions": ["ethiopia-nubia"],
       "summary": "Frumentius, a Syrian Christian captured as a youth and raised at the Aksumite court, was consecrated bishop by Athanasius of Alexandria and returned to evangelise. King Ezana's coins shift from pagan crescent-and-disc to the cross around 340, making Aksum one of the first Christian states.",
-      "causes": [
-        "Red Sea trade and Christian merchants",
-        "Frumentius' influence at court"
-      ],
-      "consequences": [
-        "Ethiopian church dependent on Alexandria for its bishop (abuna) until 1959",
-        "Ethiopian Orthodox Tewahedo tradition"
-      ],
-      "peopleIds": [
-        "frumentius",
-        "ezana-of-aksum",
-        "athanasius"
-      ],
+      "causes": ["Red Sea trade and Christian merchants", "Frumentius' influence at court"],
+      "consequences": ["Ethiopian church dependent on Alexandria for its bishop (abuna) until 1959", "Ethiopian Orthodox Tewahedo tradition"],
+      "peopleIds": ["frumentius", "ezana-of-aksum", "athanasius"],
       "doctrineIds": [],
-      "traditionIds": [
-        "ethiopian-orthodox-tewahedo",
-        "early-church"
-      ],
-      "sources": [
-        "isichei-africa",
-        "hastings-church-in-africa",
-        "atiya-eastern-christianity"
-      ],
+      "traditionIds": ["ethiopian-orthodox-tewahedo", "early-church"],
+      "sources": ["isichei-africa", "hastings-church-in-africa", "atiya-eastern-christianity"],
       "confidence": "established"
     },
     {
@@ -1810,35 +810,16 @@
       "title": "Conversion of Georgia (Kartli) through Nino",
       "year": 337,
       "circa": true,
-      "place": {
-        "name": "Mtskheta",
-        "lat": 41.8455,
-        "lng": 44.7208
-      },
+      "place": {"name": "Mtskheta", "lat": 41.8455, "lng": 44.7208},
       "category": "mission",
-      "regions": [
-        "armenia-caucasus"
-      ],
+      "regions": ["armenia-caucasus"],
       "summary": "Georgian tradition holds that Nino, a captive woman from Cappadocia, healed Queen Nana and converted King Mirian III of Kartli, who adopted Christianity around 326–337. Rufinus records the story within decades. The Svetitskhoveli cathedral at Mtskheta marks the site.",
-      "causes": [
-        "Influence of Roman and Armenian Christianity"
-      ],
-      "consequences": [
-        "Georgian Orthodox Church",
-        "Georgian script and literature developed for Christian texts"
-      ],
-      "peopleIds": [
-        "nino-of-georgia"
-      ],
+      "causes": ["Influence of Roman and Armenian Christianity"],
+      "consequences": ["Georgian Orthodox Church", "Georgian script and literature developed for Christian texts"],
+      "peopleIds": ["nino-of-georgia"],
       "doctrineIds": [],
-      "traditionIds": [
-        "eastern-orthodox",
-        "early-church"
-      ],
-      "sources": [
-        "roberson-eastern-churches",
-        "atiya-eastern-christianity"
-      ],
+      "traditionIds": ["eastern-orthodox", "early-church"],
+      "sources": ["roberson-eastern-churches", "atiya-eastern-christianity"],
       "confidence": "debated"
     },
     {
@@ -1847,34 +828,16 @@
       "year": 340,
       "endYear": 379,
       "circa": true,
-      "place": {
-        "name": "Karka d-Ledan (near Susa)",
-        "lat": 32.19,
-        "lng": 48.25
-      },
+      "place": {"name": "Karka d-Ledan (near Susa)", "lat": 32.19, "lng": 48.25},
       "category": "persecution",
-      "regions": [
-        "mesopotamia-persia"
-      ],
+      "regions": ["mesopotamia-persia"],
       "summary": "After Rome became Christian, the Sasanian king Shapur II treated his Christian subjects as potential traitors and imposed a double tax. The catholicos Simeon bar Sabbae refused to collect it and was executed around 344; thousands of martyrs followed over forty years.",
-      "causes": [
-        "Roman–Persian wars",
-        "Constantine's letter to Shapur as patron of Christians"
-      ],
-      "consequences": [
-        "Martyr Acts of the Persian church",
-        "Church of the East's careful distancing from Roman church politics"
-      ],
+      "causes": ["Roman–Persian wars", "Constantine's letter to Shapur as patron of Christians"],
+      "consequences": ["Martyr Acts of the Persian church", "Church of the East's careful distancing from Roman church politics"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "church-of-the-east"
-      ],
-      "sources": [
-        "baum-winkler-east",
-        "moffett-asia",
-        "jenkins-lost-history"
-      ],
+      "traditionIds": ["church-of-the-east"],
+      "sources": ["baum-winkler-east", "moffett-asia", "jenkins-lost-history"],
       "confidence": "established"
     },
     {
@@ -1882,35 +845,16 @@
       "title": "Ulfilas consecrated bishop for the Goths",
       "year": 341,
       "circa": true,
-      "place": {
-        "name": "Nicopolis ad Istrum (lower Danube)",
-        "lat": 43.2,
-        "lng": 25.6
-      },
+      "place": {"name": "Nicopolis ad Istrum (lower Danube)", "lat": 43.2, "lng": 25.6},
       "category": "mission",
-      "regions": [
-        "greece-balkans",
-        "eastern-europe"
-      ],
+      "regions": ["greece-balkans", "eastern-europe"],
       "summary": "Ulfilas (Wulfila), of Cappadocian captive descent, was consecrated bishop by Eusebius of Nicomedia and evangelised the Goths, inventing a Gothic alphabet to translate the Bible. Because his theology was Homoian, the Germanic peoples who followed the Goths were largely 'Arian' Christians for two centuries.",
-      "causes": [
-        "Gothic contacts with the empire"
-      ],
-      "consequences": [
-        "Gothic Bible",
-        "Homoian Christianity among Goths, Vandals and Lombards"
-      ],
+      "causes": ["Gothic contacts with the empire"],
+      "consequences": ["Gothic Bible", "Homoian Christianity among Goths, Vandals and Lombards"],
       "peopleIds": [],
-      "doctrineIds": [
-        "trinity"
-      ],
-      "traditionIds": [
-        "arian-homoian"
-      ],
-      "sources": [
-        "chadwick-early-church",
-        "hanson-search"
-      ],
+      "doctrineIds": ["trinity"],
+      "traditionIds": ["arian-homoian"],
+      "sources": ["chadwick-early-church", "hanson-search"],
       "confidence": "established"
     },
     {
@@ -1918,36 +862,16 @@
       "title": "Edict of Thessalonica",
       "year": 380,
       "circa": false,
-      "place": {
-        "name": "Thessalonica",
-        "lat": 40.6401,
-        "lng": 22.9444
-      },
+      "place": {"name": "Thessalonica", "lat": 40.6401, "lng": 22.9444},
       "category": "political",
-      "regions": [
-        "greece-balkans",
-        "global"
-      ],
+      "regions": ["greece-balkans", "global"],
       "summary": "Emperor Theodosius I decreed that all peoples should hold the faith of Damasus of Rome and Peter of Alexandria — Nicene Trinitarianism — branding others heretics. Nicene Christianity thus became the official religion of the empire.",
-      "causes": [
-        "Theodosius' Nicene convictions"
-      ],
-      "consequences": [
-        "Legal suppression of heresy and later paganism",
-        "Union of orthodoxy and imperial law"
-      ],
+      "causes": ["Theodosius' Nicene convictions"],
+      "consequences": ["Legal suppression of heresy and later paganism", "Union of orthodoxy and imperial law"],
       "peopleIds": [],
-      "doctrineIds": [
-        "ethics-church-state",
-        "trinity"
-      ],
-      "traditionIds": [
-        "early-church"
-      ],
-      "sources": [
-        "chadwick-early-church",
-        "macculloch-christianity"
-      ],
+      "doctrineIds": ["ethics-church-state", "trinity"],
+      "traditionIds": ["early-church"],
+      "sources": ["chadwick-early-church", "macculloch-christianity"],
       "confidence": "established"
     },
     {
@@ -1955,46 +879,17 @@
       "title": "First Council of Constantinople",
       "year": 381,
       "circa": false,
-      "place": {
-        "name": "Constantinople (Istanbul)",
-        "lat": 41.0082,
-        "lng": 28.9784
-      },
+      "place": {"name": "Constantinople (Istanbul)", "lat": 41.0082, "lng": 28.9784},
       "category": "council",
-      "regions": [
-        "greece-balkans",
-        "asia-minor",
-        "global"
-      ],
+      "regions": ["greece-balkans", "asia-minor", "global"],
       "summary": "Called by Theodosius, about 150 eastern bishops reaffirmed Nicaea, condemned Homoian and Pneumatomachian teaching and confessed the Holy Spirit 'the Lord, the giver of life, who proceeds from the Father, who with the Father and the Son is worshipped and glorified'. The resulting Niceno-Constantinopolitan Creed is the most widely used Christian creed.",
       "longText": "By 381 the Cappadocian Fathers — Basil (d. 379), Gregory of Nazianzus and Gregory of Nyssa — had clarified the vocabulary of one ousia (essence) in three hypostases, allowing many who had hesitated over homoousios to accept Nicaea. The council, presided over first by Meletius of Antioch and then briefly by Gregory of Nazianzus (who resigned amid factional disputes), confirmed the Nicene faith and affirmed the full deity of the Holy Spirit without using homoousios for the Spirit. Its third canon gave Constantinople 'the prerogative of honour after the Bishop of Rome, because it is New Rome' — a claim Rome long resisted. The creed associated with it was formally recognised at Chalcedon in 451. The later Western addition of 'and the Son' (Filioque) to its article on the Spirit became a central Catholic–Orthodox dispute. Nontrinitarian bodies regard the creed as philosophical development; Trinitarian churches see it as safeguarding biblical worship of Father, Son and Spirit.",
-      "causes": [
-        "Continuing Homoian and Pneumatomachian controversies",
-        "Theodosius' accession"
-      ],
-      "consequences": [
-        "Niceno-Constantinopolitan Creed",
-        "End of imperial support for Arianism in the East",
-        "Rise of Constantinople's status"
-      ],
-      "peopleIds": [
-        "gregory-of-nazianzus",
-        "gregory-of-nyssa",
-        "basil-of-caesarea"
-      ],
-      "doctrineIds": [
-        "trinity",
-        "holy-spirit"
-      ],
-      "traditionIds": [
-        "early-church",
-        "arian-homoian"
-      ],
-      "sources": [
-        "tanner-decrees",
-        "kelly-creeds",
-        "hanson-search"
-      ],
+      "causes": ["Continuing Homoian and Pneumatomachian controversies", "Theodosius' accession"],
+      "consequences": ["Niceno-Constantinopolitan Creed", "End of imperial support for Arianism in the East", "Rise of Constantinople's status"],
+      "peopleIds": ["gregory-of-nazianzus", "gregory-of-nyssa", "basil-of-caesarea"],
+      "doctrineIds": ["trinity", "holy-spirit"],
+      "traditionIds": ["early-church", "arian-homoian"],
+      "sources": ["tanner-decrees", "kelly-creeds", "hanson-search"],
       "confidence": "established"
     },
     {
@@ -2003,38 +898,16 @@
       "year": 382,
       "endYear": 405,
       "circa": true,
-      "place": {
-        "name": "Bethlehem",
-        "lat": 31.7054,
-        "lng": 35.2024
-      },
+      "place": {"name": "Bethlehem", "lat": 31.7054, "lng": 35.2024},
       "category": "intellectual",
-      "regions": [
-        "levant",
-        "italy"
-      ],
+      "regions": ["levant", "italy"],
       "summary": "Commissioned by Pope Damasus to revise the Latin Gospels, Jerome later settled in Bethlehem and translated most of the Old Testament from Hebrew. His Vulgate became the standard Latin Bible of the Western church for a thousand years and was declared authentic by Trent.",
-      "causes": [
-        "Confusion of Old Latin versions"
-      ],
-      "consequences": [
-        "Standard Western Bible",
-        "Debates on Hebrew vs Septuagint canon"
-      ],
-      "peopleIds": [
-        "jerome"
-      ],
-      "doctrineIds": [
-        "scripture-authority"
-      ],
-      "traditionIds": [
-        "early-church",
-        "catholic"
-      ],
-      "sources": [
-        "odcc",
-        "chadwick-early-church"
-      ],
+      "causes": ["Confusion of Old Latin versions"],
+      "consequences": ["Standard Western Bible", "Debates on Hebrew vs Septuagint canon"],
+      "peopleIds": ["jerome"],
+      "doctrineIds": ["scripture-authority"],
+      "traditionIds": ["early-church", "catholic"],
+      "sources": ["odcc", "chadwick-early-church"],
       "confidence": "established"
     },
     {
@@ -2042,36 +915,16 @@
       "title": "Council of Carthage and the biblical canon",
       "year": 397,
       "circa": false,
-      "place": {
-        "name": "Carthage",
-        "lat": 36.8528,
-        "lng": 10.3233
-      },
+      "place": {"name": "Carthage", "lat": 36.8528, "lng": 10.3233},
       "category": "council",
-      "regions": [
-        "north-africa"
-      ],
+      "regions": ["north-africa"],
       "summary": "Repeating the Synod of Hippo (393), the Council of Carthage listed the books of Scripture, including the 27 books of the New Testament and an Old Testament with the books Protestants call deuterocanonical or apocrypha. Augustine took part. It was a regional decision, confirmed by later African and Roman acts.",
-      "causes": [
-        "Need for a fixed public reading list"
-      ],
-      "consequences": [
-        "Western canon later reaffirmed at Florence and Trent",
-        "Reference point for Catholic–Protestant canon debates"
-      ],
-      "peopleIds": [
-        "augustine-of-hippo"
-      ],
-      "doctrineIds": [
-        "scripture-authority"
-      ],
-      "traditionIds": [
-        "early-church"
-      ],
-      "sources": [
-        "kelly-doctrines",
-        "odcc"
-      ],
+      "causes": ["Need for a fixed public reading list"],
+      "consequences": ["Western canon later reaffirmed at Florence and Trent", "Reference point for Catholic–Protestant canon debates"],
+      "peopleIds": ["augustine-of-hippo"],
+      "doctrineIds": ["scripture-authority"],
+      "traditionIds": ["early-church"],
+      "sources": ["kelly-doctrines", "odcc"],
       "confidence": "established"
     },
     {
@@ -2079,36 +932,16 @@
       "title": "Mesrop Mashtots creates the Armenian alphabet",
       "year": 405,
       "circa": true,
-      "place": {
-        "name": "Vagharshapat (Etchmiadzin)",
-        "lat": 40.1619,
-        "lng": 44.2911
-      },
+      "place": {"name": "Vagharshapat (Etchmiadzin)", "lat": 40.1619, "lng": 44.2911},
       "category": "mission",
-      "regions": [
-        "armenia-caucasus"
-      ],
+      "regions": ["armenia-caucasus"],
       "summary": "With Catholicos Sahak and King Vramshapuh's support, Mesrop Mashtots devised an alphabet so the Armenian people could read Scripture and liturgy in their own tongue. The Bible translation that followed launched a golden age of Armenian literature.",
-      "causes": [
-        "Christian worship in Greek and Syriac not understood by the people"
-      ],
-      "consequences": [
-        "Armenian Bible and liturgy",
-        "Durable Armenian national-Christian identity"
-      ],
-      "peopleIds": [
-        "mesrop-mashtots"
-      ],
-      "doctrineIds": [
-        "scripture-authority"
-      ],
-      "traditionIds": [
-        "armenian-apostolic"
-      ],
-      "sources": [
-        "atiya-eastern-christianity",
-        "roberson-eastern-churches"
-      ],
+      "causes": ["Christian worship in Greek and Syriac not understood by the people"],
+      "consequences": ["Armenian Bible and liturgy", "Durable Armenian national-Christian identity"],
+      "peopleIds": ["mesrop-mashtots"],
+      "doctrineIds": ["scripture-authority"],
+      "traditionIds": ["armenian-apostolic"],
+      "sources": ["atiya-eastern-christianity", "roberson-eastern-churches"],
       "confidence": "established"
     },
     {
@@ -2116,35 +949,16 @@
       "title": "Synod of Seleucia-Ctesiphon organises the Persian church",
       "year": 410,
       "circa": false,
-      "place": {
-        "name": "Seleucia-Ctesiphon",
-        "lat": 33.0936,
-        "lng": 44.5808
-      },
+      "place": {"name": "Seleucia-Ctesiphon", "lat": 33.0936, "lng": 44.5808},
       "category": "council",
-      "regions": [
-        "mesopotamia-persia"
-      ],
+      "regions": ["mesopotamia-persia"],
       "summary": "With the permission of Shah Yazdegerd I, the bishops of Persia met under Catholicos Isaac, accepted the Nicene Creed and organised their church into provinces under the bishop of Seleucia-Ctesiphon. The synod of 424 under Dadisho later declared the catholicos independent of 'Western' fathers.",
-      "causes": [
-        "Truce between Rome and Persia",
-        "Mission of Bishop Marutha of Maypherqat"
-      ],
-      "consequences": [
-        "Structure of the Church of the East",
-        "Ecclesiastical independence from Antioch"
-      ],
+      "causes": ["Truce between Rome and Persia", "Mission of Bishop Marutha of Maypherqat"],
+      "consequences": ["Structure of the Church of the East", "Ecclesiastical independence from Antioch"],
       "peopleIds": [],
-      "doctrineIds": [
-        "trinity"
-      ],
-      "traditionIds": [
-        "church-of-the-east"
-      ],
-      "sources": [
-        "baum-winkler-east",
-        "moffett-asia"
-      ],
+      "doctrineIds": ["trinity"],
+      "traditionIds": ["church-of-the-east"],
+      "sources": ["baum-winkler-east", "moffett-asia"],
       "confidence": "established"
     },
     {
@@ -2152,40 +966,16 @@
       "title": "Sack of Rome by Alaric",
       "year": 410,
       "circa": false,
-      "place": {
-        "name": "Rome",
-        "lat": 41.8902,
-        "lng": 12.4922
-      },
+      "place": {"name": "Rome", "lat": 41.8902, "lng": 12.4922},
       "category": "political",
-      "regions": [
-        "italy",
-        "north-africa"
-      ],
+      "regions": ["italy", "north-africa"],
       "summary": "The Visigoths under Alaric, themselves Homoian Christians, sacked Rome for three days in August 410. Pagans blamed the abandonment of the gods; Augustine responded with The City of God, contrasting the earthly and heavenly cities.",
-      "causes": [
-        "Collapse of Roman frontier defences"
-      ],
-      "consequences": [
-        "Augustine's City of God",
-        "Christian reflection on history and empire"
-      ],
-      "peopleIds": [
-        "augustine-of-hippo",
-        "jerome"
-      ],
-      "doctrineIds": [
-        "ethics-church-state",
-        "eschatology"
-      ],
-      "traditionIds": [
-        "early-church",
-        "arian-homoian"
-      ],
-      "sources": [
-        "brown-rise-western",
-        "chadwick-early-church"
-      ],
+      "causes": ["Collapse of Roman frontier defences"],
+      "consequences": ["Augustine's City of God", "Christian reflection on history and empire"],
+      "peopleIds": ["augustine-of-hippo", "jerome"],
+      "doctrineIds": ["ethics-church-state", "eschatology"],
+      "traditionIds": ["early-church", "arian-homoian"],
+      "sources": ["brown-rise-western", "chadwick-early-church"],
       "confidence": "established"
     },
     {
@@ -2193,40 +983,16 @@
       "title": "Council of Carthage condemns Pelagianism",
       "year": 418,
       "circa": false,
-      "place": {
-        "name": "Carthage",
-        "lat": 36.8528,
-        "lng": 10.3233
-      },
+      "place": {"name": "Carthage", "lat": 36.8528, "lng": 10.3233},
       "category": "council",
-      "regions": [
-        "north-africa",
-        "italy"
-      ],
+      "regions": ["north-africa", "italy"],
       "summary": "African bishops, led by Augustine's theology, condemned teachings associated with Pelagius and Caelestius: that Adam's sin harmed only himself, that infants are born without original sin, and that grace merely assists free will. Pope Zosimus and Emperor Honorius followed; the Council of Ephesus (431) confirmed the condemnation.",
-      "causes": [
-        "Pelagius' moral reform preaching in Rome",
-        "Augustine's doctrine of grace"
-      ],
-      "consequences": [
-        "Augustinian doctrine of original sin and grace in the West",
-        "Semi-Pelagian debates leading to Orange (529)"
-      ],
-      "peopleIds": [
-        "pelagius",
-        "augustine-of-hippo"
-      ],
-      "doctrineIds": [
-        "salvation"
-      ],
-      "traditionIds": [
-        "early-church"
-      ],
-      "sources": [
-        "kelly-doctrines",
-        "mcgrath-iustitia",
-        "brown-rise-western"
-      ],
+      "causes": ["Pelagius' moral reform preaching in Rome", "Augustine's doctrine of grace"],
+      "consequences": ["Augustinian doctrine of original sin and grace in the West", "Semi-Pelagian debates leading to Orange (529)"],
+      "peopleIds": ["pelagius", "augustine-of-hippo"],
+      "doctrineIds": ["salvation"],
+      "traditionIds": ["early-church"],
+      "sources": ["kelly-doctrines", "mcgrath-iustitia", "brown-rise-western"],
       "confidence": "established"
     },
     {
@@ -2234,48 +1000,17 @@
       "title": "Council of Ephesus",
       "year": 431,
       "circa": false,
-      "place": {
-        "name": "Ephesus",
-        "lat": 37.9411,
-        "lng": 27.3419
-      },
+      "place": {"name": "Ephesus", "lat": 37.9411, "lng": 27.3419},
       "category": "council",
-      "regions": [
-        "asia-minor",
-        "egypt",
-        "mesopotamia-persia"
-      ],
+      "regions": ["asia-minor", "egypt", "mesopotamia-persia"],
       "summary": "Convoked by Theodosius II, the council led by Cyril of Alexandria deposed Nestorius of Constantinople, who had objected to calling Mary Theotokos ('God-bearer'), and affirmed the single subject of the incarnate Word. John of Antioch's party held a rival meeting; a Formula of Reunion followed in 433. Churches of the Syriac East never accepted the condemnation of Nestorius.",
       "longText": "The controversy turned on how to speak of Christ's unity. Nestorius, trained in the Antiochene tradition that stressed the full and distinct humanity of Christ, preferred 'Christotokos' to 'Theotokos', fearing the latter confused the divine and human. Cyril of Alexandria saw in this a division of Christ into two sons and insisted that the eternal Word himself was born, suffered and died in the flesh; Mary is therefore Mother of God. Cyril opened the council on 22 June 431 before the Antiochene bishops arrived and deposed Nestorius; John of Antioch's party, arriving days later, deposed Cyril. The emperor eventually upheld Nestorius' deposition and he died in exile in Egypt. The 433 Formula of Reunion — 'a union of two natures' — reconciled Cyril and John. The council is recognised as the Third Ecumenical Council by Catholic, Orthodox and Oriental Orthodox churches. The Church of the East, which venerated Theodore of Mopsuestia, never accepted it and is often (inaccurately, in its own view) called 'Nestorian'; a 1994 Common Christological Declaration with Rome acknowledged a shared faith expressed in different terms.",
-      "causes": [
-        "Nestorius' preaching against Theotokos",
-        "Rivalry between Alexandria and Constantinople",
-        "Antiochene vs Alexandrian Christology"
-      ],
-      "consequences": [
-        "Theotokos affirmed and Marian devotion strengthened",
-        "Estrangement of the Church of the East",
-        "Pelagianism condemned again",
-        "Set the stage for Chalcedon"
-      ],
-      "peopleIds": [
-        "cyril-of-alexandria",
-        "nestorius"
-      ],
-      "doctrineIds": [
-        "christology",
-        "mary-saints"
-      ],
-      "traditionIds": [
-        "early-church",
-        "church-of-the-east"
-      ],
-      "sources": [
-        "tanner-decrees",
-        "meyendorff-imperial-unity",
-        "baum-winkler-east",
-        "kelly-doctrines"
-      ],
+      "causes": ["Nestorius' preaching against Theotokos", "Rivalry between Alexandria and Constantinople", "Antiochene vs Alexandrian Christology"],
+      "consequences": ["Theotokos affirmed and Marian devotion strengthened", "Estrangement of the Church of the East", "Pelagianism condemned again", "Set the stage for Chalcedon"],
+      "peopleIds": ["cyril-of-alexandria", "nestorius"],
+      "doctrineIds": ["christology", "mary-saints"],
+      "traditionIds": ["early-church", "church-of-the-east"],
+      "sources": ["tanner-decrees", "meyendorff-imperial-unity", "baum-winkler-east", "kelly-doctrines"],
       "confidence": "established"
     },
     {
@@ -2283,35 +1018,16 @@
       "title": "Patrick's mission to Ireland",
       "year": 432,
       "circa": true,
-      "place": {
-        "name": "Armagh",
-        "lat": 54.3503,
-        "lng": -6.6528
-      },
+      "place": {"name": "Armagh", "lat": 54.3503, "lng": -6.6528},
       "category": "mission",
-      "regions": [
-        "northern-europe"
-      ],
+      "regions": ["northern-europe"],
       "summary": "Patrick, a Romano-British Christian once enslaved in Ireland, returned as bishop and evangelised the north, as his Confession recounts. The traditional date of 432 is uncertain; Palladius had been sent by Pope Celestine in 431. Irish monastic Christianity later sent missionaries across Europe.",
-      "causes": [
-        "Patrick's sense of divine call"
-      ],
-      "consequences": [
-        "Irish monastic church",
-        "Celtic missions to Scotland, England and the continent"
-      ],
-      "peopleIds": [
-        "patrick"
-      ],
+      "causes": ["Patrick's sense of divine call"],
+      "consequences": ["Irish monastic church", "Celtic missions to Scotland, England and the continent"],
+      "peopleIds": ["patrick"],
       "doctrineIds": [],
-      "traditionIds": [
-        "early-church",
-        "catholic"
-      ],
-      "sources": [
-        "odcc",
-        "brown-rise-western"
-      ],
+      "traditionIds": ["early-church", "catholic"],
+      "sources": ["odcc", "brown-rise-western"],
       "confidence": "debated"
     },
     {
@@ -2319,39 +1035,16 @@
       "title": "Second Council of Ephesus ('Robber Council')",
       "year": 449,
       "circa": false,
-      "place": {
-        "name": "Ephesus",
-        "lat": 37.9411,
-        "lng": 27.3419
-      },
+      "place": {"name": "Ephesus", "lat": 37.9411, "lng": 27.3419},
       "category": "council",
-      "regions": [
-        "asia-minor",
-        "egypt"
-      ],
+      "regions": ["asia-minor", "egypt"],
       "summary": "Presided over by Dioscorus of Alexandria, the council rehabilitated the monk Eutyches, deposed Flavian of Constantinople (who died soon after) and refused to read Leo's Tome. Leo called it a latrocinium ('robbery'); Oriental Orthodox churches regard its condemnation as unjust to Dioscorus.",
-      "causes": [
-        "Eutyches' condemnation in 448",
-        "Alexandrian–Constantinopolitan rivalry"
-      ],
-      "consequences": [
-        "Council of Chalcedon called to reverse it"
-      ],
-      "peopleIds": [
-        "dioscorus",
-        "leo-i"
-      ],
-      "doctrineIds": [
-        "christology"
-      ],
-      "traditionIds": [
-        "early-church",
-        "oriental-orthodox"
-      ],
-      "sources": [
-        "meyendorff-imperial-unity",
-        "tanner-decrees"
-      ],
+      "causes": ["Eutyches' condemnation in 448", "Alexandrian–Constantinopolitan rivalry"],
+      "consequences": ["Council of Chalcedon called to reverse it"],
+      "peopleIds": ["dioscorus", "leo-i"],
+      "doctrineIds": ["christology"],
+      "traditionIds": ["early-church", "oriental-orthodox"],
+      "sources": ["meyendorff-imperial-unity", "tanner-decrees"],
       "confidence": "established"
     }
   ]

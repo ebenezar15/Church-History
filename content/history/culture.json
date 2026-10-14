@@ -1,0 +1,1122 @@
+{
+  "cultures": [
+    {
+      "id": "culture-apostolic-age",
+      "eraId": "apostolic-age",
+      "architectureDiagram": "house-church",
+      "sources": ["bible", "chadwick-early-church", "macculloch-christianity", "frend-rise"],
+      "panels": [
+        {
+          "topic": "worship",
+          "title": "Meals, prayers and the breaking of bread",
+          "text": "Believers met in homes on the first day of the week for teaching, prayer and a shared meal that included the Lord's Supper (Acts 2:42; 1 Corinthians 11). Jewish believers in Jerusalem also continued to frequent the Temple until 70. Baptism, usually by immersion 'in the name of Jesus' or of Father, Son and Spirit, marked entry.",
+          "regions": ["levant", "asia-minor", "greece-balkans"]
+        },
+        {
+          "topic": "music",
+          "title": "Psalms, hymns and spiritual songs",
+          "text": "Worship inherited the synagogue's chanting of psalms, and early Christological hymns are probably embedded in Paul's letters (Philippians 2:6–11; Colossians 1:15–20). Singing was unaccompanied; Paul urges believers to sing 'psalms, hymns and spiritual songs' (Ephesians 5:19).",
+          "regions": ["levant", "greece-balkans"]
+        },
+        {
+          "topic": "architecture",
+          "title": "The house church",
+          "text": "There were no church buildings: congregations met in the homes of patrons such as Lydia, Prisca and Aquila, Philemon and Nympha. A wealthy villa's dining room might hold thirty to forty people, so a city's church was a network of household assemblies.",
+          "regions": ["levant", "asia-minor", "greece-balkans", "italy"]
+        },
+        {
+          "topic": "art",
+          "title": "An aniconic beginning",
+          "text": "No Christian art survives from the first century. Inheriting the Jewish prohibition of images, believers expressed faith through words, gestures and symbols such as baptismal water and bread; visual art appears only in the late second century.",
+          "regions": ["levant"]
+        },
+        {
+          "topic": "monasticism",
+          "title": "Celibacy and itinerancy",
+          "text": "There were no monasteries, but itinerant apostles and prophets renounced home and possessions, and Paul commended celibacy for undivided devotion (1 Corinthians 7). Widows devoted to prayer formed a recognised group (1 Timothy 5).",
+          "regions": ["levant"]
+        },
+        {
+          "topic": "calendar",
+          "title": "The Lord's Day",
+          "text": "Christians gathered on 'the first day of the week', the day of resurrection, which came to be called the Lord's Day (Revelation 1:10). Jewish believers kept the Sabbath and festivals; an annual Pascha commemorating Christ's death and resurrection grew out of Passover.",
+          "regions": ["levant", "asia-minor"]
+        },
+        {
+          "topic": "women",
+          "title": "Patrons, prophets and co-workers",
+          "text": "Women were among Jesus' disciples and the first witnesses of the resurrection. Paul greets female co-workers — Phoebe the deacon, Prisca, Junia 'prominent among the apostles' — and women prophesied in worship; how far other texts restrict their roles is debated across traditions.",
+          "regions": ["levant", "greece-balkans", "italy"]
+        },
+        {
+          "topic": "education",
+          "title": "Oral teaching and letters",
+          "text": "Teaching passed orally through apostles, teachers and catechesis, and through letters read aloud in assemblies. The Jewish Scriptures in Greek (the Septuagint) were the church's Bible; the Gospels were written in the latter half of the century.",
+          "regions": ["levant", "greece-balkans"]
+        },
+        {
+          "topic": "missions",
+          "title": "From Jerusalem to Rome",
+          "text": "The movement spread along synagogue networks and Roman roads to Antioch, Asia Minor, Greece and Rome, and by tradition to Alexandria, Edessa and India. By 100 there were perhaps 7,000–10,000 Christians, mostly urban.",
+          "regions": ["levant", "asia-minor", "greece-balkans", "italy", "egypt", "mesopotamia-persia", "india"]
+        },
+        {
+          "topic": "persecution",
+          "title": "Local hostility and Nero",
+          "text": "Believers faced synagogue discipline, mob violence and local magistrates; Stephen and James son of Zebedee were killed in Jerusalem. Nero's persecution in 64 was the first by Roman authority, and Revelation reflects pressure from the imperial cult in Asia.",
+          "regions": ["levant", "italy", "asia-minor"]
+        },
+        {
+          "topic": "judaism",
+          "title": "A movement within Judaism",
+          "text": "The earliest believers were Jews who saw Jesus as Israel's Messiah; debate over Gentile inclusion was an intra-Jewish argument. After 70 the paths of the rabbinic movement and the increasingly Gentile church gradually diverged, though the 'parting of the ways' was long and uneven.",
+          "regions": ["levant"]
+        },
+        {
+          "topic": "islam",
+          "title": "Before Islam: paganism and the imperial cult",
+          "text": "Islam had not yet arisen. Christians lived among Greco-Roman polytheism, mystery cults and the cult of the emperor, which they refused to join; in Parthian Mesopotamia they encountered Zoroastrian and Babylonian traditions.",
+          "regions": ["italy", "asia-minor", "mesopotamia-persia"]
+        },
+        {
+          "topic": "state",
+          "title": "Render to Caesar",
+          "text": "Christians had no legal recognition and were at first regarded as a Jewish sect. New Testament writers urge prayer for and submission to rulers (Romans 13; 1 Peter 2) while Revelation portrays imperial Rome as a beast — the beginning of a lasting tension.",
+          "regions": ["italy", "levant"]
+        }
+      ]
+    },
+    {
+      "id": "culture-apostolic-fathers",
+      "eraId": "apostolic-fathers",
+      "architectureDiagram": "house-church",
+      "sources": ["anf-npnf", "chadwick-early-church", "frend-rise", "macculloch-christianity"],
+      "panels": [
+        {
+          "topic": "worship",
+          "title": "Eucharist and baptism ordered",
+          "text": "The Didache and Justin Martyr describe Sunday gatherings with Scripture readings, a sermon by the presider, prayers, the kiss of peace and the Eucharist taken to the absent by deacons. Baptism followed fasting and instruction; the bishop increasingly presided.",
+          "regions": ["italy", "levant", "asia-minor"]
+        },
+        {
+          "topic": "music",
+          "title": "Hymns to Christ",
+          "text": "Pliny reports Christians singing 'a hymn to Christ as to a god' at dawn. The Odes of Solomon, a Syriac or Greek hymnbook of the early second century, show a lyrical Christianity in the East.",
+          "regions": ["asia-minor", "mesopotamia-persia"]
+        },
+        {
+          "topic": "architecture",
+          "title": "Homes and meeting halls",
+          "text": "Christians still met in private houses and rented halls; Justin says he taught 'above the baths of Myrtinus' in Rome. Burial grounds owned by Christian families foreshadowed the catacombs.",
+          "regions": ["italy", "asia-minor"]
+        },
+        {
+          "topic": "art",
+          "title": "First symbols",
+          "text": "Simple symbols appear: the fish (ichthys), anchor, dove and Good Shepherd, often borrowed from pagan art and given Christian meaning. Clement of Alexandria advises suitable images for signet rings.",
+          "regions": ["italy", "egypt"]
+        },
+        {
+          "topic": "monasticism",
+          "title": "Ascetics and virgins",
+          "text": "Dedicated virgins and continent men lived ascetic lives within congregations. In Syria an ideal of celibate 'sons and daughters of the covenant' was strong, and Tatian's circle (Encratites) required celibacy of all believers.",
+          "regions": ["levant", "mesopotamia-persia", "egypt"]
+        },
+        {
+          "topic": "calendar",
+          "title": "Easter and martyrs' days",
+          "text": "Annual Pascha was universal, but Asia kept it on 14 Nisan while Rome kept Sunday, provoking the Quartodeciman controversy. Smyrna began commemorating Polycarp's 'birthday' into heaven, the origin of saints' days.",
+          "regions": ["asia-minor", "italy"]
+        },
+        {
+          "topic": "women",
+          "title": "Martyrs, prophetesses and widows",
+          "text": "Women led in Montanist prophecy and died alongside men at Lyon (Blandina). Orders of widows and virgins were recognised, while some writers increasingly restricted women's teaching as office became more structured.",
+          "regions": ["asia-minor", "western-europe"]
+        },
+        {
+          "topic": "education",
+          "title": "Apologists and schools",
+          "text": "Educated converts like Justin and Athenagoras wrote apologies addressed to emperors, and teachers ran philosophical schools in Rome and Alexandria. Catechumens received instruction lasting up to three years.",
+          "regions": ["italy", "egypt"]
+        },
+        {
+          "topic": "missions",
+          "title": "Through the cities of the empire and beyond",
+          "text": "Christianity reached Gaul, North Africa and Upper Egypt, while Syriac-speaking Christianity grew around Edessa and Adiabene beyond the Roman frontier. Merchants, slaves and soldiers spread the faith more than professional missionaries.",
+          "regions": ["north-africa", "western-europe", "mesopotamia-persia", "egypt"]
+        },
+        {
+          "topic": "persecution",
+          "title": "Illegal but rarely hunted",
+          "text": "Under Trajan's policy Christians were not sought out but, if accused and obstinate, were executed. Local pogroms killed Polycarp (Smyrna), the martyrs of Lyon and the Scillitans; rumours of cannibalism and incest were common.",
+          "regions": ["asia-minor", "western-europe", "north-africa"]
+        },
+        {
+          "topic": "judaism",
+          "title": "Rival claims to Israel's Scriptures",
+          "text": "Justin's Dialogue with Trypho reflects real debate with Jews over messianic prophecy. After the Bar Kokhba revolt, separation hardened; Melito of Sardis' Peri Pascha voiced the charge of 'deicide' that later fed Christian anti-Judaism.",
+          "regions": ["levant", "italy"]
+        },
+        {
+          "topic": "islam",
+          "title": "Before Islam: paganism and philosophy",
+          "text": "Islam had not yet arisen. Christians debated pagan critics such as Celsus and Lucian, and engaged Platonism and Stoicism; Gnostic and Marcionite groups were rival forms of Christianity.",
+          "regions": ["italy", "egypt", "mesopotamia-persia"]
+        },
+        {
+          "topic": "state",
+          "title": "Loyal subjects, not worshippers",
+          "text": "Apologists insisted Christians prayed for emperors and paid taxes but could not sacrifice to them. The church had no legal status, though it owned property informally through members.",
+          "regions": ["italy"]
+        }
+      ]
+    },
+    {
+      "id": "culture-persecution-early-theology",
+      "eraId": "persecution-early-theology",
+      "architectureDiagram": "catacomb",
+      "sources": ["anf-npnf", "frend-rise", "chadwick-early-church", "baum-winkler-east"],
+      "panels": [
+        {
+          "topic": "worship",
+          "title": "Liturgy takes shape",
+          "text": "The Apostolic Tradition attributed to Hippolytus preserves a eucharistic prayer and a demanding catechumenate culminating in Easter baptism. Church orders like the Syriac Didascalia regulate seating, ministry and penance; public penance for serious sins developed after the persecutions.",
+          "regions": ["italy", "north-africa", "mesopotamia-persia"]
+        },
+        {
+          "topic": "music",
+          "title": "Psalmody and early hymns",
+          "text": "The Oxyrhynchus hymn (late 3rd century) is the earliest Christian hymn with musical notation. Syriac Christians sang Bardaisan's hymns, which Ephrem later countered with orthodox ones.",
+          "regions": ["egypt", "mesopotamia-persia"]
+        },
+        {
+          "topic": "architecture",
+          "title": "Catacombs and first church buildings",
+          "text": "Roman Christians buried their dead in underground catacombs such as that of Callixtus, where martyrs were venerated. Converted houses like Dura-Europos and, by 300, purpose-built halls (Nicomedia's church was visible from the palace) appeared.",
+          "regions": ["italy", "mesopotamia-persia", "north-africa"]
+        },
+        {
+          "topic": "art",
+          "title": "Catacomb frescoes",
+          "text": "Paintings show Jonah, Daniel, Noah, the raising of Lazarus, the Good Shepherd and orants (praying figures) — images of deliverance and resurrection. Dura's baptistery and its neighbouring synagogue with biblical murals show shared Jewish and Christian visual culture.",
+          "regions": ["italy", "levant"]
+        },
+        {
+          "topic": "monasticism",
+          "title": "Into the desert",
+          "text": "Around 270 Antony withdrew into the Egyptian desert, and solitaries gathered around holy men. Syriac 'covenanters' (bnay qyama) lived consecrated celibate lives in local churches.",
+          "regions": ["egypt", "mesopotamia-persia"]
+        },
+        {
+          "topic": "calendar",
+          "title": "Lent, Easter and Pentecost",
+          "text": "A pre-Easter fast was lengthening toward forty days, and the fifty days of Easter ended at Pentecost. The Coptic 'Era of the Martyrs' calendar counts years from Diocletian's accession in 284.",
+          "regions": ["egypt", "north-africa"]
+        },
+        {
+          "topic": "women",
+          "title": "Martyrs and deaconesses",
+          "text": "Perpetua's prison diary is the earliest Christian woman's text. The Didascalia describes deaconesses who assisted at women's baptisms and visited women in their homes.",
+          "regions": ["north-africa", "mesopotamia-persia"]
+        },
+        {
+          "topic": "education",
+          "title": "Origen and the school of Caesarea",
+          "text": "Origen's curriculum at Caesarea moved from logic and physics to ethics and theology, culminating in Scripture. Christians debated whether pagan learning was 'spoils of Egypt' or dangerous; Tertullian asked 'What has Athens to do with Jerusalem?'.",
+          "regions": ["egypt", "levant"]
+        },
+        {
+          "topic": "missions",
+          "title": "A growing minority",
+          "text": "By 300 perhaps 5–10% of the empire was Christian, with strongholds in Asia Minor, North Africa and Egypt, where Coptic translation reached villages. Armenia became the first Christian kingdom, and Roman deportees strengthened the church in Persia.",
+          "regions": ["armenia-caucasus", "mesopotamia-persia", "north-africa", "egypt"]
+        },
+        {
+          "topic": "persecution",
+          "title": "Empire-wide persecution",
+          "text": "Decius (250) demanded universal sacrifice, Valerian (257–58) targeted clergy and property, and Diocletian's Great Persecution (303–311) destroyed churches and Scriptures. Thousands died, and the question of lapsed Christians and traditores split churches.",
+          "regions": ["italy", "north-africa", "egypt", "asia-minor"]
+        },
+        {
+          "topic": "judaism",
+          "title": "Adversus Judaeos and coexistence",
+          "text": "Tertullian and Cyprian wrote treatises 'Against the Jews', while in daily life Christians and Jews in cities like Antioch and Dura lived side by side and some Christians attended synagogue. Origen consulted Jewish scholars for the Hexapla.",
+          "regions": ["north-africa", "levant"]
+        },
+        {
+          "topic": "islam",
+          "title": "Before Islam: Manichaeism and Zoroastrianism",
+          "text": "Islam had not yet arisen. In Persia the Zoroastrian Sasanian state and the new Manichaean religion (Mani d. 276) competed with Christianity; in the Roman world Neoplatonism, led by Plotinus and Porphyry, offered a pagan intellectual alternative.",
+          "regions": ["mesopotamia-persia", "north-africa"]
+        },
+        {
+          "topic": "state",
+          "title": "From persecution to toleration",
+          "text": "Periods of peace (260–303) allowed bishops to own property openly, but the state could still demand sacrifice. Galerius' deathbed edict of 311 grudgingly tolerated Christians, preparing for Constantine.",
+          "regions": ["italy", "asia-minor"]
+        }
+      ]
+    },
+    {
+      "id": "culture-imperial-church",
+      "eraId": "imperial-church",
+      "architectureDiagram": "basilica",
+      "sources": ["chadwick-early-church", "macculloch-christianity", "brown-rise-western", "atiya-eastern-christianity"],
+      "panels": [
+        {
+          "topic": "worship",
+          "title": "Public liturgy",
+          "text": "Worship moved into great basilicas with processions, vestments, incense and lamps. Liturgical families formed — the Antiochene (St James, St Basil, St John Chrysostom), Alexandrian (St Mark), Roman, Gallican and East Syriac (Addai and Mari) — and Egeria's diary describes Jerusalem's Holy Week.",
+          "regions": ["italy", "levant", "greece-balkans", "mesopotamia-persia"]
+        },
+        {
+          "topic": "music",
+          "title": "Antiphonal psalmody and Ephrem's hymns",
+          "text": "Ambrose introduced antiphonal hymn-singing in Milan, and his metrical hymns became models. In the Syriac church Ephrem's madrashe were sung by women's choirs; Arians and Nicenes competed with processional hymns in Constantinople.",
+          "regions": ["italy", "mesopotamia-persia", "levant"]
+        },
+        {
+          "topic": "architecture",
+          "title": "The basilica",
+          "text": "Constantine built monumental basilicas — the Lateran, St Peter's, the Holy Sepulchre, Bethlehem's Nativity — on the plan of a Roman hall with nave, aisles and apse. Martyria and baptisteries followed; in Aksum, Ezana built early stone churches.",
+          "regions": ["italy", "levant", "north-africa", "ethiopia-nubia"]
+        },
+        {
+          "topic": "art",
+          "title": "Mosaics and the image of Christ",
+          "text": "Apse mosaics like Santa Pudenziana in Rome (c. 400) show Christ enthroned as teacher among the apostles. The Chi-Rho monogram adorned shields and coins; some, like Eusebius, doubted the propriety of images of Christ.",
+          "regions": ["italy", "levant"]
+        },
+        {
+          "topic": "monasticism",
+          "title": "Desert fathers and mothers",
+          "text": "Pachomius organised communal monasteries; the Desert Fathers and Mothers of Scetis and Nitria gave rise to the Sayings tradition; Basil wrote monastic rules; Martin of Tours and John Cassian brought monasticism to Gaul. Syrian stylites, beginning with Simeon (c. 423), lived atop pillars.",
+          "regions": ["egypt", "levant", "asia-minor", "mesopotamia-persia", "western-europe"]
+        },
+        {
+          "topic": "calendar",
+          "title": "Christmas and Epiphany",
+          "text": "Rome celebrated Christ's nativity on 25 December by 336, while the East kept 6 January (Epiphany); the Armenian church still celebrates the Nativity on 6 January. Nicaea set Easter on the Sunday after the spring full moon, and Lent became a forty-day fast.",
+          "regions": ["italy", "egypt", "armenia-caucasus"]
+        },
+        {
+          "topic": "women",
+          "title": "Ascetic women and patrons",
+          "text": "Women like Macrina, Olympias, Melania the Elder and Paula founded monasteries and funded scholarship; Egeria wrote a pilgrim diary. The empress Helena's pilgrimage made holy-land devotion popular.",
+          "regions": ["levant", "asia-minor", "italy"]
+        },
+        {
+          "topic": "education",
+          "title": "Fathers of the Church",
+          "text": "Bishops trained in classical rhetoric — the Cappadocians, Chrysostom, Augustine, Jerome — produced the classic literature of patristic theology. The School of Edessa taught Syriac theology, and Mesrop's Armenian alphabet launched a vernacular literature.",
+          "regions": ["asia-minor", "north-africa", "mesopotamia-persia"]
+        },
+        {
+          "topic": "missions",
+          "title": "Beyond the empire",
+          "text": "Frumentius evangelised Aksum, Nino Georgia, Ulfilas the Goths (as Homoians), Patrick Ireland. Christians spread in Arabia (Najran) and along the Persian Gulf, and the Persian church organised in 410.",
+          "regions": ["ethiopia-nubia", "armenia-caucasus", "eastern-europe", "northern-europe", "arabia"]
+        },
+        {
+          "topic": "persecution",
+          "title": "Persecution in Persia",
+          "text": "Roman persecution ended, but Shapur II's forty-year persecution of Persian Christians after 340 produced many martyrs. Within the empire Christians now persecuted pagans, Jews and heretics; Donatists and Nicene and Arian factions also suffered under rival regimes.",
+          "regions": ["mesopotamia-persia"]
+        },
+        {
+          "topic": "judaism",
+          "title": "Imperial Christianity and the synagogue",
+          "text": "Imperial laws restricted Jewish proselytism and synagogue building, and Chrysostom's sermons in Antioch voiced harsh polemic. Augustine argued Jews should be preserved as witnesses to Scripture, a doctrine that both protected and marginalised Jewish communities in the West.",
+          "regions": ["levant", "italy"]
+        },
+        {
+          "topic": "islam",
+          "title": "Before Islam: the end of official paganism",
+          "text": "Islam had not yet arisen. Theodosius banned pagan sacrifice (391–392); temples were closed or destroyed, such as the Serapeum of Alexandria (391), and Hypatia's murder (415) became a symbol of Christian violence. In Persia, Zoroastrian clergy pressed for persecution.",
+          "regions": ["italy", "egypt", "mesopotamia-persia"]
+        },
+        {
+          "topic": "state",
+          "title": "Christian emperors",
+          "text": "Emperors convened councils, enforced orthodoxy and granted clergy legal privileges. Ambrose's confrontation with Theodosius and Augustine's City of God articulated limits to imperial power, foreshadowing distinct Western and Byzantine visions.",
+          "regions": ["italy", "greece-balkans"]
+        }
+      ]
+    },
+    {
+      "id": "culture-late-antiquity",
+      "eraId": "late-antiquity",
+      "architectureDiagram": "basilica",
+      "sources": ["macculloch-christianity", "brown-rise-western", "jenkins-lost-history", "meyendorff-imperial-unity", "moffett-asia"],
+      "panels": [
+        {
+          "topic": "worship",
+          "title": "Liturgical families diverge",
+          "text": "After Chalcedon, Byzantine, Coptic, West Syriac, East Syriac, Armenian and Ethiopian rites developed distinct languages and anaphoras. In the West, Roman, Gallican, Mozarabic and Celtic uses coexisted, while Hagia Sophia's liturgy set the Byzantine standard.",
+          "regions": ["greece-balkans", "egypt", "mesopotamia-persia", "ethiopia-nubia", "western-europe"]
+        },
+        {
+          "topic": "music",
+          "title": "Kontakion and chant",
+          "text": "Romanos the Melodist composed long sung sermons (kontakia) in Constantinople. Roman chant later attributed to Gregory the Great developed, and Ethiopian tradition credits Yared with creating Ge'ez liturgical chant in the 6th century.",
+          "regions": ["greece-balkans", "italy", "ethiopia-nubia"]
+        },
+        {
+          "topic": "architecture",
+          "title": "Domed basilicas and rock churches",
+          "text": "Justinian's Hagia Sophia crowned a basilica with a vast dome; Ravenna's San Vitale and Sant'Apollinare display Byzantine mosaics. Armenia developed centralised domed stone churches, and the Ethiopian monastery of Debre Damo preserves Aksumite style.",
+          "regions": ["greece-balkans", "italy", "armenia-caucasus", "ethiopia-nubia"]
+        },
+        {
+          "topic": "art",
+          "title": "Icons and illuminated books",
+          "text": "The earliest surviving icons, such as the encaustic Christ Pantocrator at Sinai, date from the 6th century. Insular manuscripts like the Lindisfarne Gospels (c. 700) and the Syriac Rabbula Gospels (586) combine text and imagery.",
+          "regions": ["egypt", "levant", "northern-europe"]
+        },
+        {
+          "topic": "monasticism",
+          "title": "Rules and great monasteries",
+          "text": "Benedict's Rule, Irish monasteries such as Iona and Bangor, Justinian's Sinai monastery and the great East Syriac monasteries of Mount Izla shaped Christian culture. Monasteries became centres of learning, mission and economic life.",
+          "regions": ["italy", "northern-europe", "egypt", "mesopotamia-persia"]
+        },
+        {
+          "topic": "calendar",
+          "title": "Saints and feasts multiply",
+          "text": "Marian feasts (Annunciation, Dormition) and the Exaltation of the Cross entered the calendar, and cults of local saints flourished around relics. Disputes over computing Easter, such as at Whitby, mattered for unity.",
+          "regions": ["greece-balkans", "italy"]
+        },
+        {
+          "topic": "women",
+          "title": "Empresses and abbesses",
+          "text": "Empress Theodora protected Miaphysite clergy; Abbess Hilda of Whitby ruled a double monastery that trained five bishops. Royal women such as Bertha of Kent and Theodelinda of the Lombards influenced conversions.",
+          "regions": ["greece-balkans", "northern-europe", "ethiopia-nubia"]
+        },
+        {
+          "topic": "education",
+          "title": "Preserving and translating learning",
+          "text": "The School of Nisibis and Syriac scholars translated Greek philosophy and medicine, later passing it to Arabic. In the West, Boethius, Cassiodorus, Isidore of Seville and Bede preserved classical learning in monastic schools.",
+          "regions": ["mesopotamia-persia", "northern-europe", "western-europe"]
+        },
+        {
+          "topic": "missions",
+          "title": "From Ireland to China",
+          "text": "Irish monks (Columba, Columbanus), Roman missionaries to England and Boniface in Germany spread Latin Christianity. Church of the East monks reached Central Asia and Tang China (635), Nubian kingdoms became Christian, and Thomas Christians flourished in India.",
+          "regions": ["northern-europe", "central-asia", "east-asia", "ethiopia-nubia", "india"]
+        },
+        {
+          "topic": "persecution",
+          "title": "Christians under new rulers",
+          "text": "The Himyarite massacre of Christians at Najran (c. 523) prompted Aksumite intervention. Under Persian and later Muslim rulers Christians faced periodic persecution, while Byzantium coerced Miaphysites and Monothelite dissidents like Maximus.",
+          "regions": ["arabia", "mesopotamia-persia", "levant"]
+        },
+        {
+          "topic": "judaism",
+          "title": "Forced baptism and coexistence",
+          "text": "Visigothic Spain enacted harsh anti-Jewish laws and forced conversions, and Heraclius ordered Jews baptised. Gregory the Great opposed forced baptism and protected synagogues, setting a papal precedent.",
+          "regions": ["western-europe", "levant"]
+        },
+        {
+          "topic": "islam",
+          "title": "The coming of Islam",
+          "text": "After 634 most Middle Eastern and North African Christians came under Muslim rule as dhimmis, paying the jizya but keeping churches. Christians served the Umayyads, and John of Damascus wrote the first Christian critique of Islam as a Christian heresy.",
+          "regions": ["arabia", "levant", "egypt", "mesopotamia-persia", "north-africa"]
+        },
+        {
+          "topic": "state",
+          "title": "Symphonia and successor kingdoms",
+          "text": "Justinian described church and empire as two gifts of God in harmony (symphonia), but enforced orthodoxy by law. In the West the papacy became a political force in Rome, and Frankish, Visigothic and Anglo-Saxon kings became patrons of the church.",
+          "regions": ["greece-balkans", "western-europe"]
+        }
+      ]
+    },
+    {
+      "id": "culture-carolingian-schism",
+      "eraId": "carolingian-schism",
+      "architectureDiagram": "cross-in-square",
+      "sources": ["macculloch-christianity", "ware-orthodox-church", "brown-rise-western", "hussey-byzantine", "baum-winkler-east"],
+      "panels": [
+        {
+          "topic": "worship",
+          "title": "Roman liturgy for the Franks; Slavonic for the East",
+          "text": "Charlemagne imposed the Roman rite and its chant across his empire, while Cyril and Methodius introduced Slavonic liturgy. Private Masses multiplied in Western monasteries, and the Byzantine liturgy took on its classic shape with icon screens.",
+          "regions": ["western-europe", "eastern-europe", "greece-balkans"]
+        },
+        {
+          "topic": "music",
+          "title": "Gregorian chant and neumes",
+          "text": "Frankish cantors codified 'Gregorian' chant and invented neumes to notate melody in the 9th century; early polyphony (organum) appears in treatises around 900. Byzantine hymnographers such as Theodore the Studite and Kassia wrote canons and troparia.",
+          "regions": ["western-europe", "greece-balkans"]
+        },
+        {
+          "topic": "architecture",
+          "title": "Cross-in-square and the first Romanesque",
+          "text": "Middle Byzantine churches adopted the compact cross-in-square plan with a central dome over four columns, spread to Rus' and the Balkans. Carolingian Aachen chapel and, after 1000, 'First Romanesque' stone churches emerged in the West.",
+          "regions": ["greece-balkans", "western-europe", "armenia-caucasus"]
+        },
+        {
+          "topic": "art",
+          "title": "Icons restored; illuminated books",
+          "text": "After iconoclasm ended (843), Byzantine churches received systematic programmes of mosaics with Christ Pantocrator in the dome. In the West the Book of Kells and Carolingian gospel books combined Insular and classical styles.",
+          "regions": ["greece-balkans", "western-europe", "northern-europe"]
+        },
+        {
+          "topic": "monasticism",
+          "title": "Cluny, Athos and Studios",
+          "text": "Benedict of Aniane standardised Benedictine life; Cluny (910) led a reform focused on liturgy. The Studite monastery and Athos (963) shaped Byzantine monasticism; Church of the East monasteries existed from Baghdad to China until 845.",
+          "regions": ["western-europe", "greece-balkans", "east-asia"]
+        },
+        {
+          "topic": "calendar",
+          "title": "All Saints and the year",
+          "text": "All Saints (1 November) spread in the West in the 9th century; the Triumph of Orthodoxy was added in Byzantium in 843. Counting years Anno Domini, popularised by Bede, spread through Carolingian usage.",
+          "regions": ["western-europe", "greece-balkans"]
+        },
+        {
+          "topic": "women",
+          "title": "Abbesses, empresses and hymnographers",
+          "text": "Empresses Irene and Theodora restored icons; the poet-nun Kassia composed hymns still sung. Princess Olga of Kyiv was baptised c. 957, and Saxon canonesses such as Hrotsvitha wrote plays and histories.",
+          "regions": ["greece-balkans", "western-europe", "russia"]
+        },
+        {
+          "topic": "education",
+          "title": "Carolingian renaissance and Byzantine learning",
+          "text": "Alcuin's palace school, cathedral schools and Caroline minuscule script preserved Latin texts. Photius' Bibliotheca summarised hundreds of books, and in Baghdad Christian scholars such as Hunayn ibn Ishaq translated Greek science into Arabic.",
+          "regions": ["western-europe", "greece-balkans", "mesopotamia-persia"]
+        },
+        {
+          "topic": "missions",
+          "title": "Slavs, Scandinavians and steppe peoples",
+          "text": "Byzantine missions reached Moravia, Bulgaria and Rus'; Latin missions reached Poland, Hungary and Scandinavia. The Church of the East converted the Kerait and other Turkic peoples of Central Asia.",
+          "regions": ["eastern-europe", "russia", "northern-europe", "central-asia"]
+        },
+        {
+          "topic": "persecution",
+          "title": "Vikings, Huichang and al-Hakim",
+          "text": "Viking raids destroyed monasteries like Lindisfarne (793) and Iona. In China, the Huichang persecution (845) ended the Tang church; in Egypt and Syria the caliph al-Hakim persecuted Christians and destroyed the Holy Sepulchre (1009).",
+          "regions": ["northern-europe", "east-asia", "levant", "egypt"]
+        },
+        {
+          "topic": "judaism",
+          "title": "Jews in Carolingian and Byzantine society",
+          "text": "Jewish merchants enjoyed Carolingian protection, which Agobard of Lyon protested. Byzantine emperors such as Basil I attempted forced conversions; Jewish communities in Islamic Spain and Baghdad flourished.",
+          "regions": ["western-europe", "greece-balkans"]
+        },
+        {
+          "topic": "islam",
+          "title": "Living under the caliphs",
+          "text": "Christians remained majorities in many Middle Eastern regions, serving as physicians and officials while gradually Arabising; Coptic and Syriac churches produced Arabic theology. In Spain, Mozarabic Christians lived under Córdoba, and the Córdoba martyrs (850s) protested assimilation.",
+          "regions": ["mesopotamia-persia", "egypt", "western-europe", "levant"]
+        },
+        {
+          "topic": "state",
+          "title": "Pope, emperor and basileus",
+          "text": "Charlemagne's coronation created rival claims to Roman empire. Western rulers controlled bishoprics and monasteries (proprietary churches), while Byzantine emperors appointed patriarchs; both tensions fed the coming Gregorian reform and the schism.",
+          "regions": ["western-europe", "italy", "greece-balkans"]
+        }
+      ]
+    },
+    {
+      "id": "culture-high-middle-ages",
+      "eraId": "high-middle-ages",
+      "architectureDiagram": "romanesque",
+      "sources": ["macculloch-christianity", "ware-orthodox-church", "isichei-africa", "moffett-asia", "riley-smith-crusades"],
+      "panels": [
+        {
+          "topic": "worship",
+          "title": "Eucharistic devotion and the Divine Liturgy",
+          "text": "In the West the elevation of the host and the feast of Corpus Christi (1264) focused piety on Christ's presence; lay communion was rare but annual confession was required after 1215. Orthodox worship completed its fusion of Studite and Jerusalem typika, and Ethiopian worship centred on the tabot (altar tablet).",
+          "regions": ["western-europe", "greece-balkans", "ethiopia-nubia"]
+        },
+        {
+          "topic": "music",
+          "title": "Polyphony and troubadour piety",
+          "text": "The Notre-Dame school (Léonin, Pérotin) developed measured polyphony; Hildegard composed vivid monophonic chant. Franciscans popularised vernacular laude, and Byzantine chant developed elaborate kalophonic styles.",
+          "regions": ["western-europe", "greece-balkans"]
+        },
+        {
+          "topic": "architecture",
+          "title": "Romanesque and Gothic",
+          "text": "Pilgrimage churches such as Santiago de Compostela used massive Romanesque vaults; from 1140 Abbot Suger's Saint-Denis launched Gothic with pointed arches and stained glass, culminating in Chartres. In Ethiopia, Lalibela's churches were carved from living rock; Vladimir-Suzdal built white-stone churches.",
+          "regions": ["western-europe", "ethiopia-nubia", "russia"]
+        },
+        {
+          "topic": "art",
+          "title": "Stained glass and icons",
+          "text": "Gothic windows and sculpted portals taught the Bible to the unlettered. Komnenian Byzantine art brought new emotional depth (the Vladimir Mother of God), and Western painters like Cimabue began to absorb Byzantine models.",
+          "regions": ["western-europe", "greece-balkans", "russia"]
+        },
+        {
+          "topic": "monasticism",
+          "title": "Cistercians and friars",
+          "text": "Cistercians pursued austerity and manual labour; Carthusians solitude; military orders (Templars, Hospitallers) fused monastic vows with knighthood. Franciscans and Dominicans took religious life into the cities, while Beguines lived devout lives without vows.",
+          "regions": ["western-europe", "italy", "greece-balkans"]
+        },
+        {
+          "topic": "calendar",
+          "title": "Pilgrimage and jubilee",
+          "text": "Pilgrimage to Rome, Compostela, Canterbury and Jerusalem structured devotion and economy. Feasts of Corpus Christi and the Holy Name were added, and the first Jubilee year was proclaimed in 1300.",
+          "regions": ["western-europe", "levant"]
+        },
+        {
+          "topic": "women",
+          "title": "Mystics, abbesses and beguines",
+          "text": "Hildegard of Bingen, Clare of Assisi, Elisabeth of Hungary and the Beguines of the Low Countries pursued varied forms of holiness. Cults of the Virgin flourished, while Cathar 'perfects' included women.",
+          "regions": ["western-europe", "eastern-europe"]
+        },
+        {
+          "topic": "education",
+          "title": "Universities and scholasticism",
+          "text": "Universities at Bologna, Paris and Oxford organised theology as a science; Peter Lombard's Sentences became the textbook. Aristotle reached the West via Arabic and Jewish scholars; Aquinas and Bonaventure synthesised faith and reason. Byzantium maintained its own higher learning.",
+          "regions": ["western-europe", "italy", "greece-balkans"]
+        },
+        {
+          "topic": "missions",
+          "title": "Crusade, mendicants and the Mongols",
+          "text": "Northern crusades forcibly Christianised the Baltic peoples. Franciscans travelled to the Mongol court and to Khanbaliq, meeting a Church of the East that had metropolitans from Baghdad to China; Rabban Sauma journeyed the other way.",
+          "regions": ["central-asia", "east-asia", "northern-europe", "levant"]
+        },
+        {
+          "topic": "persecution",
+          "title": "Heresy and crusade",
+          "text": "The Albigensian Crusade and the papal Inquisition targeted Cathars and Waldensians. Crusaders massacred Jews and Muslims in the Rhineland and Jerusalem, and in 1204 sacked Christian Constantinople.",
+          "regions": ["western-europe", "levant"]
+        },
+        {
+          "topic": "judaism",
+          "title": "Expulsions and blood libel",
+          "text": "Crusade-era massacres, the blood libel (Norwich 1144), Lateran IV's distinctive dress and the burning of the Talmud in Paris (1242) marked a sharp deterioration. England expelled its Jews in 1290.",
+          "regions": ["western-europe"]
+        },
+        {
+          "topic": "islam",
+          "title": "Crusade, convivencia and dialogue",
+          "text": "Crusades and the Reconquista pitted Latin Christians against Muslim powers, while in Spain and Sicily translation flourished. Francis met Sultan al-Kamil; Eastern Christians under Mamluks suffered reprisals for the crusades, and the Ilkhans briefly favoured Christians before converting to Islam.",
+          "regions": ["levant", "western-europe", "egypt", "mesopotamia-persia"]
+        },
+        {
+          "topic": "state",
+          "title": "Papal monarchy",
+          "text": "Gregory VII's reform freed episcopal elections from lay control; Innocent III claimed authority over kings. Canossa and the Concordat of Worms defined boundaries, and Byzantine emperors continued to dominate their patriarchs.",
+          "regions": ["western-europe", "italy", "greece-balkans"]
+        }
+      ]
+    },
+    {
+      "id": "culture-late-medieval",
+      "eraId": "late-medieval",
+      "architectureDiagram": "gothic",
+      "sources": ["macculloch-christianity", "macculloch-reformation", "ware-orthodox-church", "jenkins-lost-history", "hastings-church-in-africa"],
+      "panels": [
+        {
+          "topic": "worship",
+          "title": "Mass, processions and private devotion",
+          "text": "Lay people heard Mass, joined confraternities and processions, and prayed with books of hours and rosaries; chantries funded Masses for the dead. Russian worship flourished with high iconostases, and Ethiopian worship was shaped by Zara Yaqob's liturgical reforms.",
+          "regions": ["western-europe", "russia", "ethiopia-nubia"]
+        },
+        {
+          "topic": "music",
+          "title": "Ars nova and polyphonic Mass",
+          "text": "Composers like Machaut wrote complete polyphonic Mass settings, and Dufay and Josquin developed the Renaissance Mass. Hussites sang vernacular hymns, and Russian znamenny chant developed.",
+          "regions": ["western-europe", "russia"]
+        },
+        {
+          "topic": "architecture",
+          "title": "Late Gothic and onion domes",
+          "text": "Late Gothic produced soaring Perpendicular and Flamboyant churches; Renaissance architects in Florence revived classical forms (Brunelleschi's dome). Moscow's Kremlin cathedrals blended Byzantine and Italian styles.",
+          "regions": ["western-europe", "russia", "ethiopia-nubia"]
+        },
+        {
+          "topic": "art",
+          "title": "Giotto, Rublev and the Renaissance",
+          "text": "Giotto's naturalism transformed Western art; the Renaissance and Flemish painting depicted sacred scenes with new realism. In Russia Andrei Rublev's Trinity icon (c. 1411) became the classic image of Orthodox spirituality.",
+          "regions": ["italy", "russia", "western-europe"]
+        },
+        {
+          "topic": "monasticism",
+          "title": "Decline and renewal",
+          "text": "The Black Death decimated monasteries, but observant reform movements and the Devotio Moderna renewed religious life. Sergius of Radonezh inspired hundreds of Russian monasteries, Athonite hesychasm spread to the Slavs, and Ethiopian monastic movements of Ewostatewos and Takla Haymanot flourished.",
+          "regions": ["western-europe", "russia", "greece-balkans", "ethiopia-nubia"]
+        },
+        {
+          "topic": "calendar",
+          "title": "Feasts of the Passion and the dead",
+          "text": "Devotion to the Passion, the Holy Name and the Five Wounds grew; All Souls and requiem Masses multiplied after plague. Ethiopia observed both Saturday and Sunday Sabbaths after 1450.",
+          "regions": ["western-europe", "ethiopia-nubia"]
+        },
+        {
+          "topic": "women",
+          "title": "Mystics and visionaries",
+          "text": "Catherine of Siena advised popes, Bridget of Sweden founded an order, Julian of Norwich wrote Revelations of Divine Love and Margery Kempe dictated the first English autobiography. Joan of Arc was burned in 1431 and later canonised; witch-hunting treatises (Malleus Maleficarum, 1486) targeted women.",
+          "regions": ["italy", "northern-europe", "western-europe"]
+        },
+        {
+          "topic": "education",
+          "title": "Humanism and printing",
+          "text": "Italian humanists revived classical and patristic learning; Greek scholars fleeing Byzantium taught Greek in Italy. Printing (c. 1450) multiplied Bibles and devotional books; new universities spread to Prague, Kraków and Uppsala.",
+          "regions": ["italy", "western-europe", "greece-balkans"]
+        },
+        {
+          "topic": "missions",
+          "title": "Atlantic voyages",
+          "text": "Portuguese voyages brought Catholicism to Kongo (1491), and Columbus' voyage (1492) began the Christianisation of the Americas under royal patronage. In China and Central Asia, Christianity vanished after the Mongol collapse.",
+          "regions": ["sub-saharan-africa", "latin-america", "east-asia"]
+        },
+        {
+          "topic": "persecution",
+          "title": "Lollards, Hussites and Timur",
+          "text": "Lollards and Hussites were burned as heretics; crusades failed against Bohemia. Timur's campaigns devastated Christians across Persia, Mesopotamia and Central Asia, reducing the Church of the East to a remnant.",
+          "regions": ["northern-europe", "eastern-europe", "mesopotamia-persia", "central-asia"]
+        },
+        {
+          "topic": "judaism",
+          "title": "Expulsions from Spain and Portugal",
+          "text": "Jews were blamed for the Black Death and massacred; Spain expelled its Jews in 1492 and Portugal forcibly converted them in 1497. The Inquisition investigated conversos suspected of secret Judaism.",
+          "regions": ["western-europe"]
+        },
+        {
+          "topic": "islam",
+          "title": "Ottomans and Reconquista",
+          "text": "The Ottomans conquered the Balkans and Constantinople (1453), ruling Orthodox Christians through the millet system. Granada fell to Castile in 1492. In Egypt, Coptic Christians declined sharply under Mamluk pressure, and Christian Nubia ended.",
+          "regions": ["greece-balkans", "asia-minor", "western-europe", "egypt"]
+        },
+        {
+          "topic": "state",
+          "title": "Conciliarism and national churches",
+          "text": "The Avignon papacy and Western Schism led to councils claiming authority over popes; kings negotiated concordats controlling their churches. Moscow's autocephaly (1448) and the 'Third Rome' idea fused Orthodoxy with Russian rule.",
+          "regions": ["western-europe", "russia"]
+        }
+      ]
+    },
+    {
+      "id": "culture-reformations",
+      "eraId": "reformations",
+      "architectureDiagram": "basilica",
+      "sources": ["macculloch-reformation", "boxer-christian-century", "gonzalez-latin-america", "frykenberg-india", "hastings-church-in-africa"],
+      "panels": [
+        {
+          "topic": "worship",
+          "title": "Word, sacrament and Tridentine Mass",
+          "text": "Protestants worshipped in the vernacular with preaching at the centre; Lutherans kept much of the Mass, Reformed churches stripped worship to Scripture-commanded elements, Anglicans used the Book of Common Prayer. Catholics standardised the Roman Missal (1570), and missions adapted liturgy in Nahuatl, Tamil and Japanese.",
+          "regions": ["western-europe", "northern-europe", "latin-america"]
+        },
+        {
+          "topic": "music",
+          "title": "Chorales, psalters and polyphony",
+          "text": "Luther's chorales ('A Mighty Fortress') and the Genevan Psalter put song in congregations' mouths. Palestrina exemplified Counter-Reformation polyphony; Indigenous choirs in New Spain sang European polyphony within decades of conquest.",
+          "regions": ["western-europe", "italy", "latin-america"]
+        },
+        {
+          "topic": "architecture",
+          "title": "Baroque churches and whitewashed walls",
+          "text": "Il Gesù in Rome and the completion of St Peter's set the Baroque model of open naves for preaching and spectacle, copied in Goa and Mexico. Reformed churches whitewashed images and arranged seating around the pulpit.",
+          "regions": ["italy", "western-europe", "latin-america", "india"]
+        },
+        {
+          "topic": "art",
+          "title": "Iconoclasm and the Baroque",
+          "text": "Reformed iconoclasm destroyed images in Switzerland, Scotland and the Netherlands, while Lutherans kept altarpieces (Cranach). Catholic art emphasised saints, sacraments and ecstasy; Indigenous artists created Mexican feather mosaics and Japanese Christian 'Namban' art.",
+          "regions": ["western-europe", "latin-america", "east-asia"]
+        },
+        {
+          "topic": "monasticism",
+          "title": "Dissolution and new orders",
+          "text": "Protestant territories dissolved monasteries and convents. Catholic renewal produced Jesuits, Capuchins, Ursulines, Discalced Carmelites and Oratorians; Orthodox monasticism endured under Ottoman rule.",
+          "regions": ["northern-europe", "western-europe", "italy", "global"]
+        },
+        {
+          "topic": "calendar",
+          "title": "Reformed calendars and the Gregorian calendar",
+          "text": "Protestants pruned saints' days, Puritans abolished Christmas; Catholics retained the full calendar. Gregory XIII's calendar reform (1582) was adopted by Catholic states immediately but by Protestants later and never for Orthodox church festivals.",
+          "regions": ["western-europe", "global"]
+        },
+        {
+          "topic": "women",
+          "title": "Pastors' wives, nuns and martyrs",
+          "text": "Katharina von Bora modelled the Protestant pastor's household, and Argula von Grumbach wrote in defence of reform. Teresa of Ávila reformed the Carmelites; Anabaptist women died as martyrs; Japanese women catechists sustained Christian communities.",
+          "regions": ["western-europe", "east-asia", "latin-america"]
+        },
+        {
+          "topic": "education",
+          "title": "Catechisms, colleges and printing",
+          "text": "Catechisms (Luther, Heidelberg, Canisius, Roman) taught every confession. Jesuit colleges, Calvin's Academy and Protestant universities trained clergy; the first printing presses in Mexico (1539), Goa (1556) and Japan (1590) served missions.",
+          "regions": ["western-europe", "latin-america", "india", "east-asia"]
+        },
+        {
+          "topic": "missions",
+          "title": "A global Catholicism",
+          "text": "Franciscans, Dominicans and Jesuits evangelised the Americas, the Philippines, Japan, China, India and Kongo, with debates over accommodation. Protestant missions barely began, though John Eliot evangelised Algonquians in New England.",
+          "regions": ["latin-america", "india", "east-asia", "southeast-asia", "sub-saharan-africa"]
+        },
+        {
+          "topic": "persecution",
+          "title": "Martyrs of every confession",
+          "text": "Catholics, Protestants and Anabaptists were executed by rival regimes — Foxe's Book of Martyrs and Catholic martyrologies told competing stories. Japan's persecution after 1614 killed thousands; St Bartholomew's Day and the Thirty Years' War brought mass violence.",
+          "regions": ["western-europe", "northern-europe", "east-asia"]
+        },
+        {
+          "topic": "judaism",
+          "title": "Luther, ghettos and Polish refuge",
+          "text": "Luther moved from hope of Jewish conversion to violent polemic (1543). Paul IV confined Rome's Jews to a ghetto (1555), while Poland-Lithuania and the Netherlands offered relative refuge.",
+          "regions": ["western-europe", "italy", "eastern-europe"]
+        },
+        {
+          "topic": "islam",
+          "title": "The Ottoman threat",
+          "text": "Ottoman advances to Vienna (1529) shaped German politics, and Luther saw the Turk as God's scourge. Ethiopia nearly fell to Ahmad Gragn of Adal (1529–43) until Portuguese aid arrived; Lepanto (1571) became a Catholic symbol.",
+          "regions": ["greece-balkans", "eastern-europe", "ethiopia-nubia"]
+        },
+        {
+          "topic": "state",
+          "title": "Cuius regio, eius religio",
+          "text": "Princes and cities determined their territory's religion; England's monarch became supreme governor of the church; Anabaptists alone rejected the sword. Spain and Portugal controlled overseas churches through patronato, and Westphalia (1648) fixed confessional borders.",
+          "regions": ["western-europe", "northern-europe", "latin-america"]
+        }
+      ]
+    },
+    {
+      "id": "culture-confessional-pietism",
+      "eraId": "confessional-pietism",
+      "architectureDiagram": "meeting-house",
+      "sources": ["macculloch-christianity", "ward-protestant-awakening", "ware-orthodox-church", "frykenberg-india", "bays-china"],
+      "panels": [
+        {
+          "topic": "worship",
+          "title": "Orthodoxy and heart religion",
+          "text": "Lutheran and Reformed orthodoxy produced long doctrinal sermons, while Pietist conventicles met for Bible study and prayer. Quakers waited in silence for the Spirit. In Russia, Nikon's liturgical reforms divided the church; in Kerala, Thomas Christians reasserted Syriac liturgy.",
+          "regions": ["western-europe", "northern-europe", "russia", "india"]
+        },
+        {
+          "topic": "music",
+          "title": "Bach and Isaac Watts",
+          "text": "Lutheran church music reached its summit with Buxtehude and J. S. Bach's cantatas and Passions. Isaac Watts' hymns (1707) broke the dominance of metrical psalms in English-speaking churches.",
+          "regions": ["western-europe", "northern-europe"]
+        },
+        {
+          "topic": "architecture",
+          "title": "Meeting houses and Baroque",
+          "text": "Dissenters and New England Congregationalists built plain meeting houses with central pulpits; Wren rebuilt London's churches after 1666 as auditory spaces. Catholic Baroque flourished in Austria and Latin America, and Russian 'Naryshkin Baroque' blended Western ornament with Orthodox forms.",
+          "regions": ["northern-europe", "north-america", "russia", "latin-america"]
+        },
+        {
+          "topic": "art",
+          "title": "Plainness and splendour",
+          "text": "Protestant devotion favoured printed emblems, portraits and the Bible over altars, while Catholic Baroque art (Bernini, Murillo) celebrated saints and the Virgin. Cusco and Quito schools of painting produced Andean Christian art.",
+          "regions": ["western-europe", "latin-america"]
+        },
+        {
+          "topic": "monasticism",
+          "title": "Port-Royal and the Old Believers",
+          "text": "The Jansenist convent of Port-Royal became a centre of Augustinian piety until its suppression (1709). Old Believers formed hermit communities in Russian forests, and Moravian 'choirs' at Herrnhut organised life by age and sex in a quasi-monastic way.",
+          "regions": ["western-europe", "russia"]
+        },
+        {
+          "topic": "calendar",
+          "title": "Days of humiliation and thanksgiving",
+          "text": "Puritans replaced saints' days with Sabbath observance and special days of fasting and thanksgiving. Catholic Europe added feasts like the Sacred Heart devotion following Margaret Mary Alacoque's visions (1670s).",
+          "regions": ["northern-europe", "north-america"]
+        },
+        {
+          "topic": "women",
+          "title": "Quaker preachers and Kimpa Vita",
+          "text": "Quakers accepted women as preachers, like Margaret Fell, who defended it in Women's Speaking Justified (1666). Madame Guyon taught quietist prayer; in Kongo Kimpa Vita led a prophetic movement. Pietist women ran conventicles and wrote spiritual autobiographies.",
+          "regions": ["northern-europe", "sub-saharan-africa", "western-europe"]
+        },
+        {
+          "topic": "education",
+          "title": "Halle and Jesuit science",
+          "text": "August Hermann Francke's Halle foundations (1695) combined orphanage, schools, press and mission training. Jesuit astronomers served the Qing court, and the Tranquebar mission founded schools and a Tamil press.",
+          "regions": ["western-europe", "east-asia", "india"]
+        },
+        {
+          "topic": "missions",
+          "title": "Pietist and Jesuit missions",
+          "text": "The Danish-Halle mission began Protestant work in India (1706); Moravians would soon follow. Jesuit reductions in Paraguay organised Guaraní towns, and Capuchins worked in Kongo, while the Chinese Rites controversy limited Catholic growth in China.",
+          "regions": ["india", "east-asia", "latin-america", "sub-saharan-africa"]
+        },
+        {
+          "topic": "persecution",
+          "title": "Huguenots, Old Believers and Covenanters",
+          "text": "France revoked toleration (1685) and persecuted Huguenots; Russia persecuted Old Believers; Scottish Covenanters were killed in the 'Killing Time'. English Dissenters faced fines and prison until 1689.",
+          "regions": ["western-europe", "russia", "northern-europe"]
+        },
+        {
+          "topic": "judaism",
+          "title": "Philo-Semitism and millennial hopes",
+          "text": "Cromwell's England readmitted Jews (1656), encouraged by millennial hopes of Jewish conversion. The Sabbatai Zevi movement (1665–66) electrified Jewish communities; Halle Pietists founded a mission to Jews (1728).",
+          "regions": ["western-europe", "northern-europe"]
+        },
+        {
+          "topic": "islam",
+          "title": "Vienna 1683 and Ottoman Christians",
+          "text": "The Ottoman siege of Vienna failed (1683), beginning a long retreat in Europe. Orthodox, Armenian and other Christians in the Ottoman Empire lived as millets, and Catholic missions created Eastern Catholic communities in the Levant, such as the Melkite Catholics (1724).",
+          "regions": ["eastern-europe", "greece-balkans", "levant"]
+        },
+        {
+          "topic": "state",
+          "title": "Toleration and state churches",
+          "text": "England's Act of Toleration (1689), Locke's Letter on Toleration and Rhode Island and Pennsylvania's religious liberty pointed toward freedom of conscience. Peter the Great subordinated the Russian church to a state synod (1721), and absolutist France enforced Catholic uniformity.",
+          "regions": ["northern-europe", "russia", "north-america"]
+        }
+      ]
+    },
+    {
+      "id": "culture-awakenings-missions",
+      "eraId": "awakenings-missions",
+      "architectureDiagram": "meeting-house",
+      "sources": ["noll-christianity-us", "bebbington-evangelicalism", "ward-protestant-awakening", "neill-missions", "robert-christian-mission"],
+      "panels": [
+        {
+          "topic": "worship",
+          "title": "Field preaching and camp meetings",
+          "text": "Evangelical revival moved worship outdoors: Whitefield and Wesley preached to thousands in fields; American camp meetings lasted days with shouting and falling. Methodist class meetings and love feasts fostered testimony, and African American worship developed its own call-and-response traditions.",
+          "regions": ["northern-europe", "north-america", "sub-saharan-africa"]
+        },
+        {
+          "topic": "music",
+          "title": "Hymns of experience and spirituals",
+          "text": "Charles Wesley's and John Newton's hymns ('Amazing Grace', 1779) taught evangelical experience; Russian and Orthodox churches developed choral styles (Bortniansky). Enslaved African Americans created spirituals that blended biblical narrative with African musical forms.",
+          "regions": ["northern-europe", "north-america"]
+        },
+        {
+          "topic": "architecture",
+          "title": "Chapels and preaching houses",
+          "text": "Methodists built plain preaching houses and chapels; Nonconformist chapels filled industrial towns. Missionaries erected churches across the Pacific and Africa often in local materials, while Gothic Revival began to return in the 1840s.",
+          "regions": ["northern-europe", "north-america", "oceania"]
+        },
+        {
+          "topic": "art",
+          "title": "Prints and Romanticism",
+          "text": "Cheap prints, tracts and illustrated Bibles spread evangelical imagery. Romantic and Nazarene painters revived medieval religious art; in Russia, popular icons and lubok prints expressed folk piety.",
+          "regions": ["northern-europe", "western-europe", "russia"]
+        },
+        {
+          "topic": "monasticism",
+          "title": "Suppression and revival",
+          "text": "The French Revolution dissolved monasteries, Joseph II closed contemplative houses in Austria, and the Jesuits were suppressed (1773–1814). Orthodoxy saw a revival of eldership: Paisius Velichkovsky, Seraphim of Sarov and the startsy of Optina.",
+          "regions": ["western-europe", "russia", "greece-balkans"]
+        },
+        {
+          "topic": "calendar",
+          "title": "Revolutionary calendars and Sabbath reform",
+          "text": "Revolutionary France abolished the Christian calendar (1793–1805), while evangelicals campaigned for strict Sunday observance. Missionary prayer meetings and anniversaries became new rhythms in Protestant life.",
+          "regions": ["western-europe", "north-america"]
+        },
+        {
+          "topic": "women",
+          "title": "Societies, sisters and preachers",
+          "text": "Women ran Sunday schools, missionary auxiliaries and abolition campaigns; some, such as early Methodist and AME preacher Jarena Lee, preached. Catholic active orders of sisters multiplied in nursing and teaching.",
+          "regions": ["northern-europe", "north-america", "sub-saharan-africa"]
+        },
+        {
+          "topic": "education",
+          "title": "Sunday schools and colleges",
+          "text": "Robert Raikes' Sunday schools (1780) taught poor children to read; American revivals founded colleges and seminaries. Serampore College (1818) and Fourah Bay College (1827) were early Christian higher education institutions in Asia and Africa.",
+          "regions": ["northern-europe", "north-america", "india", "sub-saharan-africa"]
+        },
+        {
+          "topic": "missions",
+          "title": "The great century begins",
+          "text": "Voluntary societies (BMS 1792, LMS 1795, CMS 1799, ABCFM 1810) sent missionaries to India, the Pacific, Africa and China. Islander and African evangelists often carried the faith further than Europeans; Korean laymen founded their own Catholic church.",
+          "regions": ["india", "oceania", "sub-saharan-africa", "east-asia", "latin-america"]
+        },
+        {
+          "topic": "persecution",
+          "title": "Revolution, Korea and Madagascar",
+          "text": "The French Revolution's dechristianisation killed priests and nuns. Korean Catholics suffered waves of martyrdom (1801, 1839, 1846); Queen Ranavalona persecuted Malagasy Christians; Vietnamese Catholics were executed under Minh Mạng.",
+          "regions": ["western-europe", "east-asia", "sub-saharan-africa", "southeast-asia"]
+        },
+        {
+          "topic": "judaism",
+          "title": "Emancipation and mission",
+          "text": "Jewish civil emancipation began in revolutionary France (1791) and spread across Western Europe. The London Society for Promoting Christianity amongst the Jews (1809) reflected evangelical eschatological hopes.",
+          "regions": ["western-europe", "northern-europe"]
+        },
+        {
+          "topic": "islam",
+          "title": "Colonialism and Eastern Christians",
+          "text": "Napoleon's invasion of Egypt (1798) opened the Middle East to Western missions, which mostly converted Eastern Christians rather than Muslims. In West Africa the Sokoto jihad (1804) expanded Islam just as Christian missions began; Henry Martyn translated the New Testament into Persian and Urdu.",
+          "regions": ["egypt", "levant", "india", "sub-saharan-africa"]
+        },
+        {
+          "topic": "state",
+          "title": "Disestablishment and religious freedom",
+          "text": "The US First Amendment (1791) barred a federal established church, and states disestablished by 1833. Napoleon's Concordat (1801) restored Catholicism in France under state control; newly independent Latin American states wrestled with the church's patronage and privileges.",
+          "regions": ["north-america", "western-europe", "latin-america"]
+        }
+      ]
+    },
+    {
+      "id": "culture-modern-era",
+      "eraId": "modern-era",
+      "architectureDiagram": "auditorium",
+      "sources": ["macculloch-christianity", "anderson-pentecostalism", "sanneh-whose-religion", "bays-china", "noll-christianity-us"],
+      "panels": [
+        {
+          "topic": "worship",
+          "title": "Ritualism, revivalism and Pentecost",
+          "text": "Anglo-Catholics restored vestments and Eucharistic devotion; the Catholic liturgical movement began; revivalists like Moody used gospel songs and altar calls. Pentecostal worship after 1906 featured tongues, healing and spontaneous praise, and African independent churches incorporated drumming, dance and white robes.",
+          "regions": ["northern-europe", "north-america", "sub-saharan-africa", "global"]
+        },
+        {
+          "topic": "music",
+          "title": "Gospel songs and choral revival",
+          "text": "Fanny Crosby's and Ira Sankey's gospel songs spread worldwide, Black gospel music emerged in the 1930s (Thomas Dorsey), and Pentecostals adopted popular instruments. Rachmaninoff's All-Night Vigil (1915) and Solesmes' restoration of Gregorian chant revived older traditions.",
+          "regions": ["north-america", "northern-europe", "russia"]
+        },
+        {
+          "topic": "architecture",
+          "title": "Gothic Revival and the auditorium",
+          "text": "Gothic Revival churches and cathedrals were built from London to Lagos, Mumbai and Sydney. Evangelical congregations built 'auditorium' churches like Spurgeon's Metropolitan Tabernacle and Akron-plan buildings with sloping floors and choir lofts.",
+          "regions": ["northern-europe", "north-america", "sub-saharan-africa", "india"]
+        },
+        {
+          "topic": "art",
+          "title": "Popular piety and modernism",
+          "text": "Mass-produced religious images (Sacred Heart, Warner Sallman's Head of Christ, 1940) filled homes. Some modern artists (Rouault) treated Christian themes, while African and Asian Christian artists began to depict Christ in local forms.",
+          "regions": ["western-europe", "latin-america", "sub-saharan-africa"]
+        },
+        {
+          "topic": "monasticism",
+          "title": "Revival in many traditions",
+          "text": "Anglican religious orders revived after 1841; Catholic missionary orders like the White Fathers (1868) and Mill Hill multiplied; Benedictine renewal flourished at Solesmes and Beuron. Orthodox monasticism suffered under Soviet rule after 1917.",
+          "regions": ["northern-europe", "western-europe", "sub-saharan-africa", "greece-balkans"]
+        },
+        {
+          "topic": "calendar",
+          "title": "New feasts and calendar disputes",
+          "text": "Catholics added Christ the King (1925); many Orthodox churches adopted the Revised Julian calendar (1923) for fixed feasts, provoking Old Calendarist schisms. Missionary churches debated Christianising local festivals.",
+          "regions": ["greece-balkans", "western-europe"]
+        },
+        {
+          "topic": "women",
+          "title": "Missionaries, deaconesses and preachers",
+          "text": "By 1900 women formed the majority of Protestant missionaries; Bible women in China and India evangelised homes; Pandita Ramabai founded Mukti. Holiness and Pentecostal churches ordained women (Aimee Semple McPherson), and the Salvation Army gave women equal rank.",
+          "regions": ["global", "north-america", "india", "east-asia"]
+        },
+        {
+          "topic": "education",
+          "title": "Mission schools and modern scholarship",
+          "text": "Mission schools educated many leaders of independent Africa and Asia; Christian universities were founded in China, Korea, Japan and India. Historical criticism reshaped Protestant seminaries, prompting the fundamentalist reaction; Catholic modernism was condemned (1907).",
+          "regions": ["sub-saharan-africa", "east-asia", "india", "western-europe"]
+        },
+        {
+          "topic": "missions",
+          "title": "Global expansion",
+          "text": "Under colonial expansion, missions reached the African interior and inland China; African prophets (Harris, Kimbangu, Shembe) and Asian revivals indigenised Christianity. Edinburgh 1910 launched the ecumenical movement; Pentecostal missionaries spread worldwide after Azusa Street.",
+          "regions": ["sub-saharan-africa", "east-asia", "india", "oceania", "latin-america"]
+        },
+        {
+          "topic": "persecution",
+          "title": "Genocide and revolution",
+          "text": "The Armenian genocide and Sayfo (1915), Soviet persecution after 1917, the Boxer Uprising (1900), Mexico's Cristero War and the Spanish Civil War killed many Christians. In Nazi Germany Confessing Church pastors were imprisoned; Bonhoeffer was executed in 1945.",
+          "regions": ["asia-minor", "russia", "east-asia", "latin-america", "western-europe"]
+        },
+        {
+          "topic": "judaism",
+          "title": "Antisemitism and the Holocaust",
+          "text": "Christian anti-Judaism fed modern racial antisemitism; pogroms in the Russian Empire were often justified religiously. During the Holocaust most churches failed to resist, though some Christians rescued Jews (Le Chambon, the 'righteous among the nations'). This failure later prompted profound repentance.",
+          "regions": ["western-europe", "eastern-europe"]
+        },
+        {
+          "topic": "islam",
+          "title": "Colonial encounters",
+          "text": "Christian missions and Islamic expansion competed in Africa; colonial powers often limited missions in Muslim areas. Missionaries like Samuel Zwemer focused on Muslims with little numerical success, while Middle Eastern Christians helped lead the Arab cultural renaissance.",
+          "regions": ["sub-saharan-africa", "levant", "egypt", "southeast-asia"]
+        },
+        {
+          "topic": "state",
+          "title": "Separation, totalitarianism and nationalism",
+          "text": "France separated church and state (1905); the papacy lost its states (1870) and gained Vatican City (1929). Soviet, Nazi and fascist states persecuted or co-opted churches; Japanese authorities required shrine attendance in Korea. Churches also supported nationalist movements in Ireland, Poland and Africa.",
+          "regions": ["western-europe", "russia", "latin-america", "east-asia"]
+        }
+      ]
+    },
+    {
+      "id": "culture-contemporary",
+      "eraId": "contemporary",
+      "architectureDiagram": "megachurch",
+      "sources": ["jenkins-next-christendom", "anderson-pentecostalism", "wcd-2025", "pew-2011", "macculloch-christianity"],
+      "panels": [
+        {
+          "topic": "worship",
+          "title": "Liturgical renewal and praise culture",
+          "text": "Vatican II brought the vernacular Mass worldwide, and mainline Protestants converged on shared lectionaries and Eucharistic practice. Pentecostal-charismatic praise and worship, with bands and extended singing, became the dominant style in much of the global South; streaming services spread after 2020.",
+          "regions": ["global", "sub-saharan-africa", "latin-america", "east-asia"]
+        },
+        {
+          "topic": "music",
+          "title": "Contemporary worship and global song",
+          "text": "Taizé chants, Vineyard, Hillsong and Bethel worship songs circulate globally; African, Latin American and Asian Christians compose in local idioms. Gospel and Christian contemporary music became major industries, while traditional chant and choirs persisted.",
+          "regions": ["global", "north-america", "oceania", "sub-saharan-africa"]
+        },
+        {
+          "topic": "architecture",
+          "title": "Megachurches and modern churches",
+          "text": "Megachurches in Seoul, Lagos, São Paulo and Texas built arenas with stages, screens and campuses; Nigeria's Redemption Camp holds millions. Catholic churches reoriented altars toward the people; Orthodox churches rebuilt thousands of churches across the former Soviet Union.",
+          "regions": ["north-america", "east-asia", "sub-saharan-africa", "latin-america"]
+        },
+        {
+          "topic": "art",
+          "title": "Global images of Christ",
+          "text": "Christian art now depicts Christ in African, Asian and Indigenous forms; icons are widely revived in the West. Film, television and digital media have become major vehicles of Christian imagery.",
+          "regions": ["global", "sub-saharan-africa", "east-asia", "latin-america"]
+        },
+        {
+          "topic": "monasticism",
+          "title": "New communities",
+          "text": "Taizé (1940), the Missionaries of Charity (1950), Bose and charismatic covenant communities offered new forms of common life. Orthodox monasticism revived on Athos and in Russia, Romania and Ethiopia, while Western religious orders shrank.",
+          "regions": ["western-europe", "global", "sub-saharan-africa"]
+        },
+        {
+          "topic": "calendar",
+          "title": "Shared and contested dates",
+          "text": "Ecumenical efforts to agree a common date for Easter continue, especially around the 1700th anniversary of Nicaea (2025). Christians widely observe Advent and Lent again, and new commemorations (Week of Prayer for Christian Unity, Reformation 500 in 2017) reflect ecumenism.",
+          "regions": ["global"]
+        },
+        {
+          "topic": "women",
+          "title": "Ordination and leadership",
+          "text": "Many Protestant churches ordain women; Anglican provinces debate women bishops (first in 1989); Catholic and Orthodox churches reserve priesthood to men. Women form the majority of active Christians worldwide and lead many Pentecostal and African churches.",
+          "regions": ["global", "north-america", "sub-saharan-africa", "east-asia"]
+        },
+        {
+          "topic": "education",
+          "title": "Global theological education",
+          "text": "Seminaries and universities in Africa, Asia and Latin America produce theologians shaping world Christianity (Bediako, Gutiérrez, Koyama). Online learning and Bible apps (e.g., YouVersion) transform access.",
+          "regions": ["sub-saharan-africa", "latin-america", "east-asia", "global"]
+        },
+        {
+          "topic": "missions",
+          "title": "From everywhere to everywhere",
+          "text": "Christianity's centre of gravity has shifted south: by 2020 Africa had more Christians than any other continent. Korean, Brazilian and Nigerian missionaries serve worldwide, and migrant churches reshape Europe and North America.",
+          "regions": ["global", "sub-saharan-africa", "east-asia", "latin-america"]
+        },
+        {
+          "topic": "persecution",
+          "title": "Twentieth- and twenty-first-century martyrs",
+          "text": "Communist regimes in China, North Korea and the Soviet bloc persecuted believers; Latin American martyrs included Romero; jihadist violence devastated Christians in Iraq, Syria and northern Nigeria. Ecumenical commemoration of 'new martyrs' unites traditions.",
+          "regions": ["east-asia", "mesopotamia-persia", "sub-saharan-africa", "latin-america", "levant"]
+        },
+        {
+          "topic": "judaism",
+          "title": "Repentance and dialogue",
+          "text": "After the Holocaust, Nostra Aetate (1965) and Protestant statements repudiated deicide charges and antisemitism; John Paul II visited Rome's synagogue (1986). Messianic Jewish congregations and Christian Zionism generate fresh debate.",
+          "regions": ["western-europe", "italy", "global"]
+        },
+        {
+          "topic": "islam",
+          "title": "Coexistence, dialogue and conflict",
+          "text": "Christian–Muslim dialogue (A Common Word, 2007; Abu Dhabi Document, 2019) coexists with conflict and emigration of Middle Eastern Christians. Large numbers of Muslim-background believers are reported in Iran and Algeria, and Christian–Muslim relations shape Nigeria, Egypt and Indonesia.",
+          "regions": ["levant", "sub-saharan-africa", "mesopotamia-persia", "southeast-asia", "egypt"]
+        },
+        {
+          "topic": "state",
+          "title": "Secularisation and resurgence",
+          "text": "Western Europe secularised rapidly, while Christianity revived in post-Soviet Russia with close state ties. China's state regulates churches, and Christian nationalism, liberation theology and religious-freedom advocacy all shape politics.",
+          "regions": ["western-europe", "russia", "east-asia", "north-america"]
+        }
+      ]
+    }
+  ]
+}

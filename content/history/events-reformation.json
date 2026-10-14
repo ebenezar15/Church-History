@@ -5,36 +5,16 @@
       "title": "Afonso I builds a Christian Kongo",
       "year": 1506,
       "circa": false,
-      "place": {
-        "name": "Mbanza Kongo (São Salvador)",
-        "lat": -6.2667,
-        "lng": 14.25
-      },
+      "place": {"name": "Mbanza Kongo (São Salvador)", "lat": -6.2667, "lng": 14.25},
       "category": "mission",
-      "regions": [
-        "sub-saharan-africa"
-      ],
+      "regions": ["sub-saharan-africa"],
       "summary": "Afonso I Mvemba a Nzinga won the throne in 1506 and promoted Catholicism, schools and literacy; his son Henrique was consecrated titular bishop in 1518, the first sub-Saharan African bishop of the Latin church. Afonso's letters to the king of Portugal protest the ravages of the slave trade.",
-      "causes": [
-        "Portuguese alliance",
-        "Afonso's personal conviction"
-      ],
-      "consequences": [
-        "Kongolese Catholic culture lasting into the 18th century",
-        "Early African critique of the slave trade"
-      ],
-      "peopleIds": [
-        "afonso-i-of-kongo"
-      ],
+      "causes": ["Portuguese alliance", "Afonso's personal conviction"],
+      "consequences": ["Kongolese Catholic culture lasting into the 18th century", "Early African critique of the slave trade"],
+      "peopleIds": ["afonso-i-of-kongo"],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "hastings-church-in-africa",
-        "isichei-africa",
-        "sanneh-whose-religion"
-      ],
+      "traditionIds": ["catholic"],
+      "sources": ["hastings-church-in-africa", "isichei-africa", "sanneh-whose-religion"],
       "confidence": "established"
     },
     {
@@ -42,32 +22,16 @@
       "title": "Portuguese capture Goa",
       "year": 1510,
       "circa": false,
-      "place": {
-        "name": "Old Goa",
-        "lat": 15.5007,
-        "lng": 73.9116
-      },
+      "place": {"name": "Old Goa", "lat": 15.5007, "lng": 73.9116},
       "category": "mission",
-      "regions": [
-        "india"
-      ],
+      "regions": ["india"],
       "summary": "Afonso de Albuquerque seized Goa, which became the capital of Portugal's Asian empire and seat of a bishopric (1534) and archbishopric (1558). Under the padroado the crown controlled missions across Asia; the Goa Inquisition (1560) pursued converts accused of Hindu practices.",
-      "causes": [
-        "Portuguese spice-trade ambitions"
-      ],
-      "consequences": [
-        "Base for Xavier and Asian missions",
-        "Pressure on Thomas Christians toward Latin rites"
-      ],
+      "causes": ["Portuguese spice-trade ambitions"],
+      "consequences": ["Base for Xavier and Asian missions", "Pressure on Thomas Christians toward Latin rites"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "frykenberg-india",
-        "neill-missions"
-      ],
+      "traditionIds": ["catholic"],
+      "sources": ["frykenberg-india", "neill-missions"],
       "confidence": "established"
     },
     {
@@ -75,45 +39,17 @@
       "title": "Luther's Ninety-five Theses",
       "year": 1517,
       "circa": false,
-      "place": {
-        "name": "Wittenberg",
-        "lat": 51.8664,
-        "lng": 12.6484
-      },
+      "place": {"name": "Wittenberg", "lat": 51.8664, "lng": 12.6484},
       "category": "reform",
-      "regions": [
-        "western-europe"
-      ],
+      "regions": ["western-europe"],
       "summary": "On 31 October 1517 the Augustinian friar and professor Martin Luther sent his Ninety-five Theses against the sale of indulgences to Archbishop Albrecht of Mainz, and by tradition posted them on the Wittenberg Castle Church door. Printed and spread rapidly, they began the controversy that became the Protestant Reformation.",
       "longText": "Luther's protest targeted the indulgence campaign of Johann Tetzel, which raised money for St Peter's in Rome and to pay Albrecht's debts. The theses questioned whether the pope had power over purgatory and insisted that true repentance is lifelong, not purchased. Luther's deeper conviction, developed in lectures on Psalms and Romans, was that righteousness before God is a gift received by faith in Christ, not achieved by works. Within three years the debate had moved from indulgences to papal authority, councils and the sacraments; in 1520 Luther published his great Reformation treatises and burned the papal bull Exsurge Domine. The printing press made him Europe's best-selling author. Catholic historians acknowledge the abuses he attacked, many of which Trent reformed, while contending that Luther's doctrine of justification and his rejection of church authority went beyond reform into rupture. Protestants celebrate 31 October as Reformation Day; in 2017 Catholics and Lutherans jointly commemorated the anniversary.",
-      "causes": [
-        "Indulgence sales",
-        "Luther's theology of justification",
-        "Humanist critique of the church",
-        "Printing press"
-      ],
-      "consequences": [
-        "Protestant Reformation",
-        "Lutheran churches",
-        "Catholic Reformation"
-      ],
-      "peopleIds": [
-        "martin-luther"
-      ],
-      "doctrineIds": [
-        "salvation",
-        "scripture-authority",
-        "church-sacraments"
-      ],
-      "traditionIds": [
-        "lutheran",
-        "catholic"
-      ],
-      "sources": [
-        "macculloch-reformation",
-        "mcgrath-iustitia",
-        "noll-turning-points"
-      ],
+      "causes": ["Indulgence sales", "Luther's theology of justification", "Humanist critique of the church", "Printing press"],
+      "consequences": ["Protestant Reformation", "Lutheran churches", "Catholic Reformation"],
+      "peopleIds": ["martin-luther"],
+      "doctrineIds": ["salvation", "scripture-authority", "church-sacraments"],
+      "traditionIds": ["lutheran", "catholic"],
+      "sources": ["macculloch-reformation", "mcgrath-iustitia", "noll-turning-points"],
       "confidence": "established"
     },
     {
@@ -121,32 +57,16 @@
       "title": "First baptisms in the Philippines",
       "year": 1521,
       "circa": false,
-      "place": {
-        "name": "Cebu",
-        "lat": 10.2934,
-        "lng": 123.9021
-      },
+      "place": {"name": "Cebu", "lat": 10.2934, "lng": 123.9021},
       "category": "mission",
-      "regions": [
-        "southeast-asia"
-      ],
+      "regions": ["southeast-asia"],
       "summary": "Magellan's expedition baptised Rajah Humabon and some 800 Cebuanos in April 1521, leaving the image of the Santo Niño. Permanent Spanish evangelisation began with Legazpi in 1565, making the Philippines Asia's largest Catholic nation.",
-      "causes": [
-        "Spanish expansion across the Pacific"
-      ],
-      "consequences": [
-        "Philippine Catholicism",
-        "Santo Niño devotion"
-      ],
+      "causes": ["Spanish expansion across the Pacific"],
+      "consequences": ["Philippine Catholicism", "Santo Niño devotion"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "neill-missions",
-        "moffett-asia"
-      ],
+      "traditionIds": ["catholic"],
+      "sources": ["neill-missions", "moffett-asia"],
       "confidence": "established"
     },
     {
@@ -154,36 +74,16 @@
       "title": "Diet of Worms",
       "year": 1521,
       "circa": false,
-      "place": {
-        "name": "Worms",
-        "lat": 49.6341,
-        "lng": 8.3507
-      },
+      "place": {"name": "Worms", "lat": 49.6341, "lng": 8.3507},
       "category": "political",
-      "regions": [
-        "western-europe"
-      ],
+      "regions": ["western-europe"],
       "summary": "Summoned before Emperor Charles V, Luther refused to recant unless convinced by Scripture and plain reason, declaring his conscience 'captive to the Word of God'. The Edict of Worms outlawed him, but Frederick the Wise hid him at the Wartburg, where he translated the New Testament into German.",
-      "causes": [
-        "Papal excommunication (1521)"
-      ],
-      "consequences": [
-        "Luther's German New Testament (1522)",
-        "Princely protection of the Reformation"
-      ],
-      "peopleIds": [
-        "martin-luther"
-      ],
-      "doctrineIds": [
-        "scripture-authority"
-      ],
-      "traditionIds": [
-        "lutheran"
-      ],
-      "sources": [
-        "macculloch-reformation",
-        "noll-turning-points"
-      ],
+      "causes": ["Papal excommunication (1521)"],
+      "consequences": ["Luther's German New Testament (1522)", "Princely protection of the Reformation"],
+      "peopleIds": ["martin-luther"],
+      "doctrineIds": ["scripture-authority"],
+      "traditionIds": ["lutheran"],
+      "sources": ["macculloch-reformation", "noll-turning-points"],
       "confidence": "established"
     },
     {
@@ -191,32 +91,16 @@
       "title": "The 'Twelve Apostles' Franciscans reach Mexico",
       "year": 1524,
       "circa": false,
-      "place": {
-        "name": "Mexico City",
-        "lat": 19.4326,
-        "lng": -99.1332
-      },
+      "place": {"name": "Mexico City", "lat": 19.4326, "lng": -99.1332},
       "category": "mission",
-      "regions": [
-        "latin-america"
-      ],
+      "regions": ["latin-america"],
       "summary": "Twelve Franciscans led by Martín de Valencia arrived in New Spain, walked barefoot to Mexico City and were welcomed by Cortés. They and later friars baptised vast numbers, learned Nahuatl and founded schools such as the Colegio de Santa Cruz de Tlatelolco for Indigenous nobles.",
-      "causes": [
-        "Conquest of Tenochtitlan (1521)"
-      ],
-      "consequences": [
-        "Mendicant evangelisation of Mesoamerica",
-        "Debates on mass baptism"
-      ],
+      "causes": ["Conquest of Tenochtitlan (1521)"],
+      "consequences": ["Mendicant evangelisation of Mesoamerica", "Debates on mass baptism"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "gonzalez-latin-america",
-        "neill-missions"
-      ],
+      "traditionIds": ["catholic"],
+      "sources": ["gonzalez-latin-america", "neill-missions"],
       "confidence": "established"
     },
     {
@@ -224,42 +108,17 @@
       "title": "First believers' baptisms in Zürich",
       "year": 1525,
       "circa": false,
-      "place": {
-        "name": "Zürich",
-        "lat": 47.3769,
-        "lng": 8.5417
-      },
+      "place": {"name": "Zürich", "lat": 47.3769, "lng": 8.5417},
       "category": "reform",
-      "regions": [
-        "western-europe"
-      ],
+      "regions": ["western-europe"],
       "summary": "On 21 January 1525, after the Zürich council ordered infant baptism, Conrad Grebel baptised George Blaurock in Felix Manz's house, and Blaurock baptised others. The 'rebaptizers' (Anabaptists) sought a free church of committed believers separate from the state; Manz was drowned in 1527.",
       "longText": "Grebel and Manz were among Zwingli's most zealous followers, but by 1524 they concluded that the reform was moving too slowly and remained under the city council's control. They found no infant baptism in the New Testament and argued that the church should be a voluntary community of disciples practising mutual discipline. The council's January 1525 disputation decided for infant baptism; that evening the group baptised one another. Persecution was swift — imprisonment, exile and in 1527 the drowning of Manz in the Limmat. The movement spread through Switzerland, South Germany, Austria and the Netherlands, drawing on diverse roots, and was persecuted by Catholics and Protestants alike. Mennonites, Amish, Hutterites and many Baptists honour these first baptisms as the birth of the believers' church tradition; Reformed and Lutheran churches long condemned it but in the 21st century have expressed regret for the persecution.",
-      "causes": [
-        "Disagreement with Zwingli over pace of reform",
-        "Biblicist reading of baptism"
-      ],
-      "consequences": [
-        "Anabaptist movement",
-        "Persecution by Catholics and Protestants",
-        "Believers' church tradition"
-      ],
-      "peopleIds": [
-        "conrad-grebel",
-        "huldrych-zwingli"
-      ],
-      "doctrineIds": [
-        "baptism",
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "anabaptist",
-        "reformed"
-      ],
-      "sources": [
-        "williams-radical-reformation",
-        "macculloch-reformation"
-      ],
+      "causes": ["Disagreement with Zwingli over pace of reform", "Biblicist reading of baptism"],
+      "consequences": ["Anabaptist movement", "Persecution by Catholics and Protestants", "Believers' church tradition"],
+      "peopleIds": ["conrad-grebel", "huldrych-zwingli"],
+      "doctrineIds": ["baptism", "ethics-church-state"],
+      "traditionIds": ["anabaptist", "reformed"],
+      "sources": ["williams-radical-reformation", "macculloch-reformation"],
       "confidence": "established"
     },
     {
@@ -267,35 +126,16 @@
       "title": "Schleitheim Confession",
       "year": 1527,
       "circa": false,
-      "place": {
-        "name": "Schleitheim",
-        "lat": 47.7489,
-        "lng": 8.4875
-      },
+      "place": {"name": "Schleitheim", "lat": 47.7489, "lng": 8.4875},
       "category": "council",
-      "regions": [
-        "western-europe"
-      ],
+      "regions": ["western-europe"],
       "summary": "Swiss Brethren meeting at Schleitheim under Michael Sattler agreed on seven articles: believers' baptism, the ban, the Lord's Supper as memorial of the baptised, separation from the world, pastors, nonresistance (refusal of the sword) and refusal of oaths. Sattler was executed months later.",
-      "causes": [
-        "Need for unity among scattered Anabaptists"
-      ],
-      "consequences": [
-        "Foundational Anabaptist statement",
-        "Separatist nonresistant ethic of Mennonites and Amish"
-      ],
+      "causes": ["Need for unity among scattered Anabaptists"],
+      "consequences": ["Foundational Anabaptist statement", "Separatist nonresistant ethic of Mennonites and Amish"],
       "peopleIds": [],
-      "doctrineIds": [
-        "baptism",
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "anabaptist"
-      ],
-      "sources": [
-        "williams-radical-reformation",
-        "schaff-creeds"
-      ],
+      "doctrineIds": ["baptism", "ethics-church-state"],
+      "traditionIds": ["anabaptist"],
+      "sources": ["williams-radical-reformation", "schaff-creeds"],
       "confidence": "established"
     },
     {
@@ -303,37 +143,16 @@
       "title": "Marburg Colloquy",
       "year": 1529,
       "circa": false,
-      "place": {
-        "name": "Marburg",
-        "lat": 50.8021,
-        "lng": 8.7667
-      },
+      "place": {"name": "Marburg", "lat": 50.8021, "lng": 8.7667},
       "category": "council",
-      "regions": [
-        "western-europe"
-      ],
+      "regions": ["western-europe"],
       "summary": "Philip of Hesse brought Luther and Zwingli together to unite the Protestant cause. They agreed on fourteen of fifteen articles but not on Christ's presence in the Lord's Supper: Luther insisted on 'This is my body', Zwingli on a spiritual and memorial understanding.",
-      "causes": [
-        "Political need for a Protestant alliance"
-      ],
-      "consequences": [
-        "Lasting division between Lutheran and Reformed Protestants"
-      ],
-      "peopleIds": [
-        "martin-luther",
-        "huldrych-zwingli",
-        "philip-melanchthon"
-      ],
-      "doctrineIds": [
-        "church-sacraments"
-      ],
-      "traditionIds": [
-        "lutheran",
-        "reformed"
-      ],
-      "sources": [
-        "macculloch-reformation"
-      ],
+      "causes": ["Political need for a Protestant alliance"],
+      "consequences": ["Lasting division between Lutheran and Reformed Protestants"],
+      "peopleIds": ["martin-luther", "huldrych-zwingli", "philip-melanchthon"],
+      "doctrineIds": ["church-sacraments"],
+      "traditionIds": ["lutheran", "reformed"],
+      "sources": ["macculloch-reformation"],
       "confidence": "established"
     },
     {
@@ -341,39 +160,16 @@
       "title": "Augsburg Confession",
       "year": 1530,
       "circa": false,
-      "place": {
-        "name": "Augsburg",
-        "lat": 48.3705,
-        "lng": 10.8978
-      },
+      "place": {"name": "Augsburg", "lat": 48.3705, "lng": 10.8978},
       "category": "council",
-      "regions": [
-        "western-europe"
-      ],
+      "regions": ["western-europe"],
       "summary": "Drafted by Philip Melanchthon and presented to Charles V at the Diet of Augsburg on 25 June 1530, the confession set out Lutheran doctrine — justification by faith, the church as where the gospel is purely preached and sacraments rightly administered — and the abuses corrected. It remains the chief Lutheran confession.",
-      "causes": [
-        "Imperial demand for a statement of faith"
-      ],
-      "consequences": [
-        "Lutheran confessional identity",
-        "Basis of legal recognition in 1555"
-      ],
-      "peopleIds": [
-        "philip-melanchthon",
-        "martin-luther"
-      ],
-      "doctrineIds": [
-        "salvation",
-        "church-sacraments"
-      ],
-      "traditionIds": [
-        "lutheran"
-      ],
-      "sources": [
-        "book-of-concord",
-        "schaff-creeds",
-        "macculloch-reformation"
-      ],
+      "causes": ["Imperial demand for a statement of faith"],
+      "consequences": ["Lutheran confessional identity", "Basis of legal recognition in 1555"],
+      "peopleIds": ["philip-melanchthon", "martin-luther"],
+      "doctrineIds": ["salvation", "church-sacraments"],
+      "traditionIds": ["lutheran"],
+      "sources": ["book-of-concord", "schaff-creeds", "macculloch-reformation"],
       "confidence": "established"
     },
     {
@@ -381,34 +177,16 @@
       "title": "Apparition of Our Lady of Guadalupe (tradition)",
       "year": 1531,
       "circa": false,
-      "place": {
-        "name": "Tepeyac, Mexico City",
-        "lat": 19.4847,
-        "lng": -99.1172
-      },
+      "place": {"name": "Tepeyac, Mexico City", "lat": 19.4847, "lng": -99.1172},
       "category": "experiential",
-      "regions": [
-        "latin-america"
-      ],
+      "regions": ["latin-america"],
       "summary": "According to the Nican Mopohua (published 1649), the Virgin Mary appeared to the Nahua convert Juan Diego at Tepeyac in December 1531, leaving her image on his cloak. Documentary evidence before the 1640s is scant and historians debate the tradition's origins, but Guadalupe became the central symbol of Mexican and Latin American Catholicism.",
-      "causes": [
-        "Encounter of Indigenous and Spanish religion after conquest"
-      ],
-      "consequences": [
-        "Mass devotion; most-visited Marian shrine",
-        "Symbol of Indigenous and mestizo dignity"
-      ],
+      "causes": ["Encounter of Indigenous and Spanish religion after conquest"],
+      "consequences": ["Mass devotion; most-visited Marian shrine", "Symbol of Indigenous and mestizo dignity"],
       "peopleIds": [],
-      "doctrineIds": [
-        "mary-saints"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "gonzalez-latin-america",
-        "odcc"
-      ],
+      "doctrineIds": ["mary-saints"],
+      "traditionIds": ["catholic"],
+      "sources": ["gonzalez-latin-america", "odcc"],
       "confidence": "traditional"
     },
     {
@@ -416,39 +194,16 @@
       "title": "Act of Supremacy",
       "year": 1534,
       "circa": false,
-      "place": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
+      "place": {"name": "London", "lat": 51.5074, "lng": -0.1278},
       "category": "political",
-      "regions": [
-        "northern-europe"
-      ],
+      "regions": ["northern-europe"],
       "summary": "Parliament declared Henry VIII 'the only supreme head in earth of the Church of England', breaking with Rome after the pope refused to annul his marriage to Catherine of Aragon. Thomas More and John Fisher were executed for refusing the oath; monasteries were dissolved from 1536.",
-      "causes": [
-        "Henry's annulment crisis",
-        "Anticlericalism and evangelical influence"
-      ],
-      "consequences": [
-        "Church of England independent of Rome",
-        "Dissolution of the monasteries",
-        "Path to the Anglican settlement"
-      ],
-      "peopleIds": [
-        "thomas-cranmer"
-      ],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "anglican",
-        "catholic"
-      ],
-      "sources": [
-        "macculloch-reformation",
-        "chapman-anglicanism"
-      ],
+      "causes": ["Henry's annulment crisis", "Anticlericalism and evangelical influence"],
+      "consequences": ["Church of England independent of Rome", "Dissolution of the monasteries", "Path to the Anglican settlement"],
+      "peopleIds": ["thomas-cranmer"],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["anglican", "catholic"],
+      "sources": ["macculloch-reformation", "chapman-anglicanism"],
       "confidence": "established"
     },
     {
@@ -457,38 +212,16 @@
       "year": 1534,
       "endYear": 1535,
       "circa": false,
-      "place": {
-        "name": "Münster",
-        "lat": 51.9607,
-        "lng": 7.6261
-      },
+      "place": {"name": "Münster", "lat": 51.9607, "lng": 7.6261},
       "category": "political",
-      "regions": [
-        "western-europe"
-      ],
+      "regions": ["western-europe"],
       "summary": "Apocalyptic Melchiorite Anabaptists led by Jan Matthys and Jan van Leiden took over Münster, proclaimed it the New Jerusalem, introduced community of goods and later polygamy. Besieged by Catholic and Lutheran forces, the city fell in June 1535 with mass executions.",
-      "causes": [
-        "Apocalyptic expectation",
-        "Social unrest"
-      ],
-      "consequences": [
-        "Anabaptism discredited and harshly persecuted",
-        "Menno Simons' turn to a peaceful Anabaptism"
-      ],
-      "peopleIds": [
-        "menno-simons"
-      ],
-      "doctrineIds": [
-        "eschatology",
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "anabaptist"
-      ],
-      "sources": [
-        "williams-radical-reformation",
-        "macculloch-reformation"
-      ],
+      "causes": ["Apocalyptic expectation", "Social unrest"],
+      "consequences": ["Anabaptism discredited and harshly persecuted", "Menno Simons' turn to a peaceful Anabaptism"],
+      "peopleIds": ["menno-simons"],
+      "doctrineIds": ["eschatology", "ethics-church-state"],
+      "traditionIds": ["anabaptist"],
+      "sources": ["williams-radical-reformation", "macculloch-reformation"],
       "confidence": "established"
     },
     {
@@ -496,39 +229,16 @@
       "title": "Calvin's Institutes and Reformation Geneva",
       "year": 1536,
       "circa": false,
-      "place": {
-        "name": "Geneva",
-        "lat": 46.2044,
-        "lng": 6.1432
-      },
+      "place": {"name": "Geneva", "lat": 46.2044, "lng": 6.1432},
       "category": "reform",
-      "regions": [
-        "western-europe"
-      ],
+      "regions": ["western-europe"],
       "summary": "John Calvin published the first edition of the Institutes of the Christian Religion in Basel and was persuaded by Farel to stay in Geneva. Expelled in 1538 and returning in 1541, he organised the city's church with consistory, academy (1559) and missionary outreach to France.",
-      "causes": [
-        "French evangelical persecution",
-        "Swiss Reformation"
-      ],
-      "consequences": [
-        "Reformed theology and polity spread across Europe",
-        "Geneva as training centre"
-      ],
-      "peopleIds": [
-        "john-calvin"
-      ],
-      "doctrineIds": [
-        "salvation",
-        "scripture-authority",
-        "church-sacraments"
-      ],
-      "traditionIds": [
-        "reformed"
-      ],
-      "sources": [
-        "macculloch-reformation",
-        "gonzalez-story"
-      ],
+      "causes": ["French evangelical persecution", "Swiss Reformation"],
+      "consequences": ["Reformed theology and polity spread across Europe", "Geneva as training centre"],
+      "peopleIds": ["john-calvin"],
+      "doctrineIds": ["salvation", "scripture-authority", "church-sacraments"],
+      "traditionIds": ["reformed"],
+      "sources": ["macculloch-reformation", "gonzalez-story"],
       "confidence": "established"
     },
     {
@@ -536,36 +246,16 @@
       "title": "Society of Jesus approved",
       "year": 1540,
       "circa": false,
-      "place": {
-        "name": "Rome",
-        "lat": 41.9022,
-        "lng": 12.4539
-      },
+      "place": {"name": "Rome", "lat": 41.9022, "lng": 12.4539},
       "category": "reform",
-      "regions": [
-        "italy",
-        "global"
-      ],
+      "regions": ["italy", "global"],
       "summary": "Paul III approved the Society of Jesus founded by Ignatius of Loyola and companions including Francis Xavier. Bound by obedience to the pope for missions, the Jesuits became the spearhead of Catholic renewal, education and global mission.",
-      "causes": [
-        "Ignatius' conversion and Spiritual Exercises"
-      ],
-      "consequences": [
-        "Jesuit colleges",
-        "Missions in Asia, the Americas and Africa"
-      ],
-      "peopleIds": [
-        "ignatius-of-loyola",
-        "francis-xavier"
-      ],
+      "causes": ["Ignatius' conversion and Spiritual Exercises"],
+      "consequences": ["Jesuit colleges", "Missions in Asia, the Americas and Africa"],
+      "peopleIds": ["ignatius-of-loyola", "francis-xavier"],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "macculloch-reformation",
-        "neill-missions"
-      ],
+      "traditionIds": ["catholic"],
+      "sources": ["macculloch-reformation", "neill-missions"],
       "confidence": "established"
     },
     {
@@ -574,46 +264,17 @@
       "year": 1545,
       "endYear": 1563,
       "circa": false,
-      "place": {
-        "name": "Trento",
-        "lat": 46.0748,
-        "lng": 11.1217
-      },
+      "place": {"name": "Trento", "lat": 46.0748, "lng": 11.1217},
       "category": "council",
-      "regions": [
-        "italy",
-        "western-europe",
-        "global"
-      ],
+      "regions": ["italy", "western-europe", "global"],
       "summary": "Meeting in three periods, Trent answered the Protestant challenge by affirming Scripture and tradition, the deuterocanonical books, justification as a process involving cooperation with grace, seven sacraments, transubstantiation and the sacrifice of the Mass. It also reformed clergy, mandated seminaries and required bishops to reside in their dioceses.",
       "longText": "Trent was the Catholic Church's definitive response to the Reformation and shaped Catholicism until the Second Vatican Council. Its decree on justification (1547) taught that justification is God's free gift, received through faith, which truly renews the believer, and that one may grow in it and lose it through mortal sin; it condemned the view that justifying faith is merely confidence in mercy. The council defined the canon including Tobit, Judith, Wisdom, Sirach, Baruch and Maccabees, and declared the Vulgate authentic for public use. Disciplinary decrees attacked absenteeism, pluralism and ignorance among clergy. Protestants were invited to the second period but found the conditions unacceptable. The Roman Catechism (1566), revised Missal (1570) and breviary followed. Protestants saw Trent as entrenching errors; Catholics see it as clarifying doctrine and launching a genuine reform. The 1999 Joint Declaration states that the mutual condemnations of the 16th century do not apply to the Lutheran and Catholic teaching as presented there.",
-      "causes": [
-        "Protestant Reformation",
-        "Long-standing demands for reform"
-      ],
-      "consequences": [
-        "Tridentine Catholicism",
-        "Seminaries and catechism",
-        "Fixed Catholic canon",
-        "Roman Missal of 1570"
-      ],
-      "peopleIds": [
-        "ignatius-of-loyola"
-      ],
-      "doctrineIds": [
-        "salvation",
-        "scripture-authority",
-        "church-sacraments",
-        "mary-saints"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "tanner-decrees",
-        "mcgrath-iustitia",
-        "macculloch-reformation"
-      ],
+      "causes": ["Protestant Reformation", "Long-standing demands for reform"],
+      "consequences": ["Tridentine Catholicism", "Seminaries and catechism", "Fixed Catholic canon", "Roman Missal of 1570"],
+      "peopleIds": ["ignatius-of-loyola"],
+      "doctrineIds": ["salvation", "scripture-authority", "church-sacraments", "mary-saints"],
+      "traditionIds": ["catholic"],
+      "sources": ["tanner-decrees", "mcgrath-iustitia", "macculloch-reformation"],
       "confidence": "established"
     },
     {
@@ -621,35 +282,16 @@
       "title": "Francis Xavier begins the mission to Japan",
       "year": 1549,
       "circa": false,
-      "place": {
-        "name": "Kagoshima",
-        "lat": 31.5966,
-        "lng": 130.5571
-      },
+      "place": {"name": "Kagoshima", "lat": 31.5966, "lng": 130.5571},
       "category": "mission",
-      "regions": [
-        "east-asia"
-      ],
+      "regions": ["east-asia"],
       "summary": "Francis Xavier, with the Japanese convert Anjirō, landed at Kagoshima on 15 August 1549 and preached in several cities. Jesuits adapted to Japanese culture; by 1600 there were perhaps 300,000 Christians, including daimyō, before persecution under Hideyoshi and the Tokugawa.",
-      "causes": [
-        "Portuguese trade with Japan",
-        "Xavier's meeting with Anjirō in Malacca"
-      ],
-      "consequences": [
-        "'Christian century' of Japan",
-        "Martyrs and hidden Christians (Kakure Kirishitan)"
-      ],
-      "peopleIds": [
-        "francis-xavier"
-      ],
+      "causes": ["Portuguese trade with Japan", "Xavier's meeting with Anjirō in Malacca"],
+      "consequences": ["'Christian century' of Japan", "Martyrs and hidden Christians (Kakure Kirishitan)"],
+      "peopleIds": ["francis-xavier"],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "boxer-christian-century",
-        "moffett-asia"
-      ],
+      "traditionIds": ["catholic"],
+      "sources": ["boxer-christian-century", "moffett-asia"],
       "confidence": "established"
     },
     {
@@ -658,38 +300,16 @@
       "year": 1550,
       "endYear": 1551,
       "circa": false,
-      "place": {
-        "name": "Valladolid",
-        "lat": 41.6523,
-        "lng": -4.7245
-      },
+      "place": {"name": "Valladolid", "lat": 41.6523, "lng": -4.7245},
       "category": "intellectual",
-      "regions": [
-        "latin-america",
-        "western-europe"
-      ],
+      "regions": ["latin-america", "western-europe"],
       "summary": "Before a royal junta, Bartolomé de las Casas argued that Indigenous Americans were rational peoples with rights who must be evangelised peacefully, against Juan Ginés de Sepúlveda's Aristotelian case that they were 'natural slaves' who could be conquered. No formal verdict was issued, but the debate is a landmark in the history of human rights.",
-      "causes": [
-        "Abuses of the encomienda",
-        "New Laws of 1542"
-      ],
-      "consequences": [
-        "Theological roots of universal human rights",
-        "Continuing colonial exploitation nonetheless"
-      ],
-      "peopleIds": [
-        "bartolome-de-las-casas"
-      ],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "gonzalez-latin-america",
-        "neill-missions"
-      ],
+      "causes": ["Abuses of the encomienda", "New Laws of 1542"],
+      "consequences": ["Theological roots of universal human rights", "Continuing colonial exploitation nonetheless"],
+      "peopleIds": ["bartolome-de-las-casas"],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["catholic"],
+      "sources": ["gonzalez-latin-america", "neill-missions"],
       "confidence": "established"
     },
     {
@@ -697,34 +317,16 @@
       "title": "Peace of Augsburg",
       "year": 1555,
       "circa": false,
-      "place": {
-        "name": "Augsburg",
-        "lat": 48.3705,
-        "lng": 10.8978
-      },
+      "place": {"name": "Augsburg", "lat": 48.3705, "lng": 10.8978},
       "category": "political",
-      "regions": [
-        "western-europe"
-      ],
+      "regions": ["western-europe"],
       "summary": "The Holy Roman Empire recognised Lutheranism alongside Catholicism, allowing each prince to determine his territory's religion — later summarised as cuius regio, eius religio. Reformed and Anabaptist believers were excluded.",
-      "causes": [
-        "Failure to defeat the Schmalkaldic League permanently"
-      ],
-      "consequences": [
-        "Territorial confessional churches",
-        "Tensions leading to the Thirty Years' War"
-      ],
+      "causes": ["Failure to defeat the Schmalkaldic League permanently"],
+      "consequences": ["Territorial confessional churches", "Tensions leading to the Thirty Years' War"],
       "peopleIds": [],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "lutheran",
-        "catholic"
-      ],
-      "sources": [
-        "macculloch-reformation"
-      ],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["lutheran", "catholic"],
+      "sources": ["macculloch-reformation"],
       "confidence": "established"
     },
     {
@@ -732,37 +334,16 @@
       "title": "St Bartholomew's Day Massacre",
       "year": 1572,
       "circa": false,
-      "place": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
+      "place": {"name": "Paris", "lat": 48.8566, "lng": 2.3522},
       "category": "persecution",
-      "regions": [
-        "western-europe"
-      ],
+      "regions": ["western-europe"],
       "summary": "Beginning on 24 August 1572, days after the wedding of the Protestant Henry of Navarre, Catholic mobs and royal troops killed Huguenot leaders including Admiral Coligny and thousands of Protestants in Paris and the provinces. Pope Gregory XIII celebrated a Te Deum; Protestant Europe was horrified.",
-      "causes": [
-        "French Wars of Religion",
-        "Court factions around Catherine de' Medici"
-      ],
-      "consequences": [
-        "Huguenot resistance theory",
-        "Edict of Nantes (1598) after further war"
-      ],
-      "peopleIds": [
-        "theodore-beza"
-      ],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "reformed",
-        "catholic"
-      ],
-      "sources": [
-        "macculloch-reformation"
-      ],
+      "causes": ["French Wars of Religion", "Court factions around Catherine de' Medici"],
+      "consequences": ["Huguenot resistance theory", "Edict of Nantes (1598) after further war"],
+      "peopleIds": ["theodore-beza"],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["reformed", "catholic"],
+      "sources": ["macculloch-reformation"],
       "confidence": "established"
     },
     {
@@ -770,30 +351,16 @@
       "title": "Patriarchate of Moscow established",
       "year": 1589,
       "circa": false,
-      "place": {
-        "name": "Moscow",
-        "lat": 55.7558,
-        "lng": 37.6173
-      },
+      "place": {"name": "Moscow", "lat": 55.7558, "lng": 37.6173},
       "category": "reform",
-      "regions": [
-        "russia"
-      ],
+      "regions": ["russia"],
       "summary": "Patriarch Jeremias II of Constantinople, visiting Moscow, elevated Metropolitan Job to patriarch, recognised by the other Eastern patriarchs in 1590–93. Russia took fifth place among the Orthodox patriarchates.",
-      "causes": [
-        "Russian power and Ottoman-era poverty of the Greek patriarchates"
-      ],
-      "consequences": [
-        "Russian Orthodox Church as leading Orthodox body"
-      ],
+      "causes": ["Russian power and Ottoman-era poverty of the Greek patriarchates"],
+      "consequences": ["Russian Orthodox Church as leading Orthodox body"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "russian-orthodox"
-      ],
-      "sources": [
-        "ware-orthodox-church"
-      ],
+      "traditionIds": ["russian-orthodox"],
+      "sources": ["ware-orthodox-church"],
       "confidence": "established"
     },
     {
@@ -801,36 +368,16 @@
       "title": "Union of Brest",
       "year": 1596,
       "circa": false,
-      "place": {
-        "name": "Brest",
-        "lat": 52.0976,
-        "lng": 23.7341
-      },
+      "place": {"name": "Brest", "lat": 52.0976, "lng": 23.7341},
       "category": "schism",
-      "regions": [
-        "eastern-europe"
-      ],
+      "regions": ["eastern-europe"],
       "summary": "Most Orthodox bishops of the Kyivan metropolia in the Polish–Lithuanian Commonwealth accepted the authority of Rome while keeping their Byzantine liturgy and married clergy. The Ruthenian (today Ukrainian Greek Catholic) Church was born; other Orthodox resisted, leading to long conflict.",
-      "causes": [
-        "Polish Catholic pressure",
-        "Weakness of Constantinople"
-      ],
-      "consequences": [
-        "Eastern Catholic churches of Byzantine rite",
-        "Orthodox resistance and confraternities",
-        "Orthodox charges of 'uniatism'"
-      ],
+      "causes": ["Polish Catholic pressure", "Weakness of Constantinople"],
+      "consequences": ["Eastern Catholic churches of Byzantine rite", "Orthodox resistance and confraternities", "Orthodox charges of 'uniatism'"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "eastern-catholic",
-        "eastern-orthodox",
-        "catholic"
-      ],
-      "sources": [
-        "roberson-eastern-churches",
-        "ware-orthodox-church"
-      ],
+      "traditionIds": ["eastern-catholic", "eastern-orthodox", "catholic"],
+      "sources": ["roberson-eastern-churches", "ware-orthodox-church"],
       "confidence": "established"
     },
     {
@@ -838,32 +385,16 @@
       "title": "Twenty-six Martyrs of Nagasaki",
       "year": 1597,
       "circa": false,
-      "place": {
-        "name": "Nishizaka Hill, Nagasaki",
-        "lat": 32.7531,
-        "lng": 129.8749
-      },
+      "place": {"name": "Nishizaka Hill, Nagasaki", "lat": 32.7531, "lng": 129.8749},
       "category": "persecution",
-      "regions": [
-        "east-asia"
-      ],
+      "regions": ["east-asia"],
       "summary": "On Toyotomi Hideyoshi's order, six Franciscans, three Japanese Jesuits and seventeen Japanese laymen, including boys, were crucified at Nagasaki on 5 February 1597. It was the first great blow against Japanese Christianity.",
-      "causes": [
-        "Hideyoshi's suspicion of Spanish colonial ambitions"
-      ],
-      "consequences": [
-        "Martyr cult",
-        "Prelude to the Tokugawa ban of 1614"
-      ],
+      "causes": ["Hideyoshi's suspicion of Spanish colonial ambitions"],
+      "consequences": ["Martyr cult", "Prelude to the Tokugawa ban of 1614"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "boxer-christian-century",
-        "moffett-asia"
-      ],
+      "traditionIds": ["catholic"],
+      "sources": ["boxer-christian-century", "moffett-asia"],
       "confidence": "established"
     },
     {
@@ -871,35 +402,16 @@
       "title": "Synod of Diamper",
       "year": 1599,
       "circa": false,
-      "place": {
-        "name": "Udayamperoor (Diamper), Kerala",
-        "lat": 9.904,
-        "lng": 76.363
-      },
+      "place": {"name": "Udayamperoor (Diamper), Kerala", "lat": 9.904, "lng": 76.363},
       "category": "council",
-      "regions": [
-        "india"
-      ],
+      "regions": ["india"],
       "summary": "Archbishop Aleixo de Menezes of Goa convened the St Thomas Christians and imposed Latin practices, condemned 'Nestorian' books (many burned) and severed ties with the Church of the East. Resentment of Latinisation exploded in the Coonan Cross Oath of 1653.",
-      "causes": [
-        "Portuguese padroado ambitions",
-        "Suspicion of East Syriac theology"
-      ],
-      "consequences": [
-        "Latinisation of the Thomas Christians",
-        "Later divisions among Kerala's churches"
-      ],
+      "causes": ["Portuguese padroado ambitions", "Suspicion of East Syriac theology"],
+      "consequences": ["Latinisation of the Thomas Christians", "Later divisions among Kerala's churches"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic",
-        "church-of-the-east",
-        "malankara-orthodox"
-      ],
-      "sources": [
-        "frykenberg-india",
-        "moffett-asia"
-      ],
+      "traditionIds": ["catholic", "church-of-the-east", "malankara-orthodox"],
+      "sources": ["frykenberg-india", "moffett-asia"],
       "confidence": "established"
     },
     {
@@ -907,34 +419,16 @@
       "title": "Matteo Ricci admitted to Beijing",
       "year": 1601,
       "circa": false,
-      "place": {
-        "name": "Beijing",
-        "lat": 39.9042,
-        "lng": 116.4074
-      },
+      "place": {"name": "Beijing", "lat": 39.9042, "lng": 116.4074},
       "category": "mission",
-      "regions": [
-        "east-asia"
-      ],
+      "regions": ["east-asia"],
       "summary": "After eighteen years in southern China, the Jesuit Matteo Ricci was permitted to reside in Beijing at the Wanli court. Dressed as a Confucian scholar, he presented Christianity through Chinese classics, maps and science, winning converts such as Xu Guangqi and allowing ancestral rites as civil honours.",
-      "causes": [
-        "Jesuit accommodation strategy"
-      ],
-      "consequences": [
-        "Catholic literati communities",
-        "Chinese Rites controversy"
-      ],
-      "peopleIds": [
-        "matteo-ricci"
-      ],
+      "causes": ["Jesuit accommodation strategy"],
+      "consequences": ["Catholic literati communities", "Chinese Rites controversy"],
+      "peopleIds": ["matteo-ricci"],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "bays-china",
-        "moffett-asia"
-      ],
+      "traditionIds": ["catholic"],
+      "sources": ["bays-china", "moffett-asia"],
       "confidence": "established"
     },
     {
@@ -943,33 +437,16 @@
       "year": 1614,
       "endYear": 1638,
       "circa": false,
-      "place": {
-        "name": "Hara Castle, Shimabara",
-        "lat": 32.6297,
-        "lng": 130.2564
-      },
+      "place": {"name": "Hara Castle, Shimabara", "lat": 32.6297, "lng": 130.2564},
       "category": "persecution",
-      "regions": [
-        "east-asia"
-      ],
+      "regions": ["east-asia"],
       "summary": "The Tokugawa shogunate banned Christianity in 1614, expelling missionaries and forcing believers to trample images (fumi-e). After the largely Christian Shimabara rebellion was crushed in 1638, Japan closed itself; 'hidden Christians' preserved a secret faith for over two centuries.",
-      "causes": [
-        "Fear of European colonisation",
-        "Political consolidation"
-      ],
-      "consequences": [
-        "Kakure Kirishitan",
-        "Japanese sakoku isolation"
-      ],
+      "causes": ["Fear of European colonisation", "Political consolidation"],
+      "consequences": ["Kakure Kirishitan", "Japanese sakoku isolation"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "boxer-christian-century",
-        "moffett-asia"
-      ],
+      "traditionIds": ["catholic"],
+      "sources": ["boxer-christian-century", "moffett-asia"],
       "confidence": "established"
     },
     {
@@ -978,42 +455,17 @@
       "year": 1618,
       "endYear": 1619,
       "circa": false,
-      "place": {
-        "name": "Dordrecht",
-        "lat": 51.8133,
-        "lng": 4.6901
-      },
+      "place": {"name": "Dordrecht", "lat": 51.8133, "lng": 4.6901},
       "category": "council",
-      "regions": [
-        "western-europe",
-        "northern-europe"
-      ],
+      "regions": ["western-europe", "northern-europe"],
       "summary": "The Dutch Reformed Church, with delegates from Britain, Switzerland and Germany, rejected the five articles of the Remonstrants (followers of Arminius) and affirmed unconditional election, particular redemption, total depravity, irresistible grace and perseverance — later the 'five points of Calvinism'. Remonstrant ministers were deposed.",
       "longText": "After Jacobus Arminius' death in 1609, his followers presented a Remonstrance (1610) teaching conditional election based on foreseen faith, universal atonement, resistible grace and uncertainty about perseverance. The dispute intertwined with Dutch politics: Prince Maurice backed the Counter-Remonstrants against Oldenbarnevelt, who was executed in 1619, while Hugo Grotius was imprisoned. The synod's Canons answered each Remonstrant article, insisting that salvation is wholly God's gracious work while denying that God is the author of sin. Together with the Belgic Confession and Heidelberg Catechism, they form the Three Forms of Unity of continental Reformed churches. Arminians regarded the synod as partisan and its doctrine as making God arbitrary; Arminian theology later flourished through Wesleyan Methodism, while Calvinists see Dort as safeguarding grace.",
-      "causes": [
-        "Arminian controversy",
-        "Dutch political conflict"
-      ],
-      "consequences": [
-        "Canons of Dort",
-        "Persecution and later toleration of Remonstrants",
-        "Calvinist–Arminian divide in Protestantism"
-      ],
-      "peopleIds": [
-        "jacobus-arminius",
-        "hugo-grotius"
-      ],
-      "doctrineIds": [
-        "salvation",
-        "atonement"
-      ],
-      "traditionIds": [
-        "reformed"
-      ],
-      "sources": [
-        "schaff-creeds",
-        "macculloch-reformation"
-      ],
+      "causes": ["Arminian controversy", "Dutch political conflict"],
+      "consequences": ["Canons of Dort", "Persecution and later toleration of Remonstrants", "Calvinist–Arminian divide in Protestantism"],
+      "peopleIds": ["jacobus-arminius", "hugo-grotius"],
+      "doctrineIds": ["salvation", "atonement"],
+      "traditionIds": ["reformed"],
+      "sources": ["schaff-creeds", "macculloch-reformation"],
       "confidence": "established"
     },
     {
@@ -1022,41 +474,16 @@
       "year": 1618,
       "endYear": 1648,
       "circa": false,
-      "place": {
-        "name": "Prague Castle",
-        "lat": 50.0911,
-        "lng": 14.4016
-      },
+      "place": {"name": "Prague Castle", "lat": 50.0911, "lng": 14.4016},
       "category": "political",
-      "regions": [
-        "western-europe",
-        "eastern-europe",
-        "northern-europe"
-      ],
+      "regions": ["western-europe", "eastern-europe", "northern-europe"],
       "summary": "Beginning with the Defenestration of Prague, a Bohemian Protestant revolt became a European war involving the empire, Sweden, Denmark, Spain and France. Germany lost perhaps a quarter to a third of its population; Bohemian Protestantism was suppressed after the White Mountain (1620).",
-      "causes": [
-        "Breakdown of the Augsburg settlement",
-        "Habsburg Counter-Reformation",
-        "Dynastic rivalries"
-      ],
-      "consequences": [
-        "Devastation of central Europe",
-        "Disillusion with confessional warfare",
-        "Exile of Bohemian Brethren"
-      ],
+      "causes": ["Breakdown of the Augsburg settlement", "Habsburg Counter-Reformation", "Dynastic rivalries"],
+      "consequences": ["Devastation of central Europe", "Disillusion with confessional warfare", "Exile of Bohemian Brethren"],
       "peopleIds": [],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "catholic",
-        "lutheran",
-        "reformed",
-        "hussite-moravian"
-      ],
-      "sources": [
-        "macculloch-reformation"
-      ],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["catholic", "lutheran", "reformed", "hussite-moravian"],
+      "sources": ["macculloch-reformation"],
       "confidence": "established"
     },
     {
@@ -1065,34 +492,16 @@
       "year": 1622,
       "endYear": 1632,
       "circa": false,
-      "place": {
-        "name": "Gorgora, Lake Tana",
-        "lat": 12.2333,
-        "lng": 37.3
-      },
+      "place": {"name": "Gorgora, Lake Tana", "lat": 12.2333, "lng": 37.3},
       "category": "schism",
-      "regions": [
-        "ethiopia-nubia"
-      ],
+      "regions": ["ethiopia-nubia"],
       "summary": "Persuaded by Jesuit Pedro Páez, Emperor Susenyos professed Catholicism (1622) and under Patriarch Afonso Mendes imposed Latin practices. Rebellion and bloodshed forced his abdication in 1632; his son Fasilides expelled the Jesuits and restored Orthodoxy, leaving a lasting Ethiopian suspicion of Western missions.",
-      "causes": [
-        "Portuguese aid against Adal",
-        "Jesuit influence at court"
-      ],
-      "consequences": [
-        "Civil war",
-        "Expulsion of Catholics; Ethiopian isolation"
-      ],
+      "causes": ["Portuguese aid against Adal", "Jesuit influence at court"],
+      "consequences": ["Civil war", "Expulsion of Catholics; Ethiopian isolation"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "ethiopian-orthodox-tewahedo",
-        "catholic"
-      ],
-      "sources": [
-        "hastings-church-in-africa",
-        "isichei-africa"
-      ],
+      "traditionIds": ["ethiopian-orthodox-tewahedo", "catholic"],
+      "sources": ["hastings-church-in-africa", "isichei-africa"],
       "confidence": "established"
     },
     {
@@ -1100,32 +509,16 @@
       "title": "Cyril Lucaris publishes a Calvinist-leaning confession",
       "year": 1629,
       "circa": false,
-      "place": {
-        "name": "Constantinople (Istanbul)",
-        "lat": 41.0082,
-        "lng": 28.9784
-      },
+      "place": {"name": "Constantinople (Istanbul)", "lat": 41.0082, "lng": 28.9784},
       "category": "intellectual",
-      "regions": [
-        "greece-balkans"
-      ],
+      "regions": ["greece-balkans"],
       "summary": "Patriarch Cyril Lucaris of Constantinople, seeking Protestant allies against Jesuit influence, issued a Confession of Faith (Geneva, 1629) with Reformed views on predestination and justification. He was strangled by Ottoman soldiers in 1638, and Orthodox synods (1638, 1642, 1672) condemned the confession.",
-      "causes": [
-        "Catholic–Protestant rivalry in the Ottoman capital"
-      ],
-      "consequences": [
-        "Orthodox confessional statements of Mogila and Dositheos"
-      ],
+      "causes": ["Catholic–Protestant rivalry in the Ottoman capital"],
+      "consequences": ["Orthodox confessional statements of Mogila and Dositheos"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "eastern-orthodox",
-        "reformed"
-      ],
-      "sources": [
-        "ware-orthodox-church",
-        "pelikan-christian-tradition"
-      ],
+      "traditionIds": ["eastern-orthodox", "reformed"],
+      "sources": ["ware-orthodox-church", "pelikan-christian-tradition"],
       "confidence": "established"
     },
     {
@@ -1133,34 +526,16 @@
       "title": "Puritan Massachusetts Bay Colony",
       "year": 1630,
       "circa": false,
-      "place": {
-        "name": "Boston",
-        "lat": 42.3601,
-        "lng": -71.0589
-      },
+      "place": {"name": "Boston", "lat": 42.3601, "lng": -71.0589},
       "category": "mission",
-      "regions": [
-        "north-america"
-      ],
+      "regions": ["north-america"],
       "summary": "John Winthrop led about a thousand Puritans to found Massachusetts Bay as a 'city upon a hill', a godly commonwealth of covenanted congregations. Congregationalist New England produced Harvard (1636), John Eliot's Algonquian Bible (1663) and, later, Jonathan Edwards.",
-      "causes": [
-        "Laudian pressure on English Puritans"
-      ],
-      "consequences": [
-        "New England Congregationalism",
-        "American covenantal ideals"
-      ],
+      "causes": ["Laudian pressure on English Puritans"],
+      "consequences": ["New England Congregationalism", "American covenantal ideals"],
       "peopleIds": [],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "congregationalist"
-      ],
-      "sources": [
-        "noll-christianity-us",
-        "ahlstrom-religious-history"
-      ],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["congregationalist"],
+      "sources": ["noll-christianity-us", "ahlstrom-religious-history"],
       "confidence": "established"
     },
     {
@@ -1169,42 +544,16 @@
       "year": 1643,
       "endYear": 1653,
       "circa": false,
-      "place": {
-        "name": "Westminster Abbey, London",
-        "lat": 51.4994,
-        "lng": -0.1273
-      },
+      "place": {"name": "Westminster Abbey, London", "lat": 51.4994, "lng": -0.1273},
       "category": "council",
-      "regions": [
-        "northern-europe"
-      ],
+      "regions": ["northern-europe"],
       "summary": "Called by the Long Parliament during the Civil War, 121 divines with Scottish commissioners drafted the Westminster Confession of Faith (1646), Larger and Shorter Catechisms and Directory of Public Worship. Adopted by the Church of Scotland, they became the standards of Presbyterianism worldwide.",
-      "causes": [
-        "English Civil War",
-        "Solemn League and Covenant with Scotland"
-      ],
-      "consequences": [
-        "Westminster Standards",
-        "Presbyterian identity",
-        "Later adaptations by Congregationalists and Baptists"
-      ],
-      "peopleIds": [
-        "john-owen",
-        "richard-baxter"
-      ],
-      "doctrineIds": [
-        "scripture-authority",
-        "salvation",
-        "church-sacraments"
-      ],
-      "traditionIds": [
-        "presbyterian",
-        "reformed"
-      ],
-      "sources": [
-        "schaff-creeds",
-        "macculloch-reformation"
-      ],
+      "causes": ["English Civil War", "Solemn League and Covenant with Scotland"],
+      "consequences": ["Westminster Standards", "Presbyterian identity", "Later adaptations by Congregationalists and Baptists"],
+      "peopleIds": ["john-owen", "richard-baxter"],
+      "doctrineIds": ["scripture-authority", "salvation", "church-sacraments"],
+      "traditionIds": ["presbyterian", "reformed"],
+      "sources": ["schaff-creeds", "macculloch-reformation"],
       "confidence": "established"
     },
     {
@@ -1212,36 +561,16 @@
       "title": "Peace of Westphalia",
       "year": 1648,
       "circa": false,
-      "place": {
-        "name": "Münster and Osnabrück",
-        "lat": 51.9607,
-        "lng": 7.6261
-      },
+      "place": {"name": "Münster and Osnabrück", "lat": 51.9607, "lng": 7.6261},
       "category": "political",
-      "regions": [
-        "western-europe",
-        "northern-europe"
-      ],
+      "regions": ["western-europe", "northern-europe"],
       "summary": "Treaties at Münster and Osnabrück ended the Thirty Years' War, recognised Calvinism alongside Lutheranism and Catholicism in the empire and fixed confessional boundaries as of 1624. Pope Innocent X protested in vain, signalling the decline of papal political power.",
-      "causes": [
-        "Exhaustion after three decades of war"
-      ],
-      "consequences": [
-        "Confessional map of Europe stabilised",
-        "State sovereignty in religious matters"
-      ],
+      "causes": ["Exhaustion after three decades of war"],
+      "consequences": ["Confessional map of Europe stabilised", "State sovereignty in religious matters"],
       "peopleIds": [],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "catholic",
-        "lutheran",
-        "reformed"
-      ],
-      "sources": [
-        "macculloch-reformation"
-      ],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["catholic", "lutheran", "reformed"],
+      "sources": ["macculloch-reformation"],
       "confidence": "established"
     },
     {
@@ -1249,39 +578,16 @@
       "title": "George Fox and the rise of the Quakers",
       "year": 1652,
       "circa": false,
-      "place": {
-        "name": "Firbank Fell, Westmorland",
-        "lat": 54.3667,
-        "lng": -2.5667
-      },
+      "place": {"name": "Firbank Fell, Westmorland", "lat": 54.3667, "lng": -2.5667},
       "category": "revival",
-      "regions": [
-        "northern-europe"
-      ],
+      "regions": ["northern-europe"],
       "summary": "After his vision on Pendle Hill, George Fox preached to about a thousand Seekers at Firbank Fell, launching the Religious Society of Friends. Quakers taught the Inward Light of Christ in every person, rejected clergy, sacraments and oaths, and endured severe persecution.",
-      "causes": [
-        "Radical sects of the Civil War era",
-        "Fox's spiritual search"
-      ],
-      "consequences": [
-        "Society of Friends",
-        "Pennsylvania (1681) as Quaker colony",
-        "Later anti-slavery activism"
-      ],
-      "peopleIds": [
-        "george-fox"
-      ],
-      "doctrineIds": [
-        "holy-spirit",
-        "church-sacraments"
-      ],
-      "traditionIds": [
-        "quaker"
-      ],
-      "sources": [
-        "dandelion-quakers",
-        "macculloch-christianity"
-      ],
+      "causes": ["Radical sects of the Civil War era", "Fox's spiritual search"],
+      "consequences": ["Society of Friends", "Pennsylvania (1681) as Quaker colony", "Later anti-slavery activism"],
+      "peopleIds": ["george-fox"],
+      "doctrineIds": ["holy-spirit", "church-sacraments"],
+      "traditionIds": ["quaker"],
+      "sources": ["dandelion-quakers", "macculloch-christianity"],
       "confidence": "established"
     },
     {
@@ -1289,34 +595,16 @@
       "title": "Coonan Cross Oath",
       "year": 1653,
       "circa": false,
-      "place": {
-        "name": "Mattancherry, Kochi",
-        "lat": 9.958,
-        "lng": 76.259
-      },
+      "place": {"name": "Mattancherry, Kochi", "lat": 9.958, "lng": 76.259},
       "category": "schism",
-      "regions": [
-        "india"
-      ],
+      "regions": ["india"],
       "summary": "Thousands of St Thomas Christians, holding a rope tied to a leaning cross at Mattancherry, swore not to submit to the Portuguese Jesuit hierarchy. The revolt led to the division between the Catholic Syro-Malabar community and the Malankara church, which in 1665 received Syriac Orthodox ties.",
-      "causes": [
-        "Latinisation after Diamper",
-        "Arrest of a bishop sent from the East"
-      ],
-      "consequences": [
-        "Malankara church independent of Rome",
-        "Origin of several Kerala churches"
-      ],
+      "causes": ["Latinisation after Diamper", "Arrest of a bishop sent from the East"],
+      "consequences": ["Malankara church independent of Rome", "Origin of several Kerala churches"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "malankara-orthodox",
-        "catholic"
-      ],
-      "sources": [
-        "frykenberg-india",
-        "moffett-asia"
-      ],
+      "traditionIds": ["malankara-orthodox", "catholic"],
+      "sources": ["frykenberg-india", "moffett-asia"],
       "confidence": "established"
     },
     {
@@ -1324,40 +612,16 @@
       "title": "Great Ejection",
       "year": 1662,
       "circa": false,
-      "place": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
+      "place": {"name": "London", "lat": 51.5074, "lng": -0.1278},
       "category": "persecution",
-      "regions": [
-        "northern-europe"
-      ],
+      "regions": ["northern-europe"],
       "summary": "Under the Act of Uniformity, some 2,000 English ministers who would not accept the revised Book of Common Prayer and episcopal ordination were ejected on St Bartholomew's Day 1662. Puritan Dissenters, including Richard Baxter, became Nonconformists outside the established church.",
-      "causes": [
-        "Restoration of the monarchy and bishops"
-      ],
-      "consequences": [
-        "English Nonconformity",
-        "Persecution under the Clarendon Code until 1689"
-      ],
-      "peopleIds": [
-        "richard-baxter",
-        "john-owen"
-      ],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "anglican",
-        "presbyterian",
-        "congregationalist",
-        "baptist"
-      ],
-      "sources": [
-        "chapman-anglicanism",
-        "macculloch-christianity"
-      ],
+      "causes": ["Restoration of the monarchy and bishops"],
+      "consequences": ["English Nonconformity", "Persecution under the Clarendon Code until 1689"],
+      "peopleIds": ["richard-baxter", "john-owen"],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["anglican", "presbyterian", "congregationalist", "baptist"],
+      "sources": ["chapman-anglicanism", "macculloch-christianity"],
       "confidence": "established"
     },
     {
@@ -1365,34 +629,16 @@
       "title": "Syriac Orthodox bishop arrives in Malankara",
       "year": 1665,
       "circa": false,
-      "place": {
-        "name": "Kerala",
-        "lat": 9.5916,
-        "lng": 76.5222
-      },
+      "place": {"name": "Kerala", "lat": 9.5916, "lng": 76.5222},
       "category": "mission",
-      "regions": [
-        "india",
-        "mesopotamia-persia"
-      ],
+      "regions": ["india", "mesopotamia-persia"],
       "summary": "Mar Gregorios Abdul Jaleel, a Syriac Orthodox bishop from Jerusalem, came to Kerala and regularised the episcopal consecration of Mar Thoma I. The Malankara church thus adopted the West Syriac liturgy and Miaphysite Christology, joining the Oriental Orthodox family.",
-      "causes": [
-        "Coonan Cross Oath and search for a bishop"
-      ],
-      "consequences": [
-        "West Syriac tradition in India",
-        "Malankara Orthodox and Jacobite Syrian churches"
-      ],
+      "causes": ["Coonan Cross Oath and search for a bishop"],
+      "consequences": ["West Syriac tradition in India", "Malankara Orthodox and Jacobite Syrian churches"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "malankara-orthodox",
-        "syriac-orthodox"
-      ],
-      "sources": [
-        "frykenberg-india",
-        "roberson-eastern-churches"
-      ],
+      "traditionIds": ["malankara-orthodox", "syriac-orthodox"],
+      "sources": ["frykenberg-india", "roberson-eastern-churches"],
       "confidence": "established"
     },
     {
@@ -1401,33 +647,16 @@
       "year": 1666,
       "endYear": 1667,
       "circa": false,
-      "place": {
-        "name": "Moscow",
-        "lat": 55.7558,
-        "lng": 37.6173
-      },
+      "place": {"name": "Moscow", "lat": 55.7558, "lng": 37.6173},
       "category": "schism",
-      "regions": [
-        "russia"
-      ],
+      "regions": ["russia"],
       "summary": "Patriarch Nikon conformed Russian rites to contemporary Greek usage — three-finger sign of the cross, revised books. The Great Moscow Council of 1666–67 deposed Nikon but upheld the reforms and anathematised resisters; the Old Believers, led by Archpriest Avvakum, suffered persecution and some communities chose mass self-immolation.",
-      "causes": [
-        "Desire for liturgical uniformity with the Greeks",
-        "Ukrainian scholarly influence"
-      ],
-      "consequences": [
-        "Raskol (schism): Old Believer communities to this day",
-        "State control of the church"
-      ],
+      "causes": ["Desire for liturgical uniformity with the Greeks", "Ukrainian scholarly influence"],
+      "consequences": ["Raskol (schism): Old Believer communities to this day", "State control of the church"],
       "peopleIds": [],
       "doctrineIds": [],
-      "traditionIds": [
-        "russian-orthodox"
-      ],
-      "sources": [
-        "ware-orthodox-church",
-        "macculloch-christianity"
-      ],
+      "traditionIds": ["russian-orthodox"],
+      "sources": ["ware-orthodox-church", "macculloch-christianity"],
       "confidence": "established"
     },
     {
@@ -1435,36 +664,16 @@
       "title": "Synod of Jerusalem (Confession of Dositheos)",
       "year": 1672,
       "circa": false,
-      "place": {
-        "name": "Bethlehem",
-        "lat": 31.7054,
-        "lng": 35.2024
-      },
+      "place": {"name": "Bethlehem", "lat": 31.7054, "lng": 35.2024},
       "category": "council",
-      "regions": [
-        "levant",
-        "greece-balkans"
-      ],
+      "regions": ["levant", "greece-balkans"],
       "summary": "Patriarch Dositheos of Jerusalem convened a synod at Bethlehem that repudiated the Calvinist confession attributed to Cyril Lucaris and defined Orthodox teaching on Scripture and tradition, free will, seven mysteries and the Eucharistic change (using the term metousiosis).",
-      "causes": [
-        "Catholic and Protestant attempts to claim Orthodox support"
-      ],
-      "consequences": [
-        "Orthodox confessional statement of the 'Western captivity' period"
-      ],
+      "causes": ["Catholic and Protestant attempts to claim Orthodox support"],
+      "consequences": ["Orthodox confessional statement of the 'Western captivity' period"],
       "peopleIds": [],
-      "doctrineIds": [
-        "church-sacraments",
-        "salvation",
-        "scripture-authority"
-      ],
-      "traditionIds": [
-        "eastern-orthodox"
-      ],
-      "sources": [
-        "ware-orthodox-church",
-        "schaff-creeds"
-      ],
+      "doctrineIds": ["church-sacraments", "salvation", "scripture-authority"],
+      "traditionIds": ["eastern-orthodox"],
+      "sources": ["ware-orthodox-church", "schaff-creeds"],
       "confidence": "established"
     },
     {
@@ -1472,38 +681,16 @@
       "title": "Spener's Pia Desideria launches Pietism",
       "year": 1675,
       "circa": false,
-      "place": {
-        "name": "Frankfurt am Main",
-        "lat": 50.1109,
-        "lng": 8.6821
-      },
+      "place": {"name": "Frankfurt am Main", "lat": 50.1109, "lng": 8.6821},
       "category": "reform",
-      "regions": [
-        "western-europe"
-      ],
+      "regions": ["western-europe"],
       "summary": "Philipp Jakob Spener's preface 'Pia Desideria' called Lutherans to more intensive Bible study in small groups (collegia pietatis), lay priesthood, practical Christianity and edifying preaching. Pietism spread through Halle and influenced Moravians, Methodists and modern evangelicalism.",
-      "causes": [
-        "Formalism of Lutheran orthodoxy",
-        "Devastation of the Thirty Years' War"
-      ],
-      "consequences": [
-        "Halle institutions and missions",
-        "Evangelical experiential religion"
-      ],
-      "peopleIds": [
-        "philipp-jakob-spener"
-      ],
-      "doctrineIds": [
-        "holy-spirit",
-        "salvation"
-      ],
-      "traditionIds": [
-        "lutheran"
-      ],
-      "sources": [
-        "ward-protestant-awakening",
-        "macculloch-christianity"
-      ],
+      "causes": ["Formalism of Lutheran orthodoxy", "Devastation of the Thirty Years' War"],
+      "consequences": ["Halle institutions and missions", "Evangelical experiential religion"],
+      "peopleIds": ["philipp-jakob-spener"],
+      "doctrineIds": ["holy-spirit", "salvation"],
+      "traditionIds": ["lutheran"],
+      "sources": ["ward-protestant-awakening", "macculloch-christianity"],
       "confidence": "established"
     },
     {
@@ -1511,35 +698,16 @@
       "title": "Revocation of the Edict of Nantes",
       "year": 1685,
       "circa": false,
-      "place": {
-        "name": "Fontainebleau",
-        "lat": 48.4047,
-        "lng": 2.7016
-      },
+      "place": {"name": "Fontainebleau", "lat": 48.4047, "lng": 2.7016},
       "category": "persecution",
-      "regions": [
-        "western-europe"
-      ],
+      "regions": ["western-europe"],
       "summary": "Louis XIV's Edict of Fontainebleau outlawed Protestantism in France. Some 200,000 Huguenots fled to the Netherlands, Prussia, England, Switzerland and South Africa; those who remained worshipped secretly in the 'Church of the Desert'.",
-      "causes": [
-        "Absolutist pursuit of 'one king, one law, one faith'"
-      ],
-      "consequences": [
-        "Huguenot diaspora",
-        "Camisard revolt",
-        "Protestant fear of Catholic absolutism"
-      ],
+      "causes": ["Absolutist pursuit of 'one king, one law, one faith'"],
+      "consequences": ["Huguenot diaspora", "Camisard revolt", "Protestant fear of Catholic absolutism"],
       "peopleIds": [],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "reformed",
-        "catholic"
-      ],
-      "sources": [
-        "macculloch-christianity"
-      ],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["reformed", "catholic"],
+      "sources": ["macculloch-christianity"],
       "confidence": "established"
     },
     {
@@ -1547,37 +715,16 @@
       "title": "English Act of Toleration",
       "year": 1689,
       "circa": false,
-      "place": {
-        "name": "London",
-        "lat": 51.5074,
-        "lng": -0.1278
-      },
+      "place": {"name": "London", "lat": 51.5074, "lng": -0.1278},
       "category": "political",
-      "regions": [
-        "northern-europe"
-      ],
+      "regions": ["northern-europe"],
       "summary": "After the Glorious Revolution, Parliament allowed Trinitarian Protestant Dissenters — Presbyterians, Congregationalists, Baptists and Quakers — to worship in licensed meeting houses, though they remained excluded from public office and universities. Catholics and Unitarians were not covered.",
-      "causes": [
-        "Glorious Revolution",
-        "Need for Protestant unity against James II"
-      ],
-      "consequences": [
-        "Legal Nonconformity",
-        "Growth of meeting-house worship"
-      ],
+      "causes": ["Glorious Revolution", "Need for Protestant unity against James II"],
+      "consequences": ["Legal Nonconformity", "Growth of meeting-house worship"],
       "peopleIds": [],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "baptist",
-        "quaker",
-        "presbyterian",
-        "congregationalist"
-      ],
-      "sources": [
-        "macculloch-christianity"
-      ],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["baptist", "quaker", "presbyterian", "congregationalist"],
+      "sources": ["macculloch-christianity"],
       "confidence": "established"
     },
     {
@@ -1585,33 +732,16 @@
       "title": "Kangxi Emperor's edict of toleration",
       "year": 1692,
       "circa": false,
-      "place": {
-        "name": "Beijing",
-        "lat": 39.9042,
-        "lng": 116.4074
-      },
+      "place": {"name": "Beijing", "lat": 39.9042, "lng": 116.4074},
       "category": "political",
-      "regions": [
-        "east-asia"
-      ],
+      "regions": ["east-asia"],
       "summary": "Grateful for Jesuit service in astronomy, diplomacy and medicine, the Kangxi Emperor issued an edict permitting Christian worship throughout China. It marked the high point of the Jesuit mission before the Chinese Rites controversy reversed imperial favour.",
-      "causes": [
-        "Jesuit court service (Verbiest, Gerbillon)"
-      ],
-      "consequences": [
-        "Brief flourishing of Chinese Catholicism"
-      ],
-      "peopleIds": [
-        "matteo-ricci"
-      ],
+      "causes": ["Jesuit court service (Verbiest, Gerbillon)"],
+      "consequences": ["Brief flourishing of Chinese Catholicism"],
+      "peopleIds": ["matteo-ricci"],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "bays-china",
-        "moffett-asia"
-      ],
+      "traditionIds": ["catholic"],
+      "sources": ["bays-china", "moffett-asia"],
       "confidence": "established"
     },
     {
@@ -1619,34 +749,16 @@
       "title": "Amish division from the Swiss Brethren",
       "year": 1693,
       "circa": false,
-      "place": {
-        "name": "Sainte-Marie-aux-Mines, Alsace",
-        "lat": 48.2467,
-        "lng": 7.1833
-      },
+      "place": {"name": "Sainte-Marie-aux-Mines, Alsace", "lat": 48.2467, "lng": 7.1833},
       "category": "schism",
-      "regions": [
-        "western-europe"
-      ],
+      "regions": ["western-europe"],
       "summary": "Jacob Ammann, an Anabaptist elder in Alsace, called for stricter shunning (Meidung) of the excommunicated, more frequent communion with foot-washing and plain dress. The disagreement with Hans Reist's party produced the Amish, who emigrated to Pennsylvania from the 1730s.",
-      "causes": [
-        "Disputes over church discipline"
-      ],
-      "consequences": [
-        "Amish communities in North America"
-      ],
-      "peopleIds": [
-        "jacob-ammann"
-      ],
+      "causes": ["Disputes over church discipline"],
+      "consequences": ["Amish communities in North America"],
+      "peopleIds": ["jacob-ammann"],
       "doctrineIds": [],
-      "traditionIds": [
-        "amish",
-        "mennonite"
-      ],
-      "sources": [
-        "kraybill-amish",
-        "young-center-amish"
-      ],
+      "traditionIds": ["amish", "mennonite"],
+      "sources": ["kraybill-amish", "young-center-amish"],
       "confidence": "established"
     },
     {
@@ -1655,37 +767,16 @@
       "year": 1704,
       "endYear": 1706,
       "circa": false,
-      "place": {
-        "name": "Mbanza Kongo (São Salvador)",
-        "lat": -6.2667,
-        "lng": 14.25
-      },
+      "place": {"name": "Mbanza Kongo (São Salvador)", "lat": -6.2667, "lng": 14.25},
       "category": "revival",
-      "regions": [
-        "sub-saharan-africa"
-      ],
+      "regions": ["sub-saharan-africa"],
       "summary": "Beatriz Kimpa Vita, a young Kongolese noblewoman, claimed to be possessed by St Anthony and taught that Jesus and Mary were Kongolese, calling for the reunification of the war-torn kingdom at São Salvador. Capuchin missionaries denounced her; she was burned as a heretic in 1706. She is often seen as a forerunner of African-initiated Christianity.",
-      "causes": [
-        "Civil war and abandonment of the capital",
-        "Africanisation of Catholic devotion"
-      ],
-      "consequences": [
-        "Reoccupation of São Salvador by Pedro IV",
-        "Symbol of African Christian agency"
-      ],
-      "peopleIds": [
-        "kimpa-vita"
-      ],
+      "causes": ["Civil war and abandonment of the capital", "Africanisation of Catholic devotion"],
+      "consequences": ["Reoccupation of São Salvador by Pedro IV", "Symbol of African Christian agency"],
+      "peopleIds": ["kimpa-vita"],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic",
-        "african-initiated-churches"
-      ],
-      "sources": [
-        "hastings-church-in-africa",
-        "isichei-africa",
-        "dacb"
-      ],
+      "traditionIds": ["catholic", "african-initiated-churches"],
+      "sources": ["hastings-church-in-africa", "isichei-africa", "dacb"],
       "confidence": "established"
     },
     {
@@ -1694,35 +785,16 @@
       "year": 1704,
       "endYear": 1742,
       "circa": false,
-      "place": {
-        "name": "Beijing",
-        "lat": 39.9042,
-        "lng": 116.4074
-      },
+      "place": {"name": "Beijing", "lat": 39.9042, "lng": 116.4074},
       "category": "intellectual",
-      "regions": [
-        "east-asia",
-        "italy"
-      ],
+      "regions": ["east-asia", "italy"],
       "summary": "After decades of dispute between Jesuits and Dominicans/Franciscans, Pope Clement XI condemned Confucian and ancestral rites (1704; bull Ex illa die, 1715), and Benedict XIV's Ex quo singulari (1742) closed debate. The Kangxi Emperor responded by restricting missions; the ban was lifted only in 1939.",
-      "causes": [
-        "Disagreement over accommodation of Chinese culture"
-      ],
-      "consequences": [
-        "Decline of the China mission",
-        "Long debate on inculturation"
-      ],
-      "peopleIds": [
-        "matteo-ricci"
-      ],
+      "causes": ["Disagreement over accommodation of Chinese culture"],
+      "consequences": ["Decline of the China mission", "Long debate on inculturation"],
+      "peopleIds": ["matteo-ricci"],
       "doctrineIds": [],
-      "traditionIds": [
-        "catholic"
-      ],
-      "sources": [
-        "bays-china",
-        "moffett-asia"
-      ],
+      "traditionIds": ["catholic"],
+      "sources": ["bays-china", "moffett-asia"],
       "confidence": "established"
     },
     {
@@ -1730,35 +802,16 @@
       "title": "Danish-Halle mission at Tranquebar",
       "year": 1706,
       "circa": false,
-      "place": {
-        "name": "Tranquebar (Tharangambadi)",
-        "lat": 11.0292,
-        "lng": 79.8546
-      },
+      "place": {"name": "Tranquebar (Tharangambadi)", "lat": 11.0292, "lng": 79.8546},
       "category": "mission",
-      "regions": [
-        "india"
-      ],
+      "regions": ["india"],
       "summary": "Bartholomäus Ziegenbalg and Heinrich Plütschau, Halle Pietists sent by the Danish king, began the first Protestant mission in India. Ziegenbalg learned Tamil, studied Hindu thought and translated the New Testament into Tamil (1714).",
-      "causes": [
-        "Pietist missionary vision",
-        "Danish colonial trading post"
-      ],
-      "consequences": [
-        "Tamil Protestant church",
-        "Model for later Protestant missions"
-      ],
-      "peopleIds": [
-        "bartholomaus-ziegenbalg"
-      ],
+      "causes": ["Pietist missionary vision", "Danish colonial trading post"],
+      "consequences": ["Tamil Protestant church", "Model for later Protestant missions"],
+      "peopleIds": ["bartholomaus-ziegenbalg"],
       "doctrineIds": [],
-      "traditionIds": [
-        "lutheran"
-      ],
-      "sources": [
-        "frykenberg-india",
-        "neill-missions"
-      ],
+      "traditionIds": ["lutheran"],
+      "sources": ["frykenberg-india", "neill-missions"],
       "confidence": "established"
     },
     {
@@ -1766,39 +819,16 @@
       "title": "Bull Unigenitus against Jansenism",
       "year": 1713,
       "circa": false,
-      "place": {
-        "name": "Rome",
-        "lat": 41.9022,
-        "lng": 12.4539
-      },
+      "place": {"name": "Rome", "lat": 41.9022, "lng": 12.4539},
       "category": "intellectual",
-      "regions": [
-        "western-europe",
-        "italy"
-      ],
+      "regions": ["western-europe", "italy"],
       "summary": "Clement XI condemned 101 propositions from Pasquier Quesnel's moral reflections on the New Testament, targeting Jansenism, the Augustinian movement associated with Cornelius Jansen, Port-Royal and Pascal. The bull split the French church for decades; Jansenist sympathisers later founded the Church of Utrecht.",
-      "causes": [
-        "Jansenist–Jesuit conflicts over grace"
-      ],
-      "consequences": [
-        "Divisions in French Catholicism",
-        "Origins of the Old Catholic Church of Utrecht (1723)"
-      ],
-      "peopleIds": [
-        "cornelius-jansen",
-        "blaise-pascal"
-      ],
-      "doctrineIds": [
-        "salvation"
-      ],
-      "traditionIds": [
-        "catholic",
-        "old-catholic"
-      ],
-      "sources": [
-        "odcc",
-        "macculloch-christianity"
-      ],
+      "causes": ["Jansenist–Jesuit conflicts over grace"],
+      "consequences": ["Divisions in French Catholicism", "Origins of the Old Catholic Church of Utrecht (1723)"],
+      "peopleIds": ["cornelius-jansen", "blaise-pascal"],
+      "doctrineIds": ["salvation"],
+      "traditionIds": ["catholic", "old-catholic"],
+      "sources": ["odcc", "macculloch-christianity"],
       "confidence": "established"
     },
     {
@@ -1806,32 +836,16 @@
       "title": "Peter the Great abolishes the Russian patriarchate",
       "year": 1721,
       "circa": false,
-      "place": {
-        "name": "St Petersburg",
-        "lat": 59.9311,
-        "lng": 30.3609
-      },
+      "place": {"name": "St Petersburg", "lat": 59.9311, "lng": 30.3609},
       "category": "political",
-      "regions": [
-        "russia"
-      ],
+      "regions": ["russia"],
       "summary": "Peter's Spiritual Regulation replaced the patriarch with a Holy Synod supervised by a lay Ober-Procurator, modelled on Protestant state consistories. The Russian church remained under this system until 1917.",
-      "causes": [
-        "Peter's Westernising absolutism"
-      ],
-      "consequences": [
-        "State control of Russian Orthodoxy for two centuries"
-      ],
+      "causes": ["Peter's Westernising absolutism"],
+      "consequences": ["State control of Russian Orthodoxy for two centuries"],
       "peopleIds": [],
-      "doctrineIds": [
-        "ethics-church-state"
-      ],
-      "traditionIds": [
-        "russian-orthodox"
-      ],
-      "sources": [
-        "ware-orthodox-church"
-      ],
+      "doctrineIds": ["ethics-church-state"],
+      "traditionIds": ["russian-orthodox"],
+      "sources": ["ware-orthodox-church"],
       "confidence": "established"
     },
     {
@@ -1839,37 +853,16 @@
       "title": "Herrnhut revival of the Moravians",
       "year": 1727,
       "circa": false,
-      "place": {
-        "name": "Herrnhut",
-        "lat": 51.0167,
-        "lng": 14.75
-      },
+      "place": {"name": "Herrnhut", "lat": 51.0167, "lng": 14.75},
       "category": "revival",
-      "regions": [
-        "western-europe"
-      ],
+      "regions": ["western-europe"],
       "summary": "Refugees from Moravia, heirs of the Unity of Brethren, settled on Count Zinzendorf's estate at Herrnhut. After quarrels, a communion service on 13 August 1727 produced a powerful sense of the Spirit's unity; a hundred-year round-the-clock prayer watch and worldwide missions followed from 1732.",
-      "causes": [
-        "Persecution of Bohemian Protestants",
-        "Zinzendorf's heart-religion"
-      ],
-      "consequences": [
-        "Moravian missions to the Caribbean, Greenland, South Africa",
-        "Influence on John Wesley"
-      ],
-      "peopleIds": [
-        "nicolaus-zinzendorf"
-      ],
-      "doctrineIds": [
-        "holy-spirit"
-      ],
-      "traditionIds": [
-        "hussite-moravian"
-      ],
-      "sources": [
-        "ward-protestant-awakening",
-        "neill-missions"
-      ],
+      "causes": ["Persecution of Bohemian Protestants", "Zinzendorf's heart-religion"],
+      "consequences": ["Moravian missions to the Caribbean, Greenland, South Africa", "Influence on John Wesley"],
+      "peopleIds": ["nicolaus-zinzendorf"],
+      "doctrineIds": ["holy-spirit"],
+      "traditionIds": ["hussite-moravian"],
+      "sources": ["ward-protestant-awakening", "neill-missions"],
       "confidence": "established"
     }
   ]
