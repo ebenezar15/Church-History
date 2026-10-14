@@ -13,7 +13,8 @@
     "typecheck": "tsc --noEmit -p .",
     "ask": "tsx scripts/ask.ts",
     "build:single": "npm run validate && vite build --mode single --outDir dist-single",
-    "build:artifact": "npm run build:single && node scripts/artifact-page.mjs"
+    "build:artifact": "npm run build:single && node scripts/artifact-page.mjs",
+    "build:site": "npm run build:single && cp dist-single/index.html docs/index.html"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.133.0",
