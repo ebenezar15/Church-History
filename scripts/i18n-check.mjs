@@ -10,7 +10,7 @@ for (const f of files) {
   try { Object.assign(ta, JSON.parse(readFileSync(`${root}ta/${f}`, 'utf8'))); } catch (e) { console.log(`✖ ${f}: invalid JSON: ${e.message}`); process.exit(1); }
 }
 const missing = Object.keys(en).filter((k) => typeof ta[k] !== 'string' || !ta[k].trim());
-const untranslated = Object.keys(en).filter((k) => ta[k] && en[k].length > 25 && !/[஀-௿]/.test(ta[k]));
+const untranslated = Object.keys(en).filter((k) => ta[k] && en[k].length > 25 && !/^[a-z0-9]+(-[a-z0-9]+)+$/.test(en[k]) && !/[஀-௿]/.test(ta[k]));
 const short = Object.keys(en).filter((k) => ta[k] && en[k].length > 400 && ta[k].length < en[k].length * 0.6);
 const extra = Object.keys(ta).filter((k) => !(k in en));
 if (missing.length || untranslated.length || extra.length || short.length) {
