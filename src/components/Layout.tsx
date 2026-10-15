@@ -43,7 +43,7 @@ function NavList({ onNavigate }: { onNavigate?: () => void }) {
               <li key={n.to}>
                 <NavLink
                   to={n.to}
-                  end={n.to === '/' || n.to === '/compare'}
+                  end={n.to === '/' || n.to === '/compare' || n.to === '/missions'}
                   onClick={onNavigate}
                   className={({ isActive }) => cx('group relative flex items-center gap-3 rounded-xl px-3 py-2 text-sm font-semibold transition-colors', isActive ? 'text-accent' : 'text-ink-2 hover:text-ink')}
                 >

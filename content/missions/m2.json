@@ -1,0 +1,3189 @@
+{
+  "missions": [
+    {
+      "id": "byzantine-slavic-mission",
+      "name": "Cyril and Methodius and the conversion of the Slavs and Rus",
+      "stream": "orthodox",
+      "traditionIds": [
+        "eastern-orthodox",
+        "bulgarian-orthodox",
+        "serbian-orthodox",
+        "russian-orthodox"
+      ],
+      "startYear": 862,
+      "endYear": 1054,
+      "origin": {
+        "name": "Constantinople",
+        "lat": 41.0082,
+        "lng": 28.9784
+      },
+      "status": "transformed",
+      "statusNote": "The mission itself failed in Great Moravia, where Latin clergy prevailed after 885, but its alphabet, Slavonic liturgy and trained disciples passed to Bulgaria and then to Serbia and Kievan Rus. It became the foundation of the Slavonic Orthodox churches, which remain among the largest bodies in world Christianity.",
+      "summary": "In 862 Prince Rastislav of Great Moravia asked Constantinople for teachers who could instruct his people in their own tongue. The brothers Constantine (Cyril) and Methodius of Thessalonica created the Glagolitic alphabet, translated the Gospels and liturgy into Slavonic and defended vernacular worship against Frankish clergy and papal hesitation. Expelled from Moravia after Methodius's death in 885, their disciples rebuilt the work in Bulgaria, where the Cyrillic script emerged, and the resulting Slavonic Christian culture shaped Serbia and, after Vladimir's baptism in 988, Kievan Rus.",
+      "story": "Byzantine missions in the ninth century were instruments of both faith and foreign policy. The Patriarch Photius and Emperor Michael III used churchmen as envoys to the steppe and the Balkans, and Constantine – a scholar of the Magnaura school, later known by his monastic name Cyril – had already been sent to the Khazar court around 860–861, where, according to his Life, he debated Jewish and Muslim scholars and recovered relics believed to be those of Clement of Rome at Chersonesos. In 862 Rastislav of Great Moravia, wary of the East Frankish kingdom and its Bavarian clergy, asked Michael III for a bishop and teacher who would explain the faith in the Slavonic language. Constantine and his elder brother Methodius, sons of an official in bilingual Thessalonica, were chosen.\n\nBefore leaving, Constantine devised a new alphabet, Glagolitic, fitted to Slavonic sounds, and began translating the Gospel lectionary. Arriving in 863, the brothers taught disciples, translated the liturgy and other service books, and trained a native clergy. The work quickly collided with Frankish missionaries from Salzburg and Passau, heirs of the Anglo-Saxon mission to Germany, who held that worship should be offered only in Hebrew, Greek or Latin – the languages of the inscription on the cross. The Life of Constantine calls this the 'trilingual heresy' and reports Constantine's reply that God sends rain and sun on all peoples alike. Seeking ordination for their students, the brothers travelled through Kocel's Pannonian principality and Venice to Rome, where in 867–868 Pope Hadrian II approved the Slavonic books and laid them on the altar of Santa Maria Maggiore. Constantine took monastic vows as Cyril and died in Rome on 14 February 869.\n\nMethodius returned as papal legate and archbishop of Sirmium, with jurisdiction over Pannonia and Moravia. The Bavarian bishops, who regarded the territory as theirs, tried and imprisoned him in Swabia from 870 to 873 until Pope John VIII intervened. Moravia's new ruler Svatopluk favoured Latin clergy, and Methodius's suffragan Wiching worked against him; nevertheless John VIII's letter Industriae tuae (880) confirmed Slavonic worship. Methodius is credited with translating most of the Bible and a nomocanon before his death in 885. Pope Stephen V then forbade the Slavonic liturgy, and in 886 Methodius's disciples were imprisoned, beaten and expelled; according to the Life of Naum some were sold as slaves in Venice before being ransomed by a Byzantine envoy.\n\nThe refugees found a patron in Bulgaria. Khan Boris had been baptised in 864 or 865 with Michael III as godfather, partly under Byzantine military pressure; when boyars rebelled against the new religion in 866 he crushed them and, according to later sources, executed fifty-two leaders together with their families. Boris played Rome against Constantinople before a council of 870 placed Bulgaria under the Byzantine church. Clement and Naum, two of Methodius's disciples, founded schools at Ohrid and Preslav that trained thousands of clergy, and in the 890s the simpler Cyrillic alphabet – modelled on Greek uncials and named in honour of Cyril – was developed in eastern Bulgaria. A council at Preslav in 893 adopted Slavonic as the language of church and state, creating the first Slavonic literary culture.\n\nFrom Bulgaria the books and clergy passed to Serbia and to the Rus. Princess Olga of Kiev was baptised, probably at Constantinople around 957, but her son Sviatoslav remained pagan. Her grandson Vladimir, after a period of militant paganism, accepted baptism around 988 as part of an alliance in which he received the emperor's sister Anna in marriage. The Primary Chronicle's tale of envoys comparing Islam, Judaism, Latin Christianity and Greek worship is a later literary composition, but the outcome was real: Kiev's population was baptised en masse in the Dnieper, the idol of Perun was dragged into the river, and bishops were installed in Novgorod and other towns, where resistance was met with force. The Slavonic liturgy gave the Rus a written language and a church culture without first requiring Greek.\n\nThe legacy was double-edged. Vernacular scripture and worship made Christianity indigenous among the South and East Slavs, created Old Church Slavonic literature and anticipated by centuries the principle of mother-tongue mission later championed by Bible translators. Yet the struggle over Moravia also hardened the rivalry between Rome and Constantinople, and the Slavonic world divided along the line where Latin rather than Slavonic liturgy prevailed – Poles, Czechs, Slovaks, Croats (who kept Glagolitic in a Latin-rite setting) and Hungarians on one side, Bulgarians, Serbs and Rus on the other. In 1980 Pope John Paul II named Cyril and Methodius co-patrons of Europe alongside Benedict.",
+      "beliefs": [
+        "Every people may worship God and read scripture in its own language; the 'trilingual' restriction to Hebrew, Greek and Latin was rejected as unscriptural.",
+        "Byzantine Chalcedonian Orthodoxy, with the liturgy of Constantinople as the norm of worship and the emperor as protector of the church.",
+        "Conversion of a ruler and his court was the expected route to the conversion of a whole people.",
+        "A native clergy trained in its own language was necessary for a church to endure.",
+        "Before the formal schism of 1054 the brothers worked in communion with both Rome and Constantinople and sought papal approval for their books."
+      ],
+      "strategies": [
+        "Invention of a dedicated alphabet (Glagolitic, later Cyrillic) to write a previously unwritten language.",
+        "Translation of the Gospel lectionary, Psalter, liturgy, canon law and eventually most of the Bible into Old Church Slavonic.",
+        "Recruitment and training of local disciples in schools, culminating in the Ohrid and Preslav schools in Bulgaria.",
+        "Diplomatic alliance with rulers – Rastislav, Kocel, Boris, Vladimir – who requested missionaries for political as well as religious reasons.",
+        "Appeal to Rome for papal confirmation of the Slavonic liturgy when opposed by Frankish bishops.",
+        "Building of churches and episcopal sees under princely patronage, often accompanied by royal mass baptisms."
+      ],
+      "groupsReached": [
+        "Moravian and Slovak Slavs of Great Moravia (863–885).",
+        "Slavs of Kocel's Pannonian principality around Lake Balaton.",
+        "Bulgars and Slavs of the First Bulgarian Empire after 864.",
+        "Serbs, who adopted Slavonic Orthodox Christianity in the late ninth and tenth centuries.",
+        "Croats on the Dalmatian coast, who retained Glagolitic within the Latin rite for centuries.",
+        "The East Slavs of Kievan Rus (later Ukrainians, Belarusians and Russians) after 988."
+      ],
+      "challenges": [
+        "Opposition from East Frankish (Bavarian) clergy who claimed Moravia and Pannonia as their jurisdiction and opposed non-Latin worship.",
+        "Shifting papal policy: Hadrian II and John VIII approved the Slavonic liturgy, but Stephen V banned it in 885.",
+        "Dependence on princes whose political alignments changed, notably Svatopluk of Moravia.",
+        "Pagan resistance from Bulgarian boyars and from towns such as Novgorod in Rus.",
+        "Rivalry between Rome and Constantinople for jurisdiction over Bulgaria, exploited by Boris.",
+        "The Magyar conquest of the Carpathian basin around 896–906, which destroyed Great Moravia."
+      ],
+      "harms": [
+        "Conversion was often imposed from above: Boris suppressed the boyar revolt of 866 with executions of entire families, and Vladimir ordered the people of Kiev to be baptised under threat of being treated as his enemies.",
+        "Later Rus tradition remembered Novgorod as baptised by force ('Putyata baptised with the sword, Dobrynya with fire'); the saying is late and debated, but resistance there was suppressed militarily.",
+        "Pagan shrines and idols were destroyed and older religious practice driven underground, producing centuries of 'double faith' that clergy denounced.",
+        "Methodius's disciples were imprisoned, beaten, expelled and in some cases sold into slavery by fellow Christians in Moravia in 886.",
+        "The mission was entangled with Byzantine imperial strategy, and Bulgaria's conversion followed a Byzantine military demonstration in 864.",
+        "Competition over jurisdiction and liturgical language deepened the estrangement between Latin and Greek Christianity that culminated in 1054."
+      ],
+      "developments": [
+        "Creation of the Glagolitic and Cyrillic scripts; Cyrillic is today used by over 250 million people for Russian, Ukrainian, Bulgarian, Serbian and other languages.",
+        "Old Church Slavonic became the first Slavonic literary language and the liturgical language of the Slavonic Orthodox churches.",
+        "A durable precedent for vernacular liturgy and scripture, cited by later missions as a model of inculturation.",
+        "The Ohrid and Preslav schools produced a large literature of translated and original works in the tenth century.",
+        "Foundation of the Bulgarian, Serbian and Russian churches, which in turn sent missions to the Volga, the Arctic and Siberia."
+      ],
+      "outcome": "Great Moravia was lost to Latin Christianity and then to the Magyars, but the Slavonic church culture that the brothers created took root in Bulgaria and spread to Serbia and Kievan Rus. Through these churches it became the matrix of Orthodox Christianity in eastern Europe, and Cyril and Methodius are venerated by both Orthodox and Catholics as 'Apostles to the Slavs'.",
+      "keyPeople": [
+        {
+          "name": "Constantine-Cyril",
+          "years": "c. 827–869",
+          "role": "Scholar, linguist and missionary; creator of the Glagolitic alphabet",
+          "focus": "Translation of the Gospels and liturgy; defence of vernacular worship in Venice and Rome",
+          "outcome": "Died in Rome as the monk Cyril in 869",
+          "personId": "cyril-and-methodius",
+          "origin": "Thessalonica"
+        },
+        {
+          "name": "Methodius",
+          "years": "c. 815–885",
+          "role": "Archbishop of Sirmium and papal legate to the Slavs",
+          "focus": "Leadership of the Moravian church; translation of most of the Bible and a nomocanon",
+          "outcome": "Imprisoned 870–873 by Bavarian bishops; died 885 in Moravia",
+          "personId": "cyril-and-methodius",
+          "origin": "Thessalonica"
+        },
+        {
+          "name": "Photius",
+          "years": "c. 810–893",
+          "role": "Patriarch of Constantinople",
+          "focus": "Sponsored the Moravian mission and the conversion of Bulgaria",
+          "outcome": "His clash with Pope Nicholas I over Bulgaria fed the Photian schism",
+          "personId": "photius"
+        },
+        {
+          "name": "Boris I (Michael) of Bulgaria",
+          "years": "r. 852–889",
+          "role": "Khan of Bulgaria",
+          "focus": "Baptised 864/865; welcomed Methodius's disciples in 886",
+          "outcome": "Retired to a monastery; his reign established Christianity in Bulgaria"
+        },
+        {
+          "name": "Clement of Ohrid",
+          "years": "c. 840–916",
+          "role": "Disciple of Methodius; bishop",
+          "focus": "Ohrid school; trained a reported 3,500 pupils according to his Life",
+          "outcome": "Venerated as an apostle of Bulgaria and Macedonia"
+        },
+        {
+          "name": "Olga of Kiev",
+          "years": "c. 890–969",
+          "role": "Regent of Kievan Rus",
+          "focus": "Personal baptism c. 957; failed attempt to obtain a bishop from the German king Otto I",
+          "outcome": "Remembered as the first Christian ruler of Rus"
+        },
+        {
+          "name": "Vladimir I of Kiev",
+          "years": "c. 958–1015",
+          "role": "Grand Prince of Kiev",
+          "focus": "Baptism c. 988 and conversion of Rus by princely decree",
+          "outcome": "Venerated as 'equal to the apostles'",
+          "personId": "vladimir-the-great"
+        }
+      ],
+      "countries": [
+        {
+          "country": "Czech Republic and Slovakia (Great Moravia)",
+          "year": 863,
+          "text": "Centre of the original mission at Rastislav's court; Slavonic liturgy flourished until the expulsion of Methodius's disciples in 886.",
+          "lng": 17.1,
+          "lat": 48.86
+        },
+        {
+          "country": "Hungary (Pannonia)",
+          "year": 867,
+          "text": "Prince Kocel of Blatnograd near Lake Balaton received the brothers and supplied students; Methodius's see of Sirmium covered the region.",
+          "lng": 17.12,
+          "lat": 46.67
+        },
+        {
+          "country": "Bulgaria",
+          "year": 864,
+          "text": "Boris's baptism and the arrival of the Moravian refugees made Bulgaria the second home of Slavonic Christianity, with schools at Pliska and Preslav.",
+          "lng": 26.93,
+          "lat": 43.15
+        },
+        {
+          "country": "North Macedonia (Ohrid)",
+          "year": 886,
+          "text": "Clement and Naum founded the Ohrid school and monasteries that spread Slavonic literacy across the western Balkans.",
+          "lng": 20.8,
+          "lat": 41.12
+        },
+        {
+          "country": "Serbia",
+          "year": 870,
+          "text": "Serbian rulers accepted Christianity from Byzantium in the late ninth century; Slavonic books from Bulgaria followed.",
+          "lng": 20.46,
+          "lat": 44.82
+        },
+        {
+          "country": "Croatia (Dalmatia)",
+          "year": 925,
+          "text": "Glagolitic liturgy survived in a Latin-rite setting despite the opposition of the Synods of Split (925, 1060).",
+          "lng": 16.44,
+          "lat": 43.51
+        },
+        {
+          "country": "Ukraine (Kievan Rus)",
+          "year": 988,
+          "text": "Vladimir's baptism and the mass baptism of Kiev; the Church of the Tithes and Hagia Sophia of Kiev followed.",
+          "lng": 30.52,
+          "lat": 50.45
+        },
+        {
+          "country": "Russia (Novgorod)",
+          "year": 989,
+          "text": "A bishopric was installed in Novgorod soon after 988, against local resistance; the Novgorod birchbark letters show deep Christian literacy by the twelfth century.",
+          "lng": 31.27,
+          "lat": 58.52
+        },
+        {
+          "country": "Belarus (Polotsk)",
+          "year": 992,
+          "text": "An early episcopal see; Polotsk later produced Euphrosyne of Polotsk and the printer Francysk Skaryna.",
+          "lng": 28.8,
+          "lat": 55.49
+        }
+      ],
+      "journeys": [
+        {
+          "id": "byzantine-cyril-khazar-embassy",
+          "title": "Constantine's embassy to the Khazars",
+          "people": "Constantine (Cyril), possibly with Methodius",
+          "personIds": [
+            "cyril-and-methodius"
+          ],
+          "year": 860,
+          "endYear": 861,
+          "stops": [
+            {
+              "name": "Constantinople",
+              "lng": 28.98,
+              "lat": 41.01,
+              "year": 860
+            },
+            {
+              "name": "Chersonesos",
+              "lng": 33.49,
+              "lat": 44.61,
+              "year": 861
+            },
+            {
+              "name": "Khazar court (approx. Itil, lower Volga)",
+              "lng": 47.9,
+              "lat": 46.4,
+              "year": 861
+            },
+            {
+              "name": "Constantinople",
+              "lng": 28.98,
+              "lat": 41.01,
+              "year": 861
+            }
+          ],
+          "text": "A diplomatic and religious embassy to the Khazar khaganate, during which Constantine learned Hebrew, disputed with Jewish and Muslim scholars and recovered relics attributed to Clement of Rome near Chersonesos. The location of the Khazar court visited is uncertain."
+        },
+        {
+          "id": "byzantine-moravian-mission",
+          "title": "Constantine and Methodius to Moravia and Rome",
+          "people": "Constantine (Cyril), Methodius and their disciples",
+          "personIds": [
+            "cyril-and-methodius"
+          ],
+          "year": 863,
+          "endYear": 868,
+          "stops": [
+            {
+              "name": "Constantinople",
+              "lng": 28.98,
+              "lat": 41.01,
+              "year": 863
+            },
+            {
+              "name": "Great Moravia (Mikulčice/Veligrad)",
+              "lng": 17.05,
+              "lat": 48.8,
+              "year": 863
+            },
+            {
+              "name": "Blatnograd (Kocel's Pannonia)",
+              "lng": 17.12,
+              "lat": 46.67,
+              "year": 867
+            },
+            {
+              "name": "Venice",
+              "lng": 12.33,
+              "lat": 45.44,
+              "year": 867
+            },
+            {
+              "name": "Rome",
+              "lng": 12.49,
+              "lat": 41.89,
+              "year": 868
+            }
+          ],
+          "text": "After three or four years of teaching in Moravia the brothers took their students to be ordained, debating the 'trilingualists' in Venice and receiving papal approval for the Slavonic books in Rome, where Cyril died in 869."
+        },
+        {
+          "id": "byzantine-disciples-to-bulgaria",
+          "title": "Flight of Methodius's disciples to Bulgaria",
+          "people": "Clement, Naum, Angelarius and others",
+          "personIds": [],
+          "year": 886,
+          "stops": [
+            {
+              "name": "Great Moravia",
+              "lng": 17.05,
+              "lat": 48.8,
+              "year": 886
+            },
+            {
+              "name": "Belgrade",
+              "lng": 20.46,
+              "lat": 44.82,
+              "year": 886
+            },
+            {
+              "name": "Pliska",
+              "lng": 27.12,
+              "lat": 43.38,
+              "year": 886
+            },
+            {
+              "name": "Preslav",
+              "lng": 26.82,
+              "lat": 43.16,
+              "year": 893
+            },
+            {
+              "name": "Ohrid",
+              "lng": 20.8,
+              "lat": 41.12,
+              "year": 886
+            }
+          ],
+          "text": "Expelled from Moravia, the disciples crossed the Danube at Belgrade, were received by Boris at Pliska and dispersed to found the schools of Preslav and Ohrid."
+        },
+        {
+          "id": "byzantine-vladimir-baptism",
+          "title": "Vladimir's campaign and baptism at Chersonesos",
+          "people": "Vladimir I of Kiev",
+          "personIds": [
+            "vladimir-the-great"
+          ],
+          "year": 988,
+          "stops": [
+            {
+              "name": "Kiev",
+              "lng": 30.52,
+              "lat": 50.45,
+              "year": 988
+            },
+            {
+              "name": "Chersonesos (Korsun)",
+              "lng": 33.49,
+              "lat": 44.61,
+              "year": 988
+            },
+            {
+              "name": "Kiev",
+              "lng": 30.52,
+              "lat": 50.45,
+              "year": 988
+            }
+          ],
+          "text": "Vladimir besieged Byzantine Chersonesos, was baptised there (on the Primary Chronicle's account) and married Princess Anna before returning with clergy to baptise Kiev in the Dnieper."
+        }
+      ],
+      "influencedBy": [
+        "gothic-arian-mission",
+        "ante-nicene-expansion"
+      ],
+      "relations": [
+        {
+          "to": "russian-orthodox-mission",
+          "kind": "gave-rise-to",
+          "text": "The Slavonic church of Kievan Rus and Muscovy inherited the brothers' vernacular principle, and Stephen of Perm consciously imitated Cyril by creating an alphabet for the Komi."
+        }
+      ],
+      "agreements": [
+        {
+          "with": "gothic-arian-mission",
+          "text": "The Life of Constantine cites the Goths among peoples who already worshipped God in their own script, invoking Ulfilas's precedent of alphabet-making and translation."
+        },
+        {
+          "with": "bible-translation-mission",
+          "text": "Modern Bible translators routinely invoke Cyril and Methodius as forerunners of mother-tongue scripture."
+        },
+        {
+          "with": "russian-orthodox-mission",
+          "text": "Shared conviction that liturgy and scripture should be rendered in local languages, applied later to Komi, Aleut, Japanese and Siberian peoples."
+        }
+      ],
+      "disagreements": [
+        {
+          "with": "anglo-saxon-mission",
+          "text": "The Bavarian church of Salzburg and Passau, built on the Anglo-Saxon mission to Germany, insisted on Latin liturgy and Frankish jurisdiction, imprisoned Methodius and expelled his disciples."
+        },
+        {
+          "with": "medieval-friars-mission",
+          "text": "Latin missionaries in later centuries generally treated Slavonic Orthodox Christians as schismatics to be brought under Rome, while the Orthodox regarded Latin missions in their lands as proselytism."
+        }
+      ],
+      "deviations": [
+        "The brothers' vision of persuasion through one's own language gave way, in Bulgaria and Rus, to conversion by princely command and force.",
+        "The mission began within an undivided church in communion with Rome, but its heirs became the core of an Orthodox world estranged from the Latin West.",
+        "Old Church Slavonic, intended as an accessible vernacular, gradually became a fixed sacred language that ordinary Russians and Bulgarians no longer fully understood."
+      ],
+      "sources": [
+        "m2-dvornik-byzantine-missions",
+        "m2-obolensky-byzantine-commonwealth",
+        "m2-kantor-slavic-lives",
+        "russian-primary-chronicle",
+        "ware-orthodox-church",
+        "neill-missions"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "church-of-the-east-mission",
+      "name": "Church of the East: Persia, Central Asia, China, Mongols, India",
+      "stream": "church-of-the-east",
+      "traditionIds": [
+        "church-of-the-east",
+        "assyrian-church-of-the-east",
+        "chaldean-catholic"
+      ],
+      "startYear": 410,
+      "endYear": 1400,
+      "origin": {
+        "name": "Seleucia-Ctesiphon",
+        "lat": 33.09,
+        "lng": 44.58
+      },
+      "status": "declined",
+      "statusNote": "After a millennium of expansion that made it, by some measures, the most geographically extensive church of the medieval world, the Church of the East collapsed between about 1300 and 1400 through Mongol Islamisation, plague, the fall of the Yuan dynasty and Timur's campaigns. It survives in the Assyrian Church of the East, the Ancient Church of the East and – through union with Rome from 1552 – the Chaldean Catholic Church, as well as in the East Syriac heritage of the St Thomas Christians of India.",
+      "summary": "The Syriac-speaking church of the Persian Empire, organised as an autonomous church at the Synods of 410 and 424 and following the dyophysite theology of Theodore of Mopsuestia, carried Christianity along the trade routes of Asia: to Merv, Herat and Samarkand, to the Turkic and Mongol peoples of the steppe, to India and Sri Lanka, and to Tang China, where the monk Alopen arrived at Chang'an in 635. Under the Abbasid-era patriarch Timothy I it had metropolitans from Syria to China. It reached its peak under the Mongols, when Christian queens, generals and the patriarch Yahballaha III, himself an Önggüt from China, wielded real influence, before a rapid fourteenth-century collapse.",
+      "story": "Christianity reached Mesopotamia and Persia from Edessa and the Syriac-speaking world by the second and third centuries, and was swelled by Roman prisoners deported by Shapur I. Under Shapur II (309–379) Christians were persecuted as potential allies of Christian Rome, with thousands of martyrs recorded in Syriac acts. In 410 a synod at Seleucia-Ctesiphon, convened with the approval of Yazdegerd I, organised the church under the bishop of the capital, later called catholicos-patriarch, and in 424 it declared itself independent of 'Western' bishops. After the School of Edessa was closed in 489 its teachers moved to Nisibis, inside Persia, where a great school trained clergy in the exegesis and Christology of Theodore of Mopsuestia. Western opponents called this church 'Nestorian'; modern scholarship and the 1994 Common Christological Declaration with Rome treat the label as misleading.\n\nThe church spread by commerce and monasticism rather than conquest. Merchants, physicians and monks travelled the Silk Roads and the sea lanes of the Persian Gulf. A bishop of Merv is attested by 424 and Merv became a metropolitan see; bishoprics appeared at Herat and, by the sixth century, Samarkand. A bishop was consecrated for the Hephthalite Huns around 549. Monasteries flourished on the Gulf islands, as excavations at Kharg and Sir Bani Yas show. The sixth-century traveller Cosmas Indicopleustes found Persian-ordained clergy in Sri Lanka, on the Malabar coast and at Kalliana near modern Mumbai, and the Thomas Christians of Kerala received their bishops from the Persian church for over a thousand years.\n\nIn 635 a monk named Alopen reached Chang'an, the Tang capital. The Xi'an stele erected in 781, whose text was composed by the monk Jingjing (Adam), records that Emperor Taizong had Alopen's scriptures translated in the imperial library and in 638 issued an edict permitting the 'Luminous Religion' (Jingjiao) and funding a monastery. Chinese texts from Dunhuang show Christian teaching rendered in Buddhist and Daoist vocabulary. The community was small and largely foreign, and it suffered in the Huichang suppression of foreign religions in 845; an Arab writer recorded a monk returning from China in 987 who found no Christians left there.\n\nUnder the Abbasid caliphs the patriarchate moved to Baghdad. Timothy I (patriarch 780–823), who debated Islam courteously before Caliph al-Mahdi, wrote of monks travelling to India and China 'with only a staff and a scrip', appointed a metropolitan for the Turks and mentioned plans for one in Tibet. Around 1007 the metropolitan of Merv reported the conversion of the Kerait khan and, by the report preserved by Bar Hebraeus, some 200,000 of his people; Önggüt, Naiman and Uyghur groups also became partly Christian. Syriac gravestones in the Chuy valley of Kyrgyzstan and at Quanzhou in China testify to Turkic-speaking Christian communities into the fourteenth century.\n\nThe Mongol empire brought both opportunity and peril. Sorghaghtani Beki, a Kerait Christian, was the mother of the khans Möngke, Kublai and Hülegü; Hülegü's wife Doquz Khatun protected Christians when Baghdad was sacked in 1258, and the Naiman Christian general Kitbuqa led Mongol armies in Syria. Under Kublai's Yuan dynasty an office supervised Christian clergy, and Christians are found in Khanbaliq, Zhenjiang and Quanzhou. In 1281 Mark, an Önggüt monk from China, was elected patriarch as Yahballaha III, and his teacher Rabban Sauma travelled in 1287–88 as the Ilkhan's envoy to Constantinople, Rome, Paris and Gascony, receiving communion from Pope Nicholas IV.\n\nThe reversal was swift. The Ilkhan Ghazan's conversion to Islam in 1295 was followed by riots, church destruction and heavy taxation; Christians who had prospered under Mongol patronage were now vulnerable to resentment. The Black Death of the 1340s, the expulsion of the Mongol Yuan from China in 1368 and the campaigns of Timur in the 1380s–1400s destroyed most remaining communities in Central Asia and Iran. By 1500 the church survived chiefly in the mountains of Hakkari and northern Mesopotamia and in Kerala. A disputed patriarchal election led to union with Rome under Yohannan Sulaqa in 1552 (the origin of the Chaldean Catholic Church), Portuguese Latinisation cut off the Indian connection at the Synod of Diamper in 1599, and the twentieth century brought the massacres of 1914–1920 and of Simele in 1933, exile of the patriarch, and dispersal to Iraq, Syria, Iran and the West.",
+      "beliefs": [
+        "A dyophysite Christology following Theodore of Mopsuestia and codified by Babai the Great: two natures (kyane) and two hypostases (qnome) united in one person (parsopa) of Christ.",
+        "The authority of the catholicos-patriarch of Seleucia-Ctesiphon (later Baghdad) over all metropolitans of the East, independent of the Roman imperial church.",
+        "Syriac as the language of liturgy and theology, with the Peshitta as scripture.",
+        "A strong ascetic and monastic ideal; monks as the main bearers of mission.",
+        "Accommodation of local religious vocabulary in translation, as seen in the Chinese Jingjiao texts."
+      ],
+      "strategies": [
+        "Movement along trade routes with merchant communities, building churches in caravan cities and ports.",
+        "Monastic missionaries trained at Nisibis and in Mesopotamian monasteries sent with little support.",
+        "Medicine, scholarship and administrative skill used to win favour at royal courts (Sasanian, Abbasid, Tang, Mongol).",
+        "Conversion of khans and their households, especially through Christian wives and mothers in Turkic and Mongol ruling families.",
+        "A hierarchy of 'exterior' metropolitans (India, China, Turks, Samarkand) appointed by the patriarch.",
+        "Translation of scripture and liturgy into Sogdian, Middle Persian, Old Uyghur and Chinese, alongside Syriac."
+      ],
+      "groupsReached": [
+        "Persians and Aramaic-speaking Mesopotamians under the Sasanian Empire.",
+        "Sogdian merchants of Central Asia, who carried Christianity eastwards.",
+        "Turkic and Mongol peoples: Keraits, Önggüts, Naimans, Uyghurs and Merkits.",
+        "The St Thomas Christians of Kerala and Christians of Sri Lanka and the Gulf.",
+        "Tang Chinese officials and foreign residents of Chang'an and Luoyang.",
+        "Christians of Yuan China, including Önggüt and Alan soldiers and administrators."
+      ],
+      "challenges": [
+        "Persecution under the Sasanian kings, notably Shapur II, and status as a protected but subordinate minority (dhimmi) under Islam.",
+        "Dependence on court favour, which could be withdrawn abruptly (Huichang suppression of 845; Ghazan's conversion in 1295).",
+        "Enormous distances and thin numbers in the eastern provinces; bishops for China sometimes left sees vacant for long periods.",
+        "Syriac liturgy and foreign leadership limited indigenisation among Chinese and Turkic peoples.",
+        "Condemnation by Byzantine and Latin Christians as 'Nestorian' heretics, which isolated it and later drove Latinisation.",
+        "Plague, the collapse of the Mongol order and Timur's destruction of cities in the fourteenth century."
+      ],
+      "harms": [
+        "Close association with Mongol rulers, including Christian commanders in the campaigns that sacked Baghdad (1258) and attacked Syria, fed later Muslim hostility towards Christians as collaborators.",
+        "Reliance on elites meant that converts were often nominal; Latin observers such as William of Rubruck (a hostile source) accused Mongol-era clergy of ignorance, drunkenness and simony.",
+        "Heavy borrowing of Buddhist and Daoist terms in Chinese texts produced teaching that critics then and since regarded as syncretistic and unclear about distinctive Christian claims.",
+        "Internal disputes over patriarchal succession, sometimes settled with the help of Muslim rulers, weakened the church and later led to division.",
+        "Like other churches of the region it accepted slavery and the social order of its host empires without challenge."
+      ],
+      "developments": [
+        "The widest geographical spread of any church before the sixteenth century, from Syria to China and from Siberia to Sri Lanka.",
+        "The School of Nisibis and East Syriac scholars translated Greek philosophy and medicine into Syriac and then Arabic, feeding the Abbasid translation movement.",
+        "The Xi'an stele (781) and the Dunhuang texts, the earliest Christian literature in Chinese.",
+        "Scripts derived from Syriac (Sogdian and Old Uyghur) passed to the Mongol and Manchu alphabets.",
+        "Sustained the St Thomas Christians of India with bishops and liturgy for a millennium.",
+        "Models of Christian-Muslim dialogue, such as Timothy I's debate with al-Mahdi."
+      ],
+      "outcome": "The church that once had perhaps twenty metropolitan provinces shrank by 1500 to a mountain community in Kurdistan and northern Iraq and an Indian daughter church. Its heirs today – the Assyrian Church of the East, the Ancient Church of the East and the Chaldean Catholic Church – number some hundreds of thousands, largely displaced by war in Iraq and Syria and dispersed in a global diaspora.",
+      "keyPeople": [
+        {
+          "name": "Alopen",
+          "years": "fl. 635",
+          "role": "Monk-missionary from Persia",
+          "focus": "Brought scriptures to Chang'an; translations made at Taizong's court",
+          "outcome": "Granted imperial permission to preach in 638",
+          "personId": "alopen"
+        },
+        {
+          "name": "Jingjing (Adam)",
+          "years": "fl. 781",
+          "role": "Priest and chorepiscopus in Chang'an",
+          "focus": "Composed the Xi'an stele inscription and Chinese Christian texts",
+          "outcome": "His work is the chief evidence for Tang Christianity"
+        },
+        {
+          "name": "Babai the Great",
+          "years": "c. 551–628",
+          "role": "Monastic leader and theologian",
+          "focus": "Codified East Syriac Christology and monastic discipline",
+          "outcome": "His formulas became the church's standard",
+          "personId": "babai-the-great"
+        },
+        {
+          "name": "Timothy I",
+          "years": "c. 727–823",
+          "role": "Catholicos-patriarch in Baghdad (780–823)",
+          "focus": "Organised metropolitans for the Turks, China and India; debated Islam with Caliph al-Mahdi",
+          "outcome": "Presided over the church at its greatest extent before the Mongols",
+          "personId": "timothy-i"
+        },
+        {
+          "name": "Sorghaghtani Beki",
+          "years": "c. 1190–1252",
+          "role": "Kerait Christian princess, mother of Möngke, Kublai and Hülegü",
+          "focus": "Patronage of Christians and other religions in the Mongol court",
+          "outcome": "Her sons ruled most of the Mongol empire"
+        },
+        {
+          "name": "Rabban Sauma",
+          "years": "c. 1220–1294",
+          "role": "Önggüt monk from Khanbaliq; Ilkhanid envoy to Europe",
+          "focus": "Pilgrimage westward and diplomatic embassy of 1287–88",
+          "outcome": "Left the only account of medieval Europe by an East Asian traveller",
+          "personId": "rabban-sauma"
+        },
+        {
+          "name": "Yahballaha III (Mark)",
+          "years": "1245–1317",
+          "role": "Catholicos-patriarch (1281–1317)",
+          "focus": "Led the church under the Ilkhans",
+          "outcome": "Saw the turn to Islam under Ghazan and persecution that followed"
+        }
+      ],
+      "countries": [
+        {
+          "country": "Iraq",
+          "year": 410,
+          "text": "Seleucia-Ctesiphon and later Baghdad were the patriarchal seats; Nisibis, Arbela and Mosul were major centres.",
+          "lng": 44.58,
+          "lat": 33.09
+        },
+        {
+          "country": "Iran",
+          "year": 410,
+          "text": "Sasanian Persia held numerous dioceses (Fars, Khuzistan, Rayy); persecuted under Shapur II, later a dhimmi community under Islam.",
+          "lng": 51.42,
+          "lat": 35.69
+        },
+        {
+          "country": "Turkmenistan (Merv)",
+          "year": 424,
+          "text": "Merv became a metropolitan see and a base for mission to the Turks.",
+          "lng": 61.84,
+          "lat": 37.66
+        },
+        {
+          "country": "Afghanistan (Herat)",
+          "year": 424,
+          "text": "A bishopric at Herat is attested from 424 and later became a metropolitan see.",
+          "lng": 62.2,
+          "lat": 34.35
+        },
+        {
+          "country": "Uzbekistan (Samarkand)",
+          "year": 550,
+          "text": "Sogdian Christians had a metropolitan at Samarkand; Christian texts in Sogdian survive from Turfan.",
+          "lng": 66.97,
+          "lat": 39.65
+        },
+        {
+          "country": "Persian Gulf (Bahrain, Qatar, UAE)",
+          "year": 410,
+          "text": "Bishoprics of Beth Qatraye and monasteries such as Sir Bani Yas served Gulf communities until the ninth century.",
+          "lng": 52.6,
+          "lat": 24.3
+        },
+        {
+          "country": "India",
+          "year": 550,
+          "text": "Persian clergy served the Thomas Christians of Malabar; Persian crosses and the Quilon copper plates (849) attest the link.",
+          "lng": 76.27,
+          "lat": 9.93
+        },
+        {
+          "country": "Sri Lanka",
+          "year": 550,
+          "text": "Cosmas Indicopleustes reported a Persian Christian community and clergy on the island.",
+          "lng": 80.4,
+          "lat": 8.31
+        },
+        {
+          "country": "China",
+          "year": 635,
+          "text": "Alopen's arrival at Chang'an in 635; revived Christian presence under the Yuan (1271–1368).",
+          "lng": 108.94,
+          "lat": 34.34
+        },
+        {
+          "country": "Kyrgyzstan and Kazakhstan (Semirechye)",
+          "year": 800,
+          "text": "Hundreds of Syriac-inscribed gravestones from the Chuy valley date mostly from the thirteenth and fourteenth centuries.",
+          "lng": 74.6,
+          "lat": 42.9
+        },
+        {
+          "country": "Mongolia",
+          "year": 1007,
+          "text": "Conversion of the Kerait khan c. 1007; Christians at the Mongol court in Karakorum in the thirteenth century.",
+          "lng": 102.83,
+          "lat": 47.2
+        }
+      ],
+      "journeys": [
+        {
+          "id": "church-alopen-to-changan",
+          "title": "Alopen to Chang'an",
+          "people": "Alopen and companions",
+          "personIds": [
+            "alopen"
+          ],
+          "year": 635,
+          "stops": [
+            {
+              "name": "Seleucia-Ctesiphon",
+              "lng": 44.58,
+              "lat": 33.09
+            },
+            {
+              "name": "Merv",
+              "lng": 61.84,
+              "lat": 37.66
+            },
+            {
+              "name": "Samarkand",
+              "lng": 66.97,
+              "lat": 39.65
+            },
+            {
+              "name": "Kashgar",
+              "lng": 75.99,
+              "lat": 39.47
+            },
+            {
+              "name": "Dunhuang",
+              "lng": 94.66,
+              "lat": 40.14
+            },
+            {
+              "name": "Chang'an (Xi'an)",
+              "lng": 108.94,
+              "lat": 34.34,
+              "year": 635
+            }
+          ],
+          "text": "The Xi'an stele says Alopen came 'from Da Qin' bearing scriptures and was received by Taizong's minister Fang Xuanling. His exact route is unknown; the stops trace the main Silk Road through Persian and Sogdian Christian centres."
+        },
+        {
+          "id": "church-rabban-sauma-embassy",
+          "title": "Rabban Sauma's journey from Khanbaliq to Europe",
+          "people": "Rabban Sauma and (as far as Maragha) his disciple Mark",
+          "personIds": [
+            "rabban-sauma"
+          ],
+          "year": 1275,
+          "endYear": 1288,
+          "stops": [
+            {
+              "name": "Khanbaliq (Beijing)",
+              "lng": 116.4,
+              "lat": 39.9,
+              "year": 1275
+            },
+            {
+              "name": "Kashgar",
+              "lng": 75.99,
+              "lat": 39.47,
+              "year": 1276
+            },
+            {
+              "name": "Maragha",
+              "lng": 46.24,
+              "lat": 37.39,
+              "year": 1280
+            },
+            {
+              "name": "Constantinople",
+              "lng": 28.98,
+              "lat": 41.01,
+              "year": 1287
+            },
+            {
+              "name": "Naples",
+              "lng": 14.27,
+              "lat": 40.85,
+              "year": 1287
+            },
+            {
+              "name": "Rome",
+              "lng": 12.49,
+              "lat": 41.89,
+              "year": 1287
+            },
+            {
+              "name": "Paris",
+              "lng": 2.35,
+              "lat": 48.86,
+              "year": 1287
+            },
+            {
+              "name": "Bordeaux (Gascony)",
+              "lng": -0.58,
+              "lat": 44.84,
+              "year": 1287
+            },
+            {
+              "name": "Rome",
+              "lng": 12.49,
+              "lat": 41.89,
+              "year": 1288
+            },
+            {
+              "name": "Baghdad",
+              "lng": 44.36,
+              "lat": 33.31,
+              "year": 1288
+            }
+          ],
+          "text": "Setting out as pilgrims for Jerusalem, Sauma and Mark were stopped by war in the Ilkhanate; Mark became patriarch and Sauma was sent by the Ilkhan Arghun to seek a Franco-Mongol alliance, meeting the Byzantine emperor, Philip IV of France, Edward I of England and Pope Nicholas IV."
+        },
+        {
+          "id": "church-east-sea-route-india",
+          "title": "The East Syriac sea route to India and Sri Lanka",
+          "people": "Persian clergy and merchants",
+          "personIds": [],
+          "year": 550,
+          "stops": [
+            {
+              "name": "Seleucia-Ctesiphon",
+              "lng": 44.58,
+              "lat": 33.09
+            },
+            {
+              "name": "Rev Ardashir (Fars)",
+              "lng": 50.83,
+              "lat": 28.97
+            },
+            {
+              "name": "Socotra",
+              "lng": 53.85,
+              "lat": 12.5
+            },
+            {
+              "name": "Kalliana (near Mumbai)",
+              "lng": 73.13,
+              "lat": 19.24
+            },
+            {
+              "name": "Quilon (Kollam)",
+              "lng": 76.6,
+              "lat": 8.89
+            },
+            {
+              "name": "Anuradhapura (Sri Lanka)",
+              "lng": 80.4,
+              "lat": 8.31
+            }
+          ],
+          "text": "The metropolitan of Fars long oversaw India. Bishops and clergy for the Malabar Christians travelled this route through the Gulf, as described by Cosmas Indicopleustes c. 550."
+        }
+      ],
+      "influencedBy": [
+        "ante-nicene-expansion",
+        "apostolic-mission"
+      ],
+      "relations": [
+        {
+          "to": "jesuit-asia-mission",
+          "kind": "succeeded-by",
+          "text": "When Jesuits reached China they found no surviving Church of the East community, but the rediscovery of the Xi'an stele around 1625 was used by Ricci's successors as proof that Christianity was ancient in China."
+        }
+      ],
+      "agreements": [
+        {
+          "with": "medieval-friars-mission",
+          "text": "Rabban Sauma received communion from Pope Nicholas IV, himself a Franciscan, and gave communion to the Roman curia in 1288, showing a practical sense of shared faith despite doctrinal suspicion."
+        },
+        {
+          "with": "jesuit-asia-mission",
+          "text": "Both rendered the gospel in Chinese philosophical and religious vocabulary and sought favour at the imperial court."
+        }
+      ],
+      "disagreements": [
+        {
+          "with": "medieval-friars-mission",
+          "text": "John of Montecorvino in Khanbaliq complained that 'Nestorians' slandered and obstructed him, and Franciscans sought to convert East Syriac Christians such as the Önggüt prince George to Latin obedience."
+        },
+        {
+          "with": "iberian-colonial-mission",
+          "text": "Portuguese authorities in India treated the East Syriac heritage of the Thomas Christians as heretical, intercepted Persian bishops and imposed Latinisation at the Synod of Diamper (1599)."
+        }
+      ],
+      "deviations": [
+        "A church whose missionaries originally travelled as poor monks became, in its Mongol-era peak, heavily dependent on aristocratic patronage and identified with a conquering regime.",
+        "The strong attachment to Syriac and to Mesopotamian leadership sat uneasily with its own record of translation, limiting the growth of indigenous Chinese and Turkic churches.",
+        "Its Christology was rejected by Byzantine and Latin councils after Ephesus (431), placing it outside the imperial consensus – a separation now largely overcome in bilateral agreements."
+      ],
+      "sources": [
+        "baum-winkler-east",
+        "moffett-asia",
+        "jenkins-lost-history",
+        "xian-stele",
+        "m2-rossabi-voyager-xanadu",
+        "m2-tang-nestorian-china",
+        "common-christological-declaration-1994"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "ethiopian-nubian-mission",
+      "name": "Ethiopia and Nubia (Frumentius, the Nine Saints, Nubian kingdoms)",
+      "stream": "early-church",
+      "traditionIds": [
+        "ethiopian-orthodox-tewahedo",
+        "eritrean-orthodox-tewahedo",
+        "coptic-orthodox",
+        "oriental-orthodox"
+      ],
+      "startYear": 340,
+      "endYear": 1520,
+      "origin": {
+        "name": "Aksum",
+        "lat": 14.13,
+        "lng": 38.72
+      },
+      "status": "transformed",
+      "statusNote": "In Ethiopia and Eritrea the mission became a national church: the Ethiopian Orthodox Tewahedo Church, autocephalous from the Coptic patriarchate since 1959, is one of the largest Orthodox churches in the world, with about 32 million adherents in the 2007 Ethiopian census. In Nubia the three Christian kingdoms declined under Mamluk pressure and Arab migration; Makuria's church faded in the fourteenth century and Alwa fell around 1504, after which Nubian Christianity disappeared.",
+      "summary": "Christianity became the religion of the Aksumite court in the fourth century through Frumentius, a Syrian Christian captive who rose to influence under King Ezana and was consecrated bishop by Athanasius of Alexandria. Syrian and Egyptian monks remembered as the Nine Saints deepened it in the late fifth and sixth centuries, and the Bible was translated into Ge'ez. In the sixth century rival missionaries sent by Justinian and Theodora converted the Nubian kingdoms of Nobadia, Makuria and Alwa, which sustained a literate Christian civilisation on the Middle Nile for some 800 years.",
+      "story": "The earliest account comes from Rufinus of Aquileia, who wrote around 402 on the testimony of Aedesius. Two youths from Tyre, Frumentius and Aedesius, survived an attack on their ship on the Red Sea coast and were taken to the royal court at Aksum, where Frumentius became secretary and tutor and gathered Roman Christian merchants for worship. Returning to Alexandria, he asked Athanasius to send a bishop; Athanasius consecrated Frumentius himself, probably in the 330s or 340s, and he became the first Abuna ('our father') of Ethiopia. King Ezana's coins and inscriptions bear out a royal conversion in the mid fourth century: the pagan crescent-and-disc gave way to the cross, and a Greek inscription invokes the Father, Son and Holy Spirit. A letter of Emperor Constantius II around 356, preserved by Athanasius, urged Ezana to send Frumentius to be re-examined by the Arian bishop George – evidence of how quickly the Aksumite church was drawn into Mediterranean disputes.\n\nFor generations Christianity was largely a court and urban faith. Its rooting in the countryside is credited to monks remembered as the Nine Saints, who arrived from the Roman east in the late fifth and early sixth centuries, probably refugees from the anti-miaphysite policies that followed the Council of Chalcedon. Abba Za-Mikael Aragawi founded the clifftop monastery of Debre Damo, and others founded houses in Tigray. The Bible was translated from Greek into Ge'ez in roughly this period, along with monastic rules and patristic works, and the hymnody attributed to Yared gave the church its distinctive chant. The church accepted the miaphysite (non-Chalcedonian) faith of Alexandria and, by custom, received its metropolitan from the Coptic patriarch until 1959.\n\nAksumite Christianity also had a military dimension. Around 525 King Kaleb invaded Himyar in southern Arabia to avenge the Jewish king Dhu Nuwas's massacre of Christians at Najran in 523, installing a Christian client regime and building churches. After the rise of Islam Aksum declined, but the church survived under the Zagwe dynasty, whose king Lalibela commissioned the rock-hewn churches around 1200. The Solomonic dynasty from 1270 allied with a monastic revival led by Tekle Haymanot of Debre Libanos and Ewostatewos, and monks advanced with royal armies into Shewa, Gojjam and the south. Emperor Zara Yaqob (1434–1468) reformed worship, enforced Sabbath and Marian observances and harshly persecuted dissenting Stephanite monks. Yeshaq (1414–1429) reportedly decreed that only the baptised could inherit their fathers' land, pressing the Beta Israel (Ethiopian Jews) to convert or lose it.\n\nNubia's conversion was a contest between Constantinople's rival theologies. In about 543 Empress Theodora sent the miaphysite priest Julian to King Silko's successors in Nobadia, outpacing envoys whom Justinian had dispatched for the Chalcedonian side; Longinus, consecrated bishop for Nobadia in 566, reached Nobadia in 569 and, by a perilous route avoiding hostile Makuria, the southern kingdom of Alwa around 580. Makuria, with its capital at Old Dongola, may first have accepted Chalcedonian Christianity before aligning with Alexandria. Temples, including that of Isis at Philae, were converted into churches. When Arab armies from Egypt besieged Dongola in 642 and 652, the Nubians held them off, and the resulting treaty, the baqt, regulated trade – including an annual Nubian delivery of some 360 slaves to Egypt – for six centuries.\n\nChristian Nubia produced a sophisticated culture: the cathedral of Faras with its brilliantly painted murals (rescued in the 1960s before Lake Nasser flooded the site and now in Warsaw and Khartoum), churches and monasteries at Old Dongola, and texts in Greek, Coptic and Old Nubian, the earliest written African language south of Egypt after Meroitic. Decline came from the twelfth century: Ayyubid and then Mamluk interventions, Arab tribal migration and intermarriage, dynastic disputes and the loss of contact with Alexandria. In 1317 the throne hall of Dongola was turned into a mosque. Bishop Timotheos was still consecrated for Faras and Qasr Ibrim in 1372, but by the early sixteenth century, after the Funj captured Soba around 1504, organised Nubian Christianity had disappeared.\n\nEthiopia meanwhile faced its gravest test in the jihad of Imam Ahmad ibn Ibrahim (Gragn), whose armies between 1529 and 1543 burned churches and monasteries across the highlands. Portuguese musketeers under Cristóvão da Gama helped turn the tide in 1541–43, opening the door to Jesuit missionaries; Emperor Susenyos's submission to Rome in 1622 provoked civil war and was reversed by his son Fasiladas, who expelled the Jesuits in 1633. The Ethiopian church emerged as a deeply rooted national institution, guardian of Ge'ez literature and of the Kebra Nagast tradition that the Ark of the Covenant rests at Aksum.",
+      "beliefs": [
+        "Miaphysite (Tewahedo, 'made one') Christology shared with the Coptic Church, rejecting the Council of Chalcedon (451).",
+        "Ethiopian Christianity kept distinctive Hebraic practices – Sabbath observance alongside Sunday, dietary laws and circumcision – explained by the Kebra Nagast's account of Solomonic descent.",
+        "A broad biblical canon including Enoch and Jubilees, preserved in Ge'ez.",
+        "Monasticism as the backbone of Christian life and the agent of rural evangelisation.",
+        "In Nubia, a Byzantine-influenced church that used Greek and Coptic liturgically alongside Old Nubian."
+      ],
+      "strategies": [
+        "Conversion of the royal court first, beginning with Ezana at Aksum and the kings of Nobadia and Alwa.",
+        "Monastic foundations in remote locations (Debre Damo, Debre Libanos, Lake Tana islands) that became centres of teaching.",
+        "Translation of scripture and liturgy into Ge'ez and, in Nubia, partial translation into Old Nubian.",
+        "Conversion of pagan temples into churches, as at Philae and in Lower Nubia.",
+        "Expansion alongside royal military campaigns under the Solomonic emperors.",
+        "Ordination of the metropolitan from Alexandria, keeping links with the wider miaphysite communion."
+      ],
+      "groupsReached": [
+        "The Aksumite court and Ge'ez-speaking peoples of Tigray and Eritrea.",
+        "Amhara and Agaw peoples of the central highlands, evangelised under the Zagwe and Solomonic dynasties.",
+        "Peoples of Shewa, Gojjam and Damot drawn into the Christian kingdom in the fourteenth and fifteenth centuries.",
+        "The Nubians of Nobadia, Makuria and Alwa on the Middle Nile.",
+        "Christians of Himyar (Yemen) under Aksumite protection in the sixth century."
+      ],
+      "challenges": [
+        "Isolation after the Arab conquest of Egypt and the Red Sea trade, with dependence on a single Egyptian-appointed bishop.",
+        "Military pressure from neighbouring Muslim sultanates, culminating in Ahmad Gragn's jihad (1529–1543).",
+        "In Nubia, Mamluk intervention, Arab migration and dynastic intermarriage that transferred power to Muslim rulers.",
+        "Shortage of clergy in Nubia after links with Alexandria weakened.",
+        "Internal dissent in Ethiopia over Sabbath observance and royal authority (the Ewostatewos and Stephanite controversies).",
+        "Catholic pressure in the seventeenth century under Portuguese-backed Jesuits."
+      ],
+      "harms": [
+        "Christian kingship used coercion: Yeshaq's decree tied land inheritance to baptism, disinheriting Beta Israel who refused, and later emperors waged war on Beta Israel communities.",
+        "Zara Yaqob's enforcement of orthodoxy included the torture, mutilation and execution of Stephanite monks who refused to prostrate before Marian icons and the emperor.",
+        "The Christian highland state raided and enslaved non-Christian peoples of the south and west, and the church accepted slavery for centuries.",
+        "Nubia's Christian kingdoms delivered hundreds of slaves yearly to Egypt under the baqt treaty.",
+        "Kaleb's invasion of Himyar mixed mission with conquest and was followed by reprisals and political turmoil in Arabia.",
+        "Conversion of temples such as Philae ended indigenous Egyptian-Nubian religious practice, often by royal order."
+      ],
+      "developments": [
+        "One of the oldest continuously existing national churches, with Ge'ez literature, illuminated manuscripts, music and architecture of world importance.",
+        "Preservation of texts such as 1 Enoch and Jubilees, which survive complete only in Ge'ez.",
+        "The rock-hewn churches of Lalibela (UNESCO World Heritage Site) and the monasteries of Lake Tana and Tigray.",
+        "Christian Nubian art and Old Nubian texts, among the finest medieval African Christian heritage.",
+        "A model of an African church that never depended on European missionaries, cited by later African Christians and 'Ethiopianist' movements."
+      ],
+      "outcome": "The Aksumite mission produced a durable African Christian civilisation; Ethiopia's Orthodox church remains central to national identity, while Nubian Christianity vanished by the sixteenth century, leaving its churches, murals and texts to archaeology.",
+      "keyPeople": [
+        {
+          "name": "Frumentius (Abba Salama)",
+          "years": "d. c. 383",
+          "role": "First bishop of Aksum",
+          "focus": "Tutor at the Aksumite court; consecrated by Athanasius",
+          "outcome": "Venerated as 'Kesate Birhan', Revealer of Light",
+          "personId": "frumentius",
+          "origin": "Tyre"
+        },
+        {
+          "name": "Ezana",
+          "years": "r. c. 320s–360s",
+          "role": "King of Aksum",
+          "focus": "Adopted Christianity at court; coins and inscriptions show the shift",
+          "personId": "ezana-of-aksum"
+        },
+        {
+          "name": "Za-Mikael Aragawi",
+          "years": "late 5th–6th century",
+          "role": "One of the Nine Saints",
+          "focus": "Founded Debre Damo monastery",
+          "outcome": "Model of Ethiopian monastic sanctity"
+        },
+        {
+          "name": "Yared",
+          "years": "6th century",
+          "role": "Musician and hymnographer",
+          "focus": "Traditional founder of Ethiopian liturgical chant",
+          "personId": "saint-yared"
+        },
+        {
+          "name": "Julian",
+          "years": "fl. 543",
+          "role": "Miaphysite priest sent by Empress Theodora",
+          "focus": "First mission to Nobadia",
+          "outcome": "Secured Nobadia for the anti-Chalcedonian church"
+        },
+        {
+          "name": "Longinus",
+          "years": "fl. 566–580",
+          "role": "Bishop of Nobadia",
+          "focus": "Organised the Nobadian church and evangelised Alwa",
+          "outcome": "Baptised the king of Alwa around 580"
+        },
+        {
+          "name": "Tekle Haymanot",
+          "years": "c. 1215–1313",
+          "role": "Monastic founder",
+          "focus": "Founded Debre Libanos; evangelised Shewa",
+          "outcome": "Debre Libanos's abbot became the church's chief native official"
+        },
+        {
+          "name": "Zara Yaqob",
+          "years": "r. 1434–1468",
+          "role": "Emperor of Ethiopia",
+          "focus": "Reformed and centralised the church",
+          "outcome": "Remembered for both religious reform and repression"
+        }
+      ],
+      "countries": [
+        {
+          "country": "Ethiopia",
+          "year": 340,
+          "text": "The Aksumite court converted under Ezana; the church spread through monasteries and royal expansion.",
+          "lng": 38.72,
+          "lat": 14.13
+        },
+        {
+          "country": "Eritrea",
+          "year": 340,
+          "text": "The Red Sea port of Adulis and the highlands of Eritrea formed part of Aksumite Christianity.",
+          "lng": 39.66,
+          "lat": 15.26
+        },
+        {
+          "country": "Yemen (Himyar)",
+          "year": 525,
+          "text": "Kaleb's intervention after the Najran massacre installed a Christian ruler and churches, including Abraha's cathedral at Sanaa.",
+          "lng": 44.21,
+          "lat": 15.35
+        },
+        {
+          "country": "Egypt (Lower Nubia)",
+          "year": 543,
+          "text": "Philae and Qasr Ibrim became Christian centres; Qasr Ibrim had a bishop into the late fourteenth century.",
+          "lng": 32.88,
+          "lat": 24.02
+        },
+        {
+          "country": "Sudan (Nobadia, Makuria, Alwa)",
+          "year": 543,
+          "text": "Faras, Old Dongola and Soba were royal and episcopal centres of Christian Nubia until c. 1500.",
+          "lng": 30.74,
+          "lat": 18.22
+        }
+      ],
+      "journeys": [
+        {
+          "id": "ethiopian-frumentius-journey",
+          "title": "Frumentius from Tyre to Aksum and Alexandria",
+          "people": "Frumentius and Aedesius",
+          "personIds": [
+            "frumentius"
+          ],
+          "year": 330,
+          "endYear": 346,
+          "stops": [
+            {
+              "name": "Tyre",
+              "lng": 35.2,
+              "lat": 33.27
+            },
+            {
+              "name": "Adulis (Red Sea coast)",
+              "lng": 39.66,
+              "lat": 15.26
+            },
+            {
+              "name": "Aksum",
+              "lng": 38.72,
+              "lat": 14.13
+            },
+            {
+              "name": "Alexandria",
+              "lng": 29.92,
+              "lat": 31.2
+            },
+            {
+              "name": "Aksum",
+              "lng": 38.72,
+              "lat": 14.13
+            }
+          ],
+          "text": "After their ship was attacked on the Red Sea, the youths served at Aksum; Frumentius later travelled to Alexandria, where Athanasius consecrated him bishop and sent him back. Dates are approximate."
+        },
+        {
+          "id": "ethiopian-julian-nobadia",
+          "title": "Julian's mission to Nobadia",
+          "people": "Julian, sent by Empress Theodora",
+          "personIds": [],
+          "year": 543,
+          "stops": [
+            {
+              "name": "Constantinople",
+              "lng": 28.98,
+              "lat": 41.01,
+              "year": 543
+            },
+            {
+              "name": "Alexandria",
+              "lng": 29.92,
+              "lat": 31.2,
+              "year": 543
+            },
+            {
+              "name": "Philae",
+              "lng": 32.88,
+              "lat": 24.02,
+              "year": 543
+            },
+            {
+              "name": "Faras (Pachoras)",
+              "lng": 31.47,
+              "lat": 22.22,
+              "year": 543
+            }
+          ],
+          "text": "John of Ephesus records that Theodora's envoy reached Nobadia ahead of Justinian's Chalcedonian mission and won the king to the miaphysite faith."
+        },
+        {
+          "id": "ethiopian-longinus-alwa",
+          "title": "Longinus to Nobadia and Alwa",
+          "people": "Bishop Longinus",
+          "personIds": [],
+          "year": 569,
+          "endYear": 580,
+          "stops": [
+            {
+              "name": "Alexandria",
+              "lng": 29.92,
+              "lat": 31.2,
+              "year": 569
+            },
+            {
+              "name": "Faras (Nobadia)",
+              "lng": 31.47,
+              "lat": 22.22,
+              "year": 569
+            },
+            {
+              "name": "Red Sea hills (Beja country)",
+              "lng": 36.0,
+              "lat": 19.5,
+              "year": 580
+            },
+            {
+              "name": "Soba (Alwa)",
+              "lng": 32.68,
+              "lat": 15.52,
+              "year": 580
+            }
+          ],
+          "text": "Longinus organised the Nobadian church and then, to avoid Makuria, travelled through Beja territory to Alwa, where he baptised the king."
+        }
+      ],
+      "influencedBy": [
+        "apostolic-mission",
+        "ante-nicene-expansion"
+      ],
+      "relations": [],
+      "agreements": [
+        {
+          "with": "byzantine-slavic-mission",
+          "text": "Both created a vernacular liturgical and literary language (Ge'ez, Old Church Slavonic) that made Christianity indigenous to a new people."
+        }
+      ],
+      "disagreements": [
+        {
+          "with": "jesuit-asia-mission",
+          "text": "Jesuits sent from Goa (Oviedo, Páez, Mendes) sought to bring Ethiopia under Rome; Afonso Mendes's demands for re-baptism, re-ordination and Latin rites provoked civil war and expulsion in 1633."
+        },
+        {
+          "with": "iberian-colonial-mission",
+          "text": "Portuguese military aid against Gragn came with expectations of submission to Rome under the Padroado, which the Ethiopian church rejected."
+        }
+      ],
+      "deviations": [
+        "A mission begun by a captive who gathered merchants for prayer became an instrument of royal expansion and coercion under the Solomonic state.",
+        "Ethiopian Christianity's Sabbath and dietary observances and its Solomonic ideology diverged from the wider Christian consensus, though Ethiopians regard them as faithful continuity.",
+        "Nubian Christianity, cut off from Alexandria and dependent on royal power, failed to sustain itself once the monarchy passed to Muslim rulers."
+      ],
+      "sources": [
+        "binns-ethiopian-church",
+        "isichei-africa",
+        "m2-rufinus-church-history",
+        "m2-welsby-medieval-nubia",
+        "m2-tamrat-church-state",
+        "ethiopia-census-2007",
+        "hastings-church-in-africa"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "medieval-friars-mission",
+      "name": "Franciscan and Dominican missions (Montecorvino, Llull, Mongol embassies)",
+      "stream": "catholic-orders",
+      "traditionIds": [
+        "catholic"
+      ],
+      "startYear": 1219,
+      "endYear": 1492,
+      "origin": {
+        "name": "Assisi",
+        "lat": 43.07,
+        "lng": 12.61
+      },
+      "status": "transformed",
+      "statusNote": "The friars' medieval missions to Muslims and Mongols produced few lasting churches – the Catholic communities in Yuan China vanished after 1368 – but the orders themselves survived and became the main agents of the Spanish and Portuguese missions after 1492, carrying medieval methods (language schools, mass baptism, preaching under royal protection) into the Americas and Asia.",
+      "summary": "The mendicant orders founded by Francis of Assisi and Dominic de Guzmán in the early thirteenth century made mission to non-Christians a vocation of the Latin church. Francis crossed the battle lines to preach before Sultan al-Kamil in 1219; Franciscans and Dominicans carried papal letters to the Mongol khans; John of Montecorvino founded a Latin archdiocese in Khanbaliq (Beijing); and Ramon Llull campaigned for language schools and rational dialogue with Islam. The same orders also staffed the Inquisition, preached crusades and pressed coercive disputations on Jews.",
+      "story": "The friars arose from the evangelical revival of the twelfth and thirteenth centuries: Francis of Assisi's brotherhood received papal approval around 1209, and Dominic's Order of Preachers was confirmed in 1216 to combat the Cathar heresy by learned preaching. Both made itinerant poverty and preaching central, and both looked beyond Christendom. Francis's Earlier Rule (1221) contained a chapter on brothers 'who go among the Saracens', allowing them either to live quietly as Christians or, when it pleased God, to preach openly. In 1219, during the Fifth Crusade, Francis crossed the lines at Damietta to preach before Sultan al-Malik al-Kamil, who received him courteously and sent him back unharmed. A group of Franciscans who preached aggressively against Islam in Seville and Marrakesh were executed in January 1220, and their example of martyrdom inspired others, including the young Anthony of Padua.\n\nThe Mongol invasions of the 1240s turned mission into diplomacy. Innocent IV sent the Franciscan John of Plano Carpini in 1245, with letters calling the Mongols to baptism and peace; Carpini reached the camp of Güyük near Karakorum in 1246 and returned with the khan's reply demanding the pope's submission. Dominicans under Ascelin and Andrew of Longjumeau went to Mongol commanders in Persia. The Franciscan William of Rubruck, travelling unofficially for Louis IX in 1253–55, wintered at Möngke's court in Karakorum, took part in a formal debate with Buddhists, Muslims and East Syriac Christians on 30 May 1254, and left a frank account of a religiously plural steppe empire. These embassies yielded vivid ethnography but few converts; the Latin hope of a Mongol alliance against Islam was never realised.\n\nThe most substantial work was John of Montecorvino's. After service in Persia and thirteen months in India (where he buried a companion at Mylapore), he reached Khanbaliq in 1294, the year of Kublai's death. His letters of 1305 and 1306 report two churches, about 6,000 baptisms, a choir of 150 boys he had purchased from non-Christian parents and taught Latin and Greek, and translations of the New Testament and Psalter into the 'Tartar' language; he won the Önggüt prince George away from the Church of the East. In 1307 Clement V made him archbishop of Khanbaliq and sent suffragans, one of whom, Andrew of Perugia, became bishop of Zayton (Quanzhou), where his tombstone of 1332 survives. Odoric of Pordenone travelled through India and China in the 1320s, and John of Marignolli led a papal legation to the Yuan court in 1342. But the converts were mainly foreign Alans and Turkic dependants of the Mongol regime; when the Ming expelled the Yuan in 1368 the Latin church in China disappeared.\n\nElsewhere the friars ministered to Latin merchants and slaves and tried to win Eastern Christians to Rome. Dominicans established an archbishopric at Sultaniyya in Persia in 1318, and the Dominican Jordan Catalani became bishop of Quilon in India in 1329, after four Franciscans were executed at Thane in 1321 for speaking against Islam. A loose Societas Peregrinantium pro Christo coordinated Franciscan and Dominican houses from the Black Sea to Persia. In 1342 Clement VI entrusted the Holy Places in Jerusalem to the Franciscan Custody of the Holy Land, which still exists. Franciscans and Dominicans worked among Cumans in the Danube basin, where a Cuman bishopric was set up at Milcov in 1228, and among Lithuanians and Prussians – often alongside the crusading orders.\n\nThe Majorcan layman Ramon Llull (c. 1232–1316), a Franciscan tertiary in later life, gave the period its most ambitious missionary programme. Converted around 1263, he bought a Muslim slave to teach him Arabic, founded a language college at Miramar in 1276, and developed his Ars, a combinatorial method meant to demonstrate Christian truths to Muslims and Jews by reason. He preached in Tunis (1293) and Bougie (1307), was imprisoned and expelled, and petitioned popes and kings for missionary colleges. The Council of Vienne (1311–12) decreed chairs of Hebrew, Arabic and 'Chaldean' at Paris, Oxford, Bologna, Salamanca and the papal court. The story that Llull was stoned to death at Bougie is a later legend; he probably died in 1316 on the way home or in Majorca. Llull also, however, advocated crusade as a complement to preaching.\n\nThe friars' missionary energy had a darker side at home. Dominicans, trained in Arabic and Hebrew at studia linguarum founded under Raymond of Penyafort, organised the Barcelona Disputation of 1263, in which the convert Pablo Christiani debated Nahmanides before James I of Aragon, and promoted compulsory sermons in synagogues. From the 1230s popes entrusted the new inquisition against heresy largely to Dominicans and Franciscans. Friars preached crusades and sold crusade indulgences. When Spain and Portugal launched their overseas empires at the end of the fifteenth century, it was Franciscans and Dominicans – inheritors of both the Damietta ideal and the inquisitorial and crusading habits – who led the first missions.",
+      "beliefs": [
+        "Mission as the imitation of the apostles: poverty, itinerant preaching and willingness to die as martyrs.",
+        "Papal primacy and the obligation of all peoples, including Eastern Christians, to submit to the Roman church.",
+        "The possibility, stressed by Llull and Dominican scholars, of persuading Muslims and Jews by rational argument in their own languages.",
+        "Infant and adult baptism as the decisive act of incorporation, often administered with little instruction.",
+        "Crusade and mission as complementary rather than opposed, in the view of most contemporaries (though some friars, like Roger Bacon, criticised crusading as obstructing conversion)."
+      ],
+      "strategies": [
+        "Papal embassies to the Mongol khans carrying letters that combined calls to baptism with diplomatic aims.",
+        "Language schools and university chairs in Arabic, Hebrew and Syriac (Miramar 1276; Council of Vienne 1311–12).",
+        "Public disputations with Jewish and Muslim scholars, sometimes compulsory.",
+        "Founding of Latin bishoprics in Asia (Khanbaliq, Zayton, Sultaniyya, Quilon) to serve merchants and converts.",
+        "Purchase and education of children, as with Montecorvino's choir boys, to form a nucleus of converts.",
+        "Translation of scripture and liturgy into Asian languages, as Montecorvino did in Khanbaliq."
+      ],
+      "groupsReached": [
+        "Mongol rulers and courtiers of the Golden Horde, the Ilkhanate and the Yuan dynasty.",
+        "Alans, Önggüts and other Turkic and Caucasian dependants of the Yuan in China.",
+        "Muslims in North Africa, Egypt, Spain and the Middle East, with very few conversions.",
+        "Jews in Aragon, Castile and elsewhere, through disputations and compulsory sermons.",
+        "Cumans, Lithuanians and Baltic peoples on Latin Christendom's eastern frontier.",
+        "Eastern Christians (Armenians, East Syriac Christians, Georgians, Orthodox) urged into union with Rome."
+      ],
+      "challenges": [
+        "Immense distances: letters between Khanbaliq and Rome took years, and reinforcements rarely arrived.",
+        "Islamic law forbade apostasy and public preaching against Islam, making open mission to Muslims fatal.",
+        "The Mongols' religious pluralism made them happy to receive friars but unwilling to accept exclusive claims or papal supremacy.",
+        "Rivalry with the Church of the East and other Eastern churches already established in Asia.",
+        "The Black Death and the collapse of the Mongol empires in the mid-fourteenth century severed the Asian missions.",
+        "Internal conflict within the Franciscan order over poverty (the Spirituals) diverted energy and invited papal suppression."
+      ],
+      "harms": [
+        "Dominicans and Franciscans staffed the medieval inquisition, which tortured and burned Cathars, Waldensians and others judged heretics.",
+        "Friars organised coercive disputations and compulsory sermons for Jews and supported Talmud censorship and burning (Paris 1242), fuelling anti-Jewish hostility.",
+        "Friars preached crusades and sold crusade indulgences, binding mission to holy war, including the Northern Crusades against Baltic peoples.",
+        "Deliberately provocative preaching against Islam led to martyrdoms that hardened Muslim-Christian hostility.",
+        "Treating Eastern Christians as schismatics or heretics to be absorbed into Rome caused lasting resentment.",
+        "Montecorvino's purchase of children, though framed as rescue, reflects a paternalism that later missions repeated."
+      ],
+      "developments": [
+        "Detailed travel accounts (Carpini, Rubruck, Odoric) that gave Europe its first reliable knowledge of the Mongols and East Asia.",
+        "The ideal of learning other peoples' languages for mission, institutionalised at the Council of Vienne.",
+        "Llull's writings on interreligious dialogue, still studied as a pioneering, if flawed, attempt at reasoned engagement with Islam and Judaism.",
+        "The Franciscan Custody of the Holy Land (1342), which has served Christians and pilgrims in Jerusalem ever since.",
+        "The first Latin church structure in China, a precursor to later Catholic missions.",
+        "The memory of Francis at Damietta became an inspiration for modern Christian-Muslim dialogue (cited by Pope Francis's visit to Egypt and the UAE in 2017 and 2019)."
+      ],
+      "outcome": "The friars' Asian churches and missions to Muslims largely disappeared by 1400, but the orders gained centuries of experience in language study, embassy and preaching that shaped the Iberian missions of the sixteenth century; the same orders carried both the Damietta ideal and the inquisitorial tradition into the age of conquest.",
+      "keyPeople": [
+        {
+          "name": "Francis of Assisi",
+          "years": "1181/82–1226",
+          "role": "Founder of the Order of Friars Minor",
+          "focus": "Preached before Sultan al-Kamil at Damietta in 1219",
+          "outcome": "His rule made mission to non-Christians a recognised vocation",
+          "personId": "francis-of-assisi",
+          "origin": "Assisi"
+        },
+        {
+          "name": "Dominic de Guzmán",
+          "years": "1170–1221",
+          "role": "Founder of the Order of Preachers",
+          "focus": "Preaching against Cathar dualism in southern France",
+          "outcome": "His order became the church's learned preachers and inquisitors",
+          "personId": "dominic",
+          "origin": "Caleruega"
+        },
+        {
+          "name": "John of Plano Carpini",
+          "years": "c. 1185–1252",
+          "role": "Franciscan papal envoy",
+          "focus": "Embassy to Güyük Khan, 1245–47",
+          "outcome": "Wrote the Historia Mongalorum"
+        },
+        {
+          "name": "William of Rubruck",
+          "years": "c. 1220–c. 1293",
+          "role": "Franciscan traveller",
+          "focus": "Journey to Möngke's court at Karakorum, 1253–55",
+          "outcome": "His Itinerarium is a key source on the Mongol empire"
+        },
+        {
+          "name": "John of Montecorvino",
+          "years": "1247–1328",
+          "role": "Franciscan; first archbishop of Khanbaliq",
+          "focus": "Mission in Yuan China from 1294",
+          "outcome": "Reported about 6,000 baptisms; the mission ended after 1368",
+          "personId": "john-of-montecorvino",
+          "origin": "Montecorvino Rovella"
+        },
+        {
+          "name": "Ramon Llull",
+          "years": "c. 1232–1316",
+          "role": "Majorcan lay philosopher and missionary theorist",
+          "focus": "Arabic study, missionary colleges, preaching in North Africa",
+          "outcome": "Influenced the Council of Vienne's language decree"
+        },
+        {
+          "name": "Odoric of Pordenone",
+          "years": "c. 1286–1331",
+          "role": "Franciscan traveller",
+          "focus": "Journeys through India, Southeast Asia and China, 1318–30",
+          "outcome": "His narrative was widely copied in medieval Europe"
+        }
+      ],
+      "countries": [
+        {
+          "country": "Egypt",
+          "year": 1219,
+          "text": "Francis met Sultan al-Kamil at Damietta; later Franciscans served Latin merchants and captives.",
+          "lng": 31.81,
+          "lat": 31.42
+        },
+        {
+          "country": "Morocco",
+          "year": 1220,
+          "text": "Five Franciscans executed at Marrakesh in 1220; friars later served Christian captives and mercenaries.",
+          "lng": -7.99,
+          "lat": 31.63
+        },
+        {
+          "country": "Mongolia",
+          "year": 1246,
+          "text": "Carpini and Rubruck visited the courts of Güyük and Möngke near Karakorum.",
+          "lng": 102.83,
+          "lat": 47.2
+        },
+        {
+          "country": "China",
+          "year": 1294,
+          "text": "Montecorvino's archdiocese of Khanbaliq and the bishopric of Zayton, which disappeared after 1368.",
+          "lng": 116.4,
+          "lat": 39.9
+        },
+        {
+          "country": "India",
+          "year": 1291,
+          "text": "Montecorvino stayed at Mylapore; Franciscans martyred at Thane in 1321; Jordan Catalani bishop of Quilon from 1329.",
+          "lng": 72.97,
+          "lat": 19.2
+        },
+        {
+          "country": "Iran",
+          "year": 1318,
+          "text": "Dominican archbishopric of Sultaniyya under the Ilkhanate; houses in Tabriz.",
+          "lng": 48.8,
+          "lat": 36.43
+        },
+        {
+          "country": "Tunisia and Algeria",
+          "year": 1293,
+          "text": "Llull preached at Tunis (1293, 1315) and Bougie (1307).",
+          "lng": 10.17,
+          "lat": 36.81
+        },
+        {
+          "country": "Israel/Palestine",
+          "year": 1342,
+          "text": "The Franciscan Custody of the Holy Land took charge of Christian holy places.",
+          "lng": 35.23,
+          "lat": 31.78
+        },
+        {
+          "country": "Romania (Cumania)",
+          "year": 1228,
+          "text": "Dominican mission to the Cumans and the bishopric of Milcov.",
+          "lng": 27.0,
+          "lat": 45.9
+        }
+      ],
+      "journeys": [
+        {
+          "id": "medieval-francis-damietta",
+          "title": "Francis of Assisi to Damietta",
+          "people": "Francis of Assisi and Brother Illuminato",
+          "personIds": [
+            "francis-of-assisi"
+          ],
+          "year": 1219,
+          "stops": [
+            {
+              "name": "Assisi",
+              "lng": 12.61,
+              "lat": 43.07,
+              "year": 1219
+            },
+            {
+              "name": "Ancona",
+              "lng": 13.52,
+              "lat": 43.62,
+              "year": 1219
+            },
+            {
+              "name": "Acre",
+              "lng": 35.07,
+              "lat": 32.93,
+              "year": 1219
+            },
+            {
+              "name": "Damietta",
+              "lng": 31.81,
+              "lat": 31.42,
+              "year": 1219
+            }
+          ],
+          "text": "Francis sailed with crusader reinforcements and, during the siege of Damietta, crossed to the sultan's camp to preach; he returned to Italy in 1220."
+        },
+        {
+          "id": "medieval-carpini-embassy",
+          "title": "John of Plano Carpini's embassy to Güyük Khan",
+          "people": "John of Plano Carpini and Benedict the Pole",
+          "personIds": [],
+          "year": 1245,
+          "endYear": 1247,
+          "stops": [
+            {
+              "name": "Lyon",
+              "lng": 4.83,
+              "lat": 45.76,
+              "year": 1245
+            },
+            {
+              "name": "Kraków",
+              "lng": 19.94,
+              "lat": 50.06,
+              "year": 1245
+            },
+            {
+              "name": "Kiev",
+              "lng": 30.52,
+              "lat": 50.45,
+              "year": 1246
+            },
+            {
+              "name": "Batu's camp on the Volga",
+              "lng": 47.2,
+              "lat": 47.1,
+              "year": 1246
+            },
+            {
+              "name": "Sira Ordo near Karakorum",
+              "lng": 102.8,
+              "lat": 47.2,
+              "year": 1246
+            },
+            {
+              "name": "Lyon",
+              "lng": 4.83,
+              "lat": 45.76,
+              "year": 1247
+            }
+          ],
+          "text": "Carried Innocent IV's letters to the Mongols, witnessed Güyük's enthronement and brought back his demand that the pope and princes come to submit."
+        },
+        {
+          "id": "medieval-rubruck-journey",
+          "title": "William of Rubruck to Karakorum",
+          "people": "William of Rubruck and Bartholomew of Cremona",
+          "personIds": [],
+          "year": 1253,
+          "endYear": 1255,
+          "stops": [
+            {
+              "name": "Acre",
+              "lng": 35.07,
+              "lat": 32.93,
+              "year": 1253
+            },
+            {
+              "name": "Constantinople",
+              "lng": 28.98,
+              "lat": 41.01,
+              "year": 1253
+            },
+            {
+              "name": "Soldaia (Sudak)",
+              "lng": 34.97,
+              "lat": 44.85,
+              "year": 1253
+            },
+            {
+              "name": "Batu's camp on the Volga",
+              "lng": 47.2,
+              "lat": 47.1,
+              "year": 1253
+            },
+            {
+              "name": "Karakorum",
+              "lng": 102.83,
+              "lat": 47.2,
+              "year": 1253
+            },
+            {
+              "name": "Tripoli (Lebanon)",
+              "lng": 35.84,
+              "lat": 34.43,
+              "year": 1255
+            }
+          ],
+          "text": "An unofficial mission for Louis IX that included the 1254 religious debate at Möngke's court."
+        },
+        {
+          "id": "medieval-montecorvino-china",
+          "title": "John of Montecorvino to Khanbaliq",
+          "people": "John of Montecorvino, Nicholas of Pistoia and a merchant, Peter of Lucalongo",
+          "personIds": [
+            "john-of-montecorvino"
+          ],
+          "year": 1289,
+          "endYear": 1294,
+          "stops": [
+            {
+              "name": "Rome",
+              "lng": 12.49,
+              "lat": 41.89,
+              "year": 1289
+            },
+            {
+              "name": "Tabriz",
+              "lng": 46.29,
+              "lat": 38.08,
+              "year": 1290
+            },
+            {
+              "name": "Hormuz",
+              "lng": 56.27,
+              "lat": 27.1,
+              "year": 1291
+            },
+            {
+              "name": "Mylapore",
+              "lng": 80.27,
+              "lat": 13.03,
+              "year": 1291
+            },
+            {
+              "name": "Khanbaliq (Beijing)",
+              "lng": 116.4,
+              "lat": 39.9,
+              "year": 1294
+            }
+          ],
+          "text": "Sent by Nicholas IV, Montecorvino travelled by the sea route via India, where Nicholas of Pistoia died, and reached the Yuan capital in 1294."
+        },
+        {
+          "id": "medieval-llull-voyages",
+          "title": "Ramon Llull's missionary voyages",
+          "people": "Ramon Llull",
+          "personIds": [],
+          "year": 1293,
+          "endYear": 1316,
+          "stops": [
+            {
+              "name": "Palma de Mallorca",
+              "lng": 2.65,
+              "lat": 39.57,
+              "year": 1293
+            },
+            {
+              "name": "Tunis",
+              "lng": 10.17,
+              "lat": 36.81,
+              "year": 1293
+            },
+            {
+              "name": "Bougie (Béjaïa)",
+              "lng": 5.08,
+              "lat": 36.75,
+              "year": 1307
+            },
+            {
+              "name": "Pisa",
+              "lng": 10.4,
+              "lat": 43.72,
+              "year": 1308
+            },
+            {
+              "name": "Vienne",
+              "lng": 4.87,
+              "lat": 45.52,
+              "year": 1311
+            },
+            {
+              "name": "Tunis",
+              "lng": 10.17,
+              "lat": 36.81,
+              "year": 1315
+            }
+          ],
+          "text": "Llull debated Muslim scholars in Tunis and Bougie, was imprisoned and expelled, and lobbied the Council of Vienne for language schools before a final journey to Tunis."
+        }
+      ],
+      "influencedBy": [
+        "apostolic-mission",
+        "anglo-saxon-mission"
+      ],
+      "relations": [
+        {
+          "to": "iberian-colonial-mission",
+          "kind": "succeeded-by",
+          "text": "Franciscans and Dominicans led the first missions in the Caribbean, Mexico and Peru, bringing their medieval experience of preaching, language study and inquisition."
+        }
+      ],
+      "agreements": [
+        {
+          "with": "church-of-the-east-mission",
+          "text": "Friars and East Syriac clergy coexisted at Mongol courts, and Rabban Sauma was received in communion by the Franciscan pope Nicholas IV in 1288."
+        }
+      ],
+      "disagreements": [
+        {
+          "with": "church-of-the-east-mission",
+          "text": "Montecorvino and Rubruck regarded East Syriac Christians as 'Nestorian' heretics and competed with them for Mongol and Önggüt converts."
+        },
+        {
+          "with": "byzantine-slavic-mission",
+          "text": "Latin friars treated Orthodox Christians as schismatics and sought their union with Rome, a source of lasting Orthodox complaint about proselytism."
+        }
+      ],
+      "deviations": [
+        "Francis's model of peaceful, poor witness and his permission to 'live among' Muslims without dispute was overshadowed by crusade preaching and polemical confrontation.",
+        "Orders founded for evangelical poverty became the staff of the Inquisition, an institution of coercion at odds with their founders' preaching ideal.",
+        "Llull's commitment to rational dialogue coexisted with advocacy of crusade."
+      ],
+      "sources": [
+        "neill-missions",
+        "moffett-asia",
+        "m2-dawson-mongol-mission",
+        "m2-jackson-mongols-west",
+        "m2-kedar-crusade-mission",
+        "robert-christian-mission",
+        "bonaventure-legenda-maior"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "iberian-colonial-mission",
+      "name": "Spanish and Portuguese missions in the Americas, Africa and Asia (Padroado/Patronato, Las Casas)",
+      "stream": "catholic-orders",
+      "traditionIds": [
+        "catholic"
+      ],
+      "startYear": 1491,
+      "endYear": 1825,
+      "origin": {
+        "name": "Seville",
+        "lat": 37.39,
+        "lng": -5.98
+      },
+      "status": "transformed",
+      "statusNote": "Royal patronage ended with Latin American independence in the 1810s–1820s and the liberal anticlerical reforms that followed, but the churches the Iberian missions founded endured. Latin America holds roughly two-fifths of the world's Catholics, and the Philippines, Angola, East Timor and Goa remain predominantly or substantially Catholic. The missions' legacy – including the critique begun by Montesinos and Las Casas – is still contested in debates over colonialism, indigenous rights and canonisations such as Junípero Serra's in 2015.",
+      "summary": "Between the 1490s and the 1820s the crowns of Castile and Portugal, granted sweeping rights over the church in their new territories by papal bulls (the Spanish Patronato real and Portuguese Padroado), sponsored the largest missionary expansion in Christian history. Franciscans, Dominicans, Augustinians, Mercedarians and later Jesuits baptised millions in the Americas, the Kingdom of Kongo, Angola, Goa and the Philippines, founded schools, universities and hospitals, and produced grammars of dozens of languages. The missions were inseparable from conquest: forced labour under the encomienda, coerced and mass baptisms, the destruction of sacred books and temples, the Inquisition and the Atlantic slave trade all advanced under their shadow, and it was missionaries themselves – Antonio de Montesinos and Bartolomé de las Casas above all – who produced the most searching contemporary indictment of colonial Christianity.",
+      "story": "The legal framework was set before the conquest of the Americas. Papal bulls for Portugal – Dum diversas (1452) and Romanus Pontifex (1455) – authorised the king to subdue 'Saracens and pagans' and reduce them to perpetual servitude, giving religious sanction to the Portuguese slave trade along the West African coast. After Columbus's first voyage, Alexander VI's Inter caetera (1493) granted Castile the newly found lands on condition that it convert their peoples, and the Treaty of Tordesillas (1494) divided the world between the two crowns. Julius II's Universalis ecclesiae (1508) gave the Spanish crown the right to present all bishops and benefices in the Indies; the Portuguese Padroado held similar rights from Brazil to Japan. Missionaries travelled only with royal licence, were paid by the crown and reported to it, so that church and empire became, in practice, one enterprise. The first Portuguese priests reached the Kingdom of Kongo in 1491, baptising the king Nzinga a Nkuwu as João I; his son Afonso I (r. 1509–1542) built a genuinely Kongolese Catholic kingdom, saw his son Henrique consecrated bishop in 1518, and in 1526 wrote to João III protesting that Portuguese slave traders were carrying off his free subjects and even noblemen.\n\nIn the Caribbean the encounter was catastrophic. Friars accompanied Columbus's second voyage in 1493, but on Hispaniola the Taíno were assigned to Spanish settlers in repartimientos and, from 1503, encomiendas: grants of indigenous labour in return for the obligation to Christianise. Overwork, violence, famine and above all imported epidemics destroyed the Taíno population within a generation. On the fourth Sunday of Advent 1511 the Dominican Antonio de Montesinos preached at Santo Domingo: 'By what right and with what justice do you keep these Indians in such cruel and horrible servitude? … Are these not men? Do they not have rational souls?' The colonists complained to the king; the result was the Laws of Burgos (1512), which regulated but preserved the encomienda. From 1513 conquistadors were required to read the Requerimiento, a Spanish-language summons to accept papal and royal authority, which legitimised war and enslavement against those who did not comply – a text Las Casas said made him unsure whether to laugh or weep.\n\nThe conquest of Mexico (1519–21) was followed in 1524 by the arrival of twelve Franciscans – the 'Twelve Apostles' led by Martín de Valencia – and then Dominicans (1526) and Augustinians (1533). The friars learned Nahuatl and other languages, founded schools such as Pedro de Gante's at Mexico City and the Colegio de Santa Cruz de Tlatelolco (1536) for Nahua nobles, and compiled grammars, catechisms and – in Bernardino de Sahagún's Florentine Codex – an encyclopedic record of Nahua culture. They also baptised on an enormous scale: Motolinía claimed some five million baptisms by 1536, with friars sprinkling crowds and baptising thousands a day, figures that are probably inflated and that later Dominican critics condemned as baptism without instruction. Temples and images were destroyed; Bishop Juan de Zumárraga, as apostolic inquisitor, had Don Carlos Ometochtzin, the Christian lord of Texcoco, burned in 1539 for idolatry and heresy, a scandal that led to indigenous people being removed from the Inquisition's jurisdiction in 1571. In Yucatán in 1562 the Franciscan Diego de Landa, convinced that baptised Maya were secretly practising their old religion, presided over interrogations under torture of thousands of Maya, in which more than 150 died, and burned their codices at Maní. Church councils in Mexico (1555) and Lima barred indigenous men from the priesthood, and the Tlatelolco experiment in a native clergy was abandoned.\n\nLas Casas turned the missionaries' unease into a sustained campaign. A settler and encomendero on Hispaniola and Cuba, he renounced his encomienda in 1514 after reading Ecclesiasticus 34 ('the bread of the needy is their life; he that defraudeth him thereof is a man of blood'), became a Dominican in 1522, and spent fifty years lobbying the crown. His experiment in peaceful evangelisation in the Guatemalan region of Tuzulutlán (renamed Verapaz) from 1537 aimed to show that conversion was possible without conquest. Paul III's bull Sublimis Deus (1537) declared that the Indians were rational beings who must not be enslaved and must be converted by preaching and good example, and the theologian Francisco de Vitoria at Salamanca (1539) denied that the pope or emperor had any title to dispossess them for their unbelief. The New Laws of 1542 forbade new encomiendas and indigenous slavery, though colonial revolt forced partial repeal in 1545. Las Casas's Brevísima relación de la destrucción de las Indias (written 1542, printed 1552) catalogued massacres island by island. At Valladolid in 1550–51 he debated Juan Ginés de Sepúlveda, who argued from Aristotle that the Indians were natural slaves who could justly be conquered before conversion; the judges reached no formal verdict. Las Casas had earlier proposed importing African slaves to relieve the Indians – a suggestion he later repudiated as equally unjust.\n\nIn the Andes, the Dominican Vicente de Valverde stood beside Pizarro at Cajamarca in 1532 when Atahualpa's rejection of the breviary was the signal for the massacre. The Third Council of Lima (1582–83), guided by the Jesuit José de Acosta, produced a trilingual catechism in Spanish, Quechua and Aymara. In the seventeenth century, alarmed that Andean religion persisted beneath Catholic practice, the archdiocese of Lima organised campaigns for the 'extirpation of idolatries' that destroyed huacas and mummified ancestors and punished ritual specialists. In Brazil, Jesuits led by Manuel da Nóbrega (1549) and José de Anchieta gathered indigenous people into aldeias; António Vieira later fought Portuguese slaving of Amazonian peoples while defending the system that relied on Africans. On the Spanish frontiers missions became instruments of settlement: the Jesuit reductions of Paraguay (1609–1767), which at their height in the 1730s held roughly 140,000 Guaraní, protected them from Paulista slave raiders and produced Guaraní-language printing, but were destroyed after the Treaty of Madrid (1750), the Guaraní War of 1754–56 and the Jesuits' expulsion. In Alta California the Franciscan missions founded by Junípero Serra from 1769 confined converts, used corporal punishment and saw catastrophic mortality from disease.\n\nAfrica and Asia formed the other wing. In Angola, Luanda (founded 1576) became the largest slave port in the Atlantic, where enslaved people were baptised en masse before embarkation; religious orders, including the Jesuits, owned slaves on plantations in Brazil and Angola, and the Church as an institution accepted the trade. Some clergy protested – the Capuchins Francisco José de Jaca and Epifanio de Moirans were imprisoned in Havana in 1681 for declaring the slave trade unjust – and Peter Claver ministered to the enslaved arriving at Cartagena. In Asia, Goa became an archdiocese in 1558 and seat of an Inquisition (1560–1812) that prosecuted converts suspected of Hindu, Muslim or Jewish practice; the Synod of Diamper (1599) Latinised the St Thomas Christians. In the Philippines, after Legazpi's expedition of 1565, Augustinians, Franciscans, Jesuits, Dominicans and Recollects created a Catholic society within a century, but the friars' vast estates and political power ('frailocracy') fuelled the nationalist resentment voiced by José Rizal. Rome's attempt to escape royal control through the Congregation for the Propagation of the Faith (1622) and vicars apostolic produced long jurisdictional conflict with the Padroado that lasted into the twentieth century.",
+      "beliefs": [
+        "Papal donation and royal patronage: the conversion of newly found peoples was a duty laid on the Catholic monarchs, justifying their sovereignty.",
+        "Baptism as the necessary gateway to salvation, which encouraged rapid mass baptism over prolonged catechesis.",
+        "Tridentine Catholicism after 1563: sacraments, the saints, Marian devotion and clerical authority.",
+        "A contested anthropology: Las Casas, Vitoria and Sublimis Deus affirmed indigenous rationality and rights, while Sepúlveda and many colonists held Indians to be natural slaves or children needing tutelage.",
+        "Idolatry was demonic and must be uprooted, a conviction behind the destruction of temples, images and codices.",
+        "Millenarian hopes among early Franciscans in Mexico, who saw the conversion of the Indies as a sign of the last age."
+      ],
+      "strategies": [
+        "Mission under royal patronage: the crown paid, licensed and directed missionaries and nominated bishops.",
+        "Mass baptism and the destruction of indigenous temples, images and books.",
+        "Learning indigenous languages and producing grammars, dictionaries and catechisms (Nahuatl, Quechua, Aymara, Tupi, Guaraní, Tagalog, Kikongo).",
+        "Congregación or reducción: resettling scattered peoples into planned mission towns around a church.",
+        "Schools for the sons of indigenous nobility, colleges and universities (Santo Domingo 1538, Mexico and Lima 1551).",
+        "Confraternities, festivals, drama and processions that wove Catholic devotion into local social life.",
+        "Inquisitions and campaigns of 'extirpation of idolatry' to police conformity."
+      ],
+      "groupsReached": [
+        "Taíno and other Caribbean peoples, almost destroyed within decades of contact.",
+        "Nahua, Maya, Zapotec, Mixtec and other Mesoamerican peoples.",
+        "Quechua- and Aymara-speaking Andean peoples of the former Inca empire.",
+        "Tupi and Guaraní peoples of Brazil and Paraguay; Chumash and other peoples of Alta California.",
+        "The Kingdom of Kongo and the peoples of Angola, and enslaved Africans in the Americas.",
+        "Konkani-speaking people of Goa, the St Thomas Christians and coastal castes of India.",
+        "Tagalog, Visayan, Ilocano and other peoples of the Philippines."
+      ],
+      "challenges": [
+        "The demographic collapse of indigenous populations from disease, war and forced labour.",
+        "Settler and crown interests in labour and tribute repeatedly overrode missionary protections.",
+        "Indigenous religion persisted alongside Catholic practice, prompting both accommodation and repression.",
+        "Conflicts between religious orders and with bishops, and between the Padroado and Rome's Propaganda Fide.",
+        "Expulsion of the Jesuits from Portuguese (1759) and Spanish (1767) territories, abandoning missions and reductions.",
+        "Independence movements and liberal anticlericalism after 1810 stripped the church of patronage, lands and personnel."
+      ],
+      "harms": [
+        "The encomienda tied Christianisation to forced labour; missionaries and religious orders benefited from indigenous tribute and labour even as some denounced it.",
+        "The Church supplied the ideological charter of conquest: papal bulls authorised subjugation and enslavement, and the Requerimiento made refusal of Christianity grounds for war and slavery.",
+        "Forced and mass baptisms without instruction, of Taíno, Nahua, Andean and African peoples, made conversion a mark of subjection rather than choice.",
+        "Destruction of indigenous sacred sites, images and books – Zumárraga's and Landa's burnings of codices, the Lima extirpation campaigns – erased irreplaceable cultural memory.",
+        "Inquisitorial violence: the burning of Don Carlos Ometochtzin (1539), Landa's torture of thousands of Maya (1562), and the Goa and Lima Inquisitions' prosecution of converts.",
+        "The Church accepted and profited from African slavery: religious orders owned slaves, slaves were baptised en masse at Luanda, and only a minority of clergy protested.",
+        "Indigenous and mixed-race men were barred from the priesthood for generations, entrenching a colonial hierarchy in the church.",
+        "Missions in Alta California and elsewhere confined converts, used corporal punishment and coincided with catastrophic population decline."
+      ],
+      "developments": [
+        "The Spanish debate on the rights of the Indians (Montesinos, Las Casas, Vitoria) became a foundation of international law and modern human-rights thought.",
+        "Grammars, dictionaries and ethnographies, above all Sahagún's Florentine Codex, preserve knowledge of indigenous languages and cultures.",
+        "The first universities, printing presses, hospitals and schools of the Americas and the Philippines.",
+        "Vasco de Quiroga's hospital-towns in Michoacán and the Guaraní reductions as attempts at protective Christian communities.",
+        "A rich, syncretic popular Catholicism – the Virgin of Guadalupe, Andean fiestas, Kongolese Catholic art – that became the faith of most Latin Americans and Filipinos.",
+        "African Catholic agency in the Kingdom of Kongo, which maintained a Catholic identity for centuries with limited missionary presence."
+      ],
+      "outcome": "The Iberian missions turned Latin America and the Philippines into the world's largest Catholic societies and planted lasting churches in Angola, Kongo and Goa, at the cost of complicity in conquest, forced labour, cultural destruction and slavery. Their critics within the church left a tradition of prophetic protest later claimed by liberation theology and indigenous movements; in 1992 and again in 2015 popes publicly asked forgiveness for crimes committed against indigenous peoples during the conquest.",
+      "keyPeople": [
+        {
+          "name": "Antonio de Montesinos",
+          "years": "c. 1475–1540",
+          "role": "Dominican friar on Hispaniola",
+          "focus": "Advent sermon of 1511 denouncing the encomienda",
+          "outcome": "Prompted the Laws of Burgos and inspired Las Casas"
+        },
+        {
+          "name": "Bartolomé de las Casas",
+          "years": "1484–1566",
+          "role": "Former encomendero, Dominican friar and bishop of Chiapas",
+          "focus": "Defence of indigenous rights; the Brevísima relación; Valladolid debate",
+          "outcome": "Named 'Protector of the Indians'; his writings shaped the New Laws of 1542",
+          "personId": "bartolome-de-las-casas",
+          "origin": "Seville"
+        },
+        {
+          "name": "Afonso I of Kongo (Mvemba a Nzinga)",
+          "years": "c. 1456–1542/43",
+          "role": "Catholic king of Kongo",
+          "focus": "Built a Kongolese church; protested Portuguese slaving in 1526",
+          "outcome": "His son Henrique was consecrated bishop in 1518"
+        },
+        {
+          "name": "Bernardino de Sahagún",
+          "years": "c. 1499–1590",
+          "role": "Franciscan ethnographer in New Spain",
+          "focus": "Nahuatl scholarship; the Florentine Codex",
+          "outcome": "His work was suppressed by royal order in 1577 and published only in modern times"
+        },
+        {
+          "name": "Juan de Zumárraga",
+          "years": "c. 1468–1548",
+          "role": "First bishop (later archbishop) of Mexico",
+          "focus": "Protector of the Indians, founder of the Tlatelolco college and first printing press",
+          "outcome": "Also burned indigenous books and had Don Carlos Ometochtzin executed"
+        },
+        {
+          "name": "Diego de Landa",
+          "years": "1524–1579",
+          "role": "Franciscan provincial and later bishop of Yucatán",
+          "focus": "Anti-idolatry campaign of 1562",
+          "outcome": "Recalled to Spain for his excesses; his later Relación is a key source on the Maya"
+        },
+        {
+          "name": "Manuel da Nóbrega",
+          "years": "1517–1570",
+          "role": "Leader of the first Jesuit mission in Brazil",
+          "focus": "Aldeias for Tupi peoples from 1549",
+          "outcome": "Founded colleges at Salvador and São Paulo"
+        },
+        {
+          "name": "Junípero Serra",
+          "years": "1713–1784",
+          "role": "Franciscan founder of the Alta California missions",
+          "focus": "Nine missions from San Diego (1769) to San Buenaventura",
+          "outcome": "Canonised in 2015 amid protests from Native Californians"
+        }
+      ],
+      "countries": [
+        {
+          "country": "Dominican Republic and Haiti (Hispaniola)",
+          "year": 1493,
+          "text": "First American mission field; collapse of the Taíno under the encomienda; Montesinos's sermon (1511).",
+          "lng": -69.93,
+          "lat": 18.47
+        },
+        {
+          "country": "Mexico",
+          "year": 1524,
+          "text": "The Twelve Franciscans, mass baptisms, Nahuatl scholarship, the Inquisition and Guadalupe devotion.",
+          "lng": -99.13,
+          "lat": 19.43
+        },
+        {
+          "country": "Guatemala",
+          "year": 1537,
+          "text": "Las Casas's peaceful-evangelisation experiment in Verapaz.",
+          "lng": -90.37,
+          "lat": 15.47
+        },
+        {
+          "country": "Peru",
+          "year": 1532,
+          "text": "Valverde at Cajamarca; the Lima councils; extirpation of idolatries.",
+          "lng": -77.04,
+          "lat": -12.05
+        },
+        {
+          "country": "Brazil",
+          "year": 1549,
+          "text": "Jesuit aldeias among the Tupi; Vieira's campaigns; slave-holding by religious orders.",
+          "lng": -38.5,
+          "lat": -12.97
+        },
+        {
+          "country": "Paraguay and Argentina",
+          "year": 1609,
+          "text": "The Jesuit-Guaraní reductions until the expulsion of 1767.",
+          "lng": -55.87,
+          "lat": -27.33
+        },
+        {
+          "country": "Philippines",
+          "year": 1565,
+          "text": "Legazpi's expedition and friar evangelisation created a majority-Catholic society.",
+          "lng": 123.89,
+          "lat": 10.31
+        },
+        {
+          "country": "Angola and DR Congo (Kongo)",
+          "year": 1491,
+          "text": "The Catholic Kingdom of Kongo; Luanda as a slaving port where captives were baptised.",
+          "lng": 14.24,
+          "lat": -6.27
+        },
+        {
+          "country": "India (Goa)",
+          "year": 1510,
+          "text": "Padroado archdiocese (1558) and Inquisition (1560–1812); Latinisation of the Thomas Christians.",
+          "lng": 73.83,
+          "lat": 15.5
+        },
+        {
+          "country": "United States (Florida, New Mexico, California)",
+          "year": 1565,
+          "text": "Missions at St Augustine, among the Pueblos (the 1680 Pueblo Revolt reacted against them) and in Alta California.",
+          "lng": -121.92,
+          "lat": 36.54
+        },
+        {
+          "country": "Colombia",
+          "year": 1610,
+          "text": "Peter Claver's ministry to enslaved Africans arriving at Cartagena.",
+          "lng": -75.51,
+          "lat": 10.39
+        }
+      ],
+      "journeys": [
+        {
+          "id": "iberian-second-columbus-voyage",
+          "title": "Friars on Columbus's second voyage",
+          "people": "Bernardo Buil and the first friars in the Americas",
+          "personIds": [],
+          "year": 1493,
+          "endYear": 1494,
+          "stops": [
+            {
+              "name": "Cádiz",
+              "lng": -6.29,
+              "lat": 36.53,
+              "year": 1493
+            },
+            {
+              "name": "La Gomera",
+              "lng": -17.11,
+              "lat": 28.09,
+              "year": 1493
+            },
+            {
+              "name": "Dominica",
+              "lng": -61.37,
+              "lat": 15.41,
+              "year": 1493
+            },
+            {
+              "name": "La Isabela (Hispaniola)",
+              "lng": -71.06,
+              "lat": 19.89,
+              "year": 1494
+            }
+          ],
+          "text": "Seventeen ships carried settlers and a small group of clergy; the first Mass in the Americas was celebrated at La Isabela in January 1494."
+        },
+        {
+          "id": "iberian-kongo-mission",
+          "title": "Portuguese priests to the Kingdom of Kongo",
+          "people": "Portuguese clergy with Rui de Sousa's expedition",
+          "personIds": [],
+          "year": 1490,
+          "endYear": 1491,
+          "stops": [
+            {
+              "name": "Lisbon",
+              "lng": -9.14,
+              "lat": 38.72,
+              "year": 1490
+            },
+            {
+              "name": "Santiago (Cape Verde)",
+              "lng": -23.6,
+              "lat": 15.0,
+              "year": 1490
+            },
+            {
+              "name": "Mpinda (Soyo)",
+              "lng": 12.35,
+              "lat": -6.13,
+              "year": 1491
+            },
+            {
+              "name": "Mbanza Kongo",
+              "lng": 14.24,
+              "lat": -6.27,
+              "year": 1491
+            }
+          ],
+          "text": "The expedition baptised the lord of Soyo and then King Nzinga a Nkuwu at Mbanza Kongo in May 1491."
+        },
+        {
+          "id": "iberian-twelve-apostles",
+          "title": "The Twelve Franciscans to Mexico",
+          "people": "Martín de Valencia, Toribio de Benavente (Motolinía) and ten companions",
+          "personIds": [],
+          "year": 1524,
+          "stops": [
+            {
+              "name": "Sanlúcar de Barrameda",
+              "lng": -6.35,
+              "lat": 36.78,
+              "year": 1524
+            },
+            {
+              "name": "Puerto Rico",
+              "lng": -66.11,
+              "lat": 18.47,
+              "year": 1524
+            },
+            {
+              "name": "San Juan de Ulúa (Veracruz)",
+              "lng": -96.13,
+              "lat": 19.2,
+              "year": 1524
+            },
+            {
+              "name": "Tlaxcala",
+              "lng": -98.24,
+              "lat": 19.31,
+              "year": 1524
+            },
+            {
+              "name": "Mexico City",
+              "lng": -99.13,
+              "lat": 19.43,
+              "year": 1524
+            }
+          ],
+          "text": "Walking barefoot from the coast, the twelve were received by Cortés on his knees, a staged gesture meant to teach the Nahua respect for the friars."
+        },
+        {
+          "id": "iberian-nobrega-brazil",
+          "title": "First Jesuits to Brazil",
+          "people": "Manuel da Nóbrega and five companions",
+          "personIds": [],
+          "year": 1549,
+          "stops": [
+            {
+              "name": "Lisbon",
+              "lng": -9.14,
+              "lat": 38.72,
+              "year": 1549
+            },
+            {
+              "name": "Salvador da Bahia",
+              "lng": -38.5,
+              "lat": -12.97,
+              "year": 1549
+            },
+            {
+              "name": "São Vicente",
+              "lng": -46.39,
+              "lat": -23.96,
+              "year": 1553
+            },
+            {
+              "name": "São Paulo de Piratininga",
+              "lng": -46.63,
+              "lat": -23.55,
+              "year": 1554
+            }
+          ],
+          "text": "Arrived with Governor Tomé de Sousa; Nóbrega and Anchieta founded the college around which São Paulo grew in 1554."
+        },
+        {
+          "id": "iberian-legazpi-philippines",
+          "title": "Legazpi's expedition and the Augustinians to the Philippines",
+          "people": "Miguel López de Legazpi and Andrés de Urdaneta OSA",
+          "personIds": [],
+          "year": 1564,
+          "endYear": 1571,
+          "stops": [
+            {
+              "name": "Barra de Navidad (New Spain)",
+              "lng": -104.68,
+              "lat": 19.2,
+              "year": 1564
+            },
+            {
+              "name": "Guam",
+              "lng": 144.79,
+              "lat": 13.44,
+              "year": 1565
+            },
+            {
+              "name": "Bohol",
+              "lng": 124.0,
+              "lat": 9.85,
+              "year": 1565
+            },
+            {
+              "name": "Cebu",
+              "lng": 123.89,
+              "lat": 10.31,
+              "year": 1565
+            },
+            {
+              "name": "Manila",
+              "lng": 120.98,
+              "lat": 14.6,
+              "year": 1571
+            }
+          ],
+          "text": "The Augustinian navigator Urdaneta accompanied the expedition and then found the return route across the Pacific, linking the Philippines to Mexico."
+        },
+        {
+          "id": "iberian-serra-california",
+          "title": "Junípero Serra to Alta California",
+          "people": "Junípero Serra with the Portolá expedition",
+          "personIds": [],
+          "year": 1769,
+          "endYear": 1770,
+          "stops": [
+            {
+              "name": "Loreto (Baja California)",
+              "lng": -111.34,
+              "lat": 26.01,
+              "year": 1769
+            },
+            {
+              "name": "San Diego",
+              "lng": -117.16,
+              "lat": 32.72,
+              "year": 1769
+            },
+            {
+              "name": "Monterey",
+              "lng": -121.89,
+              "lat": 36.6,
+              "year": 1770
+            },
+            {
+              "name": "Carmel",
+              "lng": -121.92,
+              "lat": 36.54,
+              "year": 1771
+            }
+          ],
+          "text": "Serra founded Mission San Diego de Alcalá in July 1769 and then Mission San Carlos at Monterey/Carmel, his headquarters until his death."
+        }
+      ],
+      "influencedBy": [
+        "medieval-friars-mission"
+      ],
+      "relations": [
+        {
+          "to": "jesuit-asia-mission",
+          "kind": "partnered",
+          "text": "The Jesuit mission to Asia travelled under the Portuguese Padroado: Xavier sailed at João III's request, and Goa, Malacca and Macau were Padroado sees."
+        },
+        {
+          "to": "latin-american-evangelical",
+          "kind": "succeeded-by",
+          "text": "The Catholic monopoly created by the Iberian missions was broken in the nineteenth and twentieth centuries by Protestant and especially Pentecostal growth."
+        }
+      ],
+      "agreements": [
+        {
+          "with": "medieval-friars-mission",
+          "text": "Continued the friars' methods of language study, preaching and inquisition, now with the resources of empire."
+        }
+      ],
+      "disagreements": [
+        {
+          "with": "jesuit-asia-mission",
+          "text": "Spanish Dominicans and Franciscans from Manila denounced Jesuit accommodation of Chinese rites to Rome in 1643, opening the Chinese Rites controversy; Spanish friars and Portuguese Jesuits also competed bitterly in Japan."
+        },
+        {
+          "with": "church-of-the-east-mission",
+          "text": "Portuguese prelates imposed Latin rites and jurisdiction on the East Syriac St Thomas Christians at Diamper (1599), provoking the Coonan Cross revolt of 1653."
+        },
+        {
+          "with": "puritan-native-american-mission",
+          "text": "English Protestants cited Las Casas's account of Spanish cruelty (the 'Black Legend') to cast their own missions as more humane, while practising dispossession of their own."
+        }
+      ],
+      "deviations": [
+        "Sublimis Deus (1537) required that the Indians be converted by preaching and good example, yet mission was conducted under conquest, coercion and royal control.",
+        "The mendicant ideal of poverty gave way to orders and dioceses holding great estates, slaves and indigenous labour.",
+        "Early hopes of a native clergy (Tlatelolco, Kongo's Bishop Henrique) were abandoned for a racially exclusive priesthood.",
+        "Royal patronage subordinated the church to the state so thoroughly that Rome itself struggled to direct missions in Iberian territories."
+      ],
+      "sources": [
+        "gonzalez-latin-america",
+        "m2-hanke-spanish-struggle",
+        "m2-las-casas-brevisima",
+        "m2-ricard-spiritual-conquest",
+        "m2-clendinnen-ambivalent-conquests",
+        "m2-ganson-guarani",
+        "m2-thornton-kongo",
+        "neill-missions",
+        "robert-christian-mission",
+        "poole-guadalupe",
+        "davis-problem-slavery"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "jesuit-asia-mission",
+      "name": "Jesuits in Asia (Xavier, Valignano, Ricci, de Nobili, Japan, Chinese Rites)",
+      "stream": "catholic-orders",
+      "traditionIds": [
+        "catholic"
+      ],
+      "startYear": 1542,
+      "endYear": 1773,
+      "origin": {
+        "name": "Goa",
+        "lat": 15.5,
+        "lng": 73.83
+      },
+      "status": "transformed",
+      "statusNote": "The original Jesuit Asian mission ended with the papal suppression of the Society in 1773, after the Chinese and Malabar rites had been condemned (1715, 1742, 1744) and Christianity proscribed in China (1724) and Japan (1614). The restored Society (1814) returned to Asia under very different conditions, and Rome effectively reversed the rites condemnation in 1939, so the Jesuits' policy of accommodation now shapes Catholic thinking on inculturation.",
+      "summary": "From Francis Xavier's landing at Goa in 1542 to the suppression of 1773, the Society of Jesus led Catholic mission in Asia under the Portuguese Padroado. Xavier baptised fishing castes in South India and opened Japan; Alessandro Valignano made cultural accommodation official policy; Matteo Ricci won a place at the Ming court as a Confucian-style scholar; Roberto de Nobili lived as a Brahmin sannyasi in Madurai. Japan's Christian community, perhaps 300,000 strong around 1600, was crushed after 1614. In China accommodation of ancestral and Confucian rites became the century-long Chinese Rites controversy, condemned by Rome in 1715 and 1742 and followed by imperial proscription; the Society itself was suppressed in 1773.",
+      "story": "The Society of Jesus, approved by Paul III in 1540, was missionary from its foundation, and its members vowed special obedience to the pope regarding missions. At the request of King João III of Portugal, Francis Xavier sailed from Lisbon in April 1541 and reached Goa in May 1542 as papal nuncio. He worked first among the Paravars of the Fishery Coast, a fishing caste who had accepted mass baptism in 1535–37 in return for Portuguese protection against Muslim traders, and then among the Mukkuvas of Travancore, teaching prayers by rote in Tamil translation and baptising, by his own reports, many thousands. He travelled to Malacca, the Moluccas and, after meeting the Japanese fugitive Anjirō at Malacca, to Kagoshima in 1549. Xavier also wrote to João III in 1546 urging that an Inquisition be established in Goa, which was done in 1560. He died on Shangchuan Island off the Chinese coast in December 1552, waiting for passage into China.\n\nJapan became the Jesuits' most spectacular field. Xavier learned that poverty did not impress Japanese elites and adopted fine dress and gifts to win audiences with daimyo. His successors gained the support of lords who wanted Portuguese trade: Ōmura Sumitada became the first Christian daimyo in 1563 and in 1580 ceded Nagasaki to the Society. Alessandro Valignano, visitor of the Asian missions from 1573, insisted that Jesuits learn Japanese etiquette and language, founded seminaries and a college, began training Japanese clergy and sent four young Japanese nobles to Lisbon, Madrid and Rome (the Tenshō embassy, 1582–90). By about 1600 there were perhaps 300,000 Christians. The darker side was real: Christian daimyo such as Ōmura and Arima ordered the destruction of Buddhist temples and Shinto shrines and pressed their vassals and subjects to convert; the Jesuits shared in the profits of the Macau–Nagasaki silk trade; and Portuguese merchants bought Japanese as slaves. In 1587 Toyotomi Hideyoshi, alarmed by Nagasaki's foreign control and by the Jesuit vice-provincial Gaspar Coelho's offers of Portuguese military help, issued an edict expelling missionaries. Rivalry with Spanish Franciscans from Manila, and the San Felipe incident, led to the crucifixion of twenty-six Christians at Nagasaki in 1597. The Tokugawa ban of 1614 began systematic persecution: thousands were executed, many after torture, apostates were registered at Buddhist temples and made to trample images (fumie), and the Shimabara rebellion of 1637–38 ended in massacre. Hidden Christians (Kakure Kirishitan) kept a transformed faith in secret for over two centuries.\n\nIn China Valignano sent Michele Ruggieri and Matteo Ricci, who settled at Zhaoqing in 1583. Ricci first wore Buddhist robes, then in 1595 adopted the dress of a Confucian scholar, and presented Christianity as the fulfilment of original Confucianism, criticising Buddhism and Neo-Confucian metaphysics. His world map, his treatises on friendship and memory, his translation with Xu Guangqi of Euclid's Elements (1607) and his catechism Tianzhu shiyi (The True Meaning of the Lord of Heaven, 1603) won him admission to Beijing in 1601, where he lived on an imperial stipend until his death in 1610. Converts included the scholar-officials Xu Guangqi, Li Zhizao and Yang Tingyun. After the Ming fell, Johann Adam Schall von Bell directed the Qing Bureau of Astronomy; he was condemned to death in the calendar case of 1664–65 (commuted), but Ferdinand Verbiest restored the Jesuits' position, and the Kangxi Emperor issued an edict of toleration in 1692. Catholics numbered perhaps 200,000 by 1700, many of them in rural communities sustained by Chinese catechists and lay associations rather than by the court.\n\nRicci had allowed converts to continue honouring ancestors and Confucius, judging these civil rather than religious rites, and used classical terms such as Tian (Heaven) and Shangdi (Lord on High) for God. Spanish Dominicans and Franciscans arriving from Manila, notably Juan Bautista Morales, saw idolatry and appealed to Rome; the Propaganda condemned the practices in 1645, Alexander VII permitted them in 1656 on the Jesuit Martino Martini's representation, and the dispute escalated when the vicar apostolic Charles Maigrot banned the rites in Fujian in 1693. The Jesuits obtained a declaration from Kangxi in 1700 that the rites were civil, which Rome regarded as interference. Clement XI condemned the rites in 1704 and sent the legate Charles-Thomas Maillard de Tournon, whose audiences with Kangxi went badly; Tournon was expelled and died under Portuguese detention in Macau in 1710. The bull Ex illa die (1715) required all missionaries to swear obedience to the ban; Kangxi, reading it, remarked that Westerners could not understand Chinese teaching and it would be better to forbid their preaching. The Yongzheng Emperor proscribed Christianity in 1724, and Benedict XIV's Ex quo singulari (1742) closed debate. Christianity survived in China under persecution, but the opportunity of a court-sanctioned church had passed. In 1939 Pius XII's instruction Plane compertum est permitted Catholics to take part in ceremonies honouring Confucius and ancestors.\n\nIn India the Jesuits worked within the Padroado's Latin, Portuguese-speaking church, which was also suppressing the East Syriac heritage of the Thomas Christians; the Jesuit Francisco Ros became their first Latin bishop in 1601 after the Synod of Diamper. Roberto de Nobili, arriving in Madurai in 1606, separated himself from the Portuguese and the low-caste Paravar converts, lived as a vegetarian sannyasi, studied Sanskrit and Tamil, and argued that the sacred thread and caste marks were social signs that Brahmin converts could keep; Gregory XV approved his method in 1623. The Madurai mission later employed 'Brahmin sannyasis' for high castes and 'pandaraswamis' for others, with separate arrangements for Dalits – an accommodation of caste that the Malabar rites decrees of 1704 and 1744 (Omnium sollicitudinum) partly condemned and that left a legacy of segregated Catholic congregations. Jesuits also attended Akbar's court (from 1580), reached Tibet (Tsaparang 1624; Ippolito Desideri in Lhasa 1716–21), and in Vietnam Alexandre de Rhodes helped devise the romanised Vietnamese script (quốc ngữ) and published a catechism in 1651. In Ethiopia Jesuits from Goa secured the conversion of Emperor Susenyos in 1622, but the Latinising policy of Patriarch Afonso Mendes provoked civil war and expulsion in 1633.\n\nEuropean politics ended the mission. Pombal expelled the Jesuits from Portugal and its empire in 1759, France suppressed them in 1764 and Spain in 1767, and under Bourbon pressure Clement XIV dissolved the Society with Dominus ac Redemptor in 1773. Hundreds of Jesuits were shipped home from Asian and American missions; in Beijing the ex-Jesuits continued at court until the Lazarists took over in 1785. Pius VII restored the Society in 1814. Historians now regard the Jesuit Asian mission as both a remarkable intellectual bridge between Europe and Asia and a cautionary case of the costs of elite strategies, colonial entanglement and intra-Catholic rivalry.",
+      "beliefs": [
+        "Post-Tridentine Catholic orthodoxy with a strong emphasis on obedience to the pope and on the Spiritual Exercises of Ignatius of Loyola.",
+        "Natural theology: reason and the best of non-Christian traditions (especially Confucian ethics) could prepare the way for revelation.",
+        "Accommodation (accommodatio): adopting local language, dress, etiquette and permissible customs while preserving doctrine.",
+        "Conversion of elites – rulers, daimyo, literati, Brahmins – as the key to reaching whole societies.",
+        "The distinction between civil and religious rites, applied to ancestral and Confucian ceremonies and to caste markers."
+      ],
+      "strategies": [
+        "Rigorous language study and residence on local terms (Ricci's scholar's robes, de Nobili's sannyasi life).",
+        "Science, mathematics, astronomy, cartography and clockwork used to win access to courts.",
+        "Christian literature in Chinese, Japanese, Tamil and Vietnamese, including catechisms and apologetics.",
+        "Seminaries, colleges and printing presses (the Jesuit mission press in Japan from 1590).",
+        "Training of local catechists (dōjuku in Japan) and lay confraternities to sustain communities without priests.",
+        "Alliance with the Portuguese crown and trade networks for transport, funding and protection."
+      ],
+      "groupsReached": [
+        "Paravar and Mukkuva fishing communities of the Coromandel and Malabar coasts.",
+        "Japanese daimyo, samurai and peasants in Kyushu and central Japan.",
+        "Chinese scholar-officials and the Ming and Qing courts, and rural communities in Fujian, Jiangnan and Shanxi.",
+        "Brahmins and other castes of the Madurai region of Tamil Nadu.",
+        "Vietnamese of Tonkin and Cochinchina.",
+        "The Mughal court of Akbar and Jahangir, without lasting conversions."
+      ],
+      "challenges": [
+        "Persecution by Japanese and Chinese rulers who saw Christianity as foreign and subversive.",
+        "Rivalry with Spanish Franciscans and Dominicans and with the French priests of the Missions Étrangères de Paris.",
+        "Conflict between the Portuguese Padroado and Rome's vicars apostolic over jurisdiction.",
+        "Theological suspicion in Europe that accommodation compromised the faith, culminating in the Rites condemnations.",
+        "Few missionaries for vast populations, and long, deadly sea voyages.",
+        "The anti-Jesuit politics of Catholic Europe leading to expulsion and suppression."
+      ],
+      "harms": [
+        "Christian daimyo, with Jesuit approval, destroyed Buddhist temples and Shinto shrines and pressured subjects to convert; Buddhist monks were expelled from Christian domains.",
+        "Jesuits were entangled with Portuguese commerce, profited from the Macau–Nagasaki silk trade, and failed to stop Portuguese slave-trading in Japanese, which Hideyoshi cited in 1587.",
+        "Some Jesuits courted military intervention: Gaspar Coelho offered Hideyoshi Portuguese ships and fortified Nagasaki, and Alonso Sánchez proposed a Spanish conquest of China in the 1580s.",
+        "Xavier requested an Inquisition for Goa, which from 1560 prosecuted converts suspected of Hindu, Muslim or Jewish practices.",
+        "Mass baptisms of Paravars and Mukkuvas with minimal instruction made conversion a matter of caste politics and Portuguese patronage.",
+        "Caste accommodation in Madurai institutionalised discrimination against Dalit Christians, including separate seating, churches and priests.",
+        "The Rites controversy – a quarrel among European orders – left Chinese Catholics caught between Rome and the emperor and helped provoke the 1724 proscription."
+      ],
+      "developments": [
+        "The most sustained intellectual exchange between Europe and East Asia before the nineteenth century, including Western mathematics in China and European knowledge of Confucianism.",
+        "Pioneering dictionaries and grammars (the Portuguese-Japanese Vocabulario of 1603, Ricci's romanisation, de Rhodes's Vietnamese dictionary).",
+        "The quốc ngữ script, now the standard written form of Vietnamese.",
+        "Durable Catholic communities in Tamil Nadu, Vietnam, China and Kyushu, including Japan's Hidden Christians.",
+        "A theology of inculturation later endorsed by Vatican II and by the 1939 reversal on Chinese rites.",
+        "A native Japanese clergy and the Japanese martyrs, honoured in Nagasaki's Christian heritage (UNESCO, 2018)."
+      ],
+      "outcome": "The Jesuits failed to convert the courts of Japan, China or Mughal India, and their Asian mission ended in proscription, persecution and the suppression of the Society; yet they left Catholic communities that survived without missionaries, a corpus of cross-cultural scholarship and a model of accommodation whose questions – how far Christianity may adopt local rites, castes and concepts – remain central to mission.",
+      "keyPeople": [
+        {
+          "name": "Ignatius of Loyola",
+          "years": "1491–1556",
+          "role": "Founder and first superior general of the Society of Jesus",
+          "focus": "Sent Xavier to Asia and shaped Jesuit missionary obedience",
+          "personId": "ignatius-of-loyola",
+          "origin": "Loyola, Basque Country"
+        },
+        {
+          "name": "Francis Xavier",
+          "years": "1506–1552",
+          "role": "Papal nuncio and Jesuit missionary",
+          "focus": "India, Malacca, the Moluccas and Japan",
+          "outcome": "Died on Shangchuan Island; canonised 1622",
+          "personId": "francis-xavier",
+          "origin": "Navarre"
+        },
+        {
+          "name": "Alessandro Valignano",
+          "years": "1539–1606",
+          "role": "Jesuit visitor to the Indies",
+          "focus": "Policy of accommodation; training of Japanese clergy; China mission",
+          "outcome": "Architect of Jesuit strategy in East Asia"
+        },
+        {
+          "name": "Matteo Ricci",
+          "years": "1552–1610",
+          "role": "Jesuit scholar in Ming China",
+          "focus": "Scholarly accommodation; Tianzhu shiyi; residence in Beijing from 1601",
+          "outcome": "First Westerner granted burial in Beijing",
+          "personId": "matteo-ricci",
+          "origin": "Macerata"
+        },
+        {
+          "name": "Xu Guangqi",
+          "years": "1562–1633",
+          "role": "Ming scholar-official and Catholic convert",
+          "focus": "Co-translated Euclid; calendar reform",
+          "outcome": "One of the 'three pillars' of Chinese Catholicism"
+        },
+        {
+          "name": "Johann Adam Schall von Bell",
+          "years": "1592–1666",
+          "role": "Jesuit astronomer",
+          "focus": "Director of the Qing Bureau of Astronomy",
+          "outcome": "Imprisoned in the calendar case of 1664–65"
+        },
+        {
+          "name": "Roberto de Nobili",
+          "years": "1577–1656",
+          "role": "Jesuit missionary in Madurai",
+          "focus": "Life as a Brahmin sannyasi; Tamil and Sanskrit Christian writings",
+          "outcome": "His method was approved in 1623 but its caste aspects remain controversial",
+          "personId": "roberto-de-nobili",
+          "origin": "Montepulciano"
+        },
+        {
+          "name": "Alexandre de Rhodes",
+          "years": "1593–1660",
+          "role": "Jesuit missionary in Vietnam",
+          "focus": "Vietnamese dictionary and catechism (1651)",
+          "outcome": "Expelled from Vietnam in 1645"
+        }
+      ],
+      "countries": [
+        {
+          "country": "India",
+          "year": 1542,
+          "text": "Goa as base; Xavier on the Fishery Coast; de Nobili in Madurai; the Mughal court; Jesuit bishops of the Thomas Christians.",
+          "lng": 73.83,
+          "lat": 15.5
+        },
+        {
+          "country": "Malaysia (Malacca)",
+          "year": 1545,
+          "text": "Portuguese Malacca, where Xavier met Anjirō; a Jesuit college and hub for Asia.",
+          "lng": 102.25,
+          "lat": 2.19
+        },
+        {
+          "country": "Indonesia (Moluccas)",
+          "year": 1546,
+          "text": "Xavier's mission on Ambon, Ternate and the Moro islands.",
+          "lng": 128.18,
+          "lat": -3.7
+        },
+        {
+          "country": "Japan",
+          "year": 1549,
+          "text": "From Kagoshima to about 300,000 Christians by 1600; persecution after 1614.",
+          "lng": 129.87,
+          "lat": 32.75
+        },
+        {
+          "country": "China",
+          "year": 1583,
+          "text": "Ricci and successors at Zhaoqing, Nanjing and Beijing; astronomers at the Qing court.",
+          "lng": 116.4,
+          "lat": 39.9
+        },
+        {
+          "country": "Macau",
+          "year": 1565,
+          "text": "Jesuit residence and, from 1594, the College of St Paul, training missionaries for China and Japan.",
+          "lng": 113.54,
+          "lat": 22.2
+        },
+        {
+          "country": "Vietnam",
+          "year": 1615,
+          "text": "Jesuits at Hội An and Tonkin; de Rhodes's catechism and romanised script.",
+          "lng": 108.33,
+          "lat": 15.88
+        },
+        {
+          "country": "Philippines",
+          "year": 1581,
+          "text": "Jesuits joined the friar missions in Manila and the Visayas.",
+          "lng": 120.98,
+          "lat": 14.6
+        },
+        {
+          "country": "Tibet",
+          "year": 1624,
+          "text": "Andrade's mission at Tsaparang and Desideri's study of Tibetan Buddhism in Lhasa.",
+          "lng": 91.12,
+          "lat": 29.65
+        },
+        {
+          "country": "Ethiopia",
+          "year": 1557,
+          "text": "Jesuits from Goa; Pedro Páez and the conversion of Susenyos; expulsion in 1633.",
+          "lng": 37.47,
+          "lat": 12.61
+        }
+      ],
+      "journeys": [
+        {
+          "id": "jesuit-xavier-to-goa",
+          "title": "Francis Xavier's voyage to Goa",
+          "people": "Francis Xavier, Paulo Camerte and Francisco Mansilhas",
+          "personIds": [
+            "francis-xavier"
+          ],
+          "year": 1541,
+          "endYear": 1542,
+          "stops": [
+            {
+              "name": "Lisbon",
+              "lng": -9.14,
+              "lat": 38.72,
+              "year": 1541
+            },
+            {
+              "name": "Mozambique Island",
+              "lng": 40.74,
+              "lat": -15.03,
+              "year": 1541
+            },
+            {
+              "name": "Malindi",
+              "lng": 40.12,
+              "lat": -3.22,
+              "year": 1542
+            },
+            {
+              "name": "Socotra",
+              "lng": 53.85,
+              "lat": 12.5,
+              "year": 1542
+            },
+            {
+              "name": "Goa",
+              "lng": 73.83,
+              "lat": 15.5,
+              "year": 1542
+            }
+          ],
+          "text": "A thirteen-month voyage, including a winter on Mozambique Island, ended at Goa on 6 May 1542."
+        },
+        {
+          "id": "jesuit-xavier-to-japan",
+          "title": "Xavier from India to the Moluccas and Japan",
+          "people": "Francis Xavier, Cosme de Torres, Juan Fernández and Anjirō",
+          "personIds": [
+            "francis-xavier"
+          ],
+          "year": 1542,
+          "endYear": 1551,
+          "stops": [
+            {
+              "name": "Goa",
+              "lng": 73.83,
+              "lat": 15.5,
+              "year": 1542
+            },
+            {
+              "name": "Tuticorin (Fishery Coast)",
+              "lng": 78.13,
+              "lat": 8.8,
+              "year": 1542
+            },
+            {
+              "name": "Mylapore",
+              "lng": 80.27,
+              "lat": 13.03,
+              "year": 1545
+            },
+            {
+              "name": "Malacca",
+              "lng": 102.25,
+              "lat": 2.19,
+              "year": 1545
+            },
+            {
+              "name": "Ambon",
+              "lng": 128.18,
+              "lat": -3.7,
+              "year": 1546
+            },
+            {
+              "name": "Ternate",
+              "lng": 127.38,
+              "lat": 0.79,
+              "year": 1546
+            },
+            {
+              "name": "Kagoshima",
+              "lng": 130.56,
+              "lat": 31.6,
+              "year": 1549
+            },
+            {
+              "name": "Yamaguchi",
+              "lng": 131.47,
+              "lat": 34.18,
+              "year": 1550
+            },
+            {
+              "name": "Kyoto",
+              "lng": 135.77,
+              "lat": 35.01,
+              "year": 1551
+            }
+          ],
+          "text": "Xavier's travels took him from the Pearl Fishery to the Spice Islands and to Japan, where he failed to see the emperor in Kyoto but founded communities at Yamaguchi and Bungo."
+        },
+        {
+          "id": "jesuit-xavier-last-voyage",
+          "title": "Xavier's last voyage towards China",
+          "people": "Francis Xavier and the Chinese servant Antonio",
+          "personIds": [
+            "francis-xavier"
+          ],
+          "year": 1552,
+          "stops": [
+            {
+              "name": "Goa",
+              "lng": 73.83,
+              "lat": 15.5,
+              "year": 1552
+            },
+            {
+              "name": "Malacca",
+              "lng": 102.25,
+              "lat": 2.19,
+              "year": 1552
+            },
+            {
+              "name": "Shangchuan Island",
+              "lng": 112.78,
+              "lat": 21.72,
+              "year": 1552
+            }
+          ],
+          "text": "Waiting for a smuggler to take him to Canton, Xavier died of fever on Shangchuan on 3 December 1552."
+        },
+        {
+          "id": "jesuit-ricci-to-beijing",
+          "title": "Matteo Ricci's journey to Beijing",
+          "people": "Matteo Ricci, Michele Ruggieri and Lazzaro Cattaneo",
+          "personIds": [
+            "matteo-ricci"
+          ],
+          "year": 1582,
+          "endYear": 1601,
+          "stops": [
+            {
+              "name": "Macau",
+              "lng": 113.54,
+              "lat": 22.2,
+              "year": 1582
+            },
+            {
+              "name": "Zhaoqing",
+              "lng": 112.47,
+              "lat": 23.05,
+              "year": 1583
+            },
+            {
+              "name": "Shaozhou (Shaoguan)",
+              "lng": 113.6,
+              "lat": 24.81,
+              "year": 1589
+            },
+            {
+              "name": "Nanchang",
+              "lng": 115.86,
+              "lat": 28.68,
+              "year": 1595
+            },
+            {
+              "name": "Nanjing",
+              "lng": 118.8,
+              "lat": 32.06,
+              "year": 1599
+            },
+            {
+              "name": "Beijing",
+              "lng": 116.4,
+              "lat": 39.9,
+              "year": 1601
+            }
+          ],
+          "text": "Eighteen years of slow advance northward, changing from Buddhist to Confucian dress and building networks of literati friends, ended with residence at the Wanli court."
+        },
+        {
+          "id": "jesuit-tensho-embassy",
+          "title": "The Tenshō embassy of Japanese Christian youths",
+          "people": "Itō Mancio, Chijiwa Miguel, Hara Martinho and Nakaura Julião with Diogo de Mesquita",
+          "personIds": [],
+          "year": 1582,
+          "endYear": 1590,
+          "stops": [
+            {
+              "name": "Nagasaki",
+              "lng": 129.87,
+              "lat": 32.75,
+              "year": 1582
+            },
+            {
+              "name": "Macau",
+              "lng": 113.54,
+              "lat": 22.2,
+              "year": 1583
+            },
+            {
+              "name": "Goa",
+              "lng": 73.83,
+              "lat": 15.5,
+              "year": 1583
+            },
+            {
+              "name": "Lisbon",
+              "lng": -9.14,
+              "lat": 38.72,
+              "year": 1584
+            },
+            {
+              "name": "Madrid",
+              "lng": -3.7,
+              "lat": 40.42,
+              "year": 1584
+            },
+            {
+              "name": "Rome",
+              "lng": 12.49,
+              "lat": 41.89,
+              "year": 1585
+            },
+            {
+              "name": "Nagasaki",
+              "lng": 129.87,
+              "lat": 32.75,
+              "year": 1590
+            }
+          ],
+          "text": "Organised by Valignano to show Europe the Japanese church and Japan the glory of Catholic Europe; the youths met Philip II and Popes Gregory XIII and Sixtus V but returned to a country where Christianity had just been banned."
+        },
+        {
+          "id": "jesuit-de-nobili-madurai",
+          "title": "Roberto de Nobili to Madurai",
+          "people": "Roberto de Nobili",
+          "personIds": [
+            "roberto-de-nobili"
+          ],
+          "year": 1605,
+          "endYear": 1606,
+          "stops": [
+            {
+              "name": "Goa",
+              "lng": 73.83,
+              "lat": 15.5,
+              "year": 1605
+            },
+            {
+              "name": "Cochin",
+              "lng": 76.26,
+              "lat": 9.93,
+              "year": 1605
+            },
+            {
+              "name": "Tuticorin",
+              "lng": 78.13,
+              "lat": 8.8,
+              "year": 1606
+            },
+            {
+              "name": "Madurai",
+              "lng": 78.12,
+              "lat": 9.93,
+              "year": 1606
+            }
+          ],
+          "text": "After learning Tamil on the Fishery Coast, de Nobili moved to Madurai in November 1606 and adopted the life of a sannyasi."
+        }
+      ],
+      "influencedBy": [
+        "medieval-friars-mission",
+        "church-of-the-east-mission"
+      ],
+      "relations": [
+        {
+          "to": "iberian-colonial-mission",
+          "kind": "partnered",
+          "text": "Worked under the Portuguese Padroado, depending on its ships, finances and enclaves (Goa, Malacca, Macau, Nagasaki)."
+        }
+      ],
+      "agreements": [
+        {
+          "with": "church-of-the-east-mission",
+          "text": "Jesuits used the Xi'an stele, rediscovered c. 1625, to show that Christianity had been honoured in China under the Tang, and like the Jingjiao monks they expressed Christian teaching in Chinese religious vocabulary."
+        },
+        {
+          "with": "china-inland-mission",
+          "text": "Hudson Taylor's adoption of Chinese dress and residence among the people echoed Ricci's identification with Chinese culture, though for opposite social classes."
+        },
+        {
+          "with": "danish-halle-mission",
+          "text": "Ziegenbalg in Tranquebar, like the Jesuits of Madurai, studied Tamil literature seriously and tolerated caste distinctions in worship to a degree later Protestant missions condemned."
+        }
+      ],
+      "disagreements": [
+        {
+          "with": "iberian-colonial-mission",
+          "text": "Spanish Dominicans and Franciscans from Manila attacked Jesuit accommodation of ancestral rites and Confucian terms, taking the Chinese Rites controversy to Rome in 1643."
+        },
+        {
+          "with": "ethiopian-nubian-mission",
+          "text": "Jesuit attempts to Latinise the Ethiopian church under Susenyos provoked civil war and the expulsion of 1633."
+        },
+        {
+          "with": "church-growth-movement",
+          "text": "De Nobili's caste-specific approach anticipated McGavran's 'homogeneous unit principle', which critics in both cases accused of entrenching caste."
+        }
+      ],
+      "deviations": [
+        "Ignatius's ideal of apostolic poverty and obedience coexisted with Jesuit trading ventures, estates and dependence on Portuguese colonial power.",
+        "Accommodation, designed to separate the gospel from European culture, was undermined by the Jesuits' own links to Portuguese empire and by Rome's ultimate rejection of the rites.",
+        "Concentration on elites left communities vulnerable when rulers turned hostile, as in Japan after 1587 and China after 1724.",
+        "Caste accommodation in Madurai departed from the wider Christian teaching of equality at the Lord's table."
+      ],
+      "sources": [
+        "boxer-christian-century",
+        "mungello-chinese-rites",
+        "bays-china",
+        "m2-brockey-journey-east",
+        "m2-standaert-handbook",
+        "omalley-first-jesuits",
+        "m2-worcester-jesuits-companion",
+        "frykenberg-india",
+        "moffett-asia",
+        "neill-missions"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "russian-orthodox-mission",
+      "name": "Russian Orthodox missions (Stephen of Perm, Innocent of Alaska, Nicholas of Japan)",
+      "stream": "orthodox",
+      "traditionIds": [
+        "russian-orthodox",
+        "orthodox-church-in-america",
+        "eastern-orthodox"
+      ],
+      "startYear": 1379,
+      "origin": {
+        "name": "Moscow",
+        "lat": 55.76,
+        "lng": 37.62
+      },
+      "status": "transformed",
+      "statusNote": "The tsarist missionary system collapsed after 1917, when Soviet persecution destroyed the Imperial Orthodox Missionary Society and most missions. Its daughter churches survived independently: the Orthodox Church in America (autocephalous 1970, with Alaska Native parishes), the autonomous Japanese Orthodox Church (1970), and Orthodox communities in China and Korea. After 1991 the Moscow Patriarchate revived missionary work inside Russia, now closely aligned with the Russian state.",
+      "summary": "Russian Orthodox mission advanced with the expansion of Muscovy and the Russian Empire across northern Eurasia and into Alaska. At its best it continued the Cyrillo-Methodian tradition of vernacular scripture and liturgy: Stephen of Perm created an alphabet for the Komi in the fourteenth century, Nikolai Ilminsky built native-language schools for the Volga peoples, Innocent Veniaminov translated scripture into Aleut and Tlingit, and Nicholas Kasatkin founded a self-sustaining Japanese Orthodox church. It was also an arm of the state, using tax privileges, legal penalties and force to convert Muslims and animists, and was entangled with colonial exploitation in Siberia and Alaska.",
+      "story": "The first great Russian missionary was Stephen of Perm (c. 1340–1396), a monk from Ustyug who learned the language of the Komi (Zyrians) and, in deliberate imitation of Cyril, devised the Old Permic or Abur alphabet in about 1372. From 1379 he preached on the Vychegda river, translated services into Komi and was consecrated first bishop of Perm in 1383. His Life by Epiphanius the Wise celebrates both his translations and his felling of a sacred birch and burning of idols. Monks of the northern Thebaid, inspired by Sergius of Radonezh, carried Christianity to Finnic peoples of the north; Trifon of Pechenga worked among the Sami in the sixteenth century. Stephen's alphabet fell out of use within two centuries, replaced by Church Slavonic and Russian.\n\nWhen Ivan IV conquered Kazan in 1552 mission became an instrument of empire over Muslim and animist peoples. Archbishop Gurii of Kazan (1555) was instructed to win converts gently, but mosques were destroyed and baptised Tatars ('Kryashens') were given privileges. In the eighteenth century the Office for the Affairs of New Converts (1731/1740–1764) offered converts exemption from taxes and military recruitment – shifting the burden to unbaptised neighbours – while churches replaced mosques; under Bishop Luka Konashevich of Kazan hundreds of mosques were demolished, and there were mass baptisms of Chuvash, Mari, Udmurt and Mordvins who often understood little of the faith. In Siberia Metropolitan Filofei Leshchinsky of Tobolsk (1702–1721) baptised tens of thousands of Khanty and Mansi, burning their sacred images. Apostasy from Orthodoxy was a criminal offence until the 1905 edict of toleration, after which tens of thousands of baptised Tatars returned openly to Islam.\n\nThe nineteenth century brought reform. Makary Glukharev founded the Altai mission in 1830, insisting on long instruction before baptism and on translation; he also began a translation of the Old Testament into modern Russian. Nikolai Ilminsky (1822–1891), a Kazan orientalist, developed a system of schools teaching in the mother tongues of the Volga peoples using Cyrillic alphabets, with native teachers and clergy trained at the Kazan Central Baptised-Tatar School (1863) and Teachers' Seminary (1872). Ilminsky's aim was to bind non-Russians to Orthodoxy and the empire before Islam or nationalism could claim them; Russian nationalists attacked it for slowing Russification, and Tatar Muslims for its proselytism, but it gave Chuvash, Mari, Udmurt and others their first literature. The Imperial Orthodox Missionary Society was founded in 1870 under Metropolitan Innocent.\n\nIn 1794 eight monks from Valaam reached Kodiak in Russian America at the invitation of the merchant Grigory Shelikhov, whose company had massacred Alutiiq people at Awa'uq (Refuge Rock) in 1784. The monks protested the Russian-American Company's abuse of Native hunters and hostages; Hieromonk Juvenaly was killed around 1796, and the monk Herman lived on Spruce Island until 1837, defending Aleuts and running an orphanage. The priest Ioann Veniaminov arrived at Unalaska in 1824, built a church with Aleut labour, devised an Aleut alphabet with the chief Ivan Pankov and wrote the first Aleut book, Indication of the Way into the Kingdom of Heaven (1833, printed 1840). At Sitka from 1834 he learned Tlingit, and in 1840, as the widowed monk Innocent, he became bishop of Kamchatka, the Kurils and the Aleutians, later serving as metropolitan of Moscow (1868–1879). Orthodoxy took deep root among Aleuts, Alutiiq and Yupik, partly because clergy and Native readers ran schools in Native languages. After the sale of Alaska to the United States in 1867, American policy under the Presbyterian Sheldon Jackson suppressed Native languages in schools, while the Orthodox church remained a refuge of Native identity.\n\nIn Japan, Ivan Kasatkin (Nicholas) arrived at Hakodate in 1861 as chaplain to the Russian consulate, studied Japanese language and literature for years, and baptised his first converts, including the former samurai and Shinto priest Sawabe Takuma, secretly in 1868, while Christianity was still banned. Moving to Tokyo in 1872, he relied on Japanese catechists and clergy, translated the liturgy and New Testament with Nakai Tsugumaro, and built the Cathedral of the Resurrection (Nikolai-dō, 1891). During the Russo-Japanese War (1904–05) he remained in Japan, praying for its people while ministering to Russian prisoners. At his death in 1912 the church numbered about 33,000. A Russian Ecclesiastical Mission had existed in Beijing since 1715, serving the descendants of Albazin Cossacks and acting as an informal embassy; during the Boxer uprising of 1900 some 222 Chinese Orthodox were killed. A Korean mission opened in 1900.\n\nThe revolution of 1917 ended this era. The Soviet state closed missions, executed or imprisoned clergy and cut off overseas dioceses, which reorganised as the Metropolia in North America (later the Orthodox Church in America), the Japanese church and the Russian Orthodox Church Outside Russia. After 1991 the Moscow Patriarchate rebuilt dioceses, translated scripture into minority languages and created a Synodal Missionary Department (1995), while supporting the 1997 law restricting 'non-traditional' religions and opposing Western Protestant mission in Russia as proselytism. Its close alignment with the state, including support for the war in Ukraine framed by 'Russian world' ideology, has been sharply criticised by other Orthodox theologians.",
+      "beliefs": [
+        "Eastern Orthodox faith and worship as the fullness of Christianity, with the Byzantine-Slavonic liturgy at the centre of mission.",
+        "The Cyrillo-Methodian principle that peoples should worship in their own language, revived by Stephen of Perm, Ilminsky, Innocent and Nicholas.",
+        "Symphony of church and state: the tsar as protector of Orthodoxy and conversion as integration into the Russian realm.",
+        "Baptism as entry into both the church and imperial society, with apostasy treated as a crime until 1905.",
+        "Monastic holiness and the 'elder' tradition as the source of missionary vocation (Sergius of Radonezh, Valaam, Optina)."
+      ],
+      "strategies": [
+        "Creation of alphabets and translations: Old Permic for Komi, Cyrillic scripts for Volga and Siberian languages, Aleut and Tlingit writing.",
+        "State incentives for converts – tax and conscription exemptions – and penalties for apostasy and for proselytising by other faiths.",
+        "Destruction of sacred groves, idols and mosques and their replacement with churches.",
+        "Native-language schools and the training of indigenous teachers and priests (Ilminsky system, Alaskan readers, Japanese catechists).",
+        "Missions attached to trading companies and military outposts (Russian-American Company, Siberian forts).",
+        "Monastic settlements as centres of instruction and charity, such as Herman's Spruce Island and Glukharev's Altai mission."
+      ],
+      "groupsReached": [
+        "Komi (Zyrians) and other Finnic peoples of the Russian north.",
+        "Volga Tatars, Chuvash, Mari, Udmurt and Mordvins after the conquest of Kazan.",
+        "Khanty, Mansi, Yakut (Sakha), Buryat and Altaian peoples of Siberia.",
+        "Aleuts, Alutiiq, Yupik and Tlingit of Alaska.",
+        "Japanese, especially in Hakodate, Tokyo and northern Honshu.",
+        "Albazinian descendants and some Han Chinese in Beijing; Koreans after 1900."
+      ],
+      "challenges": [
+        "Resistance of Muslim Tatars and Bashkirs, and widespread return to Islam or traditional religion after nominal baptism.",
+        "Huge distances and shortage of clergy who knew local languages.",
+        "Conflict between missionary ideals and state or commercial interests (Russian-American Company, settlers).",
+        "Russian nationalist opposition to non-Russian-language liturgy.",
+        "After 1867 in Alaska, competition with American Protestant missions and English-only schooling.",
+        "Soviet persecution after 1917, which destroyed most missionary institutions."
+      ],
+      "harms": [
+        "Conversion was frequently coerced or bought: tax and conscription exemptions for converts, criminal penalties for apostasy and pressure on whole villages produced nominal Christians.",
+        "Hundreds of mosques in the Kazan region were destroyed in the 1740s, and Muslim Tatars faced restrictions designed to promote conversion.",
+        "Sacred sites, images and groves of Komi, Khanty, Mansi and other peoples were burned or cut down by missionaries, from Stephen of Perm to Filofei of Tobolsk.",
+        "Mission in Alaska depended on the Russian-American Company, which exploited Aleut and Alutiiq hunters through forced labour and hostage-taking.",
+        "Missions often served Russification and imperial control, even when using native languages.",
+        "In the post-Soviet period the church has supported legal restrictions on other religions and aligned itself with state nationalism and the war against Ukraine."
+      ],
+      "developments": [
+        "First alphabets and books for many peoples of Russia and Alaska, including Komi, Aleut, Chuvash and Mari.",
+        "A self-governing Japanese Orthodox Church with Japanese clergy and liturgy.",
+        "Orthodoxy as a lasting element of Alaska Native identity, and the Orthodox Church in America.",
+        "Ilminsky's mother-tongue schooling, which shaped later Soviet language policy and national literatures.",
+        "Saints – Stephen of Perm, Herman and Innocent of Alaska, Nicholas of Japan – who model a respectful, linguistically engaged mission within Orthodoxy."
+      ],
+      "outcome": "Russian Orthodox mission made Orthodoxy the faith of many Finnic, Volga, Siberian and Alaskan peoples and planted lasting churches in Japan and North America, but its dependence on imperial power meant that many conversions were nominal and that Islam and indigenous religions revived whenever coercion lifted. Its most enduring fruits came where missionaries translated, educated and handed leadership to local Christians.",
+      "keyPeople": [
+        {
+          "name": "Stephen of Perm",
+          "years": "c. 1340–1396",
+          "role": "Monk and first bishop of Perm",
+          "focus": "Komi alphabet and liturgy; mission on the Vychegda",
+          "outcome": "Canonised 1549",
+          "origin": "Veliky Ustyug"
+        },
+        {
+          "name": "Filofei Leshchinsky",
+          "years": "1650–1727",
+          "role": "Metropolitan of Tobolsk",
+          "focus": "Mass baptisms of Khanty and Mansi in western Siberia",
+          "outcome": "Remembered both as an apostle of Siberia and for burning sacred images"
+        },
+        {
+          "name": "Herman of Alaska",
+          "years": "c. 1756–1837",
+          "role": "Valaam monk on Kodiak and Spruce Island",
+          "focus": "Defence of Alaska Natives; orphan school",
+          "outcome": "Canonised 1970, the first Orthodox saint of America"
+        },
+        {
+          "name": "Innocent (Ioann Veniaminov)",
+          "years": "1797–1879",
+          "role": "Missionary priest, bishop and Metropolitan of Moscow",
+          "focus": "Aleut alphabet and translations; Tlingit mission; Imperial Orthodox Missionary Society",
+          "outcome": "Canonised 1977 as 'Apostle to the Americas'"
+        },
+        {
+          "name": "Nikolai Ilminsky",
+          "years": "1822–1891",
+          "role": "Orientalist and educator in Kazan",
+          "focus": "Native-language schools for Volga peoples",
+          "outcome": "His system trained hundreds of native teachers and priests"
+        },
+        {
+          "name": "Makary Glukharev",
+          "years": "1792–1847",
+          "role": "Archimandrite, founder of the Altai mission",
+          "focus": "Instruction before baptism; Bible translation into Russian",
+          "outcome": "Canonised 2000"
+        },
+        {
+          "name": "Nicholas of Japan (Ivan Kasatkin)",
+          "years": "1836–1912",
+          "role": "Founder of the Japanese Orthodox Church",
+          "focus": "Japanese translations; Tokyo cathedral; indigenous clergy",
+          "outcome": "Canonised 1970 as 'Equal-to-the-Apostles'"
+        }
+      ],
+      "countries": [
+        {
+          "country": "Russia (Komi, Perm)",
+          "year": 1379,
+          "text": "Stephen's mission on the Vychegda and the bishopric of Perm.",
+          "lng": 50.94,
+          "lat": 62.23
+        },
+        {
+          "country": "Russia (Volga, Kazan)",
+          "year": 1552,
+          "text": "Missions to Tatars, Chuvash, Mari and Udmurt after the conquest of Kazan; Ilminsky's schools.",
+          "lng": 49.11,
+          "lat": 55.79
+        },
+        {
+          "country": "Russia (Siberia)",
+          "year": 1702,
+          "text": "Filofei of Tobolsk among the Khanty and Mansi; Altai mission from 1830; Yakut and Buryat missions.",
+          "lng": 68.25,
+          "lat": 58.2
+        },
+        {
+          "country": "China",
+          "year": 1715,
+          "text": "The Russian Ecclesiastical Mission in Beijing; Orthodox martyrs of 1900.",
+          "lng": 116.4,
+          "lat": 39.9
+        },
+        {
+          "country": "United States (Alaska)",
+          "year": 1794,
+          "text": "Valaam monks on Kodiak; Veniaminov at Unalaska and Sitka; Orthodoxy among Aleuts, Alutiiq, Yupik and Tlingit.",
+          "lng": -152.4,
+          "lat": 57.79
+        },
+        {
+          "country": "Japan",
+          "year": 1861,
+          "text": "Nicholas at Hakodate and Tokyo; about 33,000 members by 1912.",
+          "lng": 139.77,
+          "lat": 35.7
+        },
+        {
+          "country": "United States (continental)",
+          "year": 1872,
+          "text": "Diocese moved to San Francisco (1872) and New York (1905); served Slavic and Greek immigrants and Uniate converts.",
+          "lng": -122.42,
+          "lat": 37.77
+        },
+        {
+          "country": "Korea",
+          "year": 1900,
+          "text": "Russian Orthodox mission in Seoul, later under the Ecumenical Patriarchate.",
+          "lng": 126.98,
+          "lat": 37.57
+        }
+      ],
+      "journeys": [
+        {
+          "id": "russian-stephen-perm",
+          "title": "Stephen of Perm's mission to the Komi",
+          "people": "Stephen of Perm",
+          "personIds": [],
+          "year": 1379,
+          "endYear": 1383,
+          "stops": [
+            {
+              "name": "Veliky Ustyug",
+              "lng": 46.3,
+              "lat": 60.76,
+              "year": 1379
+            },
+            {
+              "name": "Ust-Vym (Komi)",
+              "lng": 50.94,
+              "lat": 62.23,
+              "year": 1380
+            },
+            {
+              "name": "Moscow",
+              "lng": 37.62,
+              "lat": 55.76,
+              "year": 1383
+            },
+            {
+              "name": "Ust-Vym (Komi)",
+              "lng": 50.94,
+              "lat": 62.23,
+              "year": 1383
+            }
+          ],
+          "text": "Stephen travelled up the Vychegda to found churches among the Komi, went to Moscow to be consecrated bishop in 1383 and returned to his see at Ust-Vym."
+        },
+        {
+          "id": "russian-valaam-mission-kodiak",
+          "title": "The Valaam monks to Kodiak",
+          "people": "Archimandrite Joasaph, Herman, Juvenaly and companions",
+          "personIds": [],
+          "year": 1793,
+          "endYear": 1794,
+          "stops": [
+            {
+              "name": "Valaam Monastery",
+              "lng": 30.95,
+              "lat": 61.37,
+              "year": 1793
+            },
+            {
+              "name": "Irkutsk",
+              "lng": 104.3,
+              "lat": 52.29,
+              "year": 1794
+            },
+            {
+              "name": "Okhotsk",
+              "lng": 143.24,
+              "lat": 59.36,
+              "year": 1794
+            },
+            {
+              "name": "Kodiak",
+              "lng": -152.4,
+              "lat": 57.79,
+              "year": 1794
+            }
+          ],
+          "text": "A journey of some 12,000 km across Siberia and the North Pacific; the monks arrived at Kodiak in September 1794."
+        },
+        {
+          "id": "russian-innocent-alaska",
+          "title": "Ioann Veniaminov to Unalaska and Sitka",
+          "people": "Ioann Veniaminov (St Innocent) and his family",
+          "personIds": [],
+          "year": 1823,
+          "endYear": 1841,
+          "stops": [
+            {
+              "name": "Irkutsk",
+              "lng": 104.3,
+              "lat": 52.29,
+              "year": 1823
+            },
+            {
+              "name": "Yakutsk",
+              "lng": 129.73,
+              "lat": 62.03,
+              "year": 1823
+            },
+            {
+              "name": "Okhotsk",
+              "lng": 143.24,
+              "lat": 59.36,
+              "year": 1823
+            },
+            {
+              "name": "Sitka",
+              "lng": -135.33,
+              "lat": 57.05,
+              "year": 1824
+            },
+            {
+              "name": "Unalaska",
+              "lng": -166.54,
+              "lat": 53.87,
+              "year": 1824
+            },
+            {
+              "name": "Sitka",
+              "lng": -135.33,
+              "lat": 57.05,
+              "year": 1834
+            },
+            {
+              "name": "St Petersburg",
+              "lng": 30.32,
+              "lat": 59.94,
+              "year": 1839
+            },
+            {
+              "name": "Sitka",
+              "lng": -135.33,
+              "lat": 57.05,
+              "year": 1841
+            }
+          ],
+          "text": "Ten years at Unalaska among the Aleuts, then Sitka among the Tlingit; after his wife's death he became a monk and returned to Sitka as bishop in 1841."
+        },
+        {
+          "id": "russian-nicholas-japan",
+          "title": "Nicholas Kasatkin to Japan",
+          "people": "Ivan (Nicholas) Kasatkin",
+          "personIds": [],
+          "year": 1860,
+          "endYear": 1872,
+          "stops": [
+            {
+              "name": "St Petersburg",
+              "lng": 30.32,
+              "lat": 59.94,
+              "year": 1860
+            },
+            {
+              "name": "Irkutsk",
+              "lng": 104.3,
+              "lat": 52.29,
+              "year": 1860
+            },
+            {
+              "name": "Nikolayevsk-on-Amur",
+              "lng": 140.73,
+              "lat": 53.15,
+              "year": 1861
+            },
+            {
+              "name": "Hakodate",
+              "lng": 140.73,
+              "lat": 41.77,
+              "year": 1861
+            },
+            {
+              "name": "Tokyo",
+              "lng": 139.77,
+              "lat": 35.7,
+              "year": 1872
+            }
+          ],
+          "text": "Crossing Siberia overland, Kasatkin reached Hakodate in July 1861 and moved to Tokyo in 1872, where he founded the mission headquarters at Surugadai."
+        },
+        {
+          "id": "russian-beijing-mission",
+          "title": "The Russian Ecclesiastical Mission to Beijing",
+          "people": "Archimandrite Ilarion Lezhaisky and clergy",
+          "personIds": [],
+          "year": 1715,
+          "endYear": 1716,
+          "stops": [
+            {
+              "name": "Tobolsk",
+              "lng": 68.25,
+              "lat": 58.2,
+              "year": 1715
+            },
+            {
+              "name": "Irkutsk",
+              "lng": 104.3,
+              "lat": 52.29,
+              "year": 1715
+            },
+            {
+              "name": "Kyakhta region",
+              "lng": 106.45,
+              "lat": 50.35,
+              "year": 1715
+            },
+            {
+              "name": "Beijing",
+              "lng": 116.4,
+              "lat": 39.9,
+              "year": 1716
+            }
+          ],
+          "text": "Sent by Peter the Great with Kangxi's consent to serve the Albazinian community, the mission also functioned as Russia's diplomatic and scholarly presence in China until 1860."
+        }
+      ],
+      "influencedBy": [
+        "byzantine-slavic-mission"
+      ],
+      "relations": [],
+      "agreements": [
+        {
+          "with": "byzantine-slavic-mission",
+          "text": "Stephen of Perm, Ilminsky and Innocent all explicitly invoked Cyril and Methodius in creating alphabets and vernacular liturgy."
+        },
+        {
+          "with": "bible-translation-mission",
+          "text": "Shared commitment to scripture in minority languages; the Russian Bible Society (1812–1826) translated into several languages of the empire before Orthodox opposition closed it."
+        },
+        {
+          "with": "ecumenical-mission",
+          "text": "The Russian Orthodox Church joined the World Council of Churches in 1961, and Orthodox theologians contributed to ecumenical mission thought on liturgy and witness."
+        }
+      ],
+      "disagreements": [
+        {
+          "with": "lausanne-movement",
+          "text": "After 1991 the Moscow Patriarchate condemned Western evangelical missions in Russia as 'proselytism' on canonical Orthodox territory and backed the 1997 law restricting them."
+        },
+        {
+          "with": "pentecostal-mission",
+          "text": "Pentecostal and charismatic churches growing in Russia and Ukraine are treated by the Patriarchate as sects, and have faced legal restrictions and harassment."
+        }
+      ],
+      "deviations": [
+        "The Cyrillo-Methodian ideal of persuasion in one's own tongue was repeatedly displaced by state-backed coercion and material inducements.",
+        "Mission became tied to Russification and imperial expansion, at odds with Orthodoxy's own teaching that the church transcends nations (condemned as 'phyletism' in 1872).",
+        "Recent alignment of the Moscow Patriarchate with state ideology has been criticised by Orthodox theologians in the 2022 Declaration on the 'Russian World' teaching."
+      ],
+      "sources": [
+        "pospielovsky-russian-church",
+        "ware-orthodox-church",
+        "m2-znamenski-shamanism",
+        "m2-geraci-khodarkovsky-religion-empire",
+        "m2-oleksa-orthodox-alaska",
+        "mullins-handbook-japan",
+        "russian-world-declaration-2022",
+        "neill-missions"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "sources": [
+    {
+      "id": "m2-dvornik-byzantine-missions",
+      "title": "Byzantine Missions among the Slavs: SS. Constantine-Cyril and Methodius",
+      "author": "Francis Dvornik",
+      "year": 1970,
+      "kind": "secondary"
+    },
+    {
+      "id": "m2-obolensky-byzantine-commonwealth",
+      "title": "The Byzantine Commonwealth: Eastern Europe, 500–1453",
+      "author": "Dimitri Obolensky",
+      "year": 1971,
+      "kind": "secondary"
+    },
+    {
+      "id": "m2-kantor-slavic-lives",
+      "title": "Medieval Slavic Lives of Saints and Princes (includes the Vita Constantini and Vita Methodii)",
+      "author": "Marvin Kantor (trans.)",
+      "year": 1983,
+      "kind": "primary"
+    },
+    {
+      "id": "m2-rossabi-voyager-xanadu",
+      "title": "Voyager from Xanadu: Rabban Sauma and the First Journey from China to the West",
+      "author": "Morris Rossabi",
+      "year": 1992,
+      "kind": "secondary"
+    },
+    {
+      "id": "m2-tang-nestorian-china",
+      "title": "A Study of the History of Nestorian Christianity in China and its Literature in Chinese",
+      "author": "Li Tang",
+      "year": 2002,
+      "kind": "secondary"
+    },
+    {
+      "id": "m2-welsby-medieval-nubia",
+      "title": "The Medieval Kingdoms of Nubia: Pagans, Christians and Muslims along the Middle Nile",
+      "author": "Derek A. Welsby",
+      "year": 2002,
+      "kind": "secondary"
+    },
+    {
+      "id": "m2-tamrat-church-state",
+      "title": "Church and State in Ethiopia, 1270–1527",
+      "author": "Taddesse Tamrat",
+      "year": 1972,
+      "kind": "secondary"
+    },
+    {
+      "id": "m2-rufinus-church-history",
+      "title": "Ecclesiastical History, Book 10 (account of Frumentius and Aedesius)",
+      "author": "Rufinus of Aquileia",
+      "year": 402,
+      "kind": "primary"
+    },
+    {
+      "id": "m2-dawson-mongol-mission",
+      "title": "The Mongol Mission: Narratives and Letters of the Franciscan Missionaries in Mongolia and China in the Thirteenth and Fourteenth Centuries",
+      "author": "Christopher Dawson (ed.)",
+      "year": 1955,
+      "kind": "primary"
+    },
+    {
+      "id": "m2-jackson-mongols-west",
+      "title": "The Mongols and the West, 1221–1410",
+      "author": "Peter Jackson",
+      "year": 2005,
+      "kind": "secondary"
+    },
+    {
+      "id": "m2-kedar-crusade-mission",
+      "title": "Crusade and Mission: European Approaches toward the Muslims",
+      "author": "Benjamin Z. Kedar",
+      "year": 1984,
+      "kind": "secondary"
+    },
+    {
+      "id": "m2-hanke-spanish-struggle",
+      "title": "The Spanish Struggle for Justice in the Conquest of America",
+      "author": "Lewis Hanke",
+      "year": 1949,
+      "kind": "secondary"
+    },
+    {
+      "id": "m2-las-casas-brevisima",
+      "title": "Brevísima relación de la destrucción de las Indias (A Short Account of the Destruction of the Indies)",
+      "author": "Bartolomé de las Casas",
+      "year": 1552,
+      "kind": "primary"
+    },
+    {
+      "id": "m2-ricard-spiritual-conquest",
+      "title": "The Spiritual Conquest of Mexico",
+      "author": "Robert Ricard",
+      "year": 1933,
+      "kind": "secondary",
+      "note": "English translation by Lesley Byrd Simpson, 1966."
+    },
+    {
+      "id": "m2-clendinnen-ambivalent-conquests",
+      "title": "Ambivalent Conquests: Maya and Spaniard in Yucatan, 1517–1570",
+      "author": "Inga Clendinnen",
+      "year": 1987,
+      "kind": "secondary"
+    },
+    {
+      "id": "m2-ganson-guarani",
+      "title": "The Guaraní under Spanish Rule in the Río de la Plata",
+      "author": "Barbara Ganson",
+      "year": 2003,
+      "kind": "secondary"
+    },
+    {
+      "id": "m2-thornton-kongo",
+      "title": "The Kongolese Saint Anthony / 'The Development of an African Catholic Church in the Kingdom of Kongo, 1491–1750' (Journal of African History 25)",
+      "author": "John K. Thornton",
+      "year": 1984,
+      "kind": "secondary"
+    },
+    {
+      "id": "m2-brockey-journey-east",
+      "title": "Journey to the East: The Jesuit Mission to China, 1579–1724",
+      "author": "Liam Matthew Brockey",
+      "year": 2007,
+      "kind": "secondary"
+    },
+    {
+      "id": "m2-standaert-handbook",
+      "title": "Handbook of Christianity in China, Volume One: 635–1800",
+      "author": "Nicolas Standaert (ed.)",
+      "year": 2001,
+      "kind": "reference"
+    },
+    {
+      "id": "m2-worcester-jesuits-companion",
+      "title": "The Cambridge Companion to the Jesuits",
+      "author": "Thomas Worcester (ed.)",
+      "year": 2008,
+      "kind": "reference"
+    },
+    {
+      "id": "m2-znamenski-shamanism",
+      "title": "Shamanism and Christianity: Native Encounters with Russian Orthodox Missions in Siberia and Alaska, 1820–1917",
+      "author": "Andrei A. Znamenski",
+      "year": 1999,
+      "kind": "secondary"
+    },
+    {
+      "id": "m2-geraci-khodarkovsky-religion-empire",
+      "title": "Of Religion and Empire: Missions, Conversion, and Tolerance in Tsarist Russia",
+      "author": "Robert P. Geraci and Michael Khodarkovsky (eds.)",
+      "year": 2001,
+      "kind": "secondary"
+    },
+    {
+      "id": "m2-oleksa-orthodox-alaska",
+      "title": "Orthodox Alaska: A Theology of Mission",
+      "author": "Michael Oleksa",
+      "year": 1992,
+      "kind": "secondary"
+    }
+  ]
+}
