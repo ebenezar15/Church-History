@@ -16,8 +16,8 @@
  * "Avenir Next" pointing at files in /public/fonts.
  */
 @theme {
-  --font-sans: 'Avenir Next', 'AvenirNext', 'Avenir Next LT Pro', 'Avenir', 'Nunito Sans', ui-sans-serif, system-ui, sans-serif;
-  --font-display: 'Avenir Next', 'AvenirNext', 'Avenir Next LT Pro', 'Avenir', 'Nunito Sans', ui-sans-serif, system-ui, sans-serif;
+  --font-sans: 'Avenir Next', 'AvenirNext', 'Avenir Next LT Pro', 'Avenir', 'Nunito Sans', 'Noto Sans Tamil', 'Tamil Sangam MN', 'Nirmala UI', 'Latha', ui-sans-serif, system-ui, sans-serif;
+  --font-display: 'Avenir Next', 'AvenirNext', 'Avenir Next LT Pro', 'Avenir', 'Nunito Sans', 'Noto Sans Tamil', 'Tamil Sangam MN', 'Nirmala UI', 'Latha', ui-sans-serif, system-ui, sans-serif;
   --font-serif: 'Cormorant Garamond', 'EB Garamond', Georgia, serif;
 
   --color-bg: var(--bg);

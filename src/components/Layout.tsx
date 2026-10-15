@@ -3,6 +3,7 @@ import { Link, NavLink, Outlet, useLocation, useNavigate } from 'react-router-do
 import { AnimatePresence, motion, useScroll, useSpring } from 'framer-motion';
 import { Icon, type IconName } from './Icon';
 import { ThemeButton } from './Theme';
+import { LangSwitch } from './LangSwitch';
 import { SearchPalette, useSearchHotkey } from './Search';
 import { useUi } from '../store/ui';
 import { useAtlas, labelFor } from '../data/db';
@@ -162,7 +163,7 @@ export function Layout() {
             <span className="hidden sm:inline">Search the atlas…</span>
             <kbd className="chip ml-auto hidden !py-0 sm:inline-flex">⌘K</kbd>
           </button>
-          <div className="lg:ml-auto"><ThemeButton /></div>
+          <div className="flex items-center gap-2 lg:ml-auto"><LangSwitch /><ThemeButton /></div>
         </div>
       </header>
 

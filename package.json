@@ -15,12 +15,17 @@
     "build:single": "npm run validate && npm run content && vite build --mode single --outDir dist-single",
     "build:artifact": "npm run build:single && node scripts/artifact-page.mjs",
     "build:site": "npm run build:single && cp dist-single/index.html docs/index.html",
-    "content": "tsx scripts/bundle-content.ts"
+    "content": "tsx scripts/bundle-content.ts",
+    "content:ta": "ATLAS_LANG=ta tsx scripts/bundle-content.ts",
+    "build:single:ta": "npm run validate && npm run content:ta && vite build --mode single-ta --outDir dist-single-ta && npm run content",
+    "build:site:ta": "npm run build:single:ta && mkdir -p docs/ta && cp dist-single-ta/index.html docs/ta/index.html",
+    "i18n:extract": "tsx scripts/i18n-extract.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.133.0",
     "@dagrejs/dagre": "^3.1.1",
     "@fontsource/cormorant-garamond": "^5.3.0",
+    "@fontsource/noto-sans-tamil": "^5.3.0",
     "@fontsource/nunito-sans": "^5.3.0",
     "@xyflow/react": "^12.12.0",
     "d3": "^7.9.0",

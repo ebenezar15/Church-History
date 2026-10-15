@@ -6,6 +6,7 @@ import { useAtlas, hrefFor } from '../data/db';
 import { askAtlas, DEFAULT_MODEL, MODELS, type Turn } from '../agent/run';
 import type { ToolEvent } from '../agent/tools';
 import { answerOffline, type Ref } from '../agent/offline';
+import { TA } from '../i18n/dict';
 import { Icon } from '../components/Icon';
 import { Markdown } from '../components/Markdown';
 import { PageHeader, cx } from '../components/ui';
@@ -18,14 +19,23 @@ const ENGINE_STORE = 'ecclesia-agent-engine';
 const read = (k: string) => { try { return localStorage.getItem(k) ?? ''; } catch { return ''; } };
 const write = (k: string, v: string) => { try { if (v) localStorage.setItem(k, v); else localStorage.removeItem(k); } catch { /* storage unavailable */ } };
 
-const SUGGESTIONS = [
-  'Why did the Church of the East separate from the churches of the Roman Empire?',
-  'Trace the Assemblies of God back to the early church.',
-  'Compare penal substitution with Christus Victor.',
-  'What did the Council of Chalcedon decide, and who rejected it?',
-  'What do Methodists believe about salvation?',
-  'What happened in the 4th century?',
-];
+const SUGGESTIONS = TA
+  ? [
+      'கிழக்கின் திருச்சபை ரோமப் பேரரசின் சபைகளிலிருந்து ஏன் பிரிந்தது?',
+      'அசெம்பிளீஸ் ஆஃப் காட் சபையின் வேர்களை ஆதித் திருச்சபை வரை காட்டு.',
+      'தண்டனைப் பதிலீட்டுப் பாவநிவர்த்தி மற்றும் கிறிஸ்து வெற்றியாளர் ஒப்பிடு.',
+      'கல்செதோன் பொதுச்சங்கம் ஏன் கூட்டப்பட்டது, அதன் விளைவுகள் என்ன?',
+      'மெதடிஸ்ட் இயக்கம் இரட்சிப்பைப் பற்றி என்ன நம்புகிறது?',
+      '4-ஆம் நூற்றாண்டில் என்ன நடந்தது?',
+    ]
+  : [
+      'Why did the Church of the East separate from the churches of the Roman Empire?',
+      'Trace the Assemblies of God back to the early church.',
+      'Compare penal substitution with Christus Victor.',
+      'What did the Council of Chalcedon decide, and who rejected it?',
+      'What do Methodists believe about salvation?',
+      'What happened in the 4th century?',
+    ];
 
 export default function Ask() {
   const a = useAtlas();
