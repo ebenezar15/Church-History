@@ -10,7 +10,8 @@ import type {
 } from '../data/schema';
 import { FAMILIES, formatSpan, formatYear } from '../data/families';
 import { getFuse } from '../data/searchIndex';
-import { ENGLISH_NAMES, TA, t, ui } from '../i18n/dict';
+import { isTA, t, ui } from '../i18n/dict';
+import { englishNames } from '../data/db';
 
 export interface Ref { type: EntityType; id: string }
 export interface OfflineAnswer { text: string; steps: string[]; focus?: Ref; related: Ref[] }
@@ -151,9 +152,9 @@ function aliases(a: Atlas): Alias[] {
   for (const w of a.works) add('work', w.id, [w.title], 2);
   for (const e of a.eras) add('era', e.id, [e.name, e.short], 1);
   for (const [k, ref] of Object.entries(ALIASES)) if (a.get(ref.type, ref.id)) out.push({ text: norm(k), ref, weight: 40 + k.length }); // everyday names win ties
-  if (TA) {
+  if (isTA()) {
     // The Tamil edition also understands English names, and everyday Tamil words for common subjects.
-    for (const [key, n] of Object.entries(ENGLISH_NAMES)) {
+    for (const [key, n] of Object.entries(englishNames())) {
       const [type, id] = key.split('/') as [EntityType, string];
       if (n && a.get(type, id)) for (const v of variants(n, true, type === 'tradition' || type === 'position', type === 'doctrine')) {
         const text = norm(v).replace(/^ ((?:the|on|of|a|an|in|to|for) )+/, ' ');
@@ -242,7 +243,7 @@ function describeTradition(a: Atlas, t: Tradition, related: Ref[], focusField?: 
   const kids = a.childrenOf.get(t.id) ?? [];
   related.push(...(split ? [{ type: 'event' as const, id: split.id }] : []), ...kids.slice(0, 4).map((k) => ({ type: 'tradition' as const, id: k.id })));
   const parts = [
-    TA
+    isTA()
       ? `**${link('tradition', t.id, t.name)}** — ${ui(f.label)} குடும்பம்; ${formatYear(t.foundedYear)} இல் தோன்றியது${t.endYear ? `, ${formatYear(t.endYear)} இல் முடிவுற்றது` : ''}.${t.adherents ? ` சுமார் ${Math.round(t.adherents.estimate / 1e6).toLocaleString()} மில்லியன் பின்பற்றுநர்கள் (${t.adherents.year}).` : ''}`
       : `**${link('tradition', t.id, t.name)}** — ${f.label} family, emerging ${formatYear(t.foundedYear)}${t.endYear ? ` and ending ${formatYear(t.endYear)}` : ''}.${t.adherents ? ` About ${Math.round(t.adherents.estimate / 1e6).toLocaleString()} million adherents (${t.adherents.year}).` : ''}`,
     t.summary,
@@ -261,7 +262,7 @@ function describeDoctrine(a: Atlas, d: Doctrine, related: Ref[]): string {
   const debates = a.controversiesByDoctrine.get(d.id) ?? [];
   related.push(...debates.slice(0, 3).map((c) => ({ type: 'controversy' as const, id: c.id })));
   const order = ['majority', 'significant', 'minority', 'historic', 'rejected-by-councils'];
-  const label: Record<string, string> = TA
+  const label: Record<string, string> = isTA()
     ? { majority: 'பெரும்பான்மைக் கருத்துகள்', significant: 'குறிப்பிடத்தக்க கருத்துகள்', minority: 'சிறுபான்மைக் கருத்துகள்', historic: 'வரலாற்றுக் கருத்துகள்', 'rejected-by-councils': 'பொதுச்சங்கங்களால் நிராகரிக்கப்பட்டவை' }
     : { majority: 'Majority views', significant: 'Significant views', minority: 'Minority views', historic: 'Historic views', 'rejected-by-councils': 'Rejected by councils' };
   const groups = order.map((s) => [s, ps.filter((p) => p.standing === s)] as const).filter(([, g]) => g.length);
@@ -311,12 +312,12 @@ function describeControversy(a: Atlas, c: Controversy): string {
     `**${link('controversy', c.id, c.title)}** — *${c.question}*`,
     c.summary,
     ...c.sides.map((s) => `**${s.positionId && a.get('position', s.positionId) ? link('position', s.positionId, s.name) : s.name}** ${t('in its own voice', 'தன் சொந்தக் குரலில்')}: ${clip(s.steelman, 360)}`),
-    `**${t('Outcome', 'முடிவு')} (${TA ? RESOLUTION_TA[c.resolution.kind] : c.resolution.kind}):** ${c.resolution.text}`,
+    `**${t('Outcome', 'முடிவு')} (${isTA() ? RESOLUTION_TA[c.resolution.kind] : c.resolution.kind}):** ${c.resolution.text}`,
   ].join('\n\n');
 }
 
 function describeExperience(_a: Atlas, x: Experience): string {
-  const conf = (TA
+  const conf = (isTA()
     ? { 'well-documented': 'நன்கு ஆவணப்படுத்தப்பட்டது', contested: 'விவாதத்துக்குரியது', hagiographical: 'பெரும்பாலும் பிற்காலப் பக்தி நூல்களிலிருந்தே அறியப்படுகிறது' }
     : { 'well-documented': 'well documented', contested: 'contested', hagiographical: 'known mainly from later devotional accounts' })[x.confidence];
   return [
@@ -372,7 +373,7 @@ function describe(a: Atlas, r: Ref, related: Ref[]): string {
 const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
 const tt = t;
 const FIELD_TA: Record<string, string> = { authority: 'அதிகாரம்', salvation: 'இரட்சிப்பு', sacraments: 'திருவருட்சாதனங்கள்', eschatology: 'கடைசிக் காலம்', governance: 'சபை ஆட்சிமுறை', worship: 'வழிபாடு', canon: 'வேதாகம நூல் தொகுப்பு' };
-const field = (k: string) => (TA ? FIELD_TA[k] ?? k : cap(k));
+const field = (k: string) => (isTA() ? FIELD_TA[k] ?? k : cap(k));
 const RESOLUTION_TA: Record<string, string> = { council: 'பொதுச்சங்கம்', schism: 'பிளவு', open: 'இன்னும் தீர்க்கப்படவில்லை', mixed: 'கலவையான முடிவு', faded: 'மங்கிப்போனது', dialogue: 'உரையாடல்' };
 
 // ---------- intents ----------
@@ -480,7 +481,7 @@ export function answerOffline(a: Atlas, question: string, focus?: Ref): OfflineA
   const related: Ref[] = [];
   const q = question.trim();
   const ql = ' ' + q.toLowerCase().replace(/[?!.]/g, ' ') + ' ';
-  if (!q || /^\s*(help|hi|hello|hey|what can you do|how do i use|உதவி|வணக்கம்)/i.test(q)) return { text: TA ? HELP_TA : HELP, steps, related };
+  if (!q || /^\s*(help|hi|hello|hey|what can you do|how do i use|உதவி|வணக்கம்)/i.test(q)) return { text: isTA() ? HELP_TA : HELP, steps, related };
 
   let found = recognise(a, q).map((h) => h.ref);
   if (found.length) steps.push(`${t('Recognised', 'அடையாளம் கண்டவை:')} ${found.slice(0, 4).map((r) => name(a, r)).join(', ')}`);

@@ -247,3 +247,8 @@ html[data-motion='reduced'] *, html[data-motion='reduced'] *::before, html[data-
 
 /* View-transition theme swap: circular reveal from the click point */
 ::view-transition-old(root), ::view-transition-new(root) { animation: none; mix-blend-mode: normal; }
+
+/* Tamil letters are clusters: extra letter-spacing or capitals tracking pulls them apart. */
+:root[lang='ta'] body * {
+  letter-spacing: normal !important;
+}

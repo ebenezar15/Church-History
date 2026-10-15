@@ -16,10 +16,6 @@
     "build:artifact": "npm run build:single && node scripts/artifact-page.mjs",
     "build:site": "npm run build:single && cp dist-single/index.html docs/index.html",
     "content": "tsx scripts/bundle-content.ts",
-    "content:ta": "ATLAS_LANG=ta tsx scripts/bundle-content.ts",
-    "build:single:ta": "npm run validate && npm run content:ta && vite build --mode single-ta --outDir dist-single-ta && npm run content",
-    "build:site:ta": "npm run build:single:ta && mkdir -p docs/ta && cp dist-single-ta/index.html docs/ta/index.html",
-    "build:artifact:ta": "npm run build:single:ta && node scripts/artifact-page.mjs dist-single-ta 'Ecclesia Atlas · தமிழ்'",
     "i18n:extract": "tsx scripts/i18n-extract.ts"
   },
   "dependencies": {
@@ -31,6 +27,7 @@
     "@xyflow/react": "^12.12.0",
     "d3": "^7.9.0",
     "d3-sankey": "^0.12.3",
+    "fflate": "^0.8.3",
     "framer-motion": "^14.2.0",
     "fuse.js": "^7.5.0",
     "react": "^19.3.0",

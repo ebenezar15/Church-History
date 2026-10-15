@@ -155,15 +155,15 @@ export function Layout() {
       </aside>
 
       <header className="sticky top-0 z-30 border-b border-line bg-bg/75 backdrop-blur-xl lg:ml-64">
-        <div className="flex h-14 items-center gap-2 px-4">
+        <div className="flex h-14 items-center gap-2 px-3 sm:px-4">
           <button className="btn !px-2.5 lg:hidden" onClick={() => setMenuOpen(true)} aria-label="Open menu"><Icon name="menu" /></button>
-          <div className="lg:hidden"><Logo /></div>
+          <div className="min-w-0 overflow-hidden lg:hidden"><Logo /></div>
           <button onClick={() => setSearchOpen(true)} className="btn ml-auto w-auto !justify-start text-muted sm:w-72 lg:ml-0" aria-label="Search (Ctrl+K)">
             <Icon name="search" />
             <span className="hidden sm:inline">Search the atlas…</span>
             <kbd className="chip ml-auto hidden !py-0 sm:inline-flex">⌘K</kbd>
           </button>
-          <div className="flex items-center gap-2 lg:ml-auto"><LangSwitch /><ThemeButton /></div>
+          <div className="flex shrink-0 items-center gap-1.5 sm:gap-2 lg:ml-auto"><ThemeButton /><LangSwitch /></div>
         </div>
       </header>
 

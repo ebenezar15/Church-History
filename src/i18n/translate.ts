@@ -1,6 +1,6 @@
 /**
- * Tamil edition runtime. Content arrives already translated (see scripts/bundle-content.ts); this
- * translates the interface. Every text node and title/placeholder/aria-label is looked up in the
+ * Tamil interface runtime. Content arrives already translated (see data/db.ts); this translates
+ * the interface while Tamil is switched on. Every text node and title/placeholder/aria-label is looked up in the
  * UI dictionary (numbers act as `#` placeholders), and year labels (AD/BC/c.) are localised.
  * A MutationObserver keeps doing so as React renders, so components need no changes.
  */
@@ -8,6 +8,7 @@ import '@fontsource/noto-sans-tamil/tamil-400.css';
 import '@fontsource/noto-sans-tamil/tamil-600.css';
 import '@fontsource/noto-sans-tamil/tamil-700.css';
 import dict from '../generated/ui-strings.json';
+import { isTA, onLang } from './lang';
 
 const D = new Map<string, string>();
 for (const [k, v] of Object.entries(dict as Record<string, string>)) {
@@ -53,6 +54,7 @@ export function tr(raw: string): string {
 
 const done = new WeakMap<Node, string>();
 function textNode(n: Text) {
+  if (!isTA()) return;
   const v = n.nodeValue ?? '';
   if (done.get(n) === v) return;
   const p = n.parentElement;
@@ -62,7 +64,7 @@ function textNode(n: Text) {
   if (out !== v) n.nodeValue = out;
 }
 function element(el: Element) {
-  if (SKIP.has(el.tagName)) return;
+  if (!isTA() || SKIP.has(el.tagName)) return;
   for (const a of ATTRS) {
     const v = el.getAttribute(a);
     if (v) {
@@ -83,9 +85,18 @@ function walk(root: Node) {
   }
 }
 
+function setDocument() {
+  document.documentElement.lang = isTA() ? 'ta' : 'en';
+  document.title = isTA() ? 'Ecclesia Atlas · தமிழ்' : 'Ecclesia Atlas';
+}
+
+/** Starts watching the page. Switching language remounts the app (see main.tsx), so English needs no undo. */
 export function install() {
-  document.documentElement.lang = 'ta';
-  document.title = 'Ecclesia Atlas · தமிழ்';
+  setDocument();
+  onLang(() => {
+    setDocument();
+    if (isTA() && document.body) walk(document.body);
+  });
   const mo = new MutationObserver((muts) => {
     for (const m of muts) {
       if (m.type === 'characterData') textNode(m.target as Text);

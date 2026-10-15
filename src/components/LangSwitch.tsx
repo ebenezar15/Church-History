@@ -1,35 +1,36 @@
-import { TA } from '../i18n/dict';
+import { useEffect, useState } from 'react';
+import { motion } from 'framer-motion';
+import { getLang, onLang, setLang, type Lang } from '../i18n/lang';
+import { loadAtlas } from '../data/db';
 
-/** Published copies of each edition. The artifact links are the shareable claude.ai pages. */
-const ARTIFACT = { en: 'https://claude.ai/artifact/JLtRXcf347NGoosqvFCo6N', ta: 'https://claude.ai/artifact/GKKu58Ezw65MPywj7XDojL' };
-const SITE = 'https://raw.githack.com/ebenezar15/Church-History/claude/brave-hypatia-qjjkuy/docs/';
+const OPTIONS: [Lang, string, string][] = [['en', 'EN', 'English'], ['ta', 'தமிழ்', 'Tamil']];
 
-/** Links to the same page in the other language edition (English ⇄ தமிழ்). */
+/** English ⇄ தமிழ் switch. The whole app (content, interface and the guide) changes language in place. */
 export function LangSwitch() {
-  const other = TA ? 'en' : 'ta';
-  const href = () => {
-    let host = '';
-    let hash = '';
-    try {
-      host = window.location.hostname;
-      hash = window.location.hash;
-    } catch { /* sandboxed */ }
-    const path = other === 'ta' ? 'ta/index.html' : 'index.html';
-    if (/github\.io$|githack\.com$|^localhost$|^127\./.test(host)) return (TA ? '../' : '') + path + hash;
-    if (/claude|usercontent/.test(host) || !host) return ARTIFACT[other].includes('PENDING') ? SITE + path : ARTIFACT[other];
-    return SITE + path + hash;
+  const [lang, setShown] = useState(getLang());
+  const [busy, setBusy] = useState(false);
+  useEffect(() => onLang(setShown), []);
+  const choose = (l: Lang) => {
+    if (l === lang || busy) return;
+    setBusy(true);
+    // Unpack the language first so the switch happens in one step.
+    loadAtlas(l).then(() => setLang(l)).finally(() => setBusy(false));
   };
   return (
-    <a
-      href={href()}
-      onClick={(e) => { e.currentTarget.href = href(); }}
-      target="_blank"
-      rel="noopener"
-      className="btn !px-2.5 text-sm font-semibold"
-      title={TA ? 'Open the English edition' : 'தமிழ்ப் பதிப்பைத் திற (Tamil edition)'}
-      data-no-tr
-    >
-      {TA ? 'English' : 'தமிழ்'}
-    </a>
+    <div role="radiogroup" aria-label="Language / மொழி" className="relative flex rounded-full border border-line bg-surface p-0.5 text-sm font-semibold" data-no-tr>
+      {OPTIONS.map(([id, label, name]) => (
+        <button
+          key={id}
+          role="radio"
+          aria-checked={lang === id}
+          title={name}
+          onClick={() => choose(id)}
+          className={`relative z-10 rounded-full px-2 py-1 transition-colors sm:px-3 ${lang === id ? 'text-accent-ink' : 'text-muted hover:text-ink'}`}
+        >
+          {lang === id && <motion.span layoutId="lang-pill" className="absolute inset-0 -z-10 rounded-full bg-accent" transition={{ type: 'spring', stiffness: 500, damping: 35 }} />}
+          {busy && lang !== id ? '…' : label}
+        </button>
+      ))}
+    </div>
   );
 }

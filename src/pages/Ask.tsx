@@ -6,7 +6,7 @@ import { useAtlas, hrefFor } from '../data/db';
 import { askAtlas, DEFAULT_MODEL, MODELS, type Turn } from '../agent/run';
 import type { ToolEvent } from '../agent/tools';
 import { answerOffline, type Ref } from '../agent/offline';
-import { TA } from '../i18n/dict';
+import { isTA } from '../i18n/dict';
 import { Icon } from '../components/Icon';
 import { Markdown } from '../components/Markdown';
 import { PageHeader, cx } from '../components/ui';
@@ -19,7 +19,7 @@ const ENGINE_STORE = 'ecclesia-agent-engine';
 const read = (k: string) => { try { return localStorage.getItem(k) ?? ''; } catch { return ''; } };
 const write = (k: string, v: string) => { try { if (v) localStorage.setItem(k, v); else localStorage.removeItem(k); } catch { /* storage unavailable */ } };
 
-const SUGGESTIONS = TA
+const suggestions = () => isTA()
   ? [
       'கிழக்கின் திருச்சபை ரோமப் பேரரசின் சபைகளிலிருந்து ஏன் பிரிந்தது?',
       'அசெம்பிளீஸ் ஆஃப் காட் சபையின் வேர்களை ஆதித் திருச்சபை வரை காட்டு.',
@@ -195,7 +195,7 @@ export default function Ask() {
       <div className="space-y-4" aria-live="polite">
         {msgs.length === 0 && (
           <div className="grid gap-2 sm:grid-cols-2">
-            {SUGGESTIONS.map((s, i) => (
+            {suggestions().map((s, i) => (
               <motion.button key={s} initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: i * 0.05 }} onClick={() => send(s)} className="card p-4 text-left text-sm transition hover:-translate-y-0.5 hover:border-accent">
                 <Icon name="question" size={15} className="mb-1 text-accent" />
                 {s}
@@ -215,7 +215,7 @@ export default function Ask() {
                 </div>
                 {m.steps && m.steps.length > 0 && (
                   <details className="mb-3 text-xs text-muted">
-                    <summary className="cursor-pointer">{TA ? `இதை எவ்வாறு கண்டறிந்தேன் (${m.steps.length} படிகள்)` : `How I found this (${m.steps.length} step${m.steps.length > 1 ? 's' : ''})`}</summary>
+                    <summary className="cursor-pointer">{isTA() ? `இதை எவ்வாறு கண்டறிந்தேன் (${m.steps.length} படிகள்)` : `How I found this (${m.steps.length} step${m.steps.length > 1 ? 's' : ''})`}</summary>
                     <ul className="mt-1 space-y-0.5 pl-4">{m.steps.map((s, j) => <li key={j}>{s.summary}</li>)}</ul>
                   </details>
                 )}

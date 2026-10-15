@@ -21,21 +21,4 @@ export function* translatableEntries(coll: string, entity: { id: string }): Gene
   for (const [k, x] of Object.entries(entity)) if (!skipKey(coll, k)) yield* walk(x, `${coll}/${entity.id}/${k}`, k);
 }
 
-/** Writes translated strings back into a db (mutates). Keys are the ones translatableEntries produced. */
-export function applyTranslations(db: Record<string, { id: string }[]>, tr: Record<string, string>) {
-  const index = new Map<string, Map<string, unknown>>();
-  for (const [coll, list] of Object.entries(db)) index.set(coll, new Map(list.map((e) => [e.id, e])));
-  let applied = 0;
-  for (const [key, val] of Object.entries(tr)) {
-    const [coll, id, ...rest] = key.split('/');
-    let obj = index.get(coll)?.get(id) as Record<string, unknown> | undefined;
-    if (!obj || typeof val !== 'string' || !val.trim()) continue;
-    for (let i = 0; i < rest.length - 1 && obj; i++) obj = obj[rest[i]] as Record<string, unknown>;
-    const last = rest[rest.length - 1];
-    if (obj && typeof obj[last] === 'string') {
-      obj[last] = val;
-      applied++;
-    }
-  }
-  return applied;
-}
+export { applyTranslations } from '../src/i18n/apply.ts';

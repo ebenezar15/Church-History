@@ -1,4 +1,6 @@
 import { eraForYear, type Db, TYPE_TO_KEY } from './build';
+import { applyTranslations } from '../i18n/apply';
+import { getLang, type Lang } from '../i18n/lang';
 import type { EntityType, Era, Event, Person, Position, Quote, Tradition, Work, Controversy, Experience, Doctrine } from './schema';
 
 export interface Atlas extends Db {
@@ -25,24 +27,49 @@ function group<T>(items: T[], keys: (t: T) => (string | undefined)[]) {
   return m;
 }
 
-let atlas: Atlas | undefined;
-let pending: Promise<Atlas> | undefined;
+const atlases: Partial<Record<Lang, Atlas>> = {};
+const pending: Partial<Record<Lang, Promise<Atlas>>> = {};
+let englishDb: Db | undefined;
 
-/** Each content pack is its own chunk; they are fetched in parallel after the shell paints. */
-export function loadAtlas(): Promise<Atlas> {
-  if (atlas) return Promise.resolve(atlas);
-  pending ??= (async () => {
-    // Content is merged and validated at build time (scripts/bundle-content.ts); the browser just loads it.
-    const db = (await import('../generated/atlas-db.json')).default as unknown as Db;
-    atlas = createAtlas(db);
-    return atlas;
+async function loadEnglishDb(): Promise<Db> {
+  // Content is merged and validated at build time (scripts/bundle-content.ts); the browser just loads it.
+  englishDb ??= (await import('../generated/atlas-db.json')).default as unknown as Db;
+  return englishDb;
+}
+
+/** Loads the atlas in a language (the current one by default). Tamil is unpacked from its overlay on first use. */
+export function loadAtlas(lang: Lang = getLang()): Promise<Atlas> {
+  const done = atlases[lang];
+  if (done) return Promise.resolve(done);
+  pending[lang] ??= (async () => {
+    const en = await loadEnglishDb();
+    let db = en;
+    if (lang === 'ta') {
+      const [{ gunzipSync, strFromU8 }, packed] = await Promise.all([import('fflate'), import('../generated/ta-overlay.txt?raw')]);
+      const bin = atob(packed.default);
+      const bytes = new Uint8Array(bin.length);
+      for (let i = 0; i < bin.length; i++) bytes[i] = bin.charCodeAt(i);
+      const overlay = JSON.parse(strFromU8(gunzipSync(bytes))) as Record<string, string>;
+      db = JSON.parse(JSON.stringify(en)) as Db;
+      applyTranslations(db as unknown as Record<string, { id: string }[]>, overlay);
+    }
+    return (atlases[lang] = createAtlas(db));
   })();
-  return pending;
+  return pending[lang]!;
 }
 
 export function useAtlas(): Atlas {
-  if (!atlas) throw loadAtlas();
-  return atlas;
+  const a = atlases[getLang()];
+  if (!a) throw loadAtlas();
+  return a;
+}
+
+/** English names of entries ("person/augustine" → "Augustine of Hippo"), so the Tamil guide also understands English. */
+export function englishNames(): Record<string, string> {
+  const out: Record<string, string> = {};
+  const TYPES: [keyof Db, EntityType][] = [['doctrines', 'doctrine'], ['traditions', 'tradition'], ['people', 'person'], ['positions', 'position'], ['events', 'event'], ['controversies', 'controversy'], ['experiences', 'experience'], ['works', 'work'], ['eras', 'era']];
+  if (englishDb) for (const [coll, type] of TYPES) for (const e of englishDb[coll] as unknown as Record<string, string>[]) out[`${type}/${e.id}`] = e.name ?? e.title;
+  return out;
 }
 
 /** Builds lookup maps and relations over a merged content database (usable in the browser and in Node). */
