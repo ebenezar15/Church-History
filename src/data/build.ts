@@ -21,6 +21,8 @@ import {
   type Person,
   type Position,
   type Presence,
+  type MissionMovement,
+  type IndiaMission,
   type Quote,
   type Source,
   type StudyPath,
@@ -44,6 +46,8 @@ export interface Db {
   comparisons: Comparison[];
   paths: StudyPath[];
   presences: Presence[];
+  missions: MissionMovement[];
+  indiaMissions: IndiaMission[];
 }
 
 export type DbKey = keyof Db;
@@ -61,9 +65,11 @@ export const TYPE_TO_KEY: Record<EntityType, DbKey> = {
   experience: 'experiences',
   comparison: 'comparisons',
   path: 'paths',
+  mission: 'missions',
+  india: 'indiaMissions',
 };
 
-const STRICT_ONCE: DbKey[] = ['doctrines', 'positions', 'controversies', 'comparisons', 'paths', 'eras'];
+const STRICT_ONCE: DbKey[] = ['doctrines', 'positions', 'controversies', 'comparisons', 'paths', 'eras', 'missions', 'indiaMissions'];
 
 export interface BuildResult {
   db: Db;
@@ -74,7 +80,7 @@ export interface BuildResult {
 function emptyDb(): Db {
   return {
     sources: [], eras: [], cultures: [], events: [], people: [], works: [], quotes: [], doctrines: [],
-    positions: [], traditions: [], controversies: [], experiences: [], comparisons: [], paths: [], presences: [],
+    positions: [], traditions: [], controversies: [], experiences: [], comparisons: [], paths: [], presences: [], missions: [], indiaMissions: [],
   };
 }
 
@@ -207,6 +213,19 @@ function checkRefs(db: Db, errors: string[], warnings: string[], originOf: (key:
     p.quiz.forEach((q, i) => { if (q.answer >= q.options.length) errors.push(`${w}: quiz ${i} answer out of range`); });
   }
   for (const p of db.presences) need(`${originOf('presences', p.id)} presence:${p.id}`, 'sources', p.sources);
+
+  for (const m of db.missions) {
+    const w = `${originOf('missions', m.id)} mission:${m.id}`;
+    need(w, 'traditions', m.traditionIds); need(w, 'missions', m.influencedBy); need(w, 'sources', m.sources);
+    need(w, 'missions', [...m.relations.map((r) => r.to), ...m.agreements.map((r) => r.with), ...m.disagreements.map((r) => r.with)]);
+    need(w, 'people', [...m.keyPeople.map((p) => p.personId), ...m.journeys.flatMap((j) => j.personIds)]);
+  }
+  for (const m of db.indiaMissions) {
+    const w = `${originOf('indiaMissions', m.id)} india:${m.id}`;
+    need(w, 'missions', m.movementIds); need(w, 'sources', m.sources); need(w, 'people', m.people.map((p) => p.personId));
+  }
+  db.missions.sort((a, b) => a.startYear - b.startYear);
+  db.indiaMissions.sort((a, b) => a.order - b.order);
 
   // Soft checks.
   for (const e of db.events) if (e.sources.length === 0) warnings.push(`event:${e.id} has no sources`);

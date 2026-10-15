@@ -15,6 +15,8 @@ export const NAV: { to: string; label: string; icon: IconName; group: string }[]
   { to: '/eras', label: 'Eras & Life', icon: 'hourglass', group: 'Explore' },
   { to: '/map', label: 'World Map', icon: 'map', group: 'Explore' },
   { to: '/traditions', label: 'Family Tree', icon: 'tree', group: 'Explore' },
+  { to: '/missions', label: 'Missions', icon: 'globe', group: 'Explore' },
+  { to: '/missions/india', label: 'Missions in India', icon: 'compass', group: 'Explore' },
   { to: '/doctrines', label: 'Doctrines', icon: 'trinity', group: 'Think' },
   { to: '/debates', label: 'Debate Arena', icon: 'scales', group: 'Think' },
   { to: '/compare', label: 'Compare', icon: 'layers', group: 'Think' },

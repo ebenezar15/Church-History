@@ -6,7 +6,7 @@
  */
 import type { Atlas } from '../data/db';
 import type {
-  Controversy, Doctrine, EntityType, Era, Event, Experience, Person, Position, Quote, Tradition, Work, Comparison, StudyPath,
+  Controversy, Doctrine, EntityType, Era, Event, Experience, Person, Position, Quote, Tradition, Work, Comparison, StudyPath, MissionMovement, IndiaMission,
 } from '../data/schema';
 import { FAMILIES, formatSpan, formatYear } from '../data/families';
 import { getFuse } from '../data/searchIndex';
@@ -151,6 +151,8 @@ function aliases(a: Atlas): Alias[] {
   for (const x of a.experiences) add('experience', x.id, [x.title], 6); // the full story beats the shorter event entry of the same name
   for (const w of a.works) add('work', w.id, [w.title], 2);
   for (const e of a.eras) add('era', e.id, [e.name, e.short], 1);
+  for (const m of a.missions) add('mission', m.id, [m.name], 5);
+  for (const m of a.indiaMissions) add('india', m.id, [m.title], 5);
   for (const [k, ref] of Object.entries(ALIASES)) if (a.get(ref.type, ref.id)) out.push({ text: norm(k), ref, weight: 40 + k.length }); // everyday names win ties
   if (isTA()) {
     // The Tamil edition also understands English names, and everyday Tamil words for common subjects.
@@ -353,6 +355,35 @@ function describeEra(a: Atlas, e: Era): string {
   ].filter(Boolean).join('\n\n');
 }
 
+const STATUS_TA: Record<string, string> = { active: 'இன்றும் செயல்படுகிறது', transformed: 'உருமாறியது', merged: 'இணைந்தது', divided: 'பிளவுபட்டது', declined: 'நலிவடைந்தது', collapsed: 'சரிந்தது', ended: 'முடிவுற்றது' };
+
+function describeMission(a: Atlas, m: MissionMovement, related: Ref[]): string {
+  related.push(...m.relations.slice(0, 3).map((r) => ({ type: 'mission' as const, id: r.to })));
+  return [
+    `**${link('mission', m.id, m.name)}** — ${formatSpan(m.startYear, m.endYear)}, ${m.origin.name}. ${t('Status', 'நிலை')}: ${isTA() ? STATUS_TA[m.status] : m.status} — ${m.statusNote}`,
+    m.summary,
+    m.strategies.length ? `${t('Strategies', 'உத்திகள்')}:\n${bullets(m.strategies, 5)}` : '',
+    m.groupsReached.length ? `${t('Who they reached', 'சென்றடைந்த மக்கள்')}: ${m.groupsReached.slice(0, 6).join('; ')}.` : '',
+    m.keyPeople.length ? `${t('Key people', 'முக்கிய நபர்கள்')}:\n${m.keyPeople.slice(0, 6).map((p) => `- **${p.personId && a.get('person', p.personId) ? link('person', p.personId, p.name) : p.name}** (${p.years}) — ${p.focus}`).join('\n')}` : '',
+    m.challenges.length ? `${t('Challenges', 'சவால்கள்')}:\n${bullets(m.challenges, 4)}` : '',
+    m.harms.length ? `${t('Harms and failures', 'தீங்குகளும் தோல்விகளும்')}:\n${bullets(m.harms, 3)}` : '',
+    m.developments.length ? `${t('Lasting contributions', 'நிலைத்த பங்களிப்புகள்')}:\n${bullets(m.developments, 4)}` : '',
+    `${t('Outcome', 'விளைவு')}: ${m.outcome}`,
+  ].filter(Boolean).join('\n\n');
+}
+
+function describeIndia(a: Atlas, m: IndiaMission): string {
+  return [
+    `**${link('india', m.id, m.title)}** — ${formatSpan(m.startYear, m.endYear)}, ${m.region}.`,
+    m.summary,
+    m.people.length ? `${t('Key people', 'முக்கிய நபர்கள்')}:\n${m.people.slice(0, 6).map((p) => `- **${p.personId && a.get('person', p.personId) ? link('person', p.personId, p.name) : p.name}** (${p.years}) — ${p.focus}${p.outcome ? ` → ${p.outcome}` : ''}`).join('\n')}` : '',
+    m.focus.length ? `${t('Focus', 'கவனம் செலுத்தியவை')}:\n${bullets(m.focus, 4)}` : '',
+    m.outcomes.length ? `${t('Outcomes', 'விளைவுகள்')}:\n${bullets(m.outcomes, 5)}` : '',
+    m.harms.length ? `${t('Harms and failures', 'தீங்குகளும் தோல்விகளும்')}:\n${bullets(m.harms, 3)}` : '',
+    `${t('Legacy', 'மரபுரிமை')}: ${m.legacy}`,
+  ].filter(Boolean).join('\n\n');
+}
+
 function describe(a: Atlas, r: Ref, related: Ref[]): string {
   switch (r.type) {
     case 'person': return describePerson(a, a.get<Person>('person', r.id)!, related);
@@ -367,6 +398,8 @@ function describe(a: Atlas, r: Ref, related: Ref[]): string {
     case 'comparison': { const c = a.get<Comparison>('comparison', r.id)!; return `**${link('comparison', c.id, c.title)}**\n\n${c.summary}`; }
     case 'path': { const p = a.get<StudyPath>('path', r.id)!; return `**${link('path', p.id, p.title)}** — ${t(`a ${p.steps.length}-step guided path.`, `${p.steps.length} படிகள் கொண்ட வழிகாட்டும் பாதை.`)}\n\n${p.summary}`; }
     case 'quote': { const q = a.get<Quote>('quote', r.id)!; return quoteLine(a, q); }
+    case 'mission': return describeMission(a, a.get<MissionMovement>('mission', r.id)!, related);
+    case 'india': return describeIndia(a, a.get<IndiaMission>('india', r.id)!);
   }
 }
 

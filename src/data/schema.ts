@@ -257,6 +257,8 @@ export const EntityType = z.enum([
   'experience',
   'comparison',
   'path',
+  'mission',
+  'india',
 ]);
 export type EntityType = z.infer<typeof EntityType>;
 
@@ -455,6 +457,108 @@ export const Presence = z.object({
   confidence: Confidence.default('established'),
 });
 
+
+// ---------- Missions ----------
+
+export const MissionStream = z.enum([
+  'early-church',
+  'church-of-the-east',
+  'orthodox',
+  'catholic-orders',
+  'pietist',
+  'moravian',
+  'evangelical-awakening',
+  'modern-missions',
+  'faith-missions',
+  'holiness',
+  'pentecostal',
+  'ecumenical',
+  'evangelical-postwar',
+  'indigenous',
+  'global-south',
+]);
+export const MissionStatus = z.enum(['active', 'transformed', 'merged', 'divided', 'declined', 'collapsed', 'ended']);
+
+export const MissionJourney = z.object({
+  id: Id,
+  title: z.string(),
+  people: z.string().describe('Who travelled, as display text'),
+  personIds: Ids,
+  year: Year,
+  endYear: Year.optional(),
+  stops: z.array(z.object({ name: z.string(), lng: z.number(), lat: z.number(), year: Year.optional() })).min(2),
+  text: z.string(),
+});
+
+export const MissionPerson = z.object({
+  name: z.string(),
+  personId: Id.optional(),
+  years: z.string(),
+  origin: z.string().optional(),
+  role: z.string(),
+  focus: z.string(),
+  outcome: z.string().optional(),
+});
+
+export const MissionMovement = z.object({
+  id: Id,
+  name: z.string(),
+  stream: MissionStream,
+  traditionIds: Ids,
+  startYear: Year,
+  endYear: Year.optional(),
+  origin: Place,
+  status: MissionStatus,
+  statusNote: z.string(),
+  summary: z.string(),
+  story: z.string().describe('Several paragraphs separated by blank lines'),
+  beliefs: Strs,
+  strategies: Strs,
+  groupsReached: Strs,
+  challenges: Strs,
+  harms: Strs.describe('Damage done, failures, complicity — stated fairly'),
+  developments: Strs.describe('Lasting positive contributions'),
+  outcome: z.string(),
+  keyPeople: z.array(MissionPerson).default([]),
+  countries: z.array(z.object({ country: z.string(), year: Year, text: z.string(), lng: z.number(), lat: z.number() })).default([]),
+  journeys: z.array(MissionJourney).default([]),
+  influencedBy: Ids.describe('Mission movement ids'),
+  relations: z
+    .array(z.object({ to: Id, kind: z.enum(['split-into', 'merged-into', 'gave-rise-to', 'succeeded-by', 'partnered']), text: z.string() }))
+    .default([]),
+  agreements: z.array(z.object({ with: Id, text: z.string() })).default([]),
+  disagreements: z.array(z.object({ with: Id, text: z.string() })).default([]),
+  deviations: Strs.describe('Where it departed from its own founding vision or from wider Christian consensus'),
+  sources: Ids,
+  confidence: Confidence.default('established'),
+});
+
+export const IndiaMission = z.object({
+  id: Id,
+  title: z.string(),
+  order: z.number().int(),
+  startYear: Year,
+  endYear: Year.optional(),
+  region: z.string().describe('States or areas of India'),
+  place: Place,
+  movementIds: Ids,
+  summary: z.string(),
+  story: z.string(),
+  people: z.array(MissionPerson).default([]),
+  groupsReached: Strs,
+  focus: Strs,
+  strategies: Strs,
+  challenges: Strs,
+  harms: Strs,
+  outcomes: Strs,
+  institutions: Strs,
+  legacy: z.string(),
+  stations: z.array(z.object({ name: z.string(), lng: z.number(), lat: z.number(), year: Year.optional() })).default([]),
+  stats: z.array(z.object({ label: z.string(), value: z.number(), unit: z.string().optional(), year: Year.optional() })).default([]),
+  sources: Ids,
+  confidence: Confidence.default('established'),
+});
+
 export const Pack = z
   .object({
     sources: z.array(Source),
@@ -472,6 +576,8 @@ export const Pack = z
     comparisons: z.array(Comparison),
     paths: z.array(StudyPath),
     presences: z.array(Presence),
+    missions: z.array(MissionMovement),
+    indiaMissions: z.array(IndiaMission),
   })
   .partial()
   .strict();
@@ -494,3 +600,6 @@ export type Experience = z.infer<typeof Experience>;
 export type Comparison = z.infer<typeof Comparison>;
 export type StudyPath = z.infer<typeof StudyPath>;
 export type Presence = z.infer<typeof Presence>;
+export type MissionMovement = z.infer<typeof MissionMovement>;
+export type IndiaMission = z.infer<typeof IndiaMission>;
+export type MissionPerson = z.infer<typeof MissionPerson>;
