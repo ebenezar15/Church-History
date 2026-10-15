@@ -1,0 +1,2661 @@
+{
+  "missions": [
+    {
+      "id": "american-board-mission",
+      "name": "American Board of Commissioners for Foreign Missions (ABCFM)",
+      "stream": "modern-missions",
+      "traditionIds": [
+        "congregationalist",
+        "presbyterian",
+        "reformed",
+        "evangelical",
+        "united-church-of-christ"
+      ],
+      "startYear": 1810,
+      "endYear": 1961,
+      "origin": {
+        "name": "Bradford, Massachusetts (founded); headquarters in Boston",
+        "lat": 42.7787,
+        "lng": -71.0806
+      },
+      "status": "merged",
+      "statusNote": "In 1961, following the formation of the United Church of Christ, the ABCFM was merged into the United Church Board for World Ministries; since 1995–96 its work has continued in the Common Global Ministries Board of the UCC and the Christian Church (Disciples of Christ). Most of its fields had long since become autonomous churches, colleges and hospitals.",
+      "summary": "The first major American foreign missionary society, born of the Second Great Awakening and the 1806 Haystack Prayer Meeting at Williams College. Largely Congregationalist (with Presbyterian and Dutch Reformed partners until the 1830s–1870), it sent missionaries to India, Ceylon, Hawaii, the Cherokee and other Native nations, the Ottoman Empire, China, Japan, southern Africa and Micronesia, and through its long-serving secretary Rufus Anderson became, with Henry Venn's CMS, the chief theorist of the 'three-self' indigenous church.",
+      "story": "The American Board grew out of a student movement. In August 1806 a group of Williams College students led by Samuel J. Mills Jr sheltered from a thunderstorm beside a haystack and prayed for the 'heathen' world; the 'Haystack Prayer Meeting' became a founding legend of American missions. Several of the group went on to Andover Theological Seminary, where in June 1810 Adoniram Judson, Samuel Nott, Samuel Newell and Samuel Mills petitioned the General Association of Massachusetts. The Association created the American Board of Commissioners for Foreign Missions on 29 June 1810 at Bradford, Massachusetts. Its theology was the 'New Divinity' Calvinism of Samuel Hopkins and the heirs of Jonathan Edwards: an urgent concern for the salvation of souls joined to a postmillennial confidence that the spread of the gospel, schools and Christian civilisation would usher in the kingdom of God.\n\nOn 6 February 1812 five men were ordained at the Tabernacle Church in Salem and within days sailed for India with their wives, among them Ann Hasseltine Judson and Harriet Newell. The East India Company, still hostile to missionaries, ordered them away; the Judsons and Luther Rice became Baptists on the voyage and left the Board (giving rise to the American Baptist mission in Burma), Harriet Newell died in Mauritius, and only Gordon Hall and Samuel Nott eventually established a mission at Bombay in 1813. Further missions followed in northern Ceylon (Jaffna, 1816, with the Batticotta seminary from 1823), Ahmednagar (1831) and Madura (1834) — fields that produced some of the most educated Tamil and Marathi Protestant communities in Asia.\n\nAt home and in the Pacific the Board pursued a 'civilising' as well as an evangelistic programme. Among the Cherokee (Brainerd, 1817) and Choctaw (1818) it ran schools and churches; when Georgia imprisoned the missionaries Samuel Worcester and Elizur Butler for refusing to obey its laws on Cherokee land, the case produced the Supreme Court's Worcester v. Georgia (1832), which upheld Cherokee sovereignty but was not enforced, and missionaries accompanied the Cherokee on the Trail of Tears. In 1819–20 the brig Thaddeus carried Hiram Bingham and Asa Thurston to Hawaii, where the chiefs had just abolished the kapu system. The mission devised a Hawaiian alphabet, printed the Bible (completed 1839), founded schools that made Hawaiians among the most literate peoples of the age, and saw a mass revival in 1837–40, when Titus Coan at Hilo baptised about 1,700 people on a single day in July 1838. In the Oregon Country, by contrast, the mission of Marcus and Narcissa Whitman ended in their killing by Cayuse in 1847 after a measles epidemic.\n\nThe Ottoman mission was the Board's most ambitious. Pliny Fisk and Levi Parsons sailed in 1819 hoping to reach Jews and Muslims in Palestine; in practice the Board's converts came overwhelmingly from the ancient Eastern churches, above all Armenians. William Goodell and H. G. O. Dwight in Constantinople, Eli Smith and Cornelius Van Dyck in Beirut (whose Arabic Bible of 1865 is still widely used) and a dense network of schools, colleges (Robert College, 1863; the Syrian Protestant College, 1866, later the American University of Beirut; Anatolia, Euphrates and Central Turkey colleges) and hospitals made American Protestants a significant presence in the empire. When Armenian Protestants were excommunicated by their patriarch, the Ottoman government recognised a separate Protestant community (1847, by firman in 1850). Board missionaries witnessed the Hamidian massacres of 1894–96 and the Armenian genocide of 1915; Board secretary James L. Barton chaired what became Near East Relief.\n\nRufus Anderson, foreign secretary from 1832 to 1866, gave the Board its classic strategy. Like Henry Venn of the CMS, he argued that the goal of mission was not to reproduce New England but to plant self-governing, self-supporting and self-propagating churches under native pastors, after which the missionary should move on. His deputation to India in 1854–55 cut back English-language education in favour of vernacular preaching and native pastorates — a contested decision later partly reversed. Hawaii was declared a Christian land and the Board withdrew its support in 1863 in favour of the Hawaiian Evangelical Association; Presbyterian and Reformed partners left to form their own boards (the Syria mission passed to the Presbyterians in 1870).\n\nThe Board also entered China (Elijah Bridgman in Canton, 1830, the first American Protestant missionary there, and Peter Parker's hospital), southern Africa (the Zulu mission from 1835, with Inanda and Adams College), Micronesia (from 1852, using a series of mission ships named Morning Star), Japan (1869, where it backed Niijima Jō in founding Doshisha in Kyoto in 1875) and Angola (1880). In the Boxer rising of 1900 its North China and Shanxi missionaries — many from the Oberlin Band — were killed at Baoding, Taigu and Fenzhou along with Chinese converts; the subsequent indemnity-gathering by Board missionary William Ament became a public scandal attacked by Mark Twain. By the 1920s the Board stood near the liberal end of American Protestantism and supported the Laymen's Inquiry of 1932. It merged into the United Church Board for World Ministries in 1961.",
+      "beliefs": [
+        "Edwardsean 'New Divinity' Calvinism: humanity is lost without Christ, and the call to 'disinterested benevolence' obliges Christians to seek the conversion of the whole world.",
+        "Postmillennial optimism that the worldwide spread of the gospel, Bible, schools and Christian civilisation would precede and prepare for Christ's millennial reign.",
+        "The supreme authority of Scripture and the necessity of its translation into every vernacular so that converts could read it for themselves.",
+        "A Congregational ecclesiology in which local churches govern themselves — the theological root of Rufus Anderson's 'three-self' ideal.",
+        "Moral reform as part of the gospel: temperance, Sabbath observance, monogamy, the abolition of infanticide and (for many but not all members) of slavery.",
+        "In the later 19th and 20th centuries, a gradual move toward liberal theology, the social gospel and an emphasis on service, education and medicine rather than conversion alone."
+      ],
+      "strategies": [
+        "Founding schools, seminaries and colleges (Batticotta, Robert College, Doshisha, Anatolia College, Adams College) to train an educated native ministry and elite.",
+        "Reducing unwritten languages to writing (Hawaiian, Cherokee printing with Sequoyah's syllabary, Zulu, Micronesian languages) and printing Bibles and tracts on mission presses at Malta, Beirut, Smyrna and Honolulu.",
+        "Rufus Anderson's 'three-self' policy: ordaining native pastors, handing churches self-government and withdrawing missionaries once a church could stand alone.",
+        "Targeting the ancient Eastern churches of the Ottoman Empire as a bridge to Muslims — in practice creating Armenian, Greek and Arab Protestant communities.",
+        "Medical missions, from Peter Parker's eye hospital in Canton (1835) to hospitals across Anatolia, India and China.",
+        "Recruiting large numbers of women, first as missionary wives and from 1868 through the Woman's Board of Missions, as teachers, doctors and evangelists to women.",
+        "Mission ships (the Morning Star series) and stations linked by printing and correspondence across the Pacific."
+      ],
+      "groupsReached": [
+        "Native Hawaiians, whose chiefs and commoners largely adopted Protestant Christianity between 1820 and the 1840s.",
+        "Cherokee, Choctaw, Dakota and other Native American nations, among whom the Board ran schools and churches before and after Removal.",
+        "Armenians, Greeks, Syrian and Lebanese Arabs and Bulgarians of the Ottoman Empire, mainly converts from Eastern Christian churches.",
+        "Tamils of Jaffna and Madurai and Marathi-speakers around Ahmednagar, including many from Dalit and lower-caste communities.",
+        "Zulu-speaking communities of Natal, especially around Inanda, Amanzimtoti and Umvoti.",
+        "Chinese of Canton, Fuzhou, North China and Shanxi; Japanese students and samurai-class converts around Doshisha.",
+        "Micronesians of Pohnpei, Kosrae, the Marshall and Gilbert Islands, often through Hawaiian Christian missionaries."
+      ],
+      "challenges": [
+        "Very high mortality and illness among early missionaries and their children, from Harriet Newell's death in 1812 to fevers in Africa and India.",
+        "Opposition from the East India Company before 1813 and from the patriarchates and Ottoman authorities, who saw proselytising among Eastern Christians as subversive.",
+        "Removal of the Cherokee and other nations by the United States, which destroyed the Board's southern Native missions despite Worcester v. Georgia.",
+        "The slavery question: the Board accepted slaveholding Cherokee converts and was slow to condemn slavery, provoking the abolitionist breakaway American Missionary Association (1846).",
+        "Massacre and war: the Whitman killings (1847), the Boxer rising (1900), the Hamidian massacres (1894–96) and the Armenian genocide (1915) destroyed whole stations and congregations.",
+        "Theological conflict at home, from Old School–New School Presbyterian quarrels to the 'Andover controversy' over future probation (1880s) and later fundamentalist–modernist disputes."
+      ],
+      "harms": [
+        "In Hawaii, missionaries suppressed the hula, traditional religion and much of Hawaiian culture, and some missionary families (and their descendants such as Sanford Dole and Lorrin Thurston) became central to the sugar economy and the 1893 overthrow of the Hawaiian monarchy.",
+        "Boarding schools and 'civilisation' programmes among Native Americans promoted assimilation and the suppression of Native languages and practices, even where missionaries defended Native land rights.",
+        "The Ottoman mission drew members away from the Armenian, Greek and Syrian churches, causing bitter schism and inviting suspicion of Christian minorities as agents of foreign powers.",
+        "After the Boxer rising, Board missionary William Ament's collection of punitive indemnities and confiscated property from Chinese villages caused a scandal and damaged the reputation of missions in China.",
+        "Cultural paternalism and assumptions of Anglo-American superiority often delayed the very three-self independence the Board officially championed.",
+        "Early tolerance of slaveholding among Native American church members compromised its witness and split its supporters."
+      ],
+      "developments": [
+        "Rufus Anderson's 'three-self' theory, developed alongside Henry Venn's, became the dominant Protestant goal of mission for a century and shaped later indigenous church movements.",
+        "Literacy, printing and Bible translation in Hawaiian, Arabic (the Smith–Van Dyck Bible, 1865), Armenian, Bulgarian, Zulu, Tamil and Marathi.",
+        "Enduring institutions: Doshisha University, the American University of Beirut (via the Syrian Protestant College), Robert College (Istanbul), Jaffna College, the American College in Madurai and Adams College.",
+        "Pioneering women's mission work through the Woman's Board of Missions (1868), which sent hundreds of single women teachers and doctors.",
+        "Missionary witness and relief during the Armenian genocide, leading to Near East Relief, one of the first large humanitarian campaigns.",
+        "The ecumenical heritage of mission later carried into the United Church of Christ and Disciples' Global Ministries."
+      ],
+      "outcome": "In its 150 years the ABCFM sent several thousand missionaries and left behind autonomous churches (the Hawaiian Evangelical Association, the Jaffna Diocese of the Church of South India, the Kumiai churches in Japan, the United Congregational Church of Southern Africa, Armenian Evangelical churches), a remarkable network of schools, colleges and hospitals, and the classic statement of the three-self ideal. In 1961 it merged into the United Church Board for World Ministries.",
+      "keyPeople": [
+        {
+          "name": "Samuel J. Mills Jr",
+          "years": "1783–1818",
+          "role": "Leader of the Haystack Prayer Meeting and the Andover 'Brethren'",
+          "focus": "Mobilising students and churches for foreign mission",
+          "origin": "Torringford, Connecticut",
+          "outcome": "His petition led to the Board's foundation; died at sea returning from West Africa."
+        },
+        {
+          "name": "Rufus Anderson",
+          "years": "1796–1880",
+          "role": "Foreign secretary of the ABCFM, 1832–1866",
+          "focus": "Mission theory: the self-governing, self-supporting, self-propagating native church",
+          "origin": "Massachusetts",
+          "outcome": "Became, with Henry Venn, the chief architect of 'three-self' mission policy."
+        },
+        {
+          "name": "Hiram Bingham I",
+          "years": "1789–1869",
+          "role": "Leader of the first Sandwich Islands mission (1820)",
+          "focus": "Hawaiian alphabet, Bible translation and evangelising the chiefs",
+          "origin": "Vermont",
+          "outcome": "Admired for translation and schooling, criticised for cultural intolerance and political influence."
+        },
+        {
+          "name": "Samuel Worcester",
+          "years": "1798–1859",
+          "role": "Missionary to the Cherokee",
+          "focus": "Cherokee printing and New Echota press; resisting Georgia's laws",
+          "origin": "Vermont",
+          "outcome": "Imprisoned by Georgia; his case produced Worcester v. Georgia (1832)."
+        },
+        {
+          "name": "Eli Smith and Cornelius Van Dyck",
+          "years": "1801–1857; 1818–1895",
+          "role": "Missionary translators in Beirut",
+          "focus": "The Arabic Bible",
+          "origin": "Connecticut; New York",
+          "outcome": "Completed in 1865, the Smith–Van Dyck version became the standard Protestant Arabic Bible."
+        },
+        {
+          "name": "Cyrus Hamlin",
+          "years": "1811–1900",
+          "role": "Missionary educator in Constantinople",
+          "focus": "Bebek seminary and Robert College",
+          "origin": "Maine",
+          "outcome": "First president of Robert College (1863)."
+        },
+        {
+          "name": "Niijima Jō (Joseph Hardy Neesima)",
+          "years": "1843–1890",
+          "role": "Japanese convert and Board-supported educator",
+          "focus": "Christian higher education in Japan",
+          "origin": "Edo, Japan",
+          "outcome": "Founded Doshisha in Kyoto in 1875."
+        }
+      ],
+      "countries": [
+        {
+          "country": "India (Bombay, Ahmednagar, Madura)",
+          "year": 1813,
+          "text": "Gordon Hall and Samuel Nott opened Bombay in 1813; Ahmednagar (1831) and Madura (1834) became strong Marathi and Tamil missions with schools, the American College and hospitals.",
+          "lat": 19.076,
+          "lng": 72.8777
+        },
+        {
+          "country": "Sri Lanka (Jaffna)",
+          "year": 1816,
+          "text": "A Tamil mission with the Batticotta seminary (1823) and Uduvil girls' school produced one of the best-educated Protestant communities in Asia.",
+          "lat": 9.6615,
+          "lng": 80.0255
+        },
+        {
+          "country": "Cherokee Nation and other Native nations (USA)",
+          "year": 1817,
+          "text": "Brainerd Mission (1817) and Choctaw missions (1818) ran schools and churches; Worcester v. Georgia (1832) and Removal shaped the work.",
+          "lat": 35.03,
+          "lng": -85.25
+        },
+        {
+          "country": "Hawaii",
+          "year": 1820,
+          "text": "From 1820 the mission devised a Hawaiian alphabet, translated the Bible and saw mass revival; support was transferred to the Hawaiian Evangelical Association in 1863.",
+          "lat": 21.3069,
+          "lng": -157.8583
+        },
+        {
+          "country": "Ottoman Empire (Turkey, Syria/Lebanon)",
+          "year": 1820,
+          "text": "Missions at Smyrna, Beirut and Constantinople created Armenian and Arab Protestant communities, a large school system and colleges.",
+          "lat": 41.0082,
+          "lng": 28.9784
+        },
+        {
+          "country": "China",
+          "year": 1830,
+          "text": "Elijah Bridgman opened Canton in 1830; later missions in Fuzhou, North China and Shanxi lost many workers in the Boxer rising.",
+          "lat": 23.1291,
+          "lng": 113.2644
+        },
+        {
+          "country": "South Africa (Natal)",
+          "year": 1835,
+          "text": "The Zulu mission founded stations at Inanda, Amanzimtoti and Umvoti and later Adams College.",
+          "lat": -29.85,
+          "lng": 30.98
+        },
+        {
+          "country": "Micronesia",
+          "year": 1852,
+          "text": "Missionaries and Hawaiian Christians worked from Pohnpei and Kosrae to the Marshall and Gilbert Islands, served by the Morning Star ships.",
+          "lat": 6.8874,
+          "lng": 158.215
+        },
+        {
+          "country": "Japan",
+          "year": 1869,
+          "text": "Supported Niijima Jō in founding Doshisha (1875) and the Kumiai (Congregational) churches.",
+          "lat": 35.0116,
+          "lng": 135.7681
+        },
+        {
+          "country": "Angola",
+          "year": 1880,
+          "text": "A mission among the Ovimbundu at Bailundo and Chissamba led to the Evangelical Congregational Church of Angola.",
+          "lat": -12.18,
+          "lng": 15.86
+        }
+      ],
+      "journeys": [
+        {
+          "id": "american-board-first-sailing-1812",
+          "title": "The first American missionaries sail for India (1812–13)",
+          "people": "Adoniram and Ann Judson, Samuel and Harriet Newell, Samuel Nott, Gordon Hall, Luther Rice",
+          "personIds": [],
+          "year": 1812,
+          "endYear": 1813,
+          "stops": [
+            {
+              "name": "Salem, Massachusetts",
+              "lat": 42.5195,
+              "lng": -70.8967,
+              "year": 1812
+            },
+            {
+              "name": "Calcutta",
+              "lat": 22.5726,
+              "lng": 88.3639,
+              "year": 1812
+            },
+            {
+              "name": "Port Louis, Isle of France (Mauritius)",
+              "lat": -20.1609,
+              "lng": 57.5012,
+              "year": 1812
+            },
+            {
+              "name": "Bombay",
+              "lat": 19.076,
+              "lng": 72.8777,
+              "year": 1813
+            }
+          ],
+          "text": "After their ordination at Salem in February 1812 the first Board missionaries sailed for Calcutta. Ordered out by the East India Company, the Newells went to Mauritius, where Harriet died; Hall and Nott reached Bombay in 1813 and founded the Board's first mission, while the Judsons and Rice, now Baptists, left the Board."
+        },
+        {
+          "id": "american-board-thaddeus-hawaii",
+          "title": "The Thaddeus voyage to Hawaii (1819–20)",
+          "people": "Hiram and Sybil Bingham, Asa and Lucy Thurston and the first Sandwich Islands company",
+          "personIds": [],
+          "year": 1819,
+          "endYear": 1820,
+          "stops": [
+            {
+              "name": "Boston",
+              "lat": 42.3601,
+              "lng": -71.0589,
+              "year": 1819
+            },
+            {
+              "name": "Cape Horn",
+              "lat": -55.98,
+              "lng": -67.27,
+              "year": 1820
+            },
+            {
+              "name": "Kailua-Kona, Hawaii",
+              "lat": 19.6406,
+              "lng": -155.9956,
+              "year": 1820
+            },
+            {
+              "name": "Honolulu, Oahu",
+              "lat": 21.3069,
+              "lng": -157.8583,
+              "year": 1820
+            }
+          ],
+          "text": "The brig Thaddeus left Boston in October 1819 with seven missionary couples and Hawaiian youths educated at the Foreign Mission School in Cornwall, Connecticut, rounded Cape Horn and reached Kailua-Kona in March–April 1820, where King Liholiho allowed them to stay; the Binghams went on to Honolulu."
+        },
+        {
+          "id": "american-board-palestine-1819",
+          "title": "Fisk and Parsons to the Levant (1819–21)",
+          "people": "Pliny Fisk and Levi Parsons",
+          "personIds": [],
+          "year": 1819,
+          "endYear": 1821,
+          "stops": [
+            {
+              "name": "Boston",
+              "lat": 42.3601,
+              "lng": -71.0589,
+              "year": 1819
+            },
+            {
+              "name": "Valletta, Malta",
+              "lat": 35.8989,
+              "lng": 14.5146,
+              "year": 1819
+            },
+            {
+              "name": "Smyrna (İzmir)",
+              "lat": 38.4237,
+              "lng": 27.1428,
+              "year": 1820
+            },
+            {
+              "name": "Jerusalem",
+              "lat": 31.7683,
+              "lng": 35.2137,
+              "year": 1821
+            }
+          ],
+          "text": "The Board's 'Palestine Mission' sailed from Boston in November 1819, reached Smyrna via Malta in 1820, and Parsons visited Jerusalem in 1821. Both died young (1822 and 1825), but their reconnaissance launched the Ottoman missions in Beirut and Constantinople."
+        }
+      ],
+      "influencedBy": [
+        "london-missionary-society",
+        "baptist-missionary-society",
+        "puritan-native-american-mission",
+        "methodist-mission"
+      ],
+      "relations": [
+        {
+          "to": "american-baptist-burma-mission",
+          "kind": "gave-rise-to",
+          "text": "Three of the Board's first missionaries — Adoniram and Ann Judson and Luther Rice — adopted believer's baptism on the voyage of 1812, left the Board and became the founders of American Baptist foreign missions in Burma."
+        },
+        {
+          "to": "church-missionary-society",
+          "kind": "partnered",
+          "text": "Rufus Anderson and Henry Venn corresponded and independently formulated the 'three-self' goal; CMS and Board missions cooperated in South India, Ceylon and the Near East."
+        },
+        {
+          "to": "student-volunteer-movement",
+          "kind": "gave-rise-to",
+          "text": "The Haystack tradition and the children of Board missionaries (notably Robert Wilder, son of Royal Wilder of the Kolhapur mission) were central to the founding of the Student Volunteer Movement in 1886."
+        },
+        {
+          "to": "ecumenical-mission",
+          "kind": "merged-into",
+          "text": "The Board became a leading member of the Foreign Missions Conference, the International Missionary Council and later the WCC orbit before merging into the United Church Board for World Ministries in 1961."
+        }
+      ],
+      "agreements": [
+        {
+          "with": "church-missionary-society",
+          "text": "Shared the 'three-self' goal of self-governing, self-supporting and self-propagating churches, articulated by Anderson and Venn in the 1840s–50s."
+        },
+        {
+          "with": "london-missionary-society",
+          "text": "Like the LMS, a Congregational and nominally non-denominational society that combined evangelism with education and 'civilisation', especially in the Pacific."
+        },
+        {
+          "with": "scottish-missions",
+          "text": "Shared a commitment to higher education as a means of forming a Christian elite, as in Robert College, Doshisha and the Batticotta seminary."
+        }
+      ],
+      "disagreements": [
+        {
+          "with": "american-baptist-burma-mission",
+          "text": "Parted with the Judsons and Rice over infant baptism in 1812, creating separate Congregational and Baptist missionary structures in America."
+        },
+        {
+          "with": "china-inland-mission",
+          "text": "The Board's denominational-board model of guaranteed salaries, institutional work and (by 1900) liberal theology contrasted with the CIM's faith principle and focus on itinerant evangelism."
+        },
+        {
+          "with": "africa-faith-missions",
+          "text": "By the 1920s the Board's support for the social gospel and the Laymen's Inquiry put it at odds with conservative faith missions that stressed conversion and biblical inerrancy."
+        }
+      ],
+      "deviations": [
+        "Founded to convert the 'heathen' and Muslims, the Ottoman mission in practice won converts mainly from existing Eastern Christian churches.",
+        "Although it championed native-led churches, missionaries often retained control of money and institutions for decades.",
+        "Rufus Anderson's anti-institutional vernacular policy of the 1850s was abandoned later in the century as the Board invested heavily in colleges and hospitals.",
+        "By the 1920s–30s the Board had moved from Edwardsean evangelical Calvinism toward theological liberalism and a service-centred understanding of mission."
+      ],
+      "sources": [
+        "m4-phillips-protestant-america",
+        "m4-hutchison-errand",
+        "m4-makdisi-artillery",
+        "neill-missions",
+        "robert-christian-mission",
+        "noll-christianity-us",
+        "bdcm"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "american-baptist-burma-mission",
+      "name": "Adoniram Judson and the American Baptist mission to Burma and the Karen",
+      "stream": "modern-missions",
+      "traditionIds": [
+        "baptist",
+        "american-baptist-churches-usa",
+        "evangelical",
+        "particular-baptists"
+      ],
+      "startYear": 1813,
+      "origin": {
+        "name": "Rangoon (Yangon), Burma",
+        "lat": 16.8409,
+        "lng": 96.1735
+      },
+      "status": "transformed",
+      "statusNote": "Foreign missionaries were expelled by Ne Win's government in 1966, but the mission had long since become the Myanmar Baptist Convention (founded 1865 as the Burma Baptist Missionary Convention), now one of the largest Baptist bodies in Asia, overwhelmingly among Karen, Kachin, Chin and other minority peoples. The sending body continues as American Baptist International Ministries.",
+      "summary": "Begun when Adoniram and Ann Judson, sent by the American Board, became Baptists en route to India and settled in Rangoon in 1813. The mission produced the Burmese Bible and dictionary but few Burman Buddhist converts; its great growth came among the Karen after the conversion of Ko Tha Byu (1828), and later among the Kachin, Chin and peoples of Northeast India. It also galvanised American Baptists to organise nationally (1814) for foreign mission.",
+      "story": "Adoniram Judson (1788–1850), son of a Congregational minister and one of the Andover students who prompted the founding of the American Board, sailed for India in February 1812 with his wife Ann Hasseltine Judson. Anticipating a meeting with William Carey's Baptists at Serampore, he studied the question of baptism on the voyage and became convinced of believer's baptism by immersion; the Judsons were baptised by William Ward in Calcutta in September 1812 and their colleague Luther Rice soon followed. Resigning from the Board, they appealed to American Baptists for support. Rice returned home to organise it, and in May 1814 Baptists met in Philadelphia to form the General Missionary Convention of the Baptist Denomination (the 'Triennial Convention') — the first national Baptist body in America, created for the sake of foreign mission.\n\nExpelled from British India by the East India Company, the Judsons went via Mauritius and Madras to Rangoon, then under the Burmese king, arriving in July 1813 and taking over the house of Felix Carey. Judson spent years mastering Burmese and Pali and adopted the Buddhist device of a zayat, a roadside shelter for discussion; the first Burman convert, Maung Nau, was baptised only in June 1819. When the First Anglo-Burmese War broke out in 1824, Judson was imprisoned as a suspected spy at Ava and Oung-pen-la for about seventeen months, in fetters and near death; Ann's tireless advocacy and her letters home made the couple celebrities in America. She died at Amherst in 1826. Judson completed the Burmese Bible in 1834, revised it in 1840 and compiled an English–Burmese dictionary (1849); his translation remains in use. He died at sea in 1850. His three wives — Ann, Sarah Boardman and Emily Chubbuck — each wrote widely read works that made the Judson family central to American missionary piety.\n\nBuddhist Burmans proved largely resistant, but the hill and plains Karen responded dramatically. In 1828 George Dana Boardman baptised Ko Tha Byu, a former robber and debtor slave, at Tavoy; he became an indefatigable evangelist among his own people. Many Karen held a tradition of a 'lost book' that their elder brother, the white foreigner, would one day restore, and of a creator god Y'wa; missionaries and Karen evangelists alike read the Bible as the fulfilment of these traditions. Jonathan Wade devised a Sgaw Karen script around 1832, Francis Mason translated the Bible, and a Karen theological seminary opened in 1845. Karen churches quickly became self-supporting and sent their own missionaries to other hill peoples.\n\nFrom Burma American Baptists spread into Assam (1836), where Nathan Brown and later Miles Bronson and Edward Clark began work that led to the Naga and Garo churches, and into the Telugu country of South India, where the 'Lone Star' mission at Nellore (1836) became the scene of the Ongole mass movement of 1878, when John Clough's colleagues baptised about 2,200 Madigas in a single day. In Burma itself Ola Hanson created a script for the Kachin (Jingpho) language and completed the Kachin Bible in 1927, and Arthur and Laura Carson opened work among the Chin at Haka in 1899. Rangoon Baptist College (1872, later Judson College) became a pillar of higher education.\n\nThe mission's success among minorities had political consequences. The British annexed Burma in three wars (1824–26, 1852, 1885); Christian Karen, Kachin and Chin served in disproportionate numbers in the colonial army and police, and Burman nationalists came to associate Christianity with the minorities and with British rule. After independence in 1948 the Karen National Union took up arms in 1949, beginning one of the world's longest-running conflicts; many Karen Christians were among its leaders and many more among its victims and refugees. In 1966 the military government expelled the remaining foreign missionaries and nationalised mission schools. American Baptists, meanwhile, had split in 1845 over slavery, the southern churches forming the Southern Baptist Convention and the northern the American Baptist Missionary Union, which inherited the Burma mission.\n\nSelf-governing since the founding of the Burma Baptist Missionary Convention in 1865, the churches survived the expulsion of missionaries and grew strongly under national leadership. The Myanmar Baptist Convention reports well over a million members in more than a dozen language conventions, and Kachin and Chin states are now majority Christian. Judson's Bible and Ko Tha Byu's legacy remain central to the identity of Christians in a Buddhist-majority country where they face periodic discrimination and, in minority regions, the violence of civil war.",
+      "beliefs": [
+        "Calvinistic (Particular) Baptist evangelicalism: salvation by grace through faith in Christ alone, with the urgency of reaching those who had never heard.",
+        "Believer's baptism by immersion as the biblical pattern — the conviction that made the Judsons leave the Congregational American Board.",
+        "Congregational church polity and the independence of each local church, which favoured early self-governing native congregations.",
+        "The Bible as the indispensable foundation of a church, demanding accurate translation into the vernacular before anything else.",
+        "Among Karen converts, an understanding of the gospel as the restoration of the 'lost book' of the creator Y'wa, blending missionary and indigenous expectations."
+      ],
+      "strategies": [
+        "Language mastery and translation as the core of mission: Judson's Burmese Bible (1834/1840) and dictionary, Wade's Sgaw Karen script, Hanson's Kachin Bible.",
+        "The zayat — a Buddhist-style roadside rest-house where Judson sat to discuss religion with passers-by.",
+        "Native evangelists (Ko Tha Byu and hundreds of Karen preachers) carrying the gospel to their own and neighbouring peoples.",
+        "Early self-support: Karen churches paid their own pastors and founded their own home mission societies by the mid-19th century.",
+        "Mission schools, a theological seminary (1845) and Rangoon Baptist College (1872) to train leaders and teachers.",
+        "Publishing and fundraising at home through the letters and memoirs of Ann, Sarah and Emily Judson, which mobilised American Baptist women and congregations."
+      ],
+      "groupsReached": [
+        "Sgaw and Pwo Karen of Lower Burma and the Tenasserim hills, the mission's largest and earliest people movement.",
+        "Kachin (Jingpho) and Chin peoples of northern and western Burma, now majority Christian.",
+        "A small but significant community of Burman Buddhist converts in Rangoon, Moulmein and the delta.",
+        "Shan, Lahu, Wa and Mon communities through Karen and American missionaries.",
+        "Naga, Garo and Assamese peoples of Northeast India through the offshoot Assam mission.",
+        "Telugu Dalits (Madigas and Malas) of Andhra through the Lone Star mission and the Ongole mass movement."
+      ],
+      "challenges": [
+        "Imprisonment, torture and near death of Judson and other foreigners during the First Anglo-Burmese War (1824–26).",
+        "Extreme mortality: Ann Judson, Sarah Judson, George Boardman and many children died of disease.",
+        "The resistance of Theravada Buddhist Burman society, in which conversion was seen as abandoning Burmese identity.",
+        "The 1845 Baptist split over slavery and recurrent debt crises in the American missionary union.",
+        "Post-independence ethnic conflict, the nationalisation of schools (1965) and the expulsion of missionaries (1966)."
+      ],
+      "harms": [
+        "Close identification of Christian minorities with British colonial rule and armed forces deepened Burman–minority suspicions that fed post-independence civil war.",
+        "Missionary rhetoric often disparaged Buddhism as idolatry and Burman culture as degraded, hardening communal boundaries.",
+        "Mission-promoted ethnic identity (the 'Christian Karen') sometimes marginalised non-Christian Karen and Buddhist Karen within their own people.",
+        "Paternalism and racial hierarchy persisted in the mission's institutions even as churches were nominally self-governing.",
+        "The heavy toll on missionary wives and children was romanticised at home, encouraging a culture of sacrificial martyrdom that downplayed avoidable risk."
+      ],
+      "developments": [
+        "The Judson Burmese Bible (1834, revised 1840) and English–Burmese dictionary, foundational works of Burmese scholarship.",
+        "Written forms of Sgaw Karen, Pwo Karen and Kachin, with schools that made these peoples among the most literate in Burma.",
+        "The creation of the Triennial Convention (1814) and thus of organised national Baptist life in the United States.",
+        "One of Asia's strongest self-supporting Baptist churches, the Myanmar Baptist Convention, with its own seminaries and missionaries.",
+        "Judson College / University of Rangoon and a wide school network that trained many of Burma's professionals.",
+        "Offshoot missions in Assam and Andhra that became foundations of Northeast Indian and Telugu Christianity."
+      ],
+      "outcome": "A mission that won few Burman Buddhists but became the seedbed of mass Christian movements among the Karen, Kachin and Chin and, through its offshoots, in Northeast India and Andhra. The Myanmar Baptist Convention, self-governing since 1865 and without foreign missionaries since 1966, is the mission's principal legacy.",
+      "keyPeople": [
+        {
+          "name": "Adoniram Judson",
+          "years": "1788–1850",
+          "role": "Pioneer American Baptist missionary to Burma",
+          "focus": "Burmese Bible translation, dictionary and evangelism among Burmans",
+          "origin": "Malden, Massachusetts",
+          "outcome": "Imprisoned 1824–26; completed the Burmese Bible in 1834; died at sea."
+        },
+        {
+          "name": "Ann Hasseltine Judson",
+          "years": "1789–1826",
+          "role": "Missionary, writer and advocate",
+          "focus": "Women's education, translation of catechisms, advocacy for Judson in prison",
+          "origin": "Bradford, Massachusetts",
+          "outcome": "Her letters and memoir made her an icon of American missionary womanhood."
+        },
+        {
+          "name": "Luther Rice",
+          "years": "1783–1836",
+          "role": "Organiser of American Baptist missions",
+          "focus": "Fundraising and founding the Triennial Convention (1814) and Columbian College",
+          "origin": "Northborough, Massachusetts",
+          "outcome": "Created the national Baptist structure that sustained the Burma mission."
+        },
+        {
+          "name": "Ko Tha Byu",
+          "years": "c. 1778–1840",
+          "role": "First Karen convert and evangelist",
+          "focus": "Preaching among the Karen of Tavoy, Rangoon and the delta",
+          "origin": "Karen country, Lower Burma",
+          "outcome": "Remembered as the 'Karen apostle'; the Ko Tha Byu Memorial Hall at Bassein honours him."
+        },
+        {
+          "name": "George Dana Boardman",
+          "years": "1801–1831",
+          "role": "Missionary at Tavoy",
+          "focus": "Karen evangelism",
+          "origin": "Maine",
+          "outcome": "Baptised Ko Tha Byu in 1828; died on a preaching tour."
+        },
+        {
+          "name": "Ola Hanson",
+          "years": "1864–1929",
+          "role": "Missionary to the Kachin",
+          "focus": "Kachin (Jingpho) script, dictionary and Bible",
+          "origin": "Sweden",
+          "outcome": "Completed the Kachin Bible in 1927."
+        }
+      ],
+      "countries": [
+        {
+          "country": "Burma (Myanmar)",
+          "year": 1813,
+          "text": "The Judsons settled in Rangoon in 1813; after the 1820s the mission spread from Moulmein and Tavoy to the Karen, then to the Kachin, Chin, Shan and Lahu.",
+          "lat": 16.8409,
+          "lng": 96.1735
+        },
+        {
+          "country": "India (Assam and Nagaland)",
+          "year": 1836,
+          "text": "Nathan Brown and Oliver Cutter opened Sadiya in 1836; Edward and Mary Clark began the Ao Naga church at Molung in 1876.",
+          "lat": 26.15,
+          "lng": 94.5
+        },
+        {
+          "country": "India (Andhra, Telugu mission)",
+          "year": 1836,
+          "text": "The 'Lone Star' mission at Nellore struggled for decades until the Ongole mass movement among Madigas from 1878.",
+          "lat": 15.5057,
+          "lng": 80.0499
+        },
+        {
+          "country": "Thailand",
+          "year": 1833,
+          "text": "American Baptists worked among Chinese and later Karen in Siam, and Karen evangelists crossed into Thai territory.",
+          "lat": 13.7563,
+          "lng": 100.5018
+        },
+        {
+          "country": "China (Ningbo, Swatow)",
+          "year": 1843,
+          "text": "From the Burma and Siam base, Baptists opened missions among Chinese of Ningbo and the Swatow (Teochew) region.",
+          "lat": 23.354,
+          "lng": 116.682
+        }
+      ],
+      "journeys": [
+        {
+          "id": "american-judson-voyage-rangoon",
+          "title": "The Judsons' journey from Salem to Rangoon (1812–13)",
+          "people": "Adoniram and Ann Judson",
+          "personIds": [],
+          "year": 1812,
+          "endYear": 1813,
+          "stops": [
+            {
+              "name": "Salem, Massachusetts",
+              "lat": 42.5195,
+              "lng": -70.8967,
+              "year": 1812
+            },
+            {
+              "name": "Calcutta (baptised at Serampore mission)",
+              "lat": 22.5726,
+              "lng": 88.3639,
+              "year": 1812
+            },
+            {
+              "name": "Port Louis, Isle of France (Mauritius)",
+              "lat": -20.1609,
+              "lng": 57.5012,
+              "year": 1813
+            },
+            {
+              "name": "Madras",
+              "lat": 13.0827,
+              "lng": 80.2707,
+              "year": 1813
+            },
+            {
+              "name": "Rangoon",
+              "lat": 16.8409,
+              "lng": 96.1735,
+              "year": 1813
+            }
+          ],
+          "text": "Sailing as Congregationalist missionaries, the Judsons became Baptists in Calcutta, were ordered out by the East India Company, waited in Mauritius and Madras, and finally took a ship to Rangoon, arriving in July 1813."
+        },
+        {
+          "id": "american-judson-war-captivity",
+          "title": "Judson's captivity and the move to Moulmein (1824–27)",
+          "people": "Adoniram and Ann Judson",
+          "personIds": [],
+          "year": 1824,
+          "endYear": 1827,
+          "stops": [
+            {
+              "name": "Ava (royal capital)",
+              "lat": 21.85,
+              "lng": 95.98,
+              "year": 1824
+            },
+            {
+              "name": "Oung-pen-la prison",
+              "lat": 21.95,
+              "lng": 96.05,
+              "year": 1825
+            },
+            {
+              "name": "Amherst (Kyaikkami)",
+              "lat": 16.0833,
+              "lng": 97.5667,
+              "year": 1826
+            },
+            {
+              "name": "Moulmein (Mawlamyine)",
+              "lat": 16.4905,
+              "lng": 97.6283,
+              "year": 1827
+            }
+          ],
+          "text": "Arrested at Ava as a suspected spy, Judson was held in the 'death prison' and then at Oung-pen-la until released to interpret at the peace talks of 1826. The mission moved into British-held Tenasserim, first to Amherst, where Ann died, and then to Moulmein."
+        },
+        {
+          "id": "american-boardman-karen-1828",
+          "title": "Boardman and Ko Tha Byu to Tavoy (1828)",
+          "people": "George Dana Boardman, Sarah Boardman and Ko Tha Byu",
+          "personIds": [],
+          "year": 1828,
+          "stops": [
+            {
+              "name": "Moulmein",
+              "lat": 16.4905,
+              "lng": 97.6283,
+              "year": 1828
+            },
+            {
+              "name": "Tavoy (Dawei)",
+              "lat": 14.0823,
+              "lng": 98.1915,
+              "year": 1828
+            }
+          ],
+          "text": "The Boardmans moved to Tavoy with Ko Tha Byu, whom Boardman baptised there in May 1828; Ko Tha Byu's tours among Karen villages began the Karen people movement."
+        }
+      ],
+      "influencedBy": [
+        "baptist-missionary-society",
+        "american-board-mission"
+      ],
+      "relations": [
+        {
+          "to": "baptist-missionary-society",
+          "kind": "partnered",
+          "text": "Carey's Serampore mission sheltered the Judsons in 1812, baptised them, and had begun a short-lived Burma mission under Felix Carey whose house they took over in Rangoon."
+        },
+        {
+          "to": "bible-translation-mission",
+          "kind": "gave-rise-to",
+          "text": "Judson's Burmese Bible and the Karen and Kachin translations became models for vernacular translation work in Southeast Asia."
+        },
+        {
+          "to": "china-inland-mission",
+          "kind": "partnered",
+          "text": "Karen Baptist evangelists, notably Ba Thaw, worked with the CIM's James Fraser among the Lisu, helping create the Fraser script (c. 1915)."
+        }
+      ],
+      "agreements": [
+        {
+          "with": "baptist-missionary-society",
+          "text": "Shared Particular Baptist theology, believer's baptism and Carey's priority on vernacular Bible translation."
+        },
+        {
+          "with": "church-missionary-society",
+          "text": "Like Venn's CMS, encouraged early self-support and native pastors — the Karen churches became self-supporting by mid-century."
+        },
+        {
+          "with": "church-growth-movement",
+          "text": "The Karen and Telugu 'people movements' were later cited by Donald McGavran and J. Waskom Pickett as classic examples of group conversion."
+        }
+      ],
+      "disagreements": [
+        {
+          "with": "american-board-mission",
+          "text": "Broke with the Congregationalist American Board over infant baptism in 1812, a split that defined separate denominational missionary channels in the USA."
+        }
+      ],
+      "deviations": [
+        "Judson aimed above all at Burman Buddhists, but the mission's growth came overwhelmingly among animist minority peoples on the margins of Burman society.",
+        "The early ideal of a church independent of politics gave way to close identification of Christian minorities with British colonial rule.",
+        "The Triennial Convention's unity of American Baptists for mission broke in 1845 over slavery."
+      ],
+      "sources": [
+        "m4-anderson-golden-shore",
+        "m4-brumberg-mission-for-life",
+        "neill-missions",
+        "robert-christian-mission",
+        "mcbeth-baptist-heritage",
+        "bdcm"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "basel-mission",
+      "name": "Basel Mission (Evangelische Missionsgesellschaft in Basel)",
+      "stream": "modern-missions",
+      "traditionIds": [
+        "reformed",
+        "lutheran",
+        "swiss-reformed",
+        "evangelical-church-in-germany",
+        "church-of-south-india"
+      ],
+      "startYear": 1815,
+      "endYear": 2001,
+      "origin": {
+        "name": "Basel, Switzerland",
+        "lat": 47.5596,
+        "lng": 7.5886
+      },
+      "status": "merged",
+      "statusNote": "In 2001 the Basel Mission joined with other Swiss mission bodies to form Mission 21 (Evangelisches Missionswerk Basel), which continues partnership work; its former fields are autonomous churches such as the Presbyterian Church of Ghana, the Presbyterian Church in Cameroon, the Tsung Tsin (Hakka) churches and Basel-origin dioceses of the Church of South India.",
+      "summary": "A Swiss-German Pietist missionary society founded in 1815 that trained artisans and farmers' sons as missionaries and worked chiefly on the Gold Coast (Ghana), in South India (Karnataka and Malabar), among the Hakka of southern China and in Cameroon. It was distinctive for combining evangelism with linguistic scholarship and economic enterprise — mission industries, tile works, weaving and the Basel Mission Trading Company — under a tightly disciplined, hierarchical organisation.",
+      "story": "The Basel Mission grew from the Deutsche Christentumsgesellschaft, a network of German and Swiss Pietists, and was founded in September 1815, as the Napoleonic wars ended, partly in thanksgiving for Basel's deliverance from siege. It began as a seminary under Christian Gottlieb Blumhardt to train missionaries for other societies; many of the Church Missionary Society's early workers — including Rhenius, Krapf and Samuel Gobat — were Basel-trained Germans and Swiss in Anglican orders. From 1821 it sent its own missionaries, first to the Caucasus (Shusha), until the Russian government closed that mission in 1835, and to Liberia (1827).\n\nIn 1828 four Basel missionaries landed at the Danish fort of Christiansborg (Accra) on the Gold Coast. Within a few years all but one had died; the survivor, Andreas Riis, moved inland to the healthier Akuapem ridge and settled at Akropong in 1835. In 1843, to prove that people of African descent could thrive and model Christian village life, the mission brought some two dozen Moravian Christians from Jamaica to Akropong. Steady growth followed: a seminary (1848), schools across Akuapem, Akyem and Asante, and 'Salems' — Christian quarters set apart from the traditional town. Johann Gottlieb Christaller's Twi Bible (1871), grammar and dictionary (1881) and Johannes Zimmermann's Ga Bible (1866) gave these languages their literary standard. The Basel Mission Trading Company (1859) handled the mission's commerce and became a major buyer of cocoa, the crop that transformed the colony's economy.\n\nIn 1834 Samuel Hebich, Johann Lehner and Christoph Greiner opened the India mission at Mangalore on the Kanara coast, later extending to Malabar (Tellicherry, Calicut, Cannanore), Coorg and the southern Maratha country around Dharwad and Hubli. Hermann Gundert's Malayalam dictionary (1872) and Ferdinand Kittel's Kannada–English dictionary (1894) remain landmarks of Dravidian scholarship. Because converts were usually cut off from caste and livelihood, the mission set up industries: weaving establishments, printing presses and, from 1865, the tile factory at Mangalore whose red 'Mangalore tiles' spread across India and beyond. The mission was firm that caste had no place in the church, setting it apart from the older Tranquebar tradition.\n\nIn 1847, inspired by Karl Gützlaff, Theodor Hamberg and Rudolf Lechler went to the Hakka of Guangdong. Hamberg's account of the visions of Hong Xiuquan, based on conversations with Hong Rengan, was an early Western source on the Taiping movement. The Hakka church (later the Tsung Tsin Mission in Hong Kong) grew steadily and its emigrants carried it to Borneo (Sabah) and elsewhere. In 1886, after Germany annexed Kamerun, the mission took over the work of the English Baptists there, laying the foundation of the Presbyterian Church in Cameroon.\n\nThe mission's character was that of a disciplined Pietist community. The Committee in Basel controlled appointments, finances and even marriages — missionaries needed permission to marry, and brides were often chosen or approved by the Committee — and enforced strict codes on converts. In the 1860s an internal controversy over slave-holding among Gold Coast Christians ended with the mission requiring converts to renounce it. The First World War brought crisis: as a predominantly German organisation, the mission was expelled by the British from India (1915–16) and the Gold Coast (1917–18), and its Indian commercial assets were placed in the Commonwealth Trust. Scottish missionaries of the United Free Church took over in Ghana, where the synod of 1918 created the self-governing Presbyterian Church of the Gold Coast; Basel workers returned from 1926 as partners rather than masters.\n\nAfter 1945 the Basel churches in South India became part of the Church of South India, the Ghanaian and Cameroonian Presbyterian churches became fully independent, and the mission redefined itself as a partner in ecumenical networks. In 2001 it merged with other Swiss societies into Mission 21. Its archive in Basel is one of the richest sources for the 19th-century history of Ghana, coastal Karnataka, Kerala and Hakka China.",
+      "beliefs": [
+        "Württemberg and Swiss Pietism: personal conversion, a disciplined holy life, Bible study in small groups and a strong sense of God's providence.",
+        "A union of Lutheran and Reformed traditions that subordinated confessional differences to shared evangelical piety.",
+        "The conviction that the Christian life must be embodied in a whole community — work, family and village — not only in individual belief.",
+        "Rejection of caste distinctions within the church as incompatible with the gospel.",
+        "A premium on learning: missionaries were expected to master local languages and produce scholarly grammars, dictionaries and translations."
+      ],
+      "strategies": [
+        "Training artisans, farmers and craftsmen in a rigorous Basel seminary so that missionaries could model Christian labour as well as preach.",
+        "Christian villages or 'Salems' separated from traditional towns, with schools and church discipline.",
+        "Mission industries — weaving, tile-making, printing, carpentry — to employ outcaste converts and make the church economically viable.",
+        "The Basel Mission Trading Company (1859), which handled commerce and funded the mission while shielding missionaries from trade.",
+        "Vernacular scholarship: Christaller's Twi, Zimmermann's Ga, Gundert's Malayalam and Kittel's Kannada works.",
+        "Recruiting Caribbean Christians of African descent (1843) to demonstrate Christian community in West Africa.",
+        "Centralised control by the Basel Committee over personnel, finances and conduct."
+      ],
+      "groupsReached": [
+        "Akan (Akuapem, Akyem, Asante) and Ga-Adangme peoples of the Gold Coast.",
+        "Billava, Mogaveera and Dalit communities of coastal Karnataka (Tulu and Kannada speakers) and Thiyya and other communities of Malabar.",
+        "Hakka Chinese of Guangdong, Hong Kong and the Hakka diaspora in Sabah.",
+        "Duala and grassfields peoples of Cameroon.",
+        "Kannada-speaking communities of Dharwad and Hubli and the Kodava of Coorg."
+      ],
+      "challenges": [
+        "Catastrophic mortality in the first Gold Coast years — of the first party of 1828 only Andreas Riis lasted beyond the early 1830s.",
+        "Conflict with Akan chiefs and traditional authorities over the authority of the mission and its 'Salems'.",
+        "Tension between missionary zeal and the Committee's institutional control, documented in disputes over marriage, discipline and trade.",
+        "Expulsion of its German missionaries and seizure of assets by the British during the First World War.",
+        "Converts in India lost caste, land and employment, making the church dependent on mission industries."
+      ],
+      "harms": [
+        "The 'Salem' model physically and socially separated converts from their communities, weakening family and chiefly ties.",
+        "The Committee's paternalistic and hierarchical control over missionaries and converts, including approval of marriages, left little room for local initiative.",
+        "For decades the mission tolerated slave-holding among Gold Coast converts before requiring emancipation in the 1860s.",
+        "Mission-owned industries and trading created economic dependency and blurred the line between church and commercial enterprise.",
+        "Like other missions, it judged African and Indian religions harshly and often demanded abandonment of drumming, festivals and customary rites."
+      ],
+      "developments": [
+        "Standard written forms and literature for Twi, Ga, Tulu, Kannada and Malayalam, including Christaller's and Kittel's dictionaries and Gundert's Malayalam dictionary.",
+        "Self-governing churches: the Presbyterian Church of Ghana, the Presbyterian Church in Cameroon, Tsung Tsin churches, and Basel-origin congregations in the Church of South India.",
+        "Schools and teacher training colleges, notably Akropong (1848), which educated much of Ghana's early professional class.",
+        "Technical and industrial skills: the Mangalore tile industry, weaving and artisan training in India and Ghana.",
+        "Contribution to the cocoa economy of the Gold Coast and to agricultural experimentation.",
+        "An unusually rich archive (the Basel Mission Archive) documenting 19th-century African and Asian societies."
+      ],
+      "outcome": "A Pietist society that combined scholarship, industry and evangelism, it left strong Presbyterian churches in Ghana and Cameroon, Hakka churches in China and the diaspora, and Basel-tradition congregations in the Church of South India. It merged into Mission 21 in 2001.",
+      "keyPeople": [
+        {
+          "name": "Christian Gottlieb Blumhardt",
+          "years": "1779–1838",
+          "role": "First inspector (director) of the Basel Mission",
+          "focus": "Training missionaries in the Basel seminary",
+          "origin": "Stuttgart, Württemberg",
+          "outcome": "Shaped the mission's disciplined Pietist ethos."
+        },
+        {
+          "name": "Andreas Riis",
+          "years": "1804–1854",
+          "role": "Danish-born Basel missionary on the Gold Coast",
+          "focus": "Founding the Akropong station",
+          "origin": "Denmark (Schleswig)",
+          "outcome": "The only survivor of the early Gold Coast parties; founded Akropong in 1835."
+        },
+        {
+          "name": "Johann Gottlieb Christaller",
+          "years": "1827–1895",
+          "role": "Missionary linguist",
+          "focus": "Twi Bible (1871), grammar and dictionary (1881)",
+          "origin": "Winnenden, Württemberg",
+          "outcome": "His work standardised literary Twi."
+        },
+        {
+          "name": "Hermann Gundert",
+          "years": "1814–1893",
+          "role": "Basel missionary in Malabar",
+          "focus": "Malayalam grammar, dictionary (1872), Bible translation and schools",
+          "origin": "Stuttgart, Württemberg",
+          "outcome": "A founding figure of modern Malayalam lexicography."
+        },
+        {
+          "name": "Ferdinand Kittel",
+          "years": "1832–1903",
+          "role": "Basel missionary in Karnataka",
+          "focus": "Kannada–English dictionary (1894) and hymnody",
+          "origin": "Resterhafe, East Frisia",
+          "outcome": "His dictionary remains a standard reference."
+        },
+        {
+          "name": "Samuel Hebich",
+          "years": "1803–1868",
+          "role": "Pioneer of the India mission",
+          "focus": "Preaching in Mangalore and Malabar",
+          "origin": "Württemberg",
+          "outcome": "Founded the Mangalore mission in 1834."
+        }
+      ],
+      "countries": [
+        {
+          "country": "Russia (Caucasus)",
+          "year": 1821,
+          "text": "An early mission at Shusha among Armenians and Muslims, closed by the Russian government in 1835.",
+          "lat": 39.758,
+          "lng": 46.75
+        },
+        {
+          "country": "Ghana (Gold Coast)",
+          "year": 1828,
+          "text": "From Christiansborg and Akropong the mission built churches, schools and the Trading Company; its church became the Presbyterian Church of Ghana.",
+          "lat": 5.9667,
+          "lng": -0.0833
+        },
+        {
+          "country": "India (Karnataka and Kerala)",
+          "year": 1834,
+          "text": "Mangalore, Malabar, Coorg and Dharwad: churches, scholarship and industries including the Mangalore tile works.",
+          "lat": 12.9141,
+          "lng": 74.856
+        },
+        {
+          "country": "China (Guangdong, Hong Kong)",
+          "year": 1847,
+          "text": "Mission to the Hakka, which grew into the Tsung Tsin church and its diaspora.",
+          "lat": 22.3193,
+          "lng": 114.1694
+        },
+        {
+          "country": "Cameroon",
+          "year": 1886,
+          "text": "Took over English Baptist work and built the foundations of the Presbyterian Church in Cameroon.",
+          "lat": 4.0511,
+          "lng": 9.7679
+        },
+        {
+          "country": "Malaysia (Sabah, North Borneo)",
+          "year": 1882,
+          "text": "Followed Hakka Christian emigrants to North Borneo, where the Basel Christian Church of Malaysia grew.",
+          "lat": 5.9804,
+          "lng": 116.0735
+        },
+        {
+          "country": "Indonesia (Kalimantan)",
+          "year": 1921,
+          "text": "Took over parts of the former Rhenish Mission work in Borneo after the First World War.",
+          "lat": -2.21,
+          "lng": 113.92
+        }
+      ],
+      "journeys": [
+        {
+          "id": "basel-gold-coast-1828",
+          "title": "From Basel to the Gold Coast and Akropong (1828–35)",
+          "people": "Karl Holzwarth, Johannes Henke, Johann Schmid, Gottlieb Salbach; later Andreas Riis",
+          "personIds": [],
+          "year": 1828,
+          "endYear": 1835,
+          "stops": [
+            {
+              "name": "Basel",
+              "lat": 47.5596,
+              "lng": 7.5886,
+              "year": 1828
+            },
+            {
+              "name": "Christiansborg (Accra)",
+              "lat": 5.5502,
+              "lng": -0.1769,
+              "year": 1828
+            },
+            {
+              "name": "Akropong-Akuapem",
+              "lat": 5.9744,
+              "lng": -0.0886,
+              "year": 1835
+            }
+          ],
+          "text": "The first four missionaries reached the Danish fort of Christiansborg in December 1828; three died within months. Andreas Riis, arriving in 1832, moved up to the Akuapem ridge and founded Akropong in 1835."
+        },
+        {
+          "id": "basel-jamaican-recruits-1843",
+          "title": "West Indian Christians to Akropong (1843)",
+          "people": "Andreas Riis and about two dozen Jamaican Moravian settlers",
+          "personIds": [],
+          "year": 1843,
+          "stops": [
+            {
+              "name": "Jamaica",
+              "lat": 18.1096,
+              "lng": -77.2975,
+              "year": 1843
+            },
+            {
+              "name": "Christiansborg (Accra)",
+              "lat": 5.5502,
+              "lng": -0.1769,
+              "year": 1843
+            },
+            {
+              "name": "Akropong-Akuapem",
+              "lat": 5.9744,
+              "lng": -0.0886,
+              "year": 1843
+            }
+          ],
+          "text": "Riis recruited Christian families of African descent from Moravian congregations in Jamaica, who arrived in April 1843 to model Christian village life and farming at Akropong."
+        },
+        {
+          "id": "basel-india-1834",
+          "title": "Founding the South India mission (1834–53)",
+          "people": "Samuel Hebich, Johann Lehner, Christoph Greiner; later Hermann Gundert",
+          "personIds": [],
+          "year": 1834,
+          "endYear": 1853,
+          "stops": [
+            {
+              "name": "Basel",
+              "lat": 47.5596,
+              "lng": 7.5886,
+              "year": 1834
+            },
+            {
+              "name": "Mangalore",
+              "lat": 12.9141,
+              "lng": 74.856,
+              "year": 1834
+            },
+            {
+              "name": "Tellicherry (Thalassery)",
+              "lat": 11.7491,
+              "lng": 75.489,
+              "year": 1839
+            },
+            {
+              "name": "Madikeri, Coorg",
+              "lat": 12.4244,
+              "lng": 75.7382,
+              "year": 1853
+            }
+          ],
+          "text": "The first missionaries reached Mangalore in October 1834; the mission spread to Malabar, where Gundert worked from 1839 at Tellicherry, and to Coorg in the 1850s."
+        },
+        {
+          "id": "basel-hakka-1847",
+          "title": "Hamberg and Lechler to the Hakka (1847)",
+          "people": "Theodor Hamberg and Rudolf Lechler",
+          "personIds": [],
+          "year": 1847,
+          "stops": [
+            {
+              "name": "Basel",
+              "lat": 47.5596,
+              "lng": 7.5886,
+              "year": 1846
+            },
+            {
+              "name": "Hong Kong",
+              "lat": 22.3193,
+              "lng": 114.1694,
+              "year": 1847
+            },
+            {
+              "name": "Hakka districts of eastern Guangdong (Meizhou)",
+              "lat": 24.2886,
+              "lng": 116.1226,
+              "year": 1850
+            }
+          ],
+          "text": "Recruited through Karl Gützlaff's Chinese Union, the two missionaries reached Hong Kong in 1847; Hamberg turned to the Hakka and Lechler, after work among the Teochew, joined him, laying the foundations of the Hakka church."
+        }
+      ],
+      "influencedBy": [
+        "moravian-mission",
+        "danish-halle-mission"
+      ],
+      "relations": [
+        {
+          "to": "church-missionary-society",
+          "kind": "partnered",
+          "text": "Basel trained many of the CMS's early continental missionaries (Rhenius, Krapf, Gobat), and the two societies cooperated in India and Africa."
+        },
+        {
+          "to": "scottish-missions",
+          "kind": "succeeded-by",
+          "text": "When the British expelled Basel missionaries from the Gold Coast in 1917–18, the Scottish United Free Church took over the field and guided the new Presbyterian Church of the Gold Coast."
+        },
+        {
+          "to": "ecumenical-mission",
+          "kind": "merged-into",
+          "text": "Basel was a member of the International Missionary Council and later merged with other Swiss societies into Mission 21 (2001), which works in ecumenical partnership."
+        }
+      ],
+      "agreements": [
+        {
+          "with": "moravian-mission",
+          "text": "Shared Pietist roots, a stress on community and work, and drew directly on Jamaican Moravians to build its Gold Coast congregations."
+        },
+        {
+          "with": "church-missionary-society",
+          "text": "Shared evangelical piety and a commitment to vernacular translation and native agency."
+        },
+        {
+          "with": "scottish-missions",
+          "text": "Shared Presbyterian-Reformed church order and a high view of schooling, which made the Scottish takeover of the Gold Coast field relatively smooth."
+        }
+      ],
+      "disagreements": [
+        {
+          "with": "danish-halle-mission",
+          "text": "Unlike the Tranquebar–Leipzig tradition, which allowed caste distinctions in seating and communion, Basel insisted that caste had no place in the church."
+        },
+        {
+          "with": "african-initiated-churches",
+          "text": "Basel's strict discipline over drumming, polygamy and traditional rites was later challenged by African prophet and Aladura churches that offered healing and African forms of worship."
+        }
+      ],
+      "deviations": [
+        "Founded as a seminary serving other societies, it became a large sending agency with its own commercial enterprise — a combination critics saw as compromising its spiritual purpose.",
+        "Its Pietist ideal of brotherly community coexisted with an authoritarian Committee structure that controlled missionaries' lives in detail.",
+        "Its anti-caste stance coexisted for decades with toleration of slavery among Gold Coast converts."
+      ],
+      "sources": [
+        "m4-miller-basel-zeal",
+        "m4-smith-presbyterian-ghana",
+        "neill-missions",
+        "hastings-church-in-africa",
+        "isichei-africa",
+        "bdcm"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "scottish-missions",
+      "name": "Scottish missions: Duff, Lovedale, Calabar, Livingstonia and Blantyre",
+      "stream": "modern-missions",
+      "traditionIds": [
+        "presbyterian",
+        "church-of-scotland",
+        "reformed",
+        "church-of-south-india"
+      ],
+      "startYear": 1796,
+      "origin": {
+        "name": "Edinburgh, Scotland",
+        "lat": 55.9533,
+        "lng": -3.1883
+      },
+      "status": "transformed",
+      "statusNote": "The various Scottish Presbyterian missions (Church of Scotland, Free Church, United Presbyterian, later United Free Church) were unified after the church union of 1929, and their fields became autonomous churches — the Church of Central Africa Presbyterian, the Presbyterian Church of East Africa, the Presbyterian Church of Nigeria, Scottish-origin congregations in the Church of South India and Church of North India, and others. The Church of Scotland now works with them as partners.",
+      "summary": "Scottish Presbyterian missions combined evangelical zeal with the Scottish belief in education. Alexander Duff's English-medium colleges in Calcutta (1830) aimed to convert India's elite through Western learning; Lovedale in South Africa, Livingstonia and Blantyre in Malawi and the Calabar mission in Nigeria (with Mary Slessor) became landmarks of African Christianity and schooling — and of the entanglement of mission with empire.",
+      "story": "Scottish mission societies date from 1796, when the Scottish (originally Edinburgh) Missionary Society and the Glasgow Missionary Society were founded, though the General Assembly of the Church of Scotland that year famously declined to back foreign missions. The Glasgow society established Lovedale in the eastern Cape (1824), whose Institution (1841) under William Govan and later James Stewart became one of the most important African educational centres of the century; Tiyo Soga, trained in Scotland and ordained in 1856, was the first black South African minister. In 1824 the General Assembly at last authorised a mission, and in 1829 it sent Alexander Duff to Calcutta.\n\nDuff, twice shipwrecked on the way, reached Calcutta in May 1830 and opened the General Assembly's Institution in July with help from the reformer Rammohun Roy. His strategy was to teach Western science, literature and the Bible in English to high-caste Bengali youth, believing that Western knowledge would undermine Hinduism and prepare the way for Christianity — a 'mine' laid under the foundations of Hinduism. A small number of brilliant converts followed, among them Krishna Mohan Banerjee and Lal Behari Day, and Duff's views influenced Macaulay's Minute of 1835 on English education. John Wilson in Bombay, John Anderson in Madras and Stephen Hislop in Nagpur adopted similar methods; their schools became Wilson College, Madras Christian College and Hislop College.\n\nThe Disruption of 1843, when about a third of ministers left the Church of Scotland to form the Free Church, split the missions too: every one of the India missionaries, including Duff, joined the Free Church, and both churches maintained rival missions thereafter. The Secession tradition (United Presbyterian from 1847) had its own fields: Calabar in south-eastern Nigeria, begun in 1846 by Hope Waddell with Jamaican Christians, and Manchuria, where John Ross's translation work (1870s–80s) produced the first Korean New Testament (1887) and prepared the way for the Korean church.\n\nMary Slessor, a Dundee mill-girl, joined the Calabar mission in 1876. Moving inland to Okoyong (1888) and later to Itu and the Enyong creek, she lived in local style, rescued twins (who were customarily killed) and women accused of witchcraft, mediated disputes, and from 1892 served as British vice-consul presiding over a native court. She died in 1915 and became a Scottish heroine; her career shows both the courage of individual missionaries and their part in extending colonial authority.\n\nDavid Livingstone's death in 1873 and his funeral at Westminster Abbey in 1874 inspired Scotland's most ambitious African ventures. The Free Church founded Livingstonia at Cape Maclear on Lake Nyasa in 1875, moving to Bandawe and then to Khondowe (1894), where Robert Laws built the Overtoun Institution, which trained teachers, artisans and clerks across Central Africa. The Church of Scotland founded Blantyre in the Shire Highlands in 1876; its early lay staff exercised civil jurisdiction, and in 1879–80 floggings and an execution led to an inquiry and the recall of leaders — a notorious scandal. Under David Clement Scott Blantyre later became known for its respect for African agency. Scottish missionaries and the African Lakes Company lobbied successfully for a British protectorate (1891) against Portuguese claims. Their churches united in 1924 as the Church of Central Africa Presbyterian.\n\nIn Kenya the Church of Scotland Mission (from 1891, at Kikuyu/Thogoto from 1898) under John Arthur led the campaign against female circumcision in 1929–31, demanding that church members renounce it; the resulting crisis drove thousands from mission churches and schools into Kikuyu independent schools and churches. Scottish missions also worked in Jamaica, the New Hebrides (John G. Paton), Darjeeling and the Eastern Himalaya, Punjab (Sialkot) and Rajputana. After the reunion of 1929 the work was unified, and in the late 20th century it was transformed into partnership with independent churches.",
+      "beliefs": [
+        "Scottish Calvinist evangelicalism shaped by Thomas Chalmers: the sovereignty of God, salvation in Christ, and the duty of Christians to transform society.",
+        "A strong conviction that education and the gospel belong together — that sound learning, especially in Scripture and science, liberates minds and prepares them for faith.",
+        "Presbyterian church order, with elders and presbyteries, as the model for new churches.",
+        "Belief in the civilising power of Christianity, commerce and education ('Christianity and commerce', in Livingstone's phrase) to end the slave trade and lift Africa.",
+        "A Sabbatarian and strongly moral piety: temperance, monogamy and the suppression of practices such as twin-killing and trial by ordeal."
+      ],
+      "strategies": [
+        "Duff's 'downward filtration' strategy: English-medium higher education for high-caste elites, expected to influence the masses.",
+        "Large educational institutions — Scottish Church College, Wilson College, Madras Christian College, Lovedale, the Overtoun Institution — combining academic, theological and industrial training.",
+        "Industrial and agricultural training for Africans as artisans, clerks and teachers, paired with the promotion of 'legitimate commerce' (the African Lakes Company) against the slave trade.",
+        "Medical missions, from Livingstonia's hospital to the Edinburgh Medical Missionary Society (1841), which trained missionary doctors.",
+        "Vernacular translation, including Ross's Korean New Testament, the Tumbuka and Nyanja Bibles and Efik scriptures at Calabar.",
+        "Individual pioneering in village settings, as with Mary Slessor's long residence in Okoyong."
+      ],
+      "groupsReached": [
+        "High-caste Bengali, Marathi and Tamil students in Calcutta, Bombay and Madras, of whom a small number converted.",
+        "Xhosa and Mfengu of the eastern Cape through Lovedale and the Glasgow Missionary Society.",
+        "Efik, Ibibio and Okoyong (Ejagham) peoples of the Cross River region of Nigeria.",
+        "Tumbuka, Tonga, Ngoni, Yao and Mang'anja peoples of Malawi through Livingstonia and Blantyre.",
+        "Kikuyu of central Kenya through the Church of Scotland Mission.",
+        "Koreans in Manchuria and northern Korea through John Ross's translation and colporteurs."
+      ],
+      "challenges": [
+        "The Disruption of 1843 split the missions and led to duplicate, competing efforts for nearly ninety years.",
+        "Very few conversions among the Indian elite despite the colleges' prestige; converts faced ostracism and legal disputes over property and children.",
+        "Malaria and other diseases devastated early parties at Livingstonia and Calabar.",
+        "Conflict with slave-trading chiefs, Ngoni raiders and Portuguese and British commercial interests in Central Africa.",
+        "The female circumcision controversy of 1929–31 in Kenya, which provoked mass departures and lasting distrust."
+      ],
+      "harms": [
+        "The Blantyre mission's early exercise of civil jurisdiction led to floggings and an unlawful execution in 1879–80.",
+        "Missionary lobbying helped bring Nyasaland under British rule (1891) and tied the church to colonial administration and settler economies.",
+        "Duff's disdain for Hinduism and Indian vernacular learning reinforced colonial cultural hierarchy and the dominance of English.",
+        "In Kenya the circumcision campaign was experienced as an attack on Kikuyu identity and became entangled with land grievances and nationalist politics.",
+        "Mission control of education and jobs created dependency and slowed the transfer of leadership to Africans in some fields."
+      ],
+      "developments": [
+        "Higher education institutions still central to India: Scottish Church College (Kolkata), Wilson College (Mumbai), Madras Christian College (Chennai), Hislop College (Nagpur).",
+        "Lovedale and Livingstonia trained a generation of African teachers, ministers, journalists and nationalist leaders across southern and central Africa.",
+        "The Church of Central Africa Presbyterian and the Presbyterian Church of East Africa, among the largest churches in their countries.",
+        "Opposition to twin-killing and other harmful practices at Calabar, and Slessor's advocacy for women.",
+        "The first Korean New Testament (Ross, 1887), a seedbed of the Korean church.",
+        "Medical training and hospitals, including the Edinburgh Medical Missionary Society model widely copied elsewhere."
+      ],
+      "outcome": "Scottish missions left enduring colleges in India and strong Presbyterian churches in Malawi, Kenya, Nigeria, Ghana (after 1918), South Africa and beyond, alongside a legacy of education-led mission that shaped colonial and post-colonial elites. After 1929 the missions were unified and later reconceived as church-to-church partnership.",
+      "keyPeople": [
+        {
+          "name": "Alexander Duff",
+          "years": "1806–1878",
+          "role": "First Church of Scotland missionary to India",
+          "focus": "English-medium higher education in Calcutta",
+          "origin": "Moulin, Perthshire",
+          "outcome": "Founded the General Assembly's Institution (1830); later Free Church convener of missions."
+        },
+        {
+          "name": "John Wilson",
+          "years": "1804–1875",
+          "role": "Missionary in Bombay",
+          "focus": "Education, oriental scholarship and dialogue with Parsis and Hindus",
+          "origin": "Lauder, Scotland",
+          "outcome": "Founded what became Wilson College."
+        },
+        {
+          "name": "Thomas Chalmers",
+          "years": "1780–1847",
+          "role": "Theologian and leader of the Free Church",
+          "focus": "Evangelical social thought and support for missions",
+          "personId": "thomas-chalmers",
+          "origin": "Anstruther, Fife",
+          "outcome": "Mentor of Duff and the evangelical Scottish missionary generation."
+        },
+        {
+          "name": "Mary Slessor",
+          "years": "1848–1915",
+          "role": "United Presbyterian missionary in Calabar",
+          "focus": "Okoyong and the Enyong creek; protection of twins and women",
+          "origin": "Aberdeen; raised in Dundee",
+          "outcome": "Became vice-consul and a celebrated Scottish heroine."
+        },
+        {
+          "name": "Robert Laws",
+          "years": "1851–1934",
+          "role": "Leader of the Livingstonia mission",
+          "focus": "Education and the Overtoun Institution at Khondowe",
+          "origin": "Aberdeen",
+          "outcome": "Served nearly fifty years in Malawi."
+        },
+        {
+          "name": "Tiyo Soga",
+          "years": "1829–1871",
+          "role": "First ordained black South African minister",
+          "focus": "Xhosa translation, hymn-writing and ministry in the eastern Cape",
+          "origin": "Gwali, eastern Cape",
+          "outcome": "Ordained by the United Presbyterian Church in 1856; translated The Pilgrim's Progress into Xhosa."
+        },
+        {
+          "name": "John Ross",
+          "years": "1842–1915",
+          "role": "United Presbyterian missionary in Manchuria",
+          "focus": "Chinese and Korean translation",
+          "origin": "Balintore, Ross-shire",
+          "outcome": "Published the first Korean New Testament (1887)."
+        }
+      ],
+      "countries": [
+        {
+          "country": "South Africa (eastern Cape)",
+          "year": 1824,
+          "text": "The Glasgow Missionary Society founded Lovedale, whose Institution (1841) became a leading centre of African education.",
+          "lat": -32.79,
+          "lng": 26.82
+        },
+        {
+          "country": "India",
+          "year": 1830,
+          "text": "Duff in Calcutta (1830), Wilson in Bombay, Anderson in Madras and Hislop in Nagpur founded colleges; Scottish missions also worked in Punjab, Rajputana and the Eastern Himalaya.",
+          "lat": 22.5726,
+          "lng": 88.3639
+        },
+        {
+          "country": "Nigeria (Calabar)",
+          "year": 1846,
+          "text": "Hope Waddell and Jamaican Christians founded the Calabar mission; Mary Slessor worked inland from 1876.",
+          "lat": 4.9757,
+          "lng": 8.3417
+        },
+        {
+          "country": "Vanuatu (New Hebrides)",
+          "year": 1858,
+          "text": "Reformed Presbyterian missionaries, including John G. Paton, worked on Aneityum and Tanna.",
+          "lat": -19.53,
+          "lng": 169.27
+        },
+        {
+          "country": "China (Manchuria)",
+          "year": 1872,
+          "text": "John Ross's mission at Mukden and Newchwang produced Chinese and Korean scriptures.",
+          "lat": 41.8057,
+          "lng": 123.4315
+        },
+        {
+          "country": "Malawi",
+          "year": 1875,
+          "text": "Livingstonia (1875) and Blantyre (1876) missions founded schools, hospitals and the Church of Central Africa Presbyterian.",
+          "lat": -10.6,
+          "lng": 34.12
+        },
+        {
+          "country": "Kenya",
+          "year": 1891,
+          "text": "The Church of Scotland Mission at Kibwezi (1891) and Thogoto/Kikuyu (1898) led to the Presbyterian Church of East Africa.",
+          "lat": -1.2533,
+          "lng": 36.6597
+        },
+        {
+          "country": "Ghana",
+          "year": 1918,
+          "text": "The United Free Church took over the Basel Mission field during the First World War and helped form the self-governing Presbyterian Church of the Gold Coast.",
+          "lat": 5.6037,
+          "lng": -0.187
+        }
+      ],
+      "journeys": [
+        {
+          "id": "scottish-duff-voyage-1829",
+          "title": "Duff's shipwrecked voyage to Calcutta (1829–30)",
+          "people": "Alexander and Anne Duff",
+          "personIds": [],
+          "year": 1829,
+          "endYear": 1830,
+          "stops": [
+            {
+              "name": "Portsmouth",
+              "lat": 50.8198,
+              "lng": -1.088,
+              "year": 1829
+            },
+            {
+              "name": "Dassen Island (wreck of the Lady Holland)",
+              "lat": -33.42,
+              "lng": 18.08,
+              "year": 1830
+            },
+            {
+              "name": "Cape Town",
+              "lat": -33.9249,
+              "lng": 18.4241,
+              "year": 1830
+            },
+            {
+              "name": "Sagar Island, mouth of the Hooghly",
+              "lat": 21.65,
+              "lng": 88.05,
+              "year": 1830
+            },
+            {
+              "name": "Calcutta",
+              "lat": 22.5726,
+              "lng": 88.3639,
+              "year": 1830
+            }
+          ],
+          "text": "Duff sailed in October 1829 aboard the Lady Holland, which was wrecked off Dassen Island near the Cape in February 1830 with the loss of his library; continuing on another ship, he was caught in a cyclone and wrecked again near the Hooghly, reaching Calcutta in May 1830."
+        },
+        {
+          "id": "scottish-livingstonia-1875",
+          "title": "The Livingstonia pioneer party to Lake Nyasa (1875)",
+          "people": "E. D. Young, Robert Laws and the Free Church party",
+          "personIds": [],
+          "year": 1875,
+          "stops": [
+            {
+              "name": "London",
+              "lat": 51.5074,
+              "lng": -0.1278,
+              "year": 1875
+            },
+            {
+              "name": "Zambezi delta",
+              "lat": -18.85,
+              "lng": 36.27,
+              "year": 1875
+            },
+            {
+              "name": "Shire River at Chiromo",
+              "lat": -16.55,
+              "lng": 35.13,
+              "year": 1875
+            },
+            {
+              "name": "Murchison Cataracts (Matope)",
+              "lat": -15.35,
+              "lng": 34.95,
+              "year": 1875
+            },
+            {
+              "name": "Cape Maclear, Lake Nyasa",
+              "lat": -14.02,
+              "lng": 34.84,
+              "year": 1875
+            }
+          ],
+          "text": "Following Livingstone's route, the party ascended the Zambezi and Shire, carried the steamer Ilala in sections past the Murchison Cataracts, and launched it on Lake Nyasa, founding Livingstonia at Cape Maclear in October 1875."
+        },
+        {
+          "id": "scottish-slessor-calabar",
+          "title": "Mary Slessor's moves inland (1876–1915)",
+          "people": "Mary Slessor",
+          "personIds": [],
+          "year": 1876,
+          "endYear": 1915,
+          "stops": [
+            {
+              "name": "Liverpool",
+              "lat": 53.4084,
+              "lng": -2.9916,
+              "year": 1876
+            },
+            {
+              "name": "Duke Town, Calabar",
+              "lat": 4.9757,
+              "lng": 8.3417,
+              "year": 1876
+            },
+            {
+              "name": "Ekenge, Okoyong",
+              "lat": 5.13,
+              "lng": 8.3,
+              "year": 1888
+            },
+            {
+              "name": "Itu",
+              "lat": 5.2,
+              "lng": 7.98,
+              "year": 1903
+            },
+            {
+              "name": "Use Ikot Oku",
+              "lat": 5.12,
+              "lng": 7.95,
+              "year": 1915
+            }
+          ],
+          "text": "After training at Calabar, Slessor moved inland to Okoyong in 1888, later to Itu and the Enyong creek, and died at Use Ikot Oku in January 1915."
+        }
+      ],
+      "influencedBy": [
+        "london-missionary-society",
+        "baptist-missionary-society",
+        "methodist-mission"
+      ],
+      "relations": [
+        {
+          "to": "korean-mission",
+          "kind": "gave-rise-to",
+          "text": "John Ross's Korean New Testament (1887) and the Korean colporteurs he trained in Manchuria prepared the ground for Protestant Christianity in northern Korea."
+        },
+        {
+          "to": "ecumenical-mission",
+          "kind": "gave-rise-to",
+          "text": "Scottish leaders such as J. H. Oldham organised the Edinburgh World Missionary Conference of 1910, held in the Assembly Hall of the United Free Church."
+        },
+        {
+          "to": "basel-mission",
+          "kind": "partnered",
+          "text": "Took over and then shared the Gold Coast field with the Basel Mission after 1918."
+        }
+      ],
+      "agreements": [
+        {
+          "with": "american-board-mission",
+          "text": "Shared the conviction that higher education and colleges were a primary instrument of mission."
+        },
+        {
+          "with": "church-missionary-society",
+          "text": "Cooperated in the 1929–31 Kenyan campaign against female circumcision and in the wider Protestant alliance in East Africa."
+        },
+        {
+          "with": "basel-mission",
+          "text": "Shared Reformed church order and schooling priorities, enabling cooperation on the Gold Coast."
+        }
+      ],
+      "disagreements": [
+        {
+          "with": "baptist-missionary-society",
+          "text": "Duff's English-medium elite education contrasted with Serampore's emphasis on vernacular translation, preaching and vernacular schools."
+        },
+        {
+          "with": "african-initiated-churches",
+          "text": "The Kikuyu circumcision crisis of 1929–31 led thousands to leave Scottish mission churches for independent Kikuyu churches and schools."
+        },
+        {
+          "with": "china-inland-mission",
+          "text": "The institutional, college-centred model of Scottish missions stood in contrast to the faith missions' emphasis on rapid itinerant evangelism and inland pioneering."
+        }
+      ],
+      "deviations": [
+        "Duff's 'downward filtration' theory expected mass conversion through the elite; in practice India's Christian growth came largely through Dalit mass movements that Scottish colleges barely touched.",
+        "Missions founded to free Africa from slavery and exploitation became partners in colonial rule, as at Blantyre in its early years.",
+        "Church divisions at home (the Disruption of 1843) were exported to the mission field."
+      ],
+      "sources": [
+        "m4-smith-life-duff",
+        "m4-mccracken-livingstonia",
+        "m4-ross-blantyre",
+        "m4-buchan-slessor",
+        "neill-missions",
+        "stanley-bible-flag",
+        "hastings-church-in-africa"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "china-inland-mission",
+      "name": "China Inland Mission (Hudson Taylor, 1865) and the faith-mission model",
+      "stream": "faith-missions",
+      "traditionIds": [
+        "evangelical",
+        "baptist",
+        "anglican",
+        "methodist",
+        "plymouth-brethren",
+        "presbyterian"
+      ],
+      "startYear": 1865,
+      "origin": {
+        "name": "Brighton, England (founding prayer, June 1865); London headquarters",
+        "lat": 50.8225,
+        "lng": -0.1372
+      },
+      "status": "transformed",
+      "statusNote": "Forced out of China by the Communist government between 1950 and 1953, the CIM moved its headquarters to Singapore, redeployed to East and Southeast Asia and became the Overseas Missionary Fellowship (1964), now OMF International. It remains active, and since the 1980s has again engaged with Chinese Christians, though not as a mission inside the People's Republic.",
+      "summary": "The pioneer 'faith mission', founded by James Hudson Taylor in 1865 to evangelise China's unreached inland provinces. Interdenominational, directed from China rather than from home, without guaranteed salaries or public appeals for money, and willing to send working-class men and single women inland in Chinese dress, it became the largest Protestant mission in China, suffered grievously in the Boxer rising of 1900, and was the model for dozens of later faith missions worldwide.",
+      "story": "Hudson Taylor (1832–1905), a Methodist-raised chemist's son from Barnsley, went to China in 1853–54 with the small Chinese Evangelisation Society, which proved unreliable in supporting him. Influenced by George Müller of Bristol and the Brethren ideal of 'living by faith', he resigned, adopted Chinese dress and the queue, married Maria Dyer in Ningbo (1858), and returned to England in 1860 in broken health. While revising the Ningbo romanised New Testament he became haunted by China's interior, where eleven provinces had no Protestant missionary. On Brighton beach on 25 June 1865 he prayed for 'twenty-four willing, skilful labourers', opened a bank account in the name of the China Inland Mission two days later, and in October published China's Spiritual Need and Claims, with its refrain that 'a million a month' were dying in China without Christ.\n\nThe CIM's principles defined the faith-mission model. Missionaries of any evangelical denomination were accepted if they held the mission's conservative doctrinal basis; no salaries were guaranteed and no debts incurred; there were no public collections or appeals — needs were made known to God in prayer; leadership was exercised in China by a director on the field, not by a committee at home; missionaries were to wear Chinese dress, live simply and press inland; and candidates without university or theological education, including artisans and single women, were welcome. In May 1866 Taylor sailed on the Lammermuir with a party of sixteen recruits, reaching Shanghai in September and settling in Hangzhou. The party's Chinese dress and working-class origins provoked scorn from other missionaries, and internal quarrels soon tested Taylor's authority.\n\nExpansion was steady and costly. In 1868 a riot at Yangzhou wounded the Taylors and their colleagues; British consular use of gunboats in response, which Taylor had not requested, brought censure in Parliament. Maria Taylor died in 1870. In 1875 Taylor appealed for eighteen men for the nine unreached provinces, and by the early 1880s CIM itinerants had travelled through nearly all of them; from the 1880s single women were stationed inland, an unprecedented step. The 'Cambridge Seven' (1885), including the cricketer C. T. Studd, brought the mission celebrity and helped inspire the student volunteer movements; appeals for 'the Seventy' (1881), 'the Hundred' (1887) and 1,000 new workers for China (1890) were met. Taylor's Keswick-style 'exchanged life' spirituality and his insistence on simplicity made the CIM a symbol of evangelical devotion. By 1900 it was the largest Protestant mission in China, with roughly 750–800 missionaries.\n\nThe Boxer rising of 1900 was the mission's darkest hour. The Boxers (Yihequan), a movement of young peasants in drought-stricken Shandong and Zhili, attacked foreigners and Chinese Christians as the source of China's humiliation; in June 1900 the Qing court declared war on the foreign powers. In Shanxi the governor Yuxian had 44 foreigners, including Protestant missionary families and Catholic bishops and nuns, executed at Taiyuan on 9 July. In all some 188 Protestant missionaries and children were killed, together with tens of thousands of Chinese Christians (about 30,000 Catholics and some 2,000 Protestants). The CIM lost 58 missionaries and 21 children, more than any other society. Taylor, then elderly and ill in Switzerland, and his successor Dixon Hoste refused to claim compensation for the mission's losses — an act contrasted sharply with the punitive indemnities sought by others. Taylor died in Changsha, Hunan, in 1905.\n\nUnder Hoste (1902–35) the CIM continued to grow, reaching about 1,300 missionaries in the mid-1930s after a 1929 appeal for 'the Two Hundred'. It developed work among minority peoples — James O. Fraser among the Lisu of Yunnan, with a script devised with the Karen evangelist Ba Thaw, and others among the Nosu, Miao and Tibetans — and its Chinese leaders and partners, such as the Shanxi scholar-evangelist Xi Shengmo ('Pastor Hsi'), built churches that survived without missionaries. It withdrew from the National Christian Council of China in 1926 over theological liberalism. Civil war brought danger: John and Betty Stam were beheaded by Communist soldiers in Anhui in 1934, and Rudolf Bosshardt was held by the Red Army on the Long March.\n\nAfter the Communist victory of 1949 the CIM at first resolved to stay. But the Korean War, the 'Three-Self' Christian Manifesto of 1950 and denunciation campaigns that branded missionaries as agents of imperialism made their presence a danger to Chinese Christians. In January 1951 the directors ordered a complete withdrawal — the 'reluctant exodus'. Over the next two years several hundred missionaries and their children left, the last few, including Arthur and Wilda Mathews, only in 1953. Meeting in Bournemouth in 1951 the leaders resolved to redeploy to the Chinese diaspora and to other unreached peoples of East Asia, with a new headquarters in Singapore. As the Overseas Missionary Fellowship (from 1964) it works in Thailand, Japan, the Philippines, Indonesia, Taiwan, Malaysia and elsewhere, and accepts Asian missionaries as full members. Meanwhile the Chinese churches the CIM helped to plant, deprived of foreign aid, grew under persecution into one of the largest Protestant populations in the world.",
+      "beliefs": [
+        "Conservative evangelical doctrine: the divine inspiration and authority of Scripture, the Trinity, the fall, substitutionary atonement, justification by faith, bodily resurrection and the eternal punishment of the lost.",
+        "Urgency driven by the conviction that millions were perishing without having heard the gospel ('a million a month in China are dying without God').",
+        "The 'faith principle': God's work done in God's way will not lack God's supply — no guaranteed salaries, no debt and no public solicitation of funds, following George Müller.",
+        "Premillennial expectation of Christ's return, which gave priority to proclaiming the gospel widely rather than building Christian civilisation.",
+        "Keswick-style holiness spirituality — rest in Christ, the 'exchanged life' and total consecration — as the inner life of mission.",
+        "Interdenominational evangelical unity: Anglicans, Baptists, Presbyterians, Methodists and Brethren served together, with churches organised according to the missionaries' convictions in each district."
+      ],
+      "strategies": [
+        "Direction from the field: authority lay with the General Director and China Council in Shanghai rather than with a home committee.",
+        "Pioneering itineration to all the inland provinces, followed by the establishment of permanent stations and outstations.",
+        "Identification with the Chinese through Chinese dress, diet and housing, and residence in interior towns rather than treaty ports.",
+        "Recruitment of lay men and women without formal theological training, including single women sent inland as evangelists from the 1880s.",
+        "Prayer-based appeals for specific numbers of workers (the Eighteen, the Seventy, the Hundred, the Two Hundred) publicised through the magazine China's Millions.",
+        "Opium refuges and simple medical work, combined with outspoken opposition to the British opium trade.",
+        "Work among non-Han peoples (Lisu, Nosu, Miao, Tibetans) using indigenous scripts and local evangelists."
+      ],
+      "groupsReached": [
+        "Han Chinese in the inland provinces — Zhejiang, Jiangxi, Anhui, Henan, Shanxi, Shaanxi, Gansu, Sichuan, Guizhou, Yunnan and Hunan.",
+        "The Lisu, Lahu and other peoples of western Yunnan, where large people movements took place.",
+        "The Nosu (Yi) and A-Hmao (Miao) of Guizhou and Yunnan, and Tibetans on the western borders.",
+        "Hui Muslims of the north-west, among whom the CIM attempted specialised work with little numerical result.",
+        "Opium addicts, rural women and the poor through refuges, girls' schools and itinerant evangelism.",
+        "After 1951, Chinese diaspora communities and tribal peoples of Thailand, Malaysia, Indonesia and the Philippines, and the Japanese."
+      ],
+      "challenges": [
+        "Riots and anti-foreign violence, from Yangzhou (1868) to the Boxer rising, in which the CIM lost 58 missionaries and 21 children.",
+        "Financial uncertainty inherent in the faith principle, with periods of severe shortage.",
+        "Internal conflict over Taylor's authority, especially in the Lammermuir party and in tensions with the London council in the 1880s–90s.",
+        "Disease, isolation and high death rates among missionaries and their children inland.",
+        "Civil war, banditry and Communist hostility in the 1920s–40s, including the murder of John and Betty Stam (1934).",
+        "The 1950–53 accusation campaigns that turned association with foreign missionaries into a liability for Chinese Christians, forcing total withdrawal."
+      ],
+      "harms": [
+        "Although Taylor disliked gunboat diplomacy, the mission's inland presence depended on the unequal treaties and extraterritorial rights imposed on China by Western powers.",
+        "Missionary rhetoric depicted Chinese religion and culture as darkness and idolatry, feeding Chinese perceptions of missions as cultural aggression.",
+        "Leadership remained in foreign hands for decades; devolution to Chinese leaders was slow and partial compared with the mission's own ideals.",
+        "Christian converts' disputes with neighbours, sometimes backed by missionary intervention, contributed to local resentments that the Boxers exploited.",
+        "Separatist theology encouraged withdrawal from social and political questions and suspicion of Chinese Christians who engaged with nationalism.",
+        "The faith principle could mask hardship, leaving missionaries and their families in poverty and ill health."
+      ],
+      "developments": [
+        "Created the faith-mission model — interdenominational, field-directed, lay and women-inclusive — copied by dozens of missions worldwide.",
+        "Opened Protestant work in almost every inland province of China and among many minority peoples.",
+        "Gave single women unprecedented responsibility as evangelists and station leaders.",
+        "Fraser's Lisu script and Bible and other minority-language work remain foundations of churches in Yunnan and Myanmar.",
+        "Refusal of Boxer compensation became a widely cited example of non-retaliation in mission.",
+        "Chinese churches it helped plant survived missionary withdrawal and grew under persecution; OMF continues as an international, increasingly Asian mission."
+      ],
+      "outcome": "The CIM grew from Taylor's 1865 prayer into the largest Protestant mission in China, then withdrew completely in 1951–53. It reinvented itself as the Overseas Missionary Fellowship (OMF International), while its greatest legacy — Chinese churches able to survive without foreigners and the faith-mission model itself — outlasted its presence in China.",
+      "keyPeople": [
+        {
+          "name": "James Hudson Taylor",
+          "years": "1832–1905",
+          "role": "Founder and General Director",
+          "focus": "Inland China, the faith principle, identification through Chinese dress",
+          "personId": "hudson-taylor",
+          "origin": "Barnsley, Yorkshire",
+          "outcome": "Founded the CIM in 1865; died in Changsha in 1905."
+        },
+        {
+          "name": "Maria Dyer Taylor",
+          "years": "1837–1870",
+          "role": "Missionary and co-founder",
+          "focus": "Women's work and the early mission's organisation",
+          "origin": "Penang (born to missionary parents)",
+          "outcome": "Died at Zhenjiang in 1870."
+        },
+        {
+          "name": "Dixon Edward Hoste",
+          "years": "1861–1946",
+          "role": "General Director 1902–1935; one of the Cambridge Seven",
+          "focus": "Leadership after the Boxer rising and the expansion of the 1920s–30s",
+          "origin": "Brighton, England",
+          "outcome": "Led the mission through its period of greatest size."
+        },
+        {
+          "name": "C. T. Studd",
+          "years": "1860–1931",
+          "role": "England cricketer and one of the Cambridge Seven",
+          "focus": "Evangelism in Shanxi",
+          "origin": "Spratton, Northamptonshire",
+          "outcome": "Later founded the Heart of Africa Mission (WEC), 1913."
+        },
+        {
+          "name": "Xi Shengmo (Pastor Hsi)",
+          "years": "1836–1896",
+          "role": "Chinese scholar-evangelist in Shanxi",
+          "focus": "Opium refuges and Chinese-led churches",
+          "origin": "Shanxi, China",
+          "outcome": "An early model of Chinese leadership within the CIM orbit."
+        },
+        {
+          "name": "James O. Fraser",
+          "years": "1886–1938",
+          "role": "Missionary to the Lisu",
+          "focus": "Lisu evangelism, script and translation",
+          "origin": "London",
+          "outcome": "Helped devise the Fraser script; the Lisu NT appeared in 1938."
+        }
+      ],
+      "countries": [
+        {
+          "country": "China (Zhejiang and the coast)",
+          "year": 1866,
+          "text": "The Lammermuir party settled in Hangzhou; Zhejiang became the CIM's first base.",
+          "lat": 30.2741,
+          "lng": 120.1551
+        },
+        {
+          "country": "China (Shanxi and the north)",
+          "year": 1876,
+          "text": "Famine relief and evangelism in Shanxi; the province saw both Pastor Hsi's churches and the worst Boxer massacres.",
+          "lat": 37.8706,
+          "lng": 112.5489
+        },
+        {
+          "country": "China (Sichuan, Yunnan, Guizhou)",
+          "year": 1877,
+          "text": "Pioneering in the south-west, including work among the Lisu, Nosu and A-Hmao.",
+          "lat": 25.0389,
+          "lng": 102.7183
+        },
+        {
+          "country": "China (Gansu and the north-west)",
+          "year": 1876,
+          "text": "Work in Lanzhou and among Hui Muslims and Tibetans on the frontier.",
+          "lat": 36.0611,
+          "lng": 103.8343
+        },
+        {
+          "country": "Taiwan",
+          "year": 1952,
+          "text": "After withdrawal from the mainland, OMF worked among Chinese and tribal peoples.",
+          "lat": 25.033,
+          "lng": 121.5654
+        },
+        {
+          "country": "Thailand",
+          "year": 1952,
+          "text": "OMF began work among the Thai and northern hill tribes, especially in central and northern Thailand.",
+          "lat": 18.7883,
+          "lng": 98.9853
+        },
+        {
+          "country": "Japan",
+          "year": 1951,
+          "text": "OMF began work in Hokkaido and northern Japan.",
+          "lat": 43.0618,
+          "lng": 141.3545
+        },
+        {
+          "country": "Philippines",
+          "year": 1952,
+          "text": "Work among Mindoro tribes (Mangyan) and others.",
+          "lat": 13.0,
+          "lng": 121.08
+        },
+        {
+          "country": "Singapore",
+          "year": 1951,
+          "text": "International headquarters of the CIM-OMF after the withdrawal from China.",
+          "lat": 1.3521,
+          "lng": 103.8198
+        }
+      ],
+      "journeys": [
+        {
+          "id": "china-taylor-first-voyage-1853",
+          "title": "Hudson Taylor's first voyage to China (1853–54)",
+          "people": "Hudson Taylor",
+          "personIds": [
+            "hudson-taylor"
+          ],
+          "year": 1853,
+          "endYear": 1854,
+          "stops": [
+            {
+              "name": "Liverpool",
+              "lat": 53.4084,
+              "lng": -2.9916,
+              "year": 1853
+            },
+            {
+              "name": "Shanghai",
+              "lat": 31.2304,
+              "lng": 121.4737,
+              "year": 1854
+            }
+          ],
+          "text": "Taylor sailed from Liverpool on the Dumfries in September 1853 for the Chinese Evangelisation Society and landed at Shanghai, then in the midst of the Small Swords occupation, on 1 March 1854."
+        },
+        {
+          "id": "china-lammermuir-1866",
+          "title": "The Lammermuir party (1866)",
+          "people": "Hudson and Maria Taylor, their children and sixteen recruits",
+          "personIds": [
+            "hudson-taylor"
+          ],
+          "year": 1866,
+          "stops": [
+            {
+              "name": "London",
+              "lat": 51.5074,
+              "lng": -0.1278,
+              "year": 1866
+            },
+            {
+              "name": "Anjer, Sunda Strait",
+              "lat": -6.06,
+              "lng": 105.88,
+              "year": 1866
+            },
+            {
+              "name": "Shanghai",
+              "lat": 31.2304,
+              "lng": 121.4737,
+              "year": 1866
+            },
+            {
+              "name": "Hangzhou",
+              "lat": 30.2741,
+              "lng": 120.1551,
+              "year": 1866
+            }
+          ],
+          "text": "The Lammermuir left London on 26 May 1866, survived two typhoons in the China Sea and reached Shanghai on 30 September; the party moved up the canals to Hangzhou in November, adopting Chinese dress."
+        },
+        {
+          "id": "china-cambridge-seven-1885",
+          "title": "The Cambridge Seven to China (1885)",
+          "people": "C. T. Studd, Stanley Smith, Montagu Beauchamp, Dixon Hoste, William Cassels and Arthur and Cecil Polhill-Turner",
+          "personIds": [],
+          "year": 1885,
+          "stops": [
+            {
+              "name": "London",
+              "lat": 51.5074,
+              "lng": -0.1278,
+              "year": 1885
+            },
+            {
+              "name": "Shanghai",
+              "lat": 31.2304,
+              "lng": 121.4737,
+              "year": 1885
+            },
+            {
+              "name": "Pingyang (Linfen), Shanxi",
+              "lat": 36.088,
+              "lng": 111.519,
+              "year": 1885
+            },
+            {
+              "name": "Hanzhong, Shaanxi",
+              "lat": 33.0676,
+              "lng": 107.0234,
+              "year": 1885
+            }
+          ],
+          "text": "After farewell meetings that stirred British universities, the seven sailed in February 1885 and dispersed inland, some to Shanxi and others to Shaanxi and Sichuan."
+        },
+        {
+          "id": "china-reluctant-exodus-1951",
+          "title": "The 'reluctant exodus' and redeployment (1951–53)",
+          "people": "CIM missionaries and families",
+          "personIds": [],
+          "year": 1951,
+          "endYear": 1953,
+          "stops": [
+            {
+              "name": "Chongqing",
+              "lat": 29.563,
+              "lng": 106.5516,
+              "year": 1951
+            },
+            {
+              "name": "Shanghai",
+              "lat": 31.2304,
+              "lng": 121.4737,
+              "year": 1951
+            },
+            {
+              "name": "Hong Kong (Lo Wu border)",
+              "lat": 22.5287,
+              "lng": 114.1135,
+              "year": 1951
+            },
+            {
+              "name": "Singapore",
+              "lat": 1.3521,
+              "lng": 103.8198,
+              "year": 1951
+            },
+            {
+              "name": "Bangkok",
+              "lat": 13.7563,
+              "lng": 100.5018,
+              "year": 1952
+            }
+          ],
+          "text": "Missionaries in the interior obtained exit permits, often after months of delay, travelled to the coast and crossed the border at Lo Wu into Hong Kong; the mission's leaders regrouped in Singapore and redeployed workers to Thailand, Malaya, Japan and beyond."
+        }
+      ],
+      "influencedBy": [
+        "london-missionary-society",
+        "methodist-mission",
+        "moravian-mission"
+      ],
+      "relations": [
+        {
+          "to": "africa-faith-missions",
+          "kind": "gave-rise-to",
+          "text": "The CIM's principles were explicitly copied by the Sudan Interior Mission, Africa Inland Mission, Sudan United Mission, WEC and others, often founded by people with CIM links."
+        },
+        {
+          "to": "student-volunteer-movement",
+          "kind": "partnered",
+          "text": "The Cambridge Seven (1885) inspired the student mission movement; the CIM drew many recruits from the British and North American student volunteers."
+        },
+        {
+          "to": "chinese-indigenous-church",
+          "kind": "succeeded-by",
+          "text": "After the CIM's withdrawal in 1951–53, the churches it helped to plant continued under Chinese leadership, some in the Three-Self churches and many in independent house churches."
+        },
+        {
+          "to": "lausanne-movement",
+          "kind": "gave-rise-to",
+          "text": "Its focus on unreached inland regions anticipated the post-war evangelical emphasis on 'unreached peoples'."
+        }
+      ],
+      "agreements": [
+        {
+          "with": "africa-faith-missions",
+          "text": "Shared the faith principle, interdenominational evangelical basis, lay recruitment and focus on unreached interiors."
+        },
+        {
+          "with": "jesuit-asia-mission",
+          "text": "Taylor's adoption of Chinese dress and residence echoed, in a Protestant key, the Jesuit practice of cultural identification pioneered by Ricci — though without accommodation of Chinese rites."
+        },
+        {
+          "with": "bible-translation-mission",
+          "text": "Shared a priority on vernacular scriptures, including minority-language Bibles in Lisu and Miao."
+        }
+      ],
+      "disagreements": [
+        {
+          "with": "church-missionary-society",
+          "text": "Represented the faith-mission alternative to denominational boards: no guaranteed salaries, no public appeals, direction from the field and acceptance of non-ordained and less-educated missionaries."
+        },
+        {
+          "with": "ecumenical-mission",
+          "text": "Withdrew from the National Christian Council of China in 1926 and kept aloof from ecumenical bodies, rejecting the theological liberalism of the Laymen's Inquiry (1932) and later the World Council of Churches."
+        },
+        {
+          "with": "american-board-mission",
+          "text": "Gave priority to widespread evangelism over the large institutional programmes (universities, hospitals) favoured by the denominational boards."
+        }
+      ],
+      "deviations": [
+        "A mission dedicated to identification with the Chinese nonetheless kept leadership in Western hands until after it left China.",
+        "Founded to evangelise and then move on, the CIM in practice built long-term stations, schools (such as the Chefoo School for missionaries' children) and institutions.",
+        "The no-solicitation principle coexisted with highly effective publicity through China's Millions and well-publicised appeals for workers."
+      ],
+      "sources": [
+        "m4-austin-chinas-millions",
+        "m4-broomhall-hudson-taylor",
+        "m4-taylor-spiritual-need",
+        "m4-cohen-three-keys",
+        "m4-esherick-boxer-origins",
+        "m4-thompson-reluctant-exodus",
+        "bays-new-history-china",
+        "neill-missions"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "africa-faith-missions",
+      "name": "Faith missions to Africa (Sudan Interior Mission, Africa Inland Mission, Sudan United Mission and others)",
+      "stream": "faith-missions",
+      "traditionIds": [
+        "evangelical",
+        "baptist",
+        "presbyterian",
+        "plymouth-brethren",
+        "anglican"
+      ],
+      "startYear": 1878,
+      "origin": {
+        "name": "London and Toronto (main sending centres); Lagos and Mombasa (first landings)",
+        "lat": 6.4541,
+        "lng": 3.3947
+      },
+      "status": "active",
+      "statusNote": "SIM (now 'Serving In Mission', after mergers in 1982, 1989 and 1998) and Africa Inland Mission remain large international missions, while the churches they founded — ECWA in Nigeria, the Kale Heywet Church in Ethiopia, the Africa Inland Church in Kenya and Tanzania, the Evangelical Church of Niger and others — are autonomous and themselves send missionaries.",
+      "summary": "On the model of Hudson Taylor's China Inland Mission, a cluster of interdenominational evangelical 'faith missions' set out between the 1870s and 1910s to evangelise Africa's interior, especially the 'Sudan' belt south of the Sahara and the East African highlands. Premillennial, conservative and largely lay, they suffered terrible early mortality but planted some of the largest evangelical churches in Africa — notably in Nigeria's Middle Belt, southern Ethiopia and Kenya — while also clashing with African culture and becoming entangled with colonial and settler society.",
+      "story": "Faith missions came to Africa through the network around Henry Grattan Guinness, whose East London Training Institute (1873) trained hundreds of non-ordained missionaries. Guinness founded the Livingstone Inland Mission to the Congo (1878, handed to American Baptists in 1884), and his circle produced the North Africa Mission (1881) and the Regions Beyond Missionary Union (1899). The South Africa General Mission (1889, later Africa Evangelical Fellowship) was founded by Spencer Walton with Andrew Murray as president. All took the CIM's principles — interdenominational evangelical membership, no guaranteed salaries, field direction and a stress on the unreached interior — and added a sense of urgency fed by premillennial expectation and by the advance of Islam southward across the savannah.\n\nThe Sudan Interior Mission began with three young men in Toronto: the Scots-Canadian Walter Gowans, the Canadian Thomas Kent and the English-born Rowland Bingham. Having been refused by established boards, they sailed for Lagos in 1893 intending to reach the vast 'Sudan' between the Atlantic and the Nile, home to tens of millions without any missionary. Gowans died of fever at Girku near Zaria in November 1894 and Kent at Bida a month later; Bingham returned home ill. After further failures, a party in 1901–02 established the first lasting station at Patigi on the Niger. SIM spread through the Middle Belt and north of Nigeria, into Niger (1924), and in 1927 into southern Ethiopia under Thomas Lambie. In Nigeria British indirect rule kept missions out of the Muslim emirates for decades, so SIM churches grew mainly among non-Muslim peoples of the plateau and Middle Belt, coalescing as the Evangelical Church of West Africa (ECWA, 1954), whose Evangelical Missionary Society (1948) became one of Africa's largest indigenous mission agencies. SIM's radio station ELWA in Monrovia (1954) broadcast across West Africa.\n\nEthiopia produced the most remarkable story. When Italy occupied the country in 1936–37 SIM missionaries were expelled from Wolaitta, leaving a church of about 48 baptised believers; when they returned after the liberation of 1941 they found thousands of believers — commonly cited as around 10,000 — and scores of congregations led by Wolaitta and Kambatta evangelists who had endured imprisonment and flogging. This self-propagating movement grew into the Kale Heywet ('Word of Life') Church, now one of Ethiopia's largest Protestant churches with several million members.\n\nThe Africa Inland Mission was founded in 1895 by Peter Cameron Scott, a Scottish-born American who had served with the International Missionary Alliance on the Congo coast. His party landed at Mombasa and opened stations among the Kamba at Nzaui and elsewhere; Scott died at the end of 1896. Under Charles Hurlburt (director 1897–1926) AIM moved to Kijabe on the Rift Valley escarpment (1901–03), founded Rift Valley Academy (1906; Theodore Roosevelt laid a cornerstone in 1909) and Kijabe hospital, and spread into Tanganyika, Uganda, the Belgian Congo (1912), Sudan and later Chad and the Central African Republic. Its Kenyan church became the Africa Inland Church, autonomous from 1943 and fully independent of the mission in 1971; future Kenyan president Daniel arap Moi was educated in AIM schools and remained a member.\n\nOther faith missions followed: the Sudan United Mission (1904), founded by Karl Kumm and Lucy Guinness, worked across the central Sudan belt from northern Nigeria to Chad; C. T. Studd's Heart of Africa Mission (1913, later WEC International) went to north-eastern Congo; Brethren missionaries such as Frederick Stanley Arnot (1881) worked in Katanga and Angola. Together they shared conservative doctrine, opposition to theological liberalism, a reluctance at first to invest in higher education, and a strong emphasis on vernacular Bibles, itinerant evangelism, village churches and, increasingly, hospitals and primary schools.\n\nTheir record is mixed. In Kenya AIM joined the Church of Scotland and CMS in the 1929 campaign to make church members renounce female circumcision, which drove many Kikuyu and Kamba into independent churches and schools; AIM's closeness to white settlers and its paternalism slowed African leadership. Missionaries were often hostile to dancing, drinking, polygamy and traditional rites, and slow to hand over property and power. Yet the churches they planted became self-governing, evangelistic and, in many cases, among the largest Protestant bodies on the continent, and after independence they became senders of missionaries themselves.",
+      "beliefs": [
+        "Conservative evangelical doctrine: the inerrancy of Scripture, substitutionary atonement, the necessity of personal conversion and the eternal lostness of those without Christ.",
+        "Premillennial urgency: the gospel must be preached as a witness to all nations, especially 'unoccupied fields', before Christ's return.",
+        "The faith principle inherited from the CIM: dependence on God for finance, without guaranteed salaries or public appeals.",
+        "Interdenominational evangelical unity on core doctrines, with church order left largely to field practice (often Baptist or Presbyterian-type congregations).",
+        "A sense of contest with Islam for the 'Sudan' belt and with traditional religion, understood in terms of spiritual warfare.",
+        "A strict separation between church and 'worldly' customs, including alcohol, polygamy, dancing and initiation rites."
+      ],
+      "strategies": [
+        "Pioneering chains of stations into the interior — SIM across the Sudan belt, AIM in a line from Mombasa toward Lake Chad in Scott's vision.",
+        "Training African evangelists and pastors in Bible schools rather than (at first) in universities.",
+        "Vernacular translation, literacy and Bible distribution in Hausa, Nupe, Yoruba, Wolaitta, Kamba, Kalenjin and many other languages.",
+        "Medical work: SIM hospitals such as Egbe and Jos Evangel Hospital in Nigeria and AIM's Kijabe hospital in Kenya.",
+        "Radio and literature: SIM's ELWA (1954) and the African Challenge magazine.",
+        "Schools for missionaries' children (Rift Valley Academy, Kent Academy) to sustain long-term family service.",
+        "Encouraging African churches to send their own missionaries, as in ECWA's Evangelical Missionary Society (1948)."
+      ],
+      "groupsReached": [
+        "Peoples of Nigeria's Middle Belt and plateau — Tiv, Berom, Gbagyi, Yoruba of Kwara, Nupe and many others — who formed the core of ECWA.",
+        "The Wolaitta, Kambatta, Hadiya, Gedeo and Sidama of southern Ethiopia.",
+        "Kamba, Kalenjin, Maasai and Kikuyu of Kenya; Sukuma and other peoples of Tanzania.",
+        "Peoples of north-eastern Congo, southern Sudan, Chad and the Central African Republic.",
+        "Hausa and Fulani Muslims and Tuareg in Niger, among whom conversions were few."
+      ],
+      "challenges": [
+        "Extreme early mortality — two of SIM's three founders died within a year, and Peter Cameron Scott within fourteen months.",
+        "Colonial restrictions, notably in northern Nigeria, where British indirect rule barred missions from Muslim emirates for decades.",
+        "The Italian occupation of Ethiopia (1936–41) and later the Marxist Derg regime (1974–91), which imprisoned church leaders and seized property.",
+        "Resistance from Muslim rulers and populations across the Sahel.",
+        "Recurrent tension between missionary control and African leaders seeking autonomy and education."
+      ],
+      "harms": [
+        "The 1929 female circumcision campaign in Kenya, joined by AIM, was experienced as an assault on community identity and fuelled division and resentment.",
+        "AIM's close ties with settler society and colonial officials in Kenya associated the mission with racial hierarchy and land alienation.",
+        "Hostility to African music, dance and rites, and to polygamists seeking baptism, caused social disruption and drove many to independent churches.",
+        "Reluctance to provide secondary and higher education left African Christians disadvantaged relative to those in denominational missions.",
+        "Mission-reinforced religious boundaries in Nigeria's Middle Belt became part of the background to later Christian–Muslim tensions.",
+        "Slow transfer of property and leadership, often only completed in the 1970s."
+      ],
+      "developments": [
+        "Some of Africa's largest evangelical churches: ECWA in Nigeria, the Kale Heywet Church in Ethiopia and the Africa Inland Church in Kenya and Tanzania.",
+        "The Wolaitta revival of 1937–41, a celebrated case of a church growing without missionaries under persecution.",
+        "Major hospitals, schools and Bible colleges across West and East Africa.",
+        "Vernacular literature and Bible translations in dozens of African languages.",
+        "African mission agencies, such as ECWA's Evangelical Missionary Society, among the largest indigenous sending bodies in Africa.",
+        "Christian radio broadcasting from ELWA in Liberia across the continent."
+      ],
+      "outcome": "From disastrous beginnings the African faith missions grew into large international agencies and, more importantly, planted self-governing evangelical churches numbering many millions, which now send missionaries of their own. Their history includes both remarkable indigenous growth and serious cultural and colonial entanglements.",
+      "keyPeople": [
+        {
+          "name": "Rowland Bingham",
+          "years": "1872–1942",
+          "role": "Co-founder and long-time director of the Sudan Interior Mission",
+          "focus": "Evangelising the Sudan belt",
+          "origin": "East Grinstead, England; worked from Toronto",
+          "outcome": "The only survivor of SIM's founding trio; led the mission until 1942."
+        },
+        {
+          "name": "Walter Gowans",
+          "years": "1868–1894",
+          "role": "Co-founder of SIM",
+          "focus": "Pioneering into northern Nigeria",
+          "origin": "Scotland; raised in Toronto",
+          "outcome": "Died at Girku near Zaria in 1894."
+        },
+        {
+          "name": "Peter Cameron Scott",
+          "years": "1867–1896",
+          "role": "Founder of the Africa Inland Mission",
+          "focus": "A chain of stations from the Kenyan coast toward the interior",
+          "origin": "Glasgow; raised in Philadelphia",
+          "outcome": "Died at Nzaui in December 1896."
+        },
+        {
+          "name": "Charles Hurlburt",
+          "years": "1860–1936",
+          "role": "Director of AIM, 1897–1926",
+          "focus": "Consolidation at Kijabe, Rift Valley Academy and expansion to Congo",
+          "origin": "Pennsylvania",
+          "outcome": "Built AIM into a major mission."
+        },
+        {
+          "name": "Henry Grattan Guinness",
+          "years": "1835–1910",
+          "role": "Irish evangelist and trainer of missionaries",
+          "focus": "East London Training Institute and multiple faith missions",
+          "origin": "Kingstown (Dún Laoghaire), Ireland",
+          "outcome": "His family founded or inspired several African missions."
+        },
+        {
+          "name": "Karl Kumm",
+          "years": "1874–1930",
+          "role": "Founder of the Sudan United Mission (1904)",
+          "focus": "Mission across the central Sudan belt",
+          "origin": "Germany",
+          "outcome": "Crossed Africa from the Niger to the Nile in 1909–10."
+        }
+      ],
+      "countries": [
+        {
+          "country": "Nigeria",
+          "year": 1893,
+          "text": "SIM's founders landed at Lagos; the first lasting station opened at Patigi (1902), leading to ECWA and hospitals at Egbe and Jos.",
+          "lat": 9.0765,
+          "lng": 7.3986
+        },
+        {
+          "country": "Kenya",
+          "year": 1895,
+          "text": "AIM's first stations among the Kamba; Kijabe headquarters, Rift Valley Academy and the Africa Inland Church.",
+          "lat": -0.9434,
+          "lng": 36.5905
+        },
+        {
+          "country": "Democratic Republic of the Congo",
+          "year": 1878,
+          "text": "The Livingstone Inland Mission (1878), AIM (1912) and the Heart of Africa Mission (1913) worked in western and north-eastern Congo.",
+          "lat": 2.15,
+          "lng": 30.0
+        },
+        {
+          "country": "Niger",
+          "year": 1924,
+          "text": "SIM opened work among Hausa, Fulani and others; the Evangelical Church of Niger grew slowly in a Muslim society.",
+          "lat": 13.5116,
+          "lng": 2.1254
+        },
+        {
+          "country": "Ethiopia",
+          "year": 1927,
+          "text": "SIM in Wolaitta, Kambatta and Sidama; the Kale Heywet Church grew dramatically during and after the Italian occupation.",
+          "lat": 6.8548,
+          "lng": 37.7613
+        },
+        {
+          "country": "Tanzania",
+          "year": 1909,
+          "text": "AIM among the Sukuma and other peoples south of Lake Victoria; the Africa Inland Church Tanzania.",
+          "lat": -2.5164,
+          "lng": 32.9175
+        },
+        {
+          "country": "Sudan / South Sudan",
+          "year": 1937,
+          "text": "SIM and AIM worked in the south, and the Sudan United Mission among the Nuba and others.",
+          "lat": 4.8594,
+          "lng": 31.5713
+        },
+        {
+          "country": "Liberia",
+          "year": 1952,
+          "text": "SIM's ELWA radio (1954) and hospital outside Monrovia.",
+          "lat": 6.2338,
+          "lng": -10.7969
+        },
+        {
+          "country": "Chad",
+          "year": 1925,
+          "text": "After Kumm's exploratory crossing of 1909–10, the Sudan United Mission and other faith missions worked in southern Chad, leading to the Evangelical Church of Chad.",
+          "lat": 9.1,
+          "lng": 18.4
+        }
+      ],
+      "journeys": [
+        {
+          "id": "africa-sim-founders-1893",
+          "title": "SIM founders to the Sudan (1893–94)",
+          "people": "Walter Gowans, Thomas Kent and Rowland Bingham",
+          "personIds": [],
+          "year": 1893,
+          "endYear": 1894,
+          "stops": [
+            {
+              "name": "Toronto",
+              "lat": 43.6532,
+              "lng": -79.3832,
+              "year": 1893
+            },
+            {
+              "name": "Liverpool",
+              "lat": 53.4084,
+              "lng": -2.9916,
+              "year": 1893
+            },
+            {
+              "name": "Lagos",
+              "lat": 6.4541,
+              "lng": 3.3947,
+              "year": 1893
+            },
+            {
+              "name": "Bida",
+              "lat": 9.0833,
+              "lng": 6.0167,
+              "year": 1894
+            },
+            {
+              "name": "Girku, near Zaria",
+              "lat": 10.6,
+              "lng": 7.7,
+              "year": 1894
+            }
+          ],
+          "text": "The three sailed via England to Lagos in December 1893. Gowans and Kent set off for the interior while Bingham stayed at the coast; Gowans died at Girku and Kent at Bida in late 1894."
+        },
+        {
+          "id": "africa-aim-scott-1895",
+          "title": "Peter Cameron Scott and the AIM party (1895–96)",
+          "people": "Peter Cameron Scott and the first AIM party",
+          "personIds": [],
+          "year": 1895,
+          "endYear": 1896,
+          "stops": [
+            {
+              "name": "Philadelphia",
+              "lat": 39.9526,
+              "lng": -75.1652,
+              "year": 1895
+            },
+            {
+              "name": "Mombasa",
+              "lat": -4.0435,
+              "lng": 39.6682,
+              "year": 1895
+            },
+            {
+              "name": "Nzaui",
+              "lat": -1.85,
+              "lng": 37.45,
+              "year": 1895
+            },
+            {
+              "name": "Kangundo",
+              "lat": -1.3,
+              "lng": 37.35,
+              "year": 1896
+            }
+          ],
+          "text": "Scott's party landed at Mombasa in October 1895 and walked inland, founding stations at Nzaui, Sakai, Kilungu and Kangundo before Scott's death in December 1896."
+        },
+        {
+          "id": "africa-sim-ethiopia-1927",
+          "title": "SIM into southern Ethiopia (1927–28)",
+          "people": "Thomas Lambie and the first SIM Ethiopia party",
+          "personIds": [],
+          "year": 1927,
+          "endYear": 1928,
+          "stops": [
+            {
+              "name": "Addis Ababa",
+              "lat": 9.03,
+              "lng": 38.74,
+              "year": 1927
+            },
+            {
+              "name": "Hosaena (Hadiya/Kambatta)",
+              "lat": 7.55,
+              "lng": 37.86,
+              "year": 1928
+            },
+            {
+              "name": "Soddo (Wolaitta)",
+              "lat": 6.8548,
+              "lng": 37.7613,
+              "year": 1928
+            }
+          ],
+          "text": "With permission from Ras Tafari (later Haile Selassie), the party travelled south from Addis Ababa to open stations among the Kambatta, Hadiya and Wolaitta."
+        }
+      ],
+      "influencedBy": [
+        "china-inland-mission",
+        "student-volunteer-movement",
+        "salvation-army-holiness-mission"
+      ],
+      "relations": [
+        {
+          "to": "majority-world-missions",
+          "kind": "gave-rise-to",
+          "text": "ECWA's Evangelical Missionary Society (1948) and Ethiopian Kale Heywet evangelists were early examples of African-led cross-cultural mission."
+        },
+        {
+          "to": "bible-translation-mission",
+          "kind": "partnered",
+          "text": "Worked with Bible societies and later Wycliffe/SIL on vernacular translation across West and East Africa."
+        },
+        {
+          "to": "lausanne-movement",
+          "kind": "partnered",
+          "text": "SIM and AIM were prominent in post-war evangelical mission networks such as the IFMA and the Lausanne movement."
+        }
+      ],
+      "agreements": [
+        {
+          "with": "china-inland-mission",
+          "text": "Adopted the CIM's faith principle, field direction, interdenominational evangelical basis and focus on unreached interiors."
+        },
+        {
+          "with": "scottish-missions",
+          "text": "Joined Scottish and CMS missions in Kenya in the 1929 stand against female circumcision."
+        },
+        {
+          "with": "lausanne-movement",
+          "text": "Shared the evangelical commitment to evangelising unreached peoples and to biblical authority."
+        }
+      ],
+      "disagreements": [
+        {
+          "with": "ecumenical-mission",
+          "text": "Rejected the theological liberalism they perceived in the International Missionary Council and later the WCC; most faith missions joined the separate Interdenominational Foreign Mission Association (1917) instead."
+        },
+        {
+          "with": "african-initiated-churches",
+          "text": "Opposed African independent and prophet churches over polygamy, healing practices and traditional rites; many independent churches in Kenya arose in reaction to mission policy in 1929–31."
+        },
+        {
+          "with": "church-missionary-society",
+          "text": "Faith missions criticised denominational boards for institutionalism and comity agreements that, they argued, left the interior unevangelised."
+        }
+      ],
+      "deviations": [
+        "Founded as lean pioneering movements, they became large institutional missions with hospitals, schools and radio stations.",
+        "The ideal of rapid evangelism and moving on gave way to decades of missionary control before transfer to African churches.",
+        "Initial resistance to higher education was reversed after the 1950s as African churches demanded it."
+      ],
+      "sources": [
+        "m4-fiedler-faith-missions",
+        "m4-anderson-grasshoppers",
+        "m4-cooper-evangelical-sahel",
+        "hastings-church-in-africa",
+        "isichei-africa",
+        "robert-christian-mission",
+        "dacb"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "student-volunteer-movement",
+      "name": "Student Volunteer Movement for Foreign Missions",
+      "stream": "modern-missions",
+      "traditionIds": [
+        "evangelical",
+        "presbyterian",
+        "methodist",
+        "congregationalist",
+        "baptist"
+      ],
+      "startYear": 1886,
+      "endYear": 1969,
+      "origin": {
+        "name": "Mount Hermon, Northfield, Massachusetts",
+        "lat": 42.6837,
+        "lng": -72.4848
+      },
+      "status": "ended",
+      "statusNote": "After peaking around 1920 the SVM declined amid theological liberalisation, post-war disillusion with missions, the Depression and the rise of conservative alternatives. It merged into the National Student Christian Federation in 1959, which became the University Christian Movement in 1966; the UCM dissolved itself in 1969. Its evangelical mission-mobilising role passed to InterVarsity's Urbana conventions and similar movements.",
+      "summary": "Born at D. L. Moody's student conference at Mount Hermon in 1886, the SVM recruited university students to pledge themselves to foreign missionary service under the watchword 'the evangelization of the world in this generation'. Led by John R. Mott, Robert Wilder and Robert Speer, it sent some 20,000 volunteers abroad by 1945, inspired parallel movements in Britain, Europe and Asia, and supplied leaders for Edinburgh 1910 and the ecumenical movement — before collapsing in the mid-20th century.",
+      "story": "In July 1886 some 250 college students gathered for a month at Mount Hermon, Massachusetts, at the invitation of the evangelist Dwight L. Moody. Robert Wilder of Princeton, son of a former ABCFM missionary in India, had already formed a Princeton Foreign Missionary Society whose members signed a pledge to go abroad. At Mount Hermon he and others, encouraged by A. T. Pierson's preaching and by a 'meeting of ten nations' at which sons of missionaries and foreign students spoke, persuaded one hundred students to sign — the 'Mount Hermon Hundred'. In 1886–87 Wilder and John Forman toured 162 colleges and enrolled more than 2,000 volunteers. The movement was formally organised in 1888 as the Student Volunteer Movement for Foreign Missions, with John R. Mott as chairman, and linked to the YMCA, YWCA and the Inter-Seminary Missionary Alliance.\n\nThe SVM's watchword, 'the evangelization of the world in this generation', adopted in 1888 from Pierson, expressed its evangelical urgency and its practical optimism. As Mott explained in his book of that title (1900), it did not mean the conversion of the world but giving every person an adequate opportunity to hear the gospel within the lifetime of the present generation, by mobilising the church's resources efficiently. Volunteers signed a declaration: 'It is my purpose, if God permit, to become a foreign missionary.' The movement worked through campus 'bands', travelling secretaries, mission study classes and quadrennial conventions, beginning at Cleveland in 1891 and reaching a climax at Des Moines in 1919–20, which drew nearly 7,000 delegates.\n\nThe SVM became international. The Cambridge Seven's departure for China in 1885 and J. E. K. Studd's visit to America helped inspire it; in Britain the Student Volunteer Missionary Union was formed in 1892 and, through its Liverpool convention of 1896, adopted the watchword. In 1895 at Vadstena Castle in Sweden Mott and others founded the World's Student Christian Federation, and Mott's world tour of 1895–97 established student Christian movements in India, Ceylon, Australasia, China and Japan. Volunteers staffed the denominational boards and faith missions alike, and by 1945 about 20,000 had sailed — a large share of all American Protestant missionaries in that period, and a growing proportion of them women.\n\nThe SVM's leaders shaped the 20th-century missionary movement. Mott chaired the Edinburgh World Missionary Conference of 1910 and its Continuation Committee, then the International Missionary Council (1921), and received the Nobel Peace Prize in 1946; Robert Speer led the Presbyterian board for decades; J. H. Oldham, a British volunteer, organised Edinburgh 1910. The movement thus became a principal bridge between the evangelical revivalism of Moody and the ecumenical movement.\n\nIts decline was swift. The First World War shattered confidence in 'Christian civilisation'. At Des Moines in 1920 students challenged the leadership about racism, imperialism and war, and by the Indianapolis convention of 1923–24 speakers such as Sherwood Eddy and Kirby Page turned the focus to social questions; the watchword was quietly abandoned. The fundamentalist–modernist controversy divided its constituency; the Laymen's Foreign Missions Inquiry (Re-Thinking Missions, 1932) questioned the very aim of conversion; and the Depression cut board budgets, so that volunteers who were enrolled could not be sent. Enrolments and sailings fell steeply after the early 1920s. Conservative students turned to new bodies — the Student Foreign Missions Fellowship (1936) and Inter-Varsity Christian Fellowship, whose missionary conventions began in Toronto in 1946 and moved to Urbana, Illinois, in 1948. In Britain the evangelical Cambridge Inter-Collegiate Christian Union had already disaffiliated from the Student Christian Movement in 1910, and the Inter-Varsity Fellowship (1928) carried forward its evangelical mission emphasis.\n\nIn 1959 the SVM merged with other student Christian bodies into the National Student Christian Federation, which became the University Christian Movement in 1966; amid the student radicalism of the late 1960s the UCM voted itself out of existence in 1969. The SVM's watchword and methods — student conventions, pledge cards and mobilisation — lived on chiefly among evangelicals, at Urbana and in later movements of short-term mission and unreached-peoples mobilisation.",
+      "beliefs": [
+        "Evangelical conviction that all people need to hear the gospel of Christ and that Christians bear responsibility for making it known everywhere.",
+        "The watchword 'the evangelization of the world in this generation', understood as giving every person an adequate opportunity to hear the gospel within one lifetime.",
+        "A practical, activist and optimistic faith that well-organised, consecrated effort by Christian students could complete the task.",
+        "Commitment to Christian unity across denominations in the service of mission, which led many leaders into the ecumenical movement.",
+        "A holiness-influenced call to personal consecration and surrender, inherited from Moody, Keswick and Northfield.",
+        "From the 1910s, an increasingly social and liberal emphasis on the 'kingdom of God', character and the Christianisation of social order, which displaced the earlier evangelistic urgency."
+      ],
+      "strategies": [
+        "The volunteer declaration card, signed by students pledging to become foreign missionaries 'if God permit'.",
+        "Travelling secretaries who visited campuses to recruit, form mission study bands and connect volunteers to sending boards.",
+        "Quadrennial conventions (Cleveland 1891 to Des Moines 1919–20 and beyond) that drew thousands of students.",
+        "Mission study textbooks and courses, producing an informed, mission-supporting laity.",
+        "Partnership with denominational boards, which did the actual sending, rather than sending missionaries itself.",
+        "Internationalisation through the World's Student Christian Federation (1895) and Mott's world tours."
+      ],
+      "groupsReached": [
+        "American and Canadian college and seminary students, especially from evangelical Protestant denominations.",
+        "Women students, who became a majority of volunteers in some periods and filled women's mission boards.",
+        "British, Scandinavian, German and other European students through the SVMU and WSCF.",
+        "Students in India, China, Japan and Ceylon through student Christian movements founded on Mott's tours.",
+        "Indirectly, the peoples of Asia, Africa, Latin America and the Middle East served by some 20,000 volunteers."
+      ],
+      "challenges": [
+        "Translating a pledge into actual service: many volunteers never sailed for reasons of health, family or board finances.",
+        "Theological polarisation between conservative and liberal students during the fundamentalist–modernist controversy.",
+        "Disillusionment after the First World War with Western 'Christian civilisation' and with missions' ties to empire.",
+        "Criticism from students of colour and international students about racism within the churches and the movement.",
+        "The Great Depression, which forced boards to cut missionary appointments drastically."
+      ],
+      "harms": [
+        "Its 'crusading' language and assumptions of Anglo-Saxon Protestant superiority reinforced cultural imperialism, as later SVM leaders themselves admitted.",
+        "Optimistic rhetoric about 'evangelizing the world in this generation' sometimes encouraged superficial, numbers-driven approaches to mission.",
+        "The movement was slow to address segregation and racism in American churches and campuses until challenged in 1920.",
+        "Its later liberal drift alienated much of its evangelical base, contributing to a lasting split between ecumenical and evangelical student movements."
+      ],
+      "developments": [
+        "Mobilised roughly 20,000 missionaries between 1886 and 1945, a major source of personnel for Protestant missions.",
+        "Created the World's Student Christian Federation (1895), a cradle of the ecumenical movement.",
+        "Supplied the leadership of Edinburgh 1910, the International Missionary Council and later the World Council of Churches.",
+        "Pioneered mission study education and mass student conventions, a model later used by Urbana and other mobilisation movements.",
+        "Encouraged indigenous student Christian movements in Asia that produced national church leaders."
+      ],
+      "outcome": "The SVM was the largest student mission mobilisation in history up to its time and the training ground of the ecumenical movement's leaders, but lost its evangelistic watchword after 1920, shrank in the 1920s–30s and dissolved through mergers by 1969, leaving its mobilising role to evangelical successors such as Urbana.",
+      "keyPeople": [
+        {
+          "name": "John R. Mott",
+          "years": "1865–1955",
+          "role": "Chairman of the SVM (1888–1920) and of the World's Student Christian Federation",
+          "focus": "Global student mobilisation and missionary cooperation",
+          "personId": "john-r-mott",
+          "origin": "Livingston Manor, New York; raised in Iowa",
+          "outcome": "Chaired Edinburgh 1910 and the International Missionary Council; Nobel Peace Prize 1946."
+        },
+        {
+          "name": "Robert P. Wilder",
+          "years": "1863–1938",
+          "role": "Co-founder and travelling secretary",
+          "focus": "Campus recruitment in America, Britain and India",
+          "origin": "Kolhapur, India (son of ABCFM missionary Royal Wilder)",
+          "outcome": "Toured 162 colleges in 1886–87; later worked in India and Europe."
+        },
+        {
+          "name": "Dwight L. Moody",
+          "years": "1837–1899",
+          "role": "Evangelist and host of the Mount Hermon conference",
+          "focus": "Revivalism and student conferences at Northfield",
+          "outcome": "His 1886 conference launched the SVM."
+        },
+        {
+          "name": "Arthur Tappan Pierson",
+          "years": "1837–1911",
+          "role": "Presbyterian pastor and mission advocate",
+          "focus": "Premillennial mission urgency",
+          "outcome": "Coined the phrasing behind the watchword."
+        },
+        {
+          "name": "Robert E. Speer",
+          "years": "1867–1947",
+          "role": "SVM travelling secretary and Presbyterian mission executive",
+          "focus": "Mission administration and theology",
+          "outcome": "Led the Presbyterian Board of Foreign Missions for over four decades."
+        },
+        {
+          "name": "J. H. Oldham",
+          "years": "1874–1969",
+          "role": "British student volunteer and SVMU leader",
+          "focus": "Organising Edinburgh 1910 and the IMC",
+          "outcome": "A principal architect of the ecumenical movement."
+        }
+      ],
+      "countries": [
+        {
+          "country": "United States",
+          "year": 1886,
+          "text": "Founded at Mount Hermon; campus bands across American colleges and quadrennial conventions from 1891.",
+          "lat": 42.6837,
+          "lng": -72.4848
+        },
+        {
+          "country": "Canada",
+          "year": 1887,
+          "text": "Canadian colleges joined from the start, supplying many volunteers to Canadian boards and faith missions.",
+          "lat": 43.6532,
+          "lng": -79.3832
+        },
+        {
+          "country": "United Kingdom",
+          "year": 1892,
+          "text": "The Student Volunteer Missionary Union, later part of the Student Christian Movement.",
+          "lat": 51.752,
+          "lng": -1.2577
+        },
+        {
+          "country": "Sweden",
+          "year": 1895,
+          "text": "The World's Student Christian Federation was founded at Vadstena Castle.",
+          "lat": 58.4486,
+          "lng": 14.8906
+        },
+        {
+          "country": "India",
+          "year": 1891,
+          "text": "Wilder and Mott helped organise Indian student Christian movements and SVM-linked work.",
+          "lat": 13.0827,
+          "lng": 80.2707
+        },
+        {
+          "country": "China",
+          "year": 1896,
+          "text": "Mott's 1896 tour helped found a student Christian movement; many volunteers served in China's missions and colleges.",
+          "lat": 31.2304,
+          "lng": 121.4737
+        },
+        {
+          "country": "Japan",
+          "year": 1897,
+          "text": "Student YMCA and Christian movements formed in connection with Mott's tour.",
+          "lat": 35.6762,
+          "lng": 139.6503
+        }
+      ],
+      "journeys": [
+        {
+          "id": "student-wilder-forman-tour-1886",
+          "title": "Wilder and Forman's college tour (1886–87)",
+          "people": "Robert Wilder and John N. Forman",
+          "personIds": [],
+          "year": 1886,
+          "endYear": 1887,
+          "stops": [
+            {
+              "name": "Mount Hermon, Massachusetts",
+              "lat": 42.6837,
+              "lng": -72.4848,
+              "year": 1886
+            },
+            {
+              "name": "Princeton, New Jersey",
+              "lat": 40.3573,
+              "lng": -74.6672,
+              "year": 1886
+            },
+            {
+              "name": "Oberlin, Ohio",
+              "lat": 41.2939,
+              "lng": -82.2174,
+              "year": 1886
+            },
+            {
+              "name": "Chicago",
+              "lat": 41.8781,
+              "lng": -87.6298,
+              "year": 1887
+            },
+            {
+              "name": "Toronto",
+              "lat": 43.6532,
+              "lng": -79.3832,
+              "year": 1887
+            }
+          ],
+          "text": "After Mount Hermon, Wilder and Forman spent the academic year visiting 162 institutions across the United States and Canada, enrolling over 2,000 student volunteers; the stops shown are representative."
+        },
+        {
+          "id": "student-mott-world-tour-1895",
+          "title": "Mott's world tour and the WSCF (1895–97)",
+          "people": "John R. Mott (with Leila White Mott for part of the tour)",
+          "personIds": [
+            "john-r-mott"
+          ],
+          "year": 1895,
+          "endYear": 1897,
+          "stops": [
+            {
+              "name": "Vadstena, Sweden",
+              "lat": 58.4486,
+              "lng": 14.8906,
+              "year": 1895
+            },
+            {
+              "name": "Madras",
+              "lat": 13.0827,
+              "lng": 80.2707,
+              "year": 1896
+            },
+            {
+              "name": "Colombo",
+              "lat": 6.9271,
+              "lng": 79.8612,
+              "year": 1896
+            },
+            {
+              "name": "Melbourne",
+              "lat": -37.8136,
+              "lng": 144.9631,
+              "year": 1896
+            },
+            {
+              "name": "Shanghai",
+              "lat": 31.2304,
+              "lng": 121.4737,
+              "year": 1896
+            },
+            {
+              "name": "Tokyo",
+              "lat": 35.6762,
+              "lng": 139.6503,
+              "year": 1897
+            }
+          ],
+          "text": "After founding the World's Student Christian Federation at Vadstena in August 1895, Mott travelled through Europe and the Middle East to India, Ceylon, Australasia, China and Japan, organising national student Christian movements."
+        }
+      ],
+      "influencedBy": [
+        "china-inland-mission",
+        "american-board-mission",
+        "salvation-army-holiness-mission"
+      ],
+      "relations": [
+        {
+          "to": "ecumenical-mission",
+          "kind": "gave-rise-to",
+          "text": "SVM and WSCF leaders (Mott, Oldham, Speer, later W. A. Visser 't Hooft) organised Edinburgh 1910 and led the International Missionary Council and the WCC."
+        },
+        {
+          "to": "short-term-mobilisation",
+          "kind": "succeeded-by",
+          "text": "InterVarsity's Urbana conventions (from 1946/48) and later youth mission movements inherited the SVM's model of student mission mobilisation."
+        },
+        {
+          "to": "china-inland-mission",
+          "kind": "partnered",
+          "text": "Many volunteers joined the CIM and other faith missions, and the Cambridge Seven helped spark the movement."
+        }
+      ],
+      "agreements": [
+        {
+          "with": "ecumenical-mission",
+          "text": "Shared commitment to interdenominational cooperation, comity and the unity of the church in mission."
+        },
+        {
+          "with": "china-inland-mission",
+          "text": "In its first decades shared the urgent, premillennially tinged evangelism and consecration spirituality of the faith missions."
+        }
+      ],
+      "disagreements": [
+        {
+          "with": "short-term-mobilisation",
+          "text": "Evangelical student movements such as InterVarsity and the Student Foreign Missions Fellowship arose partly in reaction to the SVM's liberal turn and loss of evangelistic focus."
+        },
+        {
+          "with": "africa-faith-missions",
+          "text": "By the 1920s faith missions distrusted the SVM's social-gospel orientation and increasingly recruited through Bible institutes rather than SVM bands."
+        }
+      ],
+      "deviations": [
+        "Abandoned its founding watchword in the 1920s, moving from evangelistic urgency to social and international concerns.",
+        "A movement founded at a revivalist conference drifted toward the theological liberalism its founders would not have recognised.",
+        "From recruiting missionaries it became largely a forum for student debate on race, war and economics before dissolving."
+      ],
+      "sources": [
+        "m4-parker-kingdom-character",
+        "m4-showalter-end-crusade",
+        "m4-mott-evangelization",
+        "m4-hocking-rethinking",
+        "m4-hutchison-errand",
+        "robert-christian-mission",
+        "stanley-edinburgh-1910"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "sources": [
+    {
+      "id": "m4-hutchison-errand",
+      "title": "Errand to the World: American Protestant Thought and Foreign Missions",
+      "author": "William R. Hutchison",
+      "year": 1987,
+      "kind": "secondary"
+    },
+    {
+      "id": "m4-phillips-protestant-america",
+      "title": "Protestant America and the Pagan World: The First Half Century of the American Board of Commissioners for Foreign Missions, 1810–1860",
+      "author": "Clifton Jackson Phillips",
+      "year": 1969,
+      "kind": "secondary"
+    },
+    {
+      "id": "m4-makdisi-artillery",
+      "title": "Artillery of Heaven: American Missionaries and the Failed Conversion of the Middle East",
+      "author": "Ussama Makdisi",
+      "year": 2008,
+      "kind": "secondary"
+    },
+    {
+      "id": "m4-anderson-golden-shore",
+      "title": "To the Golden Shore: The Life of Adoniram Judson",
+      "author": "Courtney Anderson",
+      "year": 1956,
+      "kind": "secondary"
+    },
+    {
+      "id": "m4-brumberg-mission-for-life",
+      "title": "Mission for Life: The Story of the Family of Adoniram Judson",
+      "author": "Joan Jacobs Brumberg",
+      "year": 1980,
+      "kind": "secondary"
+    },
+    {
+      "id": "m4-miller-basel-zeal",
+      "title": "Missionary Zeal and Institutional Control: Organizational Contradictions in the Basel Mission on the Gold Coast, 1828–1917",
+      "author": "Jon Miller",
+      "year": 2003,
+      "kind": "secondary"
+    },
+    {
+      "id": "m4-smith-presbyterian-ghana",
+      "title": "The Presbyterian Church of Ghana, 1835–1960",
+      "author": "Noel Smith",
+      "year": 1966,
+      "kind": "secondary"
+    },
+    {
+      "id": "m4-mccracken-livingstonia",
+      "title": "Politics and Christianity in Malawi, 1875–1940: The Impact of the Livingstonia Mission in the Northern Province",
+      "author": "John McCracken",
+      "year": 1977,
+      "kind": "secondary"
+    },
+    {
+      "id": "m4-ross-blantyre",
+      "title": "Blantyre Mission and the Making of Modern Malawi",
+      "author": "Andrew C. Ross",
+      "year": 1996,
+      "kind": "secondary"
+    },
+    {
+      "id": "m4-smith-life-duff",
+      "title": "The Life of Alexander Duff",
+      "author": "George Smith",
+      "year": 1879,
+      "kind": "secondary"
+    },
+    {
+      "id": "m4-buchan-slessor",
+      "title": "The Expendable Mary Slessor",
+      "author": "James Buchan",
+      "year": 1980,
+      "kind": "secondary"
+    },
+    {
+      "id": "m4-austin-chinas-millions",
+      "title": "China's Millions: The China Inland Mission and Late Qing Society, 1832–1905",
+      "author": "Alvyn Austin",
+      "year": 2007,
+      "kind": "secondary"
+    },
+    {
+      "id": "m4-broomhall-hudson-taylor",
+      "title": "Hudson Taylor and China's Open Century (7 vols)",
+      "author": "A. J. Broomhall",
+      "year": 1981,
+      "kind": "secondary",
+      "note": "Published 1981–1989; detailed narrative history drawing on CIM archives"
+    },
+    {
+      "id": "m4-taylor-spiritual-need",
+      "title": "China's Spiritual Need and Claims",
+      "author": "J. Hudson Taylor",
+      "year": 1865,
+      "kind": "primary"
+    },
+    {
+      "id": "m4-cohen-three-keys",
+      "title": "History in Three Keys: The Boxers as Event, Experience, and Myth",
+      "author": "Paul A. Cohen",
+      "year": 1997,
+      "kind": "secondary"
+    },
+    {
+      "id": "m4-esherick-boxer-origins",
+      "title": "The Origins of the Boxer Uprising",
+      "author": "Joseph W. Esherick",
+      "year": 1987,
+      "kind": "secondary"
+    },
+    {
+      "id": "m4-thompson-reluctant-exodus",
+      "title": "China: The Reluctant Exodus",
+      "author": "Phyllis Thompson",
+      "year": 1979,
+      "kind": "secondary",
+      "note": "Account of the China Inland Mission's withdrawal from China, 1950–1953"
+    },
+    {
+      "id": "m4-fiedler-faith-missions",
+      "title": "The Story of Faith Missions: From Hudson Taylor to Present Day Africa",
+      "author": "Klaus Fiedler",
+      "year": 1994,
+      "kind": "secondary"
+    },
+    {
+      "id": "m4-anderson-grasshoppers",
+      "title": "We Felt Like Grasshoppers: The Story of Africa Inland Mission",
+      "author": "Dick Anderson",
+      "year": 1994,
+      "kind": "secondary"
+    },
+    {
+      "id": "m4-cooper-evangelical-sahel",
+      "title": "Evangelical Christians in the Muslim Sahel",
+      "author": "Barbara M. Cooper",
+      "year": 2006,
+      "kind": "secondary"
+    },
+    {
+      "id": "m4-showalter-end-crusade",
+      "title": "The End of a Crusade: The Student Volunteer Movement for Foreign Missions and the Great War",
+      "author": "Nathan D. Showalter",
+      "year": 1998,
+      "kind": "secondary"
+    },
+    {
+      "id": "m4-parker-kingdom-character",
+      "title": "The Kingdom of Character: The Student Volunteer Movement for Foreign Missions (1886–1926)",
+      "author": "Michael Parker",
+      "year": 1998,
+      "kind": "secondary"
+    },
+    {
+      "id": "m4-mott-evangelization",
+      "title": "The Evangelization of the World in This Generation",
+      "author": "John R. Mott",
+      "year": 1900,
+      "kind": "primary"
+    },
+    {
+      "id": "m4-hocking-rethinking",
+      "title": "Re-Thinking Missions: A Laymen's Inquiry after One Hundred Years",
+      "author": "William Ernest Hocking (chair)",
+      "year": 1932,
+      "kind": "primary"
+    }
+  ]
+}
