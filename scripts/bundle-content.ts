@@ -10,7 +10,7 @@
 import { existsSync, mkdirSync, readFileSync, readdirSync, writeFileSync } from 'node:fs';
 import { buildDb } from '../src/data/build.ts';
 import { loadContentFiles } from './load-files.ts';
-import { applyTranslations } from './i18n-fields.ts';
+import { applyTranslations, translatableEntries } from './i18n-fields.ts';
 
 const { db, errors } = buildDb(loadContentFiles());
 if (errors.length) {
@@ -38,6 +38,10 @@ if (lang !== 'en') {
   // English names stay searchable in the translated edition (so "Augustine" still finds அகஸ்டின்).
   const TYPE: Record<string, string> = { doctrines: 'doctrine', traditions: 'tradition', people: 'person', positions: 'position', events: 'event', controversies: 'controversy', experiences: 'experience', works: 'work', eras: 'era' };
   for (const [coll, type] of Object.entries(TYPE)) for (const e of (db as unknown as Record<string, Record<string, string>[]>)[coll]) namesEn[`${type}/${e.id}`] = e.name ?? e.title;
+  // Only text fields are overlaid (never ids or links), whatever a translation file contains.
+  const allowed = new Set<string>();
+  for (const [coll, list] of Object.entries(db)) for (const e of list as { id: string }[]) for (const [k] of translatableEntries(coll, e)) allowed.add(k);
+  for (const k of Object.keys(content)) if (!allowed.has(k)) delete content[k];
   const n = applyTranslations(db as unknown as Record<string, { id: string }[]>, content);
   console.log(`✔ applied ${n.toLocaleString()} ${lang} translations, ${Object.keys(ui).length} UI strings`);
 }

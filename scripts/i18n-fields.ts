@@ -2,7 +2,7 @@
 const SKIP = new Set([
   'id', 'ref', 'kind', 'category', 'regions', 'region', 'phenomena', 'family', 'standing', 'confidence', 'icon',
   'colour', 'url', 'fullTextUrl', 'portrait', 'sources', 'genre', 'type', 'architectureDiagram', 'citation',
-  'translation', 'from', 'to', 'route', 'source', 'colour', 'author', 'primarySource',
+  'translation', 'from', 'to', 'route', 'source', 'author', 'primarySource', 'influencedBy',
 ]);
 const skipKey = (coll: string, key: string) =>
   SKIP.has(key) || /Ids?$/.test(key) || (coll === 'cultures' && key === 'topic');
