@@ -1,0 +1,643 @@
+{
+  "indiaMissions": [
+    {
+      "id": "india-thomas-christians",
+      "title": "The St Thomas Christians of Kerala",
+      "order": 1,
+      "startYear": 52,
+      "region": "Kerala (the Malabar coast); historically also the Coromandel coast around Mylapore (Chennai)",
+      "place": { "name": "Kodungallur (ancient Muziris / Cranganore), Kerala", "lat": 10.2254, "lng": 76.1966 },
+      "movementIds": ["apostolic-mission", "church-of-the-east-mission"],
+      "summary": "The St Thomas Christians (Nasranis, Mar Thoma Nasranis) of Kerala trace their church to the apostle Thomas, said to have landed at Muziris in AD 52 and to have been killed near Mylapore around 72. The apostolic founding cannot be proved, but a Syriac-using church with bishops from the Church of the East is securely attested on the Malabar coast by the sixth century at the latest. For more than a thousand years the Nasranis lived as a high-status trading and landholding community woven into Kerala's caste society, “Hindu in culture, Christian in religion and Oriental in worship”, before Portuguese intervention split them into the many Syrian churches of today.",
+      "story": "Kerala tradition holds that the apostle Thomas arrived at Muziris (Kodungallur) in AD 52, converted several Brahmin families and founded seven and a half churches: Kodungallur, Palayur, Kottakkavu (Paravur), Kokkamangalam, Niranam, Nilackal (Chayal), Kollam and the “half church” (Arappally) at Thiruvithamcode. He is said to have crossed to the Coromandel coast and been speared to death near Mylapore around 72. The earliest written account, the Syriac Acts of Thomas (Edessa, early third century), sends Thomas to the court of King Gondophares — a real Indo-Parthian ruler of the north-west, known from coins and the Takht-i-Bahi inscription — which shows that its author knew something genuine about first-century India. Church fathers from Ephrem to Jerome linked Thomas with India, and Eusebius reports that Pantaenus of Alexandria (c. 180) found Christians in “India”, although that word could also mean Arabia or Ethiopia. Busy Roman trade with Muziris, confirmed by the Muziris papyrus and the Pattanam excavations, makes an early mission plausible, but historians such as Stephen Neill and Robert Frykenberg conclude that it can be neither proved nor disproved. Kerala's own oral tradition, preserved in songs such as the Thomma Parvam (Ramban Pattu), was written down only in the early modern period.\n\nFirmer ground comes with the Church of the East. The Alexandrian merchant Cosmas Indicopleustes (c. 550) reported Christians in “Male, where the pepper grows” and a bishop at Kalliana ordained in Persia. Community tradition dates a migration of some 72 Syrian Christian families under the merchant Thomas of Cana (Knai Thomman) to around 345; their descendants, the Knanaya or “Southists”, have kept strict endogamy ever since, distinct from the “Northist” majority. A second arrival of Persian clergy, Mar Sapor and Mar Prodh, at Kollam around 825 is remembered in the founding of churches, and the Tharisappalli copper plates of 849 confirm that a Christian merchant guild and church in Kollam enjoyed royal privileges. Bishops came from Mesopotamia and used the East Syriac liturgy of Addai and Mari; daily leadership lay with an Indian archdeacon (the Jathikku Karthavyan, “head of the community”).\n\nThe Nasranis were integrated into Kerala society as a high caste, ranked alongside the Nairs. Rulers granted them privileges such as riding elephants, using palanquins, carrying swords and collecting certain dues; they were prominent in the pepper trade and served as soldiers trained in kalari martial arts. They observed caste purity — avoiding contact with Pulaya and Paraya labourers — and many owned agrestic slaves until Travancore abolished slavery in 1855. Their churches resembled temples, with flagstaffs, lamps and processions; their marriage rites included the tali; and they shared festivals and customs with Hindu neighbours. The Carmelite historian Placid Podipara later summed this up in the formula “Hindu (Indian) in culture, Christian in religion and Oriental in worship”. The community was devout but not, for most of its history, outwardly missionary: it reproduced itself as a caste rather than seeking converts.\n\nThe arrival of Vasco da Gama in 1498 began a new era. Leaders of the community welcomed the Portuguese as fellow Christians and potential protectors, and in 1504 East Syriac bishops in Kerala wrote to their patriarch that there were some 30,000 Christian families in Malabar. Portuguese clergy soon treated Syriac practice as “Nestorian” heresy. Latinisation culminated in the Synod of Diamper (1599) and provoked the Coonan Cross Oath of 1653, which split the community into the Catholic Pazhayakoor (“old allegiance”) and the independent Puthenkoor (“new allegiance”), which in 1665 adopted the West Syriac (Antiochene) tradition (see the Diamper and Coonan Cross entry).\n\nFurther divisions followed. The Malabar Independent Syrian Church at Thozhiyur separated in 1772. Contact with the Church Missionary Society's “Mission of Help” (from 1816) inspired the reformer Abraham Malpan, whose movement became the Mar Thoma Syrian Church (separated by the Royal Court of Travancore ruling of 1889); evangelicals later left it to form the St Thomas Evangelical Church (1961). A group that sought renewed links with the East Syriac patriarch became the Chaldean Syrian Church of Thrissur. The Puthenkoor itself divided between the autocephalous Malankara Orthodox Syrian Church (catholicate 1912) and the Jacobite Syrian Christian Church loyal to the Syriac Orthodox patriarch of Antioch, a dispute over churches and property that went to India's Supreme Court in 1958, 1995 and 2017. In 1930 Mar Ivanios led part of the Orthodox into communion with Rome as the Syro-Malankara Catholic Church, while the Catholic Pazhayakoor received Indian bishops in 1896 and became the Syro-Malabar Catholic Church, a major-archiepiscopal church from 1992.\n\nIn the twentieth century the Syrian churches turned outward. The Mar Thoma Evangelistic Association (1888), the Syro-Malabar missionary congregations such as the Missionary Society of St Thomas (1968), and thousands of Kerala priests, nuns, nurses and teachers carried Kerala Christianity to north India, the Gulf and the West; in 2017 Rome gave the Syro-Malabar Church jurisdiction throughout India. Yet relations with Dalit converts brought into Syrian churches by nineteenth-century missions were often marked by separate congregations and discrimination, a grievance voiced sharply by Poykayil Yohannan, who left the Mar Thoma church to found the Prathyaksha Raksha Daiva Sabha in 1909. In the 2011 census Kerala had about 6.14 million Christians, 18.4 per cent of the state's population.",
+      "people": [
+        { "name": "Thomas the Apostle", "personId": "thomas-apostle", "years": "d. c. 72 (traditional)", "origin": "Galilee", "role": "Apostle; traditional founder of the Indian church", "focus": "Said to have preached on the Malabar and Coromandel coasts and founded seven and a half churches", "outcome": "Venerated as the founder of the Nasrani community; tomb shrine at San Thome, Mylapore" },
+        { "name": "Thomas of Cana (Knai Thomman)", "years": "fl. c. 345 (traditional)", "origin": "Mesopotamia or Persia", "role": "Syrian merchant who led a migration of about 72 Christian families", "focus": "Settlement at Kodungallur with royal privileges recorded on (now lost) copper plates", "outcome": "Remembered as ancestor of the endogamous Knanaya (Southist) community" },
+        { "name": "Mar Sapor and Mar Prodh", "years": "fl. c. 825", "origin": "Persia (Church of the East)", "role": "Bishops or holy men who arrived at Kollam", "focus": "Founding of churches in southern Kerala under the protection of local rulers", "outcome": "Later venerated as saints (the Kadisha); veneration suppressed after Diamper" },
+        { "name": "Archdeacon Giwargis (George) of the Cross", "years": "fl. 1590s–1640", "origin": "Kerala", "role": "Archdeacon and indigenous leader of the Thomas Christians", "focus": "Resisted, then submitted to, Archbishop Menezes at the Synod of Diamper", "outcome": "Retained office under the first Jesuit bishops; his successor Archdeacon Thomas led the 1653 revolt" },
+        { "name": "Abraham Malpan", "years": "1796–1845", "origin": "Maramon, Travancore", "role": "Syriac teacher at the Kottayam Orthodox Seminary; reformer", "focus": "Translated the liturgy into Malayalam and removed prayers for the dead and to saints, influenced by CMS missionaries", "outcome": "His reform became the Mar Thoma Syrian Church" },
+        { "name": "Mar Ivanios (Geevarghese Panickerveetil)", "years": "1882–1953", "origin": "Mavelikara, Travancore", "role": "Malankara Orthodox bishop and founder of the Bethany monastic orders", "focus": "Sought reunion with Rome while keeping the West Syriac rite", "outcome": "Founded the Syro-Malankara Catholic Church in 1930" },
+        { "name": "Placid J. Podipara", "years": "1899–1985", "origin": "Kerala", "role": "Carmelite (CMI) priest and historian", "focus": "Research on the identity and East Syriac heritage of the Thomas Christians", "outcome": "Shaped the movement to restore the Syro-Malabar liturgy from Latinisation" }
+      ],
+      "groupsReached": [
+        "A Syriac-using merchant community on the Malabar coast, linked by trade and church to Persia and Mesopotamia",
+        "Syrian and Persian Christian migrants, remembered in the Thomas of Cana (c. 345) and Kollam (c. 825) traditions",
+        "Local families of high status, traditionally described as Brahmin converts — a claim modern historians treat as a later caste-legitimising narrative",
+        "The Knanaya (Southist) endogamous sub-community, distinct from the Northist majority",
+        "From the nineteenth century, Pulaya, Paraya and other Dalit converts brought into the Syrian churches, often in separate congregations",
+        "Since the twentieth century, Kerala Christian migrants and mission fields across north India, the Gulf and the West"
+      ],
+      "focus": [
+        "Preserving an ancient liturgical life in Syriac and the apostolic identity of the 'Way of Thomas' (Thomma Margam)",
+        "Maintaining community status, trade privileges and caste rank within Kerala's social order",
+        "Securing bishops from the Church of the East to ordain clergy, while the Indian archdeacon governed day to day",
+        "After 1600, defending (or negotiating) autonomy against Portuguese Latinisation and later against foreign patriarchates"
+      ],
+      "strategies": [
+        "Communal continuity rather than proselytism: faith passed on within families and parishes (idavakas) under elders (yogam)",
+        "Acculturation to Kerala custom — temple-like church architecture, flagstaffs, lamps, the tali at marriage — while keeping Syriac worship",
+        "Alliance with local rulers who granted privileges recorded on copper plates in return for trade and military service",
+        "From the late nineteenth century, evangelistic associations (Mar Thoma Evangelistic Association, 1888) and conventions such as Maramon (1895)",
+        "Twentieth-century missionary congregations and dioceses in north India staffed by Kerala priests and religious sisters"
+      ],
+      "challenges": [
+        "Dependence on rare foreign bishops, leaving long periods without ordinations",
+        "Portuguese claims of jurisdiction and accusations of 'Nestorianism' after 1498",
+        "Repeated schisms (1653, 1772, 1889, 1912, 1930, 1961) and long, costly litigation over churches and property",
+        "Tension between a caste-like communal identity and the universal claims of Christianity",
+        "Mass emigration and declining birth rates reducing Kerala's Christian share of population since 1971"
+      ],
+      "harms": [
+        "Practised untouchability toward Pulaya, Paraya and other low-caste neighbours, and many Syrian Christian landholders owned agrestic slaves until Travancore's abolition of 1855",
+        "Dalit converts received from nineteenth-century missions were frequently kept in separate congregations, burial grounds or seating, prompting protests such as Poykayil Yohannan's exit in 1909",
+        "Endogamy and claims of Brahmin descent reinforced caste hierarchy within Indian Christianity",
+        "Disputes between Orthodox and Jacobite factions have repeatedly led to church lock-outs, police intervention and violence"
+      ],
+      "outcomes": [
+        "The oldest continuous Christian community in South Asia, surviving through Portuguese, Dutch and British rule",
+        "Now divided into the Syro-Malabar Catholic, Syro-Malankara Catholic, Malankara Orthodox, Jacobite Syriac Orthodox, Mar Thoma, Malabar Independent, Chaldean Syrian and St Thomas Evangelical churches",
+        "A major supplier of clergy, religious sisters, nurses and teachers to Catholic and Protestant institutions throughout India and abroad",
+        "A strong presence in Kerala's education, banking, plantation and newspaper sectors (e.g. Malayala Manorama, founded 1888)"
+      ],
+      "institutions": [
+        "San Thome Basilica, Mylapore (rebuilt 1523 and 1896 over the traditional tomb of Thomas)",
+        "Kodungallur, Palayur and Niranam churches, traditional apostolic foundations",
+        "Orthodox Theological Seminary (Old Seminary), Kottayam, founded 1815",
+        "Maramon Convention (from 1895), one of Asia's largest annual Christian gatherings",
+        "St Thomas Mount National Shrine, Chennai",
+        "Syro-Malabar Major Archiepiscopal Curia, Mount St Thomas, Kakkanad"
+      ],
+      "legacy": "The St Thomas Christians give Indian Christianity its claim to be as old as Christianity itself and not a colonial import. Their history also shows the cost of deep inculturation: a church thoroughly Indian in custom absorbed caste along with culture. Their fragmentation into eight or more churches under Portuguese, Syriac Orthodox, Anglican and Roman influences mirrors the wider history of world Christianity in a single Kerala community.",
+      "stations": [
+        { "name": "Kodungallur (Muziris), traditional landing place", "lat": 10.2254, "lng": 76.1966, "year": 52 },
+        { "name": "Palayur church", "lat": 10.5845, "lng": 76.0353, "year": 52 },
+        { "name": "Kottakkavu, North Paravur", "lat": 10.1490, "lng": 76.2270, "year": 52 },
+        { "name": "Niranam church", "lat": 9.3667, "lng": 76.5167, "year": 52 },
+        { "name": "Kollam (Quilon)", "lat": 8.8932, "lng": 76.6141, "year": 825 },
+        { "name": "Thiruvithamcode Arappally", "lat": 8.2470, "lng": 77.3080 },
+        { "name": "San Thome, Mylapore (tomb shrine)", "lat": 13.0335, "lng": 80.2775, "year": 72 },
+        { "name": "Angamaly (seat of archdeacons and bishops)", "lat": 10.1960, "lng": 76.3860, "year": 1500 },
+        { "name": "Kottayam Valiyapalli and Old Seminary", "lat": 9.5890, "lng": 76.5255, "year": 1550 },
+        { "name": "Maramon (Mar Thoma convention)", "lat": 9.3420, "lng": 76.6890, "year": 1895 }
+      ],
+      "stats": [
+        { "label": "Christian families in Malabar reported by East Syriac bishops", "value": 30000, "unit": "families", "year": 1504 },
+        { "label": "Christians in Kerala (census)", "value": 6141269, "unit": "people", "year": 2011 },
+        { "label": "Christian share of Kerala's population (census)", "value": 18.38, "unit": "%", "year": 2011 },
+        { "label": "Syro-Malabar Catholic Church membership (approx.)", "value": 4250000, "unit": "members", "year": 2017 }
+      ],
+      "sources": ["frykenberg-india", "i1-neill-india-1", "brown-st-thomas-christians", "i1-mundadan-history", "i1-acts-of-thomas", "i1-podipara-thomas", "i1-census-india-2011", "cnewa-eastern-catholic-2017", "moffett-asia"],
+      "confidence": "traditional"
+    },
+    {
+      "id": "india-east-syriac-links",
+      "title": "Persian crosses, copper plates and the Church of the East in India",
+      "order": 2,
+      "startYear": 345,
+      "endYear": 1599,
+      "region": "Kerala (Kollam, Kodungallur, Kottayam), the Coromandel coast (Mylapore), the Konkan (Kalyan, Thane) and Sri Lanka",
+      "place": { "name": "Kollam (Quilon), Kerala — site of the Tharisa church", "lat": 8.8932, "lng": 76.6141 },
+      "movementIds": ["church-of-the-east-mission", "medieval-friars-mission"],
+      "summary": "From late antiquity until 1599 the Christians of India belonged to the Church of the East, whose patriarch sat at Seleucia-Ctesiphon and later Baghdad. Bishops, liturgy and Syriac learning came from Mesopotamia and Persia along the sea routes of the Indian Ocean trade. Their traces survive in Pahlavi-inscribed 'Persian crosses', the Tharisappalli copper plates of 849, travellers' reports from Cosmas to Marco Polo, and letters between Kerala and the patriarchs that end only with the Portuguese-enforced break at Diamper.",
+      "story": "The Church of the East grew up in the Persian (Sasanian) empire, outside the Roman world and its councils, and was the great missionary church of Asia, reaching Central Asia and Tang China by 635. India lay at the end of its maritime networks. A bishop styled 'John the Persian, of all Persia and Great India' is listed among those at Nicaea in 325, though the title's meaning is debated. The first reliable witness is the Alexandrian merchant Cosmas Indicopleustes, who around 550 wrote that there were churches in Taprobane (Sri Lanka) served by Persian clergy, in “Male, where the pepper grows”, and at Kalliana (Kalyan near Mumbai), where a bishop was appointed from Persia.\n\nIndia's place in the hierarchy changed over time. In the 650s the Catholicos Isho'yahb III rebuked the metropolitan of Fars, who claimed authority over India, for leaving the Indian churches without clergy. Under the great Catholicos Timothy I (780–823), India was organised as a metropolitan province of the 'exterior' provinces, whose metropolitan was required only to send a letter of communion every six years because of the distance. Syriac remained the language of liturgy and theology; Indian Christians used the East Syriac rite of Addai and Mari and called their bishops 'Mar'.\n\nThe richest documentary evidence is the set of copper plates known as the Tharisappalli or Quilon plates (c. 849). In them Ayyan Adikal Thiruvadikal, ruler of Venad under the Chera king Sthanu Ravi, granted land, serfs and trading rights to the church (palli) of Tharisa at Kollam, built by the merchant Maruvan Sapir Iso, and placed the church under the protection of the Anjuvannam and Manigramam merchant guilds. The plates are witnessed by eleven signatories in Arabic (Kufic), ten in Middle Persian (Pahlavi) and four in Judeo-Persian (Hebrew script) — vivid proof of a cosmopolitan Indian Ocean trading world. Later plates, such as the Iravi Korttan grant at Kodungallur (traditionally dated 1225; the date is debated), show Christian merchants holding guild titles. The so-called Persian crosses — granite slabs carved with a cross rising from a lotus beneath a dove and bearing Pahlavi inscriptions — have been found at St Thomas Mount near Chennai (unearthed by the Portuguese in 1547), in the Valiyapalli at Kottayam (two crosses), at Kadamattom, Muttuchira and Alangad in Kerala, at Agassaim in Goa (2001) and at Anuradhapura in Sri Lanka. Scholars date them between the seventh and tenth centuries; one common reading of the inscription asks the Lord Christ to have mercy on the man who made the cross.\n\nWestern visitors came intermittently. The Anglo-Saxon Chronicle records that King Alfred sent alms to St Thomas in India in 883, though the destination may be legendary. Marco Polo described the tomb of Thomas at Mylapore in about 1293. The Franciscan John of Montecorvino spent thirteen months there in 1291–92 on his way to China; the Dominican Jordanus Catalani was appointed Latin bishop of Columbum (Kollam) in 1329; and the papal legate Giovanni de' Marignolli worshipped at a Latin church in Kollam in 1348. These Latin contacts left little lasting trace, and the Indian church continued to look to Mesopotamia.\n\nBy the fifteenth century the Church of the East had been devastated in its homeland by plague, Timur's campaigns and decline, and India sometimes went decades without bishops. In 1490 Kerala sent three men to the Catholicos Shemon IV, who consecrated two monks, Mar Thomas and Mar John, for India. In 1503 Elijah V sent four more — Mar Yahballaha, Mar Denha, Mar Jacob and Mar Thomas — whose letter of 1504 reported about 30,000 Christian families and the newly arrived Portuguese. Mar Jacob (d. c. 1552) cooperated closely with the Portuguese at Cranganore. After the 1552 schism in Mesopotamia created a rival Chaldean patriarchate in communion with Rome, both lines sent bishops: Mar Joseph Sulaqa (d. 1569) and Mar Abraham (d. 1597), who manoeuvred between the patriarchs, Rome and the Portuguese. The Portuguese increasingly intercepted East Syriac bishops at sea. Mar Abraham's death in 1597 gave Archbishop Menezes of Goa the opportunity to end the connection at the Synod of Diamper in 1599. Thereafter only a small Chaldean Syrian Church in Thrissur (re-linked to the Assyrian patriarch from 1874 and organised under Mar Abimalek Timotheus from 1908) continued the East Syriac affiliation, while the Syro-Malabar Church kept the East Syriac rite in a Latinised form within the Catholic Church.",
+      "people": [
+        { "name": "Cosmas Indicopleustes", "years": "fl. c. 550", "origin": "Alexandria, Egypt", "role": "Merchant and author of the Christian Topography", "focus": "Reported Persian-ordained clergy in Sri Lanka, Malabar and Kalyan", "outcome": "Provides the first datable evidence of organised Christianity in India" },
+        { "name": "Timothy I", "personId": "timothy-i", "years": "c. 727–823 (catholicos 780–823)", "origin": "Hazza, Adiabene (northern Iraq)", "role": "Catholicos-patriarch of the Church of the East", "focus": "Organised distant provinces including India, China and Central Asia under metropolitans", "outcome": "India recognised as a metropolitan province of the Church of the East" },
+        { "name": "Maruvan Sapir Iso", "years": "fl. c. 849", "origin": "Persian Christian merchant settled at Kollam", "role": "Founder of the Tharisa church at Kollam", "focus": "Secured land and trading privileges under the Tharisappalli copper plates", "outcome": "The plates remain the oldest surviving documentary record of Indian Christianity" },
+        { "name": "Ayyan Adikal Thiruvadikal", "years": "fl. c. 849", "origin": "Venad (southern Kerala)", "role": "Local ruler under the Chera king Sthanu Ravi", "focus": "Granted the Tharisa church land, serfs, tax rights and guild protection", "outcome": "Model of the royal patronage that secured the Nasranis' high status" },
+        { "name": "John of Montecorvino", "years": "1247–1328", "origin": "Montecorvino, southern Italy", "role": "Franciscan missionary, later archbishop of Khanbaliq", "focus": "Stayed thirteen months at Mylapore (1291–92) and baptised about a hundred people", "outcome": "Wrote the earliest Western description of Coromandel Christianity before going on to China" },
+        { "name": "Jordanus Catalani", "years": "fl. 1321–1330s", "origin": "Séverac, southern France", "role": "Dominican missionary and first Latin bishop of Columbum (Kollam), 1329", "focus": "Latin mission among Indian Christians and others on the west coast; wrote the Mirabilia", "outcome": "The Latin diocese did not survive his time" },
+        { "name": "Mar Jacob (Mar Yaqob)", "years": "d. c. 1552", "origin": "Mesopotamia (Church of the East)", "role": "East Syriac metropolitan in Kerala from 1503", "focus": "Cooperated with the Portuguese and Franciscans at Cranganore; co-signed the 1504 letter", "outcome": "Died in the Franciscan friary at Cochin; the last bishop to serve without serious conflict" },
+        { "name": "Mar Abraham", "years": "d. 1597", "origin": "Mesopotamia (Chaldean / Church of the East)", "role": "Last East Syriac metropolitan of India, at Angamaly", "focus": "Navigated between rival patriarchs, Rome and the Portuguese, accepting Catholic forms under pressure", "outcome": "His death allowed Archbishop Menezes to impose the Synod of Diamper" }
+      ],
+      "groupsReached": [
+        "Persian and Syrian Christian merchants in the Indian Ocean trade, settled at Kollam, Kodungallur and Mylapore",
+        "The indigenous Nasrani (St Thomas Christian) community of the Malabar coast",
+        "Christian communities at Kalyan on the Konkan coast and in Sri Lanka (Anuradhapura), attested in the sixth century",
+        "Members of the Manigramam and Anjuvannam merchant guilds, which included Christians, Jews and Muslims"
+      ],
+      "focus": [
+        "Supplying bishops to ordain clergy and maintain sacramental life far from Mesopotamia",
+        "Preserving the East Syriac liturgy, Syriac language and theological tradition of the Church of the East",
+        "Securing legal and commercial privileges for Christian traders from local rulers",
+        "Maintaining communion with the catholicos-patriarch through letters and periodic embassies"
+      ],
+      "strategies": [
+        "Following maritime trade routes: merchants and clergy travelled together from the Persian Gulf to Malabar",
+        "Negotiating royal grants on copper plates that embedded churches within guild and caste structures",
+        "Delegating everyday governance to an Indian archdeacon while bishops came from abroad",
+        "Teaching Syriac in church schools (malpanates) to train local priests (kathanars)"
+      ],
+      "challenges": [
+        "Enormous distances and the collapse of the Church of the East in Mesopotamia after the fourteenth century",
+        "Long gaps without bishops, which halted ordinations",
+        "Rival patriarchal lines after the 1552 schism, each sending competing bishops",
+        "Portuguese interception of bishops and Catholic suspicion of 'Nestorian' theology"
+      ],
+      "harms": [
+        "Foreign episcopal control left little room for Indian bishops for over a millennium",
+        "Royal grants that made Christians a privileged guild also bound serfs and lower castes to church landholders",
+        "Rivalry between patriarchal claimants in the sixteenth century weakened the church on the eve of Portuguese pressure"
+      ],
+      "outcomes": [
+        "Created the East Syriac liturgical and canonical heritage still used, in reformed form, by the Syro-Malabar Church",
+        "Left the earliest material and documentary evidence for Christianity in India: crosses, plates and Syriac manuscripts",
+        "Ended as a living connection in 1599, surviving only in the small Chaldean Syrian Church of Thrissur",
+        "Supplied modern Indian Christians with a historical argument that their faith reached India through Asia, not Europe"
+      ],
+      "institutions": [
+        "Tharisa church, Kollam, and the Tharisappalli copper plates (now held at the Devalokam Catholicate and the Mar Thoma Poolatheen, Thiruvalla)",
+        "Persian crosses at St Thomas Mount (Chennai), Kottayam Valiyapalli, Kadamattom, Muttuchira and Alangad",
+        "Metropolitan see of India at Angamaly (late medieval to 1599)",
+        "Chaldean Syrian Church, Thrissur (Assyrian Church of the East in India)"
+      ],
+      "legacy": "The East Syriac connection shows that Indian Christianity was part of an Asian Christian world centred on Baghdad long before Europeans arrived. Its material remains — the Pahlavi crosses and multilingual copper plates — are among the best evidence for the cosmopolitan Indian Ocean of the ninth century, and its liturgical heritage became the focus of twentieth-century efforts to undo Latinisation.",
+      "stations": [
+        { "name": "Kalyan (Kalliana), Konkan coast", "lat": 19.2437, "lng": 73.1355, "year": 550 },
+        { "name": "Kollam (Quilon), Tharisa church", "lat": 8.8932, "lng": 76.6141, "year": 849 },
+        { "name": "Kodungallur (Iravi Korttan plate)", "lat": 10.2254, "lng": 76.1966, "year": 1225 },
+        { "name": "St Thomas Mount, Chennai (Persian cross)", "lat": 13.0069, "lng": 80.1919, "year": 1547 },
+        { "name": "Kottayam Valiyapalli (two Persian crosses)", "lat": 9.5890, "lng": 76.5255, "year": 1550 },
+        { "name": "Kadamattom church (Persian cross)", "lat": 10.0010, "lng": 76.5260 },
+        { "name": "Muttuchira church (Persian cross)", "lat": 9.7560, "lng": 76.4960 },
+        { "name": "Angamaly, seat of the metropolitan", "lat": 10.1960, "lng": 76.3860, "year": 1560 },
+        { "name": "Anuradhapura, Sri Lanka (cross)", "lat": 8.3114, "lng": 80.4037, "year": 600 },
+        { "name": "Agassaim, Goa (cross found 2001)", "lat": 15.4430, "lng": 73.8840 }
+      ],
+      "stats": [
+        { "label": "Arabic (Kufic) witness signatures on the Tharisappalli plates", "value": 11, "unit": "signatures", "year": 849 },
+        { "label": "Middle Persian (Pahlavi) witness signatures on the Tharisappalli plates", "value": 10, "unit": "signatures", "year": 849 },
+        { "label": "Judeo-Persian witness signatures on the Tharisappalli plates", "value": 4, "unit": "signatures", "year": 849 },
+        { "label": "East Syriac bishops sent to India by Patriarch Elijah V", "value": 4, "unit": "bishops", "year": 1503 },
+        { "label": "Christian families reported in the bishops' letter to the patriarch", "value": 30000, "unit": "families", "year": 1504 }
+      ],
+      "sources": ["baum-winkler-east", "wilmshurst-martyred-church", "gillman-klimkeit", "moffett-asia", "i1-cosmas-topography", "i1-cereti-crosses", "i1-mundadan-history", "jenkins-lost-history"],
+      "confidence": "debated"
+    },
+    {
+      "id": "india-portuguese-padroado",
+      "title": "Portuguese Padroado, Goa and the Goa Inquisition",
+      "order": 3,
+      "startYear": 1498,
+      "endYear": 1961,
+      "region": "Goa, the Konkan and Bombay–Bassein coast, Mangalore (Kanara), Cochin, and Portuguese enclaves on the Coromandel and Bengal coasts",
+      "place": { "name": "Old Goa (Velha Goa)", "lat": 15.5009, "lng": 73.9116 },
+      "movementIds": ["iberian-colonial-mission", "jesuit-asia-mission", "medieval-friars-mission"],
+      "summary": "Under the Padroado Real, papal bulls of the fifteenth and early sixteenth centuries gave the Portuguese crown the right and duty to fund, staff and govern the Catholic Church throughout its eastern empire. From the conquest of Goa in 1510 Portuguese India became a Catholic territory: temples were destroyed, Hindu rites restricted, orphans baptised, and from 1560 the Goa Inquisition policed converts until 1812. The same system produced India's first printing press, Konkani and Marathi Christian literature, a large Goan and Mangalorean Catholic community and a long jurisdictional quarrel with Rome.",
+      "story": "The Padroado (patronage) grew out of papal bulls such as Romanus Pontifex (1455), Inter caetera (1456) and Praecelsae devotionis (1514), which granted the kings of Portugal control of church appointments and revenues in lands they 'discovered' in return for supporting missions. When Vasco da Gama reached Calicut in 1498, and Afonso de Albuquerque captured Goa from the Sultan of Bijapur in 1510, church and empire advanced together. Franciscans accompanied the early fleets and opened a friary in Goa in 1517; Goa became a diocese in 1534 and an archdiocese, with the title 'Primate of the East', in 1558. Dominicans (1548), Jesuits (1542), Augustinians (1572) and later Carmelites and Theatines followed. Cochin (1558) and Cranganore became suffragan sees; the see of Mylapore (San Thome) was created in 1606.\n\nIn the 1540s the colonial state turned from tolerance to active Christianisation in its core territories of Tiswadi (Ilhas), Bardez and Salcete. Temples on the islands were ordered destroyed in 1540–41 and their lands transferred to churches and the Confraternity of the Holy Faith (1541); the College of St Paul trained boys of many Asian nations. Viceregal and conciliar decrees between 1559 and 1567 — including the 1559 law that Hindu children left fatherless were to be handed to the Jesuits for baptism, bans on public Hindu worship and festivals, the expulsion of Brahmin priests and preference in office for Christians — produced mass baptisms, often of entire villages following their headmen. Many Hindu families fled across the border, carrying their deities to new temples in Ponda and beyond. The First Provincial Council of Goa (1567) codified this policy. By the early seventeenth century the majority of the population of the 'Old Conquests' was Catholic, while caste survived among converts as Bamonn (Brahmin), Chardo (Kshatriya), Gauddo and Sudir groups.\n\nFrancis Xavier, writing to King João III in 1545, asked for an Inquisition; it was established in Goa in 1560. Its first target was New Christians — converted Jews and their descendants, such as the physician Garcia de Orta, whose remains were exhumed and burned in 1580 — but it increasingly prosecuted Hindu converts suspected of continuing ancestral rites, and even regulated Hindu practice in Portuguese lands. Contemporary and later accounts, notably the French physician Charles Dellon's narrative of his imprisonment (1687), made it notorious in Europe. Historians estimate that some 16,000 people were tried between 1561 and 1774, with dozens burned in person or in effigy. The Marquis of Pombal suppressed it in 1774; it was restored in 1778 and finally abolished in 1812, and most of its archive was destroyed.\n\nThe Padroado also sustained real cultural achievement. The first printing press in India was set up at the College of St Paul in 1556. The English Jesuit Thomas Stephens wrote a Konkani grammar and the Kristapurana (printed 1616), an epic retelling of the Bible in the Marathi-Konkani of Hindu puranic poetry; Jesuit and Franciscan scholars produced grammars, catechisms and dictionaries in Konkani, Marathi and Tamil. The Rachol Seminary (from 1610) trained Goan clergy, and Goan priests such as Joseph Vaz, who secretly rebuilt the Catholic church of Dutch-ruled Ceylon from 1687, became missionaries in their own right. Portuguese enclaves at Bassein, Chaul, Bombay, Daman, Diu, Mangalore, Nagapattinam and Hooghly left lasting Catholic communities such as the East Indians of Bombay and the Mangalorean Catholics.\n\nThe Padroado's claims soon collided with Rome. In 1622 the papacy founded the Congregation de Propaganda Fide to take direct control of missions, and from 1637 it appointed vicars apostolic in India — beginning with the Goan Brahmin Matheus de Castro, the first Indian bishop — in territories Portugal claimed but could no longer control. The resulting 'double jurisdiction' produced rival priests, excommunications and, in the nineteenth century, the 'Goan schism' after Pope Gregory XVI's brief Multa praeclare (1838) suppressed Padroado sees outside Portuguese territory. Concordats in 1857 and 1886 created a compromise hierarchy, and the Padroado in India was wound down after 1928 and ended after India annexed Goa in 1961. Meanwhile Mangalorean Catholics suffered captivity under Tipu Sultan, who deported tens of thousands to Seringapatam in 1784; many died before their release in 1799.\n\nThe Padroado's legacy is double-edged. It planted a large, culturally distinct Catholic population on India's west coast and supplied the subcontinent with priests, musicians, teachers and administrators. It also made Christianity in India look like the religion of the conqueror — 'Parangi' (Firangi) religion — associating it with temple destruction, forced baptism and inquisitorial terror, memories that Hindu nationalist writers have revived. In the 2011 census Goa's 366,130 Christians formed about 25 per cent of the state's population.",
+      "people": [
+        { "name": "Afonso de Albuquerque", "years": "1453–1515", "origin": "Alhandra, Portugal", "role": "Governor of Portuguese India; conqueror of Goa (1510)", "focus": "Established Goa as the capital of the Estado da Índia and encouraged Portuguese–Indian marriages", "outcome": "Founded the territorial base on which the Padroado church was built" },
+        { "name": "João de Albuquerque", "years": "d. 1553", "origin": "Spain (Franciscan)", "role": "First bishop of Goa (1537–1553)", "focus": "Organised the diocese and the Confraternity of the Holy Faith", "outcome": "Supported Xavier and the founding of St Paul's College" },
+        { "name": "Francis Xavier", "personId": "francis-xavier", "years": "1506–1552", "origin": "Javier, Navarre", "role": "Jesuit papal nuncio in the East", "focus": "Preaching in Goa; in 1545 urged King João III to establish an Inquisition in Goa", "outcome": "Body enshrined in the Bom Jesus Basilica, Goa; patron of the Padroado missions" },
+        { "name": "Alexis de Menezes", "years": "1559–1617", "origin": "Lisbon, Portugal (Augustinian)", "role": "Archbishop of Goa (1595–1610) and acting viceroy (1607–1609)", "focus": "Enforced Tridentine Catholicism and Latinised the St Thomas Christians", "outcome": "Presided over the Synod of Diamper (1599)" },
+        { "name": "Thomas Stephens", "years": "1549–1619", "origin": "Wiltshire, England (Jesuit)", "role": "Missionary in Salcete for forty years", "focus": "Konkani grammar and the Kristapurana, a Marathi-Konkani Christian purana", "outcome": "Considered a founder of Christian literature in Konkani and Marathi" },
+        { "name": "Matheus de Castro", "years": "c. 1594–1677", "origin": "Divar, Goa (Brahmin family)", "role": "First Indian Catholic bishop; vicar apostolic of Bijapur (1637)", "focus": "Ordained by Propaganda Fide after Goa's archbishop refused to ordain him; opposed Portuguese control", "outcome": "Clashed bitterly with Padroado authorities; symbol of Indian clergy's struggle for equality" },
+        { "name": "Joseph Vaz", "years": "1651–1711", "origin": "Benaulim, Goa", "role": "Goan Oratorian priest", "focus": "Secret ministry rebuilding Catholicism in Dutch-ruled Ceylon from 1687", "outcome": "Canonised in 2015; first saint of Goan origin" },
+        { "name": "Garcia de Orta", "years": "c. 1501–1568", "origin": "Castelo de Vide, Portugal (New Christian)", "role": "Physician and botanist in Goa", "focus": "Author of the Colóquios dos simples e drogas da Índia (Goa, 1563)", "outcome": "His sister was burned by the Inquisition and his remains exhumed and burned in 1580" }
+      ],
+      "groupsReached": [
+        "Hindu Saraswat Brahmins, Chardos, Gauddos and Kunbis of the Goan Old Conquests (Tiswadi, Bardez, Salcete)",
+        "Kolis, Bhandaris and agricultural communities of the Bombay–Bassein coast (later the 'East Indian' Catholics)",
+        "Konkani-speaking migrants from Goa who became the Mangalorean Catholics of Kanara",
+        "Portuguese settlers, mestiços and Luso-Indian families of the coastal enclaves",
+        "New Christians (converted Jews) and their descendants, the first targets of the Inquisition",
+        "Slaves and servants of Portuguese households from East Africa and Asia"
+      ],
+      "focus": [
+        "Building a Catholic colonial society in territories under direct Portuguese rule",
+        "Training clergy, catechists and interpreters in colleges and seminaries",
+        "Enforcing doctrinal orthodoxy among converts through the Inquisition and church councils",
+        "Defending royal patronage rights against Rome's Propaganda Fide"
+      ],
+      "strategies": [
+        "State-supported conversion: tax and office preferences for Christians, destruction of temples and bans on public Hindu rites",
+        "Village-by-village baptism following headmen and landholding communities (gaunkaris)",
+        "Education through parish schools, St Paul's College (1541) and the Rachol Seminary",
+        "Vernacular literature and printing in Konkani, Marathi and Tamil from 1556",
+        "Confraternities, festivals and church building to create a Catholic public culture"
+      ],
+      "challenges": [
+        "Too few European priests for a vast empire and reluctance to ordain and promote Indians",
+        "Persistence of ancestral practices among converts, which authorities treated as heresy",
+        "Dutch, English and Maratha conquests of Portuguese territory in the seventeenth and eighteenth centuries",
+        "Conflict with Propaganda Fide and the vicars apostolic over jurisdiction",
+        "Pombal's expulsion of the Jesuits (1759) and suppression of religious orders in Portuguese territories (1834–35)"
+      ],
+      "harms": [
+        "Systematic destruction of temples in Goa from 1540 and the confiscation of temple lands for church use",
+        "Coercive measures — the 1559 orphan law, bans on Hindu worship and the expulsion of Brahmin priests — that made many baptisms anything but free",
+        "The Goa Inquisition (1560–1774, 1778–1812), which tried roughly 16,000 people and executed dozens, persecuting New Christians and Hindu converts",
+        "Racial hierarchy that kept Indian priests and Luso-Indians out of senior office for generations",
+        "Retention of caste among Goan Catholics, including separate seating and confraternities",
+        "Lasting association of Christianity with conquest, used in later anti-Christian polemic"
+      ],
+      "outcomes": [
+        "A large, culturally distinctive Catholic community in Goa, Mangalore and the Bombay region",
+        "The first printing press and some of the earliest printed books in Indian languages",
+        "A base from which Jesuits and other orders went to Japan, China, Ethiopia and the Mughal court",
+        "Goan clergy and laity who became missionaries, scholars and professionals across Asia and East Africa",
+        "Gradual transfer of jurisdiction to an Indian Catholic hierarchy, completed after 1961"
+      ],
+      "institutions": [
+        "Archdiocese of Goa and Daman (diocese 1534, archdiocese 1558), seat of the Patriarch of the East Indies",
+        "Sé Cathedral of Old Goa (begun 1562) and the Basilica of Bom Jesus (1605), with Xavier's tomb",
+        "College of St Paul, Goa (1541) and its printing press (1556)",
+        "Rachol Seminary, Salcete (from 1610)",
+        "Palace of the Inquisition, Old Goa (demolished in the nineteenth century)",
+        "Dioceses of Cochin (1558), Cranganore (1600) and Mylapore (1606)"
+      ],
+      "legacy": "The Padroado created the oldest Latin Catholic communities of India and gave the west coast a distinctive Indo-Portuguese Christian culture of churches, music and cuisine. It is also the clearest Indian example of mission fused with colonial power: temple destruction, coerced baptism and the Inquisition remain central to debates about conversion in India, and Rome's struggle to free the church from royal patronage foreshadowed the later push for an Indian-led hierarchy.",
+      "stations": [
+        { "name": "Old Goa — Sé Cathedral and Bom Jesus", "lat": 15.5009, "lng": 73.9116, "year": 1510 },
+        { "name": "Rachol Seminary, Salcete", "lat": 15.3048, "lng": 74.0050, "year": 1610 },
+        { "name": "Cochin (Fort Kochi)", "lat": 9.9658, "lng": 76.2421, "year": 1503 },
+        { "name": "Bassein (Vasai)", "lat": 19.3305, "lng": 72.8143, "year": 1534 },
+        { "name": "Bandra, Bombay", "lat": 19.0544, "lng": 72.8406, "year": 1570 },
+        { "name": "Daman", "lat": 20.4140, "lng": 72.8328, "year": 1559 },
+        { "name": "Diu", "lat": 20.7144, "lng": 70.9874, "year": 1535 },
+        { "name": "Mangalore", "lat": 12.8700, "lng": 74.8800, "year": 1568 },
+        { "name": "San Thome, Mylapore", "lat": 13.0335, "lng": 80.2775, "year": 1523 },
+        { "name": "Nagapattinam", "lat": 10.7656, "lng": 79.8424, "year": 1554 },
+        { "name": "Bandel (Hooghly), Bengal", "lat": 22.9230, "lng": 88.3970, "year": 1599 }
+      ],
+      "stats": [
+        { "label": "Persons tried by the Goa Inquisition (approx., 1561–1774)", "value": 16000, "unit": "trials", "year": 1774 },
+        { "label": "Christians in Goa (census)", "value": 366130, "unit": "people", "year": 2011 },
+        { "label": "Christian share of Goa's population (census)", "value": 25.1, "unit": "%", "year": 2011 }
+      ],
+      "sources": ["i1-neill-india-1", "frykenberg-india", "i1-priolkar-inquisition", "i1-boxer-seaborne", "i1-thekkedath-history", "neill-missions", "i1-census-india-2011", "latourette-expansion"],
+      "confidence": "established"
+    },
+    {
+      "id": "india-xavier-paravars",
+      "title": "Francis Xavier and the Paravars of the Pearl Fishery Coast",
+      "order": 4,
+      "startYear": 1535,
+      "endYear": 1552,
+      "region": "The Fishery Coast of southern Tamil Nadu (Tuticorin to Kanyakumari) and the Mukkuvar coast of Travancore",
+      "place": { "name": "Tuticorin (Thoothukudi), Tamil Nadu", "lat": 8.7642, "lng": 78.1348 },
+      "movementIds": ["jesuit-asia-mission", "iberian-colonial-mission"],
+      "summary": "In 1535–37 the Paravars, a Tamil caste of pearl-divers and fishers on the Gulf of Mannar, accepted mass baptism in return for Portuguese protection against Muslim rivals and inland overlords. From 1542 the Jesuit Francis Xavier gave this nominal conversion content, touring some thirty coastal villages with Tamil prayers, child catechists and village kanakkapillais, before baptising thousands of Mukkuvar fishers in Travancore. The result was the first Catholic caste community created by mission in India — durable, devout and fiercely loyal to its Catholic identity, but born of a political bargain.",
+      "story": "The Paravars lived in some thirty villages along the coast from Tuticorin to Cape Comorin, earning their living from fishing and from the famous pearl beds of the Gulf of Mannar. In the early 1530s they were squeezed between Muslim Marakkayar traders, who competed for the pearl fishery with the backing of the Zamorin's fleets, and the Nayak overlords of the Vijayanagara empire inland. After a quarrel at Tuticorin around 1532, Paravar headmen sought help from the Portuguese at Cochin. The price of protection was baptism: between 1535 and 1537 the vicar-general Miguel Vaz and other priests baptised some 20,000 Paravars in a series of mass ceremonies. In 1538 a Portuguese fleet destroyed the Muslim flotilla at Vedalai, confirming the alliance — and a Portuguese share of the pearl fishery.\n\nThe converts received almost no instruction. When Francis Xavier — a Navarrese co-founder of the Society of Jesus sent east as papal nuncio — arrived in Goa on 6 May 1542, he was asked to go to the Fishery Coast, which he reached in October 1542 with two Tamil-speaking seminarians. With their help he had the Creed, the Ten Commandments, the Lord's Prayer, the Hail Mary and the Confiteor translated into Tamil, memorised them phonetically, and walked from village to village ringing a bell to gather boys and girls, who learned the prayers and taught them to their parents. He baptised infants, destroyed images, nursed the sick and appointed in each village a kanakkapillai (literate catechist-accountant) to lead prayers and teach on Sundays. In a letter of January 1544 he wrote that his arms were often too tired to baptise any more.\n\nXavier's work was bound up with Portuguese power and violence. He protested to the governor about Portuguese captains who oppressed the Paravars, but also relied on them. When Badaga raiders from the Vijayanagara overlords attacked the coast in 1544, he organised relief boats for refugees at Manapad. In late 1544, with the support of the Raja of Travancore, he moved to the Mukkuvar fishing villages south of Trivandrum, claiming to have baptised some 10,000 people in a single month. On Mannar island, the Raja of Jaffna, Cankili I, massacred several hundred new converts in 1544; Xavier's call for a punitive expedition was never carried out. Xavier left India for Mylapore and Malacca in 1545 and went on to the Moluccas and Japan, returning to India only briefly before he died on Shangchuan island off China in December 1552.\n\nThe Jesuits made the Fishery Coast a permanent mission. The Italian Antonio Criminali became the first Jesuit martyr when he was killed at Vedalai in 1549. Henrique Henriques, a Portuguese Jesuit of Jewish descent who worked on the coast from 1547 to his death at Punnaikayal in 1600, mastered Tamil, wrote the first Tamil grammar by a European and saw through the press the Thambiran Vanakkam (Quilon, 1578), the first book printed in an Indian script, followed by the Kiristiyani Vanakkam (1579) and the Flos Sanctorum (Punnaikayal, 1586). The Jesuits organised confraternities, schools and hospitals in the villages, and the statue of Our Lady of the Snows (Panimaya Matha) at Tuticorin, venerated since 1582, became the community's emblem.\n\nConversion did not dissolve caste — it consolidated it. The Paravar 'Jati Talaivan' (caste headman), recognised by the Portuguese, combined religious and social leadership, and Catholic festivals such as the golden-car procession of Our Lady of the Snows became expressions of Paravar identity. When the Dutch took Tuticorin in 1658 and tried to impose Calvinism, the Paravars clung to Catholicism, secretly sheltering Jesuit priests. They later became a centre of the struggle between Padroado and Propaganda jurisdictions. Today the Paravars and Mukkuvars remain overwhelmingly Catholic and form the core of the dioceses of Tuticorin, Kottar and Thiruvananthapuram's coastal parishes.",
+      "people": [
+        { "name": "Francis Xavier", "personId": "francis-xavier", "years": "1506–1552", "origin": "Javier, Navarre (Spain)", "role": "Jesuit co-founder and papal nuncio to the East", "focus": "Catechising the Paravars (1542–44) and baptising the Mukkuvars of Travancore (1544)", "outcome": "Left a durable Catholic fishing-caste community; canonised 1622 and named patron of missions" },
+        { "name": "Miguel Vaz", "years": "d. 1547", "origin": "Portugal", "role": "Vicar-general of the Goa diocese", "focus": "Led the mass baptisms of the Paravars in 1535–37", "outcome": "Later pressed the crown for harsher measures against Hindu worship in Goa" },
+        { "name": "Henrique Henriques", "years": "1520–1600", "origin": "Vila Viçosa, Portugal (New Christian descent)", "role": "Jesuit superior of the Fishery Coast mission", "focus": "Tamil grammar, catechisms and devotional books; schools and confraternities", "outcome": "Produced the first books printed in Tamil, starting with the Thambiran Vanakkam (1578)" },
+        { "name": "Antonio Criminali", "years": "1520–1549", "origin": "Sissa, near Parma, Italy", "role": "Jesuit missionary and Xavier's successor on the coast", "focus": "Pastoral care of the Paravar villages", "outcome": "Killed at Vedalai in 1549, the first Jesuit martyr" },
+        { "name": "Unni Kerala Varma", "years": "fl. 1540s", "origin": "Travancore (Venad)", "role": "Ruler of Travancore", "focus": "Permitted and protected Xavier's mission to the Mukkuvar coast for political advantage", "outcome": "Enabled the conversion of the coastal Mukkuvar villages" },
+        { "name": "Cankili I", "years": "r. 1519–1561", "origin": "Jaffna kingdom (Sri Lanka)", "role": "Raja of Jaffna", "focus": "Opposed Portuguese influence on Mannar", "outcome": "Ordered the killing of several hundred Catholic converts on Mannar in 1544" }
+      ],
+      "groupsReached": [
+        "Paravars — Tamil pearl-diving and fishing caste of the Gulf of Mannar coast (Tuticorin, Punnaikayal, Manapad, Virapandianpatnam, Vembar)",
+        "Mukkuvars — Malayalam- and Tamil-speaking fishing caste of the Travancore coast",
+        "Karaiyar and other fishers of Mannar and northern Sri Lanka",
+        "Children of fishing villages, deliberately used as the first learners and teachers of the faith"
+      ],
+      "focus": [
+        "Giving basic Christian instruction to communities already baptised en masse",
+        "Building a village-level church organisation that could survive with few priests",
+        "Protecting converts against raids and exploitation by inland overlords and Portuguese officials",
+        "Tamil-language catechesis and, later, printed books"
+      ],
+      "strategies": [
+        "Group (caste) conversion negotiated with headmen in exchange for Portuguese protection",
+        "Memorised Tamil translations of the core prayers, sung and recited daily",
+        "Children as catechists to their parents",
+        "Appointment of a paid kanakkapillai in each village to lead worship and teach",
+        "Destruction of shrines and images to mark a clean break with former worship",
+        "Confraternities, festivals and Marian devotion to bind Catholic and caste identity"
+      ],
+      "challenges": [
+        "Language: Xavier never mastered Tamil and relied on interpreters and rote formulas",
+        "Raids by Badaga soldiers and conflict with Muslim traders and local rulers",
+        "Exploitation of converts by Portuguese captains who controlled the pearl fishery",
+        "Very few priests for a long coastline",
+        "Dutch conquest of Tuticorin (1658) and attempts to impose Protestantism"
+      ],
+      "harms": [
+        "Conversion was inseparable from a military-commercial bargain that gave the Portuguese a cut of the pearl fishery",
+        "Converts were baptised with little or no understanding of the faith",
+        "Xavier's destruction of images and his contempt for Brahmins, expressed in his letters, set a confrontational tone",
+        "Xavier's 1545 request for an Inquisition in Goa linked the mission to later coercion",
+        "Caste solidarity was sacralised rather than challenged, and Paravar–Mukkuvar rivalries persisted within the church"
+      ],
+      "outcomes": [
+        "A cohesive Catholic Paravar community that has kept its faith for nearly five centuries",
+        "The Mukkuvar coast of Kerala and Kanyakumari became overwhelmingly Catholic",
+        "The first printed books in an Indian language and script",
+        "A model of group conversion along caste lines that was repeated in later Indian mass movements",
+        "Xavier became the most celebrated missionary of the Catholic world and the patron of missions (1927)"
+      ],
+      "institutions": [
+        "Basilica of Our Lady of Snows (Panimaya Matha), Tuticorin",
+        "Holy Cross church and Xavier's cave, Manapad",
+        "St Francis Xavier's Cathedral, Kottar (Nagercoil)",
+        "Diocese of Tuticorin (1923) and Diocese of Kottar (1930)",
+        "Jesuit residence and press at Punnaikayal"
+      ],
+      "legacy": "The Paravar conversion established the pattern of Catholic expansion in South India: whole caste communities entering the church together, with Christianity becoming part of their identity and caste organisation. Xavier's energy and his method of simple vernacular catechesis made him a model for missionaries for centuries, while the political circumstances of the conversion remain a classic example of the entanglement of mission and empire.",
+      "stations": [
+        { "name": "Tuticorin (Thoothukudi)", "lat": 8.7642, "lng": 78.1348, "year": 1535 },
+        { "name": "Punnaikayal", "lat": 8.6365, "lng": 78.1105, "year": 1542 },
+        { "name": "Manapad", "lat": 8.3769, "lng": 78.0552, "year": 1542 },
+        { "name": "Virapandianpatnam", "lat": 8.5167, "lng": 78.1167, "year": 1542 },
+        { "name": "Vembar", "lat": 9.0864, "lng": 78.3622, "year": 1542 },
+        { "name": "Vedalai (Criminali's martyrdom)", "lat": 9.2650, "lng": 79.1150, "year": 1549 },
+        { "name": "Cape Comorin (Kanyakumari)", "lat": 8.0883, "lng": 77.5385, "year": 1543 },
+        { "name": "Kottar (Nagercoil)", "lat": 8.1833, "lng": 77.4333, "year": 1544 },
+        { "name": "Poovar, Mukkuvar coast of Travancore", "lat": 8.3170, "lng": 77.0726, "year": 1544 },
+        { "name": "Mannar island (Sri Lanka)", "lat": 8.9810, "lng": 79.9044, "year": 1544 },
+        { "name": "Goa (arrival of Xavier)", "lat": 15.5009, "lng": 73.9116, "year": 1542 }
+      ],
+      "stats": [
+        { "label": "Paravars baptised in the mass baptisms of 1535–37 (approx.)", "value": 20000, "unit": "people", "year": 1537 },
+        { "label": "Paravar Christian villages on the Fishery Coast (approx.)", "value": 30, "unit": "villages", "year": 1544 },
+        { "label": "Mukkuvars baptised by Xavier in one month (his own claim)", "value": 10000, "unit": "people", "year": 1544 }
+      ],
+      "sources": ["i1-schurhammer-xavier", "i1-xavier-letters", "i1-bayly-saints", "i1-neill-india-1", "omalley-first-jesuits", "frykenberg-india", "neill-missions"],
+      "confidence": "established"
+    },
+    {
+      "id": "india-de-nobili-madurai",
+      "title": "Robert de Nobili and the Madurai mission",
+      "order": 5,
+      "startYear": 1606,
+      "endYear": 1773,
+      "region": "Madurai and the Tamil interior (Tiruchirappalli, Salem, Marava country), later extending to Telugu and Kannada regions",
+      "place": { "name": "Madurai, Tamil Nadu", "lat": 9.9252, "lng": 78.1198 },
+      "movementIds": ["jesuit-asia-mission"],
+      "summary": "In 1606 the Italian Jesuit Roberto de Nobili began a radical experiment in Madurai, the capital of the Nayak kingdom. Concluding that Christianity was rejected as the 'Parangi' religion of meat-eating Portuguese and low-caste fishers, he lived as a Brahmin sannyasi, learned Tamil and Sanskrit, and allowed high-caste converts to keep the sacred thread, tuft and other caste marks as civil customs. Approved by Pope Gregory XV in 1623, the method created a large interior Tamil Catholic church but also institutionalised caste within it, and the 'Malabar Rites' it spawned were condemned by Rome in 1704 and 1744.",
+      "story": "Christianity had reached Madurai before de Nobili: the Portuguese Jesuit Gonçalo Fernandes Trancoso had served a small congregation of Paravars there since 1595 without winning a single local convert in over a decade. The new arrival, Roberto de Nobili (born 1577 in Montepulciano or Rome to a Tuscan noble family related to Cardinal Bellarmine), reached Goa in 1605 and Madurai in November 1606. He concluded that the obstacle was cultural: Christians were 'Parangis', identified with the beef-eating, wine-drinking Portuguese and with low-caste converts, and no respectable Tamil could join them without becoming an outcaste.\n\nDe Nobili therefore separated himself from Fernandes and the Portuguese. He took the ochre robe of a sannyasi and later the dress of a Brahmin teacher (raja-guru), ate one vegetarian meal a day cooked by a Brahmin, lived in a hut in the Brahmin quarter and called himself a Roman of noble (Kshatriya, later Brahmin) rank. With the help of a Telugu Brahmin teacher, Sivadharma, he became perhaps the first European to master Sanskrit, and he wrote some twenty works in Tamil — including the catechism Gnanopadesam, the Attuma Nirnayam (on the soul) and the Dushana Dhikkaram (refutation of calumnies) — coining a Tamil Christian vocabulary that drew on Sanskrit. In his Latin treatise Informatio de quibusdam moribus nationis Indicae (1613) he argued that the sacred thread, the kudumi tuft, sandal paste and ritual bathing were marks of caste and social rank, not religion, and could be retained by converts once purified of idolatry. His first high-caste baptisms came in 1607–09.\n\nThe experiment caused a storm. Fernandes reported in 1610 that de Nobili was compromising the faith and dividing Christians by caste; the archbishop of Goa, Cristóvão de Sá, opposed him, while his own superior, the archbishop of Cranganore Francisco Ros, and Cardinal Bellarmine defended him. After a conference at Goa in 1619, Pope Gregory XV's constitution Romanae Sedis Antistes (31 January 1623) allowed the thread and tuft provisionally, provided superstitious elements were removed. De Nobili's mission spread to Tiruchirappalli and Salem; he was imprisoned more than once by Nayak authorities, and by the 1640s he was nearly blind. He spent his last years in Jaffna and at Mylapore, where he died on 16 January 1656.\n\nTo reach lower castes without alienating high-caste converts, the Jesuits developed a two-tier ministry in 1640: alongside 'Brahmin sannyasis' such as de Nobili, missionaries like the Portuguese Balthasar da Costa lived as 'pandaraswamis', non-Brahmin ascetics who could serve Shudra and Dalit (Paraiyar, Pallar) communities. Churches were built with separate entrances or partitions for different castes. The method produced its greatest growth not among Brahmins, few of whom converted, but among Vellalar, Udaiyar and other Shudra castes and among Paraiyars in the villages of the Kaveri delta and the Marava country. The Portuguese Jesuit John de Britto, a pandaraswami, converted many in the Marava kingdom before being beheaded at Oriyur on the orders of the Sethupathi ruler in 1693. The Italian Constanzo Beschi ('Viramamunivar', 1680–1747) wrote the Tamil epic Thembavani (1726) on the life of St Joseph and grammars of literary and colloquial Tamil, and is honoured as a classic Tamil author.\n\nThe practices of the Madurai, Mysore and Carnatic missions became known in Rome as the 'Malabar Rites', parallel to the Chinese Rites controversy. Capuchin critics in Pondicherry denounced the Jesuits for omitting ceremonies in baptism that offended caste sensibilities, for allowing the thread and caste separation, and for tolerating child marriage. The papal legate Charles-Thomas Maillard de Tournon condemned these practices in 1704, and after decades of appeals Pope Benedict XIV's bull Omnium sollicitudinum (1744) prohibited most of them, although it allowed missionaries to be assigned separately to different castes. The suppression of the Society of Jesus in 1773 devastated the mission; French Jesuits revived the 'New Madurai Mission' in 1838.\n\nDe Nobili's legacy is deeply contested. Admirers see him as a pioneer of inculturation, of serious Christian engagement with Sanskrit learning and of Indian Christian theology, whose example inspired later Catholic ashrams. Critics, including many Dalit Christian theologians, argue that his accommodation of Brahmanical norms built caste into the foundations of Tamil Catholicism, where separate seating, cemeteries, festival processions and even church walls dividing Dalits from caste Christians have persisted into the twenty-first century.",
+      "people": [
+        { "name": "Roberto de Nobili", "personId": "roberto-de-nobili", "years": "1577–1656", "origin": "Montepulciano or Rome, Italy", "role": "Jesuit missionary; founder of the Madurai mission's accommodation method", "focus": "Life as a Brahmin sannyasi, Tamil and Sanskrit scholarship, high-caste converts", "outcome": "Method approved by Rome in 1623; died at Mylapore, almost blind" },
+        { "name": "Gonçalo Fernandes Trancoso", "years": "1541–1621", "origin": "Trancoso, Portugal", "role": "Jesuit missionary in Madurai from 1595", "focus": "Ministry to Paravar Christians; wrote a detailed treatise on Hindu customs (1616)", "outcome": "Chief opponent of de Nobili's method within the mission" },
+        { "name": "Sivadharma", "years": "fl. 1608–1610s", "origin": "Telugu Brahmin, Madurai", "role": "De Nobili's teacher of Sanskrit and the Vedas", "focus": "Opened Sanskrit learning to a European missionary", "outcome": "Baptised by de Nobili; a key high-caste convert of the early mission" },
+        { "name": "Balthasar da Costa", "years": "1610–1673", "origin": "Portugal", "role": "Jesuit 'pandaraswami' missionary from 1640", "focus": "Ministry to Shudra and Paraiyar communities as a non-Brahmin ascetic", "outcome": "Greatly expanded the mission's numbers among lower castes" },
+        { "name": "John de Britto", "years": "1647–1693", "origin": "Lisbon, Portugal", "role": "Jesuit pandaraswami in the Marava country", "focus": "Mass conversions in the Ramnad region, including a Marava chieftain", "outcome": "Beheaded at Oriyur in 1693; canonised 1947" },
+        { "name": "Constanzo Giuseppe Beschi (Viramamunivar)", "years": "1680–1747", "origin": "Castiglione delle Stiviere, Italy", "role": "Jesuit missionary and Tamil scholar", "focus": "Tamil epic Thembavani (1726), dictionaries and grammars of literary and spoken Tamil", "outcome": "Honoured in Tamil Nadu as a classical Tamil poet; statue on the Chennai Marina" },
+        { "name": "Charles-Thomas Maillard de Tournon", "years": "1668–1710", "origin": "Turin, Savoy", "role": "Papal legate to India and China", "focus": "Investigated and condemned the Malabar Rites (decree of 1704)", "outcome": "Began the process that ended the Jesuit accommodation in 1744" }
+      ],
+      "groupsReached": [
+        "Brahmins and high-caste Tamil and Telugu literati in Madurai (only a small number converted)",
+        "Vellalar, Udaiyar, Nadar and other Shudra (non-Brahmin) agricultural castes of the Tamil interior",
+        "Maravars of the Ramnad (Marava) country, through John de Britto",
+        "Paraiyar and Pallar Dalit communities, served by pandaraswami missionaries",
+        "Telugu-speaking communities in the Carnatic and Kannada communities in the related Mysore mission"
+      ],
+      "focus": [
+        "Removing the 'foreign' (Parangi) stigma from Christianity",
+        "Presenting Christianity through Tamil and Sanskrit concepts and literary forms",
+        "Winning influential high-caste converts in the hope that others would follow",
+        "Building a Tamil Catholic church in the interior beyond Portuguese control"
+      ],
+      "strategies": [
+        "Adopting the lifestyle of an Indian ascetic or Brahmin guru: dress, vegetarian diet, separation from Europeans",
+        "Mastery of Tamil, Sanskrit and Telugu and composition of Tamil Christian treatises",
+        "Distinguishing 'civil' caste customs (thread, tuft, sandal paste) from 'religious' idolatry",
+        "A two-tier ministry of Brahmin sannyasis and pandaraswamis for different castes",
+        "Training Indian catechists who carried the work into villages",
+        "Christian literature in high Tamil (Beschi's Thembavani) to earn literary prestige"
+      ],
+      "challenges": [
+        "Opposition from fellow Jesuits, the archbishop of Goa and later Capuchins and the papacy",
+        "Few Brahmin conversions despite the high-caste strategy",
+        "Imprisonment and persecution by local rulers, culminating in John de Britto's execution",
+        "The Malabar Rites prohibitions of 1704 and 1744",
+        "Suppression of the Jesuits (1773), which left the mission without priests for decades"
+      ],
+      "harms": [
+        "Accommodation of caste institutionalised separation between caste and Dalit Christians — separate entrances, seating, communion lines and cemeteries",
+        "A Brahmin-centred presentation of Christianity marginalised Dalits even though they became the majority of converts",
+        "Misrepresentation: missionaries concealed their European origins and connection with low-caste Christians",
+        "Bitter internal disputes that damaged Catholic unity and credibility in South India"
+      ],
+      "outcomes": [
+        "A large Tamil Catholic population in the interior, beyond the coastal fishing castes",
+        "Pioneering European scholarship on Sanskrit, Tamil and Hindu thought",
+        "A precedent for twentieth-century inculturation and the Catholic ashram movement",
+        "The Malabar Rites controversy, which shaped Catholic mission policy on culture for two centuries",
+        "Continuing caste conflict in Tamil Catholic parishes"
+      ],
+      "institutions": [
+        "Madurai mission (1606–1773; New Madurai Mission revived by French Jesuits from 1838)",
+        "Shrine of St John de Britto, Oriyur",
+        "St Mary's Cathedral, Madurai, and the Archdiocese of Madurai (1886 diocese; archdiocese 1953)",
+        "St Joseph's College, Tiruchirappalli (founded 1844, moved to Trichy 1883) — successor of the revived Jesuit mission",
+        "Konankuppam church built by Beschi (Periyanayagi Matha)"
+      ],
+      "legacy": "De Nobili's experiment is the classic Indian case study of missionary accommodation. It proved that Christianity could be expressed in Tamil and Sanskrit idioms and set a high standard of scholarship, but by treating caste as a civil custom it also wrote caste into Tamil Catholicism, leaving a problem that the church in Tamil Nadu is still struggling to undo.",
+      "stations": [
+        { "name": "Madurai", "lat": 9.9252, "lng": 78.1198, "year": 1606 },
+        { "name": "Tiruchirappalli", "lat": 10.7905, "lng": 78.7047, "year": 1616 },
+        { "name": "Salem", "lat": 11.6643, "lng": 78.1460, "year": 1623 },
+        { "name": "Oriyur (John de Britto's martyrdom)", "lat": 9.7930, "lng": 78.9830, "year": 1693 },
+        { "name": "Konankuppam (Beschi's shrine)", "lat": 11.6230, "lng": 79.3140, "year": 1714 },
+        { "name": "Elakurichi (Thirukadalnagar)", "lat": 10.9440, "lng": 79.1300, "year": 1720 },
+        { "name": "Mylapore (de Nobili's death)", "lat": 13.0335, "lng": 80.2775, "year": 1656 },
+        { "name": "Goa (arrival)", "lat": 15.5009, "lng": 73.9116, "year": 1605 }
+      ],
+      "stats": [
+        { "label": "Christians in Tamil Nadu (census)", "value": 4418331, "unit": "people", "year": 2011 },
+        { "label": "Christian share of Tamil Nadu's population (census)", "value": 6.12, "unit": "%", "year": 2011 }
+      ],
+      "sources": ["i1-zupanov-disputed", "i1-clooney-nobili", "i1-neill-india-1", "i1-bayly-saints", "frykenberg-india", "neill-missions", "i1-census-india-2011"],
+      "confidence": "established"
+    },
+    {
+      "id": "india-diamper-coonan-cross",
+      "title": "Synod of Diamper (1599) and the Coonan Cross Oath (1653)",
+      "order": 6,
+      "startYear": 1599,
+      "endYear": 1665,
+      "region": "Central Kerala (Cochin, Udayamperoor, Angamaly, Alangad, Kaduthuruthy)",
+      "place": { "name": "Udayamperoor (Diamper), Kerala", "lat": 9.9050, "lng": 76.3640 },
+      "movementIds": ["iberian-colonial-mission", "jesuit-asia-mission", "church-of-the-east-mission"],
+      "summary": "In June 1599 Archbishop Alexis de Menezes of Goa convened the Synod of Diamper, which cut the St Thomas Christians off from the Church of the East, condemned 'Nestorian' teaching, burned or expurgated Syriac books and imposed Latin discipline under Jesuit bishops. Half a century of resentment exploded in the Coonan Cross Oath of 3 January 1653, when thousands swore at Mattancherry never to obey the Jesuits. Rome's Carmelite envoys won most parishes back, but the remainder formed an independent church that joined the Syriac Orthodox tradition in 1665 — the origin of the lasting division between Kerala's Catholic and Orthodox Syrian Christians.",
+      "story": "The Portuguese regarded the St Thomas Christians as fellow Christians tainted by 'Nestorianism' — loyalty to the Church of the East, whose theology the Council of Ephesus (431) had condemned. When the last East Syriac metropolitan, Mar Abraham, died in 1597, Alexis de Menezes, the Augustinian archbishop of Goa, saw his chance. Early in 1599 he toured the Syrian parishes with Portuguese backing, ordaining dozens of new priests to win their loyalty and pressing the archdeacon, George of the Cross, to submit. He then summoned a synod to Udayamperoor (Diamper), near Cochin, which met from 20 to 26 June 1599 with 153 priests and some 660 lay representatives.\n\nThe synod's decrees, drafted in Portuguese and read in Malayalam translation, transformed the church. It condemned Nestorius, removed the name of the 'Patriarch of Babylon' from the liturgy and required submission to the Pope and the Padroado. Syriac books judged heretical were to be surrendered and corrected or burned; the East Syriac Qurbana was revised to conform to Latin doctrine; the veneration of East Syriac saints was forbidden. Priests, who had commonly married, were required to be celibate; the Tridentine sacraments of confirmation and auricular confession were imposed; and many customs shared with Hindu neighbours — astrology, certain marriage practices and ritual pollution beliefs — were condemned, though the synod left caste distinctions largely untouched. In 1600 Rome placed the community under Latin Jesuit bishops at Angamaly, a see transferred to Cranganore in 1605, beginning with Francisco Ros (1601–1624).\n\nFor half a century the archdeacons resisted the Jesuit bishops' attempts to govern without them. Under Bishop Francisco Garcia (1641–1659) relations broke down completely. In 1652 a bishop from the Middle East named Ahatallah, who claimed to have been sent by the patriarch, arrived at Mylapore; the Portuguese seized him and shipped him to Goa, and rumours spread in Kerala that he had been drowned in Cochin harbour. On 3 January 1653 a great crowd of Thomas Christians gathered at the church of Our Lady of Life in Mattancherry. Unable all to touch the stone cross, they tied ropes to it and swore together that they would no longer obey Garcia or the Jesuits. Tradition holds that the cross bent under the strain — hence 'Coonan Cross' (koonan kurishu, the 'leaning cross'). On 22 May 1653 at Alangad twelve priests laid hands on Archdeacon Thomas (Parambil Thomas), proclaiming him bishop as Mar Thoma I.\n\nRome responded by sending Italian Discalced Carmelites under the authority of Propaganda Fide rather than the Portuguese Jesuits. Led by Joseph Sebastiani, they persuaded many to return to Catholic communion, arguing that Mar Thoma I's consecration was invalid. When the Dutch East India Company captured Cochin in January 1663 and expelled Catholic missionaries, Sebastiani consecrated an Indian, Parambil Chandy (Alexander de Campo), as vicar apostolic. By then 84 of the 116 communities had returned to Rome, while 32 remained with Mar Thoma I. In 1665 the Syriac Orthodox bishop Mar Gregorios Abdul Jaleel of Jerusalem arrived and recognised Mar Thoma I, and over the following century the independent party adopted the West Syriac (Antiochene) liturgy and miaphysite Christology.\n\nThe events created the enduring division of the Thomas Christians into the Pazhayakoor ('old allegiance', the Catholic Syro-Malabar Church) and the Puthenkoor ('new allegiance', the Malankara churches). The Catholic party remained under Latin bishops — Carmelites and Padroado prelates — until Rome created vicariates apostolic for them under Indian bishops in 1896 and a full hierarchy in 1923. Latinisation itself became a long-running issue: twentieth-century scholars and bishops sought to restore East Syriac elements of the liturgy, and disputes over the form of the Qurbana led to open conflict in the Archdiocese of Ernakulam-Angamaly between 2021 and 2024. On the Puthenkoor side, the question of who held authority — a Kerala metropolitan or the patriarch of Antioch — underlay the later Orthodox–Jacobite division.",
+      "people": [
+        { "name": "Alexis de Menezes", "years": "1559–1617", "origin": "Lisbon, Portugal (Augustinian friar)", "role": "Archbishop of Goa, 1595–1610", "focus": "Bringing the Thomas Christians under Latin and Padroado control", "outcome": "Presided at Diamper; later archbishop of Braga and viceroy of Portugal" },
+        { "name": "Archdeacon Giwargis (George) of the Cross", "years": "fl. 1590s–1640", "origin": "Kerala", "role": "Archdeacon of the Thomas Christians", "focus": "Initially resisted Menezes, then submitted at Diamper", "outcome": "Continued in office, defending archidiaconal rights under the Jesuit bishops" },
+        { "name": "Francisco Ros", "years": "1557–1624", "origin": "Girona, Catalonia (Jesuit)", "role": "First Latin bishop of Angamaly/Cranganore (1601–1624)", "focus": "Syriac scholar who enforced Diamper's decrees and revised Syriac books", "outcome": "Supported de Nobili in Madurai; frequent conflict with the archdeacon" },
+        { "name": "Francisco Garcia", "years": "1580–1659", "origin": "Spain (Jesuit)", "role": "Archbishop of Cranganore (1641–1659)", "focus": "Firm Jesuit control over the Syrian church", "outcome": "His rule triggered the Coonan Cross revolt" },
+        { "name": "Ahatallah (Mar Ignatius)", "years": "d. c. 1654", "origin": "Syria / Middle East", "role": "Bishop of uncertain affiliation who claimed patriarchal appointment", "focus": "Sought to minister to the Thomas Christians in 1652", "outcome": "Arrested by the Portuguese; rumours of his death sparked the 1653 oath" },
+        { "name": "Mar Thoma I (Archdeacon Parambil Thomas)", "years": "d. 1670", "origin": "Kuravilangad, Kerala", "role": "Archdeacon and first head of the independent Malankara church", "focus": "Leadership after the Coonan Cross Oath; consecrated by twelve priests at Alangad in 1653", "outcome": "Regularised by the Syriac Orthodox Mar Gregorios in 1665" },
+        { "name": "Joseph Sebastiani (Joseph of St Mary)", "years": "1623–1689", "origin": "Italy (Discalced Carmelite)", "role": "Apostolic commissary sent by Propaganda Fide", "focus": "Reconciling the Thomas Christians with Rome after 1653", "outcome": "Won back most communities; consecrated Parambil Chandy in 1663" },
+        { "name": "Parambil Chandy (Alexander de Campo)", "years": "c. 1615–1687", "origin": "Kuravilangad, Kerala", "role": "First native bishop of the Catholic Thomas Christians (vicar apostolic from 1663)", "focus": "Leading the Pazhayakoor after the Dutch expelled the Carmelites", "outcome": "Held the Catholic party together under Dutch rule" },
+        { "name": "Mar Gregorios Abdul Jaleel", "years": "d. 1681", "origin": "Jerusalem (Syriac Orthodox)", "role": "Syriac Orthodox bishop of Jerusalem", "focus": "Arrived in Kerala in 1665 and recognised Mar Thoma I", "outcome": "Began the West Syriac (Antiochene) tradition in Malankara; buried at North Paravur" }
+      ],
+      "groupsReached": [
+        "The whole St Thomas Christian (Nasrani) community, then numbering some 30,000 families or more",
+        "Kathanars (married Syriac priests) and the archdeacon's family, the Pakalomattam line",
+        "Parish assemblies (yogams) of central Kerala towns such as Angamaly, Kaduthuruthy, Kuravilangad and Alangad",
+        "Local rulers of Cochin, Vadakkumkur and Thekkumkur, whose support both sides sought"
+      ],
+      "focus": [
+        "For the Portuguese: Tridentine orthodoxy and Padroado jurisdiction over all Christians in India",
+        "For the Thomas Christians: preserving their ancient liturgy, customs and self-government under the archdeacon",
+        "For Rome after 1653: reconciliation through Propaganda Fide rather than the Padroado",
+        "For the independent party: securing valid episcopal succession from an Eastern church"
+      ],
+      "strategies": [
+        "Menezes combined pastoral visitation, mass ordinations and Portuguese political pressure on local rulers",
+        "Doctrinal and liturgical revision of Syriac books and destruction of those judged heretical",
+        "Appointment of Latin Jesuit bishops and Jesuit seminary training at Vaipicotta",
+        "The Thomas Christians used a collective public oath and the consecration of their archdeacon",
+        "Rome's Carmelites used negotiation, an Indian bishop and the language of continuity to win back parishes"
+      ],
+      "challenges": [
+        "Deep mistrust between Portuguese clergy and an ancient Eastern church with its own traditions",
+        "Disputed validity of Mar Thoma I's consecration by priests",
+        "The Dutch conquest of Cochin (1663) and expulsion of Catholic missionaries",
+        "Rivalry between the Padroado (Jesuits) and Propaganda Fide (Carmelites)"
+      ],
+      "harms": [
+        "Burning and expurgation of Syriac books, destroying much of the East Syriac literary heritage of India",
+        "Imposition of clerical celibacy and Latin rites by an outside power without genuine consent",
+        "Suppression of the community's self-government under the archdeacon and of its link with its mother church",
+        "Political coercion through the Portuguese military and the threat of the Goa Inquisition",
+        "Division of one community into rival churches, a split that has generated litigation and conflict ever since"
+      ],
+      "outcomes": [
+        "The Syro-Malabar (Pazhayakoor) church remained Catholic, gaining Indian bishops only in 1896",
+        "The Malankara (Puthenkoor) church became independent and adopted the West Syriac tradition from 1665",
+        "Roughly 84 of 116 communities returned to Rome by 1663, while 32 stayed with Mar Thoma I",
+        "Latinisation of the Syro-Malabar liturgy, partly reversed in the twentieth century",
+        "A lasting memory of resistance to foreign ecclesiastical control in Kerala Christianity"
+      ],
+      "institutions": [
+        "All Saints' Church, Udayamperoor (site of the Synod of Diamper)",
+        "Our Lady of Life Church, Mattancherry (site of the Coonan Cross Oath)",
+        "St Mary's Church, Alangad (consecration of Mar Thoma I)",
+        "Vaipicotta Jesuit seminary, Chennamangalam (from 1580s)",
+        "Archdiocese of Cranganore (Padroado, 1605) and the Carmelite Vicariate of Malabar (1659)"
+      ],
+      "legacy": "Diamper and the Coonan Cross Oath are the defining trauma and the defining act of resistance in Kerala Christianity. They show how a European church, backed by an empire, tried to remake an older Asian church in its own image, and how that church answered — by an oath of collective dissent that is still remembered as an assertion of Indian Christian self-determination.",
+      "stations": [
+        { "name": "Udayamperoor (Diamper)", "lat": 9.9050, "lng": 76.3640, "year": 1599 },
+        { "name": "Mattancherry, Coonan Cross", "lat": 9.9580, "lng": 76.2590, "year": 1653 },
+        { "name": "Alangad", "lat": 10.1065, "lng": 76.2920, "year": 1653 },
+        { "name": "Angamaly", "lat": 10.1960, "lng": 76.3860, "year": 1600 },
+        { "name": "Kaduthuruthy", "lat": 9.7686, "lng": 76.4920, "year": 1599 },
+        { "name": "Kuravilangad", "lat": 9.7578, "lng": 76.5634, "year": 1653 },
+        { "name": "Vaipicotta seminary, Chennamangalam", "lat": 10.1830, "lng": 76.2160, "year": 1587 },
+        { "name": "North Paravur (tomb of Mar Gregorios)", "lat": 10.1490, "lng": 76.2270, "year": 1665 }
+      ],
+      "stats": [
+        { "label": "Priests attending the Synod of Diamper", "value": 153, "unit": "priests", "year": 1599 },
+        { "label": "Lay representatives at the Synod of Diamper", "value": 660, "unit": "delegates", "year": 1599 },
+        { "label": "Priests who laid hands on Mar Thoma I at Alangad", "value": 12, "unit": "priests", "year": 1653 },
+        { "label": "Communities reconciled with Rome by 1663", "value": 84, "unit": "communities", "year": 1663 },
+        { "label": "Communities remaining with Mar Thoma I", "value": 32, "unit": "communities", "year": 1663 }
+      ],
+      "sources": ["i1-thekkedath-history", "i1-neill-india-1", "brown-st-thomas-christians", "frykenberg-india", "i1-podipara-thomas", "roberson-eastern-churches"],
+      "confidence": "established"
+    },
+    {
+      "id": "india-tranquebar",
+      "title": "Tranquebar: Ziegenbalg, Plütschau and the first Protestant mission",
+      "order": 7,
+      "startYear": 1706,
+      "endYear": 1847,
+      "region": "Tranquebar (Tharangambadi) in the Danish enclave on the Coromandel coast, extending to Madras, Cuddalore, Thanjavur and Tiruchirappalli",
+      "place": { "name": "Tranquebar (Tharangambadi), Tamil Nadu", "lat": 11.0247, "lng": 79.8550 },
+      "movementIds": ["danish-halle-mission", "moravian-mission"],
+      "summary": "On 9 July 1706 two young German Lutherans trained at Halle, Bartholomäus Ziegenbalg and Heinrich Plütschau, landed at the Danish trading post of Tranquebar, sent by King Frederik IV of Denmark. They began the first organised Protestant mission in India, with a pietist emphasis on the vernacular Bible, schools, print and the study of Tamil religion. Ziegenbalg's Tamil New Testament (1714–15) was the first printed Bible translation in any Indian language, and the Tranquebar mission became the root of Tamil Lutheranism and a model for the Protestant missionary movement.",
+      "story": "Denmark had held Tranquebar since 1620, with Fort Dansborg protecting a small trading settlement, but its chaplains served only Europeans. In 1705 King Frederik IV, prompted by his court chaplain Franz Julius Lütkens, resolved to send missionaries. Finding no willing Danes, Lütkens recruited two Germans from the circle of August Hermann Francke at Halle: Bartholomäus Ziegenbalg (born 1682 in Pulsnitz, Saxony) and Heinrich Plütschau (born 1677 in Mecklenburg). They sailed from Copenhagen in November 1705 and reached Tranquebar on 9 July 1706. The Danish commandant, J. S. Hassius, and the Danish East India Company saw them as troublemakers; in 1708–09 Ziegenbalg was imprisoned for four months.\n\nZiegenbalg set out to learn Tamil by sitting with the children of a village school, tracing letters in the sand. Within a few years he was preaching, writing and translating. The first baptisms, of five slaves of Danish households, took place on 12 May 1707, and the Jerusalem church was consecrated that August; the larger New Jerusalem Church followed in 1718. The missionaries opened schools for boys and girls — among the first in South India to teach girls to read — and a seminary for catechists and teachers. In 1712 the Society for Promoting Christian Knowledge (SPCK) in London sent a printing press, and with Tamil type cast in Halle the mission printed the Tamil New Testament (1714–15) along with catechisms, hymnals and grammars. Benjamin Schultze completed the Old Testament in 1727–28.\n\nZiegenbalg was also a serious student of Tamil religion and society. He collected palm-leaf manuscripts, compiled the Bibliotheca Malabarica (1708), a catalogue of Tamil books, and held public dialogues with Hindu and Muslim scholars, later published in Europe. His Genealogy of the South Indian Gods (1713) was considered too sympathetic to 'heathenism' by Francke, who refused to print it; it was published only in 1867. The Halle Reports (Hallesche Berichte), published from 1710, circulated the mission's letters across Protestant Europe and inspired Count Zinzendorf, who met Ziegenbalg in 1715, and the later British missionary societies. Ziegenbalg travelled to Europe in 1714–16, where he met George I in London, before returning to Tranquebar. Worn out by work and conflict with the mission board in Copenhagen, he died on 23 February 1719 at the age of thirty-six, leaving a congregation of some 250 baptised Christians; Plütschau had returned to Europe in 1711, and Johann Ernst Gründler died in 1720.\n\nThe mission continued under Halle-trained successors for more than a century. It ordained the first Indian Lutheran pastor, Aaron, in 1733, followed by Diogo and others; extended its work to Madras (Vepery, 1726), Cuddalore (1737), Thanjavur and Tiruchirappalli; and through the SPCK became an unusual partnership between German Lutheran missionaries and the Church of England. Its most famous later missionary, Christian Friedrich Schwartz, arrived in 1750 and became a confidant of the rulers of Thanjavur. Moravian Brethren also maintained a settlement, the 'Brethren's Garden', at Tranquebar from 1760 to 1803.\n\nThe mission struggled with caste from the start. Converts came from many backgrounds, including Vellalars, Paraiyars and Pallars, and the missionaries allowed separate seating and separate communion cups for caste and Dalit Christians to avoid losing high-caste members — a compromise later attacked by evangelical missionaries and defended by the Leipzig Mission in the 'caste controversy' of the 1840s–50s. By the late eighteenth century rationalism at Halle, war and lack of funds had weakened the mission. Denmark sold Tranquebar to the British East India Company in 1845, and in 1847 the Leipzig Evangelical Lutheran Mission took over the Tamil congregations, which became the Tamil Evangelical Lutheran Church in 1919.",
+      "people": [
+        { "name": "Bartholomäus Ziegenbalg", "personId": "bartholomaus-ziegenbalg", "years": "1682–1719", "origin": "Pulsnitz, Saxony", "role": "Pioneer Lutheran missionary and translator", "focus": "Tamil language, Bible translation, schools, printing and the study of Tamil religion", "outcome": "Translated and printed the first Tamil New Testament; died at Tranquebar aged 36" },
+        { "name": "Heinrich Plütschau", "years": "1677–1752", "origin": "Wesenberg, Mecklenburg", "role": "Co-founder of the Tranquebar mission", "focus": "Ministry among the Portuguese-speaking community and early catechesis", "outcome": "Returned to Europe in 1711 and became a pastor in Holstein" },
+        { "name": "August Hermann Francke", "personId": "august-hermann-francke", "years": "1663–1727", "origin": "Lübeck", "role": "Pietist leader and director of the Halle Foundations", "focus": "Trained and supplied missionaries and published the Halle Reports", "outcome": "Made Halle the European centre of Protestant mission support for the eighteenth century" },
+        { "name": "Frederik IV of Denmark", "years": "1671–1730 (reigned 1699–1730)", "origin": "Copenhagen, Denmark", "role": "King and royal patron of the mission", "focus": "Funded the mission and founded the Mission College in Copenhagen (1714)", "outcome": "Created the first state-sponsored Protestant overseas mission" },
+        { "name": "Johann Ernst Gründler", "years": "1677–1720", "origin": "Weißensee, Thuringia", "role": "Missionary at Tranquebar from 1709", "focus": "Education and translation work alongside Ziegenbalg", "outcome": "Led the mission briefly after Ziegenbalg's death before dying in 1720" },
+        { "name": "Benjamin Schultze", "years": "1689–1760", "origin": "Sonnenburg, Brandenburg", "role": "Missionary at Tranquebar and founder of the Madras (Vepery) mission", "focus": "Completed the Tamil Old Testament; translated into Telugu and Hindustani", "outcome": "Extended the mission to Madras under SPCK sponsorship (1726)" },
+        { "name": "Aaron", "years": "c. 1698–1745", "origin": "Cuddalore region (born Arumugam, of Vellalar background)", "role": "First ordained Indian Lutheran pastor (1733)", "focus": "Pastoral care of Tamil congregations", "outcome": "Pioneered Indian Protestant ordained ministry" }
+      ],
+      "groupsReached": [
+        "Slaves and servants of European and Portuguese households in Tranquebar (the first converts in 1707)",
+        "Portuguese-speaking Luso-Indian Catholics and mixed-race residents",
+        "Tamil Vellalars and other Shudra castes, some of whom became catechists and pastors",
+        "Paraiyar and Pallar Dalit communities in the surrounding villages",
+        "Children of all castes, including girls, in the mission schools",
+        "Hindu and Muslim scholars engaged in public dialogue"
+      ],
+      "focus": [
+        "Translation of the Bible into Tamil so that converts could read Scripture for themselves",
+        "Education, including schools for girls and training of Indian catechists and teachers",
+        "Printing Christian literature in Tamil and Portuguese",
+        "Understanding Tamil religion and society through manuscripts and dialogue",
+        "Raising up an Indian ministry"
+      ],
+      "strategies": [
+        "Immersive language learning from Tamil teachers and children",
+        "Vernacular Bible translation and printing from 1712",
+        "Schools, orphanages and a seminary to form literate Christians",
+        "Public disputations and correspondence with Hindu and Muslim scholars",
+        "Publicity in Europe through the Halle Reports to raise support",
+        "Partnership with the Anglican SPCK, which funded presses, missionaries and the Madras mission"
+      ],
+      "challenges": [
+        "Hostility from the Danish commandant and East India Company, including Ziegenbalg's imprisonment (1708–09)",
+        "Conflict with the mission board in Copenhagen over money and control",
+        "Early deaths of missionaries in the tropical climate",
+        "Caste divisions among converts",
+        "Rationalism at Halle and a shortage of missionaries and funds after 1780"
+      ],
+      "harms": [
+        "Accommodation of caste: separate seating, communion cups and burial places for caste and Dalit Christians",
+        "Dependence on the colonial enclave and on the patronage of European powers",
+        "Early converts were slaves of Europeans, raising questions about the freedom of their conversion",
+        "Missionary paternalism kept Indian pastors subordinate to Europeans for generations"
+      ],
+      "outcomes": [
+        "The first printed Bible translation in an Indian language (Tamil New Testament, 1714–15)",
+        "The first ordained Indian Protestant pastor (Aaron, 1733)",
+        "A Lutheran church that became the Tamil Evangelical Lutheran Church (1919)",
+        "A model of Bible translation, education and print later followed by Carey and the British societies",
+        "Pioneering European scholarship on Tamil language and religion"
+      ],
+      "institutions": [
+        "New Jerusalem Church, Tranquebar (1718)",
+        "Tranquebar mission press (from 1712)",
+        "Danish Mission College, Copenhagen (1714)",
+        "Tamil Evangelical Lutheran Church (TELC, 1919), headquartered in Tiruchirappalli",
+        "Ziegenbalg Museum and the Tranquebar mission schools"
+      ],
+      "legacy": "Tranquebar was the beginning of Protestant mission in India and arguably of the modern Protestant missionary movement. Its commitments to vernacular Scripture, literacy, print, schools and serious study of Indian religion became the standard Protestant pattern, while its compromise over caste foreshadowed one of the most persistent problems of Indian Christianity.",
+      "stations": [
+        { "name": "Tranquebar (Tharangambadi)", "lat": 11.0247, "lng": 79.8550, "year": 1706 },
+        { "name": "Poraiyar (mission village and seminary)", "lat": 11.0278, "lng": 79.8300, "year": 1716 },
+        { "name": "Madras (Vepery)", "lat": 13.0870, "lng": 80.2630, "year": 1726 },
+        { "name": "Cuddalore", "lat": 11.7480, "lng": 79.7714, "year": 1737 },
+        { "name": "Thanjavur", "lat": 10.7870, "lng": 79.1378, "year": 1728 },
+        { "name": "Tiruchirappalli", "lat": 10.7905, "lng": 78.7047, "year": 1762 }
+      ],
+      "stats": [
+        { "label": "Slaves baptised in the first Protestant baptism in India", "value": 5, "unit": "people", "year": 1707 },
+        { "label": "Baptised Christians at Ziegenbalg's death (approx.)", "value": 250, "unit": "people", "year": 1719 },
+        { "label": "Ziegenbalg's age at death", "value": 36, "unit": "years", "year": 1719 }
+      ],
+      "sources": ["i1-jeyaraj-ziegenbalg", "i1-gross-halle", "i1-neill-india-2", "frykenberg-india", "shantz-pietism", "neill-missions"],
+      "confidence": "established"
+    }
+  ],
+  "sources": [
+    { "id": "i1-neill-india-1", "title": "A History of Christianity in India: The Beginnings to AD 1707", "author": "Stephen Neill", "year": 1984, "kind": "secondary" },
+    { "id": "i1-neill-india-2", "title": "A History of Christianity in India, 1707–1858", "author": "Stephen Neill", "year": 1985, "kind": "secondary" },
+    { "id": "i1-bayly-saints", "title": "Saints, Goddesses and Kings: Muslims and Christians in South Indian Society, 1700–1900", "author": "Susan Bayly", "year": 1989, "kind": "secondary" },
+    { "id": "i1-mundadan-history", "title": "History of Christianity in India, vol. 1: From the Beginning up to the Middle of the Sixteenth Century", "author": "A. Mathias Mundadan", "year": 1984, "kind": "secondary" },
+    { "id": "i1-thekkedath-history", "title": "History of Christianity in India, vol. 2: From the Middle of the Sixteenth to the End of the Seventeenth Century", "author": "Joseph Thekkedath", "year": 1982, "kind": "secondary" },
+    { "id": "i1-podipara-thomas", "title": "The Thomas Christians", "author": "Placid J. Podipara", "year": 1970, "kind": "secondary" },
+    { "id": "i1-acts-of-thomas", "title": "The Acts of Thomas (Syriac, early 3rd century)", "kind": "primary", "note": "Ed. and trans. A. F. J. Klijn, The Acts of Thomas: Introduction, Text, and Commentary, 2nd ed. (2003)" },
+    { "id": "i1-cosmas-topography", "title": "Christian Topography", "author": "Cosmas Indicopleustes", "year": 550, "kind": "primary", "note": "Trans. J. W. McCrindle, Hakluyt Society (1897)" },
+    { "id": "i1-cereti-crosses", "title": "The Problem of the Saint Thomas Crosses and Related Questions: Epigraphical Survey and Preliminary Research", "author": "Carlo G. Cereti, Luca M. Olivieri and Joseph Vazhuthanapally", "year": 2002, "kind": "secondary", "note": "East and West 52" },
+    { "id": "i1-priolkar-inquisition", "title": "The Goa Inquisition", "author": "Anant Kakba Priolkar", "year": 1961, "kind": "secondary" },
+    { "id": "i1-boxer-seaborne", "title": "The Portuguese Seaborne Empire, 1415–1825", "author": "C. R. Boxer", "year": 1969, "kind": "secondary" },
+    { "id": "i1-schurhammer-xavier", "title": "Francis Xavier: His Life, His Times, vol. 2: India, 1541–1545", "author": "Georg Schurhammer", "year": 1977, "kind": "secondary" },
+    { "id": "i1-xavier-letters", "title": "The Letters and Instructions of Francis Xavier", "author": "Francis Xavier, trans. M. Joseph Costelloe", "year": 1992, "kind": "primary" },
+    { "id": "i1-zupanov-disputed", "title": "Disputed Mission: Jesuit Experiments and Brahmanical Knowledge in Seventeenth-Century India", "author": "Ines G. Županov", "year": 1999, "kind": "secondary" },
+    { "id": "i1-clooney-nobili", "title": "Preaching Wisdom to the Wise: Three Treatises by Roberto de Nobili, S.J.", "author": "Anand Amaladass and Francis X. Clooney (trans.)", "year": 2000, "kind": "primary" },
+    { "id": "i1-jeyaraj-ziegenbalg", "title": "Bartholomäus Ziegenbalg, the Father of Modern Protestant Mission: An Indian Assessment", "author": "Daniel Jeyaraj", "year": 2006, "kind": "secondary" },
+    { "id": "i1-gross-halle", "title": "Halle and the Beginning of Protestant Christianity in India (3 vols)", "author": "Andreas Gross, Y. Vincent Kumaradoss and Heike Liebau (eds)", "year": 2006, "kind": "secondary" },
+    { "id": "i1-census-india-2011", "title": "Census of India 2011: Religion (Table C-1, Population by Religious Community)", "author": "Office of the Registrar General and Census Commissioner, India", "year": 2011, "kind": "data", "url": "https://censusindia.gov.in" }
+  ]
+}
