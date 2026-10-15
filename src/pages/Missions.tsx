@@ -9,7 +9,7 @@ import { L, RELATION_META, STATUS_META, STREAM_META, relationLabel, statusLabel,
 import { Icon } from '../components/Icon';
 import { CountUp, PageHeader, Tabs, cx } from '../components/ui';
 import { MissionMap, type MapPoint, type MapRoute } from '../viz/MissionMap';
-import { GraphFlow, type GEdge, type GNode } from '../viz/GraphFlow';
+import { GraphFlow, type GEdge, type GLane, type GNode } from '../viz/GraphFlow';
 
 type View = 'map' | 'timeline' | 'flow' | 'compare' | 'insights';
 const NOW = 2026;
@@ -276,33 +276,57 @@ function TimelineView({ list }: { list: MissionMovement[] }) {
 
 // ---------- Lineage flowchart ----------
 
-export function movementGraph(list: MissionMovement[]): { nodes: GNode[]; edges: GEdge[] } {
+/** Movements laid out on a time axis (x) with one swimlane per stream (y), plus their relations. */
+export function movementGraph(list: MissionMovement[], withInspiration = false): { nodes: GNode[]; edges: GEdge[]; lanes: GLane[]; x1780: number; y1780: number } {
   const ids = new Set(list.map((m) => m.id));
-  const nodes: GNode[] = list.map((m) => ({
-    id: m.id, label: m.name, sub: `${formatSpan(m.startYear, m.endYear)} · ${streamLabel(m.stream)}`, colour: STREAM_META[m.stream].colour,
-    badge: STATUS_META[m.status].mark + ' ' + statusLabel(m.status), badgeColour: STATUS_META[m.status].colour,
-  }));
+  const streams = Object.keys(STREAM_META).filter((s) => list.some((m) => m.stream === s)) as MissionMovement['stream'][];
+  const SPAN = 9000;
+  const lanes: GLane[] = [];
+  const nodes: GNode[] = [];
+  let y = 0;
+  for (const s of streams) {
+    const ms = list.filter((m) => m.stream === s).sort((p, q) => p.startYear - q.startYear);
+    // Stack movements that would overlap horizontally into sub-rows.
+    const rowsEnd: number[] = [];
+    const top = y;
+    for (const m of ms) {
+      const x = (xOf(m.startYear) / 100) * SPAN;
+      let r = rowsEnd.findIndex((end) => x > end + 20);
+      if (r < 0) { r = rowsEnd.length; rowsEnd.push(0); }
+      rowsEnd[r] = x + 220;
+      nodes.push({
+        id: m.id, label: m.name, sub: `${formatSpan(m.startYear, m.endYear)}`, colour: STREAM_META[m.stream].colour,
+        badge: STATUS_META[m.status].mark + ' ' + statusLabel(m.status), badgeColour: STATUS_META[m.status].colour, x, y: top + r * 84,
+      });
+    }
+    lanes.push({ y: top + ((rowsEnd.length - 1) * 84) / 2 + 20, label: streamLabel(s), colour: STREAM_META[s].colour });
+    y = top + rowsEnd.length * 84 + 30;
+  }
   const edges: GEdge[] = [];
   const seen = new Set<string>();
   for (const m of list) {
     for (const r of m.relations) if (ids.has(r.to)) { const k = `${m.id}>${r.to}`; if (!seen.has(k)) { seen.add(k); edges.push({ from: m.id, to: r.to, colour: RELATION_META[r.kind].colour, dashed: RELATION_META[r.kind].dashed, label: relationLabel(r.kind) }); } }
-    for (const f of m.influencedBy) if (ids.has(f)) { const k = `${f}>${m.id}`; if (!seen.has(k)) { seen.add(k); edges.push({ from: f, to: m.id, colour: 'var(--muted)', dashed: true, animated: false }); } }
+    if (withInspiration) for (const f of m.influencedBy) if (ids.has(f)) { const k = `${f}>${m.id}`; if (!seen.has(k)) { seen.add(k); edges.push({ from: f, to: m.id, colour: 'var(--muted)', dashed: true, animated: false }); } }
   }
-  return { nodes, edges };
+  const x1780 = (xOf(1780) / 100) * SPAN;
+  const y1780 = Math.min(...nodes.filter((n) => (n.x ?? 0) >= x1780).map((n) => n.y ?? 0), 1e9);
+  return { nodes, edges, lanes, x1780, y1780: y1780 === 1e9 ? 0 : y1780 };
 }
 
 function FlowView({ list }: { list: MissionMovement[] }) {
   const navigate = useNavigate();
   const [sel, setSel] = useState<string | undefined>();
-  const g = useMemo(() => movementGraph(list), [list]);
+  const [insp, setInsp] = useState(false);
+  const g = useMemo(() => movementGraph(list, insp), [list, insp]);
   const m = list.find((x) => x.id === sel);
   return (
     <div>
       <div className="mb-2 flex flex-wrap gap-3 text-xs text-muted">
         {Object.entries(RELATION_META).map(([k, v]) => <span key={k} className="flex items-center gap-1"><span className="inline-block h-0.5 w-5" style={{ background: v.colour }} /> {relationLabel(k as keyof typeof RELATION_META)}</span>)}
-        <span className="flex items-center gap-1"><span className="inline-block w-5 border-t-2 border-dashed border-muted" /> {L('inspired', 'தூண்டுதல் அளித்தது')}</span>
+        <label className="flex cursor-pointer items-center gap-1"><input type="checkbox" checked={insp} onChange={(e) => setInsp(e.target.checked)} className="accent-[var(--accent)]" /> <span className="inline-block w-5 border-t-2 border-dashed border-muted" /> {L('show what inspired what', 'தூண்டுதல் இணைப்புகளைக் காட்டு')}</label>
       </div>
-      <GraphFlow nodes={g.nodes} edges={g.edges} selected={sel} onSelect={(id) => setSel(sel === id ? undefined : id)} height={620} />
+      <p className="mb-2 text-xs text-muted">{L('Time runs left to right; each row is a stream of mission. Click a box to highlight its connections; scroll to zoom.', 'காலம் இடமிருந்து வலமாகச் செல்கிறது; ஒவ்வொரு வரிசையும் ஒரு மிஷன் பிரிவு. இணைப்புகளைக் காண ஒரு பெட்டியைச் சொடுக்குங்கள்; பெரிதாக்க உருட்டுங்கள்.')}</p>
+      <GraphFlow nodes={g.nodes} edges={g.edges} lanes={g.lanes} view={{ x: -g.x1780 * 0.5 + 30, y: -g.y1780 * 0.5 + 30, zoom: 0.5 }} selected={sel} onSelect={(id) => setSel(sel === id ? undefined : id)} height={680} />
       <AnimatePresence>
         {m && (
           <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }} className="card mt-3 p-4">

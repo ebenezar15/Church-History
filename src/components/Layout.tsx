@@ -191,21 +191,19 @@ export function Layout() {
       </AnimatePresence>
 
       <main id="main" className="lg:ml-64">
-        <AnimatePresence mode="wait">
-          <motion.div
-            key={loc.pathname}
-            initial={{ opacity: 0, x: 24, rotateY: -4 }}
-            animate={{ opacity: 1, x: 0, rotateY: 0 }}
-            exit={{ opacity: 0, x: -24, rotateY: 4 }}
-            transition={{ duration: 0.32, ease: [0.4, 0, 0.2, 1] }}
-            style={{ transformPerspective: 1600, transformOrigin: 'left center' }}
-            className={isHome ? '' : 'mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-10'}
-          >
-            <Suspense fallback={<PageLoader />}>
-              <Outlet />
-            </Suspense>
-          </motion.div>
-        </AnimatePresence>
+        {/* Each page animates in on arrival. (No exit animation: waiting for the old page to leave could leave the new one invisible.) */}
+        <motion.div
+          key={loc.pathname}
+          initial={{ opacity: 0, x: 24, rotateY: -4 }}
+          animate={{ opacity: 1, x: 0, rotateY: 0 }}
+          transition={{ duration: 0.32, ease: [0.4, 0, 0.2, 1] }}
+          style={{ transformPerspective: 1600, transformOrigin: 'left center' }}
+          className={isHome ? '' : 'mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-10'}
+        >
+          <Suspense fallback={<PageLoader />}>
+            <Outlet />
+          </Suspense>
+        </motion.div>
         <footer className="border-t border-line px-6 py-8 text-center text-xs text-muted">
           Ecclesia Atlas · Content cites primary sources and standard reference works · Public-domain texts via CCEL, New Advent and others
         </footer>

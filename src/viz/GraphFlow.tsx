@@ -8,7 +8,8 @@ import dagre from '@dagrejs/dagre';
 import { motion } from 'framer-motion';
 import { cx } from '../components/ui';
 
-export interface GNode { id: string; label: string; sub?: string; colour: string; badge?: string; badgeColour?: string }
+export interface GNode { id: string; label: string; sub?: string; colour: string; badge?: string; badgeColour?: string; x?: number; y?: number }
+export interface GLane { y: number; label: string; colour: string }
 export interface GEdge { from: string; to: string; colour?: string; dashed?: boolean; label?: string; animated?: boolean }
 
 const NODE_W = 210;
@@ -35,9 +36,12 @@ const Box = memo(function Box({ data }: NodeProps<Node<D>>) {
     </motion.div>
   );
 });
-const nodeTypes = { box: Box };
+const Lane = memo(function Lane({ data }: NodeProps<Node<D>>) {
+  return <div className="w-[230px] text-right text-sm font-bold uppercase tracking-wider" style={{ color: data.n.colour }}>{data.n.label}</div>;
+});
+const nodeTypes = { box: Box, lane: Lane };
 
-function Inner({ nodes, edges, selected, onSelect, dir, height }: { nodes: GNode[]; edges: GEdge[]; selected?: string; onSelect?: (id: string) => void; dir: 'LR' | 'TB'; height: number }) {
+function Inner({ nodes, edges, selected, onSelect, dir, height, lanes, fitIds, view }: { nodes: GNode[]; edges: GEdge[]; selected?: string; onSelect?: (id: string) => void; dir: 'LR' | 'TB'; height: number; lanes?: GLane[]; fitIds?: string[]; view?: { x: number; y: number; zoom: number } }) {
   const { rfNodes, rfEdges } = useMemo(() => {
     const g = new dagre.graphlib.Graph();
     g.setGraph({ rankdir: dir, nodesep: 26, ranksep: dir === 'LR' ? 80 : 60, marginx: 20, marginy: 20 });
@@ -51,20 +55,25 @@ function Inner({ nodes, edges, selected, onSelect, dir, height }: { nodes: GNode
     if (selected) { near.add(selected); for (const e of es) { if (e.from === selected) near.add(e.to); if (e.to === selected) near.add(e.from); } }
     const rfNodes: Node<D>[] = nodes.map((n, i) => {
       const p = g.node(n.id);
-      return { id: n.id, type: 'box', position: { x: p.x - NODE_W / 2, y: p.y - NODE_H / 2 }, data: { n, selected: n.id === selected, dim: !!selected && !near.has(n.id), i, dir } };
+      const position = n.x !== undefined && n.y !== undefined ? { x: n.x, y: n.y } : { x: p.x - NODE_W / 2, y: p.y - NODE_H / 2 };
+      return { id: n.id, type: 'box', position, data: { n, selected: n.id === selected, dim: !!selected && !near.has(n.id), i, dir } };
     });
+    // Optional swimlane labels (a fixed layout passes x/y for each node).
+    for (const [k, l] of (lanes ?? []).entries()) {
+      rfNodes.unshift({ id: `lane-${k}`, type: 'lane', position: { x: -260, y: l.y }, data: { n: { id: '', label: l.label, colour: l.colour }, selected: false, dim: false, i: 0, dir }, selectable: false, draggable: false } as Node<D>);
+    }
     const rfEdges: Edge[] = es.map((e, i) => {
       const on = !selected || e.from === selected || e.to === selected;
       const c = e.colour ?? 'var(--muted)';
       return {
-        id: `e${i}`, source: e.from, target: e.to, label: on ? e.label : undefined, animated: e.animated ?? on,
+        id: `e${i}`, source: e.from, target: e.to, label: on && (!!selected || es.length < 40) ? e.label : undefined, animated: e.animated ?? on, type: lanes ? 'smoothstep' : undefined,
         style: { stroke: c, strokeWidth: on ? 2 : 1, opacity: on ? 0.9 : 0.15, strokeDasharray: e.dashed ? '5 4' : undefined },
         labelStyle: { fontSize: 10, fill: c, fontWeight: 700 }, labelBgStyle: { fill: 'var(--surface)' },
         markerEnd: { type: MarkerType.ArrowClosed, color: c, width: 14, height: 14 },
       };
     });
     return { rfNodes, rfEdges };
-  }, [nodes, edges, selected, dir]);
+  }, [nodes, edges, selected, dir, lanes]);
 
   return (
     <div className="overflow-hidden rounded-2xl border border-line bg-surface-2" style={{ height }}>
@@ -72,9 +81,10 @@ function Inner({ nodes, edges, selected, onSelect, dir, height }: { nodes: GNode
         nodes={rfNodes}
         edges={rfEdges}
         nodeTypes={nodeTypes}
-        onNodeClick={(_, n) => onSelect?.(n.id)}
-        fitView
-        fitViewOptions={{ padding: 0.15 }}
+        onNodeClick={(_, n) => n.type !== 'lane' && onSelect?.(n.id)}
+        fitView={!view}
+        defaultViewport={view}
+        fitViewOptions={{ padding: 0.15, nodes: fitIds?.map((id) => ({ id })) }}
         minZoom={0.15}
         nodesDraggable={false}
         nodesConnectable={false}
@@ -82,14 +92,14 @@ function Inner({ nodes, edges, selected, onSelect, dir, height }: { nodes: GNode
       >
         <Background gap={22} size={1} color="var(--line)" />
         <Controls showInteractive={false} />
-        <MiniMap pannable zoomable nodeColor={(n) => (n.data as D).n.colour} className="!hidden sm:!block" />
+        <MiniMap pannable zoomable nodeColor={(n) => (n.data as D).n.colour} maskColor="rgb(0 0 0 / 0.08)" style={{ background: 'var(--surface)' }} className="!hidden sm:!block" />
       </ReactFlow>
     </div>
   );
 }
 
 /** Animated, auto-laid-out flowchart (dagre) of arbitrary nodes and edges. */
-export function GraphFlow(props: { nodes: GNode[]; edges: GEdge[]; selected?: string; onSelect?: (id: string) => void; dir?: 'LR' | 'TB'; height?: number }) {
+export function GraphFlow(props: { nodes: GNode[]; edges: GEdge[]; selected?: string; onSelect?: (id: string) => void; dir?: 'LR' | 'TB'; height?: number; lanes?: GLane[]; fitIds?: string[]; view?: { x: number; y: number; zoom: number } }) {
   return (
     <ReactFlowProvider>
       <Inner {...props} dir={props.dir ?? 'LR'} height={props.height ?? 560} />
