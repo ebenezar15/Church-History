@@ -110,8 +110,7 @@ function Chapters({ list }: { list: IndiaMission[] }) {
               <motion.div layout className={cx('card overflow-hidden', isOpen && 'ring-2')} style={{ ['--tw-ring-color' as string]: c, borderLeft: `4px solid ${c}` }}>
                 <button className="block w-full p-4 text-left" onClick={() => toggle(m.id)} aria-expanded={isOpen}>
                   <div className="flex flex-wrap items-center gap-2 text-xs text-muted">
-                    <span className="font-bold tabular-nums sm:hidden" style={{ color: c }}>{formatYear(m.startYear)}</span>
-                    <span>{formatSpan(m.startYear, m.endYear)}</span> · <span>{m.region}</span>
+                    <span className="font-bold tabular-nums" style={{ color: c }}>{formatSpan(m.startYear, m.endYear)}</span> · <span className="line-clamp-1">{m.region}</span>
                     <motion.span className="ml-auto" animate={{ rotate: isOpen ? 90 : 0 }}><Icon name="arrow" size={14} /></motion.span>
                   </div>
                   <h3 className="mt-1 text-lg font-bold leading-snug">{m.title}</h3>

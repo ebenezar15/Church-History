@@ -51,10 +51,8 @@ export function MissionMap({
   const projection = useMemo(() => {
     if (focus === 'world') return geoNaturalEarth1().scale(172).translate([W / 2, H / 2 + 18]);
     const box = focus === 'india' ? { lng: [67, 98] as [number, number], lat: [6, 36.5] as [number, number] } : focus;
-    const outline: Feature<Geometry> = {
-      type: 'Feature', properties: {},
-      geometry: { type: 'Polygon', coordinates: [[[box.lng[0], box.lat[0]], [box.lng[1], box.lat[0]], [box.lng[1], box.lat[1]], [box.lng[0], box.lat[1]], [box.lng[0], box.lat[0]]]] },
-    };
+    // Two corner points (a polygon's winding order would decide whether d3 fits the box or the rest of the globe).
+    const outline: Feature<Geometry> = { type: 'Feature', properties: {}, geometry: { type: 'MultiPoint', coordinates: [[box.lng[0], box.lat[0]], [box.lng[1], box.lat[1]]] } };
     return geoMercator().fitExtent([[24, 24], [W - 24, H - 24]], outline);
   }, [focus]);
   const path = useMemo(() => geoPath(projection), [projection]);
