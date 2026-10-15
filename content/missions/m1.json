@@ -1,0 +1,2811 @@
+{
+  "missions": [
+    {
+      "id": "apostolic-mission",
+      "name": "The apostles and the Jerusalem church (30–100)",
+      "stream": "early-church",
+      "traditionIds": [
+        "early-church"
+      ],
+      "startYear": 30,
+      "endYear": 100,
+      "origin": {
+        "name": "Jerusalem",
+        "lat": 31.778,
+        "lng": 35.235
+      },
+      "status": "transformed",
+      "statusNote": "The Jerusalem community was scattered by persecution and by the Jewish revolts of 66–70 and 132–135; its Jewish-Christian form became marginal, while the movement it launched became the largely Gentile episcopal church of the second century.",
+      "summary": "The first Christian mission: a Jewish messianic community in Jerusalem, led by Peter, John and later James the brother of Jesus, which proclaimed the crucified Jesus as risen Messiah, spread through Judaea, Samaria and the Jewish diaspora, and — after fierce debate — accepted Gentiles without circumcision. Most of what later tradition says about the apostles' journeys beyond the Book of Acts (Thomas to India, Mark to Alexandria, Peter's death in Rome) ranges from probable to legendary.",
+      "story": "The Christian mission began among the followers of Jesus of Nazareth in Jerusalem shortly after his crucifixion, usually dated c. 30 or 33. The Book of Acts, written perhaps a generation or two later, describes the Twelve, Mary the mother of Jesus and other disciples gathering in the city and, at the pilgrim feast of Pentecost, proclaiming that God had raised Jesus and poured out his Spirit. The early community was thoroughly Jewish: it worshipped in the Temple, kept the Law and understood itself as the renewed Israel of the last days. Acts portrays shared property, common meals and rapid growth; its round numbers (3,000, then 5,000) are best read as Luke's way of signalling success rather than as counts.\n\nTension soon arose between Aramaic-speaking ‘Hebrews’ and Greek-speaking ‘Hellenists’ over the care of widows (Acts 6). Seven Hellenist leaders were appointed, among them Stephen and Philip. Stephen's critique of the Temple led to his stoning (c. 34), and the persecution that followed — in which Saul of Tarsus took part — scattered the Hellenists. Ironically this dispersion became the engine of mission: Philip preached in Samaria and baptised an Ethiopian court official on the Gaza road; others went to Phoenicia, Cyprus and Antioch, where unnamed men from Cyprus and Cyrene first preached to non-Jews and the disciples were first called ‘Christians’.\n\nPeter, according to Acts, toured the coastal plain (Lydda, Joppa) and baptised the Roman centurion Cornelius at Caesarea, a story Luke uses to legitimise the admission of Gentiles. Herod Agrippa I executed James son of Zebedee c. 44 and imprisoned Peter, after which leadership in Jerusalem passed to James the brother of Jesus. The great crisis of the movement — whether Gentile converts must be circumcised and keep the Law — was settled in principle at the meeting in Jerusalem c. 48/49 (Acts 15; Galatians 2), which accepted Paul's uncircumcised converts while asking them to observe minimal purity rules. The quarrel at Antioch, where Peter withdrew from table fellowship with Gentiles under pressure from ‘people from James’, shows how unsettled the question remained.\n\nThe Jerusalem church paid a heavy price for its position between the Jewish authorities and the Gentile mission. James was stoned on the order of the high priest Ananus in 62 (Josephus, Antiquities 20.200). During the revolt of 66–70 the community, according to Eusebius, withdrew to Pella across the Jordan; the destruction of the Temple in 70 and the expulsion of Jews from Jerusalem after the Bar Kokhba revolt (132–135) ended its leadership. Thereafter Jewish-Christian groups (later labelled Nazarenes and Ebionites) survived in Syria and Transjordan but were increasingly treated as heretical by a predominantly Gentile church.\n\nBeyond Acts, the apostles' later careers are known almost entirely from tradition. That Peter died in Rome under Nero (c. 64–67) is early (1 Clement, Ignatius, the second-century ‘trophy’ on the Vatican hill) and widely accepted. That John lived at Ephesus is a second-century tradition (Irenaeus) still debated. Eusebius records that Mark was Peter's interpreter and founded the church of Alexandria; the claim is traditional and cannot be verified. The Acts of Thomas (early third century, Syriac) sends Thomas to the Indo-Parthian king Gondophares, whose historicity is confirmed by coins; the St Thomas Christians of Kerala hold that he landed at Muziris in 52 and was martyred near Mylapore in 72. Other apostolic legends — Andrew in Scythia, Bartholomew and Thaddeus in Armenia, James in Spain — are later still.\n\nBy about 100 the movement had communities across the eastern Mediterranean, in Rome and probably in Egypt and Mesopotamia, held together by itinerant teachers, letters and the memory of the apostles. Its lasting achievement was the decision, reached through conflict, that faith in Jesus could be lived out by people of every nation without becoming Jews — the founding principle of all later cross-cultural Christian mission.",
+      "beliefs": [
+        "Jesus of Nazareth, crucified under Pontius Pilate, had been raised by God and exalted as Messiah and Lord.",
+        "The outpouring of the Holy Spirit at Pentecost marked the beginning of the promised last days and empowered witness.",
+        "Repentance and baptism in the name of Jesus brought forgiveness of sins and entry into the restored people of God.",
+        "The Scriptures of Israel (in Hebrew and Greek) were read as prophecies fulfilled in Jesus.",
+        "Jesus would soon return in glory, giving urgency to the proclamation.",
+        "Gentiles could be included in God's people; after debate, the majority view held that they need not be circumcised."
+      ],
+      "strategies": [
+        "Public preaching at Jewish festivals and in the Temple courts, where diaspora pilgrims could carry the message home.",
+        "Synagogue-based proclamation to Jews and God-fearing Gentiles across the diaspora.",
+        "House-based communities sharing meals, prayer, the ‘breaking of bread’ and (in Jerusalem) common property.",
+        "Itinerant apostles, prophets and evangelists moving between cities, supported by local hospitality.",
+        "Appointment of leaders (the Seven, elders) to manage growth and care for widows and the poor.",
+        "Letters and envoys linking scattered communities to Jerusalem and to one another."
+      ],
+      "groupsReached": [
+        "Aramaic-speaking Jews of Jerusalem and Galilee.",
+        "Greek-speaking diaspora Jews (Hellenists) resident in or visiting Jerusalem.",
+        "Samaritans, through Philip the Evangelist.",
+        "God-fearers and proselytes such as the Ethiopian official and the centurion Cornelius.",
+        "Gentiles in Antioch, first reached by unnamed believers from Cyprus and Cyrene.",
+        "Jewish communities of Egypt, Rome and Mesopotamia, by channels that are largely unrecorded."
+      ],
+      "challenges": [
+        "Opposition from the Temple authorities and Herodian rulers: Stephen stoned (c. 34), James son of Zebedee executed (c. 44), James the Just stoned (62).",
+        "Bitter internal dispute over circumcision, food laws and table fellowship between Jewish and Gentile believers.",
+        "Poverty in the Jerusalem community, relieved by collections from Antioch and Paul's churches.",
+        "The Jewish revolts of 66–70 and 132–135, which destroyed Jerusalem and dispersed the mother church.",
+        "Roman suspicion, culminating in Nero's persecution in Rome after the fire of 64.",
+        "The delay of Jesus' expected return, which required reinterpretation of early hopes."
+      ],
+      "harms": [
+        "Disputes between Jewish and Gentile believers produced lasting bitterness, visible in the Antioch incident and in polemical New Testament passages.",
+        "The ‘parting of the ways’ left texts (e.g. John's language about ‘the Jews’, Matthew 27:25) that later Christians read as licence for anti-Judaism and persecution.",
+        "Jewish-Christian groups faithful to the Law were gradually marginalised and condemned as heretical by the Gentile majority.",
+        "Ethnic tension between Hebrews and Hellenists over the neglect of widows showed early discrimination within the community.",
+        "Later legends of apostolic foundations were used competitively to bolster the prestige and jurisdiction of particular sees."
+      ],
+      "developments": [
+        "The principle, established at the Jerusalem meeting c. 48/49, that Gentiles could join without adopting Jewish law — the basis of cross-cultural mission.",
+        "A model of community life combining worship, shared meals, teaching and care for the poor.",
+        "The first Christian leadership offices (apostles, elders, the Seven) and the practice of collective decision-making.",
+        "The preservation of oral traditions about Jesus that fed into the written Gospels.",
+        "Networks of communities from Jerusalem to Rome by the 60s, linked by envoys and letters.",
+        "Founding memories (Peter in Rome, Mark in Alexandria, Thomas in India) that shaped the identity of later churches."
+      ],
+      "outcome": "Within seventy years a Jewish renewal movement had become a trans-ethnic network of communities from Mesopotamia to Rome. The Jerusalem church itself did not survive as a centre of leadership, but its decision to welcome Gentiles transformed Christianity into a missionary faith open to every culture.",
+      "keyPeople": [
+        {
+          "name": "Simon Peter",
+          "personId": "peter-apostle",
+          "years": "d. c. 64–67",
+          "origin": "Bethsaida and Capernaum, Galilee",
+          "role": "Leading apostle and spokesman of the Twelve",
+          "focus": "Preaching in Jerusalem and the coastal plain; baptised Cornelius; later travelled to Antioch and, by early tradition, Rome",
+          "outcome": "Martyred in Rome under Nero according to early and widely accepted tradition"
+        },
+        {
+          "name": "James, brother of the Lord",
+          "personId": "james-of-jerusalem",
+          "years": "d. 62",
+          "origin": "Nazareth, Galilee",
+          "role": "Leader of the Jerusalem church from the 40s",
+          "focus": "Law-observant leadership; brokered the compromise on Gentile converts",
+          "outcome": "Stoned at the instigation of the high priest Ananus in 62 (Josephus)"
+        },
+        {
+          "name": "John, son of Zebedee",
+          "personId": "john-apostle",
+          "years": "1st century",
+          "origin": "Galilee",
+          "role": "Apostle; one of the ‘pillars’ of Jerusalem (Galatians 2:9)",
+          "focus": "Jerusalem and Samaria in Acts; second-century tradition places him at Ephesus",
+          "outcome": "Tradition that he died old at Ephesus is ancient but debated"
+        },
+        {
+          "name": "Stephen",
+          "years": "d. c. 34",
+          "origin": "Hellenist Jew, Jerusalem",
+          "role": "One of the Seven",
+          "focus": "Preaching among Greek-speaking Jews; critique of the Temple",
+          "outcome": "Stoned; regarded as the first Christian martyr"
+        },
+        {
+          "name": "Philip the Evangelist",
+          "years": "1st century",
+          "origin": "Hellenist Jew, Jerusalem",
+          "role": "One of the Seven; evangelist",
+          "focus": "Samaria, the Ethiopian official, the coastal towns from Azotus to Caesarea",
+          "outcome": "Settled at Caesarea with his prophesying daughters (Acts 21)"
+        },
+        {
+          "name": "Barnabas (Joseph)",
+          "years": "1st century",
+          "origin": "Levite from Cyprus",
+          "role": "Early benefactor and envoy of the Jerusalem church to Antioch",
+          "focus": "Antioch, Cyprus; sponsored Paul",
+          "outcome": "Parted from Paul over John Mark and went to Cyprus"
+        },
+        {
+          "name": "Thomas the Apostle",
+          "personId": "thomas-apostle",
+          "years": "d. c. 72 (traditional)",
+          "origin": "Galilee",
+          "role": "Apostle",
+          "focus": "By tradition Parthia and India (Muziris 52, Mylapore 72)",
+          "outcome": "Venerated as founder by the St Thomas Christians of Kerala; historicity debated"
+        },
+        {
+          "name": "John Mark",
+          "years": "1st century",
+          "origin": "Jerusalem",
+          "role": "Companion of Barnabas, Paul and Peter; traditional author of Mark's Gospel",
+          "focus": "Cyprus, Rome; by tradition founder of the church of Alexandria",
+          "outcome": "Revered as first patriarch by the Coptic Church (traditional)"
+        }
+      ],
+      "countries": [
+        {
+          "country": "Judaea (Jerusalem)",
+          "year": 30,
+          "text": "Birthplace of the mission: preaching at Pentecost, a community of several thousand by Luke's account, and the base of the Twelve and later of James.",
+          "lat": 31.778,
+          "lng": 35.235
+        },
+        {
+          "country": "Samaria",
+          "year": 34,
+          "text": "Philip the Evangelist preached in a city of Samaria; Peter and John followed. A first crossing of an ethnic-religious boundary.",
+          "lat": 32.28,
+          "lng": 35.19
+        },
+        {
+          "country": "Syria (Damascus and Antioch)",
+          "year": 34,
+          "text": "Believers were in Damascus by Paul's conversion (c. 34). At Antioch Hellenists first preached to Gentiles and the name ‘Christians’ arose; it became the base of the Gentile mission.",
+          "lat": 36.202,
+          "lng": 36.16
+        },
+        {
+          "country": "Phoenicia and Cyprus",
+          "year": 35,
+          "text": "Hellenists scattered after Stephen's death preached in Tyre, Sidon and Cyprus, at first only to Jews (Acts 11:19).",
+          "lat": 35.18,
+          "lng": 33.9
+        },
+        {
+          "country": "Kush (Nubia/Meroë)",
+          "year": 35,
+          "text": "Acts 8 describes the baptism of a court official of the Kandake of the Kingdom of Meroë; no lasting church is recorded from this.",
+          "lat": 16.94,
+          "lng": 33.75
+        },
+        {
+          "country": "Italy (Rome)",
+          "year": 45,
+          "text": "Christians existed in Rome before Paul, probably among Jews expelled under Claudius (c. 49). Nero blamed them for the fire of 64; Peter and Paul died there by early tradition.",
+          "lat": 41.89,
+          "lng": 12.49
+        },
+        {
+          "country": "Egypt (Alexandria)",
+          "year": 50,
+          "text": "Apollos, an Alexandrian Jew, knew of Jesus (Acts 18:24). Eusebius records that Mark founded the Alexandrian church — a tradition that cannot be verified.",
+          "lat": 31.2,
+          "lng": 29.92
+        },
+        {
+          "country": "India (Malabar and Coromandel)",
+          "year": 52,
+          "text": "Traditional: Thomas is said to have landed at Muziris (Kodungallur) in 52 and to have been killed near Mylapore in 72. Roman trade routes made such a voyage possible; there is no contemporary evidence.",
+          "lat": 10.16,
+          "lng": 76.21
+        },
+        {
+          "country": "Asia Minor (Ephesus)",
+          "year": 70,
+          "text": "Beyond Paul's work, second-century tradition places John and other Palestinian disciples (Philip and his daughters at Hierapolis) in the province of Asia.",
+          "lat": 37.94,
+          "lng": 27.34
+        }
+      ],
+      "journeys": [
+        {
+          "id": "apostolic-philip-samaria-caesarea",
+          "title": "Philip the Evangelist: Samaria, the Gaza road and the coast",
+          "people": "Philip the Evangelist",
+          "personIds": [],
+          "year": 34,
+          "endYear": 40,
+          "stops": [
+            {
+              "name": "Jerusalem",
+              "lng": 35.235,
+              "lat": 31.778,
+              "year": 34
+            },
+            {
+              "name": "Samaria (Sebaste)",
+              "lng": 35.19,
+              "lat": 32.28
+            },
+            {
+              "name": "Gaza road (baptism of the Ethiopian official)",
+              "lng": 34.6,
+              "lat": 31.55
+            },
+            {
+              "name": "Azotus (Ashdod)",
+              "lng": 34.66,
+              "lat": 31.75
+            },
+            {
+              "name": "Caesarea Maritima",
+              "lng": 34.89,
+              "lat": 32.5
+            }
+          ],
+          "text": "After Stephen's death Philip preached in Samaria, baptised the Ethiopian treasurer on the desert road to Gaza, then evangelised the coastal towns from Azotus to Caesarea, where he settled (Acts 8; 21:8)."
+        },
+        {
+          "id": "apostolic-peter-to-rome",
+          "title": "Peter: Jerusalem, the coast, Antioch and (traditionally) Rome",
+          "people": "Simon Peter",
+          "personIds": [
+            "peter-apostle"
+          ],
+          "year": 33,
+          "endYear": 64,
+          "stops": [
+            {
+              "name": "Jerusalem",
+              "lng": 35.235,
+              "lat": 31.778,
+              "year": 33
+            },
+            {
+              "name": "Lydda",
+              "lng": 34.89,
+              "lat": 31.95
+            },
+            {
+              "name": "Joppa",
+              "lng": 34.75,
+              "lat": 32.05
+            },
+            {
+              "name": "Caesarea Maritima (Cornelius)",
+              "lng": 34.89,
+              "lat": 32.5,
+              "year": 38
+            },
+            {
+              "name": "Antioch",
+              "lng": 36.16,
+              "lat": 36.202,
+              "year": 49
+            },
+            {
+              "name": "Rome (traditional)",
+              "lng": 12.49,
+              "lat": 41.89,
+              "year": 64
+            }
+          ],
+          "text": "Acts records Peter's journeys to Lydda, Joppa and Caesarea; Galatians places him at Antioch c. 49. His presence and martyrdom in Rome (c. 64–67) rest on early tradition (1 Clement, Ignatius, the Vatican ‘trophy’) and are widely though not universally accepted."
+        },
+        {
+          "id": "apostolic-mark-to-alexandria",
+          "title": "Mark to Rome and Alexandria (traditional)",
+          "people": "John Mark",
+          "personIds": [],
+          "year": 46,
+          "endYear": 68,
+          "stops": [
+            {
+              "name": "Jerusalem",
+              "lng": 35.235,
+              "lat": 31.778,
+              "year": 46
+            },
+            {
+              "name": "Salamis, Cyprus (with Barnabas)",
+              "lng": 33.9,
+              "lat": 35.18,
+              "year": 46
+            },
+            {
+              "name": "Rome (with Peter, traditional)",
+              "lng": 12.49,
+              "lat": 41.89,
+              "year": 60
+            },
+            {
+              "name": "Alexandria (traditional)",
+              "lng": 29.92,
+              "lat": 31.2,
+              "year": 62
+            }
+          ],
+          "text": "Mark accompanied Barnabas and Paul to Cyprus (Acts 13) and later Barnabas alone. Papias and Eusebius make him Peter's interpreter in Rome; Eusebius (Hist. Eccl. 2.16) says he was the first to preach in Egypt and found churches in Alexandria. Coptic tradition holds he was martyred there c. 68. The Alexandrian part of the route is traditional."
+        },
+        {
+          "id": "apostolic-thomas-to-india",
+          "title": "Thomas to India (traditional)",
+          "people": "Thomas the Apostle",
+          "personIds": [
+            "thomas-apostle"
+          ],
+          "year": 50,
+          "endYear": 72,
+          "stops": [
+            {
+              "name": "Jerusalem",
+              "lng": 35.235,
+              "lat": 31.778,
+              "year": 50
+            },
+            {
+              "name": "Berenice (Red Sea port)",
+              "lng": 35.47,
+              "lat": 23.91
+            },
+            {
+              "name": "Socotra",
+              "lng": 53.9,
+              "lat": 12.5
+            },
+            {
+              "name": "Muziris (Kodungallur)",
+              "lng": 76.21,
+              "lat": 10.16,
+              "year": 52
+            },
+            {
+              "name": "Mylapore",
+              "lng": 80.27,
+              "lat": 13.03,
+              "year": 72
+            }
+          ],
+          "text": "Kerala tradition holds that Thomas sailed on the Roman monsoon trade route, landed at Muziris in 52, founded seven churches on the Malabar coast and was martyred at Mylapore in 72. The third-century Acts of Thomas instead sends him to King Gondophares in the north-west (Taxila region). Both are traditional; neither can be confirmed from contemporary sources."
+        }
+      ],
+      "influencedBy": [],
+      "relations": [
+        {
+          "to": "pauline-mission",
+          "kind": "gave-rise-to",
+          "text": "Antioch, founded by scattered Hellenists and supervised by Barnabas, commissioned Paul and Barnabas for the first journey (c. 46)."
+        },
+        {
+          "to": "ante-nicene-expansion",
+          "kind": "succeeded-by",
+          "text": "The apostolic networks became the episcopal churches of the second and third centuries, which claimed apostolic foundation."
+        },
+        {
+          "to": "church-of-the-east-mission",
+          "kind": "gave-rise-to",
+          "text": "Syriac churches traced their origins to Thomas and to Addai (Thaddaeus), sent to Edessa — traditions that underpinned the Church of the East's identity."
+        }
+      ],
+      "agreements": [
+        {
+          "with": "pauline-mission",
+          "text": "At the Jerusalem meeting (c. 48/49) James, Peter and John recognised Paul's Law-free Gentile mission and asked only that he ‘remember the poor’ — the collection Paul later brought."
+        }
+      ],
+      "disagreements": [
+        {
+          "with": "pauline-mission",
+          "text": "Some Jerusalem believers (the ‘circumcision party’) insisted Gentile converts be circumcised; at Antioch Peter and Barnabas withdrew from mixed table fellowship under pressure from James's envoys and Paul publicly rebuked Peter (Galatians 2)."
+        }
+      ],
+      "deviations": [
+        "The early community of goods (Acts 2–4) was not sustained or widely imitated beyond Jerusalem.",
+        "The movement began as a renewal within Israel but became, within a century, a largely Gentile body that distanced itself from Judaism.",
+        "Law-observant Jewish Christianity, once the mainstream in Jerusalem, came to be treated as heterodox by the later church.",
+        "Second- and third-century apocryphal Acts embellished the apostles' missions with miracle legends far beyond the historical evidence."
+      ],
+      "sources": [
+        "bible",
+        "eusebius-hist-eccl",
+        "m1-schnabel-early-christian-mission",
+        "m1-acts-of-thomas",
+        "brown-st-thomas-christians",
+        "m1-josephus-antiquities",
+        "chadwick-early-church"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "pauline-mission",
+      "name": "Paul's mission to the Gentiles",
+      "stream": "early-church",
+      "traditionIds": [
+        "early-church"
+      ],
+      "startYear": 34,
+      "endYear": 67,
+      "origin": {
+        "name": "Antioch on the Orontes",
+        "lat": 36.202,
+        "lng": 36.16
+      },
+      "status": "transformed",
+      "statusNote": "Paul's churches outlived him and his letters became Scripture; his mission ended with his death in Rome (c. 64–67 by tradition), but its theology and methods were absorbed into, and endlessly reinterpreted by, the wider church.",
+      "summary": "The mission of Paul of Tarsus, a Pharisee turned apostle, and his team of co-workers, who between the late 40s and c. 60 founded house churches in the cities of Cyprus, Galatia, Macedonia, Achaia and Asia, arguing that Gentiles were justified by faith in Christ without circumcision. His letters — the earliest surviving Christian documents — and Luke's Acts make it the best-documented mission of antiquity.",
+      "story": "Saul, a Greek-speaking Jew from Tarsus trained as a Pharisee, persecuted the followers of Jesus until a vision of the risen Christ near Damascus (c. 33–34) convinced him that he had been called as an apostle to the Gentiles. He spent some time in ‘Arabia’ (the Nabataean kingdom), returned to Damascus, escaped the ethnarch of King Aretas, visited Peter in Jerusalem, and then worked for roughly a decade in Syria and his native Cilicia — a period about which almost nothing is known. Around 44 Barnabas brought him to Antioch, the first city where Jews and Gentiles worshipped together in large numbers.\n\nThe Antioch church sent Barnabas and Saul, with Barnabas's cousin John Mark, on what is conventionally called the first missionary journey (c. 46–48). They crossed Cyprus, where Acts claims the conversion of the proconsul Sergius Paulus, and then struck inland to the Roman colonies of southern Galatia — Pisidian Antioch, Iconium, Lystra and Derbe. The pattern set here recurred: preaching first in the synagogue, gaining a following among Jews and especially God-fearing Gentiles, expulsion or violence (Paul was stoned and left for dead at Lystra), and the appointment of elders before moving on. The success among Gentiles provoked the controversy over circumcision that the Jerusalem meeting (c. 48/49) resolved in Paul's favour, though the subsequent quarrel at Antioch broke his partnership with Barnabas.\n\nOn the second journey (c. 49–52) Paul, now with Silas and Timothy, revisited Galatia and then, blocked from Asia and Bithynia, crossed from Troas to Macedonia — the first recorded Christian mission in Europe. Churches were founded in Philippi (with the merchant Lydia), Thessalonica and Beroea; Paul was mocked at Athens but stayed eighteen months in Corinth, working as a tentmaker with the refugee couple Priscilla and Aquila. The proconsul Gallio's refusal to hear charges against him (inscription dated 51–52) provides the key fixed point of Pauline chronology. From Corinth he wrote 1 Thessalonians, probably the oldest Christian text.\n\nThe third journey (c. 53–57) centred on Ephesus, where Paul taught daily for two years in the lecture hall of Tyrannus and from which co-workers planted churches in the Lycus valley (Colossae, Laodicea, Hierapolis). These were years of crisis: rival missionaries in Galatia demanding circumcision, factions and moral disputes at Corinth, imprisonment (probably in Ephesus) and the riot of the silversmiths. The great letters — Galatians, 1–2 Corinthians, Philippians, Philemon and finally Romans — date from this period. Paul's last project was a collection from his Gentile churches for the poor of Jerusalem, a symbol of the unity of Jew and Gentile.\n\nArrested in the Temple on delivering the collection (c. 57), Paul was held for two years at Caesarea before appealing to Caesar. The voyage to Rome (c. 59–60), narrated vividly in Acts 27–28, ended in shipwreck on Malta; he reached Rome and lived two years under house arrest, preaching openly. Acts ends there. 1 Clement (c. 96) says he reached ‘the limits of the West’ — possibly Spain, which he had planned to visit — and was martyred; tradition dates his beheading to Nero's reign (c. 64–67).\n\nPaul's mission was small in numbers — perhaps a few thousand believers in a dozen or more cities by his death — but disproportionate in effect. His letters entered the New Testament; his insistence that Gentiles need not become Jews shaped Christianity's identity; and his methods (urban centres, mobile teams, self-support, quick transfer of leadership to local elders) became a recurring reference point, most explicitly in Roland Allen's Missionary Methods: St Paul's or Ours? (1912). His theology has also been the most contested in Christian history, from Marcion to Augustine, Luther and the ‘New Perspective’.",
+      "beliefs": [
+        "God's righteousness is revealed in the death and resurrection of Jesus, through whom both Jews and Gentiles are put right with God by faith rather than by works of the Law.",
+        "In Christ ‘there is neither Jew nor Greek, slave nor free, male and female’ (Galatians 3:28) — one body formed by baptism and the Spirit.",
+        "The risen Jesus is Lord, whose imminent return will raise the dead and complete salvation.",
+        "Gentile converts should not be circumcised or adopt the Jewish food laws, but must abandon idolatry and sexual immorality.",
+        "The Holy Spirit gives gifts (prophecy, tongues, teaching, healing) to every member for the building up of the church.",
+        "God has not abandoned Israel; Paul hoped that ‘all Israel will be saved’ (Romans 11)."
+      ],
+      "strategies": [
+        "Concentrating on Roman provincial capitals and colonies on main roads and sea routes (Thessalonica, Corinth, Ephesus) from which the message could radiate.",
+        "Beginning in synagogues, where God-fearing Gentiles formed a bridge audience.",
+        "Self-support by manual labour as a tentmaker or leatherworker, to avoid dependence on patrons.",
+        "Working with a mobile team of co-workers — Barnabas, Silas, Timothy, Titus, Priscilla and Aquila, Phoebe, Junia and others — including women leaders.",
+        "Meeting in households, using the patronage networks of hosts such as Lydia, Gaius and Philemon.",
+        "Staying weeks or months, appointing elders, and then supervising by letters, envoys and return visits.",
+        "The collection for Jerusalem as an expression of unity and reciprocity between Gentile and Jewish churches."
+      ],
+      "groupsReached": [
+        "Diaspora Jews in the synagogues of Asia Minor and Greece.",
+        "God-fearers: Gentiles attached to synagogues who welcomed a Law-free route into God's people.",
+        "Urban artisans, traders and freedpeople, with some higher-status householders (Erastus the city treasurer, Gaius, Crispus the synagogue ruler).",
+        "Slaves and their owners, sometimes in the same congregation (Onesimus and Philemon).",
+        "Women of means who hosted and led churches (Lydia, Chloe, Phoebe, Nympha).",
+        "Pagans turned ‘from idols to serve a living and true God’ (1 Thessalonians 1:9), notably in Thessalonica and Corinth."
+      ],
+      "challenges": [
+        "Violent opposition from synagogue authorities and city crowds: beatings, stoning at Lystra, imprisonment at Philippi and probably Ephesus (2 Corinthians 11 lists five synagogue floggings).",
+        "Rival missionaries who insisted on circumcision (Galatia) or claimed superior spiritual credentials (Corinth).",
+        "Disorder in new churches: factions, lawsuits, sexual immorality and divisions between rich and poor at the Lord's Supper in Corinth.",
+        "The broken partnership with Barnabas and the unresolved Antioch dispute with Peter.",
+        "Suspicion in Jerusalem that Paul taught Jews to abandon the Law, leading to his arrest in 57.",
+        "Travel hazards: shipwreck (three before the voyage to Rome), bandits, hunger and exposure."
+      ],
+      "harms": [
+        "Paul's harsh polemic against opponents (e.g. Galatians 5:12; Philippians 3:2) and 1 Thessalonians 2:14–16 were later used to justify Christian hostility to Jews.",
+        "His acceptance of slavery as a social given (returning Onesimus; ‘slaves, obey’ in the household codes of Colossians and Ephesians) was cited for centuries to defend slavery.",
+        "Passages restricting women's speech and authority (1 Corinthians 14:34–35; 1 Timothy 2:12, whose Pauline authorship is debated) were used to exclude women from ministry, despite the women co-workers in his own letters.",
+        "Disputes about his gospel caused lasting division with Jewish believers and within his own churches.",
+        "His theology was quickly appropriated by Marcion (c. 144), who rejected the Jewish Scriptures altogether — an outcome Paul did not intend but which shows how open his letters were to anti-Jewish reading."
+      ],
+      "developments": [
+        "Thirteen letters (seven undisputed) that became the core of the New Testament and the earliest Christian writings.",
+        "The theological rationale for a universal, culture-crossing faith not bound to one ethnic law.",
+        "A durable model of urban church planting with quickly appointed local leadership, revived in modern missiology by Roland Allen and others.",
+        "The first churches in Europe (Philippi, Thessalonica, Corinth).",
+        "A theology of charismatic gifts and of the church as the body of Christ.",
+        "A practice of inter-church solidarity through the Jerusalem collection."
+      ],
+      "outcome": "Paul died a prisoner, his churches small and often troubled, yet his letters became authoritative Scripture and his mission defined Christianity as a faith for all nations. Every later cross-cultural mission has, consciously or not, argued with his precedent.",
+      "keyPeople": [
+        {
+          "name": "Paul of Tarsus",
+          "personId": "paul-of-tarsus",
+          "years": "c. 5–c. 64/67",
+          "origin": "Tarsus in Cilicia; Pharisee and Roman citizen",
+          "role": "Apostle to the Gentiles",
+          "focus": "Founding Gentile churches in Galatia, Macedonia, Achaia and Asia; letters",
+          "outcome": "Executed in Rome by early tradition, probably under Nero"
+        },
+        {
+          "name": "Barnabas",
+          "years": "1st century",
+          "origin": "Cyprus",
+          "role": "Paul's sponsor and partner on the first journey",
+          "focus": "Antioch, Cyprus, southern Galatia",
+          "outcome": "Separated from Paul c. 49 over John Mark; worked in Cyprus"
+        },
+        {
+          "name": "Silas (Silvanus)",
+          "years": "1st century",
+          "origin": "Jerusalem church",
+          "role": "Companion on the second journey",
+          "focus": "Macedonia and Corinth",
+          "outcome": "Later linked with Peter (1 Peter 5:12)"
+        },
+        {
+          "name": "Timothy",
+          "years": "1st century",
+          "origin": "Lystra; son of a Jewish mother and Greek father",
+          "role": "Co-worker and envoy",
+          "focus": "Thessalonica, Corinth, Philippi, Ephesus",
+          "outcome": "Remembered by tradition as first bishop of Ephesus"
+        },
+        {
+          "name": "Priscilla (Prisca) and Aquila",
+          "years": "1st century",
+          "origin": "Jewish tentmakers expelled from Rome under Claudius",
+          "role": "Hosts, teachers and co-workers",
+          "focus": "Corinth, Ephesus, Rome; instructed Apollos",
+          "outcome": "Hosted house churches in Ephesus and Rome"
+        },
+        {
+          "name": "Phoebe",
+          "years": "1st century",
+          "origin": "Cenchreae, Corinth",
+          "role": "Deacon (diakonos) and patron",
+          "focus": "Carried the Letter to the Romans",
+          "outcome": "Commended by Paul in Romans 16"
+        },
+        {
+          "name": "Titus",
+          "years": "1st century",
+          "origin": "Gentile convert, probably from Antioch",
+          "role": "Envoy and troubleshooter",
+          "focus": "Corinth, the collection; by tradition Crete",
+          "outcome": "Uncircumcised test case at the Jerusalem meeting"
+        }
+      ],
+      "countries": [
+        {
+          "country": "Syria and Cilicia",
+          "year": 37,
+          "text": "After his conversion Paul worked for about a decade around Tarsus and Antioch; Antioch became his sending church.",
+          "lat": 36.92,
+          "lng": 34.89
+        },
+        {
+          "country": "Arabia (Nabataea)",
+          "year": 34,
+          "text": "Paul spent a period in ‘Arabia’ (Galatians 1:17), probably the Nabataean kingdom; whether he preached there is unknown.",
+          "lat": 30.33,
+          "lng": 35.44
+        },
+        {
+          "country": "Cyprus",
+          "year": 46,
+          "text": "First stage of the first journey: preaching from Salamis to Paphos, where Acts reports the proconsul Sergius Paulus believed.",
+          "lat": 35.0,
+          "lng": 33.2
+        },
+        {
+          "country": "Galatia (central Turkey)",
+          "year": 47,
+          "text": "Churches in Pisidian Antioch, Iconium, Lystra and Derbe; later the target of rival missionaries demanding circumcision, provoking the Letter to the Galatians.",
+          "lat": 37.87,
+          "lng": 32.49
+        },
+        {
+          "country": "Macedonia (northern Greece)",
+          "year": 49,
+          "text": "First recorded churches in Europe at Philippi, Thessalonica and Beroea; the Philippians supported Paul financially.",
+          "lat": 40.64,
+          "lng": 22.94
+        },
+        {
+          "country": "Achaia (southern Greece)",
+          "year": 50,
+          "text": "A small response in Athens; an 18-month stay in Corinth produced a large, socially mixed and turbulent church.",
+          "lat": 37.905,
+          "lng": 22.88
+        },
+        {
+          "country": "Asia (western Turkey)",
+          "year": 52,
+          "text": "Ephesus was Paul's base c. 52–55; co-workers such as Epaphras founded churches at Colossae, Laodicea and Hierapolis.",
+          "lat": 37.94,
+          "lng": 27.34
+        },
+        {
+          "country": "Malta",
+          "year": 59,
+          "text": "Shipwrecked on the voyage to Rome, Paul spent three winter months on the island (Acts 28); Maltese Christianity claims him as founder.",
+          "lat": 35.95,
+          "lng": 14.4
+        },
+        {
+          "country": "Italy (Rome)",
+          "year": 60,
+          "text": "Paul wrote to the existing Roman church c. 57 and arrived as a prisoner c. 60, preaching under house arrest; executed there by tradition.",
+          "lat": 41.89,
+          "lng": 12.49
+        },
+        {
+          "country": "Spain (Hispania)",
+          "year": 62,
+          "text": "Paul planned a mission to Spain (Romans 15:24). Whether he went, as 1 Clement's ‘limits of the West’ may imply, is debated.",
+          "lat": 40.0,
+          "lng": -4.0
+        }
+      ],
+      "journeys": [
+        {
+          "id": "pauline-early-years",
+          "title": "Conversion and early years: Damascus, Arabia, Jerusalem, Tarsus, Antioch",
+          "people": "Paul (Saul) of Tarsus",
+          "personIds": [
+            "paul-of-tarsus"
+          ],
+          "year": 34,
+          "endYear": 45,
+          "stops": [
+            {
+              "name": "Jerusalem",
+              "lng": 35.235,
+              "lat": 31.778,
+              "year": 34
+            },
+            {
+              "name": "Damascus",
+              "lng": 36.29,
+              "lat": 33.51,
+              "year": 34
+            },
+            {
+              "name": "Arabia (Nabataea, near Petra)",
+              "lng": 35.44,
+              "lat": 30.33,
+              "year": 35
+            },
+            {
+              "name": "Jerusalem (visit to Peter)",
+              "lng": 35.235,
+              "lat": 31.778,
+              "year": 37
+            },
+            {
+              "name": "Tarsus",
+              "lng": 34.89,
+              "lat": 36.92,
+              "year": 37
+            },
+            {
+              "name": "Antioch",
+              "lng": 36.16,
+              "lat": 36.202,
+              "year": 45
+            }
+          ],
+          "text": "Converted near Damascus, Paul went to Arabia, returned to Damascus, escaped over the wall in a basket, visited Peter in Jerusalem after three years, and worked in Syria and Cilicia until Barnabas brought him to Antioch (Galatians 1; Acts 9, 11)."
+        },
+        {
+          "id": "pauline-first-journey",
+          "title": "First missionary journey: Cyprus and southern Galatia",
+          "people": "Paul, Barnabas and (as far as Perga) John Mark",
+          "personIds": [
+            "paul-of-tarsus"
+          ],
+          "year": 46,
+          "endYear": 48,
+          "stops": [
+            {
+              "name": "Antioch",
+              "lng": 36.16,
+              "lat": 36.202,
+              "year": 46
+            },
+            {
+              "name": "Seleucia Pieria",
+              "lng": 35.93,
+              "lat": 36.12
+            },
+            {
+              "name": "Salamis",
+              "lng": 33.9,
+              "lat": 35.18
+            },
+            {
+              "name": "Paphos",
+              "lng": 32.42,
+              "lat": 34.76
+            },
+            {
+              "name": "Perga",
+              "lng": 30.85,
+              "lat": 36.96
+            },
+            {
+              "name": "Pisidian Antioch",
+              "lng": 31.19,
+              "lat": 38.3
+            },
+            {
+              "name": "Iconium",
+              "lng": 32.49,
+              "lat": 37.87
+            },
+            {
+              "name": "Lystra",
+              "lng": 32.45,
+              "lat": 37.58
+            },
+            {
+              "name": "Derbe",
+              "lng": 33.36,
+              "lat": 37.35
+            },
+            {
+              "name": "Antioch (return via Attalia)",
+              "lng": 36.16,
+              "lat": 36.202,
+              "year": 48
+            }
+          ],
+          "text": "Sent out by the Antioch church (Acts 13–14), the team crossed Cyprus, then preached in the synagogues and cities of southern Galatia. Mark turned back at Perga; Paul was stoned at Lystra. Returning by the same route, they appointed elders in each church."
+        },
+        {
+          "id": "pauline-second-journey",
+          "title": "Second missionary journey: into Europe",
+          "people": "Paul, Silas, Timothy (and Luke in the ‘we’ passages)",
+          "personIds": [
+            "paul-of-tarsus"
+          ],
+          "year": 49,
+          "endYear": 52,
+          "stops": [
+            {
+              "name": "Antioch",
+              "lng": 36.16,
+              "lat": 36.202,
+              "year": 49
+            },
+            {
+              "name": "Lystra (Timothy joins)",
+              "lng": 32.45,
+              "lat": 37.58
+            },
+            {
+              "name": "Troas",
+              "lng": 26.16,
+              "lat": 39.75
+            },
+            {
+              "name": "Philippi",
+              "lng": 24.29,
+              "lat": 41.01,
+              "year": 49
+            },
+            {
+              "name": "Thessalonica",
+              "lng": 22.94,
+              "lat": 40.64
+            },
+            {
+              "name": "Beroea",
+              "lng": 22.2,
+              "lat": 40.52
+            },
+            {
+              "name": "Athens",
+              "lng": 23.73,
+              "lat": 37.97,
+              "year": 50
+            },
+            {
+              "name": "Corinth",
+              "lng": 22.88,
+              "lat": 37.905,
+              "year": 50
+            },
+            {
+              "name": "Ephesus",
+              "lng": 27.34,
+              "lat": 37.94,
+              "year": 52
+            },
+            {
+              "name": "Caesarea, then Jerusalem and Antioch",
+              "lng": 34.89,
+              "lat": 32.5,
+              "year": 52
+            }
+          ],
+          "text": "After parting from Barnabas, Paul revisited Galatia, crossed to Macedonia after a vision at Troas, and founded churches at Philippi, Thessalonica and Beroea. He preached at the Areopagus in Athens and spent eighteen months in Corinth (dated by the Gallio inscription, 51–52) before a brief stop in Ephesus (Acts 15:36–18:22)."
+        },
+        {
+          "id": "pauline-third-journey",
+          "title": "Third missionary journey: Ephesus and the collection",
+          "people": "Paul with Timothy, Titus, Erastus and others",
+          "personIds": [
+            "paul-of-tarsus"
+          ],
+          "year": 53,
+          "endYear": 57,
+          "stops": [
+            {
+              "name": "Antioch",
+              "lng": 36.16,
+              "lat": 36.202,
+              "year": 53
+            },
+            {
+              "name": "Galatia and Phrygia (Iconium)",
+              "lng": 32.49,
+              "lat": 37.87
+            },
+            {
+              "name": "Ephesus",
+              "lng": 27.34,
+              "lat": 37.94,
+              "year": 53
+            },
+            {
+              "name": "Philippi (Macedonia)",
+              "lng": 24.29,
+              "lat": 41.01,
+              "year": 56
+            },
+            {
+              "name": "Corinth",
+              "lng": 22.88,
+              "lat": 37.905,
+              "year": 57
+            },
+            {
+              "name": "Troas",
+              "lng": 26.16,
+              "lat": 39.75
+            },
+            {
+              "name": "Miletus (farewell to the Ephesian elders)",
+              "lng": 27.28,
+              "lat": 37.53
+            },
+            {
+              "name": "Tyre",
+              "lng": 35.2,
+              "lat": 33.27
+            },
+            {
+              "name": "Caesarea",
+              "lng": 34.89,
+              "lat": 32.5
+            },
+            {
+              "name": "Jerusalem (arrest)",
+              "lng": 35.235,
+              "lat": 31.778,
+              "year": 57
+            }
+          ],
+          "text": "Paul spent over two years in Ephesus, then travelled through Macedonia to Corinth, where he wrote Romans. Carrying the collection for Jerusalem, he sailed back by Troas, Miletus and Tyre, and was arrested in the Temple (Acts 18:23–21:36)."
+        },
+        {
+          "id": "pauline-voyage-to-rome",
+          "title": "Voyage to Rome as a prisoner",
+          "people": "Paul, Luke and Aristarchus, under the centurion Julius",
+          "personIds": [
+            "paul-of-tarsus"
+          ],
+          "year": 59,
+          "endYear": 60,
+          "stops": [
+            {
+              "name": "Caesarea Maritima",
+              "lng": 34.89,
+              "lat": 32.5,
+              "year": 59
+            },
+            {
+              "name": "Sidon",
+              "lng": 35.37,
+              "lat": 33.56
+            },
+            {
+              "name": "Myra in Lycia",
+              "lng": 29.98,
+              "lat": 36.26
+            },
+            {
+              "name": "Fair Havens, Crete",
+              "lng": 24.8,
+              "lat": 34.93
+            },
+            {
+              "name": "Malta (shipwreck)",
+              "lng": 14.4,
+              "lat": 35.95,
+              "year": 59
+            },
+            {
+              "name": "Syracuse",
+              "lng": 15.29,
+              "lat": 37.07,
+              "year": 60
+            },
+            {
+              "name": "Rhegium",
+              "lng": 15.65,
+              "lat": 38.11
+            },
+            {
+              "name": "Puteoli",
+              "lng": 14.12,
+              "lat": 40.82
+            },
+            {
+              "name": "Rome",
+              "lng": 12.49,
+              "lat": 41.89,
+              "year": 60
+            }
+          ],
+          "text": "Having appealed to Caesar, Paul sailed late in the season; a north-easterly gale drove the grain ship fourteen days across the Adriatic to wreck on Malta. After wintering there he continued via Syracuse and Puteoli to Rome, where he lived two years under guard (Acts 27–28)."
+        }
+      ],
+      "influencedBy": [
+        "apostolic-mission"
+      ],
+      "relations": [
+        {
+          "to": "ante-nicene-expansion",
+          "kind": "gave-rise-to",
+          "text": "Paul's churches in Asia, Macedonia, Achaia and Rome became key centres of second- and third-century Christianity; his letters circulated as a collection by c. 100."
+        }
+      ],
+      "agreements": [
+        {
+          "with": "apostolic-mission",
+          "text": "The ‘pillars’ James, Peter and John gave Paul and Barnabas ‘the right hand of fellowship’ for the Gentile mission (Galatians 2:9), and Paul honoured Jerusalem through the collection."
+        }
+      ],
+      "disagreements": [
+        {
+          "with": "apostolic-mission",
+          "text": "Paul clashed with Jerusalem-based believers who required circumcision, and publicly opposed Peter at Antioch over withdrawing from table fellowship with Gentiles (Galatians 2:11–14)."
+        }
+      ],
+      "deviations": [
+        "The Pastoral Epistles (1–2 Timothy, Titus), widely regarded as post-Pauline, present a more institutional, hierarchical and socially conservative church than the charismatic communities of the undisputed letters.",
+        "The prominent women co-workers of Romans 16 were progressively written out of leadership in the generations after Paul.",
+        "Paul's hope for the salvation of Israel (Romans 9–11) gave way in later Gentile Christianity to theologies of replacement.",
+        "Marcion's radical Paulinism (c. 144), which rejected the Jewish Scriptures, was condemned by the wider church as a distortion of Paul."
+      ],
+      "sources": [
+        "bible",
+        "m1-schnabel-early-christian-mission",
+        "m1-meeks-first-urban-christians",
+        "m1-riesner-paul-early-period",
+        "m1-allen-missionary-methods",
+        "sanders-paul-judaism",
+        "m1-first-clement"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "ante-nicene-expansion",
+      "name": "Expansion before Constantine (Edessa, Armenia, Africa, Gaul)",
+      "stream": "early-church",
+      "traditionIds": [
+        "early-church",
+        "armenian-apostolic",
+        "syriac-orthodox",
+        "coptic-orthodox"
+      ],
+      "startYear": 100,
+      "endYear": 325,
+      "origin": {
+        "name": "Antioch on the Orontes",
+        "lat": 36.202,
+        "lng": 36.16
+      },
+      "status": "transformed",
+      "statusNote": "With Constantine's patronage (from 312) and the Council of Nicaea (325) the persecuted minority church became an imperial church; its expansion continued, but under very different conditions of privilege and, increasingly, of state support.",
+      "summary": "Over two centuries without professional missionaries or state support, Christianity grew from scattered house churches to perhaps 5–6 million people (roughly a tenth of the Roman Empire) by c. 300, according to the most-cited modern estimates, and crossed the frontier into Osrhoene (Edessa), Armenia, Persia and possibly India. Growth came mainly through households, social networks, care for the sick and poor, and the public witness of martyrs.",
+      "story": "After the apostolic generation there was no organised missionary agency. Christianity spread, in the words of the historian Robin Lane Fox, ‘by informal contact’ — through families, slaves, artisans, soldiers and traders, and through itinerant teachers and prophets described in the Didache. Pliny the Younger, governor of Bithynia c. 112, found Christians ‘of every age, of every rank, and of both sexes’ in towns and countryside, and pagan temples half-deserted. By the mid-second century Justin Martyr, a convert philosopher from Samaria teaching in Rome, could claim (with rhetorical exaggeration) that there was no race among whom prayers were not offered in Jesus' name.\n\nIn the Latin West the evidence is later and patchier. A Greek-speaking community in Lyon and Vienne, linked to Asia Minor, suffered a pogrom in 177 recorded in a letter preserved by Eusebius; its bishop Irenaeus afterwards preached to the Celtic-speaking country people. The earliest Latin Christian document records the execution of twelve Christians from Scillium in Roman Africa in 180. North Africa became a heartland: Tertullian (fl. c. 197–220) wrote that ‘the blood of Christians is seed’, Perpetua and Felicity died at Carthage in 203, and by 256 Cyprian could gather 87 bishops in council. Gregory of Tours later recounted that seven bishops were sent to Gaul c. 250, among them Dionysius (Denis) of Paris and Gatian of Tours; British Christianity is attested by the martyr Alban (date debated) and by three British bishops at the Council of Arles in 314.\n\nEast of the Euphrates Christianity crossed political as well as linguistic boundaries. Edessa, capital of the client kingdom of Osrhoene, became the cradle of Syriac Christianity. The story of King Abgar's correspondence with Jesus and the mission of Addai (Thaddaeus), told by Eusebius and the Doctrine of Addai, is legendary, but a Christian church building in Edessa is recorded as destroyed by flood in 201, Tatian produced the Diatessaron gospel harmony c. 170, and the poet-philosopher Bardaisan (154–222) moved in the royal court. From Edessa and Nisibis the faith spread into Persian Mesopotamia; the house church at Dura-Europos on the Euphrates (decorated c. 232, buried 256) is the oldest securely identified church building. Eusebius reports that the Alexandrian teacher Pantaenus travelled to ‘India’ c. 180 and found Christians with a Gospel of Matthew in Hebrew — whether this was India proper or southern Arabia is debated.\n\nArmenia became the first kingdom to adopt Christianity officially. Gregory the Illuminator, of Parthian noble descent and raised as a Christian in Cappadocian Caesarea, converted King Tiridates III; Armenian tradition dates this to 301, though many historians prefer c. 314. The conversion involved the destruction of pagan temples and the transfer of their lands to the church, and Gregory's descendants held the patriarchate as a hereditary office. In Georgia, the captive woman Nino is credited with converting King Mirian and Queen Nana of Iberia in the 330s, just after this period.\n\nGrowth was neither steady nor safe. Persecution before 250 was local and sporadic; then the emperor Decius (250) required universal sacrifice, Valerian (257–258) targeted clergy and property, and Diocletian's Great Persecution (303–311) destroyed scriptures and churches and killed perhaps several thousand. Yet Christians' reputation for caring for their own poor, for orphans and for victims of plague (as in the epidemic of the 250s described by Dionysius of Alexandria) attracted outsiders. The Roman church in 251 supported over 1,500 widows and needy people, according to Bishop Cornelius. The sociologist Rodney Stark has argued that a steady growth rate of around 40 per cent per decade, sustained by networks and high fertility and survival rates among Christian women, would explain an increase from c. 1,000 in 40 to over 6 million by 300 — a model that is influential but rests on estimates.\n\nConstantine's victory at the Milvian Bridge (312), the Edict of Milan (313) and the Council of Nicaea (325), attended by bishops from Spain to Persia, closed this era. The church entered the fourth century with a settled episcopal structure, a largely agreed canon of Scripture, catechetical schools and a theology of martyrdom — but also with schisms over the lapsed (Novatian in 251, the Donatists after 311) that showed how persecution had divided it.",
+      "beliefs": [
+        "Faith in one God, creator, against pagan polytheism, and in Jesus Christ as Son of God and saviour, summarised in baptismal ‘rules of faith’.",
+        "The Jewish Scriptures as Christian Old Testament, alongside a growing body of apostolic writings recognised by c. 200.",
+        "Baptism after a period of instruction (the catechumenate), often lasting up to three years by the third century.",
+        "Martyrdom as the supreme witness, imitating Christ's death and guaranteeing heavenly reward.",
+        "A strict moral code: rejection of idolatry, infanticide, abortion, gladiatorial shows and sexual licence.",
+        "Apostolic succession of bishops as the guarantee of true teaching against Gnostic and Marcionite rivals."
+      ],
+      "strategies": [
+        "Spread through households and social networks — slaves, wives and children often converting before or without heads of household.",
+        "Mutual aid: common funds for widows, orphans, prisoners, burial of the poor and care during epidemics.",
+        "Apologetic writing addressed to emperors and the educated (Justin, Athenagoras, Tertullian, Origen).",
+        "Catechetical schools, notably at Alexandria (Pantaenus, Clement, Origen), engaging Greek philosophy.",
+        "Translation of Scripture into Syriac, Latin and Coptic, opening the faith to non-Greek speakers.",
+        "Public courage of martyrs, whose deaths impressed some onlookers (e.g. the Lyon martyrs of 177, Perpetua in 203).",
+        "Royal conversion beyond the empire's borders, as in Armenia, combined with the founding of bishoprics."
+      ],
+      "groupsReached": [
+        "Greek-speaking urban populations of Asia Minor, Syria and Egypt.",
+        "Latin-speaking Africans and Italians, and Punic-speaking North Africans in some areas.",
+        "Syriac-speaking Arameans of Osrhoene and Mesopotamia.",
+        "Armenians, through Gregory the Illuminator and royal conversion.",
+        "Coptic-speaking Egyptian villagers, especially from the later third century.",
+        "Celtic-speaking peasants of Gaul (Irenaeus) and Romano-Britons.",
+        "Educated elites and philosophers such as Justin and Origen's students."
+      ],
+      "challenges": [
+        "Imperial persecutions under Decius (250), Valerian (257–258) and Diocletian and Galerius (303–311).",
+        "Popular hostility and slanders (cannibalism, incest, atheism) and local pogroms.",
+        "Competing Christian movements — Gnostics, Marcionites, Montanists — contesting doctrine and scripture.",
+        "Schisms over readmitting those who lapsed under persecution (Novatianists, Donatists).",
+        "Linguistic and cultural distance from rural populations, slowing spread outside cities.",
+        "Political borders: Christians in Persia became suspect as potential allies of Rome, especially after Constantine."
+      ],
+      "harms": [
+        "Polemic against Judaism hardened: Melito of Sardis' Peri Pascha (c. 170) accused Israel of murdering God, a charge that fuelled later persecution of Jews.",
+        "Rigorist schisms after persecution split communities bitterly, and the treatment of the lapsed left lasting enmity.",
+        "Heresy-fighting produced harsh rhetoric and exclusion of dissenters, foreshadowing later coercion once the state was Christian.",
+        "Armenia's conversion under Tiridates was accompanied, in the church's own tradition, by the forcible destruction of pagan temples and confiscation of their wealth.",
+        "Under Constantine, churches gained legal privileges, and edicts (c. 326) began confiscating the meeting-places of Novatians, Valentinians, Marcionites and other ‘heretics’.",
+        "The church largely accepted slavery and imperial social hierarchies, even while admitting slaves to full membership."
+      ],
+      "developments": [
+        "Growth from a few thousand to an estimated 5–6 million Christians by c. 300 without state support.",
+        "The first Christian kingdoms beyond Rome (Armenia; Christianity at the court of Edessa) and churches in Persia.",
+        "Bible translations into Syriac, Latin and Coptic, and the first major Christian theology (Irenaeus, Tertullian, Origen).",
+        "Organised charity that impressed even critics; Emperor Julian later complained that Christians cared for pagan poor as well as their own.",
+        "The episcopal structure, synods and creeds that allowed a dispersed church to cohere.",
+        "Monasticism began in Egypt (Antony withdrew to the desert c. 270–285), a future engine of mission."
+      ],
+      "outcome": "By 325 Christianity was the largest single religious movement in the Roman Empire, the official faith of Armenia and established across Mesopotamia. Constantine's conversion transformed it from a persecuted to a privileged church, changing the dynamics of mission from voluntary witness towards imperial patronage.",
+      "keyPeople": [
+        {
+          "name": "Irenaeus of Lyon",
+          "personId": "irenaeus",
+          "years": "c. 130–c. 202",
+          "origin": "Smyrna, Asia Minor",
+          "role": "Bishop of Lyon",
+          "focus": "Rebuilt the Gallic church after 177; preached to Celtic speakers; wrote Against Heresies",
+          "outcome": "Shaped the theology of apostolic succession and the four Gospels"
+        },
+        {
+          "name": "Tertullian",
+          "personId": "tertullian",
+          "years": "c. 155–c. 220",
+          "origin": "Carthage",
+          "role": "Apologist and first major Latin theologian",
+          "focus": "Defence of Christians to Roman authorities; moral rigour",
+          "outcome": "Later joined the Montanist New Prophecy"
+        },
+        {
+          "name": "Origen",
+          "personId": "origen",
+          "years": "c. 185–c. 253",
+          "origin": "Alexandria",
+          "role": "Teacher and biblical scholar",
+          "focus": "Catechetical school at Alexandria, then Caesarea; trained Gregory Thaumaturgus",
+          "outcome": "Tortured under Decius; died c. 253"
+        },
+        {
+          "name": "Gregory Thaumaturgus (the Wonderworker)",
+          "years": "c. 213–c. 270",
+          "origin": "Neocaesarea, Pontus",
+          "role": "Bishop of Neocaesarea",
+          "focus": "Evangelisation of Pontus; turned pagan festivals into martyrs' feasts",
+          "outcome": "Gregory of Nyssa's Life claims 17 Christians at his arrival and 17 pagans at his death (traditional)"
+        },
+        {
+          "name": "Cyprian of Carthage",
+          "personId": "cyprian",
+          "years": "c. 200–258",
+          "origin": "Carthage",
+          "role": "Bishop",
+          "focus": "Leadership through the Decian persecution and plague; councils of African bishops",
+          "outcome": "Beheaded under Valerian in 258"
+        },
+        {
+          "name": "Gregory the Illuminator",
+          "personId": "gregory-the-illuminator",
+          "years": "c. 257–c. 331",
+          "origin": "Parthian-Armenian, raised in Caesarea of Cappadocia",
+          "role": "Apostle of Armenia; first Catholicos",
+          "focus": "Conversion of King Tiridates III and Armenia (301 traditional, c. 314 by many historians)",
+          "outcome": "Founded a hereditary line of Armenian catholicoi"
+        },
+        {
+          "name": "Pantaenus",
+          "years": "d. c. 200",
+          "origin": "Sicily or Alexandria (a former Stoic)",
+          "role": "Head of the Alexandrian catechetical school",
+          "focus": "Journey to ‘India’ c. 180 according to Eusebius",
+          "outcome": "Destination debated (India or southern Arabia)"
+        },
+        {
+          "name": "Perpetua",
+          "personId": "perpetua",
+          "years": "d. 203",
+          "origin": "Carthage",
+          "role": "Catechumen and martyr",
+          "focus": "Prison diary — one of the earliest writings by a Christian woman",
+          "outcome": "Executed in the arena at Carthage with Felicity"
+        }
+      ],
+      "countries": [
+        {
+          "country": "Asia Minor (Bithynia, Pontus, Asia)",
+          "year": 110,
+          "text": "Pliny's letter (c. 112) shows Christians in towns and villages of Bithynia; Gregory Thaumaturgus evangelised Pontus in the 240s–260s. By 300 Asia Minor was the most Christianised region of the empire.",
+          "lat": 39.5,
+          "lng": 32.0
+        },
+        {
+          "country": "Egypt",
+          "year": 150,
+          "text": "Alexandria's catechetical school and the first Coptic translations; Christianity spread to the villages in the late third century and Antony began desert monasticism.",
+          "lat": 31.2,
+          "lng": 29.92
+        },
+        {
+          "country": "Osrhoene (Edessa)",
+          "year": 170,
+          "text": "Cradle of Syriac Christianity: Tatian's Diatessaron, Bardaisan at court, a church destroyed by flood in 201. The Abgar–Addai conversion story is legendary.",
+          "lat": 37.16,
+          "lng": 38.79
+        },
+        {
+          "country": "Gaul",
+          "year": 177,
+          "text": "Greek-speaking churches at Lyon and Vienne suffered the pogrom of 177; Irenaeus preached to Celts; seven bishops were sent c. 250 (Gregory of Tours).",
+          "lat": 45.76,
+          "lng": 4.83
+        },
+        {
+          "country": "Roman Africa (Tunisia, Algeria)",
+          "year": 180,
+          "text": "Scillitan martyrs (180), Tertullian, Perpetua (203), and some 87 bishops in council under Cyprian (256) — the strongest Latin church.",
+          "lat": 36.85,
+          "lng": 10.32
+        },
+        {
+          "country": "Persian Mesopotamia",
+          "year": 225,
+          "text": "Syriac Christianity spread to Arbela, Nisibis and Seleucia-Ctesiphon, partly via Roman captives deported by Shapur I (260). These churches later formed the Church of the East.",
+          "lat": 36.19,
+          "lng": 44.01
+        },
+        {
+          "country": "Syria (Dura-Europos)",
+          "year": 232,
+          "text": "The Dura-Europos house church, with baptistery frescoes, is the earliest securely dated church building (buried 256).",
+          "lat": 34.75,
+          "lng": 40.73
+        },
+        {
+          "country": "Hispania",
+          "year": 254,
+          "text": "Cyprian's letter 67 concerns Spanish bishops in 254; the Council of Elvira (c. 305) shows an organised, rigorist church.",
+          "lat": 37.18,
+          "lng": -3.6
+        },
+        {
+          "country": "Britain",
+          "year": 250,
+          "text": "The martyr Alban (date debated, 209–304) and three British bishops at Arles in 314 attest an organised Romano-British church.",
+          "lat": 51.75,
+          "lng": -0.34
+        },
+        {
+          "country": "Armenia",
+          "year": 301,
+          "text": "Gregory the Illuminator converted Tiridates III; Armenia became the first officially Christian kingdom (301 traditional; c. 314 preferred by many scholars).",
+          "lat": 40.16,
+          "lng": 44.29
+        },
+        {
+          "country": "India",
+          "year": 180,
+          "text": "Eusebius says Pantaenus found Christians in ‘India’ c. 180, and a ‘John of Persia and Great India’ is listed at Nicaea; links to the Kerala Thomas Christians are traditional.",
+          "lat": 10.16,
+          "lng": 76.21
+        }
+      ],
+      "journeys": [
+        {
+          "id": "ante-nicene-irenaeus-to-gaul",
+          "title": "Irenaeus: from Smyrna to Lyon",
+          "people": "Irenaeus of Lyon",
+          "personIds": [
+            "irenaeus"
+          ],
+          "year": 160,
+          "endYear": 178,
+          "stops": [
+            {
+              "name": "Smyrna (pupil of Polycarp)",
+              "lng": 27.14,
+              "lat": 38.42,
+              "year": 150
+            },
+            {
+              "name": "Rome",
+              "lng": 12.49,
+              "lat": 41.89,
+              "year": 160
+            },
+            {
+              "name": "Lyon (Lugdunum)",
+              "lng": 4.83,
+              "lat": 45.76,
+              "year": 177
+            },
+            {
+              "name": "Vienne",
+              "lng": 4.87,
+              "lat": 45.52,
+              "year": 177
+            }
+          ],
+          "text": "Irenaeus, who had heard Polycarp in Smyrna, travelled west via Rome to the Greek-speaking church of the Rhône valley. He carried its letter about the martyrs of 177 to Rome and succeeded the martyred Bishop Pothinus."
+        },
+        {
+          "id": "ante-nicene-gregory-illuminator-armenia",
+          "title": "Gregory the Illuminator to Armenia",
+          "people": "Gregory the Illuminator",
+          "personIds": [
+            "gregory-the-illuminator"
+          ],
+          "year": 287,
+          "endYear": 314,
+          "stops": [
+            {
+              "name": "Caesarea in Cappadocia",
+              "lng": 35.49,
+              "lat": 38.72,
+              "year": 287
+            },
+            {
+              "name": "Ashtishat (Taron)",
+              "lng": 41.42,
+              "lat": 38.93
+            },
+            {
+              "name": "Vagharshapat (Etchmiadzin)",
+              "lng": 44.29,
+              "lat": 40.16,
+              "year": 301
+            },
+            {
+              "name": "Caesarea (consecration as bishop)",
+              "lng": 35.49,
+              "lat": 38.72,
+              "year": 314
+            },
+            {
+              "name": "Vagharshapat",
+              "lng": 44.29,
+              "lat": 40.16,
+              "year": 314
+            }
+          ],
+          "text": "Raised a Christian in Cappadocia, Gregory entered the service of Tiridates III. Armenian tradition (Agathangelos) says he was imprisoned in a pit at Khor Virap for some thirteen years before healing and converting the king. He was consecrated at Caesarea and built the cathedral at Vagharshapat; the pagan temple at Ashtishat was replaced by the first Armenian church. Details are traditional."
+        },
+        {
+          "id": "ante-nicene-addai-to-edessa",
+          "title": "Addai (Thaddaeus) to Edessa (traditional)",
+          "people": "Addai (Thaddaeus), by tradition one of the Seventy",
+          "personIds": [],
+          "year": 30,
+          "endYear": 50,
+          "stops": [
+            {
+              "name": "Jerusalem",
+              "lng": 35.235,
+              "lat": 31.778
+            },
+            {
+              "name": "Antioch",
+              "lng": 36.16,
+              "lat": 36.202
+            },
+            {
+              "name": "Edessa",
+              "lng": 38.79,
+              "lat": 37.16
+            },
+            {
+              "name": "Nisibis",
+              "lng": 41.21,
+              "lat": 37.07
+            },
+            {
+              "name": "Arbela (Erbil)",
+              "lng": 44.01,
+              "lat": 36.19
+            }
+          ],
+          "text": "Eusebius and the Syriac Doctrine of Addai say Thomas sent Addai to heal King Abgar V of Edessa after Abgar wrote to Jesus. The story is legendary, but it expresses how Syriac Christianity, historically attested at Edessa by the late second century, spread east to Nisibis and Adiabene."
+        },
+        {
+          "id": "ante-nicene-pantaenus-india",
+          "title": "Pantaenus to ‘India’ (debated)",
+          "people": "Pantaenus of Alexandria",
+          "personIds": [],
+          "year": 180,
+          "stops": [
+            {
+              "name": "Alexandria",
+              "lng": 29.92,
+              "lat": 31.2,
+              "year": 180
+            },
+            {
+              "name": "Berenice (Red Sea port)",
+              "lng": 35.47,
+              "lat": 23.91
+            },
+            {
+              "name": "Muziris (if India proper)",
+              "lng": 76.21,
+              "lat": 10.16
+            }
+          ],
+          "text": "Eusebius (Hist. Eccl. 5.10) reports that Pantaenus went as a herald of the gospel to the nations of the East as far as ‘India’ and found there a Hebrew Matthew left by Bartholomew. ‘India’ in ancient usage could mean southern Arabia or Ethiopia, so the destination is debated."
+        }
+      ],
+      "influencedBy": [
+        "apostolic-mission",
+        "pauline-mission"
+      ],
+      "relations": [
+        {
+          "to": "gothic-arian-mission",
+          "kind": "gave-rise-to",
+          "text": "Christian captives taken from Cappadocia by Gothic raiders in the 250s formed the nucleus of Gothic Christianity, from which Ulfilas descended."
+        },
+        {
+          "to": "celtic-mission",
+          "kind": "gave-rise-to",
+          "text": "The Romano-British church, attested from the third century, produced Patrick and the British monastic tradition that evangelised Ireland."
+        },
+        {
+          "to": "church-of-the-east-mission",
+          "kind": "gave-rise-to",
+          "text": "Syriac Christianity of Edessa and Persian Mesopotamia became the Church of the East, which carried the faith across Asia."
+        },
+        {
+          "to": "ethiopian-nubian-mission",
+          "kind": "gave-rise-to",
+          "text": "The Alexandrian church consecrated Frumentius as bishop for Aksum c. 340, continuing the expansion of Egyptian Christianity south."
+        }
+      ],
+      "agreements": [
+        {
+          "with": "pauline-mission",
+          "text": "Continued Paul's urban, household-based pattern and accepted his letters as Scripture, using them against Marcion's distorted Paulinism."
+        }
+      ],
+      "disagreements": [
+        {
+          "with": "gothic-arian-mission",
+          "text": "The Nicene settlement of 325, which declared the Son ‘of one substance’ (homoousios) with the Father, was rejected by the Homoian theology that Ulfilas carried to the Goths."
+        }
+      ],
+      "deviations": [
+        "Under Constantine the voluntary, persecuted church accepted imperial patronage, privileges for clergy and state enforcement against dissenters — a reversal of earlier apologists' pleas for religious freedom (e.g. Tertullian, To Scapula: ‘it is not part of religion to compel religion’).",
+        "Rival bishops increasingly sought imperial arbitration of doctrinal disputes, beginning with the Donatist appeal to Constantine (313).",
+        "The early openness to women prophets and teachers narrowed as clerical office became male and hierarchical.",
+        "Armenia's top-down royal conversion set a precedent for state-directed Christianisation unlike the earlier grassroots pattern."
+      ],
+      "sources": [
+        "eusebius-hist-eccl",
+        "frend-rise",
+        "chadwick-early-church",
+        "m1-stark-rise-of-christianity",
+        "m1-harnack-mission-expansion",
+        "m1-lane-fox-pagans-christians",
+        "moffett-asia"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "gothic-arian-mission",
+      "name": "Ulfilas and the Arian mission to the Goths",
+      "stream": "early-church",
+      "traditionIds": [
+        "arian-homoian"
+      ],
+      "startYear": 341,
+      "endYear": 680,
+      "origin": {
+        "name": "Gothia, north of the lower Danube",
+        "lat": 44.6,
+        "lng": 26.1
+      },
+      "status": "ended",
+      "statusNote": "Homoian (‘Arian’) Christianity became the faith of most Germanic peoples who settled in the western empire, but it disappeared as their kingdoms were conquered (Vandals 534, Ostrogoths 553) or converted to Nicene Catholicism (Burgundians c. 516, Sueves c. 560s, Visigoths 589, Lombards by the later seventh century).",
+      "summary": "Ulfilas (Wulfila, c. 311–383), a Goth of Cappadocian Christian descent, was consecrated ‘bishop of the Christians in the Getic land’ c. 341 by the Homoian Eusebius of Nicomedia. He created a Gothic alphabet and translated the Bible, and his non-Nicene form of Christianity spread from the Goths to the Vandals, Burgundians, Sueves, Lombards and other East Germanic peoples, becoming for two centuries a separate ‘Germanic’ church alongside Roman Catholicism.",
+      "story": "Christianity reached the Goths before Ulfilas. Gothic raids into Asia Minor in the 250s carried off Roman captives, among them Christians from Cappadocia, including Ulfilas's own grandparents from the village of Sadagolthina near Parnassus. A ‘Theophilus, bishop of Gothia’ signed the Nicene Creed in 325, though he probably served the Crimean Goths. Ulfilas, born c. 311 north of the Danube, grew up bilingual or trilingual in Gothic, Greek and Latin. Around 341, while on an embassy to the empire, he was consecrated bishop by Eusebius of Nicomedia — then the leading opponent of Nicaea — according to the church historian Philostorgius, at or around the Council of Antioch.\n\nUlfilas worked for some seven years among the Tervingi (Visigoths) north of the Danube. Christianity was associated with Rome, and the Gothic leadership saw it as a threat to ancestral cult and political independence. In c. 347/348 a persecution led by a Gothic ‘judge’ drove Ulfilas and his followers across the river, and the emperor Constantius II settled them near Nicopolis ad Istrum in Moesia (modern Bulgaria), where the ‘Gothi minores’ remained as a pastoral community for centuries. A second, harsher persecution under Athanaric (369–372) produced Gothic martyrs, among them Saba, whose relics were sent to Basil of Caesarea.\n\nUlfilas's lasting achievement was the Gothic Bible. He devised an alphabet based mainly on Greek letters, with Latin and runic additions, and translated most of the Bible from Greek. Philostorgius claims he deliberately omitted the Books of Kings because they would encourage a warlike people. Fragments survive, above all the sixth-century Codex Argenteus, written in silver and gold ink on purple parchment, probably at Ravenna, and now in Uppsala — the most important early witness to any Germanic language.\n\nThe theology Ulfilas taught was Homoian: the Son was ‘like’ (homoios) the Father according to the Scriptures, but subordinate, and the Spirit was subordinate to the Son. This was the creed promoted by Constantius II and adopted at Constantinople in 360, then the official position of the eastern empire. When Fritigern's Goths sought refuge across the Danube in 376, they accepted Christianity in the form favoured by the emperor Valens, also a Homoian. Valens's death at Adrianople (378) and Theodosius I's establishment of Nicene orthodoxy (380–381) left the Goths holding a creed the empire now condemned. Ulfilas died in Constantinople c. 383, having come to argue his case at a synod; his creed, preserved by his pupil Auxentius of Durostorum, affirms the Father as ‘alone unbegotten’.\n\nFrom the Goths, Homoian Christianity passed to the Vandals, Burgundians, Sueves, Gepids, Heruli and Lombards — by a process that is poorly documented but probably involved Gothic clergy, intermarriage and the prestige of the Gothic Bible. By c. 500 almost every barbarian kingdom in the West — Visigothic Toulouse and later Toledo, Vandal Carthage, Ostrogothic Ravenna, Burgundian Lyon — was ruled by an Arian elite over a Catholic Roman majority. ‘Arian’ became an ethnic marker: kingdoms maintained separate Arian churches, clergy and baptisteries, as can still be seen in Ravenna. Relations ranged from Theodoric the Great's toleration in Italy to the Vandal persecution in Africa, where Huneric in 484 exiled nearly 5,000 Catholic clergy and laity to the desert, according to Victor of Vita.\n\nThe Frankish king Clovis's choice of Catholic baptism (c. 496–508) gave the Franks the support of the Gallo-Roman bishops and a religious pretext for war against the Arian Visigoths (Vouillé, 507). Justinian's reconquest destroyed the Vandal (533–534) and Ostrogothic (535–553) kingdoms. The Burgundians converted under Sigismund (c. 516), the Sueves under Martin of Braga's influence (c. 560s), and the Visigoths at the Third Council of Toledo (589) under Reccared, after a failed attempt by his father Leovigild to unify Spain on an Arian basis. The Lombards, who entered Italy in 568, oscillated until the later seventh century. With them Germanic Arianism ended, leaving behind a Bible, a script and a cautionary example of mission tied to a contested imperial creed.",
+      "beliefs": [
+        "One God the Father, alone unbegotten and without beginning; the Son begotten before all ages, ‘like the Father according to the Scriptures’ but not of the same substance.",
+        "The Holy Spirit as a power subordinate to the Son, neither God nor Lord in the full sense.",
+        "Rejection of the Nicene terms homoousios and ousia as unscriptural.",
+        "The authority of Scripture read in the vernacular, with Gothic as a liturgical language.",
+        "Baptism (later including rebaptism of Catholic converts in some kingdoms) as entry into the church.",
+        "Ordinary patristic piety — martyr cults, fasting, church discipline — otherwise similar to Catholic practice."
+      ],
+      "strategies": [
+        "Translation of the Bible into Gothic, with a new alphabet created for the purpose.",
+        "Consecration of a bishop for a whole people rather than for a city, adapted to non-urban Gothic society.",
+        "Spread through captives, traders and Roman-Gothic diplomatic contacts.",
+        "Group conversion of migrating peoples, as with Fritigern's Tervingi in 376, often as part of treaties with the empire.",
+        "Ethnic churches with Gothic-speaking clergy maintaining a distinct identity from the Roman Catholic population.",
+        "Royal patronage of Arian churches and baptisteries in barbarian capitals (Ravenna, Toledo, Carthage)."
+      ],
+      "groupsReached": [
+        "Tervingi (Visigoths) north of the Danube and later in Gaul and Spain.",
+        "Greuthungi and Ostrogoths, who ruled Italy under Theodoric (493–526).",
+        "Vandals and Alans in Spain and North Africa.",
+        "Burgundians of the Rhône valley.",
+        "Sueves of Galicia, Gepids and Heruli of the Danube basin.",
+        "Lombards of Pannonia and Italy.",
+        "The ‘Gothi minores’ settled in Moesia under Ulfilas."
+      ],
+      "challenges": [
+        "Persecution by Gothic pagan leaders (c. 347/348 and 369–372) who saw Christianity as Roman encroachment.",
+        "The empire's switch to Nicene orthodoxy under Theodosius (380–381), which left Germanic Christians outside the imperial church.",
+        "Minority status as an Arian elite ruling Catholic Roman majorities with powerful bishops.",
+        "Military defeat by Catholic Franks and by Justinian's Byzantine armies.",
+        "Lack of an institutional centre comparable to Rome or Constantinople; few surviving texts or theologians.",
+        "Hostile Catholic historiography that portrayed Arianism as barbarous heresy."
+      ],
+      "harms": [
+        "The Vandal kings, especially Huneric (477–484), persecuted North African Catholics: confiscation of churches, exile of bishops, torture and, by Victor of Vita's account, nearly 5,000 deported to the desert in 484.",
+        "Some Arian rulers compelled rebaptism of Catholics; the Visigothic king Leovigild pressed Arian conversion and his son Hermenegild, who turned Catholic and rebelled, was killed in 585.",
+        "Religion became a marker of ethnic division and a pretext for wars, both against Arians (Clovis at Vouillé, Justinian) and by them.",
+        "Conversion was frequently a political bargain tied to treaties and settlement rights rather than personal conviction.",
+        "The Homoian theology Ulfilas carried separated converts from the wider church's consensus established at Nicaea and Constantinople."
+      ],
+      "developments": [
+        "The Gothic Bible, the first translation of the Bible into a Germanic language and the earliest substantial literary text in any Germanic tongue.",
+        "A Gothic alphabet, a pioneering example of script creation for Bible translation, later repeated by Cyril and Methodius and countless modern missions.",
+        "Bringing Christianity to peoples beyond the imperial frontier and integrating them into a Christian world, easing their later Catholic conversion.",
+        "Architectural and artistic monuments such as the Arian Baptistery and Sant'Apollinare Nuovo in Ravenna.",
+        "Episodes of religious toleration, notably Theodoric's Italy, where Arian and Catholic churches coexisted."
+      ],
+      "outcome": "Germanic Arianism ended by the late seventh century, absorbed into Catholicism or destroyed with its kingdoms. Its Bible and its model of vernacular mission survived as an enduring example, while its fate showed the danger of a mission identified with one imperial faction's creed.",
+      "keyPeople": [
+        {
+          "name": "Ulfilas (Wulfila)",
+          "personId": "ulfilas",
+          "years": "c. 311–c. 383",
+          "origin": "Gothia north of the Danube; Cappadocian Christian ancestry",
+          "role": "Bishop of the Goths and Bible translator",
+          "focus": "Gothic alphabet and Bible; pastoral care of Goths in Moesia",
+          "outcome": "Died at Constantinople defending the Homoian creed"
+        },
+        {
+          "name": "Eusebius of Nicomedia",
+          "years": "d. c. 341",
+          "origin": "Syria; bishop of Nicomedia, then Constantinople",
+          "role": "Leader of the anti-Nicene party",
+          "focus": "Consecrated Ulfilas c. 341",
+          "outcome": "Baptised Constantine in 337"
+        },
+        {
+          "name": "Auxentius of Durostorum",
+          "years": "4th century",
+          "origin": "Moesia",
+          "role": "Pupil and biographer of Ulfilas",
+          "focus": "Preserved Ulfilas's creed and life",
+          "outcome": "His letter survives in the margins of a Latin manuscript"
+        },
+        {
+          "name": "Fritigern",
+          "years": "d. after 380",
+          "origin": "Tervingi Goths",
+          "role": "Gothic leader",
+          "focus": "Accepted Homoian Christianity with Valens's support when crossing the Danube in 376",
+          "outcome": "Defeated Valens at Adrianople, 378"
+        },
+        {
+          "name": "Saba the Goth",
+          "years": "d. 372",
+          "origin": "Gothic village north of the Danube",
+          "role": "Lay Christian and martyr",
+          "focus": "Refused sacrificial meat during Athanaric's persecution",
+          "outcome": "Drowned in the Musaeus (Buzău) river; relics sent to Basil of Caesarea"
+        },
+        {
+          "name": "Reccared I",
+          "years": "r. 586–601",
+          "origin": "Visigothic Spain",
+          "role": "King",
+          "focus": "Converted from Arianism to Catholicism",
+          "outcome": "Led the Visigoths into Catholicism at the Third Council of Toledo, 589"
+        }
+      ],
+      "countries": [
+        {
+          "country": "Gothia (Romania/Moldova)",
+          "year": 341,
+          "text": "Ulfilas's first mission among the Tervingi north of the Danube, ended by persecution c. 347/348; Christians martyred again in 369–372.",
+          "lat": 44.6,
+          "lng": 26.1
+        },
+        {
+          "country": "Moesia (Bulgaria)",
+          "year": 348,
+          "text": "Ulfilas's followers settled near Nicopolis ad Istrum as the ‘Gothi minores’; the translation work was probably done here.",
+          "lat": 43.22,
+          "lng": 25.61
+        },
+        {
+          "country": "Visigothic Gaul and Spain",
+          "year": 418,
+          "text": "The Visigothic kingdom of Toulouse (418–507), then Toledo, kept an Arian church until Reccared's conversion in 589.",
+          "lat": 43.6,
+          "lng": 1.44
+        },
+        {
+          "country": "Vandal Africa (Tunisia)",
+          "year": 439,
+          "text": "The Vandals took Carthage in 439 and imposed Arian supremacy, persecuting Catholics until Byzantine conquest in 534.",
+          "lat": 36.85,
+          "lng": 10.32
+        },
+        {
+          "country": "Burgundian kingdom (Rhône valley)",
+          "year": 443,
+          "text": "The Burgundians, settled in Sapaudia in 443, were largely Arian; King Sigismund converted to Catholicism c. 516.",
+          "lat": 46.2,
+          "lng": 6.14
+        },
+        {
+          "country": "Suevic Galicia (north-west Spain and Portugal)",
+          "year": 466,
+          "text": "The Sueves, briefly Catholic under Rechiar, became Arian under Remismund (c. 466) and returned to Catholicism c. 560s with Martin of Braga.",
+          "lat": 41.55,
+          "lng": -8.42
+        },
+        {
+          "country": "Ostrogothic Italy",
+          "year": 493,
+          "text": "Theodoric ruled from Ravenna, building Arian churches and tolerating Catholics; the kingdom fell to Justinian by 553.",
+          "lat": 44.42,
+          "lng": 12.2
+        },
+        {
+          "country": "Lombard Italy",
+          "year": 568,
+          "text": "The Lombards entered Italy as Arians and pagans; Queen Theodelinda promoted Catholicism and Arianism faded by the later seventh century.",
+          "lat": 45.19,
+          "lng": 9.16
+        }
+      ],
+      "journeys": [
+        {
+          "id": "gothic-ulfilas-mission",
+          "title": "Ulfilas: consecration, mission north of the Danube and exile to Moesia",
+          "people": "Ulfilas and his Gothic followers",
+          "personIds": [
+            "ulfilas"
+          ],
+          "year": 341,
+          "endYear": 383,
+          "stops": [
+            {
+              "name": "Constantinople / Antioch (consecration)",
+              "lng": 28.98,
+              "lat": 41.01,
+              "year": 341
+            },
+            {
+              "name": "Durostorum (Danube crossing)",
+              "lng": 27.26,
+              "lat": 44.11
+            },
+            {
+              "name": "Gothia (Wallachian plain)",
+              "lng": 26.1,
+              "lat": 44.6,
+              "year": 341
+            },
+            {
+              "name": "Nicopolis ad Istrum (Moesia)",
+              "lng": 25.61,
+              "lat": 43.22,
+              "year": 348
+            },
+            {
+              "name": "Constantinople (death at synod)",
+              "lng": 28.98,
+              "lat": 41.01,
+              "year": 383
+            }
+          ],
+          "text": "Consecrated c. 341 (Philostorgius places it under Eusebius of Nicomedia), Ulfilas evangelised the Goths for about seven years until persecution drove him and his flock across the Danube c. 348. Settled in Moesia, he translated the Bible. He died in Constantinople c. 383."
+        },
+        {
+          "id": "gothic-visigothic-migration",
+          "title": "Visigothic Christianity: from the Danube to Toledo",
+          "people": "Visigoths under Fritigern, Alaric and their successors",
+          "personIds": [],
+          "year": 376,
+          "endYear": 589,
+          "stops": [
+            {
+              "name": "Danube crossing",
+              "lng": 27.26,
+              "lat": 44.11,
+              "year": 376
+            },
+            {
+              "name": "Adrianople",
+              "lng": 26.56,
+              "lat": 41.68,
+              "year": 378
+            },
+            {
+              "name": "Rome (sack)",
+              "lng": 12.49,
+              "lat": 41.89,
+              "year": 410
+            },
+            {
+              "name": "Toulouse",
+              "lng": 1.44,
+              "lat": 43.6,
+              "year": 418
+            },
+            {
+              "name": "Toledo (Third Council, Catholic conversion)",
+              "lng": -4.02,
+              "lat": 39.86,
+              "year": 589
+            }
+          ],
+          "text": "The Tervingi accepted Homoian Christianity when admitted to the empire in 376, carrying it through the Balkans, Italy (sacking Rome in 410 while sparing churches), southern Gaul and Spain, where King Reccared renounced Arianism at the Third Council of Toledo in 589."
+        },
+        {
+          "id": "gothic-vandal-route",
+          "title": "Vandal Arianism: Rhine to Carthage",
+          "people": "Vandals and Alans under Gunderic and Gaiseric",
+          "personIds": [],
+          "year": 406,
+          "endYear": 534,
+          "stops": [
+            {
+              "name": "Rhine crossing near Mainz",
+              "lng": 8.27,
+              "lat": 50.0,
+              "year": 406
+            },
+            {
+              "name": "Hispania Baetica (Seville)",
+              "lng": -5.98,
+              "lat": 37.39,
+              "year": 411
+            },
+            {
+              "name": "Hippo Regius (siege; Augustine dies)",
+              "lng": 7.75,
+              "lat": 36.88,
+              "year": 430
+            },
+            {
+              "name": "Carthage",
+              "lng": 10.32,
+              "lat": 36.85,
+              "year": 439
+            }
+          ],
+          "text": "The Vandals, already Arian by the time they entered Spain, crossed to Africa in 429, besieged Hippo as Augustine lay dying (430) and took Carthage in 439. Their Arian church persecuted Catholics until Belisarius destroyed the kingdom in 533–534."
+        }
+      ],
+      "influencedBy": [
+        "ante-nicene-expansion"
+      ],
+      "relations": [
+        {
+          "to": "anglo-saxon-mission",
+          "kind": "succeeded-by",
+          "text": "As Germanic Arianism faded, Catholic missions — Frankish, Irish and Anglo-Saxon — carried Latin Christianity to the remaining Germanic peoples east of the Rhine."
+        }
+      ],
+      "agreements": [
+        {
+          "with": "byzantine-slavic-mission",
+          "text": "Both missions created a new alphabet and vernacular Bible for a newly converted people, a principle later Slavonic defenders explicitly appealed to when citing the Goths among peoples who worship in their own tongue."
+        }
+      ],
+      "disagreements": [
+        {
+          "with": "ante-nicene-expansion",
+          "text": "Rejected the Nicene Creed's homoousios, siding with the Homoian theology of Constantius II; after 381 this placed Gothic Christians outside imperial orthodoxy."
+        },
+        {
+          "with": "celtic-mission",
+          "text": "Columbanus, founding Bobbio in Lombard Italy (614), wrote and preached against the Arianism still present among the Lombards."
+        }
+      ],
+      "deviations": [
+        "Its Homoian Christology departed from the Nicene consensus that the wider church affirmed at Nicaea (325) and Constantinople (381).",
+        "Ulfilas's pastoral, Scripture-centred mission was later subsumed into ethnic church structures that served royal power and sometimes persecuted Catholics.",
+        "Practices such as rebaptising Catholic converts, adopted in some kingdoms, broke with the earlier common recognition of baptism."
+      ],
+      "sources": [
+        "m1-heather-matthews-goths",
+        "m1-philostorgius-church-history",
+        "m1-victor-of-vita",
+        "kelly-doctrines",
+        "brown-rise-western",
+        "neill-missions"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "celtic-mission",
+      "name": "Celtic missions (Patrick, Columba, Columbanus, Aidan)",
+      "stream": "early-church",
+      "traditionIds": [
+        "catholic",
+        "early-church"
+      ],
+      "startYear": 431,
+      "endYear": 800,
+      "origin": {
+        "name": "Ireland (Armagh)",
+        "lat": 54.35,
+        "lng": -6.65
+      },
+      "status": "merged",
+      "statusNote": "There was never a separate ‘Celtic Church’. Irish and British churches were part of Latin Christendom with distinctive customs (Easter reckoning, tonsure, monastic-centred organisation) that were harmonised with Roman practice between c. 630 and 768; Irish peregrini continued to work on the continent into the eleventh and twelfth centuries.",
+      "summary": "Missions from Britain to Ireland in the fifth century (Palladius, Patrick) and then from Ireland outward — Columba to Iona and the Picts (563), Columbanus to Gaul, the Alps and Italy (c. 590–615), Aidan from Iona to Northumbria (635) — created a monastic Christianity that converted Ireland, much of Scotland and northern England and reinvigorated Frankish Christianity. Its ideal was peregrinatio, voluntary exile ‘for the love of Christ’.",
+      "story": "Christianity reached Ireland, which had never been part of the Roman Empire, through contact with Roman Britain. In 431, according to the contemporary chronicler Prosper of Aquitaine, Pope Celestine sent Palladius as first bishop ‘to the Irish believing in Christ’, showing that some Christians were already there. The better-remembered missionary, Patrick, is known from two genuine Latin works, his Confessio and his Letter to the soldiers of Coroticus. A Romano-British deacon's son, he was captured by Irish raiders at about sixteen, spent six years herding animals, escaped, and later returned as a bishop. His dates are uncertain: Irish annals give 432–461 (the traditional dating), while many scholars prefer a later fifth-century career. Patrick worked in the north and west, baptised ‘thousands’, ordained clergy, encouraged women to take vows, and denounced the British warlord Coroticus for killing and enslaving newly baptised converts. Later hagiographers (Muirchú and Tírechán, late seventh century) magnified his role to support Armagh's claims to primacy.\n\nBy the sixth century Irish Christianity had become intensely monastic. Great houses such as Clonard (Finnian), Clonmacnoise (Ciarán, c. 545), Bangor (Comgall, c. 558) and Kildare (associated with Brigid, d. c. 525) became centres of learning, Latin scholarship and ascetic discipline, and the abbots of monastic federations (paruchiae) often wielded more power than bishops. Irish monks developed private confession and penitentials, copied and illuminated manuscripts, and embraced ‘white martyrdom’ — leaving homeland and kin for Christ.\n\nThe most famous exile was Columba (Colum Cille, 521–597), a prince of the northern Uí Néill. In 563 he sailed with twelve companions to Iona, an island granted by the king of Dál Riata. Later tradition links his departure to the battle of Cúl Dreimne (561) and a quarrel over a copied psalter; Adomnán's Life (c. 700) is silent on this. From Iona Columba visited the Pictish king Bridei son of Maelchon near Inverness and founded a network of monasteries in Ireland and Scotland. Iona became the head of a federation whose influence stretched from Durrow to Lindisfarne.\n\nColumbanus (c. 543–615) left Bangor c. 590 with twelve companions for Frankish Gaul. Under Merovingian patronage he founded Annegray, Luxeuil and Fontaine in the Vosges, imposing a rigorous rule. He clashed with the Frankish bishops by keeping the Irish date of Easter and refusing their authority, and with Queen Brunhild and King Theuderic II by denouncing the king's concubinage. Expelled in 610, he was put on a ship at Nantes that was driven back, went to the court of Theudebert, travelled up the Rhine to Lake Constance — where his disciple Gall remained, the origin of St Gallen — and crossed the Alps to Lombard Italy, founding Bobbio in 614. Over fifty monasteries in Gaul traced their descent from Luxeuil, transforming the Frankish church.\n\nIn 635 King Oswald of Northumbria, who had been baptised in exile among the Irish of Dál Riata, asked Iona for a bishop. After a first, harsh envoy failed, Aidan (d. 651) came and set his see on Lindisfarne, near the royal fortress of Bamburgh. Walking rather than riding, preaching with Oswald as his interpreter, ransoming slaves and training English boys, Aidan and his successors (Finan, Colman) evangelised Northumbria and, through Cedd and Chad, Mercia and Essex. Bede, a partisan of Roman customs, nonetheless praised their humility. The Irish and Roman missions met — and clashed — at the Synod of Whitby (664), where King Oswiu chose the Roman reckoning of Easter; Colman withdrew to Iona and then Inishbofin.\n\nThe Irish churches gradually adopted the Roman Easter (southern Ireland in the 630s, Iona in 716, Wales by 768). Irish peregrini continued to reach the continent — Fursey in East Anglia and Péronne, Kilian (martyred at Würzburg c. 689), Virgil of Salzburg — and Irish monks reached the Faroes and Iceland (the papar described by Dicuil in 825). Viking raids on Iona from 795 forced the community to move its relics to Kells. The romantic nineteenth- and twentieth-century idea of a nature-loving, egalitarian ‘Celtic Christianity’ opposed to Rome is largely a modern construction, as Ian Bradley and others have shown.",
+      "beliefs": [
+        "Orthodox Latin Christian doctrine shared with Rome; Columbanus wrote to popes affirming loyalty while disputing their Easter policy.",
+        "Peregrinatio pro Christo: permanent exile from homeland as the highest ascetic offering (‘white martyrdom’).",
+        "Severe penance as medicine for the soul, codified in penitentials with tariffs for each sin.",
+        "The monastery as the centre of Christian life, with the abbot as spiritual and often jurisdictional head.",
+        "Veneration of saints and relics, and strong belief in miracles and prophecy (as in Adomnán's Life of Columba).",
+        "A distinctive Easter computation (the 84-year cycle) and frontal tonsure, held as apostolic tradition from John."
+      ],
+      "strategies": [
+        "Founding monasteries on islands and frontier sites granted by kings (Iona, Lindisfarne, Luxeuil, Bobbio), which became schools and mission bases.",
+        "Winning kings and nobles first (Bridei, Oswald, the Merovingians), whose patronage protected missionaries.",
+        "Itinerant preaching on foot, baptising in rivers and founding local churches.",
+        "Training local boys as clergy, as Aidan did with twelve English boys at Lindisfarne.",
+        "Manuscript production and Latin learning — the Cathach, the Book of Durrow, the Lindisfarne Gospels, the Book of Kells.",
+        "Penitential discipline and private confession, which spread from Irish monasteries across Europe.",
+        "Ransoming captives and caring for the poor (Patrick, Aidan)."
+      ],
+      "groupsReached": [
+        "Irish kingdoms and kin-groups from the fifth to seventh centuries.",
+        "Gaelic settlers of Dál Riata in Argyll.",
+        "Picts of northern and eastern Scotland.",
+        "Anglo-Saxons of Northumbria, Mercia, Essex and East Anglia.",
+        "Frankish nobles and the rural population of Burgundy and Austrasia.",
+        "Alemanni around Lake Constance and Lombards in northern Italy.",
+        "Remote islands: Orkney, the Faroes and Iceland."
+      ],
+      "challenges": [
+        "A rural, kin-based society without towns, requiring monastic rather than diocesan structures.",
+        "Pagan resistance and violence from local kings, and slave-raiding warlords such as Coroticus.",
+        "Conflict with Frankish bishops and royalty (Columbanus's expulsion in 610).",
+        "The Easter controversy with Roman-aligned churches, culminating at Whitby (664).",
+        "Viking raids on Iona (795, 802, 806), Lindisfarne (793) and Irish monasteries.",
+        "Distance, sea travel and harsh ascetic regimes."
+      ],
+      "harms": [
+        "Monasteries became entangled in dynastic politics; tradition (debated) blames Columba for the battle of Cúl Dreimne (561), and the Annals of Ulster record pitched battles between monastic federations, such as Clonmacnoise against Durrow in 764.",
+        "Some monasteries owned slaves and bondsmen, and church leaders accepted the slave economy that had once enslaved Patrick.",
+        "The Easter and tonsure disputes bred mutual suspicion and condemnation between Christians, with Roman partisans treating Irish practice as schismatic and vice versa.",
+        "Penitentials prescribed extremely severe and sometimes degrading penances, and their sexual regulations shaped later restrictive Western moral theology.",
+        "Later hagiography invented or inflated miracles and missions (Patrick banishing snakes, Armagh's sweeping claims), obscuring the real history and serving institutional rivalry."
+      ],
+      "developments": [
+        "The conversion of Ireland — the first Christian society in the West beyond the old Roman frontier — largely through monastic rather than diocesan structures.",
+        "Monastic schools that preserved Latin learning and produced masterpieces of insular art (Book of Durrow, Lindisfarne Gospels, Book of Kells).",
+        "The re-evangelisation of northern England and the conversion of the Picts.",
+        "Columbanian monasteries (Luxeuil, St Gallen, Bobbio) that revitalised Frankish and Italian religious life and libraries.",
+        "Private, repeatable confession, which became standard in the Western church.",
+        "The ideal of missionary exile that inspired Anglo-Saxon missionaries such as Egbert, Willibrord and Boniface."
+      ],
+      "outcome": "Irish and British monastic missions converted Ireland, much of Scotland and northern England and left a lasting mark on continental monasticism, learning and penance. Their distinctive customs merged into Roman practice by the eighth century, but their legacy lived on through the Anglo-Saxon missions they inspired.",
+      "keyPeople": [
+        {
+          "name": "Patrick",
+          "personId": "patrick",
+          "years": "5th century (traditionally 432–461)",
+          "origin": "Bannavem Taburniae, Roman Britain",
+          "role": "Missionary bishop in Ireland",
+          "focus": "Northern and western Ireland; baptism, ordination, opposition to slave-raiding",
+          "outcome": "Wrote the Confessio; later regarded as Ireland's patron saint"
+        },
+        {
+          "name": "Palladius",
+          "years": "fl. 431",
+          "origin": "Gaul (probably Auxerre)",
+          "role": "First bishop sent to the Irish",
+          "focus": "Christians already in Ireland, probably in Leinster",
+          "outcome": "Little known of his mission; overshadowed by Patrick in later tradition"
+        },
+        {
+          "name": "Brigid of Kildare",
+          "years": "d. c. 525",
+          "origin": "Leinster",
+          "role": "Abbess of the double monastery of Kildare",
+          "focus": "Monastic life for women and men",
+          "outcome": "Biography largely legendary; one of Ireland's three patron saints"
+        },
+        {
+          "name": "Columba (Colum Cille)",
+          "personId": "columba",
+          "years": "521–597",
+          "origin": "Gartan, Donegal; Uí Néill dynasty",
+          "role": "Founder and abbot of Iona",
+          "focus": "Dál Riata, the Picts, Irish monasteries (Derry, Durrow)",
+          "outcome": "Iona became the head of a powerful monastic federation"
+        },
+        {
+          "name": "Columbanus",
+          "years": "c. 543–615",
+          "origin": "Leinster; monk of Bangor",
+          "role": "Peregrinus and monastic founder",
+          "focus": "Burgundy (Annegray, Luxeuil, Fontaine), Alemannia, Lombard Italy (Bobbio)",
+          "outcome": "Expelled from Burgundy 610; died at Bobbio 615"
+        },
+        {
+          "name": "Gall",
+          "years": "c. 550–c. 646",
+          "origin": "Ireland",
+          "role": "Companion of Columbanus",
+          "focus": "The Alemanni around Lake Constance",
+          "outcome": "His hermitage became the abbey of St Gallen"
+        },
+        {
+          "name": "Aidan of Lindisfarne",
+          "years": "d. 651",
+          "origin": "Ireland; monk of Iona",
+          "role": "Bishop of Northumbria",
+          "focus": "Northumbria, with King Oswald as interpreter",
+          "outcome": "Founded Lindisfarne; praised by Bede for humility"
+        },
+        {
+          "name": "Oswald of Northumbria",
+          "years": "c. 604–642",
+          "origin": "Northumbrian royal house; baptised in exile in Dál Riata",
+          "role": "King and patron",
+          "focus": "Invited Aidan from Iona (635)",
+          "outcome": "Killed by Penda of Mercia at Maserfield, 642; venerated as a saint"
+        }
+      ],
+      "countries": [
+        {
+          "country": "Ireland",
+          "year": 431,
+          "text": "Palladius (431) and Patrick (5th century) established bishops; by the sixth century a dense network of monasteries made Ireland a Christian society and a sending base.",
+          "lat": 53.4,
+          "lng": -7.9
+        },
+        {
+          "country": "Wales and Cornwall",
+          "year": 450,
+          "text": "Sub-Roman British Christianity produced monastic leaders such as David (d. c. 589), Illtud and Samson, who exchanged monks with Ireland and Brittany.",
+          "lat": 51.88,
+          "lng": -5.27
+        },
+        {
+          "country": "Brittany",
+          "year": 550,
+          "text": "British monks and emigrants (Samson of Dol, Paul Aurelian) Christianised Armorica; Columbanus landed here c. 590.",
+          "lat": 48.55,
+          "lng": -1.76
+        },
+        {
+          "country": "Scotland (Dál Riata and Pictland)",
+          "year": 563,
+          "text": "Columba founded Iona in 563 and visited the Pictish king Bridei; Iona's monasteries gradually Christianised the Picts.",
+          "lat": 56.33,
+          "lng": -6.41
+        },
+        {
+          "country": "Francia (Burgundy)",
+          "year": 590,
+          "text": "Columbanus founded Annegray, Luxeuil and Fontaine; Luxeuil's rule and alumni spread to some fifty monasteries across Gaul.",
+          "lat": 47.82,
+          "lng": 6.38
+        },
+        {
+          "country": "Alemannia (Switzerland, south-west Germany)",
+          "year": 610,
+          "text": "Columbanus preached at Tuggen and Bregenz; Gall's hermitage became St Gallen. Fridolin is associated with Säckingen.",
+          "lat": 47.42,
+          "lng": 9.37
+        },
+        {
+          "country": "Lombard Italy",
+          "year": 614,
+          "text": "Columbanus founded Bobbio with the Lombard king Agilulf's grant; it became a major library and opposed Lombard Arianism.",
+          "lat": 44.77,
+          "lng": 9.39
+        },
+        {
+          "country": "England (Northumbria and the Midlands)",
+          "year": 635,
+          "text": "Aidan and the Iona monks re-evangelised Northumbria after Paulinus's mission collapsed; Cedd and Chad took the faith to Essex and Mercia.",
+          "lat": 55.68,
+          "lng": -1.8
+        },
+        {
+          "country": "Franconia (Würzburg)",
+          "year": 686,
+          "text": "The Irish bishop Kilian and companions preached in Thuringian-ruled Würzburg and were killed c. 689.",
+          "lat": 49.79,
+          "lng": 9.93
+        },
+        {
+          "country": "Faroe Islands and Iceland",
+          "year": 795,
+          "text": "Irish hermits (papar) reached the Faroes and Iceland before the Norse; the geographer Dicuil (825) describes them.",
+          "lat": 64.0,
+          "lng": -19.0
+        }
+      ],
+      "journeys": [
+        {
+          "id": "celtic-patrick-ireland",
+          "title": "Patrick: captivity, escape and return (traditional sites)",
+          "people": "Patrick",
+          "personIds": [
+            "patrick"
+          ],
+          "year": 405,
+          "endYear": 461,
+          "stops": [
+            {
+              "name": "Western Britain (home; site of Bannavem Taburniae unknown)",
+              "lng": -2.93,
+              "lat": 54.89,
+              "year": 405
+            },
+            {
+              "name": "Slemish (traditional site of captivity)",
+              "lng": -6.1,
+              "lat": 54.88,
+              "year": 410
+            },
+            {
+              "name": "Britain (after escape)",
+              "lng": -2.93,
+              "lat": 54.89,
+              "year": 412
+            },
+            {
+              "name": "Saul, County Down",
+              "lng": -5.66,
+              "lat": 54.34,
+              "year": 432
+            },
+            {
+              "name": "Armagh",
+              "lng": -6.65,
+              "lat": 54.35,
+              "year": 444
+            },
+            {
+              "name": "Croagh Patrick (Mayo)",
+              "lng": -9.66,
+              "lat": 53.76
+            },
+            {
+              "name": "Downpatrick (traditional burial)",
+              "lng": -5.72,
+              "lat": 54.33,
+              "year": 461
+            }
+          ],
+          "text": "Patrick's own Confessio gives the outline — capture at about sixteen, six years of slavery, escape by ship, return as bishop — but no place-names in Ireland. The sites shown (Slemish, Saul, Armagh, Croagh Patrick, Downpatrick) and the dates 432–461 come from later tradition and annals."
+        },
+        {
+          "id": "celtic-columba-iona",
+          "title": "Columba: Derry to Iona and the Picts",
+          "people": "Columba (Colum Cille) and twelve companions",
+          "personIds": [
+            "columba"
+          ],
+          "year": 563,
+          "endYear": 597,
+          "stops": [
+            {
+              "name": "Derry",
+              "lng": -7.32,
+              "lat": 54.997,
+              "year": 546
+            },
+            {
+              "name": "Iona",
+              "lng": -6.41,
+              "lat": 56.33,
+              "year": 563
+            },
+            {
+              "name": "Loch Ness",
+              "lng": -4.5,
+              "lat": 57.3
+            },
+            {
+              "name": "Fortress of King Bridei (near Inverness)",
+              "lng": -4.27,
+              "lat": 57.48,
+              "year": 565
+            },
+            {
+              "name": "Iona (death)",
+              "lng": -6.41,
+              "lat": 56.33,
+              "year": 597
+            }
+          ],
+          "text": "In 563 Columba settled on Iona in Dál Riata. Adomnán's Life describes his journey up the Great Glen to the Pictish king Bridei son of Maelchon, the famous encounter with a beast in the River Ness, and his death on Iona in 597."
+        },
+        {
+          "id": "celtic-columbanus-continent",
+          "title": "Columbanus: Bangor to Bobbio",
+          "people": "Columbanus with twelve companions, including Gall",
+          "personIds": [],
+          "year": 590,
+          "endYear": 615,
+          "stops": [
+            {
+              "name": "Bangor",
+              "lng": -5.67,
+              "lat": 54.66,
+              "year": 590
+            },
+            {
+              "name": "Brittany (Saint-Coulomb)",
+              "lng": -1.92,
+              "lat": 48.68,
+              "year": 590
+            },
+            {
+              "name": "Annegray",
+              "lng": 6.56,
+              "lat": 47.85,
+              "year": 591
+            },
+            {
+              "name": "Luxeuil",
+              "lng": 6.38,
+              "lat": 47.82,
+              "year": 593
+            },
+            {
+              "name": "Nantes (attempted deportation)",
+              "lng": -1.55,
+              "lat": 47.22,
+              "year": 610
+            },
+            {
+              "name": "Metz (court of Theudebert)",
+              "lng": 6.18,
+              "lat": 49.12,
+              "year": 611
+            },
+            {
+              "name": "Bregenz (Lake Constance)",
+              "lng": 9.75,
+              "lat": 47.5,
+              "year": 611
+            },
+            {
+              "name": "Milan (Lombard court)",
+              "lng": 9.19,
+              "lat": 45.46,
+              "year": 612
+            },
+            {
+              "name": "Bobbio",
+              "lng": 9.39,
+              "lat": 44.77,
+              "year": 614
+            }
+          ],
+          "text": "Jonas of Bobbio's Life (c. 640) records Columbanus's founding of monasteries in the Vosges, his expulsion by Theuderic II and Brunhild, the storm that drove the deportation ship back at Nantes, his mission among the Alemanni at Bregenz, and his final foundation at Bobbio, where he died in 615."
+        },
+        {
+          "id": "celtic-aidan-lindisfarne",
+          "title": "Aidan: Iona to Lindisfarne",
+          "people": "Aidan and monks of Iona",
+          "personIds": [],
+          "year": 635,
+          "endYear": 651,
+          "stops": [
+            {
+              "name": "Iona",
+              "lng": -6.41,
+              "lat": 56.33,
+              "year": 635
+            },
+            {
+              "name": "Bamburgh (royal fortress)",
+              "lng": -1.71,
+              "lat": 55.61,
+              "year": 635
+            },
+            {
+              "name": "Lindisfarne",
+              "lng": -1.8,
+              "lat": 55.68,
+              "year": 635
+            },
+            {
+              "name": "Yeavering and the Northumbrian countryside",
+              "lng": -2.11,
+              "lat": 55.57
+            }
+          ],
+          "text": "At King Oswald's request Iona sent Aidan, who established his see on the tidal island of Lindisfarne beside Bamburgh and toured Northumbria on foot; he died at Bamburgh in 651."
+        }
+      ],
+      "influencedBy": [
+        "ante-nicene-expansion"
+      ],
+      "relations": [
+        {
+          "to": "anglo-saxon-mission",
+          "kind": "partnered",
+          "text": "Irish and Roman missions together converted the English; Irish-trained Englishmen such as Egbert (at Rath Melsigi) sent Willibrord to Frisia, and Iona and Canterbury traditions fused after Whitby (664). After Whitby the Northumbrian church adopted Roman Easter and organisation, and Irish monastic ideals were absorbed into the Anglo-Saxon continental mission."
+        }
+      ],
+      "agreements": [
+        {
+          "with": "anglo-saxon-mission",
+          "text": "Shared Latin creed, Scriptures, monastic ideals and loyalty to the papacy; Bede admired Aidan's holiness, and Anglo-Saxon missionaries adopted the Irish ideal of peregrinatio."
+        }
+      ],
+      "disagreements": [
+        {
+          "with": "anglo-saxon-mission",
+          "text": "Clashed over the date of Easter, the form of tonsure and episcopal authority: Augustine failed to win the British bishops c. 603, and at Whitby (664) Wilfrid's Roman party defeated Colman's Ionan party."
+        },
+        {
+          "with": "gothic-arian-mission",
+          "text": "Columbanus at Bobbio opposed the Arianism still held by part of the Lombard nobility."
+        }
+      ],
+      "deviations": [
+        "The ascetic ideal of poverty and exile coexisted with monasteries that grew rich, held slaves and became instruments of dynastic power, with abbacies passing within ruling families.",
+        "Columbanus's refusal to submit to local bishops and his insistence on Irish Easter put him at odds with church order as generally understood.",
+        "Modern ‘Celtic Christianity’ movements have projected later romantic, environmental or anti-Roman ideals onto these missions that the sources do not support."
+      ],
+      "sources": [
+        "patrick-confessio",
+        "bede-ecclesiastical-history",
+        "m1-adomnan-life-of-columba",
+        "m1-jonas-life-of-columbanus",
+        "m1-charles-edwards-early-christian-ireland",
+        "bradley-celtic",
+        "brown-rise-western"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "anglo-saxon-mission",
+      "name": "Gregory's mission to the English and the Anglo-Saxon mission to Germany (Augustine, Willibrord, Boniface)",
+      "stream": "early-church",
+      "traditionIds": [
+        "catholic"
+      ],
+      "startYear": 596,
+      "endYear": 809,
+      "origin": {
+        "name": "Rome",
+        "lat": 41.89,
+        "lng": 12.49
+      },
+      "status": "transformed",
+      "statusNote": "The English church founded by Gregory's mission became, within a century, a missionary church in its own right. Its continental missions merged into the Carolingian church of the Franks; the evangelisation of Saxony was completed by Charlemagne's conquest, and the model passed to the ninth-century missions to Scandinavia.",
+      "summary": "In 596 Pope Gregory the Great sent the monk Augustine with about forty companions to the pagan English; landing in Kent in 597, they baptised King Æthelberht and founded the see of Canterbury. A century later English monks, inspired by Irish peregrinatio and loyal to Rome, carried the faith to their continental ‘kinsmen’: Willibrord to Frisia (690) and Boniface to Hesse, Thuringia and Bavaria (719–754). Their work, intertwined with Frankish power, shaped the medieval German church — and stands in contrast to the forced conversion of Saxony under Charlemagne.",
+      "story": "According to a story Bede already reports as tradition, Gregory saw fair-haired English slave boys in the Roman market and resolved to evangelise their people (‘not Angles but angels’). Whatever its truth, in 596 Gregory, now pope, dispatched Augustine, prior of his own monastery of St Andrew, with about forty monks. Frightened by tales of English savagery, they halted in Provence and Augustine returned to Rome to ask to be released; Gregory sent them on with letters to Frankish bishops and rulers. They landed on the Isle of Thanet in 597 and were received by Æthelberht of Kent, whose Frankish Christian queen Bertha already worshipped with her chaplain Liudhard at St Martin's church in Canterbury. Æthelberht was baptised, probably in 597, and Gregory reported to Alexandria that more than 10,000 English had been baptised at Christmas 597.\n\nGregory's letters show a carefully thought-out strategy. A plan for two metropolitan sees (London and York) with twelve bishops each envisaged a complete church structure. In his famous letter to Abbot Mellitus (601), Gregory reversed earlier advice to destroy temples and instead directed that they be purified and turned into churches and that pagan feasts be replaced by Christian festivals — ‘for he who would climb to a lofty height must go up by steps, not leaps’. Augustine's attempt to bring the British (Welsh) bishops under his authority failed at ‘Augustine's Oak’ c. 603, and Bede later presented the slaughter of the monks of Bangor-is-y-Coed by the pagan Æthelfrith at Chester (c. 615) as divine judgement on the British refusal.\n\nThe conversion of the English kingdoms took nearly a century and suffered reverses. After Æthelberht's death (616) Kent and Essex relapsed for a time. Paulinus baptised King Edwin of Northumbria at York at Easter 627 and conducted mass baptisms in the rivers Glen and Swale, but fled south after Edwin's death in battle (633). Northumbria was re-evangelised from Iona under Aidan (635); Birinus, sent by Pope Honorius, converted Wessex (635); Felix, a Burgundian, worked in East Anglia. Mercia's pagan king Penda allowed preaching but remained pagan until his death (655). The Synod of Whitby (664) aligned Northumbria with Roman customs, and Archbishop Theodore of Tarsus (669–690) organised the dioceses and founded a school at Canterbury. Sussex was the last kingdom to be converted, by the exiled Wilfrid c. 681–686; when the West Saxon king Cædwalla conquered the Isle of Wight (686) he tried, in Bede's words, to wipe out its native inhabitants and replace them with his own people, giving a quarter of the island to Wilfrid.\n\nBy 700 the English church, with scholars such as Aldhelm and Bede and monasteries such as Wearmouth-Jarrow, began to send missionaries to the continental Saxons and Frisians, whom it regarded as kin. Wilfrid preached in Frisia in 678–679; the Northumbrian Egbert, living in exile in Ireland, organised a mission and in 690 sent Willibrord with eleven companions from Rath Melsigi. Willibrord worked in the zone conquered by the Frankish mayor Pippin II, was consecrated archbishop of the Frisians in Rome in 695 with the name Clement, set his see at Utrecht and founded Echternach (698). The pagan Frisian king Radbod's resistance and Willibrord's dependence on Frankish arms limited his success; an attempt to reach Denmark achieved little.\n\nWynfreth of Wessex, renamed Boniface by Pope Gregory II in 719, became the greatest of the Anglo-Saxon missionaries. After failing in Frisia (716), he received a papal commission (719), worked with Willibrord, and then evangelised Hesse and Thuringia, where many already had a syncretistic, half-Christian practice. At Geismar (723), under the protection of Charles Martel, he felled the sacred oak of Donar and used its timber for a chapel — a demonstration of the powerlessness of the old gods recorded by his biographer Willibald. He founded monasteries (Fritzlar, Ohrdruf, Fulda in 744 with Sturm), invited English women such as Leoba, Thecla and Walburga to lead convents, organised the Bavarian dioceses (739) and new sees at Würzburg, Büraburg and Erfurt (741–742), and presided with Carloman over the reforming Concilium Germanicum (742/743). His letters show deep reliance on Frankish power — he admitted that without the prince's protection he could neither govern his people nor prevent pagan rites — and also on English friends, who sent books and advice. In old age he returned to Frisia and was killed with some fifty companions by robbers or pagans at Dokkum on 5 June 754.\n\nBoniface's persuasion-under-protection contrasts sharply with what followed. Charlemagne's Saxon Wars (772–804) began with the destruction of the Irminsul shrine and were fought as both conquest and conversion. The Royal Frankish Annals record the beheading of 4,500 Saxons at Verden in 782 (a figure some historians doubt), and the Capitulatio de partibus Saxoniae (c. 782–785) prescribed death for refusing baptism, cremating the dead or eating meat in Lent. The Northumbrian scholar Alcuin, Charlemagne's adviser, protested in 796 that ‘faith arises from the will, not from compulsion’ and that imposing tithes on new converts was wrecking the mission. Missionaries such as the Northumbrian Willehad (Bremen, 787) and the Frisian Liudger (Münster, d. 809), trained at York, worked within this coerced settlement and tried to make it real. Saxony became Christian, and a century later Saxon kings led the Christian empire — but the method left a long shadow over the history of mission.",
+      "beliefs": [
+        "Latin Catholic orthodoxy under the authority of the bishop of Rome, to whom Boniface swore an oath of obedience in 722.",
+        "The necessity of baptism for salvation, and the duty of rulers to promote the true faith and suppress idolatry.",
+        "Canonical order: bishops in fixed sees, regular synods, clerical celibacy and correct liturgy according to Roman usage.",
+        "The Benedictine monastic life as the backbone of the church and of mission.",
+        "Gradual transformation of pagan custom where possible (Gregory to Mellitus) alongside firm rejection of sacrifice, divination and sacred groves and trees.",
+        "A sense of kinship obligation: the English owed the gospel to their continental Germanic relatives."
+      ],
+      "strategies": [
+        "Conversion of kings first, using royal marriages (Bertha in Kent, Æthelburh in Northumbria) and Frankish diplomatic support.",
+        "Papal commissioning and close correspondence with Rome; the pallium and diocesan plans issued from Rome.",
+        "Adaptation of pagan temples and festivals (Gregory's letter of 601) while condemning sacrifice.",
+        "Dramatic demonstrations of the impotence of pagan gods, such as Boniface's felling of the oak at Geismar (723).",
+        "Founding monasteries and convents as schools, libraries and centres of agriculture (Wearmouth-Jarrow, Echternach, Fulda, Tauberbischofsheim).",
+        "Building episcopal structures and reforming synods to discipline clergy and suppress syncretism.",
+        "Networks of English supporters who supplied books, manpower and prayer, including women correspondents such as Eadburga and Bugga."
+      ],
+      "groupsReached": [
+        "The Anglo-Saxon kingdoms: Kent, Essex, Northumbria, East Anglia, Wessex, Mercia and Sussex.",
+        "Frisians in the coastal Low Countries.",
+        "Hessians and Thuringians in central Germany, many already partly Christian.",
+        "Bavarians and Alemanni, whose existing church Boniface reorganised.",
+        "Continental Saxons, forcibly Christianised under Charlemagne (772–804).",
+        "The Frankish clergy and nobility, targets of Boniface's reforms."
+      ],
+      "challenges": [
+        "Pagan reactions after the deaths of Christian kings (Kent and Essex in 616, Northumbria in 633).",
+        "Resistance by the British church to Augustine's authority and later the Irish-Roman Easter dispute.",
+        "Frisian and Saxon resistance, tied to opposition to Frankish expansion (Radbod; Widukind).",
+        "Syncretism among nominal Christians and poorly trained or immoral Frankish clergy.",
+        "Dependence on the shifting politics of Frankish mayors and kings.",
+        "Violence: Boniface and his companions were killed at Dokkum (754); missionaries were killed in Saxon revolts."
+      ],
+      "harms": [
+        "Charlemagne's conversion of the Saxons by conquest involved mass killings (Verden, 782), deportations and the Capitulatio's death penalty for refusing baptism or pagan practices — a model of coerced conversion that Alcuin himself criticised.",
+        "Even Boniface's mission relied on Frankish military protection; missionary success advanced alongside, and helped legitimise, Frankish conquest of Frisia, Hesse and Thuringia.",
+        "Bede's history presented the massacre of British monks at Chester (c. 615) as just punishment for refusing Augustine, illustrating hostility toward the native British church.",
+        "Cædwalla's conquest of the Isle of Wight (686) combined forced baptism with attempted extermination of its inhabitants, and the church accepted a quarter of the island as spoils.",
+        "Sacred sites and practices were destroyed (the Geismar oak, the Irminsul), and the heavy imposition of tithes on new converts provoked resentment and revolt.",
+        "Boniface denounced and helped condemn rival missionaries and clergy such as Aldebert and Clement as heretics, and his reforms were used to entrench clerical and papal control."
+      ],
+      "developments": [
+        "The conversion of the English and the foundation of an organised English church centred on Canterbury and York.",
+        "Bede's Ecclesiastical History (731), Wearmouth-Jarrow learning and Theodore's school at Canterbury.",
+        "The first large-scale ‘second-generation’ mission: a newly converted people sending missionaries abroad.",
+        "The diocesan and monastic framework of the German church (Utrecht, Mainz, Würzburg, Fulda, Salzburg, Freising, Regensburg, Passau).",
+        "Reform of the Frankish church, preparing for the Carolingian renaissance in which Alcuin played a leading part.",
+        "A prominent role for women religious, such as Leoba, as leaders of mission convents."
+      ],
+      "outcome": "The Anglo-Saxon mission turned a recently pagan people into a missionary church within a century, laid the foundations of the German and Dutch churches, and bound them closely to Rome. Its last phase, the Christianisation of Saxony by the sword, raised an enduring question about the use of state force in mission.",
+      "keyPeople": [
+        {
+          "name": "Gregory the Great",
+          "personId": "gregory-the-great",
+          "years": "c. 540–604 (pope 590–604)",
+          "origin": "Rome",
+          "role": "Pope who planned and directed the English mission",
+          "focus": "Letters of instruction on adaptation, church structure and pastoral care",
+          "outcome": "Remembered by the English as their ‘apostle’"
+        },
+        {
+          "name": "Augustine of Canterbury",
+          "years": "d. c. 604",
+          "origin": "Rome; prior of St Andrew's on the Caelian Hill",
+          "role": "Leader of the mission and first archbishop of Canterbury",
+          "focus": "Kent; baptism of Æthelberht; founding Christ Church and St Peter and St Paul at Canterbury",
+          "outcome": "Failed to unite the British bishops under his authority"
+        },
+        {
+          "name": "Paulinus of York",
+          "years": "d. 644",
+          "origin": "Rome",
+          "role": "Bishop of the Northumbrians",
+          "focus": "Baptism of King Edwin (627) and mass baptisms in Northumbria",
+          "outcome": "Fled to Kent after Edwin's death; ended as bishop of Rochester"
+        },
+        {
+          "name": "Theodore of Tarsus",
+          "years": "602–690",
+          "origin": "Tarsus in Cilicia; Greek monk in Rome",
+          "role": "Archbishop of Canterbury (669–690)",
+          "focus": "Organisation of English dioceses; Synod of Hertford (672/673); Canterbury school",
+          "outcome": "Gave the English church its lasting structure"
+        },
+        {
+          "name": "Willibrord",
+          "years": "658–739",
+          "origin": "Northumbria; trained at Ripon and Rath Melsigi in Ireland",
+          "role": "Archbishop of the Frisians",
+          "focus": "Frisia, Utrecht, Echternach",
+          "outcome": "Founded the see of Utrecht; died at Echternach"
+        },
+        {
+          "name": "Boniface (Wynfreth)",
+          "years": "c. 675–754",
+          "origin": "Wessex (traditionally Crediton); monk of Nursling",
+          "role": "Papal legate, archbishop, ‘Apostle of the Germans’",
+          "focus": "Hesse, Thuringia, Bavaria, reform of the Frankish church",
+          "outcome": "Killed at Dokkum, 754; buried at Fulda"
+        },
+        {
+          "name": "Leoba",
+          "years": "c. 710–782",
+          "origin": "Wessex; nun of Wimborne",
+          "role": "Abbess of Tauberbischofsheim",
+          "focus": "Education of women and oversight of convents in Germany",
+          "outcome": "Buried at Fulda near Boniface"
+        },
+        {
+          "name": "Charlemagne",
+          "personId": "charlemagne",
+          "years": "c. 742–814 (king 768, emperor 800)",
+          "origin": "Frankish Carolingian dynasty",
+          "role": "King who conquered and forcibly Christianised Saxony",
+          "focus": "Saxon Wars (772–804); Capitulatio de partibus Saxoniae",
+          "outcome": "Saxony annexed and Christianised; criticised by Alcuin for coercion"
+        }
+      ],
+      "countries": [
+        {
+          "country": "England (Kent)",
+          "year": 597,
+          "text": "Augustine landed at Thanet, baptised Æthelberht and founded Canterbury; Rochester and London followed in 604.",
+          "lat": 51.28,
+          "lng": 1.08
+        },
+        {
+          "country": "England (Northumbria)",
+          "year": 625,
+          "text": "Paulinus baptised King Edwin at York (627); after a pagan reaction, the Ionan mission and later Wilfrid and Theodore consolidated the church.",
+          "lat": 53.96,
+          "lng": -1.08
+        },
+        {
+          "country": "Wales (British church)",
+          "year": 603,
+          "text": "The British bishops refused Augustine's authority at ‘Augustine's Oak’ c. 603; Welsh churches accepted the Roman Easter only in 768.",
+          "lat": 51.9,
+          "lng": -2.6
+        },
+        {
+          "country": "England (Wessex, Mercia, Sussex)",
+          "year": 635,
+          "text": "Birinus converted Wessex (635); Mercia became Christian after Penda (655); Wilfrid converted Sussex (c. 681–686), the last pagan kingdom.",
+          "lat": 51.07,
+          "lng": -1.31
+        },
+        {
+          "country": "Frisia (Netherlands)",
+          "year": 690,
+          "text": "Willibrord's mission from 690 under Pippin II's protection; the see of Utrecht founded 695. Boniface was killed at Dokkum in 754.",
+          "lat": 52.09,
+          "lng": 5.12
+        },
+        {
+          "country": "Luxembourg",
+          "year": 698,
+          "text": "Willibrord founded Echternach abbey (698), a base and scriptorium for the Frisian mission.",
+          "lat": 49.81,
+          "lng": 6.42
+        },
+        {
+          "country": "Denmark",
+          "year": 710,
+          "text": "Willibrord's brief visit to the Danish king Ongendus (c. 710s) produced no lasting church; the Danish mission resumed with Anskar in 826.",
+          "lat": 55.68,
+          "lng": 9.0
+        },
+        {
+          "country": "Hesse and Thuringia (Germany)",
+          "year": 721,
+          "text": "Boniface's base: Amöneburg (721), Geismar oak (723), Fritzlar, Ohrdruf, the sees of Büraburg, Erfurt and Würzburg, and Fulda (744).",
+          "lat": 51.13,
+          "lng": 9.27
+        },
+        {
+          "country": "Bavaria",
+          "year": 739,
+          "text": "Boniface, as papal legate, reorganised the existing Bavarian church into the dioceses of Salzburg, Freising, Regensburg and Passau (739).",
+          "lat": 48.4,
+          "lng": 11.75
+        },
+        {
+          "country": "Francia (Frankish church)",
+          "year": 742,
+          "text": "With Carloman and Pippin, Boniface held reform councils (742–747) and became archbishop of Mainz c. 746.",
+          "lat": 50.0,
+          "lng": 8.27
+        },
+        {
+          "country": "Saxony (northern Germany)",
+          "year": 772,
+          "text": "Conquered and forcibly Christianised in Charlemagne's Saxon Wars (772–804); Willehad (Bremen, 787) and Liudger (Münster) organised the new church.",
+          "lat": 51.96,
+          "lng": 7.63
+        }
+      ],
+      "journeys": [
+        {
+          "id": "anglo-saxon-augustine-canterbury",
+          "title": "Augustine's mission: Rome to Canterbury",
+          "people": "Augustine and about forty monks",
+          "personIds": [],
+          "year": 596,
+          "endYear": 597,
+          "stops": [
+            {
+              "name": "Rome (St Andrew's monastery)",
+              "lng": 12.49,
+              "lat": 41.89,
+              "year": 596
+            },
+            {
+              "name": "Lérins",
+              "lng": 7.05,
+              "lat": 43.51,
+              "year": 596
+            },
+            {
+              "name": "Aix-en-Provence",
+              "lng": 5.45,
+              "lat": 43.53,
+              "year": 596
+            },
+            {
+              "name": "Autun",
+              "lng": 4.3,
+              "lat": 46.95,
+              "year": 597
+            },
+            {
+              "name": "Tours",
+              "lng": 0.69,
+              "lat": 47.39,
+              "year": 597
+            },
+            {
+              "name": "Ebbsfleet, Isle of Thanet",
+              "lng": 1.36,
+              "lat": 51.33,
+              "year": 597
+            },
+            {
+              "name": "Canterbury",
+              "lng": 1.08,
+              "lat": 51.28,
+              "year": 597
+            }
+          ],
+          "text": "Gregory's letters of commendation to the bishops and rulers of Gaul trace the route through Provence and up the Rhône and Loire. After Augustine's return to Rome to plead for release, the party continued, acquired Frankish interpreters, and landed on Thanet in 597 (Bede 1.23–25)."
+        },
+        {
+          "id": "anglo-saxon-paulinus-northumbria",
+          "title": "Paulinus to Northumbria",
+          "people": "Paulinus with Queen Æthelburh of Kent",
+          "personIds": [],
+          "year": 625,
+          "endYear": 633,
+          "stops": [
+            {
+              "name": "Canterbury",
+              "lng": 1.08,
+              "lat": 51.28,
+              "year": 625
+            },
+            {
+              "name": "York (baptism of Edwin)",
+              "lng": -1.08,
+              "lat": 53.96,
+              "year": 627
+            },
+            {
+              "name": "Yeavering (baptisms in the Glen)",
+              "lng": -2.11,
+              "lat": 55.57
+            },
+            {
+              "name": "Lincoln",
+              "lng": -0.54,
+              "lat": 53.23
+            },
+            {
+              "name": "Rochester (after flight)",
+              "lng": 0.5,
+              "lat": 51.39,
+              "year": 633
+            }
+          ],
+          "text": "Paulinus accompanied the Christian princess Æthelburh to marry Edwin, baptised the king at York at Easter 627, baptised crowds for 36 days at the royal vill of Yeavering and preached in Lindsey, but fled back to Kent when Edwin fell at Hatfield Chase (633)."
+        },
+        {
+          "id": "anglo-saxon-willibrord-frisia",
+          "title": "Willibrord: Ripon, Ireland, Frisia",
+          "people": "Willibrord and eleven companions",
+          "personIds": [],
+          "year": 678,
+          "endYear": 739,
+          "stops": [
+            {
+              "name": "Ripon",
+              "lng": -1.52,
+              "lat": 54.14,
+              "year": 658
+            },
+            {
+              "name": "Rath Melsigi (Ireland)",
+              "lng": -6.95,
+              "lat": 52.78,
+              "year": 678
+            },
+            {
+              "name": "Mouth of the Rhine (Katwijk)",
+              "lng": 4.4,
+              "lat": 52.2,
+              "year": 690
+            },
+            {
+              "name": "Rome (consecration as Clement)",
+              "lng": 12.49,
+              "lat": 41.89,
+              "year": 695
+            },
+            {
+              "name": "Utrecht",
+              "lng": 5.12,
+              "lat": 52.09,
+              "year": 695
+            },
+            {
+              "name": "Echternach",
+              "lng": 6.42,
+              "lat": 49.81,
+              "year": 698
+            }
+          ],
+          "text": "Trained at Ripon under Wilfrid and for twelve years among the English exiles in Ireland, Willibrord was sent by Egbert to Frisia in 690. Consecrated archbishop in Rome in 695, he based his church at Utrecht and his monastery at Echternach, where he died in 739."
+        },
+        {
+          "id": "anglo-saxon-boniface-germany",
+          "title": "Boniface: Wessex to Dokkum",
+          "people": "Boniface (Wynfreth) and companions",
+          "personIds": [],
+          "year": 716,
+          "endYear": 754,
+          "stops": [
+            {
+              "name": "Nursling, Wessex",
+              "lng": -1.47,
+              "lat": 50.95,
+              "year": 716
+            },
+            {
+              "name": "Rome (papal commission)",
+              "lng": 12.49,
+              "lat": 41.89,
+              "year": 719
+            },
+            {
+              "name": "Thuringia (Erfurt)",
+              "lng": 11.03,
+              "lat": 50.98,
+              "year": 719
+            },
+            {
+              "name": "Utrecht (with Willibrord)",
+              "lng": 5.12,
+              "lat": 52.09,
+              "year": 719
+            },
+            {
+              "name": "Amöneburg, Hesse",
+              "lng": 8.92,
+              "lat": 50.8,
+              "year": 721
+            },
+            {
+              "name": "Geismar (Donar's oak)",
+              "lng": 9.27,
+              "lat": 51.13,
+              "year": 723
+            },
+            {
+              "name": "Bavaria (Regensburg)",
+              "lng": 12.1,
+              "lat": 49.02,
+              "year": 739
+            },
+            {
+              "name": "Fulda",
+              "lng": 9.68,
+              "lat": 50.55,
+              "year": 744
+            },
+            {
+              "name": "Mainz",
+              "lng": 8.27,
+              "lat": 50.0,
+              "year": 746
+            },
+            {
+              "name": "Dokkum (martyrdom)",
+              "lng": 5.99,
+              "lat": 53.33,
+              "year": 754
+            }
+          ],
+          "text": "After a failed start in Frisia (716), Boniface went to Rome, was commissioned by Gregory II (719), assisted Willibrord, and then evangelised Hesse and Thuringia, felling the oak at Geismar in 723. As archbishop and legate he organised the Bavarian and central German dioceses, founded Fulda and took the see of Mainz. He returned to Frisia in old age and was killed at Dokkum on 5 June 754 (Willibald, Life of Boniface)."
+        }
+      ],
+      "influencedBy": [
+        "celtic-mission",
+        "ante-nicene-expansion"
+      ],
+      "relations": [
+        {
+          "to": "celtic-mission",
+          "kind": "partnered",
+          "text": "Roman and Irish missions jointly converted the English; English missionaries to the continent were trained partly in Ireland and took up the Irish ideal of exile for Christ."
+        }
+      ],
+      "agreements": [
+        {
+          "with": "celtic-mission",
+          "text": "Shared monastic ideals and Latin learning; Bede praised Aidan, and Boniface valued Irish-trained colleagues while insisting on Roman canonical order."
+        }
+      ],
+      "disagreements": [
+        {
+          "with": "celtic-mission",
+          "text": "Augustine's demands that the British church adopt Roman Easter and baptismal practice failed (c. 603); the Roman party prevailed over the Ionan party at Whitby (664). Boniface also clashed with independent Irish-influenced clergy such as Clement and with Virgil of Salzburg."
+        },
+        {
+          "with": "byzantine-slavic-mission",
+          "text": "Bavarian bishops of the sees Boniface had organised (Salzburg, Passau) opposed Methodius's Slavonic liturgy in Moravia and Pannonia and imprisoned him (870–873)."
+        }
+      ],
+      "deviations": [
+        "Gregory's patient, adaptive approach and Boniface's preaching under protection gave way under Charlemagne to conversion by conquest and capital punishment for paganism — opposed at the time by Alcuin.",
+        "A mission begun by monks vowed to poverty became closely tied to royal and aristocratic power, landholding and tithes.",
+        "The ideal of the church's independence was compromised by reliance on Frankish rulers, whom Boniface admitted he could not do without.",
+        "Insistence on uniform Roman practice led to the condemnation of fellow Christians — the British church and dissenting continental clergy — rather than cooperation."
+      ],
+      "sources": [
+        "bede-ecclesiastical-history",
+        "m1-willibald-life-of-boniface",
+        "m1-boniface-letters",
+        "m1-fletcher-barbarian-conversion",
+        "m1-mayr-harting-coming-of-christianity",
+        "brown-rise-western",
+        "m1-alcuin-letters",
+        "m1-capitulatio-saxoniae"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "sources": [
+    {
+      "id": "m1-schnabel-early-christian-mission",
+      "title": "Early Christian Mission (2 vols)",
+      "author": "Eckhard J. Schnabel",
+      "year": 2004,
+      "kind": "secondary",
+      "note": "Comprehensive study of the mission of Jesus, the Twelve and Paul, with geography and chronology."
+    },
+    {
+      "id": "m1-acts-of-thomas",
+      "title": "The Acts of Thomas",
+      "author": "Anonymous (Syriac)",
+      "year": 220,
+      "kind": "primary",
+      "note": "Third-century apocryphal narrative of Thomas's mission to King Gondophares in India."
+    },
+    {
+      "id": "m1-josephus-antiquities",
+      "title": "Jewish Antiquities",
+      "author": "Flavius Josephus",
+      "year": 94,
+      "kind": "primary",
+      "note": "Book 20.200 records the stoning of James the brother of Jesus in 62."
+    },
+    {
+      "id": "m1-meeks-first-urban-christians",
+      "title": "The First Urban Christians: The Social World of the Apostle Paul",
+      "author": "Wayne A. Meeks",
+      "year": 1983,
+      "kind": "secondary"
+    },
+    {
+      "id": "m1-riesner-paul-early-period",
+      "title": "Paul's Early Period: Chronology, Mission Strategy, Theology",
+      "author": "Rainer Riesner",
+      "year": 1998,
+      "kind": "secondary"
+    },
+    {
+      "id": "m1-allen-missionary-methods",
+      "title": "Missionary Methods: St Paul's or Ours?",
+      "author": "Roland Allen",
+      "year": 1912,
+      "kind": "secondary",
+      "note": "Influential application of Paul's methods to modern missions."
+    },
+    {
+      "id": "m1-first-clement",
+      "title": "First Letter of Clement to the Corinthians",
+      "author": "Clement of Rome",
+      "year": 96,
+      "kind": "primary",
+      "note": "Chapter 5 on the deaths of Peter and Paul."
+    },
+    {
+      "id": "m1-stark-rise-of-christianity",
+      "title": "The Rise of Christianity: A Sociologist Reconsiders History",
+      "author": "Rodney Stark",
+      "year": 1996,
+      "kind": "secondary",
+      "note": "Source of the c. 40 per cent per decade growth model; estimates, not counts."
+    },
+    {
+      "id": "m1-harnack-mission-expansion",
+      "title": "The Mission and Expansion of Christianity in the First Three Centuries",
+      "author": "Adolf von Harnack",
+      "year": 1902,
+      "kind": "secondary"
+    },
+    {
+      "id": "m1-lane-fox-pagans-christians",
+      "title": "Pagans and Christians",
+      "author": "Robin Lane Fox",
+      "year": 1986,
+      "kind": "secondary"
+    },
+    {
+      "id": "m1-heather-matthews-goths",
+      "title": "The Goths in the Fourth Century",
+      "author": "Peter Heather and John Matthews",
+      "year": 1991,
+      "kind": "secondary",
+      "note": "Translated sources including Auxentius on Ulfilas and the Passion of Saba."
+    },
+    {
+      "id": "m1-philostorgius-church-history",
+      "title": "Church History (Historia Ecclesiastica)",
+      "author": "Philostorgius",
+      "year": 430,
+      "kind": "primary",
+      "note": "Homoian church historian; main source for Ulfilas's consecration and Bible translation."
+    },
+    {
+      "id": "m1-victor-of-vita",
+      "title": "History of the Vandal Persecution",
+      "author": "Victor of Vita",
+      "year": 489,
+      "kind": "primary",
+      "note": "Catholic account of Huneric's persecution in Africa; partisan."
+    },
+    {
+      "id": "m1-adomnan-life-of-columba",
+      "title": "Life of Columba (Vita Columbae)",
+      "author": "Adomnán of Iona",
+      "year": 700,
+      "kind": "primary"
+    },
+    {
+      "id": "m1-jonas-life-of-columbanus",
+      "title": "Life of Columbanus (Vita Columbani)",
+      "author": "Jonas of Bobbio",
+      "year": 642,
+      "kind": "primary"
+    },
+    {
+      "id": "m1-charles-edwards-early-christian-ireland",
+      "title": "Early Christian Ireland",
+      "author": "T. M. Charles-Edwards",
+      "year": 2000,
+      "kind": "secondary"
+    },
+    {
+      "id": "m1-willibald-life-of-boniface",
+      "title": "Life of Saint Boniface (Vita Bonifatii)",
+      "author": "Willibald",
+      "year": 765,
+      "kind": "primary",
+      "note": "Includes the felling of the oak at Geismar and the martyrdom at Dokkum."
+    },
+    {
+      "id": "m1-boniface-letters",
+      "title": "The Letters of Saint Boniface",
+      "author": "Boniface; trans. Ephraim Emerton",
+      "year": 1940,
+      "kind": "primary"
+    },
+    {
+      "id": "m1-fletcher-barbarian-conversion",
+      "title": "The Barbarian Conversion: From Paganism to Christianity (UK: The Conversion of Europe)",
+      "author": "Richard Fletcher",
+      "year": 1997,
+      "kind": "secondary"
+    },
+    {
+      "id": "m1-mayr-harting-coming-of-christianity",
+      "title": "The Coming of Christianity to Anglo-Saxon England",
+      "author": "Henry Mayr-Harting",
+      "year": 1972,
+      "kind": "secondary"
+    },
+    {
+      "id": "m1-alcuin-letters",
+      "title": "Letters of Alcuin (Epistolae)",
+      "author": "Alcuin of York",
+      "year": 796,
+      "kind": "primary",
+      "note": "Letters of 796 criticising forced baptism and tithes among the Saxons."
+    },
+    {
+      "id": "m1-capitulatio-saxoniae",
+      "title": "Capitulatio de partibus Saxoniae",
+      "author": "Charlemagne",
+      "year": 785,
+      "kind": "primary",
+      "note": "Frankish capitulary prescribing death for refusing baptism and for pagan practices; date c. 782–785."
+    }
+  ]
+}
