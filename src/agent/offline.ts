@@ -86,8 +86,9 @@ const ALIASES_TA: Record<string, Ref> = {
 function taStem(text: string) {
   const words = text.trim().split(' ');
   const last = words.pop()!;
-  const stem = last.length > 4 ? last.replace(/[\u0B95-\u0BB9]\u0BCD$/, '').replace(/[\u0BBE-\u0BCC]$/, '') : last;
-  return ' ' + [...words, stem].join(' ');
+  const cut = last.replace(/[\u0B95-\u0BB9]\u0BCD$/, '').replace(/[\u0BBE-\u0BCC]$/, '');
+  // Very short stems would match unrelated words, so they keep their word boundary instead.
+  return cut.length >= 4 ? ' ' + [...words, cut].join(' ') : ' ' + [...words, last].join(' ') + ' ';
 }
 
 // Which part of a tradition's profile answers a question about a doctrine.
@@ -161,7 +162,7 @@ function aliases(a: Atlas): Alias[] {
     }
     for (const [k, ref] of Object.entries(ALIASES_TA)) if (a.get(ref.type, ref.id)) out.push({ text: norm(k), ref, weight: 40 + k.length });
     // Tamil words take case endings ("திரித்துவம்" → "திரித்துவத்தை"), so Tamil names match by their stem.
-    for (const al of out) if (/[\u0B80-\u0BFF]/.test(al.text)) al.text = taStem(al.text);
+    for (const al of out) if (/[\u0B80-\u0BFF]/.test(al.text)) al.text = taStem(al.text.replace(/ (பற்றி|குறித்து|பற்றிய) $/, ' '));
   }
   aliasCache = { atlas: a, aliases: out };
   return out;
@@ -424,7 +425,7 @@ function beliefs(a: Atlas, t: Tradition, topic: Ref | undefined, question: strin
 }
 
 function yearsIn(q: string): [number, number] | null {
-  const s = q.toLowerCase().replace(/கி\.?\s?பி\.?\s?/g, 'ad ').replace(/(\d{1,2})\s*-?\s*(ஆம்|வது)\s*நூற்றாண்டு/g, '$1th century').replace(/(\d{2,4})\s*(முதல்|இலிருந்து)\s*(\d{2,4})\s*வரை/g, 'between $1 and $3').replace(/(\d{3,4})\s*(இல்|ல்)/g, 'in $1');
+  const s = q.toLowerCase().replace(/கி\.?\s?பி\.?\s?/g, 'ad ').replace(/(\d{1,2})\s*-?\s*(ஆம்|வது)\s*நூற்றாண்ட/g, '$1th century').replace(/(\d{2,4})\s*(முதல்|இலிருந்து)\s*(\d{2,4})\s*வரை/g, 'between $1 and $3').replace(/(\d{3,4})\s*(இல்|ல்)/g, 'in $1');
   const cent = /(\d{1,2})(?:st|nd|rd|th)\s+century/.exec(s);
   if (cent) { const c = +cent[1]; return [(c - 1) * 100, c * 100 - 1]; }
   const decade = /\b(1\d|20)(\d)0s\b/.exec(s);
@@ -492,7 +493,7 @@ export function answerOffline(a: Atlas, question: string, focus?: Ref): OfflineA
   }
 
   const years = yearsIn(q);
-  const wantsTimeline = /\b(what happened|events|timeline|happen(ed)? in|during the|century|centuries)\b/.test(ql) || /(என்ன நடந்த|நிகழ்வுகள்|காலவரிசை|நூற்றாண்டு)/.test(ql) || (years && !found.some((f) => f.type !== 'era'));
+  const wantsTimeline = /\b(what happened|events|timeline|happen(ed)? in|during the|century|centuries)\b/.test(ql) || /(என்ன நடந்த|நிகழ்வுகள்|காலவரிசை|நூற்றாண்ட)/.test(ql) || (years && !found.some((f) => f.type !== 'era'));
   if (wantsTimeline && years) {
     steps.push(`${t('Checked the timeline', 'காலவரிசையைப் பார்த்தேன்:')} ${formatYear(years[0])}–${formatYear(years[1])}`);
     return { text: timeline(a, years), steps, related };

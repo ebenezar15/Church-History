@@ -215,7 +215,7 @@ export default function Ask() {
                 </div>
                 {m.steps && m.steps.length > 0 && (
                   <details className="mb-3 text-xs text-muted">
-                    <summary className="cursor-pointer">How I found this ({m.steps.length} step{m.steps.length > 1 ? 's' : ''})</summary>
+                    <summary className="cursor-pointer">{TA ? `இதை எவ்வாறு கண்டறிந்தேன் (${m.steps.length} படிகள்)` : `How I found this (${m.steps.length} step${m.steps.length > 1 ? 's' : ''})`}</summary>
                     <ul className="mt-1 space-y-0.5 pl-4">{m.steps.map((s, j) => <li key={j}>{s.summary}</li>)}</ul>
                   </details>
                 )}

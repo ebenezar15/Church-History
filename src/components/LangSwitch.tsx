@@ -1,7 +1,7 @@
 import { TA } from '../i18n/dict';
 
 /** Published copies of each edition. The artifact links are the shareable claude.ai pages. */
-const ARTIFACT = { en: 'https://claude.ai/artifact/JLtRXcf347NGoosqvFCo6N', ta: 'https://claude.ai/artifact/TAMIL_PENDING' };
+const ARTIFACT = { en: 'https://claude.ai/artifact/JLtRXcf347NGoosqvFCo6N', ta: 'https://claude.ai/artifact/GKKu58Ezw65MPywj7XDojL' };
 const SITE = 'https://raw.githack.com/ebenezar15/Church-History/claude/brave-hypatia-qjjkuy/docs/';
 
 /** Links to the same page in the other language edition (English ⇄ தமிழ்). */
