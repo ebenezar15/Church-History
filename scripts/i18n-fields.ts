@@ -5,7 +5,7 @@ const SKIP = new Set([
   'translation', 'from', 'to', 'with', 'stream', 'status', 'religionRole', 'route', 'source', 'author', 'primarySource', 'influencedBy',
 ]);
 const skipKey = (coll: string, key: string) =>
-  SKIP.has(key) || /Ids?$/.test(key) || (coll === 'cultures' && key === 'topic');
+  (SKIP.has(key) && !(key === 'region' && (coll === 'conflicts' || coll === 'indiaMissions'))) || /Ids?$/.test(key) || (coll === 'cultures' && key === 'topic');
 
 export function* translatableEntries(coll: string, entity: { id: string }): Generator<[string, string]> {
   if (coll === 'sources') return;
