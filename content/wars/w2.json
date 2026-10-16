@@ -1,0 +1,2839 @@
+{
+  "conflicts": [
+    {
+      "id": "fourth-crusade",
+      "name": "The Fourth Crusade and the sack of Constantinople",
+      "kind": "crusade",
+      "startYear": 1202,
+      "endYear": 1204,
+      "region": "Adriatic, Aegean and Constantinople",
+      "place": {
+        "name": "Constantinople",
+        "lat": 41.0086,
+        "lng": 28.9802
+      },
+      "religionRole": "major",
+      "religionRoleNote": "The expedition was called by Pope Innocent III in 1198 as a penitential war to recover Jerusalem, and its participants took the cross and the crusade indulgence. Its diversion first to Zara and then to Constantinople was driven chiefly by debt to Venice, the ambitions of the Byzantine pretender Alexios Angelos, Venetian commercial interests and the logistics of a stranded army. Religion re-entered decisively at the end: clergy in the camp told the troops in April 1204 that the Greeks were schismatic ‘enemies of God’ and that the assault was just and meritorious. Older ‘conspiracy’ theories (a plot by Venice or the Hohenstaufen) have largely given way to the ‘accident’ or ‘series of contingencies’ view of Queller and Madden, though Angold and Phillips stress how long-standing Latin–Greek antagonism made the outcome thinkable.",
+      "sides": [
+        {
+          "name": "Crusader army and the Republic of Venice",
+          "faith": "Latin (Roman) Catholic",
+          "leaders": [
+            "Boniface of Montferrat",
+            "Enrico Dandolo, doge of Venice",
+            "Baldwin of Flanders",
+            "Louis of Blois",
+            "Geoffrey of Villehardouin"
+          ]
+        },
+        {
+          "name": "Byzantine Empire",
+          "faith": "Eastern Orthodox",
+          "leaders": [
+            "Alexios III Angelos",
+            "Isaac II and Alexios IV Angelos (restored by the crusaders)",
+            "Alexios V Doukas ‘Mourtzouphlos’"
+          ]
+        },
+        {
+          "name": "Zara (Zadar) and the Kingdom of Hungary",
+          "faith": "Latin Catholic",
+          "leaders": [
+            "King Emeric of Hungary"
+          ]
+        }
+      ],
+      "summary": "A crusade launched by Innocent III to strike at Ayyubid Egypt never reached the Muslim world. Unable to pay Venice for its fleet, the army sacked the Catholic city of Zara in 1202, then backed a Byzantine pretender, and in April 1204 stormed and plundered Constantinople, the greatest Christian city of the age. A Latin Empire was set up in its place. The sack hardened the schism between Latin and Orthodox Christians for centuries.",
+      "story": "In August 1198 the newly elected Innocent III issued the bull Post miserabile calling for a new crusade after the failure of the Third Crusade to recover Jerusalem. Northern French nobles took the cross at the tournament of Écry in November 1199, and their envoys, including the chronicler Geoffrey of Villehardouin, contracted with Venice in April 1201 for ships and supplies for 33,500 men at a price of 85,000 marks; the secret strategic aim was Egypt, the heart of Ayyubid power. When the leader, Count Thibaut of Champagne, died in 1201, command passed to Boniface, marquis of Montferrat, whose family had close ties to Byzantium.\n\nBy the summer of 1202 only about a third of the expected army had gathered at Venice, and it could not pay its debt. The aged, nearly blind doge Enrico Dandolo, who took the cross himself in St Mark’s, offered a postponement in return for help in recovering Zara (Zadar) on the Dalmatian coast, which had rebelled against Venice and placed itself under the Catholic king of Hungary, himself a crusader. Despite a papal prohibition, read out in the camp by Abbot Guy of Vaux-de-Cernay, the army besieged and sacked Zara in November 1202. Innocent excommunicated the whole host; he later absolved the French crusaders but not the Venetians.\n\nAt Zara envoys arrived from the young Alexios Angelos, son of the deposed emperor Isaac II, who promised 200,000 marks, 10,000 troops for the crusade, the maintenance of 500 knights in the Holy Land and the submission of the Greek Church to Rome if the crusaders restored his father. Many crusaders left in protest, but the majority sailed via Corfu and reached Constantinople in June 1203. After an assault on 17 July 1203 the usurper Alexios III fled; Isaac II was restored with his son crowned as co-emperor Alexios IV. A fire started by crusaders attacking a mosque in August 1203 destroyed a large swathe of the city.\n\nAlexios IV could not raise the promised money, and Byzantine hostility to the Latins grew. In late January 1204 he was overthrown and in February strangled by Alexios V Doukas (‘Mourtzouphlos’), who refused to honour the agreement. In March the crusaders and Venetians agreed in advance how to divide the empire. The clergy in the camp assured the troops that the Greeks, as schismatics who had murdered their lord, were enemies of God and that those who died in the attack would gain the crusade indulgence. A first assault on 9 April failed; on 12 April the walls along the Golden Horn were breached.\n\nFor three days Constantinople was sacked. Churches and monasteries were looted, nuns assaulted and the holy places desecrated; the Byzantine historian Niketas Choniates, who escaped with his family, described soldiers stripping the altar of Hagia Sophia and a prostitute seated on the patriarch’s throne. A great part of the city’s treasure and relics was carried West, among them the bronze horses now at St Mark’s in Venice and countless relics brought to French and German churches. The number killed is unknown; contemporaries stress plunder and rape more than mass slaughter, but the fires of 1203–1204 left much of the city in ruins.\n\nBaldwin of Flanders was crowned Latin emperor in Hagia Sophia on 16 May 1204, and the Venetian Thomas Morosini became Latin patriarch. The Latin Empire never controlled more than part of Byzantium: Greek successor states arose at Nicaea, in Epirus and at Trebizond, and in April 1205 the Bulgarian tsar Kaloyan crushed the Latins at Adrianople and captured Baldwin, who died in captivity. Michael VIII Palaiologos of Nicaea recovered Constantinople in 1261, but the restored empire was poorer and weaker. Innocent III, who had welcomed the conquest at first as a providential reunion of the churches, wrote in 1205 that the Greeks now had reason to detest the Latins ‘more than dogs’.",
+      "nameOfGod": "The army marched under the crusade vow and the plenary indulgence granted by Innocent III for the recovery of the Holy Land. At Zara and again before Constantinople the bishops in the camp, including the bishops of Soissons and Troyes, preached that attacking the Greeks was licit because they had broken from Rome and killed their emperor, and promised the indulgence to those who fell. Looting of relics was justified by some, such as Abbot Martin of Pairis, as a holy theft (furta sacra) bringing sacred objects into more worthy hands.",
+      "religiousCauses": [
+        "Innocent III’s call in 1198 for a new crusade to recover Jerusalem, lost to Saladin in 1187, provided the original purpose and the indulgence.",
+        "Long-standing Latin suspicion of the Greek Church, sharpened since 1054 and by the massacre of Latins in Constantinople in 1182, made the Byzantines seem unreliable or even hostile to the crusade.",
+        "Alexios Angelos’s promise to bring the Greek Church under papal obedience gave the diversion a religious justification in Western eyes.",
+        "The clergy in the camp presented the assault of 1204 as a just war against schismatics and regicides, promising the indulgence to the attackers."
+      ],
+      "otherCauses": [
+        "The crusaders’ inability to pay Venice the 85,000 marks owed under the treaty of 1201, because far fewer men came to Venice than had been planned.",
+        "Venetian commercial and strategic interests in the Adriatic and in Byzantine trade, and resentment over the Byzantine arrest of Venetians in 1171.",
+        "The Angelos family’s dynastic quarrel, which offered the crusaders money and troops for restoring Isaac II and his son.",
+        "Western ideas, voiced since the Second and Third Crusades, that Byzantium had obstructed earlier crusades and that its wealth could fund a new one.",
+        "The breakdown of relations after Alexios IV failed to pay and was murdered, leaving the army without supplies in a hostile land."
+      ],
+      "triggers": [
+        "The deal of autumn 1202 by which Dandolo offered to defer the debt in return for the capture of Zara.",
+        "Alexios Angelos’s offer, received at Zara in January 1203, to pay and reunite the churches if his father were restored.",
+        "The murder of Alexios IV by Alexios V Doukas in February 1204, which ended any hope of payment and was presented as regicide."
+      ],
+      "timeline": [
+        {
+          "year": 1198,
+          "text": "Innocent III proclaims a new crusade in the bull Post miserabile."
+        },
+        {
+          "year": 1199,
+          "text": "French nobles take the cross at the tournament of Écry in Champagne."
+        },
+        {
+          "year": 1201,
+          "text": "Treaty of Venice: the Republic agrees to transport 33,500 crusaders for 85,000 marks; Boniface of Montferrat becomes leader."
+        },
+        {
+          "year": 1202,
+          "text": "The underfunded army sails from Venice and sacks Catholic Zara in November, defying a papal ban; Innocent excommunicates the host."
+        },
+        {
+          "year": 1203,
+          "text": "Crusaders reach Constantinople, drive out Alexios III and restore Isaac II with Alexios IV; a great fire ravages the city in August."
+        },
+        {
+          "year": 1204,
+          "text": "Alexios IV is murdered in February; on 12–15 April the crusaders storm and sack Constantinople; Baldwin of Flanders is crowned Latin emperor in May."
+        },
+        {
+          "year": 1205,
+          "text": "Tsar Kaloyan of Bulgaria defeats the Latins at Adrianople and captures Baldwin; Innocent III condemns the crusaders’ conduct."
+        },
+        {
+          "year": 1261,
+          "text": "Michael VIII Palaiologos recovers Constantinople and ends the Latin Empire."
+        },
+        {
+          "year": 2001,
+          "text": "Pope John Paul II, in Athens, asks God’s forgiveness for Catholic sins against the Orthodox, naming the sack of Constantinople."
+        },
+        {
+          "year": 2004,
+          "text": "On the 800th anniversary John Paul II expresses ‘pain and disgust’ at the sack to Ecumenical Patriarch Bartholomew, who accepts the apology."
+        }
+      ],
+      "keyPeople": [
+        {
+          "name": "Innocent III",
+          "years": "1160/61–1216",
+          "origin": "Anagni, Papal States",
+          "role": "Pope who proclaimed the crusade",
+          "focus": "Called the crusade, forbade attacks on Christians and excommunicated the army after Zara, but did not stop the diversion and initially welcomed the Latin Empire.",
+          "outcome": "Later condemned the sack in letters of 1205; went on to call the Albigensian Crusade and the Fifth Crusade."
+        },
+        {
+          "name": "Enrico Dandolo",
+          "years": "c. 1107–1205",
+          "origin": "Venice",
+          "role": "Doge of Venice",
+          "focus": "Negotiated the transport treaty, proposed the attack on Zara and led the Venetian fleet in the assaults on Constantinople despite near blindness.",
+          "outcome": "Died in Constantinople in 1205 and was buried in Hagia Sophia; Venice gained ‘a quarter and half of a quarter’ of the empire and key ports."
+        },
+        {
+          "name": "Boniface of Montferrat",
+          "years": "c. 1150–1207",
+          "origin": "Montferrat, Piedmont",
+          "role": "Leader of the crusade",
+          "focus": "Accepted the alliance with Alexios Angelos and led the army to Constantinople.",
+          "outcome": "Passed over for the imperial crown; became king of Thessalonica and was killed fighting the Bulgarians in 1207."
+        },
+        {
+          "name": "Baldwin I of Constantinople (Baldwin IX of Flanders)",
+          "years": "1172–c. 1205",
+          "origin": "Flanders",
+          "role": "Crusade leader, first Latin emperor",
+          "focus": "Commanded a division in the assaults and was elected emperor after the sack.",
+          "outcome": "Captured by Kaloyan at Adrianople in 1205 and died in Bulgarian captivity."
+        },
+        {
+          "name": "Alexios IV Angelos",
+          "years": "c. 1182–1204",
+          "origin": "Constantinople",
+          "role": "Byzantine pretender, then co-emperor",
+          "focus": "Offered money, troops and church union for the crusaders’ help in restoring his father.",
+          "outcome": "Unable to pay, he was deposed and strangled in February 1204."
+        },
+        {
+          "name": "Alexios V Doukas ‘Mourtzouphlos’",
+          "years": "d. 1205",
+          "origin": "Byzantine aristocracy",
+          "role": "Byzantine emperor in 1204",
+          "focus": "Seized power, organised the defence of the city and refused to pay the crusaders.",
+          "outcome": "Fled before the final assault; captured and executed by the Latins by being thrown from the Column of Theodosius."
+        },
+        {
+          "name": "Geoffrey of Villehardouin",
+          "years": "c. 1150–c. 1213",
+          "origin": "Champagne",
+          "role": "Envoy, commander and chronicler",
+          "focus": "Negotiated the Venetian treaty and later wrote The Conquest of Constantinople, defending the leaders’ decisions.",
+          "outcome": "Became marshal of Romania; his chronicle is a principal Western source."
+        },
+        {
+          "name": "Niketas Choniates",
+          "years": "c. 1155–1217",
+          "origin": "Chonae, Asia Minor",
+          "role": "Byzantine official and historian",
+          "focus": "Witnessed the sack and escaped with his family; his History records it in detail.",
+          "outcome": "Died in exile at Nicaea; his lament is the key Greek account of 1204."
+        }
+      ],
+      "casualties": {
+        "note": "No reliable figures exist for deaths in the sieges and sack of 1203–1204. Choniates and Western chroniclers stress looting, rape and desecration rather than mass killing, and modern historians (Phillips, Angold) do not offer a total; some suggest civilian deaths in the low thousands, but this is an inference. The fires of 1203–1204 destroyed large districts and displaced many thousands. Losses at Zara and in the 1205 defeat at Adrianople are likewise unquantified."
+      },
+      "effects": [
+        "The Byzantine Empire was dismembered into a Latin Empire, Venetian possessions, Frankish principalities in Greece and Greek successor states at Nicaea, Epirus and Trebizond.",
+        "Venice gained a maritime empire of ports and islands, including Crete, that underpinned its commercial power for centuries.",
+        "The restored Byzantine state after 1261 was much weaker, which eased the later Ottoman advance into the Balkans and the fall of Constantinople in 1453.",
+        "An immense transfer of relics, art and treasure to the West, including the horses of St Mark’s and many relics later housed in Western churches.",
+        "No help reached the Latin East, and the crusading movement began to be redirected against Christian targets."
+      ],
+      "effectsOnChurch": [
+        "The sack is widely regarded as the moment the schism of 1054 became a lasting popular estrangement between Orthodox and Latin Christians.",
+        "Latin patriarchs and bishops were imposed in Constantinople and Greece, giving the Orthodox a lived experience of forced ‘union’ that coloured later reunion attempts at Lyon (1274) and Florence (1439).",
+        "Western piety was reshaped by the flood of relics, including relics of the Passion later acquired by Louis IX for the Sainte-Chapelle.",
+        "In 2001 and 2004 Pope John Paul II apologised for the sack, and Patriarch Bartholomew accepted the apology, a milestone in Catholic–Orthodox reconciliation."
+      ],
+      "legacy": "The Fourth Crusade became the classic example of a crusade turned against fellow Christians and of religious language serving money and power. For Orthodox Christians it remains a deep historical wound, invoked in debates about union with Rome; for historians it is a case study in how a sequence of financial and political decisions, rather than a single plot, could carry a holy war to an unholy end.",
+      "dissenters": [
+        {
+          "name": "Guy, abbot of Vaux-de-Cernay",
+          "text": "A Cistercian in the army, he read out Innocent III’s letter forbidding an attack on Zara and declared that Christians must not be attacked; he left the army rather than go on to Constantinople."
+        },
+        {
+          "name": "Simon de Montfort",
+          "text": "Refused to take part in the siege of Zara and left the crusade with his followers to sail independently to the Holy Land; he later led the Albigensian Crusade."
+        },
+        {
+          "name": "Innocent III",
+          "text": "Forbade the attacks on Christians, excommunicated the army after Zara, and in 1205 rebuked his legate and the crusaders for the sack, writing that it had made the Greek Church detest the Latins."
+        },
+        {
+          "name": "Niketas Choniates",
+          "text": "The Orthodox historian condemned the crusaders as men who ‘bore the cross on their shoulders’ yet behaved worse than the Saracens, who had spared Jerusalem in 1187."
+        }
+      ],
+      "theatres": [
+        {
+          "name": "Venice: treaty and embarkation",
+          "lat": 45.4408,
+          "lng": 12.3155,
+          "year": 1202
+        },
+        {
+          "name": "Sack of Zara (Zadar)",
+          "lat": 44.1194,
+          "lng": 15.2314,
+          "year": 1202
+        },
+        {
+          "name": "Corfu: army debates the diversion",
+          "lat": 39.6243,
+          "lng": 19.9217,
+          "year": 1203
+        },
+        {
+          "name": "Galata Tower and the Golden Horn chain",
+          "lat": 41.0256,
+          "lng": 28.9741,
+          "year": 1203
+        },
+        {
+          "name": "Blachernae walls: first assault",
+          "lat": 41.039,
+          "lng": 28.942,
+          "year": 1203
+        },
+        {
+          "name": "Sack of Constantinople",
+          "lat": 41.0086,
+          "lng": 28.9802,
+          "year": 1204
+        },
+        {
+          "name": "Battle of Adrianople",
+          "lat": 41.6771,
+          "lng": 26.5557,
+          "year": 1205
+        }
+      ],
+      "campaigns": [
+        {
+          "id": "fourth-crusade-venice-to-constantinople",
+          "title": "From Venice to Constantinople",
+          "people": "The crusade army and the Venetian fleet under Boniface of Montferrat and Enrico Dandolo",
+          "personIds": [],
+          "year": 1202,
+          "endYear": 1204,
+          "stops": [
+            {
+              "name": "Venice",
+              "lat": 45.4408,
+              "lng": 12.3155,
+              "year": 1202
+            },
+            {
+              "name": "Zara (Zadar)",
+              "lat": 44.1194,
+              "lng": 15.2314,
+              "year": 1202
+            },
+            {
+              "name": "Durazzo (Durrës)",
+              "lat": 41.3231,
+              "lng": 19.4414,
+              "year": 1203
+            },
+            {
+              "name": "Corfu",
+              "lat": 39.6243,
+              "lng": 19.9217,
+              "year": 1203
+            },
+            {
+              "name": "Abydos (Dardanelles)",
+              "lat": 40.196,
+              "lng": 26.405,
+              "year": 1203
+            },
+            {
+              "name": "Chalcedon and Scutari",
+              "lat": 40.991,
+              "lng": 29.027,
+              "year": 1203
+            },
+            {
+              "name": "Constantinople",
+              "lat": 41.0086,
+              "lng": 28.9802,
+              "year": 1204
+            }
+          ],
+          "text": "The fleet left Venice in October 1202, wintered at Zara after sacking it, and in spring 1203 sailed with Alexios Angelos via Durazzo and Corfu, through the Dardanelles to the Asian shore opposite Constantinople, which it attacked in July 1203 and stormed in April 1204."
+        }
+      ],
+      "ledTo": [
+        "later-crusades",
+        "ottoman-holy-leagues"
+      ],
+      "eventIds": [
+        "sack-of-constantinople-1204",
+        "great-schism-1054",
+        "fourth-lateran-council-1215",
+        "council-of-lyon-1274",
+        "council-of-florence-1439"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-orthodox"
+      ],
+      "sources": [
+        "w2-phillips-fourth-crusade",
+        "w2-queller-madden-fourth-crusade",
+        "w2-angold-fourth-crusade",
+        "riley-smith-crusades",
+        "w2-tyerman-gods-war"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "later-crusades",
+      "name": "Later crusades to the East: Damietta, Frederick II, Louis IX and the fall of Acre",
+      "kind": "crusade",
+      "startYear": 1213,
+      "endYear": 1291,
+      "region": "Egypt, the Levant and Tunisia",
+      "place": {
+        "name": "Acre",
+        "lat": 32.9206,
+        "lng": 35.0689
+      },
+      "religionRole": "central",
+      "religionRoleNote": "These expeditions were preached as penitential wars for the recovery and defence of Jerusalem and the Holy Land, funded by church taxes and rewarded with the plenary indulgence; for leaders such as Louis IX, personal piety was plainly the driving motive. Historians in the ‘pluralist’ school (Riley-Smith, Housley) stress the sincerity of crusading devotion, while others (Tyerman) emphasise how papal finance, dynastic prestige, Italian commerce and the papacy’s parallel crusades against Christian rulers such as Frederick II blurred the ideal. On the Muslim side the Ayyubids and Mamluks also framed the struggle as jihad, especially under Baybars.",
+      "sides": [
+        {
+          "name": "Crusaders and the Latin East",
+          "faith": "Latin Catholic",
+          "leaders": [
+            "Pelagius of Albano",
+            "John of Brienne",
+            "Emperor Frederick II",
+            "King Louis IX of France",
+            "Lord Edward of England",
+            "the Templars, Hospitallers and Teutonic Knights"
+          ]
+        },
+        {
+          "name": "Ayyubid sultans of Egypt and Syria",
+          "faith": "Sunni Islam",
+          "leaders": [
+            "al-Adil",
+            "al-Kamil",
+            "al-Salih Ayyub",
+            "Turanshah"
+          ]
+        },
+        {
+          "name": "Mamluk sultanate",
+          "faith": "Sunni Islam",
+          "leaders": [
+            "Qutuz",
+            "Baybars",
+            "Qalawun",
+            "al-Ashraf Khalil"
+          ]
+        },
+        {
+          "name": "Mongol Ilkhanate and Cilician Armenia (intermittent allies of the Franks)",
+          "faith": "Mongol shamanism and Buddhism, with Nestorian Christian influence; Armenian Apostolic",
+          "leaders": [
+            "Hulagu",
+            "Hethum I of Armenia"
+          ]
+        }
+      ],
+      "summary": "After the Fourth Crusade the papacy kept launching expeditions to recover Jerusalem. The Fifth Crusade took and lost Damietta in Egypt (1218–1221); Frederick II regained Jerusalem by treaty in 1229 while excommunicate; Louis IX’s great Egyptian crusade ended in his capture in 1250. The rising Mamluk sultanate under Baybars then reduced the crusader states, and the fall of Acre in 1291 ended the Latin presence on the mainland of Syria and Palestine.",
+      "story": "In 1213 Innocent III issued Quia maior, reorganising crusading so that anyone, even those unfit to fight, could gain an indulgence by contributing money or prayer, and the Fourth Lateran Council of 1215 decreed a crusade for 1217 funded by a tax on clerical income. The resulting Fifth Crusade aimed at Egypt, the economic centre of the Ayyubid sultanate. From May 1218 crusaders besieged Damietta in the Nile delta; the city fell in November 1219 after its population had been devastated by famine and disease. Sultan al-Kamil repeatedly offered to return Jerusalem and most of the old kingdom in exchange for Damietta, but the papal legate Pelagius rejected the terms, expecting the arrival of Frederick II. In 1221 the crusaders marched on Cairo, were trapped by the Nile flood near Mansurah and had to surrender Damietta to secure their release.\n\nDuring the siege, in 1219, Francis of Assisi crossed the lines and preached before al-Kamil, who received him courteously and let him return; the meeting became a lasting symbol of a different Christian approach to Islam. Frederick II, who had taken the cross in 1215, delayed his departure so long that Pope Gregory IX excommunicated him in 1227. Sailing regardless in 1228, he negotiated the Treaty of Jaffa with al-Kamil in February 1229, which returned Jerusalem, Bethlehem and Nazareth to the Christians for ten years while leaving the Temple Mount to Muslims. He crowned himself in the Church of the Holy Sepulchre while the patriarch laid the city under interdict, and papal troops were meanwhile invading his Italian kingdom under the banner of a crusade.\n\nThe settlement did not last. In August 1244 Khwarazmian troops allied to the Ayyubid sultan al-Salih Ayyub sacked Jerusalem, killing many Christians, and in October the army of the Latin East was destroyed at La Forbie near Gaza. Louis IX of France took the cross that year. After long preparation, financed largely by church taxes, he sailed from Aigues-Mortes in 1248, wintered in Cyprus and took Damietta in June 1249. At Mansurah in February 1250 his brother Robert of Artois charged recklessly into the town and was killed with many knights; in April the starving, sick army was captured on its retreat, and Louis was ransomed for an enormous sum. A coup in May 1250 killed the sultan Turanshah and brought the Mamluk military slaves to power. Louis stayed in the East until 1254, refortifying the coastal towns.\n\nThe Mongols transformed the region: they sacked Baghdad in 1258, killing the caliph, and entered Syria with Armenian and Georgian Christian allies, but in 1260 the Mamluks under Qutuz and Baybars defeated them at Ain Jalut. As sultan (1260–1277) Baybars waged a systematic jihad against the Franks, taking Caesarea and Arsuf in 1265, Safed in 1266, where the Templar garrison was executed after surrendering, and Antioch in 1268, where much of the population was killed or enslaved. Louis IX’s second crusade of 1270 was diverted to Tunis, where he died of disease; the Lord Edward of England’s expedition of 1271–1272 achieved little.\n\nThe Second Council of Lyon in 1274 planned a new general crusade and gathered memoranda on why crusading was failing, but Gregory X died in 1276 before it could be launched. The Latin states were divided by the War of St Sabas between Venice and Genoa and by baronial quarrels. Sultan Qalawun took Tripoli in 1289, and when Italian crusaders killed Muslim merchants in Acre in 1290 he prepared a final campaign. His son al-Ashraf Khalil besieged Acre from April 1291; the city fell on 18 May, with many defenders and inhabitants killed or enslaved, and the Templar fortress fell ten days later. Tyre, Sidon, Beirut and the castles of Tortosa and Atlit were abandoned by August.\n\nCrusading did not end in 1291: plans for recovering the Holy Land, the Hospitallers’ conquest of Rhodes, and expeditions such as the capture of Alexandria in 1365 continued for a century. But the loss of Acre ended two centuries of Latin rule on the Syrian mainland, and the military orders were left to justify their existence; the Templars were dissolved in 1312 at the Council of Vienne after their arrest by Philip IV of France.",
+      "nameOfGod": "Crusaders took a vow and wore the cross, receiving the plenary indulgence promised by Quia maior and the Lateran decree Ad liberandam (1215); preaching by Cistercians and then by Franciscan and Dominican friars used model sermons on the cross and the Holy Sepulchre. Louis IX presented his crusades as acts of penance and sought to embody the ideal Christian king. Papal crusades against Frederick II, preached with the same indulgences, showed how the instrument could be turned against Christian rulers. Muslim rulers, especially Baybars, used the language of jihad and recovery of the land of Islam.",
+      "religiousCauses": [
+        "The desire to recover Jerusalem, lost in 1187 and briefly regained 1229–1244, as the place of Christ’s passion and the goal of pilgrimage.",
+        "Innocent III’s reforms of crusade preaching, indulgences and finance, which made crusading part of ordinary Christian devotion.",
+        "The penitential piety of kings such as Louis IX, who saw crusade as service owed to Christ.",
+        "On the Muslim side, a renewed ideology of jihad against the Franks and the Mongols, cultivated by the Mamluk sultans."
+      ],
+      "otherCauses": [
+        "Strategic analysis that Egypt was the key to holding Jerusalem, which led crusades to Damietta and Mansurah.",
+        "Dynastic and political ambitions, including Frederick II’s claim to the crown of Jerusalem through his marriage to Isabella II and the conflict between empire and papacy.",
+        "Commercial interests of Venice, Genoa and Pisa in the Levantine ports, and their wars with each other.",
+        "The rise of the Mongols and the Mamluk military state, which changed the balance of power in Syria."
+      ],
+      "triggers": [
+        "Innocent III’s bull Quia maior (1213) and the crusade decree of the Fourth Lateran Council (1215).",
+        "The Khwarazmian sack of Jerusalem and the disaster at La Forbie in 1244, which led Louis IX to take the cross.",
+        "Baybars’s conquests of the 1260s and Qalawun’s capture of Tripoli in 1289, culminating in the killing of Muslim merchants at Acre in 1290."
+      ],
+      "timeline": [
+        {
+          "year": 1213,
+          "text": "Innocent III issues Quia maior calling for a new crusade."
+        },
+        {
+          "year": 1215,
+          "text": "The Fourth Lateran Council decrees a crusade and a clerical tax to fund it."
+        },
+        {
+          "year": 1219,
+          "text": "Damietta falls to the Fifth Crusade; Francis of Assisi meets Sultan al-Kamil."
+        },
+        {
+          "year": 1221,
+          "text": "Trapped by the Nile flood near Mansurah, the Fifth Crusade surrenders Damietta."
+        },
+        {
+          "year": 1229,
+          "text": "Excommunicated Frederick II regains Jerusalem by the Treaty of Jaffa with al-Kamil."
+        },
+        {
+          "year": 1244,
+          "text": "Khwarazmian troops sack Jerusalem; the Franks are crushed at La Forbie."
+        },
+        {
+          "year": 1249,
+          "text": "Louis IX takes Damietta."
+        },
+        {
+          "year": 1250,
+          "text": "Defeat at Mansurah; Louis IX is captured and ransomed; the Mamluks seize power in Egypt."
+        },
+        {
+          "year": 1260,
+          "text": "The Mamluks defeat the Mongols at Ain Jalut; Baybars becomes sultan."
+        },
+        {
+          "year": 1268,
+          "text": "Baybars takes Antioch, killing or enslaving much of its population."
+        },
+        {
+          "year": 1270,
+          "text": "Louis IX dies at Tunis on his second crusade."
+        },
+        {
+          "year": 1274,
+          "text": "The Second Council of Lyon plans a new crusade that never sails."
+        },
+        {
+          "year": 1291,
+          "text": "Al-Ashraf Khalil captures Acre on 18 May; the last Frankish mainland towns are abandoned."
+        }
+      ],
+      "keyPeople": [
+        {
+          "name": "Pelagius Galvani",
+          "years": "c. 1165–1230",
+          "origin": "León, Spain",
+          "role": "Cardinal and papal legate",
+          "focus": "Directed the Fifth Crusade after 1219 and rejected al-Kamil’s offer to exchange Jerusalem for Damietta.",
+          "outcome": "Widely blamed for the disaster of 1221."
+        },
+        {
+          "name": "al-Malik al-Kamil",
+          "years": "c. 1177–1238",
+          "origin": "Ayyubid Egypt",
+          "role": "Ayyubid sultan of Egypt",
+          "focus": "Defended Egypt against the Fifth Crusade, received Francis of Assisi and negotiated the Treaty of Jaffa with Frederick II.",
+          "outcome": "Criticised by many Muslims for ceding Jerusalem; died in Damascus in 1238."
+        },
+        {
+          "name": "Francis of Assisi",
+          "personId": "francis-of-assisi",
+          "years": "1181/82–1226",
+          "origin": "Assisi, Umbria",
+          "role": "Founder of the Friars Minor",
+          "focus": "Visited the crusader camp at Damietta in 1219 and preached before the sultan.",
+          "outcome": "His encounter became a model for peaceful Christian–Muslim engagement; his rule (1221) told friars among Muslims to avoid disputes and live as Christians."
+        },
+        {
+          "name": "Frederick II",
+          "years": "1194–1250",
+          "origin": "Iesi, Italy; Hohenstaufen dynasty",
+          "role": "Holy Roman Emperor and king of Jerusalem",
+          "focus": "Regained Jerusalem by negotiation in 1229 while excommunicate.",
+          "outcome": "Deposed by Innocent IV at the Council of Lyon in 1245; the papacy preached crusades against him and his heirs."
+        },
+        {
+          "name": "Louis IX of France",
+          "years": "1214–1270",
+          "origin": "Poissy, France",
+          "role": "King of France",
+          "focus": "Led the crusade to Egypt (1248–1254) and the crusade to Tunis (1270).",
+          "outcome": "Captured at Mansurah, ransomed, and died at Tunis; canonised in 1297 as the model crusader king."
+        },
+        {
+          "name": "Baybars (al-Zahir Baybars)",
+          "years": "c. 1223–1277",
+          "origin": "Kipchak Turk, enslaved and trained as a mamluk",
+          "role": "Mamluk sultan of Egypt and Syria",
+          "focus": "Fought at Mansurah and Ain Jalut and conquered much of the crusader states in the 1260s.",
+          "outcome": "Remembered in Arabic tradition as a hero of jihad; died in Damascus in 1277."
+        },
+        {
+          "name": "al-Ashraf Khalil",
+          "years": "c. 1262–1293",
+          "origin": "Cairo",
+          "role": "Mamluk sultan",
+          "focus": "Captured Acre in 1291 and completed the expulsion of the Franks from the mainland.",
+          "outcome": "Assassinated by his own emirs in 1293."
+        },
+        {
+          "name": "Gregory IX",
+          "years": "c. 1170–1241",
+          "origin": "Anagni",
+          "role": "Pope",
+          "focus": "Excommunicated Frederick II for failing to crusade, and later preached a crusade against him.",
+          "outcome": "Died in 1241 while Frederick’s army threatened Rome."
+        }
+      ],
+      "casualties": {
+        "note": "There are no credible overall totals for these campaigns. Chroniclers give large but unreliable numbers for individual disasters, such as the losses at Damietta (where famine and disease reportedly killed most of the besieged city’s population), the destruction of the Frankish army at La Forbie in 1244, the battle of Mansurah and the captivity of 1250, the fall of Antioch in 1268 and the fall of Acre in 1291. Modern historians treat these figures as indications of scale rather than counts."
+      },
+      "effects": [
+        "The crusader states on the Syrian and Palestinian mainland were extinguished by 1291, leaving Cyprus and, later, Rhodes as Latin outposts.",
+        "The Mamluk sultanate emerged as the dominant power in Egypt and Syria for more than two centuries, partly legitimised by its wars against Franks and Mongols.",
+        "Eastern Christian communities in the Levant suffered reprisals and pressure as suspected allies of the Franks and Mongols.",
+        "Crusading finance accelerated papal and royal taxation systems in the West."
+      ],
+      "effectsOnChurch": [
+        "Crusade preaching and the indulgence became part of everyday Western devotion through the friars’ sermons and the commutation of vows for money, which drew growing criticism.",
+        "The papacy’s crusades against Frederick II and the Hohenstaufen damaged the moral authority of crusading and of the popes themselves.",
+        "Franciscan and Dominican missions to Muslims and Mongols developed alongside crusade, with Francis’s visit to al-Kamil as their emblem.",
+        "The loss of the Holy Land contributed to the trial and suppression of the Knights Templar (1307–1312)."
+      ],
+      "legacy": "The thirteenth-century crusades show both the deepest crusading piety, in Louis IX, and its contradictions: a Holy City regained by an excommunicated emperor through diplomacy, crusades preached against Christian rulers, and repeated failure that critics read as divine judgement on the crusaders’ sins. The fall of Acre in 1291 became a fixed point in Muslim and Christian memory.",
+      "dissenters": [
+        {
+          "name": "Francis of Assisi",
+          "personId": "francis-of-assisi",
+          "text": "Went unarmed to Sultan al-Kamil in 1219; early sources say he warned the crusaders before a disastrous attack that it would fail, and his rule urged friars among ‘Saracens’ to live peaceably and confess their faith without quarrels."
+        },
+        {
+          "name": "Matthew Paris",
+          "text": "The St Albans chronicler condemned the papacy’s crusades against Frederick II and the selling of crusade vows, reporting that many believed the defeats in the East were caused by such abuses."
+        },
+        {
+          "name": "Humbert of Romans",
+          "text": "The former Dominican master general, in his memorandum for the Council of Lyon (1274), recorded contemporary objections that crusading was contrary to the gospel, that it killed rather than converted, and that God showed displeasure through defeats, even though he himself defended crusading."
+        },
+        {
+          "name": "Roger Bacon",
+          "text": "The Franciscan scholar argued in his Opus maius (1267) that war rarely converts unbelievers and that preaching and learning their languages would do more good."
+        }
+      ],
+      "theatres": [
+        {
+          "name": "Siege of Damietta",
+          "lat": 31.4165,
+          "lng": 31.8133,
+          "year": 1219
+        },
+        {
+          "name": "Mansurah",
+          "lat": 31.0409,
+          "lng": 31.3785,
+          "year": 1250
+        },
+        {
+          "name": "Jaffa: treaty of Frederick II",
+          "lat": 32.0504,
+          "lng": 34.7522,
+          "year": 1229
+        },
+        {
+          "name": "Jerusalem: sacked by the Khwarazmians",
+          "lat": 31.778,
+          "lng": 35.2354,
+          "year": 1244
+        },
+        {
+          "name": "Battle of La Forbie",
+          "lat": 31.55,
+          "lng": 34.53,
+          "year": 1244
+        },
+        {
+          "name": "Battle of Ain Jalut",
+          "lat": 32.55,
+          "lng": 35.36,
+          "year": 1260
+        },
+        {
+          "name": "Fall of Antioch",
+          "lat": 36.2021,
+          "lng": 36.1606,
+          "year": 1268
+        },
+        {
+          "name": "Tunis: death of Louis IX",
+          "lat": 36.8528,
+          "lng": 10.3233,
+          "year": 1270
+        },
+        {
+          "name": "Fall of Tripoli",
+          "lat": 34.4367,
+          "lng": 35.8497,
+          "year": 1289
+        },
+        {
+          "name": "Fall of Acre",
+          "lat": 32.9206,
+          "lng": 35.0689,
+          "year": 1291
+        }
+      ],
+      "campaigns": [
+        {
+          "id": "later-fifth-crusade",
+          "title": "The Fifth Crusade in the Nile delta",
+          "people": "Crusaders under John of Brienne and the legate Pelagius",
+          "personIds": [],
+          "year": 1218,
+          "endYear": 1221,
+          "stops": [
+            {
+              "name": "Acre",
+              "lat": 32.9206,
+              "lng": 35.0689,
+              "year": 1218
+            },
+            {
+              "name": "Damietta",
+              "lat": 31.4165,
+              "lng": 31.8133,
+              "year": 1219
+            },
+            {
+              "name": "Fariskur",
+              "lat": 31.3297,
+              "lng": 31.7147,
+              "year": 1221
+            },
+            {
+              "name": "Near Mansurah (Baramun)",
+              "lat": 31.0409,
+              "lng": 31.3785,
+              "year": 1221
+            }
+          ],
+          "text": "Sailing from Acre in 1218, the crusaders besieged and took Damietta, then in July 1221 marched south toward Cairo and were cut off by the rising Nile and Ayyubid forces near Mansurah."
+        },
+        {
+          "id": "later-frederick-ii-1228",
+          "title": "Frederick II’s crusade",
+          "people": "Emperor Frederick II and his army",
+          "personIds": [],
+          "year": 1228,
+          "endYear": 1229,
+          "stops": [
+            {
+              "name": "Brindisi",
+              "lat": 40.6327,
+              "lng": 17.9418,
+              "year": 1228
+            },
+            {
+              "name": "Limassol, Cyprus",
+              "lat": 34.7071,
+              "lng": 33.0226,
+              "year": 1228
+            },
+            {
+              "name": "Acre",
+              "lat": 32.9206,
+              "lng": 35.0689,
+              "year": 1228
+            },
+            {
+              "name": "Jaffa",
+              "lat": 32.0504,
+              "lng": 34.7522,
+              "year": 1229
+            },
+            {
+              "name": "Jerusalem",
+              "lat": 31.778,
+              "lng": 35.2354,
+              "year": 1229
+            }
+          ],
+          "text": "Excommunicated, Frederick sailed from Brindisi via Cyprus to Acre, negotiated the Treaty of Jaffa and entered Jerusalem in March 1229 without a battle."
+        },
+        {
+          "id": "later-louis-ix-egypt",
+          "title": "Louis IX’s crusade to Egypt",
+          "people": "Louis IX and the French crusade army",
+          "personIds": [],
+          "year": 1248,
+          "endYear": 1254,
+          "stops": [
+            {
+              "name": "Aigues-Mortes",
+              "lat": 43.5667,
+              "lng": 4.1917,
+              "year": 1248
+            },
+            {
+              "name": "Limassol, Cyprus",
+              "lat": 34.7071,
+              "lng": 33.0226,
+              "year": 1248
+            },
+            {
+              "name": "Damietta",
+              "lat": 31.4165,
+              "lng": 31.8133,
+              "year": 1249
+            },
+            {
+              "name": "Mansurah",
+              "lat": 31.0409,
+              "lng": 31.3785,
+              "year": 1250
+            },
+            {
+              "name": "Fariskur: capture of the king",
+              "lat": 31.3297,
+              "lng": 31.7147,
+              "year": 1250
+            },
+            {
+              "name": "Acre",
+              "lat": 32.9206,
+              "lng": 35.0689,
+              "year": 1250
+            }
+          ],
+          "text": "Louis sailed from his new port of Aigues-Mortes, wintered in Cyprus, captured Damietta, was defeated at Mansurah and captured on the retreat, and after his ransom spent four years strengthening the Frankish coast from Acre."
+        },
+        {
+          "id": "later-tunis-1270",
+          "title": "Louis IX’s last crusade to Tunis",
+          "people": "Louis IX, his sons and the French army",
+          "personIds": [],
+          "year": 1270,
+          "stops": [
+            {
+              "name": "Aigues-Mortes",
+              "lat": 43.5667,
+              "lng": 4.1917,
+              "year": 1270
+            },
+            {
+              "name": "Cagliari, Sardinia",
+              "lat": 39.2238,
+              "lng": 9.1217,
+              "year": 1270
+            },
+            {
+              "name": "Carthage, near Tunis",
+              "lat": 36.8528,
+              "lng": 10.3233,
+              "year": 1270
+            }
+          ],
+          "text": "Diverted to Tunis, perhaps in hope of converting its emir or securing a base, the army camped at Carthage, where dysentery killed Louis on 25 August 1270."
+        }
+      ],
+      "ledTo": [
+        "ottoman-holy-leagues"
+      ],
+      "eventIds": [
+        "fourth-lateran-council-1215",
+        "franciscan-order-1209",
+        "dominican-order-1216",
+        "mongol-sack-of-baghdad-1258",
+        "council-of-lyon-1274",
+        "council-of-vienne-1311"
+      ],
+      "traditionIds": [
+        "catholic",
+        "armenian-apostolic",
+        "eastern-orthodox"
+      ],
+      "sources": [
+        "w2-powell-anatomy-crusade",
+        "w2-jordan-louis-ix",
+        "w2-abulafia-frederick-ii",
+        "w2-tolan-francis-sultan",
+        "w2-asbridge-crusades",
+        "riley-smith-crusades",
+        "w2-siberry-criticism"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "albigensian-crusade",
+      "name": "The Albigensian Crusade against the Cathars",
+      "kind": "crusade",
+      "startYear": 1209,
+      "endYear": 1229,
+      "region": "Languedoc, southern France",
+      "place": {
+        "name": "Carcassonne",
+        "lat": 43.213,
+        "lng": 2.3491
+      },
+      "religionRole": "central",
+      "religionRoleNote": "This was the first crusade proclaimed by a pope against heretics inside Latin Christendom, with the full crusade indulgence offered for forty days’ service; the stated and real aim was the destruction of the Cathar ‘good men’ and the punishment of lords who protected them. Land, lordship and the expansion of the Capetian monarchy into the south quickly became major motives, especially for Simon de Montfort and later Louis VIII. Historians also debate the target itself: Malcolm Barber and Bernard Hamilton see an organised dualist church with Balkan links, while R. I. Moore and Mark Pegg argue that ‘Catharism’ as a unified counter-church was partly constructed by its persecutors.",
+      "sides": [
+        {
+          "name": "Crusaders, papal legates and (from 1226) the French crown",
+          "faith": "Latin Catholic",
+          "leaders": [
+            "Innocent III",
+            "Arnaud Amalric, abbot of Cîteaux",
+            "Simon de Montfort",
+            "Amaury de Montfort",
+            "King Louis VIII"
+          ]
+        },
+        {
+          "name": "Southern lords and towns of Languedoc",
+          "faith": "Mostly Catholic, protecting or tolerating Cathar and Waldensian believers",
+          "leaders": [
+            "Raymond VI and Raymond VII of Toulouse",
+            "Raymond-Roger Trencavel, viscount of Béziers and Carcassonne",
+            "Raymond-Roger of Foix",
+            "King Peter II of Aragon"
+          ]
+        },
+        {
+          "name": "Cathar ‘good men’ and ‘good women’ and their believers",
+          "faith": "Cathar (dualist Christian heresy)",
+          "leaders": [
+            "Guilhabert de Castres, Cathar bishop of Toulouse"
+          ]
+        }
+      ],
+      "summary": "Proclaimed by Innocent III after the murder of his legate in 1208, the Albigensian Crusade sent northern French armies into Languedoc to destroy Catharism and the lords who sheltered it. It began with the massacre at Béziers in 1209, saw mass burnings of Cathars at Minerve, Lavaur and elsewhere, and became a war of conquest led by Simon de Montfort and finally by the French crown. The Treaty of Paris in 1229 brought Toulouse under Capetian control, and the Inquisition followed.",
+      "story": "By the late twelfth century Languedoc, a land of cities and of independent-minded nobility under the counts of Toulouse and the Trencavel viscounts, was home to many followers of the ‘good men’ (bons homes), whom Catholic writers called Cathars or Albigensians. They taught a dualist faith in which the material world was the work of an evil principle, and they offered salvation through the consolamentum received from ascetic perfected believers. Missions by Bernard of Clairvaux in 1145, the Third Lateran Council’s condemnation of 1179 and preaching by Cistercians and, from 1206, by Bishop Diego of Osma and Dominic of Caleruega, who debated Cathars at Montréal and Fanjeaux, had little success.\n\nIn January 1208 the papal legate Pierre de Castelnau was murdered near Saint-Gilles after excommunicating Count Raymond VI of Toulouse; Innocent III blamed the count and in March called the nobility of northern France to a crusade, granting the same indulgence as for the Holy Land in return for forty days’ service. Raymond VI submitted to public penance at Saint-Gilles in June 1209 and joined the crusade himself, which turned the army against his nephew Raymond-Roger Trencavel. On 22 July 1209 the crusaders stormed Béziers. The inhabitants, Catholics as well as Cathars, were massacred, including those who had fled into the church of the Madeleine; the legate Arnaud Amalric reported to the pope that ‘nearly twenty thousand’ were killed, a figure historians regard as exaggerated. The saying ‘Kill them all; God will know his own’, attributed to him by Caesarius of Heisterbach some years later, is of doubtful authenticity but reflects how the event was remembered.\n\nCarcassonne surrendered on 15 August 1209; Raymond-Roger Trencavel was imprisoned and died there in November, and Simon de Montfort, a veteran of the Fourth Crusade who had refused to attack Zara, was given his lands. Montfort waged a relentless war of sieges. At Minerve in 1210 about 140 Cathar perfecti who refused to recant were burned; at Lavaur in 1211 the lord Aimery of Montréal and some eighty knights were hanged or put to the sword, the lady Guiraude was thrown into a well and stoned, and around three hundred or more heretics were burned. Southern forces also killed crusaders and mutilated prisoners, and Montfort answered with mutilations of his own, as at Bram in 1210, where captives had their eyes put out and noses cut off.\n\nThe war widened when Peter II of Aragon, overlord of many southern lords and victor over the Almohads at Las Navas de Tolosa in 1212, came to defend his vassals. On 12 September 1213 Montfort’s much smaller army defeated and killed him at Muret. The Fourth Lateran Council in 1215 confirmed Montfort as count of Toulouse, but the south rose again: Raymond VII retook Beaucaire in 1216, Toulouse rebelled in 1217, and on 25 June 1218 Simon de Montfort was killed by a stone from a siege engine, operated by the city’s women according to the Song of the Cathar Wars. In 1219 the future Louis VIII took part in the massacre of the population of Marmande.\n\nAmaury de Montfort could not hold his father’s conquests and in 1224 ceded his rights to the French crown. Louis VIII led a royal crusade in 1226, took Avignon after a siege and received the submission of much of the south before dying of dysentery that November. The regent Blanche of Castile pursued the war until Raymond VII accepted the Treaty of Meaux-Paris in April 1229, doing public penance at Notre-Dame, agreeing to pursue heretics, endow a university at Toulouse and marry his heiress to a brother of the king, which brought the county to the crown in 1271.\n\nThe Council of Toulouse in 1229 organised the hunt for heretics, and from 1233–1234 Gregory IX entrusted inquisitions to the Dominicans. After the killing of inquisitors at Avignonet in 1242, a royal army besieged the mountain refuge of Montségur; when it surrendered in March 1244 more than two hundred Cathars who refused to recant were burned. Quéribus fell in 1255, and the last known Cathar perfect in Languedoc, Guilhem Bélibaste, was burned in 1321. The independence of the southern principalities and much of the courtly culture of the troubadours did not survive.",
+      "nameOfGod": "Innocent III presented the crusade as a war of the Church against heretics more dangerous than Saracens, offering the Holy Land indulgence for forty days’ service. Crusaders wore the cross, and Cistercian legates such as Arnaud Amalric directed the campaigns; the chronicler Peter of les Vaux-de-Cernay praised the burnings as acts of faith, writing that the crusaders burned heretics ‘with great joy’. Montfort’s victory at Muret was hailed as a miracle and divine verdict, and the crusade was described as the ‘business of peace and faith’ (negotium pacis et fidei).",
+      "religiousCauses": [
+        "The spread of Catharism and of Waldensian preaching in Languedoc, which the papacy saw as a threat to the salvation of souls and to the unity of the Church.",
+        "Innocent III’s conviction that secular lords who tolerated heresy forfeited their right to rule, so that their lands could be ‘exposed to seizure’ by Catholics.",
+        "The failure of preaching missions by Cistercians, Diego of Osma and Dominic to win the region back.",
+        "The murder of the papal legate Pierre de Castelnau in January 1208, which Innocent treated as martyrdom and an assault on the Church."
+      ],
+      "otherCauses": [
+        "The ambitions of northern French nobles, above all Simon de Montfort, to win lands and titles in the rich south.",
+        "The Capetian monarchy’s long-term interest in extending royal power to the Mediterranean, achieved by 1229–1271.",
+        "The weakness and fragmentation of authority in Languedoc and the rivalry between the counts of Toulouse, the Trencavels and the crown of Aragon.",
+        "Cultural and linguistic differences between the Occitan south and the French-speaking north, which sharpened hostility on both sides."
+      ],
+      "triggers": [
+        "The murder of the legate Pierre de Castelnau near Saint-Gilles on 14 January 1208.",
+        "Innocent III’s call to crusade in March 1208, with the indulgence for forty days’ service.",
+        "The fall of Béziers on 22 July 1209, which terrified the south into surrender and set the pattern of the war."
+      ],
+      "timeline": [
+        {
+          "year": 1179,
+          "text": "The Third Lateran Council condemns the heretics of Languedoc and their protectors."
+        },
+        {
+          "year": 1206,
+          "text": "Diego of Osma and Dominic begin itinerant preaching and debates with Cathars."
+        },
+        {
+          "year": 1208,
+          "text": "Papal legate Pierre de Castelnau is murdered; Innocent III proclaims the crusade."
+        },
+        {
+          "year": 1209,
+          "text": "Massacre at Béziers (22 July); Carcassonne surrenders; Simon de Montfort becomes viscount."
+        },
+        {
+          "year": 1210,
+          "text": "About 140 Cathars are burned at Minerve."
+        },
+        {
+          "year": 1211,
+          "text": "Fall of Lavaur: knights hanged, Guiraude of Lavaur killed, hundreds of heretics burned."
+        },
+        {
+          "year": 1213,
+          "text": "Peter II of Aragon is killed at the battle of Muret."
+        },
+        {
+          "year": 1215,
+          "text": "The Fourth Lateran Council grants the county of Toulouse to Simon de Montfort."
+        },
+        {
+          "year": 1218,
+          "text": "Simon de Montfort is killed besieging Toulouse."
+        },
+        {
+          "year": 1226,
+          "text": "Louis VIII’s royal crusade takes Avignon; the king dies in November."
+        },
+        {
+          "year": 1229,
+          "text": "Treaty of Meaux-Paris ends the crusade; the Council of Toulouse organises the repression of heresy."
+        },
+        {
+          "year": 1234,
+          "text": "Dominican inquisitors begin work in Toulouse under Gregory IX’s mandate."
+        },
+        {
+          "year": 1244,
+          "text": "Montségur surrenders; more than two hundred Cathars are burned."
+        },
+        {
+          "year": 1321,
+          "text": "Guilhem Bélibaste, the last known Cathar perfect of Languedoc, is burned at Villerouge-Termenès."
+        }
+      ],
+      "keyPeople": [
+        {
+          "name": "Innocent III",
+          "years": "1160/61–1216",
+          "origin": "Anagni, Papal States",
+          "role": "Pope",
+          "focus": "Proclaimed the crusade in 1208 and set its legal and spiritual terms.",
+          "outcome": "Tried at times to restrain Montfort’s land-grabbing but confirmed his conquests at the Fourth Lateran Council."
+        },
+        {
+          "name": "Arnaud Amalric",
+          "years": "d. 1225",
+          "origin": "Catalonia or Languedoc",
+          "role": "Abbot of Cîteaux and papal legate",
+          "focus": "Led the crusade army in 1209 and reported the massacre at Béziers as a divine judgement.",
+          "outcome": "Became archbishop of Narbonne in 1212 and later quarrelled with Montfort over the duchy of Narbonne."
+        },
+        {
+          "name": "Simon de Montfort",
+          "years": "c. 1170–1218",
+          "origin": "Île-de-France",
+          "role": "Military leader of the crusade",
+          "focus": "Conquered most of Languedoc through sieges, burnings and the victory at Muret.",
+          "outcome": "Killed at the siege of Toulouse in 1218; his son Simon became the English baronial leader."
+        },
+        {
+          "name": "Raymond VI of Toulouse",
+          "years": "1156–1222",
+          "origin": "Saint-Gilles",
+          "role": "Count of Toulouse",
+          "focus": "Accused of protecting heretics and of the legate’s murder; switched sides and finally led southern resistance.",
+          "outcome": "Died excommunicate in 1222 and was refused Christian burial."
+        },
+        {
+          "name": "Raymond VII of Toulouse",
+          "years": "1197–1249",
+          "origin": "Beaucaire",
+          "role": "Count of Toulouse",
+          "focus": "Led the reconquest of the south after 1216 and resisted Louis VIII.",
+          "outcome": "Accepted the Treaty of Paris in 1229; his lands passed to the crown in 1271."
+        },
+        {
+          "name": "Raymond-Roger Trencavel",
+          "years": "1185–1209",
+          "origin": "Languedoc",
+          "role": "Viscount of Béziers and Carcassonne",
+          "focus": "Defended Carcassonne in 1209.",
+          "outcome": "Seized during negotiations and died in his own prison in November 1209."
+        },
+        {
+          "name": "Peter II of Aragon",
+          "years": "1178–1213",
+          "origin": "Huesca, Aragon",
+          "role": "King of Aragon, overlord in Languedoc",
+          "focus": "A Catholic king crowned by Innocent III, he intervened to protect his southern vassals from Montfort.",
+          "outcome": "Killed at Muret in 1213, ending Aragonese ambitions north of the Pyrenees."
+        },
+        {
+          "name": "Dominic de Guzmán",
+          "personId": "dominic",
+          "years": "1170–1221",
+          "origin": "Caleruega, Castile",
+          "role": "Preacher and founder of the Order of Preachers",
+          "focus": "Preached and debated with Cathars from 1206 and founded a house for converted women at Prouille; he accompanied the crusading period, though his part in its violence is debated.",
+          "outcome": "His order, approved in 1216, later supplied the inquisitors of Languedoc."
+        }
+      ],
+      "casualties": {
+        "note": "No reliable total exists. Contemporary figures are rhetorical: Arnaud Amalric claimed nearly 20,000 killed at Béziers and the Song of the Cathar Wars claimed 5,000 at Marmande, numbers historians consider inflated. Chroniclers give more credible counts for specific burnings (about 140 at Minerve, around 300–400 at Lavaur, more than 200 at Montségur). Popular claims of hundreds of thousands or a million dead have no scholarly basis; the total probably ran into tens of thousands over twenty years, but this cannot be established."
+      },
+      "effects": [
+        "The independent principalities of Languedoc were destroyed and the region was absorbed into the kingdom of France, which gained a Mediterranean coast.",
+        "Many southern noble families were dispossessed, creating a class of exiles (faidits) who sheltered heretics and resisted for decades.",
+        "The Occitan troubadour culture declined, though its poetry preserved bitter protests against the crusade and Rome.",
+        "The Crown of Aragon turned its expansion south and into the Mediterranean after the defeat at Muret."
+      ],
+      "effectsOnChurch": [
+        "It established that crusade, with its indulgence, could be used against heretics and Christian lords within Christendom, a precedent used against the Hohenstaufen, the Hussites and others.",
+        "It led directly to the papal Inquisition: the Council of Toulouse (1229) and Gregory IX’s commissions to Dominican inquisitors from 1233–1234 created lasting procedures of investigation, penance and burning.",
+        "Catharism was largely eradicated in Languedoc by the early fourteenth century, after decades of inquisition rather than the war alone.",
+        "The Dominican Order, born in this mission field, grew into a major preaching and teaching order, though its association with the Inquisition shaped its later image."
+      ],
+      "legacy": "The Albigensian Crusade remains one of the most contested episodes in church history: a byword for religious violence (‘Kill them all…’), a source of Occitan regional identity, and a subject of romantic modern myths about Cathar treasure and Gnostic wisdom. Historians continue to debate how far Catharism was a coherent church and how far the crusade was driven by faith or by conquest, but agree that it turned crusading inward and launched the systematic inquisition of heresy.",
+      "dissenters": [
+        {
+          "name": "Peter II of Aragon",
+          "text": "Protested to Innocent III in 1213 that the crusade was despoiling Catholic lords who were not heretics; the pope briefly suspended crusade privileges for Languedoc before reversing himself under pressure from his legates."
+        },
+        {
+          "name": "Anonymous continuator of the Song of the Cathar Wars",
+          "text": "A Catholic Occitan poet who wrote the second part of the Song denounced the crusaders’ cruelty and greed and portrayed Simon de Montfort’s death as just retribution, while professing loyalty to the Church."
+        },
+        {
+          "name": "Guilhem Figueira",
+          "text": "The Toulousain troubadour’s song ‘D’un sirventes far’ (c. 1228) attacked Rome for preaching crusade against Christians, accusing it of selling pardons and leading the faithful to death."
+        },
+        {
+          "name": "Innocent III (in part)",
+          "text": "In 1213 the pope wrote that the business of the faith was being turned to the seizure of lands and ordered restraint, though he did not end the crusade."
+        }
+      ],
+      "theatres": [
+        {
+          "name": "Saint-Gilles: murder of the legate and penance of Raymond VI",
+          "lat": 43.6786,
+          "lng": 4.4317,
+          "year": 1208
+        },
+        {
+          "name": "Massacre at Béziers",
+          "lat": 43.3442,
+          "lng": 3.2158,
+          "year": 1209
+        },
+        {
+          "name": "Siege of Carcassonne",
+          "lat": 43.213,
+          "lng": 2.3491,
+          "year": 1209
+        },
+        {
+          "name": "Burnings at Minerve",
+          "lat": 43.3547,
+          "lng": 2.7461,
+          "year": 1210
+        },
+        {
+          "name": "Sack of Lavaur",
+          "lat": 43.6989,
+          "lng": 1.8197,
+          "year": 1211
+        },
+        {
+          "name": "Battle of Muret",
+          "lat": 43.4612,
+          "lng": 1.327,
+          "year": 1213
+        },
+        {
+          "name": "Siege of Toulouse: death of Simon de Montfort",
+          "lat": 43.6047,
+          "lng": 1.4442,
+          "year": 1218
+        },
+        {
+          "name": "Massacre at Marmande",
+          "lat": 44.5003,
+          "lng": 0.1653,
+          "year": 1219
+        },
+        {
+          "name": "Siege of Avignon",
+          "lat": 43.9493,
+          "lng": 4.8055,
+          "year": 1226
+        },
+        {
+          "name": "Siege and burnings at Montségur",
+          "lat": 42.8756,
+          "lng": 1.8322,
+          "year": 1244
+        }
+      ],
+      "campaigns": [
+        {
+          "id": "albigensian-campaign-1209",
+          "title": "The crusade army of 1209",
+          "people": "Northern French crusaders under the legate Arnaud Amalric, joined by Raymond VI",
+          "personIds": [],
+          "year": 1209,
+          "stops": [
+            {
+              "name": "Lyon (muster)",
+              "lat": 45.764,
+              "lng": 4.8357,
+              "year": 1209
+            },
+            {
+              "name": "Valence",
+              "lat": 44.9334,
+              "lng": 4.8924,
+              "year": 1209
+            },
+            {
+              "name": "Montpellier",
+              "lat": 43.6108,
+              "lng": 3.8767,
+              "year": 1209
+            },
+            {
+              "name": "Béziers",
+              "lat": 43.3442,
+              "lng": 3.2158,
+              "year": 1209
+            },
+            {
+              "name": "Carcassonne",
+              "lat": 43.213,
+              "lng": 2.3491,
+              "year": 1209
+            }
+          ],
+          "text": "Gathering at Lyon in June 1209, the army marched down the Rhône valley into Languedoc, stormed Béziers on 22 July and forced Carcassonne to surrender on 15 August."
+        },
+        {
+          "id": "albigensian-montfort-sieges",
+          "title": "Simon de Montfort’s war of sieges",
+          "people": "Simon de Montfort and crusader contingents",
+          "personIds": [],
+          "year": 1210,
+          "endYear": 1218,
+          "stops": [
+            {
+              "name": "Carcassonne",
+              "lat": 43.213,
+              "lng": 2.3491,
+              "year": 1209
+            },
+            {
+              "name": "Minerve",
+              "lat": 43.3547,
+              "lng": 2.7461,
+              "year": 1210
+            },
+            {
+              "name": "Termes",
+              "lat": 42.99,
+              "lng": 2.56,
+              "year": 1210
+            },
+            {
+              "name": "Lavaur",
+              "lat": 43.6989,
+              "lng": 1.8197,
+              "year": 1211
+            },
+            {
+              "name": "Muret",
+              "lat": 43.4612,
+              "lng": 1.327,
+              "year": 1213
+            },
+            {
+              "name": "Toulouse",
+              "lat": 43.6047,
+              "lng": 1.4442,
+              "year": 1218
+            }
+          ],
+          "text": "From his base at Carcassonne Montfort reduced the fortresses of the Minervois and Corbières, took Lavaur, defeated Peter II at Muret and died besieging rebellious Toulouse."
+        },
+        {
+          "id": "albigensian-royal-crusade-1226",
+          "title": "Louis VIII’s royal crusade",
+          "people": "King Louis VIII and the royal army",
+          "personIds": [],
+          "year": 1226,
+          "stops": [
+            {
+              "name": "Bourges (muster)",
+              "lat": 47.081,
+              "lng": 2.3988,
+              "year": 1226
+            },
+            {
+              "name": "Lyon",
+              "lat": 45.764,
+              "lng": 4.8357,
+              "year": 1226
+            },
+            {
+              "name": "Avignon",
+              "lat": 43.9493,
+              "lng": 4.8055,
+              "year": 1226
+            },
+            {
+              "name": "Carcassonne",
+              "lat": 43.213,
+              "lng": 2.3491,
+              "year": 1226
+            },
+            {
+              "name": "Montpensier (death of the king)",
+              "lat": 46.042,
+              "lng": 3.219,
+              "year": 1226
+            }
+          ],
+          "text": "The king’s army descended the Rhône, besieged Avignon for three months, received the submission of much of Languedoc, and turned home; Louis died of dysentery at Montpensier in November 1226."
+        }
+      ],
+      "ledTo": [],
+      "eventIds": [
+        "albigensian-crusade-1209",
+        "fourth-lateran-council-1215",
+        "dominican-order-1216",
+        "waldo-poor-of-lyon-1173"
+      ],
+      "traditionIds": [
+        "catholic",
+        "waldensian"
+      ],
+      "sources": [
+        "w2-sumption-albigensian",
+        "w2-pegg-most-holy-war",
+        "w2-peter-vaux-de-cernay",
+        "w2-song-cathar-wars",
+        "w2-barber-cathars",
+        "lambert-medieval-heresy"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "northern-crusades",
+      "name": "The Northern (Baltic) Crusades and the Teutonic Order",
+      "kind": "crusade",
+      "startYear": 1147,
+      "endYear": 1410,
+      "region": "Southern and eastern Baltic: Wendish lands, Prussia, Livonia, Estonia, Finland and Lithuania",
+      "place": {
+        "name": "Marienburg (Malbork)",
+        "lat": 54.0397,
+        "lng": 19.0281
+      },
+      "religionRole": "major",
+      "religionRoleNote": "Papal bulls from 1147 onward granted crusade indulgences for war against the pagan Wends, Livs, Estonians, Prussians and Lithuanians, and the military orders existed to wage holy war; conversion of pagans was the constant stated goal, at times explicitly by force. Yet conquest, the founding of bishoprics and towns, German and Scandinavian settlement, tribute, the fur and grain trade and the territorial state of the Teutonic Order were equally real motives. Eric Christiansen and William Urban stress this mixture; Polish and Lithuanian historiography long saw the Order as a vehicle of German expansion, and the crusades after Lithuania’s baptism in 1387 were openly contested as lacking any religious justification.",
+      "sides": [
+        {
+          "name": "Crusaders: German princes, Danish and Swedish kings, the Sword Brothers and the Teutonic Order",
+          "faith": "Latin Catholic",
+          "leaders": [
+            "Albert the Bear and Henry the Lion",
+            "Valdemar I and Valdemar II of Denmark",
+            "Bishop Albert of Riga",
+            "Hermann von Salza",
+            "Ulrich von Jungingen"
+          ]
+        },
+        {
+          "name": "Pagan Baltic and Slavic peoples",
+          "faith": "Indigenous Baltic, Finnic and Slavic religions",
+          "leaders": [
+            "Niklot of the Obotrites",
+            "Herkus Monte (Prussian uprising)",
+            "Mindaugas, Gediminas and Kęstutis of Lithuania"
+          ]
+        },
+        {
+          "name": "Novgorod and the Rus’ principalities",
+          "faith": "Eastern Orthodox",
+          "leaders": [
+            "Alexander Nevsky"
+          ]
+        },
+        {
+          "name": "Kingdom of Poland and Grand Duchy of Lithuania (from 1386)",
+          "faith": "Latin Catholic (Lithuania newly baptised), with Orthodox subjects",
+          "leaders": [
+            "Władysław II Jagiełło (Jogaila)",
+            "Vytautas"
+          ]
+        }
+      ],
+      "summary": "From 1147 the papacy extended crusading to the pagan peoples of the Baltic. Saxons and Danes attacked the Wends; German bishops, merchants and the Sword Brothers conquered Livonia; Danes took Estonia and Swedes Finland; and from 1230 the Teutonic Order conquered Prussia and fought Lithuania for two centuries. Converts were often baptised at sword-point, and the Order built a powerful state. Lithuania’s baptism in 1387 removed the rationale, and the Polish–Lithuanian victory at Grunwald in 1410 broke the Order’s power.",
+      "story": "During the preaching of the Second Crusade in 1147, Saxon princes asked to fight their pagan Slav neighbours, the Wends, instead of going to the East. Bernard of Clairvaux urged them to fight until either the pagans’ religion or the nation itself was destroyed, and Pope Eugenius III’s bull Divina dispensatione granted the crusade indulgence. The Wendish Crusade besieged Dobin and Demmin and marched to Stettin, which was already Christian; it achieved little, but it set the precedent. Over the next decades Henry the Lion and the Danish kings conquered the Wendish lands, and in 1168 Valdemar I of Denmark and Bishop Absalon took Arkona on Rügen and destroyed the great idol of Svantevit.\n\nFurther east, German merchants and the missionary Meinhard reached the Livs on the Daugava in the 1180s. After resistance, popes granted crusade privileges for Livonia, and Bishop Albert of Buxhoeveden founded Riga in 1201 and the Order of the Sword Brothers in 1202. The Chronicle of Henry of Livonia describes a cycle of raids, hostage-taking and baptisms of whole districts after defeat. Danes under Valdemar II conquered northern Estonia from 1219, when tradition says the Dannebrog flag fell from heaven at Lyndanisse (Tallinn). Swedish expeditions brought Finland under Swedish and Catholic rule in the twelfth and thirteenth centuries. In 1236 the Sword Brothers were destroyed by Samogitians and Semigallians at Saule, and their remnant was merged into the Teutonic Order.\n\nThe Teutonic Order, founded at Acre in the 1190s, was invited by Duke Konrad of Masovia to fight the pagan Prussians, and Emperor Frederick II’s Golden Bull of Rimini (1226) and later papal grants gave it rights to the conquered land. From 1230 the knights advanced along the Vistula, building castles at Thorn, Kulm, Marienwerder and Elbing, with crusaders arriving each season from Germany and beyond. The Prussians rose in 1242 and in the Great Prussian Uprising of 1260–1274 under leaders such as Herkus Monte; the Order suppressed them with great severity, and many Prussians were killed, deported or reduced to dependence, their language dying out by the seventeenth century. In 1242 the Livonian branch’s attack on Orthodox Novgorod was defeated by Alexander Nevsky on the ice of Lake Peipus, a battle later magnified by Russian national memory.\n\nLithuania remained the great pagan power. Its ruler Mindaugas was baptised in 1251 and crowned king in 1253 but broke with Christianity around 1261. Under Gediminas and his sons Lithuania expanded into Orthodox Rus’ while resisting the Order. Through the fourteenth century the Order staged ‘Reisen’, seasonal raids into Samogitia and Lithuania joined by knights from across Europe, including Henry Bolingbroke, the future Henry IV of England, in 1390–1392; Chaucer’s Knight had ‘reysed in Lettow’. These raids burned villages and carried off captives, while Lithuanian raids devastated Prussia and Livonia in turn.\n\nIn 1385 the Union of Krewo united Lithuania with Poland: Grand Duke Jogaila was baptised in 1386, married Queen Jadwiga and became King Władysław II, and in 1387 Lithuania accepted Catholic Christianity, with Samogitia following in 1413–1417. The Order nevertheless continued to wage war, claiming the conversion was false. On 15 July 1410 the Polish–Lithuanian army defeated the Order at Grunwald (Tannenberg); Grand Master Ulrich von Jungingen and much of the Order’s leadership were killed. Marienburg survived the following siege and the First Peace of Thorn (1411) cost the Order little land, but its power and prestige were broken.\n\nAt the Council of Constance (1414–1418) the Polish canonist Paulus Vladimiri argued that pagans possessed legitimate rights to their lands and could not be attacked merely for unbelief, while a Dominican defender of the Order, John Falkenberg, called for the killing of the Poles and their king and was condemned. The Thirteen Years’ War ended in the Second Peace of Thorn (1466), which made the Order a Polish vassal, and in 1525 its grand master Albrecht of Brandenburg-Ansbach turned Prussia into a Lutheran duchy. The Livonian branch survived until 1561.",
+      "nameOfGod": "Crusaders received the cross and indulgences comparable to those for Jerusalem, and from the 1190s Livonia was presented as the ‘land of Mary’ (Terra Mariana), whose conquest was service to the Virgin. Bernard of Clairvaux’s call to fight ‘until either the rite itself or the nation be destroyed’ became notorious. Henry of Livonia’s chronicle describes the war as the spread of the faith and the baptism of pagans after their defeat. The Teutonic Knights, a religious order bound by vows, held the castle of Marienburg as the ‘castle of Mary’ and treated war against pagans as a form of devotion.",
+      "religiousCauses": [
+        "Papal extension of the crusade indulgence to wars against pagans on the frontiers of Christendom, beginning with Eugenius III’s bull Divina dispensatione in 1147.",
+        "Missionary failure among the Livs and Prussians, which led bishops to call for armed protection and forced conversion.",
+        "The vocation of the military orders, the Sword Brothers and the Teutonic Knights, which needed a field of holy war, especially after the loss of the Holy Land.",
+        "Marian devotion, which cast Livonia and Prussia as lands consecrated to the Virgin.",
+        "Hostility to Orthodox ‘schismatics’ in Novgorod and Pskov, which at times extended the crusade against fellow Christians."
+      ],
+      "otherCauses": [
+        "German, Danish and Swedish territorial expansion and the desire for land, tribute and lordship.",
+        "Commercial interests of Lübeck and the merchants of the later Hanseatic League in the Baltic trade routes, furs, wax and grain.",
+        "The Teutonic Order’s ambition to build a sovereign state, and its rivalry with Poland over Pomerania and Danzig.",
+        "Settlement of German peasants and townspeople in Prussia and the Baltic, encouraged by lords and the Order.",
+        "Chivalric prestige: the Reisen offered knights from France, England and the Empire a place to earn honour after crusading in the East ended."
+      ],
+      "triggers": [
+        "Saxon reluctance to go East during the Second Crusade, answered by Bernard of Clairvaux and Eugenius III’s authorisation of the Wendish Crusade in 1147.",
+        "Pagan attacks on the mission at Üxküll in Livonia in the 1190s and the death of Bishop Berthold in 1198.",
+        "Konrad of Masovia’s invitation to the Teutonic Order in the 1220s to defend his lands against Prussian raids."
+      ],
+      "timeline": [
+        {
+          "year": 1147,
+          "text": "Wendish Crusade authorised by Eugenius III; Bernard of Clairvaux’s letter urges war ‘until the rite or the nation is destroyed’."
+        },
+        {
+          "year": 1168,
+          "text": "Danes take Arkona on Rügen and destroy the temple of Svantevit."
+        },
+        {
+          "year": 1201,
+          "text": "Bishop Albert founds Riga; the Order of the Sword Brothers follows in 1202."
+        },
+        {
+          "year": 1219,
+          "text": "Valdemar II of Denmark conquers northern Estonia at Lyndanisse (Tallinn)."
+        },
+        {
+          "year": 1226,
+          "text": "Golden Bull of Rimini grants the Teutonic Order rights to Prussia; conquest begins in 1230."
+        },
+        {
+          "year": 1236,
+          "text": "Sword Brothers destroyed at Saule; merged into the Teutonic Order in 1237."
+        },
+        {
+          "year": 1242,
+          "text": "Alexander Nevsky defeats the Livonian knights on Lake Peipus."
+        },
+        {
+          "year": 1249,
+          "text": "Treaty of Christburg, mediated by a papal legate, guarantees rights to baptised Prussians."
+        },
+        {
+          "year": 1260,
+          "text": "Great Prussian Uprising begins after the Order’s defeat at Durbe; suppressed by 1274."
+        },
+        {
+          "year": 1309,
+          "text": "The grand master moves the Order’s headquarters to Marienburg."
+        },
+        {
+          "year": 1387,
+          "text": "Lithuania accepts Catholic baptism after the Union of Krewo (1385) and Jogaila’s baptism (1386)."
+        },
+        {
+          "year": 1410,
+          "text": "Battle of Grunwald (Tannenberg): Poland–Lithuania defeats the Teutonic Order."
+        },
+        {
+          "year": 1415,
+          "text": "At the Council of Constance Paulus Vladimiri argues for the rights of pagans against the Order."
+        },
+        {
+          "year": 1525,
+          "text": "Grand Master Albrecht secularises Prussia as a Lutheran duchy under Polish suzerainty."
+        }
+      ],
+      "keyPeople": [
+        {
+          "name": "Bernard of Clairvaux",
+          "personId": "bernard-of-clairvaux",
+          "years": "1090–1153",
+          "origin": "Fontaine-lès-Dijon, Burgundy",
+          "role": "Cistercian abbot and preacher of the Second Crusade",
+          "focus": "Approved the Wendish Crusade in 1147 with the call to fight until the pagans’ rite or nation was destroyed.",
+          "outcome": "Canonised in 1174; his words became a classic text in debates over forced conversion."
+        },
+        {
+          "name": "Albert of Buxhoeveden",
+          "years": "c. 1165–1229",
+          "origin": "Bremen region, Germany",
+          "role": "Bishop of Riga",
+          "focus": "Founded Riga and the Sword Brothers and directed the conquest and Christianisation of Livonia.",
+          "outcome": "Built the Livonian church; the land was later divided among bishops and the Order."
+        },
+        {
+          "name": "Hermann von Salza",
+          "years": "c. 1165–1239",
+          "origin": "Thuringia",
+          "role": "Grand master of the Teutonic Order",
+          "focus": "Secured imperial and papal grants for Prussia and launched the Order’s conquest there.",
+          "outcome": "Laid the foundations of the Order’s Baltic state."
+        },
+        {
+          "name": "Alexander Nevsky",
+          "years": "c. 1221–1263",
+          "origin": "Pereslavl-Zalessky, Rus’",
+          "role": "Prince of Novgorod",
+          "focus": "Defeated the Swedes on the Neva (1240) and the Livonian knights on Lake Peipus (1242).",
+          "outcome": "Canonised by the Russian Orthodox Church as a defender of Orthodoxy against the Latin West."
+        },
+        {
+          "name": "Mindaugas",
+          "years": "c. 1203–1263",
+          "origin": "Lithuania",
+          "role": "Grand duke and king of Lithuania",
+          "focus": "Accepted Latin baptism in 1251 and a royal crown in 1253 to end the Order’s attacks.",
+          "outcome": "Reverted to paganism around 1261 and was assassinated in 1263."
+        },
+        {
+          "name": "Władysław II Jagiełło (Jogaila)",
+          "years": "c. 1362–1434",
+          "origin": "Vilnius, Lithuania",
+          "role": "Grand duke of Lithuania and king of Poland",
+          "focus": "Accepted baptism in 1386, led the Christianisation of Lithuania and commanded at Grunwald.",
+          "outcome": "Founded the Jagiellonian dynasty that ruled Poland–Lithuania until 1572."
+        },
+        {
+          "name": "Vytautas",
+          "years": "c. 1350–1430",
+          "origin": "Trakai, Lithuania",
+          "role": "Grand duke of Lithuania",
+          "focus": "Led the Lithuanian forces at Grunwald and oversaw the Christianisation of Samogitia.",
+          "outcome": "Remembered as Lithuania’s greatest medieval ruler."
+        },
+        {
+          "name": "Ulrich von Jungingen",
+          "years": "1360–1410",
+          "origin": "Swabia",
+          "role": "Grand master of the Teutonic Order",
+          "focus": "Led the Order into war with Poland–Lithuania in 1409–1410.",
+          "outcome": "Killed at Grunwald on 15 July 1410."
+        },
+        {
+          "name": "Paulus Vladimiri (Paweł Włodkowic)",
+          "years": "c. 1370–1435",
+          "origin": "Brudzeń, Poland",
+          "role": "Canon lawyer and rector of Kraków University",
+          "focus": "Argued at Constance that pagans had natural rights and that conversion could not be compelled by war.",
+          "outcome": "His treatises are seen as early statements of the rights of non-Christian peoples."
+        }
+      ],
+      "casualties": {
+        "note": "No meaningful total can be given for wars spread over more than two and a half centuries and largely recorded by the victors. Chronicles describe the burning of villages, killing of men and enslavement of women and children on all sides. Grunwald involved perhaps 15,000–30,000 men per side in modern estimates and cost the Order several thousand dead, but even these figures are disputed. The demographic collapse of the Old Prussians is attested by the later extinction of their language rather than by counts."
+      },
+      "effects": [
+        "Livonia, Estonia, Prussia and Finland were brought into Latin Christendom under German, Danish and Swedish lordship, with lasting social divisions between German elites and native peasants.",
+        "The Teutonic Order built one of the most efficient states of late medieval Europe, later the core of the Duchy and Kingdom of Prussia.",
+        "The Old Prussian people and language were largely destroyed or assimilated.",
+        "Lithuania chose baptism from Poland rather than conquest by the Order, creating the Polish–Lithuanian union that dominated eastern Europe for centuries.",
+        "Conflict between the Latin crusaders and Orthodox Novgorod and Pskov fixed a lasting frontier between Catholic and Orthodox Christianity."
+      ],
+      "effectsOnChurch": [
+        "New Latin bishoprics were founded at Riga, Dorpat, Ösel, Kulm, Pomesania, Ermland, Samland and elsewhere, many controlled by or allied to the Order.",
+        "Christianisation was often superficial at first; pagan practices survived in rural Livonia and Lithuania for centuries.",
+        "Crusading against fellow Christians after 1387 provoked debate at Constance about the rights of pagans and the limits of holy war.",
+        "In 1525 Prussia became the first Lutheran territorial state, and Livonia turned Lutheran in the following decades."
+      ],
+      "legacy": "The Northern Crusades created the religious map of the Baltic and left contested memories: the Teutonic Knight became a symbol of German aggression in Polish, Lithuanian and Russian nationalism, notably in Sienkiewicz’s novel The Knights of the Cross and Eisenstein’s film Alexander Nevsky, while German nationalists, and later the Nazis, appropriated the Order as a symbol of a ‘Drang nach Osten’. Modern scholarship treats them as a distinctive branch of crusading in which mission, conquest and colonisation were inseparable.",
+      "dissenters": [
+        {
+          "name": "Paulus Vladimiri (Paweł Włodkowic)",
+          "text": "At the Council of Constance he argued that infidels have lawful dominion over their lands and may not be warred upon or forcibly converted simply because they are not Christians."
+        },
+        {
+          "name": "Roger Bacon",
+          "text": "In his Opus maius (1267) the Franciscan wrote that pagans of the Baltic were willing to accept the faith peacefully but that the brothers of the Teutonic Order wanted to subjugate and enslave them."
+        },
+        {
+          "name": "Papal legate Jacob of Liège (later Pope Urban IV)",
+          "text": "Mediated the Treaty of Christburg (1249), which guaranteed baptised Prussians personal freedom, property and legal rights against the Order, though the guarantees were later disregarded after the uprisings."
+        },
+        {
+          "name": "Archbishops of Riga and Livonian bishops",
+          "text": "Repeatedly complained to the papacy in the fourteenth century that the Order hindered missions and mistreated converts; in 1312 the papal legate Francesco de Moliano excommunicated the Order in Livonia after hearing such charges."
+        }
+      ],
+      "theatres": [
+        {
+          "name": "Siege of Demmin (Wendish Crusade)",
+          "lat": 53.905,
+          "lng": 13.044,
+          "year": 1147
+        },
+        {
+          "name": "Arkona on Rügen",
+          "lat": 54.6767,
+          "lng": 13.4328,
+          "year": 1168
+        },
+        {
+          "name": "Riga",
+          "lat": 56.9496,
+          "lng": 24.1052,
+          "year": 1201
+        },
+        {
+          "name": "Lyndanisse (Tallinn)",
+          "lat": 59.437,
+          "lng": 24.7536,
+          "year": 1219
+        },
+        {
+          "name": "Battle of Saule",
+          "lat": 56.0,
+          "lng": 23.3,
+          "year": 1236
+        },
+        {
+          "name": "Battle on Lake Peipus",
+          "lat": 58.5,
+          "lng": 27.5,
+          "year": 1242
+        },
+        {
+          "name": "Battle of Durbe",
+          "lat": 56.585,
+          "lng": 21.37,
+          "year": 1260
+        },
+        {
+          "name": "Marienburg (Malbork)",
+          "lat": 54.0397,
+          "lng": 19.0281,
+          "year": 1309
+        },
+        {
+          "name": "Vilnius",
+          "lat": 54.6872,
+          "lng": 25.2797,
+          "year": 1387
+        },
+        {
+          "name": "Battle of Grunwald (Tannenberg)",
+          "lat": 53.4847,
+          "lng": 20.1178,
+          "year": 1410
+        },
+        {
+          "name": "Thorn (Toruń): peace treaties",
+          "lat": 53.0138,
+          "lng": 18.5984,
+          "year": 1411
+        }
+      ],
+      "campaigns": [
+        {
+          "id": "northern-wendish-crusade-1147",
+          "title": "The Wendish Crusade",
+          "people": "Saxon princes, Danish forces and bishops, including Albert the Bear",
+          "personIds": [],
+          "year": 1147,
+          "stops": [
+            {
+              "name": "Magdeburg",
+              "lat": 52.1205,
+              "lng": 11.6276,
+              "year": 1147
+            },
+            {
+              "name": "Havelberg",
+              "lat": 52.83,
+              "lng": 12.08,
+              "year": 1147
+            },
+            {
+              "name": "Demmin",
+              "lat": 53.905,
+              "lng": 13.044,
+              "year": 1147
+            },
+            {
+              "name": "Stettin (Szczecin)",
+              "lat": 53.4285,
+              "lng": 14.5528,
+              "year": 1147
+            }
+          ],
+          "text": "One army gathered at Magdeburg and marched via Havelberg to besiege Demmin and then Stettin, where it found crosses on the walls of an already Christian city; another, with the Danes, besieged Dobin."
+        },
+        {
+          "id": "northern-teutonic-prussia",
+          "title": "The Teutonic Order’s conquest of Prussia",
+          "people": "The Teutonic Knights with seasonal crusaders",
+          "personIds": [],
+          "year": 1230,
+          "endYear": 1283,
+          "stops": [
+            {
+              "name": "Thorn (Toruń)",
+              "lat": 53.0138,
+              "lng": 18.5984,
+              "year": 1231
+            },
+            {
+              "name": "Kulm (Chełmno)",
+              "lat": 53.3486,
+              "lng": 18.4251,
+              "year": 1232
+            },
+            {
+              "name": "Marienwerder (Kwidzyn)",
+              "lat": 53.7333,
+              "lng": 18.9333,
+              "year": 1233
+            },
+            {
+              "name": "Elbing (Elbląg)",
+              "lat": 54.1561,
+              "lng": 19.4045,
+              "year": 1237
+            },
+            {
+              "name": "Balga",
+              "lat": 54.5333,
+              "lng": 20.05,
+              "year": 1239
+            },
+            {
+              "name": "Königsberg",
+              "lat": 54.7104,
+              "lng": 20.4522,
+              "year": 1255
+            }
+          ],
+          "text": "The knights advanced down the Vistula and along the Vistula Lagoon, building castle-towns as they went, and founded Königsberg in 1255 after a crusade led by King Ottokar II of Bohemia."
+        },
+        {
+          "id": "northern-grunwald-1410",
+          "title": "The Grunwald campaign",
+          "people": "The Polish–Lithuanian army under Władysław II Jagiełło and Vytautas",
+          "personIds": [],
+          "year": 1410,
+          "stops": [
+            {
+              "name": "Czerwińsk (crossing of the Vistula)",
+              "lat": 52.395,
+              "lng": 20.3,
+              "year": 1410
+            },
+            {
+              "name": "Kurzętnik",
+              "lat": 53.4,
+              "lng": 19.57,
+              "year": 1410
+            },
+            {
+              "name": "Grunwald (Tannenberg)",
+              "lat": 53.4847,
+              "lng": 20.1178,
+              "year": 1410
+            },
+            {
+              "name": "Marienburg (Malbork)",
+              "lat": 54.0397,
+              "lng": 19.0281,
+              "year": 1410
+            }
+          ],
+          "text": "The allied armies crossed the Vistula on a pontoon bridge at Czerwińsk, outflanked the Order’s position on the Drwęca, won the battle of Grunwald on 15 July and besieged Marienburg until September without taking it."
+        }
+      ],
+      "ledTo": [],
+      "eventIds": [
+        "council-of-constance-1414"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-orthodox",
+        "russian-orthodox",
+        "lutheran"
+      ],
+      "sources": [
+        "w2-christiansen-northern-crusades",
+        "w2-urban-teutonic-knights",
+        "w2-henry-of-livonia",
+        "w2-murray-baltic-frontier",
+        "riley-smith-crusades"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "hussite-wars",
+      "name": "The Hussite Wars",
+      "kind": "religious-war",
+      "startYear": 1419,
+      "endYear": 1434,
+      "region": "Bohemia, Moravia and neighbouring lands of central Europe",
+      "place": {
+        "name": "Prague",
+        "lat": 50.0875,
+        "lng": 14.4213
+      },
+      "religionRole": "central",
+      "religionRoleNote": "The wars arose from the burning of Jan Hus at the Council of Constance in 1415 and were fought over the Four Articles of Prague, above all communion in both kinds (the chalice for the laity), against five papal crusades. Religion was the main stated and real cause on both sides. Czech national feeling against German influence, social radicalism among the Taborites, the seizure of church lands by nobles and towns, and Sigismund’s claim to the Bohemian crown were also powerful; Marxist historians such as Josef Macek stressed class revolution, while Howard Kaminsky and Thomas Fudge emphasise the religious reformation as primary.",
+      "sides": [
+        {
+          "name": "Hussites: Prague towns, Utraquist nobles, Taborites and Orphans",
+          "faith": "Hussite (Utraquist and radical Taborite)",
+          "leaders": [
+            "Jan Žižka",
+            "Prokop the Bald (Prokop Holý)",
+            "Jan Želivský",
+            "Jan Rokycana",
+            "Sigismund Korybut"
+          ]
+        },
+        {
+          "name": "Crusaders, King Sigismund and Catholic Bohemian lords",
+          "faith": "Latin Catholic",
+          "leaders": [
+            "Sigismund of Luxembourg",
+            "Pope Martin V",
+            "Cardinal Giuliano Cesarini",
+            "Cardinal Henry Beaufort",
+            "Frederick of Brandenburg",
+            "Oldřich of Rožmberk"
+          ]
+        }
+      ],
+      "summary": "After Jan Hus was burned at Constance in 1415, Bohemia rose in a religious revolution demanding the chalice for the laity, free preaching, apostolic poverty of the clergy and punishment of public sin. Between 1420 and 1431 Pope Martin V and Emperor Sigismund launched five crusades against the Hussites, all defeated by Jan Žižka and Prokop the Bald with their war wagons. The Council of Basel negotiated the Compacts, and after moderate Hussites destroyed the radicals at Lipany in 1434, Bohemia gained the first legally recognised church outside papal obedience in the Latin West.",
+      "story": "Jan Hus, a Prague preacher influenced by John Wycliffe, attacked clerical wealth, indulgences and papal authority. Summoned to the Council of Constance under a safe-conduct from Sigismund, he was condemned as a heretic and burned on 6 July 1415; his follower Jerome of Prague was burned in 1416. Some 450 Bohemian and Moravian nobles protested to the council, and the practice of giving the laity communion in both kinds, introduced by Jakoubek of Stříbro in 1414, became the badge of the movement. Radical preachers led crowds to hilltop gatherings in southern Bohemia and spoke of the coming end of the age.\n\nOn 30 July 1419 a procession led by the priest Jan Želivský stormed the New Town Hall in Prague and threw the Catholic councillors from the windows, the First Defenestration of Prague. King Wenceslas IV died weeks later, and his heir was his half-brother Sigismund, king of Hungary and of the Romans, whom Hussites blamed for Hus’s death. Radicals founded the fortified community of Tábor in 1420, sharing goods in common, while Catholic miners at Kutná Hora reportedly threw hundreds of captured Hussites into mine shafts. On 1 March 1420 Martin V’s bull Omnium plasmatoris domino proclaimed a crusade against the Wycliffites and Hussites.\n\nThe Hussite factions agreed on the Four Articles of Prague: free preaching of the word of God, communion in both kinds, the end of clerical wealth and secular power, and the punishment of mortal sins by proper authority. On 14 July 1420 Jan Žižka, a veteran one-eyed soldier, defeated Sigismund’s crusader army at Vítkov Hill outside Prague, and Sigismund’s coronation in St Vitus Cathedral could not save his cause. Žižka’s peasant armies used armoured wagons chained into fortresses (the Wagenburg), firearms and flails, and fought singing the hymn ‘Ye who are warriors of God’. Second and third crusades failed at Žatec in 1421 and at Kutná Hora and Německý Brod in 1422. Both sides committed atrocities: crusaders burned captured Hussites as heretics, while Hussite armies sacked monasteries, killed monks and in 1421 massacred much of the population of Chomutov; Žižka himself burned the radical sect of the Adamites.\n\nŽižka died of plague in October 1424 and his followers called themselves Orphans. Under the priest Prokop the Bald the Taborites and Orphans destroyed a German army at Ústí nad Labem in 1426 and routed the fourth crusade, led by Cardinal Henry Beaufort, at Tachov in 1427. From 1428 the Hussites launched ‘beautiful rides’ (spanilé jízdy) into Austria, Hungary, Silesia, Saxony, Franconia and, in 1433, to the Baltic coast, spreading manifestos as well as devastation. On 14 August 1431 the fifth crusade, led by Cardinal Giuliano Cesarini, fled at Domažlice before battle was joined, reportedly at the sound of the Hussite wagons and their hymn.\n\nThe failure of force led the Council of Basel to invite the Hussites to debate in 1433, an unprecedented step. The resulting Compacts of Basel allowed communion in both kinds in Bohemia and Moravia. Divisions among the Hussites then decided the war: on 30 May 1434 an alliance of Catholic and moderate Utraquist nobles and the Old Town of Prague defeated the Taborite and Orphan field armies at Lipany, where Prokop the Bald was killed and many captives were burned in barns.\n\nThe Compacts were proclaimed at Jihlava in July 1436, Sigismund was accepted as king, and he died in 1437. Jan Rokycana was elected Utraquist archbishop of Prague, though Rome never confirmed him and Pope Pius II revoked the Compacts in 1462. Bohemia remained a land of two legal confessions, Catholic and Utraquist, with Tábor submitting in 1452 and the Unity of Brethren emerging in 1457 from the circle of the pacifist Petr Chelčický. Further crusades were preached against the Hussite king George of Poděbrady in the 1460s, and the Bohemian estates’ revolt of 1618, which began with another defenestration, consciously invoked this inheritance.",
+      "nameOfGod": "Martin V proclaimed crusades with the full indulgence against the ‘Wycliffites, Hussites and other heretics’, and the crusaders bore the cross. The Hussites in turn saw themselves as ‘warriors of God’ defending the law of God and the chalice; their armies carried the chalice on banners, received communion before battle and followed military ordinances, such as Žižka’s of 1423, that imposed strict moral discipline. Prague university masters formulated a theory of defensive just war in 1420, and Taborite chiliasts preached that in the last days the godly must take up the sword against the wicked.",
+      "religiousCauses": [
+        "The trial and burning of Jan Hus at Constance in 1415 despite Sigismund’s safe-conduct, followed by Jerome of Prague’s execution in 1416.",
+        "The demand for lay communion in both kinds, condemned by the Council of Constance in 1415, which became the symbol of Hussite identity.",
+        "Wycliffite and Hussite criticism of clerical wealth, indulgences, simony and papal authority, expressed in the Four Articles of Prague.",
+        "Apocalyptic expectation among radical Taborites, who believed the end of the age required the destruction of sinners.",
+        "Papal determination, through crusade, to suppress heresy and restore the Bohemian church to Roman obedience."
+      ],
+      "otherCauses": [
+        "Czech resentment of German predominance in the towns, the university and the church, sharpened by the Decree of Kutná Hora (1409).",
+        "The succession of Sigismund, regarded as Hus’s betrayer, after the death of Wenceslas IV in 1419.",
+        "The seizure of vast church estates by Hussite nobles and towns, which gave many a material interest in resisting restoration.",
+        "Social tensions among peasants, the urban poor and the lesser nobility, expressed in the Taborite programme."
+      ],
+      "triggers": [
+        "The burning of Jan Hus at Constance on 6 July 1415.",
+        "The First Defenestration of Prague on 30 July 1419 and the death of Wenceslas IV in August.",
+        "Martin V’s crusade bull of 1 March 1420, proclaimed at Breslau in Sigismund’s presence."
+      ],
+      "timeline": [
+        {
+          "year": 1415,
+          "text": "Jan Hus is burned at the Council of Constance; Bohemian nobles protest."
+        },
+        {
+          "year": 1419,
+          "text": "First Defenestration of Prague (30 July); death of King Wenceslas IV."
+        },
+        {
+          "year": 1420,
+          "text": "Crusade proclaimed; Tábor founded; Four Articles of Prague; Žižka wins at Vítkov Hill (14 July)."
+        },
+        {
+          "year": 1421,
+          "text": "Second crusade fails at Žatec; Hussites massacre the people of Chomutov; Žižka destroys the Adamites."
+        },
+        {
+          "year": 1422,
+          "text": "Žižka defeats Sigismund at Kutná Hora and Německý Brod."
+        },
+        {
+          "year": 1424,
+          "text": "Jan Žižka dies of plague at Přibyslav."
+        },
+        {
+          "year": 1426,
+          "text": "Hussites under Prokop the Bald win at Ústí nad Labem."
+        },
+        {
+          "year": 1427,
+          "text": "Fourth crusade under Cardinal Beaufort routed at Tachov."
+        },
+        {
+          "year": 1431,
+          "text": "Fifth crusade under Cardinal Cesarini flees at Domažlice (14 August)."
+        },
+        {
+          "year": 1433,
+          "text": "Hussite delegation debates at the Council of Basel; the Compacts are agreed in principle."
+        },
+        {
+          "year": 1434,
+          "text": "Battle of Lipany (30 May): moderates and Catholics destroy the radical armies; Prokop is killed."
+        },
+        {
+          "year": 1436,
+          "text": "Compacts proclaimed at Jihlava; Sigismund accepted as king of Bohemia."
+        }
+      ],
+      "keyPeople": [
+        {
+          "name": "Jan Hus",
+          "personId": "jan-hus",
+          "years": "c. 1372–1415",
+          "origin": "Husinec, Bohemia",
+          "role": "Reformer and preacher",
+          "focus": "His execution at Constance was the spark of the revolution, and his teaching shaped its programme.",
+          "outcome": "Venerated as a martyr by Czechs; in 1999 John Paul II expressed ‘deep regret’ for his cruel death."
+        },
+        {
+          "name": "Sigismund of Luxembourg",
+          "years": "1368–1437",
+          "origin": "Nuremberg",
+          "role": "King of Hungary, king of the Romans, claimant to Bohemia",
+          "focus": "Gave Hus a safe-conduct that was not honoured, then led crusades against the Hussites.",
+          "outcome": "Accepted as king of Bohemia only in 1436 on the basis of the Compacts; died in 1437."
+        },
+        {
+          "name": "Jan Žižka",
+          "years": "c. 1360–1424",
+          "origin": "Trocnov, Bohemia",
+          "role": "Hussite general",
+          "focus": "Created the Hussite field armies and wagon-fort tactics and never lost a major battle, though blind in his final years.",
+          "outcome": "Died of plague in 1424; became a Czech national hero."
+        },
+        {
+          "name": "Prokop the Bald (Prokop Holý)",
+          "years": "c. 1380–1434",
+          "origin": "Prague",
+          "role": "Taborite priest and commander",
+          "focus": "Led the Hussite armies to their greatest victories and the ‘beautiful rides’, and negotiated at Basel.",
+          "outcome": "Killed at Lipany in 1434."
+        },
+        {
+          "name": "Jan Želivský",
+          "years": "1380–1422",
+          "origin": "Humpolec, Bohemia",
+          "role": "Radical Prague preacher",
+          "focus": "Led the procession that carried out the First Defenestration and dominated Prague politics in 1419–1421.",
+          "outcome": "Executed by the Prague Old Town council in 1422."
+        },
+        {
+          "name": "Martin V",
+          "years": "1369–1431",
+          "origin": "Genazzano, Italy",
+          "role": "Pope elected at Constance",
+          "focus": "Proclaimed and promoted the crusades against the Hussites.",
+          "outcome": "Died in 1431 as the fifth crusade was being prepared."
+        },
+        {
+          "name": "Giuliano Cesarini",
+          "years": "1398–1444",
+          "origin": "Rome",
+          "role": "Cardinal and papal legate",
+          "focus": "Led the fifth crusade to its collapse at Domažlice, then as president of the Council of Basel pressed for negotiation with the Hussites.",
+          "outcome": "Killed at Varna in 1444 on the crusade against the Ottomans."
+        },
+        {
+          "name": "Jan Rokycana",
+          "years": "c. 1396–1471",
+          "origin": "Rokycany, Bohemia",
+          "role": "Utraquist theologian",
+          "focus": "Spoke for the Hussites at Basel and negotiated the Compacts.",
+          "outcome": "Elected Utraquist archbishop of Prague in 1435 but never confirmed by Rome."
+        },
+        {
+          "name": "Petr Chelčický",
+          "years": "c. 1390–c. 1460",
+          "origin": "South Bohemia",
+          "role": "Lay theologian",
+          "focus": "Rejected all violence, including Hussite holy war, in works such as The Net of Faith.",
+          "outcome": "His ideas inspired the Unity of Brethren (1457) and, centuries later, Tolstoy."
+        }
+      ],
+      "casualties": {
+        "note": "There is no credible scholarly total for deaths in the Hussite Wars. Contemporary chronicles give casualty figures for single battles and massacres (for example, claims of over a thousand killed at Kutná Hora’s mine shafts, at Chomutov in 1421 and among the prisoners after Lipany) that historians treat as approximate. The wars’ wider toll, through devastation, siege and the ‘beautiful rides’ into neighbouring lands, is acknowledged as heavy but unquantified."
+      },
+      "effects": [
+        "Five papal crusades were defeated, a shock to Latin Christendom and to the idea that holy war could crush heresy.",
+        "Bohemia became the first Latin kingdom to legally tolerate two confessions, Catholic and Utraquist, under the Compacts of 1436.",
+        "The nobility and towns gained most of the church’s former estates, and the political power of the estates grew at the expense of the crown and clergy.",
+        "Wagon-fort tactics and handheld firearms used by the Hussites influenced warfare in central and eastern Europe.",
+        "Czech language and identity were strengthened, and the Hussite era became central to modern Czech national memory."
+      ],
+      "effectsOnChurch": [
+        "The Council of Basel’s negotiation with condemned heretics set a precedent for dialogue rather than force, though Rome never fully accepted the Compacts.",
+        "The Utraquist church survived for nearly two centuries, and the Unity of Brethren, founded in 1457, later renewed itself as the Moravian Church.",
+        "Hussite ideas and Bohemia’s example influenced Luther, who declared in 1519 ‘we are all Hussites without knowing it’.",
+        "The failure of the crusades weakened confidence in crusade as a tool against heresy within Christendom."
+      ],
+      "legacy": "The Hussite Wars were the first great religious war of the European reformation era, a century before Luther. They showed both the power of lay reformist piety and its capacity for violence, from the Taborites’ holy war to the crusaders’ burnings. Their memory shaped Czech nationalism, Moravian Christianity, Marxist historiography and modern Catholic–Protestant reconciliation, including the 1999 symposium in Rome on Jan Hus.",
+      "dissenters": [
+        {
+          "name": "Petr Chelčický",
+          "text": "A Hussite sympathiser who rejected the use of the sword by Christians in any cause, condemning both crusaders and Hussite armies; his Net of Faith argued that Christ’s law forbids killing."
+        },
+        {
+          "name": "Jakoubek of Stříbro (in part)",
+          "text": "The Utraquist theologian at first doubted that Christians could lawfully wage war and warned against the Taborites’ chiliastic violence, though he later accepted defensive war."
+        },
+        {
+          "name": "Hussite masters of Prague University",
+          "text": "Opposed the Taborite claim that the godly must kill sinners in the last days, condemning chiliast teachings in 1420–1421."
+        },
+        {
+          "name": "Delegates at the Council of Basel",
+          "text": "Cardinal Cesarini and others who had witnessed the crusades’ failure argued that negotiation, not war, was the way to restore unity, leading to the Compacts."
+        }
+      ],
+      "theatres": [
+        {
+          "name": "Constance: burning of Jan Hus",
+          "lat": 47.6603,
+          "lng": 9.1758,
+          "year": 1415
+        },
+        {
+          "name": "New Town Hall, Prague: First Defenestration",
+          "lat": 50.077,
+          "lng": 14.419,
+          "year": 1419
+        },
+        {
+          "name": "Tábor",
+          "lat": 49.4144,
+          "lng": 14.6578,
+          "year": 1420
+        },
+        {
+          "name": "Battle of Vítkov Hill",
+          "lat": 50.0886,
+          "lng": 14.4497,
+          "year": 1420
+        },
+        {
+          "name": "Kutná Hora",
+          "lat": 49.9484,
+          "lng": 15.2682,
+          "year": 1422
+        },
+        {
+          "name": "Německý Brod",
+          "lat": 49.6079,
+          "lng": 15.5806,
+          "year": 1422
+        },
+        {
+          "name": "Battle of Ústí nad Labem",
+          "lat": 50.6607,
+          "lng": 14.0323,
+          "year": 1426
+        },
+        {
+          "name": "Battle of Tachov",
+          "lat": 49.7953,
+          "lng": 12.6337,
+          "year": 1427
+        },
+        {
+          "name": "Battle of Domažlice",
+          "lat": 49.4405,
+          "lng": 12.9298,
+          "year": 1431
+        },
+        {
+          "name": "Battle of Lipany",
+          "lat": 50.0306,
+          "lng": 14.9658,
+          "year": 1434
+        },
+        {
+          "name": "Jihlava: proclamation of the Compacts",
+          "lat": 49.3961,
+          "lng": 15.5912,
+          "year": 1436
+        }
+      ],
+      "campaigns": [
+        {
+          "id": "hussite-first-crusade-1420",
+          "title": "Sigismund’s first crusade against Prague",
+          "people": "King Sigismund and the crusader army",
+          "personIds": [],
+          "year": 1420,
+          "stops": [
+            {
+              "name": "Breslau (Wrocław): crusade proclaimed",
+              "lat": 51.1079,
+              "lng": 17.0385,
+              "year": 1420
+            },
+            {
+              "name": "Schweidnitz (Świdnica)",
+              "lat": 50.843,
+              "lng": 16.488,
+              "year": 1420
+            },
+            {
+              "name": "Kutná Hora",
+              "lat": 49.9484,
+              "lng": 15.2682,
+              "year": 1420
+            },
+            {
+              "name": "Prague: defeat at Vítkov Hill",
+              "lat": 50.0886,
+              "lng": 14.4497,
+              "year": 1420
+            }
+          ],
+          "text": "After the crusade bull was proclaimed at Breslau in March 1420, Sigismund advanced through Silesia and Kutná Hora to besiege Prague, where Žižka’s defence of Vítkov Hill on 14 July broke the assault."
+        },
+        {
+          "id": "hussite-fifth-crusade-1431",
+          "title": "The fifth crusade and the flight at Domažlice",
+          "people": "Crusaders under Cardinal Giuliano Cesarini and Frederick of Brandenburg",
+          "personIds": [],
+          "year": 1431,
+          "stops": [
+            {
+              "name": "Nuremberg",
+              "lat": 49.4521,
+              "lng": 11.0767,
+              "year": 1431
+            },
+            {
+              "name": "Weiden",
+              "lat": 49.6768,
+              "lng": 12.1561,
+              "year": 1431
+            },
+            {
+              "name": "Tachov",
+              "lat": 49.7953,
+              "lng": 12.6337,
+              "year": 1431
+            },
+            {
+              "name": "Domažlice",
+              "lat": 49.4405,
+              "lng": 12.9298,
+              "year": 1431
+            }
+          ],
+          "text": "The imperial crusade army assembled in Franconia, entered western Bohemia and besieged Domažlice, but on 14 August 1431 it dissolved in panic as the Hussite field armies approached."
+        },
+        {
+          "id": "hussite-ride-to-the-baltic-1433",
+          "title": "The ‘beautiful ride’ to the Baltic",
+          "people": "Orphan and Taborite troops allied with Poland against the Teutonic Order",
+          "personIds": [],
+          "year": 1433,
+          "stops": [
+            {
+              "name": "Prague",
+              "lat": 50.0875,
+              "lng": 14.4213,
+              "year": 1433
+            },
+            {
+              "name": "Silesia",
+              "lat": 50.67,
+              "lng": 17.92,
+              "year": 1433
+            },
+            {
+              "name": "Konitz (Chojnice)",
+              "lat": 53.6967,
+              "lng": 17.5569,
+              "year": 1433
+            },
+            {
+              "name": "Oliwa near Danzig",
+              "lat": 54.41,
+              "lng": 18.56,
+              "year": 1433
+            }
+          ],
+          "text": "In 1433 a Hussite army joined Polish forces against the Teutonic Order, besieged Konitz and reached the Baltic at Oliwa, where, according to tradition, its soldiers filled flasks with seawater as a token of how far the ‘warriors of God’ had ridden."
+        }
+      ],
+      "ledTo": [
+        "thirty-years-war"
+      ],
+      "eventIds": [
+        "council-of-constance-1414",
+        "hussite-revolution-1419",
+        "wycliffe-condemned-1382",
+        "western-schism-1378"
+      ],
+      "traditionIds": [
+        "hussite-moravian",
+        "catholic"
+      ],
+      "sources": [
+        "kaminsky-hussite",
+        "w2-fudge-crusade-bohemia",
+        "w2-fudge-magnificent-ride",
+        "w2-heymann-zizka",
+        "lambert-medieval-heresy"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "ottoman-holy-leagues",
+      "name": "Crusades and Holy Leagues against the Ottomans: Nicopolis, Varna, Lepanto and Vienna",
+      "kind": "holy-war",
+      "startYear": 1396,
+      "endYear": 1699,
+      "region": "Balkans, Danube basin, central Europe and the Mediterranean",
+      "place": {
+        "name": "Vienna",
+        "lat": 48.2082,
+        "lng": 16.3738
+      },
+      "religionRole": "major",
+      "religionRoleNote": "Popes proclaimed crusades with indulgences and organised Holy Leagues, and both Christian and Ottoman sides framed the struggle as war for the faith (crusade against the ‘Turk’, ghaza and jihad for the Ottomans). But the wars were also, and often chiefly, contests between empires over territory, trade and dynastic power: Catholic France allied with the Ottomans from the 1530s, Venice repeatedly made separate peaces to protect its commerce, and Protestant princes bargained over aid against the Turks for religious concessions. Norman Housley argues that crusading remained a living ideology into the seventeenth century, while others treat late ‘crusades’ as primarily state wars with religious colouring.",
+      "sides": [
+        {
+          "name": "Crusaders and Holy Leagues: papacy, Hungary, Poland, the Habsburgs, Venice, Spain and allies",
+          "faith": "Latin Catholic, with Orthodox allies (Serbs, Wallachians, Byzantines) and, in the Habsburg wars, Protestant contingents",
+          "leaders": [
+            "Sigismund of Luxembourg",
+            "John Hunyadi",
+            "Władysław III of Poland and Hungary",
+            "Pope Pius V",
+            "Don John of Austria",
+            "Jan III Sobieski",
+            "Pope Innocent XI",
+            "Eugene of Savoy"
+          ]
+        },
+        {
+          "name": "Ottoman Empire",
+          "faith": "Sunni Islam (with many Christian subjects and vassals)",
+          "leaders": [
+            "Bayezid I",
+            "Murad II",
+            "Mehmed II",
+            "Suleiman I",
+            "Selim II and Ali Pasha",
+            "Kara Mustafa Pasha"
+          ]
+        }
+      ],
+      "summary": "As the Ottomans advanced into the Balkans and central Europe, popes repeatedly called crusades and formed Holy Leagues against them. The crusades of Nicopolis (1396) and Varna (1444) ended in disaster, Constantinople fell in 1453, and Hungary was broken at Mohács in 1526. The Holy League’s naval victory at Lepanto in 1571 and the relief of Vienna in 1683, followed by the Holy League’s reconquest of Hungary, reversed the tide, ending with the Treaty of Karlowitz in 1699.",
+      "story": "By the 1390s the Ottoman sultan Bayezid I had conquered Bulgaria and made Serbia a vassal after the battle of Kosovo (1389). King Sigismund of Hungary appealed to the West, and both rival popes of the Great Schism, Boniface IX in Rome and Benedict XIII in Avignon, proclaimed a crusade. A large army of Hungarians, French and Burgundian knights under John of Nevers, Germans, Hospitallers and Wallachians marched down the Danube in 1396 and besieged Nicopolis. On 25 September the Western knights charged ahead against Sigismund’s advice and were destroyed; Bayezid had several thousand prisoners executed in reprisal for the crusaders’ killing of captives at Rahova, and great nobles were held for ransom.\n\nAfter the Council of Florence (1439) proclaimed union with the Greek Church, Pope Eugenius IV called a new crusade to save Constantinople. The Hungarian general John Hunyadi and King Władysław III of Poland and Hungary won victories in the ‘Long Campaign’ of 1443 and secured a truce in 1444, but, urged by the legate Cardinal Giuliano Cesarini, who argued that an oath to infidels did not bind, they broke it. At Varna on 10 November 1444 Murad II destroyed their army; the king and the cardinal were killed. On 29 May 1453 Mehmed II took Constantinople after a seven-week siege; the last emperor, Constantine XI, died in the fighting, the city was sacked for a day and Hagia Sophia became a mosque.\n\nPope Callixtus III launched a crusade preached by the Franciscan John of Capistrano, whose peasant crusaders helped Hunyadi relieve the siege of Belgrade in July 1456; the pope’s order for church bells to be rung at noon to pray for the crusade became the noon Angelus bell. Pius II summoned princes to the Congress of Mantua in 1459 and took the cross himself, but died at Ancona in 1464 waiting for a fleet that never came. The Ottomans took Otranto in southern Italy in 1480, killing many inhabitants, including some 800 men later venerated as martyrs for refusing to convert. In 1526 Suleiman the Magnificent destroyed the Hungarian army at Mohács, killing King Louis II, and in 1529 besieged Vienna. Francis I of France, ‘the Most Christian King’, allied with Suleiman against the Habsburgs, and Protestant princes in the Empire demanded religious concessions in return for votes of aid against the Turk.\n\nIn the Mediterranean the Hospitallers survived the Great Siege of Malta in 1565. When the Ottomans invaded Venetian Cyprus in 1570, Pope Pius V forged a Holy League with Spain and Venice, signed in May 1571. Famagusta fell in August 1571 and its commander Marco Antonio Bragadin was flayed alive after surrender. On 7 October 1571 the allied fleet under Don John of Austria destroyed the Ottoman fleet at Lepanto in the Gulf of Patras, the largest galley battle in history; the Ottoman admiral Ali Pasha was killed and thousands of Christian galley slaves were freed. Pius V attributed the victory to the rosary and instituted a feast of Our Lady of Victory. The league soon dissolved: the Ottomans rebuilt their fleet, and Venice made a separate peace in 1573 ceding Cyprus.\n\nIn 1683 the grand vizier Kara Mustafa Pasha besieged Vienna from mid-July. Pope Innocent XI had worked to bring Poland and the Emperor Leopold I together and financed the defence, and the Capuchin preacher Marco d’Aviano accompanied the relief army. On 12 September 1683 the army of the Empire and Poland under King Jan III Sobieski descended from the Kahlenberg and routed the Ottomans; Sobieski wrote to the pope, ‘We came, we saw, God conquered’. Innocent XI then formed a new Holy League in 1684 of the Empire, Poland and Venice, joined by Russia in 1686.\n\nThe League’s armies retook Buda in 1686, where the victors massacred many of its Muslim and Jewish inhabitants, won the second battle of Mohács in 1687, and after a long war Eugene of Savoy crushed the Ottomans at Zenta in 1697. The Treaty of Karlowitz on 26 January 1699 gave Hungary and Transylvania to the Habsburgs, Podolia to Poland and the Morea to Venice. It marked the first major Ottoman territorial retreat and is usually taken as the end of the Ottoman threat to central Europe and the last war that contemporaries widely described as a crusade.",
+      "nameOfGod": "Popes proclaimed crusade indulgences, levied crusade tithes and, from Callixtus III, ordered the faithful to pray at the noon bell for victory over the Turks; Lepanto was credited to the rosary and Vienna to Our Lady, giving rise to the feasts of Our Lady of the Rosary and the Holy Name of Mary (extended to the whole church by Innocent XI in 1683). Preachers such as John of Capistrano and Marco d’Aviano blessed the armies and carried the cross into battle. Protestant writers, including Luther, called for war against the Turk as a duty of the Christian ruler rather than as a crusade, while also interpreting the Turk as a scourge of God for Christian sins. On the Ottoman side, the sultans presented their conquests as ghaza and jihad, extending the abode of Islam.",
+      "religiousCauses": [
+        "Papal calls to defend Christendom and, after 1453, to recover Constantinople, backed by indulgences and crusade taxes.",
+        "The sense of a common Christian identity against the ‘Turk’, which preachers and printed pamphlets made a central theme of fifteenth- and sixteenth-century piety.",
+        "The fate of Orthodox and Catholic Christians under Ottoman rule, including the devshirme levy of Christian boys and enslavement in war.",
+        "Ottoman ideology of ghaza and holy war, which legitimised expansion into Christian lands.",
+        "Marian and Counter-Reformation devotion, which presented victories at Lepanto and Vienna as signs of divine favour for the Catholic Church."
+      ],
+      "otherCauses": [
+        "Ottoman imperial expansion into the Balkans, Hungary and the Mediterranean, and the strategic struggle with the Habsburgs for central Europe.",
+        "Venetian and Genoese commercial interests in the eastern Mediterranean, which drove both alliances and separate peaces.",
+        "Dynastic politics: the Habsburg–Valois rivalry led France to ally with the Ottomans, and Hungarian, Polish and Transylvanian princes balanced between the powers.",
+        "Control of Mediterranean sea lanes, corsair raids and the slave trade on both sides.",
+        "The internal politics of the Holy Roman Empire, where aid against the Turks was traded for Protestant concessions."
+      ],
+      "triggers": [
+        "Bayezid I’s conquest of Bulgaria and pressure on Hungary, prompting the Nicopolis crusade of 1396.",
+        "The Ottoman threat to Constantinople after the Union of Florence (1439), leading to the Varna crusade of 1443–1444.",
+        "The Ottoman invasion of Venetian Cyprus in 1570, which produced the Holy League of 1571.",
+        "Kara Mustafa’s march on Vienna in 1683."
+      ],
+      "timeline": [
+        {
+          "year": 1396,
+          "text": "Crusade of Nicopolis destroyed by Bayezid I (25 September)."
+        },
+        {
+          "year": 1444,
+          "text": "Crusade of Varna: Władysław III and Cardinal Cesarini are killed (10 November)."
+        },
+        {
+          "year": 1453,
+          "text": "Mehmed II captures Constantinople (29 May)."
+        },
+        {
+          "year": 1456,
+          "text": "Hunyadi and John of Capistrano relieve the siege of Belgrade."
+        },
+        {
+          "year": 1464,
+          "text": "Pius II dies at Ancona awaiting his crusade fleet."
+        },
+        {
+          "year": 1480,
+          "text": "Ottomans capture Otranto; the ‘martyrs of Otranto’ are killed."
+        },
+        {
+          "year": 1526,
+          "text": "Suleiman destroys the Hungarian army at Mohács; King Louis II dies."
+        },
+        {
+          "year": 1529,
+          "text": "First Ottoman siege of Vienna; Luther publishes On War against the Turk."
+        },
+        {
+          "year": 1565,
+          "text": "Great Siege of Malta repulsed by the Hospitallers."
+        },
+        {
+          "year": 1571,
+          "text": "Holy League formed; Famagusta falls; the League wins at Lepanto (7 October)."
+        },
+        {
+          "year": 1683,
+          "text": "Relief of Vienna under Jan III Sobieski (12 September)."
+        },
+        {
+          "year": 1684,
+          "text": "Innocent XI forms a Holy League of the Empire, Poland and Venice."
+        },
+        {
+          "year": 1686,
+          "text": "The League retakes Buda, followed by a massacre of Muslim and Jewish inhabitants."
+        },
+        {
+          "year": 1699,
+          "text": "Treaty of Karlowitz: the Ottomans cede Hungary, Transylvania, Podolia and the Morea."
+        }
+      ],
+      "keyPeople": [
+        {
+          "name": "Sigismund of Luxembourg",
+          "years": "1368–1437",
+          "origin": "Nuremberg",
+          "role": "King of Hungary",
+          "focus": "Led the Nicopolis crusade of 1396.",
+          "outcome": "Escaped by boat after the defeat; later led crusades against the Hussites and became emperor."
+        },
+        {
+          "name": "Bayezid I",
+          "years": "c. 1360–1403",
+          "origin": "Ottoman Anatolia",
+          "role": "Ottoman sultan",
+          "focus": "Defeated the crusaders at Nicopolis and besieged Constantinople.",
+          "outcome": "Defeated and captured by Timur at Ankara in 1402; died in captivity."
+        },
+        {
+          "name": "John Hunyadi",
+          "years": "c. 1407–1456",
+          "origin": "Transylvania",
+          "role": "Hungarian general and regent",
+          "focus": "Led the campaigns of 1443–1444, fought at Varna and Kosovo (1448) and relieved Belgrade in 1456.",
+          "outcome": "Died of plague weeks after Belgrade; his son Matthias Corvinus became king."
+        },
+        {
+          "name": "Mehmed II",
+          "years": "1432–1481",
+          "origin": "Edirne",
+          "role": "Ottoman sultan",
+          "focus": "Conquered Constantinople in 1453 and much of the Balkans.",
+          "outcome": "Made Constantinople his capital and recognised Gennadios Scholarios as Orthodox patriarch."
+        },
+        {
+          "name": "John of Capistrano",
+          "years": "1386–1456",
+          "origin": "Capestrano, Abruzzo",
+          "role": "Franciscan preacher",
+          "focus": "Preached the crusade of 1456 and led peasant crusaders at Belgrade.",
+          "outcome": "Died of plague soon after; canonised in 1690. He had also preached fiercely against Jews and Hussites."
+        },
+        {
+          "name": "Pius II (Aeneas Silvius Piccolomini)",
+          "years": "1405–1464",
+          "origin": "Corsignano (Pienza), Tuscany",
+          "role": "Pope",
+          "focus": "Convened the Congress of Mantua and took the cross himself.",
+          "outcome": "Died at Ancona in 1464 as his crusade collapsed."
+        },
+        {
+          "name": "Pius V",
+          "personId": "pius-v",
+          "years": "1504–1572",
+          "origin": "Bosco, Piedmont",
+          "role": "Pope",
+          "focus": "Forged the Holy League of 1571 and attributed Lepanto to the rosary.",
+          "outcome": "Died in 1572; canonised in 1712."
+        },
+        {
+          "name": "Don John of Austria",
+          "years": "1547–1578",
+          "origin": "Regensburg",
+          "role": "Commander of the Holy League fleet",
+          "focus": "Led the allied fleet to victory at Lepanto.",
+          "outcome": "Later governor of the Netherlands; died of fever in 1578."
+        },
+        {
+          "name": "Jan III Sobieski",
+          "years": "1629–1696",
+          "origin": "Olesko, Poland–Lithuania",
+          "role": "King of Poland",
+          "focus": "Commanded the relief army at Vienna in 1683.",
+          "outcome": "Celebrated as saviour of Vienna; Poland gained little from the later war."
+        },
+        {
+          "name": "Marco d’Aviano",
+          "years": "1631–1699",
+          "origin": "Aviano, Friuli",
+          "role": "Capuchin preacher and papal envoy",
+          "focus": "Reconciled the allied commanders and preached and blessed the troops before the relief of Vienna.",
+          "outcome": "Beatified in 2003."
+        }
+      ],
+      "casualties": {
+        "note": "No total for three centuries of intermittent war can be given. Estimates exist for particular battles: at Lepanto modern historians (Capponi, Parker) suggest roughly 7,500–8,000 Holy League dead and some 20,000–30,000 Ottoman dead and captured, with perhaps 12,000–15,000 Christian galley slaves freed. Nicopolis, Varna and Mohács each cost many thousands of lives, and sieges such as Constantinople (1453), Belgrade (1456), Vienna (1683) and Buda (1686) killed soldiers and civilians in large numbers, but chronicle figures for these are unreliable."
+      },
+      "effects": [
+        "The Ottomans became the dominant power in south-eastern Europe for centuries, ruling large Orthodox Christian populations through the millet system.",
+        "The fall of Constantinople ended the Byzantine Empire and moved the centre of Orthodox political hope to Moscow.",
+        "Lepanto ended the aura of Ottoman naval invincibility, though not Ottoman power at sea.",
+        "The relief of Vienna and the Treaty of Karlowitz began the long Ottoman retreat from central Europe and created the Habsburg Danubian monarchy.",
+        "The Ottoman threat shaped the Reformation: Habsburg dependence on Protestant support against the Turk helped Protestantism survive in the Empire."
+      ],
+      "effectsOnChurch": [
+        "Crusade preaching, crusade indulgences and ‘Turkish bells’ for prayer kept the crusading ideal alive in Catholic piety into the eighteenth century.",
+        "The feasts of Our Lady of the Rosary (from Lepanto) and of the Holy Name of Mary (from Vienna) entered the Catholic calendar.",
+        "Orthodox churches under Ottoman rule were organised under the patriarch of Constantinople, while the failure of Western aid deepened Orthodox suspicion of union with Rome after Florence.",
+        "Protestants and Catholics each interpreted the Turk apocalyptically and polemically, often as a judgement on the other side’s sins."
+      ],
+      "legacy": "The wars against the Ottomans fixed the image of the ‘Turk’ as the enemy of Christendom in European memory, from Lepanto paintings and Vienna’s celebrations to modern nationalist myths in the Balkans and appropriation by present-day anti-Muslim movements. Historians now emphasise the pragmatic diplomacy, trade and alliances that crossed religious lines throughout these centuries, alongside the genuine religious fervour of crusade preaching and of Ottoman ghaza.",
+      "dissenters": [
+        {
+          "name": "Martin Luther",
+          "personId": "martin-luther",
+          "text": "In 1518 he wrote that to fight the Turks was to resist God’s punishment of Christian sins, a view condemned in the bull Exsurge Domine (1520); in On War against the Turk (1529) he rejected crusade under the banner of the Church, though he accepted the emperor’s duty to defend his subjects."
+        },
+        {
+          "name": "Desiderius Erasmus",
+          "personId": "erasmus",
+          "text": "In the Complaint of Peace (1517) and his Consultation on War against the Turks (1530) he criticised crusade taxes and indulgences, warned that Christians fighting with the morals of Turks would themselves become Turks, and urged that Christ’s faith be spread by example rather than by the sword."
+        },
+        {
+          "name": "Nicholas of Cusa",
+          "text": "After the fall of Constantinople he wrote On the Peace of Faith (1453), imagining a heavenly council where representatives of the religions reach concord, and later sought to understand the Qur’an in his Sifting of the Qur’an."
+        },
+        {
+          "name": "John of Segovia",
+          "text": "The Spanish theologian proposed after 1453 that the Church seek peace and conferences with Muslims (‘per viam pacis et doctrinae’) instead of war, and prepared a new translation of the Qur’an."
+        }
+      ],
+      "theatres": [
+        {
+          "name": "Battle of Nicopolis",
+          "lat": 43.7056,
+          "lng": 24.8953,
+          "year": 1396
+        },
+        {
+          "name": "Battle of Varna",
+          "lat": 43.2141,
+          "lng": 27.9147,
+          "year": 1444
+        },
+        {
+          "name": "Fall of Constantinople",
+          "lat": 41.0086,
+          "lng": 28.9802,
+          "year": 1453
+        },
+        {
+          "name": "Siege of Belgrade",
+          "lat": 44.8125,
+          "lng": 20.4612,
+          "year": 1456
+        },
+        {
+          "name": "Otranto",
+          "lat": 40.1436,
+          "lng": 18.4911,
+          "year": 1480
+        },
+        {
+          "name": "Battle of Mohács",
+          "lat": 45.9931,
+          "lng": 18.6833,
+          "year": 1526
+        },
+        {
+          "name": "Great Siege of Malta",
+          "lat": 35.8878,
+          "lng": 14.5225,
+          "year": 1565
+        },
+        {
+          "name": "Fall of Famagusta",
+          "lat": 35.125,
+          "lng": 33.9417,
+          "year": 1571
+        },
+        {
+          "name": "Battle of Lepanto",
+          "lat": 38.3,
+          "lng": 21.1,
+          "year": 1571
+        },
+        {
+          "name": "Siege and relief of Vienna",
+          "lat": 48.2082,
+          "lng": 16.3738,
+          "year": 1683
+        },
+        {
+          "name": "Recapture of Buda",
+          "lat": 47.4979,
+          "lng": 19.0402,
+          "year": 1686
+        },
+        {
+          "name": "Treaty of Karlowitz",
+          "lat": 45.2028,
+          "lng": 19.9336,
+          "year": 1699
+        }
+      ],
+      "campaigns": [
+        {
+          "id": "ottoman-nicopolis-1396",
+          "title": "The crusade of Nicopolis",
+          "people": "Sigismund of Hungary, John of Nevers and the crusader army",
+          "personIds": [],
+          "year": 1396,
+          "stops": [
+            {
+              "name": "Buda",
+              "lat": 47.4979,
+              "lng": 19.0402,
+              "year": 1396
+            },
+            {
+              "name": "Orșova (Iron Gates crossing)",
+              "lat": 44.7253,
+              "lng": 22.3961,
+              "year": 1396
+            },
+            {
+              "name": "Vidin",
+              "lat": 43.99,
+              "lng": 22.88,
+              "year": 1396
+            },
+            {
+              "name": "Rahova (Oryahovo)",
+              "lat": 43.733,
+              "lng": 23.96,
+              "year": 1396
+            },
+            {
+              "name": "Nicopolis",
+              "lat": 43.7056,
+              "lng": 24.8953,
+              "year": 1396
+            }
+          ],
+          "text": "The army gathered at Buda, crossed the Danube at the Iron Gates, took Vidin and Rahova, where prisoners were killed, and besieged Nicopolis until Bayezid’s relief army destroyed it on 25 September."
+        },
+        {
+          "id": "ottoman-varna-1444",
+          "title": "The crusade of Varna",
+          "people": "Władysław III, John Hunyadi and Cardinal Giuliano Cesarini",
+          "personIds": [],
+          "year": 1444,
+          "stops": [
+            {
+              "name": "Szeged",
+              "lat": 46.253,
+              "lng": 20.1414,
+              "year": 1444
+            },
+            {
+              "name": "Orșova",
+              "lat": 44.7253,
+              "lng": 22.3961,
+              "year": 1444
+            },
+            {
+              "name": "Vidin",
+              "lat": 43.99,
+              "lng": 22.88,
+              "year": 1444
+            },
+            {
+              "name": "Shumen",
+              "lat": 43.27,
+              "lng": 26.92,
+              "year": 1444
+            },
+            {
+              "name": "Varna",
+              "lat": 43.2141,
+              "lng": 27.9147,
+              "year": 1444
+            }
+          ],
+          "text": "Having renounced the truce agreed at Szeged and Edirne, the crusaders crossed the Danube and marched east along the Bulgarian plain to the Black Sea coast, expecting a papal–Venetian fleet to block the Straits; Murad II crossed regardless and destroyed them at Varna."
+        },
+        {
+          "id": "ottoman-lepanto-1571",
+          "title": "The Holy League fleet to Lepanto",
+          "people": "Don John of Austria with the Spanish, Venetian and papal galleys",
+          "personIds": [],
+          "year": 1571,
+          "stops": [
+            {
+              "name": "Messina",
+              "lat": 38.1938,
+              "lng": 15.554,
+              "year": 1571
+            },
+            {
+              "name": "Corfu",
+              "lat": 39.6243,
+              "lng": 19.9217,
+              "year": 1571
+            },
+            {
+              "name": "Gomenizza (Igoumenitsa)",
+              "lat": 39.504,
+              "lng": 20.265,
+              "year": 1571
+            },
+            {
+              "name": "Cephalonia",
+              "lat": 38.18,
+              "lng": 20.49,
+              "year": 1571
+            },
+            {
+              "name": "Battle off the Echinades, Gulf of Patras",
+              "lat": 38.3,
+              "lng": 21.1,
+              "year": 1571
+            }
+          ],
+          "text": "The allied fleet of about 200 galleys and six galleasses assembled at Messina, sailed via Corfu and the Epirote coast, learned of the fall of Famagusta, and met the Ottoman fleet emerging from the Gulf of Lepanto on 7 October 1571."
+        },
+        {
+          "id": "ottoman-vienna-relief-1683",
+          "title": "Sobieski’s march to relieve Vienna",
+          "people": "Jan III Sobieski and the Polish army, joined by imperial and German forces",
+          "personIds": [],
+          "year": 1683,
+          "stops": [
+            {
+              "name": "Kraków",
+              "lat": 50.0647,
+              "lng": 19.945,
+              "year": 1683
+            },
+            {
+              "name": "Tarnowskie Góry",
+              "lat": 50.443,
+              "lng": 18.857,
+              "year": 1683
+            },
+            {
+              "name": "Tulln",
+              "lat": 48.3297,
+              "lng": 16.0548,
+              "year": 1683
+            },
+            {
+              "name": "Kahlenberg",
+              "lat": 48.2765,
+              "lng": 16.3364,
+              "year": 1683
+            },
+            {
+              "name": "Vienna",
+              "lat": 48.2082,
+              "lng": 16.3738,
+              "year": 1683
+            }
+          ],
+          "text": "Sobieski left Kraków in August 1683, marched through Silesia and Moravia, joined the imperial army at Tulln and on 12 September descended from the Kahlenberg, where Marco d’Aviano had celebrated Mass, to break the siege."
+        }
+      ],
+      "ledTo": [],
+      "eventIds": [
+        "council-of-florence-1439",
+        "fall-of-constantinople-1453",
+        "western-schism-1378",
+        "ninety-five-theses-1517",
+        "council-of-trent-1545"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-orthodox",
+        "lutheran"
+      ],
+      "sources": [
+        "w2-housley-later-crusades",
+        "w2-housley-crusading-ottoman-threat",
+        "w2-setton-papacy-levant",
+        "w2-capponi-lepanto",
+        "w2-stoye-siege-vienna",
+        "w2-finkel-osmans-dream",
+        "w2-imber-varna"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "sources": [
+    {
+      "id": "w2-phillips-fourth-crusade",
+      "title": "The Fourth Crusade and the Sack of Constantinople",
+      "author": "Jonathan Phillips",
+      "year": 2004,
+      "kind": "secondary",
+      "note": "Narrative history of the crusade, its diversion and the sack of 1204."
+    },
+    {
+      "id": "w2-queller-madden-fourth-crusade",
+      "title": "The Fourth Crusade: The Conquest of Constantinople, 2nd ed.",
+      "author": "Donald E. Queller and Thomas F. Madden",
+      "year": 1997,
+      "kind": "secondary",
+      "note": "Classic statement of the view that the diversion resulted from a chain of contingencies rather than a plot."
+    },
+    {
+      "id": "w2-angold-fourth-crusade",
+      "title": "The Fourth Crusade: Event and Context",
+      "author": "Michael Angold",
+      "year": 2003,
+      "kind": "secondary",
+      "note": "Places 1204 in the context of Byzantine politics and Latin–Greek relations."
+    },
+    {
+      "id": "w2-tyerman-gods-war",
+      "title": "God's War: A New History of the Crusades",
+      "author": "Christopher Tyerman",
+      "year": 2006,
+      "kind": "secondary",
+      "note": "Comprehensive survey of crusading in the East, Iberia, the Baltic and against heretics."
+    },
+    {
+      "id": "w2-asbridge-crusades",
+      "title": "The Crusades: The War for the Holy Land",
+      "author": "Thomas Asbridge",
+      "year": 2010,
+      "kind": "secondary",
+      "note": "Narrative history of the crusades to the Levant from 1095 to 1291, using Christian and Muslim sources."
+    },
+    {
+      "id": "w2-powell-anatomy-crusade",
+      "title": "Anatomy of a Crusade, 1213–1221",
+      "author": "James M. Powell",
+      "year": 1986,
+      "kind": "secondary",
+      "note": "Standard study of the Fifth Crusade, its recruitment and the campaign at Damietta."
+    },
+    {
+      "id": "w2-jordan-louis-ix",
+      "title": "Louis IX and the Challenge of the Crusade: A Study in Rulership",
+      "author": "William Chester Jordan",
+      "year": 1979,
+      "kind": "secondary",
+      "note": "Louis IX's crusades, their financing and their effect on French government."
+    },
+    {
+      "id": "w2-abulafia-frederick-ii",
+      "title": "Frederick II: A Medieval Emperor",
+      "author": "David Abulafia",
+      "year": 1988,
+      "kind": "secondary",
+      "note": "Biography including the crusade of 1228–1229 and the papal crusades against Frederick."
+    },
+    {
+      "id": "w2-tolan-francis-sultan",
+      "title": "Saint Francis and the Sultan: The Curious History of a Christian–Muslim Encounter",
+      "author": "John Tolan",
+      "year": 2009,
+      "kind": "secondary",
+      "note": "Sources and later interpretations of Francis's meeting with al-Kamil at Damietta in 1219."
+    },
+    {
+      "id": "w2-siberry-criticism",
+      "title": "Criticism of Crusading, 1095–1274",
+      "author": "Elizabeth Siberry",
+      "year": 1985,
+      "kind": "secondary",
+      "note": "Contemporary criticism of crusading, including Matthew Paris and Humbert of Romans."
+    },
+    {
+      "id": "w2-sumption-albigensian",
+      "title": "The Albigensian Crusade",
+      "author": "Jonathan Sumption",
+      "year": 1978,
+      "kind": "secondary",
+      "note": "Narrative history of the crusade from 1209 to 1229 and its aftermath."
+    },
+    {
+      "id": "w2-pegg-most-holy-war",
+      "title": "A Most Holy War: The Albigensian Crusade and the Battle for Christendom",
+      "author": "Mark Gregory Pegg",
+      "year": 2008,
+      "kind": "secondary",
+      "note": "Revisionist account questioning the existence of an organised Cathar church."
+    },
+    {
+      "id": "w2-barber-cathars",
+      "title": "The Cathars: Dualist Heretics in Languedoc in the High Middle Ages",
+      "author": "Malcolm Barber",
+      "year": 2000,
+      "kind": "secondary",
+      "note": "Survey of Cathar belief, the crusade and the Inquisition."
+    },
+    {
+      "id": "w2-peter-vaux-de-cernay",
+      "title": "The History of the Albigensian Crusade (Historia Albigensis)",
+      "author": "Peter of les Vaux-de-Cernay, trans. W. A. and M. D. Sibly",
+      "year": 1998,
+      "kind": "primary",
+      "note": "Pro-crusade chronicle by a Cistercian eyewitness, nephew of Abbot Guy."
+    },
+    {
+      "id": "w2-song-cathar-wars",
+      "title": "The Song of the Cathar Wars: A History of the Albigensian Crusade",
+      "author": "William of Tudela and an anonymous successor, trans. Janet Shirley",
+      "year": 1996,
+      "kind": "primary",
+      "note": "Occitan verse chronicle; the first part favours the crusade, the second the southern cause."
+    },
+    {
+      "id": "w2-christiansen-northern-crusades",
+      "title": "The Northern Crusades, 2nd ed.",
+      "author": "Eric Christiansen",
+      "year": 1997,
+      "kind": "secondary",
+      "note": "Standard English survey of the Baltic crusades from the Wends to Lithuania."
+    },
+    {
+      "id": "w2-urban-teutonic-knights",
+      "title": "The Teutonic Knights: A Military History",
+      "author": "William Urban",
+      "year": 2003,
+      "kind": "secondary",
+      "note": "History of the Order in Prussia and Livonia, including Grunwald."
+    },
+    {
+      "id": "w2-murray-baltic-frontier",
+      "title": "Crusade and Conversion on the Baltic Frontier, 1150–1500",
+      "author": "Alan V. Murray (ed.)",
+      "year": 2001,
+      "kind": "secondary",
+      "note": "Essays on mission, conquest and conversion in the Baltic."
+    },
+    {
+      "id": "w2-henry-of-livonia",
+      "title": "The Chronicle of Henry of Livonia",
+      "author": "Henry of Livonia, trans. James A. Brundage",
+      "year": 1961,
+      "kind": "primary",
+      "note": "Eyewitness clerical account of the conquest of Livonia and Estonia, c. 1180–1227."
+    },
+    {
+      "id": "w2-fudge-crusade-bohemia",
+      "title": "The Crusade against Heretics in Bohemia, 1418–1437: Sources and Documents for the Hussite Crusades",
+      "author": "Thomas A. Fudge",
+      "year": 2002,
+      "kind": "primary",
+      "note": "Translated documents including crusade bulls, Hussite manifestos and military ordinances."
+    },
+    {
+      "id": "w2-fudge-magnificent-ride",
+      "title": "The Magnificent Ride: The First Reformation in Hussite Bohemia",
+      "author": "Thomas A. Fudge",
+      "year": 1998,
+      "kind": "secondary",
+      "note": "Interprets the Hussite movement as a popular religious reformation."
+    },
+    {
+      "id": "w2-heymann-zizka",
+      "title": "John Žižka and the Hussite Revolution",
+      "author": "Frederick G. Heymann",
+      "year": 1955,
+      "kind": "secondary",
+      "note": "Detailed account of the wars to 1424."
+    },
+    {
+      "id": "w2-housley-later-crusades",
+      "title": "The Later Crusades, 1274–1580: From Lyons to Alcazar",
+      "author": "Norman Housley",
+      "year": 1992,
+      "kind": "secondary",
+      "note": "Crusading after 1291, including the Ottoman wars and the Hussite crusades."
+    },
+    {
+      "id": "w2-housley-crusading-ottoman-threat",
+      "title": "Crusading and the Ottoman Threat, 1453–1505",
+      "author": "Norman Housley",
+      "year": 2012,
+      "kind": "secondary",
+      "note": "Crusade preaching, finance and response to the Ottoman advance."
+    },
+    {
+      "id": "w2-setton-papacy-levant",
+      "title": "The Papacy and the Levant (1204–1571), 4 vols",
+      "author": "Kenneth M. Setton",
+      "year": "1976–1984",
+      "kind": "secondary",
+      "note": "Exhaustive study of papal crusade diplomacy to Lepanto."
+    },
+    {
+      "id": "w2-capponi-lepanto",
+      "title": "Victory of the West: The Great Christian–Muslim Clash at the Battle of Lepanto",
+      "author": "Niccolò Capponi",
+      "year": 2006,
+      "kind": "secondary",
+      "note": "History of the Holy League of 1571 and the battle, including casualty estimates."
+    },
+    {
+      "id": "w2-stoye-siege-vienna",
+      "title": "The Siege of Vienna",
+      "author": "John Stoye",
+      "year": 1964,
+      "kind": "secondary",
+      "note": "Classic account of 1683 and its diplomacy."
+    },
+    {
+      "id": "w2-finkel-osmans-dream",
+      "title": "Osman's Dream: The Story of the Ottoman Empire, 1300–1923",
+      "author": "Caroline Finkel",
+      "year": 2005,
+      "kind": "secondary",
+      "note": "Ottoman perspective on the wars with the Christian powers."
+    },
+    {
+      "id": "w2-imber-varna",
+      "title": "The Crusade of Varna, 1443–45",
+      "author": "Colin Imber",
+      "year": 2006,
+      "kind": "secondary",
+      "note": "Translated sources with an introduction on the Varna crusade."
+    }
+  ]
+}
