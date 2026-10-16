@@ -175,7 +175,7 @@ function Bubbles({ list }: { list: Conflict[] }) {
                   initial={{ pathLength: 0 }} animate={{ pathLength: 1 }} transition={{ delay: 0.2 + i * 0.03, duration: 0.6 }} />
                 <motion.circle cx={x} cy={y} r={rad} fill={KIND_META[c.kind].colour} fillOpacity={hover?.id === c.id ? 0.9 : 0.55} stroke={KIND_META[c.kind].colour} strokeWidth={1.5}
                   initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ delay: i * 0.04, type: 'spring', stiffness: 200, damping: 14 }} style={{ transformOrigin: `${x}px ${y}px` }} />
-                {rad > 18 && <text x={x} y={y + 3} textAnchor="middle" className="pointer-events-none fill-white text-[9px] font-bold">{shortName(c.name)}</text>}
+                {rad > 18 && (() => { const lbl = rad < 32 ? shortName(c.name).split(' ')[0] : shortName(c.name); return <text x={x} y={y + 3} textAnchor="middle" fontSize={Math.min(10, (rad * 1.8) / Math.max(lbl.length * 0.55, 1))} className="pointer-events-none fill-white font-bold">{lbl}</text>; })()}
               </g>
             );
           })}
