@@ -13,6 +13,7 @@ const FEATURES: Feature[] = [
   { id: 'eras', to: '/eras', title: 'Eras & Life', text: 'Thirteen eras, each with worship, art, missions and life beyond the West.', icon: 'hourglass', group: 'Explore' },
   { id: 'map', to: '/map', title: 'World Map', text: 'An animated spread of the faith from Jerusalem to Seoul, Lagos and São Paulo.', icon: 'map', group: 'Explore' },
   { id: 'tree', to: '/traditions', title: 'Family Tree', text: 'Every tradition branching from the apostolic church, each split linked to its cause.', icon: 'tree', group: 'Explore' },
+  { id: 'wars', to: '/wars', title: 'Holy Wars & Conflicts', text: 'Crusades, wars of religion and modern conflicts fought in God’s name: causes, cost, effects and the Christians who objected.', icon: 'scales', group: 'Explore' },
   { id: 'missions', to: '/missions', title: 'Missions', text: 'Mission movements from the apostles to today, with journeys, strategies, harms and outcomes, and an in-depth India section.', icon: 'globe', group: 'Explore' },
   { id: 'doctrines', to: '/doctrines', title: 'Doctrine Explorer', text: 'The question, the Scriptures, the rivals, the councils and the fallout, played step by step.', icon: 'trinity', group: 'Think' },
   { id: 'debates', to: '/debates', title: 'Debate Arena', text: 'Each side’s best case in its own voice, then the counter-arguments.', icon: 'scales', group: 'Think' },
@@ -28,6 +29,7 @@ const FEATURES: Feature[] = [
 
 /** How the parts of the atlas feed one another. Drawn as connectors between the cards. */
 const LINKS: [string, string, string][] = [
+  ['wars', 'map', 'battles on the map'], ['wars', 'eras', 'when they happened'], ['wars', 'missions', 'conquest and mission'],
   ['missions', 'map', 'journeys on the map'], ['missions', 'people', 'missionaries'], ['missions', 'tree', 'churches they planted'],
   ['timeline', 'eras', 'events by era'], ['timeline', 'people', 'lifespans'], ['eras', 'map', 'where it happened'], ['eras', 'experiences', 'revivals by era'],
   ['tree', 'compare', 'churches side by side'], ['tree', 'doctrines', 'who holds what'], ['doctrines', 'debates', 'the arguments'], ['doctrines', 'compare', 'positions side by side'],
@@ -207,6 +209,9 @@ function previewFor(a: Atlas, id: string): ReactNode {
     case 'timeline':
       return <><Stats><Stat n={a.events.length} label="events" /><Stat n={a.people.length} label="people" /><Stat n={a.works.length} label="writings" /><Stat n={a.positions.length} label="doctrines’ positions" /></Stats>
         <Grid>{pick(a.events, 6).map((e) => <Row key={e.id} to={`/events/${e.id}`} top={formatYear(e.year, e.circa)} title={e.title} sub={e.summary} />)}</Grid></>;
+    case 'wars':
+      return <><Stats><Stat n={a.conflicts.length} label="conflicts" /><Stat n={a.conflicts.filter((c) => c.religionRole === 'central').length} label="religion central" /><Stat n={a.conflicts.reduce((n, c) => n + c.theatres.length, 0)} label="battles & places" /><Stat n={a.conflicts.reduce((n, c) => n + c.dissenters.length, 0)} label="voices for peace" /></Stats>
+        <Grid>{pick(a.conflicts, 6).map((c) => <Row key={c.id} to={`/wars/${c.id}`} top={formatYear(c.startYear)} title={c.name} sub={c.summary} />)}</Grid></>;
     case 'missions':
       return <><Stats><Stat n={a.missions.length} label="movements" /><Stat n={a.missions.reduce((n, m) => n + m.journeys.length, 0)} label="journeys" /><Stat n={a.indiaMissions.length} label="India chapters" /><Stat n={a.missions.filter((m) => m.status === 'collapsed' || m.status === 'ended').length} label="collapsed or ended" /></Stats>
         <Grid>{pick(a.missions, 6).map((m) => <Row key={m.id} to={`/missions/${m.id}`} top={formatYear(m.startYear)} title={m.name} sub={m.summary} />)}</Grid></>;

@@ -8,7 +8,7 @@ import dagre from '@dagrejs/dagre';
 import { motion } from 'framer-motion';
 import { cx } from '../components/ui';
 
-export interface GNode { id: string; label: string; sub?: string; colour: string; badge?: string; badgeColour?: string; x?: number; y?: number }
+export interface GNode { id: string; label: string; sub?: string; colour: string; badge?: string; badgeColour?: string; x?: number; y?: number; title?: string }
 export interface GLane { y: number; label: string; colour: string }
 export interface GEdge { from: string; to: string; colour?: string; dashed?: boolean; label?: string; animated?: boolean }
 
@@ -23,6 +23,7 @@ const Box = memo(function Box({ data }: NodeProps<Node<D>>) {
       initial={{ opacity: 0, scale: 0.7, y: 8 }}
       animate={{ opacity: dim ? 0.3 : 1, scale: 1, y: 0 }}
       transition={{ delay: Math.min(i, 40) * 0.035, type: 'spring', stiffness: 240, damping: 20 }}
+      title={n.title}
       className={cx('rounded-xl border bg-surface px-3 py-2 shadow-sm transition-shadow', selected ? 'shadow-[0_0_0_3px_var(--accent)]' : 'hover:shadow-lg')}
       style={{ width: NODE_W, minHeight: NODE_H, borderColor: n.colour, borderLeftWidth: 5 }}
     >

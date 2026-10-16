@@ -6,7 +6,7 @@
  */
 import type { Atlas } from '../data/db';
 import type {
-  Controversy, Doctrine, EntityType, Era, Event, Experience, Person, Position, Quote, Tradition, Work, Comparison, StudyPath, MissionMovement, IndiaMission,
+  Controversy, Doctrine, EntityType, Era, Event, Experience, Person, Position, Quote, Tradition, Work, Comparison, StudyPath, MissionMovement, IndiaMission, Conflict,
 } from '../data/schema';
 import { FAMILIES, formatSpan, formatYear } from '../data/families';
 import { getFuse } from '../data/searchIndex';
@@ -153,6 +153,7 @@ function aliases(a: Atlas): Alias[] {
   for (const e of a.eras) add('era', e.id, [e.name, e.short], 1);
   for (const m of a.missions) add('mission', m.id, [m.name], 5);
   for (const m of a.indiaMissions) add('india', m.id, [m.title], 5);
+  for (const c of a.conflicts) add('conflict', c.id, [c.name], 6);
   for (const [k, ref] of Object.entries(ALIASES)) if (a.get(ref.type, ref.id)) out.push({ text: norm(k), ref, weight: 40 + k.length }); // everyday names win ties
   if (isTA()) {
     // The Tamil edition also understands English names, and everyday Tamil words for common subjects.
@@ -384,6 +385,25 @@ function describeIndia(a: Atlas, m: IndiaMission): string {
   ].filter(Boolean).join('\n\n');
 }
 
+const ROLE_TA: Record<string, string> = { central: 'மையக் காரணம்', major: 'முக்கியக் காரணம்', contributing: 'துணைக் காரணம்', pretext: 'சாக்குப்போக்கு' };
+
+function describeConflict(_a: Atlas, c: Conflict, related: Ref[]): string {
+  related.push(...c.ledTo.slice(0, 3).map((id) => ({ type: 'conflict' as const, id })));
+  const cas = c.casualties.low || c.casualties.high ? ` ${t('Estimated deaths', 'மதிப்பிடப்பட்ட உயிரிழப்புகள்')}: ${[c.casualties.low, c.casualties.high].filter(Boolean).map((n) => n!.toLocaleString()).join('–')} (${c.casualties.note}).` : '';
+  return [
+    `**${link('conflict', c.id, c.name)}** — ${formatSpan(c.startYear, c.endYear)}, ${c.region}. ${t('Role of religion', 'மதத்தின் பங்கு')}: ${isTA() ? ROLE_TA[c.religionRole] : c.religionRole}.${cas}`,
+    c.summary,
+    `${t('In the name of God', 'கடவுளின் பெயரால்')}: ${c.nameOfGod}`,
+    `${t('Sides', 'தரப்புகள்')}:\n${c.sides.map((s) => `- **${s.name}** (${s.faith})${s.leaders.length ? ` — ${s.leaders.slice(0, 3).join(', ')}` : ''}`).join('\n')}`,
+    c.religiousCauses.length ? `${t('Religious causes', 'மதக் காரணங்கள்')}:\n${bullets(c.religiousCauses, 4)}` : '',
+    c.otherCauses.length ? `${t('Other causes', 'பிற காரணங்கள்')}:\n${bullets(c.otherCauses, 4)}` : '',
+    c.effects.length ? `${t('Effects', 'விளைவுகள்')}:\n${bullets(c.effects, 5)}` : '',
+    c.effectsOnChurch.length ? `${t('Effects on the church', 'திருச்சபையின் மீதான விளைவுகள்')}:\n${bullets(c.effectsOnChurch, 4)}` : '',
+    c.dissenters.length ? `${t('Christians who objected', 'எதிர்த்த கிறிஸ்தவர்கள்')}:\n${c.dissenters.slice(0, 3).map((d) => `- **${d.name}**: ${clip(d.text, 200)}`).join('\n')}` : '',
+    `${t('Legacy', 'மரபுரிமை')}: ${c.legacy}`,
+  ].filter(Boolean).join('\n\n');
+}
+
 function describe(a: Atlas, r: Ref, related: Ref[]): string {
   switch (r.type) {
     case 'person': return describePerson(a, a.get<Person>('person', r.id)!, related);
@@ -400,6 +420,7 @@ function describe(a: Atlas, r: Ref, related: Ref[]): string {
     case 'quote': { const q = a.get<Quote>('quote', r.id)!; return quoteLine(a, q); }
     case 'mission': return describeMission(a, a.get<MissionMovement>('mission', r.id)!, related);
     case 'india': return describeIndia(a, a.get<IndiaMission>('india', r.id)!);
+    case 'conflict': return describeConflict(a, a.get<Conflict>('conflict', r.id)!, related);
   }
 }
 

@@ -259,6 +259,7 @@ export const EntityType = z.enum([
   'path',
   'mission',
   'india',
+  'conflict',
 ]);
 export type EntityType = z.infer<typeof EntityType>;
 
@@ -559,6 +560,45 @@ export const IndiaMission = z.object({
   confidence: Confidence.default('established'),
 });
 
+
+// ---------- Wars and conflicts ----------
+
+export const ConflictKind = z.enum(['crusade', 'holy-war', 'religious-war', 'conquest-conversion', 'rebellion', 'sectarian', 'anti-christian', 'complicity']);
+export const ReligionRole = z.enum(['central', 'major', 'contributing', 'pretext']);
+
+export const Conflict = z.object({
+  id: Id,
+  name: z.string(),
+  kind: ConflictKind,
+  startYear: Year,
+  endYear: Year.optional(),
+  region: z.string(),
+  place: Place,
+  religionRole: ReligionRole,
+  religionRoleNote: z.string(),
+  sides: z.array(z.object({ name: z.string(), faith: z.string(), leaders: Strs })).min(2),
+  summary: z.string(),
+  story: z.string().describe('Several paragraphs separated by blank lines'),
+  nameOfGod: z.string().describe('How God, the cross or the faith was invoked: slogans, blessings, indulgences, theology of holy war'),
+  religiousCauses: Strs,
+  otherCauses: Strs,
+  triggers: Strs,
+  timeline: z.array(z.object({ year: Year, text: z.string() })).default([]),
+  keyPeople: z.array(MissionPerson).default([]),
+  casualties: z.object({ low: z.number().optional(), high: z.number().optional(), note: z.string() }),
+  effects: Strs,
+  effectsOnChurch: Strs,
+  legacy: z.string(),
+  dissenters: z.array(z.object({ name: z.string(), personId: Id.optional(), text: z.string() })).default([]),
+  theatres: z.array(z.object({ name: z.string(), lng: z.number(), lat: z.number(), year: Year.optional() })).default([]),
+  campaigns: z.array(MissionJourney).default([]),
+  ledTo: Ids.describe('Conflict ids this helped cause'),
+  eventIds: Ids,
+  traditionIds: Ids,
+  sources: Ids,
+  confidence: Confidence.default('established'),
+});
+
 export const Pack = z
   .object({
     sources: z.array(Source),
@@ -578,6 +618,7 @@ export const Pack = z
     presences: z.array(Presence),
     missions: z.array(MissionMovement),
     indiaMissions: z.array(IndiaMission),
+    conflicts: z.array(Conflict),
   })
   .partial()
   .strict();
@@ -602,4 +643,5 @@ export type StudyPath = z.infer<typeof StudyPath>;
 export type Presence = z.infer<typeof Presence>;
 export type MissionMovement = z.infer<typeof MissionMovement>;
 export type IndiaMission = z.infer<typeof IndiaMission>;
+export type Conflict = z.infer<typeof Conflict>;
 export type MissionPerson = z.infer<typeof MissionPerson>;

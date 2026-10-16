@@ -22,6 +22,7 @@ export function getFuse(a: Atlas) {
     ...a.comparisons.map((c) => ({ type: 'comparison' as const, id: c.id, title: c.title, sub: 'Featured comparison', text: c.summary })),
     ...a.paths.map((p) => ({ type: 'path' as const, id: p.id, title: p.title, sub: 'Study path', text: p.summary })),
     ...a.missions.map((m) => ({ type: 'mission' as const, id: m.id, title: m.name, sub: formatYear(m.startYear), text: `${m.summary} ${m.keyPeople.map((p) => p.name).join(' ')}` })),
+    ...a.conflicts.map((c) => ({ type: 'conflict' as const, id: c.id, title: c.name, sub: `${formatYear(c.startYear)} · ${c.region}`, text: `${c.summary} ${c.keyPeople.map((p) => p.name).join(' ')}` })),
     ...a.indiaMissions.map((m) => ({ type: 'india' as const, id: m.id, title: m.title, sub: `${formatYear(m.startYear)} · ${m.region}`, text: `${m.summary} ${m.people.map((p) => p.name).join(' ')}` })),
   ];
   const fuse = new Fuse(docs, {

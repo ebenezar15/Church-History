@@ -42,6 +42,8 @@ const routes: RouteObject[] = [
       { path: '/missions/india', element: page(() => import('./pages/IndiaMissions')) },
       { path: '/missions/india/:id', element: page(() => import('./pages/IndiaMissions').then((m) => ({ default: m.IndiaDetail }))) },
       { path: '/missions/:id', element: page(() => import('./pages/MissionDetail')) },
+      { path: '/wars', element: page(() => import('./pages/Wars')) },
+      { path: '/wars/:id', element: page(() => import('./pages/WarDetail')) },
       { path: '/saved', element: page(() => import('./pages/Saved')) },
       { path: '/ask', element: page(() => import('./pages/Ask')) },
       { path: '*', element: page(() => import('./pages/NotFound')) },

@@ -23,6 +23,7 @@ import {
   type Presence,
   type MissionMovement,
   type IndiaMission,
+  type Conflict,
   type Quote,
   type Source,
   type StudyPath,
@@ -48,6 +49,7 @@ export interface Db {
   presences: Presence[];
   missions: MissionMovement[];
   indiaMissions: IndiaMission[];
+  conflicts: Conflict[];
 }
 
 export type DbKey = keyof Db;
@@ -67,9 +69,10 @@ export const TYPE_TO_KEY: Record<EntityType, DbKey> = {
   path: 'paths',
   mission: 'missions',
   india: 'indiaMissions',
+  conflict: 'conflicts',
 };
 
-const STRICT_ONCE: DbKey[] = ['doctrines', 'positions', 'controversies', 'comparisons', 'paths', 'eras', 'missions', 'indiaMissions'];
+const STRICT_ONCE: DbKey[] = ['doctrines', 'positions', 'controversies', 'comparisons', 'paths', 'eras', 'missions', 'indiaMissions', 'conflicts'];
 
 export interface BuildResult {
   db: Db;
@@ -80,7 +83,7 @@ export interface BuildResult {
 function emptyDb(): Db {
   return {
     sources: [], eras: [], cultures: [], events: [], people: [], works: [], quotes: [], doctrines: [],
-    positions: [], traditions: [], controversies: [], experiences: [], comparisons: [], paths: [], presences: [], missions: [], indiaMissions: [],
+    positions: [], traditions: [], controversies: [], experiences: [], comparisons: [], paths: [], presences: [], missions: [], indiaMissions: [], conflicts: [],
   };
 }
 
@@ -224,6 +227,12 @@ function checkRefs(db: Db, errors: string[], warnings: string[], originOf: (key:
     const w = `${originOf('indiaMissions', m.id)} india:${m.id}`;
     need(w, 'missions', m.movementIds); need(w, 'sources', m.sources); need(w, 'people', m.people.map((p) => p.personId));
   }
+  for (const c of db.conflicts) {
+    const w = `${originOf('conflicts', c.id)} conflict:${c.id}`;
+    need(w, 'conflicts', c.ledTo); need(w, 'events', c.eventIds); need(w, 'traditions', c.traditionIds); need(w, 'sources', c.sources);
+    need(w, 'people', [...c.keyPeople.map((p) => p.personId), ...c.dissenters.map((d) => d.personId), ...c.campaigns.flatMap((j) => j.personIds)]);
+  }
+  db.conflicts.sort((a, b) => a.startYear - b.startYear);
   db.missions.sort((a, b) => a.startYear - b.startYear);
   db.indiaMissions.sort((a, b) => a.order - b.order);
 
