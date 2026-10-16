@@ -16,6 +16,8 @@ const NOW = 2026;
 /** Piecewise time scale: the first 1,000 years take 22% of the width. */
 export const xYear = (y: number) => (y <= 1000 ? (y / 1000) * 22 : 22 + ((Math.min(y, NOW) - 1000) / (NOW - 1000)) * 78);
 const ROLES: Conflict['religionRole'][] = ['central', 'major', 'contributing', 'pretext'];
+/** "The Taiping Rebellion and Hong…" → "Taiping Rebellion" (for small labels). */
+const shortName = (n: string) => n.replace(/^(The|Christian|Charlemagne's|Constantine at the)\s+/i, '').split(/[(:,–]| and | of /)[0].trim().split(/\s+/).slice(0, 2).join(' ');
 
 export default function Wars() {
   const a = useAtlas();
@@ -173,7 +175,7 @@ function Bubbles({ list }: { list: Conflict[] }) {
                   initial={{ pathLength: 0 }} animate={{ pathLength: 1 }} transition={{ delay: 0.2 + i * 0.03, duration: 0.6 }} />
                 <motion.circle cx={x} cy={y} r={rad} fill={KIND_META[c.kind].colour} fillOpacity={hover?.id === c.id ? 0.9 : 0.55} stroke={KIND_META[c.kind].colour} strokeWidth={1.5}
                   initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ delay: i * 0.04, type: 'spring', stiffness: 200, damping: 14 }} style={{ transformOrigin: `${x}px ${y}px` }} />
-                {rad > 16 && <text x={x} y={y + 3} textAnchor="middle" className="pointer-events-none fill-white text-[9px] font-bold">{c.name.split(/[ (:]/)[0]}</text>}
+                {rad > 18 && <text x={x} y={y + 3} textAnchor="middle" className="pointer-events-none fill-white text-[9px] font-bold">{shortName(c.name)}</text>}
               </g>
             );
           })}

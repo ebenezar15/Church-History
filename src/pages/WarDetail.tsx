@@ -52,10 +52,10 @@ export default function WarDetail() {
       </motion.header>
 
       {/* Sides: an animated "versus" banner */}
-      <div className="mb-6 grid items-stretch gap-3" style={{ gridTemplateColumns: c.sides.length === 2 ? '1fr auto 1fr' : undefined }}>
+      <div className={`mb-6 grid items-stretch gap-3 ${c.sides.length === 2 ? 'sm:grid-cols-[1fr_auto_1fr]' : c.sides.length === 3 ? 'sm:grid-cols-3' : 'sm:grid-cols-2'}`}>
         {c.sides.flatMap((s, i) => {
           const card = (
-            <motion.div key={`s${i}`} className="card p-4" style={{ borderTop: `5px solid ${SIDE_COLOURS[i % 4]}` }}
+            <motion.div key={`s${i}`} className="card min-w-0 p-4" style={{ borderTop: `5px solid ${SIDE_COLOURS[i % 4]}` }}
               initial={{ opacity: 0, x: i === 0 ? -40 : 40 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: 0.1 + i * 0.12, type: 'spring', stiffness: 140, damping: 16 }}>
               <div className="text-lg font-bold" style={{ color: SIDE_COLOURS[i % 4] }}>{s.name}</div>
               <div className="text-sm text-muted">{s.faith}</div>
