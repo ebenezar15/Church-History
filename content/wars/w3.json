@@ -1,0 +1,872 @@
+{
+  "conflicts": [
+    {
+      "id": "conquest-of-the-americas",
+      "name": "The Spanish and Portuguese conquest of the Americas",
+      "kind": "conquest-conversion",
+      "startYear": 1492,
+      "endYear": 1600,
+      "region": "The Caribbean, Mesoamerica, the Andes and Brazil",
+      "place": { "name": "Tenochtitlan (Mexico City)", "lat": 19.4326, "lng": -99.1332 },
+      "religionRole": "major",
+      "religionRoleNote": "The conquest was driven above all by the search for gold, silver, land and Indigenous labour, and by the ambitions of the Castilian and Portuguese crowns and of individual conquistadors. Yet religion was far more than decoration: the papal bulls of 1493 granted the new lands on condition that their peoples be evangelised, the Requerimiento made refusal of the faith a legal ground for war, and many conquistadors and friars sincerely believed they were extending Christendom and ending idolatry and human sacrifice. Bernal Díaz del Castillo summed up the mixture when he wrote that they came ‘to serve God and His Majesty, to give light to those in darkness, and also to get rich, as all men desire to do’. Historians such as J. H. Elliott and Matthew Restall stress this blend of motives; others, following Las Casas, emphasise how religious language legitimised plunder. The same Church also produced the conquest's sharpest critics.",
+      "sides": [
+        { "name": "Crown of Castile, conquistadors and their Indigenous allies", "faith": "Roman Catholic (allies such as the Tlaxcalans kept Mesoamerican religion at first)", "leaders": ["Ferdinand and Isabella", "Charles V", "Christopher Columbus", "Hernán Cortés", "Francisco Pizarro", "Pedro de Alvarado"] },
+        { "name": "Crown of Portugal and settlers in Brazil", "faith": "Roman Catholic", "leaders": ["Manuel I", "John III", "Tomé de Sousa", "Mem de Sá"] },
+        { "name": "Mexica (Aztec) Triple Alliance", "faith": "Mesoamerican religion", "leaders": ["Moctezuma II", "Cuitláhuac", "Cuauhtémoc"] },
+        { "name": "Inca state and Andean resistance", "faith": "Andean religion", "leaders": ["Atahualpa", "Manco Inca", "Túpac Amaru"] },
+        { "name": "Taíno, Maya, Tupinambá and other peoples", "faith": "Indigenous religions", "leaders": ["Hatuey", "Enriquillo", "Tecún Umán (tradition)"] }
+      ],
+      "summary": "Between 1492 and about 1600 Spain and Portugal conquered most of the Caribbean, Mexico, Central America, the Andes and coastal Brazil. Conquest was justified by papal grants and the duty to spread the gospel, and was accompanied by a ‘spiritual conquest’ of mass baptism and destruction of Indigenous religion. War, enslavement, forced labour and above all epidemic disease caused one of the greatest demographic collapses in human history — and provoked a fierce debate within the Church over whether such wars could be just.",
+      "story": "In January 1492 Ferdinand and Isabella completed the conquest of Granada, the last Muslim state in Iberia, and in October of the same year Christopher Columbus, sailing for Castile, reached the Bahamas. Castile and Portugal brought to the Atlantic a crusading and Reconquista tradition in which conquest, settlement and conversion went together. In 1493 Pope Alexander VI's bull Inter caetera granted the Catholic Monarchs the newly found lands so that their inhabitants might be brought to the Christian faith, and the Treaty of Tordesillas (1494) divided the non-Christian world between Castile and Portugal along a meridian in the Atlantic.\n\nThe first colony, on Hispaniola, became a laboratory of conquest. Taíno chiefdoms were defeated, tribute in gold was imposed, and Indigenous people were distributed to settlers under the encomienda, which made them labour for a Spaniard in return for supposed protection and instruction in the faith. Overwork, violence, hunger and disease shattered Taíno society within a generation. On the fourth Sunday of Advent 1511 the Dominican Antonio de Montesinos preached in Santo Domingo that the settlers were in mortal sin for their cruelty. The crown responded with the Laws of Burgos (1512) and, in 1513, with the Requerimiento, a text drafted by the jurist Juan López de Palacios Rubios that conquistadors were to read before attacking, summoning the inhabitants to acknowledge the Church and the pope's grant to the Spanish monarchs on pain of war and enslavement. It was often read in Spanish, at a distance or to empty villages, and even contemporaries mocked it.\n\nIn 1519 Hernán Cortés landed on the Gulf coast of Mexico with some 500 Spaniards. The decisive force in the fall of the Mexica empire was its Indigenous enemies, above all the Tlaxcalans, who supplied tens of thousands of warriors. At Cholula in October 1519 the Spaniards and their allies massacred thousands of unarmed people; in May 1520, during the festival of Toxcatl, Pedro de Alvarado's men slaughtered the Mexica nobility in the temple precinct of Tenochtitlan. The Spaniards were driven out on the Noche Triste (30 June 1520), but smallpox then swept through the city, and after a siege of some eighty days Tenochtitlan fell on 13 August 1521, largely destroyed. Cortés smashed images in the temples, and Christian churches were built on the sites of pyramids.\n\nIn Peru Francisco Pizarro met the Inca ruler Atahualpa at Cajamarca on 16 November 1532. The Dominican Vicente de Valverde presented him with a breviary and called on him to submit; when Atahualpa threw it to the ground, the Spaniards attacked and killed several thousand of his unarmed retinue. Atahualpa paid a vast ransom in gold and silver but was executed in July 1533, garrotted after accepting baptism. Manco Inca's great rising of 1536 besieged Cusco for months, and a neo-Inca state survived at Vilcabamba until 1572, when the viceroy Francisco de Toledo captured Túpac Amaru and had him beheaded in Cusco. Further conquests in Central America, Yucatán, New Granada and Chile continued for decades, and resistance never wholly ceased.\n\nMilitary conquest was paired with a ‘spiritual conquest’. Twelve Franciscans arrived in Mexico in 1524, followed by Dominicans, Augustinians and later Jesuits; friars baptised Indigenous people in their hundreds of thousands, learned Nahuatl and other languages, and built a new Indigenous Christianity. They also destroyed temples, images and books: Bishop Juan de Zumárraga reported in 1531 the destruction of hundreds of temples and thousands of idols, and in 1562 the Franciscan Diego de Landa held an auto-da-fé at Maní in Yucatán in which Maya codices were burned and many Maya tortured on suspicion of idolatry. In Brazil, claimed for Portugal by Pedro Álvares Cabral in 1500, Jesuits led by Manuel da Nóbrega arrived in 1549; they gathered Indigenous people into mission villages, while governors such as Mem de Sá waged ‘just wars’ against the Tupinambá and settlers enslaved Indigenous captives for the sugar plantations.\n\nThe Church was also the main arena of protest. Bartolomé de las Casas, a former encomendero turned Dominican, spent half a century denouncing the conquest; Francisco de Vitoria at Salamanca argued that neither unbelief nor the pope's grant gave Spaniards a right to make war; Pope Paul III's bull Sublimis Deus (1537) declared that Indigenous peoples were true human beings who must not be enslaved. Charles V's New Laws of 1542 tried to phase out the encomienda, provoking a revolt of settlers in Peru, and in 1550–51 the crown suspended new conquests while a junta at Valladolid heard Las Casas and Juan Ginés de Sepúlveda debate whether war against the Indians was just. Philip II's ordinances of 1573 replaced the word ‘conquest’ with ‘pacification’, though practice changed more slowly.\n\nBy 1600 the Indigenous population of the Americas had fallen catastrophically, chiefly through smallpox, measles, typhus and other epidemics against which there was no immunity, but compounded by war, enslavement, forced labour, famine and social collapse. The labour shortage drove the transatlantic slave trade, which brought millions of enslaved Africans to the Caribbean and Brazil. Out of conquest came the Catholic Christianity of Latin America — the world's largest Catholic population today — shaped by Indigenous and African as well as Iberian traditions, and a lasting argument, begun by sixteenth-century friars, about the relation between the gospel and empire.",
+      "nameOfGod": "Inter caetera (1493) granted the lands so that ‘barbarous nations be overthrown and brought to the faith’. The Requerimiento (1513) began with God's creation of the world and the pope's authority as Christ's vicar, and declared that the deaths and losses of those who refused would be their own fault. Conquistadors fought under banners of the cross and the Virgin and invoked St James (‘¡Santiago!’) as in the Reconquista; Cortés's banner reportedly bore the cross with the words ‘Friends, let us follow the cross, and with faith in this sign we shall conquer’. Victories were attributed to the Virgin and St James, mass baptisms followed conquest, and Sepúlveda argued that war was justified to end idolatry and human sacrifice and to open the way for preaching.",
+      "religiousCauses": [
+        "The papal bulls of 1493, especially Inter caetera, granted the Americas to Castile on condition of evangelising their peoples, giving conquest a religious legal title.",
+        "The Requerimiento of 1513 made refusal to accept the Church and the Spanish monarchs' authority a formal ground for ‘just war’ and enslavement.",
+        "A Reconquista mentality, completed in 1492 with the fall of Granada, linked the expansion of Christendom with conquest and settlement.",
+        "Many conquistadors and friars sincerely saw the destruction of ‘idolatry’ and human sacrifice as a Christian duty, and some friars hoped to build a purer, apostolic church among the Indigenous peoples.",
+        "Theologians such as Juan Ginés de Sepúlveda used Aristotle's theory of ‘natural slavery’ and the crimes of idolatry and sacrifice to argue that war against Indigenous peoples was just."
+      ],
+      "otherCauses": [
+        "The search for gold and silver — Hispaniola's placers, Aztec treasure, Atahualpa's ransom and, after 1545, the silver mountain of Potosí — was the dominant motive of most expeditions.",
+        "Conquistadors were private entrepreneurs seeking land, encomiendas, titles and social advancement, financing expeditions themselves in hope of reward.",
+        "Rivalry between Castile and Portugal, and later with France, England and the Netherlands, pushed both crowns to occupy and hold territory.",
+        "Indigenous political divisions — Tlaxcalan hostility to the Mexica, the Inca civil war between Atahualpa and Huáscar — supplied the conquerors with decisive allies.",
+        "The demand for labour on plantations and in mines drove slave-raiding and the encomienda, and later the importation of enslaved Africans."
+      ],
+      "triggers": [
+        "Columbus's landfall in the Bahamas on 12 October 1492 and the establishment of a Castilian colony on Hispaniola in 1493.",
+        "Rumours of rich mainland empires, which drew Cortés from Cuba to Mexico in 1519 against the governor's orders.",
+        "Pizarro's contract (capitulación) with the crown in 1529 and the opportunity created by the Inca succession war."
+      ],
+      "timeline": [
+        { "year": 1492, "text": "Fall of Granada in January; on 12 October Columbus reaches the island the Taíno called Guanahaní." },
+        { "year": 1493, "text": "Alexander VI's bull Inter caetera grants the new lands to Castile for the spread of the faith." },
+        { "year": 1494, "text": "Treaty of Tordesillas divides the non-Christian world between Castile and Portugal." },
+        { "year": 1511, "text": "Antonio de Montesinos's Advent sermon in Santo Domingo condemns the settlers' treatment of the Taíno." },
+        { "year": 1512, "text": "Laws of Burgos regulate the encomienda; the Taíno chief Hatuey is burned alive in Cuba." },
+        { "year": 1513, "text": "The Requerimiento is drafted, to be read before any attack." },
+        { "year": 1519, "text": "Cortés lands in Mexico, allies with Tlaxcala and massacres thousands at Cholula." },
+        { "year": 1521, "text": "Tenochtitlan falls on 13 August after a siege worsened by smallpox." },
+        { "year": 1524, "text": "The ‘Twelve’ Franciscans reach Mexico and begin mass evangelisation." },
+        { "year": 1532, "text": "Pizarro captures Atahualpa at Cajamarca; he is executed in 1533." },
+        { "year": 1537, "text": "Paul III's bull Sublimis Deus declares that Indigenous peoples are rational human beings who must not be enslaved." },
+        { "year": 1542, "text": "Charles V's New Laws restrict Indigenous slavery and the encomienda." },
+        { "year": 1550, "text": "The Valladolid debate between Las Casas and Sepúlveda; new conquests are suspended while it sits." },
+        { "year": 1572, "text": "Viceroy Toledo destroys the neo-Inca state of Vilcabamba and executes Túpac Amaru in Cusco." }
+      ],
+      "keyPeople": [
+        { "name": "Christopher Columbus", "years": "1451–1506", "origin": "Genoa", "role": "Navigator and first viceroy of the Indies", "focus": "Led the 1492 voyage and governed Hispaniola, where he imposed gold tribute and enslaved Taíno; saw his voyages in apocalyptic and crusading terms, hoping gold would fund the recovery of Jerusalem.", "outcome": "Removed as governor in 1500 and sent home in chains; died in Valladolid still claiming his privileges." },
+        { "name": "Hernán Cortés", "years": "1485–1547", "origin": "Medellín, Extremadura", "role": "Conqueror of Mexico", "focus": "Led the 1519–21 campaign against the Mexica with Tlaxcalan allies, destroyed temple images and asked the crown for friars rather than secular clergy to convert Mexico.", "outcome": "Created Marquis of the Valley of Oaxaca but sidelined from government; died in Spain." },
+        { "name": "Moctezuma II", "years": "c. 1466–1520", "origin": "Tenochtitlan", "role": "Huey tlatoani (ruler) of the Mexica", "focus": "Received Cortés in Tenochtitlan in November 1519 and was held hostage by the Spaniards.", "outcome": "Died in June 1520 in Spanish custody; Spanish and Indigenous accounts disagree on who killed him." },
+        { "name": "Francisco Pizarro", "years": "c. 1478–1541", "origin": "Trujillo, Extremadura", "role": "Conqueror of Peru", "focus": "Captured Atahualpa at Cajamarca in 1532, took his ransom and had him executed, then occupied Cusco.", "outcome": "Assassinated in Lima in 1541 by followers of his rival Diego de Almagro." },
+        { "name": "Atahualpa", "years": "c. 1502–1533", "origin": "Andes", "role": "Sapa Inca", "focus": "Victor in the Inca civil war, captured at Cajamarca after rejecting Valverde's demand to submit.", "outcome": "Garrotted at Cajamarca in July 1533 after accepting baptism to avoid burning." },
+        { "name": "Antonio de Montesinos", "years": "d. c. 1545", "origin": "Castile", "role": "Dominican friar on Hispaniola", "focus": "Preached in 1511 that the settlers were in mortal sin for their cruelty to the Taíno and took the case to the king.", "outcome": "His sermon began the Spanish debate over the justice of the conquest; he later served in Venezuela." },
+        { "name": "Bartolomé de las Casas", "personId": "bartolome-de-las-casas", "years": "1484–1566", "origin": "Seville", "role": "Encomendero turned Dominican friar, bishop of Chiapas", "focus": "Renounced his encomienda in 1514 and spent fifty years denouncing the conquest at court, in print and at Valladolid.", "outcome": "Helped secure the New Laws; his Short Account (1552) became the foundation of the ‘Black Legend’ and of later human-rights thought." },
+        { "name": "Juan Ginés de Sepúlveda", "years": "1494–1573", "origin": "Pozoblanco, Córdoba", "role": "Humanist and royal chronicler", "focus": "Argued in Democrates Alter and at Valladolid that war against the Indians was just because of their idolatry, sacrifice and ‘natural servitude’.", "outcome": "The universities of Salamanca and Alcalá refused to license his treatise; the junta reached no formal verdict." },
+        { "name": "Juan de Zumárraga", "years": "1468–1548", "origin": "Durango, Biscay", "role": "Franciscan, first bishop and archbishop of Mexico", "focus": "Protector of the Indians against abusive officials, but also oversaw the destruction of temples and images and the trial and burning of the Texcocan lord Don Carlos Ometochtzin in 1539.", "outcome": "Founded the first printing press in the Americas and a college for Indigenous nobles at Tlatelolco." },
+        { "name": "Diego de Landa", "years": "1524–1579", "origin": "Cifuentes, Castile", "role": "Franciscan missionary, later bishop of Yucatán", "focus": "Led the 1562 Maní inquisition in which Maya were tortured and codices burned.", "outcome": "Recalled to Spain for exceeding his authority, but later returned as bishop; his Relación is a key source for Maya culture." }
+      ],
+      "casualties": {
+        "note": "No credible figure exists for deaths caused directly by warfare. What scholars estimate is the overall collapse of the Indigenous population, most of it caused by epidemic disease (smallpox, measles, typhus and the cocoliztli epidemics of 1545 and 1576) compounded by war, massacre, enslavement, forced labour and famine. Estimates of the pre-contact population of the Americas range from about 8–13 million (Ángel Rosenblat) to over 100 million (Henry Dobyns); a 2019 synthesis by Koch, Brierley, Maslin and Lewis suggested about 60 million, falling by roughly 90 per cent by 1600. For central Mexico, Cook and Borah's contested figures run from about 25 million in 1519 to about 1 million in 1605. The Taíno of the Greater Antilles had almost disappeared as distinct communities by the 1540s."
+      },
+      "effects": [
+        "Spain and Portugal built vast American empires whose silver, sugar and other wealth transformed the world economy.",
+        "The Indigenous population collapsed by perhaps 90 per cent across the sixteenth century, largely through disease, with whole societies destroyed.",
+        "Labour shortages fuelled the transatlantic slave trade, which carried millions of enslaved Africans to the Americas.",
+        "New mestizo, Indigenous and African-Iberian societies emerged under a colonial caste hierarchy that shaped Latin America for centuries.",
+        "The debate over the conquest gave rise to the Salamanca school of natural law, the foundations of international law and early arguments for universal human rights."
+      ],
+      "effectsOnChurch": [
+        "The Catholic Church was established across the Americas under royal patronage (the Patronato Real and the Portuguese padroado), giving the crowns control of appointments and finance.",
+        "Mass baptism, the destruction of temples and codices and the extirpation of idolatry campaigns created a Christianity that often blended with Indigenous practice, notably around Our Lady of Guadalupe.",
+        "Friars produced grammars, catechisms and ethnographies in Indigenous languages, preserving much of the cultures they sought to replace.",
+        "The protest of Montesinos, Las Casas and Vitoria became a lasting Christian critique of conquest, later invoked by liberation theology and by modern papal apologies, such as John Paul II's in Santo Domingo in 1992 and Francis's in Bolivia in 2015."
+      ],
+      "legacy": "The conquest of the Americas is the most consequential case of Christianity carried by conquest. It created the world's largest Catholic region and a rich Indigenous Christianity, but at the cost of devastation that the Church's own critics recognised at the time. Las Casas's writings fed both the Protestant ‘Black Legend’ against Spain and the development of natural rights, while modern churches in Latin America and Europe continue to wrestle with the ‘Doctrine of Discovery’, which the Vatican formally repudiated in 2023.",
+      "dissenters": [
+        { "name": "Antonio de Montesinos", "text": "In his Advent sermon of 1511 in Santo Domingo he asked the settlers: ‘Are these not men? Do they not have rational souls? Are you not obliged to love them as yourselves?’, and the Dominicans refused absolution to encomenderos who would not free their Indians." },
+        { "name": "Bartolomé de las Casas", "personId": "bartolome-de-las-casas", "text": "Argued that the wars of conquest were unjust and the encomienda a mortal sin, that the gospel must be preached only by peaceful persuasion (De unico vocationis modo), and that the Spaniards owed restitution; his Short Account of the Destruction of the Indies (1552) catalogued the atrocities." },
+        { "name": "Francisco de Vitoria", "text": "In his Salamanca lectures De Indis (1539) he denied that the pope had temporal dominion over the world or that refusal of the faith justified war, and held that the Indigenous peoples were true owners of their lands and polities." },
+        { "name": "Pope Paul III", "text": "His bull Sublimis Deus (1537) declared that the Indians were truly human, capable of the faith, and must not be deprived of liberty or property, even if they remained outside the faith." },
+        { "name": "Antonio de Valdivieso", "text": "Dominican bishop of Nicaragua who protested against the abuses of the governor's family and was murdered in León in 1550 for his defence of the Indigenous people." }
+      ],
+      "theatres": [
+        { "name": "Guanahaní (San Salvador), Columbus's landfall", "lat": 24.05, "lng": -74.48, "year": 1492 },
+        { "name": "Santo Domingo, Montesinos's sermon", "lat": 18.47, "lng": -69.89, "year": 1511 },
+        { "name": "Cholula massacre", "lat": 19.06, "lng": -98.30, "year": 1519 },
+        { "name": "Siege and fall of Tenochtitlan", "lat": 19.4326, "lng": -99.1332, "year": 1521 },
+        { "name": "Cajamarca, capture of Atahualpa", "lat": -7.16, "lng": -78.51, "year": 1532 },
+        { "name": "Siege of Cusco by Manco Inca", "lat": -13.53, "lng": -71.97, "year": 1536 },
+        { "name": "Salvador da Bahia, Jesuit mission to Brazil", "lat": -12.97, "lng": -38.51, "year": 1549 },
+        { "name": "Valladolid debate", "lat": 41.65, "lng": -4.72, "year": 1550 },
+        { "name": "Maní auto-da-fé", "lat": 20.39, "lng": -89.39, "year": 1562 },
+        { "name": "Vilcabamba, last Inca stronghold", "lat": -12.93, "lng": -73.21, "year": 1572 }
+      ],
+      "campaigns": [
+        {
+          "id": "conquest-columbus-1492",
+          "title": "Columbus's first voyage",
+          "people": "Christopher Columbus and the crews of the Santa María, Pinta and Niña",
+          "year": 1492,
+          "endYear": 1493,
+          "stops": [
+            { "name": "Palos de la Frontera", "lat": 37.23, "lng": -6.89, "year": 1492 },
+            { "name": "La Gomera, Canary Islands", "lat": 28.09, "lng": -17.11, "year": 1492 },
+            { "name": "Guanahaní (San Salvador)", "lat": 24.05, "lng": -74.48, "year": 1492 },
+            { "name": "Northern Cuba", "lat": 21.07, "lng": -75.65, "year": 1492 },
+            { "name": "La Navidad, Hispaniola", "lat": 19.71, "lng": -72.10, "year": 1492 }
+          ],
+          "text": "Columbus sailed from Palos in August 1492, refitted in the Canaries and reached the Bahamas on 12 October. After coasting Cuba he founded La Navidad on Hispaniola with the timbers of the wrecked Santa María; on his return in 1493 he found it destroyed and its garrison dead."
+        },
+        {
+          "id": "conquest-cortes-mexico",
+          "title": "Cortés's march to Tenochtitlan",
+          "people": "Hernán Cortés, about 500 Spaniards and thousands of Totonac and Tlaxcalan allies",
+          "year": 1519,
+          "endYear": 1521,
+          "stops": [
+            { "name": "Villa Rica de la Vera Cruz", "lat": 19.66, "lng": -96.42, "year": 1519 },
+            { "name": "Cempoala", "lat": 19.44, "lng": -96.40, "year": 1519 },
+            { "name": "Tlaxcala", "lat": 19.32, "lng": -98.24, "year": 1519 },
+            { "name": "Cholula", "lat": 19.06, "lng": -98.30, "year": 1519 },
+            { "name": "Tenochtitlan", "lat": 19.4326, "lng": -99.1332, "year": 1519 },
+            { "name": "Tlaxcala (retreat after the Noche Triste)", "lat": 19.32, "lng": -98.24, "year": 1520 },
+            { "name": "Tenochtitlan (siege and fall)", "lat": 19.4326, "lng": -99.1332, "year": 1521 }
+          ],
+          "text": "Cortés scuttled his ships, won the Totonacs of Cempoala as allies, fought and then allied with Tlaxcala, massacred the people of Cholula and entered Tenochtitlan in November 1519. Driven out in June 1520, he regrouped in Tlaxcala, built brigantines for the lake and besieged the city until its fall in August 1521."
+        },
+        {
+          "id": "conquest-pizarro-peru",
+          "title": "Pizarro's invasion of the Inca empire",
+          "people": "Francisco Pizarro, his brothers and about 170 Spaniards",
+          "year": 1532,
+          "endYear": 1533,
+          "stops": [
+            { "name": "Tumbes", "lat": -3.57, "lng": -80.45, "year": 1532 },
+            { "name": "San Miguel de Piura", "lat": -5.19, "lng": -80.63, "year": 1532 },
+            { "name": "Cajamarca", "lat": -7.16, "lng": -78.51, "year": 1532 },
+            { "name": "Jauja", "lat": -11.78, "lng": -75.50, "year": 1533 },
+            { "name": "Cusco", "lat": -13.53, "lng": -71.97, "year": 1533 }
+          ],
+          "text": "Landing at Tumbes, Pizarro founded San Miguel de Piura and climbed into the Andes to Cajamarca, where he seized Atahualpa in November 1532. After Atahualpa's execution the Spaniards marched south along the Inca road and occupied Cusco in November 1533."
+        }
+      ],
+      "ledTo": ["slavery-and-colonial-wars"],
+      "eventIds": ["spanish-conquest-of-americas-1492", "franciscan-twelve-mexico-1524", "our-lady-of-guadalupe-1531", "valladolid-debate-1550"],
+      "traditionIds": ["catholic"],
+      "sources": ["m2-hanke-spanish-struggle", "m2-ricard-spiritual-conquest", "m2-clendinnen-ambivalent-conquests", "gonzalez-latin-america", "w3-elliott-empires", "w3-restall-seven-myths", "w3-las-casas-short-account", "w3-livi-bacci-conquest", "w3-seed-ceremonies"],
+      "confidence": "established"
+    },
+    {
+      "id": "german-peasants-war",
+      "name": "The German Peasants' War",
+      "kind": "rebellion",
+      "startYear": 1524,
+      "endYear": 1525,
+      "region": "Southern and central Germany, Alsace, Austria and Switzerland",
+      "place": { "name": "Frankenhausen", "lat": 51.357, "lng": 11.101 },
+      "religionRole": "major",
+      "religionRoleNote": "The grievances behind the war — serfdom, rising dues and tithes, loss of common woods, waters and pastures, and lords' encroachment on village self-government — were old, and earlier risings such as the Bundschuh and Poor Conrad (1514) had no Protestant element. What was new in 1525 was the language of the Reformation: the ‘pure gospel’ and ‘divine law’ (göttliches Recht), which turned local complaints into a programme for a Christian social order. Peter Blickle called it a ‘revolution of the common man’ legitimised by the gospel; Marxist historians, following Engels, saw an early bourgeois revolution with Thomas Müntzer as its hero; Tom Scott and Bob Scribner stress regional variety and economic causes. Most historians now agree that religion did not cause the war but decisively shaped its ideology and scale, while Müntzer's apocalyptic theology made the Thuringian rising an explicitly holy war.",
+      "sides": [
+        { "name": "Peasant bands (Haufen) and allied townsmen", "faith": "Evangelical and radical Reformation sympathies, many still Catholic in practice", "leaders": ["Thomas Müntzer", "Heinrich Pfeiffer", "Hans Müller of Bulgenbach", "Wendel Hipler", "Florian Geyer", "Götz von Berlichingen (coerced)", "Michael Gaismair"] },
+        { "name": "Swabian League and the princes", "faith": "Catholic and Lutheran princes alike", "leaders": ["Georg Truchsess von Waldburg", "Philip of Hesse", "Duke George of Saxony", "Duke John of Saxony", "Duke Antoine of Lorraine", "Archduke Ferdinand of Austria"] }
+      ],
+      "summary": "In 1524–25 the largest popular uprising in Europe before the French Revolution swept through southern and central Germany. Hundreds of thousands of peasants and townspeople, inspired by Reformation preaching, demanded the abolition of serfdom and a social order based on ‘divine law’. The princes, Catholic and Lutheran together, crushed the rising in a few weeks of battles and reprisals that killed tens of thousands, while Luther's call to ‘smite, slay and stab’ the rebels permanently shaped the Reformation's relationship to the state.",
+      "story": "Southern Germany in the early sixteenth century was a patchwork of lordships in which peasants faced growing burdens: lords revived or extended serfdom, raised dues and death-duties, restricted access to woods, rivers and common pasture, and tightened their courts. Secret peasant leagues under the sign of the laced peasant boot, the Bundschuh, had plotted risings in 1493, 1502, 1513 and 1517, and the Poor Conrad rebellion shook Württemberg in 1514. From 1520 the preaching of Luther and others gave these grievances a new vocabulary. Luther's Freedom of a Christian, the attack on clerical wealth and tithes, and the demand that congregations be fed the ‘pure gospel’ suggested that existing burdens had no basis in Scripture.\n\nThe war began in the summer of 1524 in the landgraviate of Stühlingen, near the Swiss border — according to a later story when the countess demanded that her peasants collect snail shells for winding yarn during harvest. Through the winter, unrest spread across the Black Forest, the Hegau and Upper Swabia. In February and March 1525 large armed assemblies formed at Baltringen, around Lake Constance and in the Allgäu, and on 7 March their delegates met at Memmingen and formed the Christian Union of Upper Swabia. There the furrier and lay preacher Sebastian Lotzer, probably with the town's preacher Christoph Schappeler, drafted the Twelve Articles. They asked for congregations to choose their own pastors, for the abolition of the ‘small tithe’ and of serfdom — ‘since Christ has redeemed us all with his precious blood’ — for free hunting, fishing and wood-gathering, and for fair rents and justice, and promised to withdraw any article shown to be contrary to Scripture. Printed in some 25 editions within two months, they became the manifesto of the whole movement.\n\nIn April and May the rising spread to Franconia, Württemberg, Alsace, Thuringia, Saxony, Tyrol and Salzburg. Peasant bands stormed and burned castles and monasteries, often plundering their wine cellars, and forced nobles and towns to join their ‘Christian brotherhood’. On Easter Sunday, 16 April 1525, the Odenwald band took Weinsberg and made Count Ludwig von Helfenstein and other nobles run a gauntlet of pikes before the eyes of his wife — an atrocity that hardened opinion against the peasants everywhere. In Thuringia Thomas Müntzer, the radical preacher of Mühlhausen, declared that the time of the harvest had come, that the godless had no right to live and that the sword had been given to the elect; he signed his letters ‘Thomas Müntzer with the sword of Gideon’.\n\nLuther at first, in his Admonition to Peace (April 1525), rebuked the lords for their tyranny as well as the peasants for using the gospel to justify rebellion. After touring Thuringia and hearing of Weinsberg he wrote Against the Robbing and Murdering Hordes of Peasants, urging the princes to ‘smite, slay and stab, secretly or openly’, for nothing could be more poisonous than a rebel. It appeared as the princes were already striking back. The Swabian League's army under Georg Truchsess von Waldburg — the ‘Bauernjörg’ — had defeated a peasant force at Leipheim on 4 April and negotiated the Treaty of Weingarten with the Lake Constance band on 17 April; on 12 May it routed the Württemberg peasants at Böblingen and burned Weinsberg in reprisal.\n\nThe decisive blow fell in Thuringia. On 15 May 1525 the armies of Philip of Hesse, Duke George of Saxony and Duke Henry of Brunswick attacked about 8,000 poorly armed peasants in their wagon fort above Frankenhausen while negotiations were still going on. Müntzer had promised that he would catch the cannonballs in his sleeve; a rainbow, his emblem, is said to have appeared over the field. Some 5,000–6,000 peasants were killed for a handful of princely losses. Müntzer was found hiding in the town, tortured, and beheaded with Heinrich Pfeiffer outside Mühlhausen on 27 May. Two days after Frankenhausen, Duke Antoine of Lorraine's army massacred thousands of Alsatian peasants at Saverne after they had surrendered. In Franconia the Swabian League destroyed the peasant armies at Königshofen on 2 June and Ingolstadt on 4 June, where Florian Geyer's Black Band was annihilated, and relieved the besieged fortress of Würzburg.\n\nReprisals followed: executions, mutilations, villages burned, and heavy fines that took years to pay. Pockets of resistance continued in Salzburg and Tyrol, where Michael Gaismair drew up a radical Tyrolean constitution (1526) for an egalitarian Christian commonwealth before he fled to Venice. The Diet of Speyer in 1526 recommended some moderation in lords' demands, and in parts of the south-west peasants gained limited rights through negotiated settlements and courts.\n\nThe defeat had lasting consequences for the Reformation. Luther's movement, already distrustful of popular radicalism, bound itself to the princes, who became the guardians of the territorial churches. Catholic polemicists blamed Luther for the bloodshed, while the bloody end of Müntzer's apocalyptic crusade helped push the emerging Anabaptists in Switzerland and South Germany towards the renunciation of the sword at Schleitheim in 1527. In the nineteenth and twentieth centuries the war became a contested national memory: Engels and East German historians celebrated Müntzer as a revolutionary, the GDR built a vast panorama painting at Bad Frankenhausen, and church historians continued to debate Luther's role.",
+      "nameOfGod": "The rebels claimed to stand for ‘the gospel and divine justice’: the Twelve Articles grounded every demand in Scripture, arguing that serfdom was incompatible with Christ's redemption of all, and called their alliance the ‘Christian Union’ or ‘Christian brotherhood’. Peasant banners bore the cross, the crucifix and the rainbow. Müntzer preached to the princes on Daniel 2 (July 1524) that the sword was given to rulers to destroy the godless and would pass to the people if they failed, told the miners of Mansfeld ‘at them, at them, while the fire is hot’, and promised the Frankenhausen army divine protection. On the other side Luther invoked Romans 13 to declare that rebels forfeit their lives before God and that a prince killing a rebel could ‘win heaven with bloodshed’.",
+      "religiousCauses": [
+        "Evangelical preaching of the ‘pure gospel’ and the priesthood of all believers encouraged villagers to judge their lords' demands by Scripture and to demand the right to choose their own pastors.",
+        "The concept of ‘divine law’ (göttliches Recht), drawn from Reformation preaching, replaced appeals to ‘old law’ and custom with a universal Christian standard against serfdom and unjust dues.",
+        "Anticlericalism and resentment of ecclesiastical lords — abbeys and prince-bishoprics were among the harshest landlords — made monasteries prime targets.",
+        "Thomas Müntzer's apocalyptic theology, which taught that the elect must take the sword against the godless before Christ's return, turned the Thuringian rising into a holy war."
+      ],
+      "otherCauses": [
+        "Lords were reimposing and extending serfdom, death duties and labour services in the late fifteenth and early sixteenth centuries.",
+        "Population growth, rising prices and pressure on land made the enclosure of commons, forests and fishing rights especially bitter.",
+        "Territorial princes were consolidating their states, undermining the autonomy of village communities and their courts.",
+        "A tradition of peasant conspiracies (the Bundschuh) and the example of the Swiss, who had freed themselves from lords, encouraged armed resistance.",
+        "In the towns, journeymen and poorer citizens joined the rising against urban oligarchies."
+      ],
+      "triggers": [
+        "The Stühlingen peasants' refusal of labour services in June 1524, which began a chain of local strikes and assemblies.",
+        "The formation of the Christian Union of Upper Swabia at Memmingen in March 1525 and the rapid printing of the Twelve Articles.",
+        "The absence of the Swabian League's troops in Italy during the war with France, which left lords without force in early 1525."
+      ],
+      "timeline": [
+        { "year": 1524, "text": "June: the Stühlingen peasants rise; in July Müntzer preaches his Sermon to the Princes at Allstedt." },
+        { "year": 1524, "text": "September: Conrad Grebel and his Zurich circle write to Müntzer urging him not to defend the gospel with the sword." },
+        { "year": 1525, "text": "February–March: armed bands assemble at Baltringen, Lake Constance and the Allgäu; the Christian Union forms at Memmingen and the Twelve Articles are printed." },
+        { "year": 1525, "text": "4 April: the Swabian League defeats peasants at Leipheim; 16 April: the Weinsberg massacre of nobles." },
+        { "year": 1525, "text": "17 April: Treaty of Weingarten; Luther publishes his Admonition to Peace." },
+        { "year": 1525, "text": "May: Luther's Against the Robbing and Murdering Hordes of Peasants; 12 May: peasants routed at Böblingen." },
+        { "year": 1525, "text": "15 May: massacre at Frankenhausen; 17 May: slaughter of Alsatian peasants at Saverne; 27 May: Müntzer beheaded at Mühlhausen." },
+        { "year": 1525, "text": "2–4 June: Franconian peasants destroyed at Königshofen and Ingolstadt; Würzburg relieved." },
+        { "year": 1526, "text": "Michael Gaismair's Tyrolean constitution; the Salzburg rising is suppressed; the Diet of Speyer urges moderation." },
+        { "year": 1527, "text": "The Schleitheim Confession of the Swiss Brethren renounces the sword for Christians." }
+      ],
+      "keyPeople": [
+        { "name": "Thomas Müntzer", "personId": "thomas-muntzer", "years": "c. 1489–1525", "origin": "Stolberg, Harz", "role": "Radical preacher in Allstedt and Mühlhausen", "focus": "Formed the Eternal League of God, preached the overthrow of the godless and led the Thuringian peasants at Frankenhausen.", "outcome": "Captured, tortured and beheaded on 27 May 1525; later celebrated by Marxist historians and condemned by Lutheran tradition." },
+        { "name": "Martin Luther", "personId": "martin-luther", "years": "1483–1546", "origin": "Eisleben, Saxony", "role": "Wittenberg reformer", "focus": "Criticised lords and peasants in his Admonition to Peace, then urged the princes to crush the ‘murdering hordes’.", "outcome": "Never retracted the substance of his call, though he defended it in An Open Letter on the Harsh Book (1525); his stance tied Lutheranism closely to princely authority." },
+        { "name": "Sebastian Lotzer", "years": "c. 1490–after 1525", "origin": "Horb am Neckar", "role": "Furrier, lay preacher and secretary of the Baltringen band", "focus": "Principal drafter of the Twelve Articles at Memmingen.", "outcome": "Fled to Switzerland after the defeat; his later fate is unknown." },
+        { "name": "Christoph Schappeler", "years": "1472–1551", "origin": "St Gallen", "role": "Preacher at Memmingen", "focus": "Probably supplied the scriptural citations of the Twelve Articles.", "outcome": "Fled to St Gallen, where he served as a Reformed pastor until his death." },
+        { "name": "Georg Truchsess von Waldburg", "years": "1488–1531", "origin": "Waldburg, Swabia", "role": "Commander of the Swabian League's army (‘Bauernjörg’)", "focus": "Defeated the Swabian, Württemberg and Franconian bands in a swift campaign from Leipheim to Würzburg.", "outcome": "Rewarded by the Habsburgs and remembered as the scourge of the peasants." },
+        { "name": "Philip of Hesse", "years": "1504–1567", "origin": "Marburg", "role": "Landgrave of Hesse", "focus": "Newly Lutheran, he joined Catholic princes to destroy Müntzer's army at Frankenhausen.", "outcome": "Became the leading political patron of the Reformation and co-founder of the Schmalkaldic League." },
+        { "name": "Florian Geyer", "years": "c. 1490–1525", "origin": "Giebelstadt, Franconia", "role": "Franconian knight who led the peasants' Black Band", "focus": "Fought for the peasants and pressed for a reform of the Empire.", "outcome": "Killed in June 1525 after his band was annihilated near Ingolstadt; later a hero of German nationalist and socialist memory." },
+        { "name": "Michael Gaismair", "years": "1490–1532", "origin": "Sterzing, Tyrol", "role": "Leader of the Tyrolean peasants", "focus": "Drafted a constitution for a Christian, egalitarian Tyrol without nobles or clerical lords.", "outcome": "Fled to Venice and was assassinated in Padua in 1532 by agents seeking the Habsburg bounty." },
+        { "name": "Balthasar Hubmaier", "personId": "balthasar-hubmaier", "years": "c. 1480–1528", "origin": "Friedberg, Bavaria", "role": "Reformer of Waldshut, later Anabaptist leader", "focus": "Supported the Black Forest peasants and may have helped shape their programme; Waldshut allied with the rebels.", "outcome": "Fled when Austria retook Waldshut; burned in Vienna in 1528 as an Anabaptist and rebel." }
+      ],
+      "casualties": {
+        "low": 70000,
+        "high": 100000,
+        "note": "The figure of about 100,000 dead, repeated since the sixteenth century, is traditional and probably an upper estimate; many modern historians prefer ‘70,000–100,000’ or simply ‘tens of thousands’. Most victims were peasants killed in a few one-sided battles and their aftermath (perhaps 5,000–6,000 at Frankenhausen and several thousand at Saverne) and in subsequent executions; noble and princely losses were very small. No systematic count was made."
+      },
+      "effects": [
+        "The rising was crushed everywhere except in a few areas where negotiated settlements brought modest relief; serfdom persisted in much of Germany for centuries.",
+        "Princely power grew, and the German peasantry did not rise on such a scale again before the nineteenth century.",
+        "Some territories, through courts and treaties such as those in Kempten and Tyrol, offered limited legal redress for peasant grievances.",
+        "The war became a powerful symbol in later German politics, claimed by liberals, nationalists and especially by Marxists and the German Democratic Republic."
+      ],
+      "effectsOnChurch": [
+        "Luther's movement bound itself to the territorial princes, who directed the Lutheran churches through church ordinances and visitations from 1526–27.",
+        "Catholic opponents blamed the Reformation for the rising, and the experience pushed several territories and cities back towards Rome.",
+        "The emerging Anabaptist movement, partly associated with the rebels in Waldshut and Thuringia, turned decisively to non-resistance at Schleitheim in 1527, while authorities treated all Anabaptists as potential revolutionaries.",
+        "The failure of Müntzer's crusade discredited apocalyptic violence for most Protestants, though Melchiorite apocalypticism would return at Münster."
+      ],
+      "legacy": "The Peasants' War marked the point at which the Reformation ceased to be a popular movement of the ‘common man’ and became a reform managed by princes and city councils. Luther's harsh pamphlet remains one of the most debated texts of his career, and the Lutheran World Federation and German churches marked the 500th anniversary in 2025 with reflection on his role. Müntzer's memory has passed from heretic to revolutionary icon to a subject of nuanced theological study.",
+      "dissenters": [
+        { "name": "Conrad Grebel", "personId": "conrad-grebel", "text": "In a letter of September 1524 the Zurich radicals told Müntzer that the gospel and its followers ‘are not to be protected by the sword, nor are they thus to protect themselves’, and urged him to give up preaching violence against the godless." },
+        { "name": "Johannes Brenz", "text": "The Lutheran reformer of Schwäbisch Hall wrote in 1525 urging princes to show mercy to defeated peasants and condemning indiscriminate reprisals." },
+        { "name": "Martin Luther (Admonition to Peace)", "personId": "martin-luther", "text": "Before turning against the rebels, Luther told the lords that God was punishing their tyranny and urged both sides to arbitration rather than war, while denying that the gospel could justify rebellion." },
+        { "name": "Michael Sattler", "personId": "michael-sattler", "text": "A former Benedictine prior whose abbey was occupied by peasants, he became an Anabaptist and in the Schleitheim Confession (1527) declared the sword ‘outside the perfection of Christ’; he was executed at Rottenburg in 1527." }
+      ],
+      "theatres": [
+        { "name": "Stühlingen, outbreak of the rising", "lat": 47.745, "lng": 8.446, "year": 1524 },
+        { "name": "Memmingen, the Twelve Articles", "lat": 47.987, "lng": 10.181, "year": 1525 },
+        { "name": "Leipheim", "lat": 48.45, "lng": 10.22, "year": 1525 },
+        { "name": "Weinsberg massacre", "lat": 49.151, "lng": 9.286, "year": 1525 },
+        { "name": "Battle of Böblingen", "lat": 48.685, "lng": 9.015, "year": 1525 },
+        { "name": "Battle of Frankenhausen", "lat": 51.357, "lng": 11.101, "year": 1525 },
+        { "name": "Mühlhausen, execution of Müntzer", "lat": 51.208, "lng": 10.452, "year": 1525 },
+        { "name": "Saverne massacre", "lat": 48.741, "lng": 7.362, "year": 1525 },
+        { "name": "Battle of Königshofen", "lat": 49.545, "lng": 9.708, "year": 1525 },
+        { "name": "Siege of the Marienberg, Würzburg", "lat": 49.79, "lng": 9.92, "year": 1525 }
+      ],
+      "campaigns": [
+        {
+          "id": "german-truchsess-1525",
+          "title": "The Swabian League's campaign",
+          "people": "Georg Truchsess von Waldburg and the army of the Swabian League",
+          "year": 1525,
+          "stops": [
+            { "name": "Ulm", "lat": 48.40, "lng": 9.99, "year": 1525 },
+            { "name": "Leipheim", "lat": 48.45, "lng": 10.22, "year": 1525 },
+            { "name": "Weingarten", "lat": 47.81, "lng": 9.64, "year": 1525 },
+            { "name": "Böblingen", "lat": 48.685, "lng": 9.015, "year": 1525 },
+            { "name": "Weinsberg", "lat": 49.151, "lng": 9.286, "year": 1525 },
+            { "name": "Königshofen", "lat": 49.545, "lng": 9.708, "year": 1525 },
+            { "name": "Würzburg", "lat": 49.79, "lng": 9.92, "year": 1525 }
+          ],
+          "text": "From Ulm the League's army crushed the Baltringen band at Leipheim, made terms with the Lake Constance peasants at Weingarten, routed the Württembergers at Böblingen, burned Weinsberg in revenge, and destroyed the Franconian armies at Königshofen before entering Würzburg in June."
+        },
+        {
+          "id": "german-thuringia-1525",
+          "title": "The princes' march on Frankenhausen",
+          "people": "Philip of Hesse, Duke George of Saxony and Duke Henry of Brunswick",
+          "year": 1525,
+          "stops": [
+            { "name": "Fulda", "lat": 50.55, "lng": 9.68, "year": 1525 },
+            { "name": "Eisenach", "lat": 50.97, "lng": 10.32, "year": 1525 },
+            { "name": "Frankenhausen", "lat": 51.357, "lng": 11.101, "year": 1525 },
+            { "name": "Mühlhausen", "lat": 51.208, "lng": 10.452, "year": 1525 }
+          ],
+          "text": "Philip of Hesse subdued the Fulda peasants in early May, marched through Thuringia, joined the Saxon and Brunswick forces before Frankenhausen on 15 May, then received the surrender of Mühlhausen, where Müntzer and Pfeiffer were executed."
+        },
+        {
+          "id": "german-muntzer-journey",
+          "title": "Müntzer's road to Frankenhausen",
+          "people": "Thomas Müntzer",
+          "personIds": ["thomas-muntzer"],
+          "year": 1523,
+          "endYear": 1525,
+          "stops": [
+            { "name": "Allstedt", "lat": 51.40, "lng": 11.38, "year": 1523 },
+            { "name": "Mühlhausen", "lat": 51.208, "lng": 10.452, "year": 1524 },
+            { "name": "Nuremberg", "lat": 49.45, "lng": 11.08, "year": 1524 },
+            { "name": "Griessen, Klettgau", "lat": 47.62, "lng": 8.43, "year": 1525 },
+            { "name": "Mühlhausen", "lat": 51.208, "lng": 10.452, "year": 1525 },
+            { "name": "Frankenhausen", "lat": 51.357, "lng": 11.101, "year": 1525 }
+          ],
+          "text": "Expelled from Allstedt after his Sermon to the Princes, Müntzer went to Mühlhausen, printed tracts in Nuremberg and spent the winter among the rebellious peasants of the Klettgau and Hegau before returning to Mühlhausen and leading its men to Frankenhausen."
+        }
+      ],
+      "ledTo": ["munster-rebellion"],
+      "eventIds": ["ninety-five-theses-1517", "diet-of-worms-1521", "first-adult-baptisms-zurich-1525", "schleitheim-confession-1527"],
+      "traditionIds": ["lutheran", "anabaptist", "catholic"],
+      "sources": ["w3-blickle-revolution-1525", "w3-scott-scribner-peasants-war", "w3-goertz-muntzer", "w3-twelve-articles", "w3-luther-against-hordes", "stayer-anabaptists-sword", "macculloch-reformation"],
+      "confidence": "established"
+    },
+    {
+      "id": "munster-rebellion",
+      "name": "The Anabaptist kingdom of Münster",
+      "kind": "sectarian",
+      "startYear": 1534,
+      "endYear": 1535,
+      "region": "Westphalia and the Low Countries",
+      "place": { "name": "Münster", "lat": 51.9625, "lng": 7.6256 },
+      "religionRole": "central",
+      "religionRoleNote": "Few conflicts were more thoroughly religious. The Anabaptist takeover was driven by Melchior Hoffman's prophecy of the imminent end and by Jan Matthys's conviction that the elect must now wield the sword to prepare the New Jerusalem; the besieging prince-bishop fought to recover his city and to destroy heresy, supported by Lutheran and Catholic princes alike. Historians (Sigrun Haude, Ralf Klötzer, James Stayer) also stress the background of guild politics, the struggle of the city against its bishop, and the influx of desperate refugees from the Netherlands, but they agree that apocalyptic belief was the motor of events.",
+      "sides": [
+        { "name": "Anabaptist ‘New Jerusalem’ of Münster", "faith": "Melchiorite Anabaptism", "leaders": ["Jan Matthys", "Jan of Leiden (Jan Bockelson)", "Bernhard Knipperdolling", "Bernhard Rothmann", "Heinrich Krechting"] },
+        { "name": "Prince-Bishop of Münster and allied princes", "faith": "Roman Catholic, with Lutheran allies", "leaders": ["Franz von Waldeck", "Philip of Hesse", "Duke John III of Cleves", "Archbishop Hermann von Wied of Cologne"] }
+      ],
+      "summary": "In 1534 radical Anabaptists, expecting the imminent return of Christ, took control of the Westphalian city of Münster, expelled those who refused rebaptism and proclaimed it the New Jerusalem. Under siege by its Catholic prince-bishop and Lutheran allies, the city became a theocratic kingdom with community of goods, polygamy and a self-proclaimed King David, Jan of Leiden. It fell in June 1535 amid famine and massacre, and its memory haunted Anabaptists and justified their persecution for generations.",
+      "story": "Münster was the seat of a prince-bishopric whose citizens, organised in powerful guilds, had long struggled against their clerical overlord. From 1531 the preacher Bernhard Rothmann won the city for the Reformation, and the Treaty of Dülmen in February 1533 granted the parish churches to the evangelicals. Rothmann soon moved beyond Lutheranism, rejecting infant baptism and adopting a symbolic view of the Lord's Supper. At the same time the Low Countries were full of followers of Melchior Hoffman, a lay preacher who taught that the last days were at hand and that Strasbourg would be the New Jerusalem in 1533; when Hoffman was imprisoned there, his follower Jan Matthys, a baker from Haarlem, claimed to be the prophet Enoch, declared that the time of patient suffering was over, and transferred the hope of the New Jerusalem to Münster.\n\nIn January 1534 Matthys's ‘apostles’ arrived in Münster and rebaptised some 1,400 people within a week; among them was a young tailor from Leiden, Jan Bockelson. Anabaptists flowed in from the region and the Netherlands, while Catholics and Lutherans left. On 23 February 1534 the Anabaptists won the council elections and the cloth merchant Bernhard Knipperdolling became burgomaster. Matthys arrived, and on 27 February all who refused rebaptism were driven out of the city into a winter storm, leaving their property behind. Prince-Bishop Franz von Waldeck began a siege the next day. In March some 3,000 Dutch Anabaptists who sailed for Münster were intercepted near Hasselt and Genemuiden, and their leaders executed.\n\nInside the walls Matthys ordered all property held in common, money abolished and every book except the Bible burned. On Easter Sunday, 5 April 1534, believing himself called to be a new Gideon, he rode out with a handful of men against the besiegers and was killed. Jan of Leiden took over, replaced the council with twelve elders after the tribes of Israel, and repelled major assaults on 25 May and 31 August 1534. In July he introduced polygamy, justified by the patriarchs and by the surplus of women in the city; an uprising led by the smith Heinrich Mollenhecke was crushed and its participants executed. In September Jan was proclaimed King of the New Jerusalem, with a court, crown and orb, as the ruler of the whole world before Christ's return.\n\nRothmann's tracts The Restitution (October 1534) and On Vengeance (December 1534) called on true Christians everywhere to take up the sword against the godless. Emissaries were sent out to raise the faithful, and in 1535 Melchiorite risings broke out in the Netherlands: some 300 Anabaptists seized the Oldeklooster near Bolsward in Friesland in March–April 1535 and were killed or executed when it was stormed, and on 10–11 May an attack on Amsterdam's town hall ended in executions. Within Münster discipline was savage; dissenters, deserters and disobedient wives were executed, and Jan himself was said to have beheaded one of his wives, Elisabeth Wandscherer, in the market square.\n\nBy the spring of 1535 the blockade, now supported by princes of the Empire, Lutheran and Catholic, had brought famine; people ate grass, rats and leather. Jan let starving women, children and old men leave, but many were killed or left to die between the lines. On the night of 24–25 June 1535 two deserters, including Heinrich Gresbeck, guided the besiegers through a weak point in the walls. Hundreds of defenders were killed in the fighting and the massacre that followed; others were executed, and the women were expelled. Rothmann disappeared and was probably killed. Jan of Leiden, Knipperdolling and Bernhard Krechting were displayed around the region, then publicly tortured with red-hot tongs and executed on 22 January 1536; their bodies were hung in iron cages from the tower of St Lambert's Church, where the cages still hang.\n\nMünster was restored to Catholicism under the bishop. Across Europe ‘Münster’ became a byword used by Catholics and Protestants to justify the persecution of all Anabaptists as seditious. Among the survivors of the Melchiorite movement, a violent fringe continued under Jan van Batenburg, but the majority were regathered by Obbe and Dirk Philips and by the former priest Menno Simons, who rejected the sword and the kingdom of Münster and built the peaceful communities later called Mennonites.",
+      "nameOfGod": "The Münsterites believed they were living in the last days foretold in Daniel and Revelation, that Münster was the New Jerusalem and Matthys the prophet Enoch, and that the elect must purify the earth of the godless before Christ's return. Rothmann's On Vengeance (1534) told Christians that the time had come to ‘repay Babylon double’. Jan of Leiden ruled as a new King David, and his throne bore an orb pierced by two swords. On the other side the bishop and princes fought to suppress heresy and sedition, and the imperial authorities invoked the 1529 Diet of Speyer's mandate imposing death on rebaptisers.",
+      "religiousCauses": [
+        "Melchior Hoffman's prophecy that the end of the world would come in 1533 and that 144,000 witnesses would gather in the New Jerusalem.",
+        "Jan Matthys's teaching that the time of suffering was over and that the elect must take the sword against the ungodly.",
+        "Bernhard Rothmann's radicalisation of the Münster Reformation, rejecting infant baptism and the authority of the bishop.",
+        "The bishop's and princes' determination to destroy Anabaptism, which imperial law since 1529 punished with death."
+      ],
+      "otherCauses": [
+        "A long struggle between the city's guilds and its prince-bishop over civic autonomy.",
+        "The persecution of Anabaptists in the Habsburg Netherlands, which drove thousands of refugees to seek a place of safety.",
+        "Economic distress among artisans and the urban poor in the Low Countries and Westphalia in the early 1530s.",
+        "The fear of princes, Lutheran and Catholic, that a successful ‘revolution of the saints’ would spread throughout the Empire."
+      ],
+      "triggers": [
+        "The arrival of Jan Matthys's apostles and the mass rebaptisms of January 1534.",
+        "The Anabaptist victory in the council elections of 23 February 1534 and the expulsion of non-Anabaptists on 27 February.",
+        "Prince-Bishop Franz von Waldeck's decision to besiege the city."
+      ],
+      "timeline": [
+        { "year": 1533, "text": "Treaty of Dülmen (February) gives Münster's parish churches to the evangelicals; Rothmann rejects infant baptism; Hoffman is imprisoned in Strasbourg." },
+        { "year": 1534, "text": "5 January: Matthys's apostles arrive and begin mass rebaptism; Jan of Leiden arrives a week later." },
+        { "year": 1534, "text": "23 February: Anabaptists win the council elections; 27 February: non-Anabaptists are expelled and the siege begins." },
+        { "year": 1534, "text": "March: some 3,000 Dutch Anabaptists sailing to Münster are intercepted near Hasselt." },
+        { "year": 1534, "text": "5 April: Matthys is killed in a sortie on Easter Sunday; Jan of Leiden takes control." },
+        { "year": 1534, "text": "25 May and 31 August: major assaults by the besiegers are repelled." },
+        { "year": 1534, "text": "July: polygamy is introduced and the Mollenhecke revolt crushed; September: Jan is crowned king." },
+        { "year": 1534, "text": "October–December: Rothmann's Restitution and On Vengeance call for holy war." },
+        { "year": 1535, "text": "March–April: Anabaptists seize and lose the Oldeklooster in Friesland; May: attack on Amsterdam town hall." },
+        { "year": 1535, "text": "24–25 June: Münster is taken by treachery and its defenders massacred." },
+        { "year": 1536, "text": "22 January: Jan of Leiden, Knipperdolling and Krechting are tortured and executed; their bodies are hung in cages on St Lambert's tower." },
+        { "year": 1536, "text": "Menno Simons leaves the Catholic priesthood and begins to regather peaceful Anabaptists." }
+      ],
+      "keyPeople": [
+        { "name": "Jan Matthys", "years": "c. 1500–1534", "origin": "Haarlem", "role": "Melchiorite prophet", "focus": "Claimed to be Enoch, sent apostles to rebaptise, made Münster the New Jerusalem and introduced community of goods.", "outcome": "Killed in a sortie against the besiegers on Easter Sunday 1534." },
+        { "name": "Jan of Leiden (Jan Bockelson)", "personId": "john-of-leiden", "years": "1509–1536", "origin": "Leiden", "role": "King of the New Jerusalem", "focus": "Succeeded Matthys, introduced polygamy and ruled as a messianic king during the siege.", "outcome": "Tortured and executed in January 1536." },
+        { "name": "Bernhard Knipperdolling", "years": "c. 1495–1536", "origin": "Münster", "role": "Cloth merchant, burgomaster and later executioner of the kingdom", "focus": "Led the Anabaptist party among the citizens and enforced Jan's discipline.", "outcome": "Executed with Jan of Leiden in 1536." },
+        { "name": "Bernhard Rothmann", "years": "c. 1495–c. 1535", "origin": "Stadtlohn, Westphalia", "role": "Preacher and theologian of Münster", "focus": "Led the city from Lutheranism to Anabaptism and wrote the kingdom's propaganda, including On Vengeance.", "outcome": "Disappeared when the city fell, probably killed." },
+        { "name": "Melchior Hoffman", "years": "c. 1495–c. 1543", "origin": "Schwäbisch Hall", "role": "Lay apocalyptic preacher", "focus": "His prophecies inspired the movement, though he himself taught that believers should wait passively for God.", "outcome": "Died in prison in Strasbourg after about ten years' confinement." },
+        { "name": "Franz von Waldeck", "years": "1491–1553", "origin": "Waldeck", "role": "Prince-Bishop of Münster", "focus": "Besieged the city for sixteen months with help from the Empire's princes.", "outcome": "Recovered and re-Catholicised the city; himself later flirted with the Reformation." },
+        { "name": "Heinrich Gresbeck", "years": "fl. 1534–1535", "origin": "Münster", "role": "Carpenter and Anabaptist defector", "focus": "Escaped and guided the besiegers into the city in June 1535.", "outcome": "Wrote an eyewitness account of the kingdom, an important source alongside Hermann von Kerssenbrock's hostile history." },
+        { "name": "Menno Simons", "personId": "menno-simons", "years": "1496–1561", "origin": "Witmarsum, Friesland", "role": "Catholic priest, then Anabaptist elder", "focus": "Shaken by the deaths of Münsterites at the Oldeklooster, among them probably his brother, he wrote against Jan of Leiden's ‘blasphemy’.", "outcome": "Left the priesthood in 1536 and led the non-violent Anabaptists who took his name." }
+      ],
+      "casualties": {
+        "note": "No reliable totals exist. The city's population during the siege is estimated at roughly 7,000–9,000, many of them women. Several hundred defenders were killed in the storming of June 1535 and in the executions that followed, and an unknown number died of hunger or were killed between the lines during the famine. Besiegers' losses in the failed assaults of 1534 ran to hundreds. Hundreds more Melchiorites were executed in the Netherlands and Westphalia in 1534–36, after the Oldeklooster and Amsterdam risings and in the wider persecution."
+      },
+      "effects": [
+        "Münster was restored to the prince-bishop and to Catholicism, and lost much of its civic independence.",
+        "Imperial and territorial authorities intensified the persecution of all Anabaptists, citing Münster as proof of their sedition.",
+        "The episode became a stock example in European political thought of the dangers of religious ‘enthusiasm’ and fanaticism."
+      ],
+      "effectsOnChurch": [
+        "Anabaptism split decisively between a violent apocalyptic fringe, which faded after the 1530s, and a pacifist majority led by Menno Simons and the Philips brothers.",
+        "Lutheran, Reformed and Catholic polemic for centuries equated believers' baptism with revolution, making Münster a burden on Mennonites and later Baptists.",
+        "The Mennonite tradition of non-resistance and separation from political power was shaped in conscious reaction to Münster."
+      ],
+      "legacy": "The cages on St Lambert's tower remain the most visible memorial of the kingdom. For Mennonites, Münster was a trauma that confirmed the path of non-violence; for Catholic and Protestant authorities it justified the persecution of peaceable Anabaptists for generations. Modern historians read it as an extreme case of apocalyptic expectation under siege rather than as typical of Anabaptism, and in 2025 the city and churches of Münster joined Mennonites in reflecting on the persecution that followed.",
+      "dissenters": [
+        { "name": "Menno Simons", "personId": "menno-simons", "text": "In a tract against ‘the blasphemy of Jan of Leiden’ (c. 1535) he denied that any Christian king but Christ could rule his kingdom, and taught that believers ‘beat their swords into ploughshares’ and must never fight with the sword." },
+        { "name": "Obbe Philips", "text": "A Melchiorite elder who rejected Matthys's claims and the resort to arms, and gathered the peaceful Anabaptists of the Netherlands before handing leadership to Menno." },
+        { "name": "Melchior Hoffman", "text": "Although his prophecies set events in motion, Hoffman himself taught that the godly should wait for God's judgement rather than take up the sword." }
+      ],
+      "theatres": [
+        { "name": "Strasbourg, Hoffman's expected New Jerusalem", "lat": 48.5734, "lng": 7.7521, "year": 1533 },
+        { "name": "Haarlem, home of Jan Matthys", "lat": 52.38, "lng": 4.64, "year": 1533 },
+        { "name": "Siege of Münster", "lat": 51.9625, "lng": 7.6256, "year": 1534 },
+        { "name": "Interception of the Anabaptist fleet near Hasselt", "lat": 52.62, "lng": 6.09, "year": 1534 },
+        { "name": "Oldeklooster, Friesland", "lat": 53.06, "lng": 5.53, "year": 1535 },
+        { "name": "Amsterdam town hall rising", "lat": 52.373, "lng": 4.893, "year": 1535 }
+      ],
+      "campaigns": [
+        {
+          "id": "munster-apostles-1534",
+          "title": "The road to the New Jerusalem",
+          "people": "Jan Matthys's apostles and Dutch Anabaptist refugees",
+          "personIds": ["john-of-leiden"],
+          "year": 1533,
+          "endYear": 1534,
+          "stops": [
+            { "name": "Haarlem", "lat": 52.38, "lng": 4.64, "year": 1533 },
+            { "name": "Amsterdam", "lat": 52.373, "lng": 4.893, "year": 1533 },
+            { "name": "Leeuwarden", "lat": 53.20, "lng": 5.80, "year": 1533 },
+            { "name": "Münster", "lat": 51.9625, "lng": 7.6256, "year": 1534 }
+          ],
+          "text": "From Haarlem Matthys sent pairs of apostles through the Dutch provinces to rebaptise and to summon the faithful to Münster; the first arrived on 5 January 1534 and Matthys followed in February."
+        },
+        {
+          "id": "munster-fleet-1534",
+          "title": "The intercepted pilgrimage of March 1534",
+          "people": "About 3,000 Dutch Anabaptists",
+          "year": 1534,
+          "stops": [
+            { "name": "Monnickendam", "lat": 52.46, "lng": 5.04, "year": 1534 },
+            { "name": "Across the Zuiderzee", "lat": 52.55, "lng": 5.50, "year": 1534 },
+            { "name": "Genemuiden and Hasselt", "lat": 52.62, "lng": 6.09, "year": 1534 }
+          ],
+          "text": "Answering Matthys's summons, some 3,000 Anabaptists in about 27 ships crossed the Zuiderzee intending to march to Münster; they were stopped by the authorities of Overijssel at the mouth of the Zwarte Water, and most were sent home while their leaders were executed."
+        }
+      ],
+      "ledTo": [],
+      "eventIds": ["munster-rebellion-1534", "first-adult-baptisms-zurich-1525", "schleitheim-confession-1527"],
+      "traditionIds": ["anabaptist", "mennonite", "catholic", "lutheran"],
+      "sources": ["w3-haude-shadow-munster", "w3-kerssenbrock-anabaptist-madness", "w3-klotzer-tauferherrschaft", "stayer-anabaptists-sword", "williams-radical-reformation", "macculloch-reformation"],
+      "confidence": "established"
+    },
+    {
+      "id": "kappel-schmalkaldic-wars",
+      "name": "The Swiss Kappel Wars and the Schmalkaldic War",
+      "kind": "religious-war",
+      "startYear": 1529,
+      "endYear": 1547,
+      "region": "Swiss Confederation and the Holy Roman Empire",
+      "place": { "name": "Kappel am Albis", "lat": 47.228, "lng": 8.527 },
+      "religionRole": "major",
+      "religionRoleNote": "These were the first wars fought between Protestant and Catholic states, and confessional allegiance defined the alliances. In Switzerland Zwingli openly argued that Zurich must use force to open the Catholic cantons to the preaching of the gospel, and the Catholic cantons fought to defend the old faith. In Germany the Schmalkaldic League was a defensive alliance for the Augsburg Confession, and the Pope supplied troops and money to Charles V. Yet Charles carefully presented the Schmalkaldic War as the punishment of rebellious vassals, not a religious war, so that Lutheran princes such as Maurice of Saxony could fight on his side; and issues of imperial authority, princely ‘liberties’ and Habsburg power were inseparable from religion. Historians (Bruce Gordon, Thomas Brady, Joachim Whaley) therefore treat religion as a major, but not the sole, cause.",
+      "sides": [
+        { "name": "Zurich and the Protestant cantons and cities", "faith": "Reformed (Zwinglian)", "leaders": ["Huldrych Zwingli", "Zurich council", "Bern"] },
+        { "name": "The Five Catholic Cantons (Lucerne, Uri, Schwyz, Unterwalden, Zug)", "faith": "Roman Catholic", "leaders": ["Hans Golder of Lucerne", "Christian Union with Archduke Ferdinand (1529)"] },
+        { "name": "Schmalkaldic League", "faith": "Lutheran (with some Upper German cities)", "leaders": ["Elector John Frederick of Saxony", "Landgrave Philip of Hesse"] },
+        { "name": "Emperor Charles V and his allies", "faith": "Roman Catholic, with Lutheran allies", "leaders": ["Charles V", "Ferdinand of Austria", "Duke of Alba", "Maurice of Saxony", "Ottavio Farnese (papal troops)"] }
+      ],
+      "summary": "The first wars between Protestant and Catholic powers broke out in Switzerland, where Zurich's attempt to force the gospel on the Catholic inner cantons ended with Zwingli's death at Kappel in 1531, and in Germany, where Charles V crushed the Lutheran Schmalkaldic League at Mühlberg in 1547. Both wars ended not in religious unity but in compromise settlements — the Second Peace of Kappel and, after further conflict, the Peace of Augsburg (1555) — that let each state determine its own religion.",
+      "story": "In Zurich Huldrych Zwingli's Reformation, launched with the public disputations of 1523, abolished the Mass in 1525. The Swiss Confederation was a loose league of thirteen cantons, and the issue of religion became explosive in the ‘common lordships’ that several cantons governed together, where the Protestant and Catholic cantons clashed over which faith should be preached. Zurich and Bern formed a Christian Civic Union (Christliches Burgrecht) with other Protestant towns from 1527–28; the five Catholic inner cantons replied in 1529 with a Christian Union with their old enemy, Habsburg Austria. When the canton of Schwyz burned the Zurich pastor Jacob Kaiser in May 1529, Zurich declared war.\n\nThe First Kappel War of June 1529 ended almost without bloodshed. The armies faced each other near Kappel, and according to a celebrated story the soldiers of both sides shared a ‘milk soup’ across the border, the Catholics providing the milk and the Zurichers the bread. Mediators arranged the First Land Peace (26 June 1529), which favoured Zurich: the Austrian alliance was dissolved and the common lordships could choose their faith by majority. Zwingli, who had urged a decisive war, was dissatisfied and continued to plan for a wider anti-Habsburg alliance; the failure of the Marburg Colloquy with Luther in October 1529 left Zurich without German Lutheran support.\n\nIn May 1531, against Zwingli's advice to strike directly, Zurich and Bern imposed a food blockade on the inner cantons. On 9 October the Catholic cantons declared war and advanced on Kappel. On 11 October a hastily gathered Zurich force of a few thousand was overwhelmed; about 500 Zurichers died, among them some two dozen pastors and Zwingli himself, who had gone out as chaplain and fighter. His body was quartered and burned by the victors as a heretic's. A Protestant counter-attack failed at the Gubel on the night of 23–24 October. The Second Land Peace (November 1531) let each canton decide its own religion but protected Catholicism in the common lordships, halting the Reformation's expansion in central Switzerland. Heinrich Bullinger succeeded Zwingli and steered the Zurich church away from military politics.\n\nIn Germany the Protestant estates presented the Augsburg Confession to Charles V in 1530 and, threatened with enforcement of the Edict of Worms, formed the Schmalkaldic League in February 1531 under Saxony and Hesse. Luther, who had long taught that Christians may not resist the emperor, accepted from 1530 the lawyers' argument that princes could resist unlawful imperial force. For fifteen years Charles was held back by wars with France and the Ottomans and by the need for Protestant help; the League expanded, Protestant colloquies with Catholics at Regensburg in 1541 nearly reached agreement on justification, and Duke Henry of Brunswick, a Catholic, was driven from his lands by the League in 1542.\n\nAfter the Peace of Crépy with France (1544) and a truce with the Ottomans, Charles prepared for war. The Council of Trent opened in December 1545, Luther died in February 1546, and Pope Paul III promised troops and money. In July 1546 Charles placed John Frederick of Saxony and Philip of Hesse under the imperial ban as rebels, and secretly won over the Lutheran Duke Maurice of Saxony with the promise of John Frederick's electoral title. The League's armies failed to exploit their early advantage on the Danube; Maurice's invasion of electoral Saxony drew John Frederick home, and the southern German cities submitted over the winter. On 24 April 1547 Charles's army, crossing the Elbe by a ford, routed the Elector at Mühlberg and took him prisoner. Wittenberg capitulated in May, and Philip of Hesse, surrendering at Halle in June, was also imprisoned. Charles, the story goes, refused to have Luther's body exhumed, saying he made war on the living, not the dead.\n\nCharles's victory proved hollow. His Augsburg Interim of 1548, a temporary religious settlement imposed on Protestants pending the council, provoked widespread resistance, with Magdeburg as its centre. In 1552 Maurice of Saxony changed sides, allied with Henry II of France, and drove the emperor in flight from Innsbruck. The Treaty of Passau (1552) freed the captive princes, and the Peace of Augsburg (1555) recognised the Lutheran confession alongside Catholicism, allowing each prince to determine the religion of his territory — the principle later summed up as cuius regio, eius religio. Calvinists and Anabaptists were excluded, and the settlement's ambiguities would contribute to the Thirty Years' War.",
+      "nameOfGod": "Zwingli argued that a Christian magistrate was bound to defend and spread the true gospel, and that Zurich must use force to open the Catholic cantons to evangelical preaching; he rode to Kappel as chaplain with a sword. The Catholic cantons fought for the Mass and the saints and treated his body as a heretic's. In Germany the Schmalkaldic League was formed to defend the Augsburg Confession, and Lutheran pamphlets portrayed the war as a defence of the gospel against the papal Antichrist. Pope Paul III issued a bull granting a crusading-style indulgence to those who joined the war against the heretics and sent papal troops under Ottavio Farnese, though Charles himself avoided calling it a religious war.",
+      "religiousCauses": [
+        "Zwingli's conviction that the magistrate must establish true worship, and Zurich's determination to protect evangelical preaching in the common lordships.",
+        "The Catholic cantons' resolve to defend traditional faith, demonstrated by the burning of Jacob Kaiser in 1529.",
+        "The Protestant estates' refusal to accept the Edict of Worms and the threat of its enforcement after the Diet of Augsburg (1530).",
+        "Charles V's sense of duty as emperor to restore the unity of the Church, and papal pressure to coerce the Protestants after the opening of the Council of Trent."
+      ],
+      "otherCauses": [
+        "Rivalry between Zurich and the inner cantons for dominance within the Swiss Confederation and over the shared common lordships.",
+        "The constitutional struggle in the Empire between Habsburg imperial authority and the ‘German liberties’ of the princes.",
+        "Maurice of Saxony's ambition to gain the electoral title from his cousin John Frederick.",
+        "Habsburg rivalry with France and the Ottoman threat, which determined when Charles could act.",
+        "The League's seizure of the Duchy of Brunswick-Wolfenbüttel in 1542 and its expansion into ecclesiastical territories."
+      ],
+      "triggers": [
+        "The burning of Zurich pastor Jacob Kaiser by Schwyz in May 1529.",
+        "The Zurich and Bern food blockade of the Catholic cantons in 1531.",
+        "Charles V's imperial ban on the leaders of the Schmalkaldic League in July 1546."
+      ],
+      "timeline": [
+        { "year": 1523, "text": "Zurich's First Disputation launches Zwingli's Reformation." },
+        { "year": 1528, "text": "Bern adopts the Reformation and joins Zurich's Christian Civic Union." },
+        { "year": 1529, "text": "Jacob Kaiser burned at Schwyz; the First Kappel War ends without battle in the First Land Peace (26 June)." },
+        { "year": 1530, "text": "The Augsburg Confession is presented to Charles V." },
+        { "year": 1531, "text": "February: the Schmalkaldic League is founded; 11 October: Zwingli killed at the battle of Kappel." },
+        { "year": 1531, "text": "November: the Second Land Peace allows each canton its own faith." },
+        { "year": 1532, "text": "The Nuremberg Standstill suspends action against the Protestants in return for help against the Ottomans." },
+        { "year": 1541, "text": "Regensburg Colloquy: Contarini, Bucer and Melanchthon come close to agreement on justification." },
+        { "year": 1546, "text": "Luther dies in February; in July Charles V outlaws the League's leaders and war begins." },
+        { "year": 1547, "text": "24 April: Battle of Mühlberg; John Frederick captured; Philip of Hesse surrenders in June." },
+        { "year": 1548, "text": "The Augsburg Interim imposes a provisional religious settlement." },
+        { "year": 1552, "text": "Princes' Revolt under Maurice of Saxony; Treaty of Passau." },
+        { "year": 1555, "text": "Peace of Augsburg recognises Lutheranism alongside Catholicism." }
+      ],
+      "keyPeople": [
+        { "name": "Huldrych Zwingli", "personId": "huldrych-zwingli", "years": "1484–1531", "origin": "Wildhaus, Toggenburg", "role": "Reformer of Zurich", "focus": "Pressed for war against the Catholic cantons and marched with the Zurich army as chaplain.", "outcome": "Killed at Kappel on 11 October 1531; his body was quartered and burned." },
+        { "name": "Heinrich Bullinger", "personId": "heinrich-bullinger", "years": "1504–1575", "origin": "Bremgarten, Aargau", "role": "Zwingli's successor at Zurich", "focus": "Rebuilt the Zurich church after the defeat and kept it out of military adventures.", "outcome": "Became one of the most influential Reformed theologians of the century." },
+        { "name": "Charles V", "years": "1500–1558", "origin": "Ghent", "role": "Holy Roman Emperor and King of Spain", "focus": "Sought to restore religious unity, outlawed the League's leaders and won at Mühlberg.", "outcome": "Unable to enforce the Interim, he left the Peace of Augsburg to his brother Ferdinand and abdicated in 1555–56." },
+        { "name": "John Frederick I of Saxony", "years": "1503–1554", "origin": "Torgau", "role": "Elector of Saxony, leader of the Schmalkaldic League", "focus": "Commanded the League's forces in Saxony and was defeated at Mühlberg.", "outcome": "Lost his electoral title to Maurice and spent five years as the emperor's prisoner; founded the University of Jena." },
+        { "name": "Philip of Hesse", "years": "1504–1567", "origin": "Marburg", "role": "Landgrave of Hesse, co-leader of the League", "focus": "Organised the Marburg Colloquy and the Protestant alliance.", "outcome": "Imprisoned from 1547 to 1552; his bigamy (1540) had already weakened the League." },
+        { "name": "Maurice of Saxony", "years": "1521–1553", "origin": "Freiberg", "role": "Lutheran duke, later Elector of Saxony", "focus": "Fought for Charles V against his Protestant cousin, then led the Princes' Revolt against the emperor in 1552.", "outcome": "Killed at the battle of Sievershausen in 1553." },
+        { "name": "Fernando Álvarez de Toledo, Duke of Alba", "years": "1507–1582", "origin": "Piedrahíta, Castile", "role": "Imperial commander", "focus": "Led Charles's army at Mühlberg.", "outcome": "Later governed the Netherlands, where his repression helped provoke the Dutch Revolt." },
+        { "name": "Martin Luther", "personId": "martin-luther", "years": "1483–1546", "origin": "Eisleben, Saxony", "role": "Wittenberg reformer", "focus": "Long opposed armed resistance to the emperor, but accepted it from 1530 as a constitutional right of the princes.", "outcome": "Died months before the war broke out." }
+      ],
+      "casualties": {
+        "note": "No overall estimate exists. About 500 Zurichers were killed at Kappel in 1531, according to Swiss chronicles, and several hundred more at the Gubel. The Schmalkaldic War involved few large battles; casualties at Mühlberg were in the low thousands, mainly on the Saxon side, and many more soldiers and civilians died of disease, plunder and siege in 1546–47 and in the Princes' Revolt of 1552, but no reliable figures have been established."
+      },
+      "effects": [
+        "Switzerland was permanently divided into Protestant and Catholic cantons, with a balance that lasted until the Sonderbund War of 1847.",
+        "The Peace of Augsburg (1555) made religion a matter for each territorial ruler and gave Lutheranism legal recognition in the Empire.",
+        "Charles V's failure to restore unity contributed to his abdication and the division of the Habsburg inheritance between Spain and Austria.",
+        "Saxony's electoral title passed from the Ernestine to the Albertine line, reshaping German politics."
+      ],
+      "effectsOnChurch": [
+        "Zwingli's death discredited the alliance of reform with military power in Zurich, and Reformed leadership passed to Bullinger and later Calvin's Geneva.",
+        "The Interim crisis split Lutheranism between ‘Philippists’ willing to compromise and ‘Gnesio-Lutherans’ around Magdeburg, a conflict resolved only in the Formula of Concord (1577).",
+        "The Peace of Augsburg tied confession to territory, excluded Calvinists and Anabaptists and left their status to be fought over in the Thirty Years' War.",
+        "The failure of the Regensburg colloquy and the war confirmed that Catholic reform would proceed through the Council of Trent without the Protestants."
+      ],
+      "legacy": "Kappel and Mühlberg showed that neither side could destroy the other by force. Out of military stalemate came the first legal frameworks for religious coexistence in Europe — territorial and limited, rather than personal toleration. Zwingli's death in battle remains a controversial part of his legacy, cited by Lutherans then as divine judgement and by historians now as the end of the ‘armed prophet’ model of reform.",
+      "dissenters": [
+        { "name": "Desiderius Erasmus", "personId": "erasmus", "text": "In On Mending the Peace of the Church (1533) he urged both sides to accept moderate compromise on disputed matters rather than settle religion by force, as he had argued in his Complaint of Peace (1517)." },
+        { "name": "Gasparo Contarini and Martin Bucer", "text": "The Venetian cardinal and the Strasbourg reformer led the Regensburg Colloquy of 1541, which agreed a formula on justification in an effort to reunite the churches without war." },
+        { "name": "Swiss Brethren", "text": "The Anabaptists of Zurich and its neighbours refused to serve in Zurich's armies or to use the sword, and were persecuted by Zwingli's city for their refusal." },
+        { "name": "Martin Luther (before 1530)", "personId": "martin-luther", "text": "Until 1530 Luther insisted that Christians must suffer rather than resist the emperor by arms, and he warned Philip of Hesse against an aggressive Protestant alliance in 1528." }
+      ],
+      "theatres": [
+        { "name": "Zurich", "lat": 47.3769, "lng": 8.5417, "year": 1523 },
+        { "name": "Kappel am Albis", "lat": 47.228, "lng": 8.527, "year": 1531 },
+        { "name": "Gubel, near Menzingen", "lat": 47.17, "lng": 8.58, "year": 1531 },
+        { "name": "Marburg Colloquy", "lat": 50.80, "lng": 8.77, "year": 1529 },
+        { "name": "Schmalkalden", "lat": 50.72, "lng": 10.45, "year": 1531 },
+        { "name": "Cannonade of Ingolstadt", "lat": 48.76, "lng": 11.42, "year": 1546 },
+        { "name": "Battle of Mühlberg", "lat": 51.43, "lng": 13.22, "year": 1547 },
+        { "name": "Capitulation of Wittenberg", "lat": 51.866, "lng": 12.646, "year": 1547 },
+        { "name": "Siege of Magdeburg", "lat": 52.13, "lng": 11.63, "year": 1551 },
+        { "name": "Peace of Augsburg", "lat": 48.37, "lng": 10.90, "year": 1555 }
+      ],
+      "campaigns": [
+        {
+          "id": "kappel-1531",
+          "title": "The Catholic advance on Kappel",
+          "people": "The armies of the Five Catholic Cantons and of Zurich",
+          "year": 1531,
+          "stops": [
+            { "name": "Zug", "lat": 47.17, "lng": 8.52, "year": 1531 },
+            { "name": "Kappel am Albis", "lat": 47.228, "lng": 8.527, "year": 1531 },
+            { "name": "Gubel", "lat": 47.17, "lng": 8.58, "year": 1531 }
+          ],
+          "text": "The Catholic forces gathered at Zug and crossed into Zurich territory at Kappel on 11 October 1531, defeating the Zurich vanguard and killing Zwingli; a Protestant counter-thrust into Zug territory was routed by a night attack at the Gubel."
+        },
+        {
+          "id": "kappel-charles-1546-47",
+          "title": "Charles V's Schmalkaldic campaign",
+          "people": "Charles V, the Duke of Alba and imperial, Spanish and papal troops",
+          "year": 1546,
+          "endYear": 1547,
+          "stops": [
+            { "name": "Regensburg", "lat": 49.01, "lng": 12.10, "year": 1546 },
+            { "name": "Ingolstadt", "lat": 48.76, "lng": 11.42, "year": 1546 },
+            { "name": "Ulm", "lat": 48.40, "lng": 9.99, "year": 1546 },
+            { "name": "Nuremberg", "lat": 49.45, "lng": 11.08, "year": 1547 },
+            { "name": "Eger (Cheb)", "lat": 50.08, "lng": 12.37, "year": 1547 },
+            { "name": "Mühlberg", "lat": 51.43, "lng": 13.22, "year": 1547 },
+            { "name": "Wittenberg", "lat": 51.866, "lng": 12.646, "year": 1547 }
+          ],
+          "text": "Charles gathered his army at Regensburg, withstood the League at Ingolstadt and followed its retreat along the Danube until the southern cities submitted; in spring 1547 he marched through Franconia and Bohemia into Saxony, forced the Elbe at Mühlberg and received Wittenberg's capitulation."
+        }
+      ],
+      "ledTo": ["thirty-years-war"],
+      "eventIds": ["zurich-disputation-1523", "marburg-colloquy-1529", "augsburg-confession-1530", "council-of-trent-1545", "peace-of-augsburg-1555"],
+      "traditionIds": ["swiss-reformed", "reformed", "lutheran", "catholic"],
+      "sources": ["gordon-swiss-reformation", "w3-gordon-zwingli", "w3-whaley-germany-empire", "w3-brady-german-histories", "macculloch-reformation"],
+      "confidence": "established"
+    },
+    {
+      "id": "french-wars-of-religion",
+      "name": "The French Wars of Religion and St Bartholomew's Day",
+      "kind": "religious-war",
+      "startYear": 1562,
+      "endYear": 1598,
+      "region": "France",
+      "place": { "name": "Paris", "lat": 48.8566, "lng": 2.3522 },
+      "religionRole": "central",
+      "religionRoleNote": "Older historians saw the wars mainly as a struggle among great noble houses — Guise, Bourbon and Montmorency — for control of a weak crown, with religion as a cloak. Since the 1970s Natalie Zemon Davis, Denis Crouzet, Barbara Diefendorf and Mack Holt have shown that religion was central: Catholics and Huguenots believed the other side's worship polluted the community and invited God's wrath, and popular violence took ritual forms. Noble faction, royal minorities, fiscal crisis and Spanish intervention all mattered, but they were channelled through confessional allegiance.",
+      "sides": [
+        { "name": "Huguenots (French Reformed)", "faith": "Reformed (Calvinist)", "leaders": ["Louis, Prince of Condé", "Admiral Gaspard de Coligny", "Jeanne d'Albret", "Henry of Navarre", "Theodore Beza (adviser)"] },
+        { "name": "The Valois crown", "faith": "Roman Catholic", "leaders": ["Catherine de' Medici", "Charles IX", "Henry III", "Michel de L'Hospital"] },
+        { "name": "Catholic party and the Catholic League", "faith": "Roman Catholic", "leaders": ["Francis, Duke of Guise", "Henry, Duke of Guise", "Charles, Duke of Mayenne", "Cardinal Charles of Lorraine"] },
+        { "name": "Foreign allies", "faith": "Catholic Spain and the Papacy; Protestant England and German princes", "leaders": ["Philip II of Spain", "Pope Pius V", "Elizabeth I", "John Casimir of the Palatinate"] }
+      ],
+      "summary": "Between 1562 and 1598 France was torn by eight civil wars between Catholics and Protestant Huguenots, inflamed by noble rivalries, royal weakness and foreign intervention. The worst episode, the St Bartholomew's Day Massacre of 1572, killed thousands of Protestants in Paris and the provinces. The wars ended when the Protestant Henry of Navarre became king, converted to Catholicism and issued the Edict of Nantes (1598), granting Huguenots limited toleration.",
+      "story": "From the 1550s Calvin's Geneva trained and sent pastors into France, and by 1562 there were perhaps 1,500 to 2,000 Reformed congregations and as many as two million Huguenots, about a tenth of the population, including a third or more of the nobility. Their first national synod met secretly in Paris in 1559. That year Henry II, who had vowed to extirpate heresy, died after a jousting accident, leaving the throne to his sickly sons Francis II and Charles IX and real power to their mother, Catherine de' Medici, and to competing noble factions: the Catholic Guise family, the Bourbon princes (Navarre and Condé), who led the Protestants, and the Montmorency clan. A Huguenot plot to seize the young king at Amboise in 1560 was savagely suppressed. Catherine and her chancellor Michel de L'Hospital sought reconciliation at the Colloquy of Poissy (1561) and, in the Edict of January 1562, permitted Protestant worship outside towns.\n\nOn 1 March 1562, at Wassy in Champagne, the Duke of Guise's men attacked a Protestant congregation worshipping in a barn, killing about fifty and wounding many more. Condé took up arms, Huguenots seized Orléans, Lyon, Rouen and other towns, and iconoclasts smashed images while Catholics massacred Protestants in Sens, Toulouse and elsewhere. The first war saw the battle of Dreux (December 1562) and the assassination of Francis of Guise by a Huguenot, Poltrot de Méré, in February 1563; the Edict of Amboise brought a short peace. A second war began in 1567 with a Huguenot attempt to seize the king at Meaux, and at Nîmes on Michaelmas 1567 Protestants massacred Catholic clergy and notables in the ‘Michelade’. In the third war Condé was killed after the battle of Jarnac (1569), and the Peace of Saint-Germain (1570) gave Huguenots four security towns, including La Rochelle.\n\nTo seal the peace Catherine arranged the marriage of her daughter Marguerite to the Protestant Henry of Navarre in Paris on 18 August 1572. Four days later Admiral Coligny was wounded by an assassin. Fearing Huguenot revenge, the king's council decided to eliminate the Protestant leaders; in the early hours of 24 August, St Bartholomew's Day, the Duke of Guise's men killed Coligny, and the killing of the Huguenot nobles in the Louvre and their lodgings set off a popular massacre in which Parisian militiamen and crowds slaughtered Protestant men, women and children for several days, throwing many bodies into the Seine. The killings spread to Meaux, Orléans, Lyon, Rouen, Toulouse, Bordeaux and other towns into October. Pope Gregory XIII had a Te Deum sung and a medal struck; Philip II of Spain is said to have laughed for the only time; Protestant Europe was horrified. Henry of Navarre survived by abjuring his faith under duress.\n\nThe massacre transformed the Huguenots. Thousands abjured or emigrated, and the movement contracted into its strongholds in the south and west, but the survivors resisted fiercely — La Rochelle withstood a royal siege in 1573 — and their writers, including Theodore Beza, François Hotman and the anonymous author of the Vindiciae contra tyrannos (1579), developed theories of legitimate resistance to tyrants. Henry III made concessions in the Peace of Monsieur (1576), provoking Catholic nobles and towns to form the Catholic League. When the death of the king's last brother in 1584 made the Protestant Henry of Navarre heir to the throne, the League revived under Henry of Guise, allied with Philip II in the Treaty of Joinville (December 1584), and demanded the exclusion of a heretic king.\n\nIn the ‘War of the Three Henrys’ the League dominated Paris, which rose against Henry III on the Day of the Barricades (12 May 1588). The king took revenge by having Henry of Guise and his brother the cardinal murdered at Blois on 23–24 December 1588. League preachers denounced him as a tyrant, the Sorbonne released his subjects from obedience, and on 1 August 1589 the Dominican friar Jacques Clément stabbed him at Saint-Cloud. Henry of Navarre, now Henry IV, won battles at Arques (1589) and Ivry (1590) but could not take Catholic Paris, whose people endured a terrible siege and famine in 1590 before Spanish troops under the Duke of Parma relieved it.\n\nOn 25 July 1593 Henry IV abjured Protestantism at Saint-Denis — whether he said ‘Paris is well worth a Mass’ is doubtful — and in March 1594 he entered Paris. Pope Clement VIII absolved him in 1595, the League disintegrated, and war with Spain ended with the Peace of Vervins (May 1598). In April 1598 Henry signed the Edict of Nantes, which granted Huguenots freedom of conscience, public worship in specified places, civil equality and some hundred and fifty places of refuge and security garrisons, while restoring Catholic worship everywhere.\n\nThe settlement did not end religious hostility. Henry IV was murdered by the Catholic zealot François Ravaillac in 1610. Renewed Huguenot risings in the 1620s ended with the fall of La Rochelle (1628) and the Peace of Alès (1629), which removed their military privileges, and in 1685 Louis XIV revoked the Edict of Nantes, driving some 150,000–200,000 Huguenots into exile and provoking the Camisard revolt in the Cévennes.",
+      "nameOfGod": "Both sides believed they were purging the kingdom of pollution and averting God's wrath. Catholic preachers called heretics a cancer and a plague, and crowds treated the massacre of Huguenots as a rite of purification, sometimes rebaptising Protestant children in Catholic blood. Huguenots smashed images and Mass vessels as idolatry and sang Psalms, notably Psalm 68 (‘Let God arise, let his enemies be scattered’), as their battle hymn. The Catholic League swore an oath to defend the holy Catholic, apostolic and Roman Church, organised penitential processions in white, and celebrated Henry III's assassin as a martyr. Pius V urged Charles IX to show no mercy to heretics and sent papal troops in 1569; Gregory XIII commemorated St Bartholomew with a medal reading ‘Ugonottorum strages’ (slaughter of the Huguenots) and frescoes by Vasari in the Vatican.",
+      "religiousCauses": [
+        "The rapid growth of the Reformed churches, organised by Geneva, which by 1562 included perhaps a tenth of the French population and a large part of the nobility.",
+        "Catholic belief that the toleration of heresy would bring divine punishment on the whole kingdom, and Huguenot conviction that the Mass was idolatry.",
+        "The tradition of the ‘Most Christian King’ consecrated at Reims and sworn to expel heretics, which made a Protestant succession unthinkable to many Catholics.",
+        "The apocalyptic anxieties traced by Denis Crouzet, which led Catholics to see violence against heretics as a sacred duty.",
+        "Iconoclasm and the seizure of churches by Huguenots, and Catholic massacres of Protestants, which created cycles of sacred revenge."
+      ],
+      "otherCauses": [
+        "Royal weakness after Henry II's death in 1559, with a succession of child or childless kings and a regent mother.",
+        "Rivalry between the great noble houses of Guise, Bourbon and Montmorency for power at court.",
+        "The crown's fiscal crisis after the Habsburg–Valois wars and the demobilisation of thousands of soldiers in 1559.",
+        "Spanish intervention to prevent a Protestant France, and English and German Protestant support for the Huguenots.",
+        "Local rivalries in towns and provinces, in which confession mapped onto existing factions."
+      ],
+      "triggers": [
+        "The massacre of a Protestant congregation by the Duke of Guise's men at Wassy on 1 March 1562.",
+        "The attempted assassination of Admiral Coligny on 22 August 1572, which precipitated the St Bartholomew's Day Massacre.",
+        "The death of Francis, Duke of Anjou, in 1584, which made the Protestant Henry of Navarre heir to the throne."
+      ],
+      "timeline": [
+        { "year": 1559, "text": "First national synod of the French Reformed churches; death of Henry II." },
+        { "year": 1560, "text": "Conspiracy of Amboise suppressed; L'Hospital becomes chancellor." },
+        { "year": 1561, "text": "Colloquy of Poissy between Catholic bishops and Reformed ministers led by Beza." },
+        { "year": 1562, "text": "Edict of January; massacre at Wassy (1 March) begins the first war; battle of Dreux." },
+        { "year": 1563, "text": "Francis, Duke of Guise, assassinated; Edict of Amboise." },
+        { "year": 1567, "text": "Second war; the Michelade massacre of Catholics at Nîmes." },
+        { "year": 1569, "text": "Condé killed at Jarnac; Catholic victory at Moncontour." },
+        { "year": 1572, "text": "St Bartholomew's Day Massacre in Paris (24 August) and the provinces." },
+        { "year": 1576, "text": "Peace of Monsieur; formation of the first Catholic League." },
+        { "year": 1584, "text": "Henry of Navarre becomes heir; League allies with Spain in the Treaty of Joinville." },
+        { "year": 1588, "text": "Day of the Barricades in Paris; Henry of Guise murdered at Blois." },
+        { "year": 1589, "text": "Henry III assassinated by Jacques Clément; Henry of Navarre becomes Henry IV." },
+        { "year": 1593, "text": "Henry IV abjures Protestantism at Saint-Denis; he enters Paris in 1594." },
+        { "year": 1598, "text": "Edict of Nantes and Peace of Vervins end the wars." }
+      ],
+      "keyPeople": [
+        { "name": "Catherine de' Medici", "years": "1519–1589", "origin": "Florence", "role": "Queen mother and regent", "focus": "Sought to balance the factions through edicts of pacification, but was involved in the decision that led to St Bartholomew.", "outcome": "Died in January 1589 at Blois, weeks after the murder of Guise; her reputation was blackened by Protestant polemic." },
+        { "name": "Gaspard de Coligny", "years": "1519–1572", "origin": "Châtillon-sur-Loing", "role": "Admiral of France and Huguenot leader", "focus": "Led Huguenot armies after Condé's death and urged Charles IX to war against Spain in the Netherlands.", "outcome": "Murdered at the start of the St Bartholomew's Day Massacre." },
+        { "name": "Francis, Duke of Guise", "years": "1519–1563", "origin": "Bar-le-Duc, Lorraine", "role": "Catholic military leader", "focus": "His men carried out the Wassy massacre; won the battle of Dreux.", "outcome": "Assassinated by a Huguenot at the siege of Orléans in 1563, beginning a Guise–Coligny blood feud." },
+        { "name": "Henry, Duke of Guise", "years": "1550–1588", "origin": "Joinville", "role": "Leader of the Catholic League", "focus": "Directed the killing of Coligny in 1572 and led the League against a Protestant succession.", "outcome": "Murdered on Henry III's orders at Blois in December 1588." },
+        { "name": "Charles IX", "years": "1550–1574", "origin": "Saint-Germain-en-Laye", "role": "King of France", "focus": "Authorised the killing of the Huguenot leaders in August 1572 and then claimed responsibility before the Parlement.", "outcome": "Died in 1574, aged 23." },
+        { "name": "Henry IV (Henry of Navarre)", "years": "1553–1610", "origin": "Pau, Béarn", "role": "Huguenot leader, then King of France", "focus": "Survived St Bartholomew, led the Protestants, won the throne and converted to Catholicism.", "outcome": "Issued the Edict of Nantes in 1598; assassinated by Ravaillac in 1610." },
+        { "name": "Theodore Beza", "personId": "theodore-beza", "years": "1519–1605", "origin": "Vézelay, Burgundy", "role": "Calvin's successor in Geneva", "focus": "Spoke for the Reformed at Poissy, served as chaplain to Condé's army, and justified resistance to tyrants in The Right of Magistrates (1574).", "outcome": "Led the Genevan church until 1605." },
+        { "name": "Michel de L'Hospital", "years": "c. 1505–1573", "origin": "Aigueperse, Auvergne", "role": "Chancellor of France", "focus": "Argued that civil peace mattered more than religious uniformity and drafted the early edicts of toleration.", "outcome": "Disgraced in 1568; survived St Bartholomew under royal protection and died the following year." },
+        { "name": "Pope Pius V", "personId": "pius-v", "years": "1504–1572", "origin": "Bosco, Piedmont", "role": "Pope", "focus": "Urged the French crown to extirpate heresy without mercy and sent papal troops to fight the Huguenots in 1569.", "outcome": "Died in May 1572, months before the massacre; canonised in 1712." }
+      ],
+      "casualties": {
+        "low": 2000000,
+        "high": 4000000,
+        "note": "Commonly cited estimates for all deaths related to the wars from 1562 to 1598 — including famine, plague and the destruction of harvests as well as battle and massacre — range from about 2 to 4 million, though these are rough extrapolations from local evidence and some historians regard them as too high. For the St Bartholomew's Day Massacre, most historians estimate about 2,000–3,000 killed in Paris and a further 3,000–7,000 in the provinces, giving roughly 5,000–10,000; contemporary Protestant martyrologies gave higher figures."
+      },
+      "effects": [
+        "The Bourbon dynasty came to the throne, and France emerged from the wars with a strengthened monarchy that later developed into absolutism.",
+        "The Edict of Nantes created a legal, if limited and unequal, coexistence of two confessions in one kingdom.",
+        "Political theorists, from the Huguenot monarchomachs to Jean Bodin and the politiques, developed new ideas of resistance, sovereignty and the state's priority over confessional unity.",
+        "The wars devastated many regions through repeated campaigns, sieges, famine and plague."
+      ],
+      "effectsOnChurch": [
+        "French Protestantism, after peaking around 1562, shrank to a minority of about 1 million concentrated in the south and west.",
+        "The Catholic League's militancy fed into the Catholic Reformation in France, with new religious orders and devotional movements in the early seventeenth century.",
+        "St Bartholomew became a defining memory of martyrdom for Reformed Protestants everywhere and a lasting charge against the papacy.",
+        "The idea that a king's religion should determine his subjects' faith was challenged, but survived until the Revocation of the Edict of Nantes in 1685."
+      ],
+      "legacy": "The French Wars of Religion became, with St Bartholomew's Day, Europe's archetypal warning against religious civil war, cited by Voltaire, the Enlightenment and later advocates of secular toleration. The Edict of Nantes is often remembered as a milestone of religious liberty, though it was a pragmatic truce rather than a principle. In 1997 Pope John Paul II, in Paris for World Youth Day, expressed regret for the massacre.",
+      "dissenters": [
+        { "name": "Sebastian Castellio", "text": "In his Counsel to Desolate France (1562), written as the first war began, he urged both Catholics and Protestants to stop forcing consciences, saying each side's persecution of the other was the root of the kingdom's misery." },
+        { "name": "Michel de L'Hospital", "text": "At the Estates-General of Orléans in 1560 he pleaded: ‘Let us do away with these diabolical names, Lutherans, Huguenots and papists, which are the names of parties and sedition; let us not change the name of Christians.’" },
+        { "name": "Michel de Montaigne", "text": "A Catholic magistrate and essayist who criticised the cruelty of religious zeal on both sides, comparing French tortures unfavourably with the customs of Brazilian ‘cannibals’ and praising Julian the Apostate's freedom of conscience (Essays, 1580)." },
+        { "name": "Jean Hennuyer, Bishop of Lisieux (tradition)", "text": "According to a tradition first recorded later, he refused to allow the massacre of Protestants in his diocese in 1572, and Lisieux saw no killings." }
+      ],
+      "theatres": [
+        { "name": "Massacre of Wassy", "lat": 48.50, "lng": 4.95, "year": 1562 },
+        { "name": "Battle of Dreux", "lat": 48.737, "lng": 1.366, "year": 1562 },
+        { "name": "Siege of Orléans", "lat": 47.90, "lng": 1.90, "year": 1563 },
+        { "name": "The Michelade at Nîmes", "lat": 43.84, "lng": 4.36, "year": 1567 },
+        { "name": "Battle of Jarnac", "lat": 45.68, "lng": -0.17, "year": 1569 },
+        { "name": "St Bartholomew's Day Massacre, Paris", "lat": 48.8566, "lng": 2.3522, "year": 1572 },
+        { "name": "Siege of La Rochelle", "lat": 46.16, "lng": -1.15, "year": 1573 },
+        { "name": "Murder of Guise at Blois", "lat": 47.586, "lng": 1.335, "year": 1588 },
+        { "name": "Battle of Ivry", "lat": 48.88, "lng": 1.46, "year": 1590 },
+        { "name": "Abjuration at Saint-Denis", "lat": 48.936, "lng": 2.357, "year": 1593 },
+        { "name": "Edict of Nantes", "lat": 47.218, "lng": -1.554, "year": 1598 }
+      ],
+      "campaigns": [
+        {
+          "id": "french-st-bartholomew-1572",
+          "title": "The spread of the St Bartholomew's massacres",
+          "people": "Catholic militias, crowds and local authorities",
+          "year": 1572,
+          "stops": [
+            { "name": "Paris", "lat": 48.8566, "lng": 2.3522, "year": 1572 },
+            { "name": "Meaux", "lat": 48.96, "lng": 2.88, "year": 1572 },
+            { "name": "Orléans", "lat": 47.90, "lng": 1.90, "year": 1572 },
+            { "name": "Lyon", "lat": 45.76, "lng": 4.84, "year": 1572 },
+            { "name": "Rouen", "lat": 49.44, "lng": 1.10, "year": 1572 },
+            { "name": "Bordeaux", "lat": 44.84, "lng": -0.58, "year": 1572 },
+            { "name": "Toulouse", "lat": 43.60, "lng": 1.44, "year": 1572 }
+          ],
+          "text": "From Paris on 24 August the killings spread as news and rumours of royal orders arrived: to Meaux and Orléans within days, to Lyon at the end of August, to Rouen in mid-September and to Bordeaux and Toulouse in early October."
+        },
+        {
+          "id": "french-henry-iv-1589-94",
+          "title": "Henry IV's road to Paris",
+          "people": "Henry IV and the royalist and Huguenot army",
+          "year": 1589,
+          "endYear": 1594,
+          "stops": [
+            { "name": "Saint-Cloud", "lat": 48.84, "lng": 2.22, "year": 1589 },
+            { "name": "Arques", "lat": 49.88, "lng": 1.13, "year": 1589 },
+            { "name": "Ivry", "lat": 48.88, "lng": 1.46, "year": 1590 },
+            { "name": "Siege of Paris", "lat": 48.8566, "lng": 2.3522, "year": 1590 },
+            { "name": "Saint-Denis", "lat": 48.936, "lng": 2.357, "year": 1593 },
+            { "name": "Paris", "lat": 48.8566, "lng": 2.3522, "year": 1594 }
+          ],
+          "text": "Proclaimed king at Saint-Cloud after Henry III's murder, Henry IV retreated to Normandy, defeated the League at Arques and Ivry, besieged Paris without success in 1590, and finally won the capital by abjuring Protestantism at Saint-Denis and entering Paris in March 1594."
+        }
+      ],
+      "ledTo": ["camisard-war"],
+      "eventIds": ["calvin-institutes-1536", "first-national-synod-paris-1559", "st-bartholomews-day-massacre-1572"],
+      "traditionIds": ["french-reformed", "reformed", "catholic"],
+      "sources": ["w3-holt-french-wars", "w3-diefendorf-beneath-cross", "w3-knecht-french-civil-wars", "w3-crouzet-guerriers", "w3-davis-rites-violence", "w3-castellio-conseil", "benedict-reformed"],
+      "confidence": "established"
+    },
+    {
+      "id": "eighty-years-war",
+      "name": "The Dutch Revolt / Eighty Years' War",
+      "kind": "religious-war",
+      "startYear": 1568,
+      "endYear": 1648,
+      "region": "The Low Countries",
+      "place": { "name": "Leiden", "lat": 52.16, "lng": 4.49 },
+      "religionRole": "major",
+      "religionRoleNote": "The revolt began as a protest by nobles and towns against Philip II's centralising rule, new taxes and the harsh enforcement of heresy laws, and was supported by many Catholics; William of Orange himself argued for religious freedom rather than a Protestant state. But religion soon became central to both sides. Philip II declared he would rather lose his lands than rule over heretics, while the most committed rebels were Calvinists, who seized control of the churches in the north. Geoffrey Parker and Jonathan Israel treat religion as one of several intertwined causes alongside privileges, taxation and Habsburg power; the confessional character of the war became sharper over time, as the north became the Reformed Dutch Republic and the south a bastion of Catholic Reform.",
+      "sides": [
+        { "name": "Dutch rebels and the States General (United Provinces)", "faith": "Reformed (with Catholic, Mennonite and Lutheran supporters)", "leaders": ["William of Orange", "Louis of Nassau", "Maurice of Nassau", "Johan van Oldenbarnevelt", "Frederick Henry"] },
+        { "name": "Spanish Habsburg monarchy and loyal provinces", "faith": "Roman Catholic", "leaders": ["Philip II", "Duke of Alba", "Luis de Requesens", "Don John of Austria", "Alexander Farnese, Duke of Parma", "Ambrogio Spinola", "Philip IV"] },
+        { "name": "Foreign allies of the rebels", "faith": "Protestant England, French Huguenots and German Protestants", "leaders": ["Elizabeth I", "Earl of Leicester", "Francis, Duke of Anjou"] }
+      ],
+      "summary": "The Dutch Revolt began in the 1560s as resistance to Philip II's persecution of Protestants and assault on local privileges, and grew into an eighty-year war between Spain and the northern provinces. It produced iconoclasm, massacres, famous sieges and the assassination of William of Orange, and ended with the Peace of Münster (1648), which recognised the independent, officially Reformed Dutch Republic, while the southern Netherlands remained Catholic under Spain.",
+      "story": "The seventeen provinces of the Netherlands, inherited by Charles V, were the richest region of northern Europe, with a strong tradition of urban and provincial privileges. Charles issued harsh edicts (placards) against heresy, and between 1523 and 1566 well over a thousand people, most of them Anabaptists, were executed for their faith. His son Philip II, ruling from Spain after 1559, continued the persecution, introduced a new scheme of bishoprics and relied on Cardinal Granvelle, alarming the nobility. In April 1566 some 200 lesser nobles presented a petition, the Compromise, asking the regent Margaret of Parma to moderate the heresy laws; a courtier's sneer that they were only ‘beggars’ (gueux) gave the rebels their name. That summer Calvinist ‘hedge-preaching’ drew huge crowds, and from 10 August 1566, starting at Steenvoorde in Flanders, the Iconoclastic Fury swept the country, stripping hundreds of churches of images.\n\nPhilip sent the Duke of Alba with a veteran army along the ‘Spanish Road’ from Italy. Alba's Council of Troubles, called by its victims the ‘Council of Blood’, tried some 12,000 people and executed over a thousand; the counts of Egmont and Horne, both Catholics, were beheaded in the Grand Place of Brussels on 5 June 1568. William of Orange, who had fled to Germany, launched invasions in 1568 — the victory of his brother Louis at Heiligerlee in May is taken as the war's beginning — but they failed. Alba's Tenth Penny sales tax alienated even loyal Catholics.\n\nOn 1 April 1572 the Sea Beggars, Calvinist privateers, captured the port of Brill, and town after town in Holland and Zeeland went over to the rebels. They hanged nineteen Catholic priests and religious, the Martyrs of Gorkum, at Brill in July 1572, and Calvinist worship was imposed where they ruled. Alba's son Don Fadrique answered with exemplary terror: Mechelen was sacked, Zutphen massacred, and at Naarden in December 1572 almost the entire population was killed. Haarlem surrendered in July 1573 after a seven-month siege and its garrison was executed, but Alkmaar held out, and Leiden, besieged for months in 1574, was relieved on 3 October when the rebels broke the dykes and sailed to the city over flooded fields; Orange rewarded it with a university. In November 1576 unpaid Spanish troops mutinied and sacked Antwerp in the ‘Spanish Fury’, killing several thousand people, and in its wake all the provinces united in the Pacification of Ghent to expel the Spanish soldiers.\n\nUnity did not last. Calvinist militants in Ghent and elsewhere suppressed Catholic worship, while Catholic nobles in the south feared them more than Spain. In January 1579 the southern Walloon provinces formed the Union of Arras and returned to Philip's allegiance, while the northern provinces formed the Union of Utrecht, which promised that ‘each person shall remain free in his religion’. In 1580 Philip outlawed Orange and offered a reward for his death, and in 1581 the States General abjured Philip as a tyrant. On 10 July 1584 a Catholic Burgundian, Balthasar Gérard, shot William of Orange in his house at Delft. Alexander Farnese, Duke of Parma, a brilliant general and diplomat, reconquered Flanders and Brabant and took Antwerp in August 1585; its Protestants were given four years to convert or leave, and tens of thousands moved north, fuelling the rise of Amsterdam.\n\nEnglish intervention under the Treaty of Nonsuch (1585), the Armada of 1588 and Spain's war in France diverted Parma's forces. Under Maurice of Nassau and the statesman Johan van Oldenbarnevelt, the Dutch reformed their army and recovered the north and east in the 1590s; Maurice won at Nieuwpoort in 1600, and the siege of Ostend (1601–04) cost both sides tens of thousands of lives. Exhausted, Spain agreed a Twelve Years' Truce in 1609. During the truce the Republic was convulsed by the dispute between Arminians and Gomarists over predestination, which merged with a political struggle between Oldenbarnevelt and Maurice; the Synod of Dort (1618–19) condemned the Arminians, Oldenbarnevelt was beheaded in 1619, and Hugo Grotius was imprisoned.\n\nWar resumed in 1621, now part of the wider Thirty Years' War. Spinola took Breda in 1625, but Frederick Henry captured 's-Hertogenbosch (1629), Maastricht (1632) and Breda (1637), and a Spanish fleet was destroyed at the Downs in 1639. By the Peace of Münster, signed on 30 January 1648 and ratified in May as part of the Westphalian settlement, Spain recognised the independence of the United Provinces. The Republic became a great commercial power with a public Reformed Church, in which Catholics, Mennonites, Lutherans, Remonstrants and Jews were denied public worship but generally tolerated in private ‘hidden churches’. The southern Netherlands, the future Belgium, became a showcase of Counter-Reformation Catholicism, and the Scheldt remained closed to Antwerp's trade.",
+      "nameOfGod": "Philip II told the pope he would rather lose all his states and a hundred lives than reign over heretics, and Spanish soldiers fought for the faith under the banners of the Virgin and the saints; Alba's regime treated heresy as treason. The rebels sang Psalms and the Wilhelmus, whose first verse declares William ‘of German blood’ and loyal to his fatherland, and which presents him as a David trusting in God against a tyrant. Calvinist preachers cast the revolt as the deliverance of a new Israel from a Pharaoh, and the relief of Leiden was celebrated as a divine miracle. Iconoclasts saw themselves cleansing churches of idolatry, while the Sea Beggars' killing of priests at Gorkum and Spanish massacres of Protestant towns were each justified as God's judgement on the other side.",
+      "religiousCauses": [
+        "Charles V's and Philip II's heresy placards, enforced by inquisitors and executions, which by the 1560s many magistrates refused to apply.",
+        "The rapid spread of Calvinism in the 1560s, with open-air preaching and the Iconoclastic Fury of 1566.",
+        "Philip II's determination to defend Catholic orthodoxy and to reorganise the Netherlands church with new bishoprics after the Council of Trent.",
+        "Calvinist militants' drive to establish a purified Reformed church, which narrowed the rebel coalition and made the war increasingly confessional."
+      ],
+      "otherCauses": [
+        "Defence of provincial and urban privileges against Habsburg centralisation and rule by Spanish-appointed officials.",
+        "Alba's new taxes, especially the Tenth Penny, which alienated merchants and Catholics.",
+        "The great nobles' resentment of exclusion from power, led by William of Orange, Egmont and Horne.",
+        "Spanish financial crises and unpaid, mutinous troops, which led to atrocities such as the Spanish Fury.",
+        "International rivalries: France, England and the German princes intervened against Habsburg power."
+      ],
+      "triggers": [
+        "The Iconoclastic Fury of August 1566 and Philip's decision to send Alba with an army.",
+        "The executions of the Council of Troubles, above all Egmont and Horne in June 1568.",
+        "The Sea Beggars' capture of Brill on 1 April 1572, which gave the revolt a territorial base in Holland and Zeeland."
+      ],
+      "timeline": [
+        { "year": 1566, "text": "The Compromise of Nobles petitions for moderation; the Iconoclastic Fury begins at Steenvoorde on 10 August." },
+        { "year": 1567, "text": "Alba arrives in Brussels and sets up the Council of Troubles." },
+        { "year": 1568, "text": "Victory of Louis of Nassau at Heiligerlee; Egmont and Horne beheaded in Brussels." },
+        { "year": 1572, "text": "Sea Beggars take Brill; the Martyrs of Gorkum are hanged; Spanish troops massacre Zutphen and Naarden." },
+        { "year": 1573, "text": "Haarlem falls after a seven-month siege; Alkmaar holds out." },
+        { "year": 1574, "text": "Relief of Leiden by flooding the land on 3 October." },
+        { "year": 1576, "text": "The Spanish Fury sacks Antwerp; the Pacification of Ghent unites the provinces." },
+        { "year": 1579, "text": "The Union of Arras in the south and the Union of Utrecht in the north divide the Netherlands." },
+        { "year": 1581, "text": "Act of Abjuration deposes Philip II as ruler of the rebel provinces." },
+        { "year": 1584, "text": "William of Orange assassinated at Delft by Balthasar Gérard." },
+        { "year": 1585, "text": "Parma takes Antwerp; England intervenes under the Treaty of Nonsuch." },
+        { "year": 1609, "text": "The Twelve Years' Truce begins." },
+        { "year": 1618, "text": "The Synod of Dort meets amid the Arminian crisis; Oldenbarnevelt is executed in 1619." },
+        { "year": 1648, "text": "Peace of Münster: Spain recognises the Dutch Republic." }
+      ],
+      "keyPeople": [
+        { "name": "William of Orange (‘the Silent’)", "years": "1533–1584", "origin": "Dillenburg, Nassau", "role": "Leader of the revolt and stadholder of Holland and Zeeland", "focus": "Raised armies against Alba, united the provinces and argued for freedom of religion; became a Calvinist in 1573.", "outcome": "Assassinated at Delft in 1584; remembered as ‘Father of the Fatherland’." },
+        { "name": "Philip II", "years": "1527–1598", "origin": "Valladolid", "role": "King of Spain and lord of the Netherlands", "focus": "Insisted on the suppression of heresy and the defence of royal authority, and outlawed Orange.", "outcome": "Died with the north lost and the war unresolved." },
+        { "name": "Fernando Álvarez de Toledo, Duke of Alba", "years": "1507–1582", "origin": "Piedrahíta, Castile", "role": "Governor-general of the Netherlands (1567–73)", "focus": "Ruled through the Council of Troubles and terror against rebel towns.", "outcome": "Recalled in 1573; later conquered Portugal for Philip." },
+        { "name": "Lamoral, Count of Egmont", "years": "1522–1568", "origin": "La Hamaide, Hainaut", "role": "Catholic nobleman and stadholder of Flanders", "focus": "Opposed Granvelle and the severity of the heresy laws while remaining loyal to Philip.", "outcome": "Beheaded in Brussels in 1568; a hero of Goethe's play and Beethoven's overture." },
+        { "name": "Alexander Farnese, Duke of Parma", "years": "1545–1592", "origin": "Rome", "role": "Governor-general (1578–92)", "focus": "Reconquered the southern provinces through war and negotiated surrenders, culminating in Antwerp.", "outcome": "Diverted to the Armada and France; died of wounds in 1592." },
+        { "name": "Maurice of Nassau", "years": "1567–1625", "origin": "Dillenburg", "role": "Stadholder and commander of the States army", "focus": "Reformed Dutch military drill and fortification and recovered the northern provinces.", "outcome": "Sided with the Contra-Remonstrants in 1618 and had Oldenbarnevelt executed." },
+        { "name": "Johan van Oldenbarnevelt", "years": "1547–1619", "origin": "Amersfoort", "role": "Land's Advocate of Holland", "focus": "Directed the Republic's politics, secured the 1609 truce and protected the Arminians.", "outcome": "Beheaded in The Hague on 13 May 1619." },
+        { "name": "Hugo Grotius", "personId": "hugo-grotius", "years": "1583–1645", "origin": "Delft", "role": "Jurist and Remonstrant sympathiser", "focus": "Defended Holland's Arminian policy and religious peace during the truce.", "outcome": "Imprisoned at Loevestein in 1619, escaped in a book chest in 1621, and wrote On the Law of War and Peace (1625) in exile." },
+        { "name": "Philips of Marnix", "years": "1540–1598", "origin": "Brussels", "role": "Calvinist nobleman, writer and diplomat", "focus": "Served Orange as adviser and propagandist and defended Antwerp in 1584–85; long credited with the Wilhelmus.", "outcome": "Wrote the satirical Beehive of the Romish Church and later translated the Psalms." }
+      ],
+      "casualties": {
+        "note": "No reliable total exists for the eighty years of war. Individual episodes are better documented: over 1,000 executions by the Council of Troubles (1567–73); the near-total massacre of Naarden (1572); the execution of most of Haarlem's garrison of some 2,000 men (1573); several thousand killed in the Spanish Fury at Antwerp (1576); and tens of thousands of soldiers dead on both sides at the siege of Ostend (1601–04). Far more soldiers and civilians died of disease, hunger and dislocation than in combat."
+      },
+      "effects": [
+        "The northern provinces became the independent Dutch Republic, a major maritime, commercial and colonial power in the seventeenth century.",
+        "The southern Netherlands remained under Spanish, later Austrian, rule and became modern Belgium and Luxembourg.",
+        "Large-scale emigration from the south — of merchants, craftsmen and Protestants — fuelled the Dutch Golden Age, especially in Amsterdam.",
+        "The Act of Abjuration (1581) became an important precedent for the right of subjects to depose a tyrant, cited by later revolutionaries.",
+        "The war drained Spanish finances and contributed to the decline of Spanish power."
+      ],
+      "effectsOnChurch": [
+        "The Reformed Church became the public church of the Republic, though Calvinists remained a minority of the population for decades.",
+        "Catholics in the north were barred from public worship and office but sustained a large community in house churches under the Holland Mission.",
+        "The Republic became the most tolerant society in Europe in practice, sheltering Mennonites, Lutherans, Remonstrants, Jews and dissenters from abroad.",
+        "The south became a model of Tridentine Catholicism, with Jesuit colleges, the art of Rubens and a confessionally homogeneous population.",
+        "The Synod of Dort (1618–19) defined Reformed orthodoxy on predestination for churches across the world."
+      ],
+      "legacy": "The Dutch Revolt gave birth to a new nation founded partly on resistance to religious persecution, yet one that itself established a privileged church. Its ideals of freedom of conscience, expressed in the Union of Utrecht and argued by Coornhert and Grotius, influenced later toleration theory, and the Dutch Republic became a refuge for figures from Descartes to Locke. The war's memory — Orange as father of the nation, Alba as tyrant, the relief of Leiden still celebrated each 3 October — remains central to Dutch identity.",
+      "dissenters": [
+        { "name": "Dirck Volckertszoon Coornhert", "text": "A Catholic-born humanist and secretary to the States of Holland who opposed all coercion in religion, condemning the execution of heretics by both Spaniards and Calvinists and arguing against Justus Lipsius that the state must not punish dissent." },
+        { "name": "William of Orange", "text": "Repeatedly argued that conscience could not be forced, proposed a Religious Peace (1578) granting worship to both Catholics and Protestants, and in 1577 ordered the Middelburg magistrates to admit Mennonites to citizenship without requiring an oath." },
+        { "name": "Dutch Mennonites", "text": "Refused to bear arms for either side, though many contributed money to the rebel cause; their non-resistance was eventually accepted by the States." },
+        { "name": "Hugo Grotius", "personId": "hugo-grotius", "text": "In On the Law of War and Peace (1625) he argued that war could not justly be waged to compel people to accept the Christian faith or to punish those who erred in religion." }
+      ],
+      "theatres": [
+        { "name": "Steenvoorde, start of the Iconoclastic Fury", "lat": 50.81, "lng": 2.58, "year": 1566 },
+        { "name": "Execution of Egmont and Horne, Brussels", "lat": 50.8467, "lng": 4.3525, "year": 1568 },
+        { "name": "Battle of Heiligerlee", "lat": 53.16, "lng": 7.01, "year": 1568 },
+        { "name": "Capture of Brill", "lat": 51.90, "lng": 4.16, "year": 1572 },
+        { "name": "Massacre of Naarden", "lat": 52.30, "lng": 5.16, "year": 1572 },
+        { "name": "Siege of Haarlem", "lat": 52.38, "lng": 4.64, "year": 1573 },
+        { "name": "Relief of Leiden", "lat": 52.16, "lng": 4.49, "year": 1574 },
+        { "name": "Spanish Fury and fall of Antwerp", "lat": 51.22, "lng": 4.40, "year": 1576 },
+        { "name": "Assassination of Orange, Delft", "lat": 52.01, "lng": 4.36, "year": 1584 },
+        { "name": "Siege of Ostend", "lat": 51.23, "lng": 2.92, "year": 1604 },
+        { "name": "Synod of Dort", "lat": 51.81, "lng": 4.67, "year": 1618 },
+        { "name": "Peace of Münster", "lat": 51.9625, "lng": 7.6256, "year": 1648 }
+      ],
+      "campaigns": [
+        {
+          "id": "eighty-alba-spanish-road-1567",
+          "title": "Alba's march along the Spanish Road",
+          "people": "The Duke of Alba and about 10,000 Spanish and Italian veterans",
+          "year": 1567,
+          "stops": [
+            { "name": "Milan", "lat": 45.46, "lng": 9.19, "year": 1567 },
+            { "name": "Mont Cenis pass", "lat": 45.25, "lng": 6.90, "year": 1567 },
+            { "name": "Chambéry", "lat": 45.56, "lng": 5.92, "year": 1567 },
+            { "name": "Besançon", "lat": 47.24, "lng": 6.02, "year": 1567 },
+            { "name": "Thionville", "lat": 49.36, "lng": 6.17, "year": 1567 },
+            { "name": "Brussels", "lat": 50.85, "lng": 4.35, "year": 1567 }
+          ],
+          "text": "Alba led his army from Lombardy over the Alps through Savoy, Franche-Comté and Lorraine to the Netherlands in the summer of 1567, opening the military corridor that supplied the Army of Flanders for decades."
+        },
+        {
+          "id": "eighty-fadrique-1572-73",
+          "title": "Don Fadrique's punitive campaign",
+          "people": "Don Fadrique Álvarez de Toledo and the Army of Flanders",
+          "year": 1572,
+          "endYear": 1573,
+          "stops": [
+            { "name": "Mechelen", "lat": 51.03, "lng": 4.48, "year": 1572 },
+            { "name": "Zutphen", "lat": 52.14, "lng": 6.20, "year": 1572 },
+            { "name": "Naarden", "lat": 52.30, "lng": 5.16, "year": 1572 },
+            { "name": "Haarlem", "lat": 52.38, "lng": 4.64, "year": 1573 },
+            { "name": "Alkmaar", "lat": 52.63, "lng": 4.75, "year": 1573 }
+          ],
+          "text": "To terrify rebel towns into submission, Alba's son sacked Mechelen, massacred the people of Zutphen and Naarden, and took Haarlem after a seven-month siege, but was forced to abandon the siege of Alkmaar in October 1573 when the dykes were cut."
+        }
+      ],
+      "ledTo": ["anglo-spanish-war", "thirty-years-war"],
+      "eventIds": ["synod-of-emden-1571", "synod-of-dort-1618", "peace-of-westphalia-1648"],
+      "traditionIds": ["dutch-reformed-pkn", "reformed", "catholic", "mennonite"],
+      "sources": ["w3-parker-dutch-revolt", "w3-israel-dutch-republic", "w3-parker-army-flanders", "w3-kaplan-divided-by-faith", "benedict-reformed"],
+      "confidence": "established"
+    }
+  ],
+  "sources": [
+    { "id": "w3-elliott-empires", "title": "Empires of the Atlantic World: Britain and Spain in America 1492–1830", "author": "J. H. Elliott", "year": 2006, "kind": "secondary" },
+    { "id": "w3-restall-seven-myths", "title": "Seven Myths of the Spanish Conquest", "author": "Matthew Restall", "year": 2003, "kind": "secondary" },
+    { "id": "w3-las-casas-short-account", "title": "A Short Account of the Destruction of the Indies (Brevísima relación de la destrucción de las Indias)", "author": "Bartolomé de las Casas", "year": 1552, "kind": "primary" },
+    { "id": "w3-livi-bacci-conquest", "title": "Conquest: The Destruction of the American Indios", "author": "Massimo Livi Bacci", "year": 2008, "kind": "secondary" },
+    { "id": "w3-seed-ceremonies", "title": "Ceremonies of Possession in Europe's Conquest of the New World, 1492–1640", "author": "Patricia Seed", "year": 1995, "kind": "secondary" },
+    { "id": "w3-blickle-revolution-1525", "title": "The Revolution of 1525: The German Peasants' War from a New Perspective", "author": "Peter Blickle", "year": 1981, "kind": "secondary" },
+    { "id": "w3-scott-scribner-peasants-war", "title": "The German Peasants' War: A History in Documents", "author": "Tom Scott and Bob Scribner (eds)", "year": 1991, "kind": "primary" },
+    { "id": "w3-goertz-muntzer", "title": "Thomas Müntzer: Apocalyptic Mystic and Revolutionary", "author": "Hans-Jürgen Goertz", "year": 1993, "kind": "secondary" },
+    { "id": "w3-twelve-articles", "title": "The Twelve Articles of the Upper Swabian Peasants", "author": "Sebastian Lotzer and Christoph Schappeler", "year": 1525, "kind": "primary" },
+    { "id": "w3-luther-against-hordes", "title": "Against the Robbing and Murdering Hordes of Peasants", "author": "Martin Luther", "year": 1525, "kind": "primary" },
+    { "id": "w3-haude-shadow-munster", "title": "In the Shadow of ‘Savage Wolves’: Anabaptist Münster and the German Reformation during the 1530s", "author": "Sigrun Haude", "year": 2000, "kind": "secondary" },
+    { "id": "w3-kerssenbrock-anabaptist-madness", "title": "Narrative of the Anabaptist Madness: The Overthrow of Münster, the Famous Metropolis of Westphalia", "author": "Hermann von Kerssenbrock (trans. Christopher S. Mackay)", "year": 2007, "kind": "primary" },
+    { "id": "w3-klotzer-tauferherrschaft", "title": "Die Täuferherrschaft von Münster: Stadtreformation und Welterneuerung", "author": "Ralf Klötzer", "year": 1992, "kind": "secondary" },
+    { "id": "w3-gordon-zwingli", "title": "Zwingli: God's Armed Prophet", "author": "Bruce Gordon", "year": 2021, "kind": "secondary" },
+    { "id": "w3-whaley-germany-empire", "title": "Germany and the Holy Roman Empire, vol. 1: Maximilian I to the Peace of Westphalia, 1493–1648", "author": "Joachim Whaley", "year": 2012, "kind": "secondary" },
+    { "id": "w3-brady-german-histories", "title": "German Histories in the Age of Reformations, 1400–1650", "author": "Thomas A. Brady Jr.", "year": 2009, "kind": "secondary" },
+    { "id": "w3-holt-french-wars", "title": "The French Wars of Religion, 1562–1629 (2nd ed.)", "author": "Mack P. Holt", "year": 2005, "kind": "secondary" },
+    { "id": "w3-diefendorf-beneath-cross", "title": "Beneath the Cross: Catholics and Huguenots in Sixteenth-Century Paris", "author": "Barbara B. Diefendorf", "year": 1991, "kind": "secondary" },
+    { "id": "w3-knecht-french-civil-wars", "title": "The French Civil Wars, 1562–1598", "author": "R. J. Knecht", "year": 2000, "kind": "secondary" },
+    { "id": "w3-crouzet-guerriers", "title": "Les Guerriers de Dieu: la violence au temps des troubles de religion, vers 1525–vers 1610", "author": "Denis Crouzet", "year": 1990, "kind": "secondary" },
+    { "id": "w3-davis-rites-violence", "title": "The Rites of Violence: Religious Riot in Sixteenth-Century France (Past and Present 59)", "author": "Natalie Zemon Davis", "year": 1973, "kind": "secondary" },
+    { "id": "w3-castellio-conseil", "title": "Conseil à la France désolée (Counsel to Desolate France)", "author": "Sebastian Castellio", "year": 1562, "kind": "primary" },
+    { "id": "w3-parker-dutch-revolt", "title": "The Dutch Revolt", "author": "Geoffrey Parker", "year": 1977, "kind": "secondary" },
+    { "id": "w3-israel-dutch-republic", "title": "The Dutch Republic: Its Rise, Greatness, and Fall 1477–1806", "author": "Jonathan I. Israel", "year": 1995, "kind": "secondary" },
+    { "id": "w3-parker-army-flanders", "title": "The Army of Flanders and the Spanish Road, 1567–1659", "author": "Geoffrey Parker", "year": 1972, "kind": "secondary" },
+    { "id": "w3-kaplan-divided-by-faith", "title": "Divided by Faith: Religious Conflict and the Practice of Toleration in Early Modern Europe", "author": "Benjamin J. Kaplan", "year": 2007, "kind": "secondary" }
+  ]
+}
