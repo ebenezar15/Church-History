@@ -1,0 +1,720 @@
+{
+  "fathers": [
+    {
+      "id": "leo-the-great",
+      "name": "Leo the Great",
+      "personId": "leo-i",
+      "born": 400,
+      "died": 461,
+      "circa": true,
+      "school": "latin-western",
+      "language": "latin",
+      "see": { "name": "Rome", "lat": 41.9028, "lng": 12.4964 },
+      "roles": ["Bishop of Rome (440–461)", "Theologian of Chalcedon", "Preacher", "Diplomat"],
+      "summary": "Pope from 440 to 461 whose Tome to Flavian supplied the Christology of the Council of Chalcedon (451) and whose sermons and letters gave classic form to the Roman doctrine of Petrine primacy.",
+      "story": "Leo was probably born in Rome or Tuscany around 400 and served as a deacon under Popes Celestine I and Sixtus III, already influential enough to be consulted by John Cassian, who wrote his treatise On the Incarnation against Nestorius at Leo’s request (c. 430). He was on a diplomatic mission in Gaul when he was elected bishop of Rome in 440, and he governed the Roman church for twenty-one years — one of the longest and most consequential pontificates of late antiquity.\n\nHis lasting theological achievement was the Tome (Letter 28) sent to Flavian of Constantinople in June 449 during the Eutychian controversy. Against Eutyches’ claim that after the union Christ had only one nature, Leo set out in crisp, balanced Latin antitheses the teaching that the one person of the Word acts in each of two natures, ‘each form doing what is proper to it in communion with the other’. The Second Council of Ephesus (449) refused to read it; Leo branded that assembly a latrocinium, a ‘robber synod’. At Chalcedon in 451 the Tome was read and acclaimed — ‘Peter has spoken through Leo’ — and its language was woven into the Chalcedonian Definition.\n\nLeo was equally the architect of a theory of the Roman see. Drawing on the language of Roman law and inheritance, he presented the pope as the ‘unworthy heir’ of Peter, in whom Peter continued to speak and to exercise a care (sollicitudo) for all the churches. He rejected Canon 28 of Chalcedon, which ranked Constantinople second to Rome on the grounds of its imperial status, insisting that Rome’s primacy rested on Peter, not on politics.\n\nHis ninety-six authentic sermons, preached on the feasts of the Roman year — Christmas, Epiphany, Lent, Easter, Pentecost and the Ember fasts — are masterpieces of Latin rhetoric with a strongly liturgical and moral bent, and some 140 letters show him disciplining bishops in Gaul and Illyricum, combating Manichaeans in Rome (443) and Priscillianists in Spain (447). Several prayers in the so-called Leonine (Verona) Sacramentary may reflect his style.\n\nTradition remembers him also as defender of the city: in 452 he went with a senatorial embassy to meet Attila near the Mincio and the Huns withdrew, and in 455 he persuaded the Vandal king Gaiseric to spare the population from massacre and burning during the sack of Rome. The later legend of Peter and Paul appearing over his shoulder embellishes a diplomatic success whose causes historians also find in famine and disease in Attila’s army.",
+      "roots": [
+        { "root": "earlier-fathers", "text": "His Christology synthesises Tertullian’s una persona, duae substantiae formula, Augustine’s anti-Pelagian sense of grace and Ambrose; Cassian’s anti-Nestorian work was written at his request." },
+        { "root": "roman-law", "text": "His theory of the papacy borrows Roman legal categories of inheritance and office: the pope as heres of Peter, exercising a plenitudo potestatis on Peter’s behalf." },
+        { "root": "rhetoric", "text": "Trained in classical prose rhythm (the cursus), he wrote in balanced antitheses that made his Christology memorable and liturgically quotable." },
+        { "root": "apostolic-tradition", "text": "He grounded doctrine in the Old Roman Creed and in apostolic succession at Rome, presenting the Tome as simply the baptismal faith of the Roman church." },
+        { "root": "imperial-church", "text": "He worked through emperors Theodosius II, Marcian and Valentinian III, using imperial authority to convene and enforce Chalcedon while resisting imperial ranking of sees." }
+      ],
+      "teachers": ["augustine-of-hippo-father", "john-cassian", "ambrose-of-milan"],
+      "keyTeachings": [
+        "One person, the eternal Word, acts in two complete natures, divine and human, each retaining its properties (communicatio idiomatum).",
+        "The Incarnation and the ‘admirable exchange’: the Son became what we are so that we might share in what he is.",
+        "Petrine primacy: Peter lives and speaks in his successors at Rome, whose care extends to the whole church.",
+        "The liturgical year as a re-presentation of the mysteries of Christ — ‘what was visible in our Redeemer has passed over into the sacraments’ (Sermon 74).",
+        "Fasting, almsgiving and prayer as the shared discipline of the Christian people."
+      ],
+      "works": [
+        { "title": "Tome to Flavian (Letter 28)", "year": 449, "workId": "tome-of-leo", "note": "Classic statement of two natures in one person; read and acclaimed at Chalcedon." },
+        { "title": "Definition of Chalcedon (contributory)", "year": 451, "workId": "chalcedonian-definition", "note": "The council’s Definition draws directly on the Tome’s formulas." },
+        { "title": "Sermons (Tractatus)", "year": 445, "note": "Ninety-six authentic sermons on the feasts and fasts of the Roman year." },
+        { "title": "Letters", "year": 450, "note": "About 143 letters on discipline, Priscillianism, Manichaeism, Chalcedon and Canon 28." }
+      ],
+      "doctrineContributions": [
+        { "doctrineId": "christology", "text": "The Tome supplied the Latin, two-nature language of Chalcedon and remains the West’s classic statement of Christ’s person." },
+        { "doctrineId": "church-sacraments", "text": "Gave enduring form to the doctrine of Roman primacy grounded in Peter rather than in imperial status." },
+        { "doctrineId": "worship-liturgy", "text": "His sermons interpret the feasts as present participations in the saving mysteries, shaping Roman liturgical theology." }
+      ],
+      "laterInfluence": [
+        { "on": "Later Fathers", "text": "Gregory the Great and Gelasius I built on his theory of Petrine office; Maximus the Confessor defended the Tome against Monothelites." },
+        { "on": "Medieval papacy", "text": "Medieval canonists and Gregory VII inherited his legal vocabulary of plenitude of power and Petrine heirship." },
+        { "on": "Reformers", "text": "Luther and Calvin respected his Christology but read his Petrine theology as a decisive step toward papal monarchy." },
+        { "on": "Ecumenical dialogue", "text": "Twentieth-century Orthodox–Oriental Orthodox dialogues (1989–90) examined whether the Tome and Cyril’s miaphysite language are compatible." }
+      ],
+      "reception": [
+        { "tradition": "Catholic", "view": "doctor", "text": "Venerated as saint and declared a Doctor of the Church by Benedict XIV in 1754; feast 10 November." },
+        { "tradition": "Eastern Orthodox", "view": "saint", "text": "Honoured as an Orthodox saint and defender of Chalcedon (feast 18 February), though his papal theology is not accepted." },
+        { "tradition": "Oriental Orthodox", "view": "controversial", "text": "Coptic, Syriac and Armenian churches historically rejected the Tome as Nestorianising and anathematised it; recent dialogue has softened but not erased this." },
+        { "tradition": "Protestant", "view": "respected", "text": "Valued as a witness to Chalcedonian orthodoxy and an outstanding preacher, while his claims for Rome are rejected." }
+      ],
+      "controversies": [
+        "The Tome’s dyophysite language was rejected by Dioscorus and the non-Chalcedonian churches, contributing to the lasting schism after 451.",
+        "His refusal of Canon 28 of Chalcedon foreshadowed later Rome–Constantinople rivalry.",
+        "His use of imperial power against Manichaeans and Priscillianists raises questions about coercion in religious matters."
+      ],
+      "quote": { "text": "Christian, acknowledge your dignity; having been made a partner in the divine nature, do not return to your former baseness.", "citation": "Leo the Great, Sermon 21.3 (On the Nativity)" },
+      "places": [
+        { "name": "Rome", "lat": 41.9028, "lng": 12.4964, "year": 440 },
+        { "name": "Ephesus (the ‘robber synod’)", "lat": 37.9411, "lng": 27.3419, "year": 449 },
+        { "name": "Chalcedon", "lat": 40.9833, "lng": 29.0270, "year": 451 },
+        { "name": "Near Mantua, on the Mincio (meeting with Attila)", "lat": 45.1564, "lng": 10.7914, "year": 452 }
+      ],
+      "sources": ["f4-quasten-patrology", "f4-neil-leo", "f4-wessel-leo", "kelly-doctrines", "price-gaddis-chalcedon", "meyendorff-imperial-unity"],
+      "confidence": "established"
+    },
+    {
+      "id": "gregory-the-great",
+      "name": "Gregory the Great",
+      "personId": "gregory-the-great",
+      "born": 540,
+      "died": 604,
+      "circa": true,
+      "school": "latin-western",
+      "language": "latin",
+      "see": { "name": "Rome", "lat": 41.9028, "lng": 12.4964 },
+      "roles": ["Bishop of Rome (590–604)", "Monk", "Pastoral theologian", "Exegete", "Organiser of the mission to the English"],
+      "summary": "Roman aristocrat turned monk and pope whose Pastoral Rule, Moralia on Job, Dialogues and letters shaped the spirituality, preaching and church government of the medieval West, and who sent the mission to the English in 596.",
+      "story": "Gregory was born around 540 into a senatorial Roman family with papal ancestors and grew up amid the devastation of Justinian’s Gothic war. By about 573 he was prefect of the city, but he soon turned his family house on the Caelian Hill into the monastery of St Andrew and gave his Sicilian estates to found six more. Pope Pelagius II ordained him deacon and sent him as apocrisiarius (envoy) to Constantinople (c. 579–586), where he began the Moralia on Job for the monks who accompanied him.\n\nElected pope in 590 during plague and Lombard invasion, Gregory reluctantly took up what he called the burden of ‘the ship of the church, battered by waves’. He organised grain supplies from the papal patrimonies, ransomed captives, negotiated with the Lombards when imperial authority failed, and administered estates from Sicily to Gaul. More than 850 of his letters survive in the Registrum, revealing an administrator of formidable energy. He styled himself servus servorum Dei, ‘servant of the servants of God’, and protested at John the Faster of Constantinople’s title ‘ecumenical patriarch’.\n\nHis writings made Augustine’s theology accessible to the early Middle Ages. The Pastoral Rule (591) — sent to bishops across the West and translated into English by King Alfred — taught that the art of arts is the government of souls and that the preacher must adapt his words to each kind of hearer. The Moralia read Job on literal, allegorical and moral levels and became a medieval encyclopaedia of the spiritual life; it gives the classic list of seven principal vices with pride as their root. The Dialogues (593–594), including the Life of Benedict, popularised Italian saints and miracles and offered the clearest early teaching on a purifying fire after death.\n\nIn 596 he dispatched Augustine, prior of St Andrew’s, with some forty monks to Kent; Augustine baptised King Æthelberht and became first archbishop of Canterbury. Gregory’s letter of 601 to Abbot Mellitus advised that pagan temples be purified and reused as churches and that feasts replace sacrifices — a famous case of deliberate cultural adaptation. His letters to Serenus of Marseille (599–600) defended images as books for the illiterate while forbidding their worship.\n\nLater tradition credited him with the codification of ‘Gregorian’ chant and of the Roman sacramentary; historians regard the chant attribution as a Carolingian legend, though he did make liturgical adjustments in Rome. In the East he is known as Gregory Dialogos, and the Byzantine Liturgy of the Presanctified Gifts is traditionally attributed to him.",
+      "roots": [
+        { "root": "earlier-fathers", "text": "Above all Augustine, whose teaching on grace, sin and contemplation he simplified and moralised; also Ambrose, Jerome and Cassian." },
+        { "root": "monasticism", "text": "A monk by choice, he made the contemplative life the measure of ministry and promoted Benedictine ideals through the Dialogues." },
+        { "root": "roman-law", "text": "His training as a Roman official shaped his careful administration of the papal patrimony and his juridical correspondence." },
+        { "root": "rhetoric", "text": "Educated in grammar and rhetoric, though he affected disdain for classical polish and ‘would not bind the words of the heavenly oracle by the rules of Donatus’." },
+        { "root": "hebrew-scripture", "text": "His great works are commentaries on Job, Ezekiel, Kings and the Song of Songs, read through layered spiritual exegesis." }
+      ],
+      "teachers": ["augustine-of-hippo-father", "john-cassian", "leo-the-great"],
+      "keyTeachings": [
+        "Pastoral care as the ‘art of arts’: the pastor must balance contemplation and action and fit his teaching to each hearer.",
+        "Scripture read on historical, allegorical and moral levels — ‘a river in which a lamb may wade and an elephant swim’.",
+        "The seven principal vices, rooted in pride, as a map for self-examination.",
+        "A purifying fire after death for light faults, and the value of the Mass offered for the dead.",
+        "Images as instruction for the unlettered, not objects of adoration.",
+        "Compunction and the desire for heaven as the heart of Christian life."
+      ],
+      "works": [
+        { "title": "Pastoral Rule (Regula pastoralis)", "year": 591, "note": "Handbook for bishops; translated into Greek in his lifetime and into Old English by Alfred the Great." },
+        { "title": "Moralia in Job", "year": 595, "note": "Thirty-five books of literal, allegorical and moral exegesis; begun in Constantinople." },
+        { "title": "Dialogues", "year": 594, "note": "Four books on Italian holy men; Book II is the Life of Benedict, Book IV discusses the soul after death." },
+        { "title": "Forty Homilies on the Gospels", "year": 592, "workId": "gregory-homilies-gospels", "note": "Popular sermons that entered the medieval liturgical office." },
+        { "title": "Homilies on Ezekiel", "year": 593, "note": "Preached while the Lombards besieged Rome; contemplation and preaching." },
+        { "title": "Registrum epistularum", "year": 604, "note": "Some 854 letters, including those to Mellitus (601) and Serenus (599–600)." }
+      ],
+      "doctrineContributions": [
+        { "doctrineId": "eschatology", "text": "His Dialogues gave the early medieval West its most influential account of purgatorial fire and the efficacy of the Mass for the dead." },
+        { "doctrineId": "church-sacraments", "text": "His pastoral theology defined the medieval ideal of the bishop as preacher and physician of souls." },
+        { "doctrineId": "spirituality-prayer", "text": "Shaped Western teaching on contemplation, compunction and the mixed life of action and prayer." },
+        { "doctrineId": "mission-religions", "text": "His policy for the English mission set a pattern of gradual adaptation of pagan sites and customs." },
+        { "doctrineId": "mary-saints", "text": "His letters to Serenus became the standard Western defence of images as instruction." }
+      ],
+      "laterInfluence": [
+        { "on": "Medieval theology", "text": "One of the four Latin Doctors; the Moralia and Pastoral Rule were among the most copied books of the Middle Ages, used by Bede, Isidore, Alcuin and Bernard." },
+        { "on": "England", "text": "Revered by the Anglo-Saxons as their apostle; the earliest Life of Gregory was written at Whitby c. 700." },
+        { "on": "Reformers", "text": "Calvin regarded him as the last good bishop of Rome while criticising his teaching on purgatory and images." },
+        { "on": "Orthodoxy", "text": "Known as Gregory Dialogos; his Dialogues were translated into Greek by Pope Zacharias (c. 750)." },
+        { "on": "Modern church", "text": "His model of pastoral leadership is regularly invoked in Catholic, Anglican and Protestant pastoral theology." }
+      ],
+      "reception": [
+        { "tradition": "Catholic", "view": "doctor", "text": "One of the four great Latin Doctors (proclaimed 1298); feast 3 September." },
+        { "tradition": "Eastern Orthodox", "view": "saint", "text": "Venerated as St Gregory Dialogos (12 March); the Presanctified Liturgy is attributed to him." },
+        { "tradition": "Anglican", "view": "saint", "text": "Commemorated as the apostle of the English who sent Augustine to Canterbury." },
+        { "tradition": "Protestant", "view": "respected", "text": "Admired as preacher and pastor; his purgatory teaching and the cult of relics he encouraged are rejected." }
+      ],
+      "controversies": [
+        "His Dialogues’ miracle stories and purgatory teaching were attacked by Reformers as credulous; their authenticity was even challenged by Francis Clark (1987), though most scholars accept them.",
+        "The attribution of Gregorian chant to him is a later legend.",
+        "His letters endorse coercive measures against Donatists and pagans in some circumstances while forbidding forced baptism of Jews."
+      ],
+      "quote": { "text": "Holy Scripture is like a river, shallow and deep, in which a lamb may wade and an elephant swim.", "citation": "Gregory the Great, Moralia in Job, Letter to Leander 4" },
+      "places": [
+        { "name": "Rome (St Andrew’s on the Caelian)", "lat": 41.8862, "lng": 12.4944, "year": 574 },
+        { "name": "Constantinople", "lat": 41.0082, "lng": 28.9784, "year": 579 },
+        { "name": "Rome (papal Lateran)", "lat": 41.8859, "lng": 12.5057, "year": 590 },
+        { "name": "Canterbury (mission of Augustine)", "lat": 51.2802, "lng": 1.0789, "year": 597 }
+      ],
+      "sources": ["f4-markus-gregory", "f4-straw-gregory", "brown-rise-western", "gregory-dialogues", "odcc"],
+      "confidence": "established"
+    },
+    {
+      "id": "pseudo-dionysius",
+      "name": "Pseudo-Dionysius the Areopagite",
+      "personId": "pseudo-dionysius",
+      "born": 480,
+      "died": 530,
+      "circa": true,
+      "school": "byzantine",
+      "language": "greek",
+      "see": { "name": "Syria (probably Antioch region)", "lat": 36.2021, "lng": 36.1606 },
+      "roles": ["Anonymous mystical theologian", "Christian Neoplatonist"],
+      "summary": "Anonymous author of c. 500 who wrote as Dionysius, Paul’s Athenian convert (Acts 17:34), fusing Proclus’ Neoplatonism with Christian liturgy and Scripture; his apophatic and hierarchical theology profoundly shaped Eastern and Western mysticism.",
+      "story": "The corpus attributed to Dionysius the Areopagite — The Divine Names, The Mystical Theology, The Celestial Hierarchy, The Ecclesiastical Hierarchy and ten Letters — presents itself as the work of the Athenian judge converted by Paul’s speech on the Areopagus (Acts 17:34), addressed to Timothy and mentioning the eclipse at the crucifixion. The texts first surface in the 510s–520s, cited by the miaphysite Severus of Antioch; at a colloquy in Constantinople in 532 Hypatius of Ephesus doubted their authenticity, but they were soon accepted as apostolic.\n\nModern scholarship rests on the discovery, made independently by Hugo Koch and Josef Stiglmayr in 1895, that Dionysius’ treatment of evil in Divine Names 4 reproduces Proclus’ On the Existence of Evils. The author therefore wrote after Proclus (d. 485), probably in Syria around 500, perhaps a monk sympathetic to the Christology of the Henotikon. Identifications with Peter the Iberian, Severus or the last Athenian scholarch Damascius have been proposed; none is established.\n\nDionysius describes a universe of light flowing out from the superessential Godhead (thearchy) and drawing all things back to union through ordered ranks. He coined the word ‘hierarchy’: nine choirs of angels in three triads, and a church hierarchy of bishop, priest and deacon, monks, laity and catechumens, mediating purification, illumination and perfection. The liturgy — baptism, eucharist (synaxis), chrismation, ordination, monastic tonsure and funeral — is interpreted as an icon of this cosmic movement.\n\nHis most influential pages concern the names of God. Affirmative theology (cataphatic) praises God by all the names of Scripture; negative theology (apophatic) denies them all, since God is beyond being; and the soul finally passes, like Moses into the cloud on Sinai, into the ‘brilliant darkness’ of union beyond knowing. This programme gave Christian mysticism its classic vocabulary.\n\nThrough John of Scythopolis’ scholia (c. 540) and Maximus the Confessor’s defence, the corpus became authoritative in Byzantium. In the West it was translated by Hilduin (c. 832) and John Scotus Eriugena (c. 862), confused with Denis, martyr-bishop of Paris, and commented on by Hugh of St Victor, Albert, Bonaventure and Aquinas, who cites him some 1,700 times. Lorenzo Valla and Erasmus questioned its authorship; Luther judged him ‘more a Platonist than a Christian’.",
+      "roots": [
+        { "root": "neoplatonism", "text": "Dependent on Proclus and Iamblichus for procession and return, triadic structure, theurgy and the treatment of evil as privation." },
+        { "root": "earlier-fathers", "text": "Draws on Gregory of Nyssa’s Life of Moses (ascent into the divine darkness) and the Cappadocian doctrine of God’s incomprehensibility." },
+        { "root": "hebrew-scripture", "text": "Builds his doctrine of divine names on biblical titles of God and interprets Sinai, the seraphim of Isaiah 6 and Ezekiel’s visions." },
+        { "root": "apostolic-tradition", "text": "Claims the authority of Paul’s convert; the pseudonym itself bound pagan wisdom to apostolic origins." },
+        { "root": "monasticism", "text": "Writes probably from Syrian monastic circles and gives monks a defined rank in the ecclesiastical hierarchy." }
+      ],
+      "teachers": ["gregory-of-nyssa", "gregory-of-nazianzus"],
+      "keyTeachings": [
+        "God is ‘beyond being’ (hyperousios), known supremely by unknowing.",
+        "Cataphatic and apophatic theology: affirm every name of God, then deny them all.",
+        "Hierarchy as a sacred order that mediates purification, illumination and perfection.",
+        "Nine choirs of angels in three triads (seraphim, cherubim, thrones; dominions, powers, authorities; principalities, archangels, angels).",
+        "Evil is not a substance but a privation of good.",
+        "Union (henosis) with God and deification as the goal of creation."
+      ],
+      "works": [
+        { "title": "The Divine Names", "year": 500, "note": "On the biblical names of God: Good, Being, Life, Wisdom, Power, One." },
+        { "title": "The Mystical Theology", "year": 500, "note": "Short treatise on ascent into the darkness of unknowing; foundation of apophatic mysticism." },
+        { "title": "The Celestial Hierarchy", "year": 500, "workId": "pseudo-dionysius-celestial-hierarchy", "note": "Nine angelic orders in three triads; source of medieval angelology." },
+        { "title": "The Ecclesiastical Hierarchy", "year": 500, "note": "Mystagogical interpretation of the sacraments and orders of the church." },
+        { "title": "Letters 1–10", "year": 500, "note": "Includes letters to ‘Timothy’ and ‘John the Evangelist’ on Patmos." }
+      ],
+      "doctrineContributions": [
+        { "doctrineId": "spirituality-prayer", "text": "Gave Christian mysticism its vocabulary of apophasis, divine darkness and union." },
+        { "doctrineId": "angels-spiritual-powers", "text": "His nine-fold angelic hierarchy became standard in East and West, from Gregory the Great to Dante." },
+        { "doctrineId": "trinity", "text": "Developed apophatic theology of the divine names, later decisive for the essence–energies distinction and for Aquinas’ analogy." },
+        { "doctrineId": "worship-liturgy", "text": "His mystagogy shaped Byzantine liturgical commentary and Western sacramental symbolism." },
+        { "doctrineId": "creation-providence", "text": "Classic Christian statement of evil as privation within a procession–return cosmology." }
+      ],
+      "laterInfluence": [
+        { "on": "Byzantine theology", "text": "Maximus the Confessor, John of Damascus and Gregory Palamas all treated him as an apostolic authority." },
+        { "on": "Medieval West", "text": "Through Eriugena, the Victorines, Bonaventure and Aquinas, he shaped scholastic theology, Gothic light-theology (Suger of Saint-Denis) and the Cloud of Unknowing." },
+        { "on": "Reformers", "text": "Valla and Erasmus exposed the pseudonym; Luther rejected his speculative mysticism; Calvin dismissed his angelology as idle speculation." },
+        { "on": "Modern theology", "text": "Revived by Lossky, Balthasar, Marion and Denys Turner as a resource for negative theology and post-modern thought." }
+      ],
+      "reception": [
+        { "tradition": "Eastern Orthodox", "view": "saint", "text": "Honoured under the name of the Areopagite (feast 3 October); his writings are treated as patristic authority whatever their date." },
+        { "tradition": "Catholic", "view": "respected", "text": "Highly influential on scholasticism; modern Catholic scholarship accepts the pseudonymity while valuing the corpus." },
+        { "tradition": "Oriental Orthodox", "view": "respected", "text": "First cited by Severus of Antioch and translated into Syriac by Sergius of Resh‘aina (d. 536); valued in the Syriac tradition." },
+        { "tradition": "Protestant", "view": "controversial", "text": "Luther and many Protestants saw him as a channel of Platonism into the gospel; some modern Protestants have rediscovered his apophaticism." }
+      ],
+      "controversies": [
+        "The pseudonym: a sixth-century author claiming apostolic authority, exposed by Renaissance philology and by Koch and Stiglmayr in 1895.",
+        "How far his theology is Christian rather than Proclean — critics note how rarely he discusses the cross; defenders stress the centrality of Christ in the liturgy and Letter 4.",
+        "His Christology (‘a new theandric energy’, Letter 4) was claimed by both miaphysites and Monothelites before Maximus interpreted it in a Chalcedonian sense."
+      ],
+      "quote": { "text": "Leave behind the senses and the operations of the intellect … and, to the extent possible, strive upward unknowingly toward union with him who is beyond all being and knowledge.", "citation": "Pseudo-Dionysius, Mystical Theology 1.1" },
+      "places": [
+        { "name": "Athens (the Areopagus, claimed setting)", "lat": 37.9725, "lng": 23.7235 },
+        { "name": "Antioch (likely Syrian milieu)", "lat": 36.2021, "lng": 36.1606, "year": 500 },
+        { "name": "Constantinople (Colloquy of 532)", "lat": 41.0082, "lng": 28.9784, "year": 532 },
+        { "name": "Saint-Denis, Paris (Latin reception)", "lat": 48.9356, "lng": 2.3597, "year": 832 }
+      ],
+      "sources": ["rorem-pseudo-dionysius", "f4-louth-denys", "louth-origins-mystical", "mcginn-mysticism", "f4-golitzin-mystagogy"],
+      "confidence": "debated"
+    },
+    {
+      "id": "maximus-the-confessor",
+      "name": "Maximus the Confessor",
+      "personId": "maximus-the-confessor",
+      "born": 580,
+      "died": 662,
+      "circa": true,
+      "school": "byzantine",
+      "language": "greek",
+      "see": { "name": "Constantinople", "lat": 41.0082, "lng": 28.9784 },
+      "roles": ["Monk", "Theologian", "Confessor against Monothelitism"],
+      "summary": "Byzantine monk and the greatest synthesiser of Greek patristic theology, who defended two wills and two energies in Christ against imperial Monothelitism, was mutilated and exiled, and was vindicated by the Third Council of Constantinople (680–681).",
+      "story": "Two incompatible accounts of Maximus’ early life survive. The Greek Life makes him a Constantinopolitan aristocrat and head of the imperial chancery under Heraclius who became a monk at Chrysopolis around 614; a hostile Syriac Life by George of Resh‘aina makes him a Palestinian of humble birth. Either way, by the 620s he was a monk at Cyzicus, and the Persian advance drove him to North Africa, where he lived from about 630 among refugee monks near Carthage and became the disciple of Sophronius, later patriarch of Jerusalem.\n\nHis early works — the Ambigua to John, the Chapters on Love, the Questions to Thalassius and the Mystagogy — gather the whole Greek tradition into one vision. All things were created through the Logos and each bears a logos, a divine intention for its being; the incarnate Word gathers these logoi to himself, so that creation is a cosmic liturgy moving toward deification. Maximus corrected Origenist cosmology (rest–motion–fall) into creation–motion–rest, and read Dionysius and Gregory of Nazianzus in a rigorously Chalcedonian way.\n\nThe imperial attempt to reconcile miaphysites with the formula of one energy (633) and then one will in Christ (the Ekthesis of 638) drew him into controversy. In Carthage in 645 he debated the deposed patriarch Pyrrhus and won him over (briefly). With Pope Martin I he prepared the Lateran Synod of 649, which condemned Monothelitism and the imperial Typos of 648.\n\nArrested in Rome in 653, Maximus was tried in Constantinople in 655, exiled to Bizya, tried again in 662, and had his tongue and right hand cut off so he could neither speak nor write his teaching. Exiled to Lazica on the Black Sea, he died on 13 August 662. The Third Council of Constantinople (680–681) affirmed two natural wills and energies in Christ, vindicating him, though without naming him.\n\nAt the centre of his Christology is the distinction between natural will — the human faculty Christ fully assumed — and gnomic will, the hesitating, deliberative will of fallen persons; in Gethsemane Christ’s human will freely consented to the Father’s. He also distinguished the logos of a nature from its tropos, its mode of existence, explaining how the human can be wholly renewed without ceasing to be human. These ideas became central to Orthodox theology and, through Hans Urs von Balthasar’s Cosmic Liturgy (1941), to modern Catholic and ecumenical thought.",
+      "roots": [
+        { "root": "earlier-fathers", "text": "Gregory of Nazianzus, Gregory of Nyssa, Cyril of Alexandria and Dionysius are his constant points of reference; the Ambigua resolve difficulties in Gregory and Dionysius." },
+        { "root": "neoplatonism", "text": "Uses procession and return, participation and logoi, mediated through Dionysius, while rejecting emanationism." },
+        { "root": "aristotle", "text": "Employs Aristotelian and Neoplatonic commentators’ logic of nature, hypostasis, energy and will with technical precision." },
+        { "root": "monasticism", "text": "His ascetic theology builds on Evagrius’ analysis of passions and contemplation, purged of Origenist speculation." },
+        { "root": "imperial-church", "text": "His career was a confrontation with imperial religious policy, ending in a dissident monk’s defiance of emperor and patriarch." }
+      ],
+      "teachers": ["gregory-of-nazianzus", "gregory-of-nyssa", "pseudo-dionysius", "evagrius-ponticus", "cyril-of-alexandria"],
+      "keyTeachings": [
+        "Christ has two natural wills and two energies, divine and human, united without confusion in one person.",
+        "The logoi of creatures pre-exist in the Logos; the cosmos is ordered toward deification.",
+        "Deification: ‘God became man so that man might become god’ by grace, as far as God became man by nature.",
+        "Distinction of natural will and gnomic will; sin arises in the deliberative will, not in human nature as such.",
+        "The church and its liturgy as an image of the cosmos and of the human person.",
+        "Love as the fruit of dispassion and the goal of the ascetic life."
+      ],
+      "works": [
+        { "title": "Ambigua (to John and to Thomas)", "year": 630, "note": "Expositions of difficult passages in Gregory of Nazianzus and Dionysius; his cosmological masterpiece." },
+        { "title": "Questions to Thalassius", "year": 632, "note": "Sixty-five answers on scriptural difficulties, rich in spiritual exegesis." },
+        { "title": "Four Hundred Chapters on Love", "year": 626, "note": "Ascetic centuries, later included in the Philokalia." },
+        { "title": "Mystagogy", "year": 630, "note": "The church building and the eucharistic liturgy as images of God, cosmos and soul." },
+        { "title": "Disputation with Pyrrhus", "year": 645, "workId": "maximus-disputation-with-pyrrhus", "note": "Record of the Carthage debate defending two wills in Christ." },
+        { "title": "Opuscula theologica et polemica", "year": 646, "note": "Dogmatic treatises and letters against Monenergism and Monothelitism, including the Letter to Marinus on the Filioque." }
+      ],
+      "doctrineContributions": [
+        { "doctrineId": "christology", "text": "Supplied the theology of two wills and energies defined at Constantinople III (681), completing Chalcedon." },
+        { "doctrineId": "salvation", "text": "Gave classic form to the doctrine of theosis as the purpose of creation and incarnation." },
+        { "doctrineId": "creation-providence", "text": "His theory of the logoi offered a Christocentric account of the meaning of all created things." },
+        { "doctrineId": "holy-spirit", "text": "His Letter to Marinus explained the Latin Filioque as compatible with ‘through the Son’, a text central to modern Filioque dialogue." },
+        { "doctrineId": "spirituality-prayer", "text": "His ascetic chapters became a backbone of Byzantine spirituality and the Philokalia." }
+      ],
+      "laterInfluence": [
+        { "on": "Later Fathers", "text": "John of Damascus took over his Christology and doctrine of will; Byzantine theology after 681 is unimaginable without him." },
+        { "on": "Medieval West", "text": "Eriugena translated the Ambigua and Questions to Thalassius in the ninth century; Aquinas knew his teaching on Christ’s wills." },
+        { "on": "Orthodoxy", "text": "Regarded as one of the greatest Orthodox theologians; modern figures such as Staniloae and Zizioulas build on him." },
+        { "on": "Modern theology", "text": "Balthasar’s Cosmic Liturgy (1941) and Lars Thunberg’s Microcosm and Mediator (1965) sparked a broad ecumenical revival." }
+      ],
+      "reception": [
+        { "tradition": "Eastern Orthodox", "view": "saint", "text": "Venerated as a confessor (feasts 21 January and 13 August); a pillar of Orthodox theology." },
+        { "tradition": "Catholic", "view": "saint", "text": "Venerated as a saint; his alliance with Pope Martin I and the Lateran Synod are cited as witness to Roman orthodoxy." },
+        { "tradition": "Oriental Orthodox", "view": "controversial", "text": "As a defender of Chalcedonian dyothelitism he is not received by the non-Chalcedonian churches." },
+        { "tradition": "Protestant", "view": "respected", "text": "Increasingly read by Protestant theologians interested in Christology, theosis and theological anthropology." }
+      ],
+      "controversies": [
+        "Monothelite controversy: he defied emperor Constans II and the patriarchs of Constantinople, and was mutilated for it.",
+        "His high view of Roman orthodoxy in some letters is debated in Catholic–Orthodox discussions of primacy.",
+        "The authenticity of some texts (e.g. parts of the Opuscula and the Life of the Virgin in Georgian) is disputed."
+      ],
+      "quote": { "text": "Love is a good disposition of the soul by which one prefers no being to the knowledge of God.", "citation": "Maximus the Confessor, Chapters on Love 1.1" },
+      "places": [
+        { "name": "Chrysopolis (monastery)", "lat": 41.0237, "lng": 29.0153, "year": 614 },
+        { "name": "Cyzicus", "lat": 40.3833, "lng": 27.8833, "year": 624 },
+        { "name": "Carthage", "lat": 36.8528, "lng": 10.3233, "year": 645 },
+        { "name": "Rome (Lateran Synod)", "lat": 41.8859, "lng": 12.5057, "year": 649 },
+        { "name": "Constantinople (trials)", "lat": 41.0082, "lng": 28.9784, "year": 655 },
+        { "name": "Lazica (Tsikhe-Muri, place of death)", "lat": 42.6000, "lng": 42.0000, "year": 662 }
+      ],
+      "sources": ["f4-louth-maximus", "f4-thunberg-microcosm", "meyendorff-byzantine-theology", "pelikan-christian-tradition", "siecienski-filioque"],
+      "confidence": "established"
+    },
+    {
+      "id": "john-of-damascus-father",
+      "name": "John of Damascus",
+      "personId": "john-of-damascus",
+      "born": 675,
+      "died": 749,
+      "circa": true,
+      "school": "byzantine",
+      "language": "greek",
+      "see": { "name": "Monastery of Mar Saba, Judaean desert", "lat": 31.7050, "lng": 35.3330 },
+      "roles": ["Monk and priest", "Systematic theologian", "Defender of icons", "Hymnographer"],
+      "summary": "Christian Arab official turned monk at Mar Saba, living under the Umayyad caliphate, whose Fount of Knowledge summarised Greek patristic theology and whose three Apologies became the classic defence of icons against Byzantine iconoclasm.",
+      "story": "John, known in Arabic as Mansur ibn Sarjun, came from a leading Christian family of Damascus that had served in the fiscal administration of the city since before the Arab conquest and continued to do so under the Umayyad caliphs. Born around 675, he received a thorough Greek education and probably served in the caliphal administration before, in the early eighth century, withdrawing to the monastery of St Sabas (Mar Saba) near Jerusalem, where he was ordained priest. He lived the rest of his life there and died around 749.\n\nHis intellectual project was to gather the tradition rather than innovate: ‘I shall say nothing of my own’. The Fount of Knowledge (after 743) has three parts — the Dialectica, a manual of philosophical terms drawn from Aristotle and Porphyry; On Heresies, a catalogue of 100 heresies ending with the ‘religion of the Ishmaelites’, one of the earliest Christian accounts of Islam; and the Exact Exposition of the Orthodox Faith, a hundred chapters synthesising the Cappadocians, Cyril, Dionysius and Maximus on God, creation, Christ and the sacraments.\n\nWhen Emperor Leo III began acting against icons (c. 726–730), John — safely outside the empire — wrote three Apologies against Those Who Attack the Divine Images. His argument is Christological: the invisible God cannot be depicted, but since the Word became flesh, the one who was seen can be painted. He distinguished latreia (worship due to God alone) from proskynesis (honour or veneration given to images, saints and holy things), and argued that matter, through which salvation came, is not to be despised.\n\nThe iconoclast Council of Hieria (754) anathematised ‘Mansur, the Saracen-minded’, but the Second Council of Nicaea (787) adopted his distinctions and acclaimed his memory. His hymns — including the Paschal canon ‘The day of resurrection’ and canons for the Octoechos, whose organisation tradition attributes to him — remain central to Orthodox worship.\n\nIn the West, Burgundio of Pisa’s Latin translation of the Exact Exposition (c. 1153–54) gave scholastics their main access to Greek theology; Peter Lombard and Thomas Aquinas cite it. Leo XIII proclaimed him a Doctor of the Church in 1890.",
+      "roots": [
+        { "root": "earlier-fathers", "text": "Consciously compiled the Cappadocians, Cyril of Alexandria, Nemesius, Dionysius and especially Maximus into a systematic summary." },
+        { "root": "aristotle", "text": "His Dialectica adapts Aristotelian and Porphyrian logic as the necessary tool of theology." },
+        { "root": "monasticism", "text": "As a monk of Mar Saba he belonged to the Palestinian monastic tradition and its hymnographic school." },
+        { "root": "neoplatonism", "text": "Through Dionysius he inherited the theology of participation and of images as manifestations of archetypes." },
+        { "root": "imperial-church", "text": "Writing outside the Byzantine empire under Muslim rule, he could defend icons against the emperor with unusual freedom." }
+      ],
+      "teachers": ["maximus-the-confessor", "pseudo-dionysius", "gregory-of-nazianzus", "basil-the-great", "cyril-of-alexandria"],
+      "keyTeachings": [
+        "Because the invisible God became visible in Christ, Christ can be depicted in icons.",
+        "Worship (latreia) belongs to God alone; veneration (proskynesis) may be given to images, saints, relics and holy places.",
+        "The honour given to the image passes to its prototype (following Basil).",
+        "Matter is honoured because God ‘became matter for my sake’.",
+        "A synthesis of Trinitarian and Christological dogma, including perichoresis of the divine persons and the two natures.",
+        "Mary as Theotokos and her bodily Dormition."
+      ],
+      "works": [
+        { "title": "Exact Exposition of the Orthodox Faith", "year": 743, "workId": "john-damascus-exact-exposition", "note": "Part 3 of the Fount of Knowledge; standard textbook of Orthodox doctrine." },
+        { "title": "On Heresies", "year": 743, "workId": "john-damascus-on-heresies", "note": "Part 2 of the Fount of Knowledge; chapter 100 discusses Islam." },
+        { "title": "Three Apologies against Those Who Attack the Divine Images", "year": 730, "workId": "john-damascus-on-holy-images", "note": "Classic defence of icons, used at Nicaea II." },
+        { "title": "Dialectica", "year": 743, "note": "Part 1 of the Fount of Knowledge: philosophical definitions." },
+        { "title": "Homilies on the Dormition", "year": 740, "note": "Three homilies for the feast of the Dormition of the Theotokos." },
+        { "title": "Hymns and canons", "year": 740, "note": "Including the Paschal canon; Octoechos traditionally attributed to him." }
+      ],
+      "doctrineContributions": [
+        { "doctrineId": "mary-saints", "text": "Provided the theological basis for icon veneration ratified by the Second Council of Nicaea (787)." },
+        { "doctrineId": "christology", "text": "Summarised Chalcedonian and dyothelite Christology for later Byzantine and scholastic theology." },
+        { "doctrineId": "trinity", "text": "His account of perichoresis and the Spirit proceeding from the Father ‘through the Son’ became normative in Orthodoxy." },
+        { "doctrineId": "mission-religions", "text": "His chapter on the Ishmaelites is a foundational Christian response to Islam." }
+      ],
+      "laterInfluence": [
+        { "on": "Orthodoxy", "text": "Nicaea II and the Triumph of Orthodoxy (843) rest on his arguments; his hymns are sung throughout the Byzantine year." },
+        { "on": "Medieval theology", "text": "Burgundio’s Latin translation made the Exact Exposition a key Greek source for Peter Lombard and Aquinas." },
+        { "on": "Christian–Muslim relations", "text": "His writings set the agenda for later Arabic Christian apologists such as Theodore Abu Qurrah." },
+        { "on": "Reformers", "text": "Protestant iconoclasts rejected his defence of images, though his doctrinal summary was respected." }
+      ],
+      "reception": [
+        { "tradition": "Eastern Orthodox", "view": "saint", "text": "Venerated as a father and hymnographer (feast 4 December); the Exact Exposition is a standard dogmatic reference." },
+        { "tradition": "Catholic", "view": "doctor", "text": "Declared a Doctor of the Church by Leo XIII in 1890." },
+        { "tradition": "Protestant", "view": "controversial", "text": "Respected as a witness to Trinitarian and Christological orthodoxy, but his icon theology is rejected by Reformed and many evangelical Protestants; Lutherans are more moderate." },
+        { "tradition": "Melkite and Antiochian", "view": "saint", "text": "Claimed as a son of the Arabic-speaking Christian communities of Syria." }
+      ],
+      "controversies": [
+        "Iconoclasm: anathematised at Hieria (754), vindicated at Nicaea II (787).",
+        "His polemical chapter on Islam is valued historically but criticised as hostile and partly inaccurate.",
+        "Authorship of some attributed works (e.g. Barlaam and Josaphat, parts of Sacra Parallela) is rejected or doubted."
+      ],
+      "quote": { "text": "I do not worship matter; I worship the Creator of matter who became matter for my sake.", "citation": "John of Damascus, On the Divine Images 1.16" },
+      "places": [
+        { "name": "Damascus", "lat": 33.5138, "lng": 36.2765, "year": 675 },
+        { "name": "Jerusalem", "lat": 31.7683, "lng": 35.2137, "year": 720 },
+        { "name": "Mar Saba monastery", "lat": 31.7050, "lng": 35.3330, "year": 730 },
+        { "name": "Nicaea (Second Council, 787)", "lat": 40.4292, "lng": 29.7211, "year": 787 }
+      ],
+      "sources": ["f4-louth-john-damascus", "brubaker-haldon-iconoclasm", "griffith-church-shadow-mosque", "meyendorff-byzantine-theology", "pelikan-christian-tradition"],
+      "confidence": "established"
+    },
+    {
+      "id": "boethius",
+      "name": "Boethius",
+      "born": 477,
+      "died": 524,
+      "circa": true,
+      "school": "latin-western",
+      "language": "latin",
+      "see": { "name": "Rome", "lat": 41.9028, "lng": 12.4964 },
+      "roles": ["Roman senator and consul", "Philosopher", "Translator of Aristotle", "Theologian"],
+      "summary": "Roman aristocrat, consul and minister of the Ostrogothic king Theodoric, who translated Aristotle’s logic, wrote theological tractates defining ‘person’ and ‘nature’, and composed the Consolation of Philosophy while awaiting execution.",
+      "story": "Anicius Manlius Severinus Boethius was born around 477 into the great Anician family and raised after his father’s death by the senator Symmachus, whose daughter Rusticiana he married. Extraordinarily learned in Greek — some scholars think he studied in Alexandria or Athens, though this is uncertain — he set himself to translate into Latin and comment on all of Plato and Aristotle and to show their agreement. He completed only Aristotle’s logical works and Porphyry’s Isagoge, together with handbooks on arithmetic and music; these became the core of Western logical education until the twelfth century.\n\nBoethius rose high in the service of Theodoric, the Arian Ostrogothic king of Italy: consul in 510, he saw his two sons made joint consuls in 522, and in the same year became magister officiorum. But in 523, amid tensions between Theodoric and Constantinople, he defended the senator Albinus against a charge of treasonable correspondence with the emperor, was himself accused, condemned without a proper hearing and imprisoned near Pavia. He was executed in 524 (some date it 525).\n\nHis five theological tractates (Opuscula sacra) applied Aristotelian logic to Christian doctrine. On the Trinity explains how ‘God’ is predicated of Father, Son and Spirit without plurality; Against Eutyches and Nestorius gives the classic definition of a person as ‘an individual substance of a rational nature’ (naturae rationabilis individua substantia); and the treatise later known as De hebdomadibus distinguishes being (esse) from that which is (id quod est). The discovery in 1877 of a fragment of Cassiodorus (the Anecdoton Holderi) confirmed that he wrote theological works.\n\nIn prison he wrote the Consolation of Philosophy, a prosimetrum in which Lady Philosophy leads the prisoner from complaint against Fortune to understanding of providence, the true good and the compatibility of divine foreknowledge with human freedom — God sees all time in one eternal present. Remarkably, the book never mentions Christ, which has led some to question his Christianity; most scholars see it as a deliberate philosophical exercise by a Christian working within reason alone.\n\nThe Consolation was among the most widely read books of the Middle Ages, translated by Alfred the Great, Notker, Jean de Meun, Chaucer and Elizabeth I. Boethius was venerated at Pavia as a martyr for orthodoxy against an Arian king, buried in San Pietro in Ciel d’Oro near Augustine’s relics; his local cult was confirmed in 1883.",
+      "roots": [
+        { "root": "neoplatonism", "text": "The Consolation’s ascent to the Good and its account of eternity draw on Proclus and the Alexandrian commentators (Ammonius)." },
+        { "root": "aristotle", "text": "Translated and commented on the Organon and Porphyry’s Isagoge, transmitting Aristotelian logic to the Latin West." },
+        { "root": "platonism", "text": "Hymn ‘O qui perpetua’ (Consolation III m. 9) paraphrases Plato’s Timaeus; he aimed to show Plato and Aristotle in harmony." },
+        { "root": "stoicism", "text": "The Consolation’s early books use Stoic consolation literature on Fortune and the indifference of external goods." },
+        { "root": "earlier-fathers", "text": "His De Trinitate explicitly follows Augustine’s ‘seeds of reasoning’ on the Trinity." }
+      ],
+      "teachers": ["augustine-of-hippo-father"],
+      "keyTeachings": [
+        "A person is ‘an individual substance of a rational nature’.",
+        "God’s eternity is ‘the complete, simultaneous and perfect possession of unending life’, so divine foreknowledge does not impose necessity.",
+        "True happiness is God himself, the highest good, not Fortune’s gifts.",
+        "Evil is powerless and in a sense nothing; the wicked are punished by their own wickedness.",
+        "Faith and reason should be joined: ‘as far as you are able, join faith to reason’."
+      ],
+      "works": [
+        { "title": "The Consolation of Philosophy", "year": 524, "note": "Prosimetrum on Fortune, the good, providence and freedom; written in prison." },
+        { "title": "Opuscula sacra (Theological Tractates)", "year": 520, "note": "Five short works including De Trinitate and Contra Eutychen et Nestorium." },
+        { "title": "Translations and commentaries on Aristotle’s logic and Porphyry’s Isagoge", "year": 510, "note": "Including two commentaries on the Isagoge that posed the medieval problem of universals." },
+        { "title": "De institutione arithmetica and De institutione musica", "year": 505, "note": "Handbooks of the quadrivium, a term he coined." }
+      ],
+      "doctrineContributions": [
+        { "doctrineId": "trinity", "text": "Gave Latin theology precise definitions of person, nature and substance used by all later scholastics." },
+        { "doctrineId": "christology", "text": "His treatise against Eutyches and Nestorius applied Chalcedonian categories with logical rigour." },
+        { "doctrineId": "creation-providence", "text": "The Consolation’s reconciliation of providence, foreknowledge and free will became the standard medieval treatment." },
+        { "doctrineId": "theological-schools", "text": "Established the use of Aristotelian logic as a tool of theology, preparing scholastic method." }
+      ],
+      "laterInfluence": [
+        { "on": "Medieval theology", "text": "Called ‘the last of the Romans, the first of the scholastics’; Gilbert of Poitiers, Aquinas and others commented on his tractates." },
+        { "on": "Literature", "text": "The Consolation shaped Alfred, Dante (who places him in Paradise), Chaucer’s Troilus and The Knight’s Tale, and Elizabeth I." },
+        { "on": "Philosophy", "text": "His Isagoge commentary launched the medieval debate on universals; his definition of eternity remains central in philosophy of religion." },
+        { "on": "Reformers and modern thought", "text": "Valued as a model of Christian humanism; his definition of person is still debated in Trinitarian theology." }
+      ],
+      "reception": [
+        { "tradition": "Catholic", "view": "saint", "text": "Venerated locally at Pavia as St Severinus Boethius, a martyr; cultus confirmed by the Congregation of Rites in 1883 (feast 23 October)." },
+        { "tradition": "Eastern Orthodox", "view": "respected", "text": "Little known in Byzantium until Maximos Planudes translated the Consolation into Greek (c. 1300)." },
+        { "tradition": "Protestant", "view": "respected", "text": "Admired as a philosopher and literary classic; translated by Elizabeth I and read in Protestant schools." },
+        { "tradition": "Secular philosophy", "view": "respected", "text": "Studied as a transmitter of ancient logic and as a philosopher in his own right." }
+      ],
+      "controversies": [
+        "Whether the Consolation, silent on Christ, shows a philosopher whose Christianity was nominal; most scholars reject this reading.",
+        "Whether his execution was political (treason) or religious (Catholic against an Arian king); the later martyr cult stressed the latter.",
+        "Authorship of De fide catholica among the tractates is debated."
+      ],
+      "quote": { "text": "Eternity is the complete, simultaneous and perfect possession of unending life.", "citation": "Boethius, Consolation of Philosophy V, prose 6" },
+      "places": [
+        { "name": "Rome", "lat": 41.9028, "lng": 12.4964, "year": 510 },
+        { "name": "Ravenna (court of Theodoric)", "lat": 44.4184, "lng": 12.2035, "year": 522 },
+        { "name": "Pavia (imprisonment, execution and tomb)", "lat": 45.1847, "lng": 9.1582, "year": 524 }
+      ],
+      "sources": ["f4-chadwick-boethius", "f4-marenbon-boethius", "odcc", "pelikan-christian-tradition"],
+      "confidence": "established"
+    },
+    {
+      "id": "isidore-of-seville",
+      "name": "Isidore of Seville",
+      "born": 560,
+      "died": 636,
+      "circa": true,
+      "school": "latin-western",
+      "language": "latin",
+      "see": { "name": "Seville", "lat": 37.3891, "lng": -5.9845 },
+      "roles": ["Bishop of Seville (c. 600–636)", "Encyclopaedist", "Historian", "Church legislator"],
+      "summary": "Bishop of Seville in Visigothic Spain whose Etymologies condensed classical and Christian learning into an encyclopaedia used throughout the Middle Ages, and who presided over the Fourth Council of Toledo (633).",
+      "story": "Isidore was born around 560, probably in Seville, to a Hispano-Roman family that had fled Cartagena when the Byzantines occupied it. His elder brother Leander, bishop of Seville, educated him and played a leading part in the conversion of the Visigothic king Reccared from Arianism to Catholic Christianity at the Third Council of Toledo (589); his brother Fulgentius became bishop of Écija and his sister Florentina an abbess. Isidore succeeded Leander as bishop around 600 and held the see until his death in 636.\n\nHis episcopate coincided with the consolidation of a Catholic Visigothic kingdom, and Isidore aimed to give it a learned, unified church. He presided over the Second Council of Seville (619) and the Fourth Council of Toledo (633), which standardised the liturgy across Spain and Gaul, ordered cathedral schools for the training of clergy, and set out a theory of anointed kingship. The council’s canon 57 forbade forced conversion of Jews but required those already forcibly baptised under King Sisebut to remain Christian, an uneasy compromise reflecting Isidore’s own ambivalence.\n\nHis great work, the Etymologies (Etymologiae or Origines), arranged in twenty books by his friend Braulio of Zaragoza after his death, explains the world through the origins of words: grammar, rhetoric and dialectic, mathematics, medicine, law, chronology, God and the church, peoples, animals, geography, buildings, ships, food and tools. Drawing on Varro, Pliny, Servius, Augustine, Jerome and many lost compilations, it preserved classical knowledge for a world in which many sources were vanishing; more than a thousand medieval manuscripts survive.\n\nHe also wrote On the Nature of Things for King Sisebut, the Sententiae (a manual of doctrine and spiritual life drawn largely from Gregory the Great and Augustine), On Ecclesiastical Offices, a History of the Goths, Vandals and Sueves opening with the famous Praise of Spain, a world chronicle, On Famous Men, and the polemical On the Catholic Faith against the Jews.\n\nIsidore’s authority later lent cover to the ninth-century Pseudo-Isidorian Decretals, forgeries attributed to an ‘Isidore Mercator’ that strengthened papal and episcopal claims. Dante placed him among the wise in the Heaven of the Sun, and in 1722 Innocent XIII declared him a Doctor of the Church.",
+      "roots": [
+        { "root": "rhetoric", "text": "The Etymologies begin with the liberal arts; Isidore’s method of explanation by word-origin comes from the grammatical tradition of Varro and Servius." },
+        { "root": "roman-law", "text": "Book V of the Etymologies defines natural law, civil law and the law of nations from Roman jurists; Gratian’s Decretum opens with these definitions." },
+        { "root": "earlier-fathers", "text": "His theology largely compiles Augustine, Gregory the Great, Jerome and Cassian." },
+        { "root": "imperial-church", "text": "He developed the Visigothic ideal of a Catholic kingdom in which councils and anointed kings cooperate, building on Roman imperial models." },
+        { "root": "aristotle", "text": "Transmitted summaries of Aristotelian logic (via Boethius and Cassiodorus) in Etymologies II." }
+      ],
+      "teachers": ["gregory-the-great", "augustine-of-hippo-father", "jerome", "john-cassian"],
+      "keyTeachings": [
+        "All learning, sacred and secular, serves understanding of Scripture and of God’s world.",
+        "The meaning of a thing can be grasped through the origin of its name.",
+        "Natural law is common to all peoples; laws must be just, possible and for the common good.",
+        "Kings rule justly only if they rule rightly (rex a recte agendo).",
+        "Prayer and reading as dialogue: in prayer we speak to God, in reading God speaks to us."
+      ],
+      "works": [
+        { "title": "Etymologies (Etymologiae)", "year": 630, "note": "Twenty-book encyclopaedia, completed and divided by Braulio after 636; the most-used reference work of the Middle Ages." },
+        { "title": "Sententiae", "year": 615, "note": "Three books of doctrine and moral teaching, drawn largely from Gregory the Great." },
+        { "title": "On Ecclesiastical Offices", "year": 615, "note": "Explanation of the liturgy, feasts and orders of the church; key source for the Hispanic (Mozarabic) rite." },
+        { "title": "On the Nature of Things", "year": 613, "note": "Cosmology dedicated to King Sisebut, with diagrams of the world and seasons." },
+        { "title": "History of the Goths, Vandals and Sueves", "year": 624, "note": "Opens with the Laus Spaniae; a founding text of Spanish identity." },
+        { "title": "On the Catholic Faith against the Jews", "year": 615, "note": "Christological proof-texts against Judaism; influential in later anti-Jewish polemic." }
+      ],
+      "doctrineContributions": [
+        { "doctrineId": "theological-schools", "text": "Transmitted the liberal arts and patristic learning into the early medieval curriculum; mandated cathedral schools." },
+        { "doctrineId": "worship-liturgy", "text": "His On Ecclesiastical Offices and the Council of Toledo (633) standardised the Hispanic liturgy." },
+        { "doctrineId": "ethics-church-state", "text": "Shaped medieval ideas of Christian kingship, natural law and the cooperation of councils and kings." },
+        { "doctrineId": "covenant-law", "text": "His treatise against the Jews and the conciliar canons he oversaw shaped early medieval Christian policy toward Jews." }
+      ],
+      "laterInfluence": [
+        { "on": "Medieval learning", "text": "The Etymologies were copied in almost every monastic library; Bede, Alcuin, Hrabanus Maurus and Vincent of Beauvais depended on them." },
+        { "on": "Canon law", "text": "His legal definitions open Gratian’s Decretum; his name was attached to the Pseudo-Isidorian Decretals." },
+        { "on": "Spain", "text": "Regarded as the father of Spanish learning and a symbol of Visigothic Catholic identity." },
+        { "on": "Modern culture", "text": "Sometimes proposed as an informal patron saint of the internet for his encyclopaedic project." }
+      ],
+      "reception": [
+        { "tradition": "Catholic", "view": "doctor", "text": "Declared a Doctor of the Church by Innocent XIII in 1722; feast 4 April." },
+        { "tradition": "Eastern Orthodox", "view": "saint", "text": "Venerated by many Orthodox as a pre-schism Western saint, especially in Western-rite communities." },
+        { "tradition": "Protestant", "view": "respected", "text": "Valued as a transmitter of classical and patristic learning; his anti-Jewish writings and support for Visigothic coercion are criticised." },
+        { "tradition": "Jewish historians", "view": "controversial", "text": "Remembered for his role in the anti-Jewish legislation of Visigothic Spain, though he opposed Sisebut’s forced baptisms." }
+      ],
+      "controversies": [
+        "His treatise against the Jews and the canons of Toledo IV contributed to Visigothic anti-Jewish policy.",
+        "Medieval forgers used his name for the Pseudo-Isidorian Decretals.",
+        "Critics have dismissed him as a mere compiler; recent scholarship stresses his deliberate selection and arrangement."
+      ],
+      "quote": { "text": "When we pray, we speak with God; when we read, God speaks with us.", "citation": "Isidore of Seville, Sententiae 3.8.2" },
+      "places": [
+        { "name": "Cartagena (family origin)", "lat": 37.6257, "lng": -0.9966 },
+        { "name": "Seville", "lat": 37.3891, "lng": -5.9845, "year": 600 },
+        { "name": "Toledo (Fourth Council, 633)", "lat": 39.8628, "lng": -4.0273, "year": 633 },
+        { "name": "León (relics translated 1063)", "lat": 42.5987, "lng": -5.5671, "year": 1063 }
+      ],
+      "sources": ["f4-barney-etymologies", "f4-fontaine-isidore", "f4-wood-isidore", "brown-rise-western", "odcc"],
+      "confidence": "established"
+    },
+    {
+      "id": "bede",
+      "name": "Bede the Venerable",
+      "born": 673,
+      "died": 735,
+      "circa": true,
+      "school": "latin-western",
+      "language": "latin",
+      "see": { "name": "Jarrow (Wearmouth–Jarrow monastery)", "lat": 54.9806, "lng": -1.4847 },
+      "roles": ["Monk and priest", "Historian", "Exegete", "Scientist of time-reckoning"],
+      "summary": "Northumbrian monk of Wearmouth–Jarrow whose Ecclesiastical History of the English People (731) is the foundational history of English Christianity and whose works on time-reckoning popularised dating by Anno Domini.",
+      "story": "Bede was born around 673 on lands belonging to the monastery of Wearmouth in Northumbria and was given at the age of seven to its founder, Benedict Biscop. He moved to the sister house of Jarrow (founded 681–682) under Abbot Ceolfrith, and an anonymous Life of Ceolfrith tells of a boy who, with the abbot, alone kept up the singing of the office after plague devastated the community in 686 — probably Bede. He was ordained deacon at nineteen and priest at thirty by John of Beverley, and rarely travelled beyond Northumbria.\n\nWearmouth–Jarrow possessed one of the finest libraries north of the Alps, built up by Biscop’s journeys to Rome, and its scriptorium produced the Codex Amiatinus, the oldest complete Latin Vulgate Bible. Bede used this library to become the most learned scholar of his age. He tells us that he always took delight in learning, teaching and writing, and at the end of the Ecclesiastical History he lists some thirty works: biblical commentaries, school texts on grammar, metre and figures of speech, saints’ lives and works on chronology.\n\nHis biblical commentaries — on Genesis, the Tabernacle, the Temple, Ezra–Nehemiah, Mark, Luke, Acts, the Catholic Epistles and Revelation — compile and digest Augustine, Jerome, Ambrose and Gregory the Great, with a special interest in allegory and the moral formation of preachers. His works on time-reckoning, especially The Reckoning of Time (725), explained the computus for dating Easter, the relation of the moon to the tides, and the six ages of the world; they made dating ‘from the Incarnation of the Lord’ (Anno Domini), devised by Dionysius Exiguus in 525, standard in the West. His calculation of the world’s age, below the traditional figure, provoked a charge of heresy, which he rebutted in his Letter to Plegwin (708).\n\nThe Ecclesiastical History of the English People (731) tells the conversion of the English from Gregory the Great’s mission of 597 to Bede’s own day, with the Irish mission from Iona, the Synod of Whitby (664) and the careers of Aidan, Cuthbert, Wilfrid and Hilda. It quotes documents, names its informants and uses AD dating, while presenting miracles as signs of God’s work. In his Letter to Egbert of York (734) he urged reform of lax monasteries and more bishops.\n\nCuthbert’s Letter on the Death of Bede describes him dying on 25 May 735 while dictating an English translation of John’s Gospel. His relics were later taken to Durham Cathedral. Called ‘Venerable’ by the ninth century, he was declared a Doctor of the Church in 1899 — the only English Doctor.",
+      "roots": [
+        { "root": "earlier-fathers", "text": "He called himself a follower ‘in the footsteps of the Fathers’ — Augustine, Jerome, Ambrose and Gregory — and drew heavily on Isidore." },
+        { "root": "monasticism", "text": "Formed entirely within a Benedictine-style monastery shaped by Biscop’s Roman models and the Rule of Benedict." },
+        { "root": "hebrew-scripture", "text": "Much of his exegesis treats Old Testament texts — Genesis, the Tabernacle, the Temple, Samuel, Ezra — as figures of Christ and the church." },
+        { "root": "rhetoric", "text": "Wrote school texts on grammar, metre and tropes, showing Scripture contains all the figures of classical rhetoric." },
+        { "root": "apostolic-tradition", "text": "Championed the Roman (Dionysian) Easter reckoning as apostolic against the Irish usage." }
+      ],
+      "teachers": ["gregory-the-great", "augustine-of-hippo-father", "jerome", "ambrose-of-milan", "isidore-of-seville"],
+      "keyTeachings": [
+        "History as the record of God’s providence in a people’s conversion, offering moral examples.",
+        "Christian time: the six ages of the world, AD dating and the correct calculation of Easter as signs of the church’s unity.",
+        "Scripture read literally, typologically and morally to form preachers and teachers.",
+        "The ideal bishop and monk as humble teacher and pastor, modelled on Aidan and Cuthbert.",
+        "The unity of the English church with Rome."
+      ],
+      "works": [
+        { "title": "Ecclesiastical History of the English People", "year": 731, "note": "Foundational history of English Christianity from Roman Britain to 731." },
+        { "title": "The Reckoning of Time (De temporum ratione)", "year": 725, "note": "Computus, calendar, tides and world chronicle; popularised AD dating." },
+        { "title": "On Times (De temporibus)", "year": 703, "note": "Earlier short treatise on chronology." },
+        { "title": "Commentaries on Scripture", "year": 715, "note": "On Genesis, Tabernacle, Temple, Luke, Mark, Acts, Revelation and others." },
+        { "title": "Lives of St Cuthbert (prose and verse)", "year": 721, "note": "Hagiography of the bishop of Lindisfarne." },
+        { "title": "Letter to Egbert", "year": 734, "note": "Programme of church reform for Northumbria." }
+      ],
+      "doctrineContributions": [
+        { "doctrineId": "scripture-authority", "text": "His commentaries transmitted patristic exegesis to the Carolingian and medieval church." },
+        { "doctrineId": "worship-liturgy", "text": "His computus fixed the Western method of calculating Easter and Christian time." },
+        { "doctrineId": "eschatology", "text": "His scheme of six ages and his commentary on Revelation shaped medieval views of history and the end." },
+        { "doctrineId": "mission-religions", "text": "His History became the model narrative of a people’s conversion and of Gregory’s adaptive mission policy." }
+      ],
+      "laterInfluence": [
+        { "on": "Carolingian renaissance", "text": "Through his pupil Egbert of York and Egbert’s pupil Alcuin, Bede’s learning reached Charlemagne’s court." },
+        { "on": "Calendar", "text": "AD dating spread across Europe largely through his works." },
+        { "on": "English identity", "text": "Alfred the Great had the History translated into Old English; Bede shaped the very idea of the gens Anglorum." },
+        { "on": "Reformers and Anglicans", "text": "Reformers such as Matthew Parker and John Foxe read him as a witness to an early English church; others criticised his miracles." },
+        { "on": "Historiography", "text": "Honoured as the ‘father of English history’ for his use of documents and named informants." }
+      ],
+      "reception": [
+        { "tradition": "Catholic", "view": "doctor", "text": "Declared a Doctor of the Church by Leo XIII in 1899; feast 25 May." },
+        { "tradition": "Anglican", "view": "saint", "text": "Commemorated on 25 May; honoured as a father of English Christianity." },
+        { "tradition": "Eastern Orthodox", "view": "saint", "text": "Venerated by many Orthodox as a pre-schism Western saint." },
+        { "tradition": "Protestant", "view": "respected", "text": "Valued as historian and exegete; his miracle stories are read critically." }
+      ],
+      "controversies": [
+        "Accused of heresy in 708 for revising the age of the world.",
+        "His partisan support for Roman Easter practice and treatment of the Britons and Irish are debated by historians.",
+        "The reliability of the miracles and of his idealised picture of the English church."
+      ],
+      "quote": { "text": "I have always taken delight in learning, teaching and writing.", "citation": "Bede, Ecclesiastical History 5.24" },
+      "places": [
+        { "name": "Monkwearmouth (Wearmouth)", "lat": 54.9131, "lng": -1.3837, "year": 680 },
+        { "name": "Jarrow", "lat": 54.9806, "lng": -1.4847, "year": 682 },
+        { "name": "Lindisfarne", "lat": 55.6690, "lng": -1.8000, "year": 721 },
+        { "name": "York", "lat": 53.9590, "lng": -1.0815, "year": 733 },
+        { "name": "Durham Cathedral (relics)", "lat": 54.7735, "lng": -1.5762, "year": 1022 }
+      ],
+      "sources": ["bede-ecclesiastical-history", "f4-ward-bede", "f4-brown-bede-companion", "f4-wallis-reckoning", "brown-rise-western"],
+      "confidence": "established"
+    },
+    {
+      "id": "aphrahat",
+      "name": "Aphrahat the Persian Sage",
+      "born": 270,
+      "died": 345,
+      "circa": true,
+      "school": "syriac",
+      "language": "syriac",
+      "see": { "name": "Northern Mesopotamia (Sasanian Persia)", "lat": 36.4500, "lng": 43.4100 },
+      "roles": ["Ascetic", "Teacher", "Earliest major Syriac Christian author"],
+      "summary": "The earliest substantial Syriac Christian writer, who lived in the Sasanian Persian empire and wrote twenty-three Demonstrations (337–345) on faith, the ascetic ‘covenant’ and debates with Judaism, in a Semitic idiom untouched by Greek philosophy.",
+      "story": "Almost nothing is known of the ‘Persian Sage’ except what his writings reveal. He wrote within the Sasanian empire during the reign of Shapur II, dating his first ten Demonstrations to 337, the next twelve to 344 and the last to August 345. Later tradition identified him as Jacob, a bishop at the monastery of Mar Mattai near Mosul, and the Armenian translation circulated his work under the name of Jacob of Nisibis; his name ‘Aphrahat’ appears only later. He was clearly a respected teacher and possibly a bishop, writing in his fourteenth Demonstration in the name of a synod to the clergy of Seleucia-Ctesiphon.\n\nThe twenty-two Demonstrations (Taḥwyātā) of 337 and 344 are arranged as an acrostic on the twenty-two letters of the Syriac alphabet, with a final work On the Grape-cluster. They treat faith, love, fasting, prayer, wars, the ‘sons of the covenant’, penitents, the resurrection, humility, pastors, the persecution, the poor, death and the end of the world. Their style is biblical and Semitic: richly typological, full of Scripture quotations from the Peshitta and Tatian’s Diatessaron, and free of the technical Greek vocabulary of Nicaea, which he never mentions.\n\nAphrahat is a primary witness to the bnay qyāmā, the ‘sons and daughters of the covenant’, an early Syriac form of consecrated life before Egyptian-style monasticism arrived: celibate men and women who lived in their own communities serving the local church. In Demonstration 7 he exhorts candidates for baptism who are not ready for this demanding life not to rush into it — evidence of the close link between baptism and ascetic commitment in early Syriac Christianity.\n\nNine Demonstrations (11–19 and 21) address Jewish arguments on circumcision, Passover, the Sabbath, food laws, the election of the nations, Christ’s divinity and virginity. Written as Shapur II’s persecution of Christians intensified from 340 — Christians were suspected of sympathy with Christian Rome — they reflect a Persian context where Judaism was strong and respected. Scholars such as Jacob Neusner have mined them for evidence of Babylonian Jewish practice; Aphrahat argues from Scripture, generally without abuse, though his conclusions are supersessionist.\n\nHis theology preserves archaic features: he speaks of the Holy Spirit in maternal imagery (‘God his Father and the Holy Spirit his mother’, Dem. 18.10), teaches that the souls of the dead sleep until the resurrection, and in Demonstration 5 reads Daniel’s fourth kingdom as Rome, which he expects to prevail over Persia until Christ comes. Together with his younger contemporary Ephrem, he is the founding voice of the Syriac tradition.",
+      "roots": [
+        { "root": "hebrew-scripture", "text": "His thought is built almost entirely from the Old and New Testaments in Syriac, read typologically." },
+        { "root": "second-temple-judaism", "text": "Shares exegetical traditions and Semitic idioms with Jewish interpretation and argues closely with contemporary Babylonian Jews." },
+        { "root": "apostolic-tradition", "text": "His opening creed-like summary in Demonstration 1 reflects an early Syriac rule of faith independent of Nicaea." },
+        { "root": "monasticism", "text": "A witness to proto-monastic Syriac asceticism — the bnay qyāmā — before Egyptian influence." }
+      ],
+      "teachers": [],
+      "keyTeachings": [
+        "Faith is a building whose foundation is Christ, completed by works of love.",
+        "The consecrated celibate life of the ‘covenant’ as a betrothal to Christ the Bridegroom.",
+        "Purity of heart as true prayer, linked to love of neighbour and almsgiving.",
+        "Christ is God and Son of God, worshipped by Christians, though described in biblical rather than Nicene terms.",
+        "The souls of the righteous sleep until the resurrection.",
+        "Christian practice (Pascha, baptism, the new covenant) as fulfilment of Israel’s Passover, circumcision and Sabbath."
+      ],
+      "works": [
+        { "title": "Demonstrations 1–10", "year": 337, "note": "On faith, love, fasting, prayer, wars, the covenant, penitents, resurrection, humility and pastors." },
+        { "title": "Demonstrations 11–22", "year": 344, "note": "Including treatises addressed to Jewish arguments and on persecution, the poor and death." },
+        { "title": "Demonstration 23: On the Grape-cluster", "year": 345, "note": "On the ‘blessing in the cluster’ (Isaiah 65:8) and the line of salvation history; includes a chronology." },
+        { "title": "Demonstration 14 (synodal letter)", "year": 344, "note": "Exhortation to the clergy of Seleucia-Ctesiphon." }
+      ],
+      "doctrineContributions": [
+        { "doctrineId": "spirituality-prayer", "text": "A foundational witness to Syriac teaching on prayer, purity of heart and consecrated life." },
+        { "doctrineId": "covenant-law", "text": "His Demonstrations on Judaism are the earliest sustained Christian engagement with rabbinic-era Babylonian Jews." },
+        { "doctrineId": "eschatology", "text": "Preserves an early Semitic eschatology of soul-sleep and a Danielic reading of Rome and Persia." },
+        { "doctrineId": "baptism", "text": "Shows the early Syriac link between baptism and ascetic commitment." }
+      ],
+      "laterInfluence": [
+        { "on": "Syriac tradition", "text": "Read in both the Church of the East and the Syriac Orthodox Church; Ephrem and later Syriac authors share his symbolic theology." },
+        { "on": "Armenian and Ethiopic traditions", "text": "Translated into Armenian (as Jacob of Nisibis), Ethiopic and Georgian, extending his reach." },
+        { "on": "Jewish–Christian studies", "text": "Modern scholars use him as evidence for fourth-century Jewish life in Mesopotamia and for the ‘parting of the ways’." },
+        { "on": "Modern theology", "text": "Valued by Robert Murray, Sebastian Brock and others as an example of a non-Hellenised, Semitic Christianity." }
+      ],
+      "reception": [
+        { "tradition": "Assyrian Church of the East", "view": "father", "text": "Honoured as an early teacher of the East Syriac tradition, from the Persian church itself." },
+        { "tradition": "Syriac Orthodox", "view": "father", "text": "Respected as a pre-schism Syriac father and ascetic." },
+        { "tradition": "Catholic", "view": "respected", "text": "Studied as a witness to early Syriac Christianity; the Chaldean and Syro-Malabar churches claim him as part of their heritage." },
+        { "tradition": "Protestant", "view": "respected", "text": "Valued by scholars for his biblical idiom and pre-Nicene theology." }
+      ],
+      "controversies": [
+        "His identity and even his name are uncertain; the identification with Bishop Jacob of Mar Mattai is late.",
+        "His pre-Nicene Christology and maternal language for the Spirit have been read as either archaic orthodoxy or deviation.",
+        "His anti-Jewish arguments, though moderate in tone, are supersessionist."
+      ],
+      "quote": { "text": "Purity of heart is prayer more than all the prayers that are spoken aloud.", "citation": "Aphrahat, Demonstration 4.1 (On Prayer)" },
+      "places": [
+        { "name": "Mar Mattai monastery (traditional association)", "lat": 36.4500, "lng": 43.4100, "year": 337 },
+        { "name": "Seleucia-Ctesiphon", "lat": 33.0930, "lng": 44.5810, "year": 344 },
+        { "name": "Nineveh / Mosul region", "lat": 36.3400, "lng": 43.1300 }
+      ],
+      "sources": ["f4-lehto-aphrahat", "f4-neusner-aphrahat", "f4-murray-symbols", "f4-brock-syriac"],
+      "confidence": "debated"
+    },
+    {
+      "id": "eusebius-of-caesarea",
+      "name": "Eusebius of Caesarea",
+      "personId": "eusebius-of-caesarea",
+      "born": 263,
+      "died": 339,
+      "circa": true,
+      "school": "alexandrian",
+      "language": "greek",
+      "see": { "name": "Caesarea Maritima", "lat": 32.5000, "lng": 34.8920 },
+      "roles": ["Bishop of Caesarea (c. 313–339)", "Church historian", "Biblical scholar", "Apologist", "Biographer of Constantine"],
+      "summary": "Bishop of Caesarea in Palestine, heir to Origen’s library, ‘father of church history’ and panegyrist of Constantine, whose Ecclesiastical History preserves much of what we know of the first three Christian centuries.",
+      "story": "Eusebius was born around 263, probably in Caesarea Maritima, and became the devoted pupil of the presbyter Pamphilus, who had restored and expanded Origen’s great library there. Calling himself ‘Eusebius of Pamphilus’, he worked with his teacher on correcting biblical manuscripts and on a Defence of Origen while Pamphilus was in prison; Pamphilus was martyred in 310 during the Great Persecution, which Eusebius witnessed in Palestine and Egypt and recorded in The Martyrs of Palestine. Around 313 he became bishop of Caesarea.\n\nHe was a scholar of immense range. His Chronicle synchronised biblical, Greek, Roman and other histories in parallel columns (translated and continued by Jerome); his Onomasticon is a gazetteer of biblical places; his Canons, a system of cross-referencing tables for the four Gospels, appear in Gospel books for a millennium. The Preparation for the Gospel and Demonstration of the Gospel argue that Greek philosophy at its best borrowed from Moses and that Hebrew prophecy is fulfilled in Christ, quoting so many pagan authors — Philo, Numenius, Porphyry, Atticus — that they preserve otherwise lost texts.\n\nThe Ecclesiastical History, issued in several editions down to about 325, set out to record the successions of bishops in the apostolic sees, the heresies, the fate of the Jews, the persecutions and the martyrs, from Christ to Constantine’s victory. Its method — quoting documents verbatim — created a new genre and preserved fragments of Papias, Hegesippus, Irenaeus, Dionysius of Alexandria and others. Its canon list (3.25) distinguishes acknowledged, disputed and spurious books.\n\nIn the Arian controversy Eusebius stood with Arius’ sympathisers, emphasising the Son’s subordination to the Father. Provisionally excommunicated at a synod in Antioch early in 325, he presented his church’s baptismal creed at Nicaea, accepted the homoousios with his own interpretation, and then explained his reasons in a letter to his flock. In later years he helped depose Eustathius of Antioch and Athanasius (Tyre, 335) and wrote against Marcellus of Ancyra.\n\nHe met Constantine at Nicaea and later delivered the Tricennial Oration (336), presenting the emperor as an image of the divine Logos ruling a single empire under one God. His unfinished Life of Constantine (337–339) is the main source for the emperor’s conversion, the vision of the cross and his church-building, but also a panegyric. Erik Peterson’s critique of ‘political monotheism’ (1935) and Jacob Burckhardt’s charge of dishonesty have made Eusebius a byword for imperial theology, though modern scholars such as T. D. Barnes portray a scholar-bishop more than a court theologian.",
+      "roots": [
+        { "root": "earlier-fathers", "text": "Formed in Origen’s library by Pamphilus; his theology, exegesis and textual scholarship are Origenist." },
+        { "root": "middle-platonism", "text": "His Logos theology of a second, subordinate God mediating between the Father and creation follows Origen and Middle Platonists such as Numenius." },
+        { "root": "philo", "text": "Preserved and quoted Philo extensively, presenting him as a witness to early Christian ascetics (the Therapeutae)." },
+        { "root": "hebrew-scripture", "text": "His apologetics argue from fulfilled prophecy; his Onomasticon and Chronicle build on biblical history and geography." },
+        { "root": "imperial-church", "text": "Theorised the Christian empire as the earthly image of divine monarchy under Constantine." },
+        { "root": "apostolic-tradition", "text": "Structured his History around episcopal successions from the apostles." }
+      ],
+      "teachers": ["origen"],
+      "keyTeachings": [
+        "The church’s history displays God’s providence, from the apostles through persecution to the Christian empire.",
+        "The Logos is the Father’s image and instrument, truly divine yet subordinate to the unbegotten Father.",
+        "Greek philosophy borrowed its best insights from Moses; the gospel is the fulfilment of both Israel and the nations (praeparatio evangelica).",
+        "The Christian emperor as the friend of God and image of the Logos’ rule.",
+        "The scriptural canon distinguished into acknowledged, disputed and spurious books."
+      ],
+      "works": [
+        { "title": "Ecclesiastical History", "year": 325, "workId": "eusebius-ecclesiastical-history", "note": "Ten books from Christ to Constantine; the founding work of church history." },
+        { "title": "Life of Constantine", "year": 339, "workId": "eusebius-life-of-constantine", "note": "Four books of biography and panegyric, unfinished at his death." },
+        { "title": "Preparation for the Gospel", "year": 315, "note": "Fifteen books showing paganism’s errors and philosophy’s debt to Moses." },
+        { "title": "Demonstration of the Gospel", "year": 318, "note": "Proof of Christianity from Hebrew prophecy; ten of twenty books survive." },
+        { "title": "Chronicle", "year": 311, "note": "Universal chronology in parallel columns; known through Jerome’s Latin and an Armenian version." },
+        { "title": "Onomasticon and Gospel Canons", "year": 320, "note": "Biblical gazetteer and cross-reference tables for the Gospels." }
+      ],
+      "doctrineContributions": [
+        { "doctrineId": "ethics-church-state", "text": "Laid the foundations of Byzantine political theology: one God, one emperor, one empire." },
+        { "doctrineId": "scripture-authority", "text": "His canon list and Gospel Canons are key evidence for the formation of the New Testament canon and its text." },
+        { "doctrineId": "trinity", "text": "His subordinationist Logos theology represents the pre-Nicene Origenist position that Nicaea had to address." },
+        { "doctrineId": "revelation-apologetics", "text": "His Preparation and Demonstration are the most extensive early Christian apologetic." }
+      ],
+      "laterInfluence": [
+        { "on": "Church history", "text": "Continued by Socrates, Sozomen, Theodoret and Rufinus; every later church historian is in his debt." },
+        { "on": "Byzantine political thought", "text": "His theology of the Christian emperor shaped Byzantine and later Russian ideas of symphonia." },
+        { "on": "Iconoclasm", "text": "His Letter to Constantia refusing an image of Christ was cited by the iconoclasts at Hieria (754) and rejected at Nicaea II (787)." },
+        { "on": "Reformers and modern scholarship", "text": "The Magdeburg Centuries and later Protestant historians took up his documentary method; modern historians debate his reliability on Constantine." }
+      ],
+      "reception": [
+        { "tradition": "Catholic", "view": "respected", "text": "Valued as historian; once listed in some Western martyrologies, but removed in the sixteenth-century revision because of his Arian sympathies." },
+        { "tradition": "Eastern Orthodox", "view": "respected", "text": "Indispensable as a historian but not venerated as a saint because of his stance in the Arian controversy." },
+        { "tradition": "Syriac Orthodox", "view": "respected", "text": "His History was translated into Syriac by c. 400 and widely used; some Syriac calendars commemorate him." },
+        { "tradition": "Protestant", "view": "controversial", "text": "Admired as the father of church history but often criticised as the theologian of Constantinian Christianity." }
+      ],
+      "controversies": [
+        "His sympathy for Arius and his role in deposing Eustathius and Athanasius.",
+        "His panegyrical portrait of Constantine and the reliability of the Life of Constantine.",
+        "His Letter to Constantia against images of Christ, later used by iconoclasts."
+      ],
+      "quote": { "text": "I have purposed to record in writing the successions of the holy apostles, as well as the times extending from our Saviour to our own.", "citation": "Eusebius, Ecclesiastical History 1.1.1" },
+      "places": [
+        { "name": "Caesarea Maritima", "lat": 32.5000, "lng": 34.8920, "year": 313 },
+        { "name": "Antioch (synod of 325)", "lat": 36.2021, "lng": 36.1606, "year": 325 },
+        { "name": "Nicaea", "lat": 40.4292, "lng": 29.7211, "year": 325 },
+        { "name": "Tyre (dedication sermon; synod of 335)", "lat": 33.2705, "lng": 35.2038, "year": 335 },
+        { "name": "Constantinople (Tricennial Oration)", "lat": 41.0082, "lng": 28.9784, "year": 336 }
+      ],
+      "sources": ["barnes-constantine-eusebius", "eusebius-hist-eccl", "eusebius-life-constantine", "f4-johnson-eusebius", "f4-grafton-williams", "kelly-doctrines"],
+      "confidence": "established"
+    }
+  ],
+  "sources": [
+    { "id": "f4-quasten-patrology", "title": "Patrology (4 vols; vol. 4 ed. Angelo Di Berardino)", "author": "Johannes Quasten", "year": "1950–1986", "kind": "reference" },
+    { "id": "f4-neil-leo", "title": "Leo the Great (The Early Church Fathers)", "author": "Bronwen Neil", "year": 2009, "kind": "secondary" },
+    { "id": "f4-wessel-leo", "title": "Leo the Great and the Spiritual Rebuilding of a Universal Rome", "author": "Susan Wessel", "year": 2008, "kind": "secondary" },
+    { "id": "f4-markus-gregory", "title": "Gregory the Great and His World", "author": "R. A. Markus", "year": 1997, "kind": "secondary" },
+    { "id": "f4-straw-gregory", "title": "Gregory the Great: Perfection in Imperfection", "author": "Carole Straw", "year": 1988, "kind": "secondary" },
+    { "id": "f4-louth-denys", "title": "Denys the Areopagite", "author": "Andrew Louth", "year": 1989, "kind": "secondary" },
+    { "id": "f4-golitzin-mystagogy", "title": "Mystagogy: A Monastic Reading of Dionysius Areopagita", "author": "Alexander Golitzin", "year": 2013, "kind": "secondary" },
+    { "id": "f4-louth-maximus", "title": "Maximus the Confessor (The Early Church Fathers)", "author": "Andrew Louth", "year": 1996, "kind": "secondary" },
+    { "id": "f4-thunberg-microcosm", "title": "Microcosm and Mediator: The Theological Anthropology of Maximus the Confessor, 2nd ed.", "author": "Lars Thunberg", "year": 1995, "kind": "secondary" },
+    { "id": "f4-louth-john-damascus", "title": "St John Damascene: Tradition and Originality in Byzantine Theology", "author": "Andrew Louth", "year": 2002, "kind": "secondary" },
+    { "id": "f4-chadwick-boethius", "title": "Boethius: The Consolations of Music, Logic, Theology, and Philosophy", "author": "Henry Chadwick", "year": 1981, "kind": "secondary" },
+    { "id": "f4-marenbon-boethius", "title": "Boethius (Great Medieval Thinkers)", "author": "John Marenbon", "year": 2003, "kind": "secondary" },
+    { "id": "f4-barney-etymologies", "title": "The Etymologies of Isidore of Seville (translation and introduction)", "author": "Stephen A. Barney, W. J. Lewis, J. A. Beach and Oliver Berghof", "year": 2006, "kind": "primary" },
+    { "id": "f4-fontaine-isidore", "title": "Isidore de Séville et la culture classique dans l’Espagne wisigothique", "author": "Jacques Fontaine", "year": 1959, "kind": "secondary" },
+    { "id": "f4-wood-isidore", "title": "The Politics of Identity in Visigothic Spain: Religion and Power in the Histories of Isidore of Seville", "author": "Jamie Wood", "year": 2012, "kind": "secondary" },
+    { "id": "f4-ward-bede", "title": "The Venerable Bede", "author": "Benedicta Ward", "year": 1990, "kind": "secondary" },
+    { "id": "f4-brown-bede-companion", "title": "A Companion to Bede", "author": "George Hardin Brown", "year": 2009, "kind": "secondary" },
+    { "id": "f4-wallis-reckoning", "title": "Bede: The Reckoning of Time (translation, introduction and commentary)", "author": "Faith Wallis", "year": 1999, "kind": "primary" },
+    { "id": "f4-lehto-aphrahat", "title": "The Demonstrations of Aphrahat, the Persian Sage (translation and introduction)", "author": "Adam Lehto", "year": 2010, "kind": "primary" },
+    { "id": "f4-neusner-aphrahat", "title": "Aphrahat and Judaism: The Christian-Jewish Argument in Fourth-Century Iran", "author": "Jacob Neusner", "year": 1971, "kind": "secondary" },
+    { "id": "f4-murray-symbols", "title": "Symbols of Church and Kingdom: A Study in Early Syriac Tradition", "author": "Robert Murray", "year": 1975, "kind": "secondary" },
+    { "id": "f4-brock-syriac", "title": "A Brief Outline of Syriac Literature", "author": "Sebastian Brock", "year": 1997, "kind": "reference" },
+    { "id": "f4-johnson-eusebius", "title": "Eusebius (Understanding Classics)", "author": "Aaron P. Johnson", "year": 2014, "kind": "secondary" },
+    { "id": "f4-grafton-williams", "title": "Christianity and the Transformation of the Book: Origen, Eusebius, and the Library of Caesarea", "author": "Anthony Grafton and Megan Williams", "year": 2006, "kind": "secondary" }
+  ]
+}

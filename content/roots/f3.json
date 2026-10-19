@@ -1,0 +1,710 @@
+{
+  "fathers": [
+    {
+      "id": "antony-of-egypt",
+      "name": "Antony of Egypt and the Desert Fathers",
+      "personId": "antony-of-egypt",
+      "born": 251,
+      "died": 356,
+      "circa": true,
+      "school": "desert-monastic",
+      "language": "coptic",
+      "see": { "name": "Inner Mountain (Mount Colzim), Eastern Desert of Egypt", "lat": 28.92, "lng": 32.35 },
+      "roles": ["Hermit", "Abba (spiritual father)", "Exemplar of monastic life", "Supporter of Athanasius"],
+      "summary": "Coptic-speaking Egyptian hermit (c. 251–356) whose withdrawal into the desert, made famous by Athanasius’s Life of Antony, became the model for Christian monasticism; with the other Desert Fathers and Mothers of Nitria, Kellia and Scetis he shaped the spirituality of East and West.",
+      "story": "Antony was born around 251 to a prosperous Christian farming family at Coma (Qiman al-Arus) in Middle Egypt. According to Athanasius, when he was about eighteen or twenty, shortly after his parents’ deaths, he heard Matthew 19:21 read in church — “If you would be perfect, go, sell what you have and give to the poor” — and took it as addressed to him. He sold his land, placed his younger sister with a community of virgins, and apprenticed himself to an old ascetic living on the edge of the village. The detail matters: Antony did not invent Christian asceticism, which already existed in village and household forms, but he carried it further from the inhabited world.\n\nAfter years among the tombs, around 285 he shut himself in an abandoned fort at Pispir on the east bank of the Nile, where he lived for some twenty years. When friends broke down the door around 305, Athanasius says they found him neither wasted nor bloated but in perfect balance of body and soul. Disciples gathered nearby, and “the desert became a city”. He went down to Alexandria during the persecution of Maximinus Daia (311) hoping for martyrdom, then retreated around 313 to the “Inner Mountain” near the Red Sea, where the Monastery of St Antony still stands. In 338 he visited Alexandria again to support Athanasius against the Arians. He died in 356, reportedly aged 105, asking that his burial place be kept secret.\n\nAntony stands for a wider movement. In Lower Egypt, Amoun founded the settlement of Nitria (c. 330) and Macarius the Great that of Scetis (Wadi Natrun); the Kellia (“Cells”) followed. In Upper Egypt, Pachomius organised communal (coenobitic) monasteries at Tabennesi from the 320s. Their teaching survives above all in the Apophthegmata Patrum (Sayings of the Desert Fathers), compiled in the fifth century, which preserves the words of abbas such as Poemen, Arsenius and Moses the Black and of ammas such as Syncletica, Sarah and Theodora. Their themes are humility, discernment, the guarding of thoughts, manual work, hospitality and not judging one’s neighbour.\n\nWhat we know of Antony comes mainly from Athanasius’s Life of Antony (c. 357), which presents him as an unlettered holy man, obedient to bishops and fiercely anti-Arian. Seven letters ascribed to Antony, however, survive in Coptic, Syriac, Georgian, Arabic and Latin; Samuel Rubenson has argued that they are authentic and show a teacher at home in an Origenist vocabulary of the mind’s return to God. The two portraits are not necessarily contradictory, but they show how far Antony’s image was shaped by those who wrote about him.\n\nThe Life was translated into Latin by Evagrius of Antioch in the 370s and spread rapidly. In Book 8 of the Confessions Augustine tells how two imperial officials at Trier were converted by reading it, a story that helped precipitate his own conversion in 386. Through the Life, the Sayings, Cassian and Benedict, Antony became the archetype of the monk for the whole Church — the “white martyr” of an age in which persecution had ended.",
+      "roots": [
+        { "root": "hebrew-scripture", "text": "His vocation began with a Gospel text heard in church (Matthew 19:21; 6:34), and the Life presents him in the pattern of Elijah and John the Baptist; the desert monks recited the Psalter continually and memorised large parts of Scripture." },
+        { "root": "apostolic-tradition", "text": "The common life of the Jerusalem church (Acts 2:44–45; 4:32) was cited by monastic writers, including Cassian, as the origin and model of renunciation of property." },
+        { "root": "monasticism", "text": "Antony learnt from village ascetics and placed his sister with an existing community of virgins; he gave a desert form to an ascetic tradition that already existed in Egypt and Syria." },
+        { "root": "earlier-fathers", "text": "The letters attributed to him use Origen’s language of rational beings, the fall of the mind and its restoration through knowledge of self — evidence, on Rubenson’s reading, that Alexandrian theology had reached Coptic-speaking ascetics." },
+        { "root": "imperial-church", "text": "His withdrawal coincided with the end of persecution and the conversion of Constantine, who is said to have written to him; the ascetic struggle with demons came to be understood as a substitute for martyrdom." }
+      ],
+      "teachers": [],
+      "keyTeachings": [
+        "Renunciation of possessions and withdrawal (anachoresis) as the way to follow Christ wholeheartedly",
+        "Spiritual warfare: the demons attack through thoughts, fear and illusions, and are put to flight by prayer, the sign of the cross and the name of Christ",
+        "Humility and discernment (diakrisis) as the chief virtues of the monk",
+        "Knowledge of oneself as the beginning of knowledge of God (a theme of the letters)",
+        "Manual work, stability in the cell and constant prayer as the framework of the ascetic life",
+        "Loyalty to the orthodox bishop and rejection of Arianism and Meletian schism (as presented by Athanasius)"
+      ],
+      "works": [
+        { "title": "Life of Antony (by Athanasius)", "year": 357, "workId": "athanasius-life-of-antony", "note": "The principal source for his life and the model for later Christian hagiography; translated into Latin by Evagrius of Antioch." },
+        { "title": "Letters of Antony (seven letters)", "note": "Survive in Coptic fragments and Syriac, Georgian, Arabic and Latin versions; authenticity defended by Samuel Rubenson (1990/1995)." },
+        { "title": "Apophthegmata Patrum (Sayings of the Desert Fathers)", "note": "Fifth-century collections, alphabetical and systematic, preserving sayings of Antony and dozens of other abbas and ammas of Nitria, Kellia and Scetis." },
+        { "title": "Pachomian Rules and Lives", "note": "The parallel tradition of communal monasticism founded by Pachomius at Tabennesi, translated into Latin by Jerome in 404." }
+      ],
+      "doctrineContributions": [
+        { "doctrineId": "spirituality-prayer", "text": "The desert tradition established the basic vocabulary of Christian spirituality — watchfulness, discernment of thoughts, compunction, continual prayer and spiritual fatherhood." },
+        { "doctrineId": "angels-spiritual-powers", "text": "The Life of Antony shaped Christian demonology for centuries: the demons as tempters working through thoughts and phantasms, conquered by Christ’s name and the cross." },
+        { "doctrineId": "christology", "text": "Athanasius presents Antony as a witness against Arianism, whose victory over demons demonstrates the power of the incarnate Word." }
+      ],
+      "laterInfluence": [
+        { "on": "Later Fathers", "text": "Athanasius, Basil, Jerome, Evagrius and Cassian all drew on the Egyptian model; Augustine’s conversion was precipitated in part by the story of the Life of Antony." },
+        { "on": "Western monasticism", "text": "Through Cassian and the Rule of Benedict, which commends the Lives and Conferences of the Fathers, the desert ideal became the foundation of Latin monasticism." },
+        { "on": "Medieval culture", "text": "The temptations of Antony became a favourite subject of art (Schongauer, Bosch, Grünewald’s Isenheim Altarpiece for the Antonine hospital order); the Antonines treated ‘St Anthony’s fire’ (ergotism)." },
+        { "on": "Orthodoxy", "text": "The Sayings remain core reading in Orthodox monasteries and underlie the Philokalia and the tradition of the elder (starets)." },
+        { "on": "Modern spirituality", "text": "Thomas Merton’s Wisdom of the Desert (1960), Benedicta Ward’s translations and Rowan Williams’s Silence and Honey Cakes brought the desert tradition to wide Protestant and Catholic audiences." }
+      ],
+      "reception": [
+        { "tradition": "Coptic Orthodox", "view": "saint", "text": "Venerated as ‘Father of all monks’; the Monastery of St Antony near the Red Sea claims continuous habitation since the fourth century." },
+        { "tradition": "Eastern Orthodox", "view": "saint", "text": "Commemorated on 17 January as Antony the Great; the Sayings are foundational monastic reading." },
+        { "tradition": "Roman Catholic", "view": "saint", "text": "Feast on 17 January; patron of monks, of the Antonine hospital order and, in popular devotion, of animals and farmers." },
+        { "tradition": "Anglican and Lutheran", "view": "respected", "text": "Commemorated in several calendars; Luther and the Reformers criticised monastic vows as a ‘higher’ way, but often admired Antony’s personal piety." },
+        { "tradition": "Evangelical and Free Church", "view": "respected", "text": "Generally sceptical of monasticism, though the Desert Fathers have been rediscovered in recent spirituality and ‘new monastic’ movements." }
+      ],
+      "controversies": [
+        "Historical Antony versus Athanasius’s portrait: an ‘unlettered’ anti-Arian holy man or the Origenist teacher of the letters?",
+        "Whether Antony was really the ‘first monk’: the Life itself mentions earlier ascetics, and Jerome’s Life of Paul of Thebes (c. 376) claimed an earlier hermit",
+        "Critics ancient and modern (from Eunapius and Julian to Gibbon and the Reformers) saw desert asceticism as world-denying or excessive"
+      ],
+      "quote": {
+        "text": "I saw the snares that the enemy spreads out over the world and I said groaning, ‘What can get through from such snares?’ Then I heard a voice saying to me, ‘Humility.’",
+        "citation": "Sayings of the Desert Fathers, Antony 7 (tr. Benedicta Ward)"
+      },
+      "places": [
+        { "name": "Coma (Qiman al-Arus), birthplace", "lat": 29.2, "lng": 31.15, "year": 251 },
+        { "name": "Pispir (Deir el-Maimun), the deserted fort", "lat": 29.42, "lng": 31.22, "year": 285 },
+        { "name": "Alexandria", "lat": 31.2, "lng": 29.92, "year": 311 },
+        { "name": "Inner Mountain (Monastery of St Antony)", "lat": 28.92, "lng": 32.35, "year": 313 },
+        { "name": "Nitria, monastic settlement", "lat": 30.88, "lng": 30.33, "year": 330 },
+        { "name": "Scetis (Wadi Natrun)", "lat": 30.32, "lng": 30.35, "year": 330 }
+      ],
+      "sources": ["athanasius-life-antony", "ward-sayings-desert", "chitty-desert-city", "f3-rubenson-antony", "f3-harmless-desert", "f3-quasten-patrology"],
+      "confidence": "traditional"
+    },
+    {
+      "id": "evagrius-ponticus",
+      "name": "Evagrius Ponticus",
+      "personId": "evagrius-ponticus",
+      "born": 345,
+      "died": 399,
+      "circa": true,
+      "school": "desert-monastic",
+      "language": "greek",
+      "see": { "name": "Kellia (the Cells), Lower Egypt", "lat": 30.53, "lng": 30.32 },
+      "roles": ["Monk", "Deacon", "Ascetic theologian", "Spiritual director"],
+      "summary": "Greek deacon from Pontus (c. 345–399), disciple of the Cappadocians and of the Egyptian monks, who systematised desert spirituality — the eight evil thoughts, apatheia, pure prayer — and was posthumously condemned as an Origenist, yet shaped monastic theology East and West.",
+      "story": "Evagrius was born around 345 at Ibora in Pontus, the son of a country bishop (chorepiscopus). Basil of Caesarea ordained him reader, and Gregory of Nazianzus made him deacon; he served Gregory in Constantinople in 379–381, where he became a celebrated preacher and controversialist against the Arians during the period of the Council of Constantinople. An infatuation with a married noblewoman, a warning dream and a sudden flight brought him in 382 to Jerusalem, where Melania the Elder and Rufinus received him in their monastery on the Mount of Olives. After a severe illness he took the monastic habit at Melania’s urging.\n\nIn 383 he went to Egypt, spending two years at Nitria and then fourteen in the more remote Kellia, living by copying manuscripts. He became a disciple of Macarius the Great and Macarius of Alexandria, and the centre of a circle of educated monks that included Palladius and the ‘Tall Brothers’. He died at Epiphany 399, on the eve of the Origenist controversy that would scatter his disciples.\n\nEvagrius’s genius was to give the oral wisdom of the desert a precise, almost technical structure. In the Praktikos he describes eight ‘thoughts’ (logismoi) through which demons attack the monk — gluttony, fornication, avarice, sadness, anger, acedia (listless restlessness, ‘the noonday demon’), vainglory and pride — and their remedies. The goal of the ascetic life (praktike) is apatheia, a calm freedom from passion, whose offspring is love; beyond it lie natural contemplation (physike) and finally ‘theology’, the imageless knowledge of the Trinity in pure prayer. His Chapters on Prayer, long transmitted under the name of Nilus of Ancyra, contain the famous line that the theologian is the one who prays truly.\n\nHis speculative works, especially the Kephalaia Gnostika, set this ascent within an Origenist cosmology: rational minds (noes) originally united with God fell away into bodies and will be restored. These ideas were attacked in the Origenist controversies and condemned, together with Origen and Didymus, in the anathemas associated with the Council of Constantinople in 553. Many of his Greek works were therefore lost or survived under other names, while the full Kephalaia Gnostika survives only in Syriac, in a censored version and a more radical one discovered by Antoine Guillaumont in 1958.\n\nCondemnation did not end his influence. Cassian carried the eight thoughts to Gaul, from which Gregory the Great reshaped them into the seven deadly sins. Maximus the Confessor and the Byzantine hesychasts used his ascetic teaching, and the Philokalia (1782) includes his texts under Nilus’s name. In the Syriac churches, especially the Church of the East, he was honoured as ‘the blessed Evagrius’ and shaped writers such as Isaac of Nineveh.",
+      "roots": [
+        { "root": "earlier-fathers", "text": "Origen’s cosmology and exegesis, mediated through the Cappadocians and Didymus the Blind, supply the framework of his speculative theology." },
+        { "root": "stoicism", "text": "Apatheia and the analysis of the passions as judgements and impulses draw on Stoic moral psychology, though Evagrius makes apatheia the doorway to love, not an end in itself." },
+        { "root": "platonism", "text": "He uses Plato’s tripartite soul (rational, irascible, concupiscible) to classify the thoughts, and a Platonist ascent from the sensible to the intelligible." },
+        { "root": "monasticism", "text": "His teaching systematises what he learnt from the two Macarii and the oral tradition of Nitria and Kellia." },
+        { "root": "hebrew-scripture", "text": "His Antirrhetikos supplies biblical verses to answer each demonic thought, following Christ’s use of Scripture in the temptations; he wrote scholia on the Psalms, Proverbs and Ecclesiastes." }
+      ],
+      "teachers": ["basil-the-great", "gregory-of-nazianzus", "origen"],
+      "keyTeachings": [
+        "The eight evil thoughts (logismoi) and the demons who exploit them, with acedia as the most oppressive",
+        "Apatheia (dispassion) as the health of the soul, giving birth to agape",
+        "The three stages: praktike (ascetic practice), physike (natural contemplation), theologia (knowledge of the Trinity)",
+        "Pure, imageless prayer as the highest activity of the mind",
+        "‘Antirrhetic’ prayer: answering each temptation with a verse of Scripture",
+        "Speculative Origenism: the pre-existence and fall of minds and their final restoration"
+      ],
+      "works": [
+        { "title": "Praktikos", "note": "One hundred chapters on the ascetic life and the eight thoughts; the first part of a trilogy with the Gnostikos and Kephalaia Gnostika." },
+        { "title": "Chapters on Prayer (De oratione)", "workId": "evagrius-chapters-on-prayer", "note": "153 chapters on pure prayer, long transmitted under the name of Nilus of Ancyra and included in the Philokalia." },
+        { "title": "Kephalaia Gnostika", "note": "Six ‘centuries’ of speculative chapters, surviving complete only in Syriac; the main basis for his condemnation." },
+        { "title": "Antirrhetikos (Talking Back)", "note": "Biblical texts to counter the eight thoughts; survives in Syriac and Armenian." },
+        { "title": "On the Eight Thoughts; To Monks; To a Virgin", "note": "Shorter ascetic works and sentences, some preserved under Nilus’s name." },
+        { "title": "Letters, including the Great Letter (to Melania)", "note": "A Syriac collection of some sixty letters, including a summary of his cosmology." }
+      ],
+      "doctrineContributions": [
+        { "doctrineId": "spirituality-prayer", "text": "Gave Christian spirituality its first systematic map of the passions, stages of the spiritual life and contemplative prayer." },
+        { "doctrineId": "humanity-sin", "text": "His eight thoughts became, through Cassian and Gregory the Great, the Western list of seven deadly sins." },
+        { "doctrineId": "angels-spiritual-powers", "text": "A detailed demonology in which demons act on the mind through thoughts and memories rather than primarily through external apparitions." },
+        { "doctrineId": "eschatology", "text": "His Origenist hope of the restoration of minds was condemned in 553 and remains a reference point in debates about universalism (apokatastasis)." }
+      ],
+      "laterInfluence": [
+        { "on": "Western monasticism", "text": "John Cassian transmitted his ascetic teaching to the Latin West without naming him; Gregory the Great reshaped the eight thoughts into seven capital sins." },
+        { "on": "Byzantine spirituality", "text": "Maximus the Confessor corrected his cosmology while adopting his ascetic and contemplative framework; the Philokalia carries his texts under Nilus’s name." },
+        { "on": "Syriac Christianity", "text": "Widely translated into Syriac; foundational for the mystical writers of the Church of the East (Isaac of Nineveh, John of Dalyatha) and for Syriac Orthodox writers such as Philoxenus of Mabbug." },
+        { "on": "Modern scholarship and psychology", "text": "Guillaumont’s rediscovery of the unexpurgated Kephalaia Gnostika (1958) prompted a revival of study; his analysis of acedia and ‘thoughts’ has been compared with cognitive psychology." }
+      ],
+      "reception": [
+        { "tradition": "Eastern Orthodox", "view": "controversial", "text": "Condemned with Origen in 553 and not venerated as a saint, yet his ascetic teaching is read, often under Nilus’s name, in the Philokalia." },
+        { "tradition": "Church of the East", "view": "father", "text": "Honoured as a great teacher of the monastic life; his works were central to East Syriac mysticism." },
+        { "tradition": "Syriac Orthodox and other Oriental Orthodox", "view": "respected", "text": "Read in Syriac translation and used by ascetic authors, with some reserve about his speculative teaching." },
+        { "tradition": "Roman Catholic", "view": "controversial", "text": "Not venerated, but recognised as a principal source of Cassian and of the seven deadly sins; widely studied since the twentieth century." },
+        { "tradition": "Protestant", "view": "respected", "text": "Little known before the twentieth century; now read as a spiritual and psychological classic in ecumenical spirituality." }
+      ],
+      "controversies": [
+        "Posthumous condemnation as an Origenist: the fifteen anathemas against Origenist doctrines, associated with the Council of Constantinople (553), target views found in the Kephalaia Gnostika",
+        "How far his ascetic teaching depends on his speculative cosmology, and whether the two can be separated",
+        "The Origenist controversy of 399–400, when Theophilus of Alexandria expelled the Tall Brothers and other Evagrian monks from Nitria"
+      ],
+      "quote": {
+        "text": "If you are a theologian you will pray truly, and if you pray truly you are a theologian.",
+        "citation": "Evagrius, Chapters on Prayer 61 (60 in some editions)"
+      },
+      "places": [
+        { "name": "Ibora, Pontus (birthplace)", "lat": 40.6, "lng": 36.5, "year": 345 },
+        { "name": "Constantinople", "lat": 41.01, "lng": 28.98, "year": 380 },
+        { "name": "Jerusalem (Mount of Olives)", "lat": 31.78, "lng": 35.24, "year": 382 },
+        { "name": "Nitria", "lat": 30.88, "lng": 30.33, "year": 383 },
+        { "name": "Kellia (the Cells)", "lat": 30.53, "lng": 30.32, "year": 385 }
+      ],
+      "sources": ["f3-sinkewicz-evagrius", "f3-casiday-evagrius", "f3-harmless-desert", "louth-origins-mystical", "f3-quasten-patrology"],
+      "confidence": "established"
+    },
+    {
+      "id": "john-cassian",
+      "name": "John Cassian",
+      "personId": "john-cassian",
+      "born": 360,
+      "died": 435,
+      "circa": true,
+      "school": "desert-monastic",
+      "language": "latin",
+      "see": { "name": "Marseille (Massilia)", "lat": 43.3, "lng": 5.37 },
+      "roles": ["Monk", "Priest", "Founder of monasteries at Marseille", "Monastic writer"],
+      "summary": "Monk (c. 360–c. 435) who lived among the Egyptian Desert Fathers and then, at Marseille, translated their teaching for the Latin West in the Institutes and Conferences — the main channel through which Evagrian spirituality reached Benedict and medieval monasticism.",
+      "story": "Cassian was probably born around 360 in Scythia Minor (the Dobruja, in modern Romania), the region Gennadius gives as his origin, though southern Gaul has also been proposed; he was bilingual in Latin and Greek. As a young man he entered a monastery in Bethlehem with his friend Germanus, and in the mid-380s the pair obtained leave to visit the monks of Egypt. They stayed for most of the next fifteen years, chiefly at Scetis, seeking out famous abbas whose teaching Cassian would later write up as conversations.\n\nAround 399–400, when Theophilus of Alexandria turned against the Origenist monks, Cassian left Egypt for Constantinople, where John Chrysostom ordained him deacon. After Chrysostom’s deposition he travelled to Rome in 404 carrying a letter from the clergy of Constantinople to Pope Innocent I in defence of their bishop. Later, probably by about 415, he settled in Marseille, where he founded the monastery of St Victor for men and a convent for women.\n\nAt the request of Bishop Castor of Apt, who was organising monasticism in Provence, he wrote the Institutes (c. 420–424), describing the dress, prayer and rules of the Egyptian monasteries and then the eight principal vices, and the Conferences (c. 426–429), twenty-four dialogues with Egyptian elders on discretion, purity of heart, prayer, chastity, friendship and grace. The teaching on the vices and on prayer is largely Evagrius’s, though Cassian never names a man whose orthodoxy was by then suspect, and he deliberately tones down the speculative elements for a Latin audience.\n\nConference 13, in which Abba Chaeremon argues that God’s grace sometimes precedes and sometimes follows the first movement of a good will, was read as a challenge to Augustine’s late teaching on grace and predestination. Prosper of Aquitaine attacked it in Against the Lecturer (c. 432). The position of Cassian and the monks of Provence was later labelled ‘semi-Pelagian’ — a term coined in the sixteenth and seventeenth centuries — and aspects of it were rejected by the Council of Orange in 529. At the request of the Roman archdeacon Leo, the future Pope Leo the Great, he also wrote On the Incarnation of the Lord against Nestorius (430).\n\nCassian’s influence on Western monasticism is hard to overstate. The Rule of Benedict (chapters 42 and 73) prescribes the reading of his Conferences and Institutes, and his works became standard monastic reading for a millennium. Through him the prayer formula of Psalm 70:1 (‘O God, make speed to save me’) entered the opening of the daily Office, and Evagrius’s eight thoughts reached Gregory the Great and the medieval doctrine of the capital sins.",
+      "roots": [
+        { "root": "monasticism", "text": "His whole teaching is presented as the transmitted wisdom of the Egyptian abbas of Scetis, Panephysis and Diolcos, whom he had known personally." },
+        { "root": "earlier-fathers", "text": "Evagrius supplies the analysis of the eight vices, the goal of purity of heart (his Latin rendering of apatheia) and the doctrine of pure prayer; Origen lies behind his exegesis of the senses of Scripture." },
+        { "root": "hebrew-scripture", "text": "Continual meditation on the Psalms and the fourfold sense of Scripture (historical, allegorical, tropological, anagogical, illustrated by ‘Jerusalem’) are central to the Conferences." },
+        { "root": "apostolic-tradition", "text": "He presents coenobitic life as a continuation of the Jerusalem community of Acts 4, preserved by the monks after the Church at large grew lax." },
+        { "root": "rhetoric", "text": "The Conferences adopt the classical literary dialogue, with carefully constructed speeches put into the mouths of the abbas." }
+      ],
+      "teachers": ["evagrius-ponticus", "john-chrysostom", "antony-of-egypt"],
+      "keyTeachings": [
+        "Purity of heart as the immediate goal of the monk, and the Kingdom of God as the final end (Conference 1)",
+        "Discretion (discretio) as the mother of virtues, learnt by revealing one’s thoughts to an elder",
+        "The eight principal vices and their remedies, adapted from Evagrius",
+        "Continual prayer through the repeated verse ‘O God, make speed to save me’ (Conference 10)",
+        "A synergy of grace and free will in which the first movement towards good may sometimes come from the human will (Conference 13)",
+        "Christ is one person, God and man, against Nestorius; Mary is Theotokos"
+      ],
+      "works": [
+        { "title": "Institutes (De institutis coenobiorum)", "year": 420, "note": "Twelve books: the customs of Egyptian and Palestinian monasteries (1–4) and the eight principal vices (5–12)." },
+        { "title": "Conferences (Collationes)", "year": 426, "workId": "cassian-conferences", "note": "Twenty-four conferences with Egyptian elders, issued in three parts c. 426–429; prescribed reading in the Rule of Benedict." },
+        { "title": "On the Incarnation of the Lord, against Nestorius", "year": 430, "note": "Written at the request of Leo, then archdeacon of Rome, before the Council of Ephesus." }
+      ],
+      "doctrineContributions": [
+        { "doctrineId": "spirituality-prayer", "text": "Shaped Western contemplative practice: continual prayer, lectio of Scripture, purity of heart, compunction and discernment." },
+        { "doctrineId": "salvation", "text": "His synergistic account of grace and free will provoked the ‘semi-Pelagian’ debate and the Council of Orange (529); it remains closer to Eastern teaching than to late Augustine." },
+        { "doctrineId": "humanity-sin", "text": "Transmitted the eight vices that Gregory the Great reworked into the seven deadly sins." },
+        { "doctrineId": "scripture-authority", "text": "His classic statement of the four senses of Scripture became standard in medieval exegesis." }
+      ],
+      "laterInfluence": [
+        { "on": "Benedict and Western monasticism", "text": "The Rule of Benedict names him; Lérins, Cluny, the Cistercians and the Carthusians read him daily, and he is a key source for medieval monastic culture." },
+        { "on": "Medieval theology", "text": "His four senses of Scripture and his teaching on vices passed into scholastic and pastoral manuals; Aquinas cites the Conferences." },
+        { "on": "Reformation debates", "text": "Protestant and Jansenist writers regarded him as a semi-Pelagian; Catholic theology valued his ascetic teaching while preferring Augustine on grace." },
+        { "on": "Orthodoxy", "text": "Translated into Greek in abridgement and included in the Philokalia; Orthodox writers often see his view of grace as a faithful Eastern corrective to Augustine." }
+      ],
+      "reception": [
+        { "tradition": "Eastern Orthodox", "view": "saint", "text": "Venerated as St John Cassian the Roman, commemorated on 29 February (28 February in non-leap years); his texts are in the Philokalia." },
+        { "tradition": "Roman Catholic", "view": "saint", "text": "Venerated locally at Marseille (23 July) and widely honoured as a monastic master, though not on the universal calendar, partly because of the ‘semi-Pelagian’ controversy." },
+        { "tradition": "Benedictine and Cistercian monasticism", "view": "father", "text": "Read as a foundational monastic authority by explicit instruction of the Rule of Benedict." },
+        { "tradition": "Reformed and Lutheran", "view": "controversial", "text": "Classical Protestant theology criticised his teaching on grace as semi-Pelagian, while some modern Protestants value his spiritual teaching." }
+      ],
+      "controversies": [
+        "Conference 13 and the ‘semi-Pelagian’ controversy with Prosper of Aquitaine and the disciples of Augustine",
+        "His silence about Evagrius, whose ascetic teaching he reproduces in Latin dress",
+        "Historicity of the Conferences: how far they record real conversations and how far they are literary constructions"
+      ],
+      "quote": {
+        "text": "For keeping up continual recollection of God this pious formula is to be ever set before you: ‘O God, make speed to save me: O Lord, make haste to help me.’",
+        "citation": "John Cassian, Conferences 10.10 (NPNF tr.)"
+      },
+      "places": [
+        { "name": "Scythia Minor (Dobruja), probable homeland", "lat": 44.17, "lng": 28.63, "year": 360 },
+        { "name": "Bethlehem", "lat": 31.7, "lng": 35.2, "year": 380 },
+        { "name": "Scetis (Wadi Natrun)", "lat": 30.32, "lng": 30.35, "year": 385 },
+        { "name": "Constantinople", "lat": 41.01, "lng": 28.98, "year": 400 },
+        { "name": "Rome", "lat": 41.9, "lng": 12.5, "year": 404 },
+        { "name": "Marseille, monastery of St Victor", "lat": 43.3, "lng": 5.37, "year": 415 }
+      ],
+      "sources": ["f3-stewart-cassian", "f3-chadwick-cassian", "f3-harmless-desert", "anf-npnf", "f3-quasten-patrology"],
+      "confidence": "established"
+    },
+    {
+      "id": "ambrose-of-milan",
+      "name": "Ambrose of Milan",
+      "personId": "ambrose",
+      "born": 339,
+      "died": 397,
+      "circa": true,
+      "school": "latin-western",
+      "language": "latin",
+      "see": { "name": "Milan (Mediolanum)", "lat": 45.46, "lng": 9.19 },
+      "roles": ["Bishop of Milan", "Roman governor", "Hymn-writer", "Doctor of the Church"],
+      "summary": "Roman aristocrat and provincial governor (c. 339–397) acclaimed bishop of Milan in 374 while still unbaptised, who defeated the Homoian (Arian) party in the West, faced down emperors, brought Greek theology and Philo into Latin, wrote the first Latin congregational hymns and baptised Augustine.",
+      "story": "Ambrose was born around 339 at Trier, where his father served as praetorian prefect of the Gauls. After his father’s death the family moved to Rome, where he received the full education of a senatorial son in literature, rhetoric, law and Greek. He practised as an advocate at Sirmium and around 370 was appointed governor (consularis) of Aemilia-Liguria, with his seat at Milan, then the main imperial residence in the West.\n\nWhen the Homoian bishop Auxentius died in 374, the election of his successor threatened to become violent. Ambrose went to the church to keep order and, according to his biographer Paulinus, a child’s cry of ‘Ambrose bishop!’ was taken up by the crowd. Though only a catechumen, he was baptised and consecrated within a week (traditionally 7 December 374). He gave away his property, and under the guidance of the priest Simplician threw himself into the study of Scripture and the Greek theologians — Origen, Didymus, Basil and Athanasius — and of the Jewish philosopher Philo of Alexandria.\n\nAmbrose turned Milan into a stronghold of Nicene faith. He wrote On the Faith (378–380) for the young emperor Gratian, engineered the deposition of Homoian bishops at the Council of Aquileia (381), and opposed the restoration of the Altar of Victory in the Senate house demanded by the pagan senator Symmachus (384). In 385–386 he refused the empress-mother Justina’s demand that a basilica be handed to the Homoians, occupying it with his congregation, who passed the vigil singing his new hymns. In 386 he discovered the relics of the martyrs Gervasius and Protasius and placed them under the altar of his new basilica, a decisive moment in the Western cult of relics.\n\nHis relations with Theodosius I show both his courage and his limits. In 388 he forced the emperor to withdraw an order that the bishop of Callinicum rebuild a synagogue burnt by Christians — an intervention now widely criticised. In 390, after Theodosius’s troops massacred thousands in the circus at Thessalonica, Ambrose wrote demanding public penance, and the emperor submitted. ‘The emperor is within the Church, not above it’ became a charter of ecclesiastical independence in the West.\n\nAmbrose’s preaching drew the young professor of rhetoric Augustine, who heard him expound the Old Testament allegorically and lost his Manichaean objections to it; Ambrose baptised him at the Easter Vigil of 387. His De officiis adapted Cicero’s ethics for clergy, his De sacramentis and De mysteriis are key witnesses to fourth-century initiation and Eucharistic belief, and four hymns certainly his — including Aeterne rerum conditor and Veni redemptor gentium — founded the Latin hymn tradition. He died on Holy Saturday, 4 April 397.",
+      "roots": [
+        { "root": "roman-law", "text": "Trained as an advocate and governor, he brought administrative skill and a jurist’s sense of authority and precedent to episcopal office and to his dealings with the court." },
+        { "root": "rhetoric", "text": "His De officiis follows Cicero’s De officiis book by book, Christianising Roman ideas of duty, the honestum and the utile." },
+        { "root": "philo", "text": "His treatises on Paradise, Cain and Abel, Noah, Abraham, Isaac and Joseph draw so heavily on Philo’s allegories that they are a main witness to Philo’s text; he was Philo’s chief conduit into Latin." },
+        { "root": "neoplatonism", "text": "Pierre Courcelle and Pierre Hadot showed that sermons such as On Isaac and On the Good of Death borrow passages from Plotinus’s Enneads — the Christian Platonism that helped convert Augustine." },
+        { "root": "earlier-fathers", "text": "His Hexaemeron adapts Basil’s homilies, his On the Holy Spirit depends on Didymus and Basil, and his exegesis follows Origen." },
+        { "root": "stoicism", "text": "Through Cicero (and behind him Panaetius) he took over Stoic frameworks of the cardinal virtues and natural duties, which he reinterpreted biblically." },
+        { "root": "imperial-church", "text": "Bishop of the imperial residence, he was adviser and opponent to Gratian, Valentinian II and Theodosius, and defined the Western idea of the Church’s freedom from the emperor." }
+      ],
+      "teachers": ["basil-the-great", "origen", "athanasius"],
+      "keyTeachings": [
+        "Nicene faith in the full divinity of the Son and the Spirit against the Homoians",
+        "The emperor as a son of the Church, subject to its moral discipline (‘within the Church, not above it’)",
+        "Sacramental realism: the words of Christ change the elements into his body and blood",
+        "The excellence of consecrated virginity and Mary as model of virgins and type of the Church",
+        "Christian duty and social justice: the earth was given to all in common, and almsgiving restores to the poor what is theirs (On Naboth)",
+        "Spiritual exegesis of the Old Testament, which unlocked Scripture for Augustine"
+      ],
+      "works": [
+        { "title": "On the Faith (De fide), to Gratian", "year": 378, "note": "Five books defending the divinity of the Son against the Homoians." },
+        { "title": "On the Holy Spirit", "year": 381, "note": "Three books on the divinity of the Spirit, drawing on Didymus and Basil." },
+        { "title": "On the Duties of Ministers (De officiis)", "year": 388, "note": "A Christian rewriting of Cicero’s De officiis, the first Latin manual of Christian ethics." },
+        { "title": "On the Sacraments and On the Mysteries", "year": 390, "note": "Post-baptismal catecheses explaining baptism, chrismation and the Eucharist; De sacramentis preserves an early form of the Roman canon." },
+        { "title": "Hexaemeron", "year": 387, "note": "Sermons on the six days of creation, adapted from Basil." },
+        { "title": "Hymns", "note": "Four authenticated by Augustine’s testimony (Aeterne rerum conditor, Deus creator omnium, Iam surgit hora tertia, Veni redemptor gentium); many more ‘Ambrosian’ hymns imitate them." },
+        { "title": "Letters and the Exposition of the Gospel of Luke", "note": "The letters include those on the Altar of Victory, Callinicum and Thessalonica; the Luke commentary is his longest exegetical work." }
+      ],
+      "doctrineContributions": [
+        { "doctrineId": "trinity", "text": "Secured Nicene orthodoxy in northern Italy and the Latin West and transmitted Greek pro-Nicene theology to Latin readers." },
+        { "doctrineId": "church-sacraments", "text": "His catecheses give a strong realist account of the Eucharist (the ‘word of Christ’ effects a change) that later fed into medieval Eucharistic theology." },
+        { "doctrineId": "ethics-church-state", "text": "His confrontations with emperors established the Western principle that rulers are subject to the Church’s moral judgement." },
+        { "doctrineId": "worship-liturgy", "text": "Introduced antiphonal psalmody and metrical hymn-singing to the West; the Ambrosian rite of Milan bears his name." },
+        { "doctrineId": "mary-saints", "text": "Promoted consecrated virginity, Marian piety and the cult of martyrs’ relics, notably Gervasius and Protasius." }
+      ],
+      "laterInfluence": [
+        { "on": "Augustine", "text": "His preaching, Christian Platonism and baptism of Augustine made him the decisive human influence on the most important Latin Father." },
+        { "on": "Medieval Church", "text": "Counted with Jerome, Augustine and Gregory as one of the four Latin Doctors (formally from 1298); his stance with Theodosius was cited in medieval church–state disputes." },
+        { "on": "Reformers", "text": "Luther translated Veni redemptor gentium as ‘Nun komm, der Heiden Heiland’; Reformers cited him against later Roman claims and on justification by faith (texts later shown to be Ambrosiaster)." },
+        { "on": "Liturgy and music", "text": "The Ambrosian rite survives in the archdiocese of Milan; his hymns remain in the Divine Office and in hymnals of many traditions." }
+      ],
+      "reception": [
+        { "tradition": "Roman Catholic", "view": "doctor", "text": "One of the four great Latin Doctors; feast 7 December; patron of Milan and of beekeepers." },
+        { "tradition": "Eastern Orthodox", "view": "saint", "text": "Commemorated on 7 December as a holy hierarch and defender of Nicene faith." },
+        { "tradition": "Lutheran and Anglican", "view": "father", "text": "Commemorated in calendars and widely sung; cited by the Reformers as a witness to the faith of the early Church." },
+        { "tradition": "Jewish–Christian dialogue", "view": "controversial", "text": "His Callinicum letter, defending Christians who burnt a synagogue, is cited as an early example of state-backed anti-Judaism." }
+      ],
+      "controversies": [
+        "The Callinicum affair (388): pressuring Theodosius to cancel compensation for a burnt synagogue",
+        "His use of popular pressure and relics in the basilica conflict with Justina (385–386)",
+        "The Altar of Victory dispute (384) with Symmachus over the place of traditional Roman religion",
+        "His heavy dependence on Philo, Plotinus and Basil, which older scholars treated as plagiarism and recent scholars as creative adaptation"
+      ],
+      "quote": {
+        "text": "The emperor is within the Church, not above the Church.",
+        "citation": "Ambrose, Sermon against Auxentius 36 (386)"
+      },
+      "places": [
+        { "name": "Trier (Augusta Treverorum), birthplace", "lat": 49.75, "lng": 6.64, "year": 339 },
+        { "name": "Rome", "lat": 41.9, "lng": 12.5, "year": 354 },
+        { "name": "Sirmium", "lat": 44.97, "lng": 19.61, "year": 365 },
+        { "name": "Milan", "lat": 45.46, "lng": 9.19, "year": 374 },
+        { "name": "Aquileia, council of 381", "lat": 45.77, "lng": 13.37, "year": 381 }
+      ],
+      "sources": ["f3-mclynn-ambrose", "f3-ramsey-ambrose", "brown-augustine", "kelly-doctrines", "f3-quasten-patrology"],
+      "confidence": "established"
+    },
+    {
+      "id": "jerome",
+      "name": "Jerome",
+      "personId": "jerome",
+      "born": 347,
+      "died": 420,
+      "circa": true,
+      "school": "latin-western",
+      "language": "latin",
+      "see": { "name": "Bethlehem", "lat": 31.7, "lng": 35.2 },
+      "roles": ["Biblical translator", "Exegete", "Monk", "Priest", "Controversialist", "Doctor of the Church"],
+      "summary": "Dalmatian-born scholar and monk (c. 347–420) who learnt Hebrew, translated most of the Bible afresh into Latin (the core of the Vulgate), wrote commentaries on nearly every book of Scripture and fought bitter controversies on asceticism, Origen and grace from his monastery in Bethlehem.",
+      "story": "Jerome (Eusebius Hieronymus) was born at Stridon, a town on the border of Dalmatia and Pannonia whose site is unknown; his birth date is disputed, with c. 347 the most widely accepted. He studied in Rome under the grammarian Aelius Donatus, acquiring a lifelong love of Cicero, Virgil and the classical style, and was baptised there around 366. After time at Trier and in an ascetic circle at Aquileia, he travelled east around 374. At Antioch he had his famous dream in which Christ the Judge accused him: ‘You are a Ciceronian, not a Christian’ (Letter 22.30).\n\nHe spent two or three years as a hermit in the desert of Chalcis in Syria, where he began learning Hebrew from a converted Jew. Ordained priest at Antioch by Paulinus, he went to Constantinople (c. 380–381), heard Gregory of Nazianzus and began translating Origen and Eusebius’s Chronicle. From 382 to 385 he was in Rome as secretary to Pope Damasus, who commissioned him to revise the Old Latin Gospels against the Greek. He became spiritual director to a circle of aristocratic women — Marcella, Paula and her daughters Blesilla and Eustochium — but his abrasive ascetic propaganda and the death of Blesilla made enemies, and after Damasus died he left Rome under a cloud.\n\nIn 386 Jerome and Paula settled at Bethlehem, founding monasteries for men and women and a hostel for pilgrims. There, using Origen’s Hexapla at Caesarea and the help of Jewish teachers, he produced a new Latin translation of the Hebrew Old Testament (c. 390–405). His principle of the ‘Hebrew truth’ (hebraica veritas) led him to set apart the books found only in the Greek Septuagint — the later ‘Apocrypha’ or deuterocanonical books — as useful for edification but not for establishing doctrine (Prologus Galeatus). Augustine worried that departing from the Septuagint would unsettle congregations; in one African town, a new rendering of Jonah’s plant caused a near riot.\n\nJerome was a formidable controversialist. Against Helvidius (383) he defended Mary’s perpetual virginity; Against Jovinian (393) argued that virginity is superior to marriage in terms that embarrassed even his friends; Against Vigilantius (406) defended the cult of relics and martyrs. Having once translated and praised Origen, he turned against him in the Origenist controversy and broke violently with his old friend Rufinus. Late in life he wrote against Pelagius (415). He also produced On Illustrious Men (392–393), the first Christian literary history, and a vast correspondence. He died at Bethlehem on 30 September 419 or 420.\n\nHis translation, combined with revised Old Latin books, became the ‘Vulgate’, the Bible of the Latin West for a thousand years; the Council of Trent declared it ‘authentic’ in 1546. Medieval art portrayed him as a cardinal in his study with a lion. For Erasmus, who edited his works in 1516, he was the model of the Christian scholar; for the Reformers, his distinction between the Hebrew canon and the other books supplied an ancient precedent for the Protestant Old Testament.",
+      "roots": [
+        { "root": "rhetoric", "text": "Trained by Donatus in grammar and rhetoric; Cicero and Virgil shaped his style even after his dream, and he defended the use of pagan learning (Letter 70)." },
+        { "root": "hebrew-scripture", "text": "He learnt Hebrew as an adult and made the Hebrew text, not the Septuagint, the basis of his Old Testament." },
+        { "root": "second-temple-judaism", "text": "He consulted Jewish teachers (such as Bar Hanina) and used Jewish traditions of interpretation, recorded in his Hebrew Questions on Genesis — rare among Latin Fathers." },
+        { "root": "earlier-fathers", "text": "Origen was his exegetical model: he used the Hexapla and translated dozens of Origen’s homilies before turning against his doctrines; he heard Gregory of Nazianzus and Didymus the Blind." },
+        { "root": "monasticism", "text": "Inspired by Egyptian and Syrian ascetics, he wrote lives of the hermits Paul, Malchus and Hilarion and translated the Pachomian Rule." }
+      ],
+      "teachers": ["gregory-of-nazianzus", "origen"],
+      "keyTeachings": [
+        "The ‘Hebrew truth’: Old Testament translation should be made from the Hebrew original",
+        "A distinction between canonical books and ecclesiastical books read for edification (the later ‘Apocrypha’)",
+        "Ignorance of the Scriptures is ignorance of Christ",
+        "The perpetual virginity of Mary, with the ‘brothers of the Lord’ explained as cousins",
+        "The superiority of virginity and ascetic renunciation over marriage",
+        "Veneration of martyrs’ relics as honour to God, not worship of creatures"
+      ],
+      "works": [
+        { "title": "Vulgate translation of the Bible", "year": 405, "note": "Revised Gospels (384), Psalms from the Septuagint (the ‘Gallican Psalter’) and a new Old Testament from the Hebrew (c. 390–405)." },
+        { "title": "Preface to Samuel and Kings (Prologus Galeatus)", "year": 391, "workId": "jerome-prologus-galeatus", "note": "Lists the Hebrew canon and places other books ‘among the apocrypha’." },
+        { "title": "Against Helvidius", "year": 383, "workId": "jerome-against-helvidius", "note": "Defends Mary’s perpetual virginity." },
+        { "title": "Against Jovinian", "year": 393, "workId": "jerome-against-jovinian", "note": "Argues for the superiority of virginity; criticised in Rome for disparaging marriage." },
+        { "title": "On Illustrious Men (De viris illustribus)", "year": 393, "note": "Biographical catalogue of 135 Christian writers, ending with himself." },
+        { "title": "Letters", "note": "About 120 letters, including Letter 22 to Eustochium on virginity and his exchange with Augustine." },
+        { "title": "Dialogue against the Luciferians", "workId": "jerome-against-luciferians", "note": "Early work on the reception of Arian-baptised bishops." }
+      ],
+      "doctrineContributions": [
+        { "doctrineId": "scripture-authority", "text": "Gave the West its standard Bible and the argument for translating from the original languages; his canon distinction underlies later Protestant and Catholic debates about the deuterocanonical books." },
+        { "doctrineId": "mary-saints", "text": "His case for Mary’s perpetual virginity and for the veneration of relics became standard in Western theology." },
+        { "doctrineId": "sexuality-marriage", "text": "His ranking of virginity above marriage shaped Western attitudes to celibacy, though the Church did not adopt his harshest statements." },
+        { "doctrineId": "theological-schools", "text": "Introduced Latin readers to Greek and Jewish exegesis and to a philological approach to the biblical text." }
+      ],
+      "laterInfluence": [
+        { "on": "Medieval Church", "text": "The Vulgate shaped the language of Western liturgy, theology and literature; his prefaces were copied in Bibles throughout the Middle Ages." },
+        { "on": "Humanists and Reformers", "text": "Erasmus’s edition (1516) made him the patron of Christian humanism; Luther respected his learning but disliked his asceticism; the Thirty-Nine Articles (Art. VI) cite ‘Hierome’ for reading the Apocrypha ‘for example of life’ but not doctrine." },
+        { "on": "Council of Trent and Catholicism", "text": "Trent declared the Vulgate authentic for public use (1546); the Sixto-Clementine Vulgate (1592) and the Nova Vulgata (1979) followed." },
+        { "on": "Biblical scholarship", "text": "His insistence on the original languages anticipated the ad fontes principle of Renaissance and modern biblical criticism." }
+      ],
+      "reception": [
+        { "tradition": "Roman Catholic", "view": "doctor", "text": "One of the four great Latin Doctors; feast 30 September; patron of translators, librarians and biblical scholars." },
+        { "tradition": "Eastern Orthodox", "view": "saint", "text": "Commemorated on 15 June as Blessed Jerome, though his works are little read in the Greek East." },
+        { "tradition": "Protestant", "view": "respected", "text": "Valued as a biblical scholar and for his Hebrew canon, while his asceticism, Marian views and invective are criticised." },
+        { "tradition": "Anglican", "view": "father", "text": "Cited in the Thirty-Nine Articles and commemorated on 30 September." }
+      ],
+      "controversies": [
+        "The quarrel with Rufinus over Origen, conducted with personal invective on both sides",
+        "Against Jovinian’s disparagement of marriage, which provoked criticism even from his supporters",
+        "His correspondence with Augustine on Peter’s rebuke at Antioch (Galatians 2) and on translating from the Hebrew rather than the Septuagint",
+        "His disputed birth date and the location of Stridon"
+      ],
+      "quote": {
+        "text": "Ignorance of the Scriptures is ignorance of Christ.",
+        "citation": "Jerome, Commentary on Isaiah, Prologue"
+      },
+      "places": [
+        { "name": "Rome", "lat": 41.9, "lng": 12.5, "year": 360 },
+        { "name": "Trier", "lat": 49.75, "lng": 6.64, "year": 368 },
+        { "name": "Antioch", "lat": 36.2, "lng": 36.16, "year": 374 },
+        { "name": "Desert of Chalcis (Qinnasrin)", "lat": 35.83, "lng": 36.98, "year": 375 },
+        { "name": "Constantinople", "lat": 41.01, "lng": 28.98, "year": 380 },
+        { "name": "Bethlehem", "lat": 31.7, "lng": 35.2, "year": 386 }
+      ],
+      "sources": ["f3-kelly-jerome", "f3-rebenich-jerome", "brown-body-society", "chadwick-early-church", "f3-quasten-patrology"],
+      "confidence": "established"
+    },
+    {
+      "id": "augustine-of-hippo-father",
+      "name": "Augustine of Hippo",
+      "personId": "augustine-of-hippo",
+      "born": 354,
+      "died": 430,
+      "circa": false,
+      "school": "latin-african",
+      "language": "latin",
+      "see": { "name": "Hippo Regius (Annaba)", "lat": 36.88, "lng": 7.75 },
+      "roles": ["Bishop of Hippo", "Teacher of rhetoric", "Philosopher", "Theologian", "Doctor of the Church"],
+      "summary": "North African rhetorician turned bishop (354–430) whose Confessions, City of God and On the Trinity, and controversies with Manichaeans, Donatists and Pelagians, made him the most influential theologian of Western Christianity, Catholic and Protestant alike.",
+      "story": "Augustine was born on 13 November 354 at Thagaste (Souk Ahras, Algeria) to Patricius, a modest town councillor who was baptised only on his deathbed, and Monica, a devout Christian. Educated at Madauros and Carthage, he read Cicero’s lost Hortensius at nineteen and was fired with a love of wisdom. Disappointed by the unpolished style of the Latin Bible, he became for nine years an ‘auditor’ of the Manichaeans, whose dualism seemed to explain evil. He lived faithfully with a concubine, mother of his son Adeodatus, and taught rhetoric at Thagaste, Carthage and Rome before winning the public chair of rhetoric at Milan in 384.\n\nAt Milan two influences converged. Ambrose’s preaching showed him how the Old Testament could be read spiritually, and ‘certain books of the Platonists’ — Plotinus and Porphyry in Marius Victorinus’s Latin translation — taught him to conceive of God as immaterial and of evil as a privation of good rather than a substance. In August 386, in a garden in Milan, he heard a child’s voice chanting ‘take up and read’ (tolle lege), opened Paul at Romans 13:13–14, and resolved to give up his career and marriage plans. After a retreat at Cassiciacum he was baptised by Ambrose at Easter 387. Monica died at Ostia on the journey home, shortly after the shared vision at the window that he describes in Confessions 9.\n\nBack in Africa he formed an ascetic community at Thagaste; in 391, visiting Hippo Regius, he was seized by the congregation and ordained priest, and in 395/396 he became bishop. For thirty-four years he preached, judged disputes, ran a clerical community and wrote ceaselessly. Against the Manichaeans he defended the goodness of creation and the free will of the creature. Against the Donatists — the rival African church which held that sacraments of traditor clergy were invalid — he argued that the Church is a mixed body and that sacraments belong to Christ, not the minister; after the Conference of Carthage (411) he came to justify imperial coercion of the Donatists, citing Luke 14:23 (‘compel them to come in’).\n\nAfter Rome was sacked by Alaric in 410 he wrote the City of God (413–426), contrasting the earthly city founded on love of self with the heavenly city founded on love of God. From 411 he opposed Pelagius, Caelestius and later Julian of Eclanum, arguing that since Adam all humanity shares an inherited sin and guilt, that the will cannot turn to God without prevenient grace, and that God freely predestines the elect. His teaching prevailed at the Council of Carthage (418) and, in moderated form, at Orange (529). He died on 28 August 430 as the Vandals besieged Hippo; his library survived.\n\nNo other Father shaped the West so deeply. Medieval theology was a long conversation with Augustine; Aquinas synthesised him with Aristotle; Luther was an Augustinian friar and Calvin cites him more than any other Father; Jansenism took its name from a book called Augustinus. Modern philosophy from Descartes to Wittgenstein, Arendt and Heidegger has engaged him. The Christian East honours him as a saint but has been more reserved about his teaching on original guilt, predestination and the procession of the Spirit.",
+      "roots": [
+        { "root": "neoplatonism", "text": "Plotinus and Porphyry gave him the concepts of immaterial being, evil as privation, the soul’s inward ascent and participation, which he adapted to creation from nothing and the incarnation (Confessions 7)." },
+        { "root": "rhetoric", "text": "A professional rhetor, he wrote On Christian Teaching as a handbook of Christian interpretation and preaching, and argued that Christians may take truth wherever it is found, like the Israelites ‘spoiling the Egyptians’ (2.40.60)." },
+        { "root": "anti-gnostic", "text": "His long engagement with Manichaean dualism, a Gnostic-type religion, shaped his doctrine of the goodness of creation, free will and the origin of evil." },
+        { "root": "earlier-fathers", "text": "Ambrose, Cyprian on the Church, Tyconius’s rules of interpretation, and Hilary and Ambrosiaster on Paul all informed his theology." },
+        { "root": "apostolic-tradition", "text": "Above all Paul — Romans, Galatians and 1 Corinthians 4:7 (‘what have you that you did not receive?’) — drove his doctrine of grace from the 390s onwards." },
+        { "root": "stoicism", "text": "Via Cicero and Varro he engaged Stoic ethics and theology, criticising Stoic apatheia and Roman civil religion in the City of God." },
+        { "root": "imperial-church", "text": "His justification of state coercion against the Donatists drew on the Christian empire of Theodosius and later shaped Western attitudes to heresy." }
+      ],
+      "teachers": ["ambrose-of-milan", "cyprian-of-carthage"],
+      "keyTeachings": [
+        "God as the highest good and rest of the restless heart; evil as privation of good",
+        "Original sin and inherited guilt from Adam; the necessity of grace for every good act; predestination of the elect",
+        "The Trinity understood through analogies in the human mind (memory, understanding, will) and the Spirit as the bond of love proceeding from Father and Son",
+        "The Church as a mixed body; sacraments valid when performed outside the Church but fruitful only within it",
+        "The two cities, distinguished by two loves, and a theology of history that relativises earthly empires",
+        "Conditions for a just war, and the goods of marriage: offspring, fidelity and sacramental bond"
+      ],
+      "works": [
+        { "title": "Confessions", "year": 397, "workId": "augustine-confessions", "note": "Thirteen books (397–401) of autobiography addressed to God, ending with reflections on memory, time and creation." },
+        { "title": "On the Trinity (De Trinitate)", "year": 399, "workId": "augustine-de-trinitate", "note": "Fifteen books written over two decades (c. 399–419), developing the psychological analogy." },
+        { "title": "The City of God", "year": 413, "workId": "augustine-city-of-god", "note": "Twenty-two books (413–426) answering pagan critics after 410 and setting out a Christian theology of history." },
+        { "title": "On Christian Teaching (De doctrina christiana)", "year": 396, "note": "Hermeneutics and Christian rhetoric; completed in 426/427." },
+        { "title": "On Nature and Grace", "year": 415, "workId": "augustine-on-nature-and-grace", "note": "Key anti-Pelagian treatise." },
+        { "title": "The Literal Meaning of Genesis", "year": 401, "workId": "augustine-literal-meaning-genesis", "note": "Twelve books (401–415) on creation, including his view of simultaneous creation." },
+        { "title": "Enchiridion; Tractates on John; Expositions of the Psalms; Retractations", "workId": "augustine-enchiridion", "note": "A compact summary of faith (c. 421), major preaching series and a late review of his own works (426–427)." }
+      ],
+      "doctrineContributions": [
+        { "doctrineId": "humanity-sin", "text": "Formulated the Western doctrine of original sin and concupiscence, based partly on the Latin reading of Romans 5:12 (‘in whom all sinned’)." },
+        { "doctrineId": "salvation", "text": "His doctrine of prevenient and efficacious grace and predestination became the reference point for every Western debate on grace, from Orange to Trent and Dort." },
+        { "doctrineId": "trinity", "text": "His Trinitarian theology, with the Spirit as mutual love of Father and Son, underlies the Western filioque." },
+        { "doctrineId": "church-sacraments", "text": "Against the Donatists he grounded the validity of sacraments in Christ rather than the minister — the basis of later ex opere operato teaching — and defined a sacrament as a visible sign of invisible grace." },
+        { "doctrineId": "ethics-church-state", "text": "The City of God and his letters underlie Western political theology and the just war tradition." },
+        { "doctrineId": "creation-providence", "text": "Creation from nothing, time created with the world, evil as privation and God’s providence over history." }
+      ],
+      "laterInfluence": [
+        { "on": "Medieval theology", "text": "From Gregory the Great and Anselm to Peter Lombard’s Sentences and Bonaventure, medieval theology was largely Augustinian; Aquinas cites him more than any other theologian." },
+        { "on": "Reformers", "text": "Luther, an Augustinian friar, and Calvin, who cites him on almost every page of the Institutes, claimed his anti-Pelagian writings for justification by grace alone and predestination." },
+        { "on": "Catholic debates", "text": "Trent drew on his teaching on grace; Jansenism (Jansen’s Augustinus, 1640) and its condemnations, and twentieth-century ressourcement, were struggles over his legacy." },
+        { "on": "Orthodoxy", "text": "Honoured as a saint, but twentieth-century Orthodox writers such as John Romanides and Christos Yannaras blamed him for Western errors; others, like Seraphim Rose and David Bentley Hart in different ways, offer more positive readings." },
+        { "on": "Philosophy and culture", "text": "His analyses of time, memory, will and the self influenced Descartes, Pascal, Kierkegaard, Wittgenstein, Heidegger and Arendt; the Confessions founded the genre of introspective autobiography." }
+      ],
+      "reception": [
+        { "tradition": "Roman Catholic", "view": "doctor", "text": "Doctor of Grace and one of the four great Latin Doctors; feast 28 August; patron of the Augustinian orders." },
+        { "tradition": "Eastern Orthodox", "view": "saint", "text": "Commemorated on 15 June as Blessed Augustine; respected, but his views on original guilt, predestination and the filioque are often criticised." },
+        { "tradition": "Lutheran and Reformed", "view": "father", "text": "Regarded as the chief patristic witness to grace and predestination; the Book of Concord and Calvin cite him extensively." },
+        { "tradition": "Anglican", "view": "father", "text": "Commemorated on 28 August; Article IX on original sin is Augustinian." },
+        { "tradition": "Oriental Orthodox", "view": "respected", "text": "Little used historically in Coptic, Syriac and Armenian theology, but honoured as an orthodox Western bishop." }
+      ],
+      "controversies": [
+        "Justification of state coercion against Donatists, later cited in support of persecution of heretics",
+        "Predestination, the ‘mass of perdition’ and the fate of unbaptised infants",
+        "His views of sexuality and concupiscence, criticised by Julian of Eclanum and many modern writers",
+        "The filioque and the psychological Trinity, contested by Eastern theologians"
+      ],
+      "quote": {
+        "text": "You have made us for yourself, and our heart is restless until it rests in you.",
+        "citation": "Augustine, Confessions 1.1.1"
+      },
+      "places": [
+        { "name": "Thagaste (Souk Ahras), birthplace", "lat": 36.29, "lng": 7.95, "year": 354 },
+        { "name": "Carthage", "lat": 36.85, "lng": 10.32, "year": 371 },
+        { "name": "Rome", "lat": 41.9, "lng": 12.5, "year": 383 },
+        { "name": "Milan, conversion and baptism", "lat": 45.46, "lng": 9.19, "year": 386 },
+        { "name": "Ostia, death of Monica", "lat": 41.75, "lng": 12.29, "year": 387 },
+        { "name": "Hippo Regius", "lat": 36.88, "lng": 7.75, "year": 391 }
+      ],
+      "sources": ["brown-augustine", "f3-chadwick-augustine-life", "f3-fitzgerald-augustine-encyclopedia", "kelly-doctrines", "pelikan-christian-tradition"],
+      "confidence": "established"
+    },
+    {
+      "id": "john-chrysostom",
+      "name": "John Chrysostom",
+      "personId": "john-chrysostom",
+      "born": 349,
+      "died": 407,
+      "circa": true,
+      "school": "antiochene",
+      "language": "greek",
+      "see": { "name": "Constantinople", "lat": 41.01, "lng": 28.98 },
+      "roles": ["Archbishop of Constantinople", "Preacher", "Exegete", "Ascetic", "Doctor of the Church"],
+      "summary": "Antiochene preacher (c. 349–407), trained in rhetoric and in Diodore’s literal exegesis, whose sermons on Scripture, wealth and the poor earned him the name ‘Golden Mouth’; as archbishop of Constantinople he clashed with the court and died in exile.",
+      "story": "John was born in Antioch around 349, the son of an army officer who died young; his mother Anthusa raised him and refused to remarry. Church historians report that he studied rhetoric under the great pagan sophist Libanius, who allegedly would have named John his successor ‘had not the Christians stolen him’. Baptised around 368 by Bishop Meletius, he joined the asketerion of Diodore (later bishop of Tarsus), where with Theodore of Mopsuestia he learned the Antiochene method of historical, grammatical exegesis.\n\nAround 372 he withdrew to the mountains near Antioch, living under an old Syrian monk and then alone in a cave, until severe ascetic practices ruined his health. Returning to the city, he was ordained deacon in 381 and priest in 386, and for twelve years was Antioch’s principal preacher. His homilies on Genesis, Matthew, John and Paul’s letters, delivered in series, are the largest body of patristic preaching to survive. In 387, when rioters toppled the statues of Theodosius and the city feared reprisals, his Homilies on the Statues comforted and admonished the population. His eight sermons Against the Judaizers (386–387), aimed at Christians who attended synagogue festivals, use violent invective that later fed Christian anti-Judaism.\n\nIn 397 he was virtually kidnapped and brought to Constantinople to become archbishop, consecrated in February 398 by a reluctant Theophilus of Alexandria. He cut episcopal expenses, founded hospitals, disciplined clergy and monks, and preached against the luxury of the rich, alienating powerful figures including the Empress Eudoxia. When he received the ‘Tall Brothers’, Origenist monks expelled by Theophilus, his enemies combined: the Synod of the Oak (403), near Chalcedon, deposed him. Recalled after popular uproar, he was exiled again in 404 to Cucusus in Armenia, from where his letters to the deaconess Olympias and to supporters such as Pope Innocent I continued. Ordered further away to Pityus on the Black Sea, he died on the road at Comana in Pontus on 14 September 407, saying ‘Glory to God for all things’.\n\nIn 438 his relics were brought back to Constantinople and the emperor Theodosius II publicly begged forgiveness for his parents. From the sixth century he was called Chrysostomos, ‘golden-mouthed’. The principal Eucharistic liturgy of the Byzantine rite bears his name; its anaphora is probably connected with him, though the rite as celebrated today developed over centuries.\n\nChrysostom’s exegesis is pastoral and moral rather than speculative: he reads Paul as a model of love and labour, insists that the Eucharist demands care for the poor, and treats the household as a ‘little church’. Modern readers praise his social preaching and criticise his anti-Jewish sermons; both belong to his legacy.",
+      "roots": [
+        { "root": "rhetoric", "text": "Trained in the Second Sophistic tradition (reportedly by Libanius), he mastered vivid diatribe, ekphrasis and audience address, adapted for Christian homily." },
+        { "root": "earlier-fathers", "text": "Diodore of Tarsus taught him Antiochene exegesis attentive to history (historia) and the author’s intention, sparing in allegory." },
+        { "root": "hebrew-scripture", "text": "He preached whole series on Genesis and the Psalms and saw Old Testament saints as moral examples, while reading the Old Testament through the economy of salvation in Christ." },
+        { "root": "monasticism", "text": "His years in the Syrian mountains shaped his ideal of Christian life; he urged lay people in the city to live with monastic simplicity." },
+        { "root": "stoicism", "text": "Popular Stoic and Cynic moral themes — contempt for wealth, self-mastery, ‘no one is harmed except by himself’ — recur in his sermons in Christian form." },
+        { "root": "imperial-church", "text": "As bishop of the imperial capital he was caught between court, aristocracy, rival patriarchs and monks, and fell victim to ecclesiastical politics." }
+      ],
+      "teachers": [],
+      "keyTeachings": [
+        "Care for the poor as inseparable from worship: Christ is honoured in the needy",
+        "The priesthood as a burden of great responsibility (On the Priesthood)",
+        "Literal, historical exegesis with moral application; Paul as the model Christian",
+        "The household as a ‘little church’ and the dignity of Christian marriage",
+        "Divine ‘condescension’ (synkatabasis): God adapts revelation to human weakness",
+        "Real presence and awe before the Eucharistic sacrifice"
+      ],
+      "works": [
+        { "title": "On the Priesthood", "year": 390, "note": "Six books in dialogue form on the dignity and dangers of the priestly office." },
+        { "title": "Homilies on Matthew and John", "year": 390, "note": "Ninety homilies on Matthew and eighty-eight on John, preached at Antioch." },
+        { "title": "Homilies on Romans", "workId": "chrysostom-homilies-romans", "note": "Thirty-two homilies; a classic of Pauline exegesis much used by the Reformers." },
+        { "title": "Homilies on First Corinthians", "workId": "chrysostom-homilies-1-corinthians", "note": "Forty-four homilies with extensive moral and social teaching." },
+        { "title": "Homilies on the Statues", "year": 387, "note": "Twenty-one sermons preached during the crisis following the Antioch riot." },
+        { "title": "Against the Judaizers (Adversus Judaeos)", "year": 386, "note": "Eight sermons attacking Christian participation in Jewish festivals; a key text in the history of Christian anti-Judaism." },
+        { "title": "Divine Liturgy of St John Chrysostom", "workId": "divine-liturgy-chrysostom", "note": "The usual Eucharistic liturgy of the Byzantine rite, attributed to him." }
+      ],
+      "doctrineContributions": [
+        { "doctrineId": "theological-schools", "text": "The most widely read representative of Antiochene exegesis, combining historical reading with pastoral application." },
+        { "doctrineId": "ethics-church-state", "text": "His preaching on wealth, almsgiving and slavery made him a central patristic voice for Christian social teaching." },
+        { "doctrineId": "church-sacraments", "text": "On the Priesthood and his Eucharistic homilies shaped Eastern and Western understandings of ministry and sacrifice." },
+        { "doctrineId": "worship-liturgy", "text": "The Byzantine Divine Liturgy bears his name and is celebrated daily throughout the Orthodox and Byzantine Catholic world." },
+        { "doctrineId": "sexuality-marriage", "text": "His homilies on Ephesians 5 present marriage as an icon of Christ and the Church and the household as a church in miniature." }
+      ],
+      "laterInfluence": [
+        { "on": "Orthodoxy", "text": "With Basil and Gregory of Nazianzus one of the Three Holy Hierarchs (30 January); the model of the Orthodox preacher and pastor." },
+        { "on": "Reformers", "text": "Calvin admired his plain exegesis while disagreeing with him on free will; Cranmer’s Book of Common Prayer included a ‘Prayer of St Chrysostom’." },
+        { "on": "Catholic social teaching", "text": "His sermons on the poor are frequently cited in modern papal teaching on wealth and the universal destination of goods." },
+        { "on": "Jewish–Christian relations", "text": "His Adversus Judaeos was later exploited by anti-Jewish polemicists, and since the Holocaust has been a focus of Christian self-examination." }
+      ],
+      "reception": [
+        { "tradition": "Eastern Orthodox", "view": "doctor", "text": "One of the Three Holy Hierarchs and universal teachers; feasts 13 November, 27 January (translation of relics) and 30 January." },
+        { "tradition": "Roman Catholic", "view": "doctor", "text": "Declared Doctor of the Church (1568); patron of preachers; feast 13 September." },
+        { "tradition": "Oriental Orthodox", "view": "saint", "text": "Venerated in the Coptic, Syriac and Armenian churches; many of his homilies were translated into Syriac, Armenian and Coptic." },
+        { "tradition": "Protestant", "view": "respected", "text": "Valued for exegesis and preaching; Anglicans commemorate him on 13 September." },
+        { "tradition": "Jewish–Christian dialogue", "view": "controversial", "text": "His anti-Jewish sermons are widely acknowledged as harmful and are critically studied (e.g. Robert Wilken, John Chrysostom and the Jews, 1983)." }
+      ],
+      "controversies": [
+        "The anti-Jewish sermons (Adversus Judaeos) and their later use",
+        "His deposition at the Synod of the Oak (403) and exile, driven by Theophilus of Alexandria and the court",
+        "The Origenist controversy and his reception of the Tall Brothers",
+        "Authorship and development of the liturgy bearing his name"
+      ],
+      "quote": {
+        "text": "Do you wish to honour the body of Christ? Do not despise him when he is naked. Do not honour him here in the church with silken garments while you neglect him outside where he is cold and naked.",
+        "citation": "John Chrysostom, Homilies on Matthew 50.3–4"
+      },
+      "places": [
+        { "name": "Antioch", "lat": 36.2, "lng": 36.16, "year": 349 },
+        { "name": "Constantinople", "lat": 41.01, "lng": 28.98, "year": 398 },
+        { "name": "Chalcedon, Synod of the Oak", "lat": 40.98, "lng": 29.03, "year": 403 },
+        { "name": "Cucusus (Göksun), place of exile", "lat": 38.02, "lng": 36.5, "year": 404 },
+        { "name": "Comana Pontica, place of death", "lat": 40.36, "lng": 36.63, "year": 407 }
+      ],
+      "sources": ["f3-kelly-golden-mouth", "f3-mayer-allen-chrysostom", "f3-wilken-chrysostom-jews", "young-biblical-exegesis", "f3-quasten-patrology"],
+      "confidence": "established"
+    },
+    {
+      "id": "theodore-of-mopsuestia",
+      "name": "Theodore of Mopsuestia",
+      "personId": "theodore-of-mopsuestia",
+      "born": 350,
+      "died": 428,
+      "circa": true,
+      "school": "antiochene",
+      "language": "greek",
+      "see": { "name": "Mopsuestia (Yakapınar), Cilicia", "lat": 36.96, "lng": 35.62 },
+      "roles": ["Bishop of Mopsuestia", "Exegete (‘the Interpreter’)", "Theologian"],
+      "summary": "Antiochene bishop and biblical scholar (c. 350–428), the leading exponent of historical exegesis and of a ‘two-nature’ Christology; honoured as ‘the Interpreter’ by the Church of the East but posthumously condemned at Constantinople in 553.",
+      "story": "Theodore was born in Antioch around 350 into a wealthy family; his brother Polychronius became bishop of Apamea. He studied rhetoric, reportedly under Libanius, together with John Chrysostom, and followed John into the asketerion of Diodore. When he left for a time, apparently intending to marry and pursue a career, Chrysostom’s letters To Theodore after his Fall (traditionally identified as addressed to him) urged him back. He was ordained priest at Antioch around 383 and in 392 became bishop of Mopsuestia in Cilicia, which he governed for thirty-six years. In 394 he preached at a synod in Constantinople before Theodosius I.\n\nTheodore was the most rigorous exegete of the Antiochene school. Against what he saw as Alexandrian allegory, which dissolved history into symbols, he insisted on the historical sense and on the intention of the biblical author. He assigned most psalms to the historical setting of David or later Israel and held that only a handful (Psalms 2, 8, 45 and 110) speak directly of Christ; he read the Song of Songs as Solomon’s love poetry, and reportedly questioned the place of some books in the canon. Typology was allowed only where a real historical correspondence existed. His commentary on the Minor Prophets survives in Greek, that on John in Syriac and those on Paul’s minor letters in Latin.\n\nHis theology centres on the two ‘ages’ (katastaseis): this mortal, changeable age, and the immortal, unchangeable age inaugurated by Christ’s resurrection, into which believers enter sacramentally through baptism and the Eucharist. Against Apollinarius, who denied Christ a human mind, he insisted that the Word assumed a complete human being, with a human soul and will that genuinely struggled and grew. He described the union as an indwelling of the Word in the ‘assumed man’ by divine good pleasure (eudokia), forming one prosopon (person or presentation). Critics held that this made Christ two subjects joined by grace.\n\nTheodore died in 428, the year his probable pupil Nestorius became bishop of Constantinople. In the controversy that followed, Cyril of Alexandria and Rabbula of Edessa attacked Theodore as Nestorius’s source, while Antiochene loyalists defended him. In the sixth century Justinian, seeking reconciliation with the miaphysites, had his person and writings condemned as one of the ‘Three Chapters’ at the Second Council of Constantinople (553). Much of his Greek work perished as a result.\n\nIn the Syriac East, by contrast, his works were translated at the School of Edessa in the early fifth century and became the curriculum of the School of Nisibis; synods of the Church of the East made his exegesis normative. The discovery and publication of his Catechetical Homilies in Syriac by Alphonse Mingana (1932–33) revived interest in him as a theologian of the sacraments and a forerunner of historical-critical exegesis.",
+      "roots": [
+        { "root": "earlier-fathers", "text": "Diodore of Tarsus formed him in the Antiochene exegetical method and the anti-Apollinarian, two-nature Christology." },
+        { "root": "rhetoric", "text": "Ancient grammatical and rhetorical study (attention to hypothesis, author’s intention and historia) underlies Antiochene exegesis, as Frances Young has shown." },
+        { "root": "hebrew-scripture", "text": "He read the Old Testament first as the history of Israel and its prophets, limiting direct messianic prophecy to a few texts." },
+        { "root": "second-temple-judaism", "text": "Some scholars detect affinities with Jewish historical interpretation of the Psalms and Prophets, though the extent of direct contact is debated." },
+        { "root": "aristotle", "text": "His concern for complete natures and his analytical precision about ‘nature’ and ‘person’ reflect the logical training of the schools, sometimes linked to Aristotelian categories." }
+      ],
+      "teachers": [],
+      "keyTeachings": [
+        "Historical exegesis: Scripture interpreted according to its literal-historical sense and the author’s intention",
+        "Typology only where genuine historical correspondence exists; very few direct messianic prophecies",
+        "Christ’s complete humanity, including a human soul and free will, against Apollinarius",
+        "The union of the Word with the ‘assumed man’ by good pleasure (eudokia) in one prosopon",
+        "The two ages: the present mortal state and the future immortal state anticipated in baptism and Eucharist",
+        "Human freedom and moral struggle as essential to salvation"
+      ],
+      "works": [
+        { "title": "Commentary on the Minor Prophets", "note": "The only major commentary surviving complete in Greek." },
+        { "title": "Commentary on the Gospel of John", "note": "Preserved in Syriac, with Greek fragments." },
+        { "title": "Commentaries on the Minor Pauline Epistles", "note": "Preserved in a Latin translation under the name of Ambrose." },
+        { "title": "Catechetical Homilies", "note": "Sixteen homilies on the Creed, the Lord’s Prayer, baptism and the Eucharist, preserved in Syriac and published by Mingana (1932–33)." },
+        { "title": "On the Incarnation", "note": "Fifteen books, now fragmentary; central in the later condemnation." },
+        { "title": "Commentary on the Psalms", "note": "An early work, partly preserved, showing his historicising approach." }
+      ],
+      "doctrineContributions": [
+        { "doctrineId": "christology", "text": "Classic statement of Antiochene ‘Word–man’ Christology, defending Christ’s full humanity; condemned in 553 as dividing Christ, but foundational for the Church of the East." },
+        { "doctrineId": "theological-schools", "text": "Most systematic practitioner of Antiochene historical exegesis." },
+        { "doctrineId": "church-sacraments", "text": "His Catechetical Homilies are a major witness to late fourth-century baptismal and Eucharistic liturgy and theology." },
+        { "doctrineId": "eschatology", "text": "His doctrine of the two ages frames salvation as passage from mortality and mutability to immortality." }
+      ],
+      "laterInfluence": [
+        { "on": "Church of the East", "text": "Revered as ‘the Interpreter’ (Mpaššqānā); his works, translated by Ibas and others at Edessa, formed the curriculum of the School of Nisibis and defined East Syriac theology." },
+        { "on": "Christological controversies", "text": "Seen by Cyril and later by Justinian as the source of Nestorius’s errors; his condemnation in 553 (the Three Chapters) divided the West, causing schism in northern Italy." },
+        { "on": "Latin West", "text": "His Pauline commentaries circulated under Ambrose’s name, and his exegetical method reached the West through Junillus Africanus’s handbook (c. 542)." },
+        { "on": "Modern scholarship", "text": "Since the twentieth century he has been studied as a precursor of historical-critical exegesis and as a theologian of Christ’s genuine humanity." }
+      ],
+      "reception": [
+        { "tradition": "Church of the East (Assyrian and Ancient)", "view": "saint", "text": "Venerated among the ‘Greek doctors’ with Diodore and Nestorius; his exegesis remains authoritative." },
+        { "tradition": "Eastern Orthodox and Roman Catholic", "view": "condemned", "text": "Condemned by the Second Council of Constantinople (553); modern ecumenical dialogue with the Assyrian Church of the East has eased the Christological divide without lifting the condemnation." },
+        { "tradition": "Oriental Orthodox", "view": "condemned", "text": "Rejected as a forerunner of Nestorius in Syriac Orthodox, Coptic and Armenian tradition." },
+        { "tradition": "Protestant and academic", "view": "respected", "text": "Valued as a historical exegete and for his emphasis on Christ’s human agency." }
+      ],
+      "controversies": [
+        "Whether his Christology truly divided Christ into two subjects, or was a legitimate emphasis on full humanity misread through Nestorius",
+        "Posthumous condemnation of a person who died in communion with the Church, debated even in 553",
+        "Reliability of the extracts used against him, some of which may have been selectively quoted or altered",
+        "His relationship to Pelagian ideas: he hosted Julian of Eclanum and wrote against those who say humans sin ‘by nature’"
+      ],
+      "places": [
+        { "name": "Antioch", "lat": 36.2, "lng": 36.16, "year": 350 },
+        { "name": "Mopsuestia (Yakapınar)", "lat": 36.96, "lng": 35.62, "year": 392 },
+        { "name": "Constantinople, synod of 394", "lat": 41.01, "lng": 28.98, "year": 394 }
+      ],
+      "sources": ["f3-mcleod-theodore", "grillmeier-christ", "young-biblical-exegesis", "f3-becker-nisibis", "baum-winkler-east", "kelly-doctrines"],
+      "confidence": "established"
+    },
+    {
+      "id": "cyril-of-alexandria",
+      "name": "Cyril of Alexandria",
+      "personId": "cyril-of-alexandria",
+      "born": 378,
+      "died": 444,
+      "circa": true,
+      "school": "alexandrian",
+      "language": "greek",
+      "see": { "name": "Alexandria", "lat": 31.2, "lng": 29.92 },
+      "roles": ["Patriarch of Alexandria", "Theologian", "Exegete", "Church politician", "Doctor of the Church"],
+      "summary": "Patriarch of Alexandria (412–444) whose Christology of the one incarnate Word — Mary as Theotokos, the hypostatic union, the communication of properties — triumphed over Nestorius at Ephesus (431) and is claimed by both Chalcedonian and Oriental Orthodox churches; his ruthless politics remain controversial.",
+      "story": "Cyril was born around 378, probably at Theodosiou in the Nile Delta, and was the nephew of Theophilus, patriarch of Alexandria, whom he accompanied to the Synod of the Oak in 403 that deposed John Chrysostom. A later Coptic tradition says he spent years among the monks of Nitria. On Theophilus’s death in 412 he was elected patriarch after rioting between factions, and quickly asserted his authority, closing the churches of the Novatianists and clashing with the imperial prefect Orestes.\n\nThe early years of his episcopate were violent. After Jewish–Christian clashes in 414–415, a large part of the Jewish community was expelled from Alexandria (the scale is debated). In March 415 the philosopher Hypatia, a respected Neoplatonist teacher and ally of Orestes, was murdered by a Christian mob led by a reader named Peter. Ancient sources such as Socrates Scholasticus blamed the climate fostered by Cyril’s party; how far Cyril himself bore responsibility is debated, but the episode has defined his modern image.\n\nCyril’s early theological work was exegetical and anti-Arian: commentaries on Isaiah, the Minor Prophets and John, the typological Glaphyra and On Worship in Spirit and Truth on the Pentateuch, the Thesaurus and the Dialogues on the Trinity. Later he wrote a long refutation of Julian the Apostate’s Against the Galileans, engaging Plato, Porphyry and the Hermetic writings.\n\nIn 428 Nestorius, the Antiochene-trained bishop of Constantinople, objected to calling Mary Theotokos (‘God-bearer’), preferring Christotokos. Cyril saw in this a division of Christ into two subjects that would empty the incarnation and the Eucharist of saving power. His Second Letter to Nestorius (430) and his Third Letter with twelve anathemas pressed the point; Pope Celestine supported him. At the Council of Ephesus in June 431 Cyril opened proceedings before John of Antioch and the Syrian bishops arrived and had Nestorius deposed; the Antiochenes held a rival council, and both sides lobbied the court with gifts. In 433 Cyril and John agreed the Formula of Reunion, accepting ‘a union of two natures’ and the Theotokos, and Cyril’s letter ‘Let the heavens rejoice’ (Laetentur caeli) sealed the peace.\n\nCyril’s favourite formula, ‘one incarnate nature (mia physis) of God the Word’, came from a text he believed to be by Athanasius but which was in fact Apollinarian. After his death in 444 both sides claimed him. The Council of Chalcedon (451) received his Second Letter to Nestorius and Laetentur caeli as standards of orthodoxy while defining Christ ‘in two natures’; the opponents of Chalcedon held that the council betrayed his ‘one nature’ formula. The Oriental Orthodox churches revere him as the ‘Pillar of Faith’, while the Chalcedonian churches read Chalcedon through his theology, especially after the Second Council of Constantinople (553).",
+      "roots": [
+        { "root": "earlier-fathers", "text": "Athanasius’s theology of the Word who becomes flesh so that humans may become divine is the foundation of Cyril’s Christology and soteriology." },
+        { "root": "hebrew-scripture", "text": "His extensive Old Testament commentaries read the Law and Prophets typologically as a shadow of Christ, in the Alexandrian tradition." },
+        { "root": "aristotle", "text": "He used the school logic of his day — terms such as physis, hypostasis, ousia and idiotes and Porphyrian categories — to argue the unity of Christ." },
+        { "root": "platonism", "text": "His Against Julian engages Plato, Porphyry and the Hermetica, arguing that the best of Greek philosophy borrowed from Moses or glimpsed the Trinity dimly." },
+        { "root": "imperial-church", "text": "The great sees of Alexandria, Antioch, Constantinople and Rome competed for influence, and imperial favour (won partly through lavish gifts) decided councils." }
+      ],
+      "teachers": ["athanasius"],
+      "keyTeachings": [
+        "The one Christ: the eternal Word is the single subject of all Christ’s acts, divine and human",
+        "Mary is Theotokos, because the one she bore is God the Word made flesh",
+        "Hypostatic union: the Word united humanity to himself ‘according to hypostasis’, not by mere indwelling or conjunction",
+        "Communication of properties: one may truly say ‘God suffered in the flesh’",
+        "The Eucharist as the life-giving flesh of the Word, the medicine of immortality",
+        "Salvation as participation in the divine nature through the Spirit and the incarnate Word"
+      ],
+      "works": [
+        { "title": "Second Letter to Nestorius", "year": 430, "note": "Canonised at Ephesus and Chalcedon as an authoritative statement of Christology." },
+        { "title": "Third Letter to Nestorius with the Twelve Anathemas", "year": 430, "workId": "cyril-third-letter-to-nestorius", "note": "Uncompromising anathemas that Antiochenes regarded as Apollinarian." },
+        { "title": "Commentary on the Gospel of John", "year": 425, "note": "Major exegetical work written before the Nestorian controversy." },
+        { "title": "Letters to Succensus", "year": 434, "workId": "cyril-letters-to-succensus", "note": "Explain how the ‘one incarnate nature’ formula fits with the Formula of Reunion." },
+        { "title": "On the Unity of Christ (Quod unus sit Christus)", "note": "A late dialogue summarising his Christology." },
+        { "title": "Against Julian", "note": "Refutation of Julian the Apostate’s Against the Galileans, preserving much of Julian’s text." },
+        { "title": "Festal Letters", "note": "Annual Paschal letters announcing the date of Easter, with doctrinal and pastoral teaching." }
+      ],
+      "doctrineContributions": [
+        { "doctrineId": "christology", "text": "Defined the single-subject Christology confirmed at Ephesus (431) and normative for Chalcedonian and non-Chalcedonian churches alike." },
+        { "doctrineId": "mary-saints", "text": "His defence of Theotokos made Marian devotion a test of orthodoxy; the title spread in liturgy and church dedications after 431." },
+        { "doctrineId": "salvation", "text": "His theology of deification through union with the incarnate Word shaped Eastern soteriology." },
+        { "doctrineId": "church-sacraments", "text": "Linked the Eucharist directly to the incarnation as the life-giving flesh of the Word." }
+      ],
+      "laterInfluence": [
+        { "on": "Chalcedon and later councils", "text": "His letters were canonised at Chalcedon (451); Constantinople II (553) interpreted Chalcedon in a Cyrilline sense and condemned his Antiochene opponents (the Three Chapters)." },
+        { "on": "Oriental Orthodoxy", "text": "Severus of Antioch and later miaphysite theologians built on his ‘one incarnate nature’ formula; he remains the touchstone of Oriental Orthodox Christology." },
+        { "on": "Medieval and Reformation theology", "text": "Aquinas used him extensively (via the Catena aurea); Lutheran Christology, with its communicatio idiomatum, draws on Cyril." },
+        { "on": "Ecumenical dialogue", "text": "Agreed statements between Eastern and Oriental Orthodox (1989–90) and Catholic–Coptic declarations (1973) appeal to Cyril as common ground." }
+      ],
+      "reception": [
+        { "tradition": "Coptic and Oriental Orthodox", "view": "saint", "text": "Venerated as the ‘Pillar of Faith’ and supreme doctor of Christology; the ‘one incarnate nature’ formula is their confession." },
+        { "tradition": "Eastern Orthodox", "view": "doctor", "text": "Honoured among the great teachers; commemorated on 9 June and, with Athanasius, on 18 January." },
+        { "tradition": "Roman Catholic", "view": "doctor", "text": "Declared Doctor of the Church by Leo XIII in 1882; feast 27 June." },
+        { "tradition": "Church of the East", "view": "controversial", "text": "Rejects the Council of Ephesus and regards Cyril as the persecutor of Nestorius; recent dialogue has reduced the polemic." },
+        { "tradition": "Protestant", "view": "respected", "text": "His Christology is accepted via the councils; his character and methods are often criticised." }
+      ],
+      "controversies": [
+        "The murder of Hypatia (415) and his responsibility for the climate of violence in Alexandria",
+        "The expulsion of Jews from Alexandria (414–415)",
+        "His conduct at Ephesus (431), opening the council before the Antiochenes arrived, and the use of gifts to win court support",
+        "The ‘one incarnate nature’ formula, derived from an Apollinarian forgery, and whether Chalcedon was faithful to him"
+      ],
+      "quote": {
+        "text": "One incarnate nature of God the Word (mia physis tou Theou Logou sesarkōmenē).",
+        "citation": "Cyril of Alexandria, First Letter to Succensus (Letter 45), adopting a formula he believed to be Athanasian"
+      },
+      "places": [
+        { "name": "Alexandria", "lat": 31.2, "lng": 29.92, "year": 412 },
+        { "name": "Chalcedon, Synod of the Oak", "lat": 40.98, "lng": 29.03, "year": 403 },
+        { "name": "Nitria (traditional period among the monks)", "lat": 30.88, "lng": 30.33, "year": 400 },
+        { "name": "Ephesus, Council of 431", "lat": 37.94, "lng": 27.34, "year": 431 }
+      ],
+      "sources": ["mcguckin-cyril", "f3-russell-cyril", "f3-wessel-cyril", "grillmeier-christ", "meyendorff-imperial-unity"],
+      "confidence": "established"
+    }
+  ],
+  "sources": [
+    { "id": "f3-quasten-patrology", "title": "Patrology (vols 1–3; vol. 4 ed. Angelo Di Berardino)", "author": "Johannes Quasten", "year": "1950–1986", "kind": "reference" },
+    { "id": "f3-rubenson-antony", "title": "The Letters of St. Antony: Monasticism and the Making of a Saint", "author": "Samuel Rubenson", "year": 1995, "kind": "secondary" },
+    { "id": "f3-harmless-desert", "title": "Desert Christians: An Introduction to the Literature of Early Monasticism", "author": "William Harmless", "year": 2004, "kind": "secondary" },
+    { "id": "f3-sinkewicz-evagrius", "title": "Evagrius of Pontus: The Greek Ascetic Corpus", "author": "Robert E. Sinkewicz (tr.)", "year": 2003, "kind": "primary" },
+    { "id": "f3-casiday-evagrius", "title": "Evagrius Ponticus (The Early Church Fathers)", "author": "Augustine Casiday", "year": 2006, "kind": "secondary" },
+    { "id": "f3-stewart-cassian", "title": "Cassian the Monk", "author": "Columba Stewart", "year": 1998, "kind": "secondary" },
+    { "id": "f3-chadwick-cassian", "title": "John Cassian, 2nd ed.", "author": "Owen Chadwick", "year": 1968, "kind": "secondary" },
+    { "id": "f3-mclynn-ambrose", "title": "Ambrose of Milan: Church and Court in a Christian Capital", "author": "Neil B. McLynn", "year": 1994, "kind": "secondary" },
+    { "id": "f3-ramsey-ambrose", "title": "Ambrose (The Early Church Fathers)", "author": "Boniface Ramsey", "year": 1997, "kind": "secondary" },
+    { "id": "f3-kelly-jerome", "title": "Jerome: His Life, Writings, and Controversies", "author": "J. N. D. Kelly", "year": 1975, "kind": "secondary" },
+    { "id": "f3-rebenich-jerome", "title": "Jerome (The Early Church Fathers)", "author": "Stefan Rebenich", "year": 2002, "kind": "secondary" },
+    { "id": "f3-chadwick-augustine-life", "title": "Augustine of Hippo: A Life", "author": "Henry Chadwick", "year": 2009, "kind": "secondary" },
+    { "id": "f3-fitzgerald-augustine-encyclopedia", "title": "Augustine through the Ages: An Encyclopedia", "author": "Allan D. Fitzgerald (ed.)", "year": 1999, "kind": "reference" },
+    { "id": "f3-kelly-golden-mouth", "title": "Golden Mouth: The Story of John Chrysostom — Ascetic, Preacher, Bishop", "author": "J. N. D. Kelly", "year": 1995, "kind": "secondary" },
+    { "id": "f3-mayer-allen-chrysostom", "title": "John Chrysostom (The Early Church Fathers)", "author": "Wendy Mayer and Pauline Allen", "year": 2000, "kind": "secondary" },
+    { "id": "f3-wilken-chrysostom-jews", "title": "John Chrysostom and the Jews: Rhetoric and Reality in the Late Fourth Century", "author": "Robert L. Wilken", "year": 1983, "kind": "secondary" },
+    { "id": "f3-mcleod-theodore", "title": "Theodore of Mopsuestia (The Early Church Fathers)", "author": "Frederick G. McLeod", "year": 2009, "kind": "secondary" },
+    { "id": "f3-becker-nisibis", "title": "Fear of God and the Beginning of Wisdom: The School of Nisibis and Christian Scholastic Culture in Late Antique Mesopotamia", "author": "Adam H. Becker", "year": 2006, "kind": "secondary" },
+    { "id": "f3-russell-cyril", "title": "Cyril of Alexandria (The Early Church Fathers)", "author": "Norman Russell", "year": 2000, "kind": "secondary" },
+    { "id": "f3-wessel-cyril", "title": "Cyril of Alexandria and the Nestorian Controversy: The Making of a Saint and of a Heretic", "author": "Susan Wessel", "year": 2004, "kind": "secondary" }
+  ]
+}

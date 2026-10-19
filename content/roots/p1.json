@@ -1,0 +1,1038 @@
+{
+  "influences": [
+    {
+      "id": "christmas-date",
+      "name": "The date of Christmas, Saturnalia and Sol Invictus",
+      "category": "calendar-festivals",
+      "sourceTradition": "sol-invictus",
+      "sourceCulture": "Roman midwinter: the Saturnalia (17–23 December) and the 'birthday of the Unconquered Sun' on 25 December",
+      "christianForm": "The feast of the Nativity of Christ on 25 December (6 January in the East and among Armenians)",
+      "startYear": 336,
+      "place": {
+        "name": "Rome",
+        "lat": 41.9028,
+        "lng": 12.4964
+      },
+      "evidence": "disputed",
+      "evidenceNote": "The first secure evidence for a Nativity feast on 25 December is the Roman Chronograph of 354, whose list of martyrs' burials (reflecting Roman usage of c.336) begins 'VIII kal. Ian. natus Christus in Betleem Iudeae'. The same compilation's civil calendar marks 25 December as 'N(atalis) Invicti'. Scholars still disagree on which way the influence ran. The 'history of religions' theory says the church deliberately set Christ's birthday against the sun festival. The 'calculation' theory says Christians arrived at 25 December by their own reckoning from a 25 March conception or Passion date. Neither theory has decisive proof.",
+      "popularClaim": "Christmas is a pagan festival in disguise: the church took the Saturnalia or the birthday of Sol Invictus on 25 December and renamed it the birthday of Jesus.",
+      "whatHistoriansSay": "Most historians accept that the date was not known from the Gospels and was fixed in Rome in the early fourth century. Hermann Usener (1889) argued that Christians deliberately replaced the Sol Invictus festival. Louis Duchesne (1889) and later Thomas Talley and Susan Roll emphasised the 'calculation' or 'integral age' hypothesis: early Christians commonly dated Christ's death to 25 March (Tertullian, Adversus Iudaeos 8), believed that the prophets died on the anniversary of their conception, and counted nine months forward to 25 December, just as Easterners reckoning from 6 April reached 6 January. Steven Hijmans has shown that no secure evidence of a public 25 December sun festival survives from before the Chronograph of 354. That makes it hard to say which feast came first, though most scholars allow that the solar symbolism was soon exploited. Saturnalia ended on 23 December and is better linked to Christmas customs such as feasting and gifts than to the date itself.",
+      "summary": "Christmas on 25 December is first attested in Rome around 336, close to a newly prominent 'birthday of the Unconquered Sun'. Whether the church chose the date to rival the sun festival or reached it by calculating from Christ's supposed conception on 25 March is a genuine and unresolved scholarly debate.",
+      "story": "The earliest Christians did not celebrate Christ's birth at all. Their great annual feast was Pascha, and second-century writers such as Origen thought it was pagans like Pharaoh and Herod who kept birthdays. Clement of Alexandria (Stromata 1.21, c.200) reports that some Christians had calculated the date of the Nativity, offering 20 May, 19 or 20 April and other dates, and that the followers of Basilides commemorated Christ's baptism in January. A passage in Hippolytus' Commentary on Daniel (4.23, c.204) gives 25 December, but some scholars think the reading may be a later interpolation.\n\nThe decisive evidence is Roman. The Chronograph of 354, a de luxe almanac produced for a Christian aristocrat by the calligrapher Furius Dionysius Filocalus, contains a list of martyrs' commemorations (the Depositio Martyrum) beginning with Christ's birth on 25 December. Its civil calendar marks the same day 'N INVICTI CM XXX', the birthday of the Unconquered Sun with thirty chariot races. The emperor Aurelian had raised Sol to a leading place in the Roman pantheon in 274, and Constantine's coinage carried Sol Invictus until about 325. The coincidence of dates is therefore real.\n\nFrom Rome the feast spread east. John Chrysostom, preaching in Antioch at Christmas c.386, said it had been known there for fewer than ten years. He defended the date from Luke's chronology of Zechariah's service in the Temple. Constantinople adopted it under Gregory of Nazianzus (380), and Jerusalem and Alexandria followed in the fifth century. The Armenian Apostolic Church still keeps the Nativity together with the Theophany on 6 January. Churches using the Julian calendar keep 25 December on what is now 7 January in the civil calendar.\n\nChristian preachers were aware of the sun festival and turned it to their own purposes. Augustine urged his hearers to keep the day 'not, like unbelievers, because of the sun, but because of him who made the sun' (Sermon 190). Leo the Great rebuked worshippers who turned to bow to the rising sun on the steps of St Peter's before entering the basilica (Sermon 27.4). Malachi 4:2's 'sun of righteousness' and the lengthening of days after the solstice became standard Christmas images. Only in the twelfth century did a Syriac commentator, glossing Dionysius bar Salibi, say outright that the church had moved the feast to 25 December because pagans kept the sun's birthday then.\n\nThe pagan-origins argument became a weapon in Protestant controversy. English Puritans abolished Christmas by parliamentary ordinance in 1647. Massachusetts fined anyone keeping it between 1659 and 1681, and Increase Mather argued in 1687 that the feast had been set to take over the Saturnalia. Scotland did not make Christmas a public holiday until 1958. Jehovah's Witnesses stopped keeping it in the late 1920s for the same reason. Today most historians present the question as open. The date's origin is disputed, but the meaning of the feast, the Incarnation, plainly comes from the Gospels and the creeds, not from Sol.",
+      "howItHappened": [
+        "Second- and third-century Christians speculated about the date of Christ's birth without any agreed feast (Clement of Alexandria, Stromata 1.21).",
+        "A widespread belief that Christ died on 25 March (or 6 April in the East), combined with the 'integral age' idea, implied a conception on that day and a birth nine months later.",
+        "Aurelian's elevation of Sol Invictus (274) made the winter solstice a prominent public religious date in Rome.",
+        "By c.336 the Roman church listed Christ's birth on 25 December, recorded in the Chronograph of 354.",
+        "Preachers such as Augustine, Leo and Maximus of Turin took over solar imagery ('sun of righteousness') while warning against sun worship.",
+        "The feast spread to Antioch (c.376–386), Constantinople (380) and eventually most churches. The Armenians kept 6 January."
+      ],
+      "examples": [
+        "Chronograph of 354: 'VIII kal. Ian. natus Christus in Betleem Iudeae' alongside 'N INVICTI' in the civil calendar.",
+        "John Chrysostom's Christmas homily at Antioch (c.386) calls the feast recent there.",
+        "Leo the Great, Sermon 27.4, condemns Christians bowing to the sun on the steps of St Peter's.",
+        "The Armenian Apostolic Church's single Nativity–Theophany feast on 6 January preserves the older Eastern date.",
+        "The English Parliament's 1647 ordinance abolishing Christmas, Easter and Whitsun as holy days."
+      ],
+      "defenders": [
+        {
+          "name": "Augustine of Hippo",
+          "personId": "augustine-of-hippo",
+          "fatherId": "augustine-of-hippo-father",
+          "text": "Defended a 25 December Nativity tied to the 25 March conception (De Trinitate 4.5.9) and redirected solar symbolism to Christ, 'who made the sun'."
+        },
+        {
+          "name": "John Chrysostom",
+          "personId": "john-chrysostom",
+          "fatherId": "john-chrysostom",
+          "text": "Promoted the newly introduced feast at Antioch and argued from Luke's chronology that 25 December was historically correct."
+        },
+        {
+          "name": "Leo the Great",
+          "personId": "leo-i",
+          "fatherId": "leo-the-great",
+          "text": "Preached a cycle of Christmas sermons on the Incarnation. He welcomed the feast but rebuked residual sun worship."
+        }
+      ],
+      "critics": [
+        {
+          "name": "English and New England Puritans",
+          "personId": "increase-mather",
+          "text": "Increase Mather's Testimony against Several Prophane and Superstitious Customs (1687) claimed the date was chosen to take over the Saturnalia. Massachusetts banned Christmas from 1659 to 1681."
+        },
+        {
+          "name": "Charles Haddon Spurgeon",
+          "personId": "charles-spurgeon",
+          "text": "Told his Baptist congregation (1871) that he did not believe in 'the present ecclesiastical arrangement called Christmas', though he welcomed the chance to preach the Incarnation."
+        },
+        {
+          "name": "Jehovah's Witnesses",
+          "text": "Have abandoned Christmas since the late 1920s as a festival of pagan origin with no biblical command."
+        }
+      ],
+      "keptBy": [
+        "Catholic, Orthodox, Anglican, Lutheran, Methodist and most Protestant churches (25 December)",
+        "Orthodox churches on the Julian calendar (25 December Julian = 7 January civil)",
+        "Armenian Apostolic Church (6 January, with the Theophany)"
+      ],
+      "rejectedBy": [
+        "Seventeenth-century Puritans in England, Scotland and New England",
+        "Jehovah's Witnesses",
+        "Some Churches of Christ, Reformed Presbyterian and Hebrew Roots groups, who reject non-biblical holy days"
+      ],
+      "calendar": {
+        "month": 12,
+        "day": 25,
+        "christian": "Nativity of Christ (Christmas)",
+        "pagan": "Natalis Solis Invicti; Saturnalia ended 23 December; winter solstice"
+      },
+      "fatherIds": [
+        "augustine-of-hippo-father",
+        "john-chrysostom",
+        "leo-the-great",
+        "hippolytus-of-rome",
+        "clement-of-alexandria",
+        "gregory-of-nazianzus"
+      ],
+      "traditionIds": [
+        "early-church",
+        "catholic",
+        "eastern-orthodox",
+        "armenian-apostolic",
+        "congregationalist",
+        "church-of-scotland",
+        "jehovahs-witnesses"
+      ],
+      "relatedIds": [
+        "christmas-customs",
+        "sunday-day-of-the-sun",
+        "christ-sol-good-shepherd-art",
+        "mithras-and-jesus-myth",
+        "midsummer-st-john",
+        "week-and-calendar"
+      ],
+      "sources": [
+        "talley-liturgical-year",
+        "p1-roll-origins-christmas",
+        "p1-hijmans-sol",
+        "p1-nothaft-christmas-date",
+        "p1-salzman-on-roman-time",
+        "p1-bradshaw-johnson-feasts",
+        "p1-nissenbaum-battle-for-christmas"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "sunday-day-of-the-sun",
+      "name": "Sunday, the \"day of the sun\" and Constantine's law of 321",
+      "category": "calendar-festivals",
+      "sourceTradition": "roman-state",
+      "sourceCulture": "The planetary 'day of the Sun' (dies Solis) and Roman civic rest days",
+      "christianForm": "The Lord's Day (kyriake, dies dominica) as the weekly day of worship and, from 321, of legal rest",
+      "startYear": 155,
+      "place": {
+        "name": "Rome",
+        "lat": 41.9028,
+        "lng": 12.4964
+      },
+      "evidence": "myth",
+      "evidenceNote": "The claim that Constantine moved Christian worship from Saturday to Sunday is false. Sunday worship is attested about two centuries before him, in Revelation 1:10, the Didache 14, Ignatius (Magnesians 9) and Justin Martyr (First Apology 67, c.155). Some things really are Roman. The name 'Sunday' in Germanic languages is pagan, and so is Constantine's decision to make the 'venerable day of the Sun' a civic rest day (Codex Justinianus 3.12.2, 7 March 321). Samuele Bacchiocchi argued that sun-cult influence shaped the second-century choice of Sunday. This is a minority view among scholars.",
+      "popularClaim": "Christians originally kept the seventh-day Sabbath until Constantine, a sun-worshipper, changed it to Sunday by imperial decree in 321, so Sunday worship is a pagan sun cult.",
+      "whatHistoriansSay": "The New Testament already associates the first day of the week with the resurrection, gatherings and collections (Mark 16:2, Acts 20:7, 1 Corinthians 16:2), and Revelation 1:10 speaks of 'the Lord's day'. Second-century sources describe Sunday assemblies as normal. Justin explained to a pagan emperor that Christians met 'on the day called of the Sun' because it was the first day of creation and the day of Christ's resurrection. Constantine's law of 321 did not create Christian Sunday worship. It gave an existing Christian custom civic force, using neutral solar language acceptable to pagan subjects. The day became a day of rest only gradually. For centuries it was mainly a day of worship, and conciliar rulings such as Laodicea canon 29 encouraged Christians to work on Saturday and rest, if possible, on Sunday. D. A. Carson's symposium From Sabbath to Lord's Day (1982) answered Bacchiocchi and represents the mainstream view.",
+      "summary": "Christians met for worship on the first day of the week, the day of the resurrection, long before Constantine. What came from Rome was the planetary name 'day of the Sun', kept in English and German, and Constantine's 321 law making that day a legal rest day.",
+      "story": "The Jewish seven-day week, ending with the Sabbath, was the framework within which the first Christians lived. The Gospels place the resurrection 'on the first day of the week', and Paul's churches gathered and set aside money on that day (1 Corinthians 16:2). By the end of the first century the author of Revelation could call it 'the Lord's day' (kyriake hemera). The Didache tells believers to gather 'on the Lord's own day' to break bread. Ignatius of Antioch (c.110) described Jewish converts as 'no longer sabbatising but living according to the Lord's day, on which our life also arose' (Magnesians 9). The Epistle of Barnabas called it the joyful 'eighth day'.\n\nMeanwhile the Greco-Roman world was adopting a different seven-day cycle, the planetary week. Each day was named after one of the seven 'planets' in astrological order: Saturn, Sun, Moon, Mars, Mercury, Jupiter, Venus. Graffiti at Pompeii list the days, and Cassius Dio, writing c.230, said the custom had recently become universal. In this cycle the Christian first day fell on the 'day of the Sun'. Justin Martyr, writing his First Apology in Rome c.155, used that civil name for his pagan readers: 'on the day called of the Sun all who live in cities or in the country gather in one place'.\n\nConstantine's law of 7 March 321 ordered magistrates, city dwellers and workshops to rest 'on the venerable day of the Sun' (venerabili die Solis). Farmers were exempted so that harvests would not be lost. A second law of July 321 permitted the emancipation and manumission of slaves on that day (Codex Theodosianus 2.8.1). Eusebius' Life of Constantine (4.18–20) presents the measure as honouring the Lord's Day. The emperor also gave pagan soldiers a monotheistic prayer to say on Sundays. The deliberately neutral wording suited an emperor whose coins still showed Sol Invictus, but the custom it protected was already Christian.\n\nThe names show where the influence lay. Greek-speaking and Romance-speaking Christians renamed the day after the Lord: kyriake, domenica, domingo, dimanche. Russian calls it voskresenie, 'resurrection'. English, German and Dutch kept the pagan Sunday, and Christian writers from Justin onwards made a virtue of it, calling Christ the 'sun of righteousness' (Malachi 4:2) who rose at dawn. Jerome wrote that if pagans call it the day of the sun, Christians gladly agree, for on it the Light of the world arose.\n\nThe Constantine story became central in nineteenth-century Sabbatarian controversy. Seventh Day Baptists (from the 1650s) and then Seventh-day Adventists, notably Ellen G. White, taught that the change from Sabbath to Sunday was a human and papal innovation. Samuele Bacchiocchi's From Sabbath to Sunday (1977) gave the case its most scholarly form, locating the change in Hadrianic Rome. Most historians accept that Sunday worship is pre-Constantinian and grounded in the resurrection. They also accept that the legal Sunday and the English name are Roman inheritances.",
+      "howItHappened": [
+        "Apostolic communities gathered on the first day of the week in memory of the resurrection (Acts 20:7; 1 Corinthians 16:2; Revelation 1:10).",
+        "Second-century writers (Didache, Ignatius, Barnabas, Justin) treat the Lord's Day assembly as standard.",
+        "The planetary week spread across the Roman empire in the first and second centuries, putting the Christian first day on the 'day of the Sun'.",
+        "Constantine made the dies Solis a civic rest day in 321, protecting Christian worship in neutral language.",
+        "Later councils and emperors (Laodicea, Theodosius I, Justinian) extended Sunday restrictions on work and entertainments."
+      ],
+      "examples": [
+        "Justin Martyr, First Apology 67: 'on the day called of the Sun' Christians read the apostles and prophets and celebrate the Eucharist.",
+        "Codex Justinianus 3.12.2 (321): 'Let all judges, city people and craftsmen rest on the venerable day of the Sun.'",
+        "Pliny the Younger (Letters 10.96, c.112) reports Christians meeting 'on a fixed day before dawn'.",
+        "Romance-language names (domingo, dimanche, domenica) versus the Germanic 'Sunday' and 'Sonntag'."
+      ],
+      "defenders": [
+        {
+          "name": "Justin Martyr",
+          "personId": "justin-martyr",
+          "fatherId": "justin-martyr",
+          "text": "Used the civil name 'day of the Sun' to explain Christian worship to pagans, grounding it in creation and resurrection."
+        },
+        {
+          "name": "Eusebius of Caesarea",
+          "personId": "eusebius-of-caesarea",
+          "fatherId": "eusebius-of-caesarea",
+          "text": "Praised Constantine's Sunday legislation as honouring the 'Lord's and Saviour's day' (Life of Constantine 4.18)."
+        },
+        {
+          "name": "Ignatius of Antioch",
+          "fatherId": "ignatius-of-antioch",
+          "text": "Contrasted sabbatising with 'living according to the Lord's day', the earliest post-biblical theology of Sunday."
+        }
+      ],
+      "critics": [
+        {
+          "name": "Ellen G. White and the Seventh-day Adventists",
+          "personId": "ellen-g-white",
+          "text": "Taught that Sunday observance was a human and papal substitution for the biblical Sabbath, to be tested in the last days."
+        },
+        {
+          "name": "Samuele Bacchiocchi",
+          "text": "Argued in From Sabbath to Sunday (1977) that anti-Judaism and sun-cult symbolism in second-century Rome produced the shift to Sunday. This is a minority scholarly view."
+        },
+        {
+          "name": "Seventh Day Baptists",
+          "text": "From the 1650s in England, kept Saturday as the only biblical Sabbath."
+        }
+      ],
+      "keptBy": [
+        "Almost all Catholic, Orthodox, Oriental and Protestant churches (Sunday as the Lord's Day)",
+        "Reformed and Puritan Sabbatarians, who transferred Sabbath rules to Sunday (Westminster Confession 21)"
+      ],
+      "rejectedBy": [
+        "Seventh-day Adventists",
+        "Seventh Day Baptists",
+        "Church of God (Seventh Day) and some Messianic Jewish congregations"
+      ],
+      "fatherIds": [
+        "justin-martyr",
+        "ignatius-of-antioch",
+        "didache-community",
+        "eusebius-of-caesarea",
+        "jerome"
+      ],
+      "traditionIds": [
+        "early-church",
+        "catholic",
+        "eastern-orthodox",
+        "seventh-day-adventist",
+        "seventh-day-baptists",
+        "church-of-god-seventh-day",
+        "presbyterian"
+      ],
+      "relatedIds": [
+        "week-and-calendar",
+        "christmas-date",
+        "christ-sol-good-shepherd-art",
+        "easter-name-and-eostre",
+        "pontifex-maximus-and-roman-titles"
+      ],
+      "sources": [
+        "p1-carson-sabbath-lords-day",
+        "p1-bacchiocchi-sabbath-sunday",
+        "p1-codex-theodosianus",
+        "p1-zerubavel-seven-day-circle",
+        "eusebius-life-constantine",
+        "bradshaw-origins-worship"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "easter-name-and-eostre",
+      "name": "Easter: Passover roots, the name Eostre and the Ishtar myth",
+      "category": "calendar-festivals",
+      "sourceTradition": "germanic",
+      "sourceCulture": "The Jewish Passover (Pesach). The Anglo-Saxon month Eosturmonath, said by Bede to be named after a goddess Eostre",
+      "christianForm": "Pascha, the annual feast of Christ's death and resurrection, called 'Easter' only in English and 'Ostern' in German",
+      "startYear": 155,
+      "place": {
+        "name": "Jerusalem",
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "evidence": "myth",
+      "evidenceNote": "The feast itself comes from the Jewish Passover. Most languages call it by derivatives of Pascha, from Hebrew pesach (Pâques, Pascua, Pasqua, Paskha). The claim that it derives from Ishtar has no evidence at all. Only the English and German name has a possible pagan link. Bede (De temporum ratione 15, 725) says Eosturmonath was named after a goddess Eostre. Some scholars doubt she existed. Philip Shaw argues plausibly for a local deity, but the name is the only thing at stake.",
+      "popularClaim": "Easter is a pagan fertility festival of the goddess Ishtar or Eostre, with eggs and rabbits as fertility symbols. 'Easter' is pronounced like 'Ishtar', and Christians simply renamed it.",
+      "whatHistoriansSay": "Christians celebrated Pascha as a Christian Passover from at least the second century. The Quartodecimans of Asia Minor kept it on 14 Nisan, and Melito of Sardis' Peri Pascha (c.165) is a Christian Passover homily. Rome kept the following Sunday. Disputes over the date involved Polycarp and Anicetus (c.155), Victor and Irenaeus (c.190), Nicaea (325) and the Synod of Whitby (664). All of them presuppose a Jewish, not a pagan, starting point. The English word appears only because Anglo-Saxon converts kept their month name for April. Bede is the sole source for Eostre. Jacob Grimm (1835) expanded her into a Germanic goddess 'Ostara', and later writers attached hares and eggs to her without ancient evidence. 'Ishtar' is a Mesopotamian goddess with no historical or linguistic connection to the English word. The link was popularised by Alexander Hislop's The Two Babylons (1853) and by a widely shared internet meme in 2013. Easter eggs go back to the Lenten ban on eating eggs, and the Easter hare is first recorded in seventeenth-century Germany.",
+      "summary": "Easter is the Christian Passover. Its date, theology and name in most languages (Pascha) come from Judaism. Only the English name may echo a pagan goddess, Eostre, known from a single sentence of Bede. The popular claim that Easter derives from Ishtar is a modern myth.",
+      "story": "Jesus was crucified at Passover, and the earliest Christians read his death through the Passover lamb: 'Christ our Passover is sacrificed for us' (1 Corinthians 5:7). The annual feast that grew from this was called Pascha, the Greek and Aramaic form of pesach. In the second century the churches of Asia Minor, claiming the authority of John and Polycarp, kept it on 14 Nisan whatever the day of the week. Rome and most other churches kept it on the following Sunday. Polycarp and Anicetus agreed to differ in Rome c.155. Pope Victor's threat to excommunicate the Asians c.190 drew a rebuke from Irenaeus (Eusebius, Ecclesiastical History 5.23–25).\n\nThe Council of Nicaea (325) settled on a common Sunday celebration calculated by the church rather than by contemporary Jewish reckoning. Constantine's letter after the council shows hostility to dependence on the Jews. Later disputes were about calculation tables, not paganism. The best-known was the clash between Irish and Roman reckonings settled at the Synod of Whitby in 664 (Bede, Ecclesiastical History 3.25). Melito of Sardis' Peri Pascha (c.165), the Apostolic Tradition and the fourth-century Jerusalem rites described by Egeria all show a feast built on Exodus typology, baptism and the Gospel Passion narratives.\n\nThe English name is the exception. In The Reckoning of Time (725), Bede explains the old English month names: 'Eosturmonath, which is now interpreted as the paschal month, was once named after a goddess of theirs called Eostre, in whose honour feasts were celebrated in that month'. No other source mentions her. Some scholars think Bede guessed from the month name. Philip Shaw links her to the Germanic root for 'east' and 'dawn' and to the Matronae Austriahenae of Roman Rhineland inscriptions. Old High German Ostarun gave modern German Ostern. Nearly every other Christian language, including Welsh (Pasg), Dutch (Pasen) and Scandinavian (påske), uses Pascha.\n\nThe pagan-origins story was elaborated much later. Jacob Grimm's Deutsche Mythologie (1835) reconstructed a goddess Ostara. Alexander Hislop's anti-Catholic The Two Babylons (1853) equated Easter with Astarte and Ishtar, and this was later repeated in Jehovah's Witness and Armstrong literature and in a viral image of 2013. Easter eggs have a Christian history. Eggs were forbidden during the Lenten fast, so they were saved, decorated and blessed for Easter. Mesopotamian Christians dyed them red for Christ's blood. The Easter hare is first described by Georg Franck von Franckenau in De ovis paschalibus (1682). Folklorists now generally treat the hare-and-egg 'fertility goddess' explanation as a nineteenth-century invention rather than an ancient survival.\n\nSome traditions avoid Easter because of its name or its customs. These include some Restorationist and Hebrew Roots groups, Jehovah's Witnesses (who keep only an annual Memorial on 14 Nisan) and the Worldwide Church of God under Herbert W. Armstrong. Under later leadership that church, renamed Grace Communion International, adopted Easter in the 1990s. Most churches, Eastern and Western, regard the Pascha-Passover link as the heart of the feast.",
+      "howItHappened": [
+        "Jesus' death at Passover led the first Christians to interpret it as the true paschal sacrifice (1 Corinthians 5:7; John 19:36).",
+        "Second-century churches kept an annual Pascha, either on 14 Nisan (Quartodecimans) or on the following Sunday.",
+        "Nicaea (325) required a common Sunday date computed by Christian tables, later standardised as the first Sunday after the paschal full moon.",
+        "Anglo-Saxon converts kept the native month name Eosturmonath for the paschal season, which gave English its word 'Easter'.",
+        "Lenten fasting made eggs a natural Easter food, and later German folklore added the Easter hare (1682)."
+      ],
+      "examples": [
+        "Melito of Sardis, Peri Pascha (c.165): a sermon on Exodus 12 read as a prophecy of Christ.",
+        "Polycarp and Anicetus's agreement to differ on the date of Pascha, c.155 (Eusebius, Ecclesiastical History 5.24).",
+        "Bede, De temporum ratione 15: the only source for the goddess Eostre.",
+        "The Synod of Whitby (664) adopts the Roman Easter reckoning in Northumbria.",
+        "Pascha-derived names: Greek Pascha, Latin Pascha, French Pâques, Spanish Pascua, Russian Paskha, Welsh Pasg."
+      ],
+      "defenders": [
+        {
+          "name": "Polycarp of Smyrna",
+          "personId": "polycarp",
+          "fatherId": "polycarp-of-smyrna",
+          "text": "Kept the Asian 14 Nisan Pascha, which he said came from John, and defended it in Rome c.155. Evidence of the feast's Jewish-Christian roots."
+        },
+        {
+          "name": "Irenaeus of Lyon",
+          "personId": "irenaeus",
+          "fatherId": "irenaeus-of-lyon",
+          "text": "Urged Victor of Rome not to break communion over differing Pascha dates (c.190)."
+        },
+        {
+          "name": "Bede",
+          "fatherId": "bede",
+          "text": "Recorded the Eostre etymology without embarrassment and wrote the standard medieval treatise on calculating Easter."
+        }
+      ],
+      "critics": [
+        {
+          "name": "Alexander Hislop",
+          "text": "His The Two Babylons (1853) claimed Easter was the Babylonian Astarte or Ishtar festival, an assertion without historical basis that is still widely repeated."
+        },
+        {
+          "name": "Jehovah's Witnesses",
+          "text": "Reject Easter customs as pagan and keep instead an annual Memorial of Christ's death on 14 Nisan."
+        },
+        {
+          "name": "Herbert W. Armstrong (Worldwide Church of God)",
+          "text": "Taught that Easter was pagan and kept the biblical Passover and feasts instead. His successors reversed this in the 1990s."
+        }
+      ],
+      "keptBy": [
+        "Catholic, Orthodox, Oriental Orthodox and nearly all Protestant churches",
+        "Eastern and Oriental Orthodox churches on the Julian Paschalion",
+        "Grace Communion International (since the 1990s)"
+      ],
+      "rejectedBy": [
+        "Jehovah's Witnesses (who keep only the Memorial)",
+        "The Worldwide Church of God under Armstrong and its splinter churches",
+        "Some Hebrew Roots and Messianic groups, who keep Passover instead"
+      ],
+      "fatherIds": [
+        "polycarp-of-smyrna",
+        "irenaeus-of-lyon",
+        "eusebius-of-caesarea",
+        "bede",
+        "hippolytus-of-rome"
+      ],
+      "traditionIds": [
+        "early-church",
+        "catholic",
+        "eastern-orthodox",
+        "jehovahs-witnesses",
+        "worldwide-church-of-god",
+        "grace-communion-international",
+        "messianic-judaism"
+      ],
+      "relatedIds": [
+        "sunday-day-of-the-sun",
+        "week-and-calendar",
+        "mithras-and-jesus-myth",
+        "mystery-religions-debate",
+        "temples-to-churches"
+      ],
+      "sources": [
+        "p1-bede-reckoning-of-time",
+        "p1-shaw-pagan-goddesses",
+        "p1-hutton-stations-of-the-sun",
+        "p1-bradshaw-johnson-feasts",
+        "eusebius-hist-eccl",
+        "p1-hislop-two-babylons",
+        "talley-liturgical-year"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "christmas-customs",
+      "name": "Christmas customs: Yule, trees, gifts and Saint Nicholas",
+      "category": "calendar-festivals",
+      "sourceTradition": "germanic",
+      "sourceCulture": "Roman Saturnalia and Kalends of January (feasting, gifts, greenery, lamps), and Germanic and Norse midwinter Yule (jól)",
+      "christianForm": "The Twelve Days of Christmas with feasting, evergreens, the Christmas tree, gift-giving and Saint Nicholas / Father Christmas / Santa Claus",
+      "startYear": 380,
+      "place": {
+        "name": "Strasbourg (Alsace)",
+        "lat": 48.5734,
+        "lng": 7.7521
+      },
+      "evidence": "plausible",
+      "evidenceNote": "Some Christmas customs clearly have pre-Christian Roman or Germanic forms. Midwinter feasting, decorating doors with greenery and lamps, New Year gifts (strenae) and the Scandinavian name jul are examples. Church leaders condemned these from the fourth century onwards, so we know they continued. Others are much later Christian or secular inventions with no proven pagan pedigree. These include the Christmas tree (sixteenth-century Alsace), the Yule log (seventeenth-century record), kissing under the mistletoe (eighteenth century) and Santa Claus (nineteenth-century New York). Each custom has to be judged separately.",
+      "popularClaim": "Every Christmas tradition, from the tree to Santa Claus, comes directly from pagan Yule or the Saturnalia, and the church simply put a Christian label on them.",
+      "whatHistoriansSay": "Ronald Hutton, Bruce Forbes and Stephen Nissenbaum present Christmas as a layered festival. Late-antique Christians kept Roman New Year and midwinter customs, which preachers repeatedly denounced. Gregory of Nazianzus, in his Christmas oration of 380, told his flock not to garland their doors or hold dances. Asterius of Amasea and Caesarius of Arles attacked Kalends revelry, and the Council of Tours (567) declared the days from Christmas to Epiphany festal. In Scandinavia, Haakon the Good is said to have ordered Yule to be kept at Christmas in the tenth century (Snorri Sturluson, Heimskringla), and the name jul survived. But the decorated tree is first recorded in sixteenth-century Alsace and Germany, probably growing out of the 'paradise tree' of Adam-and-Eve plays on 24 December. Santa Claus developed from the cult of the fourth-century bishop Nicholas of Myra, Dutch Sinterklaas, Washington Irving (1809), 'A Visit from St Nicholas' (1823) and Thomas Nast's cartoons. The romantic idea that all of these are ancient pagan survivals owes much to nineteenth-century folklorists such as Jacob Grimm and James Frazer.",
+      "summary": "Christmas absorbed some Roman midwinter and New Year customs and, in the north, the name and feasting of Yule. Many of its best-known features are medieval or modern, including the tree, the Yule log and Santa Claus. Historians judge each custom separately rather than calling them all 'pagan'.",
+      "story": "When the feast of Christ's birth spread in the fourth century, it landed in a season already full of celebration. The Saturnalia (17–23 December) featured feasting, gambling, role reversal and small gifts such as wax candles (cerei) and figurines (sigillaria). The Kalends of January, the Roman New Year, brought greenery and lamps on doorways and gifts called strenae, described by Libanius. Tertullian had already scolded Christians for hanging laurels and lamps at their doors on pagan festivals (De idololatria 15). Gregory of Nazianzus, preaching on the Nativity in Constantinople in 380, urged Christians not to garland their porches or feast like pagans but to celebrate 'in a heavenly manner'.\n\nThe church's response mixed condemnation with substitution. Sermons by Asterius of Amasea (c.400) and Caesarius of Arles (sixth century) attacked Kalends masquerades and gift-giving. The Council of Tours (567) made the twelve days from Christmas to Epiphany a festal season and also prescribed fasting at the Kalends to counter pagan revelry. Over time, feasting and gift-giving moved into the Christmas–Epiphany season, associated with the Magi's gifts and, later, with saints.\n\nIn northern Europe the Germanic midwinter supplied a name and a mood. Bede (De temporum ratione 15) records that the English called December and January Giuli. He says they began their year on 25 December with 'Modranecht', the 'night of the mothers'. In Norway, according to Snorri Sturluson's Heimskringla (c.1230), King Haakon the Good (d.961) ordered Yule to be kept at the same time as Christmas. Scandinavian languages still call Christmas jul, and English 'Yuletide' preserves the word. The details of pagan Yule rites are poorly attested, and Snorri wrote two and a half centuries later.\n\nMany familiar customs are not ancient at all. The town accounts of Sélestat in Alsace (1521) and a Strasbourg description of 1605 record fir trees decorated with apples, wafers and paper roses. They were probably descended from the paradise tree of medieval mystery plays performed on 24 December, the feast of Adam and Eve. Lutheran Germany spread the custom, and Prince Albert and an 1848 engraving of the royal family made it fashionable in Britain. The Yule log is first recorded in seventeenth-century England (Robert Herrick). Kissing under mistletoe dates from the eighteenth century, though Pliny describes druids cutting mistletoe (Natural History 16.95).\n\nGift-bringers have a mainly Christian history. Nicholas, a fourth-century bishop of Myra whose relics were taken to Bari in 1087, became the patron of children through legends of secret dowries. Medieval Europe gave presents on his feast (6 December). Some Lutherans moved gift-giving to Christmas and the Christ-child (Christkind). Dutch Sinterklaas was reworked in New York by John Pintard, Washington Irving and the poem 'A Visit from St Nicholas' (1823), and Thomas Nast's drawings (from 1863) fixed the image of Santa Claus. Puritans banned Christmas revelry in the seventeenth century, partly as 'popish' and partly as heathen. Nineteenth-century writers such as Dickens then promoted a domestic Christmas that blended Christian, folk and commercial elements.",
+      "howItHappened": [
+        "Fourth-century Christians carried Roman midwinter and New Year customs (greenery, lamps, gifts, feasting) into the new Nativity season.",
+        "Bishops condemned Kalends revelry while councils (Tours, 567) made the Twelve Days a Christian festal season.",
+        "In Anglo-Saxon England and Scandinavia the native midwinter name (Giuli, jól) attached itself to Christmas.",
+        "Medieval saints' cults, especially Nicholas (6 December), supplied gift-bringers.",
+        "Sixteenth- to nineteenth-century German, English and American developments added the tree, the Yule log, cards and Santa Claus."
+      ],
+      "examples": [
+        "Gregory of Nazianzus, Oration 38 (380): do not crown your doorways or arrange dances.",
+        "Council of Tours (567): the days between Christmas and Epiphany declared festal.",
+        "Sélestat (1521) and Strasbourg (1605): earliest records of decorated Christmas trees.",
+        "Scandinavian jul / English Yule: a pre-Christian name kept for Christmas.",
+        "Saint Nicholas of Myra → Sinterklaas → Santa Claus ('A Visit from St Nicholas', 1823)."
+      ],
+      "defenders": [
+        {
+          "name": "Martin Luther (tradition)",
+          "personId": "martin-luther",
+          "text": "Associated in Lutheran lore with the lit Christmas tree and with moving gift-giving from Saint Nicholas to the Christ-child. The tree story itself is a nineteenth-century legend."
+        },
+        {
+          "name": "Gregory the Great",
+          "personId": "gregory-the-great",
+          "fatherId": "gregory-the-great",
+          "text": "His 601 policy of letting converts keep feasting on Christian festivals (letter to Mellitus) was later cited as the model for absorbing Yule-tide celebration."
+        },
+        {
+          "name": "Bede",
+          "fatherId": "bede",
+          "text": "Recorded the English Giuli months and Modranecht without condemnation, showing native names carried into Christian time."
+        }
+      ],
+      "critics": [
+        {
+          "name": "Tertullian",
+          "personId": "tertullian",
+          "fatherId": "tertullian",
+          "text": "Condemned Christians who decorated their doors with laurels and lamps during pagan festivals (De idololatria 15)."
+        },
+        {
+          "name": "Gregory of Nazianzus",
+          "personId": "gregory-of-nazianzus",
+          "fatherId": "gregory-of-nazianzus",
+          "text": "Warned in 380 against garlands, dancing and feasting 'in the pagan manner' at the Nativity."
+        },
+        {
+          "name": "Puritans",
+          "text": "Suppressed Christmas feasting, decorations and 'misrule' in England (1647) and New England as unscriptural and heathen."
+        }
+      ],
+      "keptBy": [
+        "Most Western churches and Christian-heritage cultures",
+        "Orthodox cultures, with their own customs such as the Slavic Sviatki and Saint Basil's day gifts in Greece"
+      ],
+      "rejectedBy": [
+        "Seventeenth-century Puritans and Scottish Presbyterians",
+        "Jehovah's Witnesses",
+        "Some conservative Reformed, Restorationist and Hebrew Roots Christians who object to the tree (citing Jeremiah 10:3–4) and Santa Claus"
+      ],
+      "calendar": {
+        "month": 12,
+        "day": 25,
+        "christian": "Christmas and the Twelve Days (25 December–6 January); Saint Nicholas on 6 December",
+        "pagan": "Saturnalia (17–23 December), Kalends of January, Germanic Yule / Modranecht"
+      },
+      "fatherIds": [
+        "tertullian",
+        "gregory-of-nazianzus",
+        "gregory-the-great",
+        "bede"
+      ],
+      "traditionIds": [
+        "catholic",
+        "lutheran",
+        "anglican",
+        "congregationalist",
+        "presbyterian",
+        "jehovahs-witnesses",
+        "eastern-orthodox"
+      ],
+      "relatedIds": [
+        "christmas-date",
+        "midsummer-st-john",
+        "all-saints-samhain",
+        "temples-to-churches",
+        "saints-and-local-gods",
+        "amulets-charms-folk-magic"
+      ],
+      "sources": [
+        "p1-hutton-stations-of-the-sun",
+        "p1-forbes-christmas",
+        "p1-nissenbaum-battle-for-christmas",
+        "p1-jones-saint-nicholas",
+        "p1-miles-christmas-ritual",
+        "p1-bede-reckoning-of-time"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "all-saints-samhain",
+      "name": "All Saints, All Souls, Halloween and Samhain",
+      "category": "calendar-festivals",
+      "sourceTradition": "celtic",
+      "sourceCulture": "The Gaelic Samhain (1 November), a seasonal assembly and feast marking the start of winter",
+      "christianForm": "All Saints (1 November), All Souls (2 November) and the popular customs of All Hallows' Eve",
+      "startYear": 609,
+      "place": {
+        "name": "Rome (Pantheon)",
+        "lat": 41.8986,
+        "lng": 12.4769
+      },
+      "evidence": "disputed",
+      "evidenceNote": "The Christian feast of all martyrs and saints grew from Eastern and Roman commemorations with no Celtic link. Examples are Chrysostom's sermon for the Sunday after Pentecost, the Pantheon's dedication on 13 May 609, and Gregory III's oratory to all saints. The move to 1 November is first clearly attested in eighth-century Rome and Anglo-Saxon/Frankish circles. Irish martyrologies, by contrast, kept all saints on 20 April. A Samhain influence on the date is possible but unproven. Some later Halloween folk customs in Ireland and Scotland may preserve Samhain associations. Others are early-modern or American.",
+      "popularClaim": "Halloween is the ancient Celtic festival of the dead, Samhain, and the church moved All Saints to 1 November to Christianise it.",
+      "whatHistoriansSay": "Ronald Hutton and Nicholas Rogers stress how thin the evidence for pre-Christian Samhain is. It appears in medieval Irish literature as a 1 November assembly with feasting and supernatural incidents, but nothing shows that it was a festival of the dead or a 'Celtic New Year'. Those ideas were largely shaped by John Rhŷs and James Frazer around 1890. All Saints on 1 November is first clearly attested in Rome under Gregory III (731–41) and in the circle of Alcuin and Arno of Salzburg (c.800). Gregory IV and Louis the Pious extended it across the Frankish empire in 835. Because the early Irish church kept the feast in April, the Samhain-substitution theory is doubtful, though not impossible. All Souls on 2 November was introduced by Odilo of Cluny c.998 and is a monastic development. Halloween customs such as souling, guising, turnip lanterns and later trick-or-treating developed in Christian and early-modern Britain and Ireland and in twentieth-century North America.",
+      "summary": "All Saints and All Souls are Christian commemorations of the dead whose November dates were fixed in the eighth to tenth centuries. Whether the choice of 1 November had anything to do with the Gaelic Samhain is debated, and the notion of Halloween as an ancient Celtic 'festival of the dead' is largely a modern construction.",
+      "story": "Commemorating all martyrs together was an Eastern custom before it was a Western one. Syriac sources and Ephrem's circle knew a feast of all martyrs in the Easter season. John Chrysostom preached on 'all the martyrs of the whole world' on the Sunday after Pentecost, still the Orthodox Sunday of All Saints. In Rome, Pope Boniface IV received the Pantheon from the emperor Phocas and on 13 May 609 or 610 dedicated it to St Mary and all martyrs (Santa Maria ad Martyres). It is one of the clearest cases of a temple becoming a church.\n\nThe 1 November date appears in the eighth century. The Liber Pontificalis records that Gregory III (731–41) built an oratory in St Peter's for the relics 'of all the saints'. Its anniversary may have been 1 November. Around 800 Alcuin wrote of a 1 November feast of all saints kept in Frankish and English circles. In 835 Gregory IV persuaded Louis the Pious to proclaim it throughout the Frankish realm. Meanwhile the Irish Félire Óengusso (c.800) commemorated all the saints of Europe on 20 April. That is one reason Hutton suggests the November date may have come from Germanic Europe rather than Ireland.\n\nAll Souls was a monastic innovation. Abbot Odilo of Cluny (c.998) ordered his houses to pray for all the faithful departed on 2 November, the day after All Saints. Rome adopted the observance by the thirteenth century. With the growth of purgatory doctrine, All Hallows' Eve, All Saints and All Souls (Hallowtide) became a season of bell-ringing, candles and prayers for the dead. Later the poor went 'souling' for soul-cakes in return for prayers.\n\nThe Reformation broke much of this up. Protestant reformers abolished prayers for the dead and All Souls, though Anglicans and Lutherans kept All Saints. In Protestant England some customs were transferred to Guy Fawkes Night (5 November). In Ireland and Highland Scotland, Samhain/Halloween folklore survived, including divination, guising and turnip lanterns. Antiquarians such as Rhŷs and Frazer then interpreted these customs as pagan relics. Irish and Scottish emigrants took Halloween to North America, where trick-or-treating and pumpkin jack-o'-lanterns became standard in the 1920s–50s.\n\nToday Catholics and Anglicans keep All Saints and All Souls. The Orthodox commemorate the departed on 'soul Saturdays' and All Saints after Pentecost. Lutherans and many Protestants observe Reformation Day on 31 October. Some evangelical and Pentecostal groups reject Halloween as occult or pagan. Modern Pagans revived Samhain as a festival of the dead, partly on the basis of Frazer's theories.",
+      "howItHappened": [
+        "Eastern churches commemorated all martyrs on a single day in the Easter season (Edessa, Antioch, Constantinople).",
+        "Boniface IV dedicated the Pantheon to Mary and all martyrs (609/610).",
+        "Gregory III's oratory 'of all saints' in St Peter's and Anglo-Frankish usage (c.800) fixed 1 November.",
+        "Louis the Pious, at Gregory IV's request, extended the feast through the Frankish empire (835).",
+        "Odilo of Cluny added All Souls on 2 November (c.998), and late-medieval and early-modern folk customs grew around All Hallows' Eve."
+      ],
+      "examples": [
+        "Santa Maria ad Martyres (the Pantheon), dedicated 609/610.",
+        "The Irish Félire Óengusso keeps all saints on 20 April, evidence against an Irish origin of 1 November.",
+        "Odilo of Cluny's decree establishing All Souls (c.998).",
+        "Soul-cakes and 'souling' in late-medieval and early-modern England.",
+        "Turnip lanterns in Ireland and Scotland, pumpkin jack-o'-lanterns in nineteenth-century America."
+      ],
+      "defenders": [
+        {
+          "name": "John Chrysostom",
+          "personId": "john-chrysostom",
+          "fatherId": "john-chrysostom",
+          "text": "Preached the earliest surviving sermon on all the martyrs together, the root of the Orthodox All Saints Sunday."
+        },
+        {
+          "name": "Gregory the Great",
+          "personId": "gregory-the-great",
+          "fatherId": "gregory-the-great",
+          "text": "His policy of adapting pagan sites and festivals (601) is often cited, though without direct evidence, as the model for a Christian Samhain."
+        }
+      ],
+      "critics": [
+        {
+          "name": "Protestant Reformers",
+          "personId": "martin-luther",
+          "text": "Rejected prayers for the dead and purgatory, abolishing All Souls in most Protestant churches. Luther's Ninety-Five Theses were posted on All Hallows' Eve 1517."
+        },
+        {
+          "name": "Some modern evangelical and Pentecostal churches",
+          "text": "Reject Halloween as pagan or occult and hold 'harvest' or 'light' parties instead."
+        }
+      ],
+      "keptBy": [
+        "Catholic Church (All Saints 1 November, All Souls 2 November)",
+        "Anglican and Lutheran churches (All Saints, often All Souls in Anglo-Catholic parishes)",
+        "Orthodox churches (All Saints on the Sunday after Pentecost and memorial Saturdays for the departed)"
+      ],
+      "rejectedBy": [
+        "Reformed and most evangelical Protestants (All Souls and prayers for the dead)",
+        "Some evangelical, Pentecostal and Jehovah's Witness communities (Halloween)"
+      ],
+      "calendar": {
+        "month": 11,
+        "day": 1,
+        "christian": "All Saints (1 November); All Souls (2 November); All Hallows' Eve (31 October)",
+        "pagan": "Samhain, the Gaelic start-of-winter assembly"
+      },
+      "fatherIds": [
+        "john-chrysostom",
+        "gregory-the-great",
+        "ephrem-the-syrian"
+      ],
+      "traditionIds": [
+        "catholic",
+        "anglican",
+        "lutheran",
+        "eastern-orthodox",
+        "reformed",
+        "evangelical",
+        "pentecostal"
+      ],
+      "relatedIds": [
+        "temples-to-churches",
+        "saints-and-local-gods",
+        "relics-and-pilgrimage",
+        "christmas-customs",
+        "holy-wells-sacred-places",
+        "amulets-charms-folk-magic"
+      ],
+      "sources": [
+        "p1-hutton-stations-of-the-sun",
+        "p1-rogers-halloween",
+        "brown-cult-saints",
+        "p1-liber-pontificalis",
+        "p1-frazer-golden-bough",
+        "odcc"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "candlemas-lupercalia",
+      "name": "Candlemas, Lupercalia and Rogation days",
+      "category": "calendar-festivals",
+      "sourceTradition": "roman-religion",
+      "sourceCulture": "February purification rites and the Lupercalia (15 February), and the Robigalia procession against crop blight (25 April)",
+      "christianForm": "Candlemas (Presentation of Christ / Purification of Mary, 2 February) with candle procession, and the Major and Minor Rogations",
+      "startYear": 494,
+      "place": {
+        "name": "Rome",
+        "lat": 41.9028,
+        "lng": 12.4964
+      },
+      "evidence": "disputed",
+      "evidenceNote": "Candlemas originated in fourth-century Jerusalem as the fortieth day after Christ's birth (Luke 2:22–38), which is not a pagan source. The claim that it replaced the Lupercalia has no direct evidence. Gelasius I suppressed the Lupercalia c.495, but the Roman feast of 2 February with its procession is attested only under Sergius I (687–701). However, Bede (De temporum ratione 12) explicitly says Christians turned February's pagan lustral processions into the candlelit procession of St Mary. The Roman Major Litany of 25 April falls on the date of the Robigalia and is widely regarded as a probable Christian replacement. That part is plausible.",
+      "popularClaim": "Candlemas is the Lupercalia (or the Celtic Imbolc) in Christian dress, and Valentine's Day and Rogation processions are pagan rites renamed.",
+      "whatHistoriansSay": "Egeria (c.383) describes the 'fortieth day after Epiphany' (14 February) in Jerusalem. Justinian moved it to 2 February in Constantinople in 542 as the Hypapante or 'Meeting', and Rome adopted it with a procession under Sergius I. The feast is therefore biblical and Eastern in origin. Gelasius' letter against the senator Andromachus shows that the Lupercalia survived in Christian Rome until c.495, and that a pope attacked rather than baptised it. Bede is the main early witness for a deliberate substitution, interpreting the candlelit procession as a Christian purification in place of pagan February rites. For the Rogations, Mamertus of Vienne (c.470) instituted three days of penitential processions before Ascension after disasters. The separate Roman Major Litany on 25 April followed a route along the Via Flaminia comparable to the Robigalia procession on the same date, and many liturgists from Duchesne onwards accept a replacement. The supposed Imbolc–Brigid–Candlemas link rests mostly on modern speculation.",
+      "summary": "Candlemas is a biblical feast from Jerusalem, not a renamed Lupercalia, though medieval writers like Bede saw its candle procession as replacing pagan February purifications. The Roman Major Rogation on 25 April probably did take the place of the Robigalia procession for the crops.",
+      "story": "Luke's Gospel tells how Mary and Joseph brought the infant Jesus to the Temple forty days after his birth, where Simeon hailed him as 'a light to lighten the Gentiles' (Luke 2:22–38). The pilgrim Egeria saw this 'fortieth day' kept 'with the greatest joy' in Jerusalem around 383. In Constantinople, Justinian fixed it on 2 February in 542, during a plague, and the Greeks called it Hypapante, the Meeting of the Lord with Simeon. Rome received it in the seventh century. The Liber Pontificalis records that Sergius I (687–701) ordered processions from St Hadrian's to St Mary Major on four Marian feasts, including this one.\n\nRome's own February had been a month of purification (februa). Its most famous rite, the Lupercalia on 15 February, saw young men run around the Palatine striking bystanders with goatskin thongs for fertility and cleansing. The rite survived Christianisation for a century. Around 495 Pope Gelasius I wrote a letter against the senator Andromachus and his supporters, who blamed misfortunes on its neglect. Gelasius mocked the custom and insisted Christians abandon it. There is no record that a Christian feast was put in its place, and the Lupercalia's date does not match Candlemas.\n\nBede saw a connection all the same. In The Reckoning of Time (725) he says February takes its name from the Roman purifications, and that 'the Christian religion has changed this custom of purification for the better'. He means the candlelit procession on the feast of the Purification of St Mary. Blessing candles, from which the English name Candlemas comes, is attested in Gaul and England from about the tenth century. Medieval and early-modern folklore gave the day weather lore, the ancestor of America's Groundhog Day. The claimed link with Imbolc and St Brigid (1 February) comes mostly from modern writers.\n\nThe Rogations show the case for substitution more clearly. Mamertus, bishop of Vienne, instituted three days of fasting processions before Ascension c.470 after earthquakes and fires (Sidonius Apollinaris, Letters 5.14). The Council of Orléans (511) extended them across Gaul. Rome had a separate Litania maior on 25 April, the same day as the Robigalia, when Romans processed out of the city to sacrifice a dog to Robigus to keep rust off the grain. The Christian litany also processed out and back across the Milvian Bridge to pray for the crops. Most scholars take this as a deliberate Christian replacement, consistent with Gregory the Great's later advice to transform rather than abolish.\n\nRogation 'beating the bounds' processions survived in English parishes after the Reformation, with Elizabethan injunctions retaining perambulation of boundaries. Puritans attacked them as superstitious, and the 1970 Roman calendar left Rogation days to bishops' conferences. Candlemas remains a major feast in Catholic, Orthodox and Anglican calendars, closing the forty days of the Christmas cycle.",
+      "howItHappened": [
+        "Jerusalem kept the fortieth day after Epiphany as the Presentation by c.383 (Egeria).",
+        "Gelasius I attacked the persisting Lupercalia c.495, condemning it rather than adapting it.",
+        "Justinian set the Hypapante on 2 February (542), and Sergius I gave it a Roman procession (late seventh century).",
+        "Bede interpreted the Candlemas procession as a Christian replacement for pagan February lustrations (725).",
+        "The Roman Major Litany (25 April) replaced the Robigalia crop procession, and Mamertus' Gallic Rogations (c.470) spread through the West."
+      ],
+      "examples": [
+        "Egeria, Itinerarium 26: the fortieth day after Epiphany in Jerusalem.",
+        "Gelasius I, letter Adversus Andromachum against the Lupercalia (c.495).",
+        "Liber Pontificalis on Sergius I's Marian processions.",
+        "Bede, De temporum ratione 12, on February purifications and Candlemas.",
+        "English parish 'beating the bounds' on Rogation days."
+      ],
+      "defenders": [
+        {
+          "name": "Bede",
+          "fatherId": "bede",
+          "text": "Approved the substitution of a Christian candle procession for pagan February purifications ('changed for the better')."
+        },
+        {
+          "name": "Gregory the Great",
+          "personId": "gregory-the-great",
+          "fatherId": "gregory-the-great",
+          "text": "Organised great penitential litanies in plague-stricken Rome (590). His policy of transforming pagan customs informed later readings of the Rogations."
+        }
+      ],
+      "critics": [
+        {
+          "name": "Pope Gelasius I",
+          "personId": "gelasius-i",
+          "text": "Insisted c.495 that Christians abandon the Lupercalia altogether, refusing any accommodation with the rite."
+        },
+        {
+          "name": "Puritans and Reformed critics",
+          "text": "Attacked candle blessings and Rogation processions as 'popish' or heathen survivals. Candlemas lights were abolished in England in 1548."
+        }
+      ],
+      "keptBy": [
+        "Catholic Church (Presentation of the Lord, 2 February, with blessing of candles)",
+        "Eastern Orthodox and Oriental churches (Hypapante / Meeting of the Lord)",
+        "Anglican and Lutheran calendars (Presentation; Rogation Sunday in some places)"
+      ],
+      "rejectedBy": [
+        "Reformed and Puritan churches (candle ceremonies and processions)",
+        "Most Free Church and evangelical Protestants (no fixed feast)"
+      ],
+      "calendar": {
+        "month": 2,
+        "day": 2,
+        "christian": "Candlemas / Presentation of Christ; Major Rogation 25 April",
+        "pagan": "February purifications, Lupercalia (15 February), Robigalia (25 April)"
+      },
+      "fatherIds": [
+        "bede",
+        "gregory-the-great"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-orthodox",
+        "anglican",
+        "church-of-england",
+        "lutheran",
+        "reformed"
+      ],
+      "relatedIds": [
+        "incense-candles-processions",
+        "temples-to-churches",
+        "christmas-date",
+        "midsummer-st-john",
+        "holy-wells-sacred-places"
+      ],
+      "sources": [
+        "p1-egeria-travels",
+        "p1-liber-pontificalis",
+        "p1-bede-reckoning-of-time",
+        "p1-hutton-stations-of-the-sun",
+        "p1-bradshaw-johnson-feasts",
+        "odcc"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "midsummer-st-john",
+      "name": "St John's Eve and midsummer fires",
+      "category": "calendar-festivals",
+      "sourceTradition": "folk-religion",
+      "sourceCulture": "Summer-solstice customs: bathing, bonfires, herbs and divination (later Slavic Kupala and Baltic Jāņi)",
+      "christianForm": "The Nativity of John the Baptist (24 June) and the bonfires, bathing and herb-gathering of St John's Eve",
+      "startYear": 400,
+      "place": {
+        "name": "Hippo Regius",
+        "lat": 36.8833,
+        "lng": 7.75
+      },
+      "evidence": "plausible",
+      "evidenceNote": "The feast's date is Christian in origin. It is calculated six months before Christmas from Luke 1:26–36, and Augustine connected it with John 3:30 ('He must increase, I must decrease'). Pre-Christian solstice customs attached to it are attested early. Augustine (Sermon 196.4) and Caesarius of Arles (Sermon 33.4) condemned pagan bathing on John's day, and canon 65 of the Council in Trullo (692) banned leaping over fires. The great midsummer bonfires, however, are first clearly described in the twelfth century (Johannes Beleth). Whether they continue pre-Christian solstice fires is likely but not proven.",
+      "popularClaim": "St John's Day is simply the pagan summer solstice festival, with its bonfires, renamed after John the Baptist.",
+      "whatHistoriansSay": "Liturgists agree the date of 24 June derives from the date of Christmas, since Luke places John's birth six months before Jesus'. They also agree that Christian writers noticed the solar symbolism: John was born as the days begin to shorten, Christ as they lengthen. Late-antique bishops in North Africa and Gaul show that solstice bathing and festivities clung to the day. Ronald Hutton notes that the great medieval and early-modern bonfires are first documented by twelfth-century liturgists, who explained them as Christian symbols. Nineteenth-century folklorists such as Frazer read them as sun charms. So the adoption of a solstice festival-time is plausible, while specific rites are of uncertain antiquity.",
+      "summary": "The feast of John the Baptist's birth on 24 June was set six months before Christmas, but it fell at midsummer. It drew solstice bathing, fires and herb customs which bishops from Augustine onward tried to suppress or reinterpret.",
+      "story": "John the Baptist is the only saint other than Mary whose birth, rather than death, the church celebrates. According to Luke, Elizabeth was six months pregnant at the Annunciation. Once Christmas was fixed on 25 December, John's nativity naturally fell on 24 June. Augustine saw meaning in the timing. John was born when the days begin to shorten and Christ when they begin to lengthen, fulfilling John's words, 'He must increase, but I must decrease' (John 3:30). Augustine was writing in North Africa around 400, and he also complained that on John's feast Christians imitated a 'pagan superstition' by bathing in the sea (Sermon 196.4).\n\nCaesarius of Arles, in sixth-century Provence, likewise denounced people who bathed in springs, rivers and the sea at night on the feast of John (Sermon 33.4). Bishop Eligius of Noyon (d.660) is reported in his Life to have forbidden solstice dances and songs. The Council in Trullo (692), canon 65, banned the custom of leaping over fires lit before houses at the new moon. The canon does not name John's day, but it shows that fire rites troubled the church.\n\nThe classic midsummer bonfire is first clearly recorded in the twelfth century. The Paris liturgist Johannes Beleth (c.1160) and later William Durandus (1286) described bones and refuse burned on St John's Eve and wheels rolled downhill. They offered Christian explanations, such as recalling the burning of John's bones by the emperor Julian. In the late Middle Ages and early modern period, towns across Europe lit 'bonefires', gathered St John's wort and other herbs, and practised divination about love and harvest on that night.\n\nIn Eastern Europe the feast merged with the Slavic Kupala. The Russian Orthodox chronicle tradition and later church councils, such as the Stoglav Council of 1551, condemned bathing, fires and night-time games on Ivan Kupala. Latvian Jāņi and Lithuanian Joninės preserve the Baptist's name for national midsummer festivals. Some Protestant reformers abolished the saints' feasts, but bonfires often continued as civic customs. Puritans and Scottish kirk sessions disciplined participants in midsummer fires as superstitious.\n\nModern historians take a cautious middle position. The feast is Christian in origin and meaning, and its date is the result of the Christmas calculation. But it landed at the solstice and absorbed seasonal customs whose roots are probably pre-Christian. The bonfires and herb lore are documented mostly from medieval and early-modern sources. Frazer's idea that they are surviving 'sun charms' is a hypothesis rather than a demonstrated fact.",
+      "howItHappened": [
+        "With Christmas on 25 December, Luke's six-month interval placed John's nativity on 24 June.",
+        "Augustine and others interpreted the solstice timing through John 3:30.",
+        "Popular solstice bathing and festivities attached themselves to the feast and were condemned by bishops (Augustine, Caesarius, Eligius).",
+        "Medieval towns developed St John's Eve bonfires, which liturgists explained in Christian terms (twelfth century onwards).",
+        "In Slavic and Baltic lands the feast fused with Kupala and Jāņi midsummer traditions."
+      ],
+      "examples": [
+        "Augustine, Sermon 196.4: Christians bathing in the sea on John's feast.",
+        "Caesarius of Arles, Sermon 33.4: night-time bathing in springs and rivers condemned.",
+        "Council in Trullo (692), canon 65: ban on leaping over fires.",
+        "Johannes Beleth (c.1160) on St John's Eve bonfires.",
+        "Ivan Kupala in Russia and Ukraine; Jāņi in Latvia; Sankthansaften in Scandinavia."
+      ],
+      "defenders": [
+        {
+          "name": "Augustine of Hippo",
+          "personId": "augustine-of-hippo",
+          "fatherId": "augustine-of-hippo-father",
+          "text": "Gave the solstice a Christian meaning: the forerunner decreases with the light as Christ increases (John 3:30)."
+        },
+        {
+          "name": "Medieval liturgists (Johannes Beleth, Durandus)",
+          "text": "Explained the bonfires and wheels as Christian symbols of John as 'a burning and shining lamp' (John 5:35)."
+        }
+      ],
+      "critics": [
+        {
+          "name": "Augustine of Hippo",
+          "personId": "augustine-of-hippo",
+          "fatherId": "augustine-of-hippo-father",
+          "text": "Condemned solstice sea-bathing on John's day as a pagan superstition."
+        },
+        {
+          "name": "Caesarius of Arles",
+          "text": "Preached against night-time bathing and pagan festivities on the feast of John in sixth-century Gaul."
+        },
+        {
+          "name": "The Stoglav Council (Moscow, 1551)",
+          "text": "Condemned Kupala-night bonfires, bathing and revelry among Russian Orthodox believers."
+        }
+      ],
+      "keptBy": [
+        "Catholic, Orthodox and Anglican churches (Nativity of St John the Baptist, 24 June)",
+        "Lutheran Scandinavia and the Baltic states as national midsummer holidays",
+        "Quebec (Saint-Jean-Baptiste, Fête nationale)"
+      ],
+      "rejectedBy": [
+        "Reformed and Puritan churches (saints' days and bonfires)",
+        "Many evangelical and Free Churches, which keep no saints' days"
+      ],
+      "calendar": {
+        "month": 6,
+        "day": 24,
+        "christian": "Nativity of John the Baptist; St John's Eve (23 June)",
+        "pagan": "Summer solstice customs; Slavic Kupala"
+      },
+      "fatherIds": [
+        "augustine-of-hippo-father"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-orthodox",
+        "russian-orthodox",
+        "lutheran",
+        "church-of-sweden",
+        "reformed"
+      ],
+      "relatedIds": [
+        "christmas-date",
+        "holy-wells-sacred-places",
+        "christmas-customs",
+        "amulets-charms-folk-magic",
+        "candlemas-lupercalia"
+      ],
+      "sources": [
+        "p1-hutton-stations-of-the-sun",
+        "talley-liturgical-year",
+        "p1-frazer-golden-bough",
+        "p1-blackburn-companion-year",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "week-and-calendar",
+      "name": "The Julian calendar, the planetary week and Anno Domini",
+      "category": "calendar-festivals",
+      "sourceTradition": "roman-state",
+      "sourceCulture": "Julius Caesar's solar calendar (45 BC), Roman month names and the astrological planetary week",
+      "christianForm": "The church year computed on the Julian (later Gregorian) calendar, weekday and month names kept or renamed, and years counted Anno Domini",
+      "startYear": -45,
+      "place": {
+        "name": "Rome",
+        "lat": 41.9028,
+        "lng": 12.4964
+      },
+      "evidence": "strong",
+      "evidenceNote": "This borrowing is beyond dispute. The Christian West and East adopted the Roman civil calendar of Julius Caesar, including month names honouring Janus, Mars, Julius and Augustus. They also adopted the planetary week, whose day names in English honour Saturn, the Sun, the Moon, and Tiw, Woden, Thunor and Frige. Christians modified rather than replaced this system. They added the Jewish-Christian seven-day framework, renamed days in Greek, Latin and Portuguese usage, created the Easter computus, and introduced Anno Domini dating (Dionysius Exiguus, 525; popularised by Bede).",
+      "popularClaim": "Our calendar is pagan, with days and months named after gods, and the church either invented the calendar or was too compromised to change it.",
+      "whatHistoriansSay": "The calendar is a clear example of Christianity absorbing a civic form without importing pagan belief. Julius Caesar's reform, advised by the astronomer Sosigenes, took effect in 45 BC. The planetary week fused the Jewish seven-day cycle with Hellenistic astrology and was widespread by the second century. Christians kept the Roman months but used ecclesiastical numbering of days in the liturgy (feria secunda for Monday and so on). Martin of Braga (c.574) urged Christians not to name days after 'demons', which is why Portuguese still says segunda-feira. Anno Domini was devised by the monk Dionysius Exiguus in 525 for his Easter tables. Bede's Ecclesiastical History (731) spread it, and he also dated events 'before the incarnation'. Gregory XIII's reform of 1582 corrected the Julian drift but was resisted by Protestant and Orthodox states.",
+      "summary": "Christians inherited the Roman civil calendar and the astrological planetary week, along with their pagan month and day names. They overlaid them with the Easter computus, liturgical numbering of days and the Anno Domini era, a strongly attested case of adapting a civic form.",
+      "story": "Julius Caesar's calendar reform of 46–45 BC replaced the chaotic Roman lunar-solar calendar with a 365-day year and a leap day every fourth year. Its months kept their old names: Ianuarius for Janus, Martius for Mars, Maius and Iunius perhaps for Maia and Juno, and the renamed Iulius and Augustus for the dictator and his heir. Christianity grew up inside this system. When bishops calculated Easter, dated councils or recorded martyrs' feasts, they used Julian dates. They also used the Roman way of counting days back from the Kalends, Nones and Ides, as in 'VIII kal. Ian.' for 25 December.\n\nThe seven-day week reached Rome from two directions. One was the Jewish Sabbath cycle, carried by diaspora synagogues and then by Christians. The other was Hellenistic astrology, which assigned each hour to one of the seven 'planets' and named each day after the planet ruling its first hour. Pompeian graffiti and Cassius Dio (37.18) show this planetary week spreading in the first and second centuries. The Christian Lord's Day thus fell on the day of the Sun and the Jewish Sabbath on Saturn's day. In Germanic languages the gods were translated: Mars into Tiw (Tuesday), Mercury into Woden (Wednesday), Jupiter into Thunor (Thursday), Venus into Frige (Friday).\n\nSome Christians objected. The Latin liturgy numbered the weekdays as feriae, from Sunday as dies dominica through feria secunda to feria sexta, with Saturday as sabbatum. Martin of Braga, in his sermon De correctione rusticorum (c.574), denounced naming days after Mars, Mercury, Jupiter and Venus, 'who were wicked people'. Portuguese alone among major European languages adopted the ecclesiastical numbering. Charlemagne tried to give the months Frankish names (Einhard, Life of Charlemagne 29), and Quakers from the 1650s spoke of 'First Day' and 'First Month' to avoid heathen names. Most churches, however, regarded the names as harmless.\n\nThe Christian era itself came from Easter tables. In 525 Dionysius Exiguus, a Scythian monk in Rome, extended Cyril of Alexandria's Easter cycle. He replaced the era of Diocletian, a persecutor, with years counted 'from the incarnation of our Lord Jesus Christ'. Bede adopted these anni Domini in his Reckoning of Time (725) and Ecclesiastical History (731). He also counted backwards 'before the time of the Lord's incarnation', and through Carolingian scholarship AD dating became standard across Latin Europe. The modern 'Common Era' (CE/BCE) keeps the same numbering.\n\nThe Julian year was about 11 minutes too long, so by the sixteenth century the equinox had drifted ten days. Gregory XIII's bull Inter gravissimas (1582), based on the work of Aloysius Lilius and Christopher Clavius, dropped ten days and refined the leap-year rule. Catholic countries adopted it at once. Protestant states followed between 1700 and 1752 (Britain), and most Orthodox countries changed their civil calendars only after 1917–23. Many Orthodox churches still compute Pascha on the Julian calendar, and Jerusalem, Russia, Serbia and Mount Athos keep the old calendar for fixed feasts too. A Roman pagan civic calendar thus became one of the main sources of division between Christian traditions.",
+      "howItHappened": [
+        "Julius Caesar's solar calendar (45 BC) became the civil framework of the Roman world in which the church grew.",
+        "The planetary week spread across the empire and merged with the Jewish-Christian seven-day cycle.",
+        "The church overlaid Roman dating with an Easter computus (Nicaea 325; Alexandrian tables; Dionysius Exiguus).",
+        "Dionysius Exiguus introduced Anno Domini (525), and Bede made it standard in the West (725–731).",
+        "Gregory XIII's reform (1582) created the Gregorian calendar. Orthodox churches kept the Julian Paschalion."
+      ],
+      "examples": [
+        "Month names honouring Janus, Mars, Juno, Julius Caesar and Augustus.",
+        "English Tuesday–Friday named after Germanic gods equated with Mars, Mercury, Jupiter and Venus.",
+        "Portuguese segunda-feira, terça-feira: the church's ferial numbering kept in a vernacular.",
+        "Bede's Ecclesiastical History (731), the first major history dated Anno Domini.",
+        "Gregory XIII's bull Inter gravissimas (1582); the Orthodox Julian Paschalion."
+      ],
+      "defenders": [
+        {
+          "name": "Bede",
+          "fatherId": "bede",
+          "text": "Mastered Roman and Anglo-Saxon time-reckoning, explained the pagan month names and spread Anno Domini dating."
+        },
+        {
+          "name": "Eusebius of Caesarea",
+          "personId": "eusebius-of-caesarea",
+          "fatherId": "eusebius-of-caesarea",
+          "text": "Built Christian chronology on the Roman, Greek and Jewish systems in his Chronicle, laying the basis for a Christian world history."
+        },
+        {
+          "name": "Isidore of Seville",
+          "fatherId": "isidore-of-seville",
+          "text": "Explained Roman month and day names and their pagan origins in his Etymologies (5.30–33) as useful knowledge for Christians."
+        }
+      ],
+      "critics": [
+        {
+          "name": "Martin of Braga",
+          "text": "In De correctione rusticorum (c.574) condemned naming days after pagan gods and urged ecclesiastical numbering."
+        },
+        {
+          "name": "Quakers (Religious Society of Friends)",
+          "text": "From the 1650s refused 'heathen' day and month names, using 'First Day' and 'First Month' instead."
+        },
+        {
+          "name": "Old Calendarist Orthodox",
+          "text": "Reject the Revised Julian (1923) and Gregorian calendars as innovations, keeping the Julian calendar for all feasts."
+        }
+      ],
+      "keptBy": [
+        "All mainstream churches (Roman month names and the planetary week in civil use)",
+        "Catholic and Protestant churches on the Gregorian calendar",
+        "Orthodox churches on the Julian Paschalion (and some on the full Julian calendar)"
+      ],
+      "rejectedBy": [
+        "Quakers (traditional plain speech for days and months)",
+        "Portuguese and liturgical Latin usage (pagan weekday names)"
+      ],
+      "fatherIds": [
+        "bede",
+        "eusebius-of-caesarea",
+        "isidore-of-seville"
+      ],
+      "traditionIds": [
+        "catholic",
+        "eastern-orthodox",
+        "russian-orthodox",
+        "quaker",
+        "anglican",
+        "old-believers"
+      ],
+      "relatedIds": [
+        "sunday-day-of-the-sun",
+        "christmas-date",
+        "easter-name-and-eostre",
+        "latin-greek-language",
+        "roman-law-canon-law"
+      ],
+      "sources": [
+        "p1-blackburn-companion-year",
+        "p1-zerubavel-seven-day-circle",
+        "p1-bede-reckoning-of-time",
+        "p1-salzman-on-roman-time",
+        "bede-ecclesiastical-history",
+        "odcc"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "sources": [
+    {
+      "id": "p1-hutton-stations-of-the-sun",
+      "title": "The Stations of the Sun: A History of the Ritual Year in Britain",
+      "author": "Ronald Hutton",
+      "year": 1996,
+      "kind": "secondary"
+    },
+    {
+      "id": "p1-hijmans-sol",
+      "title": "Sol: The Sun in the Art and Religions of Rome",
+      "author": "Steven E. Hijmans",
+      "year": 2009,
+      "kind": "secondary",
+      "note": "PhD dissertation, University of Groningen; see also his 'Sol Invictus, the Winter Solstice, and the Origins of Christmas', Mouseion 3 (2003)."
+    },
+    {
+      "id": "p1-nothaft-christmas-date",
+      "title": "The Origins of the Christmas Date: Some Recent Trends in Historical Research",
+      "author": "C. Philipp E. Nothaft",
+      "year": 2012,
+      "kind": "secondary",
+      "note": "Church History 81.4 (2012): 903–911."
+    },
+    {
+      "id": "p1-roll-origins-christmas",
+      "title": "Toward the Origins of Christmas",
+      "author": "Susan K. Roll",
+      "year": 1995,
+      "kind": "secondary"
+    },
+    {
+      "id": "p1-bradshaw-johnson-feasts",
+      "title": "The Origins of Feasts, Fasts and Seasons in Early Christianity",
+      "author": "Paul F. Bradshaw and Maxwell E. Johnson",
+      "year": 2011,
+      "kind": "secondary"
+    },
+    {
+      "id": "p1-bede-reckoning-of-time",
+      "title": "The Reckoning of Time (De temporum ratione)",
+      "author": "Bede, trans. Faith Wallis",
+      "year": 725,
+      "kind": "primary",
+      "note": "English translation with commentary, Liverpool University Press, 1999."
+    },
+    {
+      "id": "p1-salzman-on-roman-time",
+      "title": "On Roman Time: The Codex-Calendar of 354 and the Rhythms of Urban Life in Late Antiquity",
+      "author": "Michele Renee Salzman",
+      "year": 1990,
+      "kind": "secondary"
+    },
+    {
+      "id": "p1-forbes-christmas",
+      "title": "Christmas: A Candid History",
+      "author": "Bruce David Forbes",
+      "year": 2007,
+      "kind": "secondary"
+    },
+    {
+      "id": "p1-nissenbaum-battle-for-christmas",
+      "title": "The Battle for Christmas",
+      "author": "Stephen Nissenbaum",
+      "year": 1996,
+      "kind": "secondary"
+    },
+    {
+      "id": "p1-jones-saint-nicholas",
+      "title": "Saint Nicholas of Myra, Bari, and Manhattan: Biography of a Legend",
+      "author": "Charles W. Jones",
+      "year": 1978,
+      "kind": "secondary"
+    },
+    {
+      "id": "p1-miles-christmas-ritual",
+      "title": "Christmas in Ritual and Tradition, Christian and Pagan",
+      "author": "Clement A. Miles",
+      "year": 1912,
+      "kind": "secondary"
+    },
+    {
+      "id": "p1-rogers-halloween",
+      "title": "Halloween: From Pagan Ritual to Party Night",
+      "author": "Nicholas Rogers",
+      "year": 2002,
+      "kind": "secondary"
+    },
+    {
+      "id": "p1-shaw-pagan-goddesses",
+      "title": "Pagan Goddesses in the Early Germanic World: Eostre, Hreda and the Cult of Matrons",
+      "author": "Philip A. Shaw",
+      "year": 2011,
+      "kind": "secondary"
+    },
+    {
+      "id": "p1-hislop-two-babylons",
+      "title": "The Two Babylons; or, the Papal Worship Proved to Be the Worship of Nimrod and His Wife",
+      "author": "Alexander Hislop",
+      "year": 1853,
+      "kind": "primary",
+      "note": "Anti-Catholic tract; cited as the source of popular pagan-origin claims, not as reliable history."
+    },
+    {
+      "id": "p1-carson-sabbath-lords-day",
+      "title": "From Sabbath to Lord's Day: A Biblical, Historical, and Theological Investigation",
+      "author": "D. A. Carson (ed.)",
+      "year": 1982,
+      "kind": "secondary"
+    },
+    {
+      "id": "p1-bacchiocchi-sabbath-sunday",
+      "title": "From Sabbath to Sunday: A Historical Investigation of the Rise of Sunday Observance in Early Christianity",
+      "author": "Samuele Bacchiocchi",
+      "year": 1977,
+      "kind": "secondary"
+    },
+    {
+      "id": "p1-zerubavel-seven-day-circle",
+      "title": "The Seven Day Circle: The History and Meaning of the Week",
+      "author": "Eviatar Zerubavel",
+      "year": 1985,
+      "kind": "secondary"
+    },
+    {
+      "id": "p1-codex-theodosianus",
+      "title": "The Theodosian Code and Novels, and the Sirmondian Constitutions",
+      "author": "trans. Clyde Pharr",
+      "year": 1952,
+      "kind": "primary",
+      "note": "Includes CTh 2.8.1 (321). Constantine's Sunday law of 7 March 321 is preserved in Codex Justinianus 3.12.2."
+    },
+    {
+      "id": "p1-blackburn-companion-year",
+      "title": "The Oxford Companion to the Year",
+      "author": "Bonnie Blackburn and Leofranc Holford-Strevens",
+      "year": 1999,
+      "kind": "reference"
+    },
+    {
+      "id": "p1-egeria-travels",
+      "title": "Egeria's Travels",
+      "author": "Egeria, trans. John Wilkinson",
+      "year": 1999,
+      "kind": "primary",
+      "note": "Third edition; pilgrimage account of c.381–384."
+    },
+    {
+      "id": "p1-liber-pontificalis",
+      "title": "The Book of Pontiffs (Liber Pontificalis)",
+      "author": "trans. Raymond Davis",
+      "year": 2010,
+      "kind": "primary",
+      "note": "Third revised edition, Liverpool University Press."
+    },
+    {
+      "id": "p1-frazer-golden-bough",
+      "title": "The Golden Bough: A Study in Magic and Religion",
+      "author": "James George Frazer",
+      "year": 1922,
+      "kind": "primary",
+      "note": "Abridged edition; first published 1890. Influential source of 'pagan survival' theories, now largely superseded."
+    }
+  ]
+}

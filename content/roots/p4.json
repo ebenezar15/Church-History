@@ -1,0 +1,547 @@
+{
+  "influences": [
+    {
+      "id": "incense-candles-processions",
+      "name": "Incense, candles, lamps and processions",
+      "category": "worship-practice",
+      "sourceTradition": "roman-state",
+      "sourceCulture": "Incense offerings, lamps and torches carried before magistrates and emperors, and civic and agrarian processions",
+      "christianForm": "Liturgical censing, altar and processional lights, votive candles and litanies through the streets",
+      "startYear": 380,
+      "place": { "name": "Jerusalem (Church of the Anastasis)", "lat": 31.7784, "lng": 35.2298 },
+      "evidence": "plausible",
+      "evidenceNote": "The ceremonial use of lights and incense as marks of honour before a dignitary is well documented in late Roman court practice and plainly shaped papal and episcopal ritual. But incense and lamps also had deep Jewish and biblical roots, practical lamps were used from the start, and the earliest Christians explicitly refused pagan incense offerings. The result is a convergence rather than a simple borrowing.",
+      "popularClaim": "Catholic and Orthodox incense, candles and processions are pagan temple rituals carried straight into the church.",
+      "whatHistoriansSay": "For the first three centuries Christians rejected incense precisely because burning it before an image of the emperor or the gods was the test of apostasy (Pliny, Letters 10.96; the Decian libelli of 250). Incense enters Christian worship only after Constantine, first attested at the Jerusalem Anastasis by Egeria in the 380s, and it was justified from the Temple (Exodus 30), Malachi 1:11 and Revelation 5:8 and 8:3–4. Lamps were first practical (Acts 20:8) and then symbolic in the evening lucernarium, which echoed Jewish lamp-lighting blessings. What does come from the Roman state is the ceremonial of honour: lights and incense carried before high officials and the emperor were transferred to bishops and to the Gospel book, as Ordo Romanus I (c. 700) shows. Processions drew on both Roman civic pageantry and Jewish and biblical precedent, and in some cases (the Major Litany of 25 April) they replaced specific pagan rites.",
+      "summary": "Early Christians refused incense as an act of idolatry, but from the late fourth century incense, candles and processions became normal in worship. Their forms owe much to Roman court and civic ceremonial, their justification to the Temple and the Book of Revelation.",
+      "story": "In the persecutions the line between Christian and pagan was drawn with a few grains of incense. Pliny the Younger tested accused Christians in Bithynia (c. 112) by making them offer incense and wine to the emperor’s image; in the Decian persecution of 250 certificates (libelli) recorded that the bearer had sacrificed. Tertullian (De idololatria 11) asked how a Christian incense seller could pass a temple ‘with a clear conscience’, and Athenagoras and Lactantius insisted that God needed no fragrant smoke. Pre-Constantinian Christian worship therefore had no liturgical incense, though incense was used at funerals to mask odour.\n\nLamps were another matter. Christians met at night and needed light (Acts 20:8), and the ritual lighting of the evening lamp — the lucernarium, with its ancient hymn Phos Hilaron, already called old by Basil of Caesarea (On the Holy Spirit 29.73) — echoed Jewish blessings over the lamp at the start of the Sabbath. Lights at tombs were more contentious: the Council of Elvira (c. 305, canon 34) forbade lighting candles in cemeteries by day ‘for the spirits of the saints must not be disturbed’, a sign that the custom was already popular and was felt to resemble pagan funerary practice.\n\nAfter 312 the church moved into public buildings and absorbed public ceremonial. Lights and incense carried before a magistrate or emperor were insignia of rank in late Roman society; they were now carried before bishops, before the Gospel book and before the eucharistic gifts. Egeria, a pilgrim from the far West, describes censers brought into the Anastasis in Jerusalem at the Sunday vigil in the 380s so that ‘the whole basilica is filled with the smell’ (Itinerarium 24.10). By about 700 Ordo Romanus I has seven acolytes with candles and a subdeacon with a censer walking before the pope in the stational procession — an imperial-style entrance. Pseudo-Dionysius gave censing a mystical meaning as the divine fragrance going out to all and returning to its source.\n\nProcessions had both pagan and Jewish models. Rome’s litania maior on 25 April ran along the route once used for the Robigalia, the procession to protect crops from blight, and Gregory the Great organised the great sevenfold litany of 590 during plague; Rogation processions were introduced in Gaul by Bishop Mamertus of Vienne (c. 470). Defenders of candles, such as Jerome against Vigilantius (406), conceded that lights at martyrs’ tombs resembled pagan custom but argued that what was once done for idols was now done for God and his saints.\n\nThe Reformers largely removed these practices. Zwingli’s Zurich and Calvin’s Geneva abolished candles, incense and processions as unscriptural ceremonies; the Church of England kept some lights but banned most ceremony, and in the nineteenth-century ritualist controversies the Lincoln Judgment (1890) allowed altar candles while the Lambeth ‘Opinions’ of 1899 ruled ceremonial incense unlawful. Catholic, Orthodox and Oriental churches retain them, as do many Lutherans and Anglo-Catholics, and votive candles have spread even into some evangelical settings.",
+      "howItHappened": [
+        "Incense was refused before 312 because it was the standard act of sacrifice to the emperor and the gods.",
+        "Practical lamps for night worship became symbolic in the evening lucernarium, echoing Jewish lamp blessings.",
+        "After Constantine, lights and incense as insignia of honour for officials were transferred to bishops, the Gospel book and the altar.",
+        "Biblical precedent — the Temple incense altar, Malachi 1:11 and the heavenly liturgy of Revelation — supplied the theological justification.",
+        "Some processions, such as Rome’s Major Litany on 25 April, deliberately replaced pagan agrarian processions on the same day and route."
+      ],
+      "examples": [
+        "Pliny, Letters 10.96 (c. 112): accused Christians required to offer incense and wine before the emperor’s image",
+        "Council of Elvira (c. 305), canon 34, forbidding daytime candles in cemeteries",
+        "Egeria, Itinerarium 24.10: censers filling the Jerusalem Anastasis at the Sunday vigil (381–384)",
+        "Ordo Romanus I (c. 700): seven candles and a censer carried before the pope",
+        "The Phos Hilaron, the lamp-lighting hymn still sung at Orthodox and Anglican evening prayer",
+        "The Lambeth ‘Opinions’ of 1899 ruling ceremonial incense unlawful in the Church of England"
+      ],
+      "defenders": [
+        { "name": "Jerome", "personId": "jerome", "fatherId": "jerome", "text": "In Contra Vigilantium (406) he defended lights at martyrs’ shrines: a custom once paid to idols becomes worship when offered to Christ’s martyrs." },
+        { "name": "Pseudo-Dionysius", "fatherId": "pseudo-dionysius", "text": "Interpreted the bishop’s censing of the church as an image of divine goodness going out to all and returning to its source (Ecclesiastical Hierarchy 3)." },
+        { "name": "John of Damascus", "personId": "john-of-damascus", "fatherId": "john-of-damascus-father", "text": "Defended lights and incense before icons and relics as relative honour that passes to the one depicted." }
+      ],
+      "critics": [
+        { "name": "Tertullian", "personId": "tertullian", "fatherId": "tertullian", "text": "Treated selling or burning incense as complicity in idolatry (De idololatria 11; Apology 30)." },
+        { "name": "Vigilantius", "text": "A Gallic presbyter (c. 400) who denounced candles lit by day at martyrs’ tombs as a pagan rite brought into the church." },
+        { "name": "Huldrych Zwingli", "personId": "huldrych-zwingli", "text": "Zurich (1524–25) removed candles, images and processions in favour of a bare preaching service." },
+        { "name": "John Calvin", "personId": "john-calvin", "text": "Regarded candles, incense and processions as Jewish shadows or human inventions that obscured Christ." }
+      ],
+      "keptBy": [
+        "Catholic Church (censing at solemn Mass, Paschal candle, Corpus Christi processions)",
+        "Eastern Orthodox and Oriental Orthodox churches (incense at nearly every service)",
+        "Anglo-Catholics and many Lutherans",
+        "Votive candles in many Protestant churches today"
+      ],
+      "rejectedBy": [
+        "Reformed and Presbyterian churches historically",
+        "Puritans and most Free Churches",
+        "Quakers, who reject all outward ceremony"
+      ],
+      "fatherIds": ["tertullian", "jerome", "pseudo-dionysius", "gregory-the-great", "john-of-damascus-father"],
+      "traditionIds": ["catholic", "eastern-orthodox", "oriental-orthodox", "anglican", "lutheran", "reformed"],
+      "relatedIds": ["candlemas-lupercalia", "relics-and-pilgrimage", "christ-pantocrator-imperial", "halo-nimbus"],
+      "sources": ["p4-klauser-western-liturgy", "jungmann-mass-roman-rite", "bradshaw-origins-worship", "p4-wilkinson-egeria", "pliny-letters", "eire-war-idols"],
+      "confidence": "established"
+    },
+    {
+      "id": "vestments-roman-dress",
+      "name": "Vestments from Roman dress",
+      "category": "worship-practice",
+      "sourceTradition": "roman-state",
+      "sourceCulture": "The everyday and official dress of the late Roman upper classes: tunic, paenula, dalmatic, scarf and napkin",
+      "christianForm": "Alb, chasuble, dalmatic, stole, maniple and pallium as distinctive clerical and liturgical vestments",
+      "startYear": 400,
+      "endYear": 900,
+      "place": { "name": "Ravenna (San Vitale)", "lat": 44.4204, "lng": 12.1966 },
+      "evidence": "strong",
+      "evidenceNote": "The descent of the principal Western and Byzantine vestments from late Roman secular dress is the consensus of liturgical historians and is visible in mosaics such as San Vitale (547). The borrowing was of civilian and court clothing, not of pagan priestly dress, and the claim that the mitre derives from the fish-headdress of Dagon is a nineteenth-century myth.",
+      "popularClaim": "Priests’ robes were copied from pagan priests — the mitre is the fish-hat of the god Dagon and the vestments are the costume of Babylonian or Roman pagan cults.",
+      "whatHistoriansSay": "Christian clergy in the first centuries wore ordinary clothes. Pope Celestine I in 428 rebuked bishops in southern Gaul who had adopted a distinctive monastic cloak and girdle: ‘we should be distinguished from the people by our teaching, not our dress’. Vestments arose because the clergy kept the formal dress of late Roman gentlemen and officials while lay fashion moved on to the shorter tunics and trousers of the post-Roman world. By the sixth and seventh centuries this conservatism had turned ordinary garments into sacred ones. The alb is the tunica alba, the chasuble the travelling cloak (paenula or casula), the dalmatic a long-sleeved tunic named from Dalmatia, the maniple the ceremonial napkin (mappa), and the stole and pallium are probably derived from scarves and insignia of rank. The mitre appears only around the tenth and eleventh centuries, from Roman papal headgear (camelaucum), not from Mesopotamia; the Dagon theory goes back to Alexander Hislop’s The Two Babylons (1853) and has no historical basis.",
+      "summary": "The vestments of Catholic, Orthodox and many Anglican and Lutheran clergy are fossilised late Roman clothing. They became sacred when the clergy kept wearing them after everyone else had stopped.",
+      "story": "The New Testament prescribes no clerical dress, and second- and third-century sources suggest that bishops and presbyters presided at the eucharist in their ordinary best clothes. The baptismal white garment and the image of the heavenly elders in white (Revelation 4:4) gave white clothing a symbolic charge, but there was no separate priestly wardrobe. When Pope Celestine I wrote to the bishops of the provinces of Vienne and Narbonne in 428, he criticised them for wearing the pallium and girdle of ascetics in church: clergy should stand out ‘by learning, not by clothing; by conduct, not by costume; by purity of mind, not by dress’.\n\nThe decisive change was the transformation of dress in the late Roman and post-Roman West. Long tunics and enveloping cloaks had been the formal dress of the Roman citizen and official; Germanic and military fashion brought in shorter tunics and trousers. The clergy, especially at the altar, kept the older dress, which gradually came to be regarded as sacred. The mosaics of San Vitale in Ravenna (547) show Archbishop Maximian in a chasuble-like cloak with the pallium, and his deacons in long tunics, standing beside Justinian’s court officials whose clothes are recognisably similar.\n\nThe individual garments can be traced. The alb (tunica alba or linea) was the basic undergarment of the Roman wardrobe; the chasuble (casula, ‘little house’) was the bell-shaped paenula worn by all classes for travel; the dalmatic was a wide-sleeved tunic that was once mocked as effeminate when worn by emperors and that the Liber Pontificalis, legendarily, says Pope Sylvester granted to Roman deacons. The maniple descends from the mappa, the napkin carried by Roman officials and used by consuls to start the games. The stole (orarium) and the pallium are more debated: probably scarves or insignia of honour. Their Byzantine equivalents — epitrachelion, omophorion, sakkos — developed alongside imperial court costume.\n\nMeaning was added later. Medieval commentators such as Amalarius of Metz (ninth century) and Innocent III (De sacro altaris mysterio, c. 1195) gave each garment an allegorical sense — the chasuble as charity, the stole as the yoke of Christ — and Innocent III systematised the Roman sequence of liturgical colours. The mitre emerged in Rome in the tenth and eleventh centuries and spread to bishops by papal grant.\n\nThe Reformation divided over vestments. Lutherans kept many of them, especially in Scandinavia; in England the Vestiarian controversy began when John Hooper refused to be consecrated bishop in vestments (1550) and grew after Archbishop Parker’s Advertisements (1566) required the surplice. Reformed churches adopted the academic black gown, itself a late medieval university garment. In the twentieth century the Liturgical Movement revived ‘Gothic’ and simplified chasubles and the alb-and-stole spread to Methodist and other Protestant clergy, while some Protestant polemic — following Hislop — still claims a Babylonian origin that historians reject.",
+      "howItHappened": [
+        "Early clergy wore ordinary formal Roman dress at worship; there was no special priestly costume.",
+        "From the fifth century lay fashion changed to shorter tunics and trousers, while clergy kept the older long garments.",
+        "By the sixth and seventh centuries these garments were reserved for liturgy and regarded as sacred.",
+        "Court insignia (pallium, napkin, scarves) were granted as marks of rank, especially by popes and emperors.",
+        "Medieval writers added allegorical meanings and Innocent III fixed a sequence of liturgical colours."
+      ],
+      "examples": [
+        "Pope Celestine I’s letter of 428 rejecting distinctive clerical dress",
+        "Mosaic of Justinian and Archbishop Maximian, San Vitale, Ravenna (547)",
+        "Chasuble from the Roman paenula; alb from the tunica alba; maniple from the mappa",
+        "The pallium sent by popes to metropolitans as a sign of communion",
+        "John Hooper’s refusal of vestments (1550) and the Elizabethan Vestiarian controversy"
+      ],
+      "defenders": [
+        { "name": "Innocent III", "text": "As Cardinal Lotario wrote De sacro altaris mysterio (c. 1195), interpreting each vestment and setting out the liturgical colours." },
+        { "name": "Thomas Cranmer", "personId": "thomas-cranmer", "text": "Accepted the surplice and some vestments as ‘things indifferent’ that the church may order for decency." },
+        { "name": "Gregory the Great", "personId": "gregory-the-great", "fatherId": "gregory-the-great", "text": "Regulated the use of the dalmatic and the pallium as papal grants of honour to bishops and deacons." }
+      ],
+      "critics": [
+        { "name": "Pope Celestine I", "text": "Insisted in 428 that clergy be distinguished by teaching and conduct, not by dress." },
+        { "name": "John Hooper", "text": "Bishop of Gloucester who called vestments relics of the papacy and refused them until imprisoned (1550–51)." },
+        { "name": "Alexander Hislop", "text": "Scottish Presbyterian whose The Two Babylons (1853) claimed the mitre and vestments came from Babylonian fish-god worship — a theory historians regard as baseless." }
+      ],
+      "keptBy": [
+        "Catholic Church",
+        "Eastern Orthodox and Oriental Orthodox churches (in Byzantine and other forms)",
+        "Anglican Communion, especially since the nineteenth century",
+        "Lutheran churches, particularly in Scandinavia",
+        "Increasingly some Methodist and other Protestant clergy (alb and stole)"
+      ],
+      "rejectedBy": [
+        "Reformed and Presbyterian churches (preferring the Geneva gown)",
+        "Puritans and English nonconformists",
+        "Baptists, Brethren, Quakers and most Pentecostals"
+      ],
+      "fatherIds": ["gregory-the-great", "isidore-of-seville"],
+      "traditionIds": ["catholic", "eastern-orthodox", "oriental-orthodox", "anglican", "lutheran", "reformed", "presbyterian"],
+      "relatedIds": ["christ-pantocrator-imperial", "pontifex-maximus-and-roman-titles", "incense-candles-processions", "basilica-architecture"],
+      "sources": ["p4-mayo-vestments", "p4-klauser-western-liturgy", "odcc", "jungmann-mass-roman-rite", "macculloch-reformation"],
+      "confidence": "established"
+    },
+    {
+      "id": "saints-and-local-gods",
+      "name": "Saints, patronage and local gods",
+      "category": "worship-practice",
+      "sourceTradition": "roman-religion",
+      "sourceCulture": "Local and healing deities, heroes and the Roman system of patronage (patronus and cliens)",
+      "christianForm": "The cult of saints as patrons and intercessors for cities, trades, illnesses and places",
+      "startYear": 380,
+      "place": { "name": "Menouthis (Abu Qir), near Alexandria", "lat": 31.32, "lng": 30.07 },
+      "evidence": "disputed",
+      "evidenceNote": "Specific substitutions are documented — healing shrines replacing Isis or Asclepius-style cults, churches placed on temples, saints taking over a god’s feast or function. But the wider thesis that the saints are simply pagan gods renamed is rejected by most historians since Peter Brown, who trace the cult of martyrs to Jewish and early Christian veneration of witnesses and to late Roman patronage. Scholars remain divided on how much continuity of popular religion there was.",
+      "popularClaim": "The cult of the saints is polytheism in disguise: the old gods were given saints’ names, so St Brigid is the goddess Brigid, St George a sun-hero and the patron saints simply replaced the gods of trades and towns.",
+      "whatHistoriansSay": "An older ‘history of religions’ school (Ernst Lucius, Pierre Saintyves’ Les saints successeurs des dieux, 1907) argued that saints succeeded the gods. The Bollandist Hippolyte Delehaye (The Legends of the Saints, 1905) accepted that some legends borrowed pagan motifs but showed that most saints were real Christians, usually martyrs with a fixed tomb and anniversary. Peter Brown’s The Cult of the Saints (1981) rejected the ‘two-tier’ model in which the church merely tolerated popular paganism: the cult of martyrs was led by bishops and elites and grew from Christian roots and from the Roman language of patronage and friendship. Real, local transfers did happen — the healing saints Cyrus and John at Menouthis, traditionally installed by Cyril of Alexandria to rival a shrine of Isis; Theodoret boasting that God had put his dead in the place of the gods — but these are instances of deliberate replacement, not proof that the saints were gods.",
+      "summary": "Christian saints became patrons and protectors of places, people and needs, often occupying the same shrines and functions as local gods and healing deities. How far this was continuity and how far conscious replacement is still debated.",
+      "story": "The cult of the saints began with the martyrs. The Martyrdom of Polycarp (c. 155) records that the Smyrnaeans gathered his bones, ‘more precious than jewels’, to celebrate the ‘birthday’ of his martyrdom each year — a practice with precedent in Jewish honour for the tombs of prophets and martyrs (Matthew 23:29; the Maccabean martyrs). By the fourth century martyrs were invoked as intercessors, their shrines were the busiest places of Christian devotion, and their stories were read on their feast days.\n\nThe saints quickly took on the social role of patrons. In late Roman society a patronus protected, petitioned for and represented his clients; Paulinus of Nola addressed St Felix in exactly these terms, and cities acquired heavenly patrons — Ambrose at Milan, Martin at Tours, later Mark at Venice and Denis at Paris. Trades, illnesses and dangers acquired specialist saints in the Middle Ages, which is the strongest surface resemblance to the gods of the Roman pantheon.\n\nSome cases are clear substitutions. Near Alexandria, the shrine of the healing saints Cyrus and John at Menouthis was traditionally founded by Cyril of Alexandria (c. 414) to draw pilgrims away from a famous shrine of Isis, and practised incubation — sleeping in the sanctuary for a healing dream — just as at the temples of Asclepius. Theodoret of Cyrrhus wrote (Cure of the Greek Maladies 8, c. 430s) that ‘the Lord has led his own dead into the temples in place of your gods’, and Gregory the Great’s letter to Mellitus (601) advised that English temples be rededicated to saints with feasts on the same days. In Ireland, St Brigid of Kildare shares a name and a feast (1 February, Imbolc) with a goddess, and Gerald of Wales (c. 1185) described a perpetual fire tended by nuns at Kildare, suggesting at least the absorption of older elements, although a historical Brigid is probable.\n\nOther popular identifications fail. St George is a well-attested martyr cult from Lydda in Palestine; St Christopher’s legend is a Christian allegory; many supposed ‘gods in disguise’ were inferred only from similar names by nineteenth-century folklorists. The Catholic calendar reform of 1969 itself demoted saints of uncertain historicity such as Christopher, while keeping their cult locally.\n\nThe Reformers attacked the cult of saints as a denial of Christ’s sole mediation (Augsburg Confession, art. 21; Calvin, Institutes 3.20.21–27), and Protestant polemicists such as Conyers Middleton (Letter from Rome, 1729) argued that Roman Catholic devotion was pagan religion surviving under new names. Catholic and Orthodox theology answers with the distinction between latria (worship due to God alone) and dulia (honour given to saints), defined by the Second Council of Nicaea (787) and Trent (1563).",
+      "howItHappened": [
+        "Veneration of martyrs at their tombs grew from Jewish honour for prophets and martyrs and from Christian commemoration of the anniversary of death.",
+        "Late Roman patronage supplied the language of saints as patroni, friends and advocates.",
+        "Bishops deliberately placed saints’ shrines to compete with or replace healing cults and temples.",
+        "Missionary policy, as in Gregory the Great’s letter of 601, encouraged transferring feasts and holy places to saints.",
+        "Medieval specialisation assigned saints to trades, illnesses and places, recalling the functions of local gods."
+      ],
+      "examples": [
+        "Martyrdom of Polycarp 18 (c. 155): annual celebration at the martyr’s bones",
+        "Saints Cyrus and John at Menouthis replacing an Isis healing shrine (c. 414, traditional)",
+        "Theodoret, Cure of the Greek Maladies 8: God’s dead put in place of the gods",
+        "St Brigid of Kildare, her 1 February feast and the perpetual fire described by Gerald of Wales",
+        "Paulinus of Nola’s poems to St Felix as his heavenly patron (395–431)"
+      ],
+      "defenders": [
+        { "name": "Augustine of Hippo", "personId": "augustine-of-hippo", "fatherId": "augustine-of-hippo-father", "text": "Insisted that Christians honour martyrs but build them no temples and offer them no sacrifice: they are examples and intercessors, not gods (City of God 8.27)." },
+        { "name": "Cyril of Alexandria", "personId": "cyril-of-alexandria", "fatherId": "cyril-of-alexandria", "text": "Traditionally credited with establishing the shrine of Cyrus and John at Menouthis to supplant the cult of Isis." },
+        { "name": "Gregory the Great", "personId": "gregory-the-great", "fatherId": "gregory-the-great", "text": "Advised that pagan festivals be replaced with feasts of saints whose relics were placed in converted temples (letter to Mellitus, 601)." },
+        { "name": "John of Damascus", "personId": "john-of-damascus", "fatherId": "john-of-damascus-father", "text": "Defended honour to the saints as ‘friends of God’ whose veneration passes to God himself." }
+      ],
+      "critics": [
+        { "name": "Vigilantius", "text": "Attacked the cult of martyrs and their relics as pagan superstition (c. 400), provoking Jerome’s reply." },
+        { "name": "John Calvin", "personId": "john-calvin", "text": "Argued that invoking saints robs Christ of his office as sole mediator (Institutes 3.20)." },
+        { "name": "Martin Luther", "personId": "martin-luther", "text": "Kept honour for the saints as examples but rejected their invocation (Smalcald Articles, 1537)." }
+      ],
+      "keptBy": [
+        "Catholic Church",
+        "Eastern Orthodox churches",
+        "Oriental Orthodox churches and the Church of the East",
+        "Anglicans and Lutherans commemorate saints without invocation"
+      ],
+      "rejectedBy": [
+        "Reformed and Presbyterian churches",
+        "Baptists, Pentecostals and most evangelicals",
+        "Jehovah’s Witnesses and other restorationist groups"
+      ],
+      "fatherIds": ["augustine-of-hippo-father", "cyril-of-alexandria", "gregory-the-great", "jerome", "john-of-damascus-father", "polycarp-of-smyrna"],
+      "traditionIds": ["catholic", "eastern-orthodox", "oriental-orthodox", "coptic-orthodox", "anglican", "lutheran", "reformed"],
+      "relatedIds": ["relics-and-pilgrimage", "temples-to-churches", "holy-wells-sacred-places", "all-saints-samhain", "mary-isis-debate"],
+      "sources": ["brown-cult-saints", "p4-delehaye-legends", "p4-bartlett-dead-great-things", "p4-frankfurter-christianizing-egypt", "p4-macmullen-christianity-paganism", "bede-ecclesiastical-history"],
+      "confidence": "debated"
+    },
+    {
+      "id": "relics-and-pilgrimage",
+      "name": "Relics, martyr shrines and pilgrimage",
+      "category": "worship-practice",
+      "sourceTradition": "classical-culture",
+      "sourceCulture": "Greek hero cults at tombs, pilgrimage to oracles and healing sanctuaries, and the Jewish honour of prophets’ tombs",
+      "christianForm": "Veneration of martyrs’ bodies and objects, altars over relics, and pilgrimage to the Holy Land, Rome and shrines",
+      "startYear": 326,
+      "place": { "name": "Jerusalem (Church of the Holy Sepulchre)", "lat": 31.7784, "lng": 35.2298 },
+      "evidence": "plausible",
+      "evidenceNote": "There are real parallels with Greek hero cults and pilgrimage to healing sanctuaries, and late antique Christians knew them. But historians stress that the Christian cult of relics broke a basic pagan taboo by bringing corpses into cities and onto altars, and that its immediate roots were Jewish and Christian veneration of martyrs. Influence on the forms of pilgrimage is plausible; derivation of the cult from paganism is not established.",
+      "popularClaim": "Relics and pilgrimages are pagan hero worship and temple tourism that the church adopted to make money.",
+      "whatHistoriansSay": "Greeks honoured heroes at their tombs and even moved their bones (Sparta fetched the bones of Orestes, Herodotus 1.67–68; Cimon brought Theseus’ bones to Athens), and people travelled to Delphi or to Epidaurus for healing. Yet Peter Brown emphasises that for pagans the dead were polluting and kept outside the city; the emperor Julian was disgusted that Christians had ‘filled the whole world with tombs and sepulchres’. The Christian cult began with the bones of martyrs (Polycarp, c. 155), was supported by biblical stories (Elisha’s bones, 2 Kings 13:21; Paul’s handkerchiefs, Acts 19:12), and expanded dramatically after Constantine with the building of churches over the holy places of Palestine and the ‘discovery’ and translation of relics. Roman law tried to forbid moving and selling martyrs’ bodies (Theodosian Code 9.17.7, 386), which shows how quickly the trade grew.",
+      "summary": "From the second century Christians venerated the bodies of martyrs; after Constantine, relics and pilgrimage became central to Christian devotion. Greek hero cults offer parallels, but the cult’s roots are mainly Jewish and Christian, and it reversed pagan attitudes to the dead.",
+      "story": "The earliest clear evidence for Christian relic veneration is the Martyrdom of Polycarp (c. 155), where the church of Smyrna collects the bishop’s bones and meets at their resting place to celebrate his ‘birthday’ into heaven. Jewish practice already honoured the tombs of patriarchs and prophets, and the Maccabean martyrs were venerated at Antioch. By the third century Christians in Rome were gathering at martyrs’ graves in the catacombs and on the Vatican hill and the Via Ostiensis, where the memorials of Peter and Paul were marked by about 200 (the ‘trophies’ mentioned by Gaius, quoted by Eusebius).\n\nConstantine transformed the scale. From 326 basilicas rose over the holy places of Christ’s life — the Holy Sepulchre in Jerusalem, the Nativity at Bethlehem, the Eleona on the Mount of Olives — and his mother Helena’s visit became the basis of the late fourth-century legend that she found the True Cross (first attested by Ambrose in 395). Pilgrims followed: the Bordeaux Pilgrim (333) and the Spanish or Gallic nun Egeria (381–384) left detailed accounts of a sacred landscape organised for visitors, with readings and hymns at each site.\n\nIn 386 Ambrose of Milan discovered the bodies of Gervasius and Protasius and placed them beneath the altar of his new basilica, linking relics, altar and episcopal authority. The same year imperial law forbade anyone to move, divide or sell a martyr’s body, but the practice of translation and division spread throughout East and West. The Second Council of Nicaea (787, canon 7) required relics for the consecration of every church, and medieval Europe built a network of pilgrimage shrines — Rome, Compostela, Canterbury, Cologne — with their own economies of hospices, badges and indulgences.\n\nThe parallels with paganism are real: Greek cities had translated hero bones for protection, and healing sanctuaries attracted pilgrims with votive offerings, much as Christian shrines later did. But pagans thought corpses polluted and kept tombs outside city walls. Julian the Apostate (Against the Galileans, 362) mocked the Christians for venerating dead bodies, and Peter Brown argues that the Christian joining of ‘heaven and earth at the grave of a human being’ was a genuine novelty of late antiquity.\n\nThe Reformation turned relics into a symbol of everything wrong with late medieval religion. Frederick the Wise of Saxony had gathered nearly 19,000 relics at Wittenberg, where Luther posted his theses against indulgences (1517); Calvin’s Treatise on Relics (1543) ridiculed the multiplication of fragments of the Cross; Henry VIII’s commissioners destroyed the shrine of Thomas Becket at Canterbury (1538). The Council of Trent (1563) defended relics while condemning abuses. Pilgrimage revived strongly in the nineteenth and twentieth centuries (Lourdes, Fatima, the Camino de Santiago), and Protestant ‘Holy Land tours’ show that the attraction of sacred places outlived the critique of relics.",
+      "howItHappened": [
+        "Second-century churches gathered martyrs’ bones and celebrated their anniversaries at the tomb.",
+        "Constantine and Helena built churches over the holy places of Palestine from 326, creating a pilgrimage landscape.",
+        "Bishops such as Ambrose discovered and translated relics and placed them under altars (386).",
+        "Despite imperial prohibitions, relics were divided and distributed, and the Second Council of Nicaea required them in altars (787).",
+        "Medieval shrines developed pilgrim routes, hospices, badges and indulgences, which the Reformers attacked."
+      ],
+      "examples": [
+        "Martyrdom of Polycarp 18 (c. 155)",
+        "The Church of the Holy Sepulchre, dedicated 335",
+        "Egeria’s pilgrimage diary (381–384)",
+        "Ambrose’s translation of Gervasius and Protasius in Milan (386)",
+        "Theodosian Code 9.17.7 (386) forbidding the sale of martyrs’ bodies",
+        "Calvin’s Treatise on Relics (1543)"
+      ],
+      "defenders": [
+        { "name": "Ambrose of Milan", "personId": "ambrose", "fatherId": "ambrose-of-milan", "text": "Placed martyrs’ relics under the altar so that ‘the victims of triumph’ lie where Christ is the sacrifice (Letter 22, 386)." },
+        { "name": "Jerome", "personId": "jerome", "fatherId": "jerome", "text": "Defended relics and the vigils at martyrs’ tombs against Vigilantius (406), while denying that they were worshipped." },
+        { "name": "Egeria", "personId": "egeria", "text": "Her pilgrim diary describes the sacred sites of Palestine and Sinai with devotion and precise liturgical detail." },
+        { "name": "Augustine of Hippo", "personId": "augustine-of-hippo", "fatherId": "augustine-of-hippo-father", "text": "Initially sceptical, later recorded miracles at the shrine of St Stephen in Hippo (City of God 22.8)." }
+      ],
+      "critics": [
+        { "name": "Julian the Apostate", "text": "Pagan emperor who mocked Christians for filling the world with tombs and venerating corpses (Against the Galileans, 362)." },
+        { "name": "Vigilantius", "text": "Gallic priest who denounced relic veneration and vigils as pagan practice (c. 400)." },
+        { "name": "John Calvin", "personId": "john-calvin", "text": "Treatise on Relics (1543) ridiculed the many heads, bodies and pieces of the Cross venerated across Europe." },
+        { "name": "Erasmus", "personId": "erasmus", "text": "Satirised relic-mongering and pilgrimage to Walsingham and Canterbury in the Colloquies (1526)." }
+      ],
+      "keptBy": [
+        "Catholic Church (relics in altars, shrines and pilgrimage)",
+        "Eastern Orthodox churches (relics in the antimension and shrines)",
+        "Oriental Orthodox churches",
+        "Holy Land pilgrimage among Protestants of many kinds"
+      ],
+      "rejectedBy": [
+        "Lutheran and Reformed Reformers rejected relic veneration",
+        "Puritans and English reformers who destroyed shrines",
+        "Most evangelical and Pentecostal churches"
+      ],
+      "fatherIds": ["polycarp-of-smyrna", "ambrose-of-milan", "jerome", "augustine-of-hippo-father", "eusebius-of-caesarea", "john-of-damascus-father"],
+      "traditionIds": ["catholic", "eastern-orthodox", "oriental-orthodox", "anglican", "lutheran", "reformed"],
+      "relatedIds": ["saints-and-local-gods", "holy-wells-sacred-places", "temples-to-churches", "incense-candles-processions"],
+      "sources": ["brown-cult-saints", "p4-hunt-holy-land-pilgrimage", "p4-bartlett-dead-great-things", "p4-wilkinson-egeria", "eusebius-life-constantine", "eire-war-idols"],
+      "confidence": "established"
+    },
+    {
+      "id": "holy-wells-sacred-places",
+      "name": "Holy wells, springs and sacred places",
+      "category": "worship-practice",
+      "sourceTradition": "celtic",
+      "sourceCulture": "Veneration of springs, wells, trees, stones and hilltops with votive offerings",
+      "christianForm": "Holy wells dedicated to saints, patterns and pilgrimages, healing springs and well-dressing",
+      "startYear": 601,
+      "place": { "name": "Holywell (St Winefride’s Well), Flintshire", "lat": 53.2747, "lng": -3.2232 },
+      "evidence": "plausible",
+      "evidenceNote": "Pre-Christian water cults are archaeologically certain (Bath, Coventina’s Well) and church councils repeatedly condemned worship at springs and trees, so some continuity is likely. But most individual holy wells are first documented in the medieval or modern period, and historians such as James Rattue and Ronald Hutton warn that a pagan origin for any particular well is usually assumed rather than proven.",
+      "popularClaim": "Every holy well is an ancient pagan sacred spring that the church simply renamed after a saint.",
+      "whatHistoriansSay": "Sacred springs were common in the Roman and Celtic world: thousands of coins were found in Coventina’s Well at Carrawburgh on Hadrian’s Wall, and the hot spring at Bath was the shrine of Sulis Minerva. Early medieval councils and preachers — the Second Council of Arles (c. 452), Caesarius of Arles, Martin of Braga (c. 572), the Council of Tours (567) and later English laws of Edgar and Cnut — condemned people who lit candles or made vows at springs, trees and stones, which shows that such practices continued. At the same time Gregory the Great urged missionaries to Christianise rather than destroy holy places. Yet the documentary record for most wells starts in the twelfth century or later, and many were dedicated to saints with no pre-Christian connection, or became holy because of a later miracle or a nearby church. Victorian folklorists tended to read every survival as pagan; modern scholars find a mixture of genuine continuity, Christian invention and modern revival.",
+      "summary": "Christianity inherited a landscape full of sacred springs and places. Church leaders both condemned worship at them and baptised them as saints’ wells, but the pagan origin of individual wells is usually hard to prove.",
+      "story": "The pre-Christian peoples of the Mediterranean and of Celtic and Germanic Europe treated springs, rivers, groves and stones as places of divine presence. Roman Britain provides some of the clearest evidence: the hot spring at Bath (Aquae Sulis) was the sanctuary of Sulis Minerva, where worshippers threw curse tablets into the water, and Coventina’s Well at Carrawburgh on Hadrian’s Wall yielded thousands of coins, altars and other offerings. Similar votive deposits are known from Gaul and Germany.\n\nChurch councils in the West spent centuries trying to stop these practices. The Second Council of Arles (c. 452, canon 23) condemned those who ‘light torches or venerate trees, springs or stones’; Caesarius of Arles (died 542) preached repeatedly against vows at trees and springs; Martin of Braga’s On the Correction of Peasants (c. 572) listed lighting candles at stones, trees and springs among the devil’s works. In England the laws of King Edgar and of Cnut (1020s) still prohibited ‘well-worship’.\n\nAlongside condemnation ran adaptation. Gregory the Great’s letter to Mellitus (601, Bede, Ecclesiastical History 1.30) advised that temples be purified and reused, and that the people be allowed their feasts in honour of the saints. In Ireland, Scotland, Wales and Cornwall hundreds of wells bear saints’ names; legends tell of springs bursting forth where a saint prayed or where a martyr’s head fell. St Winefride’s Well at Holywell in North Wales, whose Life was written by Robert of Shrewsbury about 1138, has been a pilgrimage site ever since and was one of the few shrines to survive the English Reformation in continuous use.\n\nThe question is how much of this is continuity. In Ireland, Máire MacNeill’s The Festival of Lughnasa (1962) made a strong case that late-summer assemblies at hilltops and wells — including the Reek Sunday pilgrimage on Croagh Patrick — preserve a pre-Christian harvest festival. But James Rattue’s survey of English holy wells and Ronald Hutton’s work on British paganism show that most wells are first recorded long after conversion, that dedications were often medieval or even post-Reformation, and that customs such as Derbyshire well-dressing or the rag-hung ‘clootie wells’ of Scotland are attested only from the early modern period.\n\nProtestant reformers treated wells as superstition: Henry VIII’s injunctions of 1538 attacked pilgrimages to wells and images, and Scottish Kirk sessions disciplined people for visiting wells in the seventeenth century. Catholic Ireland, Brittany and Galicia kept the ‘patterns’ (patron-saint days) at wells, and new healing springs such as Lourdes (1858) show that the Christian sense of holy water in a place did not depend on pagan precedent. Today holy wells attract both Christian pilgrims and modern pagans, who sometimes claim them as survivals of the old religion.",
+      "howItHappened": [
+        "Pre-Christian peoples left offerings at springs and wells, as at Bath and Coventina’s Well.",
+        "Councils and preachers from the fifth to the eleventh centuries condemned vows, candles and offerings at springs, trees and stones.",
+        "Missionary policy such as Gregory the Great’s preferred Christianising holy places to destroying them.",
+        "Saints’ legends and dedications attached many wells to local saints, often in the high Middle Ages.",
+        "Reformers suppressed well pilgrimages; Catholic regions kept patterns, and folk customs revived in the modern period."
+      ],
+      "examples": [
+        "Coventina’s Well, Carrawburgh, with thousands of Roman-era coins",
+        "Second Council of Arles (c. 452), canon 23, against venerating trees, springs and stones",
+        "Martin of Braga, De correctione rusticorum (c. 572)",
+        "St Winefride’s Well, Holywell, a pilgrimage site since the twelfth century",
+        "Reek Sunday on Croagh Patrick, linked by Máire MacNeill to the festival of Lughnasa",
+        "Clootie wells such as Munlochy in the Scottish Highlands"
+      ],
+      "defenders": [
+        { "name": "Gregory the Great", "personId": "gregory-the-great", "fatherId": "gregory-the-great", "text": "Told the English mission to convert holy places rather than destroy them, so the people would come more readily to worship God where they were used to gather." },
+        { "name": "Bede", "fatherId": "bede", "text": "Preserved Gregory’s letter and recorded miracles at holy places and springs associated with saints such as Alban." },
+        { "name": "Patrick", "personId": "patrick", "text": "Irish tradition associates him with baptising converts at springs and wells, many of which bear his name." }
+      ],
+      "critics": [
+        { "name": "Caesarius of Arles", "text": "Bishop who preached that vows and offerings at trees and springs were the devil’s sacrilege, even when done by baptised Christians." },
+        { "name": "Martin of Braga", "text": "In On the Correction of Peasants (c. 572) condemned candles at stones, trees, springs and crossroads." },
+        { "name": "Scottish Kirk sessions", "text": "Disciplined those who made pilgrimages to holy wells as papist and superstitious in the seventeenth century." }
+      ],
+      "keptBy": [
+        "Catholic communities in Ireland, Brittany, Galicia and Wales",
+        "Eastern Orthodox churches, which bless springs and waters at Theophany",
+        "Some Anglican parishes (well-dressing, rededications)",
+        "Modern pagans who also visit wells"
+      ],
+      "rejectedBy": [
+        "Reformed and Presbyterian churches historically",
+        "Henry VIII’s 1538 injunctions and later English reformers",
+        "Many evangelical churches today"
+      ],
+      "fatherIds": ["gregory-the-great", "bede", "augustine-of-hippo-father"],
+      "traditionIds": ["catholic", "eastern-orthodox", "church-of-england", "church-of-scotland", "anglican"],
+      "relatedIds": ["temples-to-churches", "saints-and-local-gods", "midsummer-st-john", "relics-and-pilgrimage", "amulets-charms-folk-magic"],
+      "sources": ["p4-rattue-living-stream", "p4-hutton-pagan-britain", "bede-ecclesiastical-history", "p4-macneill-lughnasa", "m1-fletcher-barbarian-conversion", "p4-flint-rise-of-magic"],
+      "confidence": "debated"
+    },
+    {
+      "id": "pontifex-maximus-and-roman-titles",
+      "name": "Pontifex Maximus and Roman titles, dioceses and vicars",
+      "category": "organisation-law",
+      "sourceTradition": "roman-state",
+      "sourceCulture": "Roman priestly and administrative titles: pontifex maximus, dioecesis, vicarius, curia, provincial metropoleis",
+      "christianForm": "Papal titles (Pontifex, Supreme Pontiff, Vicar of Christ), dioceses, metropolitans and the Roman Curia",
+      "startYear": 325,
+      "place": { "name": "Rome", "lat": 41.9022, "lng": 12.4539 },
+      "evidence": "strong",
+      "evidenceNote": "The church’s territorial organisation (provinces, metropolitans, dioceses) deliberately followed the Roman civil structure, as councils from Nicaea to Chalcedon state, and the popes later adopted classical titles such as Pontifex Maximus. What is a myth is the idea that the papacy is a continuation of the pagan high priesthood: Christian emperors gave up that title around 379, and popes used it regularly only from the Renaissance.",
+      "popularClaim": "The pope took over the emperor’s pagan title Pontifex Maximus, proving that the Roman church is the old pagan priesthood under a new name.",
+      "whatHistoriansSay": "From Augustus (12 BC) the emperors were pontifex maximus, head of the state priestly colleges, and Christian emperors from Constantine to Valens kept the title. Gratian ceased to use it, probably about 379 (Zosimus 4.36 has him refuse the pontifical robe). ‘Pontifex’ was used loosely of bishops by Latin Christian writers — Tertullian sarcastically called a bishop ‘pontifex maximus, that is, bishop of bishops’ (De pudicitia 1, c. 220) — but ‘Pontifex Maximus’ became a regular papal style only with Renaissance humanists such as Nicholas V and on inscriptions and coins from the fifteenth century. The administrative borrowing is real and older: Nicaea (325) based church provinces on civil ones, Constantinople (381) used Diocletian’s civil dioceses (Egypt, Oriens, Asia, Pontus, Thrace), and Chalcedon (451, canon 17) ruled that ecclesiastical order should follow civil changes. ‘Vicar of Christ’ was applied to bishops generally before it was reserved to the pope, especially from Innocent III.",
+      "summary": "The church organised itself on the map of the Roman Empire and later borrowed some imperial and classical titles. This was a borrowing of administrative forms and prestige language, not the takeover of a pagan priesthood.",
+      "story": "When Christianity spread through the Roman world it settled in cities, and the bishop of the provincial capital (metropolis) naturally became the senior bishop of the province. The Council of Nicaea (325, canons 4–6) formalised this: bishops were to be ordained by the bishops of the province with the consent of the metropolitan, and the ‘ancient customs’ of Alexandria, Rome and Antioch were confirmed. The Council of Constantinople (381, canon 2) grouped the eastern church according to Diocletian’s civil dioceses — Egypt, Oriens, Asia, Pontus and Thrace — and Chalcedon (451, canon 17) ruled that if the emperor founded a new city, ‘the order of the churches should follow the civil and public pattern’. Rome objected when Constantinople claimed rank as ‘New Rome’ for political reasons (canon 3 of 381, canon 28 of 451), insisting on Petrine rather than imperial grounds.\n\nThe vocabulary followed. Dioecesis (Greek dioikesis, ‘administration’) was a group of provinces under a vicarius, the deputy of the praetorian prefect; in the West the word gradually came to mean a single bishop’s territory, and parochia the opposite. The curia, the consistory, the bishop’s cathedra and the papal chancery’s forms of letters all imitated imperial practice, and papal decretals took the form of imperial rescripts. ‘Papa’ (father) was an affectionate title for many bishops, notably the bishops of Alexandria from the third century, before it was reserved in the West to the bishop of Rome.\n\nThe title Pontifex Maximus has a different history. Augustus took it in 12 BC, and every emperor held it, including Constantine and his Christian successors, for whom it expressed authority over public religion. Gratian dropped it, probably about 379; the Greek historian Zosimus reports that he refused the robe of the office, and Alan Cameron has argued that the change came at the start of his sole rule. Christian Latin used pontifex for bishops in general, and Tertullian’s jibe at a lenient bishop as ‘pontifex maximus’ shows the term was a sarcastic borrowing, not an official one. Popes began regularly to style themselves ‘Pont. Max.’ in the fifteenth century under humanist influence, which is why the abbreviation is on Renaissance buildings and coins.\n\n‘Vicar of Christ’ was applied to bishops and even kings in the early Middle Ages; a Roman synod under Gelasius I (495) acclaimed the pope as vicarius Christi, and Innocent III made it the characteristic papal title, displacing the older ‘Vicar of Peter’. Leo the Great had already presented Rome as the city refounded by Peter and Paul in place of Romulus and Remus (Sermon 82), consciously transferring Roman imperial prestige to the apostolic see.\n\nProtestant polemic made much of these continuities. Luther identified the papacy with Antichrist; Alexander Hislop (1853) and later fundamentalist writers argued that Pontifex Maximus proved the papacy pagan; nineteenth-century Adventist writers claimed the papal title ‘Vicarius Filii Dei’ adds up to 666, though it is not an official papal title. Historians answer that the borrowing was administrative and rhetorical, and that the Orthodox and Oriental churches, with patriarchs and metropolitans organised on the same imperial map, show the same pattern without any papal claim.",
+      "howItHappened": [
+        "Bishops of provincial capitals became metropolitans, following the civil map (Nicaea 325, canons 4–6).",
+        "Eastern church structure was grouped by Diocletian’s civil dioceses (Constantinople 381, canon 2).",
+        "Chalcedon (451, canon 17) required ecclesiastical boundaries to follow civil ones.",
+        "Papal letters and chancery practice imitated imperial rescripts and court forms.",
+        "Renaissance popes adopted the classical style Pontifex Maximus, long after emperors had dropped it."
+      ],
+      "examples": [
+        "Tertullian, De pudicitia 1: a bishop mocked as ‘pontifex maximus’",
+        "Council of Constantinople (381), canon 2, using the five civil dioceses of the East",
+        "Gratian’s abandonment of the title pontifex maximus (c. 379, Zosimus 4.36)",
+        "Roman synod of 495 acclaiming Gelasius I as vicarius Christi",
+        "‘PONT. MAX.’ on Renaissance papal inscriptions and coins",
+        "Annuario Pontificio titles including ‘Supreme Pontiff of the Universal Church’"
+      ],
+      "defenders": [
+        { "name": "Leo the Great", "personId": "leo-i", "fatherId": "leo-the-great", "text": "Presented Rome as refounded by Peter and Paul, transferring imperial dignity to the apostolic see (Sermon 82)." },
+        { "name": "Gelasius I", "personId": "gelasius-i", "text": "Distinguished the ‘sacred authority of bishops’ from ‘royal power’ (letter to Anastasius, 494), adapting Roman legal language to the church." },
+        { "name": "Eusebius of Caesarea", "personId": "eusebius-of-caesarea", "fatherId": "eusebius-of-caesarea", "text": "Saw the Roman Empire as providentially prepared for the church and Constantine as a ‘bishop of those outside’." }
+      ],
+      "critics": [
+        { "name": "Martin Luther", "personId": "martin-luther", "text": "Rejected papal titles and claims as human inventions and identified the papacy with Antichrist (Smalcald Articles, 1537)." },
+        { "name": "Alexander Hislop", "text": "His The Two Babylons (1853) argued that papal titles and rites continued Babylonian and Roman paganism — a thesis historians reject." },
+        { "name": "Eastern Orthodox critics", "text": "Accept the imperial pattern of patriarchates but reject papal titles implying universal jurisdiction." }
+      ],
+      "keptBy": [
+        "Catholic Church (dioceses, metropolitans, Curia, papal titles)",
+        "Eastern Orthodox churches (dioceses, metropolitans, patriarchs on the imperial pattern)",
+        "Anglican and some Lutheran churches (dioceses and provinces)"
+      ],
+      "rejectedBy": [
+        "Reformed, Presbyterian and Congregational churches (rejecting episcopal hierarchy)",
+        "Baptists and other free churches",
+        "Some Adventist and fundamentalist writers who treat the titles as proof of paganism"
+      ],
+      "fatherIds": ["leo-the-great", "gregory-the-great", "tertullian", "eusebius-of-caesarea"],
+      "traditionIds": ["catholic", "eastern-orthodox", "anglican", "lutheran", "reformed", "seventh-day-adventist"],
+      "relatedIds": ["roman-law-canon-law", "vestments-roman-dress", "christ-pantocrator-imperial", "basilica-architecture", "latin-greek-language"],
+      "sources": ["p4-jones-later-roman-empire", "p4-cameron-last-pagans", "p4-ullmann-papacy", "tanner-decrees", "chadwick-early-church", "odcc"],
+      "confidence": "established"
+    },
+    {
+      "id": "roman-law-canon-law",
+      "name": "Roman law, canon law and church governance",
+      "category": "organisation-law",
+      "sourceTradition": "roman-state",
+      "sourceCulture": "Roman law: imperial rescripts, codes, the Digest and juristic concepts of person, contract, satisfaction and jurisdiction",
+      "christianForm": "Papal decretals, canon-law collections, Gratian’s Decretum, the Corpus Iuris Canonici, Byzantine nomocanons and modern codes",
+      "startYear": 318,
+      "place": { "name": "Bologna", "lat": 44.4949, "lng": 11.3426 },
+      "evidence": "strong",
+      "evidenceNote": "The dependence of canon law on Roman law is direct and documented: papal decretals imitated imperial rescripts, the Theodosian and Justinianic codes legislated for the church, and Gratian’s Decretum and the Bologna canonists worked side by side with the rediscovered Digest. The influence of legal ideas on theology (Tertullian, Anselm, forensic justification) is also widely recognised, though its extent is debated.",
+      "popularClaim": "Church law is just Roman imperial law in clerical dress, and legal thinking turned the gospel into a system of rules and penalties.",
+      "whatHistoriansSay": "The church inherited Roman law in three ways. First, Christian emperors legislated for it: Constantine recognised the bishop’s court (episcopalis audientia, c. 318), Book 16 of the Theodosian Code (438) gathered laws on religion, and Justinian’s Code and Novels (529–565) regulated clergy, property and orthodoxy. Second, bishops of Rome answered queries with decretals in the form of imperial rescripts, the earliest surviving being Siricius’ letter to Himerius of Tarragona (385). Third, the medieval revival of Roman law at Bologna (from the late eleventh century) shaped Gratian’s Decretum (c. 1140) and the papal law of the next centuries. Harold Berman argued that this ‘Papal Revolution’ created the first modern Western legal system. Whether legal categories distorted theology — Tertullian’s satisfaction, Anselm’s honour and debt, forensic justification — is a theological rather than a historical judgement, and Orthodox writers have often pressed it.",
+      "summary": "Church governance in both East and West was built with the tools of Roman law, from the bishop’s courts of Constantine to the codes of canon law in force today. Legal ideas also coloured Western theology.",
+      "story": "The earliest Christian ‘church orders’ — the Didache, the Apostolic Tradition, the Didascalia — were moral and liturgical rule books, not legal codes, and early councils issued short disciplinary canons. Roman law entered as soon as the church became a public institution. Constantine allowed litigants to take civil cases to the bishop, whose judgement was final (c. 318), granted clergy exemptions and let churches receive legacies. The Theodosian Code (438) devoted its sixteenth book to the church, heresy and paganism, and Justinian’s Corpus Iuris Civilis (529–534) and his Novels set rules for ordinations, monasteries and church property, presenting emperor and priesthood in ‘symphony’ (Novel 6).\n\nThe bishops of Rome used the forms of imperial administration. Siricius’ reply to Himerius of Tarragona (385) is the first surviving decretal, a letter answering questions with binding force like an imperial rescript. Leo the Great and Gelasius I wrote with the precision of trained Roman officials, and Gregory the Great administered the estates of the Roman church with a civil servant’s skill. Collections of canons followed: the Dionysiana of Dionysius Exiguus (c. 500), the Hispana associated with Isidore of Seville, and the forged Pseudo-Isidorian Decretals (c. 850), which strengthened bishops and the papacy with spurious early papal letters.\n\nLegal thinking shaped theology too. Tertullian, possibly trained in law, gave Latin theology terms such as persona, substantia and satisfactio; Cyprian applied Roman ideas of discipline and penance; the Germanic and Roman idea of compensation for offence lies behind the penitential system and, many argue, Anselm’s satisfaction theory of atonement (Cur Deus homo, 1098). The Reformation doctrine of forensic justification uses the courtroom image of acquittal.\n\nThe great turning point came with the Gregorian reform. Gregory VII’s Dictatus papae (1075) claimed for the pope the power to make new laws, and the rediscovery of Justinian’s Digest in Italy fuelled the law school of Bologna. Gratian’s Concordance of Discordant Canons (Decretum, c. 1140) harmonised a millennium of canons with scholastic method; the Liber Extra of Gregory IX (1234) and later collections formed the Corpus Iuris Canonici, the law of the Western church until the Code of Canon Law of 1917, replaced in 1983; the Eastern Catholic Churches received their own code in 1990. In the East, nomocanons combined imperial laws (nomoi) with church canons, culminating in the Greek Pedalion (1800). Canonists shaped European ideas of corporation, representation, marriage law and due process.\n\nLuther burned the books of canon law with the papal bull against him outside Wittenberg on 10 December 1520, but Protestant states soon wrote church ordinances and consistorial law, and the Church of England kept much medieval canon law. Anabaptists and later free churches rejected coercive church law altogether, while Orthodox theologians such as Alexei Khomiakov criticised Western ‘legalism’ as a distortion of the church as communion.",
+      "howItHappened": [
+        "Christian emperors legislated for the church and recognised episcopal courts (Constantine, the Theodosian Code, Justinian).",
+        "Papal decretals adopted the form and authority of imperial rescripts from 385.",
+        "Canon collections organised conciliar and papal rulings, including the forged Pseudo-Isidorian Decretals.",
+        "The revival of Roman law at Bologna produced Gratian’s Decretum and the classical canon law of the twelfth and thirteenth centuries.",
+        "Legal concepts — persona, satisfaction, jurisdiction, forensic acquittal — shaped Western theological language."
+      ],
+      "examples": [
+        "Constantine’s recognition of the bishop’s court (Theodosian Code 1.27.1, c. 318)",
+        "Siricius to Himerius of Tarragona (385), the earliest surviving papal decretal",
+        "Book 16 of the Theodosian Code (438) and Justinian’s Novel 6 on priesthood and empire",
+        "Gratian’s Decretum (c. 1140) and the Corpus Iuris Canonici",
+        "Luther burning canon law books at Wittenberg (10 December 1520)",
+        "The Code of Canon Law (1917, 1983) and the Code of Canons of the Eastern Churches (1990)"
+      ],
+      "defenders": [
+        { "name": "Leo the Great", "personId": "leo-i", "fatherId": "leo-the-great", "text": "Used precise Roman legal language to define papal authority and to rule on discipline across the West." },
+        { "name": "Isidore of Seville", "fatherId": "isidore-of-seville", "text": "His Etymologies (Book 5) defined law and canons, and the Hispana collection was later attributed to him." },
+        { "name": "Thomas Aquinas", "personId": "thomas-aquinas", "text": "Built a theology of eternal, natural, divine and human law that integrated Roman and canonical jurisprudence (Summa Theologiae I–II 90–108)." }
+      ],
+      "critics": [
+        { "name": "Martin Luther", "personId": "martin-luther", "text": "Burned the canon law in 1520 as human law that bound consciences and exalted the papacy." },
+        { "name": "Anabaptists", "text": "Rejected coercive church law and the use of the sword in matters of faith (Schleitheim Confession, 1527)." },
+        { "name": "Orthodox critics of Western legalism", "text": "Writers such as Khomiakov argued that juridical categories distorted the church and the doctrine of salvation." }
+      ],
+      "keptBy": [
+        "Catholic Church (Code of Canon Law 1983; Eastern Catholic code 1990)",
+        "Eastern Orthodox churches (canons and nomocanons, the Pedalion)",
+        "Church of England and Anglican provinces (canons and ecclesiastical courts)",
+        "Lutheran and Reformed church orders and consistories in adapted form"
+      ],
+      "rejectedBy": [
+        "Anabaptists and Mennonites (rejecting coercive church law)",
+        "Quakers and many free churches",
+        "Some Pentecostal and charismatic movements"
+      ],
+      "fatherIds": ["tertullian", "cyprian-of-carthage", "leo-the-great", "gregory-the-great", "isidore-of-seville"],
+      "traditionIds": ["catholic", "eastern-orthodox", "eastern-catholic", "anglican", "lutheran", "anabaptist", "mennonite"],
+      "relatedIds": ["pontifex-maximus-and-roman-titles", "latin-greek-language", "aristotle-scholasticism", "rhetoric-and-education"],
+      "sources": ["p4-brundage-medieval-canon-law", "p4-berman-law-revolution", "p4-jones-later-roman-empire", "p4-ullmann-papacy", "pelikan-christian-tradition", "tanner-decrees"],
+      "confidence": "established"
+    },
+    {
+      "id": "amulets-charms-folk-magic",
+      "name": "Amulets, charms, folk magic and the church",
+      "category": "popular-religion",
+      "sourceTradition": "folk-religion",
+      "sourceCulture": "Protective amulets, spoken charms, divination and healing magic, as in the Greek Magical Papyri and Germanic charms",
+      "christianForm": "Christian amulets with Scripture and the cross, healing charms invoking saints, sortes biblicae, sacramentals and blessings",
+      "startYear": 300,
+      "place": { "name": "Oxyrhynchus, Egypt", "lat": 28.5333, "lng": 30.65 },
+      "evidence": "plausible",
+      "evidenceNote": "Christian amulets and charms that adapt pagan formulae survive in large numbers, from Egyptian papyri to Anglo-Saxon manuscripts, and church leaders constantly condemned the practice, so the continuity of folk practice is beyond doubt. What is debated is how far the church deliberately accommodated magic (Valerie Flint’s thesis) and how far sacramentals and blessings themselves should be seen as ‘Christian magic’ (Keith Thomas) — a framing that itself reflects Protestant polemic.",
+      "popularClaim": "Medieval Christianity was mostly pagan magic with Christian words, and holy water, medals and blessings are just charms.",
+      "whatHistoriansSay": "Late antique Egypt has yielded many papyrus and parchment amulets with the Lord’s Prayer, Psalm 91, gospel incipits and the names of saints, sometimes mixed with older magical names and symbols; the Greek Magical Papyri show the pagan background. Bishops responded ambivalently: the Council of Laodicea (c. 363, canon 36) forbade clergy to make phylacteries; John Chrysostom attacked amulets but urged the sign of the cross instead; Augustine preferred that a sick person lay the Gospel on his head than run to an amulet (Tractates on John 7.12). In early medieval Europe Caesarius of Arles and councils such as Agde (506) condemned amulets and ‘lots of the saints’, while Anglo-Saxon charms such as the Æcerbot field remedy combined Masses and the Lord’s Prayer with invocations of ‘Erce, mother of earth’. Keith Thomas argued that the medieval church offered a kind of ‘church magic’ which Protestantism stripped away, while Eamon Duffy and others insist that late medieval devotion was coherent Christian piety, not paganism. Catholic theology distinguishes sacramentals, which work through the church’s prayer, from superstition, which it condemns.",
+      "summary": "Christians inherited a world in which amulets and charms were everywhere. The church condemned magic while offering Christian alternatives — the cross, Scripture, relics and blessings — and the boundary between devotion and magic was contested from late antiquity to the Reformation and beyond.",
+      "story": "In the Roman world almost everyone wore or used protection against illness, the evil eye and demons: inscribed gems, metal lamellae, knotted cords and papyrus slips with powerful names. The Greek Magical Papyri from Egypt preserve the recipes, often mixing Egyptian, Greek and Jewish divine names. Converts did not suddenly stop worrying about fever, childbirth or crops, and the New Testament itself records magicians becoming Christians and burning their books at Ephesus (Acts 19:19).\n\nThe church’s leaders were consistently hostile to magic but realistic about need. The Council of Laodicea (c. 363, canon 36) forbade clergy to be magicians, astrologers or makers of phylacteries. John Chrysostom condemned women who hung amulets, bells and red threads on children and mocked those who hung gospel books round their necks (Homilies on Matthew 72), yet recommended the sign of the cross as protection. Augustine told his congregation that he would praise a sick man who laid the Gospel on his head rather than go to an amulet, though he wished they would simply pray (Tractates on John 7.12). Surviving Christian amulets from Egypt, with the Lord’s Prayer, Psalm 91 or the opening of each gospel, show what ordinary believers actually did.\n\nIn the early medieval West the pattern continued. Caesarius of Arles (died 542) preached against diviners, ligatures and charms; the Council of Agde (506, canon 42) forbade the ‘lots of the saints’, consulting the Bible at random for guidance, a practice that nonetheless persisted. Anglo-Saxon manuscripts preserve charms such as the Æcerbot, in which a priest says Masses over sods of earth taken from a field while the farmer invokes ‘Erce, Erce, Erce, mother of earth’, and the Nine Herbs Charm, which names Woden alongside Christ. Valerie Flint argued that churchmen deliberately ‘rescued’ certain magical practices by Christianising them; Richard Kieckhefer and others see a more untidy coexistence of learned and popular culture.\n\nThe late Middle Ages had a rich system of blessed objects — holy water, Agnus Dei wax medallions, candles from Candlemas, palm crosses — and prayers to saints for protection against plague, fire and storms. Keith Thomas’s Religion and the Decline of Magic (1971) argued that Protestants rejected much of this as ‘popish magic’ and so contributed to the decline of magical thinking, though cunning folk, charms and witch beliefs remained widespread among Protestants too, and the early modern witch-hunts were driven by learned demonology in both confessions. Eamon Duffy’s The Stripping of the Altars (1992) argues that such devotions were integral to a coherent Catholic faith rather than pagan survivals.\n\nThe debate continues in global Christianity. The Catechism of the Catholic Church (2111–2117) condemns superstition, divination and wearing charms while commending sacramentals; Orthodox Christians wear crosses and use blessed oil and water; many Pentecostal and African Initiated Churches confront traditional charms directly, sometimes burning fetishes publicly while offering anointing oil, prayer cloths and blessed water — practices that critics in turn describe as new forms of Christian magic.",
+      "howItHappened": [
+        "Converts continued to seek protection against illness and evil spirits, using amulets and charms.",
+        "Christian formulae — the Lord’s Prayer, Psalm 91, gospel openings, the cross and saints’ names — replaced or joined pagan names on amulets.",
+        "Bishops and councils condemned magic while recommending the sign of the cross, prayer, Scripture and blessings instead.",
+        "Early medieval charms combined Christian liturgy with older invocations, especially for healing and fertility.",
+        "Protestant reformers attacked blessed objects as magic; Catholic theology distinguished sacramentals from superstition."
+      ],
+      "examples": [
+        "Christian papyrus amulets from Egypt with the Lord’s Prayer and Psalm 91 (fourth to seventh centuries)",
+        "Council of Laodicea (c. 363), canon 36, against clergy making phylacteries",
+        "Augustine, Tractates on John 7.12: the Gospel on the head rather than an amulet",
+        "Council of Agde (506), canon 42, condemning the ‘lots of the saints’",
+        "The Anglo-Saxon Æcerbot field charm invoking ‘Erce, mother of earth’ with Masses and the Lord’s Prayer",
+        "Agnus Dei wax medallions and Candlemas candles in late medieval devotion"
+      ],
+      "defenders": [
+        { "name": "Augustine of Hippo", "personId": "augustine-of-hippo", "fatherId": "augustine-of-hippo-father", "text": "Accepted the Gospel book laid on a sick person’s head as a lesser evil than pagan amulets, a model of accommodation." },
+        { "name": "John Chrysostom", "personId": "john-chrysostom", "fatherId": "john-chrysostom", "text": "Urged believers to protect children with the sign of the cross instead of amulets (Homilies on 1 Corinthians 12)." },
+        { "name": "Gregory the Great", "personId": "gregory-the-great", "fatherId": "gregory-the-great", "text": "His Dialogues popularised the protective power of the cross, holy water and saints’ relics against demons." }
+      ],
+      "critics": [
+        { "name": "John Chrysostom", "personId": "john-chrysostom", "fatherId": "john-chrysostom", "text": "Condemned amulets, incantations and gospel books worn as charms (Homilies on Matthew 72)." },
+        { "name": "Caesarius of Arles", "text": "Preached repeatedly against amulets, diviners and charms among baptised Christians in sixth-century Gaul." },
+        { "name": "John Calvin", "personId": "john-calvin", "text": "Treated holy water, blessed candles and similar objects as superstitious remnants of paganism and popery." }
+      ],
+      "keptBy": [
+        "Catholic Church (sacramentals: holy water, medals, blessings — distinguished from superstition)",
+        "Eastern Orthodox churches (blessed water, oil and crosses)",
+        "Folk Christianity across Europe, Latin America, Africa and Asia",
+        "Some Pentecostal and African Initiated Churches (anointing oil, prayer cloths, blessed water)"
+      ],
+      "rejectedBy": [
+        "Reformed and Presbyterian churches",
+        "Puritans and most evangelical Protestants",
+        "Official Catholic and Orthodox teaching, which condemns charms and divination as superstition"
+      ],
+      "fatherIds": ["augustine-of-hippo-father", "john-chrysostom", "gregory-the-great", "cyril-of-alexandria"],
+      "traditionIds": ["catholic", "eastern-orthodox", "coptic-orthodox", "reformed", "pentecostal", "african-initiated-churches"],
+      "relatedIds": ["holy-wells-sacred-places", "saints-and-local-gods", "relics-and-pilgrimage", "gnosticism-and-its-rejection", "all-saints-samhain"],
+      "sources": ["p4-flint-rise-of-magic", "p4-kieckhefer-magic", "p4-thomas-religion-decline-magic", "p4-skemer-binding-words", "p4-duffy-stripping-altars", "levack-witch-hunt"],
+      "confidence": "established"
+    },
+    {
+      "id": "latin-greek-language",
+      "name": "Latin and Greek: the languages of the church",
+      "category": "language-learning",
+      "sourceTradition": "classical-culture",
+      "sourceCulture": "Koine Greek and Latin, including the civic vocabulary of the polis and the formal register of Roman sacral prayer",
+      "christianForm": "The Greek New Testament and liturgy, Christian Latin, the Vulgate, the Roman Rite and a theological vocabulary in both languages",
+      "startYear": 180,
+      "place": { "name": "Rome", "lat": 41.8986, "lng": 12.4769 },
+      "evidence": "strong",
+      "evidenceNote": "That Christianity took over Greek and Latin — and with them civic, legal, philosophical and even pagan religious vocabulary — is documented in every surviving text. Christine Mohrmann showed that Roman liturgical Latin deliberately adopted the solemn style of Roman sacral prayer. The claim that Latin worship was a pagan imposition or a device to keep the Bible from the people is a polemical myth.",
+      "popularClaim": "The Latin Mass is a relic of pagan Rome, kept so that ordinary people could not understand the Bible or the liturgy.",
+      "whatHistoriansSay": "Christianity began in Aramaic and spread in Greek: the New Testament and the Septuagint were Greek, and the church of Rome itself worshipped and wrote in Greek until the third century (Clement, Hippolytus). Latin Christianity first appears in North Africa (the Scillitan martyrs, 180; Tertullian). Rome switched to Latin liturgy in the later fourth century, probably under Pope Damasus, precisely because Latin had become the vernacular of the city; the canon of the Mass is quoted by Ambrose (De sacramentis, c. 390). Jerome’s Vulgate (382–405) was commissioned to give a reliable Latin Bible for ordinary readers. Christine Mohrmann demonstrated that the Roman prayers deliberately used the archaic, solemn, legalistic style of pagan Roman prayer to sound dignified. Only later, as Latin ceased to be spoken, did it become a barrier — a problem the Reformers addressed with vernacular worship and the Catholic Church with Vatican II.",
+      "summary": "Christianity spoke the languages of the Roman world and borrowed their vocabulary — civic, legal, philosophical and religious. Latin and Greek began as vernaculars for mission and only later became sacred languages that divided clergy from people.",
+      "story": "The first Christians spoke Aramaic, but within a generation the movement’s texts were written in koine Greek, the common language of the eastern Mediterranean. Greek gave the church its name — ekklesia, the citizens’ assembly of a Greek city — and words such as leitourgia (a public service paid for by a citizen), episkopos (overseer), presbyteros (elder), diakonos (servant) and mysterion. Later theology drew on the philosophical Greek of ousia, hypostasis, physis and homoousios, which became the language of the creeds at Nicaea (325) and Chalcedon (451).\n\nLatin Christianity began not in Rome but in North Africa. The Acts of the Scillitan Martyrs (180) are the oldest dated Latin Christian text; Tertullian (c. 200) coined or gave a Christian sense to trinitas, persona, substantia and sacramentum (originally a soldier’s oath of allegiance). The Roman church wrote in Greek until the third century — Clement and Hippolytus wrote in Greek — and changed its liturgy to Latin in the later fourth century, when Greek was no longer understood by most Roman Christians. Pope Damasus commissioned Jerome to revise the Old Latin Bible (382), and the resulting Vulgate became the standard Western Bible for a thousand years.\n\nChristine Mohrmann’s studies of liturgical Latin showed that the Roman collects and canon deliberately imitated the archaic, solemn and legally precise register of Roman pagan prayer — doubled phrases, technical terms such as propitius, hostia, praesta quaesumus — to sound dignified in a society that associated religion with ancient formulae. At the same time Christian Latin transformed words: ‘pagan’ itself comes from paganus (a civilian or country dweller), used by Christians for non-Christians from the fourth century; gratia, salus, fides and religio acquired new meanings; Augustine’s On Christian Teaching (397–426) argued that classical rhetoric and learning could be ‘spoiled’ from the Egyptians for Christian use.\n\nOnce Latin ceased to be spoken, it became a learned and sacred language. Isidore of Seville and Bede taught it as a second language; Charlemagne’s reforms standardised it; the idea emerged of three sacred languages — Hebrew, Greek and Latin — inscribed on the Cross (John 19:20). Cyril and Methodius challenged this ‘trilingual’ view by creating Slavonic letters and liturgy, which Popes Hadrian II (868) and John VIII (880) approved. Humanists such as Lorenzo Valla and Erasmus returned to the Greek text and criticised the Vulgate, and Erasmus’s Greek New Testament (1516) underlay Luther’s German Bible.\n\nThe Reformers made vernacular worship a principle: Luther’s German Mass (1526) and Cranmer’s Book of Common Prayer (1549), whose Article 24 condemned services in ‘a tongue not understanded of the people’. The Council of Trent (1562) kept Latin while requiring that the Mass be explained in preaching. The Second Vatican Council (Sacrosanctum Concilium 36, 1963) permitted the vernacular, and Paul VI’s Missal (1969–70) was soon celebrated almost entirely in modern languages. Benedict XVI widened use of the older Latin rite (Summorum Pontificum, 2007), and Pope Francis restricted it again (Traditionis custodes, 2021). Greek remains the liturgical language of the Greek Orthodox churches, while other Orthodox and Oriental churches use Church Slavonic, Coptic, Ge’ez, Syriac and Armenian alongside modern vernaculars.",
+      "howItHappened": [
+        "The church adopted koine Greek and its civic vocabulary (ekklesia, leitourgia, episkopos) for mission across the eastern Mediterranean.",
+        "Latin Christianity developed in North Africa, where Tertullian forged a theological vocabulary from legal and everyday Latin.",
+        "Rome moved its liturgy from Greek to Latin in the later fourth century because Latin was the vernacular.",
+        "Roman prayers adopted the solemn style of pagan Roman sacral language, and Greek philosophy supplied doctrinal terms.",
+        "As Latin ceased to be spoken it became a sacred language, challenged by Slavonic missions, humanists, the Reformers and Vatican II."
+      ],
+      "examples": [
+        "Ekklesia, from the citizens’ assembly of the Greek polis",
+        "The Acts of the Scillitan Martyrs (180), the oldest dated Latin Christian text",
+        "Tertullian’s coinage of trinitas and Christian use of persona and sacramentum",
+        "Jerome’s Vulgate (382–405), commissioned by Pope Damasus",
+        "Council of Trent, Session 22 (1562), on Latin in the Mass",
+        "Sacrosanctum Concilium 36 (1963) permitting the vernacular"
+      ],
+      "defenders": [
+        { "name": "Augustine of Hippo", "personId": "augustine-of-hippo", "fatherId": "augustine-of-hippo-father", "text": "Argued in On Christian Teaching that pagan learning and rhetoric could be taken over like the Israelites’ ‘spoiling of the Egyptians’." },
+        { "name": "Jerome", "personId": "jerome", "fatherId": "jerome", "text": "Produced the Vulgate from Hebrew and Greek, making a Latin Bible in the vernacular of his time." },
+        { "name": "Cyril and Methodius", "personId": "cyril-and-methodius", "text": "Defended worship in Slavonic against the ‘trilingual’ view that only Hebrew, Greek and Latin were fit for liturgy." },
+        { "name": "Benedict XVI", "personId": "benedict-xvi", "text": "Defended Latin and the older Roman rite as a treasure of the church’s tradition (Summorum Pontificum, 2007)." }
+      ],
+      "critics": [
+        { "name": "Tertullian", "personId": "tertullian", "fatherId": "tertullian", "text": "Warned against philosophy’s influence on doctrine (‘What has Athens to do with Jerusalem?’), even as he shaped Latin theological vocabulary." },
+        { "name": "Martin Luther", "personId": "martin-luther", "text": "Translated the Bible and wrote the German Mass (1526) so that worship would be understood by the people." },
+        { "name": "Thomas Cranmer", "personId": "thomas-cranmer", "text": "His Book of Common Prayer (1549) replaced Latin with English, and the Articles condemned worship in an unknown tongue." },
+        { "name": "Paul VI", "personId": "paul-vi", "text": "Implemented a vernacular liturgy after Vatican II while urging that Latin and chant not be lost." }
+      ],
+      "keptBy": [
+        "Catholic Church (Latin as official language and in the Roman Rite, now mainly in vernacular translation)",
+        "Traditionalist Catholics and the Society of St Pius X (Latin Mass)",
+        "Greek Orthodox churches (liturgical Greek)",
+        "Classical languages in Protestant and Catholic theological education"
+      ],
+      "rejectedBy": [
+        "Lutheran, Reformed and Anglican Reformers (vernacular worship)",
+        "Most Protestant churches worldwide",
+        "Slavonic-rite churches from the ninth century, rejecting the ‘three languages’ theory"
+      ],
+      "fatherIds": ["tertullian", "jerome", "augustine-of-hippo-father", "isidore-of-seville", "bede", "clement-of-rome", "hippolytus-of-rome"],
+      "traditionIds": ["catholic", "eastern-orthodox", "church-of-greece", "society-of-st-pius-x", "lutheran", "anglican", "russian-orthodox"],
+      "relatedIds": ["rhetoric-and-education", "platonism-in-theology", "roman-law-canon-law", "pontifex-maximus-and-roman-titles", "week-and-calendar"],
+      "sources": ["p4-mohrmann-liturgical-latin", "p4-leonhardt-latin", "jungmann-mass-roman-rite", "p4-klauser-western-liturgy", "sacrosanctum-concilium-text", "m2-dvornik-byzantine-missions"],
+      "confidence": "established"
+    }
+  ],
+  "sources": [
+    { "id": "p4-klauser-western-liturgy", "title": "A Short History of the Western Liturgy: An Account and Some Reflections", "author": "Theodor Klauser", "year": 1979, "kind": "secondary", "note": "2nd English edition; on the imperial insignia (lights, incense, vestments) adopted by the Roman liturgy and the shift from Greek to Latin." },
+    { "id": "p4-wilkinson-egeria", "title": "Egeria’s Travels, 3rd ed.", "author": "John Wilkinson (trans. and ed.)", "year": 1999, "kind": "primary", "note": "Translation of Egeria’s Itinerarium (381–384), with censers at the Anastasis and the Jerusalem liturgy." },
+    { "id": "p4-mayo-vestments", "title": "A History of Ecclesiastical Dress", "author": "Janet Mayo", "year": 1984, "kind": "secondary", "note": "Standard survey of the origin of vestments in late Roman secular dress." },
+    { "id": "p4-delehaye-legends", "title": "The Legends of the Saints", "author": "Hippolyte Delehaye", "year": 1907, "kind": "secondary", "note": "Bollandist study (French 1905) distinguishing historical martyr cults from legends with pagan motifs." },
+    { "id": "p4-bartlett-dead-great-things", "title": "Why Can the Dead Do Such Great Things? Saints and Worshippers from the Martyrs to the Reformation", "author": "Robert Bartlett", "year": 2013, "kind": "secondary", "note": "Comprehensive history of the cult of saints and relics." },
+    { "id": "p4-frankfurter-christianizing-egypt", "title": "Christianizing Egypt: Syncretism and Local Worlds in Late Antiquity", "author": "David Frankfurter", "year": 2018, "kind": "secondary", "note": "On saints’ shrines, amulets and local religion in late antique Egypt." },
+    { "id": "p4-macmullen-christianity-paganism", "title": "Christianity and Paganism in the Fourth to Eighth Centuries", "author": "Ramsay MacMullen", "year": 1997, "kind": "secondary", "note": "Argues for extensive continuity of pagan practice within Christian worship and cult of saints." },
+    { "id": "p4-hunt-holy-land-pilgrimage", "title": "Holy Land Pilgrimage in the Later Roman Empire, AD 312–460", "author": "E. D. Hunt", "year": 1982, "kind": "secondary", "note": "Classic study of Constantinian building, Helena and early pilgrims." },
+    { "id": "p4-rattue-living-stream", "title": "The Living Stream: Holy Wells in Historical Context", "author": "James Rattue", "year": 1995, "kind": "secondary", "note": "Critical survey questioning assumed pagan origins of English holy wells." },
+    { "id": "p4-hutton-pagan-britain", "title": "Pagan Britain", "author": "Ronald Hutton", "year": 2013, "kind": "secondary", "note": "Evidence for pre-Christian religion in Britain and the problem of ‘survivals’." },
+    { "id": "p4-macneill-lughnasa", "title": "The Festival of Lughnasa", "author": "Máire MacNeill", "year": 1962, "kind": "secondary", "note": "Argues for the survival of a pre-Christian harvest festival in Irish hilltop and well assemblies." },
+    { "id": "p4-flint-rise-of-magic", "title": "The Rise of Magic in Early Medieval Europe", "author": "Valerie I. J. Flint", "year": 1991, "kind": "secondary", "note": "Argues that the early medieval church deliberately accommodated and Christianised some magic." },
+    { "id": "p4-kieckhefer-magic", "title": "Magic in the Middle Ages", "author": "Richard Kieckhefer", "year": 1989, "kind": "secondary", "note": "Survey of popular and learned magic and Christian charms." },
+    { "id": "p4-thomas-religion-decline-magic", "title": "Religion and the Decline of Magic", "author": "Keith Thomas", "year": 1971, "kind": "secondary", "note": "Classic study of ‘church magic’, the Reformation and popular belief in England." },
+    { "id": "p4-skemer-binding-words", "title": "Binding Words: Textual Amulets in the Middle Ages", "author": "Don C. Skemer", "year": 2006, "kind": "secondary", "note": "History of Christian textual amulets from late antiquity to the Middle Ages." },
+    { "id": "p4-duffy-stripping-altars", "title": "The Stripping of the Altars: Traditional Religion in England, c. 1400–c. 1580", "author": "Eamon Duffy", "year": 1992, "kind": "secondary", "note": "Defends late medieval devotion as coherent Christian piety rather than magic or paganism." },
+    { "id": "p4-jones-later-roman-empire", "title": "The Later Roman Empire, 284–602: A Social, Economic and Administrative Survey", "author": "A. H. M. Jones", "year": 1964, "kind": "secondary", "note": "Standard account of the civil dioceses, vicars and imperial administration the church mirrored." },
+    { "id": "p4-cameron-last-pagans", "title": "The Last Pagans of Rome", "author": "Alan Cameron", "year": 2011, "kind": "secondary", "note": "Includes discussion of Gratian’s abandonment of the title pontifex maximus." },
+    { "id": "p4-ullmann-papacy", "title": "A Short History of the Papacy in the Middle Ages", "author": "Walter Ullmann", "year": 1972, "kind": "secondary", "note": "On the Roman legal and imperial ideas behind papal government and titles." },
+    { "id": "p4-brundage-medieval-canon-law", "title": "Medieval Canon Law", "author": "James A. Brundage", "year": 1995, "kind": "secondary", "note": "Introduction to the sources and development of canon law and its debt to Roman law." },
+    { "id": "p4-berman-law-revolution", "title": "Law and Revolution: The Formation of the Western Legal Tradition", "author": "Harold J. Berman", "year": 1983, "kind": "secondary", "note": "Argues that the Papal Revolution and canon law created the Western legal tradition." },
+    { "id": "p4-mohrmann-liturgical-latin", "title": "Liturgical Latin: Its Origins and Character", "author": "Christine Mohrmann", "year": 1957, "kind": "secondary", "note": "Shows the Roman liturgy’s adoption of the style of pagan Roman sacral prayer." },
+    { "id": "p4-leonhardt-latin", "title": "Latin: Story of a World Language", "author": "Jürgen Leonhardt", "year": 2013, "kind": "secondary", "note": "History of Latin from Rome through the church, humanism and modern times." }
+  ]
+}

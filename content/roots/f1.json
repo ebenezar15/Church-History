@@ -1,0 +1,1665 @@
+{
+  "fathers": [
+    {
+      "id": "clement-of-rome",
+      "name": "Clement of Rome",
+      "personId": "clement-of-rome",
+      "died": 99,
+      "circa": true,
+      "school": "apostolic-fathers",
+      "language": "greek",
+      "see": {
+        "name": "Rome",
+        "lat": 41.8925,
+        "lng": 12.4853
+      },
+      "roles": [
+        "Presbyter-bishop of Rome (traditionally fourth bishop, after Peter, Linus and Anacletus)",
+        "Author of the letter of the Roman church to Corinth (1 Clement)",
+        "Saint and martyr in later tradition"
+      ],
+      "summary": "A leader of the Roman church in the 90s whose name was attached to the anonymous letter of the church of Rome to the church of Corinth (c. 96), the earliest Christian writing outside the New Testament that can be dated with some confidence. The letter's appeal to order, concord and an orderly succession of ministers made Clement a key witness in every later debate about church office.",
+      "story": "Almost nothing certain is known of Clement's life. The letter later called 1 Clement is sent in the name of 'the church of God which sojourns at Rome' and never names its author; the attribution comes from Dionysius of Corinth (c. 170), who said the letter was still read in his church on Sundays, and from Irenaeus (Against Heresies 3.3.3), who lists Clement as the third bishop of Rome after Linus and Anacletus and says he had seen the apostles. The Shepherd of Hermas (Vision 2.4.3) mentions a Clement whose task was to write to churches abroad, which fits the role of a corresponding secretary among Rome's presbyters. Older identifications with the Clement of Philippians 4:3 or with the consul Titus Flavius Clemens are not accepted by modern scholars.\n\nThe letter was occasioned by a revolt in Corinth in which some younger members had removed presbyters from office. Writing at length (65 chapters), the Roman church urges repentance, humility and 'peace and concord', drawing on dozens of examples from the Greek Old Testament, on the recent deaths of Peter and Paul (ch. 5) and even on the harmony of the cosmos and the legend of the phoenix (chs. 20 and 25). Its most influential passage (chs. 42–44) argues that Christ was sent from God, the apostles from Christ, and that the apostles appointed 'bishops and deacons' and made provision for other approved men to succeed them; the deposed presbyters should therefore be restored.\n\nHistorians date the letter c. 95–97, usually reading 'the sudden and repeated misfortunes' of chapter 1 as a reference to the last years of Domitian, though a minority prefer an earlier or later date. Peter Lampe's study of Roman Christianity argues that the city's house churches were then led collectively by presbyters and that a single ruling bishop emerged in Rome only in the mid-second century; on this reading Clement was a leading presbyter rather than a monarchical bishop, and the later succession lists project the later pattern back onto him.\n\nClement's prestige attracted other writings to his name: a sermon known as 2 Clement (bound with 1 Clement in the fifth-century Codex Alexandrinus), two letters on virginity, the Pseudo-Clementine Homilies and Recognitions (third–fourth century novels about Peter and Simon Magus), and the Apostolic Constitutions. A fourth-century legend made him a martyr exiled to the Crimea and drowned with an anchor; Cyril and Methodius claimed to have found his relics at Chersonesus and brought them to Rome c. 867–868, where they rest in the basilica of San Clemente.\n\nClement is commemorated as a saint by Catholic (23 November) and Orthodox (24 or 25 November) churches and is named in the Roman Canon of the Mass. Because 1 Clement uses 'bishop' and 'presbyter' interchangeably while also teaching an apostolic origin of church office, it has been cited both by defenders of episcopal succession and by Presbyterians arguing for the parity of ministers.",
+      "roots": [
+        {
+          "root": "hebrew-scripture",
+          "text": "The letter quotes or alludes to the Septuagint well over a hundred times, using Abraham, Lot, Rahab, Moses, Aaron's rod and the Levitical priesthood as models for humility and ordered ministry."
+        },
+        {
+          "root": "second-temple-judaism",
+          "text": "Its long prayer (chs. 59–61), its catalogue of examples and its synagogue-style homiletic exhortation reflect Hellenistic Jewish preaching of the Diaspora."
+        },
+        {
+          "root": "apostolic-tradition",
+          "text": "It knows Paul's 1 Corinthians and is close to Hebrews, and treats Peter and Paul as the 'noble examples of our own generation' martyred at Rome."
+        },
+        {
+          "root": "stoicism",
+          "text": "Chapter 20's picture of sun, moon, seasons and seas keeping their appointed order 'in concord' echoes Stoic and popular-philosophical cosmic harmony (homonoia), turned into an argument for church order."
+        },
+        {
+          "root": "roman-law",
+          "text": "The appeal to rank and to the Roman army's discipline (ch. 37) reflects Roman ideals of ordo; the letter also prays for the emperor and magistrates whose power is given by God (ch. 61)."
+        }
+      ],
+      "teachers": [],
+      "keyTeachings": [
+        "Christian ministry derives from God through Christ and the apostles, who appointed successors (chs. 42–44)",
+        "Bishops/presbyters who have served blamelessly may not justly be deposed",
+        "Humility, repentance, hospitality and 'peace and concord' as marks of the church",
+        "Justification by faith 'through which almighty God has justified all people from the beginning' (ch. 32), joined to a call to good works (ch. 33)",
+        "Prayer for rulers as appointed by God (chs. 60–61)",
+        "First Christian use of 'layman' (laikos, 40.5) for the people as distinct from the clergy"
+      ],
+      "works": [
+        {
+          "title": "First Letter to the Corinthians (1 Clement)",
+          "year": 96,
+          "workId": "clement-1-clement",
+          "note": "Letter of the Roman church to Corinth; read publicly at Corinth c. 170 and included in Codex Alexandrinus after the New Testament."
+        },
+        {
+          "title": "Second Letter of Clement (2 Clement)",
+          "year": 140,
+          "note": "An anonymous homily, the oldest surviving Christian sermon outside the New Testament; not by the author of 1 Clement."
+        },
+        {
+          "title": "Pseudo-Clementine Homilies and Recognitions",
+          "year": 330,
+          "note": "Later romances in Clement's name about Peter's mission; important sources for Jewish-Christian traditions, not for Clement."
+        }
+      ],
+      "doctrineContributions": [
+        {
+          "doctrineId": "church-sacraments",
+          "text": "1 Clement 42–44 is the earliest statement that ministers stand in an ordered succession from the apostles, and became a foundational text for apostolic succession."
+        },
+        {
+          "doctrineId": "salvation",
+          "text": "Chapters 32–33 hold together justification 'not through ourselves… but through faith' and the duty of good works, a pairing later cited by both Protestant and Catholic writers."
+        },
+        {
+          "doctrineId": "ethics-church-state",
+          "text": "Its prayer for rulers (chs. 60–61), written under a persecuting emperor, set a pattern of loyal intercession for the Roman state."
+        }
+      ],
+      "laterInfluence": [
+        {
+          "on": "Later Fathers",
+          "text": "Dionysius of Corinth, Irenaeus, Clement of Alexandria and Eusebius cite the letter; some Eastern lists (e.g. Apostolic Canon 85) counted 1 and 2 Clement as Scripture."
+        },
+        {
+          "on": "Medieval theology",
+          "text": "Clement's name carried the Pseudo-Clementines and the forged letters at the head of the Pseudo-Isidorian Decretals (ninth century), which strengthened papal claims."
+        },
+        {
+          "on": "The Reformers",
+          "text": "Unknown in Greek until Patrick Young published it from Codex Alexandrinus in 1633, it entered Reformation-era debates on episcopacy versus presbyterian parity."
+        },
+        {
+          "on": "Modern theology",
+          "text": "J. B. Lightfoot's edition (1869/1890) and twentieth-century ecumenical dialogue on ministry made 1 Clement a standard text for discussing the origins of the episcopate."
+        }
+      ],
+      "reception": [
+        {
+          "tradition": "Roman Catholic",
+          "view": "saint",
+          "text": "Venerated as Pope St Clement I, fourth bishop of Rome and martyr (23 November); named in the Roman Canon; the letter is cited as early evidence of Roman concern for other churches."
+        },
+        {
+          "tradition": "Eastern Orthodox",
+          "view": "saint",
+          "text": "Commemorated as hieromartyr Clement, bishop of Rome (24/25 November), and honoured as a disciple of the apostles."
+        },
+        {
+          "tradition": "Anglican",
+          "view": "saint",
+          "text": "Commemorated on 23 November; Anglican divines used 1 Clement to argue that episcopacy is apostolic."
+        },
+        {
+          "tradition": "Reformed and Presbyterian",
+          "view": "respected",
+          "text": "Valued as a witness to the faith of the sub-apostolic church; its interchangeable 'bishops and presbyters' is cited for the parity of elders."
+        }
+      ],
+      "controversies": [
+        "Whether Clement was a monarchical bishop or one of several Roman presbyters (Lampe, Sullivan)",
+        "Whether the letter shows an early Roman primacy or simply fraternal admonition between churches",
+        "Date of the letter (most c. 96; some earlier or into the second century)",
+        "The many pseudonymous writings attributed to him"
+      ],
+      "quote": {
+        "text": "Let us fix our gaze on the blood of Christ and understand how precious it is to his Father, because, poured out for our salvation, it won for the whole world the grace of repentance.",
+        "citation": "1 Clement 7.4"
+      },
+      "places": [
+        {
+          "name": "Rome",
+          "lat": 41.8925,
+          "lng": 12.4853,
+          "year": 96
+        },
+        {
+          "name": "Corinth",
+          "lat": 37.9056,
+          "lng": 22.8786,
+          "year": 96
+        },
+        {
+          "name": "Chersonesus (Crimea), place of his legendary exile",
+          "lat": 44.6116,
+          "lng": 33.493
+        }
+      ],
+      "sources": [
+        "m1-first-clement",
+        "f1-holmes-apostolic-fathers",
+        "f1-quasten-patrology",
+        "f1-lampe-paul-to-valentinus",
+        "f1-sullivan-apostles-bishops",
+        "eusebius-hist-eccl",
+        "odcc"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "ignatius-of-antioch",
+      "name": "Ignatius of Antioch",
+      "personId": "ignatius-of-antioch",
+      "born": 35,
+      "died": 110,
+      "circa": true,
+      "school": "apostolic-fathers",
+      "language": "greek",
+      "see": {
+        "name": "Antioch",
+        "lat": 36.2021,
+        "lng": 36.1601
+      },
+      "roles": [
+        "Bishop of Antioch (second or third, after Evodius)",
+        "Martyr in Rome under Trajan",
+        "Author of seven letters"
+      ],
+      "summary": "Bishop of Antioch who, under armed guard on his way to execution in Rome early in the second century, wrote seven letters to churches in Asia Minor and Rome. They are the earliest witness to a single bishop presiding over presbyters and deacons, to the phrase 'the catholic church', and to a sacramental realism about the Eucharist, and they set the pattern of martyrdom as the imitation of Christ.",
+      "story": "Ignatius, who called himself Theophoros ('God-bearer'), was bishop of Antioch in Syria, according to Eusebius the second after Peter's successor Evodius. Arrested during a local persecution under Trajan (98–117), he was escorted overland through Asia Minor by ten soldiers he called 'leopards'. Delegations of the churches met him on the way. At Smyrna, where he was received by Bishop Polycarp, he wrote to the Ephesians, Magnesians, Trallians and Romans; at Troas he wrote to the Philadelphians, the Smyrnaeans and Polycarp. He was presumably killed by beasts in Rome; the traditional date is c. 107–110, but many scholars allow anything up to the 130s.\n\nThe letters survive in three forms: a 'long recension' expanded in the fourth century with six spurious letters, a short Syriac abridgement of three letters (published by Cureton in 1845), and the 'middle recension' of seven letters matching Eusebius's list, recovered by James Ussher (1644) and Isaac Vossius (1646). The work of Theodor Zahn and J. B. Lightfoot (1885) persuaded most scholars that the middle recension is authentic. A minority (Joly, Hübner, Lechner) have argued that the letters are a forgery of c. 165–175; most specialists, including Schoedel, still accept them as genuine.\n\nIgnatius fought on two fronts. Against 'Docetists', who said Christ only seemed to suffer, he insisted that Christ was 'truly born, truly ate and drank, was truly persecuted under Pontius Pilate, truly crucified and died' (Trallians 9), and that those who deny this abstain from the Eucharist 'because they do not confess that the Eucharist is the flesh of our Saviour Jesus Christ' (Smyrnaeans 7). Against 'Judaizers' he wrote that 'it is absurd to talk of Jesus Christ and to practise Judaism' (Magnesians 10), and spoke of Christians 'no longer keeping the sabbath but living according to the Lord's day' (Magnesians 9). He is the first writer to use the word Christianismos.\n\nHis remedy for division was unity around one bishop, presbyters and deacons: 'Do nothing without the bishop'; one Eucharist, one altar; 'wherever the bishop appears, there let the people be, just as wherever Jesus Christ is, there is the catholic church' (Smyrnaeans 8). Since the Roman letter does not mention a bishop of Rome, and since Ignatius urges the threefold ministry so insistently, many historians think he was promoting an order not yet universal. The letter to the Romans, begging them not to intervene ('I am the wheat of God'), gave Christianity its classic theology of martyrdom as discipleship and union with Christ.\n\nIgnatius is venerated in East (20 December) and West (17 October). In the Reformation era the inflated long recension was attacked by Calvin and Milton, while Anglican apologists such as John Pearson (Vindiciae Epistolarum S. Ignatii, 1672) defended the authentic letters as proof that episcopacy was apostolic. Catholic and Orthodox writers continue to cite him on episcopacy and the Eucharist; Protestant scholars generally read him as evidence of a developing, rather than original, church order.",
+      "roots": [
+        {
+          "root": "apostolic-tradition",
+          "text": "Ignatius knows several letters of Paul, whom he consciously imitates as a prisoner writing to churches, and his language of life, union and 'flesh' is close to the Gospel of John."
+        },
+        {
+          "root": "second-temple-judaism",
+          "text": "His theology of martyrdom as a sacrifice and ransom parallels 4 Maccabees, a Hellenistic Jewish text probably also from Antioch."
+        },
+        {
+          "root": "rhetoric",
+          "text": "His florid, compressed 'Asianic' style, with its antitheses and rhythmic clauses, reflects Greek rhetorical training (Schoedel)."
+        },
+        {
+          "root": "anti-gnostic",
+          "text": "His insistence on Christ's real flesh is directed against Docetic teachers, forerunners of later Gnostic Christologies."
+        },
+        {
+          "root": "hebrew-scripture",
+          "text": "He quotes the Old Testament rarely, but calls the prophets 'disciples in the Spirit' who awaited Christ (Magnesians 9)."
+        }
+      ],
+      "teachers": [],
+      "keyTeachings": [
+        "One bishop, with presbyters and deacons, as the focus of each church's unity",
+        "'The catholic church' (Smyrnaeans 8.2), the first known use of the phrase",
+        "The Eucharist as 'the flesh of our Saviour' and 'the medicine of immortality' (Ephesians 20.2)",
+        "Christ as 'one physician, both fleshly and spiritual, born and unborn, God in man' (Ephesians 7.2)",
+        "Real humanity and suffering of Christ against Docetism",
+        "Martyrdom as imitation of Christ's passion and the way to 'attain to God'",
+        "Mary's virginity, childbearing and the Lord's death as 'three mysteries' hidden from the ruler of this age (Ephesians 19)"
+      ],
+      "works": [
+        {
+          "title": "Letter to the Ephesians",
+          "workId": "ignatius-letter-to-the-ephesians",
+          "note": "Written from Smyrna; contains the 'one physician' passage and the Eucharist as medicine of immortality."
+        },
+        {
+          "title": "Letter to the Magnesians",
+          "workId": "ignatius-letter-to-the-magnesians",
+          "note": "Against Judaizing; on the Lord's day replacing the sabbath."
+        },
+        {
+          "title": "Letter to the Trallians",
+          "workId": "ignatius-letter-to-the-trallians",
+          "note": "Against Docetism: Christ 'truly' born, crucified and raised."
+        },
+        {
+          "title": "Letter to the Romans",
+          "note": "Pleads with the Roman church not to prevent his martyrdom; 'I am the wheat of God'."
+        },
+        {
+          "title": "Letter to the Smyrnaeans",
+          "workId": "ignatius-letter-to-the-smyrnaeans",
+          "note": "First use of 'catholic church'; Eucharist as Christ's flesh; no valid Eucharist without the bishop or one he appoints."
+        },
+        {
+          "title": "Letters to the Philadelphians and to Polycarp",
+          "note": "Written from Troas; pastoral counsel on unity and the bishop's duties."
+        }
+      ],
+      "doctrineContributions": [
+        {
+          "doctrineId": "church-sacraments",
+          "text": "The earliest clear witness to the threefold ministry of bishop, presbyters and deacons, and to the bishop as guarantor of a valid Eucharist."
+        },
+        {
+          "doctrineId": "christology",
+          "text": "His paradoxical formulas ('born and unborn, God in man') and anti-Docetic insistence on Christ's flesh anticipate later two-nature Christology."
+        },
+        {
+          "doctrineId": "worship-liturgy",
+          "text": "Witness to a eucharistic realism and to Sunday ('the Lord's day') as the Christian day of worship."
+        }
+      ],
+      "laterInfluence": [
+        {
+          "on": "Later Fathers",
+          "text": "Polycarp collected his letters; Irenaeus and Origen quote him; a fourth-century editor expanded them into the long recension, which circulated widely in the Middle Ages."
+        },
+        {
+          "on": "The Reformers",
+          "text": "Calvin (Institutes 1.13.29) dismissed the Ignatian letters as worthless (he knew the interpolated version); the authenticity controversy became a proxy war over episcopacy in seventeenth-century England."
+        },
+        {
+          "on": "Orthodoxy",
+          "text": "Modern Orthodox 'eucharistic ecclesiology' (Afanasiev, Zizioulas) draws heavily on Ignatius's picture of the local church gathered around its bishop at one altar."
+        },
+        {
+          "on": "Modern theology",
+          "text": "His letters remain central to debates on the origins of the episcopate and of 'early Catholicism'."
+        }
+      ],
+      "reception": [
+        {
+          "tradition": "Roman Catholic",
+          "view": "saint",
+          "text": "Feast on 17 October; named in the Roman Canon; cited for episcopacy, the Eucharist and the term 'catholic church'."
+        },
+        {
+          "tradition": "Eastern Orthodox",
+          "view": "saint",
+          "text": "Feast on 20 December; called Theophoros and honoured as a model of eucharistic and episcopal unity."
+        },
+        {
+          "tradition": "Oriental Orthodox",
+          "view": "saint",
+          "text": "Venerated especially by the Syriac Orthodox Church of Antioch as one of its early patriarchs."
+        },
+        {
+          "tradition": "Anglican and Lutheran",
+          "view": "saint",
+          "text": "Commemorated on 17 October; Anglicans historically used him to defend apostolic episcopacy."
+        },
+        {
+          "tradition": "Reformed and Free Church",
+          "view": "respected",
+          "text": "Respected as a martyr, but often read as evidence of a post-apostolic development of church order."
+        }
+      ],
+      "controversies": [
+        "Authenticity and recensions of the letters",
+        "Date of his martyrdom (traditionally c. 107–110; possibly as late as the 130s)",
+        "Whether monepiscopacy was established practice or his own programme",
+        "Whether his eagerness for martyrdom was exemplary or excessive"
+      ],
+      "quote": {
+        "text": "I am the wheat of God, and I am being ground by the teeth of wild beasts, so that I may be found pure bread of Christ.",
+        "citation": "Ignatius, Letter to the Romans 4.1"
+      },
+      "places": [
+        {
+          "name": "Antioch",
+          "lat": 36.2021,
+          "lng": 36.1601
+        },
+        {
+          "name": "Smyrna",
+          "lat": 38.4192,
+          "lng": 27.1287,
+          "year": 108
+        },
+        {
+          "name": "Troas (Alexandria Troas)",
+          "lat": 39.7517,
+          "lng": 26.1583,
+          "year": 108
+        },
+        {
+          "name": "Philadelphia (Alaşehir)",
+          "lat": 38.35,
+          "lng": 28.5167,
+          "year": 108
+        },
+        {
+          "name": "Rome",
+          "lat": 41.8925,
+          "lng": 12.4853,
+          "year": 110
+        }
+      ],
+      "sources": [
+        "f1-holmes-apostolic-fathers",
+        "f1-schoedel-ignatius",
+        "f1-lightfoot-apostolic-fathers",
+        "f1-brent-ignatius",
+        "f1-quasten-patrology",
+        "kelly-doctrines",
+        "eusebius-hist-eccl"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "polycarp-of-smyrna",
+      "name": "Polycarp of Smyrna",
+      "personId": "polycarp",
+      "born": 69,
+      "died": 155,
+      "circa": true,
+      "school": "apostolic-fathers",
+      "language": "greek",
+      "see": {
+        "name": "Smyrna",
+        "lat": 38.4192,
+        "lng": 27.1287
+      },
+      "roles": [
+        "Bishop of Smyrna",
+        "Link between the apostolic generation and Irenaeus",
+        "Martyr"
+      ],
+      "summary": "Bishop of Smyrna for half a century, remembered by his pupil Irenaeus as one who had known John and others who had seen the Lord. His Letter to the Philippians and the account of his death, the Martyrdom of Polycarp, are among the most important texts of the second century, and his life links the apostolic age to the anti-Gnostic theology of Irenaeus.",
+      "story": "Irenaeus, who as a boy in Smyrna listened to Polycarp, recalled how he described 'his intercourse with John and with the others who had seen the Lord' (Letter to Florinus, in Eusebius, Ecclesiastical History 5.20) and said Polycarp had been appointed bishop 'by apostles in Asia' (Against Heresies 3.3.4). Modern historians accept the personal link to Irenaeus but debate whether the 'John' Polycarp knew was the apostle or the 'John the Elder' known to Papias. Ignatius met Polycarp at Smyrna c. 110 and addressed a letter to him.\n\nPolycarp's own Letter to the Philippians, written in response to their request for Ignatius's letters, is a plain moral exhortation saturated with the language of 1 Peter, 1 Clement and Paul's letters. It warns that 'everyone who does not confess that Jesus Christ has come in the flesh is antichrist' (7.1) and deals with a presbyter, Valens, who had fallen into avarice. P. N. Harrison (1936) proposed that it combines two letters (chapter 13 written c. 110, chapters 1–12 later), a theory still discussed. Its value lies in showing a collection of apostolic writings already functioning as authority before a formal canon.\n\nAround 154–155 the aged Polycarp travelled to Rome to discuss with Bishop Anicetus the date of Easter. Asian Christians kept the Pascha on 14 Nisan (the Jewish Passover date, hence 'Quartodecimans'), while Rome kept it on the following Sunday. Neither persuaded the other, but, as Irenaeus later reminded Pope Victor, they parted in peace and Anicetus let Polycarp celebrate the Eucharist in his church. In Rome, Irenaeus reports, Polycarp brought many followers of Marcion and Valentinus back to the church and greeted Marcion as 'the firstborn of Satan'.\n\nThe Martyrdom of Polycarp, a letter from the church of Smyrna to Philomelium, describes his arrest during a festival, his refusal to swear by Caesar's genius ('Eighty-six years I have served him'), his burning in the stadium and his death by the sword. It is the earliest martyr act outside the New Testament and the earliest evidence for the cult of the martyrs: the Smyrnaeans gathered his bones, 'more precious than costly stones', and resolved to celebrate the 'birthday' of his martyrdom each year. The date is usually given as 23 February 155 or 156, though Eusebius's Chronicle suggests 167. Some scholars (notably Candida Moss) argue that the text was reworked or composed later in the second or third century.\n\nPolycarp is venerated by all churches with a cult of saints (23 February), and Protestants have long honoured him as a model of steadfast faith; his martyrdom features in Foxe's Book of Martyrs. Historically his importance lies in continuity: through him Irenaeus could claim a living chain of teaching from the apostles in Asia to the church of Gaul.",
+      "roots": [
+        {
+          "root": "apostolic-tradition",
+          "text": "His letter weaves together phrases from 1 Peter, 1 John, the Pastoral Epistles and Paul's letters to the Philippians and Corinthians; Irenaeus presents him as a disciple of John."
+        },
+        {
+          "root": "earlier-fathers",
+          "text": "He used 1 Clement as a model and collected and forwarded the letters of Ignatius (Philippians 13)."
+        },
+        {
+          "root": "anti-gnostic",
+          "text": "He opposed Docetic teaching and, according to Irenaeus, confronted Marcion and the Valentinians in Rome."
+        },
+        {
+          "root": "second-temple-judaism",
+          "text": "The Quartodeciman Pascha he defended kept the Jewish date of Passover, reflecting the Jewish matrix of Asian Christianity."
+        }
+      ],
+      "teachers": [],
+      "keyTeachings": [
+        "Confession of Christ's coming in the flesh as the test of true faith",
+        "Righteousness, almsgiving and avoidance of avarice, especially among presbyters",
+        "Endurance in suffering after the example of Christ",
+        "Prayer for rulers and persecutors (Philippians 12)",
+        "Keeping the Pascha on 14 Nisan as received from John, while accepting differing custom"
+      ],
+      "works": [
+        {
+          "title": "Letter to the Philippians",
+          "year": 120,
+          "note": "His only surviving work; extant in Greek (chs. 1–9) and Latin; possibly two letters combined."
+        },
+        {
+          "title": "Martyrdom of Polycarp (by the church of Smyrna)",
+          "year": 156,
+          "note": "Account of his death; foundational text for the theology and cult of martyrs."
+        }
+      ],
+      "doctrineContributions": [
+        {
+          "doctrineId": "scripture-authority",
+          "text": "His letter shows an authoritative body of apostolic letters (and probably 1 Peter and 1 John) already shaping teaching before the canon was defined."
+        },
+        {
+          "doctrineId": "mary-saints",
+          "text": "The Martyrdom gives the first evidence for honouring a martyr's relics and annual commemoration of the day of death."
+        },
+        {
+          "doctrineId": "worship-liturgy",
+          "text": "His meeting with Anicetus is the first recorded episode in the Paschal (Easter-dating) controversy."
+        }
+      ],
+      "laterInfluence": [
+        {
+          "on": "Later Fathers",
+          "text": "Irenaeus built his argument from apostolic succession partly on his own memory of Polycarp; Eusebius preserved the Martyrdom and the Easter story."
+        },
+        {
+          "on": "Medieval theology",
+          "text": "The Martyrdom became the template for the vast literature of martyr acts and for the liturgical cult of saints' relics."
+        },
+        {
+          "on": "The Reformers",
+          "text": "Protestant martyrologists, notably John Foxe, presented Polycarp as a model of faithful witness."
+        },
+        {
+          "on": "Modern theology",
+          "text": "He remains a test case for questions about the formation of the canon, the Johannine circle in Asia and the authenticity of martyr acts."
+        }
+      ],
+      "reception": [
+        {
+          "tradition": "Roman Catholic",
+          "view": "saint",
+          "text": "Feast on 23 February; regarded as an apostolic father and witness to tradition."
+        },
+        {
+          "tradition": "Eastern Orthodox",
+          "view": "saint",
+          "text": "Hieromartyr Polycarp, commemorated 23 February."
+        },
+        {
+          "tradition": "Oriental Orthodox",
+          "view": "saint",
+          "text": "Commemorated in the Coptic, Syriac and Armenian calendars."
+        },
+        {
+          "tradition": "Anglican and Lutheran",
+          "view": "saint",
+          "text": "Commemorated on 23 February in Anglican and many Lutheran calendars."
+        },
+        {
+          "tradition": "Evangelical and Free Church",
+          "view": "respected",
+          "text": "Honoured as an exemplary martyr and early witness to apostolic teaching."
+        }
+      ],
+      "controversies": [
+        "Whether the John he knew was the apostle or John the Elder",
+        "Unity and date of the Letter to the Philippians",
+        "Date (155/156 or 167) and possible later editing of the Martyrdom",
+        "The Quartodeciman dispute over the date of Easter"
+      ],
+      "quote": {
+        "text": "Eighty-six years have I served him, and he has done me no wrong. How then can I blaspheme my King who saved me?",
+        "citation": "Martyrdom of Polycarp 9.3"
+      },
+      "places": [
+        {
+          "name": "Smyrna",
+          "lat": 38.4192,
+          "lng": 27.1287
+        },
+        {
+          "name": "Philippi (recipients of his letter)",
+          "lat": 41.0131,
+          "lng": 24.2864,
+          "year": 120
+        },
+        {
+          "name": "Rome",
+          "lat": 41.8925,
+          "lng": 12.4853,
+          "year": 154
+        }
+      ],
+      "sources": [
+        "f1-holmes-apostolic-fathers",
+        "f1-hartog-polycarp",
+        "f1-hill-lost-teaching-polycarp",
+        "f1-quasten-patrology",
+        "eusebius-hist-eccl",
+        "brown-cult-saints",
+        "odcc"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "didache-community",
+      "name": "The Didache and its community",
+      "born": 50,
+      "died": 120,
+      "circa": true,
+      "school": "apostolic-fathers",
+      "language": "greek",
+      "see": {
+        "name": "Syria (probably near Antioch)",
+        "lat": 36.2021,
+        "lng": 36.1601
+      },
+      "roles": [
+        "Anonymous church manual ('The Teaching of the Twelve Apostles')",
+        "Witness to a Jewish-Christian community",
+        "Earliest surviving church order"
+      ],
+      "summary": "An anonymous, composite church manual from the late first or early second century, probably from Syria, rediscovered in 1873. It gives moral instruction (the 'Two Ways'), directions for baptism, fasting, prayer and the Eucharist, and rules for travelling apostles, prophets and local bishops and deacons, offering a rare view of a Christian community still close to its Jewish roots. The years shown are an approximate range of composition, not a life.",
+      "story": "Known from ancient references but lost for centuries, the Didache ('Teaching') was found in 1873 by Metropolitan Philotheos Bryennios in a manuscript of 1056 (Codex Hierosolymitanus) in the library of the Jerusalem patriarchate in Constantinople, and published in 1883. Its full title is 'The Teaching of the Lord to the Gentiles through the Twelve Apostles'. Apart from a small fourth-century papyrus fragment from Oxyrhynchus, earlier evidence is indirect: Eusebius placed it among disputed books, Athanasius (Festal Letter 39, 367) recommended it for catechumens, and the fourth-century Apostolic Constitutions (book 7) absorbed and expanded it.\n\nMost scholars see the text as layered, compiled between about 50 and 120, and locate it in Syria or Syria-Palestine. Chapters 1–6 set out 'two ways, one of life and one of death', a Jewish moral catechism closely paralleled in the Epistle of Barnabas, the Latin Doctrina apostolorum and the Dead Sea Scrolls' Community Rule (1QS 3–4), with sayings of Jesus inserted. It forbids abortion and infanticide (2.2), the earliest explicit Christian prohibition.\n\nChapters 7–10 are liturgical. Baptism is to be 'in the name of the Father and of the Son and of the Holy Spirit' in 'living' (running) water, but if none is available water may be poured three times on the head (7.3), the earliest reference to baptism by affusion. Christians fast on Wednesdays and Fridays rather than Mondays and Thursdays with 'the hypocrites', and pray the Lord's Prayer three times a day. The eucharistic prayers over the cup and broken bread (chs. 9–10) closely follow Jewish table blessings (the Birkat ha-Mazon), speak of the church being gathered 'from the ends of the earth' like scattered grain, admit only the baptised, and end with the Aramaic cry 'Maranatha'.\n\nChapters 11–15 regulate a church in transition. Wandering apostles and prophets are to be welcomed, but one who stays more than two days or asks for money is a false prophet; true prophets are 'your high priests' and receive first-fruits. The community is told to 'appoint for yourselves bishops and deacons' who also perform the ministry of prophets and teachers (15.1), and to gather 'on the Lord's own day' to break bread after confessing sins, 'that your sacrifice may be pure', citing Malachi 1:11 (ch. 14). Chapter 16 closes with an apocalyptic warning of the last days.\n\nBecause it seems to show charismatic, itinerant ministry giving way to settled local office, and Jewish practices being adapted for Gentile converts, the Didache is central to modern accounts of early church order and liturgy. Different traditions read it in their own light: Catholics and Orthodox note its sacrificial language for the Eucharist, Baptists and others its preference for immersion in running water, and many Protestants its simplicity.",
+      "roots": [
+        {
+          "root": "second-temple-judaism",
+          "text": "The Two Ways catechism, the fasting days, thrice-daily prayer and the eucharistic thanksgivings are adaptations of Jewish moral teaching and table prayers; Jonathan Draper and van de Sandt and Flusser stress its Jewish matrix."
+        },
+        {
+          "root": "hebrew-scripture",
+          "text": "It applies Malachi 1:11 ('a pure offering in every place') to the Sunday Eucharist and draws on Zechariah 14:5 for its eschatology."
+        },
+        {
+          "root": "apostolic-tradition",
+          "text": "It contains Jesus' sayings (close to Matthew's Sermon on the Mount) and a form of the Lord's Prayer close to Matthew 6, possibly from shared oral tradition."
+        }
+      ],
+      "teachers": [],
+      "keyTeachings": [
+        "The 'Two Ways' of life and death as pre-baptismal moral instruction",
+        "Baptism in the triune name, preferably in running water, with pouring permitted",
+        "Fasting on Wednesdays and Fridays; the Lord's Prayer three times daily",
+        "Eucharistic thanksgivings over cup and bread, for the baptised only",
+        "Testing of itinerant apostles and prophets; appointment of local bishops and deacons",
+        "Sunday gathering with confession of sins, so that 'your sacrifice may be pure'"
+      ],
+      "works": [
+        {
+          "title": "Didache (The Teaching of the Twelve Apostles)",
+          "year": 100,
+          "workId": "didache",
+          "note": "Sixteen short chapters; full Greek text known from a single manuscript of 1056, plus fragments and translations."
+        }
+      ],
+      "doctrineContributions": [
+        {
+          "doctrineId": "baptism",
+          "text": "Earliest explicit instructions for baptismal practice, including triune formula, preparatory fasting and permitted affusion."
+        },
+        {
+          "doctrineId": "worship-liturgy",
+          "text": "Earliest surviving eucharistic prayers and evidence for Sunday worship, weekly fasts and fixed prayer times."
+        },
+        {
+          "doctrineId": "church-sacraments",
+          "text": "Shows the transition from itinerant charismatic ministry to locally appointed bishops and deacons."
+        },
+        {
+          "doctrineId": "sexuality-marriage",
+          "text": "Its prohibition of abortion and infanticide (2.2) became a foundation of Christian sexual and life ethics."
+        }
+      ],
+      "laterInfluence": [
+        {
+          "on": "Later Fathers",
+          "text": "Used as a catechetical text and absorbed into the Didascalia Apostolorum and the Apostolic Constitutions, the main line of 'church order' literature."
+        },
+        {
+          "on": "Modern theology",
+          "text": "Its rediscovery in 1883 caused a sensation; Adolf von Harnack's commentary (1884) made it a key text for theories of early church development."
+        },
+        {
+          "on": "Liturgy",
+          "text": "Twentieth-century liturgical renewal, Catholic and Protestant, drew on its eucharistic prayers; phrases from Didache 9 appear in modern hymns and eucharistic texts."
+        }
+      ],
+      "reception": [
+        {
+          "tradition": "Roman Catholic",
+          "view": "respected",
+          "text": "Valued as an apostolic-era witness to baptism, Sunday Eucharist as 'sacrifice' and church office; cited in the Catechism of the Catholic Church on abortion (CCC 2271)."
+        },
+        {
+          "tradition": "Eastern Orthodox",
+          "view": "respected",
+          "text": "Rediscovered by an Orthodox metropolitan; honoured as part of the apostolic tradition behind later canons."
+        },
+        {
+          "tradition": "Protestant",
+          "view": "respected",
+          "text": "Read as evidence for a simple, early Christian practice; Baptists cite its preference for immersion, others its permission of pouring."
+        }
+      ],
+      "controversies": [
+        "Date (from c. 50 to the mid-second century) and stages of composition",
+        "Place of origin (Syria, Palestine or Egypt)",
+        "Whether chapters 9–10 describe a Eucharist, an agape meal, or both",
+        "Relationship to the Gospel of Matthew"
+      ],
+      "quote": {
+        "text": "As this broken bread was scattered upon the mountains and, being gathered together, became one, so let your church be gathered together from the ends of the earth into your kingdom.",
+        "citation": "Didache 9.4"
+      },
+      "places": [
+        {
+          "name": "Antioch and Syria (probable origin)",
+          "lat": 36.2021,
+          "lng": 36.1601,
+          "year": 100
+        },
+        {
+          "name": "Oxyrhynchus (4th-century papyrus fragment)",
+          "lat": 28.5354,
+          "lng": 30.6553,
+          "year": 350
+        },
+        {
+          "name": "Constantinople (rediscovery by Bryennios)",
+          "lat": 41.0082,
+          "lng": 28.9784,
+          "year": 1873
+        }
+      ],
+      "sources": [
+        "f1-niederwimmer-didache",
+        "f1-van-de-sandt-flusser-didache",
+        "f1-holmes-apostolic-fathers",
+        "bradshaw-origins-worship",
+        "ferguson-baptism",
+        "f1-quasten-patrology"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "papias-of-hierapolis",
+      "name": "Papias of Hierapolis",
+      "personId": "papias",
+      "born": 60,
+      "died": 130,
+      "circa": true,
+      "school": "apostolic-fathers",
+      "language": "greek",
+      "see": {
+        "name": "Hierapolis (Phrygia)",
+        "lat": 37.9258,
+        "lng": 29.1258
+      },
+      "roles": [
+        "Bishop of Hierapolis in Phrygia",
+        "Collector of oral traditions about Jesus and the apostles",
+        "Author of the Exposition of the Sayings of the Lord"
+      ],
+      "summary": "Bishop of Hierapolis in Phrygia in the early second century and author of a five-book Exposition of the Sayings of the Lord, now lost. Fragments preserved by Irenaeus and Eusebius include the earliest statements about the origins of the Gospels of Mark and Matthew and an earthy millenarian hope, which made him both a prized witness and an embarrassment to later writers.",
+      "story": "Papias was bishop of Hierapolis, a city in the Lycus valley near Laodicea and Colossae, where Christian tradition also placed Philip and his prophesying daughters. Irenaeus calls him 'a hearer of John and a companion of Polycarp, a man of old time'. Eusebius, quoting Papias's preface, argued that he distinguished the apostle John from a 'John the Elder', whom Papias had heard directly along with an Aristion. This distinction remains central to debates over the authorship of the Johannine writings.\n\nIn his preface Papias explains that he questioned those who had followed 'the elders' about what Andrew, Peter, Philip, Thomas, James, John, Matthew and other disciples had said, 'for I did not suppose that things from books would help me as much as the utterances of a living and abiding voice' (Eusebius, Ecclesiastical History 3.39.4). His book, usually dated c. 110–130 (Richard Bauckham argues for c. 110), survives only in quotations.\n\nThe most famous fragments concern the Gospels. The Elder said that Mark, 'having become Peter's interpreter, wrote down accurately, though not in order, whatever he remembered of the things said or done by the Lord'; and 'Matthew collected the sayings (logia) in the Hebrew language, and each interpreted them as best he could'. These statements shaped all later tradition about Gospel authorship. Modern scholars debate their value: some treat them as late apologetic, others (notably Bauckham in Jesus and the Eyewitnesses) as serious evidence of eyewitness testimony behind the Gospels.\n\nPapias also passed on traditions that later readers found strange: a lurid account of the death of Judas, and a prophecy, attributed via the elders to Jesus, of a coming earthly kingdom in which each vine would have ten thousand branches and each grape yield twenty-five measures of wine (Irenaeus, Against Heresies 5.33.3–4), a picture closely paralleled in the Jewish apocalypse 2 Baruch 29. Irenaeus accepted this millenarianism; Eusebius, hostile to chiliasm, judged Papias 'a man of very small intelligence'. The story of the woman accused of many sins before the Lord, which Eusebius says Papias knew, may be related to the passage of the woman taken in adultery (John 7:53–8:11).\n\nPapias's reputation thus rose and fell with the church's view of millenarianism. He is listed in the Roman Martyrology (22 February) and honoured as an early bishop in the East, while modern New Testament scholarship treats his fragments as indispensable, if contested, evidence for the transmission of the Jesus tradition.",
+      "roots": [
+        {
+          "root": "apostolic-tradition",
+          "text": "He deliberately sought oral testimony from 'the elders' who had known the apostles, preferring the 'living voice' to written books."
+        },
+        {
+          "root": "second-temple-judaism",
+          "text": "His vision of a superabundant messianic kingdom parallels Jewish apocalyptic texts such as 2 Baruch 29:5 and 1 Enoch 10."
+        },
+        {
+          "root": "hebrew-scripture",
+          "text": "His millenarian hope reflects prophetic promises of renewed fertility (Isaiah 65; Amos 9:13)."
+        },
+        {
+          "root": "rhetoric",
+          "text": "His preference for the 'living voice' echoes a commonplace of Greek historians and teachers who valued eyewitness testimony (autopsia) over books."
+        }
+      ],
+      "teachers": [],
+      "keyTeachings": [
+        "Priority of living oral testimony from the elders over written books",
+        "Mark as Peter's interpreter; Matthew as collector of the Lord's sayings 'in Hebrew'",
+        "A literal thousand-year reign of Christ on a renewed earth (chiliasm)",
+        "Interpretation of the Lord's sayings (logia) as the core of Christian teaching"
+      ],
+      "works": [
+        {
+          "title": "Exposition of the Sayings of the Lord (Logion Kyriakon Exegesis), 5 books",
+          "year": 115,
+          "note": "Lost; fragments in Irenaeus, Eusebius and later Byzantine writers such as Philip of Side and Apollinaris of Laodicea."
+        }
+      ],
+      "doctrineContributions": [
+        {
+          "doctrineId": "scripture-authority",
+          "text": "His testimony on Mark and Matthew is the earliest external evidence on the authorship of the Gospels."
+        },
+        {
+          "doctrineId": "eschatology",
+          "text": "A leading early witness to chiliasm, passed on through Irenaeus and later opposed by Origen, Eusebius and Augustine."
+        }
+      ],
+      "laterInfluence": [
+        {
+          "on": "Later Fathers",
+          "text": "Irenaeus used him to support millenarianism; Eusebius quoted him on the Gospels while disparaging his intelligence; Jerome included him in On Illustrious Men."
+        },
+        {
+          "on": "Modern theology",
+          "text": "Central to Synoptic-problem and Gospel-authorship debates, from Schleiermacher's 'logia' theory to Bauckham's eyewitness thesis."
+        },
+        {
+          "on": "Millenarian movements",
+          "text": "Modern premillennialists cite Papias as evidence that chiliasm was the earliest Christian eschatology."
+        }
+      ],
+      "reception": [
+        {
+          "tradition": "Roman Catholic",
+          "view": "saint",
+          "text": "Listed in the Roman Martyrology (22 February) as bishop of Hierapolis; his testimony is cited for the apostolic origin of the Gospels."
+        },
+        {
+          "tradition": "Eastern Orthodox",
+          "view": "respected",
+          "text": "Honoured as an early bishop and disciple of the elders, though his millenarianism is not followed."
+        },
+        {
+          "tradition": "Protestant",
+          "view": "respected",
+          "text": "Valued by scholars as a key witness to Gospel origins; premillennialists see him as an ally."
+        }
+      ],
+      "controversies": [
+        "Whether John the Elder and John the apostle were different people",
+        "Historical reliability of his statements about Mark and Matthew",
+        "Meaning of 'in the Hebrew language' and of 'logia'",
+        "His millenarianism and Eusebius's disparagement"
+      ],
+      "quote": {
+        "text": "For I did not suppose that things from books would help me as much as the utterances of a living and abiding voice.",
+        "citation": "Papias, in Eusebius, Ecclesiastical History 3.39.4"
+      },
+      "places": [
+        {
+          "name": "Hierapolis (Phrygia)",
+          "lat": 37.9258,
+          "lng": 29.1258,
+          "year": 115
+        },
+        {
+          "name": "Ephesus (Asian circle of the elders)",
+          "lat": 37.9411,
+          "lng": 27.3419
+        }
+      ],
+      "sources": [
+        "eusebius-hist-eccl",
+        "f1-holmes-apostolic-fathers",
+        "f1-bauckham-eyewitnesses",
+        "f1-hill-lost-teaching-polycarp",
+        "hill-regnum-caelorum",
+        "f1-quasten-patrology"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "justin-martyr",
+      "name": "Justin Martyr",
+      "personId": "justin-martyr",
+      "born": 100,
+      "died": 165,
+      "circa": true,
+      "school": "apologists",
+      "language": "greek",
+      "see": {
+        "name": "Rome",
+        "lat": 41.8925,
+        "lng": 12.4853
+      },
+      "roles": [
+        "Philosopher and lay teacher in Rome",
+        "Apologist",
+        "Martyr"
+      ],
+      "summary": "A Samaritan-born Greek philosopher who converted to Christianity and taught it in Rome as 'the only safe and profitable philosophy'. His Apologies and Dialogue with Trypho are the fullest Christian writings of the mid-second century: they present Christ as the Logos whose 'seeds' were sown in Greek philosophy, argue from prophecy against Jewish objections, and give the earliest detailed description of baptism and the Sunday Eucharist. He was beheaded in Rome c. 165.",
+      "story": "Justin was born c. 100 at Flavia Neapolis (ancient Shechem, modern Nablus) in Samaria, into a pagan family of Greek culture. In the Dialogue with Trypho he describes his search for truth through a Stoic, a Peripatetic who asked for fees, a Pythagorean who demanded geometry and music, and finally a Platonist, until an old man by the sea pointed him to the Hebrew prophets, who had seen and announced the truth. 'A fire was kindled in my soul.' He became a Christian c. 130, probably at Ephesus, continued to wear the philosopher's cloak, and taught in a rented room in Rome 'above the baths of Myrtinus'.\n\nHis First Apology (c. 150–155), addressed to Antoninus Pius and his sons, protests that Christians are condemned for the mere name and explains their beliefs and worship. The Second Apology (c. 161) responds to executions under the prefect Urbicus. Justin argues that the divine Logos, fully revealed in Jesus, had sown 'seeds of the Word' (logos spermatikos) in all humanity, so that Socrates and Heraclitus, who lived 'with the Logos', were in a sense Christians (1 Apol. 46); 'whatever has been rightly said by anyone belongs to us Christians' (2 Apol. 13). At the same time he claimed that Plato borrowed from Moses, and that demons had produced pagan myths and rites, such as the Mithraic bread-and-cup ceremony, as counterfeits of Christian truth (1 Apol. 66).\n\nThe Dialogue with Trypho (c. 155–160), set at Ephesus shortly after the Bar Kokhba war (132–135), is the longest early Christian engagement with Judaism. Justin argues from the Septuagint that the Law was temporary, that Jesus is the Christ foretold by the prophets, and that a 'second God', the Logos, appeared to the patriarchs in the theophanies. He presents Mary as the obedient counterpart of disobedient Eve (Dial. 100), an idea Irenaeus developed, and holds a millenarian hope while admitting that 'many pure and pious Christians' think otherwise.\n\nChapters 61–67 of the First Apology describe Christian initiation and worship in Rome: baptism as 'illumination' in the name of the Father, Son and Spirit; then, 'on the day called the day of the Sun', a gathering in which 'the memoirs of the apostles or the writings of the prophets' are read, the president preaches, prayers are offered, bread and wine mixed with water are brought, the president gives thanks 'as he is able' and the people answer Amen; the food 'is not common bread and common drink' but 'the flesh and blood of that incarnate Jesus'; deacons take it to the absent, and a collection supports orphans, widows and prisoners.\n\nDenounced, according to Tatian, by the Cynic philosopher Crescens, Justin was tried with six companions before the city prefect Junius Rusticus (Marcus Aurelius's Stoic teacher) and beheaded c. 165; the Acts of Justin preserve the trial. His pupil Tatian later founded an ascetic movement and compiled the Diatessaron. Justin's openness to philosophy made him a patron of later Christian humanism; his subordinationist language about the Logos made him a precursor rather than a model of Nicene orthodoxy.",
+      "roots": [
+        {
+          "root": "middle-platonism",
+          "text": "His doctrine of a transcendent, unnameable Father and a mediating Logos, and his account of the soul's ascent, draw on second-century Middle Platonism; he says Plato's teaching on the incorporeal 'gave wings to my mind'."
+        },
+        {
+          "root": "stoicism",
+          "text": "The idea of the logos spermatikos (seminal reason) present in all people is Stoic in origin, reworked into a Christian theology of partial revelation."
+        },
+        {
+          "root": "philo",
+          "text": "His Logos theology and exegesis of Old Testament theophanies resemble Philo of Alexandria, though direct dependence is debated."
+        },
+        {
+          "root": "hebrew-scripture",
+          "text": "His central argument is the 'proof from prophecy': the fulfilment of the Septuagint's predictions in Jesus."
+        },
+        {
+          "root": "second-temple-judaism",
+          "text": "The Dialogue reflects real contact with Jewish exegesis and debates of the period after 135."
+        },
+        {
+          "root": "rhetoric",
+          "text": "He adopted the forensic petition (apologia) to the emperor and the philosophical dialogue, two classical genres."
+        }
+      ],
+      "teachers": [],
+      "keyTeachings": [
+        "Christ as the Logos, of whom all humanity partakes; 'seeds of the Word' in Greek philosophy",
+        "Christianity as the true philosophy",
+        "Proof from prophecy: Jesus as the fulfilment of the Hebrew Scriptures",
+        "The Logos as 'another God', distinct in number from the Father but one in will (Dial. 56, 128)",
+        "Mary as the new Eve",
+        "Description of baptism and the Sunday Eucharist as Christ's flesh and blood",
+        "Pagan myths and rites as demonic imitations of Christian truth"
+      ],
+      "works": [
+        {
+          "title": "First Apology",
+          "year": 155,
+          "workId": "justin-first-apology",
+          "note": "Addressed to Antoninus Pius; includes the earliest full description of Christian baptism and Sunday worship (chs. 61–67)."
+        },
+        {
+          "title": "Second Apology",
+          "year": 161,
+          "workId": "justin-second-apology",
+          "note": "Addressed to the Roman Senate after unjust executions; develops the logos spermatikos."
+        },
+        {
+          "title": "Dialogue with Trypho",
+          "year": 158,
+          "workId": "justin-dialogue-with-trypho",
+          "note": "Debate with a Jewish teacher on the Law, prophecy and Christ."
+        },
+        {
+          "title": "Syntagma against All Heresies; Against Marcion",
+          "note": "Lost works mentioned by Justin and Irenaeus; the first Christian heresiology."
+        }
+      ],
+      "doctrineContributions": [
+        {
+          "doctrineId": "revelation-apologetics",
+          "text": "Founded the Christian apologetic tradition and the idea of 'seeds of the Word' outside the church."
+        },
+        {
+          "doctrineId": "mission-religions",
+          "text": "His logos spermatikos remains the classic patristic basis for a positive view of truth in other cultures and philosophies (cited in Vatican II's Ad Gentes 11)."
+        },
+        {
+          "doctrineId": "worship-liturgy",
+          "text": "1 Apology 65–67 is the key early description of the Eucharistic liturgy and of Sunday worship."
+        },
+        {
+          "doctrineId": "christology",
+          "text": "Developed a Logos Christology that affirmed Christ's divinity but in subordinationist terms later refined at Nicaea."
+        },
+        {
+          "doctrineId": "covenant-law",
+          "text": "The Dialogue set the terms of later Christian argument with Judaism over Law, covenant and prophecy."
+        }
+      ],
+      "laterInfluence": [
+        {
+          "on": "Later Fathers",
+          "text": "Irenaeus, Tertullian, Clement of Alexandria and Origen built on his Logos theology and apologetics; Eusebius preserved much of what is known of him."
+        },
+        {
+          "on": "Medieval theology",
+          "text": "Little read in the Latin West, but his vision of philosophy as preparation for the Gospel was carried forward through Augustine and Aquinas."
+        },
+        {
+          "on": "Renaissance and Reformers",
+          "text": "Humanists such as Erasmus and Zwingli valued the idea of virtuous pagans; Protestant liturgists appealed to his simple description of worship."
+        },
+        {
+          "on": "Modern theology",
+          "text": "Vatican II and modern theologies of religions invoke his 'seeds of the Word'; critics note the anti-Jewish polemic of the Dialogue."
+        }
+      ],
+      "reception": [
+        {
+          "tradition": "Roman Catholic",
+          "view": "saint",
+          "text": "Feast on 1 June; patron of philosophers; Pope Benedict XVI and John Paul II's Fides et Ratio (1998) praise his union of faith and reason."
+        },
+        {
+          "tradition": "Eastern Orthodox",
+          "view": "saint",
+          "text": "Commemorated as St Justin the Philosopher on 1 June."
+        },
+        {
+          "tradition": "Anglican and Lutheran",
+          "view": "saint",
+          "text": "Commemorated as martyr on 1 June; his liturgical description has shaped liturgical renewal."
+        },
+        {
+          "tradition": "Evangelical",
+          "view": "respected",
+          "text": "Honoured as a model apologist; his openness to pagan philosophy is sometimes viewed with caution."
+        },
+        {
+          "tradition": "Jewish–Christian dialogue",
+          "view": "controversial",
+          "text": "The Dialogue with Trypho is read as an early source of supersessionism, though also as a rare record of courteous debate."
+        }
+      ],
+      "controversies": [
+        "Subordinationist language about the Logos as a 'second God'",
+        "Theory of demonic imitation used against pagan religion and Mithraism",
+        "Supersessionist arguments in the Dialogue with Trypho",
+        "How far his Logos doctrine is Platonist, Stoic, Philonic or biblical"
+      ],
+      "quote": {
+        "text": "Whatever things were rightly said among all people are the property of us Christians.",
+        "citation": "Justin, Second Apology 13"
+      },
+      "places": [
+        {
+          "name": "Flavia Neapolis (Nablus), birthplace",
+          "lat": 32.2211,
+          "lng": 35.2544,
+          "year": 100
+        },
+        {
+          "name": "Ephesus (conversion and setting of the Dialogue)",
+          "lat": 37.9411,
+          "lng": 27.3419,
+          "year": 130
+        },
+        {
+          "name": "Rome (school and martyrdom)",
+          "lat": 41.8925,
+          "lng": 12.4853,
+          "year": 165
+        }
+      ],
+      "sources": [
+        "f1-minns-parvis-justin",
+        "f1-parvis-foster-justin",
+        "f1-quasten-patrology",
+        "f1-chadwick-early-christian-thought",
+        "kelly-doctrines",
+        "anf-npnf",
+        "f1-grant-greek-apologists"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "athenagoras",
+      "name": "Athenagoras of Athens",
+      "personId": "athenagoras",
+      "died": 190,
+      "circa": true,
+      "school": "apologists",
+      "language": "greek",
+      "see": {
+        "name": "Athens",
+        "lat": 37.9715,
+        "lng": 23.7257
+      },
+      "roles": [
+        "Christian philosopher of Athens",
+        "Apologist to Marcus Aurelius and Commodus"
+      ],
+      "summary": "A Christian philosopher of Athens who c. 177 addressed to Marcus Aurelius and Commodus the Embassy (Plea) for the Christians, the most polished of the second-century apologies. He answered charges of atheism, cannibalism and incest, and gave a notably balanced early account of Father, Son and Spirit as united in power and distinct in order.",
+      "story": "Almost nothing is known of Athenagoras beyond his writings. The tenth-century manuscript (Arethas codex, Paris. gr. 451) calls him 'Athenagoras the Athenian, a Christian philosopher'. A late report by Philip of Side (fifth century) that he headed the catechetical school of Alexandria and taught Clement is not trusted by historians. Methodius of Olympus quotes him c. 300, but otherwise he was little cited in antiquity.\n\nThe Embassy (Presbeia, usually called the Plea or Legatio) is addressed to 'the emperors Marcus Aurelius Antoninus and Lucius Aurelius Commodus, conquerors of Armenia and Sarmatia, and above all philosophers', which dates it to 176–180, most likely 177, the year of the persecution at Lyon. Written in elegant Attic Greek, it adopts the form of a petition and argues that Christians, alone among the empire's peoples, are punished for a name rather than for crimes.\n\nAthenagoras answers three charges: atheism, 'Thyestean banquets' (cannibalism) and 'Oedipal intercourse' (incest). Against atheism he quotes poets and philosophers from Euripides to Plato's Timaeus to show that the best pagans also affirmed one God, and he explains that Christians worship 'one God, uncreated, eternal, invisible', with his Son, who is the Father's Word, Mind and Wisdom, and the Holy Spirit, 'an effluence of God, flowing from him and returning like a ray of the sun'. He insists on 'their power in union and their distinction in order' (Leg. 10, 12). Against cannibalism he notes that Christians condemn even watching gladiatorial killings and regard women who use drugs to procure abortion as murderers (Leg. 35). Against immorality he describes Christian chastity, permitting marriage only for children and calling second marriage 'decent adultery' (Leg. 33).\n\nA treatise On the Resurrection of the Dead, transmitted under his name, argues philosophically that God is able and willing to raise bodies and that human nature, being a unity of soul and body, requires it. Its authenticity is disputed: R. M. Grant and others assigned it to a later author, while Bernard Pouderon and others defend Athenagoras's authorship.\n\nAthenagoras was never the object of a significant cult and does not figure prominently in liturgical calendars. Modern scholarship values him as the most philosophically careful of the Greek apologists, an important witness to pre-Nicene Trinitarian thinking and to early Christian moral teaching on abortion, infanticide and the games.",
+      "roots": [
+        {
+          "root": "middle-platonism",
+          "text": "He presents God as uncreated, impassible and grasped by mind and reason, and quotes Plato's Timaeus on the maker and father of the universe."
+        },
+        {
+          "root": "stoicism",
+          "text": "He uses Stoic terms of providence and divine reason (logos) pervading the world, while rejecting Stoic materialism."
+        },
+        {
+          "root": "rhetoric",
+          "text": "His Plea is a carefully constructed forensic speech in Attic Greek, following classical petition form."
+        },
+        {
+          "root": "earlier-fathers",
+          "text": "He develops the apologetic arguments and Logos theology of Justin Martyr."
+        },
+        {
+          "root": "hebrew-scripture",
+          "text": "He appeals to the prophets Moses, Isaiah and Jeremiah as inspired by the Spirit like a flautist playing a flute (Leg. 9)."
+        }
+      ],
+      "teachers": [
+        "justin-martyr"
+      ],
+      "keyTeachings": [
+        "Christians are not atheists: they worship one God together with his Son and Spirit",
+        "Son and Spirit united in power and distinguished in order",
+        "The Son as the Father's eternal Word and Mind, not created",
+        "Christian morality: rejection of abortion, infanticide and the gladiatorial games",
+        "Resurrection of the body as required by the unity of human nature (if On the Resurrection is his)"
+      ],
+      "works": [
+        {
+          "title": "Embassy (Plea) for the Christians (Legatio)",
+          "year": 177,
+          "workId": "athenagoras-plea",
+          "note": "Apology addressed to Marcus Aurelius and Commodus answering charges of atheism, cannibalism and incest."
+        },
+        {
+          "title": "On the Resurrection of the Dead",
+          "note": "Philosophical treatise on bodily resurrection; authorship disputed."
+        }
+      ],
+      "doctrineContributions": [
+        {
+          "doctrineId": "trinity",
+          "text": "Among the clearest pre-Nicene statements of unity and distinction in God: Father, Son and Spirit one in power, distinct in order."
+        },
+        {
+          "doctrineId": "revelation-apologetics",
+          "text": "Developed the argument that the best philosophers glimpsed the one God, so Christian monotheism is rational."
+        },
+        {
+          "doctrineId": "sexuality-marriage",
+          "text": "Witness to early Christian rejection of abortion and exposure of infants, and to a strict ethic of marriage."
+        }
+      ],
+      "laterInfluence": [
+        {
+          "on": "Later Fathers",
+          "text": "Quoted by Methodius of Olympus; otherwise little used, but his arguments were absorbed into the common apologetic tradition."
+        },
+        {
+          "on": "Byzantine scholarship",
+          "text": "His works survived through Arethas of Caesarea's collection of apologists (914)."
+        },
+        {
+          "on": "Modern theology",
+          "text": "Studied as a key source for pre-Nicene Trinitarian theology and early Christian ethics; often cited in modern debates on abortion."
+        }
+      ],
+      "reception": [
+        {
+          "tradition": "Roman Catholic",
+          "view": "respected",
+          "text": "Honoured as an apologist and ancient ecclesiastical writer; not widely venerated liturgically."
+        },
+        {
+          "tradition": "Eastern Orthodox",
+          "view": "respected",
+          "text": "Respected as an early Christian philosopher of Athens; his name was later borne by Ecumenical Patriarch Athenagoras I."
+        },
+        {
+          "tradition": "Protestant",
+          "view": "respected",
+          "text": "Valued in histories of doctrine and apologetics, and cited on early Christian ethics."
+        }
+      ],
+      "controversies": [
+        "Authenticity of On the Resurrection of the Dead",
+        "Reliability of the report that he led the Alexandrian school",
+        "His rigorist view of second marriage"
+      ],
+      "quote": {
+        "text": "Who, then, would not be astonished to hear those called atheists who speak of God the Father, and of God the Son, and of the Holy Spirit, and who declare both their power in union and their distinction in order?",
+        "citation": "Athenagoras, Embassy for the Christians 10"
+      },
+      "places": [
+        {
+          "name": "Athens",
+          "lat": 37.9715,
+          "lng": 23.7257,
+          "year": 177
+        },
+        {
+          "name": "Alexandria (later, doubtful tradition of teaching there)",
+          "lat": 31.2001,
+          "lng": 29.9187
+        }
+      ],
+      "sources": [
+        "athenagoras-plea-text",
+        "f1-schoedel-athenagoras",
+        "f1-grant-greek-apologists",
+        "f1-quasten-patrology",
+        "kelly-doctrines"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "irenaeus-of-lyon",
+      "name": "Irenaeus of Lyon",
+      "personId": "irenaeus",
+      "born": 130,
+      "died": 202,
+      "circa": true,
+      "school": "apologists",
+      "language": "greek",
+      "see": {
+        "name": "Lugdunum (Lyon)",
+        "lat": 45.764,
+        "lng": 4.8357
+      },
+      "roles": [
+        "Bishop of Lyon",
+        "Opponent of Gnosticism",
+        "First great systematic theologian of the church",
+        "Doctor of the Church (2022)"
+      ],
+      "summary": "A Greek from Smyrna who had heard Polycarp, Irenaeus became bishop of Lyon after the persecution of 177. His Against Heresies refuted the Valentinian Gnostics and Marcion by appealing to the one God who is both Creator and Redeemer, the 'rule of truth', the public succession of bishops and a fourfold Gospel. His theology of 'recapitulation', in which Christ sums up and heals the human story, deeply shaped Eastern and Western theology.",
+      "story": "Irenaeus was born in Smyrna c. 130–140, where as a boy he heard Polycarp tell of John and others who had seen the Lord. He migrated to southern Gaul, probably with other Christians from Asia Minor, and became a presbyter in Lugdunum (Lyon), the Roman capital of the Three Gauls. In 177 the churches of Lyon and Vienne sent him to Rome with a letter to Bishop Eleutherus about the Montanist 'New Prophecy'. During his absence a violent persecution killed the aged bishop Pothinus, Blandina and many others; Irenaeus returned to succeed Pothinus.\n\nHis main work, 'The Refutation and Overthrow of Knowledge Falsely So Called', known as Against Heresies (c. 180–189), survives complete only in an early Latin translation, with Greek fragments and an Armenian version of books 4–5. Book 1 describes Valentinian and other Gnostic systems in detail, an account the Nag Hammadi discoveries (1945) have shown to be broadly accurate though polemical. Books 2–5 refute them from reason, the apostolic tradition, the sayings of the Lord and the Pauline letters. His shorter Demonstration of the Apostolic Preaching, rediscovered in Armenian in 1904, is a catechetical summary of the faith.\n\nAgainst teachers who claimed a secret tradition, Irenaeus pointed to the public faith of the churches: a 'rule of truth' received at baptism, taught everywhere the same, and guarded by bishops in succession from the apostles, illustrated by the list of Roman bishops from Linus to Eleutherus. He wrote that every church must agree with Rome 'on account of its more powerful origin' (propter potentiorem principalitatem, 3.3.2), a phrase whose meaning is still debated. He argued that there can be only four Gospels, as there are four winds and four living creatures (3.11.8), the first clear defence of a fixed fourfold Gospel.\n\nIrenaeus's positive theology is a grand narrative of salvation. The one God creates through his 'two hands', the Son and the Spirit; humanity is made in God's image as a child meant to grow into his likeness; Adam falls, but Christ 'recapitulates' (anakephalaiosis, Ephesians 1:10) the whole human story, undoing disobedience by obedience, as Mary's obedience unties the knot of Eve's. 'The glory of God is a living human being, and the life of humanity is the vision of God' (4.20.7); the Son 'became what we are, that he might bring us to be what he is' (5, preface). The Eucharist, as the bread of the earth made Christ's body, is proof of the resurrection of the flesh. He was also a millenarian (5.32–36).\n\nAround 190 he wrote to Pope Victor, who had excommunicated the Asian churches over the date of Easter, urging peace and citing the precedent of Polycarp and Anicetus; Eusebius remarks that he lived up to his name (eirene, 'peace'). The date and manner of his death are unknown; a later tradition makes him a martyr c. 202. Venerated in East and West, he was declared a Doctor of the Church, with the title 'Doctor of Unity', by Pope Francis in January 2022.",
+      "roots": [
+        {
+          "root": "apostolic-tradition",
+          "text": "He grounds his theology in the teaching of the apostles handed down publicly, his own memory of Polycarp and the elders of Asia, and a broad canon of Gospels and Pauline letters."
+        },
+        {
+          "root": "earlier-fathers",
+          "text": "He draws on Justin Martyr (including a lost work against Marcion), Ignatius, 1 Clement, Polycarp and Papias, and on Theophilus of Antioch."
+        },
+        {
+          "root": "anti-gnostic",
+          "text": "His entire theology is shaped by refuting Valentinians, Basilidians, Marcion and others, defending the goodness of creation and the unity of God."
+        },
+        {
+          "root": "hebrew-scripture",
+          "text": "Against Marcion he insists the God of the Law and prophets is the Father of Jesus, reading the whole Old Testament as a pedagogy leading to Christ."
+        },
+        {
+          "root": "rhetoric",
+          "text": "He apologises for his lack of style, but uses the standard methods of rhetorical refutation and parody of his opponents' systems."
+        }
+      ],
+      "teachers": [
+        "polycarp-of-smyrna",
+        "justin-martyr"
+      ],
+      "keyTeachings": [
+        "One God, Creator and Father of Jesus Christ, against Gnostic and Marcionite dualism",
+        "The rule of truth (regula veritatis) and apostolic succession of bishops as guarantors of public teaching",
+        "The fourfold Gospel",
+        "Recapitulation: Christ sums up and restores humanity, the new Adam",
+        "Son and Spirit as the 'two hands' of God",
+        "Mary as the new Eve whose obedience undoes Eve's disobedience",
+        "Growth from image to likeness; salvation as participation in God's life"
+      ],
+      "works": [
+        {
+          "title": "Against Heresies (Adversus Haereses), 5 books",
+          "year": 185,
+          "workId": "irenaeus-against-heresies",
+          "note": "Refutation of the Gnostics and exposition of apostolic faith; survives in Latin, with Greek and Armenian fragments."
+        },
+        {
+          "title": "Demonstration of the Apostolic Preaching (Epideixis)",
+          "year": 190,
+          "note": "Short catechetical summary of salvation history; known only in an Armenian translation discovered in 1904."
+        },
+        {
+          "title": "Letters to Florinus and to Victor of Rome",
+          "year": 190,
+          "note": "Fragments preserved by Eusebius on his memories of Polycarp and the Easter dispute."
+        }
+      ],
+      "doctrineContributions": [
+        {
+          "doctrineId": "scripture-authority",
+          "text": "First clear defence of a fourfold Gospel and of Scripture read within the apostolic 'rule of truth'."
+        },
+        {
+          "doctrineId": "church-sacraments",
+          "text": "Developed the argument from public apostolic succession of bishops, especially at Rome."
+        },
+        {
+          "doctrineId": "atonement",
+          "text": "Recapitulation and Christ's victory over sin and death; Aulén's Christus Victor treats him as the classic representative of this view."
+        },
+        {
+          "doctrineId": "creation-providence",
+          "text": "Defended the goodness of the material creation and creation by the one God, without intermediaries."
+        },
+        {
+          "doctrineId": "humanity-sin",
+          "text": "His picture of Adam as an immature child growing towards maturity underlies the modern 'Irenaean theodicy' (John Hick)."
+        },
+        {
+          "doctrineId": "mary-saints",
+          "text": "Developed the Eve–Mary parallel, foundational for later Mariology."
+        }
+      ],
+      "laterInfluence": [
+        {
+          "on": "Later Fathers",
+          "text": "Tertullian, Hippolytus and Athanasius used his anti-heretical method and his theology of the incarnation and deification."
+        },
+        {
+          "on": "Medieval theology",
+          "text": "Read in the Latin West mainly through excerpts; his argument from Roman succession was cited in papal apologetics."
+        },
+        {
+          "on": "The Reformers",
+          "text": "Erasmus published the first printed edition (1526); Reformers and Catholics both cited him in arguments over Scripture and tradition."
+        },
+        {
+          "on": "Orthodoxy",
+          "text": "Highly valued for his doctrine of deification and his sense of salvation as the healing and growth of humanity."
+        },
+        {
+          "on": "Modern theology",
+          "text": "Revived by ressourcement theologians (Daniélou, von Balthasar), the Lutheran Gustaf Wingren, Aulén's Christus Victor and Hick's Evil and the God of Love (1966)."
+        }
+      ],
+      "reception": [
+        {
+          "tradition": "Roman Catholic",
+          "view": "doctor",
+          "text": "Saint (feast 28 June); declared a Doctor of the Church ('Doctor of Unity') by Pope Francis on 21 January 2022."
+        },
+        {
+          "tradition": "Eastern Orthodox",
+          "view": "saint",
+          "text": "Hieromartyr Irenaeus, commemorated 23 August; honoured as a bridge between East and West."
+        },
+        {
+          "tradition": "Anglican and Lutheran",
+          "view": "saint",
+          "text": "Commemorated on 28 June; his theology of recapitulation is widely used in modern Protestant theology."
+        },
+        {
+          "tradition": "Evangelical",
+          "view": "respected",
+          "text": "Respected as a defender of Scripture and orthodoxy against heresy; his appeal to episcopal succession is not accepted."
+        }
+      ],
+      "controversies": [
+        "Meaning of the 'more powerful origin' (potentior principalitas) of the Roman church",
+        "Fairness and accuracy of his portrayal of the Gnostics",
+        "His millenarianism",
+        "Whether he died as a martyr"
+      ],
+      "quote": {
+        "text": "The glory of God is a living human being; and the life of humanity is the vision of God.",
+        "citation": "Irenaeus, Against Heresies 4.20.7"
+      },
+      "places": [
+        {
+          "name": "Smyrna (youth, hearer of Polycarp)",
+          "lat": 38.4192,
+          "lng": 27.1287,
+          "year": 145
+        },
+        {
+          "name": "Rome (embassy to Eleutherus)",
+          "lat": 41.8925,
+          "lng": 12.4853,
+          "year": 177
+        },
+        {
+          "name": "Lugdunum (Lyon)",
+          "lat": 45.764,
+          "lng": 4.8357,
+          "year": 178
+        },
+        {
+          "name": "Vienne",
+          "lat": 45.525,
+          "lng": 4.874,
+          "year": 177
+        }
+      ],
+      "sources": [
+        "f1-osborn-irenaeus",
+        "f1-behr-irenaeus",
+        "f1-quasten-patrology",
+        "kelly-doctrines",
+        "king-gnosticism",
+        "aulen-christus-victor",
+        "eusebius-hist-eccl"
+      ],
+      "confidence": "established"
+    },
+    {
+      "id": "tertullian",
+      "name": "Tertullian of Carthage",
+      "personId": "tertullian",
+      "born": 160,
+      "died": 225,
+      "circa": true,
+      "school": "apologists",
+      "language": "latin",
+      "see": {
+        "name": "Carthage",
+        "lat": 36.8528,
+        "lng": 10.3233
+      },
+      "roles": [
+        "Apologist and controversialist",
+        "Father of Latin theology",
+        "Adherent of the New Prophecy (Montanism)"
+      ],
+      "summary": "A highly educated layman of Carthage whose some thirty surviving treatises created much of the Latin theological vocabulary, including 'Trinity', 'person' and 'substance'. Brilliant, rigorist and combative, he defended Christians against Rome, attacked heretics and pagan philosophy ('What has Athens to do with Jerusalem?'), and later joined the New Prophecy, which kept him from being honoured as a saint while his formulas shaped Western doctrine.",
+      "story": "Quintus Septimius Florens Tertullianus was born c. 155–160 in Carthage, the capital of Roman Africa, to a pagan family. Jerome says his father was a centurion and that Tertullian became a presbyter; T. D. Barnes and other historians doubt both claims and also reject the old identification with the jurist Tertullianus cited in the Digest. What is clear is an excellent rhetorical and literary education. He converted c. 195, was married, and wrote between c. 196 and c. 220, the first major Christian author in Latin.\n\nHis Apology (197), addressed to the provincial governors, mocks the injustice of trials in which Christians are tortured to deny rather than to confess, and ends with the famous claim that 'the blood of Christians is seed' (Apol. 50). In To Scapula (212) he argued that 'it is a fundamental human right that every person should worship according to his own convictions', an early plea for religious liberty. Treatises On Idolatry, On the Shows and On the Crown forbade Christians to take part in idolatrous trades, the games and, in some circumstances, military service.\n\nAgainst heretics he used legal argument. The Prescription against Heretics (c. 200) contends that heretics have no right to argue from Scripture at all, since Scripture belongs to the churches founded by the apostles; it also asks 'What has Athens to do with Jerusalem? What concord between the Academy and the Church?' (ch. 7). Yet Tertullian used Stoic philosophy freely, teaching that the soul is corporeal (On the Soul) and that souls are transmitted from parents (traducianism). His five books Against Marcion defend the unity of the Old and New Testaments; On the Flesh of Christ contains the paradox misremembered as 'credo quia absurdum': 'the Son of God died; it is credible because it is unfitting… he rose; it is certain because impossible' (ch. 5).\n\nAgainst Praxeas (c. 213), aimed at a Monarchian who said the Father himself suffered, introduced the Latin formula of one substance (substantia) in three persons (personae), and spoke of the Trinitas, 'the unity distributing itself into a trinity'. He described Christ as one person in whom two substances, divine and human, remain unconfused (Prax. 27), language echoed in Leo's Tome and at Chalcedon (451). His Trinitarian thought retained subordinationist elements, but it set the vocabulary for the West.\n\nFrom c. 207 Tertullian's writings show sympathy with the New Prophecy (Montanism) from Phrygia, with its new revelations of the Paraclete, stricter fasting, rejection of second marriage and refusal to forgive grave sins after baptism (On Modesty). Older accounts said he left the church; recent scholars (Tabbernee, Trevett, Rankin) argue that he belonged to a prophetic group within the Carthaginian church. A sect of 'Tertullianists' survived until Augustine's time. Cyprian called him 'the Master' and read him daily; the later Gelasian Decree listed his works as not to be received. He died after 220, probably c. 225–240.",
+      "roots": [
+        {
+          "root": "rhetoric",
+          "text": "His style is a showpiece of Latin rhetoric: paradox, irony, epigram and the techniques of forensic speech learned in Carthage's schools."
+        },
+        {
+          "root": "roman-law",
+          "text": "He used legal concepts such as praescriptio (a plea barring an opponent's case), persona, substantia and satisfactio; scholars debate how far these carried technical legal meaning."
+        },
+        {
+          "root": "stoicism",
+          "text": "He adopted Stoic materialism (God and the soul as 'body' of a spiritual kind) and called Seneca 'often one of us'."
+        },
+        {
+          "root": "anti-gnostic",
+          "text": "Much of his work attacks Valentinians, Marcionites and Docetists, defending the flesh of Christ and the resurrection of the body."
+        },
+        {
+          "root": "earlier-fathers",
+          "text": "He drew heavily on Irenaeus (Against the Valentinians), Justin and the Greek apologists."
+        },
+        {
+          "root": "hebrew-scripture",
+          "text": "He defended the Old Testament against Marcion and read it typologically as foretelling Christ."
+        }
+      ],
+      "teachers": [
+        "irenaeus-of-lyon",
+        "justin-martyr"
+      ],
+      "keyTeachings": [
+        "One God in three persons sharing one substance (trinitas, una substantia, tres personae)",
+        "Christ as one person in two substances, divine and human, without confusion",
+        "The rule of faith and apostolic churches as owners of Scripture against heretics",
+        "Rejection of idolatry, the games and compromise with pagan society; religious liberty",
+        "Traducianism and a hereditary 'vice of origin' (vitium originis)",
+        "Rigorism on penance and remarriage; openness to the New Prophecy",
+        "Martyrdom as the seed of the church"
+      ],
+      "works": [
+        {
+          "title": "Apology (Apologeticum)",
+          "year": 197,
+          "note": "Defence of Christians addressed to Roman governors; 'the blood of Christians is seed'."
+        },
+        {
+          "title": "Prescription against Heretics",
+          "year": 200,
+          "note": "Legal argument that heretics have no claim on Scripture; 'What has Athens to do with Jerusalem?'"
+        },
+        {
+          "title": "On Baptism",
+          "year": 200,
+          "workId": "tertullian-on-baptism",
+          "note": "Earliest treatise on a sacrament; counsels delay of baptism for small children."
+        },
+        {
+          "title": "Against Marcion, 5 books",
+          "year": 208,
+          "workId": "tertullian-against-marcion",
+          "note": "The main ancient refutation of Marcion and principal source for his canon and Antitheses."
+        },
+        {
+          "title": "Against Praxeas",
+          "year": 213,
+          "workId": "tertullian-against-praxeas",
+          "note": "Foundational Latin Trinitarian and Christological treatise."
+        },
+        {
+          "title": "On the Soul (De anima)",
+          "year": 210,
+          "workId": "tertullian-on-the-soul",
+          "note": "First Christian psychology; corporeal soul and traducianism."
+        },
+        {
+          "title": "On Idolatry",
+          "year": 203,
+          "workId": "tertullian-on-idolatry",
+          "note": "Forbids Christians trades and offices involving idolatry."
+        }
+      ],
+      "doctrineContributions": [
+        {
+          "doctrineId": "trinity",
+          "text": "Coined or first used in theology the Latin terms trinitas, persona and substantia, the basis of Western Trinitarian language."
+        },
+        {
+          "doctrineId": "christology",
+          "text": "His 'one person, two substances' formula anticipated Leo's Tome and the Definition of Chalcedon."
+        },
+        {
+          "doctrineId": "humanity-sin",
+          "text": "His traducianism and idea of an inherited 'vice of origin' prepared the way for Cyprian's and Augustine's doctrine of original sin."
+        },
+        {
+          "doctrineId": "baptism",
+          "text": "On Baptism is the first treatise on a Christian sacrament and early evidence for (and reservations about) infant baptism."
+        },
+        {
+          "doctrineId": "ethics-church-state",
+          "text": "Argued for freedom of religion and separation from idolatrous public life."
+        },
+        {
+          "doctrineId": "scripture-authority",
+          "text": "Developed the argument from the rule of faith and the apostolic churches' possession of Scripture."
+        }
+      ],
+      "laterInfluence": [
+        {
+          "on": "Later Fathers",
+          "text": "Cyprian treated him as his master; Novatian, Hilary and Augustine inherited his vocabulary, though Augustine rejected his materialism."
+        },
+        {
+          "on": "Medieval theology",
+          "text": "His terms of satisfaction and merit in penance fed into medieval penitential theology and Anselm's satisfaction language, though the line of influence is indirect."
+        },
+        {
+          "on": "The Reformers",
+          "text": "Beatus Rhenanus published the first edition (1521); Reformers cited his Prescription and his appeal to Scripture, while Catholics cited his appeal to apostolic churches."
+        },
+        {
+          "on": "Modern theology",
+          "text": "His 'Athens and Jerusalem' became a byword for fideism, and he is studied for early Christian views of women, the military and religious freedom."
+        }
+      ],
+      "reception": [
+        {
+          "tradition": "Roman Catholic",
+          "view": "father",
+          "text": "Not canonised because of his Montanism; honoured as an ecclesiastical writer whose terminology became official doctrine."
+        },
+        {
+          "tradition": "Eastern Orthodox",
+          "view": "respected",
+          "text": "Little read in the Greek East; respected as an early writer but not venerated."
+        },
+        {
+          "tradition": "Protestant",
+          "view": "respected",
+          "text": "Valued for his defence of Scripture, his Trinitarian vocabulary and his plea for religious liberty; his rigorism and views on women are criticised."
+        },
+        {
+          "tradition": "Pentecostal and Charismatic",
+          "view": "respected",
+          "text": "Some writers see his defence of the New Prophecy as early evidence for continuing prophetic gifts."
+        }
+      ],
+      "controversies": [
+        "Extent and nature of his adherence to the New Prophecy (Montanism)",
+        "Whether he was a presbyter, a lawyer or a centurion's son",
+        "His views on women ('you are the devil's gateway', On the Apparel of Women 1.1)",
+        "Rigorism on penance, remarriage, military service and flight in persecution",
+        "Supposed anti-intellectualism ('credo quia absurdum' is a misquotation)"
+      ],
+      "quote": {
+        "text": "What indeed has Athens to do with Jerusalem? What concord is there between the Academy and the Church? What between heretics and Christians?",
+        "citation": "Tertullian, Prescription against Heretics 7"
+      },
+      "places": [
+        {
+          "name": "Carthage",
+          "lat": 36.8528,
+          "lng": 10.3233,
+          "year": 197
+        },
+        {
+          "name": "Rome (possible visit)",
+          "lat": 41.8925,
+          "lng": 12.4853
+        }
+      ],
+      "sources": [
+        "f1-barnes-tertullian",
+        "f1-osborn-tertullian",
+        "f1-dunn-tertullian",
+        "f1-quasten-patrology",
+        "kelly-doctrines",
+        "tabbernee-prophets",
+        "trevett-montanism"
+      ],
+      "confidence": "established"
+    }
+  ],
+  "sources": [
+    {
+      "id": "f1-quasten-patrology",
+      "title": "Patrology, vol. 1: The Beginnings of Patristic Literature",
+      "author": "Johannes Quasten",
+      "year": 1950,
+      "kind": "reference"
+    },
+    {
+      "id": "f1-holmes-apostolic-fathers",
+      "title": "The Apostolic Fathers: Greek Texts and English Translations, 3rd ed.",
+      "author": "Michael W. Holmes",
+      "year": 2007,
+      "kind": "primary"
+    },
+    {
+      "id": "f1-lightfoot-apostolic-fathers",
+      "title": "The Apostolic Fathers, Part I: S. Clement of Rome; Part II: S. Ignatius, S. Polycarp",
+      "author": "J. B. Lightfoot",
+      "year": "1885/1890",
+      "kind": "primary"
+    },
+    {
+      "id": "f1-schoedel-ignatius",
+      "title": "Ignatius of Antioch: A Commentary on the Letters of Ignatius of Antioch (Hermeneia)",
+      "author": "William R. Schoedel",
+      "year": 1985,
+      "kind": "secondary"
+    },
+    {
+      "id": "f1-brent-ignatius",
+      "title": "Ignatius of Antioch: A Martyr Bishop and the Origin of Episcopacy",
+      "author": "Allen Brent",
+      "year": 2007,
+      "kind": "secondary"
+    },
+    {
+      "id": "f1-lampe-paul-to-valentinus",
+      "title": "From Paul to Valentinus: Christians at Rome in the First Two Centuries",
+      "author": "Peter Lampe",
+      "year": 2003,
+      "kind": "secondary"
+    },
+    {
+      "id": "f1-sullivan-apostles-bishops",
+      "title": "From Apostles to Bishops: The Development of the Episcopacy in the Early Church",
+      "author": "Francis A. Sullivan",
+      "year": 2001,
+      "kind": "secondary"
+    },
+    {
+      "id": "f1-hartog-polycarp",
+      "title": "Polycarp's Epistle to the Philippians and the Martyrdom of Polycarp: Introduction, Text, and Commentary",
+      "author": "Paul Hartog",
+      "year": 2013,
+      "kind": "secondary"
+    },
+    {
+      "id": "f1-hill-lost-teaching-polycarp",
+      "title": "From the Lost Teaching of Polycarp",
+      "author": "Charles E. Hill",
+      "year": 2006,
+      "kind": "secondary"
+    },
+    {
+      "id": "f1-niederwimmer-didache",
+      "title": "The Didache: A Commentary (Hermeneia)",
+      "author": "Kurt Niederwimmer",
+      "year": 1998,
+      "kind": "secondary"
+    },
+    {
+      "id": "f1-van-de-sandt-flusser-didache",
+      "title": "The Didache: Its Jewish Sources and Its Place in Early Judaism and Christianity",
+      "author": "Huub van de Sandt and David Flusser",
+      "year": 2002,
+      "kind": "secondary"
+    },
+    {
+      "id": "f1-bauckham-eyewitnesses",
+      "title": "Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony, 2nd ed.",
+      "author": "Richard Bauckham",
+      "year": 2017,
+      "kind": "secondary"
+    },
+    {
+      "id": "f1-minns-parvis-justin",
+      "title": "Justin, Philosopher and Martyr: Apologies",
+      "author": "Denis Minns and Paul Parvis",
+      "year": 2009,
+      "kind": "primary"
+    },
+    {
+      "id": "f1-parvis-foster-justin",
+      "title": "Justin Martyr and His Worlds",
+      "author": "Sara Parvis and Paul Foster (eds)",
+      "year": 2007,
+      "kind": "secondary"
+    },
+    {
+      "id": "f1-grant-greek-apologists",
+      "title": "Greek Apologists of the Second Century",
+      "author": "Robert M. Grant",
+      "year": 1988,
+      "kind": "secondary"
+    },
+    {
+      "id": "f1-chadwick-early-christian-thought",
+      "title": "Early Christian Thought and the Classical Tradition: Studies in Justin, Clement, and Origen",
+      "author": "Henry Chadwick",
+      "year": 1966,
+      "kind": "secondary"
+    },
+    {
+      "id": "f1-schoedel-athenagoras",
+      "title": "Athenagoras: Legatio and De Resurrectione (Oxford Early Christian Texts)",
+      "author": "William R. Schoedel",
+      "year": 1972,
+      "kind": "primary"
+    },
+    {
+      "id": "f1-osborn-irenaeus",
+      "title": "Irenaeus of Lyons",
+      "author": "Eric Osborn",
+      "year": 2001,
+      "kind": "secondary"
+    },
+    {
+      "id": "f1-behr-irenaeus",
+      "title": "Irenaeus of Lyons: Identifying Christianity",
+      "author": "John Behr",
+      "year": 2013,
+      "kind": "secondary"
+    },
+    {
+      "id": "f1-barnes-tertullian",
+      "title": "Tertullian: A Historical and Literary Study, rev. ed.",
+      "author": "Timothy D. Barnes",
+      "year": 1985,
+      "kind": "secondary"
+    },
+    {
+      "id": "f1-osborn-tertullian",
+      "title": "Tertullian, First Theologian of the West",
+      "author": "Eric Osborn",
+      "year": 1997,
+      "kind": "secondary"
+    },
+    {
+      "id": "f1-dunn-tertullian",
+      "title": "Tertullian (The Early Church Fathers)",
+      "author": "Geoffrey D. Dunn",
+      "year": 2004,
+      "kind": "secondary"
+    }
+  ]
+}
