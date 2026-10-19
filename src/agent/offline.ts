@@ -6,7 +6,7 @@
  */
 import type { Atlas } from '../data/db';
 import type {
-  Controversy, Doctrine, EntityType, Era, Event, Experience, Person, Position, Quote, Tradition, Work, Comparison, StudyPath, MissionMovement, IndiaMission, Conflict,
+  Controversy, Doctrine, EntityType, Era, Event, Experience, Person, Position, Quote, Tradition, Work, Comparison, StudyPath, MissionMovement, IndiaMission, Conflict, ChurchFather, PaganInfluence,
 } from '../data/schema';
 import { FAMILIES, formatSpan, formatYear } from '../data/families';
 import { getFuse } from '../data/searchIndex';
@@ -154,6 +154,8 @@ function aliases(a: Atlas): Alias[] {
   for (const m of a.missions) add('mission', m.id, [m.name], 5);
   for (const m of a.indiaMissions) add('india', m.id, [m.title], 5);
   for (const c of a.conflicts) add('conflict', c.id, [c.name], 6);
+  for (const f of a.fathers) add('father', f.id, [f.name], 4);
+  for (const p of a.influences) add('influence', p.id, [p.name], 6);
   for (const [k, ref] of Object.entries(ALIASES)) if (a.get(ref.type, ref.id)) out.push({ text: norm(k), ref, weight: 40 + k.length }); // everyday names win ties
   if (isTA()) {
     // The Tamil edition also understands English names, and everyday Tamil words for common subjects.
@@ -404,6 +406,34 @@ function describeConflict(_a: Atlas, c: Conflict, related: Ref[]): string {
   ].filter(Boolean).join('\n\n');
 }
 
+const EVIDENCE_TA: Record<string, string> = { strong: 'வலுவான சான்று', plausible: 'நம்பத்தகுந்தது', disputed: 'விவாதத்துக்குரியது', myth: 'கட்டுக்கதை' };
+
+function describeFather(a: Atlas, f: ChurchFather, related: Ref[]): string {
+  related.push(...f.teachers.slice(0, 3).map((id) => ({ type: 'father' as const, id })));
+  const pupils = a.fathers.filter((x) => x.teachers.includes(f.id));
+  return [
+    `**${link('father', f.id, f.name)}** (${formatSpan(f.born, f.died, f.circa) || t('dates uncertain', 'காலம் உறுதியில்லை')}) — ${f.see.name}. ${f.roles.slice(0, 3).join(', ')}.`,
+    f.summary,
+    `${t('Roots', 'வேர்கள்')}:\n${f.roots.slice(0, 5).map((r) => `- ${r.text}`).join('\n')}`,
+    f.keyTeachings.length ? `${t('Key teachings', 'முக்கியப் போதனைகள்')}:\n${bullets(f.keyTeachings, 5)}` : '',
+    f.teachers.length ? `${t('Shaped by', 'உருவாக்கியவர்கள்')}: ${f.teachers.filter((id) => a.get('father', id)).map((id) => L(a, { type: 'father', id })).join(', ')}` : '',
+    pupils.length ? `${t('Shaped', 'இவர் உருவாக்கியவர்கள்')}: ${pupils.map((x) => link('father', x.id, x.name)).join(', ')}` : '',
+    f.laterInfluence.length ? `${t('Later influence', 'பிற்காலத் தாக்கம்')}:\n${f.laterInfluence.slice(0, 4).map((x) => `- **${x.on}**: ${clip(x.text, 180)}`).join('\n')}` : '',
+    f.quote ? `> “${f.quote.text}” — *${f.quote.citation}*` : '',
+  ].filter(Boolean).join('\n\n');
+}
+
+function describeInfluence(_a: Atlas, p: PaganInfluence): string {
+  return [
+    `**${link('influence', p.id, p.name)}** — ${p.sourceCulture} → ${p.christianForm}. ${t('Evidence', 'சான்று')}: **${isTA() ? EVIDENCE_TA[p.evidence] : p.evidence}**.`,
+    p.summary,
+    `${t('Popular claim', 'பரவலான கூற்று')}: ${p.popularClaim}`,
+    `${t('What historians say', 'வரலாற்றாசிரியர்கள் கூறுவது')}: ${p.whatHistoriansSay}`,
+    p.howItHappened.length ? `${t('How it happened', 'அது எவ்வாறு நடந்தது')}:\n${bullets(p.howItHappened, 5)}` : '',
+    p.rejectedBy.length ? `${t('Rejected by', 'நிராகரித்தவர்கள்')}: ${p.rejectedBy.join('; ')}` : '',
+  ].filter(Boolean).join('\n\n');
+}
+
 function describe(a: Atlas, r: Ref, related: Ref[]): string {
   switch (r.type) {
     case 'person': return describePerson(a, a.get<Person>('person', r.id)!, related);
@@ -420,6 +450,8 @@ function describe(a: Atlas, r: Ref, related: Ref[]): string {
     case 'quote': { const q = a.get<Quote>('quote', r.id)!; return quoteLine(a, q); }
     case 'mission': return describeMission(a, a.get<MissionMovement>('mission', r.id)!, related);
     case 'india': return describeIndia(a, a.get<IndiaMission>('india', r.id)!);
+    case 'father': return describeFather(a, a.get<ChurchFather>('father', r.id)!, related);
+    case 'influence': return describeInfluence(a, a.get<PaganInfluence>('influence', r.id)!);
     case 'conflict': return describeConflict(a, a.get<Conflict>('conflict', r.id)!, related);
   }
 }

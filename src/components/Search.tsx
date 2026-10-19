@@ -12,7 +12,7 @@ const TYPE_META: Record<EntityType, { label: string; icon: IconName }> = {
   work: { label: 'Writing', icon: 'book' }, quote: { label: 'Quote', icon: 'quote' }, doctrine: { label: 'Doctrine', icon: 'trinity' },
   position: { label: 'Position', icon: 'branch' }, tradition: { label: 'Tradition', icon: 'tree' }, controversy: { label: 'Debate', icon: 'scales' },
   experience: { label: 'Experience', icon: 'sparkles' }, comparison: { label: 'Comparison', icon: 'scales' }, path: { label: 'Study path', icon: 'compass' },
-  mission: { label: 'Mission movement', icon: 'globe' }, india: { label: 'India mission', icon: 'globe' }, conflict: { label: 'War & conflict', icon: 'scales' },
+  mission: { label: 'Mission movement', icon: 'globe' }, india: { label: 'India mission', icon: 'globe' }, conflict: { label: 'War & conflict', icon: 'scales' }, father: { label: 'Church Father', icon: 'quill' }, influence: { label: 'Pagan influence', icon: 'sun' },
 };
 
 export function useSearchHotkey(setOpen: (fn: (o: boolean) => boolean) => void) {

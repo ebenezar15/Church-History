@@ -260,6 +260,8 @@ export const EntityType = z.enum([
   'mission',
   'india',
   'conflict',
+  'father',
+  'influence',
 ]);
 export type EntityType = z.infer<typeof EntityType>;
 
@@ -599,6 +601,77 @@ export const Conflict = z.object({
   confidence: Confidence.default('established'),
 });
 
+
+// ---------- Church Fathers and pagan influences ----------
+
+export const FatherSchool = z.enum(['apostolic-fathers', 'apologists', 'alexandrian', 'antiochene', 'cappadocian', 'latin-african', 'latin-western', 'syriac', 'desert-monastic', 'byzantine']);
+export const RootSource = z.enum([
+  'hebrew-scripture', 'second-temple-judaism', 'philo', 'apostolic-tradition', 'platonism', 'middle-platonism', 'neoplatonism',
+  'stoicism', 'aristotle', 'roman-law', 'rhetoric', 'anti-gnostic', 'earlier-fathers', 'monasticism', 'imperial-church',
+]);
+
+export const ChurchFather = z.object({
+  id: Id,
+  name: z.string(),
+  personId: Id.optional(),
+  born: Year.optional(),
+  died: Year.optional(),
+  circa: z.boolean().default(false),
+  school: FatherSchool,
+  language: z.enum(['greek', 'latin', 'syriac', 'coptic', 'armenian']),
+  see: Place.describe('Main city of activity'),
+  roles: Strs,
+  summary: z.string(),
+  story: z.string(),
+  roots: z.array(z.object({ root: RootSource, text: z.string() })).min(1),
+  teachers: Ids.describe('Father ids who taught or directly shaped this father'),
+  keyTeachings: Strs,
+  works: z.array(z.object({ title: z.string(), year: Year.optional(), workId: Id.optional(), note: z.string() })).default([]),
+  doctrineContributions: z.array(z.object({ doctrineId: Id, text: z.string() })).default([]),
+  laterInfluence: z.array(z.object({ on: z.string(), text: z.string() })).default([]),
+  reception: z.array(z.object({ tradition: z.string(), view: z.enum(['saint', 'doctor', 'father', 'respected', 'controversial', 'condemned']), text: z.string() })).default([]),
+  controversies: Strs,
+  quote: z.object({ text: z.string(), citation: z.string() }).optional(),
+  places: z.array(z.object({ name: z.string(), lng: z.number(), lat: z.number(), year: Year.optional() })).default([]),
+  sources: Ids,
+  confidence: Confidence.default('established'),
+});
+
+export const InfluenceCategory = z.enum(['philosophy', 'calendar-festivals', 'art-symbols', 'worship-practice', 'organisation-law', 'popular-religion', 'language-learning']);
+export const SourceTradition = z.enum([
+  'greek-philosophy', 'roman-religion', 'roman-state', 'mystery-cults', 'sol-invictus', 'egyptian', 'germanic', 'celtic', 'slavic', 'near-eastern', 'folk-religion', 'classical-culture',
+]);
+
+export const PaganInfluence = z.object({
+  id: Id,
+  name: z.string(),
+  category: InfluenceCategory,
+  sourceTradition: SourceTradition,
+  sourceCulture: z.string().describe('The pre-Christian practice or idea, in a phrase'),
+  christianForm: z.string().describe('What it became in Christianity, in a phrase'),
+  startYear: Year,
+  endYear: Year.optional(),
+  place: Place,
+  evidence: z.enum(['strong', 'plausible', 'disputed', 'myth']),
+  evidenceNote: z.string(),
+  popularClaim: z.string(),
+  whatHistoriansSay: z.string(),
+  summary: z.string(),
+  story: z.string(),
+  howItHappened: Strs,
+  examples: Strs,
+  defenders: z.array(z.object({ name: z.string(), personId: Id.optional(), fatherId: Id.optional(), text: z.string() })).default([]),
+  critics: z.array(z.object({ name: z.string(), personId: Id.optional(), fatherId: Id.optional(), text: z.string() })).default([]),
+  keptBy: Strs,
+  rejectedBy: Strs,
+  calendar: z.object({ month: z.number().int().min(1).max(12), day: z.number().int().min(1).max(31).optional(), christian: z.string(), pagan: z.string() }).optional(),
+  fatherIds: Ids,
+  traditionIds: Ids,
+  relatedIds: Ids.describe('Other influence ids'),
+  sources: Ids,
+  confidence: Confidence.default('established'),
+});
+
 export const Pack = z
   .object({
     sources: z.array(Source),
@@ -619,6 +692,8 @@ export const Pack = z
     missions: z.array(MissionMovement),
     indiaMissions: z.array(IndiaMission),
     conflicts: z.array(Conflict),
+    fathers: z.array(ChurchFather),
+    influences: z.array(PaganInfluence),
   })
   .partial()
   .strict();
@@ -644,4 +719,6 @@ export type Presence = z.infer<typeof Presence>;
 export type MissionMovement = z.infer<typeof MissionMovement>;
 export type IndiaMission = z.infer<typeof IndiaMission>;
 export type Conflict = z.infer<typeof Conflict>;
+export type ChurchFather = z.infer<typeof ChurchFather>;
+export type PaganInfluence = z.infer<typeof PaganInfluence>;
 export type MissionPerson = z.infer<typeof MissionPerson>;

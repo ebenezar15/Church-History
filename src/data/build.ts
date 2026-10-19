@@ -24,6 +24,8 @@ import {
   type MissionMovement,
   type IndiaMission,
   type Conflict,
+  type ChurchFather,
+  type PaganInfluence,
   type Quote,
   type Source,
   type StudyPath,
@@ -50,6 +52,8 @@ export interface Db {
   missions: MissionMovement[];
   indiaMissions: IndiaMission[];
   conflicts: Conflict[];
+  fathers: ChurchFather[];
+  influences: PaganInfluence[];
 }
 
 export type DbKey = keyof Db;
@@ -70,9 +74,11 @@ export const TYPE_TO_KEY: Record<EntityType, DbKey> = {
   mission: 'missions',
   india: 'indiaMissions',
   conflict: 'conflicts',
+  father: 'fathers',
+  influence: 'influences',
 };
 
-const STRICT_ONCE: DbKey[] = ['doctrines', 'positions', 'controversies', 'comparisons', 'paths', 'eras', 'missions', 'indiaMissions', 'conflicts'];
+const STRICT_ONCE: DbKey[] = ['doctrines', 'positions', 'controversies', 'comparisons', 'paths', 'eras', 'missions', 'indiaMissions', 'conflicts', 'fathers', 'influences'];
 
 export interface BuildResult {
   db: Db;
@@ -83,7 +89,7 @@ export interface BuildResult {
 function emptyDb(): Db {
   return {
     sources: [], eras: [], cultures: [], events: [], people: [], works: [], quotes: [], doctrines: [],
-    positions: [], traditions: [], controversies: [], experiences: [], comparisons: [], paths: [], presences: [], missions: [], indiaMissions: [], conflicts: [],
+    positions: [], traditions: [], controversies: [], experiences: [], comparisons: [], paths: [], presences: [], missions: [], indiaMissions: [], conflicts: [], fathers: [], influences: [],
   };
 }
 
@@ -232,6 +238,19 @@ function checkRefs(db: Db, errors: string[], warnings: string[], originOf: (key:
     need(w, 'conflicts', c.ledTo); need(w, 'events', c.eventIds); need(w, 'traditions', c.traditionIds); need(w, 'sources', c.sources);
     need(w, 'people', [...c.keyPeople.map((p) => p.personId), ...c.dissenters.map((d) => d.personId), ...c.campaigns.flatMap((j) => j.personIds)]);
   }
+  for (const f of db.fathers) {
+    const w = `${originOf('fathers', f.id)} father:${f.id}`;
+    need(w, 'people', [f.personId]); need(w, 'fathers', f.teachers); need(w, 'sources', f.sources);
+    need(w, 'works', f.works.map((x) => x.workId)); need(w, 'doctrines', f.doctrineContributions.map((x) => x.doctrineId));
+  }
+  for (const p of db.influences) {
+    const w = `${originOf('influences', p.id)} influence:${p.id}`;
+    need(w, 'fathers', [...p.fatherIds, ...p.defenders.map((d) => d.fatherId), ...p.critics.map((d) => d.fatherId)]);
+    need(w, 'people', [...p.defenders.map((d) => d.personId), ...p.critics.map((d) => d.personId)]);
+    need(w, 'traditions', p.traditionIds); need(w, 'influences', p.relatedIds); need(w, 'sources', p.sources);
+  }
+  db.fathers.sort((a, b) => (a.born ?? a.died ?? 0) - (b.born ?? b.died ?? 0));
+  db.influences.sort((a, b) => a.startYear - b.startYear);
   db.conflicts.sort((a, b) => a.startYear - b.startYear);
   db.missions.sort((a, b) => a.startYear - b.startYear);
   db.indiaMissions.sort((a, b) => a.order - b.order);

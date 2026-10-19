@@ -67,7 +67,7 @@ export function useAtlas(): Atlas {
 /** English names of entries ("person/augustine" → "Augustine of Hippo"), so the Tamil guide also understands English. */
 export function englishNames(): Record<string, string> {
   const out: Record<string, string> = {};
-  const TYPES: [keyof Db, EntityType][] = [['doctrines', 'doctrine'], ['traditions', 'tradition'], ['people', 'person'], ['positions', 'position'], ['events', 'event'], ['controversies', 'controversy'], ['experiences', 'experience'], ['works', 'work'], ['eras', 'era'], ['missions', 'mission'], ['indiaMissions', 'india'], ['conflicts', 'conflict']];
+  const TYPES: [keyof Db, EntityType][] = [['doctrines', 'doctrine'], ['traditions', 'tradition'], ['people', 'person'], ['positions', 'position'], ['events', 'event'], ['controversies', 'controversy'], ['experiences', 'experience'], ['works', 'work'], ['eras', 'era'], ['missions', 'mission'], ['indiaMissions', 'india'], ['conflicts', 'conflict'], ['fathers', 'father'], ['influences', 'influence']];
   if (englishDb) for (const [coll, type] of TYPES) for (const e of englishDb[coll] as unknown as Record<string, string>[]) out[`${type}/${e.id}`] = e.name ?? e.title;
   return out;
 }
@@ -107,6 +107,8 @@ export const ROUTE_FOR: Record<EntityType, string> = {
   mission: '/missions',
   india: '/missions/india',
   conflict: '/wars',
+  father: '/fathers',
+  influence: '/influences',
   era: '/eras',
   event: '/events',
   person: '/people',
