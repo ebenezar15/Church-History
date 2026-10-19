@@ -175,7 +175,7 @@ export default function InfluenceDetail() {
               <ListCard title={L('Rejected by', 'மறுத்தவர்கள்')} icon="close" items={p.rejectedBy} colour="#c0392b" />
               {p.fatherIds.length > 0 && (
                 <div className="card p-4 md:col-span-2">
-                  <div className="mb-2 text-xs font-bold uppercase tracking-wider text-accent">{L('Church Fathers involved', 'தொடர்புடைய திருச்சபைப் பிதாக்கள்')}</div>
+                  <div className="mb-2 text-xs font-bold uppercase tracking-wider text-accent">{L('Church Fathers involved', 'தொடர்புடைய திருச்சபைத் தந்தையர்')}</div>
                   <div className="flex flex-wrap gap-2">{p.fatherIds.map((f) => <Link key={f} to={`/fathers/${f}`} className="chip hover:!border-accent hover:!text-accent"><Icon name="quill" size={12} /> {a.get<ChurchFather>('father', f)?.name ?? f}</Link>)}</div>
                 </div>
               )}

@@ -14,7 +14,7 @@ type SourceTradition = PaganInfluence['sourceTradition'];
 export const lbl = (m: { en: string; ta: string }) => (isTA() ? m.ta : m.en);
 
 export const SCHOOL_META: Record<School, Meta> = {
-  'apostolic-fathers': { en: 'Apostolic Fathers', ta: 'அப்போஸ்தலிக்கப் பிதாக்கள்', colour: '#b8892b' },
+  'apostolic-fathers': { en: 'Apostolic Fathers', ta: 'அப்போஸ்தலிக்கப் தந்தையர்', colour: '#b8892b' },
   apologists: { en: 'Apologists', ta: 'விசுவாசப் பாதுகாவலர்கள்', colour: '#c0392b' },
   alexandrian: { en: 'Alexandrian school', ta: 'அலெக்சாந்திரியப் பள்ளி', colour: '#2a8fb8' },
   antiochene: { en: 'Antiochene school', ta: 'அந்தியோக்கியப் பள்ளி', colour: '#2e9d5b' },
@@ -50,7 +50,7 @@ export const ROOT_META: Record<Root, Meta & { group: 'bible' | 'philosophy' | 'r
   rhetoric: { en: 'Classical rhetoric', ta: 'செவ்வியல் சொல்லாட்சி', colour: '#d07a1e', group: 'rome' },
   'imperial-church': { en: 'Imperial church', ta: 'பேரரசுத் திருச்சபை', colour: '#a0522d', group: 'rome' },
   'anti-gnostic': { en: 'Against Gnosticism', ta: 'ஞானக்கொள்கை எதிர்ப்பு', colour: '#7a4fc2', group: 'church' },
-  'earlier-fathers': { en: 'Earlier Fathers', ta: 'முந்தைய பிதாக்கள்', colour: '#9b59b6', group: 'church' },
+  'earlier-fathers': { en: 'Earlier Fathers', ta: 'முந்தைய தந்தையர்', colour: '#9b59b6', group: 'church' },
   monasticism: { en: 'Monasticism', ta: 'துறவறம்', colour: '#8a6d3b', group: 'church' },
 };
 export const ROOTS = Object.keys(ROOT_META) as Root[];
@@ -64,7 +64,7 @@ export const ROOT_GROUPS: Record<'bible' | 'philosophy' | 'rome' | 'church', Met
 export const VIEW_META: Record<View, Meta> = {
   saint: { en: 'Saint', ta: 'புனிதர்', colour: '#b8892b' },
   doctor: { en: 'Doctor of the Church', ta: 'திருச்சபையின் மறைவல்லுநர்', colour: '#7a4fc2' },
-  father: { en: 'Father', ta: 'பிதா', colour: '#2a8fb8' },
+  father: { en: 'Father', ta: 'தந்தை', colour: '#2a8fb8' },
   respected: { en: 'Respected', ta: 'மதிக்கப்படுபவர்', colour: '#2e9d5b' },
   controversial: { en: 'Controversial', ta: 'சர்ச்சைக்குரியவர்', colour: '#d07a1e' },
   condemned: { en: 'Condemned', ta: 'கண்டிக்கப்பட்டவர்', colour: '#c0392b' },

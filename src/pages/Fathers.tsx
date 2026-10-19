@@ -30,16 +30,16 @@ export default function Fathers() {
 
   return (
     <div>
-      <PageHeader eyebrow={L('Think', 'சிந்திக்க')} icon="quill" title={L('Church Fathers: Roots & Influences', 'திருச்சபைப் பிதாக்கள்: வேர்களும் தாக்கங்களும்')}>
+      <PageHeader eyebrow={L('Think', 'சிந்திக்க')} icon="quill" title={L('Church Fathers: Roots & Influences', 'திருச்சபைத் தந்தையர்: வேர்களும் தாக்கங்களும்')}>
         {L(
           'The teachers of the first eight centuries who shaped Christian doctrine, worship and Bible reading. Where their ideas came from (Scripture and Judaism, Greek philosophy, Roman law and rhetoric, the fight against Gnosticism, earlier Fathers and the desert monks), who taught whom, what each contributed to doctrine, and how Catholic, Orthodox, Oriental and Protestant churches receive them today.',
-          'முதல் எட்டு நூற்றாண்டுகளில் கிறிஸ்தவக் கோட்பாடு, வழிபாடு, வேதவாசிப்பு ஆகியவற்றை வடிவமைத்த ஆசிரியர்கள். அவர்களின் கருத்துகள் எங்கிருந்து வந்தன (வேதமும் யூத மதமும், கிரேக்கத் தத்துவம், ரோமச் சட்டமும் சொல்லாட்சியும், ஞானக்கொள்கைக்கு எதிரான போராட்டம், முந்தைய பிதாக்கள், பாலைவனத் துறவிகள்), யார் யாருக்குக் கற்பித்தார்கள், ஒவ்வொருவரும் கோட்பாட்டுக்கு அளித்த பங்களிப்பு, இன்று கத்தோலிக்க, ஆர்த்தடாக்ஸ், கீழைத்தேய, புராட்டஸ்டன்ட் சபைகள் அவர்களை எவ்வாறு ஏற்கின்றன.',
+          'முதல் எட்டு நூற்றாண்டுகளில் கிறிஸ்தவக் கோட்பாடு, வழிபாடு, வேதவாசிப்பு ஆகியவற்றை வடிவமைத்த ஆசிரியர்கள். அவர்களின் கருத்துகள் எங்கிருந்து வந்தன (வேதமும் யூத மதமும், கிரேக்கத் தத்துவம், ரோமச் சட்டமும் சொல்லாட்சியும், ஞானக்கொள்கைக்கு எதிரான போராட்டம், முந்தைய தந்தையர், பாலைவனத் துறவிகள்), யார் யாருக்குக் கற்பித்தார்கள், ஒவ்வொருவரும் கோட்பாட்டுக்கு அளித்த பங்களிப்பு, இன்று கத்தோலிக்க, ஆர்த்தடாக்ஸ், கீழைத்தேய, புராட்டஸ்டன்ட் சபைகள் அவர்களை எவ்வாறு ஏற்கின்றன.',
         )}
       </PageHeader>
 
       <div className="mb-6 grid grid-cols-2 gap-3 sm:grid-cols-4">
         {([
-          [a.fathers.length, L('Fathers', 'பிதாக்கள்'), 'quill'],
+          [a.fathers.length, L('Fathers', 'தந்தையர்'), 'quill'],
           [schools.length, L('schools & streams', 'பள்ளிகளும் மரபுகளும்'), 'branch'],
           [links, L('roots traced', 'கண்டறியப்பட்ட வேர்கள்'), 'tree'],
           [works, L('key writings', 'முக்கிய நூல்கள்'), 'book'],
@@ -59,7 +59,7 @@ export default function Fathers() {
           onChange={setView}
           tabs={[
             { id: 'tree', label: L('Who taught whom', 'யார் யாருக்குக் கற்பித்தார்'), icon: 'branch' },
-            { id: 'roots', label: L('Roots → Fathers → doctrine', 'வேர்கள் → பிதாக்கள் → கோட்பாடு'), icon: 'tree' },
+            { id: 'roots', label: L('Roots → Fathers → doctrine', 'வேர்கள் → தந்தையர் → கோட்பாடு'), icon: 'tree' },
             { id: 'heat', label: L('Roots heat map', 'வேர்களின் வெப்ப வரைபடம்'), icon: 'layers' },
             { id: 'lives', label: L('Lifespans & councils', 'வாழ்நாட்களும் சங்கங்களும்'), icon: 'timeline' },
             { id: 'map', label: L('Map', 'வரைபடம்'), icon: 'map' },
@@ -78,7 +78,7 @@ export default function Fathers() {
 
       <AnimatePresence mode="wait">
         <motion.div key={view} initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -6 }} transition={{ duration: 0.22 }}>
-          {!list.length && <p className="text-muted">{L('The Fathers are being added.', 'பிதாக்கள் சேர்க்கப்படுகிறார்கள்.')}</p>}
+          {!list.length && <p className="text-muted">{L('The Fathers are being added.', 'தந்தையர் சேர்க்கப்படுகிறார்கள்.')}</p>}
           {list.length > 0 && view === 'tree' && <Lineage list={list} all={a.fathers} />}
           {list.length > 0 && view === 'roots' && <RootsFlow list={list} doctrine={(id) => a.get<Doctrine>('doctrine', id)?.name ?? id} />}
           {list.length > 0 && view === 'heat' && <Heat list={list} />}
@@ -121,7 +121,7 @@ function Lineage({ list, all }: { list: ChurchFather[]; all: ChurchFather[] }) {
   }, [list, all]);
   return (
     <div>
-      <p className="mb-2 text-sm text-muted">{L('Arrows run from teacher (or direct influence) to pupil. Each band is a school; click a Father to open his page.', 'அம்புகள் ஆசிரியரிடமிருந்து (அல்லது நேரடித் தாக்கத்திலிருந்து) மாணவரை நோக்கிச் செல்கின்றன. ஒவ்வொரு பட்டையும் ஒரு பள்ளி; ஒரு பிதாவின் பக்கத்தைத் திறக்க அவரைச் சொடுக்குங்கள்.')}</p>
+      <p className="mb-2 text-sm text-muted">{L('Arrows run from teacher (or direct influence) to pupil. Each band is a school; click a Father to open his page.', 'அம்புகள் ஆசிரியரிடமிருந்து (அல்லது நேரடித் தாக்கத்திலிருந்து) மாணவரை நோக்கிச் செல்கின்றன. ஒவ்வொரு பட்டையும் ஒரு பள்ளி; ஒரு தந்தையின் பக்கத்தைத் திறக்க அவரைச் சொடுக்குங்கள்.')}</p>
       <GraphFlow nodes={g.nodes} edges={g.edges} lanes={g.lanes} height={Math.min(760, Math.max(480, g.height * 0.6))} onSelect={(id) => navigate(`/fathers/${id}`)} view={{ x: 290, y: 20, zoom: 0.78 }} />
     </div>
   );
@@ -162,10 +162,10 @@ function RootsFlow({ list, doctrine }: { list: ChurchFather[]; doctrine: (id: st
 
   return (
     <div>
-      <p className="mb-2 text-sm text-muted">{L('Point at a root, a Father or a doctrine to trace its lines. Roots are what shaped each Father; the right side is the doctrine he helped define.', 'ஒரு வேர், பிதா அல்லது கோட்பாட்டைச் சுட்டி அதன் கோடுகளைப் பின்தொடருங்கள். வேர்கள் ஒவ்வொரு பிதாவையும் வடிவமைத்தவை; வலது பக்கம் அவர் வரையறுக்க உதவிய கோட்பாடு.')}</p>
+      <p className="mb-2 text-sm text-muted">{L('Point at a root, a Father or a doctrine to trace its lines. Roots are what shaped each Father; the right side is the doctrine he helped define.', 'ஒரு வேர், தந்தை அல்லது கோட்பாட்டைச் சுட்டி அதன் கோடுகளைப் பின்தொடருங்கள். வேர்கள் ஒவ்வொரு தந்தையையும் வடிவமைத்தவை; வலது பக்கம் அவர் வரையறுக்க உதவிய கோட்பாடு.')}</p>
       <div className="overflow-x-auto rounded-2xl border border-line bg-surface-2 p-2">
-        <svg viewBox={`0 0 1000 ${H}`} className="min-w-[760px]" style={{ width: '100%' }}>
-          {[L('Roots', 'வேர்கள்'), L('Fathers', 'பிதாக்கள்'), L('Doctrine', 'கோட்பாடு')].map((t, i) => (
+        <svg viewBox={`-70 0 1150 ${H}`} className="min-w-[820px]" style={{ width: '100%' }}>
+          {[L('Roots', 'வேர்கள்'), L('Fathers', 'தந்தையர்'), L('Doctrine', 'கோட்பாடு')].map((t, i) => (
             <text key={i} x={X[i]} y={12} textAnchor="middle" className="fill-[var(--muted)] text-[11px] font-bold uppercase tracking-widest">{t}</text>
           ))}
           {links.map((l, i) => (
@@ -186,7 +186,7 @@ function RootsFlow({ list, doctrine }: { list: ChurchFather[]; doctrine: (id: st
           {docs.map((d, i) => (
             <g key={d} transform={`translate(${X[2]},${yOf(i, docs.length)})`} opacity={dim(`d:${d}`)} onMouseEnter={() => setHover(`d:${d}`)} onMouseLeave={() => setHover(null)} onClick={() => navigate(`/doctrines?open=${d}`)} className="cursor-pointer">
               <circle r={6} fill="var(--accent)" />
-              <text x={12} dy="0.35em" className="fill-[var(--ink)] text-[12px] font-semibold">{doctrine(d)}</text>
+              <text x={12} dy="0.35em" className="fill-[var(--ink)] text-[12px] font-semibold">{doctrine(d).length > 30 ? `${doctrine(d).slice(0, 29)}…` : doctrine(d)}</text>
             </g>
           ))}
         </svg>
@@ -204,7 +204,7 @@ function Heat({ list }: { list: ChurchFather[] }) {
   const fathers = [...list].sort((p, q) => mid(p) - mid(q));
   return (
     <div>
-      <p className="mb-2 text-sm text-muted">{L('Each lit square means that root shaped that Father. Point at a square to read how.', 'ஒளிரும் ஒவ்வொரு சதுரமும் அந்த வேர் அந்தப் பிதாவை வடிவமைத்தது என்பதைக் குறிக்கிறது. எப்படி என்று படிக்க சதுரத்தைச் சுட்டுங்கள்.')}</p>
+      <p className="mb-2 text-sm text-muted">{L('Each lit square means that root shaped that Father. Point at a square to read how.', 'ஒளிரும் ஒவ்வொரு சதுரமும் அந்த வேர் அந்தத் தந்தையை வடிவமைத்தது என்பதைக் குறிக்கிறது. எப்படி என்று படிக்க சதுரத்தைச் சுட்டுங்கள்.')}</p>
       <div className="grid gap-4 lg:grid-cols-[minmax(0,1fr)_280px]">
         <div className="overflow-x-auto rounded-2xl border border-line bg-surface-2 p-3">
           <table className="border-separate border-spacing-[3px] text-xs">
@@ -325,7 +325,7 @@ function FathersMap({ list }: { list: ChurchFather[] }) {
             <ul className="mt-2 space-y-1 text-xs text-ink-2">{f.places.map((p, i) => <li key={i}>• {p.name}{p.year ? ` (${p.year})` : ''}</li>)}</ul>
             <Link to={`/fathers/${f.id}`} className="mt-3 inline-flex items-center gap-1 text-sm font-semibold text-accent">{L('Open', 'திற')} <Icon name="arrow" size={14} /></Link>
           </>
-        ) : <p className="text-sm text-muted">{L('Click a dot to see a Father’s city and the journey of his life.', 'ஒரு பிதாவின் நகரத்தையும் வாழ்க்கைப் பயணத்தையும் காண ஒரு புள்ளியைச் சொடுக்குங்கள்.')}</p>}
+        ) : <p className="text-sm text-muted">{L('Click a dot to see a Father’s city and the journey of his life.', 'ஒரு தந்தையின் நகரத்தையும் வாழ்க்கைப் பயணத்தையும் காண ஒரு புள்ளியைச் சொடுக்குங்கள்.')}</p>}
       </div>
     </div>
   );

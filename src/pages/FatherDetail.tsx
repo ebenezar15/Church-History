@@ -32,7 +32,7 @@ export default function FatherDetail() {
   return (
     <article>
       <motion.header initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} className="mb-6">
-        <Link to="/fathers" className="mb-2 inline-flex items-center gap-1 text-sm text-muted hover:text-accent"><Icon name="arrow-left" size={14} /> {L('Church Fathers', 'திருச்சபைப் பிதாக்கள்')}</Link>
+        <Link to="/fathers" className="mb-2 inline-flex items-center gap-1 text-sm text-muted hover:text-accent"><Icon name="arrow-left" size={14} /> {L('Church Fathers', 'திருச்சபைத் தந்தையர்')}</Link>
         <div className="mb-1 flex flex-wrap items-center gap-2 text-xs font-bold uppercase tracking-wider" style={{ color: s.colour }}>
           <Icon name="quill" size={14} /> {lbl(s)} · <span className="tabular-nums">{lifeSpan(f)}</span> · {f.see.name} · <span style={{ color: LANG_META[f.language].colour }}>{lbl(LANG_META[f.language])}</span>
         </div>
@@ -194,26 +194,30 @@ export default function FatherDetail() {
 /** The Father at the centre with his roots as rays around him. */
 function RootStar({ f, active, onPick }: { f: ChurchFather; active: number; onPick: (i: number) => void }) {
   const n = f.roots.length;
-  const R = 108;
+  const R = 104;
   return (
-    <svg viewBox="-170 -140 340 280" className="mx-auto w-full max-w-md">
+    <svg viewBox="-280 -150 560 300" className="mx-auto w-full max-w-xl">
       {f.roots.map((r, i) => {
         const ang = (i / n) * Math.PI * 2 - Math.PI / 2;
         const x = Math.cos(ang) * R, y = Math.sin(ang) * R;
         const c = ROOT_META[r.root].colour;
         const label = lbl(ROOT_META[r.root]);
+        // Labels sit outside the dot, anchored away from the centre so neighbours don't collide.
+        const side = Math.abs(x) < 20 ? 'middle' : x > 0 ? 'start' : 'end';
+        const lx = x + (side === 'middle' ? 0 : x > 0 ? 16 : -16);
+        const ly = side === 'middle' ? y + (y > 0 ? 28 : -20) : y + 4;
         return (
           <g key={i} onClick={() => onPick(i)} className="cursor-pointer">
             <motion.line x1={0} y1={0} x2={x} y2={y} stroke={c} strokeWidth={i === active ? 4 : 2} initial={{ pathLength: 0 }} animate={{ pathLength: 1 }} transition={{ delay: 0.1 + i * 0.08, duration: 0.5 }} />
             <motion.circle cx={x} cy={y} r={i === active ? 13 : 9} fill={c} initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ delay: 0.4 + i * 0.08, type: 'spring' }} />
-            <text x={x} y={y + (y >= 0 ? 26 : -18)} textAnchor="middle" className="fill-[var(--ink)] text-[11px] font-semibold">{label.length > 22 ? `${label.slice(0, 21)}…` : label}</text>
+            <text x={lx} y={ly} textAnchor={side} className="fill-[var(--ink)] text-[11px] font-semibold">{label.length > 26 ? `${label.slice(0, 25)}…` : label}</text>
           </g>
         );
       })}
-      <motion.circle r={34} fill="var(--surface)" stroke={SCHOOL_META[f.school].colour} strokeWidth={3} initial={{ scale: 0 }} animate={{ scale: [0, 1.15, 1] }} />
-      <motion.circle r={42} fill="none" stroke={SCHOOL_META[f.school].colour} strokeOpacity={0.4} animate={{ r: [38, 48, 38], opacity: [0.6, 0, 0.6] }} transition={{ repeat: Infinity, duration: 2.6 }} />
-      <foreignObject x={-32} y={-14} width={64} height={28}>
-        <div className="flex h-full items-center justify-center text-center text-[10px] font-bold leading-tight text-ink">{f.name.split(/\s+/).slice(0, 2).join(' ')}</div>
+      <motion.circle r={40} fill="var(--surface)" stroke={SCHOOL_META[f.school].colour} strokeWidth={3} initial={{ scale: 0 }} animate={{ scale: [0, 1.15, 1] }} />
+      <motion.circle r={46} fill="none" stroke={SCHOOL_META[f.school].colour} strokeOpacity={0.4} animate={{ r: [44, 54, 44], opacity: [0.6, 0, 0.6] }} transition={{ repeat: Infinity, duration: 2.6 }} />
+      <foreignObject x={-36} y={-22} width={72} height={44}>
+        <div className="flex h-full items-center justify-center overflow-hidden break-words text-center text-[9px] font-bold leading-tight text-ink">{f.name.split(/\s+/).slice(-2).join(' ')}</div>
       </foreignObject>
     </svg>
   );
