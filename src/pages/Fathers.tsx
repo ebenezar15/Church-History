@@ -122,7 +122,7 @@ function Lineage({ list, all }: { list: ChurchFather[]; all: ChurchFather[] }) {
   return (
     <div>
       <p className="mb-2 text-sm text-muted">{L('Arrows run from teacher (or direct influence) to pupil. Each band is a school; click a Father to open his page.', 'அம்புகள் ஆசிரியரிடமிருந்து (அல்லது நேரடித் தாக்கத்திலிருந்து) மாணவரை நோக்கிச் செல்கின்றன. ஒவ்வொரு பட்டையும் ஒரு பள்ளி; ஒரு பிதாவின் பக்கத்தைத் திறக்க அவரைச் சொடுக்குங்கள்.')}</p>
-      <GraphFlow nodes={g.nodes} edges={g.edges} lanes={g.lanes} height={Math.min(760, Math.max(480, g.height * 0.6))} onSelect={(id) => navigate(`/fathers/${id}`)} />
+      <GraphFlow nodes={g.nodes} edges={g.edges} lanes={g.lanes} height={Math.min(760, Math.max(480, g.height * 0.6))} onSelect={(id) => navigate(`/fathers/${id}`)} view={{ x: 290, y: 20, zoom: 0.78 }} />
     </div>
   );
 }
@@ -137,7 +137,7 @@ function RootsFlow({ list, doctrine }: { list: ChurchFather[]; doctrine: (id: st
   const ROW = 24;
   const H = Math.max(fathers.length, roots.length, docs.length) * ROW + 40;
   const yOf = (i: number, n: number) => 20 + (i + 0.5) * ((H - 40) / n);
-  const X = [170, 500, 830];
+  const X = [175, 470, 755];
   const links: { k: string; a: string; b: string; d: string; c: string }[] = [];
   fathers.forEach((f, fi) => {
     const fy = yOf(fi, fathers.length);
@@ -270,9 +270,9 @@ function Lives({ list }: { list: ChurchFather[] }) {
         </div>
         <div className="relative">
           <div className="pointer-events-none absolute inset-y-0 left-[180px] right-0">
-            {COUNCILS.map(([y, en, ta]) => (
+            {COUNCILS.map(([y, en, ta], i) => (
               <div key={y} className="absolute inset-y-0 border-l border-dashed border-accent/50" style={{ left: `${x(y)}%` }}>
-                <span className="absolute -top-1 left-1 whitespace-nowrap text-[9px] font-bold text-accent">{L(en, ta)}</span>
+                <span className="absolute left-1 whitespace-nowrap rounded bg-surface-2 px-0.5 text-[9px] font-bold text-accent" style={{ top: -4 + (i % 3) * 11 }}>{L(en, ta)} {y}</span>
               </div>
             ))}
           </div>

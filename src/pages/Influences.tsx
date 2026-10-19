@@ -261,7 +261,7 @@ function FromTo({ list }: { list: PaganInfluence[] }) {
   return (
     <div>
       <p className="mb-2 text-sm text-muted">{L('Left: the pre-Christian culture. Middle: the claimed influence, coloured by how strong the evidence is (dashed lines are myths). Right: the part of Christian life it touched. Click an influence to open it.', 'இடது: கிறிஸ்தவத்துக்கு முந்தைய பண்பாடு. நடுவில்: கூறப்படும் தாக்கம், சான்றின் வலிமைக்கேற்ப வண்ணமிடப்பட்டது (புள்ளிக்கோடுகள் கட்டுக்கதைகள்). வலது: அது தொட்ட கிறிஸ்தவ வாழ்வின் பகுதி. திறக்க ஒரு தாக்கத்தைச் சொடுக்குங்கள்.')}</p>
-      <GraphFlow nodes={g.nodes} edges={g.edges} height={Math.min(820, Math.max(480, g.H * 0.55))} onSelect={(id) => !id.includes(':') && navigate(`/influences/${id}`)} />
+      <GraphFlow nodes={g.nodes} edges={g.edges} height={640} onSelect={(id) => !id.includes(':') && navigate(`/influences/${id}`)} view={{ x: 30, y: 20, zoom: 0.82 }} />
     </div>
   );
 }
