@@ -19,6 +19,8 @@ export const NAV: { to: string; label: string; icon: IconName; group: string }[]
   { to: '/missions/india', label: 'Missions in India', icon: 'compass', group: 'Explore' },
   { to: '/wars', label: 'Holy Wars & Conflicts', icon: 'scales', group: 'Explore' },
   { to: '/doctrines', label: 'Doctrines', icon: 'trinity', group: 'Think' },
+  { to: '/fathers', label: 'Church Fathers', icon: 'quill', group: 'Think' },
+  { to: '/influences', label: 'Pagan Influences', icon: 'sun', group: 'Think' },
   { to: '/debates', label: 'Debate Arena', icon: 'scales', group: 'Think' },
   { to: '/compare', label: 'Compare', icon: 'layers', group: 'Think' },
   { to: '/compare/featured/legal-vs-union-gospel', label: 'Legal vs Union', icon: 'cross', group: 'Think' },

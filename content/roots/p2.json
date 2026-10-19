@@ -1,0 +1,477 @@
+{
+  "influences": [
+    {
+      "id": "platonism-in-theology",
+      "name": "Platonism and Middle Platonism in early theology",
+      "category": "philosophy",
+      "sourceTradition": "greek-philosophy",
+      "sourceCulture": "Platonic and Middle Platonic teaching on a transcendent, incorporeal God, the immortal soul and the intelligible world",
+      "christianForm": "The conceptual vocabulary of patristic theology: divine simplicity and immutability, the soul’s ascent, allegorical exegesis and the Logos as mediator",
+      "startYear": 150,
+      "place": { "name": "Alexandria", "lat": 31.2001, "lng": 29.9187 },
+      "evidence": "strong",
+      "evidenceNote": "The use of Platonic and Middle Platonic concepts by Justin, Clement, Origen, the Cappadocians and Augustine is explicit in their own writings; what is debated is how far this changed the substance of the faith rather than its idiom.",
+      "popularClaim": "Christianity is ‘Platonism for the people’ (Nietzsche): the church fathers replaced the Hebrew faith of Jesus with Greek philosophy, so that doctrines such as the immortal soul or the Trinity are really Plato in disguise.",
+      "whatHistoriansSay": "Historians agree that the Fathers used Platonism deliberately and openly, above all the Middle Platonism of the first and second centuries (Plutarch, Alcinous, Numenius) and Philo of Alexandria’s Jewish synthesis. They also stress what the Fathers refused: the eternity of matter, the Demiurge working on pre-existing stuff, the body as a prison, and a hierarchy of lesser gods. Creation out of nothing, the incarnation and the resurrection of the body ran directly against Platonic assumptions. Adolf von Harnack’s ‘Hellenisation of Christianity’ thesis is now widely qualified; scholars such as Pelikan and Ayres speak equally of a ‘Christianisation of Hellenism’, in which borrowed terms were bent to new ends.",
+      "summary": "From the second century Christian thinkers used the dominant philosophy of the Roman world, Platonism, to explain the biblical God to educated pagans and to themselves. The borrowing of concepts and vocabulary is well documented and acknowledged by the Fathers themselves; the claim that core Christian beliefs were simply invented from Plato is not supported.",
+      "story": "By the time Christianity spread through the Greek-speaking cities, the most influential philosophy was a revived Platonism that historians call Middle Platonism (c. 80 BC–AD 220). Writers such as Plutarch, Alcinous (author of the Didaskalikos) and Numenius taught a single transcendent First God beyond all being, a secondary divine mind or Logos that ordered the world, and an immortal soul whose goal was ‘likeness to God’ (Theaetetus 176b). Philo of Alexandria (c. 20 BC–AD 50) had already read the Torah through these categories, interpreting Genesis allegorically and calling the Logos God’s ‘first-born’. Christian intellectuals inherited both the philosophy and Philo’s method.\n\nJustin Martyr, who tells us he had been a Platonist before his conversion (Dialogue with Trypho 2–8), argued that Plato had glimpsed truths about God because he borrowed from Moses and because the Logos had sown ‘seeds’ of truth in all people. In Alexandria, Clement (c. 150–215) called philosophy a ‘schoolmaster’ that prepared the Greeks for Christ as the Law had prepared the Jews (Stromata 1.5). Origen (c. 185–253) built the most ambitious system: an eternal generation of the Son, a hierarchy of rational beings, the pre-existence of souls, and a threefold sense of Scripture. Some of his Platonising speculations, especially the pre-existence of souls and a universal restoration, were condemned under Justinian in 543 and at the Second Council of Constantinople in 553.\n\nIn the fourth century the Cappadocians — Basil, Gregory of Nazianzus and above all Gregory of Nyssa — used Platonic themes of ascent, participation and endless desire for God, while insisting against the Arians that the Son and Spirit are not lesser intermediaries but fully God. Here Christian thinkers rejected a central Middle Platonic idea, the subordinate ‘second god’. In the Latin West, Augustine read ‘certain books of the Platonists’ in Milan in 386 (Confessions 7.9) and credited them with freeing him from materialist ideas of God, while noting that he did not find in them that ‘the Word became flesh’.\n\nThe extent of the influence was already contested in antiquity. Tertullian asked ‘What has Athens to do with Jerusalem?’ and blamed philosophy for heresy, though he himself used Stoic ideas freely. In the nineteenth century Adolf von Harnack argued that dogma was ‘a work of the Greek spirit on the soil of the Gospel’, and many Protestant scholars contrasted Hebrew and Greek thought sharply. Since the mid-twentieth century that contrast has been softened: Hellenistic Judaism was itself shaped by Greek thought, and the creeds often used Greek terms precisely to exclude philosophical solutions (for example, homoousios against a graded hierarchy of divinity).\n\nThe outcome was a lasting partnership. The doctrines of divine simplicity and impassibility, the language of the soul’s ascent, and much of the Christian mystical tradition owe their form to Platonism. Yet the Fathers consistently subordinated it to Scripture and the rule of faith, and the distinctively Christian claims — creation from nothing, incarnation, bodily resurrection, a God who acts in history — were the points at which they parted company with the philosophers.",
+      "howItHappened": [
+        "Hellenistic Judaism, above all Philo of Alexandria, had already joined biblical faith to Platonic categories before the church began.",
+        "Converts trained in philosophy, such as Justin Martyr, brought their education with them and used it in apologetics addressed to emperors and the educated public.",
+        "The catechetical school of Alexandria under Clement and Origen made philosophy part of a Christian curriculum.",
+        "Debates over the Trinity forced theologians to use philosophical terms such as ousia and hypostasis with new precision, often against Platonic hierarchy.",
+        "Augustine’s synthesis transmitted a Christianised Platonism to the entire medieval West."
+      ],
+      "examples": [
+        "Justin Martyr’s claim that Plato borrowed from Moses (1 Apology 59–60).",
+        "Origen’s On First Principles (c. 220–230), with its pre-existent souls later condemned in 553.",
+        "Gregory of Nyssa’s Life of Moses, describing the soul’s endless ascent (epektasis).",
+        "Augustine’s account of reading the ‘books of the Platonists’ (Confessions 7.9–21) and his praise of Plato in City of God 8.",
+        "The doctrine of divine impassibility and simplicity, expressed in Platonic vocabulary but anchored in texts such as Malachi 3:6 and James 1:17."
+      ],
+      "defenders": [
+        { "name": "Justin Martyr", "personId": "justin-martyr", "fatherId": "justin-martyr", "text": "Held that Plato and the philosophers had partial truth through the ‘seed of the Logos’ and that whatever was rightly said by them belonged to Christians." },
+        { "name": "Clement of Alexandria", "personId": "clement-of-alexandria", "fatherId": "clement-of-alexandria", "text": "Called philosophy a gift of God and a ‘schoolmaster’ leading the Greeks to Christ (Stromata 1.5)." },
+        { "name": "Origen", "personId": "origen", "fatherId": "origen", "text": "Built a philosophical theology in Platonic terms and taught philosophy to his students as preparation for Scripture." },
+        { "name": "Augustine of Hippo", "personId": "augustine-of-hippo", "fatherId": "augustine-of-hippo-father", "text": "Judged the Platonists closest to Christianity among the philosophers (City of God 8.5) while insisting they lacked the incarnation and humility of Christ." }
+      ],
+      "critics": [
+        { "name": "Tertullian", "personId": "tertullian", "fatherId": "tertullian", "text": "Asked ‘What has Athens to do with Jerusalem?’ (Prescription against Heretics 7) and called the philosophers the ‘patriarchs of the heretics’." },
+        { "name": "Adolf von Harnack", "personId": "adolf-von-harnack", "text": "Argued in his History of Dogma (1886–90) that dogma was a Hellenisation of the simple Gospel, a thesis that shaped liberal Protestant historiography." },
+        { "name": "Second Council of Constantinople (553)", "text": "Anathemas associated with the council condemned Origenist doctrines such as the pre-existence of souls, marking a limit to Platonic speculation." }
+      ],
+      "keptBy": [
+        "Eastern Orthodox and Catholic theology, which treat the patristic synthesis as normative",
+        "Anglican and Reformed patristic scholarship, which read the Fathers as faithful users of philosophy",
+        "Modern ‘Christian Platonist’ theologians such as David Bentley Hart"
+      ],
+      "rejectedBy": [
+        "Liberal Protestant historians in Harnack’s tradition, who sought a ‘de-Hellenised’ Gospel",
+        "Biblical theologians of the mid-twentieth century who contrasted Hebrew and Greek thought",
+        "Restorationist and Adventist groups that reject the immortal soul as a Platonic intrusion"
+      ],
+      "fatherIds": ["justin-martyr", "clement-of-alexandria", "origen", "gregory-of-nyssa", "augustine-of-hippo-father", "tertullian", "athanasius"],
+      "traditionIds": ["early-church", "catholic", "eastern-orthodox", "anglican", "seventh-day-adventist"],
+      "relatedIds": ["stoic-logos", "neoplatonism-mysticism", "gnosticism-and-its-rejection", "rhetoric-and-education", "aristotle-scholasticism"],
+      "sources": ["kelly-doctrines", "p2-dillon-middle-platonists", "p2-chadwick-early-christian-thought", "p2-pelikan-christianity-classical-culture", "louth-origins-mystical", "augustine-confessions", "p2-harnack-history-dogma"],
+      "confidence": "established"
+    },
+    {
+      "id": "stoic-logos",
+      "name": "The Stoic and Philonic Logos and natural law",
+      "category": "philosophy",
+      "sourceTradition": "greek-philosophy",
+      "sourceCulture": "The Stoic Logos as the rational principle pervading the cosmos, the ‘seminal reason’ in all things, and a universal law of nature",
+      "christianForm": "Justin’s ‘seminal Logos’ in all people, Logos Christology, Christian ethics of conscience and the natural-law tradition of canon law and Aquinas",
+      "startYear": 90,
+      "place": { "name": "Rome", "lat": 41.9028, "lng": 12.4964 },
+      "evidence": "strong",
+      "evidenceNote": "Apologists from Justin onwards use Stoic terms (logos spermatikos, natural law, apatheia) knowingly; the natural-law tradition runs visibly from Cicero through Ambrose, Gratian and Aquinas. Whether the Johannine prologue itself drew on Stoicism, rather than Jewish Wisdom tradition, is debated.",
+      "popularClaim": "The Christian idea of Jesus as the ‘Word’ (Logos) was simply lifted from Greek Stoic philosophy, and Christian morality is repackaged Stoicism.",
+      "whatHistoriansSay": "Most scholars see the background of John 1:1–18 primarily in Jewish Wisdom literature (Proverbs 8, Wisdom of Solomon 7–9, Sirach 24) and the creative ‘word of the Lord’ of Genesis 1 and the Psalms, filtered through Hellenistic Judaism such as Philo, who had already combined these with Stoic and Platonic Logos ideas. The second-century apologists then made the Stoic connection explicit in order to speak to pagans. Stoic ethics (duty, conscience, self-mastery, universal law) were absorbed heavily by Latin moralists, and natural law became a pillar of Western ethics and canon law. Influence on expression and ethical framework is clear; the personal, incarnate Logos is not a Stoic idea.",
+      "summary": "Stoicism was the most widespread ethical philosophy of the early Roman Empire. Christians adopted its vocabulary of the Logos, conscience and natural law, while transforming an impersonal world-reason into the personal Word made flesh.",
+      "story": "For the Stoics — Zeno, Cleanthes, Chrysippus and later Seneca, Epictetus and Marcus Aurelius — the universe was ordered by a divine, rational fire called Logos, present in every rational being as a ‘seminal reason’ (logos spermatikos). To live well was to live ‘according to nature’, in harmony with this universal law. Cleanthes’ Hymn to Zeus and the poet Aratus, who wrote ‘we are his offspring’, gave popular expression to this outlook, and the Acts of the Apostles has Paul quote Aratus before the Areopagus (Acts 17:28).\n\nThe Jewish philosopher Philo of Alexandria fused the Stoic Logos with the biblical Word and Wisdom, describing the Logos as God’s instrument in creation and his ‘first-born son’. The prologue of John’s Gospel (c. 90–100), ‘In the beginning was the Word’, uses the same term, though most commentators locate its primary roots in Genesis 1 and Jewish Wisdom speculation; its decisive claim, that the Word ‘became flesh’, has no Stoic or Philonic parallel.\n\nIn Rome around 150–155 Justin Martyr made the Stoic connection explicit. Every person shares in the ‘seminal Logos’, so that Socrates, Heraclitus and the Stoics were in a sense Christians before Christ, and ‘whatever things were rightly said among all men are the property of us Christians’ (2 Apology 10, 13). Athenagoras, Theophilus of Antioch and Clement of Alexandria followed, distinguishing the Logos immanent in God from the Logos uttered in creation, a Stoic distinction (endiathetos and prophorikos) that later trinitarian theology refined. Tertullian, despite his hostility to philosophy, called Seneca ‘often our own’ (On the Soul 20) and described the soul in Stoic corporeal terms; a forged correspondence between Seneca and Paul circulated by the fourth century.\n\nStoic ethics shaped Christian moral teaching even more lastingly. Paul’s words on Gentiles who ‘do by nature what the law requires’ (Romans 2:14–15) gave a foothold for a theory of natural law. Cicero’s definition of ‘true law’ as ‘right reason in agreement with nature’ (Republic 3.33) survives because Lactantius quoted it (Divine Institutes 6.8). Ambrose modelled his On the Duties of Ministers (c. 390) directly on Cicero’s On Duties. Gratian’s Decretum (c. 1140) opened canon law with natural law, and Thomas Aquinas systematised it (Summa Theologiae I–II q. 94), passing it to Grotius and modern international law. Ideals such as apatheia (freedom from disordered passion) entered monastic spirituality via Clement and Evagrius.\n\nThe borrowing has had its critics. Karl Barth rejected natural theology outright in his 1934 ‘No!’ to Emil Brunner, fearing that appeals to nature and orders of creation had helped German Christians accommodate Nazism. Other Protestants have suspected Stoic apatheia of distorting the biblical picture of a God who grieves and loves. Yet the Logos remains at the heart of Christian creeds and liturgy, and natural law continues in Catholic social teaching and in much Protestant ethics.",
+      "howItHappened": [
+        "Hellenistic Judaism (Philo, the Wisdom of Solomon) had already linked the biblical Word and Wisdom with the philosophical Logos.",
+        "The apologists used the shared term Logos to explain Christ to pagan readers, claiming that philosophy’s truths came from the same Word.",
+        "Latin writers schooled in Cicero and Seneca took over Stoic ethical categories of duty, conscience and natural law.",
+        "Canon lawyers and scholastics turned natural law into a systematic part of moral theology.",
+        "Monastic writers adapted Stoic therapy of the passions into ascetic practice."
+      ],
+      "examples": [
+        "John 1:1–14, ‘In the beginning was the Word … and the Word became flesh’.",
+        "Justin Martyr’s doctrine of the ‘seminal Logos’ (2 Apology 8, 10, 13).",
+        "Ambrose’s On the Duties of Ministers, a Christian rewriting of Cicero’s On Duties.",
+        "The opening of Gratian’s Decretum: natural law is ‘that which is contained in the Law and the Gospel’.",
+        "Aquinas’s treatise on law (Summa Theologiae I–II qq. 90–97)."
+      ],
+      "defenders": [
+        { "name": "Justin Martyr", "personId": "justin-martyr", "fatherId": "justin-martyr", "text": "Taught that the Logos had sown seeds of truth in all humanity, so that the best of philosophy belonged to Christians." },
+        { "name": "Ambrose of Milan", "personId": "ambrose", "fatherId": "ambrose-of-milan", "text": "Recast Cicero’s Stoic ethics of duty as a handbook for clergy, arguing that Scripture taught the same virtues earlier and better." },
+        { "name": "Thomas Aquinas", "personId": "thomas-aquinas", "text": "Defined natural law as the rational creature’s participation in the eternal law, the classic Christian formulation." },
+        { "name": "Hugo Grotius", "personId": "hugo-grotius", "text": "Carried Christian natural-law theory into early modern international law in On the Law of War and Peace (1625)." }
+      ],
+      "critics": [
+        { "name": "Tertullian", "personId": "tertullian", "fatherId": "tertullian", "text": "Warned against a ‘Stoic, Platonic or dialectic Christianity’ (Prescription against Heretics 7), though he drew on Stoic ideas himself." },
+        { "name": "Karl Barth", "personId": "karl-barth", "text": "Rejected natural theology and appeals to orders of creation as a rival source of revelation (Nein!, 1934)." },
+        { "name": "James D. G. Dunn", "personId": "james-d-g-dunn", "text": "Argued in Christology in the Making (1980) that John’s Logos is best explained from Jewish Wisdom tradition rather than Stoicism." }
+      ],
+      "keptBy": [
+        "Catholic moral theology and social teaching, built on natural law",
+        "Eastern Orthodox theology, centred on the Logos and the logoi of creation (Maximus the Confessor)",
+        "Anglican and much Lutheran and Reformed ethics in the ‘two kingdoms’ and common-grace traditions"
+      ],
+      "rejectedBy": [
+        "Barthian and other neo-orthodox Protestant theology, sceptical of natural theology",
+        "Some Anabaptist and radical Protestant ethicists, who ground ethics in the Sermon on the Mount rather than nature",
+        "Scholars who deny any direct Stoic source for John’s prologue"
+      ],
+      "fatherIds": ["justin-martyr", "athenagoras", "clement-of-alexandria", "tertullian", "ambrose-of-milan", "augustine-of-hippo-father", "evagrius-ponticus"],
+      "traditionIds": ["early-church", "catholic", "eastern-orthodox", "anglican", "lutheran", "reformed"],
+      "relatedIds": ["platonism-in-theology", "rhetoric-and-education", "aristotle-scholasticism"],
+      "sources": ["p2-colish-stoic-tradition", "p2-runia-philo", "kelly-doctrines", "p2-justin-apologies", "newadvent-summa", "p2-ferguson-backgrounds"],
+      "confidence": "established"
+    },
+    {
+      "id": "neoplatonism-mysticism",
+      "name": "Neoplatonism, Pseudo-Dionysius and Christian mysticism",
+      "category": "philosophy",
+      "sourceTradition": "greek-philosophy",
+      "sourceCulture": "The Neoplatonism of Plotinus, Porphyry, Iamblichus and Proclus: the ineffable One, procession and return, hierarchy and union beyond knowledge",
+      "christianForm": "Apophatic (negative) theology, the celestial and ecclesiastical hierarchies, the threefold way of purification, illumination and union, and much of medieval mysticism",
+      "startYear": 386,
+      "place": { "name": "Syria (probable home of the Dionysian author)", "lat": 36.2021, "lng": 36.1606 },
+      "evidence": "strong",
+      "evidenceNote": "In 1895 Hugo Koch and Josef Stiglmayr independently showed that Divine Names 4.18–35 closely follows Proclus’s treatise On the Existence of Evils, proving that the Dionysian corpus dates from c. 500 and depends on late Neoplatonism. Augustine’s debt to Plotinus and Porphyry is explicit in his own writings.",
+      "popularClaim": "Christian mysticism is pagan Neoplatonism with a thin Christian varnish, and the writings attributed to Dionysius, Paul’s convert in Athens, were a deliberate fraud that smuggled pagan philosophy into the church.",
+      "whatHistoriansSay": "The dependence on Neoplatonism is beyond doubt, and the corpus is pseudonymous: it cannot be by the first-century Dionysius of Acts 17:34. Scholars such as Paul Rorem and Andrew Louth note, however, that pseudonymity was a recognised literary convention, and that the author deliberately reworked Proclus: he makes the Trinity, not an impersonal One, the source of all; he replaces theurgic rites with the church’s sacraments; and he grounds everything in the incarnation. Whether the result is ‘Christianised Neoplatonism’ or ‘Neoplatonised Christianity’ remains a matter of emphasis and confessional judgement.",
+      "summary": "Late Neoplatonism shaped Christian mystical theology through two main channels: Augustine in the West and the anonymous author writing as Dionysius the Areopagite c. 500. The borrowing is among the best documented in this atlas; its significance is still debated.",
+      "story": "Neoplatonism was founded by Plotinus (204/5–270), whose Enneads were edited by his pupil Porphyry. It taught that all reality flows from a utterly simple and ineffable One, through Intellect and Soul, down to matter, and that the soul can return by purification and contemplation to a union beyond words. Later Neoplatonists — Iamblichus (c. 245–325) and Proclus (412–485), head of the Academy at Athens — added elaborate hierarchies of divine beings and theurgy, ritual acts thought to raise the soul to the gods. Porphyry also wrote a fifteen-book attack Against the Christians, later burned by imperial order.\n\nChristians nonetheless found Neoplatonism congenial. Marius Victorinus, a famous Roman rhetor who converted c. 355, used Plotinus in his trinitarian writings. In Milan in 386 Augustine read translated ‘books of the Platonists’, almost certainly Plotinus and Porphyry, and described an ascent of the mind to ‘That Which Is’ (Confessions 7.17; 9.10, the vision at Ostia). In the East Gregory of Nyssa’s theme of the soul entering the ‘divine darkness’ on Sinai, though rooted in Exodus and Philo, shares the Neoplatonic language of a God beyond comprehension.\n\nThe decisive figure is the author who wrote c. 500, probably in Syria, under the name of Dionysius the Areopagite, Paul’s Athenian convert. His four treatises — The Divine Names, The Mystical Theology, The Celestial Hierarchy and The Ecclesiastical Hierarchy — and ten letters present a cosmos of ordered hierarchies through which divine light descends and by which creatures are lifted back to God, culminating in an ‘unknowing’ union beyond all affirmation and negation. The works are first cited by the anti-Chalcedonian Severus of Antioch and were debated at a colloquy in Constantinople in 532, where Hypatius of Ephesus doubted their authenticity. Their dependence on Proclus was proved only in 1895.\n\nApostolic authority gave the corpus enormous influence. John of Scythopolis annotated it c. 540, and Maximus the Confessor integrated it into a Christ-centred theology. In the West, Hilduin of Saint-Denis (c. 832) and John Scotus Eriugena (c. 862) translated it into Latin; the identification of Dionysius with Saint Denis of Paris inspired Abbot Suger’s light-filled Gothic choir at Saint-Denis (1144). Thomas Aquinas cites Dionysius some 1,700 times; Bonaventure, Meister Eckhart and the English Cloud of Unknowing all depend on him, and the ‘threefold way’ of purgation, illumination and union became a staple of spiritual direction. In the East, Gregory Palamas and the hesychasts, and in modern times Vladimir Lossky, drew on his apophatic theology.\n\nCritics have pointed both to the authorship and to the content. Lorenzo Valla and Erasmus doubted that a disciple of Paul wrote the works. Martin Luther judged Dionysius ‘more a Platonist than a Christian’ (The Babylonian Captivity of the Church, 1520), and later Protestant writers saw the hierarchies as a pagan model of mediation that obscured Christ. Orthodox and Catholic theologians generally accept the pseudonymity but defend the substance as genuinely Christian, while acknowledging that its forms are Neoplatonic.",
+      "howItHappened": [
+        "Educated converts such as Marius Victorinus and Augustine read Plotinus and Porphyry in Latin translation and used them to think about God and the soul.",
+        "An anonymous Christian author c. 500 rewrote Proclus’s metaphysics in Christian terms and published under an apostolic name.",
+        "The apparent apostolic authority of ‘Dionysius’ secured acceptance by both Chalcedonians and anti-Chalcedonians.",
+        "Scholia by John of Scythopolis and the theology of Maximus the Confessor anchored the corpus in orthodoxy.",
+        "Latin translations from the ninth century carried it into Carolingian, scholastic and mystical theology in the West."
+      ],
+      "examples": [
+        "Augustine’s ascent and the vision at Ostia (Confessions 7.17; 9.10).",
+        "Divine Names 4.18–35, a reworking of Proclus’s On the Existence of Evils.",
+        "The nine choirs of angels in three triads (Celestial Hierarchy 6–9), adopted in medieval art and Dante’s Paradiso.",
+        "The Mystical Theology’s ‘divine darkness’ and the fourteenth-century Cloud of Unknowing.",
+        "Abbot Suger’s Gothic rebuilding of Saint-Denis, inspired by Dionysian light theology."
+      ],
+      "defenders": [
+        { "name": "Maximus the Confessor", "personId": "maximus-the-confessor", "fatherId": "maximus-the-confessor", "text": "Interpreted Dionysius christologically in the Ambigua and Mystagogy, making him central to Byzantine theology." },
+        { "name": "John Scotus Eriugena", "personId": "john-scotus-eriugena", "text": "Translated the corpus into Latin c. 862 and built his Periphyseon on its scheme of procession and return." },
+        { "name": "Thomas Aquinas", "personId": "thomas-aquinas", "text": "Commented on the Divine Names and cited Dionysius as an authority throughout the Summa." },
+        { "name": "Vladimir Lossky", "personId": "vladimir-lossky", "text": "Presented Dionysian apophaticism as the heart of Eastern Orthodox mystical theology (1944)." }
+      ],
+      "critics": [
+        { "name": "Lorenzo Valla", "personId": "lorenzo-valla", "text": "Questioned in the 1450s whether Paul’s Athenian convert could have written the corpus." },
+        { "name": "Martin Luther", "personId": "martin-luther", "text": "Called Dionysius ‘more a Platonist than a Christian’ and warned against his speculative mysticism (1520)." },
+        { "name": "Adolf von Harnack", "personId": "adolf-von-harnack", "text": "Treated the Dionysian corpus as a prime example of the paganising of Christian piety." }
+      ],
+      "keptBy": [
+        "Eastern Orthodox theology and hesychast spirituality",
+        "Catholic mystical and scholastic theology",
+        "Oriental Orthodox churches, especially the Syriac tradition, where the corpus circulated early in translation",
+        "Contemplative movements across traditions that use apophatic prayer"
+      ],
+      "rejectedBy": [
+        "Luther and much classical Protestant theology",
+        "Liberal Protestant historians who saw it as Hellenisation",
+        "Some modern evangelical critics of contemplative prayer"
+      ],
+      "fatherIds": ["pseudo-dionysius", "maximus-the-confessor", "augustine-of-hippo-father", "gregory-of-nyssa", "john-of-damascus-father", "boethius", "ambrose-of-milan"],
+      "traditionIds": ["early-church", "eastern-orthodox", "catholic", "syriac-orthodox", "lutheran"],
+      "relatedIds": ["platonism-in-theology", "aristotle-scholasticism", "gnosticism-and-its-rejection", "mystery-religions-debate"],
+      "sources": ["rorem-pseudo-dionysius", "louth-origins-mystical", "mcginn-mysticism", "p2-wallis-neoplatonism", "lossky-mystical", "augustine-confessions", "p2-dionysius-complete-works"],
+      "confidence": "established"
+    },
+    {
+      "id": "aristotle-scholasticism",
+      "name": "Aristotle and scholastic theology",
+      "category": "philosophy",
+      "sourceTradition": "greek-philosophy",
+      "sourceCulture": "Aristotle’s logic, metaphysics of substance and accident, four causes, physics and ethics, transmitted via Boethius, Syriac and Arabic translators and Averroes",
+      "christianForm": "Scholastic method in the universities, Thomist theology, the language of transubstantiation, Byzantine dialectic and Protestant orthodoxy",
+      "startYear": 510,
+      "place": { "name": "Paris", "lat": 48.8566, "lng": 2.3522 },
+      "evidence": "strong",
+      "evidenceNote": "The translation history, the Paris bans of 1210–1277, Aquinas’s commentaries on Aristotle and Luther’s attack on Aristotle in 1517 are all fully documented.",
+      "popularClaim": "Medieval Catholic doctrine, such as transubstantiation, was invented by applying pagan Aristotelian physics to the faith, and scholastic theology replaced the Bible with Aristotle.",
+      "whatHistoriansSay": "Aristotle’s logic was used from late antiquity, but his natural philosophy and metaphysics entered Latin theology only in the twelfth and thirteenth centuries, after the core doctrines of Trinity and incarnation had been defined (325–681). Belief in Christ’s real presence in the eucharist is far older; the word transubstantiation appears in the twelfth century and was used by the Fourth Lateran Council in 1215, before the full reception of Aristotle’s physics, and Aquinas then explained it using substance and accident, while noting that it breaks Aristotle’s own rules. Aristotle provided method and terminology; theologians rejected his eternity of the world and mortal individual soul. Church authorities resisted him at first.",
+      "summary": "Aristotle came late to Christian theology compared with Plato, but from the thirteenth century his logic and metaphysics became the backbone of university theology. The influence on method and terminology is undisputed; the claim that core doctrines were derived from him is not.",
+      "story": "Early Christian writers knew Aristotle mainly as a logician, and some, like Tertullian, distrusted him as the source of the heretics’ clever arguments. But logic was part of the standard curriculum through Porphyry’s Introduction (Isagoge), and during the christological controversies of the fifth to seventh centuries theologians on all sides used Aristotelian terms such as nature, essence, individual and property. John of Damascus prefaced his Fount of Knowledge (c. 743) with a Dialectica based on Porphyry and Aristotle, and Byzantine scholars continued to comment on Aristotle. Syriac Christians, notably Sergius of Reshaina (d. 536) and the scholars of the Church of the East, translated Aristotle’s logic; their work underlay the Abbasid translation movement in Baghdad.\n\nIn the Latin West Boethius (c. 477–524) translated the Categories and On Interpretation c. 510–520 and planned to translate all of Plato and Aristotle before his execution. For six centuries this ‘old logic’ was almost all of Aristotle the West possessed. In the twelfth century translators such as James of Venice, and Gerard of Cremona working from Arabic in Toledo, made the Physics, Metaphysics, On the Soul and Ethics available, often with the commentaries of Avicenna and Averroes; William of Moerbeke produced careful Greek-based versions in the 1260s.\n\nThe new Aristotle alarmed church authorities. Teaching his natural philosophy was banned at Paris in 1210 and 1215; Pope Gregory IX in 1231 ordered the books expurgated rather than suppressed; and in 1277 Bishop Étienne Tempier condemned 219 propositions, many tied to Latin Averroism, such as the eternity of the world and a single intellect for all humanity. Yet by 1255 the Paris arts faculty prescribed nearly all of Aristotle. Albert the Great and Thomas Aquinas (1225–1274) undertook a critical integration: Aquinas wrote commentaries on twelve Aristotelian works and used his categories throughout the Summa Theologiae, while insisting on creation, providence and personal immortality against him. Aquinas’s ‘five ways’ adapt Aristotle’s argument for an unmoved mover.\n\nThe Reformation began partly as a revolt against this synthesis. In his Disputation against Scholastic Theology (September 1517) Luther declared that ‘the whole Aristotle is to theology as darkness is to light’ (thesis 50). Yet Philip Melanchthon soon restored Aristotle to the Wittenberg curriculum, and seventeenth-century Lutheran and Reformed orthodoxy (Gerhard, Turretin) used scholastic method extensively. The Council of Trent (1551) affirmed that the eucharistic change is ‘most aptly’ called transubstantiation, and Pope Leo XIII’s encyclical Aeterni Patris (1879) made Thomas the model for Catholic philosophy.\n\nOrthodox theologians have often criticised Western scholasticism as overly rationalistic, a theme in the fourteenth-century debate between Gregory Palamas and Barlaam of Calabria and in the twentieth-century neo-patristic movement, though Byzantium had its own Aristotelian tradition. Historians today stress that scholasticism was a method of disputation and harmonisation, not the replacement of Scripture by philosophy: its sources were the Bible and the Fathers, organised in works such as Peter Lombard’s Sentences.",
+      "howItHappened": [
+        "Porphyry’s Isagoge and Aristotle’s logical works were standard school texts through late antiquity, used in christological debate.",
+        "Boethius’s Latin translations c. 510–520 preserved the ‘old logic’ in the West.",
+        "Syriac Christian translators passed Aristotle to the Abbasid world, from which Arabic versions and commentaries returned to Latin Europe via Spain and Sicily.",
+        "The new universities, especially Paris and Oxford, made Aristotle the core of the arts curriculum required before theology.",
+        "Aquinas and Albert the Great integrated Aristotle critically, after initial bans and condemnations."
+      ],
+      "examples": [
+        "John of Damascus’s Dialectica (c. 743), the logical preface to The Orthodox Faith.",
+        "The Paris bans of 1210 and 1215 and the Condemnation of 1277.",
+        "Aquinas’s ‘five ways’ (Summa Theologiae I q. 2 a. 3), adapting Aristotle’s unmoved mover.",
+        "The Council of Trent’s decree on the eucharist (1551) using substance and species.",
+        "Luther’s Disputation against Scholastic Theology (1517), theses 41–53."
+      ],
+      "defenders": [
+        { "name": "Thomas Aquinas", "personId": "thomas-aquinas", "text": "Held that grace perfects nature and that sound philosophy serves theology, commenting on Aristotle in detail." },
+        { "name": "Pope Leo XIII", "personId": "leo-xiii", "text": "In Aeterni Patris (1879) commended Thomist philosophy as the remedy for modern errors." },
+        { "name": "Philip Melanchthon", "personId": "philip-melanchthon", "text": "Restored Aristotle’s logic, ethics and natural philosophy to Lutheran education after Luther’s early attacks." },
+        { "name": "Francis Turretin", "personId": "francis-turretin", "text": "Used scholastic method and Aristotelian distinctions to systematise Reformed orthodoxy." }
+      ],
+      "critics": [
+        { "name": "Tertullian", "personId": "tertullian", "fatherId": "tertullian", "text": "Called Aristotle ‘wretched’ for supplying heretics with dialectic (Prescription against Heretics 7)." },
+        { "name": "Martin Luther", "personId": "martin-luther", "text": "Declared that no one becomes a theologian unless he does so without Aristotle (Disputation, 1517, thesis 44)." },
+        { "name": "Bishop Étienne Tempier of Paris", "text": "Condemned 219 propositions in 1277, many derived from radical Aristotelianism." }
+      ],
+      "keptBy": [
+        "Catholic theology, especially in Thomist and neo-Thomist schools",
+        "Seventeenth-century Lutheran and Reformed orthodoxy and modern ‘Reformed scholastic’ revivals",
+        "Byzantine and modern Orthodox use of Aristotelian logic in dogmatic definitions"
+      ],
+      "rejectedBy": [
+        "Luther in his early reforming phase and later Protestant biblicists",
+        "Orthodox critics of Western scholasticism in the neo-patristic movement",
+        "Nominalist and humanist critics of scholastic method in the late Middle Ages and Renaissance"
+      ],
+      "fatherIds": ["boethius", "john-of-damascus-father", "maximus-the-confessor", "augustine-of-hippo-father", "tertullian"],
+      "traditionIds": ["catholic", "eastern-orthodox", "lutheran", "reformed", "church-of-the-east"],
+      "relatedIds": ["platonism-in-theology", "neoplatonism-mysticism", "stoic-logos", "rhetoric-and-education"],
+      "sources": ["torrell-aquinas", "newadvent-summa", "aeterni-patris-1879", "p2-gilson-history", "p2-cambridge-later-medieval", "p2-luther-disputation-1517", "mcgrath-reformation-thought"],
+      "confidence": "established"
+    },
+    {
+      "id": "gnosticism-and-its-rejection",
+      "name": "Gnosticism, Hermeticism and the church’s rejection",
+      "category": "philosophy",
+      "sourceTradition": "near-eastern",
+      "sourceCulture": "Gnostic myths of a flawed creator and a divine spark rescued by secret knowledge; Hermetic revelation literature attributed to Hermes Trismegistus; Manichaean dualism",
+      "christianForm": "Largely rejected: the reaction produced the rule of faith, the four-Gospel canon, the emphasis on apostolic succession and the goodness of creation; a positive ‘Christian gnosis’ in Clement and Origen",
+      "startYear": 130,
+      "place": { "name": "Lyon", "lat": 45.764, "lng": 4.8357 },
+      "evidence": "disputed",
+      "evidenceNote": "That the struggle with Gnostic groups shaped canon, creed and church order is well documented (Irenaeus, Tertullian, Hippolytus). Whether a pre-Christian Gnosticism existed and influenced the New Testament is disputed, and the claim that Gnostic Gospels were original Christianity suppressed by Constantine is a myth.",
+      "popularClaim": "The Gnostic Gospels found at Nag Hammadi represent the original, more spiritual Christianity, which was suppressed by Constantine and the Council of Nicaea when the bishops chose which books to put in the Bible.",
+      "whatHistoriansSay": "The Nag Hammadi codices (discovered 1945) are fourth-century Coptic copies of texts mostly composed in the second and third centuries, later than the canonical Gospels and Pauline letters. Irenaeus already defended a four-Gospel canon c. 180, long before Constantine, and Nicaea (325) did not discuss the canon. Gnostic groups were a real and diverse alternative in the second century, especially Valentinians in Rome and Alexandria, and historians such as Elaine Pagels and Karen King have shown that early Christianity was more varied than later orthodox accounts admit. Michael Williams and Karen King question whether ‘Gnosticism’ is a single coherent religion at all. The Hermetica, once thought ancient Egyptian wisdom, were dated by Isaac Casaubon in 1614 to the Christian era.",
+      "summary": "Gnostic and related movements offered a rival interpretation of Jesus in the second century. The church’s rejection of them shaped its canon, creed and structures; some Fathers nonetheless adopted the language of true ‘gnosis’, and Hermetic texts were admired by Christians from Lactantius to the Renaissance.",
+      "story": "In the second century teachers such as Basilides in Alexandria and Valentinus in Rome (c. 136–160), and the so-called Sethian groups, taught that the material world was the work of an ignorant or malevolent creator (the Demiurge), that a spark of the true God was trapped in some human beings, and that Christ came as a revealer of saving knowledge (gnosis). Their myths drew on Platonic cosmology, Jewish speculation about Genesis and Wisdom, and Christian traditions. Marcion of Sinope, though not strictly a Gnostic, similarly contrasted the God of the Old Testament with the Father of Jesus. Later the Persian prophet Mani (216–274/7) founded Manichaeism, a dualist world religion which counted Augustine as an ‘auditor’ for nine years.\n\nOur knowledge long came mainly from opponents: Irenaeus of Lyon’s Against Heresies (c. 180), Tertullian, Hippolytus’s Refutation of All Heresies and Epiphanius. In December 1945 farmers near Nag Hammadi in Upper Egypt found thirteen leather-bound codices containing some fifty-two tractates in Coptic, including the Gospel of Thomas, the Gospel of Truth, the Apocryphon of John and the Gospel of Philip. These texts confirmed that the heresiologists had reported real teachings, though sometimes tendentiously, and showed the variety within the movements. The Gospel of Judas, published in 2006, added another example.\n\nThe church’s response had lasting effects. Irenaeus appealed to a public ‘rule of faith’ (the core of later creeds), to the succession of bishops in churches founded by apostles, and to four Gospels only (Against Heresies 3.11.8). Against the claim that matter was evil, the Fathers insisted on the goodness of creation, the reality of Christ’s flesh and the resurrection of the body; Ephrem the Syrian wrote hymns and prose refutations against Marcion, Bardaisan and Mani. Even pagan Platonists agreed: Plotinus wrote a treatise Against the Gnostics (Enneads 2.9) defending the beauty of the cosmos.\n\nNot every Father rejected the vocabulary. Clement of Alexandria described the mature Christian as the ‘true gnostic’ (Stromata 7), and Origen sought deeper spiritual meanings in Scripture while rejecting Gnostic dualism. Hermetic writings — the Greek Corpus Hermeticum and the Latin Asclepius, composed in Roman Egypt in the second and third centuries — were treated by Lactantius as pagan prophecies of Christ, while Augustine criticised Hermes’ praise of idol-making (City of God 8.23–26). Marsilio Ficino’s Latin translation of 1463 made Hermes a sage of the Renaissance until Casaubon showed the texts were post-Christian.\n\nGnostic ideas resurfaced in medieval dualist movements such as the Bogomils and Cathars, and in modern esotericism. Popular works, from Pagels’s The Gnostic Gospels (1979) to the novel The Da Vinci Code (2003), have promoted the idea of a suppressed original Christianity. Scholars generally conclude that Gnostic Christianity was a genuine second-century option that lost the argument, not the earliest form of the faith, and that the church’s rejection of it shaped orthodoxy more than Gnostic ideas shaped the church.",
+      "howItHappened": [
+        "Second-century teachers combined Platonic cosmology, Jewish speculation and Christian traditions into myths of salvation by knowledge.",
+        "Bishops and apologists answered with the rule of faith, apostolic succession and a recognised list of Gospels.",
+        "Debate sharpened insistence on the goodness of creation and the reality of Christ’s body.",
+        "Clement and Origen reclaimed the word gnosis for an orthodox spiritual knowledge.",
+        "Hermetic texts were read by some Christians as pagan anticipations of revelation until dated by Casaubon in 1614."
+      ],
+      "examples": [
+        "Irenaeus, Against Heresies (c. 180), the first major anti-Gnostic work and an early witness to a four-Gospel canon.",
+        "The Nag Hammadi library, discovered in 1945.",
+        "Ptolemy’s Letter to Flora, a Valentinian account of the Mosaic Law preserved by Epiphanius.",
+        "Plotinus’s treatise Against the Gnostics (Enneads 2.9).",
+        "Ficino’s translation of the Corpus Hermeticum (1463) and Casaubon’s redating (1614)."
+      ],
+      "defenders": [
+        { "name": "Clement of Alexandria", "personId": "clement-of-alexandria", "fatherId": "clement-of-alexandria", "text": "Reclaimed ‘gnosis’ for the mature Christian, the ‘true gnostic’ who knows God through love and Scripture." },
+        { "name": "Origen", "personId": "origen", "fatherId": "origen", "text": "Engaged Valentinian exegesis seriously (his Commentary on John answers Heracleon) while rejecting its dualism." },
+        { "name": "Lactantius", "text": "Cited Hermes Trismegistus as a pagan witness to the one God and the Son of God (Divine Institutes 4.6)." }
+      ],
+      "critics": [
+        { "name": "Irenaeus of Lyon", "personId": "irenaeus", "fatherId": "irenaeus-of-lyon", "text": "Exposed Gnostic systems and answered them with the rule of faith, apostolic succession and the four Gospels." },
+        { "name": "Tertullian", "personId": "tertullian", "fatherId": "tertullian", "text": "Wrote against Valentinians and Marcion and blamed philosophy for breeding heresy." },
+        { "name": "Hippolytus of Rome", "personId": "hippolytus-of-rome", "fatherId": "hippolytus-of-rome", "text": "Argued in the Refutation of All Heresies that each Gnostic sect copied a Greek philosopher." },
+        { "name": "Augustine of Hippo", "personId": "augustine-of-hippo", "fatherId": "augustine-of-hippo-father", "text": "After leaving the Manichees, wrote extensively against their dualism and defended the goodness of all creation." }
+      ],
+      "keptBy": [
+        "Ancient Gnostic and Manichaean communities, now extinct; the Mandaeans of Iraq and Iran preserve a related baptist-gnostic religion",
+        "Modern esoteric and neo-Gnostic groups",
+        "Clement’s positive idea of Christian gnosis, echoed in Eastern Orthodox spirituality"
+      ],
+      "rejectedBy": [
+        "All mainstream churches: Catholic, Orthodox, Oriental Orthodox and Protestant",
+        "Ancient Platonists such as Plotinus, who found Gnostic contempt for the cosmos impious"
+      ],
+      "fatherIds": ["irenaeus-of-lyon", "tertullian", "hippolytus-of-rome", "clement-of-alexandria", "origen", "augustine-of-hippo-father", "ephrem-the-syrian"],
+      "traditionIds": ["gnostic", "marcionite", "early-church", "catholic", "eastern-orthodox"],
+      "relatedIds": ["platonism-in-theology", "mystery-religions-debate", "mithras-and-jesus-myth", "neoplatonism-mysticism"],
+      "sources": ["king-gnosticism", "p2-rudolph-gnosis", "p2-layton-gnostic-scriptures", "p2-williams-rethinking-gnosticism", "p2-fowden-egyptian-hermes", "metzger-canon", "p2-irenaeus-against-heresies"],
+      "confidence": "debated"
+    },
+    {
+      "id": "mystery-religions-debate",
+      "name": "Mystery religions and the sacraments debate",
+      "category": "philosophy",
+      "sourceTradition": "mystery-cults",
+      "sourceCulture": "Initiatory cults of the Graeco-Roman world — Eleusis, Isis, Dionysus, Cybele and Attis, Mithras — with secret rites, purifications and sacred meals",
+      "christianForm": "Mystery vocabulary for baptism and the eucharist (mysterion, initiation, illumination, sacramentum), the ‘discipline of the secret’ and mystagogical catechesis",
+      "startYear": 150,
+      "place": { "name": "Jerusalem", "lat": 31.7784, "lng": 35.2296 },
+      "evidence": "disputed",
+      "evidenceNote": "Fourth-century borrowing of mystery language and ritual drama is well documented; the earlier claim that baptism and the eucharist themselves derive from the mysteries is rejected by most specialists, who point to Jewish origins and late or ambiguous pagan evidence.",
+      "popularClaim": "Christian baptism and the Lord’s Supper were copied from pagan mystery religions, and Paul turned a Jewish teacher into a dying and rising saviour-god like Attis, Adonis or Osiris.",
+      "whatHistoriansSay": "The History of Religions School (Reitzenstein, Bousset) and Frazer’s The Golden Bough (1890–1915) popularised this view a century ago. Later scholarship — Arthur Darby Nock, Günter Wagner, A. J. M. Wedderburn, Walter Burkert and Jonathan Z. Smith — found that most supposed parallels rest on evidence later than the New Testament, on Christian sources, or on loose generalisation; the category of ‘dying and rising gods’ has been heavily criticised, though Tryggve Mettinger argued some Near Eastern examples existed while finding no evidence they shaped belief in Jesus. Baptism grew from Jewish ritual washing and John the Baptist; the eucharist from Jewish meal blessings, Passover and the Last Supper, attested by Paul c. 54 (1 Corinthians 11:23–26). After Constantine, however, the church deliberately used mystery language and ritual drama for initiation.",
+      "summary": "The resemblances between Christian sacraments and pagan mysteries were noticed in antiquity and became a major scholarly theory c. 1900. Today most historians see Jewish origins for the rites themselves, with real but later borrowing of mystery-cult vocabulary and atmosphere in the fourth century.",
+      "story": "The mystery cults were optional, initiatory forms of devotion within Graeco-Roman religion rather than separate religions. Initiates at Eleusis near Athens, or into the cults of Isis, Dionysus, Cybele and Attis, or Mithras, underwent purifications, fasting, secret revelations and sometimes sacred meals, and were promised a better lot in this life and the next. Their rites were secret, so our knowledge is fragmentary, much of it coming from later sources, including hostile Christian writers such as Clement of Alexandria and Firmicus Maternus (On the Error of Profane Religions, c. 346).\n\nChristians noticed similarities early. Justin Martyr (1 Apology 66, c. 155) says that in the Mithraic rites bread and a cup of water are offered with certain formulas, an imitation, he argues, inspired by demons. Tertullian (On Baptism 5; Prescription 40) notes that initiates of Isis and Mithras were washed and that Mithras ‘signs his soldiers on the forehead’. Such writers did not deny the parallels; they explained them as diabolical counterfeits, which also shows that they were conscious of the risk of confusion.\n\nAround 1900 the German History of Religions School, Richard Reitzenstein and Wilhelm Bousset, argued that Hellenistic Christianity, and Paul in particular, reshaped the faith on the model of the mysteries, and James Frazer collected ‘dying and rising gods’. Critics answered that the evidence is mostly later than Paul; that the taurobolium, a bull sacrifice once read as a ‘baptism in blood’ that gave rebirth, is attested in that form only in the fourth century, with the phrase ‘reborn for eternity’ appearing in an inscription of 376, possibly itself influenced by Christianity; and that Attis or Osiris do not rise in any sense comparable to the Gospel accounts. Jonathan Z. Smith’s Drudgery Divine (1990) also showed how Protestant polemic against Catholic ‘pagano-papism’ had coloured the comparison.\n\nWhat is clearly documented is a fourth-century turn. As crowds sought baptism after Constantine, bishops presented initiation as an awe-inspiring mystery. The ‘discipline of the secret’ withheld the rites from the unbaptised; the newly baptised received ‘mystagogical’ instruction after Easter, as in the catecheses attributed to Cyril of Jerusalem and the sermons of Ambrose (On the Mysteries), John Chrysostom and Theodore of Mopsuestia. Words such as mysterion (Latin sacramentum, originally a soldier’s oath), photismos (illumination) and ‘initiation’ were used freely, and Clement had already called Christianity the true mysteries while mocking Eleusis (Exhortation 12).\n\nThe debate continues in popular culture and inter-church polemic. Some Protestant critics, such as Alexander Hislop in The Two Babylons (1853), accused Catholicism of perpetuating pagan mysteries, a work historians regard as unreliable. Catholics and Orthodox, for their part, speak of ‘the holy mysteries’ without embarrassment, seeing the shared vocabulary as a sign that Christ fulfils the longings expressed in pagan rites.",
+      "howItHappened": [
+        "Baptism developed from Jewish purification rites and the baptism of John; the eucharist from Jewish meal practice and the Last Supper.",
+        "Apologists noticed pagan parallels and explained them as demonic imitations.",
+        "Greek-speaking Christians used the existing word mysterion, already present in Paul for God’s revealed plan, and Latin Christians used sacramentum.",
+        "After 313 bishops adopted secrecy, dramatic night-time rites and post-baptismal mystagogy to impress mass converts.",
+        "Modern comparative religion revived the comparison, and later scholarship critically tested it."
+      ],
+      "examples": [
+        "Justin Martyr on the Mithraic bread and cup (1 Apology 66).",
+        "Tertullian on washings in the cults of Isis and Mithras (On Baptism 5).",
+        "The Mystagogical Catecheses attributed to Cyril of Jerusalem (c. 350–390).",
+        "Ambrose’s On the Mysteries and On the Sacraments (c. 390) in Milan.",
+        "The taurobolium inscription of 376 (CIL VI 510) with ‘reborn for eternity’."
+      ],
+      "defenders": [
+        { "name": "Clement of Alexandria", "personId": "clement-of-alexandria", "fatherId": "clement-of-alexandria", "text": "Invited pagans to the ‘truly sacred mysteries’ of the Logos in place of Eleusis (Exhortation to the Greeks 12)." },
+        { "name": "Cyril of Jerusalem", "personId": "cyril-of-jerusalem", "text": "Explained the rites of initiation to the newly baptised as awe-inspiring mysteries in his catechetical lectures." },
+        { "name": "Ambrose of Milan", "personId": "ambrose", "fatherId": "ambrose-of-milan", "text": "Used the language of initiation and secrecy in his sermons On the Mysteries to the neophytes of Milan." }
+      ],
+      "critics": [
+        { "name": "Justin Martyr", "personId": "justin-martyr", "fatherId": "justin-martyr", "text": "Treated the Mithraic meal as a demonic imitation of the eucharist." },
+        { "name": "Tertullian", "personId": "tertullian", "fatherId": "tertullian", "text": "Called pagan washings the devil’s mimicry of baptism." },
+        { "name": "Alexander Hislop", "text": "Argued in The Two Babylons (1853) that Catholic sacraments continued Babylonian mysteries — a thesis historians reject as unfounded." }
+      ],
+      "keptBy": [
+        "Eastern Orthodox and Oriental Orthodox churches, which call the sacraments ‘the holy mysteries’",
+        "Catholic liturgy, which restored mystagogy in the Rite of Christian Initiation of Adults (1972)",
+        "Anglican and Lutheran liturgical renewal"
+      ],
+      "rejectedBy": [
+        "Some Protestant and restorationist polemicists who see sacramental ritual as pagan",
+        "Christ-myth writers who argue Christianity was simply a mystery cult"
+      ],
+      "fatherIds": ["justin-martyr", "tertullian", "clement-of-alexandria", "ambrose-of-milan", "john-chrysostom", "theodore-of-mopsuestia", "pseudo-dionysius"],
+      "traditionIds": ["early-church", "eastern-orthodox", "oriental-orthodox", "catholic"],
+      "relatedIds": ["mithras-and-jesus-myth", "gnosticism-and-its-rejection", "neoplatonism-mysticism", "platonism-in-theology"],
+      "sources": ["p2-burkert-ancient-mystery-cults", "p2-smith-drudgery-divine", "p2-wedderburn-baptism-resurrection", "p2-mettinger-riddle-resurrection", "ferguson-baptism", "bradshaw-origins-worship", "p2-ferguson-backgrounds"],
+      "confidence": "debated"
+    },
+    {
+      "id": "mithras-and-jesus-myth",
+      "name": "Mithras, Horus and the ‘copycat Christ’ claims",
+      "category": "philosophy",
+      "sourceTradition": "mystery-cults",
+      "sourceCulture": "The Roman cult of Mithras, the Egyptian myth of Isis, Osiris and Horus, and other saviour figures",
+      "christianForm": "Claimed source of the Gospel story of Jesus — virgin birth, 25 December, twelve disciples, death and resurrection",
+      "startYear": 80,
+      "endYear": 395,
+      "place": { "name": "Rome (Mithraeum beneath San Clemente)", "lat": 41.8893, "lng": 12.4977 },
+      "evidence": "myth",
+      "evidenceNote": "No ancient source describes Mithras or Horus as born of a virgin on 25 December, having twelve disciples, being crucified or rising after three days; Roman Mithraism is attested only from the late first century, after the earliest Christian writings.",
+      "popularClaim": "Jesus never existed or was modelled on earlier gods: Mithras and Horus were both born of a virgin on 25 December, had twelve disciples, performed miracles, were crucified and rose on the third day, so Christianity copied them wholesale.",
+      "whatHistoriansSay": "These lists derive from nineteenth-century writers such as Gerald Massey and Kersey Graves (The World’s Sixteen Crucified Saviors, 1875), revived by Acharya S (D. M. Murdock) and the film Zeitgeist (2007). Specialists in Roman Mithraism (Manfred Clauss, Roger Beck, Richard Gordon) and Egyptologists find no support: Mithras is born from a rock, fully grown; he kills a bull and banquets with Sol; he does not die or rise. Horus is conceived by Isis from the reassembled Osiris; he has no twelve disciples and is not crucified. The cult of Mithras is attested from c. AD 80–100, so if anything it is later than Paul’s letters. Historians, including sceptics such as Bart Ehrman, regard the ‘copycat’ thesis as unfounded.",
+      "summary": "A popular internet claim holds that Jesus is a copy of Mithras, Horus and other gods. The evidence does not support it; the real story is of two cults that grew up side by side in the Roman Empire, shared some broad religious language, and were noticed by Christian writers at the time.",
+      "story": "The Roman cult of Mithras was a mystery cult for men, popular among soldiers, imperial officials and merchants from the late first to the late fourth century. Its members met in small, cave-like sanctuaries (mithraea) for a shared meal, progressed through seven grades of initiation (Raven to Father), and venerated an image of Mithras slaying a bull, flanked by two torch-bearers, Cautes and Cautopates. Hundreds of mithraea are known, from Hadrian’s Wall to the Danube; one survives beneath the basilica of San Clemente in Rome. The cult borrowed the name of the Persian god Mithra, but most scholars since the 1970s (Gordon, Ulansey, Beck) see it as a new Roman creation rather than a continuation of Iranian religion, as Franz Cumont had argued in the 1890s.\n\nThe ‘copycat’ claims do not match the sources. Mithras is born from a rock (petra genetrix), not a virgin. The date 25 December appears in the Roman Chronograph of 354 as the birthday of the Unconquered Sun (Natalis Invicti), with whom Mithras was sometimes identified in dedications, but no ancient text assigns 25 December to Mithras’s birth, and the Christian date has other proposed explanations (see the entry on the date of Christmas). Mithras has no twelve disciples — the twelve signs of the zodiac appear in some reliefs — and there is no death, burial or resurrection in his story. For Horus, the Egyptian myth tells of Isis reassembling the murdered Osiris and conceiving their son; there is no virgin birth, baptism, twelve followers or crucifixion in ancient Egyptian texts.\n\nThere were real points of contact. Justin Martyr (1 Apology 66; Dialogue 70, 78) and Tertullian (Prescription against Heretics 40) noted that Mithraists shared bread and water, marked initiates on the forehead and told of a birth in a cave; they attributed these to demonic imitation. This shows that Christians knew of the cult and resented the comparison, which hardly suggests they had copied it. The direction of any influence is uncertain, and since the cult flourished after Christianity was established, some influence from Christianity on Mithraism cannot be ruled out. Both cults also drew on common Roman religious language: sacred meals, light and solar imagery, and initiation.\n\nThe modern claims have a traceable history. Enlightenment writers such as Charles-François Dupuis (1795) reduced Christ to a solar myth; Gerald Massey (1880s) and Kersey Graves (1875) produced the lists of parallels; and D. M. Murdock’s The Christ Conspiracy (1999) and the online film Zeitgeist (2007) spread them widely. Historians across the religious spectrum, including agnostics such as Bart Ehrman in Did Jesus Exist? (2012), reject them for lack of evidence. The cult of Mithras declined in the late fourth century, when Theodosius I’s laws of 391–392 banned pagan sacrifice, and some mithraea were destroyed or built over by churches.\n\nA fair conclusion is that Christianity and Mithraism were contemporaries competing in the same world, sharing some symbolic idioms, but that the specific claims of copied biographies are modern inventions.",
+      "howItHappened": [
+        "Roman Mithraism arose in the late first century and spread through the army and imperial administration.",
+        "Second-century Christians noticed some ritual similarities and explained them as demonic counterfeits.",
+        "Eighteenth- and nineteenth-century writers built ‘solar myth’ theories and lists of parallels without ancient citations.",
+        "Late twentieth-century authors and the internet revived these lists, especially through the film Zeitgeist (2007).",
+        "Specialist historians of Roman religion and Egyptologists have repeatedly found the claims unsupported."
+      ],
+      "examples": [
+        "The Mithraeum beneath San Clemente in Rome, with its bull-slaying relief.",
+        "The tauroctony (bull-slaying) reliefs of Mithras with Cautes and Cautopates.",
+        "Justin Martyr’s remark on Mithraic bread and water (1 Apology 66).",
+        "The Chronograph of 354, listing 25 December as Natalis Invicti.",
+        "Kersey Graves, The World’s Sixteen Crucified Saviors (1875), source of many modern lists."
+      ],
+      "defenders": [],
+      "critics": [
+        { "name": "Justin Martyr", "personId": "justin-martyr", "fatherId": "justin-martyr", "text": "Treated the Mithraic meal and cave as demonic imitations of Christian rites and prophecy." },
+        { "name": "Tertullian", "personId": "tertullian", "fatherId": "tertullian", "text": "Described Mithraic initiation as the devil’s mimicry of the sacraments (Prescription against Heretics 40)." },
+        { "name": "Bart D. Ehrman", "text": "Agnostic New Testament scholar who examined and rejected the ‘copycat’ and ‘Christ myth’ claims in Did Jesus Exist? (2012)." },
+        { "name": "Manfred Clauss", "text": "Historian of Roman Mithraism whose survey of the evidence shows none of the alleged parallels in the ancient sources." }
+      ],
+      "keptBy": [
+        "Popular ‘Christ myth’ writing and online media since the late twentieth century"
+      ],
+      "rejectedBy": [
+        "Historians of Roman religion and Egyptologists",
+        "New Testament scholars of all persuasions, religious and secular",
+        "All Christian churches"
+      ],
+      "fatherIds": ["justin-martyr", "tertullian", "jerome"],
+      "traditionIds": ["early-church"],
+      "relatedIds": ["mystery-religions-debate", "christmas-date", "sunday-day-of-the-sun", "mary-isis-debate", "gnosticism-and-its-rejection"],
+      "sources": ["p2-beck-mithras", "p2-clauss-mithras", "p2-ulansey-mithraic", "p2-ehrman-did-jesus-exist", "p2-mettinger-riddle-resurrection", "p2-justin-apologies"],
+      "confidence": "established"
+    },
+    {
+      "id": "rhetoric-and-education",
+      "name": "Classical rhetoric, education and the Christian intellectual tradition",
+      "category": "philosophy",
+      "sourceTradition": "classical-culture",
+      "sourceCulture": "Greek paideia and Roman education: the grammarian, the rhetor, the liberal arts and the canon of classical authors",
+      "christianForm": "Christian preaching and exegesis shaped by rhetoric, the ‘spoiling of the Egyptians’, monastic copying of classics, the seven liberal arts, cathedral schools and universities",
+      "startYear": 200,
+      "place": { "name": "Athens", "lat": 37.9838, "lng": 23.7275 },
+      "evidence": "strong",
+      "evidenceNote": "Christian use of the classical school system and of rhetorical theory is explicit in the Fathers (Basil’s Address to Young Men, Augustine’s On Christian Teaching), and the survival of Latin classics through monastic and Carolingian copying is documented manuscript by manuscript.",
+      "popularClaim": "Either Christianity destroyed classical learning and plunged Europe into the Dark Ages, or the church alone heroically preserved it: both are common slogans.",
+      "whatHistoriansSay": "Historians such as H.-I. Marrou, Werner Jaeger and Peter Brown show that ancient Christians had no separate school system: they went to the same grammarians and rhetors as pagans and took classical culture for granted, while arguing about its proper use. There were real losses and hostile acts — the destruction of the Serapeum in Alexandria (391), the killing of Hypatia (415), the reuse of classical manuscripts as palimpsests — and the decline of Roman institutions in the West shrank learning drastically. But most surviving Latin classics reached us through ninth-century Carolingian monastic copies, and Byzantium preserved Greek literature. The story is one of selective appropriation, not simple destruction or preservation.",
+      "summary": "Christian leaders were educated in classical rhetoric and literature, debated whether pagan books were safe, and in the end baptised the school curriculum. That decision shaped Christian preaching, exegesis and the medieval schools and universities.",
+      "story": "Greek and Roman education followed a set path: reading and writing, then the grammarian who taught Homer or Virgil, then the rhetor who trained young men in public speaking on the model of Demosthenes and Cicero. This paideia was the badge of the elite throughout the Empire. Christians had no alternative schools; their children learned with pagans, and many converts — Justin, Cyprian, Lactantius, Augustine — were trained rhetors. Paul’s letters already use the forms of ancient rhetoric, and the Gospel had to be preached to audiences who expected eloquence.\n\nThe Fathers debated how far this culture could be trusted. Tertullian (On Idolatry 10) allowed Christians to learn literature but not to teach it, because teaching meant expounding the gods. Origen, according to his pupil Gregory Thaumaturgus, led students through logic, natural science, ethics and all the philosophers except atheists before Scripture. The crisis came in 362, when the Emperor Julian forbade Christians to teach the classics, arguing that they should not expound authors whose gods they rejected. Christians answered with fury: Gregory of Nazianzus protested in his invectives against Julian, and two Apollinarii rewrote Scripture in classical metres.\n\nGregory of Nazianzus and Basil of Caesarea had studied together in Athens c. 350–356, and Basil’s Address to Young Men on Greek Literature compared the Christian reader to a bee taking honey and leaving the poison. Jerome, an ardent Ciceronian, dreamt that Christ condemned him with the words ‘You are a Ciceronian, not a Christian’ (Letter 22.30, c. 384), yet he never ceased to write elegant Latin. Augustine, once professor of rhetoric at Milan, gave the decisive Latin answer in On Christian Teaching (396–426): pagan learning that is true can be taken over as the Israelites took the Egyptians’ gold (Exodus 12:35–36), and Book 4 adapts Cicero’s three styles of oratory for Christian preaching. John Chrysostom, pupil of the pagan rhetor Libanius, became the greatest preacher of the Greek church.\n\nAs Roman schools collapsed in the West, Christians took over the task of education. Boethius translated logic and wrote on music and arithmetic; Cassiodorus (c. 485–585) founded the monastery of Vivarium and wrote the Institutions to guide monks in sacred and secular learning; Isidore of Seville’s Etymologies (c. 630) summarised ancient knowledge; Bede taught grammar, computus and history at Jarrow. The seven liberal arts — grammar, rhetoric and dialectic (the trivium); arithmetic, geometry, music and astronomy (the quadrivium) — became the basis of Carolingian, cathedral and finally university education. Most classical Latin texts survive because they were copied in Carolingian monasteries in the ninth century, though others perished or were scraped off for reuse, as Cicero’s On the Republic was, surviving beneath Augustine’s commentary on the Psalms.\n\nThe ambivalence never vanished. Gregory the Great rebuked Bishop Desiderius of Vienne in 601 for teaching grammar from pagan poets, though Gregory himself wrote polished Latin. Renaissance humanists such as Erasmus argued for a return to classical eloquence in theology, while Puritans and pietists periodically worried about pagan authors in Christian schools. Yet the decision of the Fathers to ‘spoil the Egyptians’ made the classical heritage part of Christian culture for the next millennium and a half.",
+      "howItHappened": [
+        "Christians attended the existing grammar and rhetoric schools of the Empire, so leaders were formed by classical paideia.",
+        "Apologists and preachers used rhetoric to address educated audiences and to expound Scripture.",
+        "Julian’s school law of 362 forced Christians to articulate a theory of using pagan learning.",
+        "Basil, Augustine and others justified selective appropriation (the bee, the gold of Egypt).",
+        "Monasteries and cathedral schools took over education in the West, organising it as the seven liberal arts."
+      ],
+      "examples": [
+        "Basil of Caesarea, Address to Young Men on Greek Literature (c. 370).",
+        "Jerome’s dream: ‘You are a Ciceronian, not a Christian’ (Letter 22.30).",
+        "Augustine, On Christian Teaching 2.40.60 (‘spoiling the Egyptians’) and Book 4 on Christian eloquence.",
+        "Cassiodorus’s Institutions and the library at Vivarium (c. 560).",
+        "Cicero’s On the Republic, preserved as a palimpsest under a copy of Augustine (Vatican Library, Vat. lat. 5757)."
+      ],
+      "defenders": [
+        { "name": "Basil of Caesarea", "personId": "basil-of-caesarea", "fatherId": "basil-the-great", "text": "Urged young Christians to read the poets and philosophers selectively, as bees gather honey." },
+        { "name": "Gregory of Nazianzus", "personId": "gregory-of-nazianzus", "fatherId": "gregory-of-nazianzus", "text": "Defended Christians’ right to Greek letters against Julian and wrote theology as high classical rhetoric." },
+        { "name": "Augustine of Hippo", "personId": "augustine-of-hippo", "fatherId": "augustine-of-hippo-father", "text": "Argued that Christians should claim pagan truth as Israel took the gold of Egypt, and adapted Cicero for preachers." },
+        { "name": "Desiderius Erasmus", "personId": "erasmus", "text": "Championed classical eloquence and philology as tools for a renewed, biblical theology." }
+      ],
+      "critics": [
+        { "name": "Tertullian", "personId": "tertullian", "fatherId": "tertullian", "text": "‘What has Athens to do with Jerusalem?’; he forbade Christians to teach pagan literature (On Idolatry 10)." },
+        { "name": "Jerome", "personId": "jerome", "fatherId": "jerome", "text": "Recorded a vision condemning his love of Cicero and warned virgins against reading pagan poets." },
+        { "name": "Gregory the Great", "personId": "gregory-the-great", "fatherId": "gregory-the-great", "text": "Rebuked a bishop for teaching grammar from pagan poetry, saying the praises of Jupiter and of Christ cannot share one mouth (Letter 11.34, 601)." }
+      ],
+      "keptBy": [
+        "Catholic, Orthodox and Anglican education, from monastic schools to universities",
+        "Lutheran and Reformed humanist education (Melanchthon’s gymnasia, Calvin’s Geneva Academy)",
+        "Modern ‘classical Christian education’ movements"
+      ],
+      "rejectedBy": [
+        "Some early ascetics and later rigorist movements who saw pagan letters as worldly",
+        "Pietist and fundamentalist critics of secular learning in Christian schools"
+      ],
+      "fatherIds": ["basil-the-great", "gregory-of-nazianzus", "augustine-of-hippo-father", "jerome", "tertullian", "john-chrysostom", "gregory-the-great", "boethius", "isidore-of-seville", "bede", "origen"],
+      "traditionIds": ["early-church", "catholic", "eastern-orthodox", "anglican", "lutheran", "reformed"],
+      "relatedIds": ["platonism-in-theology", "stoic-logos", "aristotle-scholasticism", "latin-greek-language", "temples-to-churches"],
+      "sources": ["p2-marrou-education", "p2-jaeger-paideia", "p2-kennedy-classical-rhetoric", "p2-cameron-rhetoric-empire", "p2-augustine-doctrina-christiana", "p2-pelikan-christianity-classical-culture", "brown-augustine"],
+      "confidence": "established"
+    }
+  ],
+  "sources": [
+    { "id": "p2-dillon-middle-platonists", "title": "The Middle Platonists: 80 B.C. to A.D. 220", "author": "John Dillon", "year": 1996, "kind": "secondary", "note": "Revised edition; first published 1977." },
+    { "id": "p2-chadwick-early-christian-thought", "title": "Early Christian Thought and the Classical Tradition: Studies in Justin, Clement and Origen", "author": "Henry Chadwick", "year": 1966, "kind": "secondary" },
+    { "id": "p2-pelikan-christianity-classical-culture", "title": "Christianity and Classical Culture: The Metamorphosis of Natural Theology in the Christian Encounter with Hellenism", "author": "Jaroslav Pelikan", "year": 1993, "kind": "secondary" },
+    { "id": "p2-harnack-history-dogma", "title": "History of Dogma (Lehrbuch der Dogmengeschichte)", "author": "Adolf von Harnack", "year": "1886–1890", "kind": "secondary" },
+    { "id": "p2-colish-stoic-tradition", "title": "The Stoic Tradition from Antiquity to the Early Middle Ages (2 vols)", "author": "Marcia L. Colish", "year": 1985, "kind": "secondary" },
+    { "id": "p2-runia-philo", "title": "Philo in Early Christian Literature: A Survey", "author": "David T. Runia", "year": 1993, "kind": "secondary" },
+    { "id": "p2-justin-apologies", "title": "Justin Martyr, First and Second Apologies; Dialogue with Trypho", "author": "Justin Martyr", "year": "c. 150–160", "kind": "primary", "note": "Ante-Nicene Fathers vol. 1." },
+    { "id": "p2-ferguson-backgrounds", "title": "Backgrounds of Early Christianity, 3rd ed.", "author": "Everett Ferguson", "year": 2003, "kind": "secondary" },
+    { "id": "p2-wallis-neoplatonism", "title": "Neoplatonism", "author": "R. T. Wallis", "year": 1972, "kind": "secondary" },
+    { "id": "p2-dionysius-complete-works", "title": "Pseudo-Dionysius: The Complete Works", "author": "Colm Luibheid and Paul Rorem (trans.)", "year": 1987, "kind": "primary" },
+    { "id": "p2-gilson-history", "title": "History of Christian Philosophy in the Middle Ages", "author": "Étienne Gilson", "year": 1955, "kind": "secondary" },
+    { "id": "p2-cambridge-later-medieval", "title": "The Cambridge History of Later Medieval Philosophy", "author": "Norman Kretzmann, Anthony Kenny and Jan Pinborg (eds)", "year": 1982, "kind": "reference" },
+    { "id": "p2-luther-disputation-1517", "title": "Disputation against Scholastic Theology", "author": "Martin Luther", "year": 1517, "kind": "primary", "note": "Luther’s Works, vol. 31." },
+    { "id": "p2-rudolph-gnosis", "title": "Gnosis: The Nature and History of Gnosticism", "author": "Kurt Rudolph", "year": 1983, "kind": "secondary", "note": "English translation of Die Gnosis (1977)." },
+    { "id": "p2-layton-gnostic-scriptures", "title": "The Gnostic Scriptures", "author": "Bentley Layton", "year": 1987, "kind": "primary" },
+    { "id": "p2-williams-rethinking-gnosticism", "title": "Rethinking ‘Gnosticism’: An Argument for Dismantling a Dubious Category", "author": "Michael A. Williams", "year": 1996, "kind": "secondary" },
+    { "id": "p2-fowden-egyptian-hermes", "title": "The Egyptian Hermes: A Historical Approach to the Late Pagan Mind", "author": "Garth Fowden", "year": 1986, "kind": "secondary" },
+    { "id": "p2-irenaeus-against-heresies", "title": "Against Heresies (Adversus haereses)", "author": "Irenaeus of Lyon", "year": "c. 180", "kind": "primary", "note": "Ante-Nicene Fathers vol. 1." },
+    { "id": "p2-burkert-ancient-mystery-cults", "title": "Ancient Mystery Cults", "author": "Walter Burkert", "year": 1987, "kind": "secondary" },
+    { "id": "p2-smith-drudgery-divine", "title": "Drudgery Divine: On the Comparison of Early Christianities and the Religions of Late Antiquity", "author": "Jonathan Z. Smith", "year": 1990, "kind": "secondary" },
+    { "id": "p2-wedderburn-baptism-resurrection", "title": "Baptism and Resurrection: Studies in Pauline Theology against Its Graeco-Roman Background", "author": "A. J. M. Wedderburn", "year": 1987, "kind": "secondary" },
+    { "id": "p2-mettinger-riddle-resurrection", "title": "The Riddle of Resurrection: ‘Dying and Rising Gods’ in the Ancient Near East", "author": "Tryggve N. D. Mettinger", "year": 2001, "kind": "secondary" },
+    { "id": "p2-beck-mithras", "title": "The Religion of the Mithras Cult in the Roman Empire: Mysteries of the Unconquered Sun", "author": "Roger Beck", "year": 2006, "kind": "secondary" },
+    { "id": "p2-clauss-mithras", "title": "The Roman Cult of Mithras: The God and His Mysteries", "author": "Manfred Clauss", "year": 2000, "kind": "secondary" },
+    { "id": "p2-ulansey-mithraic", "title": "The Origins of the Mithraic Mysteries: Cosmology and Salvation in the Ancient World", "author": "David Ulansey", "year": 1989, "kind": "secondary" },
+    { "id": "p2-ehrman-did-jesus-exist", "title": "Did Jesus Exist? The Historical Argument for Jesus of Nazareth", "author": "Bart D. Ehrman", "year": 2012, "kind": "secondary" },
+    { "id": "p2-marrou-education", "title": "A History of Education in Antiquity", "author": "H.-I. Marrou", "year": 1956, "kind": "secondary", "note": "English translation of Histoire de l’éducation dans l’Antiquité (1948)." },
+    { "id": "p2-jaeger-paideia", "title": "Early Christianity and Greek Paideia", "author": "Werner Jaeger", "year": 1961, "kind": "secondary" },
+    { "id": "p2-kennedy-classical-rhetoric", "title": "Classical Rhetoric and Its Christian and Secular Tradition from Ancient to Modern Times, 2nd ed.", "author": "George A. Kennedy", "year": 1999, "kind": "secondary" },
+    { "id": "p2-cameron-rhetoric-empire", "title": "Christianity and the Rhetoric of Empire: The Development of Christian Discourse", "author": "Averil Cameron", "year": 1991, "kind": "secondary" },
+    { "id": "p2-augustine-doctrina-christiana", "title": "On Christian Teaching (De doctrina christiana)", "author": "Augustine of Hippo", "year": "396–426", "kind": "primary" }
+  ]
+}
