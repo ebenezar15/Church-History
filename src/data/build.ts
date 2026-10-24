@@ -30,6 +30,9 @@ import {
   type Source,
   type StudyPath,
   type Tradition,
+  type DenomProfile,
+  type FamilyProfile,
+  type DenomFact,
   type Work,
 } from './schema';
 
@@ -54,6 +57,9 @@ export interface Db {
   conflicts: Conflict[];
   fathers: ChurchFather[];
   influences: PaganInfluence[];
+  denomProfiles: DenomProfile[];
+  familyProfiles: FamilyProfile[];
+  denomFacts: DenomFact[];
 }
 
 export type DbKey = keyof Db;
@@ -78,7 +84,7 @@ export const TYPE_TO_KEY: Record<EntityType, DbKey> = {
   influence: 'influences',
 };
 
-const STRICT_ONCE: DbKey[] = ['doctrines', 'positions', 'controversies', 'comparisons', 'paths', 'eras', 'missions', 'indiaMissions', 'conflicts', 'fathers', 'influences'];
+const STRICT_ONCE: DbKey[] = ['doctrines', 'positions', 'controversies', 'comparisons', 'paths', 'eras', 'missions', 'indiaMissions', 'conflicts', 'fathers', 'influences', 'denomProfiles', 'familyProfiles', 'denomFacts'];
 
 export interface BuildResult {
   db: Db;
@@ -89,7 +95,7 @@ export interface BuildResult {
 function emptyDb(): Db {
   return {
     sources: [], eras: [], cultures: [], events: [], people: [], works: [], quotes: [], doctrines: [],
-    positions: [], traditions: [], controversies: [], experiences: [], comparisons: [], paths: [], presences: [], missions: [], indiaMissions: [], conflicts: [], fathers: [], influences: [],
+    positions: [], traditions: [], controversies: [], experiences: [], comparisons: [], paths: [], presences: [], missions: [], indiaMissions: [], conflicts: [], fathers: [], influences: [], denomProfiles: [], familyProfiles: [], denomFacts: [],
   };
 }
 
@@ -249,6 +255,14 @@ function checkRefs(db: Db, errors: string[], warnings: string[], originOf: (key:
     need(w, 'people', [...p.defenders.map((d) => d.personId), ...p.critics.map((d) => d.personId)]);
     need(w, 'traditions', p.traditionIds); need(w, 'influences', p.relatedIds); need(w, 'sources', p.sources);
   }
+  for (const d of db.denomProfiles) {
+    const w = `${originOf('denomProfiles', d.id)} denomProfile:${d.id}`;
+    need(w, 'traditions', [d.id, ...d.influencedBy.map((x) => x.traditionId), ...d.influenced.map((x) => x.traditionId)]);
+    need(w, 'people', d.keyFigures.map((x) => x.personId)); need(w, 'sources', d.sources);
+  }
+  for (const f of db.familyProfiles) need(`${originOf('familyProfiles', f.id)} family:${f.id}`, 'sources', f.sources);
+  for (const f of db.denomFacts) need(`${originOf('denomFacts', f.id)} fact:${f.id}`, 'sources', f.sources);
+  db.denomFacts.sort((a, b) => a.order - b.order);
   db.fathers.sort((a, b) => (a.born ?? a.died ?? 0) - (b.born ?? b.died ?? 0));
   db.influences.sort((a, b) => a.startYear - b.startYear);
   db.conflicts.sort((a, b) => a.startYear - b.startYear);

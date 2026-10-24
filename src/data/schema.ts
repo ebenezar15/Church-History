@@ -672,6 +672,65 @@ export const PaganInfluence = z.object({
   confidence: Confidence.default('established'),
 });
 
+
+// ---------- Denominations: families, profiles and facts ----------
+
+const Influence = z.object({ traditionId: Id.optional(), name: z.string(), text: z.string() });
+
+export const DenomProfile = z.object({
+  id: Id.describe('The tradition id this profile describes'),
+  tagline: z.string().describe('One line: what this church is known for'),
+  coreDoctrines: Strs,
+  focuses: Strs,
+  practices: Strs,
+  influencedBy: z.array(Influence).default([]),
+  influenced: z.array(Influence).default([]),
+  keyFigures: z.array(z.object({ name: z.string(), personId: Id.optional(), role: z.string() })).default([]),
+  members: z.object({ estimate: z.number(), year: z.number().int(), note: z.string() }).optional(),
+  axes: z.object({
+    liturgy: z.number().int().min(1).max(5).describe('1 = free/spontaneous … 5 = fixed ancient liturgy'),
+    sacramental: z.number().int().min(1).max(5).describe('1 = symbolic ordinances … 5 = fully sacramental'),
+    authority: z.enum(['scripture-alone', 'scripture-and-tradition', 'scripture-tradition-magisterium', 'scripture-and-new-revelation', 'scripture-and-spirit']),
+    governance: z.enum(['papal', 'episcopal', 'presbyterian', 'connexional', 'congregational', 'apostolic-network', 'none']),
+    baptism: z.enum(['infant', 'believer', 'both', 'none']),
+    eucharist: z.enum(['transformation', 'real-presence', 'spiritual-presence', 'memorial', 'not-practised']),
+    gifts: z.enum(['cessationist', 'open', 'charismatic', 'pentecostal']),
+    women: z.enum(['ordained', 'some-roles', 'not-ordained', 'varies']),
+    trinity: z.enum(['nicene', 'non-nicene']),
+  }),
+  inIndia: z.string().optional().describe('Presence and character in India, if any'),
+  sources: Ids,
+});
+
+export const FamilyProfile = z.object({
+  id: TraditionFamily,
+  name: z.string(),
+  tagline: z.string(),
+  summary: z.string(),
+  story: z.string(),
+  origin: z.object({ year: Year, place: Place, event: z.string() }),
+  members: z.object({ estimate: z.number(), year: z.number().int(), source: z.string() }).optional(),
+  coreDoctrines: Strs,
+  focuses: Strs,
+  strengths: Strs,
+  criticisms: Strs,
+  internalDivisions: z.array(z.object({ name: z.string(), year: Year.optional(), text: z.string() })).default([]),
+  influencedFamilies: z.array(z.object({ family: TraditionFamily, text: z.string() })).default([]),
+  sources: Ids,
+});
+
+export const DenomFact = z.object({
+  id: Id,
+  order: z.number().int(),
+  question: z.string(),
+  claim: z.string(),
+  verdict: z.enum(['accurate', 'misleading', 'false', 'complicated']),
+  answer: z.string(),
+  explanation: z.string(),
+  figures: z.array(z.object({ label: z.string(), value: z.number(), year: z.number().int().optional(), note: z.string() })).default([]),
+  sources: Ids,
+});
+
 export const Pack = z
   .object({
     sources: z.array(Source),
@@ -694,6 +753,9 @@ export const Pack = z
     conflicts: z.array(Conflict),
     fathers: z.array(ChurchFather),
     influences: z.array(PaganInfluence),
+    denomProfiles: z.array(DenomProfile),
+    familyProfiles: z.array(FamilyProfile),
+    denomFacts: z.array(DenomFact),
   })
   .partial()
   .strict();
@@ -721,4 +783,7 @@ export type IndiaMission = z.infer<typeof IndiaMission>;
 export type Conflict = z.infer<typeof Conflict>;
 export type ChurchFather = z.infer<typeof ChurchFather>;
 export type PaganInfluence = z.infer<typeof PaganInfluence>;
+export type DenomProfile = z.infer<typeof DenomProfile>;
+export type FamilyProfile = z.infer<typeof FamilyProfile>;
+export type DenomFact = z.infer<typeof DenomFact>;
 export type MissionPerson = z.infer<typeof MissionPerson>;
