@@ -16,6 +16,7 @@ const FEATURES: Feature[] = [
   { id: 'wars', to: '/wars', title: 'Holy Wars & Conflicts', text: 'Crusades, wars of religion and modern conflicts fought in God’s name: causes, cost, effects and the Christians who objected.', icon: 'scales', group: 'Explore' },
   { id: 'missions', to: '/missions', title: 'Missions', text: 'Mission movements from the apostles to today, with journeys, strategies, harms and outcomes, and an in-depth India section.', icon: 'globe', group: 'Explore' },
   { id: 'doctrines', to: '/doctrines', title: 'Doctrine Explorer', text: 'The question, the Scriptures, the rivals, the councils and the fallout, played step by step.', icon: 'trinity', group: 'Think' },
+  { id: 'denominations', to: '/denominations', title: 'Denominations', text: 'The great church families and their branches: core doctrines, focus, influences, mind maps, a doctrine map, a belief finder, and the truth about “30,000 denominations”.', icon: 'split', group: 'Think' },
   { id: 'fathers', to: '/fathers', title: 'Church Fathers', text: 'The roots of the Fathers in Scripture, Judaism, Greek philosophy and Roman culture, who taught whom, and their influence on doctrine.', icon: 'quill', group: 'Think' },
   { id: 'influences', to: '/influences', title: 'Pagan Influences', text: 'Festivals, philosophy, art and customs Christianity absorbed or is claimed to have borrowed, each rated from strong evidence to myth.', icon: 'sun', group: 'Think' },
   { id: 'debates', to: '/debates', title: 'Debate Arena', text: 'Each side’s best case in its own voice, then the counter-arguments.', icon: 'scales', group: 'Think' },
@@ -31,6 +32,7 @@ const FEATURES: Feature[] = [
 
 /** How the parts of the atlas feed one another. Drawn as connectors between the cards. */
 const LINKS: [string, string, string][] = [
+  ['denominations', 'tree', 'branches and splits'], ['denominations', 'compare', 'side by side'],
   ['fathers', 'doctrines', 'shaping doctrine'], ['fathers', 'influences', 'philosophy and culture'], ['influences', 'eras', 'when adopted'],
   ['wars', 'map', 'battles on the map'], ['wars', 'eras', 'when they happened'], ['wars', 'missions', 'conquest and mission'],
   ['missions', 'map', 'journeys on the map'], ['missions', 'people', 'missionaries'], ['missions', 'tree', 'churches they planted'],
@@ -215,6 +217,9 @@ function previewFor(a: Atlas, id: string): ReactNode {
     case 'wars':
       return <><Stats><Stat n={a.conflicts.length} label="conflicts" /><Stat n={a.conflicts.filter((c) => c.religionRole === 'central').length} label="religion central" /><Stat n={a.conflicts.reduce((n, c) => n + c.theatres.length, 0)} label="battles & places" /><Stat n={a.conflicts.reduce((n, c) => n + c.dissenters.length, 0)} label="voices for peace" /></Stats>
         <Grid>{pick(a.conflicts, 6).map((c) => <Row key={c.id} to={`/wars/${c.id}`} top={formatYear(c.startYear)} title={c.name} sub={c.summary} />)}</Grid></>;
+    case 'denominations':
+      return <><Stats><Stat n={new Set(a.traditions.map((t) => t.family)).size} label="families" /><Stat n={a.traditions.length} label="churches & movements" /><Stat n={a.denomProfiles.length} label="with doctrine profiles" /><Stat n={a.denomFacts.length} label="facts checked" /></Stats>
+        <Grid>{pick(a.traditions, 6).map((t) => <Row key={t.id} to={`/traditions/${t.id}`} top={formatYear(t.foundedYear)} title={t.name} sub={a.profileOf.get(t.id)?.tagline ?? t.summary} />)}</Grid></>;
     case 'fathers':
       return <><Stats><Stat n={a.fathers.length} label="Fathers" /><Stat n={new Set(a.fathers.map((f) => f.school)).size} label="schools & streams" /><Stat n={a.fathers.reduce((n, f) => n + f.roots.length, 0)} label="roots traced" /><Stat n={a.fathers.reduce((n, f) => n + f.works.length, 0)} label="key writings" /></Stats>
         <Grid>{pick(a.fathers, 6).map((f) => <Row key={f.id} to={`/fathers/${f.id}`} top={f.see.name} title={f.name} sub={f.summary} />)}</Grid></>;

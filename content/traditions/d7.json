@@ -1,0 +1,2029 @@
+{
+  "denomProfiles": [
+    {
+      "id": "church-of-god-in-christ",
+      "tagline": "The largest historically Black Pentecostal church, born of holiness preaching and Azusa Street.",
+      "coreDoctrines": [
+        "Trinitarian evangelical faith with the Bible as the inspired, infallible Word of God.",
+        "Holiness: sanctification as a real work of grace producing a separated, holy life.",
+        "Baptism in the Holy Spirit, evidenced by speaking in tongues, as an experience after conversion.",
+        "Divine healing through prayer and anointing, alongside the use of medicine.",
+        "The premillennial return of Christ."
+      ],
+      "focuses": [
+        "Holiness of life and personal testimony.",
+        "Evangelism and church planting in Black communities in the United States and abroad.",
+        "A strong Women's Department, founded in 1911 under Lizzie Robinson.",
+        "Civil rights and community uplift, symbolised by Mason Temple in Memphis."
+      ],
+      "practices": [
+        "Three ordinances: water baptism by immersion, the Lord's Supper and foot washing.",
+        "Exuberant worship with gospel choirs, shouting and the \"tarrying\" service for Spirit baptism.",
+        "The annual Holy Convocation, held for most of its history in Memphis.",
+        "Government by bishops under a Presiding Bishop and a General Board.",
+        "Women serve as evangelists, missionaries and church mothers but are not ordained as pastors or bishops."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "holiness-movement",
+          "name": "Holiness Movement",
+          "text": "Mason and Charles Price Jones began as Baptist preachers converted to holiness teaching in the 1890s."
+        },
+        {
+          "traditionId": "pentecostal",
+          "name": "Azusa Street revival",
+          "text": "Mason's Spirit baptism in Los Angeles in 1907 made the church Pentecostal."
+        },
+        {
+          "name": "African American religious tradition",
+          "text": "Slave-era \"ring shout\" spirituality and Black Baptist preaching shaped its worship."
+        }
+      ],
+      "influenced": [
+        {
+          "traditionId": "assemblies-of-god",
+          "name": "Assemblies of God",
+          "text": "Many white ministers who formed the Assemblies of God in 1914 had held COGIC credentials."
+        },
+        {
+          "name": "Gospel music",
+          "text": "COGIC musicians such as Mattie Moss Clark, the Hawkins family and Andraé Crouch shaped modern gospel."
+        },
+        {
+          "name": "Civil rights movement",
+          "text": "Martin Luther King Jr. gave his last speech, \"I've Been to the Mountaintop\", at Mason Temple on 3 April 1968."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Charles Harrison Mason",
+          "role": "Co-founder and first Chief Apostle and Senior Bishop (d. 1961)."
+        },
+        {
+          "name": "Charles Price Jones",
+          "role": "Co-founder who rejected tongues as initial evidence and led the Church of Christ (Holiness)."
+        },
+        {
+          "name": "Lizzie Robinson",
+          "role": "First head of the Women's Department (from 1911)."
+        },
+        {
+          "name": "William J. Seymour",
+          "role": "Leader of the Azusa Street Mission where Mason received Spirit baptism.",
+          "personId": "william-j-seymour"
+        },
+        {
+          "name": "Charles E. Blake",
+          "role": "Presiding Bishop 2007–2021."
+        }
+      ],
+      "members": {
+        "estimate": 5499875,
+        "year": 2012,
+        "note": "US membership reported by the church to the Yearbook of American and Canadian Churches (2012 edition); the church itself often cites about 6.5 million."
+      },
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "episcopal",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "pentecostal",
+        "women": "some-roles",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "butler-cogic",
+        "synan-holiness-pentecostal",
+        "anderson-pentecostalism",
+        "d7-yacc-2012"
+      ]
+    },
+    {
+      "id": "church-of-god-cleveland",
+      "tagline": "One of the oldest Pentecostal denominations, rooted in Appalachian holiness revival.",
+      "coreDoctrines": [
+        "A Declaration of Faith (1948) affirming the Trinity, the inspiration of Scripture and salvation by grace through faith.",
+        "Three works of grace in the Wesleyan-holiness pattern: justification, sanctification and Spirit baptism.",
+        "Baptism in the Holy Spirit with speaking in tongues as the initial evidence.",
+        "Divine healing provided for in the atonement.",
+        "The premillennial second coming of Christ."
+      ],
+      "focuses": [
+        "Holiness of life, set out in its \"Practical Commitments\".",
+        "World missions: the church reports congregations in more than 180 countries.",
+        "Education through Lee University (founded 1918) and the Pentecostal Theological Seminary.",
+        "Evangelism and revival preaching."
+      ],
+      "practices": [
+        "Water baptism by immersion, the Lord's Supper and foot washing as ordinances.",
+        "Revival-style worship with altar calls, prayer for healing and tongues.",
+        "A biennial International General Assembly that sets doctrine and polity.",
+        "Centralised government under a General Overseer and appointed state and regional overseers.",
+        "Women may be ordained ministers (from 2010) but not bishops or members of the governing councils."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "holiness-movement",
+          "name": "Holiness Movement",
+          "text": "Richard Spurling's Christian Union (1886) and the 1896 Shearer Schoolhouse revival were holiness movements."
+        },
+        {
+          "traditionId": "pentecostal",
+          "name": "Azusa Street revival",
+          "text": "G. B. Cashwell brought the Azusa experience to Cleveland in January 1908."
+        },
+        {
+          "traditionId": "methodist",
+          "name": "Methodism",
+          "text": "Its doctrine of entire sanctification descends from John Wesley."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Church of God of Prophecy",
+          "text": "Formed by A. J. Tomlinson's followers after his removal as General Overseer in 1923."
+        },
+        {
+          "name": "Church of God (Full Gospel) in India",
+          "text": "Robert F. Cook's Kerala mission affiliated with the Cleveland church in 1936."
+        },
+        {
+          "name": "Hispanic and Caribbean Pentecostalism",
+          "text": "Its missions built large churches across Latin America and the Caribbean."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Richard Green Spurling",
+          "role": "Baptist minister who founded the Christian Union in 1886."
+        },
+        {
+          "name": "Ambrose Jessup Tomlinson",
+          "role": "General Overseer 1909–1923 who led the church into Pentecostalism."
+        },
+        {
+          "name": "G. B. Cashwell",
+          "role": "Evangelist who carried Azusa Street Pentecostalism to the south-eastern United States."
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "episcopal",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "pentecostal",
+        "women": "some-roles",
+        "trinity": "nicene"
+      },
+      "inIndia": "The Church of God (Full Gospel) in India grew from the work of the American missionary Robert F. Cook in Kerala, which joined the Cleveland church in 1936; it is strongest in Kerala and Tamil Nadu, with a separate Dalit-led section in Kerala.",
+      "sources": [
+        "conn-mighty-army",
+        "synan-holiness-pentecostal",
+        "burgess-pentecostal-dictionary",
+        "bergunder-south-indian-pentecostal"
+      ]
+    },
+    {
+      "id": "foursquare-church",
+      "tagline": "Aimee Semple McPherson's church of Jesus as Saviour, Baptiser, Healer and Coming King.",
+      "coreDoctrines": [
+        "The \"Foursquare Gospel\": Jesus Christ as Saviour, Baptiser with the Holy Spirit, Healer and Coming King (from Ezekiel's four-faced vision).",
+        "A Declaration of Faith written by McPherson in the 1920s, evangelical and Trinitarian.",
+        "Baptism in the Holy Spirit, normally with speaking in tongues, as an experience after conversion.",
+        "Divine healing in answer to believing prayer.",
+        "The imminent, premillennial return of Christ."
+      ],
+      "focuses": [
+        "Evangelism through mass meetings, radio and media.",
+        "Church planting, with tens of thousands of congregations reported worldwide.",
+        "Social relief: Angelus Temple's commissary fed many thousands during the Depression.",
+        "Training leaders through LIFE Bible College (1923, now Life Pacific University)."
+      ],
+      "practices": [
+        "Believer's baptism by immersion and the Lord's Supper.",
+        "Contemporary Pentecostal worship with prayer for healing.",
+        "A centralised corporation in which local church property is held by the denomination.",
+        "Women ordained as pastors since the founding, by a woman founder."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "pentecostal",
+          "name": "Pentecostalism",
+          "text": "McPherson received Spirit baptism in 1908 under her first husband, the missionary Robert Semple."
+        },
+        {
+          "traditionId": "salvation-army",
+          "name": "Salvation Army",
+          "text": "Her mother's Salvation Army background shaped her theatrical, mission-minded evangelism."
+        },
+        {
+          "traditionId": "christian-and-missionary-alliance",
+          "name": "A. B. Simpson's \"Fourfold Gospel\"",
+          "text": "The Christian and Missionary Alliance formula of Christ as Saviour, Sanctifier, Healer and Coming King lies behind the Foursquare name."
+        }
+      ],
+      "influenced": [
+        {
+          "traditionId": "calvary-chapel",
+          "name": "Calvary Chapel",
+          "text": "Chuck Smith trained at LIFE Bible College and pastored Foursquare churches before Calvary Chapel."
+        },
+        {
+          "name": "Religious broadcasting",
+          "text": "McPherson's KFSG (1924) was among the first radio stations owned by a church."
+        },
+        {
+          "name": "Jack Hayford and The Church on the Way",
+          "text": "Hayford's Van Nuys congregation and worship songs such as \"Majesty\" reached far beyond the denomination."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Aimee Semple McPherson",
+          "role": "Founder, evangelist and pastor of Angelus Temple (d. 1944)."
+        },
+        {
+          "name": "Rolf McPherson",
+          "role": "Her son, president of the church 1944–1988."
+        },
+        {
+          "name": "Jack Hayford",
+          "role": "Pastor, hymn-writer and president of the church 2004–2009."
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "connexional",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "pentecostal",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "blumhofer-mcpherson",
+        "burgess-pentecostal-dictionary",
+        "synan-holiness-pentecostal"
+      ]
+    },
+    {
+      "id": "apostolic-church",
+      "tagline": "Welsh-born Pentecostal church that governs through living apostles and prophets.",
+      "coreDoctrines": [
+        "Eleven Tenets, evangelical and Trinitarian, including the inspiration of Scripture.",
+        "The \"divine appointment\" of present-day apostles and prophets, with evangelists, pastors and teachers (Ephesians 4:11).",
+        "Baptism in the Holy Spirit with signs following.",
+        "Divine healing and the gifts of the Spirit.",
+        "The second coming of Christ and the eternal state."
+      ],
+      "focuses": [
+        "Church government under the guidance of recognised apostles.",
+        "Directive prophecy, historically used even in appointments to office.",
+        "Overseas mission, especially in Nigeria, Ghana and elsewhere in Africa.",
+        "Training through its colleges and the annual convention at Penygroes."
+      ],
+      "practices": [
+        "Believer's baptism by immersion and regular communion.",
+        "Recognition and ordination of apostles and prophets.",
+        "The August International Convention at Penygroes, Carmarthenshire, held since the 1910s.",
+        "Tithing as a principle of church support."
+      ],
+      "influencedBy": [
+        {
+          "name": "Welsh Revival (1904–05)",
+          "text": "D. P. Williams was converted at Penygroes during the revival."
+        },
+        {
+          "name": "Apostolic Faith Church (Bournemouth)",
+          "text": "William Oliver Hutchinson's church, where the Williams brothers first encountered apostolic offices."
+        },
+        {
+          "traditionId": "pentecostal",
+          "name": "Pentecostalism",
+          "text": "It shares the Pentecostal theology of Spirit baptism and spiritual gifts."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Christ Apostolic Church (Nigeria)",
+          "text": "Formed in 1941 from the Faith Tabernacle and Apostolic Church movement led by Joseph Ayo Babalola."
+        },
+        {
+          "name": "Church of Pentecost (Ghana)",
+          "text": "Grew from the work of the Apostolic Church missionary James McKeown, separating in 1953 and later becoming one of Ghana's largest churches."
+        },
+        {
+          "name": "Restorationist charismatic networks",
+          "text": "Its doctrine of present-day apostles anticipated the British House Church movement."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Daniel Powell Williams",
+          "role": "Founder and first President, recognised as apostle."
+        },
+        {
+          "name": "William Jones Williams",
+          "role": "His brother, recognised as prophet."
+        },
+        {
+          "name": "James McKeown",
+          "role": "Missionary to the Gold Coast from 1937."
+        },
+        {
+          "name": "Joseph Ayo Babalola",
+          "role": "Nigerian revivalist associated with the church in the 1930s.",
+          "personId": "joseph-ayo-babalola"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "apostolic-network",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "pentecostal",
+        "women": "varies",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "burgess-pentecostal-dictionary",
+        "anderson-pentecostalism",
+        "evans-welsh-revival"
+      ]
+    },
+    {
+      "id": "elim-pentecostal",
+      "tagline": "Major British Pentecostal denomination founded by the healing evangelist George Jeffreys.",
+      "coreDoctrines": [
+        "Evangelical, Trinitarian Foundational Truths, with the Bible as the inspired Word of God.",
+        "Salvation by grace through faith in Christ's atoning death.",
+        "Baptism in the Holy Spirit with the gifts of the Spirit.",
+        "Divine healing as part of the gospel.",
+        "The personal return of Christ."
+      ],
+      "focuses": [
+        "Evangelism and healing campaigns, historically on a mass scale.",
+        "Church planting in Britain and Ireland.",
+        "Overseas mission, notably in southern Africa.",
+        "Ministerial training at Regents Theological College."
+      ],
+      "practices": [
+        "Believer's baptism by immersion and the Lord's Supper.",
+        "Contemporary Pentecostal worship and prayer for healing.",
+        "A centralised Conference with a General Superintendent and church property held by the movement.",
+        "Women may serve in all levels of ministry."
+      ],
+      "influencedBy": [
+        {
+          "name": "Welsh Revival (1904–05)",
+          "text": "George and Stephen Jeffreys were converted in the revival."
+        },
+        {
+          "traditionId": "pentecostal",
+          "name": "Pentecostalism",
+          "text": "Jeffreys entered Pentecostalism through the Sunderland meetings of Alexander Boddy."
+        },
+        {
+          "name": "A. B. Simpson's \"Fourfold Gospel\"",
+          "text": "Elim long styled itself the Elim Foursquare Gospel Alliance."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Bible-Pattern Church Fellowship",
+          "text": "Founded by Jeffreys after he left Elim in 1940 over central control."
+        },
+        {
+          "name": "Kensington Temple",
+          "text": "Elim's London church became one of Britain's largest congregations."
+        },
+        {
+          "traditionId": "charismatic-renewal",
+          "name": "British charismatic Christianity",
+          "text": "Elim fed leaders and worship styles into wider British evangelicalism."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "George Jeffreys",
+          "role": "Founder and evangelist whose campaigns filled the Royal Albert Hall."
+        },
+        {
+          "name": "Stephen Jeffreys",
+          "role": "His brother, also a healing evangelist."
+        },
+        {
+          "name": "E. J. Phillips",
+          "role": "Secretary-General who organised Elim's centralised structure."
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "connexional",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "pentecostal",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "wilson-sects-society",
+        "burgess-pentecostal-dictionary",
+        "anderson-pentecostalism"
+      ]
+    },
+    {
+      "id": "assembleias-de-deus-brazil",
+      "tagline": "Brazil's largest Protestant family, planted by two Swedish missionaries in Belém in 1911.",
+      "coreDoctrines": [
+        "Evangelical, Trinitarian faith with Scripture as the sole rule of faith and practice.",
+        "Baptism in the Holy Spirit with speaking in tongues as initial evidence.",
+        "Divine healing and the gifts of the Spirit for today.",
+        "Premillennial expectation of the rapture of the church."
+      ],
+      "focuses": [
+        "Evangelism among the urban poor and on the Amazonian frontier.",
+        "Holiness through \"usos e costumes\" (customs), historically dress and conduct codes.",
+        "Large conventions and ministries centred on \"mother churches\".",
+        "Growing participation in Brazilian politics through the evangelical caucus."
+      ],
+      "practices": [
+        "Believer's baptism by immersion and the Holy Supper.",
+        "Congregational singing from the Harpa Cristã hymnal (1922).",
+        "Government by pastor-presidents of ministries within national conventions such as the CGADB (1930) and CONAMAD.",
+        "Women are generally not ordained as pastors, though some ministries now do so."
+      ],
+      "influencedBy": [
+        {
+          "name": "Swedish Pentecostalism",
+          "text": "Berg and Vingren were linked to Lewi Pethrus's Filadelfia Church in Stockholm, which sent many later missionaries."
+        },
+        {
+          "traditionId": "baptist",
+          "name": "Baptist Churches",
+          "text": "The founders were expelled from a Baptist church in Belém in 1911 over Pentecostal teaching."
+        },
+        {
+          "traditionId": "pentecostal",
+          "name": "Chicago Pentecostalism",
+          "text": "Berg and Vingren received their Pentecostal experience through William Durham's circle in Chicago."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Brazilian evangelical politics",
+          "text": "Assemblies of God pastors and members are prominent in the Frente Parlamentar Evangélica."
+        },
+        {
+          "name": "Portuguese-speaking missions",
+          "text": "Brazilian Assemblies have sent missionaries to Portugal, Lusophone Africa and the diaspora."
+        },
+        {
+          "traditionId": "universal-church-of-the-kingdom-of-god",
+          "name": "Neo-Pentecostalism in Brazil",
+          "text": "Later \"third wave\" Brazilian churches grew in the space opened by classical Pentecostal growth."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Gunnar Vingren",
+          "role": "Co-founder and first pastor in Belém.",
+          "personId": "gunnar-vingren"
+        },
+        {
+          "name": "Daniel Berg",
+          "role": "Co-founder and itinerant evangelist.",
+          "personId": "daniel-berg"
+        },
+        {
+          "name": "Frida Vingren",
+          "role": "Preacher, editor and hymn-writer in the early church."
+        },
+        {
+          "name": "José Wellington Bezerra da Costa",
+          "role": "Long-serving president of the CGADB (1988–2017)."
+        }
+      ],
+      "members": {
+        "estimate": 12314410,
+        "year": 2010,
+        "note": "People declaring affiliation with the Assembleia de Deus in the 2010 Brazilian census (IBGE)."
+      },
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "connexional",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "pentecostal",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "chesnut-born-again-brazil",
+        "freston-evangelicals-politics",
+        "anderson-pentecostalism",
+        "d7-ibge-2010"
+      ]
+    },
+    {
+      "id": "yoido-full-gospel-church",
+      "tagline": "Seoul megachurch built on cell groups, prayer mountains and the \"threefold blessing\".",
+      "coreDoctrines": [
+        "Classical Pentecostal doctrine of the Assemblies of God, including Spirit baptism with tongues.",
+        "Cho's \"Fivefold Gospel\": salvation, the fullness of the Spirit, divine healing, blessing and the second coming.",
+        "The \"Threefold Blessing\" of 3 John 2: spiritual, physical and material well-being.",
+        "Faith visualised and spoken in prayer, which critics regard as a form of prosperity teaching."
+      ],
+      "focuses": [
+        "Home cell groups led largely by women, the backbone of the congregation.",
+        "Intense prayer, including early-morning and all-night prayer meetings.",
+        "Mission and church planting worldwide and in satellite churches across Seoul.",
+        "Social welfare and media, including the Kookmin Ilbo newspaper."
+      ],
+      "practices": [
+        "Multiple Sunday services in a sanctuary seating about 12,000.",
+        "Fasting and prayer at Osanri Choi Ja-shil Memorial Fasting Prayer Mountain (opened 1973).",
+        "Believer's baptism and the Lord's Supper.",
+        "Women ordained as pastors and elders."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "assemblies-of-god",
+          "name": "Assemblies of God",
+          "text": "Cho trained at the Assemblies of God Bible school in Seoul and the church belongs to the Korean Assemblies of God."
+        },
+        {
+          "name": "Korean revival tradition",
+          "text": "The dawn prayer and fervent prayer of the 1907 Pyongyang revival shaped its piety."
+        },
+        {
+          "name": "Choi Ja-shil",
+          "text": "Cho's co-founder and later mother-in-law made prayer and fasting central."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Cell church movement",
+          "text": "Cho's book \"Successful Home Cell Groups\" (1981) was copied by churches worldwide."
+        },
+        {
+          "traditionId": "neo-charismatic",
+          "name": "Asian Pentecostalism",
+          "text": "Church Growth International (1976) spread Yoido's methods across Asia."
+        },
+        {
+          "traditionId": "presbyterian-church-of-korea",
+          "name": "Korean megachurches",
+          "text": "Its model of growth influenced large Korean Protestant churches of many denominations."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "David Yonggi Cho",
+          "role": "Founder and senior pastor 1958–2008 (d. 2021).",
+          "personId": "yong-gi-cho"
+        },
+        {
+          "name": "Choi Ja-shil",
+          "role": "Co-founder, evangelist and prayer leader (d. 1989)."
+        },
+        {
+          "name": "Lee Young-hoon",
+          "role": "Senior pastor since 2008."
+        }
+      ],
+      "members": {
+        "estimate": 800000,
+        "year": 2007,
+        "note": "Membership claimed by the church in the mid-2000s and widely reported; registered membership counts differ from weekly attendance."
+      },
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "pentecostal",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "kim-korea",
+        "anderson-pentecostalism",
+        "burgess-pentecostal-dictionary"
+      ]
+    },
+    {
+      "id": "redeemed-christian-church-of-god",
+      "tagline": "Nigerian Pentecostal giant aiming to plant a parish within reach of everyone.",
+      "coreDoctrines": [
+        "Evangelical, Trinitarian faith with the Bible as the inspired Word of God.",
+        "Holiness and sanctification as a distinct experience, stressed from Akindayomi's day.",
+        "Baptism in the Holy Spirit with speaking in tongues.",
+        "Divine healing and miracles.",
+        "The rapture and the premillennial return of Christ."
+      ],
+      "focuses": [
+        "Church planting, with the stated vision of parishes within five minutes' walk in developing countries and five minutes' drive in developed ones.",
+        "Monthly Holy Ghost Services and the annual Holy Ghost Congress at Redemption City.",
+        "Reaching the professional classes through \"model parishes\" (from 1988).",
+        "Education and social projects, including Redeemer's University (2005)."
+      ],
+      "practices": [
+        "Believer's baptism by immersion and Holy Communion.",
+        "All-night prayer, fasting and large convention gatherings.",
+        "A centralised hierarchy of parishes, zones, regions and provinces under the General Overseer.",
+        "Women ordained as deaconesses and pastors."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "african-initiated-churches",
+          "name": "Cherubim and Seraphim",
+          "text": "Akindayomi belonged to this Aladura church before founding the RCCG."
+        },
+        {
+          "traditionId": "holiness-movement",
+          "name": "Holiness Movement",
+          "text": "Its doctrine of sanctification follows the holiness Pentecostal pattern."
+        },
+        {
+          "traditionId": "pentecostal",
+          "name": "Classical Pentecostalism",
+          "text": "Adeboye aligned the church with international Pentecostal practice from the 1980s."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "African diaspora churches",
+          "text": "RCCG parishes, such as Jesus House in London, became central to African communities in Europe and North America."
+        },
+        {
+          "name": "Nigerian public life",
+          "text": "The Holy Ghost Congress draws political leaders, and the church shapes Nigerian Pentecostal culture."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Josiah Olufemi Akindayomi",
+          "role": "Founder and first General Overseer (d. 1980)."
+        },
+        {
+          "name": "Enoch Adejare Adeboye",
+          "role": "General Overseer since 1981 and former mathematics lecturer."
+        },
+        {
+          "name": "Foluke Adeboye",
+          "role": "His wife, a leading pastor in the church."
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "episcopal",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "pentecostal",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "ukah-rccg",
+        "kalu-african-pentecostalism",
+        "anderson-pentecostalism"
+      ]
+    },
+    {
+      "id": "universal-church-of-the-kingdom-of-god",
+      "tagline": "Brazilian neo-Pentecostal church of deliverance, prosperity and a global media empire.",
+      "coreDoctrines": [
+        "Faith in Jesus Christ as Saviour, with Scripture as authority as taught by the church's bishops.",
+        "Spiritual warfare: illness and misfortune are often attributed to evil spirits, which are expelled in deliverance.",
+        "Prosperity theology: sacrificial giving as an act of faith that God rewards.",
+        "Baptism in the Holy Spirit as empowerment for victory in life."
+      ],
+      "focuses": [
+        "Deliverance from spirits, frequently identified with deities of Afro-Brazilian religions.",
+        "Financial breakthrough and family restoration.",
+        "Media: the RecordTV network (bought 1989), radio and the Folha Universal newspaper.",
+        "Rapid expansion in Africa, Europe and the Americas."
+      ],
+      "practices": [
+        "A weekly cycle of themed services (\"chains\"), for example for prosperity, health and deliverance.",
+        "Campaigns such as the \"Holy Bonfire\" (Fogueira Santa) of sacrificial offerings.",
+        "Believer's baptism by immersion and the Holy Supper.",
+        "A centralised hierarchy of bishops and pastors under the founder; pastors are men.",
+        "Large temples, notably the Temple of Solomon in São Paulo (2014)."
+      ],
+      "influencedBy": [
+        {
+          "name": "Igreja de Nova Vida",
+          "text": "Macedo was a member of this church founded by the Canadian missionary Robert McAlister."
+        },
+        {
+          "traditionId": "neo-charismatic",
+          "name": "Neo-charismatic movement",
+          "text": "Prosperity and deliverance teaching from North American preachers shaped its message."
+        },
+        {
+          "name": "Brazilian popular religion",
+          "text": "Its rituals answer the spiritual world of Umbanda and Candomblé while rejecting them."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "International Grace of God Church",
+          "text": "Founded in 1980 by Macedo's brother-in-law and co-founder R. R. Soares."
+        },
+        {
+          "name": "Worldwide Church of the Power of God",
+          "text": "Founded in 1998 by Valdemiro Santiago, a former UCKG bishop."
+        },
+        {
+          "name": "Brazilian politics",
+          "text": "The church is closely linked with the Republicanos party."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Edir Macedo",
+          "role": "Founder and bishop, owner of RecordTV."
+        },
+        {
+          "name": "R. R. Soares",
+          "role": "Co-founder who left in 1980."
+        }
+      ],
+      "members": {
+        "estimate": 1873243,
+        "year": 2010,
+        "note": "People declaring affiliation with the Igreja Universal do Reino de Deus in the 2010 Brazilian census (IBGE)."
+      },
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "episcopal",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "charismatic",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "freston-evangelicals-politics",
+        "chesnut-born-again-brazil",
+        "anderson-pentecostalism",
+        "d7-ibge-2010"
+      ]
+    },
+    {
+      "id": "vineyard",
+      "tagline": "Evangelical churches practising \"power evangelism\", healing and intimate worship.",
+      "coreDoctrines": [
+        "Evangelical, Trinitarian faith with Scripture as the final authority.",
+        "Kingdom theology: the reign of God is \"already and not yet\" present, following George Eldon Ladd.",
+        "All believers may minister in the gifts of the Spirit, including healing and prophecy.",
+        "Spirit baptism is not tied to tongues as a necessary initial evidence."
+      ],
+      "focuses": [
+        "\"Doing the stuff\": praying for the sick and expecting signs and wonders.",
+        "Intimate, contemporary worship music.",
+        "Church planting and compassion ministries.",
+        "Equipping laypeople for ministry rather than relying on a star preacher."
+      ],
+      "practices": [
+        "Informal services with extended worship and \"ministry time\" of prayer.",
+        "Believer's baptism and regular communion.",
+        "Autonomous local churches within national Vineyard associations.",
+        "Local churches decide whether women serve as senior pastors (Vineyard USA, 2006)."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "calvary-chapel",
+          "name": "Calvary Chapel",
+          "text": "Early Vineyard churches came from Calvary Chapel, which Wimber pastored."
+        },
+        {
+          "name": "George Eldon Ladd",
+          "text": "His Fuller Seminary kingdom theology underlies Vineyard teaching."
+        },
+        {
+          "traditionId": "charismatic-renewal",
+          "name": "Charismatic Renewal",
+          "text": "Vineyard drew on the renewal's openness to gifts within evangelicalism."
+        },
+        {
+          "name": "Jesus Movement",
+          "text": "Its informal style grew from the California Jesus People of the 1970s."
+        }
+      ],
+      "influenced": [
+        {
+          "traditionId": "bethel-new-apostolic-networks",
+          "name": "Third Wave",
+          "text": "C. Peter Wagner named the \"Third Wave\" after Wimber's Fuller course \"Signs, Wonders and Church Growth\" (1982)."
+        },
+        {
+          "traditionId": "church-of-england",
+          "name": "Alpha and New Wine",
+          "text": "Wimber's visits to Holy Trinity Brompton and St Andrew's, Chorleywood, shaped British Anglican charismatics."
+        },
+        {
+          "name": "Contemporary worship music",
+          "text": "Vineyard songs were among the first of the modern worship genre."
+        },
+        {
+          "name": "Toronto Blessing",
+          "text": "The 1994 revival began at a Vineyard church, which was released from the association in 1995."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "John Wimber",
+          "role": "Leader of the movement from 1982 until his death in 1997.",
+          "personId": "john-wimber"
+        },
+        {
+          "name": "Kenn Gulliksen",
+          "role": "Founder of the first Vineyard Fellowship in 1974."
+        },
+        {
+          "name": "Carol Wimber",
+          "role": "Co-leader with her husband."
+        },
+        {
+          "name": "C. Peter Wagner",
+          "role": "Fuller professor who co-taught with Wimber.",
+          "personId": "c-peter-wagner"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "charismatic",
+        "women": "varies",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "miller-reinventing",
+        "burgess-pentecostal-dictionary",
+        "wagner-third-wave",
+        "poloma-main-street-mystics"
+      ]
+    },
+    {
+      "id": "hillsong",
+      "tagline": "Sydney-born global church best known for its worship music.",
+      "coreDoctrines": [
+        "Evangelical, Trinitarian faith with the Bible as the Word of God.",
+        "Baptism in the Holy Spirit and the gifts of the Spirit, from its Pentecostal roots.",
+        "An emphasis on God's blessing and the flourishing of believers, which critics have linked with prosperity teaching.",
+        "The church as a vibrant, culturally engaged community."
+      ],
+      "focuses": [
+        "Worship music for the global church through Hillsong Worship, United and Young & Free.",
+        "Campus churches in major cities around the world.",
+        "Leadership training through Hillsong College.",
+        "Conferences, including the annual Hillsong Conference (from 1986)."
+      ],
+      "practices": [
+        "Concert-style services with contemporary worship.",
+        "Believer's baptism and communion.",
+        "Centralised leadership under a global senior pastor and board.",
+        "Women in senior leadership, including co-senior pastors."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "assemblies-of-god",
+          "name": "Assemblies of God",
+          "text": "Founded within the Assemblies of God in Australia (later Australian Christian Churches)."
+        },
+        {
+          "name": "Christian Life Centre Sydney",
+          "text": "Frank Houston's church, which merged with Hills in 1999."
+        },
+        {
+          "traditionId": "neo-charismatic",
+          "name": "Neo-charismatic movement",
+          "text": "Its style is that of independent charismatic megachurches."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Contemporary worship music",
+          "text": "Songs such as \"Shout to the Lord\" (1994) and \"Oceans\" (2013) are sung worldwide."
+        },
+        {
+          "name": "Global church planting",
+          "text": "Its city-campus model was widely imitated."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Brian Houston",
+          "role": "Founder and global senior pastor until 2022."
+        },
+        {
+          "name": "Bobbie Houston",
+          "role": "Co-founder and co-senior pastor."
+        },
+        {
+          "name": "Darlene Zschech",
+          "role": "Worship leader and writer of \"Shout to the Lord\"."
+        },
+        {
+          "name": "Phil and Lucinda Dooley",
+          "role": "Global senior pastors from 2023."
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "apostolic-network",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "charismatic",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "riches-wagner-hillsong",
+        "garrett-oceania",
+        "ruth-lim-contemporary-worship"
+      ]
+    },
+    {
+      "id": "bethel-new-apostolic-networks",
+      "tagline": "Charismatic networks expecting miracles and led by present-day apostles and prophets.",
+      "coreDoctrines": [
+        "Evangelical, Trinitarian faith, with Scripture affirmed as final authority.",
+        "Restoration of the offices of apostle and prophet to govern and guide the church.",
+        "\"Kingdom now\": heaven invading earth through healing, miracles and transformation of society.",
+        "Ongoing prophetic revelation, said to be tested by Scripture; critics fear it rivals it.",
+        "In some networks, the \"Seven Mountain\" mandate to influence spheres of culture."
+      ],
+      "focuses": [
+        "Supernatural ministry and expectation of signs and wonders.",
+        "Training through schools such as the Bethel School of Supernatural Ministry (1998).",
+        "Worship music, notably Bethel Music and Jesus Culture.",
+        "Prophetic ministry and intercession, sometimes with political engagement."
+      ],
+      "practices": [
+        "Extended worship with prophetic and healing ministry.",
+        "Believer's baptism and communion.",
+        "Relational networks under apostolic leaders rather than denominations.",
+        "Women serve as pastors and leaders in many networks, including Bethel."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "vineyard",
+          "name": "Vineyard and the Third Wave",
+          "text": "Wimber's power evangelism shaped the movement."
+        },
+        {
+          "name": "Toronto Blessing",
+          "text": "Bill Johnson was among the pastors renewed through the 1990s revivals."
+        },
+        {
+          "name": "Latter Rain movement",
+          "text": "The 1948 revival taught the restoration of apostles and prophets."
+        },
+        {
+          "traditionId": "assemblies-of-god",
+          "name": "Assemblies of God",
+          "text": "Bethel was an Assemblies of God church until 2006."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Global worship music",
+          "text": "Bethel Music songs are sung in many denominations."
+        },
+        {
+          "traditionId": "neo-charismatic",
+          "name": "Independent charismatic Christianity",
+          "text": "Apostolic networks have spread in Africa, Asia and Latin America."
+        },
+        {
+          "name": "American politics",
+          "text": "Some NAR-linked prophets became prominent in Christian nationalist activism."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "C. Peter Wagner",
+          "role": "Popularised the term \"New Apostolic Reformation\" (d. 2016).",
+          "personId": "c-peter-wagner"
+        },
+        {
+          "name": "Bill Johnson",
+          "role": "Senior leader of Bethel Church, Redding, and author of \"When Heaven Invades Earth\" (2003)."
+        },
+        {
+          "name": "Kris Vallotton",
+          "role": "Bethel leader and prophetic teacher."
+        },
+        {
+          "name": "Che Ahn",
+          "role": "Founder of Harvest International Ministry."
+        }
+      ],
+      "axes": {
+        "liturgy": 1,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "apostolic-network",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "charismatic",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "christerson-flory-network",
+        "geivett-pivec-nar",
+        "wagner-third-wave",
+        "burgess-pentecostal-dictionary"
+      ]
+    },
+    {
+      "id": "indian-pentecostal-church-of-god",
+      "tagline": "Kerala-born Pentecostal church led by Indians from its founding in 1924.",
+      "coreDoctrines": [
+        "Evangelical, Trinitarian faith with the Bible as inerrant.",
+        "Salvation by grace through faith and new birth.",
+        "Baptism in the Holy Spirit with speaking in tongues.",
+        "Divine healing, traditionally without reliance on medicine for many members.",
+        "The imminent return of Christ."
+      ],
+      "focuses": [
+        "Indigenous leadership and self-support, free from foreign missionary control.",
+        "Evangelism across India and among the Malayali diaspora in the Gulf and North America.",
+        "Holiness, expressed in many congregations by not wearing jewellery.",
+        "Bible training through Hebron Bible College, Kumbanad (1930)."
+      ],
+      "practices": [
+        "Believer's baptism by immersion, often of converts from infant-baptising churches.",
+        "The Lord's Supper.",
+        "The annual Kumbanad Convention.",
+        "Government by a General Council with state councils and regions.",
+        "Women preach and teach but are not ordained as pastors."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "mar-thoma-syrian",
+          "name": "Mar Thoma Syrian Church",
+          "text": "Many early leaders and members came from the Syrian Christian churches of Kerala."
+        },
+        {
+          "traditionId": "plymouth-brethren",
+          "name": "Brethren movement in Kerala",
+          "text": "Brethren evangelists had already taught believer's baptism and Bible study."
+        },
+        {
+          "name": "Robert F. Cook",
+          "text": "The American missionary worked with K. E. Abraham until they separated over control of property."
+        },
+        {
+          "traditionId": "pentecostal",
+          "name": "Pentecostalism",
+          "text": "Pentecostal teaching reached Kerala from 1909 through foreign and Indian evangelists."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Malayali diaspora churches",
+          "text": "IPC congregations are numerous in the Gulf states, North America and Britain."
+        },
+        {
+          "name": "Indian Pentecostal identity",
+          "text": "Its insistence on Indian leadership became a model for other indigenous churches."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "K. E. Abraham",
+          "role": "Founder and long-serving president (d. 1974)."
+        },
+        {
+          "name": "Robert F. Cook",
+          "role": "American missionary who co-worked with the founders."
+        },
+        {
+          "name": "K. C. Cherian",
+          "role": "Early co-worker in the founding of the church."
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "presbyterian",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "pentecostal",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "Headquartered at Kumbanad in Pathanamthitta district, Kerala, the IPC has thousands of congregations across India, strongest in Kerala and also present in Tamil Nadu and northern India; many members are former Syrian Christians or Dalits.",
+      "sources": [
+        "bergunder-south-indian-pentecostal",
+        "frykenberg-india",
+        "i3-burgess-pentecostalism-india",
+        "i3-mcgee-latter-rain"
+      ]
+    },
+    {
+      "id": "waldensian",
+      "tagline": "Medieval movement of lay preachers that became Italy's historic Reformed church.",
+      "coreDoctrines": [
+        "Scripture as the sole rule of faith, read in the vernacular.",
+        "Reformed theology, adopted at the Synod of Chanforan in 1532.",
+        "Salvation by grace through faith.",
+        "Two sacraments, baptism and the Lord's Supper.",
+        "Historically, rejection of purgatory, prayers for the dead and oath-taking."
+      ],
+      "focuses": [
+        "Preaching and Bible study.",
+        "Social service, funded in part by Italy's \"eight per thousand\" tax scheme.",
+        "Ecumenism and dialogue, including at the Agape centre (founded 1947).",
+        "Theological education at the Waldensian Faculty of Theology in Rome.",
+        "Progressive ethics, including the blessing of same-sex unions (Synod of 2010)."
+      ],
+      "practices": [
+        "Reformed worship centred on preaching.",
+        "Infant baptism and the Lord's Supper.",
+        "An annual synod each August at Torre Pellice.",
+        "Women ordained as pastors since 1962."
+      ],
+      "influencedBy": [
+        {
+          "name": "Valdes (Peter Waldo)",
+          "text": "His conversion to apostolic poverty in Lyon around 1173 began the movement."
+        },
+        {
+          "traditionId": "catholic",
+          "name": "Roman Catholic Church",
+          "text": "The movement began as a lay renewal within the Western Church before its condemnation in 1184."
+        },
+        {
+          "traditionId": "reformed",
+          "name": "Reformed Churches",
+          "text": "Guillaume Farel and the Swiss Reformers brought them into the Reformation."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Olivétan Bible (1535)",
+          "text": "The Waldensians funded this first French Protestant Bible."
+        },
+        {
+          "traditionId": "methodist",
+          "name": "Italian Methodism",
+          "text": "United with Italian Methodists in 1975 in the Union of Methodist and Waldensian Churches."
+        },
+        {
+          "name": "Protestant memory",
+          "text": "The Piedmont massacre of 1655 inspired Milton's sonnet \"On the Late Massacre in Piedmont\"."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Valdes of Lyon",
+          "role": "Merchant who founded the movement c. 1173."
+        },
+        {
+          "name": "Henri Arnaud",
+          "role": "Pastor who led the \"Glorious Return\" to the valleys in 1689."
+        },
+        {
+          "name": "Tullio Vinay",
+          "role": "Founder of the Agape ecumenical centre and the Riesi mission."
+        }
+      ],
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 3,
+        "authority": "scripture-alone",
+        "governance": "presbyterian",
+        "baptism": "infant",
+        "eucharist": "spiritual-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "cameron-waldenses",
+        "lambert-medieval-heresy",
+        "odcc"
+      ]
+    },
+    {
+      "id": "hussite-moravian",
+      "tagline": "Bohemian reform from Jan Hus to the Unity of the Brethren.",
+      "coreDoctrines": [
+        "Scripture as the supreme authority, above popes and councils.",
+        "Communion in both kinds (bread and wine) for the laity.",
+        "The Four Articles of Prague (1420): free preaching, the cup for the laity, clerical poverty and punishment of public sin.",
+        "For the Unity of the Brethren, faith expressed in a disciplined, peaceable common life."
+      ],
+      "focuses": [
+        "Reform of the clergy and church.",
+        "Vernacular preaching and Bible translation, culminating in the Kralice Bible (1579–93).",
+        "Church discipline and community.",
+        "Education, championed by Jan Amos Comenius."
+      ],
+      "practices": [
+        "Utraquist communion from the chalice.",
+        "Czech-language worship and hymnody.",
+        "Infant baptism and confirmation.",
+        "The Unity's own episcopal ministry from 1467."
+      ],
+      "influencedBy": [
+        {
+          "name": "John Wycliffe",
+          "text": "His writings, brought to Prague, shaped Hus's view of the church."
+        },
+        {
+          "name": "Bohemian reform preachers",
+          "text": "Preachers such as Jan Milíč of Kroměříž prepared the ground for Hus."
+        },
+        {
+          "name": "Petr Chelčický",
+          "text": "His pacifist critique of church and state inspired the Unity of the Brethren."
+        }
+      ],
+      "influenced": [
+        {
+          "traditionId": "lutheran",
+          "name": "Lutheran Churches",
+          "text": "Luther declared in 1520 that \"we are all Hussites\" without knowing it."
+        },
+        {
+          "traditionId": "moravian-church",
+          "name": "Moravian Church",
+          "text": "Renewed at Herrnhut in 1727 by descendants of the Unity of the Brethren."
+        },
+        {
+          "name": "Czech national identity",
+          "text": "Hus and the Hussites became symbols of the modern Czech nation; the Czechoslovak Hussite Church was founded in 1920."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Jan Hus",
+          "role": "Reformer burned at the Council of Constance in 1415.",
+          "personId": "jan-hus"
+        },
+        {
+          "name": "Jan Žižka",
+          "role": "Hussite general."
+        },
+        {
+          "name": "Petr Chelčický",
+          "role": "Lay thinker whose ideas shaped the Unity."
+        },
+        {
+          "name": "Jan Amos Comenius",
+          "role": "Educator and the last bishop of the old Unity."
+        }
+      ],
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 3,
+        "authority": "scripture-alone",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "real-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "kaminsky-hussite",
+        "macculloch-reformation",
+        "odcc"
+      ]
+    },
+    {
+      "id": "african-initiated-churches",
+      "tagline": "Churches founded and led by Africans, uniting the Bible with African life.",
+      "coreDoctrines": [
+        "Faith in the Triune God and Christ, read through the Bible, especially the Old Testament and the Gospels.",
+        "The Holy Spirit's power for healing, prophecy and protection from evil.",
+        "Revelation through prophet-founders, dreams and visions in many churches.",
+        "Salvation understood holistically, including health, fertility and well-being."
+      ],
+      "focuses": [
+        "Healing through prayer, holy water and other blessed objects.",
+        "Protection from witchcraft and evil spirits.",
+        "African leadership and dignity, against colonial and mission control.",
+        "Community life, pilgrimage and holy places."
+      ],
+      "practices": [
+        "Baptism, often by immersion in rivers or the sea.",
+        "White robes or uniforms, removal of shoes and food taboos in many churches.",
+        "Leadership by prophets, bishops and founders' families.",
+        "Pilgrimage to holy cities such as Moria, Nkamba and Ekuphakameni.",
+        "Dancing, drumming and African hymnody in worship."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "anglican",
+          "name": "Protestant missions",
+          "text": "Many founders were Anglican, Methodist or Baptist converts."
+        },
+        {
+          "name": "Christian Catholic Church of John Alexander Dowie",
+          "text": "Dowie's Zion movement gave rise to southern African Zionism."
+        },
+        {
+          "traditionId": "pentecostal",
+          "name": "Pentecostalism",
+          "text": "Pentecostal healing and Spirit teaching shaped Zionist and Aladura churches."
+        },
+        {
+          "name": "African traditional religion",
+          "text": "Concerns with ancestors, healing and evil are addressed in Christian forms."
+        }
+      ],
+      "influenced": [
+        {
+          "traditionId": "redeemed-christian-church-of-god",
+          "name": "African Pentecostalism",
+          "text": "Later Pentecostal churches often grew among former members."
+        },
+        {
+          "name": "African theology",
+          "text": "Theologians such as Kwame Bediako drew on them for a genuinely African Christianity."
+        },
+        {
+          "name": "African diaspora churches",
+          "text": "AICs became established in Britain, Europe and North America."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Mangena Mokone",
+          "role": "Founder of the Ethiopian Church (1892)."
+        },
+        {
+          "name": "William Wade Harris",
+          "role": "Liberian prophet whose 1913–15 mission founded the Harrist churches.",
+          "personId": "william-wade-harris"
+        },
+        {
+          "name": "Simon Kimbangu",
+          "role": "Congolese prophet-healer.",
+          "personId": "simon-kimbangu"
+        },
+        {
+          "name": "Isaiah Shembe",
+          "role": "Founder of the Nazareth Baptist Church (1910).",
+          "personId": "isaiah-shembe"
+        }
+      ],
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 3,
+        "authority": "scripture-and-spirit",
+        "governance": "episcopal",
+        "baptism": "both",
+        "eucharist": "memorial",
+        "gifts": "charismatic",
+        "women": "varies",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "anderson-african-reformation",
+        "isichei-africa",
+        "hastings-church-in-africa",
+        "sanneh-whose-religion"
+      ]
+    },
+    {
+      "id": "chinese-house-churches",
+      "tagline": "Unregistered Chinese Protestant churches that grew under persecution.",
+      "coreDoctrines": [
+        "Evangelical faith with Scripture as supreme authority.",
+        "Separation of church from state control, rejecting the Three-Self Patriotic Movement.",
+        "A theology of the cross: suffering for Christ as normal for believers.",
+        "In rural networks, Pentecostal-type healing and miracles; in many urban churches, Reformed theology."
+      ],
+      "focuses": [
+        "Evangelism by itinerant preachers, including the \"Back to Jerusalem\" vision.",
+        "Prayer and Bible study.",
+        "Faithfulness under pressure from the authorities.",
+        "Training of leaders in secret seminaries."
+      ],
+      "practices": [
+        "Worship in homes, rented offices and other unregistered spaces.",
+        "Believer's baptism and the Lord's Supper.",
+        "Singing of indigenous songs such as Lü Xiaomin's Canaan Hymns.",
+        "Large networks in the countryside and independent churches in cities.",
+        "Women are leading evangelists and preachers, especially in rural networks."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "local-churches",
+          "name": "Local Churches (Little Flock)",
+          "text": "Watchman Nee's church shaped house church piety."
+        },
+        {
+          "traditionId": "true-jesus-church",
+          "name": "True Jesus Church",
+          "text": "An early indigenous Chinese Pentecostal church."
+        },
+        {
+          "traditionId": "jesus-family",
+          "name": "Jesus Family",
+          "text": "Its communal life and charismatic piety influenced rural believers."
+        },
+        {
+          "name": "John Sung and fundamentalist missions",
+          "text": "Revival preaching in the 1930s shaped evangelical theology."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Chinese diaspora churches",
+          "text": "House church emigrants and theology influence overseas Chinese churches."
+        },
+        {
+          "name": "Back to Jerusalem movement",
+          "text": "Its vision of mission towards the Middle East won wide support abroad."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Wang Mingdao",
+          "role": "Independent Beijing pastor imprisoned 1955–1979 for refusing to join the TSPM."
+        },
+        {
+          "name": "Watchman Nee",
+          "role": "Founder of the Little Flock, imprisoned from 1952.",
+          "personId": "watchman-nee"
+        },
+        {
+          "name": "Samuel Lamb (Lin Xiangao)",
+          "role": "Guangzhou house church pastor imprisoned for over 20 years."
+        },
+        {
+          "name": "Wang Yi",
+          "role": "Pastor of Early Rain Covenant Church, Chengdu, sentenced to nine years in 2019."
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "open",
+        "women": "varies",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "bays-china",
+        "lian-redeemed-by-fire",
+        "hunter-chan-protestantism-china",
+        "m6-aikman-jesus-in-beijing"
+      ]
+    },
+    {
+      "id": "quaker",
+      "tagline": "Friends who wait in silence on the Inward Light and witness for peace.",
+      "coreDoctrines": [
+        "The Inward Light of Christ, given to every person.",
+        "Direct revelation of Christ through the Spirit, tested against Scripture and the gathered meeting.",
+        "The priesthood of all believers, without ordained clergy.",
+        "Inward baptism and communion rather than outward rites.",
+        "Testimonies of peace, simplicity, integrity, equality and community."
+      ],
+      "focuses": [
+        "Peacemaking and refusal of war.",
+        "Social reform, including abolition of slavery and prison reform.",
+        "Service and relief, recognised by the Nobel Peace Prize in 1947.",
+        "Equality of women and men in ministry from the movement's beginning."
+      ],
+      "practices": [
+        "Unprogrammed meetings for worship in silence, broken by spoken ministry.",
+        "Programmed and evangelical churches with pastors, hymns and sermons, especially in Kenya and the US.",
+        "Meetings for worship for business that seek unity rather than vote.",
+        "Plain speech and dress, historically."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "congregationalist",
+          "name": "Puritan radicalism",
+          "text": "Fox emerged from the Seekers and radical groups of the English Civil War."
+        },
+        {
+          "name": "Spiritualist tradition",
+          "text": "Continental spiritualists had taught the inner word over outward forms."
+        }
+      ],
+      "influenced": [
+        {
+          "traditionId": "shakers",
+          "name": "Shakers",
+          "text": "The Shakers grew from the \"Shaking Quakers\" of north-west England."
+        },
+        {
+          "name": "Abolition movement",
+          "text": "From the Germantown protest of 1688 to John Woolman, Quakers led opposition to slavery."
+        },
+        {
+          "name": "Pennsylvania",
+          "text": "William Penn's colony pioneered religious freedom."
+        },
+        {
+          "name": "Humanitarian organisations",
+          "text": "The American Friends Service Committee and Friends Service Council inspired modern relief work."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "George Fox",
+          "role": "Founder and author of the Journal.",
+          "personId": "george-fox"
+        },
+        {
+          "name": "Margaret Fell",
+          "role": "Mother of Quakerism, of Swarthmoor Hall."
+        },
+        {
+          "name": "Robert Barclay",
+          "role": "Author of the Apology for the True Christian Divinity (1676).",
+          "personId": "robert-barclay"
+        },
+        {
+          "name": "William Penn",
+          "role": "Founder of Pennsylvania (1681)."
+        },
+        {
+          "name": "John Woolman",
+          "role": "Abolitionist and journal writer."
+        }
+      ],
+      "members": {
+        "estimate": 377000,
+        "year": 2017,
+        "note": "Friends World Committee for Consultation count of Quakers worldwide."
+      },
+      "axes": {
+        "liturgy": 1,
+        "sacramental": 1,
+        "authority": "scripture-and-spirit",
+        "governance": "none",
+        "baptism": "none",
+        "eucharist": "not-practised",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "British Friends began mission work at Hoshangabad in present-day Madhya Pradesh in the 1870s, and American Friends worked in Bundelkhand from the 1890s; small meetings, schools and service projects survive there and in Delhi.",
+      "sources": [
+        "dandelion-quakers",
+        "fwcc-statistics",
+        "moore-light-consciences",
+        "fox-journal"
+      ]
+    },
+    {
+      "id": "moravian-church",
+      "tagline": "Renewed Unity of the Brethren known for heart religion and pioneering missions.",
+      "coreDoctrines": [
+        "Scripture as the sole standard of doctrine, with the Ground of the Unity (1957).",
+        "Heart religion: a personal relationship with the crucified Christ.",
+        "Respect for the ecumenical creeds and the Augsburg Confession, without elaborate systems.",
+        "\"In essentials unity, in non-essentials liberty, in all things love.\""
+      ],
+      "focuses": [
+        "World mission, from the Caribbean and Greenland (1732–33) to Africa and Asia.",
+        "Christian community and fellowship.",
+        "Music, hymnody and education.",
+        "Prayer, including the 24-hour prayer watch begun in 1727."
+      ],
+      "practices": [
+        "Daily Texts (Losungen), published annually since 1731.",
+        "Lovefeasts with shared bread and coffee or tea.",
+        "Easter sunrise services in God's Acre burial grounds.",
+        "Infant baptism, confirmation and Holy Communion.",
+        "Bishops in a succession claimed from 1467, within synodal government; women ordained in most provinces."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "hussite-moravian",
+          "name": "Hussite and Moravian Churches",
+          "text": "Refugees from the old Unity settled at Herrnhut from 1722."
+        },
+        {
+          "traditionId": "lutheran",
+          "name": "Lutheran Pietism",
+          "text": "Zinzendorf, raised in Halle Pietism, gave the renewed church its piety."
+        }
+      ],
+      "influenced": [
+        {
+          "traditionId": "methodist",
+          "name": "Methodism",
+          "text": "John Wesley met Moravians in Georgia and London, and his Aldersgate conversion (1738) came through the Fetter Lane Society."
+        },
+        {
+          "traditionId": "baptist",
+          "name": "Modern Protestant missions",
+          "text": "William Carey cited Moravian example in 1792."
+        },
+        {
+          "name": "Schleiermacher",
+          "text": "The theologian was educated by Moravians and called himself \"a Moravian of a higher order\"."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Nicolaus Ludwig von Zinzendorf",
+          "role": "Patron and leader of the renewed church.",
+          "personId": "nicolaus-zinzendorf"
+        },
+        {
+          "name": "Christian David",
+          "role": "Carpenter who led the first refugees to Herrnhut."
+        },
+        {
+          "name": "August Gottlieb Spangenberg",
+          "role": "Bishop who organised the church in North America."
+        },
+        {
+          "name": "Leonhard Dober and David Nitschmann",
+          "role": "First missionaries to St Thomas (1732)."
+        }
+      ],
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 3,
+        "authority": "scripture-alone",
+        "governance": "presbyterian",
+        "baptism": "infant",
+        "eucharist": "real-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "Moravians worked at Tranquebar and in the Nicobar Islands (1760s–1803) and from 1853 in the Himalaya, at Kyelang in Lahaul and from 1885 at Leh in Ladakh, where Heinrich August Jäschke translated the Bible into Tibetan; small Moravian congregations remain in Ladakh.",
+      "sources": [
+        "ward-protestant-awakening",
+        "odcc",
+        "neill-missions",
+        "m3-hutton-moravian-missions"
+      ]
+    },
+    {
+      "id": "kimbanguist-church",
+      "tagline": "Congolese church born of Simon Kimbangu's healing ministry and colonial persecution.",
+      "coreDoctrines": [
+        "Faith in God, Jesus Christ and the Holy Spirit, with the Bible as Scripture.",
+        "Simon Kimbangu as a prophet sent by God to Africa.",
+        "Later teaching identifies Kimbangu with the Comforter promised in John 14 and gives his descendants an exalted place; other Congolese Protestants have questioned this.",
+        "Non-violence and obedience to God's law."
+      ],
+      "focuses": [
+        "Moral discipline: no alcohol, tobacco, pork, polygamy or violence.",
+        "Healing and prayer.",
+        "Education, health care and development.",
+        "Pilgrimage to Nkamba, the \"New Jerusalem\"."
+      ],
+      "practices": [
+        "Baptism by laying on of hands, without water.",
+        "Holy Communion with bread and drink made from local produce (since 1971).",
+        "Removal of shoes on holy ground at Nkamba.",
+        "Brass bands and choirs.",
+        "Leadership by a spiritual head from Kimbangu's family."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "baptist",
+          "name": "Baptist Missionary Society",
+          "text": "Kimbangu was baptised in 1915 at the BMS mission at Ngombe Lutete."
+        },
+        {
+          "name": "Prophetic tradition of the Bible",
+          "text": "Kimbangu was seen as an African prophet like those of Israel."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Congolese nationalism",
+          "text": "Kimbangu became a symbol of resistance to Belgian colonial rule."
+        },
+        {
+          "traditionId": "african-initiated-churches",
+          "name": "African Initiated Churches",
+          "text": "It became a model for independent churches and joined the WCC in 1969."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Simon Kimbangu",
+          "role": "Prophet whose 1921 healing ministry began the church (d. 1951).",
+          "personId": "simon-kimbangu"
+        },
+        {
+          "name": "Joseph Diangienda",
+          "role": "His son, spiritual head 1959–1992."
+        },
+        {
+          "name": "Simon Kimbangu Kiangani",
+          "role": "His grandson, spiritual head since 2001."
+        }
+      ],
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 3,
+        "authority": "scripture-and-new-revelation",
+        "governance": "episcopal",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "charismatic",
+        "women": "varies",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "gampiot-kimbanguism",
+        "martin-kimbangu",
+        "anderson-african-reformation"
+      ]
+    },
+    {
+      "id": "zion-christian-church",
+      "tagline": "Southern Africa's largest church, of healing, uniforms and the Easter pilgrimage to Moria.",
+      "coreDoctrines": [
+        "Faith in the Triune God and Jesus Christ, with Scripture as read by the bishop.",
+        "Healing through the power of the Holy Spirit.",
+        "Protection from evil.",
+        "Obedience to the bishop as the leader appointed by God."
+      ],
+      "focuses": [
+        "Healing through prayer, blessed water, tea, needles and cords.",
+        "Moral discipline: no alcohol, tobacco or pork.",
+        "Economic self-help and family stability.",
+        "Peace and respect for authority."
+      ],
+      "practices": [
+        "Easter pilgrimage to Zion City Moria near Polokwane, drawing over a million people.",
+        "Badges with a star (ZCC) or dove (St Engenas ZCC) and khaki or green uniforms.",
+        "Baptism by triple immersion.",
+        "The men's mokhukhu dance in worship.",
+        "Hereditary leadership by the Lekganyane family; women are not ordained."
+      ],
+      "influencedBy": [
+        {
+          "name": "Christian Catholic Church (Dowie)",
+          "text": "The name and the healing emphasis come from Dowie's Zion City."
+        },
+        {
+          "traditionId": "pentecostal",
+          "name": "Apostolic Faith Mission",
+          "text": "This Pentecostal church shaped early South African Zionism."
+        },
+        {
+          "name": "African traditional religion",
+          "text": "Its healing and prophetic practices echo older African ways."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "South African politics",
+          "text": "Leaders from P. W. Botha (1985) to Nelson Mandela (1992) addressed the Easter gathering."
+        },
+        {
+          "traditionId": "african-initiated-churches",
+          "name": "Zionist churches",
+          "text": "It is the largest of the many Zionist churches."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Engenas Lekganyane",
+          "role": "Founder (d. 1948)."
+        },
+        {
+          "name": "Edward Lekganyane",
+          "role": "His son, leader of the ZCC (star) after the 1949 split (d. 1967)."
+        },
+        {
+          "name": "Barnabas Lekganyane",
+          "role": "Bishop since 1967."
+        }
+      ],
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 3,
+        "authority": "scripture-and-spirit",
+        "governance": "episcopal",
+        "baptism": "both",
+        "eucharist": "memorial",
+        "gifts": "charismatic",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "sundkler-bantu-prophets",
+        "anderson-african-reformation",
+        "hastings-church-in-africa"
+      ]
+    },
+    {
+      "id": "church-of-the-lord-aladura",
+      "tagline": "Yoruba \"praying church\" of fasting, prophecy and revealed holy names.",
+      "coreDoctrines": [
+        "Faith in the Triune God and Christ, with Scripture as the Word of God.",
+        "Prayer as the key to salvation, healing and protection.",
+        "Revelation through visions, dreams and prophecy, including holy names given to the founder.",
+        "Holiness and purity of life."
+      ],
+      "focuses": [
+        "Prayer and fasting.",
+        "Healing without medicine or traditional charms.",
+        "Prophecy and spiritual guidance.",
+        "Mission in West Africa and the diaspora."
+      ],
+      "practices": [
+        "The annual Taborah festival on Mount Taborah, Ogere.",
+        "White robes and removal of shoes in worship.",
+        "Use of psalms, holy water and holy names in prayer.",
+        "Baptism and Holy Communion.",
+        "A hierarchy under a Primate; women may be ordained as ministers."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "anglican",
+          "name": "Anglican Communion",
+          "text": "Ositelu was a CMS Anglican catechist, and the church kept much Anglican order."
+        },
+        {
+          "name": "Faith Tabernacle prayer groups",
+          "text": "The prayer movement of the 1918 influenza epidemic shaped Aladura spirituality."
+        },
+        {
+          "name": "Yoruba culture",
+          "text": "Its music, language and concern for protection are Yoruba."
+        }
+      ],
+      "influenced": [
+        {
+          "traditionId": "african-initiated-churches",
+          "name": "Aladura diaspora churches",
+          "text": "Its British congregations were among the first African churches in Britain (1960s)."
+        },
+        {
+          "name": "Ecumenical recognition of AICs",
+          "text": "It joined the World Council of Churches in 1975."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Josiah Olunowo Ositelu",
+          "role": "Founder and first Primate (d. 1966)."
+        },
+        {
+          "name": "Emmanuel Owoade Adeleke Adejobi",
+          "role": "Second Primate (1966–1991), who led its mission to Britain."
+        },
+        {
+          "name": "Rufus Okikiolaolu Ositelu",
+          "role": "Primate from 1998."
+        }
+      ],
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 3,
+        "authority": "scripture-and-spirit",
+        "governance": "episcopal",
+        "baptism": "both",
+        "eucharist": "memorial",
+        "gifts": "charismatic",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "turner-church-of-the-lord",
+        "peel-aladura",
+        "isichei-africa"
+      ]
+    },
+    {
+      "id": "celestial-church-of-christ",
+      "tagline": "White-robed, barefoot prophetic church founded by Samuel Oshoffa in Porto-Novo.",
+      "coreDoctrines": [
+        "Faith in the Triune God and Christ, with Scripture as the Word of God.",
+        "Revelation through visions, prophecy and the Holy Spirit.",
+        "Rejection of idols, charms and traditional medicine.",
+        "Purity of life according to Old Testament norms."
+      ],
+      "focuses": [
+        "Healing and protection through prayer.",
+        "Visions and prophecy.",
+        "Purity and holiness.",
+        "Mission in West Africa and the diaspora."
+      ],
+      "practices": [
+        "White soutanes and bare feet in worship.",
+        "Candles, incense, holy water and prayer at the beach.",
+        "Ban on pork, alcohol and tobacco.",
+        "Purity rules, including exclusion of menstruating women from the sanctuary.",
+        "Christmas pilgrimage to Imeko, Ogun State; men lead and women are not ordained."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "methodist",
+          "name": "Methodism",
+          "text": "Oshoffa was raised in a Methodist family."
+        },
+        {
+          "traditionId": "church-of-the-lord-aladura",
+          "name": "Aladura churches",
+          "text": "It shares the prayer-healing spirituality of the Yoruba Aladura family."
+        },
+        {
+          "name": "Old Testament",
+          "text": "Its purity rules and ritual draw on Leviticus."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "West African diaspora",
+          "text": "Celestial parishes spread to Europe and North America."
+        },
+        {
+          "traditionId": "african-initiated-churches",
+          "name": "African Initiated Churches",
+          "text": "It is one of the largest Aladura-type churches."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Samuel Bilewu Oshoffa",
+          "role": "Founder and Pastor (d. 1985)."
+        },
+        {
+          "name": "Alexander Abiodun Bada",
+          "role": "Second Pastor (1985–2000)."
+        }
+      ],
+      "axes": {
+        "liturgy": 4,
+        "sacramental": 3,
+        "authority": "scripture-and-spirit",
+        "governance": "episcopal",
+        "baptism": "both",
+        "eucharist": "memorial",
+        "gifts": "charismatic",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "isichei-africa",
+        "anderson-african-reformation",
+        "peel-aladura"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "d7-ibge-2010",
+      "title": "Censo Demográfico 2010: Características gerais da população, religião e pessoas com deficiência",
+      "author": "Instituto Brasileiro de Geografia e Estatística (IBGE)",
+      "year": 2012,
+      "kind": "data",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/94/cd_2010_religiao_deficiencia.pdf"
+    },
+    {
+      "id": "d7-yacc-2012",
+      "title": "Yearbook of American and Canadian Churches 2012",
+      "author": "Eileen W. Lindner (ed.)",
+      "year": 2012,
+      "kind": "data"
+    }
+  ]
+}

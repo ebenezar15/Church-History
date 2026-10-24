@@ -19,6 +19,7 @@ export const NAV: { to: string; label: string; icon: IconName; group: string }[]
   { to: '/missions/india', label: 'Missions in India', icon: 'compass', group: 'Explore' },
   { to: '/wars', label: 'Holy Wars & Conflicts', icon: 'scales', group: 'Explore' },
   { to: '/doctrines', label: 'Doctrines', icon: 'trinity', group: 'Think' },
+  { to: '/denominations', label: 'Denominations', icon: 'split', group: 'Think' },
   { to: '/fathers', label: 'Church Fathers', icon: 'quill', group: 'Think' },
   { to: '/influences', label: 'Pagan Influences', icon: 'sun', group: 'Think' },
   { to: '/debates', label: 'Debate Arena', icon: 'scales', group: 'Think' },
@@ -46,7 +47,7 @@ function NavList({ onNavigate }: { onNavigate?: () => void }) {
               <li key={n.to}>
                 <NavLink
                   to={n.to}
-                  end={n.to === '/' || n.to === '/compare' || n.to === '/missions' || n.to === '/wars'}
+                  end={n.to === '/' || n.to === '/compare' || n.to === '/missions' || n.to === '/wars' || n.to === '/denominations'}
                   onClick={onNavigate}
                   className={({ isActive }) => cx('group relative flex items-center gap-3 rounded-xl px-3 py-2 text-sm font-semibold transition-colors', isActive ? 'text-accent' : 'text-ink-2 hover:text-ink')}
                 >

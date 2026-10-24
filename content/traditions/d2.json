@@ -1,0 +1,2101 @@
+{
+  "denomProfiles": [
+    {
+      "id": "philippine-independent-church",
+      "tagline": "Filipino nationalist church of catholic order, in full communion with Anglicans and Old Catholics.",
+      "coreDoctrines": [
+        "The 1947 Declaration of Faith and Articles of Religion affirm the Trinity, the Apostles' and Nicene Creeds and the authority of Scripture.",
+        "Holds the historic episcopate, received from bishops of the US Episcopal Church in 1948, as essential to its catholic order.",
+        "Seven sacraments are retained, with baptism and the Eucharist treated as pre-eminent.",
+        "Teaches that the Church must be self-governing and rooted in Filipino culture rather than ruled by foreign clergy.",
+        "Understands the gospel as calling the Church to work for justice, human rights and the poor."
+      ],
+      "focuses": [
+        "Filipino national identity and independence from foreign ecclesiastical control.",
+        "Social justice, labour rights and advocacy for peasants and indigenous peoples.",
+        "Ecumenical partnership with the Episcopal Church in the Philippines and the wider Anglican Communion.",
+        "Pastoral care of overseas Filipino workers and diaspora parishes."
+      ],
+      "practices": [
+        "Celebrates a catholic-style Mass, now largely in Filipino and other Philippine languages.",
+        "Clergy may marry; the church ordains women to the priesthood, a practice begun in the late 1990s.",
+        "Led by an elected Obispo Máximo (Supreme Bishop) and a synod-based episcopate.",
+        "Trains many of its clergy at St Andrew's Theological Seminary in Quezon City, shared with Philippine Episcopalians.",
+        "Honours the memory of Filipino patriots and clergy martyrs, such as the priests Gómez, Burgos and Zamora executed in 1872."
+      ],
+      "influencedBy": [
+        {
+          "name": "Roman Catholic Church",
+          "text": "It inherited the Spanish Catholic liturgy, sacramental system and parish structure of the islands.",
+          "traditionId": "catholic"
+        },
+        {
+          "name": "Philippine Revolution",
+          "text": "The anti-Spanish revolution of 1896–98 and the Filipino clergy movement shaped its nationalist programme."
+        },
+        {
+          "name": "Episcopal Church (United States)",
+          "text": "Episcopal bishops consecrated its bishops in 1948 and a concordat of full communion followed in 1961.",
+          "traditionId": "episcopal-church-usa"
+        },
+        {
+          "name": "Old Catholic Churches",
+          "text": "The 1965 agreement with the Union of Utrecht brought full communion and shared catholic-but-not-papal ecclesiology.",
+          "traditionId": "old-catholic"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Episcopal Church in the Philippines",
+          "text": "The two churches share a seminary, joint ministries and a long-standing concordat of full communion."
+        },
+        {
+          "name": "Philippine ecumenical social activism",
+          "text": "Its bishops and clergy have been prominent in the National Council of Churches in the Philippines and human-rights campaigns."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Isabelo de los Reyes",
+          "role": "Labour leader and journalist who proclaimed the church in 1902."
+        },
+        {
+          "name": "Gregorio Aglipay",
+          "role": "Former Catholic priest and revolutionary chaplain; first Obispo Máximo (1902–40)."
+        },
+        {
+          "name": "Isabelo de los Reyes Jr",
+          "role": "Obispo Máximo who led the return to Trinitarian orthodoxy and the 1948 consecrations."
+        },
+        {
+          "name": "Alberto Ramento",
+          "role": "Former Obispo Máximo and human-rights advocate, murdered in Tarlac in 2006."
+        }
+      ],
+      "axes": {
+        "liturgy": 4,
+        "sacramental": 4,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "real-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "scott-aglipay",
+        "odcc",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "eastern-orthodox",
+      "tagline": "Communion of self-governing churches keeping the faith of the seven Ecumenical Councils.",
+      "coreDoctrines": [
+        "Accepts the seven Ecumenical Councils (Nicaea 325 to Nicaea II 787) and the Nicene–Constantinopolitan Creed without the Filioque.",
+        "Holy Tradition, of which Scripture (with the Septuagint Old Testament) is the heart, is the rule of faith, interpreted by the Fathers and councils.",
+        "Salvation is theosis: participation in God's uncreated energies, while God's essence remains unknowable (Gregory Palamas, councils of 1341–51).",
+        "The veneration of icons is upheld as a confession of the Incarnation, celebrated on the Sunday of Orthodoxy (843).",
+        "The Church is a conciliar communion of local churches; the Ecumenical Patriarch holds a primacy of honour, not universal jurisdiction.",
+        "Mary is honoured as Theotokos and ever-virgin; the saints and the departed are commemorated in prayer."
+      ],
+      "focuses": [
+        "The Divine Liturgy as the centre of church life and the experience of heaven on earth.",
+        "Monasticism, above all Mount Athos, as the spiritual heart of the Church.",
+        "Hesychast prayer and the Jesus Prayer, collected in the Philokalia (1782).",
+        "Continuity with the Church Fathers and resistance to doctrinal innovation.",
+        "Ecclesial unity across nations, despite recurring jurisdictional disputes."
+      ],
+      "practices": [
+        "Celebrates the Liturgies of St John Chrysostom and St Basil in Greek, Church Slavonic, Arabic, Romanian and many vernaculars.",
+        "Baptises infants by triple immersion and immediately chrismates them and gives them Communion.",
+        "Keeps four fasting seasons and Wednesday and Friday fasts; Pascha is the feast of feasts.",
+        "Churches have an iconostasis; worshippers venerate icons, light candles and often stand.",
+        "Parish priests may marry before ordination; bishops are drawn from celibate monastics.",
+        "Some churches follow the Julian calendar, others the Revised Julian for fixed feasts, while all keep Pascha on the Julian reckoning (except Finland)."
+      ],
+      "influencedBy": [
+        {
+          "name": "The Early Church",
+          "text": "Orthodoxy sees itself as the unbroken continuation of the apostolic and patristic Church.",
+          "traditionId": "early-church"
+        },
+        {
+          "name": "Cappadocian Fathers",
+          "text": "Basil, Gregory of Nazianzus and Gregory of Nyssa gave Orthodox Trinitarian theology its classic form."
+        },
+        {
+          "name": "Byzantine Empire",
+          "text": "Imperial Constantinople shaped its liturgy, canon law, church architecture and idea of church–state symphonia."
+        },
+        {
+          "name": "Desert Fathers",
+          "text": "Egyptian and Syrian monasticism formed its ascetic and spiritual tradition."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Russian Orthodox Church",
+          "text": "The conversion of Kyivan Rus in 988 carried Byzantine Orthodoxy to the Slavic north.",
+          "traditionId": "russian-orthodox"
+        },
+        {
+          "name": "Eastern Catholic Churches",
+          "text": "Byzantine-rite Catholic churches keep Orthodox liturgy and spirituality in communion with Rome.",
+          "traditionId": "eastern-catholic"
+        },
+        {
+          "name": "Slavonic letters",
+          "text": "The mission of Cyril and Methodius created Slavonic literacy and the basis of the Cyrillic alphabet."
+        },
+        {
+          "name": "Western ressourcement and ecumenism",
+          "text": "Émigré theologians such as Lossky and Florovsky influenced 20th-century Western theology and the World Council of Churches."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "John Chrysostom",
+          "role": "Archbishop of Constantinople whose liturgy is the Church's usual Eucharistic rite.",
+          "personId": "john-chrysostom"
+        },
+        {
+          "name": "John of Damascus",
+          "role": "Systematiser of Orthodox doctrine and defender of icons.",
+          "personId": "john-of-damascus"
+        },
+        {
+          "name": "Photius I",
+          "role": "Patriarch of Constantinople and critic of the Filioque in the 9th century.",
+          "personId": "photius"
+        },
+        {
+          "name": "Gregory Palamas",
+          "role": "Defender of hesychasm and the essence–energies distinction.",
+          "personId": "gregory-palamas"
+        },
+        {
+          "name": "Maximus the Confessor",
+          "role": "Theologian of the two wills of Christ and of deification.",
+          "personId": "maximus-the-confessor"
+        }
+      ],
+      "members": {
+        "estimate": 260000000,
+        "year": 2017,
+        "note": "Pew Research Center (2017) estimate of Orthodox Christians worldwide; this total also includes Oriental Orthodox churches such as the Ethiopian."
+      },
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "Eastern Orthodoxy is very small in India; a few Indian communities are under the Ecumenical Patriarchate's Metropolis of Singapore and South Asia (created 2008). India's 'Orthodox' Christians in Kerala belong mainly to the Oriental Orthodox family instead.",
+      "sources": [
+        "ware-orthodox-church",
+        "mcguckin-orthodox-church",
+        "pew-2017-orthodox",
+        "lossky-mystical"
+      ]
+    },
+    {
+      "id": "russian-orthodox",
+      "tagline": "Largest Orthodox church, heir of the 988 baptism of Rus and of Moscow's patriarchate.",
+      "coreDoctrines": [
+        "Shares the full Eastern Orthodox faith of the seven Ecumenical Councils and the Creed without the Filioque.",
+        "Sees itself as the canonical church of the lands of historic Rus, including Russia, Belarus and (in its view) Ukraine.",
+        "Holds a strong theology of holy tradition, the saints and the New Martyrs of the Soviet era, canonised in large numbers in 2000.",
+        "Its 2000 'Bases of the Social Concept' sets out teaching on church–state relations, family, bioethics and war.",
+        "Emphasises church–state 'symphony' and a civilisational vision, recently expressed as the 'Russian world' (Russkii mir)."
+      ],
+      "focuses": [
+        "Rebuilding parishes, monasteries and seminaries after Soviet persecution; tens of thousands of churches reopened after 1988.",
+        "Monastic and elder (starets) spirituality, from Sergius of Radonezh to the Optina elders.",
+        "Preserving Church Slavonic worship and the Julian calendar.",
+        "A public role in Russian national life, which critics, including many Orthodox theologians, regard as too close to state power."
+      ],
+      "practices": [
+        "Long services in Church Slavonic, including the all-night vigil, with congregations usually standing.",
+        "Keeps the Julian calendar, celebrating Christmas on 7 January (civil calendar).",
+        "Rich traditions of icon painting (Andrei Rublev's Trinity) and bell-ringing.",
+        "Strict fasting before Communion and in the Great Fast; frequent confession before receiving.",
+        "Mass pilgrimages to relics and monasteries such as the Trinity–St Sergius Lavra."
+      ],
+      "influencedBy": [
+        {
+          "name": "Ecumenical Patriarchate of Constantinople",
+          "text": "Rus received its faith, liturgy and first metropolitans from Constantinople.",
+          "traditionId": "ecumenical-patriarchate"
+        },
+        {
+          "name": "Bulgarian Orthodox Church",
+          "text": "Church Slavonic books and clergy came to Rus largely through Bulgaria.",
+          "traditionId": "bulgarian-orthodox"
+        },
+        {
+          "name": "Paisius Velichkovsky and the Philokalia",
+          "text": "His Slavonic Dobrotolubie (1793) sparked the 19th-century revival of eldership."
+        },
+        {
+          "name": "Petrine Synodal system",
+          "text": "Peter the Great's abolition of the patriarchate (1721) placed the church under a state Holy Synod until 1917."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Old Believers",
+          "text": "Opponents of Patriarch Nikon's reforms broke away after the councils of 1666–67.",
+          "traditionId": "old-believers"
+        },
+        {
+          "name": "Orthodox Church in America",
+          "text": "Grew from the Russian mission to Alaska (1794) and received autocephaly from Moscow in 1970.",
+          "traditionId": "orthodox-church-in-america"
+        },
+        {
+          "name": "Russian Orthodox Church Outside Russia",
+          "text": "Émigré bishops organised abroad after the revolution and reunited with Moscow in 2007.",
+          "traditionId": "russian-orthodox-outside-russia"
+        },
+        {
+          "name": "Russian religious philosophy",
+          "text": "Thinkers such as Khomyakov, Soloviev and Bulgakov drew on and reshaped Russian Orthodox thought."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Vladimir the Great",
+          "role": "Prince of Kyiv whose baptism in 988 began the Christianisation of Rus.",
+          "personId": "vladimir-the-great"
+        },
+        {
+          "name": "Sergius of Radonezh",
+          "role": "14th-century monastic founder and Russia's best-loved saint.",
+          "personId": "sergius-of-radonezh"
+        },
+        {
+          "name": "Patriarch Nikon",
+          "role": "Reformer of the 1650s whose liturgical changes provoked the Old Believer schism."
+        },
+        {
+          "name": "Tikhon of Moscow",
+          "role": "First patriarch after the restoration of 1917 and confessor under Soviet rule.",
+          "personId": "tikhon-of-moscow"
+        },
+        {
+          "name": "Patriarch Kirill",
+          "role": "Patriarch since 2009, associated with the church's revival and with the 'Russian world' doctrine."
+        }
+      ],
+      "members": {
+        "estimate": 101000000,
+        "year": 2017,
+        "note": "Pew Research Center (2017) figure for Orthodox Christians in Russia, most of whom identify with the Moscow Patriarchate; the Patriarchate's own claims, which include Belarus, Ukraine and the diaspora, are much higher."
+      },
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "pospielovsky-russian-church",
+        "russian-primary-chronicle",
+        "pew-2017-orthodox",
+        "w6-hovorun-political-orthodoxies",
+        "russian-world-declaration-2022"
+      ]
+    },
+    {
+      "id": "ecumenical-patriarchate",
+      "tagline": "Historic see of New Rome, first in honour among Orthodox churches.",
+      "coreDoctrines": [
+        "Holds the full Orthodox faith of the seven Ecumenical Councils.",
+        "Claims, on the basis of canon 3 of Constantinople (381) and canon 28 of Chalcedon (451), a primacy of honour among Orthodox churches.",
+        "Teaches that it may hear appeals and grant autocephaly; this role is contested, especially by Moscow.",
+        "Asserts jurisdiction over the Orthodox diaspora outside the territories of other autocephalous churches.",
+        "Has championed the theological case for environmental care as a spiritual responsibility."
+      ],
+      "focuses": [
+        "Pan-Orthodox coordination, culminating in the Holy and Great Council in Crete (2016).",
+        "Ecumenical dialogue, notably with Rome since Athenagoras and Paul VI lifted the 1054 anathemas in 1965.",
+        "Survival of a tiny Greek Orthodox community in Turkey and the reopening of the Halki seminary, closed in 1971.",
+        "Pastoral care of Greek-speaking and other diaspora churches in America, Britain and Australia.",
+        "Creation care, earning Patriarch Bartholomew the nickname 'Green Patriarch'."
+      ],
+      "practices": [
+        "The Patriarch resides at the Phanar in Istanbul, with the Patriarchal Church of St George.",
+        "Celebrates the Byzantine liturgy in its classical Greek form and Byzantine chant.",
+        "Follows the Revised Julian calendar for fixed feasts, adopted in 1923–24.",
+        "Oversees Mount Athos, the semi-autonomous Church of Crete, the Dodecanese and the autonomous churches of Finland and Estonia.",
+        "Turkish law requires the Patriarch to be a Turkish citizen, narrowing the pool of candidates."
+      ],
+      "influencedBy": [
+        {
+          "name": "The Early Church",
+          "text": "Constantinople inherited the faith of the councils, several of which it hosted.",
+          "traditionId": "early-church"
+        },
+        {
+          "name": "Byzantine Empire",
+          "text": "Its prestige derived from being the see of the imperial capital, 'New Rome'."
+        },
+        {
+          "name": "Ottoman millet system",
+          "text": "After 1453 the Patriarch became civil head (ethnarch) of all Orthodox subjects of the Sultan."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Russian Orthodox Church",
+          "text": "Constantinople sent the first metropolitans of Kyiv and recognised the Moscow patriarchate in 1589.",
+          "traditionId": "russian-orthodox"
+        },
+        {
+          "name": "Church of Greece",
+          "text": "Granted autocephaly to the Greek church by Tomos in 1850.",
+          "traditionId": "church-of-greece"
+        },
+        {
+          "name": "Orthodox Church of Ukraine",
+          "text": "Granted it a Tomos of autocephaly in January 2019.",
+          "traditionId": "orthodox-church-of-ukraine"
+        },
+        {
+          "name": "Ukrainian Greek Catholic Church",
+          "text": "The Kyivan metropolitanate that entered the Union of Brest (1596) had been under Constantinople.",
+          "traditionId": "ukrainian-greek-catholic"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Gregory of Nazianzus",
+          "role": "Archbishop of Constantinople who presided briefly over the Council of 381.",
+          "personId": "gregory-of-nazianzus"
+        },
+        {
+          "name": "Photius I",
+          "role": "Patriarch at the centre of the 9th-century dispute with Rome.",
+          "personId": "photius"
+        },
+        {
+          "name": "Cyril Lucaris",
+          "role": "17th-century patriarch whose Calvinist-leaning Confession (1629) caused controversy.",
+          "personId": "cyril-lucaris"
+        },
+        {
+          "name": "Athenagoras I",
+          "role": "Patriarch (1948–72) who met Pope Paul VI in Jerusalem in 1964."
+        },
+        {
+          "name": "Bartholomew I",
+          "role": "Patriarch since 1991, active in ecumenism, environmentalism and the Ukrainian question."
+        }
+      ],
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "ware-orthodox-church",
+        "hussey-byzantine",
+        "roberson-eastern-churches",
+        "denysenko-orthodox-ukraine"
+      ]
+    },
+    {
+      "id": "church-of-greece",
+      "tagline": "The autocephalous Orthodox church of most of Greece, the nation's 'prevailing religion'.",
+      "coreDoctrines": [
+        "Holds the full Eastern Orthodox faith; doctrine is set by the Ecumenical Councils and Holy Tradition.",
+        "The Greek constitution (Article 3) names the Eastern Orthodox Church of Christ the 'prevailing religion' and binds it dogmatically to Constantinople.",
+        "Its Charter requires the Holy Synod to preserve unity of faith with the Ecumenical Patriarchate and the other Orthodox churches.",
+        "Treats the Greek-language New Testament and the Septuagint as the Church's authoritative biblical text."
+      ],
+      "focuses": [
+        "Close bonds between Orthodoxy and Greek national identity since the War of Independence (1821).",
+        "Lay renewal movements such as Zoe (1907) and Apostoliki Diakonia, the church's mission and publishing arm.",
+        "A theological revival from the 1960s, associated with thinkers such as Christos Yannaras.",
+        "Social welfare through parishes, especially during the economic crisis after 2010."
+      ],
+      "practices": [
+        "Byzantine liturgy in Koine Greek with Byzantine chant; name days are widely celebrated.",
+        "Adopted the Revised Julian calendar in 1924, prompting the Old Calendarist schism.",
+        "Holy Week and Pascha are national festivals, with the midnight 'Christos anesti' and candlelit processions.",
+        "Governed by the Archbishop of Athens and All Greece with the Holy Synod; clergy salaries have long been paid by the state.",
+        "Crete and the Dodecanese stay under Constantinople, and the northern 'New Lands' are administered by Athens on Constantinople's behalf (1928 Act)."
+      ],
+      "influencedBy": [
+        {
+          "name": "Ecumenical Patriarchate of Constantinople",
+          "text": "Its mother church, which recognised its autocephaly in 1850.",
+          "traditionId": "ecumenical-patriarchate"
+        },
+        {
+          "name": "Bavarian regency of King Otto",
+          "text": "Unilateral autocephaly in 1833 was shaped by the regency's state-church model, influenced by Georg von Maurer."
+        },
+        {
+          "name": "Kollyvades movement",
+          "text": "Athonite monks such as Nikodemos the Hagiorite promoted frequent Communion and published the Philokalia (1782)."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Greek Old Calendarists",
+          "text": "Churches of the Genuine Orthodox Christians separated in protest at the 1924 calendar change."
+        },
+        {
+          "name": "Orthodox Autocephalous Church of Albania",
+          "text": "Greek-trained clergy and the Greek missiologist Anastasios played a key role in its revival.",
+          "traditionId": "albanian-orthodox"
+        },
+        {
+          "name": "Orthodox mission in Africa",
+          "text": "Greek theologians and missionary societies supported the African dioceses of the Patriarchate of Alexandria.",
+          "traditionId": "alexandrian-orthodox"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Nikodemos the Hagiorite",
+          "role": "Editor of the Philokalia and the Pedalion (Rudder) of canon law."
+        },
+        {
+          "name": "Chrysostomos (Papadopoulos)",
+          "role": "Archbishop of Athens who introduced the Revised Julian calendar in 1924."
+        },
+        {
+          "name": "Christodoulos",
+          "role": "Archbishop (1998–2008) known for his public, national profile."
+        },
+        {
+          "name": "Ieronymos II",
+          "role": "Archbishop of Athens and All Greece since 2008."
+        }
+      ],
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "ware-orthodox-church",
+        "binns-orthodox-churches",
+        "roberson-eastern-churches"
+      ]
+    },
+    {
+      "id": "antiochian-orthodox",
+      "tagline": "Arabic-speaking Orthodox patriarchate of the city where disciples were first called Christians.",
+      "coreDoctrines": [
+        "Holds the full Eastern Orthodox faith and the Chalcedonian Christology accepted at the Council of 451.",
+        "Claims succession from the apostle Peter and from Ignatius of Antioch at the see of Antioch.",
+        "Stresses a conciliar Orthodoxy open to its Arab cultural setting and to dialogue with Muslims.",
+        "Recognises the canonical territory of other Orthodox churches, and has defended its own in disputes, such as with Jerusalem over Qatar."
+      ],
+      "focuses": [
+        "Witness of Arab Christians in Syria and Lebanon amid war, emigration and kidnapping of clergy.",
+        "Youth and lay renewal through the Orthodox Youth Movement, founded in Lebanon in 1942.",
+        "Education, notably the University of Balamand in Lebanon (1988).",
+        "A large diaspora in the Americas and Australia, open to Western converts."
+      ],
+      "practices": [
+        "Byzantine liturgy in Arabic, with Greek and, in the diaspora, English.",
+        "The Patriarch has resided in Damascus since the 14th century.",
+        "Uses the Revised Julian calendar for fixed feasts.",
+        "Its North American archdiocese received Evangelical Orthodox converts in 1987 and allows a Western Rite vicariate."
+      ],
+      "influencedBy": [
+        {
+          "name": "The Early Church",
+          "text": "Antioch was one of the earliest Christian centres (Acts 11:26) and a leading patriarchate of the ancient Church.",
+          "traditionId": "early-church"
+        },
+        {
+          "name": "Antiochene school",
+          "text": "Its literal, historical style of exegesis shaped preachers such as John Chrysostom."
+        },
+        {
+          "name": "Arab Christian nationalism",
+          "text": "The election of the Arab Patriarch Meletios Doumani in 1899 ended Greek control of the hierarchy."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Melkite Greek Catholic Church",
+          "text": "A pro-Catholic party separated in 1724 to form a Byzantine-rite church in communion with Rome.",
+          "traditionId": "melkite-greek-catholic"
+        },
+        {
+          "name": "Evangelical converts in America",
+          "text": "Peter Gillquist's Evangelical Orthodox Church entered its North American archdiocese in 1987."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Ignatius of Antioch",
+          "role": "Early-2nd-century bishop and martyr, revered as a founding father of the see.",
+          "personId": "ignatius-of-antioch"
+        },
+        {
+          "name": "John Chrysostom",
+          "role": "Antiochene priest and preacher before becoming Archbishop of Constantinople.",
+          "personId": "john-chrysostom"
+        },
+        {
+          "name": "Georges Khodr",
+          "role": "Metropolitan of Mount Lebanon and co-founder of the Orthodox Youth Movement."
+        },
+        {
+          "name": "Ignatius IV (Hazim)",
+          "role": "Patriarch (1979–2012) and founder of the University of Balamand."
+        },
+        {
+          "name": "John X (Yazigi)",
+          "role": "Patriarch since 2012."
+        }
+      ],
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "roberson-eastern-churches",
+        "binns-orthodox-churches",
+        "griffith-church-shadow-mosque"
+      ]
+    },
+    {
+      "id": "alexandrian-orthodox",
+      "tagline": "Greek Orthodox patriarchate of St Mark, now chiefly a missionary church across Africa.",
+      "coreDoctrines": [
+        "Holds the full Eastern Orthodox faith, including the Chalcedonian definition rejected by the Coptic majority of Egypt.",
+        "Claims succession from the evangelist Mark and from Athanasius and Cyril of Alexandria.",
+        "Claims jurisdiction over the whole of Africa, a claim tested since 2021 by Moscow's rival African exarchate.",
+        "In 2016 its synod decided to restore the female diaconate, an ancient order, consecrating deaconesses in the Congo in 2017."
+      ],
+      "focuses": [
+        "Missionary growth in sub-Saharan Africa: Uganda, Kenya, Tanzania, the Congo, Nigeria and beyond.",
+        "Translation of the liturgy into African languages and training of African clergy.",
+        "Care for the remnant Greek communities of Egypt.",
+        "Schools, clinics and orphanages run through its African dioceses."
+      ],
+      "practices": [
+        "The Patriarch resides in Alexandria and bears the title Pope and Patriarch.",
+        "Byzantine liturgy in Greek, Arabic, English, French, Swahili, Luganda and other languages.",
+        "African dioceses grew from the 1920s movement of Reuben Spartas Mukasa in Uganda, received by Alexandria in 1946.",
+        "Uses the Revised Julian calendar for fixed feasts."
+      ],
+      "influencedBy": [
+        {
+          "name": "The Early Church",
+          "text": "Alexandria was the great theological centre of the early Church.",
+          "traditionId": "early-church"
+        },
+        {
+          "name": "Ecumenical Patriarchate of Constantinople",
+          "text": "After 451 the Chalcedonian minority looked to Constantinople, and Byzantine rites replaced the Alexandrian.",
+          "traditionId": "ecumenical-patriarchate"
+        },
+        {
+          "name": "African Orthodox Church",
+          "text": "Reuben Spartas and Obadiah Basajjakitalo first found Orthodoxy via Alexander McGuire's African Orthodox Church."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "African Orthodoxy",
+          "text": "Its mission created Orthodox churches with African clergy and bishops in more than a dozen countries."
+        },
+        {
+          "name": "Orthodox Church of Ukraine",
+          "text": "Its 2019 recognition of the OCU led Moscow to break communion and set up its own exarchate in Africa.",
+          "traditionId": "orthodox-church-of-ukraine"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Athanasius of Alexandria",
+          "role": "4th-century bishop and champion of Nicaea, revered by both Alexandrian patriarchates.",
+          "personId": "athanasius"
+        },
+        {
+          "name": "Cyril of Alexandria",
+          "role": "5th-century patriarch and theologian of the Council of Ephesus.",
+          "personId": "cyril-of-alexandria"
+        },
+        {
+          "name": "Reuben Spartas Mukasa",
+          "role": "Ugandan founder of the Orthodox movement in East Africa."
+        },
+        {
+          "name": "Theodoros II",
+          "role": "Pope and Patriarch since 2004, who has emphasised African mission."
+        }
+      ],
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "roberson-eastern-churches",
+        "binns-orthodox-churches",
+        "hastings-church-in-africa"
+      ]
+    },
+    {
+      "id": "jerusalem-orthodox",
+      "tagline": "Mother Church of Jerusalem, guardian of the Holy Sepulchre and the holy places.",
+      "coreDoctrines": [
+        "Holds the full Eastern Orthodox faith of the seven Ecumenical Councils.",
+        "Claims descent from the first Christian community led by James, the brother of the Lord.",
+        "Raised to a patriarchate at the Council of Chalcedon (451) under Bishop Juvenal.",
+        "Sees itself as custodian of the holy places on behalf of the whole Orthodox world."
+      ],
+      "focuses": [
+        "Guardianship of the Church of the Holy Sepulchre and the Church of the Nativity, shared under the Ottoman 'Status Quo'.",
+        "Pastoral care of Arabic-speaking Orthodox Christians in Israel, Palestine and Jordan.",
+        "Hospitality to pilgrims from across the Orthodox world.",
+        "Management of extensive church lands, a source of controversy over sales and leases."
+      ],
+      "practices": [
+        "Its hierarchy is drawn from the Greek-speaking monastic Brotherhood of the Holy Sepulchre, while most laity are Arab.",
+        "The ceremony of the Holy Fire on Holy Saturday at the tomb of Christ draws vast crowds.",
+        "Keeps the Julian calendar.",
+        "The Patriarch consecrates the Archbishop of the autonomous Church of Mount Sinai (St Catherine's Monastery)."
+      ],
+      "influencedBy": [
+        {
+          "name": "The Early Church",
+          "text": "The Jerusalem church of Acts is the earliest Christian community.",
+          "traditionId": "early-church"
+        },
+        {
+          "name": "Byzantine imperial patronage",
+          "text": "Constantine's Holy Sepulchre and later Byzantine building made Jerusalem a pilgrimage centre."
+        },
+        {
+          "name": "Ecumenical Patriarchate of Constantinople",
+          "text": "From Ottoman times its patriarchs were largely Greek and closely tied to Constantinople.",
+          "traditionId": "ecumenical-patriarchate"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Arab Orthodox movement",
+          "text": "Arab laity have campaigned since the late 19th century for a greater role in the patriarchate."
+        },
+        {
+          "name": "Pilgrimage piety",
+          "text": "Liturgies of Jerusalem shaped the Church's year, including Holy Week and the stational liturgy described by Egeria."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "James, brother of the Lord",
+          "role": "Leader of the Jerusalem church, venerated as its first bishop.",
+          "personId": "james-of-jerusalem"
+        },
+        {
+          "name": "Cyril of Jerusalem",
+          "role": "4th-century bishop whose catechetical lectures describe the Jerusalem rites.",
+          "personId": "cyril-of-jerusalem"
+        },
+        {
+          "name": "Sophronius",
+          "role": "Patriarch who surrendered Jerusalem to the Caliph Umar in 638."
+        },
+        {
+          "name": "Theophilos III",
+          "role": "Patriarch since 2005, after the deposition of Irenaios I."
+        }
+      ],
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "roberson-eastern-churches",
+        "binns-orthodox-churches",
+        "odcc"
+      ]
+    },
+    {
+      "id": "serbian-orthodox",
+      "tagline": "Church of St Sava, bound up with Serbian identity and the monasteries of Kosovo.",
+      "coreDoctrines": [
+        "Holds the full Eastern Orthodox faith of the seven Ecumenical Councils.",
+        "'Svetosavlje', the spiritual legacy of St Sava, presents Orthodoxy and Serbian identity as deeply intertwined.",
+        "Venerates the 'Kosovo covenant', the choice of the heavenly over the earthly kingdom linked to the Battle of Kosovo (1389).",
+        "Teaching shaped by 20th-century theologians Justin Popović and Nikolaj Velimirović, both canonised."
+      ],
+      "focuses": [
+        "Preservation of medieval monasteries in Kosovo, such as Peć, Visoki Dečani and Gračanica (UNESCO sites).",
+        "Serbian communities across the former Yugoslavia, Montenegro and the diaspora.",
+        "Monastic revival after communism.",
+        "Remembrance of 20th-century suffering, including the Jasenovac camp in the Second World War."
+      ],
+      "practices": [
+        "Byzantine liturgy in Church Slavonic, increasingly also in Serbian.",
+        "Keeps the Julian calendar; Christmas on 7 January with the badnjak (Yule log).",
+        "The krsna slava, a family feast of its patron saint, is a distinctive household tradition.",
+        "Led by the Patriarch of Serbia, with his seat in Belgrade and the historic see at Peć."
+      ],
+      "influencedBy": [
+        {
+          "name": "Ecumenical Patriarchate of Constantinople",
+          "text": "Granted Sava autocephaly in 1219 from its exile seat at Nicaea.",
+          "traditionId": "ecumenical-patriarchate"
+        },
+        {
+          "name": "Mount Athos",
+          "text": "Sava was a monk of Athos and founded the Serbian monastery of Hilandar there with his father."
+        },
+        {
+          "name": "Cyril and Methodius mission",
+          "text": "Slavonic liturgy and letters reached Serbia from the Byzantine–Bulgarian missions."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Macedonian Orthodox Church",
+          "text": "The Ohrid Archbishopric, which declared autocephaly from Belgrade in 1967, was granted it by Serbia in 2022."
+        },
+        {
+          "name": "Orthodox in Montenegro and Bosnia",
+          "text": "Its dioceses shape church life in Montenegro, Bosnia and Herzegovina and Croatia."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Sava",
+          "role": "First Archbishop of the autocephalous Serbian church (1219) and its patron saint."
+        },
+        {
+          "name": "Stefan Dušan",
+          "role": "Tsar who raised the archbishopric to a patriarchate in 1346."
+        },
+        {
+          "name": "Justin Popović",
+          "role": "Theologian and monastic, canonised in 2010."
+        },
+        {
+          "name": "Patriarch Pavle",
+          "role": "Ascetic patriarch (1990–2009) through the Yugoslav wars."
+        },
+        {
+          "name": "Patriarch Porfirije",
+          "role": "Patriarch since 2021."
+        }
+      ],
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "roberson-eastern-churches",
+        "binns-orthodox-churches",
+        "m2-obolensky-byzantine-commonwealth"
+      ]
+    },
+    {
+      "id": "romanian-orthodox",
+      "tagline": "Orthodoxy of a Latin people: the second-largest Orthodox church in the world.",
+      "coreDoctrines": [
+        "Holds the full Eastern Orthodox faith of the seven Ecumenical Councils.",
+        "Its theology was renewed by Dumitru Stăniloae, whose Romanian Philokalia and Dogmatic Theology are classics.",
+        "Sees Orthodoxy as integral to Romanian identity while affirming religious freedom under the 1990s democratic order.",
+        "Emphasises a 'philokalic' tradition of prayer descending from Paisius Velichkovsky's revival at Neamț."
+      ],
+      "focuses": [
+        "Rebuilding church life after communism, including thousands of new churches and the People's Salvation Cathedral in Bucharest (consecrated 2018).",
+        "Monastic life, with many monasteries in Moldavia and Bukovina.",
+        "Diaspora parishes for millions of Romanian emigrants in Western Europe.",
+        "Religious education in state schools and social work."
+      ],
+      "practices": [
+        "Byzantine liturgy in Romanian, in use since the 17th–18th centuries (Bucharest Bible, 1688).",
+        "Uses the Revised Julian calendar for fixed feasts (since 1924).",
+        "The painted monasteries of Bukovina, with exterior frescoes, are UNESCO World Heritage sites.",
+        "Led by a Patriarch (since 1925) and a Holy Synod; Patriarch Daniel has served since 2007."
+      ],
+      "influencedBy": [
+        {
+          "name": "Ecumenical Patriarchate of Constantinople",
+          "text": "Recognised the church's autocephaly in 1885.",
+          "traditionId": "ecumenical-patriarchate"
+        },
+        {
+          "name": "Paisius Velichkovsky",
+          "text": "His monastic school at Neamț in the 18th century spread hesychast prayer across the Slavic and Romanian lands."
+        },
+        {
+          "name": "Bulgarian and Serbian Slavonic tradition",
+          "text": "Church Slavonic was the liturgical language of the Romanian lands until the vernacular replaced it."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Romanian Greek Catholic Church",
+          "text": "Created by the 1700 union at Alba Iulia; forcibly absorbed into the Orthodox church in 1948 and restored in 1989–90.",
+          "traditionId": "eastern-catholic"
+        },
+        {
+          "name": "Global Orthodox theology",
+          "text": "Stăniloae's work on the Trinity and deification shaped Orthodox and ecumenical theology."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Paisius Velichkovsky",
+          "role": "18th-century abbot of Neamț and reviver of hesychast prayer.",
+          "personId": "paisius-velichkovsky"
+        },
+        {
+          "name": "Miron Cristea",
+          "role": "First Patriarch of Romania (1925–39)."
+        },
+        {
+          "name": "Justinian Marina",
+          "role": "Patriarch (1948–77) who steered the church under communist rule."
+        },
+        {
+          "name": "Dumitru Stăniloae",
+          "role": "The leading Romanian Orthodox theologian of the 20th century.",
+          "personId": "dumitru-staniloae"
+        },
+        {
+          "name": "Patriarch Daniel",
+          "role": "Patriarch since 2007."
+        }
+      ],
+      "members": {
+        "estimate": 14000000,
+        "year": 2021,
+        "note": "Approximate number of people declaring Orthodox religion in Romania's 2021 census, roughly three-quarters of the population; excludes Moldova and the diaspora."
+      },
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "romania-census-2021",
+        "roberson-eastern-churches",
+        "binns-orthodox-churches",
+        "pew-2017-orthodox"
+      ]
+    },
+    {
+      "id": "bulgarian-orthodox",
+      "tagline": "First Slavic national church, cradle of Slavonic letters and the Cyrillic script.",
+      "coreDoctrines": [
+        "Holds the full Eastern Orthodox faith of the seven Ecumenical Councils.",
+        "Treasures the legacy of Cyril and Methodius and their disciples as the foundation of Slavonic Christianity.",
+        "Was declared schismatic by Constantinople in 1872 for 'phyletism' (organising the church by ethnicity); the schism ended in 1945.",
+        "Left the World Council of Churches in 1998, reflecting conservative suspicion of ecumenism."
+      ],
+      "focuses": [
+        "Preserving Orthodoxy as part of Bulgarian national identity, especially after Ottoman and communist rule.",
+        "Monastic heritage, above all Rila Monastery, founded by John of Rila.",
+        "Restoring church life and unity after the 1992–2012 schism with an alternative synod.",
+        "Rebuilding parish life, religious education and monasteries after the communist period (1944–89)."
+      ],
+      "practices": [
+        "Byzantine liturgy in Church Slavonic and Bulgarian.",
+        "Uses the Revised Julian calendar for fixed feasts (since 1968).",
+        "Led by a Patriarch of Bulgaria and Metropolitan of Sofia; Daniil was elected in 2024.",
+        "Popular feasts such as St George's Day and the Epiphany diving for the cross in rivers."
+      ],
+      "influencedBy": [
+        {
+          "name": "Ecumenical Patriarchate of Constantinople",
+          "text": "Bulgaria received Byzantine Christianity under Khan Boris I in 864–65.",
+          "traditionId": "ecumenical-patriarchate"
+        },
+        {
+          "name": "Cyril and Methodius mission",
+          "text": "Their disciples Clement and Naum, expelled from Moravia, built Slavonic schools at Ohrid and Preslav."
+        },
+        {
+          "name": "Bulgarian national revival",
+          "text": "The 19th-century revival campaigned for the Bulgarian Exarchate, created by Ottoman firman in 1870."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Russian Orthodox Church",
+          "text": "Slavonic books and clergy from Bulgaria helped form the church of Kyivan Rus.",
+          "traditionId": "russian-orthodox"
+        },
+        {
+          "name": "Serbian Orthodox Church",
+          "text": "The Ohrid literary school shaped Slavonic church life in Serbia and Macedonia.",
+          "traditionId": "serbian-orthodox"
+        },
+        {
+          "name": "Slavonic literacy",
+          "text": "The Preslav and Ohrid schools spread the Cyrillic and Glagolitic scripts across the Slavic world."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Boris I",
+          "role": "Ruler who converted Bulgaria to Christianity in the 860s."
+        },
+        {
+          "name": "Cyril and Methodius",
+          "role": "Byzantine missionaries whose disciples brought Slavonic letters to Bulgaria.",
+          "personId": "cyril-and-methodius"
+        },
+        {
+          "name": "Clement of Ohrid",
+          "role": "Disciple of Methodius, bishop and teacher of thousands of Slavonic clergy."
+        },
+        {
+          "name": "John of Rila",
+          "role": "10th-century hermit and Bulgaria's patron saint."
+        },
+        {
+          "name": "Euthymius of Tarnovo",
+          "role": "14th-century patriarch, hesychast and reformer of Slavonic texts."
+        }
+      ],
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "m2-obolensky-byzantine-commonwealth",
+        "m2-dvornik-byzantine-missions",
+        "roberson-eastern-churches"
+      ]
+    },
+    {
+      "id": "georgian-orthodox",
+      "tagline": "Ancient church of St Nino and one of Georgia's most trusted institutions.",
+      "coreDoctrines": [
+        "Holds the full Eastern Orthodox faith of the seven Ecumenical Councils.",
+        "Treasures its conversion through St Nino in the 330s and its tradition of apostolic preaching by Andrew.",
+        "Its autocephaly, dating from Antiochene grants in the early medieval period, was abolished by Russia in 1811, restored in 1917 and recognised by Constantinople in 1990.",
+        "Sees Orthodoxy as inseparable from Georgian language, culture and statehood."
+      ],
+      "focuses": [
+        "National and cultural identity, especially since independence in 1991.",
+        "Monastic revival and church building after the Soviet era.",
+        "Family and demographic concerns, such as the Patriarch's mass baptisms of third and later children since 2008.",
+        "Conservative moral teaching in public debates."
+      ],
+      "practices": [
+        "Byzantine liturgy in Georgian, with distinctive polyphonic chant.",
+        "Keeps the Julian calendar.",
+        "Led by the Catholicos-Patriarch of All Georgia, a title used since the 11th century; Ilia II was enthroned in 1977.",
+        "The grapevine cross of St Nino is the church's emblem; Svetitskhoveli Cathedral in Mtskheta is its mother church."
+      ],
+      "influencedBy": [
+        {
+          "name": "The Early Church",
+          "text": "Georgia received Christianity under King Mirian III through St Nino.",
+          "traditionId": "early-church"
+        },
+        {
+          "name": "Greek Orthodox Patriarchate of Antioch",
+          "text": "Georgia's church was originally linked to Antioch, which recognised its autonomy.",
+          "traditionId": "antiochian-orthodox"
+        },
+        {
+          "name": "Russian Empire",
+          "text": "Annexation led to Russian control of the church (1811–1917) and Russification of church life."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Monasticism abroad",
+          "text": "Georgian monks founded Iviron on Mount Athos and the Monastery of the Cross in Jerusalem."
+        },
+        {
+          "name": "Georgian literature",
+          "text": "Georgian script and literature developed largely through Bible translation and hagiography."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Nino of Georgia",
+          "role": "Woman evangelist who converted the royal house in the 4th century.",
+          "personId": "nino-of-georgia"
+        },
+        {
+          "name": "Mirian III",
+          "role": "King of Iberia, first Christian ruler of Georgia."
+        },
+        {
+          "name": "David IV the Builder",
+          "role": "12th-century king who founded Gelati Monastery and reformed the church."
+        },
+        {
+          "name": "Ilia II",
+          "role": "Catholicos-Patriarch enthroned in 1977, central to the church's post-Soviet revival."
+        }
+      ],
+      "members": {
+        "estimate": 3100000,
+        "year": 2014,
+        "note": "About 83% of Georgia's population declared Orthodox in the 2014 census of the National Statistics Office of Georgia."
+      },
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "d2-geostat-census-2014",
+        "roberson-eastern-churches",
+        "binns-orthodox-churches"
+      ]
+    },
+    {
+      "id": "cypriot-orthodox",
+      "tagline": "Apostolic church of Barnabas, autocephalous since the Council of Ephesus.",
+      "coreDoctrines": [
+        "Holds the full Eastern Orthodox faith of the seven Ecumenical Councils.",
+        "Traces its foundation to the apostles Paul and Barnabas (Acts 13).",
+        "Its independence from Antioch was confirmed by canon 8 of the Council of Ephesus (431).",
+        "Emperor Zeno confirmed its autocephaly in 488 after Barnabas's relics were reportedly found."
+      ],
+      "focuses": [
+        "Leadership of the Greek Cypriot community, inherited from the Ottoman role of the Archbishop as ethnarch.",
+        "Care for churches and monasteries in the north, inaccessible or damaged since the Turkish invasion of 1974.",
+        "Monastic centres such as Kykkos Monastery.",
+        "Education and charitable work, supported by substantial church property."
+      ],
+      "practices": [
+        "Byzantine liturgy in Greek.",
+        "The Archbishop keeps imperial privileges granted by Zeno: signing in red ink, carrying a sceptre and wearing a purple cloak.",
+        "Uses the Revised Julian calendar for fixed feasts.",
+        "The Archbishop of Nova Justiniana and All Cyprus is elected with lay participation."
+      ],
+      "influencedBy": [
+        {
+          "name": "The Early Church",
+          "text": "Cyprus was evangelised in the apostolic age.",
+          "traditionId": "early-church"
+        },
+        {
+          "name": "Ecumenical Patriarchate of Constantinople",
+          "text": "Shares Greek Byzantine liturgy and theology and close ties with Constantinople.",
+          "traditionId": "ecumenical-patriarchate"
+        },
+        {
+          "name": "Latin rule (1191–1571)",
+          "text": "Under Lusignan and Venetian rule, Latin bishops subordinated the Orthodox hierarchy, a memory that shaped Cypriot identity."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Cypriot nationalism",
+          "text": "Archbishop Makarios III led the struggle for independence and became the republic's first president in 1960."
+        },
+        {
+          "name": "Orthodox Church of Ukraine",
+          "text": "Archbishop Chrysostomos II recognised the OCU in 2020, a decision that divided the Cypriot synod.",
+          "traditionId": "orthodox-church-of-ukraine"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Barnabas",
+          "role": "Apostle and native of Cyprus, venerated as founder of the church."
+        },
+        {
+          "name": "Epiphanius of Salamis",
+          "role": "4th-century bishop and anti-heretical writer."
+        },
+        {
+          "name": "Makarios III",
+          "role": "Archbishop (1950–77) and first President of Cyprus."
+        },
+        {
+          "name": "Chrysostomos II",
+          "role": "Archbishop from 2006 until his death in 2022."
+        },
+        {
+          "name": "Georgios III",
+          "role": "Archbishop since December 2022."
+        }
+      ],
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "roberson-eastern-churches",
+        "binns-orthodox-churches",
+        "tanner-decrees"
+      ]
+    },
+    {
+      "id": "polish-orthodox",
+      "tagline": "Minority Orthodox church of Poland's east, rooted among Belarusians, Ukrainians and Lemkos.",
+      "coreDoctrines": [
+        "Holds the full Eastern Orthodox faith of the seven Ecumenical Councils.",
+        "Received autocephaly from Constantinople in 1924, arguing that Kyiv's transfer to Moscow in 1686 had been uncanonical.",
+        "Moscow, which had rejected the 1924 grant, issued its own grant of autocephaly in 1948.",
+        "Has declined to recognise the Orthodox Church of Ukraine."
+      ],
+      "focuses": [
+        "Preserving the faith of national minorities in a predominantly Catholic country.",
+        "Pilgrimage and spiritual life centred on the Holy Mountain of Grabarka.",
+        "Theological education at the Christian Theological Academy in Warsaw.",
+        "Remembrance of 20th-century suffering, including the destruction of churches in the 1930s and the deportations of 1947."
+      ],
+      "practices": [
+        "Byzantine liturgy in Church Slavonic, with growing use of Polish.",
+        "Keeps the Julian calendar.",
+        "The annual pilgrimage to Grabarka on the feast of the Transfiguration (19 August), where pilgrims leave crosses.",
+        "Led by the Metropolitan of Warsaw and All Poland; Metropolitan Sawa (Hrycuniak) has served since 1998."
+      ],
+      "influencedBy": [
+        {
+          "name": "Russian Orthodox Church",
+          "text": "Most of its dioceses belonged to the Russian church before 1918.",
+          "traditionId": "russian-orthodox"
+        },
+        {
+          "name": "Ecumenical Patriarchate of Constantinople",
+          "text": "Granted its autocephaly in 1924.",
+          "traditionId": "ecumenical-patriarchate"
+        },
+        {
+          "name": "Orthodox of the Grand Duchy of Lithuania",
+          "text": "It continues the Orthodox tradition of the old Polish–Lithuanian Commonwealth."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Orthodox of Czech Lands and Slovakia",
+          "text": "Its bishops helped establish the hierarchy of the Orthodox Church of the Czech Lands and Slovakia after 1945."
+        },
+        {
+          "name": "Belarusian and Lemko culture in Poland",
+          "text": "Parishes are centres of minority language and culture in Podlasie and elsewhere."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Dionizy (Waledyński)",
+          "role": "Metropolitan of Warsaw who led the church to autocephaly in 1924."
+        },
+        {
+          "name": "Sawa (Hrycuniak)",
+          "role": "Metropolitan of Warsaw and All Poland since 1998."
+        }
+      ],
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "roberson-eastern-churches",
+        "binns-orthodox-churches",
+        "parry-blackwell-eastern"
+      ]
+    },
+    {
+      "id": "albanian-orthodox",
+      "tagline": "Church rebuilt from near-extinction after Albania's state atheism.",
+      "coreDoctrines": [
+        "Holds the full Eastern Orthodox faith of the seven Ecumenical Councils.",
+        "Proclaimed autocephaly at the Congress of Berat (1922), recognised by Constantinople in 1937.",
+        "Stresses Albanian-language worship as part of its national and pastoral identity.",
+        "Under Anastasios developed a theology of mission, reconciliation and interfaith respect in a Muslim-majority society."
+      ],
+      "focuses": [
+        "Rebuilding parishes, churches and clergy after the total ban on religion (1967–90).",
+        "Education, healthcare and social services open to all Albanians.",
+        "Peaceful coexistence with Muslims and Catholics.",
+        "Training a new generation of clergy at the Resurrection of Christ Theological Academy at Shën Vlash near Durrës."
+      ],
+      "practices": [
+        "Byzantine liturgy in Albanian and Greek.",
+        "Uses the Revised Julian calendar for fixed feasts.",
+        "The Resurrection Cathedral in Tirana (consecrated 2014) symbolises the church's revival.",
+        "Led by the Archbishop of Tirana, Durrës and All Albania with the Holy Synod."
+      ],
+      "influencedBy": [
+        {
+          "name": "Ecumenical Patriarchate of Constantinople",
+          "text": "Albania's Orthodox had been under Constantinople; it recognised autocephaly in 1937 and sent Anastasios in 1991.",
+          "traditionId": "ecumenical-patriarchate"
+        },
+        {
+          "name": "Albanian Orthodox Church in America",
+          "text": "Fan Noli's Boston-based church (1908) pioneered the Albanian-language liturgy."
+        },
+        {
+          "name": "Church of Greece",
+          "text": "Greek theological training and missionary experience shaped its post-1992 revival.",
+          "traditionId": "church-of-greece"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Orthodox mission theology",
+          "text": "Anastasios's experience in Africa and Albania influenced Orthodox thinking on mission worldwide."
+        },
+        {
+          "name": "Albanian national culture",
+          "text": "The vernacular liturgy contributed to the Albanian national awakening in the early 20th century."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Fan Noli",
+          "role": "Priest, statesman and translator who led the Albanian Orthodox movement."
+        },
+        {
+          "name": "Kristofor Kisi",
+          "role": "First Archbishop after recognition of autocephaly in 1937."
+        },
+        {
+          "name": "Anastasios (Yannoulatos)",
+          "role": "Archbishop from 1992 until his death in 2025, who rebuilt the church."
+        },
+        {
+          "name": "Joan (Pelushi)",
+          "role": "Archbishop elected in 2025."
+        }
+      ],
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "roberson-eastern-churches",
+        "binns-orthodox-churches",
+        "parry-blackwell-eastern"
+      ]
+    },
+    {
+      "id": "orthodox-church-in-america",
+      "tagline": "English-speaking American Orthodox church grown from the Russian mission to Alaska.",
+      "coreDoctrines": [
+        "Holds the full Eastern Orthodox faith of the seven Ecumenical Councils.",
+        "Received autocephaly from the Moscow Patriarchate in 1970; Constantinople and most other churches have not recognised it.",
+        "Holds that the Orthodox in North America should form one local, territorial church rather than ethnic jurisdictions.",
+        "Its liturgical theology, shaped by Alexander Schmemann, centres the Church on the Eucharist."
+      ],
+      "focuses": [
+        "Mission to English-speaking Americans and converts.",
+        "Theological education at St Vladimir's (founded 1938) and St Tikhon's seminaries.",
+        "The goal of a unified American Orthodox church.",
+        "Liturgical renewal and frequent Communion."
+      ],
+      "practices": [
+        "Byzantine liturgy mainly in English, with some Church Slavonic, Romanian, Albanian and Spanish.",
+        "Most parishes use the Revised Julian calendar for fixed feasts.",
+        "Led by a Metropolitan of All America and Canada and a Holy Synod.",
+        "Includes ethnic dioceses (Romanian, Albanian, Bulgarian) alongside territorial ones."
+      ],
+      "influencedBy": [
+        {
+          "name": "Russian Orthodox Church",
+          "text": "Valaam monks reached Kodiak in 1794, and the Russian mission diocese grew into the OCA.",
+          "traditionId": "russian-orthodox"
+        },
+        {
+          "name": "Carpatho-Rusyn Greek Catholics",
+          "text": "Alexis Toth led thousands of Rusyn Greek Catholics into Orthodoxy from 1891."
+        },
+        {
+          "name": "Russian émigré theology",
+          "text": "Paris-trained theologians such as Schmemann and Meyendorff brought the 'Paris school' to America."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "American convert Orthodoxy",
+          "text": "Its English-language life and seminaries attracted many American converts."
+        },
+        {
+          "name": "Liturgical theology",
+          "text": "Schmemann's 'For the Life of the World' shaped Orthodox and Western liturgical thought."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Herman of Alaska",
+          "role": "Valaam monk in Alaska; in 1970 the first saint canonised in America."
+        },
+        {
+          "name": "Innocent (Veniaminov)",
+          "role": "Missionary bishop and translator in Alaska, later Metropolitan of Moscow."
+        },
+        {
+          "name": "Tikhon of Moscow",
+          "role": "Archbishop in America (1898–1907) before becoming Patriarch.",
+          "personId": "tikhon-of-moscow"
+        },
+        {
+          "name": "Alexander Schmemann",
+          "role": "Dean of St Vladimir's Seminary and liturgical theologian."
+        },
+        {
+          "name": "Alexis Toth",
+          "role": "Former Greek Catholic priest who led many Rusyns into Orthodoxy."
+        }
+      ],
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "erickson-orthodox-america",
+        "m2-oleksa-orthodox-alaska",
+        "roberson-eastern-churches"
+      ]
+    },
+    {
+      "id": "orthodox-church-of-ukraine",
+      "tagline": "Ukrainian autocephalous church recognised by Constantinople in 2019.",
+      "coreDoctrines": [
+        "Holds the full Eastern Orthodox faith of the seven Ecumenical Councils.",
+        "Holds, with Constantinople, that Kyiv was never canonically transferred to Moscow and that Constantinople could grant autocephaly.",
+        "Its Tomos (January 2019) makes it autocephalous but leaves Constantinople the preparation of the holy myron and certain appeals.",
+        "Rejects the 'Russian world' ideology as incompatible with Orthodox teaching."
+      ],
+      "focuses": [
+        "Ukrainian national and spiritual independence, especially since Russia's full-scale invasion in 2022.",
+        "Receiving parishes that leave the Moscow-linked Ukrainian Orthodox Church.",
+        "Ukrainian-language worship and church life.",
+        "Pastoral care of soldiers, refugees and victims of war."
+      ],
+      "practices": [
+        "Byzantine liturgy in Ukrainian, with some Church Slavonic.",
+        "Moved to the Revised Julian calendar for fixed feasts on 1 September 2023, so Christmas falls on 25 December.",
+        "Led by the Metropolitan of Kyiv and All Ukraine; Epiphanius (Dumenko) was elected in 2018.",
+        "Recognised by Constantinople, Alexandria, Greece and Cyprus; Moscow and most other churches do not recognise it."
+      ],
+      "influencedBy": [
+        {
+          "name": "Ecumenical Patriarchate of Constantinople",
+          "text": "Convened the 2018 unification council and issued the Tomos of autocephaly.",
+          "traditionId": "ecumenical-patriarchate"
+        },
+        {
+          "name": "Russian Orthodox Church",
+          "text": "Most of its clergy and liturgical tradition come from the Russian synodal era.",
+          "traditionId": "russian-orthodox"
+        },
+        {
+          "name": "Ukrainian Autocephalous Orthodox Church",
+          "text": "Autocephalist movements of 1921, 1942 and 1990 preceded it and merged into it."
+        },
+        {
+          "name": "Petro Mohyla",
+          "text": "The 17th-century Metropolitan of Kyiv is honoured as a model of Kyivan Orthodox learning."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Debate on autocephaly",
+          "text": "Its creation provoked a split between Moscow and Constantinople and a wider argument over who may grant autocephaly."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Vladimir (Volodymyr) the Great",
+          "role": "Prince of Kyiv whose baptism (988) Ukrainians claim as their own origin.",
+          "personId": "vladimir-the-great"
+        },
+        {
+          "name": "Bartholomew I",
+          "role": "Ecumenical Patriarch who signed the Tomos in 2019."
+        },
+        {
+          "name": "Epiphanius (Dumenko)",
+          "role": "Metropolitan of Kyiv and All Ukraine since 2018."
+        },
+        {
+          "name": "Filaret (Denysenko)",
+          "role": "Former head of the Kyiv Patriarchate who supported union but later withdrew."
+        }
+      ],
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "denysenko-orthodox-ukraine",
+        "w6-plokhy-russo-ukrainian-war",
+        "russian-world-declaration-2022"
+      ]
+    },
+    {
+      "id": "old-believers",
+      "tagline": "Russian Orthodox who kept the pre-1650s rites after Nikon's reforms.",
+      "coreDoctrines": [
+        "Hold that the pre-Nikonian rites and books, inherited from Muscovite tradition, preserve the true Orthodox faith unchanged.",
+        "Saw Nikon's reforms and the anathemas of the 1666–67 councils as apostasy; some interpreted them as signs of the end times.",
+        "Priestly groups (popovtsy) retain bishops and the Eucharist; the Belokrinitsa hierarchy dates from 1846.",
+        "Priestless groups (bezpopovtsy) hold that valid priesthood ended, and practise lay-led worship without the Eucharist."
+      ],
+      "focuses": [
+        "Faithful preservation of liturgical forms, chant, icons and manuscripts.",
+        "Communal discipline and separation from 'the world'.",
+        "Memory of martyrs such as Archpriest Avvakum and Boyarina Morozova.",
+        "Economic self-reliance; Old Believer merchants and industrialists were prominent in 19th-century Russia."
+      ],
+      "practices": [
+        "Sign of the cross with two fingers and a double, not triple, Alleluia.",
+        "Use of pre-reform service books, znamenny chant and the eight-pointed cross.",
+        "Baptism by full triple immersion; men often wear beards.",
+        "Communities in Russia, the Baltic states, Romania (Lipovans) and in the Americas and Australia.",
+        "Some are in communion with the Moscow Patriarchate under the Edinoverie arrangement of 1800."
+      ],
+      "influencedBy": [
+        {
+          "name": "Russian Orthodox Church",
+          "text": "They continue the Muscovite church tradition before the 1650s.",
+          "traditionId": "russian-orthodox"
+        },
+        {
+          "name": "Stoglav Council (1551)",
+          "text": "This Muscovite council endorsed practices such as the two-finger sign that the Old Believers defend."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Russian Orthodox Church",
+          "text": "It lifted the anathemas on the old rites in 1971 and tolerates them within the Edinoverie.",
+          "traditionId": "russian-orthodox"
+        },
+        {
+          "name": "Russian culture and art",
+          "text": "Old Believer collectors preserved many icons and manuscripts and patronised Russian art."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Avvakum Petrov",
+          "role": "Archpriest and author of an autobiographical Life, burned in 1682."
+        },
+        {
+          "name": "Feodosia Morozova",
+          "role": "Noblewoman who died in prison in 1675, painted by Surikov."
+        },
+        {
+          "name": "Andrei Denisov",
+          "role": "Leader of the priestless Vyg community in northern Russia."
+        },
+        {
+          "name": "Ambrose of Belokrinitsa",
+          "role": "Former Metropolitan of Sarajevo whose joining in 1846 gave priestly Old Believers a hierarchy."
+        }
+      ],
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "crummey-old-believers",
+        "pospielovsky-russian-church",
+        "odcc"
+      ]
+    },
+    {
+      "id": "russian-orthodox-outside-russia",
+      "tagline": "Émigré Russian Orthodox church, self-governing within the Moscow Patriarchate since 2007.",
+      "coreDoctrines": [
+        "Holds the full Eastern Orthodox faith of the seven Ecumenical Councils.",
+        "Originated under Patriarch Tikhon's 1920 decree allowing cut-off dioceses to govern themselves.",
+        "Rejected Metropolitan Sergius's 1927 declaration of loyalty to the Soviet state.",
+        "Canonised the New Martyrs and Confessors of Russia, including the imperial family, in 1981.",
+        "Since the 2007 Act of Canonical Communion it is a self-governing part of the Russian Orthodox Church."
+      ],
+      "focuses": [
+        "Preserving Russian Orthodox tradition in emigration.",
+        "Strict liturgical and ascetic traditionalism.",
+        "Monastic life, especially Holy Trinity Monastery in Jordanville, New York.",
+        "Mission among Western converts in English and other languages."
+      ],
+      "practices": [
+        "Keeps the Julian calendar.",
+        "Byzantine liturgy in Church Slavonic, with English, German and other languages in the diaspora.",
+        "Governed by a Synod of Bishops based in New York and led by a First Hierarch.",
+        "Venerates John Maximovitch of Shanghai and San Francisco (canonised 1994)."
+      ],
+      "influencedBy": [
+        {
+          "name": "Russian Orthodox Church",
+          "text": "Its bishops and tradition come from the pre-revolutionary Russian church.",
+          "traditionId": "russian-orthodox"
+        },
+        {
+          "name": "White emigration",
+          "text": "Its founders were émigré bishops gathered at Sremski Karlovci in Serbia in 1920–21."
+        },
+        {
+          "name": "Serbian Orthodox Church",
+          "text": "The Serbian church hosted its synod between the wars.",
+          "traditionId": "serbian-orthodox"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Western convert Orthodoxy",
+          "text": "Writers such as Seraphim Rose drew many Western converts to traditional Orthodoxy."
+        },
+        {
+          "name": "Russian Orthodox Church",
+          "text": "Its canonisation of the New Martyrs influenced the Moscow Patriarchate's own canonisation in 2000.",
+          "traditionId": "russian-orthodox"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Anthony (Khrapovitsky)",
+          "role": "First head of the synod abroad (1920–36)."
+        },
+        {
+          "name": "John (Maximovitch)",
+          "role": "Archbishop of Shanghai and San Francisco, canonised in 1994."
+        },
+        {
+          "name": "Seraphim Rose",
+          "role": "American convert monk and writer of the Platina monastery."
+        },
+        {
+          "name": "Laurus (Škurla)",
+          "role": "First Hierarch who signed the 2007 Act of Canonical Communion."
+        }
+      ],
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "erickson-orthodox-america",
+        "pospielovsky-russian-church",
+        "roberson-eastern-churches"
+      ]
+    },
+    {
+      "id": "oriental-orthodox",
+      "tagline": "Ancient non-Chalcedonian churches confessing one incarnate nature of God the Word.",
+      "coreDoctrines": [
+        "Accept the first three Ecumenical Councils (Nicaea 325, Constantinople 381, Ephesus 431) and reject Chalcedon (451).",
+        "Confess Christ's single united divine-human nature, following Cyril's formula 'one incarnate nature of God the Word' (miaphysitism).",
+        "Reject both Nestorianism and the Eutychian view that Christ's humanity was absorbed into his divinity.",
+        "Joint statements with the Eastern Orthodox (1989–90) and Catholic common declarations agree that the differences are largely terminological.",
+        "Hold Holy Tradition and the Fathers as authoritative alongside Scripture."
+      ],
+      "focuses": [
+        "Survival of ancient Christian communities in Egypt, Syria, Armenia, Ethiopia, Eritrea and India.",
+        "Monasticism and fasting as central disciplines.",
+        "Preservation of ancient liturgical languages: Coptic, Syriac, Classical Armenian and Ge'ez.",
+        "Ecumenical dialogue with Eastern Orthodox and Catholics."
+      ],
+      "practices": [
+        "Six autocephalous churches (Coptic, Syriac, Armenian, Ethiopian, Eritrean and Malankara) in communion but without a single head.",
+        "Ancient liturgies such as those of St Basil, St James and the Armenian Badarak.",
+        "Infants receive baptism, chrismation and Communion together.",
+        "Strict and frequent fasting, often abstaining from all animal products."
+      ],
+      "influencedBy": [
+        {
+          "name": "The Early Church",
+          "text": "They see themselves as the continuation of the pre-Chalcedonian Church.",
+          "traditionId": "early-church"
+        },
+        {
+          "name": "Cyril of Alexandria",
+          "text": "His Christology is the foundation of their teaching."
+        },
+        {
+          "name": "Severus of Antioch",
+          "text": "The 6th-century patriarch was the leading theologian of the anti-Chalcedonian movement."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Malankara Orthodox Syrian Church",
+          "text": "Syriac Orthodox bishop Gregorios Abdul Jaleel's arrival in 1665 linked Indian St Thomas Christians to the Syriac Orthodox Church.",
+          "traditionId": "malankara-orthodox"
+        },
+        {
+          "name": "Eastern Catholic Churches",
+          "text": "Coptic, Syriac, Armenian and Ethiopian Catholic churches separated from them.",
+          "traditionId": "eastern-catholic"
+        },
+        {
+          "name": "Modern ecumenical Christology",
+          "text": "Their dialogues helped clarify that Chalcedonians and non-Chalcedonians share the same faith in substance."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Cyril of Alexandria",
+          "role": "Theologian of the one incarnate nature.",
+          "personId": "cyril-of-alexandria"
+        },
+        {
+          "name": "Dioscorus of Alexandria",
+          "role": "Patriarch deposed at Chalcedon, honoured as a saint by the Copts.",
+          "personId": "dioscorus"
+        },
+        {
+          "name": "Severus of Antioch",
+          "role": "Leading 6th-century anti-Chalcedonian theologian.",
+          "personId": "severus-of-antioch"
+        },
+        {
+          "name": "Jacob Baradaeus",
+          "role": "6th-century bishop who ordained a separate hierarchy across Syria."
+        }
+      ],
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "Kerala's Malankara Orthodox Syrian Church and Jacobite Syrian Christian Church, heirs of the St Thomas Christians, are the main Oriental Orthodox churches in India, alongside a small Armenian presence in Kolkata and Chennai.",
+      "sources": [
+        "meyendorff-imperial-unity",
+        "roberson-eastern-churches",
+        "oriental-orthodox-dialogue-1990",
+        "price-gaddis-chalcedon"
+      ]
+    },
+    {
+      "id": "coptic-orthodox",
+      "tagline": "Egypt's ancient church of St Mark, mother of monasticism.",
+      "coreDoctrines": [
+        "Holds the miaphysite Christology of Cyril of Alexandria and rejects the Council of Chalcedon.",
+        "Claims apostolic foundation by Mark the Evangelist; its head is the Pope of Alexandria.",
+        "Accepts the first three Ecumenical Councils and seven sacraments.",
+        "Teaches that salvation is received through faith, the sacraments and a life of repentance and good works.",
+        "Venerates the martyrs and the Virgin Mary; Marian apparitions such as Zeitoun (1968) are widely honoured."
+      ],
+      "focuses": [
+        "The monastic heritage of Antony, Pachomius and the Desert Fathers, renewed by a 20th-century monastic revival.",
+        "Sunday schools and religious education, from Habib Girgis's movement (1918).",
+        "Martyrdom and endurance amid sectarian violence in Egypt and Libya.",
+        "Care for a growing worldwide diaspora."
+      ],
+      "practices": [
+        "Liturgies of St Basil, St Gregory and St Cyril in Coptic and Arabic, with cymbals and triangles.",
+        "Uses the Coptic calendar, counting years from the Era of the Martyrs (AD 284).",
+        "Very extensive fasting: over 200 days a year without animal products.",
+        "Many Copts bear a small cross tattoo on the wrist.",
+        "Pope Shenouda III (1971–2012) and Pope Tawadros II (since 2012) have led a period of expansion."
+      ],
+      "influencedBy": [
+        {
+          "name": "The Early Church",
+          "text": "Alexandria was a major centre of the early Church.",
+          "traditionId": "early-church"
+        },
+        {
+          "name": "Alexandrian school",
+          "text": "Clement, Origen and the catechetical school shaped Alexandrian theology."
+        },
+        {
+          "name": "Desert Fathers",
+          "text": "Egyptian monasticism started with Antony and Pachomius in the 4th century."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Ethiopian Orthodox Tewahedo Church",
+          "text": "Ethiopia's metropolitans were Egyptian monks sent by Alexandria until 1959.",
+          "traditionId": "ethiopian-orthodox-tewahedo"
+        },
+        {
+          "name": "Coptic Catholic Church",
+          "text": "A Catholic branch separated in the 18th century.",
+          "traditionId": "coptic-catholic"
+        },
+        {
+          "name": "Western monasticism",
+          "text": "Through John Cassian and others, Egyptian monastic teaching shaped Benedictine and wider Western monastic life."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Mark the Evangelist",
+          "role": "Traditional founder and first bishop of Alexandria."
+        },
+        {
+          "name": "Athanasius of Alexandria",
+          "role": "4th-century patriarch and defender of Nicaea.",
+          "personId": "athanasius"
+        },
+        {
+          "name": "Antony of Egypt",
+          "role": "Father of Christian monasticism.",
+          "personId": "antony-of-egypt"
+        },
+        {
+          "name": "Cyril of Alexandria",
+          "role": "Theologian of the Council of Ephesus.",
+          "personId": "cyril-of-alexandria"
+        },
+        {
+          "name": "Shenouda III",
+          "role": "Pope (1971–2012) who expanded the church's education and diaspora."
+        }
+      ],
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "atiya-eastern-christianity",
+        "roberson-eastern-churches",
+        "mcguckin-cyril"
+      ]
+    },
+    {
+      "id": "ethiopian-orthodox-tewahedo",
+      "tagline": "Africa's ancient Christian kingdom church, keeping Ge'ez worship and the tabot.",
+      "coreDoctrines": [
+        "Tewahedo ('made one') expresses the miaphysite faith in the one united nature of Christ.",
+        "Accepts the first three Ecumenical Councils and rejects Chalcedon.",
+        "Has the broadest biblical canon in Christianity, often counted as 81 books, including 1 Enoch and Jubilees.",
+        "Keeps some Old Testament observances, such as both Sabbath and Sunday, circumcision and dietary laws, as part of its tradition.",
+        "Honours the Virgin Mary and the saints intensely, with many monthly feasts."
+      ],
+      "focuses": [
+        "Worship and chant, with the zema chant ascribed to St Yared.",
+        "Monasticism and church schools that train priests and debtera (lay scholar-singers).",
+        "Ethiopian national and cultural identity.",
+        "Fasting and pilgrimage, especially to Lalibela and Aksum."
+      ],
+      "practices": [
+        "Every church has a tabot, a consecrated altar tablet representing the Ark of the Covenant.",
+        "Liturgy in Ge'ez, with increasing use of Amharic and other languages.",
+        "Fasts about 180–250 days a year, depending on the person's status.",
+        "Great festivals such as Timket (Epiphany) and Meskel (the Finding of the True Cross).",
+        "Autocephalous under its own Patriarch since 1959; Abune Mathias has served since 2013."
+      ],
+      "influencedBy": [
+        {
+          "name": "Coptic Orthodox Church",
+          "text": "Its bishops came from Egypt from the 4th century until 1959.",
+          "traditionId": "coptic-orthodox"
+        },
+        {
+          "name": "The Nine Saints",
+          "text": "Syrian monks of the late 5th century spread monasticism and translated texts."
+        },
+        {
+          "name": "Kebra Nagast",
+          "text": "The 14th-century 'Glory of the Kings' links the Solomonic dynasty and the Ark to Ethiopia."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Eritrean Orthodox Tewahedo Church",
+          "text": "Became autocephalous in 1993 after Eritrean independence.",
+          "traditionId": "eritrean-orthodox-tewahedo"
+        },
+        {
+          "name": "Ethiopianism",
+          "text": "Its antiquity inspired African Christian independence movements and later Rastafari."
+        },
+        {
+          "name": "Ethiopian Catholic Church",
+          "text": "A Catholic branch of Ge'ez rite separated from it.",
+          "traditionId": "ethiopian-eritrean-catholic"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Frumentius",
+          "role": "First bishop of Aksum, consecrated by Athanasius.",
+          "personId": "frumentius"
+        },
+        {
+          "name": "Ezana of Aksum",
+          "role": "King who adopted Christianity in the 4th century.",
+          "personId": "ezana-of-aksum"
+        },
+        {
+          "name": "Yared",
+          "role": "6th-century composer of Ethiopian sacred chant.",
+          "personId": "saint-yared"
+        },
+        {
+          "name": "Zara Yaqob",
+          "role": "15th-century emperor and church reformer."
+        },
+        {
+          "name": "Abune Basilios",
+          "role": "First Ethiopian-born Patriarch (1959)."
+        }
+      ],
+      "members": {
+        "estimate": 32100000,
+        "year": 2007,
+        "note": "About 43.5% of Ethiopia's population declared Orthodox in the 2007 national census; later surveys suggest a lower share."
+      },
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "binns-ethiopian-church",
+        "cowley-ethiopian-canon",
+        "ethiopia-census-2007",
+        "m2-tamrat-church-state"
+      ]
+    },
+    {
+      "id": "armenian-apostolic",
+      "tagline": "Church of the first Christian nation and of the Armenian people worldwide.",
+      "coreDoctrines": [
+        "Holds the miaphysite Christology of Cyril and does not accept the Council of Chalcedon, a position settled at councils of Dvin from 506.",
+        "Claims apostolic foundation by Thaddeus and Bartholomew, and national conversion under Gregory the Illuminator.",
+        "Accepts the first three Ecumenical Councils and seven sacraments.",
+        "Canonised the victims of the 1915 Armenian Genocide as martyrs in 2015."
+      ],
+      "focuses": [
+        "Preservation of Armenian identity, language and culture, especially in the diaspora.",
+        "Remembrance of the genocide and survival of Armenian communities.",
+        "Patristic and literary heritage, from Mesrop Mashtots to Gregory of Narek.",
+        "Ecumenical relations with Catholics and other Orthodox."
+      ],
+      "practices": [
+        "The Badarak (Divine Liturgy) in Classical Armenian, using unleavened bread and unmixed wine.",
+        "Celebrates Christmas and Theophany together on 6 January.",
+        "Mother See at Holy Etchmiadzin, led by the Catholicos of All Armenians, with a second Catholicosate of Cilicia in Antelias, Lebanon.",
+        "Patriarchates in Jerusalem and Constantinople; the madagh (blessed sacrificial meal) and carved khachkar crosses.",
+        "Married priests and celibate vardapets (doctors of the church), from whom bishops are chosen."
+      ],
+      "influencedBy": [
+        {
+          "name": "The Early Church",
+          "text": "Christianity reached Armenia early and became the royal faith under Tiridates III.",
+          "traditionId": "early-church"
+        },
+        {
+          "name": "Syriac Christianity",
+          "text": "Early Armenian liturgy and literature drew on Syriac and Greek traditions."
+        },
+        {
+          "name": "Battle of Avarayr (451)",
+          "text": "The defence of Christianity against Persian Zoroastrianism became a defining national memory."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Armenian Catholicosate of Cilicia",
+          "text": "The Cilician see continued as a separate catholicosate after 1441.",
+          "traditionId": "armenian-catholicosate-cilicia"
+        },
+        {
+          "name": "Armenian Catholic Church",
+          "text": "A Catholic branch formed in 1742.",
+          "traditionId": "armenian-catholic"
+        },
+        {
+          "name": "Armenian literature",
+          "text": "The alphabet invented by Mesrop Mashtots for Bible translation founded Armenian letters."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Gregory the Illuminator",
+          "role": "Evangelist of Armenia and first Catholicos.",
+          "personId": "gregory-the-illuminator"
+        },
+        {
+          "name": "Mesrop Mashtots",
+          "role": "Inventor of the Armenian alphabet.",
+          "personId": "mesrop-mashtots"
+        },
+        {
+          "name": "Gregory of Narek",
+          "role": "10th-century mystic poet, declared a Doctor of the Church by Pope Francis in 2015."
+        },
+        {
+          "name": "Nerses Shnorhali",
+          "role": "12th-century Catholicos, hymn-writer and ecumenist."
+        },
+        {
+          "name": "Karekin II",
+          "role": "Catholicos of All Armenians since 1999."
+        }
+      ],
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "A small but historic Armenian community has churches in Kolkata (Holy Nazareth, built 1724) and Chennai (St Mary's, 1772), and the Armenian College and Philanthropic Academy in Kolkata (1821).",
+      "sources": [
+        "agathangelos-history",
+        "roberson-eastern-churches",
+        "atiya-eastern-christianity"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "d2-geostat-census-2014",
+      "title": "2014 General Population Census: Main Results",
+      "author": "National Statistics Office of Georgia (Geostat)",
+      "year": 2016,
+      "kind": "data",
+      "url": "https://www.geostat.ge/en"
+    }
+  ]
+}

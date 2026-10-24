@@ -6,6 +6,12 @@ import { FAMILIES, REGION_LABEL, formatYear, inkTone } from '../data/families';
 import { Icon } from '../components/Icon';
 import { BookmarkButton, BulletList, CompareButton, CountUp, EntityChips, EntityLink, PageHeader, Section, Sources } from '../components/ui';
 import NotFound from './NotFound';
+import { L } from '../data/missions';
+import { bigNumber } from '../data/denoms';
+import { AxisChips } from './Denominations';
+import { ListCard } from './MissionDetail';
+import { GraphFlow, type GEdge, type GNode } from '../viz/GraphFlow';
+import { Link, useNavigate } from 'react-router-dom';
 
 export default function TraditionDetail() {
   const { id = '' } = useParams();
@@ -18,6 +24,7 @@ export default function TraditionDetail() {
   const people = a.peopleByTradition.get(t.id) ?? [];
   const positions = a.positions.filter((p) => p.traditionIds.includes(t.id));
   const events = a.events.filter((e) => e.traditionIds.includes(t.id));
+  const dp = a.profileOf.get(t.id);
 
   return (
     <div>
@@ -55,6 +62,8 @@ export default function TraditionDetail() {
           <div className="text-sm font-semibold leading-snug">{t.status}</div>
         </div>
       </div>
+
+      {dp && <ProfileBlock t={t} />}
 
       <div className="grid gap-8 lg:grid-cols-[1fr_320px]">
         <div>
@@ -97,6 +106,72 @@ export default function TraditionDetail() {
         </aside>
       </div>
       <Sources ids={t.sources} />
+    </div>
+  );
+}
+
+/** Core doctrines, focus, influences and the doctrine "dials" for a tradition. */
+function ProfileBlock({ t }: { t: Tradition }) {
+  const a = useAtlas();
+  const navigate = useNavigate();
+  const p = a.profileOf.get(t.id)!;
+  const f = FAMILIES[t.family];
+  const nodes: GNode[] = [{ id: t.id, label: t.name, sub: L('This church', 'இந்தச் சபை'), colour: f.colour }];
+  const edges: GEdge[] = [];
+  const add = (x: { traditionId?: string; name: string; text: string }, i: number, dir: 'in' | 'out') => {
+    const id = x.traditionId ?? `${dir}${i}`;
+    const tt = x.traditionId ? a.get<Tradition>('tradition', x.traditionId) : undefined;
+    if (!nodes.some((n) => n.id === id)) nodes.push({ id, label: tt?.name ?? x.name, sub: dir === 'in' ? L('Influenced it', 'இதன்மீது தாக்கம்') : L('It influenced', 'இது தாக்கம் செலுத்தியது'), colour: tt ? FAMILIES[tt.family].colour : '#8a8a8a', title: x.text });
+    edges.push(dir === 'in' ? { from: id, to: t.id, colour: '#2a8fb8' } : { from: t.id, to: id, colour: '#d07a1e' });
+  };
+  p.influencedBy.forEach((x, i) => add(x, i, 'in'));
+  p.influenced.forEach((x, i) => add(x, i, 'out'));
+  return (
+    <div className="mb-8 space-y-4">
+      <motion.div className="card flex flex-wrap items-center gap-4 p-5" style={{ borderLeft: `6px solid ${f.colour}` }} initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}>
+        <p className="min-w-0 flex-1 font-serif text-xl italic text-ink">“{p.tagline}”</p>
+        {p.members && (
+          <div className="text-right" title={p.members.note}>
+            <div className="text-2xl font-bold text-accent">{bigNumber(p.members.estimate)}</div>
+            <div className="text-xs text-muted">{L('members', 'உறுப்பினர்கள்')} · {p.members.year}</div>
+          </div>
+        )}
+        <Link to={`/denominations/${t.family}`} className="chip hover:!border-accent hover:!text-accent"><Icon name="tree" size={12} /> {L('Family overview', 'குடும்பக் கண்ணோட்டம்')}</Link>
+      </motion.div>
+      <div className="grid gap-4 md:grid-cols-[minmax(0,1fr)_minmax(0,1fr)_280px]">
+        <ListCard title={L('Core doctrines', 'அடிப்படைக் கோட்பாடுகள்')} icon="trinity" items={p.coreDoctrines} colour={f.colour} />
+        <ListCard title={L('Focus', 'கவனம்')} icon="compass" items={p.focuses} colour="#2a8fb8" />
+        <div className="card p-4">
+          <h3 className="mb-3 flex items-center gap-2 font-bold"><Icon name="scales" className="text-accent" /> {L('At a glance', 'ஒரே பார்வையில்')}</h3>
+          <AxisChips p={p} />
+        </div>
+      </div>
+      <div className="grid gap-4 md:grid-cols-2">
+        <ListCard title={L('Practices', 'நடைமுறைகள்')} icon="lamp" items={p.practices} colour="#7a4fc2" />
+        {p.keyFigures.length > 0 && (
+          <div className="card p-4" style={{ borderTop: '4px solid #2e9d5b' }}>
+            <h3 className="mb-3 flex items-center gap-2 font-bold"><Icon name="people" style={{ color: '#2e9d5b' }} /> {L('Key figures', 'முக்கிய நபர்கள்')}</h3>
+            <ul className="space-y-2">
+              {p.keyFigures.map((k, i) => (
+                <li key={i} className="text-sm"><span className="font-semibold">{k.personId ? <Link to={`/people/${k.personId}`} className="text-accent underline">{k.name}</Link> : k.name}</span> — <span className="text-ink-2">{k.role}</span></li>
+              ))}
+            </ul>
+          </div>
+        )}
+      </div>
+      {edges.length > 0 && (
+        <div>
+          <h3 className="mb-2 flex items-center gap-2 font-bold"><Icon name="shuffle" className="text-accent" /> {L('Influences: who shaped it, whom it shaped', 'தாக்கங்கள்: இதை வடிவமைத்தவை, இது வடிவமைத்தவை')}</h3>
+          <GraphFlow nodes={nodes} edges={edges} dir="LR" height={Math.max(300, Math.max(p.influencedBy.length, p.influenced.length) * 92 + 60)} onSelect={(id) => a.get('tradition', id) && id !== t.id && navigate(`/traditions/${id}`)} />
+        </div>
+      )}
+      {p.inIndia && (
+        <div className="flex gap-3 rounded-2xl border border-line bg-surface-2 p-4">
+          <span className="text-2xl">🇮🇳</span>
+          <div><div className="text-xs font-bold uppercase tracking-wider text-accent">{L('In India', 'இந்தியாவில்')}</div><p className="text-ink-2">{p.inIndia}</p></div>
+        </div>
+      )}
+      <Sources ids={p.sources} />
     </div>
   );
 }

@@ -1,0 +1,2085 @@
+{
+  "denomProfiles": [
+    {
+      "id": "amish",
+      "tagline": "Plain-living Anabaptists who keep a separate, disciplined community under the Ordnung.",
+      "coreDoctrines": [
+        "Adult (believer's) baptism on confession of faith, usually between about 16 and 25, by pouring.",
+        "The Dordrecht Confession (1632) as the standard statement of faith.",
+        "Nonresistance: refusal of military service, lawsuits and the use of force.",
+        "Separation from the world (Romans 12:2) expressed through the unwritten Ordnung of each district.",
+        "Church discipline including the ban and social avoidance (Meidung) of unrepentant members.",
+        "Gelassenheit: yielding self-will to God and to the community."
+      ],
+      "focuses": [
+        "Family, farm and small-business life within close-knit church districts.",
+        "Humility and simplicity in dress, transport and technology.",
+        "Mutual aid in place of commercial insurance and state welfare.",
+        "Forgiveness, notably shown after the Nickel Mines school shooting (2006)."
+      ],
+      "practices": [
+        "Three-hour Sunday worship every other week, held in members' homes or barns.",
+        "Slow unison singing from the Ausbund, a sixteenth-century Anabaptist hymnal.",
+        "Ministers, deacons and bishops chosen by lot from within the district, unpaid.",
+        "Communion twice a year, preceded by a council meeting and followed by foot washing.",
+        "Pennsylvania Dutch in daily life, High German Bible and hymns in worship.",
+        "Rumspringa, a period of youthful latitude before a young person chooses baptism."
+      ],
+      "influencedBy": [
+        {
+          "name": "Swiss Brethren",
+          "text": "The Amish arose from a 1693 division among Swiss and Alsatian Anabaptists.",
+          "traditionId": "anabaptist"
+        },
+        {
+          "name": "Mennonites",
+          "text": "Shared Dutch Mennonite teaching, including the Dordrecht Confession and stricter shunning.",
+          "traditionId": "mennonite"
+        },
+        {
+          "name": "Martyrs Mirror",
+          "text": "Thieleman van Braght's 1660 martyrology shapes Amish memory of persecution."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Amish Mennonites",
+          "text": "Progressive Amish who in the 1860s-1870s merged mostly into Mennonite conferences."
+        },
+        {
+          "name": "Beachy Amish",
+          "text": "A 1927 fellowship that allowed cars and electricity and adopted evangelical missions."
+        },
+        {
+          "name": "Wisconsin v. Yoder (1972)",
+          "text": "A US Supreme Court ruling, won by Amish parents, that widened religious-liberty protection in schooling."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Jakob Ammann",
+          "role": "Swiss elder whose call for stricter discipline led to the 1693 division",
+          "personId": "jacob-ammann"
+        },
+        {
+          "name": "Hans Reist",
+          "role": "Emmental Anabaptist leader who opposed Ammann on shunning"
+        },
+        {
+          "name": "Menno Simons",
+          "role": "Dutch Anabaptist leader whose teaching on the ban the Amish followed",
+          "personId": "menno-simons"
+        }
+      ],
+      "members": {
+        "estimate": 400000,
+        "year": 2024,
+        "note": "About 400,000 people of all ages (adults and children) in the US and Canada, Young Center for Anabaptist and Pietist Studies, Amish Population 2024."
+      },
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "cessationist",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "kraybill-amish",
+        "young-center-amish",
+        "mwc-census"
+      ]
+    },
+    {
+      "id": "hutterite",
+      "tagline": "Anabaptists who hold all property in common and live in rural colonies.",
+      "coreDoctrines": [
+        "Community of goods (Gütergemeinschaft) as a mark of true discipleship, after Acts 2 and 4.",
+        "Believer's baptism and a disciplined church separated from the world.",
+        "Nonresistance and refusal of military service.",
+        "Peter Riedemann's Confession of Faith (Rechenschaft, 1540s) as the classic statement of belief.",
+        "Gelassenheit: surrender of self-will and private property to God and the community."
+      ],
+      "focuses": [
+        "Colony life of roughly 60-160 people farming and manufacturing together.",
+        "Preserving the faith through a colony school, German school and church discipline.",
+        "Memory of martyrdom and migration recorded in the Great Chronicle.",
+        "Division into a new daughter colony when a colony grows too large."
+      ],
+      "practices": [
+        "A short service every evening and a longer Sunday service, with sermons (Lehren) read from 16th-17th-century texts.",
+        "Communal meals in a common dining hall, men and women seated separately.",
+        "Ministers chosen by lot from candidates nominated by the colony.",
+        "Annual or near-annual communion at Easter.",
+        "Hutterisch (a Tyrolean-Carinthian German dialect) as the everyday language.",
+        "Plain, distinctive dress, though modern farm technology is widely used."
+      ],
+      "influencedBy": [
+        {
+          "name": "Anabaptism",
+          "text": "Grew out of Anabaptist refugees gathered in Moravia from 1528.",
+          "traditionId": "anabaptist"
+        },
+        {
+          "name": "Acts 2 and 4",
+          "text": "The early Jerusalem church's shared goods is the scriptural model."
+        },
+        {
+          "name": "Tyrolean Anabaptism",
+          "text": "Jakob Hutter organised Tyrolean refugees into disciplined communities in the 1530s."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Bruderhof",
+          "text": "Eberhard Arnold's community (1920) united with the Hutterites in 1930; relations have since been broken and restored more than once."
+        },
+        {
+          "name": "Christian communal movements",
+          "text": "A long-lived model studied by later intentional communities."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Jakob Hutter",
+          "role": "Tyrolean leader and organiser, burned at Innsbruck in 1536"
+        },
+        {
+          "name": "Peter Riedemann",
+          "role": "Author of the Hutterite Confession of Faith"
+        },
+        {
+          "name": "Andreas Ehrenpreis",
+          "role": "Seventeenth-century elder who preserved community through war and persecution"
+        },
+        {
+          "name": "Michael Waldner",
+          "role": "Restored community of goods in Ukraine in 1859; the Schmiedeleut descend from him"
+        }
+      ],
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "cessationist",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "hostetler-hutterite",
+        "williams-radical-reformation",
+        "mwc-census"
+      ]
+    },
+    {
+      "id": "church-of-the-brethren",
+      "tagline": "Pietist-Anabaptist peace church known for love feasts, simplicity and service.",
+      "coreDoctrines": [
+        "\"No force in religion\" and \"no creed but the New Testament\": confessions are not imposed.",
+        "Believer's baptism by trine (threefold, forward) immersion.",
+        "Nonviolence: a historic peace church alongside Mennonites and Quakers.",
+        "Discipleship in community, discerning Scripture together.",
+        "Simplicity of life and nonconformity to the world."
+      ],
+      "focuses": [
+        "Relief and development work: Brethren Service and the Heifer Project (Dan West, 1944).",
+        "Peacemaking and conscientious objection, including Civilian Public Service in the Second World War.",
+        "Congregational life and mutual care.",
+        "Continuing to work, by Annual Conference, through disagreements over sexuality, which led to departures around 2021."
+      ],
+      "practices": [
+        "The love feast: self-examination, foot washing, a fellowship meal, then bread and cup.",
+        "Anointing of the sick with oil (James 5).",
+        "Annual Conference as the highest decision-making body; districts and congregations below it.",
+        "Women licensed to preach from 1922 and given full ordination from 1958.",
+        "Hymn-centred, mostly non-liturgical Sunday worship."
+      ],
+      "influencedBy": [
+        {
+          "name": "Radical Pietism",
+          "text": "Ernst Christoph Hochmann von Hochenau and other Radical Pietists shaped the founders."
+        },
+        {
+          "name": "Anabaptism",
+          "text": "Mennonite practice convinced Mack's circle of believer's baptism and nonresistance.",
+          "traditionId": "anabaptist"
+        },
+        {
+          "name": "Mennonites",
+          "text": "Neighbours and partners in Pennsylvania and in peace witness.",
+          "traditionId": "mennonite"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Old German Baptist Brethren",
+          "text": "The conservative wing that separated in 1881."
+        },
+        {
+          "name": "The Brethren Church (Ashland)",
+          "text": "Progressive wing that separated in 1883."
+        },
+        {
+          "name": "Grace Brethren",
+          "text": "A further division of the Brethren Church in 1939."
+        },
+        {
+          "name": "Church of North India",
+          "text": "Brethren mission churches in Gujarat joined the CNI in 1970.",
+          "traditionId": "church-of-north-india"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Alexander Mack",
+          "role": "Founder; led the eight first baptisms at Schwarzenau in 1708"
+        },
+        {
+          "name": "Christopher Sauer",
+          "role": "Germantown printer of the first European-language Bible in America (1743)"
+        },
+        {
+          "name": "Alexander Mack Jr.",
+          "role": "Elder and writer in colonial Germantown"
+        },
+        {
+          "name": "Dan West",
+          "role": "Founder of the Heifer Project"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "Brethren missionaries began work at Bulsar (Valsad), Gujarat, in 1895; most of these churches entered the Church of North India in 1970, while a minority continued separately as the First District Church of the Brethren.",
+      "sources": [
+        "durnbaugh-brethren",
+        "melton-encyclopedia",
+        "odcc"
+      ]
+    },
+    {
+      "id": "brethren-in-christ",
+      "tagline": "Anabaptist, Pietist and Wesleyan streams joined in one evangelical peace church.",
+      "coreDoctrines": [
+        "Personal conversion and new birth, from its Pietist roots.",
+        "Believer's baptism by trine immersion.",
+        "Wesleyan-holiness teaching of sanctification, adopted in the early twentieth century.",
+        "Nonresistance and peacemaking from Anabaptist tradition.",
+        "Obedient discipleship within a caring church community."
+      ],
+      "focuses": [
+        "Evangelism and church planting, especially in southern Africa and South Asia.",
+        "Peace and reconciliation ministries.",
+        "Higher education through Messiah University (founded 1909, Grantham, Pennsylvania).",
+        "Holding together Anabaptist, Pietist and Wesleyan emphases."
+      ],
+      "practices": [
+        "Foot washing observed with the Lord's Supper.",
+        "Baptism by trine immersion.",
+        "General Conference with bishops (regional overseers) and local congregations.",
+        "Contemporary evangelical worship in many North American churches.",
+        "Membership in the Mennonite World Conference."
+      ],
+      "influencedBy": [
+        {
+          "name": "Mennonites",
+          "text": "Founders included Mennonites of Lancaster County, Pennsylvania.",
+          "traditionId": "mennonite"
+        },
+        {
+          "name": "Pietism",
+          "text": "Revival preaching, including that of the United Brethren, stressed a felt conversion."
+        },
+        {
+          "name": "Holiness movement",
+          "text": "Second-blessing sanctification was adopted around 1910.",
+          "traditionId": "holiness-movement"
+        },
+        {
+          "name": "Evangelicalism",
+          "text": "Joined the National Association of Evangelicals in 1949.",
+          "traditionId": "evangelical"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Brethren in Christ in Zimbabwe and Zambia",
+          "text": "Missions from 1898 grew into churches now larger than the North American body."
+        },
+        {
+          "name": "Old Order River Brethren",
+          "text": "Conservative groups that separated in the nineteenth century to keep older ways."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Jacob Engel",
+          "role": "Early leader of the River Brethren in the 1770s-1780s"
+        },
+        {
+          "name": "Frances Davidson",
+          "role": "Pioneer missionary to Matopo, Southern Rhodesia (1898)"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "open",
+        "women": "varies",
+        "trinity": "nicene"
+      },
+      "inIndia": "Brethren in Christ missionaries began work in Bihar in 1914, around Saharsa and Madhepura; the Indian church has since spread into Odisha and other states.",
+      "sources": [
+        "mwc-census",
+        "melton-encyclopedia",
+        "d5-wittlinger-brethren-in-christ"
+      ]
+    },
+    {
+      "id": "baptist",
+      "tagline": "Believer's baptism, gathered congregations and religious liberty for all.",
+      "coreDoctrines": [
+        "The Bible as the final authority for faith and practice.",
+        "Baptism by immersion only for those who profess faith.",
+        "A regenerate church membership gathered in local, self-governing congregations.",
+        "The priesthood of all believers and soul liberty.",
+        "Religious freedom and the separation of church and state.",
+        "Two ordinances, baptism and the Lord's Supper, understood as obedience and witness."
+      ],
+      "focuses": [
+        "Evangelism and world mission, from William Carey's Baptist Missionary Society (1792) onwards.",
+        "Preaching as the centre of worship.",
+        "Freedom of conscience and opposition to established churches.",
+        "Voluntary association of churches in unions and conventions."
+      ],
+      "practices": [
+        "Immersion of believers, often in a baptistry in the church.",
+        "Lord's Supper monthly or quarterly, as a memorial.",
+        "Church meetings in which members vote on pastors and business.",
+        "Confessions (e.g. 1644, 1677/1689, the Baptist Faith and Message) used as guides, not creeds.",
+        "Associations and the Baptist World Alliance (1905) linking churches."
+      ],
+      "influencedBy": [
+        {
+          "name": "English Separatists",
+          "text": "Smyth and Helwys began as Separatists seeking a pure gathered church.",
+          "traditionId": "congregationalist"
+        },
+        {
+          "name": "Waterlander Mennonites",
+          "text": "Contact in Amsterdam shaped early Baptist views of baptism and liberty.",
+          "traditionId": "mennonite"
+        },
+        {
+          "name": "Reformed theology",
+          "text": "Particular Baptists adopted a Calvinist confession close to Westminster.",
+          "traditionId": "reformed"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Evangelicalism",
+          "text": "Baptists became one of the largest evangelical families.",
+          "traditionId": "evangelical"
+        },
+        {
+          "name": "Stone-Campbell Movement",
+          "text": "The Campbells worked within Baptist associations between 1815 and 1830.",
+          "traditionId": "stone-campbell-restoration"
+        },
+        {
+          "name": "Seventh-day Adventists",
+          "text": "Many early Adventists, including William Miller, were Baptists.",
+          "traditionId": "seventh-day-adventist"
+        },
+        {
+          "name": "US Bill of Rights",
+          "text": "Baptist campaigners such as John Leland and Isaac Backus pressed for religious liberty."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "John Smyth",
+          "role": "Founded the first Baptist church, Amsterdam 1609",
+          "personId": "john-smyth"
+        },
+        {
+          "name": "Thomas Helwys",
+          "role": "Brought the first Baptist church to England (1612) and pleaded for liberty of conscience"
+        },
+        {
+          "name": "Roger Williams",
+          "role": "Founded Providence and the first Baptist church in America (1638-39)"
+        },
+        {
+          "name": "William Carey",
+          "role": "Pioneer of modern Protestant missions in India",
+          "personId": "william-carey"
+        },
+        {
+          "name": "Martin Luther King Jr.",
+          "role": "Baptist pastor and civil-rights leader",
+          "personId": "martin-luther-king-jr"
+        }
+      ],
+      "members": {
+        "estimate": 47000000,
+        "year": 2023,
+        "note": "Approximate baptised membership of churches in the Baptist World Alliance's member bodies, as published by the BWA; the wider Baptist community, including children and non-BWA bodies, is larger."
+      },
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "open",
+        "women": "varies",
+        "trinity": "nicene"
+      },
+      "inIndia": "Baptist churches are largest in North-East India: most Christians in Nagaland and many in Manipur, Meghalaya (Garo Hills) and southern Mizoram are Baptist, alongside older Telugu Baptist churches in Andhra Pradesh from the American Baptist mission and the Serampore legacy in Bengal.",
+      "sources": [
+        "mcbeth-baptist-heritage",
+        "leonard-baptist-ways",
+        "bwa-statistics",
+        "i3-downs-northeast"
+      ]
+    },
+    {
+      "id": "general-baptists",
+      "tagline": "The first English Baptists, teaching that Christ died for all.",
+      "coreDoctrines": [
+        "General atonement: Christ died for all people, not only the elect.",
+        "Believer's baptism (by immersion from the 1640s).",
+        "Liberty of conscience for all, including non-Christians (Helwys, 1612).",
+        "The Standard Confession (1660) and the Orthodox Creed (1679).",
+        "Laying on of hands for the newly baptised, taught as a principle in Hebrews 6 by many congregations."
+      ],
+      "focuses": [
+        "A disciplined gathered church.",
+        "Religious toleration in Stuart England.",
+        "Evangelical revival in the New Connexion (1770) under Dan Taylor.",
+        "Mission in Orissa through the General Baptist Missionary Society (1816)."
+      ],
+      "practices": [
+        "Messengers serving several churches, and a General Assembly from the 1650s.",
+        "Plain worship; many early congregations opposed congregational hymn singing.",
+        "Lord's Supper as a memorial.",
+        "Church discipline exercised by the members."
+      ],
+      "influencedBy": [
+        {
+          "name": "English Separatists",
+          "text": "Smyth's Gainsborough congregation emigrated to Amsterdam as Separatists.",
+          "traditionId": "congregationalist"
+        },
+        {
+          "name": "Waterlander Mennonites",
+          "text": "Mennonite views on free will and liberty influenced Smyth and Helwys.",
+          "traditionId": "mennonite"
+        },
+        {
+          "name": "Arminian theology",
+          "text": "Shared the rejection of unconditional election associated with Jacobus Arminius."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Unitarianism",
+          "text": "Many Old Connexion churches drifted into Unitarianism in the eighteenth century.",
+          "traditionId": "unitarian"
+        },
+        {
+          "name": "Free Will Baptists",
+          "text": "American Arminian Baptists continue the General Baptist line.",
+          "traditionId": "free-will-baptists"
+        },
+        {
+          "name": "Baptist Union of Great Britain",
+          "text": "The New Connexion united with Particular Baptists in 1891.",
+          "traditionId": "baptist"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "John Smyth",
+          "role": "Se-baptised and founded the first Baptist church (1609)",
+          "personId": "john-smyth"
+        },
+        {
+          "name": "Thomas Helwys",
+          "role": "Author of A Short Declaration of the Mistery of Iniquity (1612)"
+        },
+        {
+          "name": "Thomas Grantham",
+          "role": "Leading seventeenth-century General Baptist writer and messenger"
+        },
+        {
+          "name": "Dan Taylor",
+          "role": "Founder of the evangelical New Connexion (1770)"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "cessationist",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "The New Connexion's General Baptist Missionary Society sent missionaries to Cuttack, Orissa (Odisha), from 1822; the churches it founded later joined the Church of North India (1970).",
+      "sources": [
+        "mcbeth-baptist-heritage",
+        "leonard-baptist-ways",
+        "lumpkin-baptist-confessions",
+        "odcc"
+      ]
+    },
+    {
+      "id": "particular-baptists",
+      "tagline": "Calvinistic Baptists of the London Confessions and the modern missionary movement.",
+      "coreDoctrines": [
+        "Particular (definite) redemption: Christ died effectually for the elect.",
+        "Reformed teaching on grace and the sovereignty of God.",
+        "Believer's baptism by immersion, practised from about 1641.",
+        "The First (1644) and Second (1677, reissued 1689) London Confessions.",
+        "Covenant theology adapted to a gathered church of believers."
+      ],
+      "focuses": [
+        "Preaching and doctrinal teaching.",
+        "World mission, after Andrew Fuller rebutted hyper-Calvinism.",
+        "Liberty of conscience under the Restoration and after.",
+        "Debate between strict and open communion."
+      ],
+      "practices": [
+        "Immersion of professing believers.",
+        "Congregational government with elders and deacons.",
+        "Hymn singing, defended by Benjamin Keach against much opposition in the 1690s.",
+        "Associations of churches meeting regularly for counsel."
+      ],
+      "influencedBy": [
+        {
+          "name": "Independents",
+          "text": "Emerged from the Jacob-Lathrop-Jessey church in London in the 1630s.",
+          "traditionId": "congregationalist"
+        },
+        {
+          "name": "Westminster Confession",
+          "text": "The Second London Confession closely follows Westminster and Savoy.",
+          "traditionId": "reformed"
+        },
+        {
+          "name": "Puritanism",
+          "text": "Shared Puritan piety and preaching."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Baptist Missionary Society",
+          "text": "Founded at Kettering in 1792, sending William Carey to India."
+        },
+        {
+          "name": "Philadelphia Baptist Association",
+          "text": "Its 1742 Philadelphia Confession carried the London Confession to America.",
+          "traditionId": "baptist"
+        },
+        {
+          "name": "Strict and Reformed Baptists",
+          "text": "Modern Calvinistic Baptists continue the 1689 Confession."
+        },
+        {
+          "name": "Southern Baptists",
+          "text": "Early Southern Baptists drew on this Calvinist heritage.",
+          "traditionId": "southern-baptist-convention"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "William Kiffin",
+          "role": "London merchant and pastor, signatory of the 1644 Confession"
+        },
+        {
+          "name": "Benjamin Keach",
+          "role": "Pastor and catechist who championed hymn singing"
+        },
+        {
+          "name": "John Gill",
+          "role": "Eighteenth-century theologian and commentator",
+          "personId": "john-gill"
+        },
+        {
+          "name": "Andrew Fuller",
+          "role": "Author of The Gospel Worthy of All Acceptation (1785)"
+        },
+        {
+          "name": "Charles Haddon Spurgeon",
+          "role": "Victorian preacher at the Metropolitan Tabernacle",
+          "personId": "charles-spurgeon"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "cessationist",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "William Carey reached Bengal in 1793; the Serampore mission (from 1800) of Carey, Marshman and Ward translated the Bible into many Indian languages and founded Serampore College (1818). BMS-related churches in Bengal and Odisha largely joined the Church of North India in 1970.",
+      "sources": [
+        "lumpkin-baptist-confessions",
+        "mcbeth-baptist-heritage",
+        "i2-potts-british-baptists",
+        "carey-enquiry-text"
+      ]
+    },
+    {
+      "id": "southern-baptist-convention",
+      "tagline": "America's largest Protestant denomination, built on missions and cooperative giving.",
+      "coreDoctrines": [
+        "The Baptist Faith and Message (1925, revised 1963 and 2000) as its confession.",
+        "Biblical inerrancy, affirmed in the 2000 revision.",
+        "Salvation by grace through personal faith in Christ.",
+        "Local church autonomy and believer's baptism by immersion.",
+        "Complementarian teaching: the office of pastor is limited to men (2000)."
+      ],
+      "focuses": [
+        "Evangelism and church planting through the North American Mission Board.",
+        "Foreign missions through the International Mission Board.",
+        "Funding through the Cooperative Program (1925).",
+        "Theological education in six seminaries.",
+        "Public engagement on religious liberty and moral issues via the Ethics & Religious Liberty Commission."
+      ],
+      "practices": [
+        "Annual meeting of messengers sent by cooperating churches.",
+        "Revival-style invitations and altar calls in many churches.",
+        "Sunday School and Vacation Bible School.",
+        "Lottie Moon Christmas Offering for international missions.",
+        "Lord's Supper as a memorial, usually quarterly or monthly."
+      ],
+      "influencedBy": [
+        {
+          "name": "Baptist Churches",
+          "text": "Separated from the national Baptist mission societies in 1845.",
+          "traditionId": "baptist"
+        },
+        {
+          "name": "Particular Baptists",
+          "text": "Early Southern Baptist confessions were Calvinistic.",
+          "traditionId": "particular-baptists"
+        },
+        {
+          "name": "Evangelicalism",
+          "text": "Revivalism and later the conservative evangelical movement shaped its identity.",
+          "traditionId": "evangelical"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Cooperative Baptist Fellowship",
+          "text": "Moderates formed the CBF (1991) after the conservative resurgence."
+        },
+        {
+          "name": "Baptist missions worldwide",
+          "text": "Its missionaries planted many national conventions, including in Nigeria and Brazil.",
+          "traditionId": "nigerian-baptist-convention"
+        },
+        {
+          "name": "Brazilian Baptist Convention",
+          "text": "Grew from Southern Baptist missionaries in Brazil from 1881.",
+          "traditionId": "brazilian-baptist-convention"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "William Bullein Johnson",
+          "role": "First president (1845)"
+        },
+        {
+          "name": "Lottie Moon",
+          "role": "Missionary to China, namesake of the mission offering"
+        },
+        {
+          "name": "E. Y. Mullins",
+          "role": "Theologian and seminary president; framed soul competency"
+        },
+        {
+          "name": "Adrian Rogers",
+          "role": "Pastor whose 1979 election began the conservative resurgence"
+        },
+        {
+          "name": "Billy Graham",
+          "role": "Southern Baptist evangelist",
+          "personId": "billy-graham"
+        }
+      ],
+      "members": {
+        "estimate": 12700000,
+        "year": 2024,
+        "note": "Reported membership in the 2024 Annual Church Profile compiled by Lifeway Research; weekly attendance is far lower."
+      },
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "Southern Baptist missionaries have worked in India mainly through medical and church-planting ministries; Bangalore Baptist Hospital, opened in 1973, is the best-known institution.",
+      "sources": [
+        "mcbeth-baptist-heritage",
+        "leonard-baptist-ways",
+        "sbc-annual-church-profile",
+        "noll-christianity-us"
+      ]
+    },
+    {
+      "id": "national-baptist-convention-usa",
+      "tagline": "The largest African American denomination: church, school and civil-rights base.",
+      "coreDoctrines": [
+        "Evangelical Baptist faith: salvation by grace through faith in Christ.",
+        "Believer's baptism by immersion and the Lord's Supper as ordinances.",
+        "Autonomy of the local church within a voluntary national convention.",
+        "Scripture as the rule of faith, broadly following the New Hampshire Confession (1833)."
+      ],
+      "focuses": [
+        "Black self-help, education and economic uplift.",
+        "Foreign missions in Africa and the Caribbean.",
+        "Publishing through its own Sunday School Publishing Board.",
+        "Civil rights and social justice, debated sharply in the 1950s-1960s."
+      ],
+      "practices": [
+        "Expressive preaching, gospel music and call-and-response worship.",
+        "Annual session of messengers and a strong presidency.",
+        "Women's missionary and educational work (Woman's Convention, 1900).",
+        "Communion monthly in many churches, often on the first Sunday."
+      ],
+      "influencedBy": [
+        {
+          "name": "Baptist Churches",
+          "text": "Formed from Black Baptist conventions in 1895.",
+          "traditionId": "baptist"
+        },
+        {
+          "name": "The Black church tradition",
+          "text": "Rooted in independent Black congregations since the late eighteenth century."
+        },
+        {
+          "name": "African American freedom struggle",
+          "text": "Emancipation and Reconstruction shaped its mission of uplift."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "National Baptist Convention of America",
+          "text": "Separated in 1915 after a dispute over the publishing house."
+        },
+        {
+          "name": "Progressive National Baptist Convention",
+          "text": "Formed in 1961 by Baptists, including King, who backed direct civil-rights action."
+        },
+        {
+          "name": "Civil-rights movement",
+          "text": "Many leaders of the movement were National Baptist pastors."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Elias Camp Morris",
+          "role": "First president (1895-1922)"
+        },
+        {
+          "name": "Nannie Helen Burroughs",
+          "role": "Leader of the Woman's Convention and educator"
+        },
+        {
+          "name": "Joseph H. Jackson",
+          "role": "President 1953-1982, who opposed civil-disobedience tactics"
+        },
+        {
+          "name": "Martin Luther King Jr.",
+          "role": "Raised in a National Baptist church; later Progressive",
+          "personId": "martin-luther-king-jr"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "open",
+        "women": "varies",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "leonard-baptist-ways",
+        "noll-christianity-us",
+        "yearbook-american-canadian-churches",
+        "d5-washington-frustrated-fellowship"
+      ]
+    },
+    {
+      "id": "american-baptist-churches-usa",
+      "tagline": "Mainline, multi-ethnic Baptists rooted in the first national mission societies.",
+      "coreDoctrines": [
+        "Believer's baptism and the Lord's Supper as ordinances.",
+        "Soul liberty and freedom of conscience; no binding creed.",
+        "Scripture as the authoritative guide, interpreted in community.",
+        "Local church autonomy within regional and national bodies."
+      ],
+      "focuses": [
+        "Home and foreign missions, from the Triennial Convention (1814).",
+        "Racial and ethnic diversity in its congregations.",
+        "Ecumenism: a member of the National Council of Churches and the World Council of Churches.",
+        "Social justice, from Walter Rauschenbusch's Social Gospel onward."
+      ],
+      "practices": [
+        "Regions and a Biennial Mission Summit linking autonomous churches.",
+        "Ordination of women as pastors.",
+        "Varied worship, from traditional to contemporary and ethnic-language congregations.",
+        "Lord's Supper commonly monthly."
+      ],
+      "influencedBy": [
+        {
+          "name": "Baptist Churches",
+          "text": "Heirs of the northern Baptist mission societies after the 1845 split.",
+          "traditionId": "baptist"
+        },
+        {
+          "name": "Social Gospel",
+          "text": "Rauschenbusch, of Rochester Seminary, shaped its social witness."
+        },
+        {
+          "name": "Liberal theology",
+          "text": "The University of Chicago Divinity School and modernist Baptists shaped its early-20th-century debates."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Baptist missions in Asia",
+          "text": "Missions to Burma (Judson, 1813), North-East India and Andhra planted large Baptist churches."
+        },
+        {
+          "name": "Conservative Baptist Association",
+          "text": "Formed (1947) by conservatives who left during fundamentalist-modernist disputes."
+        },
+        {
+          "name": "General Association of Regular Baptist Churches",
+          "text": "Fundamentalist Baptists who withdrew in 1932."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Adoniram and Ann Hasseltine Judson",
+          "role": "Missionaries to Burma whose call prompted the Triennial Convention"
+        },
+        {
+          "name": "Luther Rice",
+          "role": "Organiser of national Baptist support for missions"
+        },
+        {
+          "name": "Walter Rauschenbusch",
+          "role": "Social Gospel theologian",
+          "personId": "walter-rauschenbusch"
+        },
+        {
+          "name": "Harry Emerson Fosdick",
+          "role": "Liberal preacher of Riverside Church"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "American Baptist missionaries reached Assam in 1836 and the Naga Hills from 1872, and began the Telugu mission at Nellore (1840), where thousands were baptised at Ongole in 1878; the Council of Baptist Churches in North East India and Telugu Baptist bodies grew from this work.",
+      "sources": [
+        "mcbeth-baptist-heritage",
+        "leonard-baptist-ways",
+        "yearbook-american-canadian-churches",
+        "i3-downs-northeast"
+      ]
+    },
+    {
+      "id": "seventh-day-baptists",
+      "tagline": "Baptists who keep Saturday, the seventh day, as the Sabbath.",
+      "coreDoctrines": [
+        "The seventh day (Saturday) is the biblical Sabbath to be kept holy.",
+        "Believer's baptism by immersion.",
+        "Salvation by grace through faith; Sabbath-keeping as obedience, not a means of salvation.",
+        "Congregational autonomy and liberty of conscience."
+      ],
+      "focuses": [
+        "Sabbath witness to other Christians.",
+        "Small, close-knit congregations.",
+        "Missions in Africa, Asia and Latin America through a world federation."
+      ],
+      "practices": [
+        "Worship on Saturday, the Sabbath beginning at sunset on Friday.",
+        "General Conference of North America (1802) linking churches, now based at Janesville, Wisconsin.",
+        "Lord's Supper as a memorial.",
+        "Seventh Day Baptist World Federation linking national conferences."
+      ],
+      "influencedBy": [
+        {
+          "name": "English Baptists",
+          "text": "Sabbatarian congregations appeared among English Baptists in the 1650s (Mill Yard, London).",
+          "traditionId": "baptist"
+        },
+        {
+          "name": "Puritan Sabbatarianism",
+          "text": "Strict Puritan Sabbath teaching led some to adopt the seventh day."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Seventh-day Adventists",
+          "text": "Rachel Oakes Preston, a Seventh Day Baptist, introduced the Sabbath to Adventists at Washington, New Hampshire, in 1844.",
+          "traditionId": "seventh-day-adventist"
+        },
+        {
+          "name": "Church of God (Seventh Day)",
+          "text": "Shared Sabbatarian convictions in the nineteenth century.",
+          "traditionId": "church-of-god-seventh-day"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Francis Bampfield",
+          "role": "Seventeenth-century Sabbatarian pastor in London, died in Newgate prison"
+        },
+        {
+          "name": "Stephen Mumford",
+          "role": "Brought Sabbatarian views to Newport, Rhode Island, in 1664"
+        },
+        {
+          "name": "Rachel Oakes Preston",
+          "role": "Seventh Day Baptist who brought Sabbath-keeping to the Adventists"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "open",
+        "women": "varies",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "mcbeth-baptist-heritage",
+        "melton-encyclopedia",
+        "land-adventism"
+      ]
+    },
+    {
+      "id": "free-will-baptists",
+      "tagline": "Arminian Baptists: free grace for all, believers' freedom, and foot washing.",
+      "coreDoctrines": [
+        "General atonement: Christ died for all people.",
+        "Free will: grace enables every person to accept or reject salvation.",
+        "Conditional security: a believer can fall away through persistent unbelief.",
+        "Believer's baptism by immersion.",
+        "The Treatise of the Faith and Practices of the National Association (1935)."
+      ],
+      "focuses": [
+        "Evangelism and revival in the American South and Midwest.",
+        "Home and foreign missions.",
+        "Bible-college education (Welch College, Nashville, 1942).",
+        "Holy living and conservative evangelical ethics."
+      ],
+      "practices": [
+        "Three ordinances: baptism, the Lord's Supper and the washing of the saints' feet.",
+        "Congregational government with associations and a National Association (1935).",
+        "Revival meetings and gospel singing.",
+        "Pastors are men in most churches."
+      ],
+      "influencedBy": [
+        {
+          "name": "General Baptists",
+          "text": "Paul Palmer's 1727 North Carolina church drew on English General Baptist teaching.",
+          "traditionId": "general-baptists"
+        },
+        {
+          "name": "New Light revivalism",
+          "text": "Benjamin Randall was converted under George Whitefield's preaching in 1770."
+        },
+        {
+          "name": "Arminian theology",
+          "text": "Shares the Arminian view of grace and free will."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Northern Baptist Convention",
+          "text": "Most northern (Randall) Free Baptists merged with Northern Baptists in 1911.",
+          "traditionId": "american-baptist-churches-usa"
+        },
+        {
+          "name": "Pentecostal Free Will Baptist Church",
+          "text": "Free Will Baptists in North Carolina who accepted Pentecostal teaching after 1907.",
+          "traditionId": "pentecostal"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Paul Palmer",
+          "role": "Organised the first southern Free Will Baptist church (1727)"
+        },
+        {
+          "name": "Benjamin Randall",
+          "role": "Founded the northern Freewill Baptist movement at New Durham, New Hampshire (1780)"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "cessationist",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "The northern Freewill Baptists ran a mission at Balasore and Midnapore in Odisha and Bengal from 1836; after the 1911 merger it passed to the American Baptists.",
+      "sources": [
+        "mcbeth-baptist-heritage",
+        "melton-encyclopedia",
+        "leonard-baptist-ways"
+      ]
+    },
+    {
+      "id": "nigerian-baptist-convention",
+      "tagline": "One of the world's largest Baptist conventions, rooted in Yorubaland since 1850.",
+      "coreDoctrines": [
+        "Evangelical Baptist faith: salvation by grace through faith in Christ.",
+        "Believer's baptism by immersion and the Lord's Supper.",
+        "Authority of Scripture and local church autonomy.",
+        "A confession in the Southern Baptist tradition."
+      ],
+      "focuses": [
+        "Evangelism and church planting across Nigeria and in neighbouring countries.",
+        "Education: schools, the Nigerian Baptist Theological Seminary at Ogbomoso and Bowen University (Iwo, 2001).",
+        "Medical work, including the Baptist hospital at Ogbomoso.",
+        "Christian witness in a religiously plural nation, including in northern states."
+      ],
+      "practices": [
+        "Worship in Yoruba, English and many other Nigerian languages.",
+        "Associations and conferences under a national convention based at Ibadan.",
+        "Strong women's and youth organisations.",
+        "Lively music and prayer meetings alongside Baptist order."
+      ],
+      "influencedBy": [
+        {
+          "name": "Southern Baptist Convention",
+          "text": "Thomas Jefferson Bowen began Southern Baptist work in Yorubaland in 1850.",
+          "traditionId": "southern-baptist-convention"
+        },
+        {
+          "name": "Yoruba Christian leadership",
+          "text": "Nigerian Baptists sustained the work when missionaries withdrew during the American Civil War."
+        },
+        {
+          "name": "African church movement",
+          "text": "The 1888 Native Baptist secession pressed for African leadership.",
+          "traditionId": "african-initiated-churches"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Baptist work in West Africa",
+          "text": "Nigerian Baptists send missionaries to neighbouring countries and beyond."
+        },
+        {
+          "name": "Baptist World Alliance",
+          "text": "Among the largest member bodies of the BWA.",
+          "traditionId": "baptist"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Thomas Jefferson Bowen",
+          "role": "Pioneer Southern Baptist missionary in Yorubaland from 1850"
+        },
+        {
+          "name": "Mojola Agbebi",
+          "role": "Lagos Baptist leader of the 1888 Native Baptist church and of African church independence"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "open",
+        "women": "varies",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "bwa-statistics",
+        "isichei-africa",
+        "hastings-church-in-africa",
+        "dacb"
+      ]
+    },
+    {
+      "id": "brazilian-baptist-convention",
+      "tagline": "Brazil's leading historic Baptist body, planted from Salvador in 1882.",
+      "coreDoctrines": [
+        "Evangelical Baptist faith: salvation by grace through faith in Christ.",
+        "Believer's baptism by immersion and the Lord's Supper.",
+        "Authority of Scripture and local church autonomy.",
+        "Religious liberty and separation of church and state."
+      ],
+      "focuses": [
+        "Evangelism and church planting across Brazil.",
+        "National and world missions boards sending Brazilian missionaries abroad.",
+        "Theological education, including the South Brazil Baptist Theological Seminary in Rio de Janeiro (1908).",
+        "Social and educational work."
+      ],
+      "practices": [
+        "Congregational government with state conventions and a national assembly.",
+        "Hymnody from the Cantor Cristão, the Brazilian Baptist hymnal.",
+        "Worship styles ranging from traditional to contemporary.",
+        "Lord's Supper as a memorial, often monthly."
+      ],
+      "influencedBy": [
+        {
+          "name": "Southern Baptist Convention",
+          "text": "The Bagbys and Taylors, Southern Baptist missionaries, organised the first Portuguese-speaking church in 1882.",
+          "traditionId": "southern-baptist-convention"
+        },
+        {
+          "name": "Brazilian Protestant revivals",
+          "text": "Shared in wider evangelical growth in twentieth-century Brazil.",
+          "traditionId": "evangelical"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Convenção Batista Nacional",
+          "text": "Charismatic churches excluded in 1965 formed the National Baptist Convention.",
+          "traditionId": "charismatic-renewal"
+        },
+        {
+          "name": "Brazilian Baptist missions",
+          "text": "Brazilian missionaries serve in Portuguese-speaking Africa and elsewhere."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "William Buck Bagby",
+          "role": "Southern Baptist missionary and co-founder of the first church at Salvador"
+        },
+        {
+          "name": "Anne Luther Bagby",
+          "role": "Missionary educator and co-founder"
+        },
+        {
+          "name": "Zachary Clay Taylor",
+          "role": "Missionary co-founder at Salvador"
+        },
+        {
+          "name": "Antônio Teixeira de Albuquerque",
+          "role": "Former Catholic priest, the first Brazilian Baptist pastor"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "open",
+        "women": "varies",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "bwa-statistics",
+        "gonzalez-latin-america",
+        "leonard-baptist-ways"
+      ]
+    },
+    {
+      "id": "methodist",
+      "tagline": "Wesley's revival: grace for all, warm-hearted faith and holy living.",
+      "coreDoctrines": [
+        "Prevenient grace: God's grace goes before every person, enabling a free response.",
+        "Justification by faith and the witness of the Spirit (assurance).",
+        "Christian perfection or entire sanctification: love made perfect in this life.",
+        "Universal offer of salvation, against unconditional predestination.",
+        "Doctrinal standards in Wesley's Sermons, Notes on the New Testament and the Articles of Religion.",
+        "Scripture as primary, read with tradition, reason and experience (the \"Wesleyan quadrilateral\", Albert Outler's term)."
+      ],
+      "focuses": [
+        "Evangelism and preaching to the poor, outdoors if need be.",
+        "Social holiness: schools, hospitals, temperance and anti-slavery.",
+        "Small-group discipleship in class meetings and bands.",
+        "Sung theology through Charles Wesley's hymns."
+      ],
+      "practices": [
+        "A connexion of societies governed by Conference, with ministers stationed by appointment.",
+        "Infant baptism and the Lord's Supper, Wesley urging \"constant communion\".",
+        "Covenant service, love feasts and watchnight services.",
+        "Itinerant ministry and local (lay) preachers.",
+        "Hymn singing at the centre of worship."
+      ],
+      "influencedBy": [
+        {
+          "name": "Church of England",
+          "text": "Wesley was an Anglican priest and Methodism began as a society within the Church.",
+          "traditionId": "anglican"
+        },
+        {
+          "name": "Moravians",
+          "text": "Peter Böhler and Herrnhut shaped Wesley's 1738 experience of assurance.",
+          "traditionId": "moravian-church"
+        },
+        {
+          "name": "Holy living writers",
+          "text": "Thomas à Kempis, Jeremy Taylor and William Law formed Wesley's ideal of holiness."
+        },
+        {
+          "name": "Arminianism",
+          "text": "Wesley named his magazine The Arminian Magazine (1778)."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Holiness movement",
+          "text": "Developed Wesley's teaching on entire sanctification.",
+          "traditionId": "holiness-movement"
+        },
+        {
+          "name": "Pentecostalism",
+          "text": "Grew from holiness Methodism around 1900-1906.",
+          "traditionId": "pentecostal"
+        },
+        {
+          "name": "Black Methodist churches",
+          "text": "The AME and AME Zion churches arose within American Methodism.",
+          "traditionId": "african-methodist-episcopal"
+        },
+        {
+          "name": "Salvation Army",
+          "text": "William Booth was a Methodist New Connexion minister.",
+          "traditionId": "salvation-army"
+        },
+        {
+          "name": "Church of South India",
+          "text": "Methodists joined the 1947 union.",
+          "traditionId": "church-of-south-india"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "John Wesley",
+          "role": "Founder and organiser of the Methodist movement",
+          "personId": "john-wesley"
+        },
+        {
+          "name": "Charles Wesley",
+          "role": "Hymn-writer of thousands of hymns",
+          "personId": "charles-wesley"
+        },
+        {
+          "name": "George Whitefield",
+          "role": "Evangelist and early field preacher",
+          "personId": "george-whitefield"
+        },
+        {
+          "name": "Francis Asbury",
+          "role": "Bishop who spread Methodism across early America"
+        },
+        {
+          "name": "Thomas Coke",
+          "role": "First superintendent of American Methodism and promoter of missions"
+        }
+      ],
+      "members": {
+        "estimate": 80000000,
+        "year": 2023,
+        "note": "World Methodist Council's published figure of about 80 million people in its member churches, including Wesleyan, holiness and united churches."
+      },
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 3,
+        "authority": "scripture-and-tradition",
+        "governance": "connexional",
+        "baptism": "infant",
+        "eucharist": "spiritual-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "British Wesleyans worked in Madras and the Tamil country from 1817 and their churches joined the Church of South India in 1947; American Methodist Episcopal work from Bareilly (William Butler, 1856) grew into the Methodist Church in India, autonomous since 1981.",
+      "sources": [
+        "heitzenrater-wesley",
+        "rack-reasonable-enthusiast",
+        "wmc-statistics",
+        "frykenberg-india"
+      ]
+    },
+    {
+      "id": "holiness-movement",
+      "tagline": "Nineteenth-century revival of Wesley's call to entire sanctification.",
+      "coreDoctrines": [
+        "Entire sanctification as a second, instantaneous work of grace after conversion.",
+        "Heart purity and perfect love made possible by the Holy Spirit.",
+        "Phoebe Palmer's \"altar theology\": consecrate all and claim the promise by faith.",
+        "Salvation offered to all, received by faith.",
+        "Strict personal ethics and separation from worldliness."
+      ],
+      "focuses": [
+        "Camp meetings and revivals.",
+        "Holiness literature, periodicals and Bible schools.",
+        "Ministry to the urban poor and rescue missions.",
+        "Women's preaching, defended by Palmer in Promise of the Father (1859)."
+      ],
+      "practices": [
+        "National Camp Meeting Association for the Promotion of Holiness (Vineland, New Jersey, 1867).",
+        "Testimony meetings and altar calls for sanctification.",
+        "Plain dress and abstinence from alcohol and tobacco in many groups.",
+        "Simple, revivalist worship with gospel songs."
+      ],
+      "influencedBy": [
+        {
+          "name": "Methodism",
+          "text": "Revived Wesley's A Plain Account of Christian Perfection.",
+          "traditionId": "methodist"
+        },
+        {
+          "name": "Oberlin perfectionism",
+          "text": "Charles Finney and Asa Mahan taught a parallel perfectionism."
+        },
+        {
+          "name": "Tuesday Meeting",
+          "text": "The prayer meeting begun by Sarah Lankford in New York in 1835 and led by Phoebe Palmer."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Pentecostalism",
+          "text": "Parham and Seymour taught Spirit baptism as a further blessing after sanctification.",
+          "traditionId": "pentecostal"
+        },
+        {
+          "name": "Church of the Nazarene",
+          "text": "The largest denomination formed from holiness associations.",
+          "traditionId": "church-of-the-nazarene"
+        },
+        {
+          "name": "Church of God (Anderson)",
+          "text": "Daniel S. Warner's 1881 movement for holiness and Christian unity.",
+          "traditionId": "church-of-god-anderson"
+        },
+        {
+          "name": "Church of God (Cleveland)",
+          "text": "Began as a holiness body before becoming Pentecostal.",
+          "traditionId": "church-of-god-cleveland"
+        },
+        {
+          "name": "Keswick Convention",
+          "text": "The British \"higher life\" movement (1875) was a Reformed counterpart."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Phoebe Palmer",
+          "role": "Lay theologian, author of The Way of Holiness (1843)",
+          "personId": "phoebe-palmer"
+        },
+        {
+          "name": "Charles Finney",
+          "role": "Revivalist and Oberlin teacher of perfection",
+          "personId": "charles-finney"
+        },
+        {
+          "name": "John S. Inskip",
+          "role": "First president of the National Camp Meeting Association"
+        },
+        {
+          "name": "Daniel S. Warner",
+          "role": "Founder of the Church of God (Anderson)"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "connexional",
+        "baptism": "both",
+        "eucharist": "memorial",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "Holiness bodies including the Salvation Army, Free Methodists, Nazarenes and the Church of God (Anderson) have Indian churches; Union Biblical Seminary, founded at Yavatmal in 1938 by a Free Methodist missionary and now at Pune, has trained many Indian evangelical leaders.",
+      "sources": [
+        "dieter-holiness-revival",
+        "synan-holiness-pentecostal",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "salvation-army",
+      "tagline": "A holiness church organised as an army, joining evangelism with social service.",
+      "coreDoctrines": [
+        "Eleven articles of faith, evangelical and Wesleyan in character.",
+        "Salvation by grace through faith, offered to all.",
+        "Entire sanctification: holiness of heart and life.",
+        "Sacraments not observed outwardly since 1883; the life of grace is held to be possible without them.",
+        "The Trinity, the full deity and humanity of Christ, and the authority of Scripture."
+      ],
+      "focuses": [
+        "Evangelism among the poor, the homeless and the excluded.",
+        "Social service: shelters, rehabilitation, disaster relief and anti-trafficking work.",
+        "Total abstinence from alcohol and non-medical drugs for soldiers.",
+        "Equal ministry of women and men as officers from the start."
+      ],
+      "practices": [
+        "Uniforms, ranks, corps (local churches) and officers (ordained ministers).",
+        "Soldiers enrolled by signing the Soldier's Covenant.",
+        "Brass bands, songsters and open-air meetings.",
+        "The mercy seat, where people kneel to pray for salvation or holiness.",
+        "An international General elected by the High Council (since 1929)."
+      ],
+      "influencedBy": [
+        {
+          "name": "Methodism",
+          "text": "William Booth was a Methodist New Connexion minister until 1861.",
+          "traditionId": "methodist"
+        },
+        {
+          "name": "Holiness movement",
+          "text": "Catherine Booth and the Army adopted Palmer-style holiness teaching.",
+          "traditionId": "holiness-movement"
+        },
+        {
+          "name": "Quakers",
+          "text": "Like the Friends, the Army does not use outward sacraments.",
+          "traditionId": "quaker"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Social welfare and reform",
+          "text": "In Darkest England and the Way Out (1890) shaped Christian social work; the 1885 \"Maiden Tribute\" campaign helped raise the age of consent."
+        },
+        {
+          "name": "Urban missions",
+          "text": "A model for rescue missions and Christian relief organisations."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "William Booth",
+          "role": "Founder and first General"
+        },
+        {
+          "name": "Catherine Booth",
+          "role": "Co-founder, preacher and advocate of women's ministry"
+        },
+        {
+          "name": "Bramwell Booth",
+          "role": "Second General"
+        },
+        {
+          "name": "Evangeline Booth",
+          "role": "First woman General (1934)"
+        },
+        {
+          "name": "Frederick Booth-Tucker",
+          "role": "Pioneer of the work in India from 1882"
+        }
+      ],
+      "axes": {
+        "liturgy": 1,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "episcopal",
+        "baptism": "none",
+        "eucharist": "not-practised",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "Frederick Booth-Tucker landed in Bombay in 1882 and adopted Indian dress; the Army grew strongest in Kerala and southern Tamil Nadu (Catherine Booth Hospital, Nagercoil) and ran colonial-era settlements for so-called Criminal Tribes.",
+      "sources": [
+        "m5-murdoch-origins-salvation-army",
+        "m5-sandall-history-salvation-army",
+        "m5-tolen-criminal-tribes"
+      ]
+    },
+    {
+      "id": "african-methodist-episcopal",
+      "tagline": "The first independent Black denomination in the US, born of protest at segregation.",
+      "coreDoctrines": [
+        "Methodist doctrine in the Articles of Religion inherited from Wesley.",
+        "Salvation by grace through faith for all, and growth in holiness.",
+        "Human equality before God: \"God our Father, Christ our Redeemer, Man our Brother\".",
+        "Infant and adult baptism and the Lord's Supper as sacraments."
+      ],
+      "focuses": [
+        "Black self-determination and dignity in church and society.",
+        "Education: Wilberforce University (bought by the church in 1863) and other colleges.",
+        "Civil rights and community uplift.",
+        "Missions in Africa and the Caribbean."
+      ],
+      "practices": [
+        "Episcopal government with bishops, General Conference every four years and districts.",
+        "Methodist liturgy with spirited Black preaching and music.",
+        "Monthly communion in many congregations.",
+        "Publishing through the Christian Recorder (from 1852).",
+        "Women ordained; Vashti McKenzie became the first woman bishop in 2000."
+      ],
+      "influencedBy": [
+        {
+          "name": "Methodism",
+          "text": "Richard Allen was converted and licensed in early American Methodism.",
+          "traditionId": "methodist"
+        },
+        {
+          "name": "Free African Society",
+          "text": "The mutual-aid society founded by Allen and Absalom Jones in 1787."
+        },
+        {
+          "name": "Abolitionism",
+          "text": "The church grew in the struggle against slavery."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Ethiopian movement in South Africa",
+          "text": "Mangena Mokone's Ethiopian Church joined the AME in 1896.",
+          "traditionId": "african-initiated-churches"
+        },
+        {
+          "name": "Black church tradition",
+          "text": "A model of independent Black church life across the US."
+        },
+        {
+          "name": "Back-to-Africa movements",
+          "text": "Bishop Henry McNeal Turner promoted African emigration."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Richard Allen",
+          "role": "Founder and first bishop (1816)"
+        },
+        {
+          "name": "Jarena Lee",
+          "role": "First woman authorised to preach by Allen (1819)"
+        },
+        {
+          "name": "Daniel Alexander Payne",
+          "role": "Bishop and educator, president of Wilberforce"
+        },
+        {
+          "name": "Henry McNeal Turner",
+          "role": "Bishop and advocate of African missions"
+        },
+        {
+          "name": "Vashti Murphy McKenzie",
+          "role": "First woman bishop (2000)"
+        }
+      ],
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 3,
+        "authority": "scripture-alone",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "spiritual-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "dickerson-ame",
+        "richey-american-methodism",
+        "noll-christianity-us"
+      ]
+    },
+    {
+      "id": "ame-zion",
+      "tagline": "\"The Freedom Church\" of Harriet Tubman, Frederick Douglass and Sojourner Truth.",
+      "coreDoctrines": [
+        "Methodist doctrine in the Articles of Religion.",
+        "Salvation by grace through faith and growth in holiness.",
+        "Human equality and freedom as implications of the gospel.",
+        "Infant and adult baptism and the Lord's Supper as sacraments."
+      ],
+      "focuses": [
+        "Abolition and the Underground Railroad in the nineteenth century.",
+        "Education through Livingstone College (Salisbury, North Carolina, 1879).",
+        "Civil rights and social justice.",
+        "Missions in West Africa (Liberia, Ghana, Nigeria) and the Caribbean."
+      ],
+      "practices": [
+        "Episcopal government with bishops and a quadrennial General Conference.",
+        "Methodist worship with Black gospel preaching and music.",
+        "Publishing through the Star of Zion newspaper.",
+        "Early ordination of women: Julia Foote as deacon (1894) and Mary Small as elder (1898)."
+      ],
+      "influencedBy": [
+        {
+          "name": "Methodism",
+          "text": "Founders left John Street Methodist Church in New York in 1796.",
+          "traditionId": "methodist"
+        },
+        {
+          "name": "Abolitionism",
+          "text": "Many members and ministers were active abolitionists."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Abolition and women's rights",
+          "text": "Early ordination of women and anti-slavery witness made it a pioneer."
+        },
+        {
+          "name": "African Methodist churches in West Africa",
+          "text": "Missions planted AME Zion conferences in Liberia, Ghana and Nigeria."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "James Varick",
+          "role": "First bishop (1822)"
+        },
+        {
+          "name": "Christopher Rush",
+          "role": "Early bishop and historian of the church"
+        },
+        {
+          "name": "Julia A. J. Foote",
+          "role": "Evangelist and first woman ordained deacon"
+        },
+        {
+          "name": "Joseph Charles Price",
+          "role": "Founder of Livingstone College"
+        },
+        {
+          "name": "Harriet Tubman",
+          "role": "Underground Railroad conductor and member"
+        }
+      ],
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 3,
+        "authority": "scripture-alone",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "spiritual-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "richey-american-methodism",
+        "yearbook-american-canadian-churches",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "united-methodist-church",
+      "tagline": "Global connexional Methodism, re-shaped by disaffiliations and 2024 reforms.",
+      "coreDoctrines": [
+        "Doctrinal standards: the Articles of Religion, the EUB Confession of Faith, Wesley's Sermons and Notes.",
+        "Prevenient, justifying and sanctifying grace.",
+        "Scripture as primary, illumined by tradition, experience and reason (\"Our Theological Task\", 1972).",
+        "Baptism and the Lord's Supper as sacraments, with an open table.",
+        "Social Principles (1972) setting out positions on society and ethics."
+      ],
+      "focuses": [
+        "Mission and relief through the United Methodist Committee on Relief (UMCOR).",
+        "Social justice and public witness.",
+        "Education: many universities, seminaries and schools.",
+        "A worldwide church with rapid growth in Africa and the Philippines."
+      ],
+      "practices": [
+        "General Conference, Council of Bishops and Judicial Council governing the connexion.",
+        "Clergy appointed by bishops to local churches.",
+        "Book of Discipline and the United Methodist Hymnal and Book of Worship.",
+        "Women given full clergy rights in 1956; Marjorie Matthews was the first woman bishop (1980).",
+        "In 2024 General Conference removed bans on gay clergy and same-sex weddings and approved regionalisation."
+      ],
+      "influencedBy": [
+        {
+          "name": "Methodism",
+          "text": "Heir of the Methodist Episcopal tradition.",
+          "traditionId": "methodist"
+        },
+        {
+          "name": "Evangelical United Brethren",
+          "text": "German-speaking Pietist churches of Otterbein, Boehm and Albright merged into it in 1968."
+        },
+        {
+          "name": "Social Gospel",
+          "text": "The 1908 Social Creed of Methodism shaped its witness."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Global Methodist Church",
+          "text": "Launched in 2022 by traditionalists; many disaffiliating congregations joined it."
+        },
+        {
+          "name": "Methodist Church in India",
+          "text": "An affiliated autonomous church since 1981."
+        },
+        {
+          "name": "Korean Methodism",
+          "text": "American Methodist missions helped plant Korean Methodism from 1885.",
+          "traditionId": "korean-methodist-church"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Philip William Otterbein",
+          "role": "Co-founder of the United Brethren in Christ (1800)"
+        },
+        {
+          "name": "Jacob Albright",
+          "role": "Founder of the Evangelical Association"
+        },
+        {
+          "name": "Albert Outler",
+          "role": "Theologian who framed the \"Wesleyan quadrilateral\""
+        },
+        {
+          "name": "Leontine Kelly",
+          "role": "First Black woman bishop (1984)"
+        }
+      ],
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 3,
+        "authority": "scripture-and-tradition",
+        "governance": "connexional",
+        "baptism": "infant",
+        "eucharist": "spiritual-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "The Methodist Church in India, which grew from the Methodist Episcopal mission begun at Bareilly in 1856, became autonomous in 1981 and remains an affiliated autonomous church of the UMC.",
+      "sources": [
+        "richey-american-methodism",
+        "wmc-statistics",
+        "umc-news-2019-2024",
+        "noll-christianity-us"
+      ]
+    },
+    {
+      "id": "free-methodist-church",
+      "tagline": "Holiness Methodists who stood for free pews, abolition and simple worship.",
+      "coreDoctrines": [
+        "Wesleyan teaching on entire sanctification.",
+        "Salvation by grace through faith offered to all.",
+        "Scripture as the final authority.",
+        "Baptism and the Lord's Supper as sacraments.",
+        "Articles of Religion adapted from Methodism."
+      ],
+      "focuses": [
+        "Ministry to the poor: \"free\" pews open to all instead of rented pews.",
+        "Opposition to slavery and to secret oath-bound societies, from its founding.",
+        "Holiness of life and simplicity.",
+        "World mission; most members today live outside North America."
+      ],
+      "practices": [
+        "General Conference with bishops and annual conferences.",
+        "Lay delegates with an equal voice to clergy in conference.",
+        "Infant and believer's baptism both accepted.",
+        "Women ordained as elders since 1974, after earlier evangelist and deacon roles."
+      ],
+      "influencedBy": [
+        {
+          "name": "Methodism",
+          "text": "Founders were expelled from the Methodist Episcopal Church in western New York.",
+          "traditionId": "methodist"
+        },
+        {
+          "name": "Holiness movement",
+          "text": "Shared its call to entire sanctification.",
+          "traditionId": "holiness-movement"
+        },
+        {
+          "name": "Abolitionism",
+          "text": "Free Methodists opposed slavery from 1860."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Christian higher education",
+          "text": "Founded Roberts Wesleyan, Seattle Pacific, Greenville and Spring Arbor universities."
+        },
+        {
+          "name": "Union Biblical Seminary",
+          "text": "Founded in India by Free Methodist missionary Frank Kline in 1938."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "B. T. Roberts",
+          "role": "Founder and first general superintendent"
+        },
+        {
+          "name": "Ellen Lois Roberts",
+          "role": "Co-founder and spiritual leader"
+        },
+        {
+          "name": "John Wesley Redfield",
+          "role": "Revivalist whose preaching shaped the early movement"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "connexional",
+        "baptism": "both",
+        "eucharist": "spiritual-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "Free Methodist missionaries worked in the Yavatmal (Yeotmal) district of Maharashtra, where Frank Kline founded Union Biblical Seminary in 1938 (moved to Pune in 1983); there are Free Methodist churches in Maharashtra and other states.",
+      "sources": [
+        "synan-holiness-pentecostal",
+        "melton-encyclopedia",
+        "d5-snyder-populist-saints"
+      ]
+    },
+    {
+      "id": "wesleyan-church",
+      "tagline": "Abolitionist and holiness Methodists united in 1968; pioneers in women's ministry.",
+      "coreDoctrines": [
+        "Entire sanctification as a work of grace after conversion.",
+        "Salvation by grace through faith offered to all.",
+        "Scripture as inspired and authoritative.",
+        "Baptism and the Lord's Supper as sacraments."
+      ],
+      "focuses": [
+        "Holiness of life and evangelism.",
+        "Social justice, rooted in its abolitionist founding (1843).",
+        "Church multiplication in North America and abroad.",
+        "Higher education through Indiana Wesleyan, Houghton and other universities."
+      ],
+      "practices": [
+        "General Conference with general superintendents and districts.",
+        "Women ordained since the nineteenth century.",
+        "Infant and believer's baptism both accepted.",
+        "Contemporary worship in many churches."
+      ],
+      "influencedBy": [
+        {
+          "name": "Methodism",
+          "text": "Wesleyan Methodists left the Methodist Episcopal Church in 1843 over slavery and episcopacy.",
+          "traditionId": "methodist"
+        },
+        {
+          "name": "Holiness movement",
+          "text": "The Pilgrim Holiness Church (1897) brought radical holiness revivalism.",
+          "traditionId": "holiness-movement"
+        },
+        {
+          "name": "Abolitionism",
+          "text": "Founders were leading anti-slavery activists."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Women's rights movement",
+          "text": "The 1848 Seneca Falls Convention met in a Wesleyan Methodist chapel."
+        },
+        {
+          "name": "Women's ordination",
+          "text": "Luther Lee preached at Antoinette Brown's 1853 ordination, the first of a woman in a US denomination."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Orange Scott",
+          "role": "Abolitionist founder of the Wesleyan Methodist Connection"
+        },
+        {
+          "name": "Luther Lee",
+          "role": "Abolitionist and advocate of women's preaching"
+        },
+        {
+          "name": "Martin Wells Knapp",
+          "role": "Founder of the International Holiness Union and Prayer League (1897)"
+        },
+        {
+          "name": "Seth Cook Rees",
+          "role": "Co-founder of the Pilgrim Holiness tradition"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "connexional",
+        "baptism": "both",
+        "eucharist": "spiritual-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "synan-holiness-pentecostal",
+        "richey-american-methodism",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "church-of-the-nazarene",
+      "tagline": "The largest Wesleyan-Holiness denomination, now present in more than 160 countries and areas.",
+      "coreDoctrines": [
+        "Entire sanctification as a second work of grace, cleansing the heart and filling it with love.",
+        "Sixteen Articles of Faith in the Manual.",
+        "Salvation by grace through faith, available to all.",
+        "Scripture inerrant in all things relating to salvation.",
+        "Baptism (infant or believer) and the Lord's Supper as sacraments."
+      ],
+      "focuses": [
+        "Holiness preaching and Christlike discipleship.",
+        "Global mission; most members now live outside the US.",
+        "Compassionate ministries to the poor.",
+        "Education through Nazarene universities and seminaries."
+      ],
+      "practices": [
+        "General Assembly, general superintendents, districts and local churches.",
+        "The Covenant of Christian Character and Covenant of Christian Conduct for members.",
+        "Women ordained since its founding.",
+        "Altar calls and testimony in revivalist worship."
+      ],
+      "influencedBy": [
+        {
+          "name": "Holiness movement",
+          "text": "Formed by merging regional holiness churches (1907-1908).",
+          "traditionId": "holiness-movement"
+        },
+        {
+          "name": "Methodism",
+          "text": "Bresee and other founders were Methodist ministers.",
+          "traditionId": "methodist"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Wesleyan-Holiness theology",
+          "text": "H. Orton Wiley's Christian Theology (1940-43) became a standard text."
+        },
+        {
+          "name": "Holiness Christianity worldwide",
+          "text": "Nazarene missions planted churches in Asia, Africa and Latin America."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Phineas F. Bresee",
+          "role": "Founder of the Los Angeles Church of the Nazarene (1895)"
+        },
+        {
+          "name": "Hiram F. Reynolds",
+          "role": "General superintendent and missions leader"
+        },
+        {
+          "name": "Mary Lee Cagle",
+          "role": "Holiness preacher in the southern founding body"
+        },
+        {
+          "name": "H. Orton Wiley",
+          "role": "Systematic theologian"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "connexional",
+        "baptism": "both",
+        "eucharist": "memorial",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "Nazarene mission work in India centres on the Buldhana and Washim districts of Maharashtra, where Reynolds Memorial Hospital at Washim is its best-known institution; churches have since spread to other states.",
+      "sources": [
+        "smith-called-unto-holiness",
+        "synan-holiness-pentecostal",
+        "melton-encyclopedia"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "d5-wittlinger-brethren-in-christ",
+      "title": "Quest for Piety and Obedience: The Story of the Brethren in Christ",
+      "author": "Carlton O. Wittlinger",
+      "year": 1978,
+      "kind": "secondary"
+    },
+    {
+      "id": "d5-washington-frustrated-fellowship",
+      "title": "Frustrated Fellowship: The Black Baptist Quest for Social Power",
+      "author": "James Melvin Washington",
+      "year": 1986,
+      "kind": "secondary"
+    },
+    {
+      "id": "d5-snyder-populist-saints",
+      "title": "Populist Saints: B. T. and Ellen Roberts and the First Free Methodists",
+      "author": "Howard A. Snyder",
+      "year": 2006,
+      "kind": "secondary"
+    }
+  ]
+}
