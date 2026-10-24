@@ -256,6 +256,13 @@ function describeTradition(a: Atlas, t: Tradition, related: Ref[], focusField?: 
   if (t.family === 'nontrinitarian') parts.push(tt('*It stands outside the historic Nicene (Trinitarian) consensus shared by Catholic, Orthodox and most Protestant churches; it is described here in its own terms.*', '*கத்தோலிக்க, ஆர்த்தடாக்ஸ் மற்றும் பெரும்பாலான புராட்டஸ்டன்ட் சபைகள் பகிர்ந்துகொள்ளும் வரலாற்று நிசேயா (திரித்துவ) ஒருமித்த நம்பிக்கைக்கு இது வெளியே நிற்கிறது; இங்கு அதன் சொந்தச் சொற்களிலேயே விவரிக்கப்படுகிறது.*'));
   if (focusField) parts.push(`**${field(focusField)}:** ${t.profile[focusField]}`);
   else parts.push(`${tt('Distinctives', 'தனித்துவங்கள்')}:\n${bullets(t.distinctives, 5)}`);
+  const dp = a.profileOf.get(t.id);
+  if (dp && !focusField) {
+    parts.push(`${tt('Core doctrines', 'அடிப்படைக் கோட்பாடுகள்')}:\n${bullets(dp.coreDoctrines, 5)}`);
+    parts.push(`${tt('Focus', 'கவனம்')}:\n${bullets(dp.focuses, 4)}`);
+    const inf = dp.influencedBy.map((x) => (x.traditionId ? link('tradition', x.traditionId, a.get<Tradition>('tradition', x.traditionId)?.name ?? x.name) : x.name));
+    if (inf.length) parts.push(`${tt('Shaped by', 'இதை வடிவமைத்தவை')}: ${inf.join(', ')}.`);
+  }
   if (chain.length > 1) parts.push(`${tt('Lineage', 'வம்சாவளி')}: ${chain.map((c) => link('tradition', c.id, c.name)).join(' → ')}`);
   if (split) parts.push(`${tt('Founding moment', 'தோற்றத் தருணம்')}: ${link('event', split.id, split.title)} (${formatYear(split.year, split.circa)}).`);
   if (kids.length) parts.push(`${tt('Branches', 'கிளைகள்')}: ${kids.slice(0, 8).map((k) => link('tradition', k.id, k.name)).join(', ')}${kids.length > 8 ? tt(` and ${kids.length - 8} more`, `, மேலும் ${kids.length - 8}`) : ''}.`);
@@ -568,6 +575,14 @@ export function answerOffline(a: Atlas, question: string, focus?: Ref): OfflineA
   const q = question.trim();
   const ql = ' ' + q.toLowerCase().replace(/[?!.]/g, ' ') + ' ';
   if (!q || /^\s*(help|hi|hello|hey|what can you do|how do i use|உதவி|வணக்கம்)/i.test(q)) return { text: isTA() ? HELP_TA : HELP, steps, related };
+
+  // Fact checks about denominations ("how many denominations are there?", "30,000 denominations").
+  if (a.denomFacts.length && (/\b(denominations?|30,?000|33,?000|45,?000|47,?000)\b/.test(ql) || /(சபைப் பிரிவு|சபைப்பிரிவு|பிரிவுகள்)/.test(ql)) && /\b(how many|number|really|true|30|33|45|47)\b|எத்தனை|உண்மை/.test(ql)) {
+    const f = a.denomFacts[0];
+    steps.push(t('Checked the denomination fact checks', 'சபைப் பிரிவு உண்மைச் சரிபார்ப்புகளைப் பார்த்தேன்'));
+    const figs = f.figures.slice(0, 6).map((g) => `- ${g.label}${g.year ? ` (${g.year})` : ''}: **${g.value.toLocaleString('en-IN')}**`).join('\n');
+    return { text: `**${f.question}**\n\n${f.answer}\n\n${f.explanation.split(/\n\s*\n/)[0]}${figs ? `\n\n${figs}` : ''}\n\n${t('See the Denominations page for the full fact check and the mind map.', 'முழு உண்மைச் சரிபார்ப்புக்கும் மன வரைபடத்துக்கும் சபைப் பிரிவுகள் பக்கத்தைப் பாருங்கள்.')}`, steps, related };
+  }
 
   let found = recognise(a, q).map((h) => h.ref);
   if (found.length) steps.push(`${t('Recognised', 'அடையாளம் கண்டவை:')} ${found.slice(0, 4).map((r) => name(a, r)).join(', ')}`);

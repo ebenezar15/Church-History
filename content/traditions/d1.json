@@ -1,0 +1,2168 @@
+{
+  "denomProfiles": [
+    {
+      "id": "early-church",
+      "tagline": "The apostolic and patristic church from Pentecost to the age of the councils.",
+      "coreDoctrines": [
+        "Jesus of Nazareth as the crucified and risen Messiah and Lord, confessed in baptismal 'rules of faith'.",
+        "One God, Creator of all, revealed as Father, Son and Holy Spirit; defined at Nicaea (325) and Constantinople (381).",
+        "Salvation through Christ's death and resurrection, received in faith, baptism and a life of repentance.",
+        "Bodily resurrection of the dead and the return of Christ in judgement.",
+        "Apostolic succession of bishops as a guarantee of true teaching (Irenaeus, Against Heresies, c. 180).",
+        "A gradually recognised New Testament canon alongside the Septuagint Old Testament."
+      ],
+      "focuses": [
+        "Mission across the Roman Empire and beyond, into Persia, Armenia, Ethiopia and India.",
+        "Martyrdom and steadfastness under intermittent persecution until the Edict of Milan (313).",
+        "Defining orthodoxy against Gnostic, Marcionite and later Arian teaching.",
+        "Care for widows, orphans, the sick and the poor as a mark of the community.",
+        "Ascetic discipline, culminating in the desert monasticism of the 4th century."
+      ],
+      "practices": [
+        "Sunday assembly for Scripture reading, prayer and the Eucharist (Justin Martyr, First Apology, c. 155).",
+        "Catechumenate and baptism, often at Easter, with anointing and laying on of hands.",
+        "Fasting on Wednesdays and Fridays and before Easter (Didache).",
+        "Veneration of martyrs at their tombs on the anniversaries of their deaths.",
+        "Bishops, presbyters and deacons, with orders of widows and deaconesses."
+      ],
+      "influencedBy": [
+        {
+          "name": "Second Temple Judaism",
+          "text": "Synagogue worship, the Hebrew Scriptures in Greek and Jewish ethics shaped the first churches."
+        },
+        {
+          "name": "Paul of Tarsus",
+          "text": "His letters and Gentile mission set the terms for a church of Jews and Gentiles."
+        },
+        {
+          "name": "Greco-Roman philosophy",
+          "text": "Apologists such as Justin and Origen used Platonist and Stoic categories to explain the faith."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Roman Catholic Church",
+          "text": "Latin Christianity claims continuity with the early church through the see of Rome.",
+          "traditionId": "catholic"
+        },
+        {
+          "name": "Eastern Orthodox Church",
+          "text": "Orthodoxy regards itself as the unbroken continuation of the patristic church.",
+          "traditionId": "eastern-orthodox"
+        },
+        {
+          "name": "Oriental Orthodox Churches",
+          "text": "Coptic, Syriac, Armenian and Ethiopian churches preserve pre-Chalcedonian traditions.",
+          "traditionId": "oriental-orthodox"
+        },
+        {
+          "name": "Church of the East",
+          "text": "Persian Christianity grew from the early Syriac-speaking church.",
+          "traditionId": "church-of-the-east"
+        },
+        {
+          "name": "Stone–Campbell Restoration Movement",
+          "text": "Restorationists sought to recover the New Testament church as they read it.",
+          "traditionId": "stone-campbell-restoration"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Paul of Tarsus",
+          "role": "Apostle to the Gentiles and author of the earliest Christian writings",
+          "personId": "paul-of-tarsus"
+        },
+        {
+          "name": "Ignatius of Antioch",
+          "role": "Bishop and martyr whose letters (c. 110) witness to episcopal order",
+          "personId": "ignatius-of-antioch"
+        },
+        {
+          "name": "Irenaeus of Lyon",
+          "role": "Theologian of apostolic tradition and the rule of faith",
+          "personId": "irenaeus"
+        },
+        {
+          "name": "Athanasius of Alexandria",
+          "role": "Defender of Nicene teaching and witness to the 27-book New Testament (367)",
+          "personId": "athanasius"
+        },
+        {
+          "name": "Augustine of Hippo",
+          "role": "Western theologian of grace, the church and the sacraments",
+          "personId": "augustine-of-hippo"
+        }
+      ],
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 4,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "both",
+        "eucharist": "real-presence",
+        "gifts": "open",
+        "women": "some-roles",
+        "trinity": "nicene"
+      },
+      "inIndia": "The St Thomas Christians of Kerala trace their origin to the apostle Thomas (traditionally AD 52); Eusebius reports Pantaenus visiting 'India' c. 180, and Cosmas Indicopleustes (c. 550) found Christians in Malabar.",
+      "sources": [
+        "chadwick-early-church",
+        "kelly-doctrines",
+        "frend-rise",
+        "i1-mundadan-history"
+      ]
+    },
+    {
+      "id": "montanist",
+      "tagline": "Second-century prophetic movement awaiting the descent of the New Jerusalem in Phrygia.",
+      "coreDoctrines": [
+        "The Paraclete promised in John's Gospel speaks anew through the prophets Montanus, Priscilla and Maximilla.",
+        "New prophecy completes rather than contradicts apostolic teaching; its oracles were written down and read.",
+        "Imminent end: the heavenly Jerusalem would descend at Pepuza and Tymion in Phrygia.",
+        "Stricter discipline than the mainstream church, including no remarriage after a spouse's death.",
+        "Mainstream teaching on God and Christ; Tertullian's Trinitarian writing dates from his Montanist period."
+      ],
+      "focuses": [
+        "Ecstatic prophecy as a continuing gift of the Spirit.",
+        "Moral rigour: extended fasts, celibacy and refusal to flee persecution.",
+        "Readiness for martyrdom.",
+        "Prominent prophetic and clerical roles for women."
+      ],
+      "practices": [
+        "Ecstatic oracles spoken in the first person as the voice of the Spirit.",
+        "Extra fasts ('xerophagies' of dry food) beyond those kept by other churches.",
+        "Pilgrimage to Pepuza, later the seat of the movement's patriarch.",
+        "Women prophets, and according to Epiphanius women presbyters and bishops among some groups."
+      ],
+      "influencedBy": [
+        {
+          "name": "The Gospel of John",
+          "text": "Jesus' promise of the Paraclete was central to Montanist self-understanding."
+        },
+        {
+          "name": "The Book of Revelation",
+          "text": "Its vision of the New Jerusalem shaped the expectation centred on Pepuza."
+        },
+        {
+          "name": "The Early Church",
+          "text": "Montanism arose inside the church in Asia Minor before being excluded by local synods.",
+          "traditionId": "early-church"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Closure of the canon",
+          "text": "Reaction to new oracles pushed the mainstream church to emphasise a fixed apostolic Scripture."
+        },
+        {
+          "name": "Tertullian",
+          "text": "The Carthaginian theologian adopted the New Prophecy around 207 and defended it in later works."
+        },
+        {
+          "name": "Pentecostalism",
+          "text": "Some Pentecostal writers have claimed Montanists as forerunners, though there is no historical continuity.",
+          "traditionId": "pentecostal"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Montanus",
+          "role": "Founding prophet in Phrygia, c. 156–172",
+          "personId": "montanus"
+        },
+        {
+          "name": "Priscilla (Prisca)",
+          "role": "Prophetess whose oracles were collected"
+        },
+        {
+          "name": "Maximilla",
+          "role": "Prophetess who predicted wars and the end after her death"
+        },
+        {
+          "name": "Tertullian",
+          "role": "Most famous convert and its leading Latin apologist",
+          "personId": "tertullian"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 3,
+        "authority": "scripture-and-new-revelation",
+        "governance": "episcopal",
+        "baptism": "both",
+        "eucharist": "real-presence",
+        "gifts": "charismatic",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "trevett-montanism",
+        "tabbernee-fake-prophecy",
+        "tabbernee-prophets"
+      ]
+    },
+    {
+      "id": "marcionite",
+      "tagline": "Marcion's church of the 'stranger God', with the first fixed Christian canon.",
+      "coreDoctrines": [
+        "The God revealed by Jesus is a good 'stranger God', distinct from the just Creator of the Old Testament.",
+        "The Jewish Scriptures are rejected as Christian Scripture; Marcion's Antitheses set Law against Gospel.",
+        "A closed canon: a shortened Gospel related to Luke and ten letters of Paul (the Apostolikon).",
+        "Christ appeared in a body that only seemed fleshly (docetism) and was not born of Mary.",
+        "Salvation as rescue of souls from the Creator's world; no resurrection of the flesh."
+      ],
+      "focuses": [
+        "Paul as the one true apostle, with the others thought to have corrupted the gospel.",
+        "Strict asceticism, refusing marriage and procreation in the Creator's world.",
+        "Organised congregations under bishops, rivalling the mainstream churches.",
+        "Rejection of allegorical readings that harmonised the Old Testament with the gospel."
+      ],
+      "practices": [
+        "Baptism granted only to celibates or married couples who renounced sexual relations.",
+        "Eucharist celebrated with bread and water rather than wine.",
+        "Abstinence from meat.",
+        "Women reportedly permitted to baptise (Epiphanius)."
+      ],
+      "influencedBy": [
+        {
+          "name": "Paul's letters",
+          "text": "Marcion read Paul's Law–grace contrast as a contrast between two gods."
+        },
+        {
+          "name": "Cerdo",
+          "text": "A Syrian teacher in Rome said by Irenaeus to have taught Marcion the two-God doctrine."
+        },
+        {
+          "name": "The Early Church",
+          "text": "Marcion was a member of the Roman congregation until his break around 144.",
+          "traditionId": "early-church"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "The New Testament canon",
+          "text": "Many scholars argue Marcion's canon spurred the church to define its own, though how far is debated."
+        },
+        {
+          "name": "Tertullian, Against Marcion",
+          "text": "The largest anti-heretical work of the period defended the unity of Creator and Redeemer."
+        },
+        {
+          "name": "Adolf von Harnack",
+          "text": "His 1921 study admired Marcion and urged Protestants to drop the Old Testament as canon."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Marcion of Sinope",
+          "role": "Shipowner and founder, active in Rome c. 140–160",
+          "personId": "marcion"
+        },
+        {
+          "name": "Apelles",
+          "role": "Disciple who modified Marcion's dualism"
+        },
+        {
+          "name": "Justin Martyr",
+          "role": "Early critic who wrote a lost treatise against Marcion",
+          "personId": "justin-martyr"
+        },
+        {
+          "name": "Tertullian",
+          "role": "Author of the five-book Against Marcion (c. 207–212)",
+          "personId": "tertullian"
+        }
+      ],
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 3,
+        "authority": "scripture-alone",
+        "governance": "episcopal",
+        "baptism": "believer",
+        "eucharist": "spiritual-presence",
+        "gifts": "open",
+        "women": "some-roles",
+        "trinity": "non-nicene"
+      },
+      "sources": [
+        "harnack-marcion",
+        "metzger-canon",
+        "chadwick-early-church"
+      ]
+    },
+    {
+      "id": "gnostic",
+      "tagline": "Diverse early movements teaching salvation through saving knowledge (gnosis) of a hidden God.",
+      "coreDoctrines": [
+        "A transcendent, unknowable God beyond the material world, from whom divine beings (aeons) emanate.",
+        "The visible world made by a lesser and ignorant creator, the demiurge, often identified with Israel's God.",
+        "Sparks of the divine trapped in some humans, awakened by knowledge brought by a revealer.",
+        "Christ as heavenly revealer; many groups denied that he truly suffered in the flesh.",
+        "Secret traditions and revelations beyond the public apostolic writings."
+      ],
+      "focuses": [
+        "Myth and speculative cosmology, as in the Apocryphon of John.",
+        "Spiritual ascent of the soul past cosmic powers.",
+        "Reinterpretation of Genesis and of Jesus' sayings, as in the Gospel of Thomas and Gospel of Truth.",
+        "Distinguishing 'spiritual' believers from ordinary Christians."
+      ],
+      "practices": [
+        "Valentinian rites of baptism, chrism, eucharist, 'redemption' and 'bridal chamber' (Gospel of Philip).",
+        "Study circles and schools gathered around a teacher, often inside wider churches.",
+        "Ascetic discipline in some groups; others were accused by critics of libertinism.",
+        "Prayers and passwords for the soul's ascent after death."
+      ],
+      "influencedBy": [
+        {
+          "name": "Middle Platonism",
+          "text": "Ideas of a remote first principle and a craftsman of the cosmos were widely shared."
+        },
+        {
+          "name": "Jewish apocalyptic and wisdom speculation",
+          "text": "Many myths rework Genesis and the figure of Wisdom (Sophia)."
+        },
+        {
+          "name": "The Early Church",
+          "text": "Valentinus and others taught within Christian communities in Alexandria and Rome.",
+          "traditionId": "early-church"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Irenaeus, Against Heresies",
+          "text": "The response to Gnostic teaching helped define apostolic succession and the rule of faith."
+        },
+        {
+          "name": "Manichaeism",
+          "text": "Mani's 3rd-century religion drew on similar dualist themes."
+        },
+        {
+          "name": "Nag Hammadi library",
+          "text": "The 1945 discovery of 13 Coptic codices transformed modern study and popular interest."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Valentinus",
+          "role": "Alexandrian teacher in Rome c. 136–160, founder of the Valentinian school"
+        },
+        {
+          "name": "Basilides",
+          "role": "Teacher in Alexandria under Hadrian"
+        },
+        {
+          "name": "Ptolemy",
+          "role": "Valentinian author of the Letter to Flora"
+        },
+        {
+          "name": "Irenaeus of Lyon",
+          "role": "Principal critic and source for Gnostic systems",
+          "personId": "irenaeus"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 4,
+        "authority": "scripture-and-new-revelation",
+        "governance": "none",
+        "baptism": "believer",
+        "eucharist": "spiritual-presence",
+        "gifts": "open",
+        "women": "varies",
+        "trinity": "non-nicene"
+      },
+      "sources": [
+        "king-gnosticism",
+        "p2-rudolph-gnosis",
+        "p2-layton-gnostic-scriptures",
+        "p2-williams-rethinking-gnosticism"
+      ]
+    },
+    {
+      "id": "arian-homoian",
+      "tagline": "Fourth-century theology of a subordinate Son, faith of the Goths and Vandals.",
+      "coreDoctrines": [
+        "The Father alone is unbegotten and without beginning; the Son was begotten before time but 'there was when he was not' (Arius).",
+        "The Son is divine and Creator of all else, yet subordinate to and distinct in being from the Father.",
+        "Homoian formula (Rimini and Constantinople, 359–360): the Son is 'like' (homoios) the Father according to the Scriptures.",
+        "Rejection of non-scriptural terms such as ousia and the Nicene homoousios.",
+        "The Holy Spirit as a creature subordinate to the Son."
+      ],
+      "focuses": [
+        "Protecting the uniqueness of the one God.",
+        "Biblical language in creeds.",
+        "Mission among the Germanic peoples, through Ulfilas and Gothic clergy.",
+        "A church identity separating Gothic and Vandal rulers from Nicene Roman subjects."
+      ],
+      "practices": [
+        "Episcopal churches with liturgy in Gothic as well as Latin and Greek.",
+        "Ulfilas' Gothic Bible translation (c. 350s), surviving in the Codex Argenteus.",
+        "Rebaptism of Nicene converts in Vandal North Africa.",
+        "Doxologies giving glory to the Father through the Son in the Spirit."
+      ],
+      "influencedBy": [
+        {
+          "name": "Origen",
+          "text": "His teaching on the Son's eternal generation and subordination was developed in different directions."
+        },
+        {
+          "name": "Lucian of Antioch",
+          "text": "Arius and several allies called themselves 'fellow Lucianists'."
+        },
+        {
+          "name": "Emperor Constantius II",
+          "text": "Imperial backing made the Homoian creed official from 360 to 378."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Nicene–Constantinopolitan Creed",
+          "text": "Opposition to Arianism produced the creed of 381 and the Cappadocian doctrine of the Trinity."
+        },
+        {
+          "name": "Unitarianism",
+          "text": "Early modern anti-Trinitarians were often labelled 'Arians', though most held different views.",
+          "traditionId": "unitarian"
+        },
+        {
+          "name": "Jehovah's Witnesses",
+          "text": "Their teaching that the Son is a created being is often compared to Arius.",
+          "traditionId": "jehovahs-witnesses"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Arius",
+          "role": "Alexandrian presbyter condemned at Nicaea (325)",
+          "personId": "arius"
+        },
+        {
+          "name": "Eusebius of Nicomedia",
+          "role": "Court bishop who baptised Constantine"
+        },
+        {
+          "name": "Ulfilas (Wulfila)",
+          "role": "Bishop and translator of the Bible into Gothic",
+          "personId": "ulfilas"
+        },
+        {
+          "name": "Eunomius of Cyzicus",
+          "role": "Leader of the more radical Heterousian party",
+          "personId": "eunomius-of-cyzicus"
+        },
+        {
+          "name": "Reccared I",
+          "role": "Visigothic king whose conversion at Toledo (589) ended Arianism in Spain"
+        }
+      ],
+      "axes": {
+        "liturgy": 4,
+        "sacramental": 4,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "both",
+        "eucharist": "real-presence",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "non-nicene"
+      },
+      "sources": [
+        "hanson-search",
+        "ayres-nicaea",
+        "m1-philostorgius-church-history"
+      ]
+    },
+    {
+      "id": "donatist",
+      "tagline": "North African church of the martyrs that refused bishops who had compromised under persecution.",
+      "coreDoctrines": [
+        "The church must be a pure body of saints, free from clergy who handed over Scriptures (traditores) in 303–305.",
+        "Sacraments given by unworthy or schismatic clergy are invalid; converts were rebaptised, following Cyprian.",
+        "Orthodox Nicene teaching on God and Christ; the dispute was over the church and sacraments.",
+        "Persecution as the sign of the true church, the church of the martyrs."
+      ],
+      "focuses": [
+        "Purity and holiness of the clergy.",
+        "Cult of the martyrs and their relics.",
+        "Resistance to imperial interference in church affairs ('What has the emperor to do with the church?').",
+        "Local African identity, strongest in Numidia."
+      ],
+      "practices": [
+        "Rebaptism of Catholics who joined them.",
+        "Rival bishops in almost every African town; about 270 attended the Conference of Carthage (411).",
+        "Martyr festivals and veneration at shrines.",
+        "Militant ascetic bands (circumcellions) in the countryside, sometimes violent."
+      ],
+      "influencedBy": [
+        {
+          "name": "Cyprian of Carthage",
+          "text": "His teaching that baptism outside the church is invalid was their chief precedent."
+        },
+        {
+          "name": "The Great Persecution",
+          "text": "The surrender of Scriptures under Diocletian provoked the schism."
+        },
+        {
+          "name": "The Early Church",
+          "text": "They shared North African Latin Christianity before the disputed election of Caecilian (311).",
+          "traditionId": "early-church"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Augustine's sacramental theology",
+          "text": "Against them he taught that sacraments are Christ's and valid despite an unworthy minister."
+        },
+        {
+          "name": "Augustine on coercion",
+          "text": "His defence of imperial force against schismatics (Letter 93) shaped later Western practice."
+        },
+        {
+          "name": "Tyconius' Book of Rules",
+          "text": "A Donatist's rules of biblical interpretation were adopted by Augustine."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Donatus Magnus",
+          "role": "Bishop of Carthage c. 313–355 who gave the movement its name"
+        },
+        {
+          "name": "Parmenian",
+          "role": "Successor of Donatus and leading writer"
+        },
+        {
+          "name": "Tyconius",
+          "role": "Lay theologian of the church and of Revelation",
+          "personId": "tyconius"
+        },
+        {
+          "name": "Petilian of Cirta",
+          "role": "Bishop who debated Augustine"
+        },
+        {
+          "name": "Augustine of Hippo",
+          "role": "Leading Catholic opponent",
+          "personId": "augustine-of-hippo"
+        }
+      ],
+      "axes": {
+        "liturgy": 4,
+        "sacramental": 4,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "both",
+        "eucharist": "real-presence",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "frend-donatist",
+        "brown-augustine",
+        "chadwick-early-church"
+      ]
+    },
+    {
+      "id": "catholic",
+      "tagline": "The world's largest church, in communion with the Bishop of Rome.",
+      "coreDoctrines": [
+        "One, holy, catholic and apostolic Church 'subsisting in' the Catholic Church governed by Peter's successor and the bishops (Lumen gentium 8).",
+        "Revelation transmitted by Scripture and Tradition, authentically interpreted by the magisterium.",
+        "Seven sacraments; in the Eucharist the bread and wine become Christ's body and blood (transubstantiation, Lateran IV 1215, Trent 1551).",
+        "Justification by grace, received in faith and baptism, with cooperation of free will (Trent, Decree on Justification, 1547).",
+        "Papal primacy and infallibility when defining doctrine ex cathedra (Vatican I, Pastor aeternus, 1870).",
+        "Marian dogmas: Mother of God, perpetual virginity, Immaculate Conception (1854), Assumption (1950)."
+      ],
+      "focuses": [
+        "Sacramental parish life centred on Sunday Mass.",
+        "Education, healthcare and charity on a global scale through orders, dioceses and Caritas.",
+        "Catholic social teaching from Rerum novarum (1891) to Laudato si' (2015).",
+        "Evangelisation and inculturation; most Catholics now live in the global South.",
+        "Defence of human life from conception to natural death."
+      ],
+      "practices": [
+        "Mass in the Roman Rite, in vernacular languages since the reforms after Vatican II (1969 Missal).",
+        "Confession, Lenten fasting and the liturgical year of feasts and saints.",
+        "Devotions: the rosary, eucharistic adoration, pilgrimage to Marian shrines.",
+        "Celibate priesthood in the Latin Church; religious orders such as Benedictines, Franciscans and Jesuits.",
+        "Infant baptism, with confirmation and first communion in childhood."
+      ],
+      "influencedBy": [
+        {
+          "name": "The Early Church",
+          "text": "Catholics regard the apostolic and patristic church as their own earlier history.",
+          "traditionId": "early-church"
+        },
+        {
+          "name": "Augustine of Hippo",
+          "text": "His theology of grace, the church and the sacraments shaped Western Catholicism."
+        },
+        {
+          "name": "Thomas Aquinas",
+          "text": "His Summa theologiae became the standard framework of Catholic theology."
+        },
+        {
+          "name": "Council of Trent",
+          "text": "The 1545–63 council defined Catholic teaching against the Protestant Reformation."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Lutheranism",
+          "text": "The Reformation began as a reform movement inside the Catholic Church.",
+          "traditionId": "lutheran"
+        },
+        {
+          "name": "Anglicanism",
+          "text": "The Church of England kept much Catholic order and liturgy after 1534.",
+          "traditionId": "anglican"
+        },
+        {
+          "name": "Eastern Catholic Churches",
+          "text": "Eastern churches entered communion with Rome while keeping their own rites.",
+          "traditionId": "eastern-catholic"
+        },
+        {
+          "name": "Old Catholic Churches",
+          "text": "Catholics who rejected Vatican I formed independent churches.",
+          "traditionId": "old-catholic"
+        },
+        {
+          "name": "Charismatic Renewal",
+          "text": "The Catholic Charismatic Renewal began at Duquesne University in 1967.",
+          "traditionId": "charismatic-renewal"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Simon Peter",
+          "role": "Apostle regarded as the first Bishop of Rome",
+          "personId": "peter-apostle"
+        },
+        {
+          "name": "Gregory the Great",
+          "role": "Pope 590–604, reformer of liturgy and mission",
+          "personId": "gregory-the-great"
+        },
+        {
+          "name": "Thomas Aquinas",
+          "role": "Dominican theologian and Doctor of the Church",
+          "personId": "thomas-aquinas"
+        },
+        {
+          "name": "John Paul II",
+          "role": "Pope 1978–2005, global pastor and Polish dissident voice",
+          "personId": "john-paul-ii"
+        },
+        {
+          "name": "Leo XIV",
+          "role": "Pope since May 2025, the first from the United States"
+        }
+      ],
+      "members": {
+        "estimate": 1390000000,
+        "year": 2022,
+        "note": "Baptised Catholics at end of 2022, Annuarium Statisticum Ecclesiae (Vatican, 2024)."
+      },
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-tradition-magisterium",
+        "governance": "papal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "India has nearly 20 million Catholics in three churches: the Latin Church (most dioceses, rooted in the Portuguese mission at Goa from 1510 and in Tamil Nadu's coastal and Madurai missions), and the Syro-Malabar and Syro-Malankara Churches of Kerala. Tamil Nadu has large Latin Catholic communities and the national shrine of Our Lady of Good Health at Velankanni.",
+      "sources": [
+        "catechism-catholic-church",
+        "annuario-statistics",
+        "vatican-ii-documents",
+        "odcc",
+        "frykenberg-india"
+      ]
+    },
+    {
+      "id": "eastern-catholic",
+      "tagline": "Twenty-three Eastern churches in full communion with Rome, keeping their own rites.",
+      "coreDoctrines": [
+        "Catholic faith in full: the seven sacraments, the ecumenical councils and the primacy and infallibility of the Pope (Vatican I, 1870).",
+        "Each church is sui iuris (self-governing) with its own hierarchy, liturgy, spirituality and law.",
+        "Eastern traditions are equal in dignity to the Latin rite (Vatican II, Orientalium Ecclesiarum, 1964).",
+        "Eastern theological emphases such as theosis may be expressed alongside Latin formulations.",
+        "Canon law in the Code of Canons of the Eastern Churches (1990)."
+      ],
+      "focuses": [
+        "Preserving Byzantine, Alexandrian, Antiochene, Armenian and East Syriac liturgical heritage.",
+        "Unity with Rome without Latinisation, and recovery of traditions lost in earlier centuries.",
+        "Survival of minority communities in the Middle East and Eastern Europe.",
+        "Diaspora churches in the Americas, Europe and Australia.",
+        "A bridge, sometimes contested, in Catholic–Orthodox relations."
+      ],
+      "practices": [
+        "Eastern liturgies such as the Divine Liturgy of St John Chrysostom or the Qurbana of Addai and Mari.",
+        "Baptism, chrismation and communion given together to infants in most churches.",
+        "Married priests ordained in the homelands of most churches.",
+        "Patriarchs and major archbishops elected by their synods, confirmed by or in communion with the Pope.",
+        "Icons, Eastern fasts and calendars, and the Jesus Prayer in Byzantine churches."
+      ],
+      "influencedBy": [
+        {
+          "name": "Roman Catholic Church",
+          "text": "Communion with Rome defines these churches.",
+          "traditionId": "catholic"
+        },
+        {
+          "name": "Eastern Orthodox Church",
+          "text": "Byzantine Catholics share the rite and heritage of Orthodoxy.",
+          "traditionId": "eastern-orthodox"
+        },
+        {
+          "name": "Oriental Orthodox Churches",
+          "text": "Coptic, Syriac, Armenian and Ethiopian Catholic churches share Oriental rites.",
+          "traditionId": "oriental-orthodox"
+        },
+        {
+          "name": "Union of Brest (1595–96)",
+          "text": "The model of corporate union for many later Eastern Catholic churches."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Catholic–Orthodox dialogue",
+          "text": "The Balamand Statement (1993) rejected 'uniatism' as a method of union while affirming these churches' right to exist."
+        },
+        {
+          "name": "Vatican II",
+          "text": "Eastern bishops such as Maximos IV Sayegh pressed the council on collegiality and the vernacular."
+        },
+        {
+          "name": "Syro-Malabar Catholic Church",
+          "text": "The largest Eastern Catholic church in Asia.",
+          "traditionId": "syro-malabar-catholic"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Andrey Sheptytsky",
+          "role": "Metropolitan of Lviv 1901–44 and champion of Eastern identity"
+        },
+        {
+          "name": "Maximos IV Sayegh",
+          "role": "Melkite Patriarch and voice of the East at Vatican II"
+        },
+        {
+          "name": "Josyf Slipyj",
+          "role": "Ukrainian Major Archbishop imprisoned in the Soviet Gulag 1945–63"
+        },
+        {
+          "name": "Pope Paul VI",
+          "role": "Promulgated Orientalium Ecclesiarum in 1964",
+          "personId": "paul-vi"
+        }
+      ],
+      "members": {
+        "estimate": 18000000,
+        "year": 2017,
+        "note": "Approximate total of the 23 churches in CNEWA, The Eastern Catholic Churches 2017."
+      },
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-tradition-magisterium",
+        "governance": "papal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "India has two Eastern Catholic churches, both Kerala-based St Thomas Christian bodies: the Syro-Malabar (East Syriac rite) and the Syro-Malankara (West Syriac rite), with eparchies across India including Tamil Nadu.",
+      "sources": [
+        "roberson-eastern-churches",
+        "cnewa-eastern-catholic-2017",
+        "vatican-ii-documents",
+        "d1-ccneo-1990"
+      ]
+    },
+    {
+      "id": "old-catholic",
+      "tagline": "Catholic churches of the first millennium, independent of Rome since 1870.",
+      "coreDoctrines": [
+        "Faith of the undivided church of the first millennium and the seven ecumenical councils (Declaration of Utrecht, 1889).",
+        "Rejection of papal infallibility and universal jurisdiction as defined at Vatican I (1870).",
+        "Rejection of the dogma of the Immaculate Conception (1854) as lacking ancient warrant.",
+        "Seven sacraments; Christ truly present in the Eucharist, without binding definition of transubstantiation.",
+        "Autonomous national churches united in a synodal communion of bishops."
+      ],
+      "focuses": [
+        "Catholic order with synodal governance including clergy and laity.",
+        "Ecumenism, especially full communion with Anglicans (Bonn Agreement, 1931).",
+        "Liturgy in the vernacular, adopted from the 1870s onwards.",
+        "Inclusion: women ordained as priests (Germany from 1996) and in some churches as bishops."
+      ],
+      "practices": [
+        "Eucharist in a revised Western Catholic liturgy in German, Dutch and other languages.",
+        "Married clergy permitted.",
+        "Bishops elected by diocesan synods.",
+        "General confession in the liturgy; private confession optional.",
+        "Blessing of same-sex unions in several member churches."
+      ],
+      "influencedBy": [
+        {
+          "name": "Roman Catholic Church",
+          "text": "Old Catholics separated over Vatican I but keep Catholic liturgy and order.",
+          "traditionId": "catholic"
+        },
+        {
+          "name": "Church of Utrecht (1723)",
+          "text": "The Dutch see that broke with Rome over Jansenism supplied the episcopal succession."
+        },
+        {
+          "name": "Ignaz von Döllinger",
+          "text": "The Munich historian's opposition to infallibility inspired the movement."
+        },
+        {
+          "name": "Jansenism",
+          "text": "The Utrecht church's earlier dispute with Rome arose from Jansenist controversies."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Anglicanism",
+          "text": "Bonn Agreement of 1931 brought full communion with the Church of England.",
+          "traditionId": "anglican"
+        },
+        {
+          "name": "Polish National Catholic Church",
+          "text": "A member of the Union of Utrecht from 1907 to 2003.",
+          "traditionId": "polish-national-catholic"
+        },
+        {
+          "name": "Philippine Independent Church",
+          "text": "In full communion with the Union of Utrecht since 1965.",
+          "traditionId": "philippine-independent-church"
+        },
+        {
+          "name": "Independent Catholic movement",
+          "text": "Many 'independent' bishops trace their orders to Old Catholic consecrations.",
+          "traditionId": "independent-catholic"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Ignaz von Döllinger",
+          "role": "Historian excommunicated in 1871 for rejecting infallibility",
+          "personId": "ignaz-von-dollinger"
+        },
+        {
+          "name": "Joseph Hubert Reinkens",
+          "role": "First Old Catholic bishop in Germany (1873)"
+        },
+        {
+          "name": "Eduard Herzog",
+          "role": "First bishop of the Christian Catholic Church of Switzerland (1876)"
+        },
+        {
+          "name": "Cornelius Steenoven",
+          "role": "Archbishop of Utrecht consecrated without papal approval in 1724"
+        }
+      ],
+      "axes": {
+        "liturgy": 4,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "real-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "odcc",
+        "d1-moss-old-catholic",
+        "d1-utrecht-declaration-1889",
+        "omalley-vatican-i"
+      ]
+    },
+    {
+      "id": "chaldean-catholic",
+      "tagline": "East Syriac church of Iraq in communion with Rome since 1553.",
+      "coreDoctrines": [
+        "Catholic faith in full: the seven sacraments, the ecumenical councils and the primacy and infallibility of the Pope (Vatican I, 1870).",
+        "East Syriac theological heritage of the Church of the East, reconciled with Catholic doctrine.",
+        "Christ one person in two natures; the 1994 Catholic–Assyrian declaration recognised shared faith in Christ.",
+        "Validity of the Anaphora of Addai and Mari, which lacks explicit words of institution (Rome, 2001)."
+      ],
+      "focuses": [
+        "Survival and return of Christians in Iraq after war and the Islamic State's 2014 expulsions.",
+        "Preservation of Syriac (Sureth) language and liturgy.",
+        "A large diaspora in the United States, Australia, Europe and Canada.",
+        "Christian–Muslim relations in Iraq, highlighted by Pope Francis' visit in 2021."
+      ],
+      "practices": [
+        "Holy Qurbana of Addai and Mari in Syriac, Arabic and modern Aramaic.",
+        "East Syriac liturgical year, including the Rogation of the Ninevites.",
+        "Married priests in the Middle East.",
+        "Patriarch of Babylon of the Chaldeans resident in Baghdad."
+      ],
+      "influencedBy": [
+        {
+          "name": "Church of the East",
+          "text": "Chaldeans emerged from the Church of the East after the 1552 succession dispute.",
+          "traditionId": "church-of-the-east"
+        },
+        {
+          "name": "Roman Catholic Church",
+          "text": "Yohannan Sulaqa was confirmed as patriarch by Pope Julius III in 1553.",
+          "traditionId": "catholic"
+        },
+        {
+          "name": "Dominican and Capuchin missions",
+          "text": "Western missions in Mosul shaped Chaldean education from the 17th century."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Assyrian Church of the East",
+          "text": "Shared heritage led to joint guidelines on mutual admission to the Eucharist (2001).",
+          "traditionId": "assyrian-church-of-the-east"
+        },
+        {
+          "name": "Syro-Malabar Catholic Church",
+          "text": "Chaldean prelates oversaw the Kerala St Thomas Christians in the 16th and 19th centuries.",
+          "traditionId": "syro-malabar-catholic"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Yohannan Sulaqa",
+          "role": "First patriarch in union with Rome, martyred in 1555"
+        },
+        {
+          "name": "Joseph VI Audo",
+          "role": "Patriarch 1848–78 who resisted Latinisation at Vatican I"
+        },
+        {
+          "name": "Louis Raphaël I Sako",
+          "role": "Patriarch since 2013 and cardinal since 2018"
+        },
+        {
+          "name": "Ragheed Ganni",
+          "role": "Priest killed in Mosul in 2007"
+        }
+      ],
+      "members": {
+        "estimate": 630000,
+        "year": 2017,
+        "note": "CNEWA, The Eastern Catholic Churches 2017 (statistical table compiled from the Annuario Pontificio)."
+      },
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-tradition-magisterium",
+        "governance": "papal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "There is no Chaldean eparchy in India, but Chaldean bishops served the St Thomas Christians in the 16th century, and the 1874 mission of Mar Elias Mellus at Thrissur led to the Chaldean Syrian Church, now part of the Assyrian Church of the East.",
+      "sources": [
+        "baum-winkler-east",
+        "wilmshurst-martyred-church",
+        "roberson-eastern-churches",
+        "pontifical-addai-mari-2001"
+      ]
+    },
+    {
+      "id": "maronite-catholic",
+      "tagline": "Lebanon's Syriac Catholic church of St Maron, never separated from Rome by its own account.",
+      "coreDoctrines": [
+        "Catholic faith in full: the seven sacraments, the ecumenical councils and the primacy and infallibility of the Pope (Vatican I, 1870).",
+        "Antiochene Syriac theological heritage, with strong Latin influence since the 16th century.",
+        "Maronite tradition of 'perpetual orthodoxy' and continuous communion with Rome, which some historians question for the 7th–12th centuries.",
+        "Veneration of saints of the Lebanese mountains, such as Charbel Makhlouf (canonised 1977)."
+      ],
+      "focuses": [
+        "Lebanese national and Christian identity since the Ottoman and French mandate periods.",
+        "Monastic life of the Lebanese orders in the mountains.",
+        "Education, through institutions such as Université Saint-Esprit de Kaslik.",
+        "A diaspora larger than the home community, in the Americas and Australia."
+      ],
+      "practices": [
+        "Qurbono (Divine Liturgy) of West Syriac origin in Arabic, with Syriac chants such as the Qadishat.",
+        "Anaphora of the Twelve Apostles and other Syriac anaphoras.",
+        "Married priests in Lebanon and, since 2014, permitted in the diaspora.",
+        "Pilgrimage to the Qadisha Valley, a UNESCO World Heritage site."
+      ],
+      "influencedBy": [
+        {
+          "name": "St Maron",
+          "text": "The 5th-century Syrian hermit whose monastery gave the church its name."
+        },
+        {
+          "name": "Syriac Christianity",
+          "text": "Its liturgy and spirituality come from the Antiochene Syriac tradition.",
+          "traditionId": "syriac-orthodox"
+        },
+        {
+          "name": "Roman Catholic Church",
+          "text": "Contacts with the crusaders (1182) and the Maronite College in Rome (1584) bound it to Rome.",
+          "traditionId": "catholic"
+        },
+        {
+          "name": "Synod of Mount Lebanon (1736)",
+          "text": "Reorganised the church on Tridentine lines."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Melkite and Syriac Catholic Churches",
+          "text": "Maronite Lebanon gave refuge to other Eastern Catholic communities.",
+          "traditionId": "melkite-greek-catholic"
+        },
+        {
+          "name": "European Syriac scholarship",
+          "text": "Maronite scholars such as the Assemani family brought Syriac learning to Europe."
+        },
+        {
+          "name": "The Lebanese state",
+          "text": "The National Pact of 1943 reserved the presidency of Lebanon for a Maronite."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Maron",
+          "role": "Syrian hermit (d. c. 410), patron of the church"
+        },
+        {
+          "name": "John Maron",
+          "role": "Traditional first patriarch (d. 707)"
+        },
+        {
+          "name": "Estephan al-Douaihy",
+          "role": "Patriarch 1670–1704 and historian of the church"
+        },
+        {
+          "name": "Charbel Makhlouf",
+          "role": "Hermit and saint (1828–98)"
+        },
+        {
+          "name": "Bechara Boutros al-Rahi",
+          "role": "Patriarch of Antioch since 2011 and cardinal"
+        }
+      ],
+      "members": {
+        "estimate": 3500000,
+        "year": 2017,
+        "note": "CNEWA, The Eastern Catholic Churches 2017 (statistical table compiled from the Annuario Pontificio)."
+      },
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-tradition-magisterium",
+        "governance": "papal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "moosa-maronites",
+        "roberson-eastern-churches",
+        "cnewa-eastern-catholic-2017"
+      ]
+    },
+    {
+      "id": "melkite-greek-catholic",
+      "tagline": "Arabic-speaking Byzantine Catholic church of Antioch, Damascus and the Levant.",
+      "coreDoctrines": [
+        "Catholic faith in full: the seven sacraments, the ecumenical councils and the primacy and infallibility of the Pope (Vatican I, 1870).",
+        "Byzantine Orthodox theology and spirituality held together with communion with Rome.",
+        "A strong theology of the local church and synod, defended at Vatican I and Vatican II.",
+        "Hope for reunion with the Orthodox Patriarchate of Antioch, from which it separated in 1724."
+      ],
+      "focuses": [
+        "Defending Eastern identity against Latinisation.",
+        "Christian presence and schools in Syria, Lebanon, Israel–Palestine and Jordan.",
+        "Ecumenism with the Antiochian Orthodox Church.",
+        "Diaspora communities in the Americas and Australia."
+      ],
+      "practices": [
+        "Divine Liturgy of St John Chrysostom in Arabic and Greek.",
+        "Icons, Byzantine hymnody and Eastern fasting.",
+        "Married priests, including in the diaspora.",
+        "Infant initiation by baptism, chrismation and first communion together."
+      ],
+      "influencedBy": [
+        {
+          "name": "Antiochian Orthodox Church",
+          "text": "The Melkites share the Byzantine heritage of the Patriarchate of Antioch.",
+          "traditionId": "antiochian-orthodox"
+        },
+        {
+          "name": "Roman Catholic Church",
+          "text": "The pro-Catholic party elected Cyril VI Tanas in 1724 and he was recognised by Rome.",
+          "traditionId": "catholic"
+        },
+        {
+          "name": "Jesuit and Capuchin missions",
+          "text": "17th-century missionaries in Aleppo and Damascus fostered the Catholic party."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Vatican II",
+          "text": "Patriarch Maximos IV Sayegh pressed for the vernacular, collegiality and Eastern dignity."
+        },
+        {
+          "name": "Zoghby Initiative (1995)",
+          "text": "Archbishop Elias Zoghby proposed communion with both Rome and Orthodoxy."
+        },
+        {
+          "name": "Eastern Catholic Churches",
+          "text": "A leading voice for de-Latinisation among Eastern Catholics.",
+          "traditionId": "eastern-catholic"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Cyril VI Tanas",
+          "role": "First Melkite Catholic Patriarch (1724)"
+        },
+        {
+          "name": "Maximos III Mazloum",
+          "role": "Patriarch who secured Ottoman civil recognition (1848)"
+        },
+        {
+          "name": "Gregory II Youssef",
+          "role": "Patriarch who opposed infallibility at Vatican I"
+        },
+        {
+          "name": "Maximos IV Sayegh",
+          "role": "Patriarch and cardinal, voice of the East at Vatican II"
+        },
+        {
+          "name": "Youssef Absi",
+          "role": "Patriarch since 2017"
+        }
+      ],
+      "members": {
+        "estimate": 1570000,
+        "year": 2017,
+        "note": "CNEWA, The Eastern Catholic Churches 2017 (statistical table compiled from the Annuario Pontificio)."
+      },
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-tradition-magisterium",
+        "governance": "papal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "roberson-eastern-churches",
+        "atiya-eastern-christianity",
+        "cnewa-eastern-catholic-2017"
+      ]
+    },
+    {
+      "id": "ukrainian-greek-catholic",
+      "tagline": "Largest Eastern Catholic church, heir of Kyivan Christianity and the 1596 Union of Brest.",
+      "coreDoctrines": [
+        "Catholic faith in full: the seven sacraments, the ecumenical councils and the primacy and infallibility of the Pope (Vatican I, 1870).",
+        "Kyivan Byzantine heritage dating from the baptism of Rus' (988).",
+        "Union with Rome on the terms of the Union of Brest (1595–96), retaining Eastern rite and married clergy.",
+        "Self-understanding as a patriarchal church, though Rome recognises a major archbishopric."
+      ],
+      "focuses": [
+        "Ukrainian national and civic life, especially in western Ukraine.",
+        "Memory of martyrs under Soviet persecution after the forced 'liquidation' at the 1946 Lviv pseudo-synod.",
+        "Humanitarian aid and pastoral care during the Russian invasion since 2022.",
+        "Education through the Ukrainian Catholic University in Lviv.",
+        "Diaspora churches in Canada, the United States, Brazil and Argentina."
+      ],
+      "practices": [
+        "Divine Liturgy of St John Chrysostom in Ukrainian and Church Slavonic.",
+        "Icons and iconostasis, Byzantine chant and Eastern feasts, mostly on the Revised Julian calendar since 2023.",
+        "Married priests are the norm in Ukraine.",
+        "Underground worship in homes and forests during the Soviet ban (1946–89)."
+      ],
+      "influencedBy": [
+        {
+          "name": "Eastern Orthodox Church",
+          "text": "The Kyivan Metropolitanate was part of the Patriarchate of Constantinople before 1596.",
+          "traditionId": "eastern-orthodox"
+        },
+        {
+          "name": "Roman Catholic Church",
+          "text": "Communion with Rome came through the Union of Brest.",
+          "traditionId": "catholic"
+        },
+        {
+          "name": "Polish–Lithuanian Commonwealth",
+          "text": "The union arose in the religious politics of the Commonwealth."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Ruthenian Greek Catholic Church",
+          "text": "The neighbouring Union of Uzhhorod (1646) followed the Brest model.",
+          "traditionId": "ruthenian-catholic"
+        },
+        {
+          "name": "Orthodox Church of Ukraine",
+          "text": "Ukrainian church life after 1989 shaped the push for an independent Orthodox church.",
+          "traditionId": "orthodox-church-of-ukraine"
+        },
+        {
+          "name": "Catholic–Orthodox relations",
+          "text": "Its revival after 1989 became a sore point with the Moscow Patriarchate.",
+          "traditionId": "russian-orthodox"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Josaphat Kuntsevych",
+          "role": "Archbishop of Polotsk killed in 1623, venerated as a saint"
+        },
+        {
+          "name": "Andrey Sheptytsky",
+          "role": "Metropolitan 1901–44 who sheltered Jews in the Holocaust"
+        },
+        {
+          "name": "Josyf Slipyj",
+          "role": "Head of the church imprisoned 18 years in the Gulag"
+        },
+        {
+          "name": "Lubomyr Husar",
+          "role": "Major Archbishop 2001–11 who moved the see to Kyiv (2005)"
+        },
+        {
+          "name": "Sviatoslav Shevchuk",
+          "role": "Major Archbishop of Kyiv–Halych since 2011"
+        }
+      ],
+      "members": {
+        "estimate": 4500000,
+        "year": 2017,
+        "note": "CNEWA, The Eastern Catholic Churches 2017 (statistical table compiled from the Annuario Pontificio)."
+      },
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-tradition-magisterium",
+        "governance": "papal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "gudziak-crisis-reform",
+        "roberson-eastern-churches",
+        "denysenko-orthodox-ukraine",
+        "cnewa-eastern-catholic-2017"
+      ]
+    },
+    {
+      "id": "syro-malabar-catholic",
+      "tagline": "Kerala's St Thomas Christians in communion with Rome, East Syriac in liturgy.",
+      "coreDoctrines": [
+        "Catholic faith in full: the seven sacraments, the ecumenical councils and the primacy and infallibility of the Pope (Vatican I, 1870).",
+        "Apostolic origin from St Thomas, who by tradition landed at Kodungallur (Muziris) in AD 52.",
+        "East Syriac theological and liturgical heritage received from the Church of the East.",
+        "Self-governing major archiepiscopal church with its own synod (since 1992)."
+      ],
+      "focuses": [
+        "Very high numbers of priestly and religious vocations, serving across India and worldwide.",
+        "Schools, colleges and hospitals throughout Kerala.",
+        "Recovery of Syriac identity after centuries of Latinisation.",
+        "Mission dioceses in north India and a growing diaspora.",
+        "The dispute over the mode of celebrating the Qurbana, especially in Ernakulam–Angamaly."
+      ],
+      "practices": [
+        "Holy Qurbana of Addai and Mari in Malayalam, with Syriac elements.",
+        "Synod-mandated 'uniform' Qurbana since 2021: facing the people for the liturgy of the Word, facing the altar for the anaphora.",
+        "Lenten fasting, Passover meal (Pesaha) customs on Maundy Thursday, and the Mar Thoma cross.",
+        "Pilgrimage to Thomas sites such as Malayattoor and to the tomb of St Alphonsa at Bharananganam."
+      ],
+      "influencedBy": [
+        {
+          "name": "Church of the East",
+          "text": "Persian bishops served the St Thomas Christians until the 16th century.",
+          "traditionId": "church-of-the-east"
+        },
+        {
+          "name": "Roman Catholic Church",
+          "text": "The Portuguese Padroado and the Synod of Diamper (1599) Latinised the community.",
+          "traditionId": "catholic"
+        },
+        {
+          "name": "Thomas the Apostle",
+          "text": "The tradition of Thomas' mission is the foundation of the church's identity."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Malankara Orthodox Syrian Church",
+          "text": "Those who left Roman jurisdiction after the Coonan Cross Oath (1653) formed the Malankara churches.",
+          "traditionId": "malankara-orthodox"
+        },
+        {
+          "name": "Syro-Malankara Catholic Church",
+          "text": "A second St Thomas Christian Catholic church formed in 1930.",
+          "traditionId": "syro-malankara-catholic"
+        },
+        {
+          "name": "Indian Catholic mission",
+          "text": "Syro-Malabar priests and nuns serve in Latin dioceses across India and abroad."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Thomas the Apostle",
+          "role": "Traditional founder of Christianity in India",
+          "personId": "thomas-apostle"
+        },
+        {
+          "name": "Kuriakose Elias Chavara",
+          "role": "Founder of the CMI congregation and educator, canonised 2014"
+        },
+        {
+          "name": "Alphonsa Muttathupadathu",
+          "role": "Franciscan Clarist, first Indian woman saint (2008)"
+        },
+        {
+          "name": "Antony Padiyara",
+          "role": "First Major Archbishop (1992)"
+        },
+        {
+          "name": "Raphael Thattil",
+          "role": "Major Archbishop of Ernakulam–Angamaly since 2024"
+        }
+      ],
+      "members": {
+        "estimate": 4250000,
+        "year": 2017,
+        "note": "CNEWA, The Eastern Catholic Churches 2017 (statistical table compiled from the Annuario Pontificio)."
+      },
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-tradition-magisterium",
+        "governance": "papal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "Centred in central Kerala (Ernakulam, Thrissur, Kottayam, Changanassery), with eparchies across India including Thuckalay and Ramanathapuram in Tamil Nadu and a nationwide jurisdiction since 2017; it is the second-largest Eastern Catholic church in the world.",
+      "sources": [
+        "frykenberg-india",
+        "brown-st-thomas-christians",
+        "i1-podipara-thomas",
+        "cnewa-eastern-catholic-2017"
+      ]
+    },
+    {
+      "id": "syro-malankara-catholic",
+      "tagline": "West Syriac St Thomas Christians who entered Catholic communion with Mar Ivanios in 1930.",
+      "coreDoctrines": [
+        "Catholic faith in full: the seven sacraments, the ecumenical councils and the primacy and infallibility of the Pope (Vatican I, 1870).",
+        "Antiochene (West Syriac) liturgical and theological tradition shared with the Malankara Orthodox.",
+        "Reunion of Malankara Christians with Rome without abandoning their rite.",
+        "Self-governing major archiepiscopal church since 2005."
+      ],
+      "focuses": [
+        "Monastic and ashram spirituality, from the Bethany congregations founded by Mar Ivanios.",
+        "Evangelisation and social service in south Kerala and Kanyakumari.",
+        "Education, including Mar Ivanios College in Thiruvananthapuram.",
+        "Ecumenical relations with the Malankara Orthodox and Jacobite churches."
+      ],
+      "practices": [
+        "Holy Qurbana of St James in Malayalam, with Syriac chants.",
+        "Seven canonical hours of West Syriac prayer (Shehimo).",
+        "Married and celibate clergy.",
+        "Bishops titled with 'Mar' and the West Syriac vestments of the Malankara tradition."
+      ],
+      "influencedBy": [
+        {
+          "name": "Malankara Orthodox Syrian Church",
+          "text": "Mar Ivanios and Mar Theophilos came from the Malankara Orthodox hierarchy.",
+          "traditionId": "malankara-orthodox"
+        },
+        {
+          "name": "Roman Catholic Church",
+          "text": "The reunion was received by Pope Pius XI on 20 September 1930.",
+          "traditionId": "catholic"
+        },
+        {
+          "name": "Syriac Orthodox Church",
+          "text": "The church's liturgy and canons derive from the Patriarchate of Antioch.",
+          "traditionId": "syriac-orthodox"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Indian Catholicism",
+          "text": "Its ashram model contributed to inculturation debates in Indian Christianity."
+        },
+        {
+          "name": "Kerala ecumenism",
+          "text": "Shared liturgy keeps close ties with other Malankara churches.",
+          "traditionId": "malankara-jacobite-syrian"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Geevarghese Mar Ivanios",
+          "role": "Founder of the Bethany movement (1919) and leader of the 1930 reunion"
+        },
+        {
+          "name": "Jacob Mar Theophilos",
+          "role": "Bishop who joined the reunion with Mar Ivanios"
+        },
+        {
+          "name": "Baselios Cleemis",
+          "role": "Major Archbishop since 2007 and cardinal since 2012"
+        }
+      ],
+      "members": {
+        "estimate": 470000,
+        "year": 2017,
+        "note": "CNEWA, The Eastern Catholic Churches 2017 (statistical table compiled from the Annuario Pontificio)."
+      },
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-tradition-magisterium",
+        "governance": "papal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "Based in Kerala, headquartered at Pattom, Thiruvananthapuram, with the Eparchy of Marthandam (1996) serving Kanyakumari district in Tamil Nadu and jurisdictions across India and abroad.",
+      "sources": [
+        "frykenberg-india",
+        "roberson-eastern-churches",
+        "cnewa-eastern-catholic-2017"
+      ]
+    },
+    {
+      "id": "coptic-catholic",
+      "tagline": "Egypt's Catholic church of the Alexandrian rite, strong in schools and Upper Egypt.",
+      "coreDoctrines": [
+        "Catholic faith in full: the seven sacraments, the ecumenical councils and the primacy and infallibility of the Pope (Vatican I, 1870).",
+        "Alexandrian (Coptic) theological heritage of Athanasius and Cyril, held with Chalcedonian Christology.",
+        "A patriarchate of Alexandria in communion with Rome, restored in 1895.",
+        "Shared faith in Christ with the Coptic Orthodox, recognised in the Paul VI–Shenouda III declaration (1973)."
+      ],
+      "focuses": [
+        "Education and healthcare, especially in Upper Egypt.",
+        "Christian presence in a Muslim-majority society.",
+        "Relations with the far larger Coptic Orthodox Church.",
+        "Pastoral work among the poor through religious congregations."
+      ],
+      "practices": [
+        "Coptic liturgies of St Basil, St Gregory and St Cyril in Coptic and Arabic.",
+        "Coptic chant with cymbals and triangle.",
+        "Long Coptic fasts, though often lightened compared with Orthodox practice.",
+        "Married and celibate clergy."
+      ],
+      "influencedBy": [
+        {
+          "name": "Coptic Orthodox Church",
+          "text": "Coptic Catholics share the Alexandrian rite and heritage.",
+          "traditionId": "coptic-orthodox"
+        },
+        {
+          "name": "Franciscan missions",
+          "text": "Franciscans worked among Copts from the 17th century."
+        },
+        {
+          "name": "Roman Catholic Church",
+          "text": "Bishop Amba Athanasius' union in 1741 began a vicariate under Rome.",
+          "traditionId": "catholic"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Egyptian education",
+          "text": "Catholic schools in Egypt educated many Christian and Muslim leaders."
+        },
+        {
+          "name": "Coptic Orthodox–Catholic dialogue",
+          "text": "The church is a local partner in Catholic–Coptic relations.",
+          "traditionId": "coptic-orthodox"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Amba Athanasius",
+          "role": "Coptic bishop of Jerusalem who joined Rome in 1741"
+        },
+        {
+          "name": "Cyril Makarios",
+          "role": "First patriarch of the restored patriarchate (1899)"
+        },
+        {
+          "name": "Stephanos II Ghattas",
+          "role": "Patriarch 1986–2006 and cardinal"
+        },
+        {
+          "name": "Ibrahim Isaac Sidrak",
+          "role": "Patriarch of Alexandria since 2013"
+        }
+      ],
+      "members": {
+        "estimate": 190000,
+        "year": 2017,
+        "note": "CNEWA, The Eastern Catholic Churches 2017 (statistical table compiled from the Annuario Pontificio)."
+      },
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-tradition-magisterium",
+        "governance": "papal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "roberson-eastern-churches",
+        "atiya-eastern-christianity",
+        "cnewa-eastern-catholic-2017"
+      ]
+    },
+    {
+      "id": "ethiopian-eritrean-catholic",
+      "tagline": "Catholic churches of the Ge'ez (Alexandrian) rite in Ethiopia and Eritrea.",
+      "coreDoctrines": [
+        "Catholic faith in full: the seven sacraments, the ecumenical councils and the primacy and infallibility of the Pope (Vatican I, 1870).",
+        "Ethiopian Ge'ez liturgical and spiritual heritage, shared with the Orthodox Tewahedo churches.",
+        "Two self-governing metropolitan churches: Addis Ababa (from 1961) and Asmara (separate since 2015).",
+        "Chalcedonian Christology held within a non-Chalcedonian liturgical inheritance."
+      ],
+      "focuses": [
+        "Schools, clinics and development work far beyond their small numbers.",
+        "Humanitarian care during famine, war and displacement.",
+        "Recovering authentic Ge'ez practice after earlier Latinisation.",
+        "Relations with the dominant Orthodox Tewahedo churches."
+      ],
+      "practices": [
+        "Qeddase (Eucharistic liturgy) in Ge'ez, Amharic, Tigrinya and other languages.",
+        "Ethiopian chant (zema) and the liturgical drum and sistrum.",
+        "Ethiopian fasts and calendar.",
+        "Married priests alongside celibate religious."
+      ],
+      "influencedBy": [
+        {
+          "name": "Ethiopian Orthodox Tewahedo Church",
+          "text": "These churches share the Ge'ez rite.",
+          "traditionId": "ethiopian-orthodox-tewahedo"
+        },
+        {
+          "name": "Justin de Jacobis",
+          "text": "The Vincentian missionary (in Ethiopia 1839–60) adopted the local rite and formed Ethiopian clergy."
+        },
+        {
+          "name": "Jesuit mission (1557–1632)",
+          "text": "Emperor Susenyos' short-lived union with Rome left a legacy of suspicion."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Eritrean Catholic Church",
+          "text": "Raised to its own metropolitan church sui iuris in 2015."
+        },
+        {
+          "name": "Ethiopian education",
+          "text": "Catholic schools and colleges contributed to modern education in both countries."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Justin de Jacobis",
+          "role": "Missionary bishop, canonised 1975"
+        },
+        {
+          "name": "Ghebre Michael",
+          "role": "Ethiopian priest who died in chains in 1855, beatified 1926"
+        },
+        {
+          "name": "Berhaneyesus Souraphiel",
+          "role": "Metropolitan of Addis Ababa and cardinal since 2015"
+        }
+      ],
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-tradition-magisterium",
+        "governance": "papal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "roberson-eastern-churches",
+        "isichei-africa",
+        "binns-ethiopian-church"
+      ]
+    },
+    {
+      "id": "armenian-catholic",
+      "tagline": "Armenian-rite Catholic church of the Patriarchate of Cilicia, seated in Lebanon.",
+      "coreDoctrines": [
+        "Catholic faith in full: the seven sacraments, the ecumenical councils and the primacy and infallibility of the Pope (Vatican I, 1870).",
+        "Armenian theological heritage of Gregory the Illuminator, Mesrop Mashtots and Gregory of Narek.",
+        "Patriarchate of Cilicia in communion with Rome since 1742.",
+        "Gregory of Narek declared a Doctor of the Church by Pope Francis (2015)."
+      ],
+      "focuses": [
+        "Preserving Armenian language, culture and memory, including of the 1915 genocide.",
+        "Scholarship, through the Mekhitarist monks of Venice and Vienna.",
+        "Communities in Lebanon, Syria, Armenia, Europe and the Americas.",
+        "Relations with the Armenian Apostolic Church."
+      ],
+      "practices": [
+        "Armenian Divine Liturgy (Badarak) in Classical Armenian.",
+        "Armenian chant (sharakan) and liturgical calendar.",
+        "Unleavened bread and wine without water, as in Armenian tradition.",
+        "Mostly celibate clergy, with some married priests."
+      ],
+      "influencedBy": [
+        {
+          "name": "Armenian Apostolic Church",
+          "text": "Armenian Catholics share its rite and history.",
+          "traditionId": "armenian-apostolic"
+        },
+        {
+          "name": "Crusader-era Cilicia",
+          "text": "The Armenian kingdom of Cilicia had close ties to Rome in the 12th–14th centuries."
+        },
+        {
+          "name": "Roman Catholic Church",
+          "text": "Patriarch Abraham Ardzivian was confirmed by Pope Benedict XIV in 1742.",
+          "traditionId": "catholic"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Mekhitarist Order",
+          "text": "Founded by Mekhitar of Sebaste (1701), it shaped modern Armenian scholarship and printing."
+        },
+        {
+          "name": "Armenian Catholicosate of Cilicia",
+          "text": "Both churches are based in Lebanon and share Cilician heritage.",
+          "traditionId": "armenian-catholicosate-cilicia"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Abraham Petros I Ardzivian",
+          "role": "First Patriarch of Cilicia in union with Rome (1742)"
+        },
+        {
+          "name": "Mekhitar of Sebaste",
+          "role": "Founder of the Mekhitarist monks at San Lazzaro, Venice"
+        },
+        {
+          "name": "Ignatius Maloyan",
+          "role": "Archbishop of Mardin killed in 1915, canonised in 2025"
+        },
+        {
+          "name": "Raphaël Bedros XXI Minassian",
+          "role": "Patriarch since 2021"
+        }
+      ],
+      "members": {
+        "estimate": 760000,
+        "year": 2017,
+        "note": "CNEWA, The Eastern Catholic Churches 2017 (statistical table compiled from the Annuario Pontificio)."
+      },
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-tradition-magisterium",
+        "governance": "papal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "roberson-eastern-churches",
+        "atiya-eastern-christianity",
+        "cnewa-eastern-catholic-2017"
+      ]
+    },
+    {
+      "id": "syriac-catholic",
+      "tagline": "West Syriac Catholic church of Antioch, rooted in Iraq, Syria and Lebanon.",
+      "coreDoctrines": [
+        "Catholic faith in full: the seven sacraments, the ecumenical councils and the primacy and infallibility of the Pope (Vatican I, 1870).",
+        "Antiochene Syriac heritage of Ephrem and Jacob of Serugh, shared with the Syriac Orthodox Church.",
+        "Patriarchate of Antioch in communion with Rome, continuous since 1782.",
+        "Chalcedonian Christology within a Syriac liturgical tradition."
+      ],
+      "focuses": [
+        "Survival of communities in Iraq's Nineveh Plains, especially Qaraqosh (Bakhdida), after the 2014 Islamic State expulsions.",
+        "Rebuilding churches and homes after war in Iraq and Syria.",
+        "Preserving the Syriac language and chant.",
+        "Diaspora communities in Europe, North America and Australia."
+      ],
+      "practices": [
+        "Divine Liturgy of St James in Syriac and Arabic.",
+        "West Syriac canonical hours (Shehimo).",
+        "Married priests in the Middle East.",
+        "Patriarch resident in Beirut, with the patriarchal monastery at Charfet."
+      ],
+      "influencedBy": [
+        {
+          "name": "Syriac Orthodox Church",
+          "text": "The church separated from the Syriac Orthodox Patriarchate in the 17th–18th centuries.",
+          "traditionId": "syriac-orthodox"
+        },
+        {
+          "name": "Capuchin and Jesuit missions",
+          "text": "17th-century missions in Aleppo formed the Catholic party."
+        },
+        {
+          "name": "Roman Catholic Church",
+          "text": "Andrew Akhijan was recognised as patriarch in 1662; Michael Jarweh's election (1782) secured succession.",
+          "traditionId": "catholic"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Syro-Malankara Catholic Church",
+          "text": "It shares the West Syriac rite of the Syriac Catholic Church.",
+          "traditionId": "syro-malankara-catholic"
+        },
+        {
+          "name": "Syriac scholarship",
+          "text": "Clergy such as Patriarch Ignatius Ephrem II Rahmani edited Syriac texts."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Andrew Akhijan",
+          "role": "First Catholic Syriac patriarch (1662)"
+        },
+        {
+          "name": "Michael Jarweh",
+          "role": "Patriarch from 1782, founder of Charfet monastery"
+        },
+        {
+          "name": "Ignatius Ephrem II Rahmani",
+          "role": "Patriarch and Syriac scholar (1898–1929)"
+        },
+        {
+          "name": "Ignatius Joseph III Younan",
+          "role": "Patriarch since 2009"
+        }
+      ],
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-tradition-magisterium",
+        "governance": "papal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "roberson-eastern-churches",
+        "atiya-eastern-christianity",
+        "cnewa-eastern-catholic-2017"
+      ]
+    },
+    {
+      "id": "ruthenian-catholic",
+      "tagline": "Byzantine Catholics of the Carpathians and their American Metropolia of Pittsburgh.",
+      "coreDoctrines": [
+        "Catholic faith in full: the seven sacraments, the ecumenical councils and the primacy and infallibility of the Pope (Vatican I, 1870).",
+        "Byzantine Slavic heritage of Cyril and Methodius in the Carpathian region.",
+        "Union with Rome through the Union of Uzhhorod (1646).",
+        "Self-governing metropolitan church in the United States since 1969."
+      ],
+      "focuses": [
+        "Carpatho-Rusyn identity in Transcarpathian Ukraine, Slovakia and the United States.",
+        "Recovery from Soviet suppression of the Mukachevo eparchy (1949–89).",
+        "Restoring Eastern practice after earlier Latinisation in America.",
+        "English-language Byzantine liturgy for American parishes."
+      ],
+      "practices": [
+        "Divine Liturgy of St John Chrysostom in Church Slavonic and English.",
+        "Prostopinije ('plain chant') congregational singing.",
+        "Married priests, again permitted in North America since 2014.",
+        "Pascha baskets blessed at Easter and other Carpathian customs."
+      ],
+      "influencedBy": [
+        {
+          "name": "Eastern Orthodox Church",
+          "text": "Ruthenians share the Byzantine Slavic rite.",
+          "traditionId": "eastern-orthodox"
+        },
+        {
+          "name": "Ukrainian Greek Catholic Church",
+          "text": "The Union of Brest was the model for Uzhhorod.",
+          "traditionId": "ukrainian-greek-catholic"
+        },
+        {
+          "name": "Roman Catholic Church",
+          "text": "Habsburg-supported union with Rome formed the church.",
+          "traditionId": "catholic"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Orthodox Church in America",
+          "text": "Alexis Toth led thousands of Ruthenian immigrants into Orthodoxy after 1891.",
+          "traditionId": "orthodox-church-in-america"
+        },
+        {
+          "name": "American Carpatho-Russian Orthodox Diocese",
+          "text": "Formed in 1938 by Ruthenians who rejected the ban on married priests (1929)."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Theodore Romzha",
+          "role": "Bishop of Mukachevo killed in 1947, beatified 2001"
+        },
+        {
+          "name": "Alexis Toth",
+          "role": "Priest who led a movement into Orthodoxy, later canonised by the Orthodox"
+        },
+        {
+          "name": "Basil Takach",
+          "role": "First Ruthenian bishop in the United States (1924)"
+        }
+      ],
+      "members": {
+        "estimate": 420000,
+        "year": 2017,
+        "note": "CNEWA, The Eastern Catholic Churches 2017 (statistical table compiled from the Annuario Pontificio)."
+      },
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-tradition-magisterium",
+        "governance": "papal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "roberson-eastern-churches",
+        "melton-encyclopedia",
+        "cnewa-eastern-catholic-2017"
+      ]
+    },
+    {
+      "id": "polish-national-catholic",
+      "tagline": "Polish-American Catholic church founded at Scranton in 1897, independent of Rome.",
+      "coreDoctrines": [
+        "Catholic faith of the undivided church, independent of papal jurisdiction.",
+        "The Word of God heard and preached counted as a sacrament, alongside baptism and confirmation.",
+        "Real presence of Christ in the Eucharist.",
+        "Rejects papal infallibility; teaches that God's grace may reach the unbaptised after death.",
+        "Parish property owned and governed by the parishioners."
+      ],
+      "focuses": [
+        "Polish ethnic identity and lay control of parishes.",
+        "Democratic synods of clergy and laity.",
+        "Conservative stance on women's ordination and sexuality, which led it to leave the Union of Utrecht in 2003.",
+        "Dialogue with the Roman Catholic Church."
+      ],
+      "practices": [
+        "Mass in Polish (from 1900) and English.",
+        "Married clergy permitted since 1921.",
+        "General confession for adults, with private confession for the young.",
+        "Feasts of its own, such as the Brotherhood of Man."
+      ],
+      "influencedBy": [
+        {
+          "name": "Roman Catholic Church",
+          "text": "Polish immigrants left over Irish and German control of parishes and property.",
+          "traditionId": "catholic"
+        },
+        {
+          "name": "Old Catholic Churches",
+          "text": "Hodur was consecrated bishop at Utrecht in 1907.",
+          "traditionId": "old-catholic"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Polish Catholic Church in Poland",
+          "text": "A daughter church founded by PNCC missionaries after 1920."
+        },
+        {
+          "name": "Union of Scranton",
+          "text": "An association it founded in 2008 with churches that left Utrecht."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Franciszek Hodur",
+          "role": "Founder and first bishop (1866–1953)"
+        },
+        {
+          "name": "Leon Grochowski",
+          "role": "Successor as Prime Bishop (1953–69)"
+        },
+        {
+          "name": "Anthony Mikovsky",
+          "role": "Prime Bishop since 2010"
+        }
+      ],
+      "axes": {
+        "liturgy": 4,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "real-presence",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "kubiak-pncc",
+        "melton-encyclopedia",
+        "odcc"
+      ]
+    },
+    {
+      "id": "independent-catholic",
+      "tagline": "Small Catholic-style churches led by bishops outside Rome and Utrecht.",
+      "coreDoctrines": [
+        "Claim to valid apostolic succession, mostly through Old Catholic, Syrian or Roman Catholic bishops.",
+        "Catholic sacraments and creeds, interpreted in widely varying ways.",
+        "Independence from papal authority.",
+        "Positions range from traditionalist and sedevacantist to progressive and theosophical (Liberal Catholic Church)."
+      ],
+      "focuses": [
+        "Sacramental ministry to people outside or alienated from the Catholic Church.",
+        "Inclusion of divorced, remarried and LGBT Catholics in many progressive bodies.",
+        "Ethnic and national churches, such as the Brazilian Catholic Apostolic Church (1945).",
+        "Small house churches and part-time clergy."
+      ],
+      "practices": [
+        "Mass in Roman, Tridentine or revised forms.",
+        "Married clergy; women ordained in many progressive groups.",
+        "Ordinations and consecrations often conferred freely, producing many 'bishops at large'.",
+        "Highly fragmented jurisdictions, often of a few congregations."
+      ],
+      "influencedBy": [
+        {
+          "name": "Old Catholic Churches",
+          "text": "Arnold Harris Mathew was consecrated by Utrecht in 1908 before breaking with it.",
+          "traditionId": "old-catholic"
+        },
+        {
+          "name": "Roman Catholic Church",
+          "text": "Most members and liturgies come from Roman Catholicism.",
+          "traditionId": "catholic"
+        },
+        {
+          "name": "Syriac and Malankara orders",
+          "text": "Joseph René Vilatte was consecrated in Colombo in 1892 by Antonio Alvares (Mar Julius I)."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Liberal Catholic Church",
+          "text": "Founded in 1916 by James Wedgwood and Charles Leadbeater with theosophical teaching."
+        },
+        {
+          "name": "Sedevacantist groups",
+          "text": "Consecrations by Archbishop Ngô Đình Thục (1981) seeded several traditionalist lines."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Joseph René Vilatte",
+          "role": "Founder of many American independent lines"
+        },
+        {
+          "name": "Arnold Harris Mathew",
+          "role": "Old Catholic bishop in England, 1908–19"
+        },
+        {
+          "name": "Carlos Duarte Costa",
+          "role": "Brazilian bishop who founded ICAB (1945)"
+        },
+        {
+          "name": "Emmanuel Milingo",
+          "role": "Zambian archbishop who consecrated married bishops in 2006",
+          "personId": "emmanuel-milingo"
+        }
+      ],
+      "axes": {
+        "liturgy": 4,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "real-presence",
+        "gifts": "open",
+        "women": "varies",
+        "trinity": "nicene"
+      },
+      "inIndia": "The movement has a South Asian root: Antonio Alvares, a Goan priest consecrated by Syrian Orthodox bishops in 1889 as head of an independent church in Goa and Ceylon, consecrated Vilatte in 1892.",
+      "sources": [
+        "anson-bishops-at-large",
+        "byrne-other-catholics",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "society-of-st-pius-x",
+      "tagline": "Traditionalist priestly society founded by Archbishop Lefebvre to preserve the Tridentine Mass.",
+      "coreDoctrines": [
+        "Catholic faith as taught before the Second Vatican Council, including papal primacy.",
+        "The 1962 Roman Missal and traditional rites as the full expression of the Catholic priesthood and sacrifice.",
+        "Rejection of Vatican II's teaching on religious liberty, ecumenism and collegiality as breaks with Tradition.",
+        "Recognition of the reigning Pope while refusing obedience in these matters; it is not sedevacantist."
+      ],
+      "focuses": [
+        "Training priests in its seminaries, beginning at Écône, Switzerland (1970).",
+        "Traditional Latin Mass in priories and chapels worldwide.",
+        "Catholic schools and traditional family life.",
+        "Doctrinal discussions with Rome on its canonical status."
+      ],
+      "practices": [
+        "Mass in Latin according to the 1962 Missal, with Gregorian chant.",
+        "Pre-1969 rites of all sacraments.",
+        "Confessions recognised as valid by Rome since 2015 and marriages under conditions since 2017.",
+        "Ignatian retreats and traditional devotions."
+      ],
+      "influencedBy": [
+        {
+          "name": "Roman Catholic Church",
+          "text": "The Society was canonically erected in 1970 and suppressed in 1975.",
+          "traditionId": "catholic"
+        },
+        {
+          "name": "Pope Pius X",
+          "text": "Patron chosen for his campaign against Modernism."
+        },
+        {
+          "name": "Opposition at Vatican II",
+          "text": "Lefebvre led the conservative Coetus Internationalis Patrum at the council."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Ecclesia Dei communities",
+          "text": "After the 1988 consecrations Rome set up the Fraternity of St Peter for traditionalists staying in communion."
+        },
+        {
+          "name": "Summorum Pontificum (2007)",
+          "text": "Benedict XVI's freeing of the old Mass responded partly to the SSPX."
+        },
+        {
+          "name": "Sedevacantist groups",
+          "text": "Priests who rejected the Society's recognition of the Pope left to form separate bodies."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Marcel Lefebvre",
+          "role": "Founder; excommunicated after consecrating four bishops in 1988",
+          "personId": "marcel-lefebvre"
+        },
+        {
+          "name": "Bernard Fellay",
+          "role": "Superior General 1994–2018"
+        },
+        {
+          "name": "Davide Pagliarani",
+          "role": "Superior General since 2018"
+        },
+        {
+          "name": "Benedict XVI",
+          "role": "Lifted the 1988 excommunications in 2009",
+          "personId": "benedict-xvi"
+        }
+      ],
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-tradition-magisterium",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "cessationist",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "The Society serves small traditionalist congregations in south India, chiefly in Tamil Nadu and Kerala, from its Asian District.",
+      "sources": [
+        "ecclesia-dei-1988",
+        "remission-decree-2009",
+        "odcc",
+        "d1-tissier-lefebvre"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "d1-moss-old-catholic",
+      "title": "The Old Catholic Movement: Its Origins and History",
+      "author": "C. B. Moss",
+      "year": 1948,
+      "kind": "secondary"
+    },
+    {
+      "id": "d1-utrecht-declaration-1889",
+      "title": "Declaration of Utrecht (Utrechter Erklärung)",
+      "author": "Old Catholic bishops of the Union of Utrecht",
+      "year": 1889,
+      "kind": "primary",
+      "url": "https://www.utrechter-union.org/"
+    },
+    {
+      "id": "d1-ccneo-1990",
+      "title": "Codex Canonum Ecclesiarum Orientalium (Code of Canons of the Eastern Churches)",
+      "author": "John Paul II",
+      "year": 1990,
+      "kind": "primary",
+      "url": "https://www.vatican.va/"
+    },
+    {
+      "id": "d1-tissier-lefebvre",
+      "title": "Marcel Lefebvre: The Biography",
+      "author": "Bernard Tissier de Mallerais",
+      "year": 2004,
+      "kind": "secondary"
+    }
+  ]
+}
