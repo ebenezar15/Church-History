@@ -367,7 +367,7 @@ function DoctrineMap() {
   if (!items.length) return <p className="text-muted">{L('Doctrine profiles are being added.', 'கோட்பாட்டு விவரங்கள் சேர்க்கப்படுகின்றன.')}</p>;
   return (
     <div>
-      <p className="mb-2 text-sm text-muted">{L('Where each church sits between free and liturgical worship (left to right) and between symbolic and sacramental belief (bottom to top). Each dot is a church; point at it.', 'ஒவ்வொரு சபையும் சுதந்திர, வழிபாட்டு முறை ஆராதனைக்கு இடையிலும் (இடமிருந்து வலம்), அடையாள, அருட்சாதன நம்பிக்கைக்கு இடையிலும் (கீழிருந்து மேல்) எங்கே உள்ளது. ஒவ்வொரு புள்ளியும் ஒரு சபை; அதைச் சுட்டுங்கள்.')}</p>
+      <p className="mb-2 text-sm text-muted">{L('Where each church sits between free and liturgical worship (left to right) and between symbolic and sacramental belief (bottom to top). Each dot is a church; point at it.', 'ஒவ்வொரு சபையும் சுதந்திர, வழிபாட்டு முறை ஆராதனைக்கு இடையிலும் (இடமிருந்து வலம்), அடையாள, திருவருட்சாதன நம்பிக்கைக்கு இடையிலும் (கீழிருந்து மேல்) எங்கே உள்ளது. ஒவ்வொரு புள்ளியும் ஒரு சபை; அதைச் சுட்டுங்கள்.')}</p>
       <div className="mb-3 flex flex-wrap gap-1">
         <button className={cx('chip cursor-pointer', !fam && '!border-accent !text-accent')} onClick={() => setFam('')}>{L('All', 'அனைத்தும்')}</button>
         {fams.map((f) => <button key={f} className={cx('chip cursor-pointer', fam === f && '!border-accent !text-accent')} onClick={() => setFam(fam === f ? '' : f)}><span className="h-2 w-2 rounded-full" style={{ background: FAMILIES[f].colour }} /> {famLabel(f)}</button>)}
@@ -457,7 +457,7 @@ export function AxisChips({ p }: { p: DenomProfile }) {
         );
       })}
       <div className="flex items-center justify-between gap-2"><dt className="text-muted">{L('Worship', 'ஆராதனை')}</dt><dd className="font-semibold">{(isTA() ? LITURGY_LABELS.ta : LITURGY_LABELS.en)[p.axes.liturgy - 1]}</dd></div>
-      <div className="flex items-center justify-between gap-2"><dt className="text-muted">{L('Sacraments', 'அருட்சாதனங்கள்')}</dt><dd className="font-semibold">{(isTA() ? SACRAMENT_LABELS.ta : SACRAMENT_LABELS.en)[p.axes.sacramental - 1]}</dd></div>
+      <div className="flex items-center justify-between gap-2"><dt className="text-muted">{L('Sacraments', 'திருவருட்சாதனங்கள்')}</dt><dd className="font-semibold">{(isTA() ? SACRAMENT_LABELS.ta : SACRAMENT_LABELS.en)[p.axes.sacramental - 1]}</dd></div>
     </dl>
   );
 }

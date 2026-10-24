@@ -81,7 +81,7 @@ export const AXES: { key: keyof Axes; en: string; ta: string; question: { en: st
 ];
 
 export const LITURGY_LABELS = { en: ['Free', 'Mostly free', 'Mixed', 'Mostly liturgical', 'Ancient liturgy'], ta: ['சுதந்திரம்', 'பெரும்பாலும் சுதந்திரம்', 'கலவை', 'பெரும்பாலும் வழிபாட்டு முறை', 'பண்டைய வழிபாட்டு முறை'] };
-export const SACRAMENT_LABELS = { en: ['Symbolic', 'Mostly symbolic', 'Mixed', 'Sacramental', 'Fully sacramental'], ta: ['அடையாளமானது', 'பெரும்பாலும் அடையாளம்', 'கலவை', 'அருட்சாதனமானது', 'முழு அருட்சாதனம்'] };
+export const SACRAMENT_LABELS = { en: ['Symbolic', 'Mostly symbolic', 'Mixed', 'Sacramental', 'Fully sacramental'], ta: ['அடையாளமானது', 'பெரும்பாலும் அடையாளம்', 'கலவை', 'திருவருட்சாதனமானது', 'முழு திருவருட்சாதனம்'] };
 
 export const VERDICT_META: Record<DenomFact['verdict'], Opt> = {
   accurate: { en: 'Accurate', ta: 'சரியானது', colour: '#2e9d5b' },

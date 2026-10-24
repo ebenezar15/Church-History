@@ -55,7 +55,7 @@ export default function FamilyDetail() {
 
       <div className="mb-6 grid grid-cols-2 gap-3 sm:grid-cols-4">
         <div className="card p-4"><div className="text-xs uppercase tracking-wider text-muted">{L('Began', 'தொடக்கம்')}</div><div className="text-xl font-bold">{fp ? formatYear(fp.origin.year) : formatYear(ts[0]?.foundedYear ?? 0)}</div>{fp && <div className="text-xs text-muted">{fp.origin.place.name}</div>}</div>
-        <div className="card p-4"><div className="text-xs uppercase tracking-wider text-muted">{L('Members', 'உறுப்பினர்கள்')}</div><div className="text-xl font-bold">{fp?.members ? bigNumber(fp.members.estimate) : '—'}</div>{fp?.members && <div className="text-xs text-muted">{fp.members.source}, {fp.members.year}</div>}</div>
+        <div className="card p-4"><div className="text-xs uppercase tracking-wider text-muted">{L('Members', 'உறுப்பினர்கள்')}</div><div className="text-xl font-bold" title={fp?.members?.source}>{fp?.members ? bigNumber(fp.members.estimate) : '—'}</div>{fp?.members && <div className="text-xs text-muted">{fp.members.year}</div>}</div>
         <div className="card p-4"><div className="text-xs uppercase tracking-wider text-muted">{L('Churches in the atlas', 'அட்லஸிலுள்ள சபைகள்')}</div><div className="text-xl font-bold">{ts.length}</div></div>
         <div className="card p-4"><div className="text-xs uppercase tracking-wider text-muted">{L('Internal divisions', 'உள் பிளவுகள்')}</div><div className="text-xl font-bold">{fp?.internalDivisions.length ?? 0}</div></div>
       </div>
