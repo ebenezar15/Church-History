@@ -1,0 +1,2357 @@
+{
+ "familyProfiles": [
+  {
+   "id": "early",
+   "name": "The Early Church",
+   "tagline": "The undivided first centuries from which every later church claims descent.",
+   "summary": "The Christian movement from Pentecost to the great councils of the fourth and fifth centuries, before the lasting divisions of East and West. It produced the New Testament canon, the creeds, the episcopate and the patterns of worship that almost every later tradition looks back to.",
+   "story": "Christianity began as a Jewish messianic movement in Jerusalem around AD 30, proclaiming that Jesus of Nazareth had been crucified, raised from the dead and exalted as Lord and Messiah. Within a generation the question of whether Gentile converts had to keep the Mosaic law was settled, at least in principle, at the meeting in Jerusalem described in Acts 15 (c. 49), and the letters of Paul show house churches across Syria, Asia Minor, Greece and Rome.\n\nThe faith spread along the trade routes and synagogue networks of the Roman Empire and beyond it: to Alexandria and North Africa, to Edessa and Mesopotamia, and by the third century to Armenia and, according to strong tradition, to south India. Sporadic and then empire-wide persecutions (under Decius in 250 and Diocletian from 303) produced martyrs whose memory shaped Christian identity, until Constantine's patronage and the Edict of Milan (313) made the church a public institution.\n\nThe early church was never uniform. It argued over the date of Easter, the readmission of those who had lapsed under persecution (the Novatianist and Donatist schisms), the authority of new prophecy (Montanism) and above all the nature of Christ and of God. The councils of Nicaea (325) and Constantinople (381) defined the Trinity; Ephesus (431) and Chalcedon (451) defined the person of Christ, and the last two councils left lasting separations with the Church of the East and the Oriental Orthodox.\n\nNo church today is 'the early church', but Catholics, Orthodox, Oriental Orthodox and the Church of the East each claim unbroken continuity with it, and Protestants appeal to its Scriptures and creeds. Its leaders, the Fathers, remain shared authorities across the divides.\n\nIts influence is hard to overstate: the canon of the New Testament, the Nicene Creed, the threefold ministry of bishops, presbyters and deacons, Sunday worship, baptism and the Eucharist, the church year, monasticism and the model of the council as a way of resolving disputes all come from these centuries.",
+   "origin": {
+    "year": 30,
+    "place": {
+     "name": "Jerusalem",
+     "lat": 31.778,
+     "lng": 35.235
+    },
+    "event": "Pentecost: the apostles begin to proclaim the risen Jesus in Jerusalem (Acts 2)."
+   },
+   "coreDoctrines": [
+    "Jesus is the Messiah and Lord, crucified and raised bodily from the dead.",
+    "One God, confessed as Father, Son and Holy Spirit (defined at Nicaea 325 and Constantinople 381).",
+    "Christ is fully divine and fully human (Ephesus 431, Chalcedon 451).",
+    "Salvation through Christ received in faith, baptism and the life of the church.",
+    "The Hebrew Scriptures and the apostolic writings as Scripture, with the 'rule of faith' as their interpretive key.",
+    "The future resurrection of the dead and the return of Christ."
+   ],
+   "focuses": [
+    "Witness and martyrdom under persecution.",
+    "Defining the boundaries of orthodoxy against rival teachings.",
+    "Church order under bishops in apostolic succession.",
+    "Catechesis and baptism of converts, usually at Easter.",
+    "Care for the poor, widows and the sick as a mark of the community."
+   ],
+   "strengths": [
+    "Common inheritance of almost every Christian church.",
+    "Remarkable growth without state support for nearly three centuries.",
+    "Produced lasting theological syntheses (Athanasius, the Cappadocians, Augustine).",
+    "Developed the conciliar method of settling disputes."
+   ],
+   "criticisms": [
+    "Increasing entanglement with imperial power after Constantine.",
+    "Hardening hostility towards Judaism in some writers.",
+    "Coercion of dissenters (e.g. the Donatists) once the church had state backing.",
+    "Its definitions of Christ's person left lasting schisms in the East."
+   ],
+   "internalDivisions": [
+    {
+     "name": "Quartodeciman controversy",
+     "text": "Pope Victor I tried to excommunicate the churches of Asia that kept Easter on 14 Nisan.",
+     "year": 190
+    },
+    {
+     "name": "Novatianist schism",
+     "text": "Rigorists in Rome refused to readmit Christians who had lapsed under Decius.",
+     "year": 251
+    },
+    {
+     "name": "Donatist schism",
+     "text": "North African church split over clergy who had handed over Scriptures in persecution.",
+     "year": 311
+    },
+    {
+     "name": "Arian controversy",
+     "text": "Arius taught that the Son was a creature; the dispute ran for sixty years.",
+     "year": 318
+    },
+    {
+     "name": "Council of Ephesus and the Church of the East",
+     "text": "Condemnation of Nestorius widened the gap with the church in Persia.",
+     "year": 431
+    },
+    {
+     "name": "Council of Chalcedon",
+     "text": "Its 'two natures' definition was rejected by much of Egypt, Syria and Armenia.",
+     "year": 451
+    }
+   ],
+   "influencedFamilies": [
+    {
+     "family": "catholic",
+     "text": "Claims direct continuity through the see of Rome and the Latin Fathers."
+    },
+    {
+     "family": "orthodox",
+     "text": "Regards itself as the same church, preserving the seven ecumenical councils."
+    },
+    {
+     "family": "oriental",
+     "text": "Keeps the faith of the first three councils and the Alexandrian Fathers."
+    },
+    {
+     "family": "east-syriac",
+     "text": "Grew from the early Syriac-speaking church of Mesopotamia and Persia."
+    },
+    {
+     "family": "reformed",
+     "text": "Protestants appealed to the Fathers and creeds to argue their reform was a return to the early church."
+    }
+   ],
+   "sources": [
+    "chadwick-early-church",
+    "kelly-doctrines",
+    "eusebius-hist-eccl",
+    "macculloch-christianity"
+   ]
+  },
+  {
+   "id": "catholic",
+   "name": "Catholic",
+   "tagline": "The world's largest church, united with the Bishop of Rome.",
+   "summary": "The communion of Latin and Eastern Catholic churches in full communion with the Pope as successor of Peter. It holds Scripture and Tradition as interpreted by the magisterium, seven sacraments, and a worldwide structure of dioceses that make it the largest single Christian body.",
+   "story": "The Catholic Church traces its origins to the apostles, and especially to Peter and Paul at Rome; the bishops of Rome claimed a leading role from early on, and Leo I (440–461) and Gregory I (590–604) gave the papacy its classic shape. After the fall of the Western Empire, monks and missionaries carried Latin Christianity to the Germanic, Celtic, Slavic and Scandinavian peoples. The mutual excommunications of 1054 are the conventional date of separation from the Orthodox East, though the estrangement was gradual.\n\nThe medieval Western church created universities, religious orders (Benedictines, Cistercians, Franciscans, Dominicans), canon law and scholastic theology. Its authority was shaken by the Avignon papacy and the Great Western Schism (1378–1417) and then broken in much of northern Europe by the Protestant Reformation. The Council of Trent (1545–63) answered with a reformed, confessional Catholicism, while Jesuits and other orders carried the faith to the Americas, Africa and Asia, including Goa (1510) and the Fisher Coast of Tamil Nadu under Francis Xavier (1542).\n\nModern Catholicism was shaped by the First Vatican Council (1869–70), which defined papal infallibility and led to the Old Catholic separation, and by the Second Vatican Council (1962–65), which introduced vernacular liturgy, ecumenism and a new engagement with the modern world. Traditionalist resistance to the council produced the Society of St Pius X (1970). Twenty-three Eastern Catholic churches, such as the Ukrainian Greek Catholic, Maronite and Syro-Malabar churches, share the communion while keeping their own rites and laws.\n\nThe Vatican's statistical office counted 1,422,144,000 Catholics at the end of 2024, about 17.8 per cent of the world's population. Nearly half (47.7 per cent) live in the Americas, and Africa (20.3 per cent) now slightly outnumbers Europe (20.2 per cent); Brazil, Mexico, the Philippines, the United States and the Democratic Republic of Congo have among the largest Catholic populations.\n\nCatholic influence extends through the largest non-governmental network of schools, hospitals and charities in the world, a body of social teaching beginning with Rerum Novarum (1891), and an intellectual tradition from Augustine and Aquinas to the present. Anglican, Lutheran and other Protestant traditions were formed in reaction to it and still share much of its liturgy and doctrine.",
+   "origin": {
+    "year": 1054,
+    "place": {
+     "name": "Rome",
+     "lat": 41.902,
+     "lng": 12.454
+    },
+    "event": "Mutual excommunications between Rome and Constantinople mark the conventional break with the East; the church of Rome itself traces its line to Peter and Paul."
+   },
+   "members": {
+    "estimate": 1422144000,
+    "year": 2024,
+    "source": "Holy See, Central Office of Church Statistics (Annuarium Statisticum Ecclesiae), baptised Catholics at end of 2024, as summarised by Fides and Vatican News (2026)."
+   },
+   "coreDoctrines": [
+    "Revelation is handed on in Scripture and Tradition, authentically interpreted by the magisterium of the bishops with the Pope.",
+    "The Pope, as successor of Peter, has universal jurisdiction and, under defined conditions, infallibility (Vatican I, 1870).",
+    "Seven sacraments, with the Eucharist as the 'source and summit' of Christian life and Christ substantially present (transubstantiation).",
+    "Justification by grace, received in faith and baptism and expressed in charity (Council of Trent, 1547).",
+    "Veneration of Mary and the saints, including the Immaculate Conception (1854) and Assumption (1950) of Mary.",
+    "Purgatory and the communion of saints, including prayer for the dead."
+   ],
+   "focuses": [
+    "The Mass and sacramental life of parishes.",
+    "Unity of a worldwide church under bishops in communion with Rome.",
+    "Catholic social teaching on human dignity, the common good and the poor.",
+    "Education, health care and charity through orders and institutions.",
+    "Defence of life from conception to natural death, and of marriage."
+   ],
+   "strengths": [
+    "Visible global unity across cultures and languages.",
+    "Continuity of liturgy and doctrine across two millennia.",
+    "Huge educational, medical and charitable network.",
+    "Rich intellectual and spiritual traditions (Thomism, Carmelite mysticism, Ignatian spirituality)."
+   ],
+   "criticisms": [
+    "Protestants and Orthodox reject the claims of papal primacy and infallibility.",
+    "Abuse scandals and their cover-up have badly damaged trust since the 1990s.",
+    "Historic involvement in the Inquisition, colonial conquest and coercion of dissenters.",
+    "Critics inside and outside question the exclusion of women from ordained ministry."
+   ],
+   "internalDivisions": [
+    {
+     "name": "Great Western Schism",
+     "text": "Two and then three rival popes until the Council of Constance (1414–18).",
+     "year": 1378
+    },
+    {
+     "name": "Protestant Reformation",
+     "text": "Much of northern Europe left communion with Rome.",
+     "year": 1517
+    },
+    {
+     "name": "Jansenist controversy",
+     "text": "Augustinian rigorists condemned by Rome; the Church of Utrecht later went its own way.",
+     "year": 1653
+    },
+    {
+     "name": "Old Catholic separation",
+     "text": "Opponents of papal infallibility formed the Union of Utrecht (1889).",
+     "year": 1870
+    },
+    {
+     "name": "Philippine Independent Church",
+     "text": "Filipino clergy broke with Spanish friars and Rome under Gregorio Aglipay.",
+     "year": 1902
+    },
+    {
+     "name": "Society of St Pius X",
+     "text": "Archbishop Lefebvre's unauthorised consecrations led to excommunications (lifted 2009) and an irregular status.",
+     "year": 1988
+    }
+   ],
+   "influencedFamilies": [
+    {
+     "family": "lutheran",
+     "text": "Lutheranism kept much of the Mass and sacramental theology while rejecting papal authority."
+    },
+    {
+     "family": "anglican",
+     "text": "The Church of England retained Catholic orders, creeds and liturgical forms."
+    },
+    {
+     "family": "pentecostal",
+     "text": "The Catholic Charismatic Renewal (from 1967) became one of the largest charismatic streams."
+    },
+    {
+     "family": "independent",
+     "text": "Many African and Philippine independent churches grew out of Catholic missions."
+    }
+   ],
+   "sources": [
+    "annuario-statistics",
+    "catechism-catholic-church",
+    "vatican-ii-documents",
+    "omalley-vatican-ii",
+    "ff-vaticannews-2026",
+    "macculloch-christianity"
+   ]
+  },
+  {
+   "id": "orthodox",
+   "name": "Eastern Orthodox",
+   "tagline": "A family of self-governing churches keeping the faith of the seven councils.",
+   "summary": "The communion of autocephalous churches, led by the Ecumenical Patriarch as 'first among equals', that accepts the seven ecumenical councils and the Byzantine liturgical tradition. It sees itself as the one, holy, catholic and apostolic church preserved without innovation.",
+   "story": "Eastern Orthodoxy is the continuation of the Greek-speaking church of the Byzantine Empire, centred on Constantinople and the ancient patriarchates of Alexandria, Antioch and Jerusalem. Its faith was shaped by the seven ecumenical councils from Nicaea (325) to Nicaea II (787), which restored the veneration of icons. Tensions with Rome over papal authority, the Filioque clause in the Creed and differing customs culminated in the excommunications of 1054 and, decisively, the Fourth Crusade's sack of Constantinople in 1204.\n\nMissionary work by Cyril and Methodius (863) gave the Slavs a liturgy in their own language; Bulgaria, Serbia and Kievan Rus' (baptised under Vladimir in 988) became Orthodox. After the fall of Constantinople to the Ottomans in 1453, Moscow increasingly saw itself as the protector of Orthodoxy and gained a patriarchate in 1589. Russian missionaries later reached Siberia, Alaska, Japan and China.\n\nOrthodoxy is organised by self-governing (autocephalous) national churches rather than a single central authority, and many of its divisions have been about who may grant independence and over which territory. Nineteenth-century nationalism produced new churches in Greece, Serbia, Romania and Bulgaria; the Bulgarian Exarchate was condemned for 'ethnophyletism' in 1872. The twentieth century brought Communist persecution, emigration and calendar disputes, and in 2018 the Moscow Patriarchate broke communion with Constantinople over the recognition of the Orthodox Church of Ukraine.\n\nThe Pew Research Center (2017) estimated about 260 million Orthodox Christians worldwide (a figure that includes the Oriental Orthodox churches); roughly 100 million live in Russia, with large populations in Ukraine, Romania, Greece, Serbia, Bulgaria, Belarus and Georgia, and growing diasporas in Western Europe, North America and Australia.\n\nOrthodoxy has given the wider church the theology of the Cappadocian Fathers, Maximus the Confessor and Gregory Palamas, the art of the icon, the Jesus Prayer and the hesychast tradition gathered in the Philokalia, and a strong emphasis on theosis, or participation in the divine life, which has attracted renewed interest from Western Christians since the twentieth century.",
+   "origin": {
+    "year": 1054,
+    "place": {
+     "name": "Constantinople",
+     "lat": 41.008,
+     "lng": 28.978
+    },
+    "event": "Mutual excommunications between Cardinal Humbert and Patriarch Michael Keroularios, the conventional date of the East–West schism."
+   },
+   "coreDoctrines": [
+    "Holy Tradition, of which Scripture is the heart, together with the seven ecumenical councils.",
+    "The Holy Spirit proceeds from the Father (rejecting the Western Filioque).",
+    "Salvation as theosis: union with God by grace through the sacraments and ascetic life.",
+    "The veneration of icons as affirmed by the Second Council of Nicaea (787).",
+    "The Eucharist as the true Body and Blood of Christ, celebrated in the Divine Liturgy.",
+    "Bishops are equal in sacramental rank; primacy is one of honour and coordination, not universal jurisdiction."
+   ],
+   "focuses": [
+    "The Divine Liturgy of St John Chrysostom and the liturgical year.",
+    "Monasticism, with Mount Athos as a spiritual centre.",
+    "Prayer of the heart and the hesychast tradition.",
+    "Preservation of the faith unchanged from the Fathers.",
+    "The church as the bearer of national and cultural identity."
+   ],
+   "strengths": [
+    "Deep liturgical and mystical tradition with continuity from late antiquity.",
+    "Survived Ottoman rule and Communist persecution.",
+    "Theology of theosis and the Holy Spirit valued across traditions.",
+    "Conciliar and local structure that keeps worship in vernacular cultures."
+   ],
+   "criticisms": [
+    "Close ties between churches and nation-states, including support for governments in war.",
+    "Jurisdictional rivalry, especially in the diaspora and in Ukraine.",
+    "Slowness to adapt, and resistance to ecumenism in some quarters.",
+    "Limited roles for women, with no ordained women priests."
+   ],
+   "internalDivisions": [
+    {
+     "name": "Old Believers",
+     "text": "Russian traditionalists rejected Patriarch Nikon's liturgical reforms.",
+     "year": 1666
+    },
+    {
+     "name": "Bulgarian Exarchate schism",
+     "text": "Constantinople condemned 'phyletism' when Bulgarians organised their own church; healed 1945.",
+     "year": 1872
+    },
+    {
+     "name": "Calendar controversy",
+     "text": "Adoption of the Revised Julian calendar in Greece produced Old Calendarist groups.",
+     "year": 1924
+    },
+    {
+     "name": "Russian Orthodox Church Outside Russia",
+     "text": "Émigré bishops separated from Moscow; communion restored in 2007.",
+     "year": 1920
+    },
+    {
+     "name": "Holy and Great Council of Crete",
+     "text": "Moscow, Antioch, Bulgaria and Georgia stayed away from the long-planned pan-Orthodox council.",
+     "year": 2016
+    },
+    {
+     "name": "Moscow–Constantinople rupture over Ukraine",
+     "text": "Moscow broke communion after Constantinople moved to grant autocephaly to the Orthodox Church of Ukraine (2019).",
+     "year": 2018
+    }
+   ],
+   "influencedFamilies": [
+    {
+     "family": "catholic",
+     "text": "Eastern Catholic churches keep Byzantine worship; Vatican II drew on Orthodox theology."
+    },
+    {
+     "family": "anglican",
+     "text": "Anglican divines and the Oxford Movement looked to the Greek Fathers; long Anglican–Orthodox dialogue."
+    },
+    {
+     "family": "methodist",
+     "text": "John Wesley drew on Eastern writers such as Macarius in his teaching on holiness."
+    }
+   ],
+   "sources": [
+    "ware-orthodox-church",
+    "pew-2017-orthodox",
+    "hussey-byzantine",
+    "pospielovsky-russian-church",
+    "meyendorff-byzantine-theology"
+   ]
+  },
+  {
+   "id": "oriental",
+   "name": "Oriental Orthodox",
+   "tagline": "Ancient non-Chalcedonian churches of Egypt, Ethiopia, Armenia, Syria and India.",
+   "summary": "The Coptic, Ethiopian, Eritrean, Armenian, Syriac and Malankara (Indian) Orthodox churches, which accept the first three ecumenical councils but not Chalcedon (451). They confess the one incarnate nature of God the Word, following Cyril of Alexandria, and are in communion with each other but not with the Eastern Orthodox.",
+   "story": "The Oriental Orthodox churches are the heirs of those who rejected the Council of Chalcedon in 451. Following Cyril of Alexandria and later Severus of Antioch, they insisted that Christ is one incarnate nature of God the Word, united without confusion or division, and suspected the council's 'in two natures' of dividing Christ. Opponents called them 'Monophysites'; they reject the label, preferring 'Miaphysite'. Language, regional loyalties and resentment of Byzantine imperial power deepened the separation.\n\nThese churches were already rooted in ancient nations. Armenia had adopted Christianity under Tiridates III and Gregory the Illuminator (traditionally 301), and Ethiopia under King Ezana around 330. In Egypt the Coptic Church kept its own patriarch of Alexandria, and in Syria Jacob Baradaeus (d. 578) organised a separate hierarchy, giving the Syriac Orthodox the nickname 'Jacobites'. In India, Thomas Christians who rejected Portuguese Latinisation at the Coonan Cross Oath (1653) later received bishops from the Syriac Orthodox patriarch.\n\nMost of these churches lived for centuries under Muslim rule, as minorities with protected but subordinate status. They suffered heavy losses in the twentieth century, above all in the Armenian genocide (1915) and the Assyrian and Syriac massacres of the same years, and more recently in the wars in Iraq and Syria. Internal divisions have mostly been over jurisdiction: the Malankara church in India split between those loyal to the Antiochian patriarch and those claiming autocephaly, and Eritrea's church became independent of Ethiopia's after 1993.\n\nThe largest is the Ethiopian Orthodox Tewahedo Church, to which 43.5 per cent of Ethiopians (about 32 million) declared adherence in the 2007 census. The Coptic Church remains the largest Christian body in the Middle East, and the Armenian, Syriac and Indian churches have substantial diasporas.\n\nThe family preserved some of the oldest forms of Christian worship, the Desert Fathers' monasticism (born in Egypt), unique biblical canons and literatures in Ge'ez, Coptic, Armenian and Syriac, and the faith of the Kerala Christians. Joint statements with the Eastern Orthodox (1989–90) and the Catholic Church (e.g. 1973, 1984) concluded that the Christological disagreement was largely one of terminology.",
+   "origin": {
+    "year": 451,
+    "place": {
+     "name": "Chalcedon",
+     "lat": 40.983,
+     "lng": 29.027
+    },
+    "event": "Rejection of the Council of Chalcedon's definition of Christ 'in two natures' by much of Egypt, Syria and Armenia."
+   },
+   "coreDoctrines": [
+    "Christ is one incarnate nature of God the Word, fully divine and fully human (Cyril of Alexandria).",
+    "Acceptance of the councils of Nicaea, Constantinople and Ephesus only.",
+    "Seven sacraments (mysteries), with the Eucharist as the true Body and Blood of Christ.",
+    "Holy Tradition, the Fathers and the liturgy as the context for Scripture.",
+    "Veneration of the Theotokos and the saints, with extensive fasting."
+   ],
+   "focuses": [
+    "Ancient liturgies in Coptic, Ge'ez, Armenian, Syriac and Malayalam.",
+    "Monasticism and the desert tradition.",
+    "Long fasting seasons (Ethiopian Orthodox fast more than 180 days a year).",
+    "Survival and identity as minority or national churches.",
+    "Pastoral care of large diasporas."
+   ],
+   "strengths": [
+    "Among the oldest continuous Christian communities in the world.",
+    "Rich liturgical, musical and artistic traditions.",
+    "Endurance through centuries of minority status and persecution.",
+    "Fruitful Christological dialogues with Eastern Orthodox and Catholics."
+   ],
+   "criticisms": [
+    "Chalcedonian churches historically regarded their Christology as heretical.",
+    "Jurisdictional disputes, especially in Kerala, have led to long litigation.",
+    "Strong identification with ethnicity can limit outreach.",
+    "Little ordained ministry for women (though deaconesses are being revived in some places)."
+   ],
+   "internalDivisions": [
+    {
+     "name": "Armenian Catholicosate of Cilicia",
+     "text": "Two Armenian catholicosates (Etchmiadzin and Cilicia) emerged; both remain in communion but are rivals in the diaspora.",
+     "year": 1441
+    },
+    {
+     "name": "Malankara Orthodox–Jacobite split",
+     "text": "Division in Kerala between supporters of an autocephalous catholicos and loyalists to the Syriac patriarch; Indian Supreme Court ruling in 2017.",
+     "year": 1912
+    },
+    {
+     "name": "Ethiopian autocephaly",
+     "text": "The Ethiopian church received its own patriarch, ending its dependence on the Coptic Church.",
+     "year": 1959
+    },
+    {
+     "name": "Eritrean autocephaly",
+     "text": "The Eritrean Orthodox Tewahedo Church became independent of Ethiopia after Eritrean independence.",
+     "year": 1993
+    },
+    {
+     "name": "Ethiopian exiled synod",
+     "text": "A rival synod abroad after the deposition of Patriarch Merkorios; reconciled in 2018.",
+     "year": 1991
+    }
+   ],
+   "influencedFamilies": [
+    {
+     "family": "orthodox",
+     "text": "Christological dialogue since 1964 has reshaped Eastern Orthodox understanding of the 451 schism."
+    },
+    {
+     "family": "catholic",
+     "text": "Coptic, Ethiopian, Syriac, Armenian and Syro-Malankara Catholic churches grew out of these traditions."
+    },
+    {
+     "family": "independent",
+     "text": "Ethiopia's ancient church inspired the 'Ethiopian' independent churches of southern Africa from 1892."
+    }
+   ],
+   "sources": [
+    "meyendorff-imperial-unity",
+    "binns-ethiopian-church",
+    "ethiopia-census-2007",
+    "oriental-orthodox-dialogue-1990",
+    "frykenberg-india"
+   ]
+  },
+  {
+   "id": "east-syriac",
+   "name": "Church of the East",
+   "tagline": "The Syriac church of Persia that once reached China and India.",
+   "summary": "The church of the Persian Empire and beyond, using East Syriac liturgy and the theology of Theodore of Mopsuestia. In the Middle Ages it was the most widespread church in Asia; today it survives in the Assyrian Church of the East, the Ancient Church of the East and, in communion with Rome, the Chaldean and Syro-Malabar churches.",
+   "story": "Christianity reached Mesopotamia and Persia very early, through Edessa and the Jewish communities of the region. Under Sasanian rule the church organised itself at the Synod of Seleucia-Ctesiphon in 410, under a catholicos who later took the title of patriarch, and in 424 declared itself independent of the 'Western' fathers. At Beth Lapat (484) it adopted the theology of Theodore of Mopsuestia, which stressed the full humanity of Christ; outsiders, wrongly in the church's view, called it 'Nestorian'.\n\nFrom its school at Nisibis and its monasteries the church sent missionaries along the Silk Road. The monk Alopen reached the Tang capital Chang'an in 635, as recorded on the Xi'an stele of 781; there were bishops in Central Asia, among the Turks and Mongols, in Tibet, and among the Thomas Christians of India, who received their bishops from Mesopotamia until the sixteenth century. At its height in the thirteenth century the patriarch oversaw perhaps more than two hundred dioceses.\n\nDecline came with the conversion of the Mongol khans to Islam, the plague and the campaigns of Timur (c. 1400), which left the church confined to the mountains of Kurdistan and northern Iraq. A dispute over hereditary succession in 1552 led part of the church into union with Rome as the Chaldean Catholic Church, while in India the Portuguese latinised the Thomas Christians at the Synod of Diamper (1599).\n\nIn the twentieth century the Assyrian community suffered massacres during and after the First World War, and the patriarchate moved into exile, residing in Chicago from 1940 before returning to Erbil in 2015. A dispute over the Gregorian calendar and hereditary succession produced the Ancient Church of the East in 1968. War in Iraq and Syria since 2003 has scattered much of the remaining population; the faithful now live largely in diaspora in North America, Europe and Australia.\n\nThe church's legacy is immense for its size: the first Christian mission to China, the Syriac literature of Narsai and Isaac of Nineveh, and the ancestry of India's Thomas Christians. The Common Christological Declaration signed by Pope John Paul II and Patriarch Mar Dinkha IV in 1994 acknowledged that both churches confess the same faith in Christ.",
+   "origin": {
+    "year": 410,
+    "place": {
+     "name": "Seleucia-Ctesiphon",
+     "lat": 33.093,
+     "lng": 44.58
+    },
+    "event": "Synod of Isaac organises the church of the Persian Empire under its own catholicos."
+   },
+   "coreDoctrines": [
+    "Christ is one person (parsopa) in two natures (kyane), each with its own properties.",
+    "Mary is 'Mother of Christ' rather than 'Mother of God', a title the church avoids though it does not deny the deity of the one she bore.",
+    "Nicene faith in the Trinity.",
+    "Sacraments ('mysteries'), including the Holy Leaven (Malka) handed down in tradition.",
+    "Authority of Scripture as read by Theodore of Mopsuestia and the Syriac Fathers."
+   ],
+   "focuses": [
+    "East Syriac liturgy of Addai and Mari, one of the oldest Eucharistic prayers in use.",
+    "Preservation of Assyrian language and identity.",
+    "Monasticism and the mystical theology of Isaac of Nineveh.",
+    "Care for refugee and diaspora communities."
+   ],
+   "strengths": [
+    "Historic missionary reach across Asia unmatched before modern times.",
+    "Ancient Syriac theology and spirituality.",
+    "Resilience after repeated persecution and exile.",
+    "Productive dialogue with the Catholic Church since 1994."
+   ],
+   "criticisms": [
+    "Byzantine and Latin churches long condemned it as Nestorian.",
+    "Hereditary patriarchal succession (until 1976) caused division.",
+    "Small and fragmented today, with communities scattered by war."
+   ],
+   "internalDivisions": [
+    {
+     "name": "Schism of 1552",
+     "text": "Opponents of hereditary succession elected Yohannan Sulaqa, who entered communion with Rome (later the Chaldean Catholic Church).",
+     "year": 1552
+    },
+    {
+     "name": "Synod of Diamper",
+     "text": "Portuguese authorities brought Kerala's Thomas Christians under Latin control, cutting ties with the East Syriac patriarch.",
+     "year": 1599
+    },
+    {
+     "name": "Ancient Church of the East",
+     "text": "Split over the adoption of the Gregorian calendar and hereditary succession; reunion talks continue.",
+     "year": 1968
+    },
+    {
+     "name": "Chaldean Syrian Church in Kerala",
+     "text": "A small Assyrian-linked community in Thrissur, the main surviving East Syriac body in India.",
+     "year": 1907
+    }
+   ],
+   "influencedFamilies": [
+    {
+     "family": "catholic",
+     "text": "The Chaldean and Syro-Malabar Catholic churches keep the East Syriac rite."
+    },
+    {
+     "family": "oriental",
+     "text": "Kerala's Thomas Christians who rejected Latin rule (1653) later adopted West Syriac Orthodox ties."
+    },
+    {
+     "family": "early",
+     "text": "Its Syriac Fathers preserve an early, Semitic form of Christian thought."
+    }
+   ],
+   "sources": [
+    "baum-winkler-east",
+    "jenkins-lost-history",
+    "moffett-asia",
+    "xian-stele",
+    "common-christological-declaration-1994"
+   ]
+  },
+  {
+   "id": "lutheran",
+   "name": "Lutheran",
+   "tagline": "Justification by faith alone, preached and sung since Wittenberg.",
+   "summary": "The churches that follow the teaching of Martin Luther and the Augsburg Confession (1530), centred on justification by grace through faith and the real presence of Christ in the Lord's Supper. They range from national folk churches in Scandinavia to fast-growing churches in Ethiopia, Tanzania and Indonesia.",
+   "story": "Lutheranism began with Martin Luther's protest against indulgences in his Ninety-Five Theses (1517) at Wittenberg. Excommunicated in 1521, Luther translated the Bible into German, reformed the Mass and wrote catechisms (1529) that shaped generations. The Augsburg Confession, presented by Philip Melanchthon to Charles V in 1530, became the defining statement of faith, and the Book of Concord (1580) gathered the Lutheran confessions.\n\nThe Reformation spread through the German princes and cities, legally recognised at the Peace of Augsburg (1555), and became the established religion of Denmark–Norway, Sweden–Finland and the Baltic lands. Emigration carried Lutherans to North America, Australia and southern Brazil, while missions from Halle and later from Leipzig, Hermannsburg and Scandinavia took the faith to India (Tranquebar, 1706), southern Africa, Tanzania, Ethiopia, Namibia, Madagascar, Papua New Guinea and Sumatra.\n\nAfter Luther's death his followers divided between strict 'Gnesio-Lutherans' and Melanchthon's 'Philippists' until the Formula of Concord (1577). Pietism, launched by Philipp Jakob Spener's Pia Desideria (1675), stressed personal conversion against a cold orthodoxy. The Prussian Union of Lutheran and Reformed churches (1817) drove confessional 'Old Lutherans' to emigrate, helping found the conservative Lutheran Church–Missouri Synod (1847). In the twentieth century Lutherans divided over biblical criticism, women's ordination and sexuality.\n\nThe Lutheran World Federation's 150 member churches reported about 78.4 million members in 2023. Africa now has the most (about 30.8 million), led by the Ethiopian Evangelical Church Mekane Yesus; the Nordic countries (about 17.2 million) and Germany still have large if declining folk churches, and there are significant churches in Tanzania, Indonesia (the Batak HKBP) and India.\n\nLutheranism gave Protestantism its first theology, the vernacular hymn and chorale (culminating in J. S. Bach), the model of the territorial church, and thinkers such as Kierkegaard and Bonhoeffer. The Joint Declaration on the Doctrine of Justification (1999) with the Catholic Church marked a milestone in healing the division that Luther began.",
+   "origin": {
+    "year": 1517,
+    "place": {
+     "name": "Wittenberg",
+     "lat": 51.866,
+     "lng": 12.646
+    },
+    "event": "Martin Luther publishes his Ninety-Five Theses against indulgences."
+   },
+   "members": {
+    "estimate": 78400000,
+    "year": 2023,
+    "source": "Lutheran World Federation, Membership Statistics 2023 (150 member churches; excludes non-member Lutheran bodies such as the Missouri Synod)."
+   },
+   "coreDoctrines": [
+    "Justification by grace alone through faith alone, on account of Christ alone.",
+    "Scripture as the sole norm of faith, read through the Lutheran confessions (Book of Concord, 1580).",
+    "Law and Gospel distinguished as God's two words.",
+    "Baptism (including of infants) and the Lord's Supper as means of grace.",
+    "Real presence: Christ's body and blood are truly present 'in, with and under' the bread and wine.",
+    "The priesthood of all baptised believers and the doctrine of vocation."
+   ],
+   "focuses": [
+    "Preaching of the Gospel and liturgical worship.",
+    "Congregational singing and church music.",
+    "Catechesis using Luther's Small Catechism.",
+    "Diakonia: social service and relief (e.g. LWF World Service).",
+    "Ecumenical dialogue, notably with Catholics and Anglicans."
+   ],
+   "strengths": [
+    "Clear, gracious doctrine of salvation.",
+    "Outstanding musical heritage.",
+    "Balance of liturgical tradition and evangelical preaching.",
+    "Rapid growth in Africa and Asia."
+   ],
+   "criticisms": [
+    "Luther's late writings against Jews were later exploited by antisemites; the LWF repudiated them in 1984.",
+    "State-church dependence fostered nominal membership in Europe.",
+    "Many German Protestants accommodated to Nazism (with the Confessing Church as the exception).",
+    "Sharp divisions between liberal and confessional bodies."
+   ],
+   "internalDivisions": [
+    {
+     "name": "Gnesio-Lutherans and Philippists",
+     "text": "Quarrels after the Augsburg and Leipzig Interims, resolved by the Formula of Concord (1577).",
+     "year": 1548
+    },
+    {
+     "name": "Pietism",
+     "text": "Spener and Francke called for heartfelt faith and small groups, against Lutheran Orthodoxy.",
+     "year": 1675
+    },
+    {
+     "name": "Prussian Union and the Old Lutherans",
+     "text": "Forced union with the Reformed led confessional Lutherans to resist and emigrate.",
+     "year": 1817
+    },
+    {
+     "name": "Laestadian revival",
+     "text": "A Nordic revival movement that later split into several separate groups.",
+     "year": 1844
+    },
+    {
+     "name": "Seminex",
+     "text": "Missouri Synod faculty walk-out over biblical criticism; moderates later joined what became the ELCA.",
+     "year": 1974
+    },
+    {
+     "name": "Sexuality debates",
+     "text": "The ELCA's decision to allow partnered gay clergy led to the formation of the North American Lutheran Church (2010).",
+     "year": 2009
+    }
+   ],
+   "influencedFamilies": [
+    {
+     "family": "anglican",
+     "text": "Cranmer and early English reformers borrowed Lutheran liturgy and doctrine."
+    },
+    {
+     "family": "methodist",
+     "text": "Wesley's heart was 'strangely warmed' hearing Luther's preface to Romans read (1738)."
+    },
+    {
+     "family": "reformed",
+     "text": "Reformed Protestantism began in dialogue and debate with Luther."
+    },
+    {
+     "family": "evangelical",
+     "text": "Pietism and the Moravians transmitted a Lutheran stress on conversion to the evangelical revival."
+    }
+   ],
+   "sources": [
+    "lwf-statistics",
+    "ff-lwf-2023",
+    "macculloch-reformation",
+    "sasse-this-is-my-body",
+    "i1-jeyaraj-ziegenbalg"
+   ]
+  },
+  {
+   "id": "reformed",
+   "name": "Reformed and Presbyterian",
+   "tagline": "Calvinist churches of covenant, confession and the sovereignty of God.",
+   "summary": "The Protestant tradition that grew from Zwingli in Zurich and Calvin in Geneva, including Presbyterian, Reformed and Congregational churches. It emphasises God's sovereign grace, the authority of Scripture, a simple worship ordered by the Word, and government by elders.",
+   "story": "The Reformed tradition began when Huldrych Zwingli started preaching through the Gospel of Matthew at Zurich's Grossmünster in 1519, and quickly took a more radical line than Luther on images, worship and the Lord's Supper. Its decisive centre became Geneva, where John Calvin's Institutes of the Christian Religion (1536, final edition 1559) and his church order (1541) offered a model of a reformed city and a training ground for pastors.\n\nFrom Geneva the movement spread to France (the Huguenots), the Netherlands, the Palatinate, Hungary and Transylvania, and Scotland, where John Knox led the Reformation of 1560. It produced a wealth of confessions: the Belgic (1561), the Heidelberg Catechism (1563), the Second Helvetic (1566), the Canons of Dort (1619) and the Westminster Confession (1646). English Puritans and Congregationalists carried it to New England, and Dutch settlers to southern Africa and Indonesia.\n\nThe tradition's emphasis on confession and church discipline made it prone to division. The Synod of Dort rejected the Arminian Remonstrants (1618–19); English Puritans divided between Presbyterians and Independents; Scotland saw repeated secessions culminating in the Disruption of 1843. Modern quarrels over biblical criticism, the Fundamentalist–Modernist controversy, apartheid in South Africa and sexuality have produced further splits, alongside unions such as the Church of South India and the Protestant Church in the Netherlands.\n\nThe World Communion of Reformed Churches describes its member churches as representing about 100 million Christians. Today the strongest Reformed churches are often outside Europe: in South Korea, Indonesia, Nigeria, Ghana, Kenya, Brazil and the north-eastern Indian states of Mizoram and Meghalaya, as well as in the United States, Scotland, Switzerland, the Netherlands and Hungary.\n\nReformed thought shaped modern political ideas of covenant, limited government and the right of resistance, the Puritan work ethic made famous by Max Weber, and theologians from Jonathan Edwards to Abraham Kuyper and Karl Barth. Its influence runs through Baptist, evangelical and much of Anglican theology.",
+   "origin": {
+    "year": 1519,
+    "place": {
+     "name": "Zurich",
+     "lat": 47.376,
+     "lng": 8.548
+    },
+    "event": "Huldrych Zwingli begins expository preaching at the Grossmünster, launching the Swiss Reformation."
+   },
+   "members": {
+    "estimate": 100000000,
+    "year": 2024,
+    "source": "World Communion of Reformed Churches, self-description of its roughly 230 member churches (rounded figure)."
+   },
+   "coreDoctrines": [
+    "Scripture alone as the supreme rule of faith and worship (the 'regulative principle' in strict forms).",
+    "The sovereignty of God in salvation: unconditional election and effectual grace (Canons of Dort).",
+    "Covenant theology uniting the Old and New Testaments.",
+    "Baptism of believers' children as a sign of the covenant.",
+    "Christ is spiritually present in the Lord's Supper, received by faith through the Holy Spirit.",
+    "Church government by elders (presbyters) in sessions, presbyteries and synods."
+   ],
+   "focuses": [
+    "Expository preaching and teaching.",
+    "Confessional subscription and catechesis.",
+    "Education: schools, universities and an educated ministry.",
+    "Transforming society and culture under God's law.",
+    "Church discipline and orderly government."
+   ],
+   "strengths": [
+    "Systematic and intellectually rigorous theology.",
+    "Strong tradition of education and literacy.",
+    "Representative church government that influenced democratic institutions.",
+    "Vigorous churches in Korea, Africa and Indonesia."
+   ],
+   "criticisms": [
+    "Doctrine of double predestination is rejected by Arminian, Catholic and Orthodox Christians.",
+    "Theocratic tendencies and harsh discipline in early Geneva, Scotland and New England.",
+    "Dutch Reformed theology was used to justify apartheid until the 1980s.",
+    "Fissiparous: many small splinter denominations."
+   ],
+   "internalDivisions": [
+    {
+     "name": "Remonstrant controversy",
+     "text": "The Synod of Dort condemned the Arminians, who formed the Remonstrant Brotherhood.",
+     "year": 1618
+    },
+    {
+     "name": "Presbyterians and Congregationalists",
+     "text": "Westminster Assembly debates divided Presbyterians from Independents over church government.",
+     "year": 1643
+    },
+    {
+     "name": "Disruption of 1843",
+     "text": "About a third of Church of Scotland ministers left to form the Free Church over patronage and state control.",
+     "year": 1843
+    },
+    {
+     "name": "Afscheiding and Doleantie",
+     "text": "Dutch secessions (1834, 1886 under Kuyper) from the national Reformed church.",
+     "year": 1834
+    },
+    {
+     "name": "Orthodox Presbyterian Church",
+     "text": "J. Gresham Machen and conservatives left the northern Presbyterian church over modernism.",
+     "year": 1936
+    },
+    {
+     "name": "Presbyterian Church in America",
+     "text": "Conservatives left the southern Presbyterian church; Korean Presbyterians also divided into many bodies.",
+     "year": 1973
+    },
+    {
+     "name": "Belhar Confession",
+     "text": "Black Dutch Reformed churches in South Africa condemned apartheid theology.",
+     "year": 1986
+    }
+   ],
+   "influencedFamilies": [
+    {
+     "family": "baptist",
+     "text": "Particular Baptists adopted Calvinist doctrine (Second London Confession, 1689)."
+    },
+    {
+     "family": "evangelical",
+     "text": "Puritan and Reformed theology shaped the Great Awakening through Edwards and Whitefield."
+    },
+    {
+     "family": "anglican",
+     "text": "The Thirty-Nine Articles reflect Reformed views of the Eucharist and predestination."
+    },
+    {
+     "family": "united",
+     "text": "Reformed churches were central to most twentieth-century united churches."
+    },
+    {
+     "family": "restorationist",
+     "text": "The Campbells and Stone came from Presbyterian backgrounds."
+    }
+   ],
+   "sources": [
+    "wcrc-statistics",
+    "ff-wcrc",
+    "macculloch-reformation",
+    "muller-calvin-after",
+    "schaff-creeds"
+   ]
+  },
+  {
+   "id": "anglican",
+   "name": "Anglican",
+   "tagline": "Catholic and Reformed, held together by common prayer and bishops.",
+   "summary": "The churches descended from the Church of England, most of them members of the Anglican Communion. They keep bishops in historic succession and the creeds, worship from the Book of Common Prayer tradition, and combine Catholic, Reformed and evangelical strands.",
+   "story": "The Church of England separated from Rome when Henry VIII, refused an annulment of his marriage, had Parliament declare him Supreme Head of the Church (Act of Supremacy, 1534). Under Edward VI, Archbishop Thomas Cranmer gave it Protestant doctrine and the Book of Common Prayer (1549, 1552); after Mary I's Catholic restoration, the Elizabethan Settlement (1559) and the Thirty-Nine Articles (1571) set a Reformed but episcopal church, defended by Richard Hooker.\n\nThe tradition spread with English colonisation and emigration, and then through missionary societies such as the SPG (1701) and the Church Missionary Society (1799). After American independence the Episcopal Church (1789) became the first Anglican church outside the British Isles; colonial churches later became self-governing provinces. The first Lambeth Conference of bishops met in 1867.\n\nInternal tensions have been constant. Puritans wanted further reform; the Nonjurors refused to swear allegiance to William III (1689); Methodism grew within and then outside the church; the Oxford Movement (1833) revived Catholic teaching and ritual, provoking evangelical opposition. Since the 1970s the ordination of women and disagreements over sexuality have strained the Communion, leading to the Global Anglican Future Conference (GAFCON, 2008), the Anglican Church in North America (2009), and in 2025 GAFCON's declaration that it would no longer recognise the Archbishop of Canterbury as the Communion's focus of unity.\n\nThe Anglican Communion is commonly described as having some 85 million members in 42 provinces, a figure based largely on baptismal rolls; regular worshippers are far fewer in England. The largest and fastest-growing provinces are in Africa, especially Nigeria, Uganda and Kenya, while the churches in Britain, North America and Australia are shrinking.\n\nAnglicanism's influence comes above all from the Book of Common Prayer and the King James Bible (1611), which shaped the English language, from its choral and hymn traditions, and from its model of a 'via media'. Methodism and much of the Episcopal-style church order of the Global South grew from it, and the Church of South India (1947) was the first union of episcopal and non-episcopal churches.",
+   "origin": {
+    "year": 1534,
+    "place": {
+     "name": "London",
+     "lat": 51.507,
+     "lng": -0.128
+    },
+    "event": "The Act of Supremacy makes Henry VIII Supreme Head of the Church of England."
+   },
+   "coreDoctrines": [
+    "Scripture contains all things necessary to salvation (Article VI), read with tradition and reason.",
+    "The historic creeds and the first four ecumenical councils.",
+    "The historic episcopate (Chicago–Lambeth Quadrilateral, 1886–88).",
+    "Two Gospel sacraments, baptism and the Eucharist, with other 'sacramental rites'.",
+    "Justification by faith (Article XI), interpreted variously by evangelical and Anglo-Catholic wings.",
+    "Lex orandi, lex credendi: doctrine expressed in the Prayer Book."
+   ],
+   "focuses": [
+    "Common prayer: daily offices and the Eucharist in the vernacular.",
+    "Parish ministry to whole communities.",
+    "Education and social reform (from Wilberforce to Desmond Tutu).",
+    "Mission in Africa and Asia through historic societies.",
+    "Ecumenism and dialogue."
+   ],
+   "strengths": [
+    "Comprehensive breadth that holds diverse convictions together.",
+    "Beautiful liturgical and musical heritage.",
+    "Strong public and civic presence.",
+    "Vigorous growth in Africa."
+   ],
+   "criticisms": [
+    "Born of royal politics; critics see its unity as more cultural than doctrinal.",
+    "Close ties to the British state and empire.",
+    "Deep division over sexuality threatens the Communion's unity.",
+    "Steep decline in attendance in its historic heartlands."
+   ],
+   "internalDivisions": [
+    {
+     "name": "Nonjurors",
+     "text": "Clergy who refused oaths to William and Mary formed a separate episcopal church.",
+     "year": 1689
+    },
+    {
+     "name": "Methodist separation",
+     "text": "Wesley's societies became a separate church after his death.",
+     "year": 1795
+    },
+    {
+     "name": "Oxford Movement",
+     "text": "Anglo-Catholic revival led some (including Newman, 1845) to Rome and divided parties within the church.",
+     "year": 1833
+    },
+    {
+     "name": "Ordination of women",
+     "text": "The Episcopal Church's decision (and England's in 1992) prompted departures and 'flying bishops'.",
+     "year": 1976
+    },
+    {
+     "name": "GAFCON and ACNA",
+     "text": "Conservative Anglicans, mainly from the Global South, formed a rival network after the consecration of a gay bishop (2003).",
+     "year": 2008
+    },
+    {
+     "name": "Rejection of Canterbury",
+     "text": "GAFCON announced it would no longer look to the Archbishop of Canterbury as the focus of Anglican unity.",
+     "year": 2025
+    }
+   ],
+   "influencedFamilies": [
+    {
+     "family": "methodist",
+     "text": "Methodism began as a renewal movement within the Church of England."
+    },
+    {
+     "family": "evangelical",
+     "text": "Anglican evangelicals (Clapham Sect, Simeon, Stott) shaped the wider evangelical movement."
+    },
+    {
+     "family": "united",
+     "text": "Anglican dioceses joined the Church of South India (1947) and the Church of North India (1970)."
+    },
+    {
+     "family": "pentecostal",
+     "text": "Anglican charismatics (from 1960) helped spread the charismatic renewal."
+    }
+   ],
+   "sources": [
+    "chapman-anglicanism",
+    "cuming-anglican-liturgy",
+    "anglican-communion-office",
+    "macculloch-reformation"
+   ]
+  },
+  {
+   "id": "anabaptist",
+   "name": "Anabaptist",
+   "tagline": "Believers' baptism, discipleship and the way of peace.",
+   "summary": "The 'radical Reformation' churches—Mennonites, Amish, Hutterites, Brethren and others—that baptise only confessing believers, follow the Sermon on the Mount, reject violence and stress a church separate from the state.",
+   "story": "Anabaptism began in Zurich on 21 January 1525, when Conrad Grebel, Felix Manz and George Blaurock, disappointed that Zwingli would not abolish infant baptism, baptised one another as adults. Their opponents called them 'Anabaptists' (re-baptisers). The Schleitheim Confession (1527) set out their convictions: believers' baptism, church discipline, separation from the world, refusal of the sword and of oaths.\n\nPersecuted by Catholics and Protestants alike, thousands were executed, Manz being drowned in the Limmat in 1527. The movement spread through Switzerland, South Germany, Austria, Moravia and the Netherlands. The violent episode of the Anabaptist kingdom at Münster (1534–35) discredited the name, and the former priest Menno Simons gathered the scattered peaceful Anabaptists of the Low Countries from 1536, giving the Mennonites their name.\n\nThe tradition divided over discipline and separation. Hutterites (from 1528) practised community of goods; the Amish followed Jakob Ammann in 1693 in insisting on strict 'shunning'; the Brethren of Schwarzenau (1708) combined Anabaptism with Pietism. Seeking religious freedom, groups migrated to Pennsylvania, Russia, Canada, Mexico, Paraguay and Bolivia, many retaining German dialects.\n\nThe Mennonite World Conference's 2018 census counted about 2.13 million baptised Anabaptist members in 86 countries; Africa (notably the DR Congo, Ethiopia's Meserete Kristos Church, Tanzania and Kenya) now has more members than North America. The Amish and Old Order groups in the United States are growing fast through large families. India has Mennonite and Brethren in Christ churches, mostly in Chhattisgarh, Odisha, Andhra Pradesh and Bihar.\n\nAnabaptists pioneered the idea of a voluntary church free from state control and of religious liberty, and their peace witness inspired conscientious objection and relief work (Mennonite Central Committee, 1920). The twentieth-century 'Anabaptist vision' of Harold Bender and John Howard Yoder's The Politics of Jesus (1972) influenced many evangelicals and other Christians.",
+   "origin": {
+    "year": 1525,
+    "place": {
+     "name": "Zurich",
+     "lat": 47.376,
+     "lng": 8.548
+    },
+    "event": "Conrad Grebel, Felix Manz and George Blaurock perform the first adult baptisms of the Swiss Brethren."
+   },
+   "members": {
+    "estimate": 2130000,
+    "year": 2018,
+    "source": "Mennonite World Conference global census 2018 (baptised members of Anabaptist-related churches, MWC members and non-members)."
+   },
+   "coreDoctrines": [
+    "Baptism only of believers who confess faith and commit to discipleship.",
+    "Following Jesus in daily life, especially the Sermon on the Mount.",
+    "Nonresistance or active peacemaking; refusal of military service.",
+    "The church as a voluntary, disciplined community separate from the state.",
+    "Lord's Supper as a memorial and sign of community; footwashing in many groups.",
+    "Refusal of oaths, in line with Matthew 5:34."
+   ],
+   "focuses": [
+    "Community, mutual aid and simple living.",
+    "Peace and justice witness; relief and development.",
+    "Discipleship and accountability in the congregation.",
+    "Preserving community identity (especially Old Order groups)."
+   ],
+   "strengths": [
+    "Consistent witness for peace and nonviolence.",
+    "Pioneers of religious freedom and church–state separation.",
+    "Strong communities and service organisations.",
+    "Courage under severe persecution."
+   ],
+   "criticisms": [
+    "Separatism can lead to isolation and legalism.",
+    "Shunning and strict discipline are criticised as harsh.",
+    "Pacifism is judged unrealistic by just-war traditions.",
+    "Revelations of abuse by John Howard Yoder damaged trust in leading voices."
+   ],
+   "internalDivisions": [
+    {
+     "name": "Hutterites",
+     "text": "Community of goods led by Jakob Hutter (d. 1536) in Moravia.",
+     "year": 1528
+    },
+    {
+     "name": "Münster rebellion",
+     "text": "Apocalyptic Anabaptists seized Münster; peaceful Anabaptists rejected them.",
+     "year": 1534
+    },
+    {
+     "name": "Amish division",
+     "text": "Jakob Ammann split from Swiss Mennonites over shunning and footwashing.",
+     "year": 1693
+    },
+    {
+     "name": "Schwarzenau Brethren",
+     "text": "Alexander Mack's Brethren combined Pietism with Anabaptist practice.",
+     "year": 1708
+    },
+    {
+     "name": "Old Order movement",
+     "text": "Conservative Mennonites and Amish separated from progressive congregations over technology and revivalism.",
+     "year": 1872
+    },
+    {
+     "name": "Mennonite Church USA departures",
+     "text": "Conservative conferences left over sexuality questions.",
+     "year": 2015
+    }
+   ],
+   "influencedFamilies": [
+    {
+     "family": "baptist",
+     "text": "John Smyth's congregation lived among Waterlander Mennonites in Amsterdam; some joined them."
+    },
+    {
+     "family": "independent",
+     "text": "Quakers shared Anabaptist convictions on oaths, peace and a gathered church."
+    },
+    {
+     "family": "evangelical",
+     "text": "Neo-Anabaptist theology (Yoder, Hauerwas) has shaped many evangelicals."
+    }
+   ],
+   "sources": [
+    "mwc-census",
+    "stayer-anabaptists-sword",
+    "kraybill-amish",
+    "macculloch-reformation"
+   ]
+  },
+  {
+   "id": "baptist",
+   "name": "Baptist",
+   "tagline": "Believers' baptism, congregational freedom and religious liberty.",
+   "summary": "Congregational Protestant churches that baptise believers by immersion, hold Scripture as the final authority and defend the autonomy of the local church and freedom of conscience. They range from Calvinist to Arminian and from very conservative to liberal.",
+   "story": "Baptists emerged among English Separatists in exile. In Amsterdam in 1609 John Smyth baptised himself and his congregation as believers; his colleague Thomas Helwys returned to found the first Baptist church in England at Spitalfields (1612) and wrote a famous plea for religious liberty. These 'General' Baptists were Arminian; 'Particular' Baptists, Calvinist, appeared in London in the 1630s, and their London Confession (1644) adopted immersion.\n\nIn America Roger Williams founded a Baptist church at Providence (1638/9), and the Great Awakening produced the Separate Baptists, who spread rapidly across the South and among enslaved Africans, who formed their own churches. William Carey's Baptist Missionary Society (1792) and his work at Serampore launched the modern missionary movement; Adoniram Judson took the faith to Burma, and Baptists later became the largest church in Nagaland and much of north-east India.\n\nCongregational independence made division easy. Baptists split over slavery when the Southern Baptist Convention formed in 1845; Black Baptists organised the National Baptist Convention (1895). There were divisions over missions (Primitive Baptists), the Sabbath (Seventh Day Baptists), Landmarkism, the authority of Scripture (Spurgeon's Downgrade controversy, 1887) and, in the Southern Baptist Convention after 1979, a 'conservative resurgence' that led moderates to form the Cooperative Baptist Fellowship (1991).\n\nThe Baptist World Alliance reported about 47 million baptised members in 241 member bodies in 2021; because Baptists count only baptised believers, the wider community is larger. The largest concentrations are in the United States, Nigeria, Brazil, the DR Congo, India's north-east, Myanmar and South Korea.\n\nBaptists have been leading advocates of religious liberty and church–state separation, from Helwys to the First Amendment's supporters, and produced figures such as Spurgeon, Billy Graham and Martin Luther King Jr. Their congregational model shaped much of modern evangelical and independent Christianity.",
+   "origin": {
+    "year": 1609,
+    "place": {
+     "name": "Amsterdam",
+     "lat": 52.37,
+     "lng": 4.895
+    },
+    "event": "John Smyth baptises himself and his English Separatist congregation as believers."
+   },
+   "members": {
+    "estimate": 47000000,
+    "year": 2021,
+    "source": "Baptist World Alliance (241 member bodies in 126 countries), as cited by the Dicastery for Promoting Christian Unity, 2021; baptised members only."
+   },
+   "coreDoctrines": [
+    "Scripture as the sole and final authority for faith and practice.",
+    "Baptism of believers only, by immersion, as an ordinance of obedience.",
+    "The Lord's Supper as a memorial ordinance.",
+    "Autonomy of the local congregation under Christ.",
+    "Priesthood of all believers and soul competency.",
+    "Religious liberty and separation of church and state."
+   ],
+   "focuses": [
+    "Evangelism and conversion.",
+    "World mission (BMS, IMB and many others).",
+    "Bible teaching and Sunday schools.",
+    "Congregational life and democratic decision-making."
+   ],
+   "strengths": [
+    "Champions of freedom of conscience.",
+    "Strong missionary and evangelistic energy.",
+    "Adaptable congregational model that spreads easily.",
+    "Lay participation and local ownership."
+   ],
+   "criticisms": [
+    "Fragmentation into many conventions and splinter groups.",
+    "Southern Baptists' founding defence of slavery (apologised for in 1995).",
+    "Sacramental churches see their view of baptism and the Supper as too thin.",
+    "Lack of central accountability, exposed in recent abuse investigations."
+   ],
+   "internalDivisions": [
+    {
+     "name": "General and Particular Baptists",
+     "text": "Arminian and Calvinist Baptists formed separate streams in England.",
+     "year": 1638
+    },
+    {
+     "name": "Seventh Day Baptists",
+     "text": "Sabbath-keeping Baptists organised separately in Newport, Rhode Island.",
+     "year": 1671
+    },
+    {
+     "name": "Free Will Baptists",
+     "text": "Arminian Baptists organised in North Carolina.",
+     "year": 1727
+    },
+    {
+     "name": "Southern Baptist Convention",
+     "text": "Southern Baptists separated from Northern Baptists over slaveholding missionaries.",
+     "year": 1845
+    },
+    {
+     "name": "National Baptist Convention",
+     "text": "Black Baptist churches united in their own convention.",
+     "year": 1895
+    },
+    {
+     "name": "Downgrade controversy",
+     "text": "Spurgeon left the Baptist Union over liberal theology.",
+     "year": 1887
+    },
+    {
+     "name": "SBC conservative resurgence",
+     "text": "Conservatives took control; moderates formed the Cooperative Baptist Fellowship (1991).",
+     "year": 1979
+    }
+   ],
+   "influencedFamilies": [
+    {
+     "family": "restorationist",
+     "text": "Alexander Campbell's movement worked within Baptist associations before separating."
+    },
+    {
+     "family": "evangelical",
+     "text": "Baptists such as Carey, Spurgeon and Billy Graham shaped the evangelical movement."
+    },
+    {
+     "family": "pentecostal",
+     "text": "Many early Pentecostals came from Baptist churches and kept Baptist ordinances and polity."
+    },
+    {
+     "family": "independent",
+     "text": "Independent Bible churches commonly adopt Baptist practice."
+    }
+   ],
+   "sources": [
+    "bwa-statistics",
+    "ff-dicastery-bwa",
+    "noll-christianity-us",
+    "i2-potts-british-baptists",
+    "i3-downs-northeast"
+   ]
+  },
+  {
+   "id": "methodist",
+   "name": "Methodist and Holiness",
+   "tagline": "Heart-warmed faith, holy living and the world as a parish.",
+   "summary": "The churches that grew from John and Charles Wesley's revival in eighteenth-century England, including the Holiness churches and the Salvation Army. They stress God's grace offered to all, assurance of salvation, growth towards holiness and organised social action.",
+   "story": "Methodism began in the 'Holy Club' at Oxford (1729), whose members were mocked for their methodical piety. After his evangelical conversion at Aldersgate Street on 24 May 1738, John Wesley took up open-air preaching in Bristol in April 1739, following George Whitefield, and organised converts into societies, classes and bands under lay preachers, linked in a 'connexion'. Charles Wesley's hymns gave the movement its theology in song.\n\nWesley intended to renew the Church of England, but in 1784 he ordained preachers for America, where the Methodist Episcopal Church was organised at the Christmas Conference in Baltimore under Francis Asbury and Thomas Coke. Circuit riders made Methodism the largest American denomination by the mid-nineteenth century. Missions carried it to West Africa, India, Korea, China, the Pacific (Tonga and Fiji) and southern Africa.\n\nMethodism divided over church government, race and holiness. In Britain the Primitive Methodists and others left the Wesleyan body (reunited in 1932). In America Richard Allen founded the African Methodist Episcopal Church (1816) after discrimination in Philadelphia, and the church split North and South over slavery in 1844. The Holiness movement's teaching on 'entire sanctification' produced the Church of the Nazarene, the Salvation Army (1865) and other bodies, and in turn Pentecostalism. Most recently, about a quarter of United Methodist congregations in the US disaffiliated between 2019 and 2023 over sexuality, many joining the Global Methodist Church (2022).\n\nThe World Methodist Council's member churches are commonly said to represent some 80 million people; the largest are the United Methodist Church, with growing membership in Africa, and churches in Nigeria, Ghana, Korea, Zimbabwe and Côte d'Ivoire. In India the Methodist Church in India became autonomous in 1981, and Methodists joined the Church of South India and Church of North India unions.\n\nMethodism shaped the evangelical revival, the Sunday school, temperance, the abolition of slavery and the trade-union movement in Britain, and gave the world Pentecostalism by way of the Holiness movement. Its insistence that 'there is no holiness but social holiness' made social reform central to its identity.",
+   "origin": {
+    "year": 1739,
+    "place": {
+     "name": "Bristol",
+     "lat": 51.454,
+     "lng": -2.588
+    },
+    "event": "John Wesley begins field preaching near Bristol and forms the first Methodist societies."
+   },
+   "coreDoctrines": [
+    "Prevenient grace: God's grace enables every person to respond (Arminian theology).",
+    "Justification by faith and the witness of the Spirit giving assurance.",
+    "Sanctification and Christian perfection, or perfect love, as the goal of the Christian life.",
+    "Scripture as primary, read with tradition, reason and experience (the 'Wesleyan quadrilateral').",
+    "Baptism (including infants) and the Lord's Supper as means of grace."
+   ],
+   "focuses": [
+    "Evangelism and revival.",
+    "Small-group accountability (classes and bands).",
+    "Hymn-singing.",
+    "Social holiness: education, health care, abolition and relief.",
+    "Connexional organisation and itinerant ministry."
+   ],
+   "strengths": [
+    "Warm, accessible faith with strong lay involvement.",
+    "Effective organisation for mission and social action.",
+    "Rich hymnody (Charles Wesley wrote some 6,000 hymns).",
+    "Early openness to women preachers and leaders."
+   ],
+   "criticisms": [
+    "Calvinists reject its view of free grace and perfection.",
+    "Historic compromise over slavery and segregation.",
+    "Doctrinal pluralism in some churches, leading to division.",
+    "Decline in Britain and North America."
+   ],
+   "internalDivisions": [
+    {
+     "name": "Calvinistic Methodists",
+     "text": "Whitefield and Welsh Methodists parted from Wesley over predestination.",
+     "year": 1741
+    },
+    {
+     "name": "Primitive Methodists",
+     "text": "Camp-meeting revivalists were expelled from the Wesleyans.",
+     "year": 1812
+    },
+    {
+     "name": "African Methodist Episcopal Church",
+     "text": "Richard Allen led Black Methodists out of segregated churches.",
+     "year": 1816
+    },
+    {
+     "name": "North–South split over slavery",
+     "text": "The Methodist Episcopal Church divided; reunited 1939.",
+     "year": 1844
+    },
+    {
+     "name": "Holiness churches",
+     "text": "Holiness advocates formed the Church of God (Anderson), the Nazarenes (1908) and others.",
+     "year": 1881
+    },
+    {
+     "name": "United Methodist disaffiliations",
+     "text": "Over 7,000 US congregations left in 2019–23 over sexuality; many formed the Global Methodist Church.",
+     "year": 2019
+    }
+   ],
+   "influencedFamilies": [
+    {
+     "family": "pentecostal",
+     "text": "Pentecostalism grew directly out of the Wesleyan Holiness movement."
+    },
+    {
+     "family": "evangelical",
+     "text": "Methodism was a major engine of the evangelical revival."
+    },
+    {
+     "family": "united",
+     "text": "Methodists joined most twentieth-century church unions."
+    },
+    {
+     "family": "independent",
+     "text": "Some African independent churches and Korean churches grew from Methodist missions."
+    }
+   ],
+   "sources": [
+    "heitzenrater-wesley",
+    "rack-reasonable-enthusiast",
+    "wmc-statistics",
+    "umc-news-2019-2024",
+    "synan-holiness-pentecostal"
+   ]
+  },
+  {
+   "id": "pentecostal",
+   "name": "Pentecostal and Charismatic",
+   "tagline": "The Spirit's baptism, gifts and power, from Azusa Street to the world.",
+   "summary": "The movements that stress the baptism in the Holy Spirit, speaking in tongues, healing and prophecy, including classical Pentecostal denominations, charismatics within older churches and independent neo-charismatic churches. Together they are the fastest-growing stream of Christianity.",
+   "story": "Pentecostalism grew out of the Holiness movement's longing for a new Pentecost. At Charles Parham's Bible school in Topeka, Kansas, Agnes Ozman spoke in tongues on 1 January 1901, and Parham taught tongues as the 'initial evidence' of baptism in the Spirit. The movement became global through the revival led by the African American preacher William J. Seymour at Azusa Street, Los Angeles, from April 1906, notable for its inter-racial worship. There were parallel revivals at Pandita Ramabai's Mukti Mission in India (1905), in Wales (1904–05), Korea (1907) and Chile (1909).\n\nMissionaries from Azusa Street and its offshoots fanned out within a few years; Swedish Americans Daniel Berg and Gunnar Vingren founded the Assembleias de Deus in Brazil in 1911. Denominations formed: the Church of God in Christ (1907 as Pentecostal), the Assemblies of God (1914), the Foursquare Church (1927) and many others. From 1960 the 'charismatic renewal' brought Pentecostal experience into Anglican, Lutheran and, after 1967, Catholic churches, and from the 1970s neo-charismatic and independent churches multiplied across Africa, Asia and Latin America.\n\nThe movement divided early over sanctification (the 'Finished Work' controversy, 1910), over the Trinity (the Oneness 'Jesus Only' movement, 1913–16), and along racial lines. Later controversies concerned the Latter Rain movement (1948), the 'prosperity gospel', and the authority of new apostles and prophets.\n\nThe Center for the Study of Global Christianity counted about 664 million Pentecostals and charismatics in 2025, compared with fewer than a million in 1900, though the figure depends heavily on definitions. Brazil, Nigeria, the United States, China, India, the DR Congo, Kenya and South Korea have very large Pentecostal populations, and the World Assemblies of God Fellowship alone reported nearly 89 million adherents in 2025. In India, the Indian Pentecostal Church of God (1924) and many independent churches are strong in Kerala, Andhra Pradesh, Tamil Nadu and the north.\n\nPentecostalism has reshaped global Christianity by making it more experiential, lay-led and oral, by empowering the poor and women preachers, and by influencing worship styles across almost every tradition, as seen in contemporary worship music.",
+   "origin": {
+    "year": 1906,
+    "place": {
+     "name": "Los Angeles",
+     "lat": 34.052,
+     "lng": -118.244
+    },
+    "event": "The Azusa Street revival under William J. Seymour."
+   },
+   "members": {
+    "estimate": 663863000,
+    "year": 2025,
+    "source": "Center for the Study of Global Christianity, Status of Global Christianity 2025 (Pentecostals/Charismatics across all traditions, including charismatics in older churches)."
+   },
+   "coreDoctrines": [
+    "Baptism in the Holy Spirit as an experience after conversion.",
+    "Speaking in tongues as the initial evidence of Spirit baptism (classical Pentecostals).",
+    "The continuation of all spiritual gifts: prophecy, healing, miracles.",
+    "Divine healing as provided in the atonement.",
+    "Expectation of Christ's imminent return.",
+    "Scripture as inspired and authoritative."
+   ],
+   "focuses": [
+    "Expressive worship and prayer.",
+    "Evangelism and church planting.",
+    "Healing and deliverance ministry.",
+    "Empowerment of ordinary believers for ministry.",
+    "Rapid growth of megachurches and networks."
+   ],
+   "strengths": [
+    "Extraordinary growth among the poor in the Global South.",
+    "Vibrant worship and lay participation.",
+    "Adaptability to local cultures.",
+    "Social uplift and strong community networks."
+   ],
+   "criticisms": [
+    "Prosperity teaching is criticised as distorting the Gospel and exploiting the poor.",
+    "Authoritarian leaders and financial scandals.",
+    "Cessationists question the claims to tongues and miracles.",
+    "Fragmentation into countless independent churches."
+   ],
+   "internalDivisions": [
+    {
+     "name": "Finished Work controversy",
+     "text": "William Durham denied that sanctification is a second work of grace.",
+     "year": 1910
+    },
+    {
+     "name": "Oneness controversy",
+     "text": "A 'New Issue' over baptism in Jesus' name split the Assemblies of God (1916).",
+     "year": 1913
+    },
+    {
+     "name": "Racial division",
+     "text": "White ministers largely formed the Assemblies of God apart from the Church of God in Christ; reconciled symbolically in 1994.",
+     "year": 1914
+    },
+    {
+     "name": "Latter Rain movement",
+     "text": "A Canadian revival stressing prophecy and the laying on of hands, opposed by the AG.",
+     "year": 1948
+    },
+    {
+     "name": "Charismatic renewal",
+     "text": "Spirit-baptism spread into older churches, raising questions about Pentecostal identity.",
+     "year": 1960
+    },
+    {
+     "name": "Third Wave and New Apostolic networks",
+     "text": "John Wimber's Vineyard and later apostolic networks rejected the initial-evidence doctrine.",
+     "year": 1980
+    }
+   ],
+   "influencedFamilies": [
+    {
+     "family": "catholic",
+     "text": "The Catholic Charismatic Renewal reached tens of millions of Catholics."
+    },
+    {
+     "family": "evangelical",
+     "text": "Evangelical worship and missions have been widely 'pentecostalised'."
+    },
+    {
+     "family": "independent",
+     "text": "Many African and Chinese independent churches are pentecostal in practice."
+    },
+    {
+     "family": "anglican",
+     "text": "Charismatic renewal transformed many Anglican churches in Britain and Africa."
+    }
+   ],
+   "sources": [
+    "anderson-pentecostalism",
+    "synan-holiness-pentecostal",
+    "burgess-pentecostal-dictionary",
+    "ff-csgc-status-2025",
+    "wagf-statistics",
+    "i3-burgess-pentecostalism-india"
+   ]
+  },
+  {
+   "id": "restorationist",
+   "name": "Restorationist",
+   "tagline": "Restoring New Testament Christianity beyond denominations and creeds.",
+   "summary": "Movements that seek to restore the church of the New Testament rather than reform an existing one: chiefly the Stone–Campbell churches (Churches of Christ, Christian Churches, Disciples of Christ) and the Sabbath-keeping Adventist churches born of the Millerite movement.",
+   "story": "Restorationism grew on the American frontier, where revival, democratic ideals and suspicion of creeds encouraged Christians to 'go back to the Bible'. Barton W. Stone, a Presbyterian minister, hosted the huge Cane Ridge camp meeting in Kentucky in 1801 and left his synod to be 'Christians only'. Thomas Campbell's Declaration and Address (1809) and his son Alexander Campbell called for unity on the basis of the New Testament alone: 'Where the Scriptures speak, we speak; where the Scriptures are silent, we are silent.'\n\nThe Stone and Campbell movements united at Lexington, Kentucky, in 1832 and spread rapidly across the American South and Midwest, and later to Britain, Australia, India and Africa through missions. They practised weekly communion and believers' baptism by immersion for the remission of sins.\n\nThe movement's principles produced division. Conservatives who rejected organs in worship and missionary societies as unscriptural were listed separately as the Churches of Christ in the 1906 US religious census; the Disciples of Christ became a mainline denomination, restructuring in 1968, while the independent Christian Churches/Churches of Christ separated from them over theology and organisation. A separate restorationist stream arose from William Miller's prediction of Christ's return in 1844: after the 'Great Disappointment', Sabbath-keeping believers led by Ellen G. White organised the Seventh-day Adventist Church (1863), and the Church of God (Seventh Day) went its own way.\n\nThe Seventh-day Adventist Church, the largest body in this family, reports more than 20 million baptised members, most of them in Africa, Latin America and Asia, with a vast network of schools and hospitals. The Stone–Campbell churches together number several million, mainly in the United States.\n\nRestorationism has influenced wider Christianity through its ecumenical ideal of unity without creeds, its weekly communion, Adventist emphasis on health and religious liberty, and its place in the rise of modern American religious movements, including those of the Latter-day Saints, who are discussed with the non-trinitarian family.",
+   "origin": {
+    "year": 1832,
+    "place": {
+     "name": "Lexington, Kentucky",
+     "lat": 38.04,
+     "lng": -84.503
+    },
+    "event": "Followers of Barton Stone and Alexander Campbell unite."
+   },
+   "coreDoctrines": [
+    "The New Testament as the only pattern for church faith and order.",
+    "Rejection of human creeds as tests of fellowship.",
+    "Believers' baptism by immersion (Stone–Campbell: 'for the remission of sins').",
+    "Weekly Lord's Supper (Stone–Campbell churches).",
+    "Seventh-day Sabbath and the investigative judgement (Adventists).",
+    "Christian unity on the basis of Scripture."
+   ],
+   "focuses": [
+    "Primitive New Testament practice.",
+    "Bible study and lay leadership.",
+    "Health and education (Adventists).",
+    "Preparation for Christ's return (Adventists).",
+    "Congregational autonomy."
+   ],
+   "strengths": [
+    "Simplicity and biblical focus.",
+    "Genuine ecumenical vision (Disciples).",
+    "Global health and education networks (Adventists).",
+    "Strong lay participation."
+   ],
+   "criticisms": [
+    "Critics see the claim to be 'just Christians' as itself sectarian.",
+    "Disputes over instrumental music and organisation divided the movement.",
+    "Adventist reliance on Ellen White's writings is disputed by other Protestants.",
+    "Tendency to legalism in some congregations."
+   ],
+   "internalDivisions": [
+    {
+     "name": "Millerite Great Disappointment",
+     "text": "Christ's expected return did not occur; Adventist groups formed from the survivors.",
+     "year": 1844
+    },
+    {
+     "name": "Church of God (Seventh Day)",
+     "text": "Sabbath-keepers who rejected Ellen White's authority.",
+     "year": 1858
+    },
+    {
+     "name": "Churches of Christ",
+     "text": "A cappella, anti-society congregations recognised as separate from the Disciples.",
+     "year": 1906
+    },
+    {
+     "name": "Independent Christian Churches",
+     "text": "Conservatives formed the North American Christian Convention, separating from the Disciples.",
+     "year": 1927
+    },
+    {
+     "name": "Disciples restructure",
+     "text": "The Disciples became a denomination, completing the separation.",
+     "year": 1968
+    }
+   ],
+   "influencedFamilies": [
+    {
+     "family": "nontrinitarian",
+     "text": "Latter-day Saints and Jehovah's Witnesses shared the restorationist hope of recovering the primitive church."
+    },
+    {
+     "family": "united",
+     "text": "Disciples have been leaders in church union efforts, such as the Christian Church in India and the United Reformed Church."
+    },
+    {
+     "family": "evangelical",
+     "text": "Adventism influenced evangelical health and prophecy teaching."
+    }
+   ],
+   "sources": [
+    "hughes-restoration",
+    "conkin-cane-ridge",
+    "sda-statistics",
+    "noll-christianity-us",
+    "hatch-democratization"
+   ]
+  },
+  {
+   "id": "evangelical",
+   "name": "Evangelical",
+   "tagline": "Conversion, the Bible, the cross and active witness.",
+   "summary": "A trans-denominational movement born in the eighteenth-century revivals, and the free and independent churches it shaped (Brethren, Bible churches, missionary alliances). David Bebbington defines it by conversionism, activism, biblicism and crucicentrism.",
+   "story": "Evangelicalism arose from a series of revivals in the 1730s and 1740s: Jonathan Edwards's Northampton awakening (1734–35), George Whitefield's preaching in Britain and America, the Wesleys' Methodism and the Moravian renewal. These revivals crossed denominational lines and stressed a personal experience of conversion and assurance.\n\nIn the nineteenth century evangelicals led missionary societies, Bible societies, Sunday schools and campaigns against slavery (Wilberforce and the Clapham Sect, 1807 and 1833). The Evangelical Alliance (1846) gave them a common front. New free churches formed, notably the Plymouth Brethren (from 1829), whose leader J. N. Darby popularised dispensationalism. The Keswick Convention (1875) spread 'higher life' holiness.\n\nThe movement divided over modern biblical criticism and evolution. American fundamentalists, named after The Fundamentals (1910–15), separated from mainline denominations; in the 1940s 'neo-evangelicals' such as Carl Henry and Billy Graham formed the National Association of Evangelicals (1942) and Fuller Seminary (1947). Global evangelicals produced the Lausanne Covenant (1974), affirming both evangelism and social responsibility. Recent debates concern politics, gender, and the relationship to Pentecostalism.\n\nThe Center for the Study of Global Christianity counted about 420 million evangelicals in 2025, defined narrowly as members of evangelical denominations and evangelical networks; a wider definition including Pentecostals and many Global South Protestants is much larger. Africa, Latin America and Asia have overtaken North America and Britain as centres, and the World Evangelical Alliance links national alliances in over 140 countries.\n\nEvangelicalism has shaped modern missions, Bible translation, popular hymnody and worship, mass evangelism and many charitable organisations, and has been a major force in politics in the United States, Brazil and parts of Africa.",
+   "origin": {
+    "year": 1734,
+    "place": {
+     "name": "Northampton, Massachusetts",
+     "lat": 42.325,
+     "lng": -72.641
+    },
+    "event": "Revival under Jonathan Edwards, a forerunner of the Great Awakening."
+   },
+   "members": {
+    "estimate": 420040000,
+    "year": 2025,
+    "source": "Center for the Study of Global Christianity, Status of Global Christianity 2025 (members of evangelical churches and networks; a narrower definition than self-identification surveys)."
+   },
+   "coreDoctrines": [
+    "Conversion: the need for a personal turning to Christ ('new birth').",
+    "Biblicism: the Bible as inspired and supremely authoritative.",
+    "Crucicentrism: Christ's atoning death at the centre of faith.",
+    "Activism: evangelism, mission and social action.",
+    "Justification by faith and assurance of salvation."
+   ],
+   "focuses": [
+    "Evangelism and world mission.",
+    "Bible study, preaching and translation.",
+    "Revival and personal devotion.",
+    "Voluntary societies and parachurch ministries.",
+    "Public moral and political engagement."
+   ],
+   "strengths": [
+    "Missionary vitality and global reach.",
+    "Clear Gospel message and strong lay ministry.",
+    "Track record of social reform (abolition, education).",
+    "Adaptable, trans-denominational networks."
+   ],
+   "criticisms": [
+    "Individualism and weak ecclesiology.",
+    "Anti-intellectualism in some fundamentalist strands.",
+    "Political partisanship, especially in the United States.",
+    "Tendency to split over secondary issues."
+   ],
+   "internalDivisions": [
+    {
+     "name": "Calvinist and Arminian evangelicals",
+     "text": "Whitefield and Wesley parted over predestination.",
+     "year": 1741
+    },
+    {
+     "name": "Open and Exclusive Brethren",
+     "text": "The Brethren divided over Darby's discipline of the Bethesda chapel, Bristol.",
+     "year": 1848
+    },
+    {
+     "name": "Fundamentalist–Modernist controversy",
+     "text": "Conservatives battled liberals for control of American denominations.",
+     "year": 1922
+    },
+    {
+     "name": "Neo-evangelicals and separatists",
+     "text": "Fundamentalists broke with Billy Graham over cooperation with mainline churches.",
+     "year": 1957
+    },
+    {
+     "name": "Lausanne and holistic mission",
+     "text": "Debate over the place of social action alongside evangelism.",
+     "year": 1974
+    },
+    {
+     "name": "Complementarian and egalitarian",
+     "text": "Rival statements on gender roles (Danvers Statement, CBE).",
+     "year": 1987
+    }
+   ],
+   "influencedFamilies": [
+    {
+     "family": "pentecostal",
+     "text": "Holiness and Keswick evangelicalism were seedbeds of Pentecostalism."
+    },
+    {
+     "family": "independent",
+     "text": "Evangelical missions gave rise to many independent churches in Africa and Asia."
+    },
+    {
+     "family": "anglican",
+     "text": "Evangelical Anglicans now dominate many African provinces."
+    },
+    {
+     "family": "baptist",
+     "text": "Revival shaped Baptist identity and growth."
+    }
+   ],
+   "sources": [
+    "bebbington-evangelicalism",
+    "kidd-great-awakening",
+    "marsden-fundamentalism",
+    "ward-protestant-awakening",
+    "ff-csgc-status-2025"
+   ]
+  },
+  {
+   "id": "independent",
+   "name": "Independent and Other Churches",
+   "tagline": "Churches outside the main families, from medieval dissent to African prophets.",
+   "summary": "A broad grouping of churches that do not belong to the larger families: pre-Reformation movements such as the Waldensians and Moravians, the Quakers, African Initiated Churches and indigenous Chinese churches. What unites them is independence from the historic and missionary structures rather than a common doctrine.",
+   "story": "Some independent churches are older than the Reformation. Valdes of Lyon gave up his wealth to preach (c. 1173) and his followers, the Waldensians, survived persecution in the Alpine valleys before joining the Reformation in 1532. The followers of Jan Hus, burned at Constance in 1415, formed the Unitas Fratrum (1457); its exiled remnant was renewed at Herrnhut under Count Zinzendorf in 1727 and became the Moravian Church, the first Protestant church to send missionaries on a large scale. George Fox's Society of Friends (Quakers), from 1652, abandoned clergy and sacraments for silent waiting on the 'Inner Light'.\n\nThe largest modern part of this family is the African Initiated (or Independent) Churches. 'Ethiopian' churches, beginning with Mangena Mokone's Ethiopian Church (1892), rejected missionary control; prophetic 'Zionist' and 'Aladura' (praying) churches emphasised healing, visions and the Spirit. Prophets such as William Wadé Harris (1913), Simon Kimbangu (1921), Isaiah Shembe and Engenas Lekganyane founded churches that now count millions.\n\nIn China, indigenous movements such as the Jesus Family (1927) and Watchman Nee's Local Churches (1920s) sought independence from Western missions; after 1949 the state-sponsored Three-Self Patriotic Movement (1954) and the unregistered house churches took different paths under Communist rule. Similar independent churches have arisen in India, Korea, the Philippines and Latin America.\n\nThe Center for the Study of Global Christianity's 'Independent' megabloc, about 409 million in 2025, is a wider category that also includes many independent Pentecostal and evangelical churches; the bodies grouped here are a part of that total. AICs are strongest in southern, central and West Africa, and the Chinese house churches in China's cities and countryside.\n\nThis family's influence includes the Moravian impact on John Wesley and on Protestant mission, the Quaker witness for peace, abolition and penal reform, and the AICs' pioneering of a Christianity expressed in African forms, which helped make Africa a Christian continent.",
+   "origin": {
+    "year": 1173,
+    "place": {
+     "name": "Lyon",
+     "lat": 45.764,
+     "lng": 4.835
+    },
+    "event": "Valdes of Lyon begins preaching apostolic poverty, the origin of the Waldensians (the oldest member of this grouping)."
+   },
+   "coreDoctrines": [
+    "Independence from the historic and missionary churches.",
+    "Direct authority of Scripture and, in many groups, of the Spirit's guidance.",
+    "Strong emphasis on healing, prophecy and prayer (AICs).",
+    "The Inner Light and the equality of all before God (Quakers).",
+    "Discipleship and simplicity of life (Waldensians, Moravians)."
+   ],
+   "focuses": [
+    "Indigenous leadership and culture.",
+    "Healing and protection from evil powers (AICs).",
+    "Community life and mutual care.",
+    "Peace and social justice (Quakers).",
+    "Mission (Moravians)."
+   ],
+   "strengths": [
+    "Authentic local expressions of Christianity.",
+    "Endurance under persecution.",
+    "Pioneers of mission, abolition and peace.",
+    "Rapid growth in Africa and China."
+   ],
+   "criticisms": [
+    "Some AICs are accused of syncretism or of elevating founders to near-divine status.",
+    "Lack of shared doctrine or accountability.",
+    "Quaker rejection of sacraments is unacceptable to most churches.",
+    "Fragmentation after the death of founders."
+   ],
+   "internalDivisions": [
+    {
+     "name": "Hussite factions",
+     "text": "Utraquists and radical Taborites divided the Hussite movement.",
+     "year": 1420
+    },
+    {
+     "name": "Quaker separations",
+     "text": "The Hicksite–Orthodox split in America, followed by Gurneyite and evangelical Friends.",
+     "year": 1827
+    },
+    {
+     "name": "Ethiopian and Zionist churches",
+     "text": "Southern African AICs divided into missionary-like 'Ethiopian' and prophetic 'Zionist' types.",
+     "year": 1892
+    },
+    {
+     "name": "Kimbanguist splits",
+     "text": "Disputes over the divinity of the founder's family led to separations.",
+     "year": 2001
+    },
+    {
+     "name": "Three-Self and house churches",
+     "text": "Chinese Protestants divided over registration with the state.",
+     "year": 1954
+    }
+   ],
+   "influencedFamilies": [
+    {
+     "family": "methodist",
+     "text": "Moravians led John Wesley to his conversion in 1738."
+    },
+    {
+     "family": "evangelical",
+     "text": "Moravian missions inspired William Carey and the modern missionary movement."
+    },
+    {
+     "family": "pentecostal",
+     "text": "AIC prophetic practice anticipated and blended with African Pentecostalism."
+    }
+   ],
+   "sources": [
+    "anderson-african-reformation",
+    "bays-china",
+    "isichei-africa",
+    "martin-kimbangu",
+    "macculloch-christianity"
+   ]
+  },
+  {
+   "id": "nontrinitarian",
+   "name": "Non-Trinitarian",
+   "tagline": "Churches that confess Christ but reject or reinterpret the Nicene Trinity.",
+   "summary": "A diverse family of churches that do not accept the doctrine of the Trinity as defined at Nicaea and Constantinople: Unitarians, Latter-day Saints, Jehovah's Witnesses, Christadelphians, Oneness Pentecostals, Iglesia ni Cristo, Christian Science and others. Most see themselves as restoring the original faith; mainstream churches regard them as outside historic Christian orthodoxy.",
+   "story": "Doubts about the Trinity resurfaced in the radical Reformation. Michael Servetus was burned at Geneva in 1553; antitrinitarians organised in Poland (the Minor Reformed Church and its Racovian Catechism, 1605) and in Transylvania, where Francis Dávid led a Unitarian church protected by the Edict of Torda (1568), which survives today. English and American Unitarianism developed in the eighteenth and nineteenth centuries; William Ellery Channing's sermon 'Unitarian Christianity' (1819) and the American Unitarian Association (1825) gave it shape.\n\nThe nineteenth century in America produced new movements claiming to restore primitive Christianity. Joseph Smith published the Book of Mormon and organised the Church of Christ in 1830, the origin of the Latter-day Saints; they teach that Father, Son and Holy Spirit are three distinct divine beings. Charles Taze Russell's Bible Students (from 1879) became Jehovah's Witnesses under Joseph Rutherford (1931), teaching that Jesus is God's first creation. John Thomas founded the Christadelphians (1848), and Mary Baker Eddy Christian Science (1879).\n\nIn the twentieth century Oneness Pentecostals (from 1913) taught that Father, Son and Spirit are modes of the one God revealed in Jesus; independent churches such as Iglesia ni Cristo in the Philippines (1914, Felix Manalo) and the True Jesus Church in China (1917) also rejected the Trinity. Many of these bodies have divided over prophetic leadership and succession: the Latter-day Saint movement split after Smith's death in 1844, and the Worldwide Church of God embraced the Trinity in the 1990s, leaving its splinter groups to keep the old teaching.\n\nThe Church of Jesus Christ of Latter-day Saints reports more than 17 million members and Jehovah's Witnesses about 9 million active publishers, both growing mainly outside the United States; the United Pentecostal Church International and Iglesia ni Cristo are also large. Unitarian Universalism, merged in 1961, is now largely post-Christian in identity.\n\nThese movements have had influence beyond their size: Unitarians in liberal theology and social reform, Jehovah's Witnesses in landmark religious-liberty cases, and Latter-day Saints in family history and missionary methods. Nicene churches generally do not recognise their baptisms, because of their different teaching about God.",
+   "origin": {
+    "year": 1568,
+    "place": {
+     "name": "Torda (Turda), Transylvania",
+     "lat": 46.567,
+     "lng": 23.783
+    },
+    "event": "The Diet of Torda grants freedom of preaching, allowing Francis Dávid's Unitarian church to organise."
+   },
+   "coreDoctrines": [
+    "Rejection or reinterpretation of the Nicene doctrine of the Trinity.",
+    "God the Father alone as the one true God (Unitarians, Witnesses, Christadelphians).",
+    "Oneness: one God manifested as Father, Son and Spirit, with baptism in Jesus' name.",
+    "Belief in modern revelation or restored truth (Latter-day Saints, some others).",
+    "Jesus as Saviour and Messiah, understood in non-Nicene terms."
+   ],
+   "focuses": [
+    "Restoring what they see as primitive Christianity.",
+    "Door-to-door and missionary witness (Witnesses, Latter-day Saints).",
+    "Strong community structures and moral codes.",
+    "Freedom of thought and social reform (Unitarians)."
+   ],
+   "strengths": [
+    "Committed membership and strong lay involvement.",
+    "Effective missionary organisation.",
+    "Contributions to religious liberty law.",
+    "Close-knit communities offering support."
+   ],
+   "criticisms": [
+    "Mainstream churches consider their teaching on God and Christ heretical.",
+    "Several are criticised for authoritarian control and shunning of former members.",
+    "Failed prophecies (e.g. Watch Tower expectations for 1914, 1925 and 1975).",
+    "Distinct scriptures or translations (Book of Mormon, New World Translation) are rejected by other churches."
+   ],
+   "internalDivisions": [
+    {
+     "name": "Latter-day Saint succession crisis",
+     "text": "After Joseph Smith's death followers divided between Brigham Young, the later RLDS (1860) and others.",
+     "year": 1844
+    },
+    {
+     "name": "Christadelphian Amended and Unamended",
+     "text": "Division over resurrectional responsibility.",
+     "year": 1898
+    },
+    {
+     "name": "Bible Students and Witnesses",
+     "text": "Rutherford's leadership of the Watch Tower Society led many Bible Students to separate.",
+     "year": 1917
+    },
+    {
+     "name": "Oneness Pentecostal split",
+     "text": "Oneness ministers left the Assemblies of God; later forming the UPCI (1945).",
+     "year": 1916
+    },
+    {
+     "name": "Unitarian Universalist merger",
+     "text": "Unitarians and Universalists merged, drifting from Christian identity.",
+     "year": 1961
+    },
+    {
+     "name": "Worldwide Church of God reforms",
+     "text": "The church embraced orthodox doctrine; splinter groups kept Armstrong's teachings.",
+     "year": 1995
+    }
+   ],
+   "influencedFamilies": [
+    {
+     "family": "restorationist",
+     "text": "Shared and competed with restorationists in nineteenth-century America."
+    },
+    {
+     "family": "pentecostal",
+     "text": "Oneness Pentecostals remain a large branch of the Pentecostal world."
+    },
+    {
+     "family": "evangelical",
+     "text": "Former Worldwide Church of God congregations moved into evangelicalism as Grace Communion International."
+    }
+   ],
+   "sources": [
+    "wilbur-unitarianism",
+    "penton-apocalypse-delayed",
+    "reed-oneness",
+    "lds-statistical-report",
+    "jw-service-year-report-2024"
+   ]
+  },
+  {
+   "id": "heterodox-ancient",
+   "name": "Ancient Dissenting Movements",
+   "tagline": "Early movements later judged heretical, which forced the church to define itself.",
+   "summary": "Early Christian movements later rejected by the mainstream church: Marcionites, the various 'Gnostic' groups, Montanists, Donatists and Arian or Homoian Christians. All have disappeared as organised churches, but their challenges shaped the canon, the creeds and church order.",
+   "story": "In the second century several rival visions of Christianity competed. Marcion, a shipowner from Pontus, was expelled from the Roman church around 144 for teaching that the God of the Old Testament was a lesser deity than the Father of Jesus; he issued an edited canon of Luke and ten Pauline letters. Teachers such as Valentinus and Basilides offered 'Gnostic' myths of salvation through knowledge; many of their texts were rediscovered at Nag Hammadi in Egypt in 1945. Scholars now debate whether 'Gnosticism' was a single movement at all.\n\nMontanism, or the 'New Prophecy', began in Phrygia around 156–172 with Montanus and the prophetesses Priscilla and Maximilla, who claimed that the Paraclete spoke through them and called for strict discipline; it won the great African theologian Tertullian. Donatism arose in North Africa after the persecution of Diocletian, when rigorists refused to accept bishops ordained by those who had surrendered Scriptures; the schism began in 311–12 and lasted, despite imperial repression and Augustine's polemics, until the Arab conquest.\n\nArianism began with the Alexandrian presbyter Arius, who taught around 318 that the Son was created. Condemned at Nicaea (325), similar views returned under emperors such as Constantius II, and the 'Homoian' creed of 360 was the faith that Ulfilas took to the Goths. Homoian Christianity became the church of the Goths, Vandals and Lombards until the Visigoths converted to Nicene faith at the Third Council of Toledo (589).\n\nNone survives as a continuous church today, though some modern groups—Unitarians, Jehovah's Witnesses, Gnostic revivalists—claim kinship with them. Historians increasingly study them on their own terms, using sources that were once known only through their opponents.\n\nTheir influence lies mostly in the reactions they provoked. Marcion spurred the church to define its canon; Gnosticism, the rule of faith and the authority of bishops in apostolic succession; Montanism, caution towards new prophecy; Donatism, Augustine's doctrine of the church and the sacraments; Arianism, the Nicene Creed itself.",
+   "origin": {
+    "year": 144,
+    "place": {
+     "name": "Rome",
+     "lat": 41.902,
+     "lng": 12.454
+    },
+    "event": "Marcion is expelled from the Roman church and organises his own churches."
+   },
+   "coreDoctrines": [
+    "Marcion: two gods, and a canon without the Old Testament.",
+    "Gnostic groups: salvation through revealed knowledge (gnosis) of the soul's divine origin.",
+    "Montanists: continuing prophecy of the Paraclete and stricter discipline.",
+    "Donatists: a pure church whose sacraments depend on the holiness of the clergy.",
+    "Arians/Homoians: the Son is subordinate to and created by the Father."
+   ],
+   "focuses": [
+    "Ascetic discipline (Marcionites, Montanists).",
+    "Purity of the church (Donatists, Montanists).",
+    "Speculative theology and myth (Gnostics).",
+    "Mission to the Germanic peoples (Homoians)."
+   ],
+   "strengths": [
+    "Raised real questions that forced clearer thinking.",
+    "Courageous martyrs (Montanist and Donatist).",
+    "Homoian mission gave the Goths the first Germanic Bible (Ulfilas)."
+   ],
+   "criticisms": [
+    "Mainstream Fathers judged them to distort the apostolic faith.",
+    "Marcion's rejection of the Old Testament severed Christianity from its Jewish roots.",
+    "Donatist violence (the Circumcellions) and rigorism.",
+    "Sources are mostly hostile, making fair assessment difficult."
+   ],
+   "internalDivisions": [
+    {
+     "name": "Valentinian schools",
+     "text": "Eastern and Western (Italic) Valentinian schools differed on Christ's body.",
+     "year": 160
+    },
+    {
+     "name": "Montanist factions",
+     "text": "Groups divided over the nature of the Paraclete.",
+     "year": 200
+    },
+    {
+     "name": "Maximianist schism",
+     "text": "A split within the Donatist church in Carthage.",
+     "year": 393
+    },
+    {
+     "name": "Homoians, Homoiousians and Anomoeans",
+     "text": "Non-Nicene parties divided over how the Son is 'like' the Father.",
+     "year": 357
+    }
+   ],
+   "influencedFamilies": [
+    {
+     "family": "early",
+     "text": "Their challenges shaped the canon, the creeds and the episcopate."
+    },
+    {
+     "family": "catholic",
+     "text": "Augustine's anti-Donatist theology of the church and sacraments became standard in the West."
+    },
+    {
+     "family": "nontrinitarian",
+     "text": "Modern Unitarians and Jehovah's Witnesses look sympathetically on Arius."
+    },
+    {
+     "family": "pentecostal",
+     "text": "Montanism is often compared, positively or negatively, to Pentecostalism."
+    }
+   ],
+   "sources": [
+    "frend-donatist",
+    "hanson-search",
+    "king-gnosticism",
+    "trevett-montanism",
+    "chadwick-early-church"
+   ]
+  },
+  {
+   "id": "united",
+   "name": "United and Uniting Churches",
+   "tagline": "Churches formed by the union of separate Protestant traditions.",
+   "summary": "Churches created in the twentieth century by the merger of different Protestant traditions, such as the Church of South India (1947), the Church of North India (1970), the United Church of Canada (1925) and the Uniting Church in Australia (1977). They are products of the ecumenical movement.",
+   "story": "The modern ecumenical movement, symbolised by the World Missionary Conference at Edinburgh in 1910, grew from missionary frustration at exporting the West's divisions. In mission fields and settler nations, Presbyterians, Congregationalists and Methodists began to merge, arguing that their differences belonged to European history.\n\nThe United Church of Canada (1925) united Methodists, Congregationalists and most Presbyterians. In Japan the government forced Protestants into the Kyodan (1941). The Church of South India, inaugurated on 27 September 1947, was the first union to bring together episcopal Anglicans with non-episcopal Methodists, Presbyterians and Congregationalists, accepting bishops while recognising all existing ministers. It was followed by the Church of North India and the Church of Pakistan (both 1970), the Church of Bangladesh (1971), the United Reformed Church in Britain (1972) and the Uniting Church in Australia (1977).\n\nUnions have also produced divisions: a large minority of Canadian Presbyterians stayed out in 1925, some congregations refused to join the CSI and CNI, and several groups left the Kyodan after 1945. More recently, debates over sexuality have led conservatives to leave the United Church of Christ, the Uniting Church and others.\n\nToday the largest united churches are in South Asia, where the CSI and CNI are among India's largest Protestant churches, with the CSI strongest in Tamil Nadu, Kerala, Karnataka and Andhra Pradesh; in Canada and Australia the united churches are large but ageing and in steep decline.\n\nUnited churches are living experiments in Christian unity, and the CSI's model of reconciling episcopal and non-episcopal ministries influenced later dialogues worldwide. They have been strong voices for social justice, Indian theology and inculturation.",
+   "origin": {
+    "year": 1925,
+    "place": {
+     "name": "Toronto",
+     "lat": 43.653,
+     "lng": -79.383
+    },
+    "event": "Inauguration of the United Church of Canada, the first large union across Protestant traditions."
+   },
+   "coreDoctrines": [
+    "Visible unity of the church as Christ's will (John 17:21).",
+    "The historic creeds and the authority of Scripture.",
+    "Mutual recognition of ministries, often with an episcopate (CSI, CNI).",
+    "Infant and believer baptism both recognised (CNI).",
+    "Diversity of theology within a shared confession."
+   ],
+   "focuses": [
+    "Ecumenism and dialogue.",
+    "Social justice and public advocacy.",
+    "Contextual and inculturated theology.",
+    "Education and health care institutions inherited from missions."
+   ],
+   "strengths": [
+    "Concrete realisation of Christian unity.",
+    "Overcoming imported Western divisions.",
+    "Strong institutional presence in India.",
+    "Progressive social witness."
+   ],
+   "criticisms": [
+    "Unions can blur doctrinal identity and produce theological vagueness.",
+    "Decline in the Western united churches.",
+    "Splinter groups formed by those who refused union.",
+    "Internal disputes over property, elections and governance in India."
+   ],
+   "internalDivisions": [
+    {
+     "name": "Continuing Presbyterian Church in Canada",
+     "text": "About a third of Presbyterians refused to enter the United Church.",
+     "year": 1925
+    },
+    {
+     "name": "Post-war departures from the Kyodan",
+     "text": "Several Anglican, Lutheran, Baptist and Holiness groups left once the war ended.",
+     "year": 1945
+    },
+    {
+     "name": "Non-joining churches in South India",
+     "text": "Some Anglican and other congregations stayed out of the CSI union.",
+     "year": 1947
+    },
+    {
+     "name": "Sexuality debates",
+     "text": "The UCC's endorsement of same-sex marriage and later decisions in Canada and Australia led conservatives to leave.",
+     "year": 2005
+    }
+   ],
+   "influencedFamilies": [
+    {
+     "family": "anglican",
+     "text": "The CSI model shaped Anglican thinking about reunion with non-episcopal churches."
+    },
+    {
+     "family": "reformed",
+     "text": "Reformed churches joined widely, and the WCRC includes united churches."
+    },
+    {
+     "family": "methodist",
+     "text": "Methodist conferences in India and elsewhere merged into united churches."
+    }
+   ],
+   "sources": [
+    "i4-newbigin-reunion",
+    "kinnamon-ecumenical-anthology",
+    "m5-rouse-neill-ecumenical",
+    "frykenberg-india"
+   ]
+  }
+ ],
+ "denomFacts": [
+  {
+   "id": "fact-how-many-denominations",
+   "order": 1,
+   "question": "Are there really 30,000+ (or 45,000) Christian denominations?",
+   "claim": "There are more than 30,000 (or 45,000) Christian denominations in the world.",
+   "verdict": "complicated",
+   "answer": "The figures come from real research, but they count organisations country by country, not distinct beliefs. The World Christian Encyclopedia counted about 33,800 'denominations' in 2000, and Gordon-Conwell's Center for the Study of Global Christianity now estimates about 47,000 (2024); the same church in two countries counts twice.",
+   "explanation": "The numbers originate with the missionary statistician David B. Barrett. The first edition of the World Christian Encyclopedia (1982) listed about 20,800 denominations. The second edition, by Barrett, George Kurian and Todd Johnson (2001), spoke of 'six major ecclesiastico-cultural megablocs' and 'over 33,000 distinct denominations in 238 countries' (vol. 1, p. 16), a figure usually quoted as 33,820 or 33,830.\n\nCrucially, the Encyclopedia defined a denomination as an organised Christian body within a specific country. The Catholic Church, which is one communion, appears as 242 'denominations' because each country's Catholic hierarchy (and separate Eastern Catholic rites) is counted separately; the Anglican Communion appears 168 times and the Orthodox 781 times. A worldwide church present in 100 countries can contribute 100 entries.\n\nMost of the total comes from 'Independents' (about 22,000 in the 2001 tally): the many thousands of independent, often small, churches in Africa, Asia and Latin America, together with networks of independent Pentecostal and charismatic congregations. Protestants accounted for roughly 9,000, and 'marginal' groups such as Latter-day Saints and Jehovah's Witnesses about 1,600.\n\nThe Center for the Study of Global Christianity, which now maintains the World Christian Database, estimated about 45,000 denominations in 2019 and about 47,000 in 2024, projecting some 64,000 by 2050. The method remains the same, so the growth reflects new independent churches and better data as much as new doctrinal disagreements.\n\nThe figures are therefore a fair measure of organisational diversity, but misleading when used, as they often are, to claim that Christians hold tens of thousands of incompatible beliefs. Counting by family or tradition gives a few hundred major groupings at most, and most denominations share the Nicene Creed and a recognisable core of faith.",
+   "figures": [
+    {
+     "label": "Denominations, World Christian Encyclopedia 1st ed.",
+     "value": 20800,
+     "year": 1982,
+     "note": "David B. Barrett; organised bodies counted per country."
+    },
+    {
+     "label": "Denominations, World Christian Encyclopedia 2nd ed.",
+     "value": 33820,
+     "year": 2001,
+     "note": "Barrett, Kurian & Johnson, vol. 1 p. 16 ('over 33,000 … in 238 countries'); data for 2000; also quoted as 33,830."
+    },
+    {
+     "label": "Of which Independent",
+     "value": 22000,
+     "year": 2001,
+     "note": "Approximate figure from the 2001 megabloc breakdown."
+    },
+    {
+     "label": "Of which Protestant",
+     "value": 9000,
+     "year": 2001,
+     "note": "Approximate, 2001 breakdown."
+    },
+    {
+     "label": "Of which 'Marginal'",
+     "value": 1600,
+     "year": 2001,
+     "note": "Approximate; non-Trinitarian groups such as Latter-day Saints and Jehovah's Witnesses."
+    },
+    {
+     "label": "Of which Orthodox",
+     "value": 781,
+     "year": 2001,
+     "note": "Orthodox and Oriental churches counted per country."
+    },
+    {
+     "label": "Of which Catholic",
+     "value": 242,
+     "year": 2001,
+     "note": "One communion counted per country and rite."
+    },
+    {
+     "label": "Of which Anglican",
+     "value": 168,
+     "year": 2001,
+     "note": "Anglican Communion provinces and dioceses per country."
+    },
+    {
+     "label": "Denominations (CSGC estimate)",
+     "value": 45000,
+     "year": 2019,
+     "note": "Center for the Study of Global Christianity, Gordon-Conwell."
+    },
+    {
+     "label": "Denominations (CSGC estimate)",
+     "value": 47000,
+     "year": 2024,
+     "note": "Zurlo, Johnson & Crossing, 'World Christianity 2024: Fragmentation and Unity'."
+    },
+    {
+     "label": "Denominations projected",
+     "value": 64000,
+     "year": 2050,
+     "note": "CSGC projection."
+    }
+   ],
+   "sources": [
+    "ff-wce-1982",
+    "ff-wce-2001",
+    "ff-zurlo-ibmr-2024",
+    "ff-ct-2002",
+    "wcd-2025"
+   ]
+  },
+  {
+   "id": "fact-33000-protestant",
+   "order": 2,
+   "question": "Is it 33,000 Protestant denominations?",
+   "claim": "There are 33,000 Protestant denominations, proving that sola scriptura leads to endless division.",
+   "verdict": "false",
+   "answer": "No. The 33,000 figure covered all Christian bodies, including 242 Catholic and 781 Orthodox entries, counted country by country. Protestants (as the Encyclopedia defined them) accounted for only about 9,000, and most of the total came from independent churches.",
+   "explanation": "The claim became popular in Catholic apologetics in the 1990s and 2000s as an argument that, without a teaching authority, Protestant reliance on the Bible alone produces endless fragmentation. It has also been used by sceptics to argue that Christianity as a whole is incoherent.\n\nThe source, the World Christian Encyclopedia (2001), does not support it. Its total of roughly 33,800 included every megabloc: Independents (about 22,000), Protestants (about 9,000), 'marginal' Christians (about 1,600), Orthodox (781), Catholics (242) and Anglicans (168). Even those numbers count national organisations, not distinct doctrinal positions.\n\nCatholic writers themselves have urged people to stop using the figure. Scott Eric Alt's article in the National Catholic Register, 'We Need to Stop Saying That There Are 33,000 Protestant Denominations', pointed out that the number rests on a very loose definition of denomination and that by the same method Catholicism is 242 denominations. Catholic Answers and other Catholic writers have made the same point.\n\nThe underlying debate is real: Protestantism has indeed produced more separate organisations than the Catholic or Orthodox churches, and the question of how Scripture is authoritatively interpreted remains a genuine point of disagreement. But the argument is better made without a misquoted statistic.",
+   "figures": [
+    {
+     "label": "All denominations in the 2001 count",
+     "value": 33820,
+     "year": 2001,
+     "note": "World Christian Encyclopedia, all six megablocs, counted per country."
+    },
+    {
+     "label": "Protestant denominations",
+     "value": 9000,
+     "year": 2001,
+     "note": "Approximate, same source."
+    },
+    {
+     "label": "Independent denominations",
+     "value": 22000,
+     "year": 2001,
+     "note": "Approximate; independent churches not belonging to the historic Protestant families."
+    },
+    {
+     "label": "Catholic 'denominations'",
+     "value": 242,
+     "year": 2001,
+     "note": "The one Catholic Church counted by country and rite."
+    }
+   ],
+   "sources": [
+    "ff-ncregister-alt",
+    "ff-catholic-answers-kinds",
+    "ff-ncregister-beale",
+    "ff-wce-2001"
+   ]
+  },
+  {
+   "id": "fact-how-many-christians",
+   "order": 3,
+   "question": "How many Christians are there and how are they divided?",
+   "claim": "About a third of humanity is Christian, and about half of all Christians are Catholic.",
+   "verdict": "accurate",
+   "answer": "Broadly yes. The Center for the Study of Global Christianity estimates about 2.6 billion Christians in 2025 (32.3 per cent of the world), of whom about 1.27 billion are Catholic, 629 million Protestant, 409 million Independent and about 290 million Orthodox. Pew Research gives a lower total of 2.3 billion (28.8 per cent) for 2020.",
+   "explanation": "Different counters use different methods. The Center for the Study of Global Christianity (Gordon-Conwell), which publishes the World Christian Database, combines church membership figures, censuses and surveys, and includes children and people who identify as Christian without belonging to a church. Pew Research Center relies chiefly on censuses and large surveys of self-identification, and counted about 2.18 billion Christians in 2010 and 2.3 billion in 2020.\n\nThe Catholic Church's own statistics count baptised members and give a higher figure, 1.42 billion at the end of 2024 (17.8 per cent of the world). Many of these baptised Catholics no longer practise or have joined other churches, which is why independent estimates are lower.\n\nThe CSGC divides Christians into megablocs: Catholics; Protestants (now including Anglicans); Independents (churches that do not belong to the historic families, such as many African, Chinese and Pentecostal churches); Orthodox (Eastern and Oriental together); plus smaller categories. Some people are counted in more than one (the 'doubly affiliated'), so the parts do not exactly sum to the total.\n\nAcross the different methods the pattern is stable: Catholics are roughly half of all Christians, Protestants and Independents together a little over 40 per cent, and Orthodox about 11–12 per cent.",
+   "figures": [
+    {
+     "label": "Christians worldwide",
+     "value": 2600000000,
+     "year": 2025,
+     "note": "CSGC, Status of Global Christianity 2025: about 2.6 billion, 32.3% of world population."
+    },
+    {
+     "label": "Catholics",
+     "value": 1272775000,
+     "year": 2025,
+     "note": "CSGC 2025 estimate."
+    },
+    {
+     "label": "Protestants (incl. Anglicans)",
+     "value": 628862000,
+     "year": 2025,
+     "note": "CSGC 2025 estimate."
+    },
+    {
+     "label": "Independents",
+     "value": 409425000,
+     "year": 2025,
+     "note": "CSGC 2025 estimate."
+    },
+    {
+     "label": "Orthodox (Eastern and Oriental)",
+     "value": 292757000,
+     "year": 2026,
+     "note": "CSGC, Status of Global Christianity 2026."
+    },
+    {
+     "label": "Christians worldwide (Pew)",
+     "value": 2300000000,
+     "year": 2020,
+     "note": "Pew Research Center (2025 report): about 2.3 billion, 28.8% of world population."
+    },
+    {
+     "label": "Catholics (Vatican, baptised)",
+     "value": 1422144000,
+     "year": 2024,
+     "note": "Holy See Central Office of Church Statistics, end of 2024."
+    },
+    {
+     "label": "Christians worldwide (Pew)",
+     "value": 2184060000,
+     "year": 2010,
+     "note": "Pew Forum, Global Christianity (2011)."
+    },
+    {
+     "label": "Orthodox (Pew)",
+     "value": 260380000,
+     "year": 2010,
+     "note": "Pew Forum (2011): 11.9% of Christians."
+    }
+   ],
+   "sources": [
+    "ff-csgc-status-2025",
+    "ff-zurlo-ibmr-2025",
+    "ff-csgc-status-2026",
+    "ff-pew-2025-landscape",
+    "pew-2011",
+    "ff-vaticannews-2026"
+   ]
+  },
+  {
+   "id": "fact-largest-churches",
+   "order": 4,
+   "question": "Which are the largest single churches?",
+   "claim": "After the Catholic Church, the largest churches are the Orthodox, the Anglican Communion and the Assemblies of God.",
+   "verdict": "complicated",
+   "answer": "The Catholic Church, with about 1.42 billion baptised members (2024), is by far the largest single church. After it, the comparison depends on whether one counts communions and federations—the Eastern Orthodox, the Anglican Communion (about 85 million commonly cited), the World Assemblies of God Fellowship (about 89 million in 2025) and the Lutheran World Federation (about 78 million in 2023)—or single national churches such as the Russian or Ethiopian Orthodox churches.",
+   "explanation": "Only the Catholic Church is a single, centrally governed church on a global scale. The Eastern Orthodox are a communion of self-governing churches, the largest being the Russian Orthodox Church; Pew (2017) estimated about 260 million Orthodox Christians worldwide, including the Oriental Orthodox, around 100 million of them in Russia.\n\nThe Anglican Communion is a fellowship of 42 autonomous provinces; its often-cited figure of about 85 million rests largely on baptismal rolls in England and Nigeria. The World Assemblies of God Fellowship, a cooperative fellowship of national councils rather than one church, reported about 88.9 million adherents in 2025. The Lutheran World Federation's member churches reported 78.4 million members in 2023, and the World Communion of Reformed Churches speaks of about 100 million in its member churches, but both are federations of independent churches.\n\nAmong single national churches, the Ethiopian Orthodox Tewahedo Church (about 32 million adherents in Ethiopia's 2007 census), the Church of Nigeria (Anglican) and Brazil's Assembleias de Deus are among the largest. Baptists, united loosely in the Baptist World Alliance, count about 47 million baptised members (2021) in 241 separate unions and conventions.\n\nFigures are not strictly comparable: some churches count baptised infants, others only adult members or active publishers, and self-reported totals are rarely audited.",
+   "figures": [
+    {
+     "label": "Catholic Church",
+     "value": 1422144000,
+     "year": 2024,
+     "note": "Holy See Central Office of Church Statistics; baptised Catholics."
+    },
+    {
+     "label": "Orthodox Christians (Eastern and Oriental)",
+     "value": 260000000,
+     "year": 2017,
+     "note": "Pew Research Center estimate."
+    },
+    {
+     "label": "World Assemblies of God Fellowship",
+     "value": 88866189,
+     "year": 2025,
+     "note": "WAGF census as reported by AG News (believers in 174 councils, including affiliated partners)."
+    },
+    {
+     "label": "Lutheran World Federation member churches",
+     "value": 78400000,
+     "year": 2023,
+     "note": "LWF Membership Statistics 2023 (federation of 150 churches)."
+    },
+    {
+     "label": "Anglican Communion",
+     "value": 85000000,
+     "note": "Commonly cited round figure (Anglican Communion Office); based largely on baptismal membership."
+    },
+    {
+     "label": "World Communion of Reformed Churches",
+     "value": 100000000,
+     "note": "WCRC's own round figure for its member churches."
+    },
+    {
+     "label": "Baptist World Alliance",
+     "value": 47000000,
+     "year": 2021,
+     "note": "Baptised members in 241 member bodies."
+    },
+    {
+     "label": "Ethiopian Orthodox in Ethiopia",
+     "value": 32138126,
+     "year": 2007,
+     "note": "Ethiopian national census: 43.5% of the population."
+    }
+   ],
+   "sources": [
+    "ff-vaticannews-2026",
+    "pew-2017-orthodox",
+    "ff-ag-news-2025",
+    "ff-lwf-2023",
+    "anglican-communion-office",
+    "ff-wcrc",
+    "ff-dicastery-bwa",
+    "ethiopia-census-2007"
+   ]
+  },
+  {
+   "id": "fact-fastest-growing",
+   "order": 5,
+   "question": "Which movements are growing fastest?",
+   "claim": "Pentecostal, charismatic and independent churches in the Global South are the fastest-growing part of Christianity.",
+   "verdict": "accurate",
+   "answer": "Yes, with caveats about definitions. Pentecostals and charismatics grew from under a million in 1900 to about 664 million in 2025, and Independents from about 9 million to about 409 million (CSGC). Growth is concentrated in Africa and Asia, while Catholics grew by about 0.6 per cent a year in 2020–25.",
+   "explanation": "The Center for the Study of Global Christianity's long-term series shows the most dramatic change of the last century: the rise of 'renewalists'—Pentecostals, charismatics in older churches, and independent neo-charismatics. Their share of all Christians has risen from almost nothing in 1900 to about a quarter today.\n\nThe Independent megabloc, which includes African Initiated Churches, Chinese house churches and independent Pentecostal networks, has grown more than forty-fold since 1900. Evangelicals, defined as members of evangelical churches, numbered about 420 million in 2025. By contrast, the Catholic and Orthodox populations are growing more slowly than the world population as a whole.\n\nRegional growth matters as much as denominational. Africa had about 754 million Christians in 2025 and is growing fastest, through both high birth rates and conversion; Asia has about 417 million, and growth in China, India and Iran is significant though hard to measure. In Europe and North America many historic churches are shrinking.\n\nThe figures have limitations: 'Pentecostal/charismatic' overlaps with every other megabloc, and surveys in some countries (notably China) cannot be verified. Pew's projections also stress demography: much of Christianity's future growth is driven by birth rates in sub-Saharan Africa rather than conversions.",
+   "figures": [
+    {
+     "label": "Pentecostals/charismatics",
+     "value": 981000,
+     "year": 1900,
+     "note": "CSGC, Status of Global Christianity 2025."
+    },
+    {
+     "label": "Pentecostals/charismatics",
+     "value": 663863000,
+     "year": 2025,
+     "note": "CSGC 2025; overlaps with all megablocs."
+    },
+    {
+     "label": "Independents",
+     "value": 8859000,
+     "year": 1900,
+     "note": "CSGC 2025 table."
+    },
+    {
+     "label": "Independents",
+     "value": 409425000,
+     "year": 2025,
+     "note": "CSGC 2025 table."
+    },
+    {
+     "label": "Evangelicals",
+     "value": 420040000,
+     "year": 2025,
+     "note": "CSGC 2025 (members of evangelical churches)."
+    },
+    {
+     "label": "Christians in Africa",
+     "value": 754229000,
+     "year": 2025,
+     "note": "CSGC 2025 table."
+    },
+    {
+     "label": "Catholic annual growth 2020–25",
+     "value": 0.6,
+     "year": 2025,
+     "note": "Percent per year, CSGC 2025 table."
+    }
+   ],
+   "sources": [
+    "ff-csgc-status-2025",
+    "ff-zurlo-ibmr-2025",
+    "ff-lifeway-2025",
+    "pew-2015-future",
+    "anderson-pentecostalism"
+   ]
+  },
+  {
+   "id": "fact-where-christians-live",
+   "order": 6,
+   "question": "Where do most Christians live now?",
+   "claim": "Most Christians now live in the Global South—Africa, Latin America and Asia.",
+   "verdict": "accurate",
+   "answer": "Yes. According to the Center for the Study of Global Christianity, 69 per cent of Christians lived in the Global South in 2025, compared with less than a fifth in 1900, and the share is projected to reach 78 per cent by 2050. Africa now has more Christians than any other continent.",
+   "explanation": "In 1900 about four in five Christians lived in Europe and North America. During the twentieth century, missionary expansion, conversion and population growth in Africa, Latin America and Asia shifted the centre of gravity of world Christianity southwards, a change described by Andrew Walls, Lamin Sanneh and Philip Jenkins.\n\nThe CSGC estimated about 754 million Christians in Africa and about 620 million in Latin America in 2025, with about 417 million in Asia. The Catholic Church's own statistics for 2024 show that 20.3 per cent of Catholics now live in Africa, slightly more than in Europe (20.2 per cent), while the Americas hold 47.7 per cent.\n\nThe largest Christian populations by country include the United States, Brazil, Mexico, the Philippines, Russia, Nigeria, China and the Democratic Republic of Congo. Pew Research Center's 2025 report found that in 2020 sub-Saharan Africa had overtaken Europe as the region with the most Christians.\n\nThe shift changes what 'typical' Christianity looks like: younger, poorer, more often Pentecostal or charismatic, more conservative on moral questions, and often living as a minority alongside Muslims, Hindus or Buddhists.",
+   "figures": [
+    {
+     "label": "Share of Christians in the Global South",
+     "value": 69,
+     "year": 2025,
+     "note": "Percent; CSGC (Zurlo, Johnson & Crossing, IBMR 2025)."
+    },
+    {
+     "label": "Projected Global South share",
+     "value": 78,
+     "year": 2050,
+     "note": "Percent; CSGC projection."
+    },
+    {
+     "label": "Global South share in 1900",
+     "value": 17,
+     "year": 1900,
+     "note": "Percent, approximately; CSGC as summarised in 2026 reporting."
+    },
+    {
+     "label": "Christians in Africa",
+     "value": 754229000,
+     "year": 2025,
+     "note": "CSGC 2025."
+    },
+    {
+     "label": "Christians in Latin America",
+     "value": 620116000,
+     "year": 2025,
+     "note": "CSGC 2025."
+    },
+    {
+     "label": "Christians in Asia",
+     "value": 417000000,
+     "year": 2025,
+     "note": "CSGC 2025, rounded."
+    },
+    {
+     "label": "Share of Catholics in Africa",
+     "value": 20.3,
+     "year": 2024,
+     "note": "Percent; Holy See statistics as reported by Fides."
+    }
+   ],
+   "sources": [
+    "ff-zurlo-ibmr-2025",
+    "ff-csgc-status-2025",
+    "ff-pew-2025-landscape",
+    "jenkins-next-christendom",
+    "walls-missionary-movement"
+   ]
+  },
+  {
+   "id": "fact-why-churches-divide",
+   "order": 7,
+   "question": "Why do churches divide?",
+   "claim": "Christian divisions are simply about doctrine.",
+   "verdict": "misleading",
+   "answer": "Doctrine matters, but most major divisions mixed theology with questions of authority, politics, language, culture, ethnicity, worship and personality. Many splits that look doctrinal were also about who governs the church and whose culture it reflects.",
+   "explanation": "Some divisions are primarily doctrinal: the Arian controversy over the deity of Christ, the Christological disputes after Ephesus (431) and Chalcedon (451), and the Reformation's arguments over justification and the Eucharist. Yet even these were entangled with other factors: the post-Chalcedonian split followed linguistic and regional lines (Greek against Coptic, Syriac and Armenian) and resentment of Byzantine imperial power.\n\nAuthority is a recurring cause. The East–West schism of 1054 turned as much on papal claims as on the Filioque; Vatican I's definition of papal infallibility (1870) produced the Old Catholics; Protestant disputes repeatedly concern who interprets Scripture. Politics and empire shaped the English Reformation (Henry VIII's marriage, 1534), Orthodox autocephaly disputes such as Ukraine's (2018–19), and the Church of the East's separation in Persia.\n\nWorship and practice have split churches too: the Russian Old Believers (1666) over the sign of the cross and liturgical books, the Churches of Christ over organs, and Orthodox Old Calendarists over the calendar (1924). Ethnicity and race drove the formation of the African Methodist Episcopal Church (1816), the Southern Baptist Convention's split over slavery (1845), the Bulgarian Exarchate (1872) and many African Initiated Churches that rejected missionary control.\n\nMoral questions, especially slavery in the nineteenth century and sexuality today, have divided Methodists, Anglicans, Lutherans and Presbyterians. Personalities matter, as in the Brethren schism of 1848 between J. N. Darby and B. W. Newton's supporters, and mission fields exported the divisions of sending churches. Conversely, many unions—the Church of South India (1947), the Lutheran–Catholic Joint Declaration (1999)—show that divisions can be overcome when the non-doctrinal causes fade.",
+   "figures": [],
+   "sources": [
+    "macculloch-christianity",
+    "meyendorff-imperial-unity",
+    "noll-christianity-us",
+    "kinnamon-ecumenical-anthology"
+   ]
+  },
+  {
+   "id": "fact-christians-in-india",
+   "order": 8,
+   "question": "How many Christians are there in India and which churches?",
+   "claim": "Christians are 2.3 per cent of India's population.",
+   "verdict": "complicated",
+   "answer": "That is the official figure: the 2011 Census counted 27.8 million Christians, 2.3 per cent of the population. Other estimates are higher (Pew put it at about 31.8 million in 2010, and some Christian researchers higher still), partly because Dalit converts may record themselves as Hindu to keep Scheduled Caste benefits.",
+   "explanation": "The Census of India 2011 counted 27,819,588 Christians. They are unevenly spread: Christians are the majority in Nagaland (88 per cent), Mizoram (87 per cent) and Meghalaya (75 per cent), and form large minorities in Manipur, Arunachal Pradesh, Goa (25 per cent) and Kerala, where 6.14 million Christians made up 18.4 per cent of the state. Tamil Nadu had 4.42 million (6.1 per cent), and there are large communities among the Adivasi peoples of Jharkhand, Odisha and Chhattisgarh.\n\nOfficial numbers may undercount. Under the Constitution (Scheduled Castes) Order of 1950, Scheduled Caste status—and with it reservations in education and employment—is limited to Hindus, Sikhs and Buddhists, so some Dalit Christians are recorded as Hindu. Independent researchers, including the Pew Forum (2011) and the World Christian Database, therefore give higher estimates. The next census, delayed from 2021, is scheduled for 2026–27.\n\nThe Catholic Church is the largest single church, with three rites: the Latin Church, the Syro-Malabar Church (the largest Eastern Catholic church after the Ukrainian, based in Kerala) and the Syro-Malankara Church. The Orthodox Thomas Christian churches—the Malankara Orthodox Syrian Church and the Jacobite Syrian Church—and the reformed Mar Thoma Church are concentrated in Kerala.\n\nAmong Protestants, the united Church of South India (1947) and Church of North India (1970) are the largest mainline bodies; Baptist conventions dominate Nagaland and much of the North-east, and the Presbyterian Church of India (Welsh Calvinistic Methodist in origin) dominates Mizoram and Meghalaya. Lutheran churches (the Tamil Evangelical Lutheran Church, the Andhra Evangelical Lutheran Church and the Gossner church in Jharkhand), Methodists and the Salvation Army are also significant, and Pentecostal churches such as the Indian Pentecostal Church of God, together with many independent congregations, are the fastest-growing part of Indian Christianity.",
+   "figures": [
+    {
+     "label": "Christians in India (Census)",
+     "value": 27819588,
+     "year": 2011,
+     "note": "Census of India 2011, Table C-1; 2.3% of the population."
+    },
+    {
+     "label": "Christians in India (Pew estimate)",
+     "value": 31800000,
+     "year": 2010,
+     "note": "Pew Forum, Global Christianity (2011), about 2.6%."
+    },
+    {
+     "label": "Christians in Kerala",
+     "value": 6141269,
+     "year": 2011,
+     "note": "Census 2011; 18.38% of the state's population."
+    },
+    {
+     "label": "Christians in Tamil Nadu",
+     "value": 4418331,
+     "year": 2011,
+     "note": "Census 2011; 6.12% of the state's population."
+    },
+    {
+     "label": "Christian share of Nagaland",
+     "value": 87.93,
+     "year": 2011,
+     "note": "Percent; Census 2011."
+    },
+    {
+     "label": "Christian share of Mizoram",
+     "value": 87.16,
+     "year": 2011,
+     "note": "Percent; Census 2011."
+    },
+    {
+     "label": "Christian share of Meghalaya",
+     "value": 74.59,
+     "year": 2011,
+     "note": "Percent; Census 2011."
+    }
+   ],
+   "sources": [
+    "i1-census-india-2011",
+    "pew-2011",
+    "frykenberg-india",
+    "i4-pew-religion-india-2021",
+    "i3-downs-northeast"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "ff-wce-1982",
+   "title": "World Christian Encyclopedia: A Comparative Study of Churches and Religions in the Modern World, AD 1900–2000",
+   "author": "David B. Barrett (ed.)",
+   "year": 1982,
+   "kind": "reference"
+  },
+  {
+   "id": "ff-wce-2001",
+   "title": "World Christian Encyclopedia, 2nd ed. (2 vols)",
+   "author": "David B. Barrett, George T. Kurian and Todd M. Johnson",
+   "year": 2001,
+   "kind": "reference"
+  },
+  {
+   "id": "ff-csgc-status-2025",
+   "title": "Status of Global Christianity, 2025, in the Context of 1900–2050",
+   "author": "Center for the Study of Global Christianity, Gordon-Conwell Theological Seminary",
+   "year": 2025,
+   "kind": "data",
+   "url": "https://www.gordonconwell.edu/wp-content/uploads/sites/13/2025/01/Status-of-Global-Christianity-2025.pdf"
+  },
+  {
+   "id": "ff-csgc-status-2026",
+   "title": "Status of Global Christianity, 2026, in the Context of 1900–2075",
+   "author": "Center for the Study of Global Christianity",
+   "year": 2026,
+   "kind": "data",
+   "url": "https://www.worldchristiandatabase.org/static/downloads/Status-of-Global-Christianity-2026.2b54be19fc0c.pdf"
+  },
+  {
+   "id": "ff-zurlo-ibmr-2025",
+   "title": "World Christianity 2025: Regional Perspectives (International Bulletin of Mission Research 49:1)",
+   "author": "Gina A. Zurlo, Todd M. Johnson and Peter F. Crossing",
+   "year": 2025,
+   "kind": "data",
+   "url": "https://journals.sagepub.com/doi/10.1177/23969393241283291"
+  },
+  {
+   "id": "ff-zurlo-ibmr-2024",
+   "title": "World Christianity 2024: Fragmentation and Unity (International Bulletin of Mission Research 48:1)",
+   "author": "Gina A. Zurlo, Todd M. Johnson and Peter F. Crossing",
+   "year": 2024,
+   "kind": "data",
+   "url": "https://journals.sagepub.com/doi/10.1177/23969393231201817"
+  },
+  {
+   "id": "ff-pew-2025-landscape",
+   "title": "How the Global Religious Landscape Changed From 2010 to 2020",
+   "author": "Pew Research Center",
+   "year": 2025,
+   "kind": "data",
+   "url": "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
+  },
+  {
+   "id": "ff-vaticannews-2026",
+   "title": "New data from Annuario Pontificio 2026 shows Catholics growing",
+   "author": "Vatican News",
+   "year": 2026,
+   "kind": "data",
+   "url": "https://www.vaticannews.va/en/vatican-city/news/2026-03/new-data-from-annuario-pontificio-2026-shows-catholics-growing.html"
+  },
+  {
+   "id": "ff-ncregister-alt",
+   "title": "We Need to Stop Saying That There Are 33,000 Protestant Denominations",
+   "author": "Scott Eric Alt (National Catholic Register)",
+   "kind": "secondary",
+   "url": "https://www.ncregister.com/blog/we-need-to-stop-saying-that-there-are-33-000-protestant-denominations"
+  },
+  {
+   "id": "ff-ncregister-beale",
+   "title": "Just How Many Protestant Denominations Are There?",
+   "author": "Stephen Beale (National Catholic Register)",
+   "kind": "secondary",
+   "url": "https://www.ncregister.com/blog/just-how-many-protestant-denominations-are-there"
+  },
+  {
+   "id": "ff-catholic-answers-kinds",
+   "title": "On the Different Kinds of Protestants",
+   "author": "Catholic Answers",
+   "kind": "secondary",
+   "url": "https://www.catholic.com/magazine/online-edition/on-the-different-kinds-of-protestants"
+  },
+  {
+   "id": "ff-ct-2002",
+   "title": "Christianity Today report on the World Christian Encyclopedia's statistics (22 April 2002)",
+   "author": "Christianity Today",
+   "year": 2002,
+   "kind": "secondary",
+   "url": "https://www.christianitytoday.com/ct/2002/april22/7.75.html"
+  },
+  {
+   "id": "ff-lifeway-2025",
+   "title": "9 Encouraging Trends for Global Christianity in 2025",
+   "author": "Lifeway Research",
+   "year": 2025,
+   "kind": "secondary",
+   "url": "https://research.lifeway.com/2025/02/11/9-encouraging-trends-for-global-christianity-in-2025/"
+  },
+  {
+   "id": "ff-lwf-2023",
+   "title": "LWF Membership Statistics 2023",
+   "author": "Lutheran World Federation",
+   "year": 2024,
+   "kind": "data",
+   "url": "https://lutheranworld.org/resources/document-lwf-membership-statistics-2023"
+  },
+  {
+   "id": "ff-wcrc",
+   "title": "World Communion of Reformed Churches: about the communion",
+   "author": "World Communion of Reformed Churches",
+   "kind": "data",
+   "url": "https://wcrc.ch/"
+  },
+  {
+   "id": "ff-dicastery-bwa",
+   "title": "Cardinal Koch sends greetings to Baptist World Alliance World Congress",
+   "author": "Dicastery for Promoting Christian Unity",
+   "year": 2021,
+   "kind": "data",
+   "url": "https://www.christianunity.va/content/unitacristiani/en/news/2021/2021-07-07-bwa-world-congress.html"
+  },
+  {
+   "id": "ff-ag-news-2025",
+   "title": "Better Together — A Growing Global Community on Mission",
+   "author": "AG News (Assemblies of God USA)",
+   "year": 2025,
+   "kind": "data",
+   "url": "https://chaplaincy.ag.org/articles/agnews/article%20repository/news/2025/10/better%20together%20a%20growing%20global%20community%20on%20mission"
+  }
+ ]
+}
