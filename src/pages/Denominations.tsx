@@ -102,9 +102,12 @@ function CountView({ facts }: { facts: DenomFact[] }) {
   const [open, setOpen] = useState<string | null>(null);
   if (!facts.length) return <p className="text-muted">{L('The facts are being added.', 'உண்மைகள் சேர்க்கப்படுகின்றன.')}</p>;
   const hero = facts[0];
-  const dated = hero.figures.filter((f) => f.year).sort((p, q) => (p.year ?? 0) - (q.year ?? 0));
-  const latest = dated.at(-1) ?? hero.figures[0];
-  const other = hero.figures.filter((f) => !f.year);
+  // The growth chart takes the largest count for each year; the rest of that year's figures are its breakdown.
+  const byYear = new Map<number, DenomFact['figures'][number]>();
+  for (const f of hero.figures) if (f.year && f.value > (byYear.get(f.year)?.value ?? -1)) byYear.set(f.year, f);
+  const dated = [...byYear.values()].sort((p, q) => (p.year ?? 0) - (q.year ?? 0));
+  const latest = dated.filter((f) => (f.year ?? 0) <= new Date().getFullYear()).at(-1) ?? hero.figures[0];
+  const other = hero.figures.filter((f) => !dated.includes(f));
   const max = Math.max(...hero.figures.map((f) => f.value), 1);
   return (
     <div>
@@ -562,8 +565,8 @@ function InfluenceWeb() {
         <button className={cx('chip cursor-pointer', level === 'church' && '!border-accent !text-accent')} onClick={() => { setLevel('church'); setSel(undefined); }}>{L('Between churches', 'சபைகளுக்கிடையே')}</button>
         <span className="text-sm text-muted">{L('Arrows run from the influencer to the influenced. Click a box to highlight its links; click again to open it.', 'அம்புகள் தாக்கம் செலுத்தியவரிடமிருந்து தாக்கம் பெற்றவரை நோக்கிச் செல்கின்றன. இணைப்புகளை ஒளிரச் செய்ய ஒரு பெட்டியைச் சொடுக்குங்கள்; திறக்க மீண்டும் சொடுக்குங்கள்.')}</span>
       </div>
-      {g.nodes.length ? (
-        <GraphFlow nodes={g.nodes} edges={g.edges} dir="LR" height={680} selected={sel} onSelect={(id) => (sel === id ? navigate(level === 'family' ? `/denominations/${id}` : `/traditions/${id}`) : setSel(id))} />
+      {level === 'family' ? <FamilyCircle onOpen={(f) => navigate(`/denominations/${f}`)} /> : g.nodes.length ? (
+        <GraphFlow view={{ x: 30, y: 30, zoom: 0.8 }} nodes={g.nodes} edges={g.edges} dir="LR" height={680} selected={sel} onSelect={(id) => (sel === id ? navigate(`/traditions/${id}`) : setSel(id))} />
       ) : <p className="text-muted">{L('Influences are being added.', 'தாக்கங்கள் சேர்க்கப்படுகின்றன.')}</p>}
     </div>
   );
@@ -596,6 +599,63 @@ function FamilyCards() {
           </motion.div>
         );
       })}
+    </div>
+  );
+}
+
+/** Families on a circle; arcs show which family shaped which. Point at a family to light its links. */
+function FamilyCircle({ onOpen }: { onOpen: (f: TraditionFamily) => void }) {
+  const a = useAtlas();
+  const [hover, setHover] = useState<TraditionFamily | null>(null);
+  const fams = FAMILY_ORDER.filter((f) => a.familyOf.has(f));
+  const R = 300;
+  const pos = new Map(fams.map((f, i) => { const ang = (i / fams.length) * Math.PI * 2 - Math.PI / 2; return [f, { x: Math.cos(ang) * R, y: Math.sin(ang) * R, ang }]; }));
+  const links = fams.flatMap((f) => a.familyOf.get(f)!.influencedFamilies.filter((x) => pos.has(x.family) && x.family !== f).map((x) => ({ from: f, to: x.family, text: x.text })));
+  const on = (l: { from: string; to: string }) => !hover || l.from === hover || l.to === hover;
+  const info = hover ? links.filter((l) => l.from === hover) : [];
+  const into = hover ? links.filter((l) => l.to === hover) : [];
+  return (
+    <div className="grid gap-4 lg:grid-cols-[minmax(0,1fr)_320px]">
+      <div className="rounded-2xl border border-line bg-surface-2 p-2">
+        <svg viewBox="-470 -400 940 800" className="w-full">
+          <defs>
+            {fams.map((f) => (
+              <marker key={f} id={`arr-${f}`} viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill={FAMILIES[f].colour} /></marker>
+            ))}
+          </defs>
+          {links.map((l, i) => {
+            const p = pos.get(l.from)!, q = pos.get(l.to)!;
+            const k = 0.25;
+            const ex = q.x * (1 - 26 / R), ey = q.y * (1 - 26 / R);
+            return (
+              <motion.path key={i} d={`M${p.x * 0.93},${p.y * 0.93} Q${(p.x + q.x) * k},${(p.y + q.y) * k} ${ex},${ey}`} fill="none" stroke={FAMILIES[l.from].colour}
+                strokeWidth={hover && on(l) ? 3 : 1.6} markerEnd={`url(#arr-${l.from})`}
+                initial={{ pathLength: 0, opacity: 0 }} animate={{ pathLength: 1, opacity: on(l) ? 0.85 : 0.06 }} transition={{ duration: 0.9, delay: Math.min(i, 40) * 0.02 }} />
+            );
+          })}
+          {fams.map((f, i) => {
+            const p = pos.get(f)!;
+            const right = Math.cos(p.ang) >= -0.01;
+            return (
+              <g key={f} className="cursor-pointer" onMouseEnter={() => setHover(f)} onMouseLeave={() => setHover(null)} onClick={() => onOpen(f)} opacity={hover && hover !== f && !links.some((l) => (l.from === hover && l.to === f) || (l.to === hover && l.from === f)) ? 0.3 : 1}>
+                <motion.circle cx={p.x} cy={p.y} r={hover === f ? 20 : 15} fill={FAMILIES[f].colour} initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ delay: i * 0.04, type: 'spring' }} />
+                <text x={p.x + (right ? 24 : -24)} y={p.y} dy="0.35em" textAnchor={right ? 'start' : 'end'} className="text-[13px] font-bold" style={{ fill: FAMILIES[f].colour }}>{famLabel(f)}</text>
+              </g>
+            );
+          })}
+        </svg>
+      </div>
+      <div className="card h-fit p-4">
+        {hover ? (
+          <>
+            <div className="mb-2 text-lg font-bold" style={{ color: FAMILIES[hover].colour }}>{famLabel(hover)}</div>
+            {info.length > 0 && <div className="mb-1 text-xs font-bold uppercase tracking-wider text-muted">{L('It shaped', 'இது வடிவமைத்தவை')}</div>}
+            <ul className="mb-3 space-y-1.5 text-sm">{info.map((l, i) => <li key={i}><b style={{ color: FAMILIES[l.to].colour }}>{famLabel(l.to)}</b>: {l.text}</li>)}</ul>
+            {into.length > 0 && <div className="mb-1 text-xs font-bold uppercase tracking-wider text-muted">{L('Shaped by', 'இதை வடிவமைத்தவை')}</div>}
+            <ul className="space-y-1 text-sm">{into.map((l, i) => <li key={i}><b style={{ color: FAMILIES[l.from].colour }}>{famLabel(l.from)}</b></li>)}</ul>
+          </>
+        ) : <p className="text-sm text-muted">{L('Point at a family to see whom it shaped and who shaped it; click to open it.', 'ஒரு குடும்பம் யாரை வடிவமைத்தது, அதை யார் வடிவமைத்தனர் என்று காண அதைச் சுட்டுங்கள்; திறக்கச் சொடுக்குங்கள்.')}</p>}
+      </div>
     </div>
   );
 }
