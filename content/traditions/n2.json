@@ -1,0 +1,2382 @@
+{
+ "traditions": [
+  {
+   "id": "nondenominational-evangelical",
+   "name": "Non-denominational Evangelical Churches",
+   "family": "evangelical",
+   "parentIds": [
+    "evangelical",
+    "charismatic-renewal"
+   ],
+   "foundedYear": 1970,
+   "regions": [
+    "north-america",
+    "latin-america",
+    "sub-saharan-africa",
+    "india",
+    "global"
+   ],
+   "summary": "Independent congregations that carry no denominational label, typically evangelical in belief and often contemporary or charismatic in worship. Independent 'Bible churches' existed long before, but the category grew sharply from the 1970s with the Jesus Movement, the church-growth and 'seeker-sensitive' models and the megachurch, until in the United States it became one of the largest Protestant groupings. Similar independent churches are now common across Africa, Latin America and Asia.",
+   "distinctives": [
+    "No denominational affiliation; each congregation is self-governing, sometimes linked loosely through networks or associations",
+    "Short evangelical statements of faith rather than historic confessions",
+    "Contemporary worship with bands and projected songs",
+    "Many of the largest US megachurches, such as Lakewood Church (Houston) and North Point Community Church (Atlanta), belong to this category",
+    "Multi-site campuses and online services led by a founding or senior pastor"
+   ],
+   "profile": {
+    "authority": "The Bible as the inspired and authoritative Word of God, usually set out in a brief local statement of faith; historic creeds are respected but seldom formally adopted.",
+    "salvation": "Salvation by grace through personal faith in Jesus Christ, with emphasis on a conscious decision to follow him ('being born again').",
+    "sacraments": "Usually called ordinances: believer's baptism (generally by immersion) and the Lord's Supper as a memorial, often held monthly or less often.",
+    "eschatology": "Christ's personal return; many congregations hold a premillennial and pre-tribulation view, though positions vary.",
+    "governance": "Congregational independence, in practice often led by a senior pastor with a board of elders or trustees.",
+    "worship": "Informal services centred on contemporary music and a practical sermon; many are openly charismatic, others are not.",
+    "canon": "The 66-book Protestant canon."
+   },
+   "status": "Active and growing; in US religious surveys non-denominational Protestants are now among the largest Protestant groups.",
+   "sources": [
+    "n2-thumma-megachurch",
+    "noll-christianity-us",
+    "pew-rls-2025"
+   ]
+  },
+  {
+   "id": "reformed-baptists",
+   "name": "Reformed Baptists (1689 Confessional)",
+   "family": "baptist",
+   "parentIds": [
+    "particular-baptists"
+   ],
+   "foundedYear": 1960,
+   "regions": [
+    "western-europe",
+    "north-america",
+    "sub-saharan-africa",
+    "oceania",
+    "global"
+   ],
+   "summary": "A movement of Calvinistic Baptist churches that hold to the Second London Baptist Confession of Faith (1677, adopted by an assembly in 1689). It continues the seventeenth-century Particular Baptist tradition, but as a distinct movement it grew from the Reformed revival of the 1950s and 1960s, helped by the Banner of Truth Trust and by Spurgeon's legacy, in Britain, the United States, South Africa and elsewhere.",
+   "distinctives": [
+    "Subscription to the Second London Baptist Confession of 1689",
+    "A Baptist covenant theology ('1689 federalism') distinct from Presbyterian covenant theology",
+    "The regulative principle of worship",
+    "Plural eldership with male elders and deacons",
+    "Observance of the Lord's Day as the Christian Sabbath",
+    "Associations such as ARBCA (1997) in North America"
+   ],
+   "profile": {
+    "authority": "Scripture alone as the sufficient and infallible rule, summarised in the 1689 Confession, which opens with its chapter on Scripture.",
+    "salvation": "The doctrines of grace: unconditional election, particular redemption, effectual calling and perseverance, with justification by faith alone.",
+    "sacraments": "Two ordinances: baptism of professing believers by immersion and the Lord's Supper, in which believers receive Christ spiritually by faith.",
+    "eschatology": "Mostly amillennial or postmillennial, with Christ's return, resurrection and final judgement.",
+    "governance": "Self-governing congregations led by elders and deacons, cooperating in associations.",
+    "worship": "Simple services of Scripture reading, prayer, psalms and hymns, and expository preaching.",
+    "canon": "The 66-book Protestant canon; the Apocrypha is excluded as not inspired."
+   },
+   "status": "Active; a small but internationally connected movement of confessional churches.",
+   "sources": [
+    "n2-second-london-confession",
+    "n2-bebbington-baptists",
+    "bebbington-evangelicalism"
+   ]
+  },
+  {
+   "id": "primitive-baptists",
+   "name": "Primitive Baptists",
+   "family": "baptist",
+   "parentIds": [
+    "particular-baptists",
+    "baptist"
+   ],
+   "foundedYear": 1827,
+   "regions": [
+    "north-america"
+   ],
+   "summary": "American 'Old School' Baptists who separated from the missionary Baptists in the 1820s and 1830s. The Kehukee Association in North Carolina condemned missionary societies in 1827, and the Black Rock Address (Maryland, 1832) rejected mission boards, Sunday schools, theological seminaries and other 'modern' institutions as having no warrant in Scripture. They hold a strong doctrine of predestination and keep simple, older forms of worship.",
+   "distinctives": [
+    "Rejection of missionary societies, Sunday schools and seminaries as unscriptural",
+    "Strong predestinarian Calvinism",
+    "A cappella singing, in some areas from shape-note books",
+    "Foot washing with the Lord's Supper",
+    "Elders who are often unsalaried and self-supporting",
+    "Independent churches linked by associations and correspondence"
+   ],
+   "profile": {
+    "authority": "Scripture alone; many associations adhere to the London Baptist Confession or their own articles of faith.",
+    "salvation": "God's elect are saved by his sovereign grace; outward means such as missions do not cause regeneration, which is God's direct work.",
+    "sacraments": "Ordinances of believer's baptism by immersion, the Lord's Supper with unleavened bread and wine, and foot washing.",
+    "eschatology": "Generally amillennial, with the resurrection and final judgement at Christ's return.",
+    "governance": "Independent congregations led by elders, gathered in local associations.",
+    "worship": "Plain, unaccompanied singing, extempore preaching and monthly meetings in many rural churches.",
+    "canon": "The 66-book Protestant canon, traditionally the King James Version."
+   },
+   "status": "Active but small and largely rural, mainly in the American South and Appalachia; several sub-groups exist.",
+   "sources": [
+    "n2-crowley-primitive-baptists",
+    "melton-encyclopedia",
+    "n2-bebbington-baptists"
+   ]
+  },
+  {
+   "id": "old-order-mennonites",
+   "name": "Old Order Mennonites",
+   "family": "anabaptist",
+   "parentIds": [
+    "mennonite"
+   ],
+   "foundedYear": 1872,
+   "regions": [
+    "north-america"
+   ],
+   "summary": "Conservative Mennonites who resisted innovations such as Sunday schools, English-language preaching, revival meetings and new technology. The movement began with Jacob Wisler in Indiana and Ohio (1872), followed by Abraham Martin in Ontario (1889) and Jonas Martin in Lancaster County, Pennsylvania (1893). Most groups still drive horse and buggy, though some (such as the Weaverland Conference) allow plain black cars.",
+   "distinctives": [
+    "Separation from the world in dress, technology and language",
+    "Services in Pennsylvania German",
+    "Horse-and-buggy transport in most groups",
+    "Ministers chosen by lot",
+    "Meetinghouses without Sunday schools or musical instruments",
+    "Close-knit farming communities"
+   ],
+   "profile": {
+    "authority": "Scripture, read through the Dordrecht Confession (1632) and the community's Ordnung (rules of practice).",
+    "salvation": "Salvation by God's grace, received by faith and shown in obedience, humility and separation from the world.",
+    "sacraments": "Ordinances: adult baptism by pouring, the Lord's Supper twice a year, foot washing and the holy kiss.",
+    "eschatology": "Christ's return, resurrection and judgement, without detailed millennial schemes.",
+    "governance": "Bishops, ministers and deacons chosen by lot from among the men of the congregation; conferences keep a common Ordnung.",
+    "worship": "Slow unaccompanied hymn singing, long sermons and silent prayer in plain meetinghouses.",
+    "canon": "The 66-book Protestant canon, usually the Luther Bible or King James Version."
+   },
+   "status": "Active and growing through large families, chiefly in Pennsylvania, Ontario, Ohio and Indiana.",
+   "sources": [
+    "n2-kraybill-concise-encyclopedia",
+    "n2-gameo",
+    "mwc-census"
+   ]
+  },
+  {
+   "id": "mennonite-brethren",
+   "name": "Mennonite Brethren",
+   "family": "anabaptist",
+   "parentIds": [
+    "mennonite"
+   ],
+   "foundedYear": 1860,
+   "regions": [
+    "eastern-europe",
+    "north-america",
+    "sub-saharan-africa",
+    "india",
+    "latin-america"
+   ],
+   "summary": "A Mennonite renewal church founded on 6 January 1860 in the Molotschna colony in the Russian Empire (now Ukraine), when eighteen men signed a document of secession calling for a converted membership. Influenced by German Pietism through the preacher Eduard Wüst, and by Baptists, they adopted baptism by immersion. Emigrants took the church to North America from the 1870s, and missions spread it to India, the Congo and beyond.",
+   "distinctives": [
+    "Personal conversion as the condition of membership",
+    "Baptism by immersion",
+    "Evangelical and Pietist warmth within Anabaptist teaching",
+    "Strong missionary work since the late nineteenth century",
+    "Global fellowship through ICOMB (International Community of Mennonite Brethren)"
+   ],
+   "profile": {
+    "authority": "Scripture as the final authority, expressed in the Mennonite Brethren Confession of Faith.",
+    "salvation": "Salvation by grace through faith in Christ, shown in a converted life and discipleship.",
+    "sacraments": "Ordinances of believer's baptism by immersion and the Lord's Supper as a memorial; foot washing in some places.",
+    "eschatology": "Christ's return, resurrection and judgement; views on the millennium vary.",
+    "governance": "Congregational, with national and provincial conferences.",
+    "worship": "Evangelical services with singing, preaching and testimony; strong choral tradition among Russian Mennonite descendants.",
+    "canon": "The 66-book Protestant canon."
+   },
+   "status": "Active worldwide, with large conferences in India, the Democratic Republic of the Congo, North America and Latin America.",
+   "sources": [
+    "n2-toews-mb-history",
+    "n2-gameo",
+    "mwc-census"
+   ]
+  },
+  {
+   "id": "wisconsin-lutheran-synod",
+   "name": "Wisconsin Evangelical Lutheran Synod (WELS)",
+   "family": "lutheran",
+   "parentIds": [
+    "lutheran"
+   ],
+   "foundedYear": 1850,
+   "regions": [
+    "north-america"
+   ],
+   "summary": "A confessional Lutheran church founded in Milwaukee in 1850 by German immigrant pastors led by John Muehlhaeuser. Initially moderate, it became strictly confessional under Adolf Hoenecke and joined the Synodical Conference with the Missouri Synod in 1872. It broke fellowship with Missouri in 1961 over doctrinal differences, especially on church fellowship, and leads the Confessional Evangelical Lutheran Conference founded in 1993.",
+   "distinctives": [
+    "Strict doctrine of fellowship: no shared worship or prayer without full doctrinal agreement",
+    "Close communion",
+    "Full subscription to the Book of Concord",
+    "Inerrancy of Scripture",
+    "Men only in the pastoral office and in roles of authority over men",
+    "Large system of Lutheran schools"
+   ],
+   "profile": {
+    "authority": "Scripture as the inerrant Word of God, with unconditional subscription to the Lutheran Confessions in the Book of Concord (1580).",
+    "salvation": "Justification by grace alone through faith alone in Christ, proclaimed through Law and Gospel.",
+    "sacraments": "Baptism, including infants, and the Lord's Supper with the true body and blood of Christ really present, as means of grace.",
+    "eschatology": "Amillennial; Christ's visible return, resurrection and final judgement.",
+    "governance": "Synodical structure with a president, districts and a biennial convention; congregations call their pastors.",
+    "worship": "Lutheran liturgy and hymnody from Christian Worship (2021).",
+    "canon": "The 66-book Protestant canon."
+   },
+   "status": "Active; one of the larger conservative Lutheran churches in the United States, with partner churches abroad.",
+   "sources": [
+    "n2-fredrich-wisconsin-synod",
+    "melton-encyclopedia",
+    "schaff-creeds"
+   ]
+  },
+  {
+   "id": "orthodox-presbyterian-church",
+   "name": "Orthodox Presbyterian Church",
+   "family": "reformed",
+   "parentIds": [
+    "presbyterian-church-usa"
+   ],
+   "foundedYear": 1936,
+   "regions": [
+    "north-america"
+   ],
+   "summary": "A small conservative Presbyterian church founded on 11 June 1936 in Philadelphia by J. Gresham Machen and others who had been removed from the northern Presbyterian Church for opposing theological liberalism. It is closely linked with Westminster Theological Seminary (1929), where Cornelius Van Til and John Murray taught, and is known for strict adherence to the Westminster Standards.",
+   "distinctives": [
+    "Founded in the Fundamentalist–Modernist controversy",
+    "Strict subscription to the Westminster Confession and Catechisms",
+    "Presuppositional apologetics (Cornelius Van Til)",
+    "Male-only ministers and elders",
+    "Strong emphasis on foreign missions, e.g. in Eritrea, Uganda and Japan",
+    "Member of NAPARC"
+   ],
+   "profile": {
+    "authority": "Scripture as the inerrant Word of God, with the Westminster Confession and Larger and Shorter Catechisms as subordinate standards.",
+    "salvation": "Salvation by grace alone through faith alone, within Reformed covenant theology and predestination.",
+    "sacraments": "Baptism of believers and their children, and the Lord's Supper in which Christ is spiritually present to faith.",
+    "eschatology": "Mostly amillennial; Christ's return, resurrection and last judgement.",
+    "governance": "Presbyterian: sessions, presbyteries and a general assembly.",
+    "worship": "Reformed worship following the regulative principle, with psalms and hymns and expository preaching.",
+    "canon": "The 66-book Protestant canon; the Apocrypha is excluded."
+   },
+   "status": "Active; a small church of a few hundred congregations, mainly in the United States.",
+   "sources": [
+    "n2-hart-muether-opc",
+    "n2-machen-christianity-liberalism",
+    "noll-christianity-us"
+   ]
+  },
+  {
+   "id": "free-church-of-scotland",
+   "name": "Free Church of Scotland",
+   "family": "reformed",
+   "parentIds": [
+    "church-of-scotland"
+   ],
+   "foundedYear": 1843,
+   "regions": [
+    "western-europe",
+    "north-america"
+   ],
+   "summary": "Formed at the Disruption of 18 May 1843, when about a third of the ministers of the Church of Scotland, led by Thomas Chalmers, left over the state's interference in calling ministers (patronage). Most of the Free Church joined the United Presbyterians in 1900, but a minority, strongest in the Highlands and Islands, continued as the Free Church of Scotland. A further split in 2000 created the Free Church of Scotland (Continuing).",
+   "distinctives": [
+    "Spiritual independence of the church from the state",
+    "Westminster Confession as the subordinate standard",
+    "Exclusive psalmody until 2010, when hymns and instruments were permitted",
+    "Strong Highland and Gaelic heritage",
+    "Observance of the Lord's Day"
+   ],
+   "profile": {
+    "authority": "Scripture as the supreme rule, with the Westminster Confession of Faith as the subordinate standard.",
+    "salvation": "Salvation by grace alone through faith in Christ, in Reformed covenant theology.",
+    "sacraments": "Baptism, including infants of believers, and the Lord's Supper with Christ spiritually present, traditionally after preparatory services.",
+    "eschatology": "Christ's return, resurrection and final judgement; amillennial and postmillennial views both held.",
+    "governance": "Presbyterian: kirk sessions, presbyteries and a General Assembly.",
+    "worship": "Reformed worship centred on preaching; psalms (often unaccompanied) and, since 2010, hymns at congregational discretion.",
+    "canon": "The 66-book Protestant canon."
+   },
+   "status": "Active; around a hundred congregations, mostly in Scotland, with church planting in cities.",
+   "sources": [
+    "n2-brown-fry-disruption",
+    "n2-vos-covenanters",
+    "bebbington-evangelicalism"
+   ]
+  },
+  {
+   "id": "reformed-presbyterian-covenanters",
+   "name": "Reformed Presbyterian Churches (Covenanters)",
+   "family": "reformed",
+   "parentIds": [
+    "presbyterian",
+    "church-of-scotland"
+   ],
+   "foundedYear": 1743,
+   "regions": [
+    "western-europe",
+    "north-america",
+    "oceania"
+   ],
+   "summary": "Heirs of the Scottish Covenanters who refused the Revolution Settlement of 1690 because it did not uphold the National Covenant (1638) and the Solemn League and Covenant (1643). Followers of the martyrs Richard Cameron (killed 1680) and James Renwick (executed 1688) met in 'societies' until John McMillan and Thomas Nairn formed the Reformed Presbytery in 1743. Reformed Presbyterian churches now exist in Scotland, Ireland, North America and Australia.",
+   "distinctives": [
+    "Covenanting: public covenants binding church and nation to Christ",
+    "Christ's mediatorial kingship over the nations as well as the church",
+    "Exclusive singing of psalms without instruments",
+    "Historic political dissent from constitutions that do not acknowledge Christ",
+    "Close communion"
+   ],
+   "profile": {
+    "authority": "Scripture, with the Westminster Confession and Catechisms and each church's own Testimony as subordinate standards.",
+    "salvation": "Salvation by grace alone through faith, in Reformed covenant theology.",
+    "sacraments": "Baptism of believers and their children, and the Lord's Supper with Christ spiritually present.",
+    "eschatology": "Christ's return and judgement; postmillennial hope for the nations has been prominent.",
+    "governance": "Presbyterian: sessions, presbyteries and synods.",
+    "worship": "Unaccompanied singing of the psalms only, Scripture reading, prayer and preaching.",
+    "canon": "The 66-book Protestant canon."
+   },
+   "status": "Active but small; the largest body is the Reformed Presbyterian Church of North America (RPCNA).",
+   "sources": [
+    "n2-vos-covenanters",
+    "schaff-creeds",
+    "n2-brown-fry-disruption"
+   ]
+  },
+  {
+   "id": "international-churches-of-christ",
+   "name": "International Churches of Christ",
+   "family": "restorationist",
+   "parentIds": [
+    "churches-of-christ"
+   ],
+   "foundedYear": 1979,
+   "regions": [
+    "north-america",
+    "global",
+    "india",
+    "latin-america",
+    "sub-saharan-africa",
+    "east-asia"
+   ],
+   "summary": "A movement that grew from the 'discipling' method of Chuck Lucas's Crossroads Church of Christ in Gainesville, Florida, and was launched by Kip McKean at the Lexington (later Boston) Church of Christ in 1979. It spread fast through planted churches in world cities and became separate from the mainline Churches of Christ. After McKean's departure (2001–2002) and an open letter by Henry Kriete (2003) criticising authoritarian practices, it was reorganised in 2006 as a cooperation of autonomous churches.",
+   "distinctives": [
+    "One-to-one discipling relationships",
+    "Baptism by immersion for forgiveness of sins after a commitment to be a disciple",
+    "Rapid planting of churches in major cities",
+    "Large campus ministries",
+    "HOPE worldwide, a charity founded in 1991",
+    "Reorganised in 2006 after criticism of its earlier hierarchy"
+   ],
+   "profile": {
+    "authority": "The Bible alone as the guide, in the Restorationist tradition.",
+    "salvation": "Faith, repentance, confession and baptism by immersion for the forgiveness of sins, followed by a life of discipleship.",
+    "sacraments": "Baptism of disciples by immersion and the weekly Lord's Supper as a memorial.",
+    "eschatology": "Christ's return, resurrection and judgement; little speculation on the millennium.",
+    "governance": "Autonomous congregations led by evangelists and elders, cooperating regionally and globally.",
+    "worship": "Sunday services with singing, communion and preaching, plus midweek groups.",
+    "canon": "The 66-book Protestant canon."
+   },
+   "status": "Active in many countries; Kip McKean's separate International Christian Church formed in 2006.",
+   "sources": [
+    "hughes-restoration",
+    "melton-encyclopedia"
+   ]
+  },
+  {
+   "id": "congregacao-crista-no-brasil",
+   "name": "Congregação Cristã no Brasil",
+   "family": "pentecostal",
+   "parentIds": [
+    "pentecostal"
+   ],
+   "foundedYear": 1910,
+   "regions": [
+    "latin-america"
+   ],
+   "adherents": {
+    "estimate": 2289634,
+    "year": 2010,
+    "source": "n2-ibge-census-2010"
+   },
+   "summary": "Brazil's oldest Pentecostal church, founded in 1910 by Louis (Luigi) Francescon, an Italian immigrant from Chicago who had been part of William Durham's Pentecostal mission. Beginning among Italian immigrants in São Paulo and Paraná, it grew into one of Brazil's largest Protestant churches while keeping a strikingly austere style: no paid clergy, no broadcasting and no organised evangelistic campaigns.",
+   "distinctives": [
+    "Unpaid ministry of elders (anciãos) and deacons",
+    "No radio, television or public evangelistic campaigns",
+    "No tithing; voluntary anonymous offerings",
+    "Men and women sit apart and women wear veils",
+    "Large church orchestras and the hymnal Hinos de Louvor e Súplicas a Deus",
+    "A Calvinist-leaning stress on God's election, from Francescon's Presbyterian past"
+   ],
+   "profile": {
+    "authority": "The Bible, with the brief 'twelve articles of faith' and guidance believed to come from the Holy Spirit.",
+    "salvation": "Salvation by God's grace through faith in Christ, with a strong emphasis on God's election and calling.",
+    "sacraments": "Baptism of believers by immersion and the Santa Ceia (Holy Supper), celebrated once a year in each congregation.",
+    "eschatology": "Christ's return to gather the church, the resurrection and final judgement.",
+    "governance": "Elders and other ministers serve without pay; a council of elders in São Paulo (Brás) guides the church.",
+    "worship": "Hymns by number with orchestra, spontaneous prayer and preaching by those moved by the Spirit, without prepared sermons.",
+    "canon": "The 66-book Protestant canon."
+   },
+   "status": "Active; the 2010 Brazilian census counted about 2.3 million members.",
+   "sources": [
+    "n2-ibge-census-2010",
+    "chesnut-born-again-brazil",
+    "anderson-pentecostalism"
+   ]
+  },
+  {
+   "id": "church-of-pentecost-ghana",
+   "name": "The Church of Pentecost (Ghana)",
+   "family": "pentecostal",
+   "parentIds": [
+    "apostolic-church"
+   ],
+   "foundedYear": 1962,
+   "regions": [
+    "sub-saharan-africa",
+    "western-europe",
+    "north-america",
+    "global"
+   ],
+   "summary": "Ghana's largest Protestant church, founded by the Irish missionary James McKeown, who arrived in the Gold Coast in 1937 for the Apostolic Church of Bradford. After disputes with the parent church in 1953 he and most Ghanaian members formed the Gold Coast Apostolic Church, renamed the Church of Pentecost in 1962. Under Ghanaian leaders since McKeown's retirement in 1982 it has spread through West Africa and the African diaspora.",
+   "distinctives": [
+    "Leadership by apostles, prophets, evangelists, pastors, elders and deacons",
+    "Strong unpaid lay leadership by elders and deacons",
+    "Self-supporting from the start, with little foreign funding",
+    "Pentecost International Worship Centres (PIWC) for English-speaking and international congregations",
+    "Missions in more than a hundred countries",
+    "Pentecost University in Accra"
+   ],
+   "profile": {
+    "authority": "The Bible as the inspired Word of God, with the Apostolic Church's Tenets of faith.",
+    "salvation": "Salvation by grace through faith in Christ, with emphasis on holy living.",
+    "sacraments": "Believer's baptism by immersion and the Lord's Supper as a memorial.",
+    "eschatology": "Premillennial; the Rapture of the church and Christ's return.",
+    "governance": "A centralised church led by a Chairman, General Secretary and Executive Council, with apostles over regions and pastors posted by the church.",
+    "worship": "Lively Pentecostal worship in Twi and other languages, with prayer for healing and deliverance.",
+    "canon": "The 66-book Protestant canon."
+   },
+   "status": "Active and growing in Ghana and worldwide.",
+   "sources": [
+    "n2-leonard-mckeown",
+    "onyinah-pentecostal-exorcism",
+    "kalu-african-pentecostalism"
+   ]
+  },
+  {
+   "id": "deeper-christian-life-ministry",
+   "name": "Deeper Christian Life Ministry",
+   "family": "pentecostal",
+   "parentIds": [
+    "pentecostal",
+    "holiness-movement"
+   ],
+   "foundedYear": 1973,
+   "regions": [
+    "sub-saharan-africa",
+    "western-europe",
+    "north-america",
+    "global"
+   ],
+   "summary": "A Nigerian holiness-Pentecostal church that began in August 1973 as a Bible study held by William F. Kumuyi, a mathematics lecturer at the University of Lagos, in his flat in Yaba. Kumuyi, who came from Anglican and Methodist backgrounds and was influenced by the Apostolic Faith church, stressed strict holiness, restitution and Bible teaching. The Deeper Life Bible Church was formally set up in 1982 and grew into one of Nigeria's largest churches.",
+   "distinctives": [
+    "Teaching on entire sanctification as a distinct work of grace",
+    "Strict standards of dress and conduct, relaxed somewhat since the 2010s",
+    "Weekly Monday Bible study and Thursday miracle services",
+    "House fellowships for pastoral care",
+    "Restitution for past wrongs as part of repentance",
+    "Global crusades led by Kumuyi"
+   ],
+   "profile": {
+    "authority": "The Bible as the inerrant Word of God, taught systematically.",
+    "salvation": "Repentance and faith in Christ for salvation, followed by sanctification and the baptism in the Holy Spirit.",
+    "sacraments": "Baptism of believers by immersion and the Lord's Supper as a memorial.",
+    "eschatology": "Premillennial, with the Rapture before the Great Tribulation; strong expectation of Christ's return.",
+    "governance": "Led by a General Superintendent, with regional overseers and pastors.",
+    "worship": "Simple, Bible-centred services with hymns, prayer and long teaching sessions.",
+    "canon": "The 66-book Protestant canon."
+   },
+   "status": "Active in Nigeria and in many countries in Africa and the diaspora.",
+   "sources": [
+    "n2-ojo-end-time-army",
+    "kalu-african-pentecostalism",
+    "burgess-pentecostal-dictionary"
+   ]
+  },
+  {
+   "id": "apostolic-faith-mission-south-africa",
+   "name": "Apostolic Faith Mission of South Africa",
+   "family": "pentecostal",
+   "parentIds": [
+    "pentecostal"
+   ],
+   "foundedYear": 1908,
+   "regions": [
+    "sub-saharan-africa"
+   ],
+   "summary": "South Africa's oldest and largest classical Pentecostal church, begun in Johannesburg in 1908 by the American missionaries John G. Lake and Thomas Hezmalhalch, who had links with Azusa Street and with John Alexander Dowie's Zion movement. Registered in 1913, it was organised for decades in separate racial sections under apartheid, which were united into one church in 1996.",
+   "distinctives": [
+    "Roots in both Azusa Street and Dowie's Zion healing movement",
+    "Strong emphasis on divine healing",
+    "Racial divisions under apartheid, ended by union in 1996",
+    "Produced David du Plessis, 'Mr Pentecost' of the ecumenical charismatic movement",
+    "Influence on the Zionist African Initiated Churches"
+   ],
+   "profile": {
+    "authority": "The Bible as the Word of God, with the church's confession of faith.",
+    "salvation": "Salvation by grace through faith in Christ, followed by baptism in the Holy Spirit.",
+    "sacraments": "Believer's baptism by immersion and the Lord's Supper as a memorial.",
+    "eschatology": "Premillennial expectation of Christ's return.",
+    "governance": "National office-bearers and regions, with local assemblies led by pastors and elders.",
+    "worship": "Pentecostal worship with prayer for healing, in English, Afrikaans and African languages.",
+    "canon": "The 66-book Protestant canon."
+   },
+   "status": "Active; a major church in South Africa with work in neighbouring countries.",
+   "sources": [
+    "n2-burger-nel-afm",
+    "anderson-african-reformation",
+    "anderson-pentecostalism"
+   ]
+  },
+  {
+   "id": "evangelical-lutheran-church-tanzania",
+   "name": "Evangelical Lutheran Church in Tanzania (ELCT)",
+   "family": "lutheran",
+   "parentIds": [
+    "lutheran"
+   ],
+   "foundedYear": 1963,
+   "regions": [
+    "sub-saharan-africa"
+   ],
+   "summary": "One of the largest Lutheran churches in the world, formed in 1963 by the union of seven regional Lutheran churches that had grown from German missions (Berlin, Leipzig and Bethel) from the late nineteenth century, and from Scandinavian and American work after the First World War. It is organised in dioceses under bishops and a presiding bishop, and runs major hospitals, schools and universities.",
+   "distinctives": [
+    "Dioceses led by bishops, with a presiding bishop",
+    "Large network of hospitals, including Kilimanjaro Christian Medical Centre",
+    "Tumaini University and Makumira University",
+    "Strong influence of the East African Revival in some dioceses",
+    "Bishop Josiah Kibira became the first African President of the Lutheran World Federation (1977)",
+    "Women ordained in some dioceses but not others"
+   ],
+   "profile": {
+    "authority": "Scripture as the Word of God, with the ecumenical creeds, the Augsburg Confession and Luther's Small Catechism.",
+    "salvation": "Justification by grace through faith in Christ, preached as Law and Gospel.",
+    "sacraments": "Baptism, including infants, and the Lord's Supper with the real presence of Christ.",
+    "eschatology": "Christ's return, resurrection and judgement.",
+    "governance": "Episcopal: dioceses with bishops, a presiding bishop and a general assembly.",
+    "worship": "Lutheran liturgy in Swahili and local languages, with choirs and lively singing.",
+    "canon": "The 66-book Protestant canon."
+   },
+   "status": "Active and growing; a leading member of the Lutheran World Federation.",
+   "sources": [
+    "lwf-statistics",
+    "isichei-africa",
+    "hastings-church-in-africa"
+   ]
+  },
+  {
+   "id": "kale-heywet-church",
+   "name": "Ethiopian Kale Heywet Church",
+   "family": "evangelical",
+   "parentIds": [
+    "evangelical"
+   ],
+   "foundedYear": 1927,
+   "regions": [
+    "ethiopia-nubia"
+   ],
+   "summary": "A large Ethiopian evangelical church that grew from the work of the Sudan Interior Mission (SIM), whose missionaries, including Thomas Lambie and Walter Ohman, began work in southern Ethiopia in 1927. When the Italian occupation expelled the missionaries in 1937, a handful of believers in Wolaitta grew into thousands of believers under local leadership, a story told in Raymond Davis's Fire on the Mountains. The name 'Kale Heywet' means 'Word of Life'.",
+   "distinctives": [
+    "Rapid indigenous growth during the Italian occupation (1936–1941)",
+    "Strong in the south among Wolaitta, Kambatta, Hadiya, Sidama and Gedeo peoples",
+    "Endured persecution under the Derg (1974–1991)",
+    "Evangelical theology with growing charismatic renewal",
+    "Extensive Bible schools and development work"
+   ],
+   "profile": {
+    "authority": "Scripture as the inspired and authoritative Word of God.",
+    "salvation": "Salvation by grace through faith in Christ, with emphasis on conversion and holy living.",
+    "sacraments": "Ordinances of believer's baptism by immersion and the Lord's Supper as a memorial.",
+    "eschatology": "Christ's return, resurrection and judgement.",
+    "governance": "Local congregations grouped in district and regional associations under a national general assembly.",
+    "worship": "Lively evangelical worship in local languages, with choirs and prayer.",
+    "canon": "The 66-book Protestant canon."
+   },
+   "status": "Active; one of Ethiopia's largest Protestant churches, alongside Mekane Yesus.",
+   "sources": [
+    "n2-fargher-southern-ethiopia",
+    "n2-davis-fire-mountains",
+    "ethiopia-census-2007"
+   ]
+  },
+  {
+   "id": "coptic-evangelical-church",
+   "name": "Evangelical Presbyterian Church of Egypt (Coptic Evangelical Church)",
+   "family": "reformed",
+   "parentIds": [
+    "presbyterian"
+   ],
+   "foundedYear": 1854,
+   "regions": [
+    "egypt"
+   ],
+   "summary": "Egypt's largest Protestant church, also called the Synod of the Nile, which grew from the mission of the American United Presbyterian Church begun in 1854. Most of its members came from Coptic Orthodox families, which is why it is often called the Coptic Evangelical Church. It is known for schools, the Evangelical Theological Seminary in Cairo, and Kasr el Dobara Evangelical Church near Tahrir Square, the largest Protestant congregation in the Middle East.",
+   "distinctives": [
+    "Arab Presbyterian church drawn mainly from Coptic families",
+    "Strong educational tradition, including the Evangelical Theological Seminary in Cairo",
+    "Social service through CEOSS (founded by Samuel Habib in 1950)",
+    "Kasr el Dobara Church, which served as a field clinic in the 2011 revolution",
+    "Leading member of the Protestant Churches of Egypt"
+   ],
+   "profile": {
+    "authority": "Scripture as the Word of God, with the Westminster Confession as a subordinate standard.",
+    "salvation": "Salvation by grace through faith in Christ, in Reformed theology.",
+    "sacraments": "Baptism, including infants, and the Lord's Supper in which Christ is spiritually present.",
+    "eschatology": "Christ's return, resurrection and judgement.",
+    "governance": "Presbyterian: sessions, presbyteries and the Synod of the Nile.",
+    "worship": "Arabic Reformed worship with hymns, contemporary songs and preaching.",
+    "canon": "The 66-book Protestant canon."
+   },
+   "status": "Active; the main Protestant church in Egypt.",
+   "sources": [
+    "n2-sharkey-american-evangelicals-egypt",
+    "wcrc-statistics"
+   ]
+  },
+  {
+   "id": "new-frontiers-network-churches",
+   "name": "Newfrontiers and British Apostolic Networks",
+   "family": "pentecostal",
+   "parentIds": [
+    "charismatic-renewal",
+    "neo-charismatic"
+   ],
+   "foundedYear": 1980,
+   "regions": [
+    "western-europe",
+    "sub-saharan-africa",
+    "oceania",
+    "north-america",
+    "global"
+   ],
+   "summary": "Networks of charismatic churches that grew from the British 'House Church' or Restoration movement of the 1970s, which sought to restore apostles and prophets to the church. The best known is Newfrontiers, led by Terry Virgo from Brighton, which joined Reformed theology with charismatic worship. Similar networks included Bryn Jones's Covenant Ministries, Gerald Coates's Pioneer and Barney Coombs's Salt and Light. Since 2011 Newfrontiers has worked as several apostolic 'spheres'.",
+   "distinctives": [
+    "Recognition of present-day apostles who oversee networks of churches",
+    "Reformed theology with charismatic gifts ('charismatic Calvinism')",
+    "Male eldership in local churches",
+    "Strong emphasis on church planting",
+    "Large Bible weeks, such as Stoneleigh (1991–2001)"
+   ],
+   "profile": {
+    "authority": "Scripture as the inspired Word of God; apostolic and prophetic ministry is under its authority.",
+    "salvation": "Salvation by grace through faith, often in a Reformed framework.",
+    "sacraments": "Believer's baptism by immersion and the Lord's Supper as a memorial.",
+    "eschatology": "Hopeful about the growth of the church before Christ's return; amillennial and postmillennial views are common.",
+    "governance": "Elder-led local churches linked to apostolic teams.",
+    "worship": "Charismatic worship with bands, spiritual gifts and expository preaching.",
+    "canon": "The 66-book Protestant canon."
+   },
+   "status": "Active; Newfrontiers 'spheres' and related networks lead churches in many countries.",
+   "sources": [
+    "n2-walker-restoring-kingdom",
+    "bebbington-evangelicalism",
+    "burgess-pentecostal-dictionary"
+   ]
+  },
+  {
+   "id": "conservative-anglican-gafcon",
+   "name": "GAFCON (Global Anglican Future Conference)",
+   "family": "anglican",
+   "parentIds": [
+    "anglican"
+   ],
+   "foundedYear": 2008,
+   "regions": [
+    "sub-saharan-africa",
+    "oceania",
+    "north-america",
+    "western-europe",
+    "global"
+   ],
+   "summary": "A movement of conservative Anglicans begun at the Global Anglican Future Conference in Jerusalem in June 2008, after disputes over sexuality and authority that followed Lambeth Resolution I.10 (1998) and the consecration of Gene Robinson in 2003. Its Jerusalem Declaration states its doctrine. Supported by large provinces in Africa, especially Nigeria, Uganda, Kenya and Rwanda, it recognised the Anglican Church in North America and set up structures for conservatives in other provinces. In 2023 its Kigali Commitment rejected the leadership of the Archbishop of Canterbury, and in October 2025 its leaders said they would reorder as a 'Global Anglican Communion'.",
+   "distinctives": [
+    "The Jerusalem Declaration (2008) as a confessional statement",
+    "The Thirty-Nine Articles and the 1662 Book of Common Prayer as standards",
+    "Traditional teaching on marriage and sexuality",
+    "Support for alternative provinces such as ACNA",
+    "Rejection of Canterbury's leadership of the Communion (Kigali, 2023)",
+    "Leadership chiefly from the Global South"
+   ],
+   "profile": {
+    "authority": "Scripture as the final authority, read in its plain sense, with the creeds, the first four councils, the Thirty-Nine Articles and the 1662 Prayer Book.",
+    "salvation": "Salvation by grace through faith in Christ's atoning death, as in the Thirty-Nine Articles.",
+    "sacraments": "The two gospel sacraments of baptism, including infants, and the Lord's Supper.",
+    "eschatology": "Christ's return, resurrection and judgement, as in the creeds.",
+    "governance": "Episcopal: a council of primates and a general secretary oversees member provinces and branches.",
+    "worship": "Prayer Book worship, often combined with contemporary evangelical or charismatic styles.",
+    "canon": "The 66-book Protestant canon; the Apocrypha is read for example but not for doctrine."
+   },
+   "status": "Active; it claims to represent most of the world's Anglicans, and its relations with the Anglican Communion are changing.",
+   "sources": [
+    "n2-jerusalem-declaration",
+    "n2-ward-global-anglicanism",
+    "anglican-communion-office"
+   ]
+  }
+ ],
+ "denomProfiles": [
+  {
+   "tagline": "Independent, evangelical congregations without a denominational label, often large and contemporary.",
+   "coreDoctrines": [
+    "Authority and inspiration of the Bible",
+    "Salvation by grace through personal faith in Christ",
+    "The need for personal conversion",
+    "Believer's baptism",
+    "Christ's personal return"
+   ],
+   "focuses": [
+    "Evangelism and reaching people unused to church",
+    "Practical, life-related preaching",
+    "Small groups for discipleship",
+    "Community service and outreach"
+   ],
+   "practices": [
+    "Contemporary worship bands",
+    "Baptism by immersion, sometimes in large public services",
+    "Multi-site and online services",
+    "Midweek home groups"
+   ],
+   "influencedBy": [
+    {
+     "traditionId": "evangelical",
+     "name": "Evangelicalism",
+     "text": "Shares the conversionist, Bible-centred faith of the wider evangelical movement."
+    },
+    {
+     "traditionId": "charismatic-renewal",
+     "name": "Charismatic Renewal",
+     "text": "Many congregations adopted charismatic worship and expect spiritual gifts."
+    },
+    {
+     "traditionId": "calvary-chapel",
+     "name": "Calvary Chapel",
+     "text": "Its informal Jesus Movement style shaped later independent churches."
+    },
+    {
+     "name": "Church-growth movement",
+     "text": "Donald McGavran and later 'seeker-sensitive' models shaped strategy and style."
+    }
+   ],
+   "influenced": [
+    {
+     "name": "Global independent churches",
+     "text": "Megachurch models and resources have been widely copied in Africa, Asia and Latin America."
+    },
+    {
+     "name": "Contemporary worship music",
+     "text": "Large independent churches have become major producers of worship songs."
+    }
+   ],
+   "keyFigures": [
+    {
+     "name": "Bill Hybels",
+     "role": "Founded Willow Creek Community Church (1975), the model 'seeker' church; resigned in 2018 amid misconduct allegations."
+    },
+    {
+     "name": "Joel Osteen",
+     "role": "Pastor of Lakewood Church, Houston, one of the largest US congregations."
+    },
+    {
+     "name": "Andy Stanley",
+     "role": "Founded North Point Community Church, Atlanta (1995)."
+    }
+   ],
+   "axes": {
+    "liturgy": 1,
+    "sacramental": 1,
+    "authority": "scripture-alone",
+    "governance": "congregational",
+    "baptism": "believer",
+    "eucharist": "memorial",
+    "gifts": "open",
+    "women": "varies",
+    "trinity": "nicene"
+   },
+   "inIndia": "Independent and non-denominational congregations are very common in Indian cities, including Chennai and other towns in Tamil Nadu and Kerala; many are Pentecostal-charismatic in style, and no reliable national count exists.",
+   "sources": [
+    "n2-thumma-megachurch",
+    "noll-christianity-us",
+    "pew-rls-2025"
+   ],
+   "id": "nondenominational-evangelical"
+  },
+  {
+   "tagline": "Calvinistic Baptists bound by the 1689 Second London Confession.",
+   "coreDoctrines": [
+    "Sufficiency and authority of Scripture",
+    "The doctrines of grace (Calvinist soteriology)",
+    "Baptist covenant theology",
+    "Believer's baptism by immersion",
+    "The Lord's Day as the Christian Sabbath"
+   ],
+   "focuses": [
+    "Expository preaching",
+    "Confessional and catechetical teaching",
+    "Recovery of Puritan and Particular Baptist writings",
+    "Church planting and pastoral training"
+   ],
+   "practices": [
+    "Use of Keach's Catechism (1693) and the 1689 Confession",
+    "Plural eldership",
+    "Psalms and hymns, often without performance-style music",
+    "Church discipline and membership covenants"
+   ],
+   "influencedBy": [
+    {
+     "traditionId": "particular-baptists",
+     "name": "Particular Baptists",
+     "text": "The movement claims direct continuity with the seventeenth-century Calvinistic Baptists."
+    },
+    {
+     "name": "Puritanism",
+     "text": "Puritan theology, especially John Owen's, is heavily read."
+    },
+    {
+     "name": "Banner of Truth Trust",
+     "text": "Founded in 1957, its reprints of Reformed classics spread the movement."
+    }
+   ],
+   "influenced": [
+    {
+     "traditionId": "southern-baptist-convention",
+     "name": "Southern Baptist Convention",
+     "text": "The 'Young, Restless, Reformed' Calvinist resurgence among Southern Baptists drew on Reformed Baptist writing."
+    },
+    {
+     "name": "Reformed Baptist churches in Africa and Asia",
+     "text": "Churches in Kenya, Nigeria, the Philippines and elsewhere have adopted the 1689 Confession."
+    }
+   ],
+   "keyFigures": [
+    {
+     "name": "Benjamin Keach",
+     "role": "Seventeenth-century Particular Baptist pastor whose catechism is still used."
+    },
+    {
+     "name": "Charles Haddon Spurgeon",
+     "role": "Reissued the 1689 Confession for his congregation in 1855.",
+     "personId": "charles-spurgeon"
+    },
+    {
+     "name": "Erroll Hulse",
+     "role": "English pastor and editor of Reformation Today (from 1970)."
+    },
+    {
+     "name": "Walter Chantry",
+     "role": "American Reformed Baptist pastor and author."
+    }
+   ],
+   "axes": {
+    "liturgy": 2,
+    "sacramental": 2,
+    "authority": "scripture-alone",
+    "governance": "congregational",
+    "baptism": "believer",
+    "eucharist": "spiritual-presence",
+    "gifts": "cessationist",
+    "women": "not-ordained",
+    "trinity": "nicene"
+   },
+   "sources": [
+    "n2-second-london-confession",
+    "n2-bebbington-baptists",
+    "bebbington-evangelicalism"
+   ],
+   "id": "reformed-baptists"
+  },
+  {
+   "tagline": "Old School Baptists: predestinarian, anti-mission and a cappella.",
+   "coreDoctrines": [
+    "Unconditional election and particular redemption",
+    "Regeneration as God's direct work, not caused by human means",
+    "Believer's baptism by immersion",
+    "Foot washing as an ordinance",
+    "No human institutions beyond the local church"
+   ],
+   "focuses": [
+    "Faithfulness to 'primitive' New Testament practice",
+    "Preaching to comfort the elect",
+    "Plain worship",
+    "Local church independence"
+   ],
+   "practices": [
+    "Unaccompanied hymn singing",
+    "Monthly or regular communion with foot washing",
+    "Self-supporting elders",
+    "Annual association meetings"
+   ],
+   "influencedBy": [
+    {
+     "traditionId": "particular-baptists",
+     "name": "Particular Baptists",
+     "text": "They inherited Calvinistic confessions from the earlier Particular Baptists."
+    },
+    {
+     "name": "John Gill",
+     "text": "Gill's high Calvinism shaped their teaching."
+    },
+    {
+     "name": "Anti-mission movement",
+     "text": "Leaders such as Joshua Lawrence opposed the new mission boards of the 1820s."
+    }
+   ],
+   "influenced": [
+    {
+     "name": "Sacred Harp singing",
+     "text": "Some Primitive Baptist communities helped preserve shape-note singing."
+    },
+    {
+     "name": "Primitive Baptist Universalists",
+     "text": "A small Appalachian group that grew out of the movement."
+    }
+   ],
+   "keyFigures": [
+    {
+     "name": "Joshua Lawrence",
+     "role": "North Carolina elder who led the anti-mission protest in the Kehukee Association."
+    },
+    {
+     "name": "Gilbert Beebe",
+     "role": "Editor of the Signs of the Times (from 1832), the main Old School Baptist paper."
+    }
+   ],
+   "axes": {
+    "liturgy": 1,
+    "sacramental": 1,
+    "authority": "scripture-alone",
+    "governance": "congregational",
+    "baptism": "believer",
+    "eucharist": "memorial",
+    "gifts": "cessationist",
+    "women": "not-ordained",
+    "trinity": "nicene"
+   },
+   "sources": [
+    "n2-crowley-primitive-baptists",
+    "melton-encyclopedia",
+    "n2-bebbington-baptists"
+   ],
+   "id": "primitive-baptists"
+  },
+  {
+   "tagline": "Plain-living, horse-and-buggy Mennonites keeping nineteenth-century church order.",
+   "coreDoctrines": [
+    "Believer's baptism",
+    "Non-resistance (refusal of violence and military service)",
+    "Separation from the world",
+    "Humility and submission to the community",
+    "The Dordrecht Confession of 1632"
+   ],
+   "focuses": [
+    "Preserving tradition against modern innovation",
+    "Family and farm life",
+    "Mutual aid",
+    "Plain dress and modesty"
+   ],
+   "practices": [
+    "Pennsylvania German services",
+    "Foot washing and the holy kiss",
+    "Choosing ministers by lot",
+    "Parochial schools to grade eight"
+   ],
+   "influencedBy": [
+    {
+     "traditionId": "mennonite",
+     "name": "Mennonite Churches",
+     "text": "They are a conservative branch of the Swiss–South German Mennonites."
+    },
+    {
+     "name": "Dordrecht Confession",
+     "text": "The 1632 Dutch Mennonite confession remains their standard."
+    }
+   ],
+   "influenced": [
+    {
+     "traditionId": "amish",
+     "name": "Amish",
+     "text": "Old Order Amish and Old Order Mennonites share a similar resistance to modernity."
+    },
+    {
+     "name": "Conservative Mennonite groups",
+     "text": "Later conservative splits drew on the Old Order example."
+    }
+   ],
+   "keyFigures": [
+    {
+     "name": "Jacob Wisler",
+     "role": "Indiana bishop whose 1872 separation began the Old Order movement."
+    },
+    {
+     "name": "Abraham Martin",
+     "role": "Leader of the Ontario Old Order separation (1889)."
+    },
+    {
+     "name": "Jonas Martin",
+     "role": "Lancaster County bishop who led the 1893 separation."
+    }
+   ],
+   "axes": {
+    "liturgy": 3,
+    "sacramental": 1,
+    "authority": "scripture-alone",
+    "governance": "congregational",
+    "baptism": "believer",
+    "eucharist": "memorial",
+    "gifts": "cessationist",
+    "women": "not-ordained",
+    "trinity": "nicene"
+   },
+   "sources": [
+    "n2-kraybill-concise-encyclopedia",
+    "n2-gameo",
+    "mwc-census"
+   ],
+   "id": "old-order-mennonites"
+  },
+  {
+   "tagline": "Evangelical Mennonites born of an 1860 revival in Russia.",
+   "coreDoctrines": [
+    "Personal conversion and new birth",
+    "Believer's baptism by immersion",
+    "Discipleship and following Jesus",
+    "Peacemaking and non-resistance",
+    "The church as a community of believers"
+   ],
+   "focuses": [
+    "Evangelism and missions",
+    "Church planting",
+    "Bible teaching",
+    "Peace and relief work"
+   ],
+   "practices": [
+    "Baptism by immersion",
+    "Communion as a memorial",
+    "Congregational singing and choirs",
+    "Conference cooperation in missions and schools"
+   ],
+   "influencedBy": [
+    {
+     "traditionId": "mennonite",
+     "name": "Mennonite Churches",
+     "text": "They arose as a renewal movement among Russian Mennonites."
+    },
+    {
+     "name": "German Pietism",
+     "text": "Eduard Wüst's revival preaching shaped the founders."
+    },
+    {
+     "traditionId": "baptist",
+     "name": "Baptist Churches",
+     "text": "German Baptists influenced their adoption of immersion."
+    }
+   ],
+   "influenced": [
+    {
+     "name": "Mennonite Brethren churches in India",
+     "text": "The missions produced one of the largest MB conferences worldwide."
+    },
+    {
+     "name": "Congolese Mennonite Brethren",
+     "text": "The church in the DR Congo grew to be among the largest in the family."
+    }
+   ],
+   "keyFigures": [
+    {
+     "name": "Eduard Wüst",
+     "role": "Pietist preacher whose revival inspired the founders."
+    },
+    {
+     "name": "Johann Claassen",
+     "role": "Early leader who secured the group's legal recognition."
+    },
+    {
+     "name": "Abraham and Maria Friesen",
+     "role": "Pioneer missionaries among the Telugu in India from 1889."
+    }
+   ],
+   "axes": {
+    "liturgy": 2,
+    "sacramental": 1,
+    "authority": "scripture-alone",
+    "governance": "congregational",
+    "baptism": "believer",
+    "eucharist": "memorial",
+    "gifts": "open",
+    "women": "varies",
+    "trinity": "nicene"
+   },
+   "inIndia": "Mennonite Brethren work among Telugu speakers began in 1889; the Mennonite Brethren churches of Telangana and Andhra Pradesh, centred on Shamshabad, Mahbubnagar and Jadcherla, are among the largest MB bodies worldwide.",
+   "sources": [
+    "n2-toews-mb-history",
+    "n2-gameo",
+    "mwc-census"
+   ],
+   "id": "mennonite-brethren"
+  },
+  {
+   "tagline": "Strictly confessional American Lutherans with a firm doctrine of fellowship.",
+   "coreDoctrines": [
+    "Inerrancy and verbal inspiration of Scripture",
+    "Justification by grace through faith",
+    "Real presence of Christ in the Lord's Supper",
+    "Baptismal regeneration",
+    "Unity in doctrine as the basis of fellowship"
+   ],
+   "focuses": [
+    "Pure doctrine",
+    "Christian education in parish schools",
+    "Confessional mission partnerships",
+    "Training pastors and teachers"
+   ],
+   "practices": [
+    "Close communion",
+    "Historic Lutheran liturgy",
+    "Catechism instruction before confirmation",
+    "Lutheran elementary and high schools"
+   ],
+   "influencedBy": [
+    {
+     "traditionId": "lutheran",
+     "name": "Lutheran Churches",
+     "text": "WELS stands in the confessional Lutheran tradition."
+    },
+    {
+     "name": "Martin Luther",
+     "text": "Luther's catechisms and theology are central to its teaching."
+    },
+    {
+     "traditionId": "lutheran-church-missouri-synod",
+     "name": "Lutheran Church–Missouri Synod",
+     "text": "Fellowship within the Synodical Conference (1872–1961) shaped its theology."
+    }
+   ],
+   "influenced": [
+    {
+     "name": "Evangelical Lutheran Synod",
+     "text": "A close partner in the Confessional Evangelical Lutheran Conference."
+    },
+    {
+     "name": "Confessional Evangelical Lutheran Conference",
+     "text": "WELS helped found this international body in 1993."
+    }
+   ],
+   "keyFigures": [
+    {
+     "name": "John Muehlhaeuser",
+     "role": "First president and founder (1850)."
+    },
+    {
+     "name": "Adolf Hoenecke",
+     "role": "Theologian who made the synod strictly confessional."
+    },
+    {
+     "name": "John Philipp Koehler",
+     "role": "Leader of the exegetical 'Wauwatosa theology'."
+    }
+   ],
+   "axes": {
+    "liturgy": 4,
+    "sacramental": 4,
+    "authority": "scripture-alone",
+    "governance": "presbyterian",
+    "baptism": "infant",
+    "eucharist": "real-presence",
+    "gifts": "cessationist",
+    "women": "not-ordained",
+    "trinity": "nicene"
+   },
+   "sources": [
+    "n2-fredrich-wisconsin-synod",
+    "melton-encyclopedia",
+    "schaff-creeds"
+   ],
+   "id": "wisconsin-lutheran-synod"
+  },
+  {
+   "tagline": "Machen's church: strict Westminster Presbyterianism born of the 1936 split.",
+   "coreDoctrines": [
+    "Inerrancy of Scripture",
+    "Westminster Calvinism",
+    "Covenant theology",
+    "Christ's substitutionary atonement",
+    "Infant baptism within the covenant"
+   ],
+   "focuses": [
+    "Doctrinal faithfulness",
+    "Foreign and home missions",
+    "Pastoral training",
+    "Reformed apologetics"
+   ],
+   "practices": [
+    "Psalms and hymns (Trinity Psalter Hymnal)",
+    "Catechising children",
+    "Elder-led church discipline",
+    "Regular communion"
+   ],
+   "influencedBy": [
+    {
+     "traditionId": "presbyterian-church-usa",
+     "name": "Presbyterian Church (U.S.A.)",
+     "text": "Its founders left the northern Presbyterian church, a predecessor of the PC(USA)."
+    },
+    {
+     "name": "Old Princeton theology",
+     "text": "Charles Hodge and B. B. Warfield shaped Machen's thought."
+    },
+    {
+     "name": "Christianity and Liberalism",
+     "text": "Machen's 1923 book argued that liberalism was a different religion."
+    }
+   ],
+   "influenced": [
+    {
+     "traditionId": "presbyterian-church-in-america",
+     "name": "Presbyterian Church in America",
+     "text": "OPC theology and ministers influenced the PCA, founded in 1973."
+    },
+    {
+     "name": "Bible Presbyterian Church",
+     "text": "A 1937 split led by Carl McIntire."
+    },
+    {
+     "name": "Reformed apologetics",
+     "text": "Van Til's presuppositionalism spread through evangelicalism."
+    }
+   ],
+   "keyFigures": [
+    {
+     "name": "J. Gresham Machen",
+     "role": "Founder and leading critic of liberal theology.",
+     "personId": "j-gresham-machen"
+    },
+    {
+     "name": "Cornelius Van Til",
+     "role": "Apologist at Westminster Seminary."
+    },
+    {
+     "name": "John Murray",
+     "role": "Scottish-born systematic theologian."
+    }
+   ],
+   "axes": {
+    "liturgy": 2,
+    "sacramental": 3,
+    "authority": "scripture-alone",
+    "governance": "presbyterian",
+    "baptism": "infant",
+    "eucharist": "spiritual-presence",
+    "gifts": "cessationist",
+    "women": "not-ordained",
+    "trinity": "nicene"
+   },
+   "sources": [
+    "n2-hart-muether-opc",
+    "n2-machen-christianity-liberalism",
+    "noll-christianity-us"
+   ],
+   "id": "orthodox-presbyterian-church"
+  },
+  {
+   "tagline": "Scottish Presbyterians of the 1843 Disruption, defending the church's spiritual independence.",
+   "coreDoctrines": [
+    "Christ alone as head of the church",
+    "Westminster Calvinism",
+    "Inerrancy of Scripture",
+    "Covenant theology",
+    "Sanctity of the Lord's Day"
+   ],
+   "focuses": [
+    "Evangelistic preaching",
+    "Church planting in Scottish cities",
+    "Theological education (Edinburgh Theological Seminary)",
+    "Overseas mission partnerships"
+   ],
+   "practices": [
+    "Psalm singing, often unaccompanied",
+    "Communion seasons with preparatory services",
+    "Elders' visitation",
+    "Gaelic services in some congregations"
+   ],
+   "influencedBy": [
+    {
+     "traditionId": "church-of-scotland",
+     "name": "Church of Scotland",
+     "text": "The Free Church separated from it in 1843."
+    },
+    {
+     "traditionId": "reformed-presbyterian-covenanters",
+     "name": "Covenanters",
+     "text": "Covenanting ideals of the church's independence shaped the Disruption."
+    },
+    {
+     "name": "Evangelical party",
+     "text": "The Evangelical party in the Kirk under Chalmers led the protest."
+    }
+   ],
+   "influenced": [
+    {
+     "traditionId": "church-of-south-india",
+     "name": "Church of South India",
+     "text": "Free Church missions in Madras fed into the united church."
+    },
+    {
+     "traditionId": "church-of-north-india",
+     "name": "Church of North India",
+     "text": "Its missions in Bombay, Nagpur and Calcutta fed into the united church."
+    },
+    {
+     "name": "Free Church of Scotland (Continuing)",
+     "text": "A minority that separated in 2000."
+    }
+   ],
+   "keyFigures": [
+    {
+     "name": "Thomas Chalmers",
+     "role": "Leader of the Disruption and first Moderator.",
+     "personId": "thomas-chalmers"
+    },
+    {
+     "name": "Robert Candlish",
+     "role": "Leading Free Church minister after Chalmers."
+    },
+    {
+     "name": "Alexander Duff",
+     "role": "Missionary educator in Calcutta who joined the Free Church in 1843."
+    },
+    {
+     "name": "Thomas Guthrie",
+     "role": "Preacher and pioneer of 'ragged schools'."
+    }
+   ],
+   "axes": {
+    "liturgy": 2,
+    "sacramental": 3,
+    "authority": "scripture-alone",
+    "governance": "presbyterian",
+    "baptism": "infant",
+    "eucharist": "spiritual-presence",
+    "gifts": "cessationist",
+    "women": "not-ordained",
+    "trinity": "nicene"
+   },
+   "inIndia": "At the Disruption nearly all the Church of Scotland's missionaries in India joined the Free Church, including Alexander Duff in Calcutta, John Anderson in Madras (whose school became Madras Christian College) and John Wilson in Bombay; these missions later joined the Church of South India and the Church of North India.",
+   "sources": [
+    "n2-brown-fry-disruption",
+    "n2-vos-covenanters",
+    "bebbington-evangelicalism"
+   ],
+   "id": "free-church-of-scotland"
+  },
+  {
+   "tagline": "Covenanter Presbyterians singing psalms only and proclaiming Christ's kingship over nations.",
+   "coreDoctrines": [
+    "Christ's kingship over church and state",
+    "Covenanting as a duty of churches and nations",
+    "Westminster Calvinism",
+    "The regulative principle of worship",
+    "Sanctity of the Lord's Day"
+   ],
+   "focuses": [
+    "Witness to Christ's rule in public life",
+    "Psalm singing",
+    "Faithfulness to the Covenanting heritage",
+    "Missions"
+   ],
+   "practices": [
+    "A cappella exclusive psalmody",
+    "Covenant renewal services",
+    "Close communion with tokens or interviews",
+    "Women deacons (RPCNA, since 1888)"
+   ],
+   "influencedBy": [
+    {
+     "traditionId": "church-of-scotland",
+     "name": "Church of Scotland",
+     "text": "The Covenanters were part of the Scottish Kirk before 1690."
+    },
+    {
+     "name": "National Covenant",
+     "text": "The 1638 National Covenant and 1643 Solemn League and Covenant are their founding documents."
+    },
+    {
+     "name": "Samuel Rutherford",
+     "text": "His Lex, Rex (1644) argued for the limits of royal power."
+    }
+   ],
+   "influenced": [
+    {
+     "traditionId": "free-church-of-scotland",
+     "name": "Free Church of Scotland",
+     "text": "Covenanting ideals of spiritual independence fed into the Disruption."
+    },
+    {
+     "name": "American abolitionism",
+     "text": "RPCNA members were early opponents of slavery in the United States."
+    }
+   ],
+   "keyFigures": [
+    {
+     "name": "Richard Cameron",
+     "role": "Field preacher killed at Airds Moss in 1680."
+    },
+    {
+     "name": "James Renwick",
+     "role": "Last Covenanter executed (1688)."
+    },
+    {
+     "name": "John McMillan",
+     "role": "Founding minister of the Reformed Presbytery (1743)."
+    }
+   ],
+   "axes": {
+    "liturgy": 2,
+    "sacramental": 3,
+    "authority": "scripture-alone",
+    "governance": "presbyterian",
+    "baptism": "infant",
+    "eucharist": "spiritual-presence",
+    "gifts": "cessationist",
+    "women": "some-roles",
+    "trinity": "nicene"
+   },
+   "sources": [
+    "n2-vos-covenanters",
+    "schaff-creeds",
+    "n2-brown-fry-disruption"
+   ],
+   "id": "reformed-presbyterian-covenanters"
+  },
+  {
+   "tagline": "Restorationist churches stressing discipleship, immersion baptism and church planting in world cities.",
+   "coreDoctrines": [
+    "Restoration of New Testament Christianity",
+    "Baptism for forgiveness of sins",
+    "Discipleship as the mark of a true Christian",
+    "Weekly Lord's Supper",
+    "Autonomy of local churches"
+   ],
+   "focuses": [
+    "Evangelism and church planting",
+    "Campus ministry",
+    "Personal discipleship",
+    "Benevolence through HOPE worldwide"
+   ],
+   "practices": [
+    "Personal Bible studies before baptism",
+    "Discipling partners",
+    "Weekly communion",
+    "Midweek small groups"
+   ],
+   "influencedBy": [
+    {
+     "traditionId": "churches-of-christ",
+     "name": "Churches of Christ",
+     "text": "The movement began within the a cappella Churches of Christ."
+    },
+    {
+     "name": "Crossroads Movement",
+     "text": "Chuck Lucas's Gainesville campus ministry developed its discipling method."
+    }
+   ],
+   "influenced": [
+    {
+     "name": "International Christian Church",
+     "text": "Founded by Kip McKean in 2006 as a separate group."
+    },
+    {
+     "name": "Debate on spiritual abuse",
+     "text": "Its early history became a major case study of high-demand church practices."
+    }
+   ],
+   "keyFigures": [
+    {
+     "name": "Kip McKean",
+     "role": "Founder and leader until 2001."
+    },
+    {
+     "name": "Chuck Lucas",
+     "role": "Minister of the Crossroads Church of Christ."
+    },
+    {
+     "name": "Henry Kriete",
+     "role": "Leader whose 2003 letter prompted reform."
+    }
+   ],
+   "axes": {
+    "liturgy": 1,
+    "sacramental": 1,
+    "authority": "scripture-alone",
+    "governance": "congregational",
+    "baptism": "believer",
+    "eucharist": "memorial",
+    "gifts": "cessationist",
+    "women": "some-roles",
+    "trinity": "nicene"
+   },
+   "inIndia": "ICOC congregations meet in several major Indian cities, including Mumbai, Delhi, Chennai and Bengaluru, mainly among students and young professionals.",
+   "sources": [
+    "hughes-restoration",
+    "melton-encyclopedia"
+   ],
+   "id": "international-churches-of-christ"
+  },
+  {
+   "tagline": "Brazil's oldest Pentecostal church: unpaid elders, orchestras and no publicity.",
+   "coreDoctrines": [
+    "Salvation by grace through faith",
+    "God's election",
+    "Baptism in the Holy Spirit with speaking in tongues",
+    "Believer's baptism by immersion",
+    "Holiness and separation from worldliness"
+   ],
+   "focuses": [
+    "Simple, unpaid ministry",
+    "Reverent worship",
+    "Mutual aid within the community",
+    "Holiness of life"
+   ],
+   "practices": [
+    "Men and women sit apart; women wear veils",
+    "Holy kiss between members of the same sex",
+    "Annual Holy Supper",
+    "Orchestral music in services"
+   ],
+   "influencedBy": [
+    {
+     "traditionId": "pentecostal",
+     "name": "Pentecostalism",
+     "text": "Born of the early Pentecostal revival in Chicago."
+    },
+    {
+     "name": "William Durham",
+     "text": "Durham's 'finished work' teaching shaped Francescon."
+    },
+    {
+     "traditionId": "presbyterian",
+     "name": "Italian Presbyterianism",
+     "text": "Francescon was formerly an Italian Presbyterian, which explains the stress on election."
+    }
+   ],
+   "influenced": [
+    {
+     "name": "Italian Pentecostal churches",
+     "text": "Francescon's circle also began churches among Italians in the United States, Italy and Argentina."
+    },
+    {
+     "traditionId": "assembleias-de-deus-brazil",
+     "name": "Brazilian Pentecostalism",
+     "text": "As the first Pentecostal church in Brazil (with the Assembleias de Deus from 1911) it opened the way for later growth."
+    }
+   ],
+   "keyFigures": [
+    {
+     "name": "Louis Francescon",
+     "role": "Founder (1910)."
+    },
+    {
+     "name": "Giacomo Lombardi",
+     "role": "Co-worker who went with Francescon to Argentina and Brazil."
+    }
+   ],
+   "members": {
+    "estimate": 2289634,
+    "year": 2010,
+    "note": "Brazilian national census (IBGE), 2010."
+   },
+   "axes": {
+    "liturgy": 3,
+    "sacramental": 1,
+    "authority": "scripture-alone",
+    "governance": "presbyterian",
+    "baptism": "believer",
+    "eucharist": "memorial",
+    "gifts": "pentecostal",
+    "women": "not-ordained",
+    "trinity": "nicene"
+   },
+   "sources": [
+    "n2-ibge-census-2010",
+    "chesnut-born-again-brazil",
+    "anderson-pentecostalism"
+   ],
+   "id": "congregacao-crista-no-brasil"
+  },
+  {
+   "tagline": "Ghana's largest Pentecostal church, self-supporting and led by apostles and lay elders.",
+   "coreDoctrines": [
+    "Baptism in the Holy Spirit with speaking in tongues",
+    "Divine healing",
+    "The five-fold ministry of apostles, prophets, evangelists, pastors and teachers",
+    "Holiness of life",
+    "Christ's premillennial return"
+   ],
+   "focuses": [
+    "Evangelism and church planting",
+    "Discipleship of members",
+    "Holiness and moral teaching in society",
+    "Social services, schools and health"
+   ],
+   "practices": [
+    "Weekly prayer meetings and all-night prayer",
+    "Prayer for healing and deliverance",
+    "Tithing",
+    "Home cell meetings"
+   ],
+   "influencedBy": [
+    {
+     "traditionId": "apostolic-church",
+     "name": "The Apostolic Church",
+     "text": "McKeown brought its theology and offices of apostle and prophet."
+    },
+    {
+     "name": "Faith Tabernacle and Peter Anim",
+     "text": "Peter Anim's earlier Gold Coast movement prepared the way."
+    }
+   ],
+   "influenced": [
+    {
+     "name": "African diaspora churches",
+     "text": "Its congregations serve Ghanaians in Europe and North America."
+    },
+    {
+     "name": "Ghanaian Pentecostalism",
+     "text": "Its discipline and missionary zeal shaped other Ghanaian churches."
+    }
+   ],
+   "keyFigures": [
+    {
+     "name": "James McKeown",
+     "role": "Founder and first Chairman (1937–1982)."
+    },
+    {
+     "name": "Opoku Onyinah",
+     "role": "Chairman 2008–2018 and scholar of Pentecostal exorcism."
+    },
+    {
+     "name": "Eric Nyamekye",
+     "role": "Chairman from 2018."
+    }
+   ],
+   "axes": {
+    "liturgy": 1,
+    "sacramental": 1,
+    "authority": "scripture-alone",
+    "governance": "episcopal",
+    "baptism": "believer",
+    "eucharist": "memorial",
+    "gifts": "pentecostal",
+    "women": "some-roles",
+    "trinity": "nicene"
+   },
+   "sources": [
+    "n2-leonard-mckeown",
+    "onyinah-pentecostal-exorcism",
+    "kalu-african-pentecostalism"
+   ],
+   "id": "church-of-pentecost-ghana"
+  },
+  {
+   "tagline": "Nigerian holiness-Pentecostal church of Bible study and strict sanctification.",
+   "coreDoctrines": [
+    "Salvation through repentance and faith",
+    "Entire sanctification",
+    "Baptism in the Holy Spirit",
+    "Divine healing",
+    "The Rapture and Christ's return"
+   ],
+   "focuses": [
+    "Systematic Bible teaching",
+    "Holiness of life",
+    "Evangelism and crusades",
+    "Campus and youth ministry"
+   ],
+   "practices": [
+    "Monday Bible studies",
+    "Thursday miracle and revival services",
+    "House fellowships",
+    "Retreats and conventions"
+   ],
+   "influencedBy": [
+    {
+     "traditionId": "holiness-movement",
+     "name": "Holiness Movement",
+     "text": "Its doctrine of sanctification comes from Wesleyan holiness teaching."
+    },
+    {
+     "name": "Apostolic Faith Church",
+     "text": "The Portland-based holiness-Pentecostal church shaped Kumuyi's theology."
+    },
+    {
+     "traditionId": "pentecostal",
+     "name": "Pentecostalism",
+     "text": "It teaches baptism in the Holy Spirit."
+    }
+   ],
+   "influenced": [
+    {
+     "name": "Nigerian campus ministries",
+     "text": "Its Bible studies influenced student Christianity in the 1970s and 1980s."
+    },
+    {
+     "name": "Nigerian holiness churches",
+     "text": "Its strict ethic shaped other holiness-minded congregations."
+    }
+   ],
+   "keyFigures": [
+    {
+     "name": "William F. Kumuyi",
+     "role": "Founder and General Superintendent."
+    }
+   ],
+   "axes": {
+    "liturgy": 1,
+    "sacramental": 1,
+    "authority": "scripture-alone",
+    "governance": "episcopal",
+    "baptism": "believer",
+    "eucharist": "memorial",
+    "gifts": "pentecostal",
+    "women": "some-roles",
+    "trinity": "nicene"
+   },
+   "sources": [
+    "n2-ojo-end-time-army",
+    "kalu-african-pentecostalism",
+    "burgess-pentecostal-dictionary"
+   ],
+   "id": "deeper-christian-life-ministry"
+  },
+  {
+   "tagline": "South Africa's pioneer Pentecostal church, from Lake's 1908 mission to post-apartheid unity.",
+   "coreDoctrines": [
+    "Salvation through faith in Christ",
+    "Baptism in the Holy Spirit",
+    "Divine healing",
+    "Believer's baptism by immersion",
+    "Christ's return"
+   ],
+   "focuses": [
+    "Evangelism",
+    "Healing ministry",
+    "Racial reconciliation after apartheid",
+    "Theological training"
+   ],
+   "practices": [
+    "Prayer for the sick",
+    "Baptism by immersion",
+    "Speaking in tongues",
+    "Revival meetings"
+   ],
+   "influencedBy": [
+    {
+     "traditionId": "pentecostal",
+     "name": "Pentecostalism",
+     "text": "Lake and Hezmalhalch brought the Azusa Street revival message."
+    },
+    {
+     "name": "Zion movement",
+     "text": "John Alexander Dowie's healing movement shaped its early leaders."
+    }
+   ],
+   "influenced": [
+    {
+     "traditionId": "zion-christian-church",
+     "name": "Zion Christian Church",
+     "text": "Engenas Lekganyane passed through Zionist and AFM-linked circles before founding the ZCC."
+    },
+    {
+     "traditionId": "african-initiated-churches",
+     "name": "African Initiated Churches",
+     "text": "Many Zionist churches came from early AFM work."
+    },
+    {
+     "traditionId": "charismatic-renewal",
+     "name": "Charismatic Renewal",
+     "text": "David du Plessis carried Pentecostal experience to the historic churches."
+    }
+   ],
+   "keyFigures": [
+    {
+     "name": "John G. Lake",
+     "role": "American missionary and co-founder (1908)."
+    },
+    {
+     "name": "Pieter L. le Roux",
+     "role": "First South African president (1913–1943)."
+    },
+    {
+     "name": "David du Plessis",
+     "role": "General secretary and later ecumenical Pentecostal spokesman."
+    },
+    {
+     "name": "Frank Chikane",
+     "role": "AFM pastor and anti-apartheid church leader."
+    }
+   ],
+   "axes": {
+    "liturgy": 1,
+    "sacramental": 1,
+    "authority": "scripture-alone",
+    "governance": "presbyterian",
+    "baptism": "believer",
+    "eucharist": "memorial",
+    "gifts": "pentecostal",
+    "women": "varies",
+    "trinity": "nicene"
+   },
+   "sources": [
+    "n2-burger-nel-afm",
+    "anderson-african-reformation",
+    "anderson-pentecostalism"
+   ],
+   "id": "apostolic-faith-mission-south-africa"
+  },
+  {
+   "tagline": "A large East African Lutheran church known for its bishops, hospitals and choirs.",
+   "coreDoctrines": [
+    "Justification by grace through faith",
+    "Authority of Scripture",
+    "Real presence in the Lord's Supper",
+    "Infant baptism",
+    "The Lutheran Confessions"
+   ],
+   "focuses": [
+    "Evangelism",
+    "Health care and education",
+    "Development work",
+    "Theological training"
+   ],
+   "practices": [
+    "Lutheran liturgy in Swahili",
+    "Church choirs",
+    "Confirmation",
+    "Revival fellowships"
+   ],
+   "influencedBy": [
+    {
+     "traditionId": "lutheran",
+     "name": "Lutheran Churches",
+     "text": "It grew from German, Scandinavian and American Lutheran missions."
+    },
+    {
+     "name": "East African Revival",
+     "text": "The revival brought personal confession and fellowship to many congregations."
+    }
+   ],
+   "influenced": [
+    {
+     "name": "Lutheran World Federation",
+     "text": "Its leaders, including Josiah Kibira, gave African voice to the federation."
+    },
+    {
+     "name": "African Lutheran churches",
+     "text": "It supports Lutheran work in neighbouring countries."
+    }
+   ],
+   "keyFigures": [
+    {
+     "name": "Stefano Moshi",
+     "role": "First presiding bishop of the united church."
+    },
+    {
+     "name": "Josiah Kibira",
+     "role": "Bishop of Bukoba and LWF President (1977–1984)."
+    }
+   ],
+   "axes": {
+    "liturgy": 4,
+    "sacramental": 4,
+    "authority": "scripture-alone",
+    "governance": "episcopal",
+    "baptism": "infant",
+    "eucharist": "real-presence",
+    "gifts": "open",
+    "women": "varies",
+    "trinity": "nicene"
+   },
+   "sources": [
+    "lwf-statistics",
+    "isichei-africa",
+    "hastings-church-in-africa"
+   ],
+   "id": "evangelical-lutheran-church-tanzania"
+  },
+  {
+   "tagline": "Ethiopia's 'Word of Life' church, born of the SIM mission and indigenous revival.",
+   "coreDoctrines": [
+    "Authority of Scripture",
+    "Salvation by grace through faith",
+    "Believer's baptism",
+    "The work of the Holy Spirit",
+    "Christ's return"
+   ],
+   "focuses": [
+    "Evangelism among unreached peoples",
+    "Bible training",
+    "Relief and development",
+    "Prayer"
+   ],
+   "practices": [
+    "Baptism by immersion",
+    "Choirs and indigenous music",
+    "Prayer meetings",
+    "Local evangelists sent out by congregations"
+   ],
+   "influencedBy": [
+    {
+     "traditionId": "evangelical",
+     "name": "Evangelicalism",
+     "text": "SIM missionaries brought interdenominational evangelical faith."
+    },
+    {
+     "name": "Sudan Interior Mission",
+     "text": "The mission's 'faith mission' approach shaped its early life."
+    }
+   ],
+   "influenced": [
+    {
+     "name": "Ethiopian Protestantism",
+     "text": "Its growth made Protestants a large minority in Ethiopia."
+    },
+    {
+     "name": "Mission from Ethiopia",
+     "text": "It sends evangelists to other regions and countries."
+    }
+   ],
+   "keyFigures": [
+    {
+     "name": "Thomas Lambie",
+     "role": "SIM missionary leader in Ethiopia."
+    },
+    {
+     "name": "Walter Ohman",
+     "role": "SIM missionary in Wolaitta."
+    },
+    {
+     "name": "Raymond Davis",
+     "role": "SIM leader and author of Fire on the Mountains."
+    }
+   ],
+   "axes": {
+    "liturgy": 1,
+    "sacramental": 1,
+    "authority": "scripture-alone",
+    "governance": "congregational",
+    "baptism": "believer",
+    "eucharist": "memorial",
+    "gifts": "open",
+    "women": "some-roles",
+    "trinity": "nicene"
+   },
+   "sources": [
+    "n2-fargher-southern-ethiopia",
+    "n2-davis-fire-mountains",
+    "ethiopia-census-2007"
+   ],
+   "id": "kale-heywet-church"
+  },
+  {
+   "tagline": "Egypt's Presbyterian church, rooted in American missions and Coptic families.",
+   "coreDoctrines": [
+    "Authority of Scripture",
+    "Salvation by grace through faith",
+    "Reformed theology",
+    "Infant baptism",
+    "Christ's spiritual presence in the Lord's Supper"
+   ],
+   "focuses": [
+    "Education",
+    "Social development and literacy",
+    "Evangelism",
+    "Christian–Muslim relations"
+   ],
+   "practices": [
+    "Arabic worship and hymns",
+    "Youth and student ministry",
+    "Bible study",
+    "Social service"
+   ],
+   "influencedBy": [
+    {
+     "traditionId": "presbyterian",
+     "name": "Presbyterian Churches",
+     "text": "It began through the American United Presbyterian mission."
+    },
+    {
+     "traditionId": "coptic-orthodox",
+     "name": "Coptic Orthodox Church",
+     "text": "Most early members came from Coptic families."
+    }
+   ],
+   "influenced": [
+    {
+     "name": "Coptic Orthodox Sunday School Movement",
+     "text": "Protestant schools and Bible study encouraged renewal in the Coptic Church."
+    },
+    {
+     "name": "Arab Protestantism",
+     "text": "Its seminary trains pastors for other Arab churches."
+    }
+   ],
+   "keyFigures": [
+    {
+     "name": "Samuel Habib",
+     "role": "Founder of CEOSS and later head of the Protestant Churches of Egypt."
+    },
+    {
+     "name": "Andrea Zaki",
+     "role": "President of the Protestant Churches of Egypt."
+    }
+   ],
+   "axes": {
+    "liturgy": 2,
+    "sacramental": 3,
+    "authority": "scripture-alone",
+    "governance": "presbyterian",
+    "baptism": "infant",
+    "eucharist": "spiritual-presence",
+    "gifts": "open",
+    "women": "some-roles",
+    "trinity": "nicene"
+   },
+   "sources": [
+    "n2-sharkey-american-evangelicals-egypt",
+    "wcrc-statistics"
+   ],
+   "id": "coptic-evangelical-church"
+  },
+  {
+   "tagline": "British charismatic church networks led by apostles, joining Reformed teaching with spiritual gifts.",
+   "coreDoctrines": [
+    "Restoration of apostles and prophets",
+    "Baptism in the Holy Spirit and spiritual gifts",
+    "Salvation by grace",
+    "The church as God's central plan",
+    "Complementarian church leadership"
+   ],
+   "focuses": [
+    "Church planting",
+    "Training leaders",
+    "Worship",
+    "Social action"
+   ],
+   "practices": [
+    "Charismatic worship",
+    "Prophecy and prayer ministry",
+    "Believer's baptism",
+    "Regional and international conferences"
+   ],
+   "influencedBy": [
+    {
+     "traditionId": "charismatic-renewal",
+     "name": "Charismatic Renewal",
+     "text": "The networks grew from the renewal of the 1960s and 1970s."
+    },
+    {
+     "traditionId": "plymouth-brethren",
+     "name": "Plymouth Brethren",
+     "text": "Several founders, including Arthur Wallis, came from Brethren backgrounds."
+    },
+    {
+     "name": "Reformed theology",
+     "text": "Puritan and Reformed writers shaped Terry Virgo's teaching."
+    }
+   ],
+   "influenced": [
+    {
+     "name": "Evangelical church planting",
+     "text": "Their models influenced UK evangelical church planting."
+    },
+    {
+     "name": "Charismatic Reformed churches",
+     "text": "Their 'charismatic Calvinism' influenced churches in the US and Africa."
+    }
+   ],
+   "keyFigures": [
+    {
+     "name": "Terry Virgo",
+     "role": "Founder of Newfrontiers."
+    },
+    {
+     "name": "Arthur Wallis",
+     "role": "Early thinker of the Restoration movement."
+    },
+    {
+     "name": "Bryn Jones",
+     "role": "Leader of Covenant Ministries."
+    },
+    {
+     "name": "Gerald Coates",
+     "role": "Founder of Pioneer."
+    }
+   ],
+   "axes": {
+    "liturgy": 1,
+    "sacramental": 1,
+    "authority": "scripture-alone",
+    "governance": "apostolic-network",
+    "baptism": "believer",
+    "eucharist": "memorial",
+    "gifts": "charismatic",
+    "women": "not-ordained",
+    "trinity": "nicene"
+   },
+   "sources": [
+    "n2-walker-restoring-kingdom",
+    "bebbington-evangelicalism",
+    "burgess-pentecostal-dictionary"
+   ],
+   "id": "new-frontiers-network-churches"
+  },
+  {
+   "tagline": "Global conservative Anglican movement founded in Jerusalem in 2008.",
+   "coreDoctrines": [
+    "The authority of Scripture",
+    "The Thirty-Nine Articles",
+    "Salvation by grace through faith",
+    "Traditional Christian teaching on marriage",
+    "Episcopal order"
+   ],
+   "focuses": [
+    "Gospel proclamation and church planting",
+    "Defending traditional moral teaching",
+    "Support for conservative Anglicans in liberal provinces",
+    "Global South leadership"
+   ],
+   "practices": [
+    "Prayer Book worship",
+    "Global assemblies (2008, 2013, 2018, 2023)",
+    "Consecration of bishops for conservative networks",
+    "Theological training"
+   ],
+   "influencedBy": [
+    {
+     "traditionId": "church-of-nigeria",
+     "name": "Church of Nigeria",
+     "text": "Its primate Peter Akinola was a leading founder."
+    },
+    {
+     "traditionId": "church-of-uganda",
+     "name": "Church of Uganda",
+     "text": "A strong supporter of GAFCON."
+    },
+    {
+     "traditionId": "anglican-church-of-kenya",
+     "name": "Anglican Church of Kenya",
+     "text": "Hosted GAFCON 2013 in Nairobi."
+    },
+    {
+     "traditionId": "evangelical",
+     "name": "Evangelicalism",
+     "text": "Most of its leaders are evangelical."
+    }
+   ],
+   "influenced": [
+    {
+     "traditionId": "anglican-church-in-north-america",
+     "name": "Anglican Church in North America",
+     "text": "Recognised by GAFCON as a province in 2009."
+    },
+    {
+     "name": "Anglican Network in Europe",
+     "text": "Set up for conservatives in Britain and Europe."
+    }
+   ],
+   "keyFigures": [
+    {
+     "name": "Peter Akinola",
+     "role": "Archbishop of Nigeria and founder."
+    },
+    {
+     "name": "Peter Jensen",
+     "role": "General Secretary (2008–2018)."
+    },
+    {
+     "name": "Foley Beach",
+     "role": "Chairman (2019–2023)."
+    },
+    {
+     "name": "Laurent Mbanda",
+     "role": "Archbishop of Rwanda and Chairman (from 2023)."
+    }
+   ],
+   "axes": {
+    "liturgy": 4,
+    "sacramental": 3,
+    "authority": "scripture-alone",
+    "governance": "episcopal",
+    "baptism": "infant",
+    "eucharist": "spiritual-presence",
+    "gifts": "open",
+    "women": "varies",
+    "trinity": "nicene"
+   },
+   "sources": [
+    "n2-jerusalem-declaration",
+    "n2-ward-global-anglicanism",
+    "anglican-communion-office"
+   ],
+   "id": "conservative-anglican-gafcon"
+  }
+ ],
+ "sources": [
+  {
+   "id": "n2-thumma-megachurch",
+   "title": "Beyond Megachurch Myths: What We Can Learn from America's Largest Churches",
+   "author": "Scott Thumma and Dave Travis",
+   "year": 2007,
+   "kind": "secondary"
+  },
+  {
+   "id": "n2-bebbington-baptists",
+   "title": "Baptists through the Centuries: A History of a Global People",
+   "author": "David W. Bebbington",
+   "year": 2010,
+   "kind": "secondary"
+  },
+  {
+   "id": "n2-second-london-confession",
+   "title": "The Second London Baptist Confession of Faith",
+   "author": "Particular Baptist General Assembly",
+   "year": 1689,
+   "kind": "primary"
+  },
+  {
+   "id": "n2-crowley-primitive-baptists",
+   "title": "Primitive Baptists of the Wiregrass South: 1815 to the Present",
+   "author": "John G. Crowley",
+   "year": 1998,
+   "kind": "secondary"
+  },
+  {
+   "id": "n2-kraybill-concise-encyclopedia",
+   "title": "Concise Encyclopedia of Amish, Brethren, Hutterites, and Mennonites",
+   "author": "Donald B. Kraybill",
+   "year": 2010,
+   "kind": "reference"
+  },
+  {
+   "id": "n2-gameo",
+   "title": "Global Anabaptist Mennonite Encyclopedia Online (GAMEO)",
+   "kind": "reference",
+   "url": "https://gameo.org"
+  },
+  {
+   "id": "n2-toews-mb-history",
+   "title": "A History of the Mennonite Brethren Church: Pilgrims and Pioneers",
+   "author": "John A. Toews",
+   "year": 1975,
+   "kind": "secondary"
+  },
+  {
+   "id": "n2-fredrich-wisconsin-synod",
+   "title": "The Wisconsin Synod Lutherans: A History of the Single Synod, Federation, and Merger",
+   "author": "Edward C. Fredrich",
+   "year": 1992,
+   "kind": "secondary"
+  },
+  {
+   "id": "n2-hart-muether-opc",
+   "title": "Fighting the Good Fight: A Brief History of the Orthodox Presbyterian Church",
+   "author": "D. G. Hart and John R. Muether",
+   "year": 1995,
+   "kind": "secondary"
+  },
+  {
+   "id": "n2-machen-christianity-liberalism",
+   "title": "Christianity and Liberalism",
+   "author": "J. Gresham Machen",
+   "year": 1923,
+   "kind": "primary"
+  },
+  {
+   "id": "n2-brown-fry-disruption",
+   "title": "Scotland in the Age of the Disruption",
+   "author": "Stewart J. Brown and Michael Fry (eds)",
+   "year": 1993,
+   "kind": "secondary"
+  },
+  {
+   "id": "n2-vos-covenanters",
+   "title": "The Scottish Covenanters: Their Origins, History and Distinctive Doctrines",
+   "author": "Johannes G. Vos",
+   "year": 1940,
+   "kind": "secondary"
+  },
+  {
+   "id": "n2-ibge-census-2010",
+   "title": "Censo Demográfico 2010: Características gerais da população, religião e pessoas com deficiência",
+   "author": "Instituto Brasileiro de Geografia e Estatística (IBGE)",
+   "year": 2012,
+   "kind": "data"
+  },
+  {
+   "id": "n2-leonard-mckeown",
+   "title": "A Giant in Ghana: 3000 Churches in 50 Years — The Story of James McKeown and the Church of Pentecost",
+   "author": "Christine Leonard",
+   "year": 1989,
+   "kind": "secondary"
+  },
+  {
+   "id": "n2-ojo-end-time-army",
+   "title": "The End-Time Army: Charismatic Movements in Modern Nigeria",
+   "author": "Matthews A. Ojo",
+   "year": 2006,
+   "kind": "secondary"
+  },
+  {
+   "id": "n2-burger-nel-afm",
+   "title": "The Fire Falls in Africa: A History of the Apostolic Faith Mission of South Africa",
+   "author": "Isak Burger and Marius Nel",
+   "year": 2008,
+   "kind": "secondary"
+  },
+  {
+   "id": "n2-fargher-southern-ethiopia",
+   "title": "The Origins of the New Churches Movement in Southern Ethiopia, 1927–1944",
+   "author": "Brian L. Fargher",
+   "year": 1996,
+   "kind": "secondary"
+  },
+  {
+   "id": "n2-davis-fire-mountains",
+   "title": "Fire on the Mountains: The Church in Ethiopia",
+   "author": "Raymond J. Davis",
+   "year": 1966,
+   "kind": "secondary"
+  },
+  {
+   "id": "n2-sharkey-american-evangelicals-egypt",
+   "title": "American Evangelicals in Egypt: Missionary Encounters in an Age of Empire",
+   "author": "Heather J. Sharkey",
+   "year": 2008,
+   "kind": "secondary"
+  },
+  {
+   "id": "n2-walker-restoring-kingdom",
+   "title": "Restoring the Kingdom: The Radical Christianity of the House Church Movement",
+   "author": "Andrew Walker",
+   "year": 1985,
+   "kind": "secondary"
+  },
+  {
+   "id": "n2-jerusalem-declaration",
+   "title": "GAFCON Final Statement and the Jerusalem Declaration",
+   "author": "Global Anglican Future Conference",
+   "year": 2008,
+   "kind": "primary"
+  },
+  {
+   "id": "n2-ward-global-anglicanism",
+   "title": "A History of Global Anglicanism",
+   "author": "Kevin Ward",
+   "year": 2006,
+   "kind": "secondary"
+  }
+ ]
+}

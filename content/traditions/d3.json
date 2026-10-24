@@ -1,0 +1,2194 @@
+{
+  "denomProfiles": [
+    {
+      "id": "syriac-orthodox",
+      "tagline": "Antioch's Miaphysite church, keeper of the West Syriac liturgy and the Aramaic heritage.",
+      "coreDoctrines": [
+        "Miaphysite Christology: one incarnate nature of God the Word, united 'without mixture, confusion or separation'.",
+        "Accepts the first three ecumenical councils (Nicaea 325, Constantinople 381, Ephesus 431) and rejects Chalcedon (451).",
+        "Holy Tradition, the Fathers (especially Ephrem, Severus of Antioch and Jacob of Serugh) and the canons interpret Scripture.",
+        "Seven sacraments, with the Eucharist understood as the true body and blood of Christ.",
+        "The 1984 common declaration of Patriarch Zakka I Iwas and Pope John Paul II stated that the two churches confess the same faith in Christ despite different formulas."
+      ],
+      "focuses": [
+        "Preserving Syriac (Aramaic) language, chant and manuscripts.",
+        "Survival and pastoral care of communities displaced from Turkey, Iraq and Syria.",
+        "Ecumenical dialogue with Catholic, Eastern Orthodox and Oriental Orthodox churches.",
+        "Monastic life, notably at Mor Gabriel (Tur Abdin, founded 397)."
+      ],
+      "practices": [
+        "Divine Liturgy with the Anaphora of St James and many alternative anaphoras, sung in Syriac and local languages.",
+        "Daily office from the Shhimo (weekday breviary) and the Fenqitho (festal hymnary).",
+        "Strict fasts: Great Lent, the Nineveh fast (three days) and Wednesday and Friday fasts.",
+        "Baptism of infants followed at once by chrismation with holy myron and first communion.",
+        "Married parish clergy; bishops drawn from the celibate monastic clergy."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "early-church",
+          "name": "Church of Antioch",
+          "text": "Claims continuity with the apostolic see founded by Peter at Antioch."
+        },
+        {
+          "name": "Severus of Antioch",
+          "text": "The deposed patriarch (512–518) whose theology defined the non-Chalcedonian position."
+        },
+        {
+          "name": "Jacob Baradaeus",
+          "text": "Ordained a parallel hierarchy in the 540s, giving rise to the name 'Jacobite'."
+        },
+        {
+          "name": "Ephrem the Syrian",
+          "text": "His hymns and poetic theology shape Syriac worship."
+        }
+      ],
+      "influenced": [
+        {
+          "traditionId": "malankara-jacobite-syrian",
+          "name": "Malankara Jacobite Syrian Church",
+          "text": "The Indian church that remains under the Patriarch of Antioch."
+        },
+        {
+          "traditionId": "malankara-orthodox",
+          "name": "Malankara Orthodox Syrian Church",
+          "text": "Received the West Syriac rite and episcopal succession from Antioch after 1665."
+        },
+        {
+          "traditionId": "syriac-catholic",
+          "name": "Syriac Catholic Church",
+          "text": "Formed by Syriac Orthodox who entered union with Rome (patriarchate from 1783)."
+        },
+        {
+          "traditionId": "mar-thoma-syrian",
+          "name": "Mar Thoma Syrian Church",
+          "text": "Retains a reformed form of the West Syriac liturgy received from Antioch."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Severus of Antioch",
+          "personId": "severus-of-antioch",
+          "role": "Patriarch and chief theologian of the anti-Chalcedonian cause"
+        },
+        {
+          "name": "Jacob Baradaeus",
+          "personId": "jacob-baradaeus",
+          "role": "Bishop of Edessa who rebuilt the hierarchy"
+        },
+        {
+          "name": "Gregory Bar Hebraeus (1226–1286)",
+          "role": "Maphrian, polymath and author of the Nomocanon"
+        },
+        {
+          "name": "Ignatius Zakka I Iwas (patriarch 1980–2014)",
+          "role": "Signed the 1984 Christological declaration with Rome"
+        },
+        {
+          "name": "Ignatius Aphrem II (patriarch since 2014)",
+          "role": "Leads the church from Damascus through the Syrian war and its aftermath"
+        }
+      ],
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "The Patriarch of Antioch is head of the Jacobite Syrian Christian Church in Kerala, whose Catholicos of India is consecrated by him; this Indian community is far larger than the church's Middle Eastern membership.",
+      "sources": [
+        "roberson-eastern-churches",
+        "atiya-eastern-christianity",
+        "f4-brock-syriac",
+        "parry-blackwell-eastern"
+      ]
+    },
+    {
+      "id": "malankara-orthodox",
+      "tagline": "Kerala's autocephalous St Thomas church, led by the Catholicos of the East at Kottayam.",
+      "coreDoctrines": [
+        "Oriental Orthodox (Miaphysite) faith, accepting the councils of Nicaea, Constantinople and Ephesus.",
+        "Traces its origin to the apostle Thomas's mission to India, traditionally dated AD 52.",
+        "Holds that the Catholicate of the East, established in Malankara in 1912, makes it an autocephalous church.",
+        "Seven sacraments; the Eucharist is the true body and blood of Christ.",
+        "Governed by the 1934 Constitution, which the Supreme Court of India upheld in 1995 and 2017."
+      ],
+      "focuses": [
+        "Defending its autocephaly and the 1934 Constitution in its long dispute with the Patriarch's faction.",
+        "Education, hospitals and charitable institutions in Kerala.",
+        "Ecumenism: a founding member of the World Council of Churches (1948).",
+        "Pastoral care of a large Malayali diaspora in the Gulf, Europe and North America."
+      ],
+      "practices": [
+        "West Syriac liturgy (Holy Qurbana of St James) celebrated mainly in Malayalam, with Syriac and English.",
+        "Veneration of St Gregorios of Parumala, canonised in 1947 and the object of a major annual pilgrimage.",
+        "Lenten and other fasts, including the 25-day pre-Christmas fast and the three-day Nineveh fast.",
+        "Married priests; bishops (metropolitans) chosen from celibate clergy and elected by the Malankara Association.",
+        "Parish life centred on the palli (church) with festivals (perunnal) for patron saints."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "church-of-the-east",
+          "name": "St Thomas Christians",
+          "text": "Inherits the ancient Christian community of Malabar that the Church of the East once served."
+        },
+        {
+          "traditionId": "syriac-orthodox",
+          "name": "Syriac Orthodox Church",
+          "text": "Adopted West Syriac liturgy and Antiochene episcopal succession after Mar Gregorios Abdul Jaleel's visit in 1665."
+        },
+        {
+          "name": "Coonan Cross Oath (1653)",
+          "text": "The revolt against Portuguese Latin control that began the community's separate path."
+        },
+        {
+          "traditionId": "oriental-orthodox",
+          "name": "Oriental Orthodox Churches",
+          "text": "Shares their faith and is in communion with the Coptic, Armenian and Ethiopian churches."
+        }
+      ],
+      "influenced": [
+        {
+          "traditionId": "syro-malankara-catholic",
+          "name": "Syro-Malankara Catholic Church",
+          "text": "Formed in 1930 when Mar Ivanios and others entered communion with Rome."
+        },
+        {
+          "name": "Ecumenical movement",
+          "text": "Theologian Paulos Mar Gregorios served as a president of the World Council of Churches (1983–1991)."
+        },
+        {
+          "traditionId": "mar-thoma-syrian",
+          "name": "Mar Thoma Syrian Church",
+          "text": "Emerged from a 19th-century reform party within the Malankara church."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Thomas the Apostle",
+          "personId": "thomas-apostle",
+          "role": "Venerated founder of Indian Christianity"
+        },
+        {
+          "name": "Vattasseril Geevarghese Mar Dionysius (1858–1934)",
+          "role": "Malankara Metropolitan who led the move to establish the Catholicate"
+        },
+        {
+          "name": "St Gregorios of Parumala (1848–1902)",
+          "role": "Bishop and first canonised saint of the church"
+        },
+        {
+          "name": "Paulos Mar Gregorios (1922–1996)",
+          "role": "Theologian and WCC president"
+        },
+        {
+          "name": "Baselios Marthoma Mathews III",
+          "role": "Catholicos of the East and Malankara Metropolitan since 2021"
+        }
+      ],
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "Based at Devalokam, Kottayam, the church is concentrated in central Kerala, with dioceses across India; its long dispute with the Jacobite faction over churches and property turned on the Supreme Court's 2017 judgment for the 1934 Constitution.",
+      "sources": [
+        "frykenberg-india",
+        "brown-st-thomas-christians",
+        "roberson-eastern-churches",
+        "d3-sc-varghese-2017"
+      ]
+    },
+    {
+      "id": "eritrean-orthodox-tewahedo",
+      "tagline": "Eritrea's Ge'ez-rite Orthodox church, autocephalous since 1993, under heavy state pressure.",
+      "coreDoctrines": [
+        "Tewahedo ('made one') Christology: Christ's divinity and humanity united in one nature, as in the Coptic and Ethiopian churches.",
+        "Accepts the councils of Nicaea, Constantinople and Ephesus and rejects Chalcedon.",
+        "The broad Ethiopian-tradition canon of 81 books, including Enoch and Jubilees.",
+        "Seven sacraments and the real change of bread and wine in the Qiddase (liturgy).",
+        "Strong veneration of the Virgin Mary (Kidane Mehret, 'Covenant of Mercy') and the saints."
+      ],
+      "focuses": [
+        "Building an independent national church after Eritrean independence (1993).",
+        "Monastic tradition, notably the ancient monastery of Debre Bizen.",
+        "Ge'ez liturgy, chant (zema attributed to Yared) and church schools.",
+        "Surviving government control, including the 2006 removal of Patriarch Antonios."
+      ],
+      "practices": [
+        "Liturgy in Ge'ez with Tigrinya; the tabot (altar tablet) consecrates each church.",
+        "Around 180 fasting days a year for the devout, including Wednesdays and Fridays.",
+        "Timket (Epiphany) processions with the tabot, and Meskel (Finding of the Cross).",
+        "Distinctive observances shared with Ethiopia: Saturday as well as Sunday sabbath, circumcision and dietary rules.",
+        "Debteras (cantors) sing the services with drums and sistra."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "ethiopian-orthodox-tewahedo",
+          "name": "Ethiopian Orthodox Tewahedo Church",
+          "text": "Was part of it until autocephaly, sharing its liturgy, canon and saints."
+        },
+        {
+          "traditionId": "coptic-orthodox",
+          "name": "Coptic Orthodox Church",
+          "text": "Pope Shenouda III granted autocephaly in 1993 and consecrated its first patriarch in 1998."
+        },
+        {
+          "name": "Yared",
+          "text": "The 6th-century Aksumite composer whose chant tradition the church sings."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Eritrean diaspora churches",
+          "text": "Parishes in Europe and North America, some of which reject the government-installed hierarchy."
+        },
+        {
+          "name": "Debre Bizen and Eritrean monasticism",
+          "text": "A spiritual centre for Orthodox in Eritrea and Tigray."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Abune Philipos (patriarch 1998–2002)",
+          "role": "First patriarch of the autocephalous church"
+        },
+        {
+          "name": "Abune Antonios (1927–2022)",
+          "role": "Third patriarch, deposed in 2006 and held under house arrest until his death"
+        },
+        {
+          "name": "Yared",
+          "personId": "saint-yared",
+          "role": "Patron of liturgical chant"
+        }
+      ],
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "binns-orthodox-churches",
+        "roberson-eastern-churches",
+        "isichei-africa"
+      ]
+    },
+    {
+      "id": "malankara-jacobite-syrian",
+      "tagline": "Kerala's St Thomas Christians who remain loyal to the Syriac Orthodox Patriarch of Antioch.",
+      "coreDoctrines": [
+        "Oriental Orthodox (Miaphysite) faith identical to that of the Syriac Orthodox Church.",
+        "The Patriarch of Antioch is supreme head; the Catholicos of India is a regional primate under him.",
+        "Apostolic origin from St Thomas, combined with the Antiochene succession received after 1665.",
+        "Seven sacraments, the Divine Liturgy of St James and the intercession of Mary and the saints."
+      ],
+      "focuses": [
+        "Loyalty to the throne of Antioch, symbolised by patriarchal visits and relics in Kerala.",
+        "Retaining parishes and identity after Supreme Court rulings (1995, 2017) favoured the Malankara Orthodox.",
+        "Social institutions, schools and colleges in Ernakulam and central Kerala.",
+        "Pilgrimage to shrines such as Manarcad St Mary's and the tomb of St Baselios Yeldho at Kothamangalam."
+      ],
+      "practices": [
+        "Holy Qurbana in Malayalam and Syriac following the West Syriac rite.",
+        "The eight-day Lent of St Mary (1–8 September) at Manarcad and other Marian churches.",
+        "Commemoration of Patriarch Ignatius Elias III, who died at Manjinikkara in 1932.",
+        "Married parish priests (kathanars) and celibate bishops."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "syriac-orthodox",
+          "name": "Syriac Orthodox Church",
+          "text": "Receives its chief bishop and holy myron from the Patriarch of Antioch."
+        },
+        {
+          "traditionId": "malankara-orthodox",
+          "name": "Malankara Church before 1912",
+          "text": "Shares the history of the undivided Malankara Syrian Church."
+        },
+        {
+          "name": "St Baselios Yeldho",
+          "text": "Syriac bishop who came to Kerala in 1685 and is venerated at Kothamangalam."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Malayali diaspora parishes",
+          "text": "Dioceses and parishes in the Gulf, Europe and North America under the Patriarch."
+        },
+        {
+          "name": "Indian Syriac identity",
+          "text": "Keeps alive the Antiochene link in Kerala's church life."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Baselios Paulose II (1914–1996)",
+          "role": "Installed as Catholicos in 1975 by Patriarch Yaqub III"
+        },
+        {
+          "name": "Baselios Thomas I (1929–2024)",
+          "role": "Catholicos of India 2002–2024, who led the church through the litigation"
+        },
+        {
+          "name": "Ignatius Elias III",
+          "role": "Patriarch who died in Kerala in 1932, venerated at Manjinikkara"
+        }
+      ],
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "Centred at Puthencruz near Ernakulam, it is one of the two main successors of the Malankara Syrian Church in Kerala; after the 2017 judgment it lost many contested churches and built or acquired new ones.",
+      "sources": [
+        "frykenberg-india",
+        "brown-st-thomas-christians",
+        "roberson-eastern-churches",
+        "d3-sc-varghese-2017"
+      ]
+    },
+    {
+      "id": "mar-thoma-syrian",
+      "tagline": "Reformed Oriental church: St Thomas heritage, Syriac liturgy, evangelical theology.",
+      "coreDoctrines": [
+        "Scripture is the supreme rule of faith; the 19th-century reform removed practices judged unbiblical.",
+        "Rejects prayers to the saints, prayers for the dead and the doctrine that the Eucharist is a sacrifice for the dead.",
+        "Retains episcopal order, infant baptism and a reformed West Syriac liturgy.",
+        "Accepts the Nicene Creed and the ancient creedal faith of the Church.",
+        "Salvation by grace through faith, with strong emphasis on personal conversion and holiness."
+      ],
+      "focuses": [
+        "Evangelism through the Mar Thoma Evangelistic Association (1888) and ashrams across India.",
+        "Bible study, preaching and Sunday schools in Malayalam.",
+        "Ecumenism: in full communion with the Church of South India, the Church of North India and the Anglican Communion.",
+        "Social service: schools, colleges, hospitals and work among the poor."
+      ],
+      "practices": [
+        "Holy Qurbana in Malayalam, a revision of the Liturgy of St James translated by the reformers.",
+        "The Maramon Convention, held each February on the sands of the Pamba river since 1895.",
+        "Infant baptism and confirmation; married clergy and celibate bishops.",
+        "Strong lay participation through parish assemblies and the Prathinidhi Mandalam (representative council)."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "malankara-orthodox",
+          "name": "Malankara Syrian Church",
+          "text": "Shares the St Thomas heritage and West Syriac rite."
+        },
+        {
+          "traditionId": "anglican",
+          "name": "Church Missionary Society",
+          "text": "Anglican missionaries in Kottayam (from 1816) encouraged Bible translation and reform."
+        },
+        {
+          "name": "Abraham Malpan",
+          "text": "Led the 1836 reform of the liturgy at Maramon."
+        },
+        {
+          "traditionId": "evangelical",
+          "name": "Evangelical revival",
+          "text": "Shaped its preaching, conventions and missionary zeal."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "St Thomas Evangelical Church of India",
+          "text": "A further evangelical secession in 1961."
+        },
+        {
+          "traditionId": "church-of-south-india",
+          "name": "Church of South India",
+          "text": "Partner in full communion and in the Communion of Churches in India."
+        },
+        {
+          "name": "Indian Christian mission",
+          "text": "Its ashrams and evangelists work among non-Christian communities across India."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Abraham Malpan (1796–1845)",
+          "role": "Priest-scholar who launched the reform"
+        },
+        {
+          "name": "Mathews Mar Athanasius (1818–1877)",
+          "role": "Reform leader consecrated metropolitan in 1842"
+        },
+        {
+          "name": "Philipose Mar Chrysostom (1918–2021)",
+          "role": "Valiya Metropolitan, celebrated preacher"
+        },
+        {
+          "name": "Theodosius Mar Thoma",
+          "role": "Metropolitan since 2020"
+        }
+      ],
+      "axes": {
+        "liturgy": 4,
+        "sacramental": 3,
+        "authority": "scripture-alone",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "real-presence",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "Headquartered at Tiruvalla, Kerala, it has dioceses across India and in the diaspora; its Maramon Convention is among the largest annual Christian gatherings in Asia.",
+      "sources": [
+        "frykenberg-india",
+        "brown-st-thomas-christians",
+        "wcc-member-churches",
+        "i4-firth-indian-church-history"
+      ]
+    },
+    {
+      "id": "armenian-catholicosate-cilicia",
+      "tagline": "The Armenian Church's second catholicosate, rebuilt at Antelias, Lebanon, after the genocide.",
+      "coreDoctrines": [
+        "The faith of the Armenian Apostolic Church: Miaphysite Christology and the first three ecumenical councils.",
+        "One church with two catholicosates; Cilicia is administratively independent of Holy Etchmiadzin.",
+        "Seven sacraments; the Eucharist is celebrated with unleavened bread and unmixed wine.",
+        "Veneration of the Virgin Mary, Gregory the Illuminator and the Armenian saints and martyrs."
+      ],
+      "focuses": [
+        "Rebuilding Armenian church life in the Middle East after the 1915 genocide and 1921 expulsion from Cilicia.",
+        "Diaspora identity: language, schools and seminary education at Antelias and Bikfaya.",
+        "Ecumenism: Catholicos Aram I moderated the WCC Central Committee (1991–2006).",
+        "Commemoration of the genocide and support for Armenians in Syria and Lebanon."
+      ],
+      "practices": [
+        "Divine Liturgy of the Armenian rite (Badarak) in Classical Armenian.",
+        "Christmas and Epiphany celebrated together on 6 January.",
+        "Blessing of holy muron (chrism), traditionally every seven years.",
+        "Married parish priests and celibate vardapets (doctor-monks) from whom bishops are chosen.",
+        "Its Tehran diocese ordained a woman to the diaconate in 2017, reviving an ancient order."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "armenian-apostolic",
+          "name": "Armenian Apostolic Church",
+          "text": "Shares its faith, liturgy and history."
+        },
+        {
+          "name": "Medieval Cilician kingdom",
+          "text": "The catholicosate sat at Hromkla and then Sis (from 1293) in the Armenian kingdom of Cilicia."
+        },
+        {
+          "name": "Nerses Shnorhali",
+          "text": "12th-century catholicos at Hromkla whose hymns and ecumenical letters shape the tradition."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Armenian diaspora dioceses",
+          "text": "Jurisdiction in Lebanon, Syria, Cyprus, Iran, the Gulf, Greece and parts of North America."
+        },
+        {
+          "traditionId": "oriental-orthodox",
+          "name": "Oriental Orthodox ecumenism",
+          "text": "Joint initiatives with the Coptic and Syriac churches in the Middle East Council of Churches."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Gregory the Illuminator",
+          "personId": "gregory-the-illuminator",
+          "role": "Founder of the Armenian Church"
+        },
+        {
+          "name": "Nerses IV Shnorhali (c. 1102–1173)",
+          "role": "Catholicos, poet and theologian"
+        },
+        {
+          "name": "Sahak II Khabayan (catholicos 1902–1939)",
+          "role": "Led the see from Sis into exile and resettled it at Antelias in 1930"
+        },
+        {
+          "name": "Karekin II Sarkissian (catholicos 1977–1995)",
+          "role": "Later Catholicos Karekin I of Etchmiadzin"
+        },
+        {
+          "name": "Aram I Keshishian",
+          "role": "Catholicos since 1995"
+        }
+      ],
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "some-roles",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "roberson-eastern-churches",
+        "atiya-eastern-christianity",
+        "parry-blackwell-eastern"
+      ]
+    },
+    {
+      "id": "church-of-the-east",
+      "tagline": "The Persian church of the Silk Road, which reached from Mesopotamia to China and India.",
+      "coreDoctrines": [
+        "Dyophysite Christology in the Antiochene tradition: two natures and two qnome in the one person of Christ.",
+        "Honours Theodore of Mopsuestia as 'the Interpreter' and rejected the Council of Ephesus (431).",
+        "Declared its independence from western bishops at the Synod of Dadisho (424).",
+        "Sacramental life including the 'holy leaven' (malka), regarded as a sacrament alongside baptism and Eucharist.",
+        "Mary honoured as 'Mother of Christ' rather than 'Mother of God' (Theotokos)."
+      ],
+      "focuses": [
+        "Missionary expansion across Central Asia, China (from 635), Mongolia and India.",
+        "Schools of theology and medicine, notably Nisibis and Gundeshapur.",
+        "Translation of Greek philosophy and science into Syriac and Arabic under the Abbasids.",
+        "Survival as a minority under Zoroastrian, Muslim and Mongol rulers."
+      ],
+      "practices": [
+        "Liturgy of Addai and Mari, one of the oldest anaphoras in use.",
+        "East Syriac chant, office and calendar.",
+        "Veneration of the cross rather than images in many periods.",
+        "Married clergy, including bishops in early centuries; later bishops were monastic.",
+        "Monasticism reformed by Abraham of Kashkar (6th century)."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "early-church",
+          "name": "Early Syriac Christianity",
+          "text": "Grew from the Aramaic-speaking churches of Edessa and Mesopotamia."
+        },
+        {
+          "name": "Theodore of Mopsuestia",
+          "text": "His exegesis and Christology became the church's standard."
+        },
+        {
+          "name": "Synod of Seleucia-Ctesiphon (410)",
+          "text": "Organised the church in the Persian Empire and accepted the Nicene Creed."
+        }
+      ],
+      "influenced": [
+        {
+          "traditionId": "assyrian-church-of-the-east",
+          "name": "Assyrian Church of the East",
+          "text": "Its direct continuation."
+        },
+        {
+          "traditionId": "chaldean-catholic",
+          "name": "Chaldean Catholic Church",
+          "text": "Formed from members who entered union with Rome from 1553."
+        },
+        {
+          "traditionId": "syro-malabar-catholic",
+          "name": "Syro-Malabar Catholic Church",
+          "text": "St Thomas Christians who received East Syriac bishops for centuries."
+        },
+        {
+          "name": "Chinese Christianity",
+          "text": "The Xi'an stele (781) records the 'Luminous Religion' brought by Alopen."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Babai the Great (d. 628)",
+          "personId": "babai-the-great",
+          "role": "Defined the church's Christology"
+        },
+        {
+          "name": "Alopen",
+          "personId": "alopen",
+          "role": "Led the mission to Tang China in 635"
+        },
+        {
+          "name": "Timothy I (patriarch 780–823)",
+          "personId": "timothy-i",
+          "role": "Organised missions and debated the caliph al-Mahdi"
+        },
+        {
+          "name": "Isaac of Nineveh",
+          "personId": "isaac-of-nineveh",
+          "role": "Ascetic writer read across all Christian traditions"
+        },
+        {
+          "name": "Rabban Sauma",
+          "personId": "rabban-sauma",
+          "role": "Envoy from Mongol China to Europe in 1287–88"
+        }
+      ],
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "The St Thomas Christians of Malabar received bishops and the East Syriac liturgy from the Church of the East until the Portuguese imposed Latin rule (Synod of Diamper, 1599).",
+      "sources": [
+        "baum-winkler-east",
+        "wilmshurst-martyred-church",
+        "moffett-asia",
+        "jenkins-lost-history"
+      ]
+    },
+    {
+      "id": "assyrian-church-of-the-east",
+      "tagline": "Modern heir of the ancient Church of the East, guardian of East Syriac worship.",
+      "coreDoctrines": [
+        "The Christology of the Church of the East, which it describes as two natures united in one person.",
+        "The 1994 Common Christological Declaration with Pope John Paul II affirmed a shared faith in Christ.",
+        "Seven sacraments as the church reckons them, including the holy leaven and the sign of the cross.",
+        "Holds the Nicene Creed and the synods of the Persian church as normative.",
+        "Recognises Theodore, Diodore and Nestorius among its teachers."
+      ],
+      "focuses": [
+        "Preserving Assyrian Christian identity and the Syriac language in the diaspora.",
+        "Ecumenical dialogue with the Catholic Church and other churches.",
+        "Rebuilding communities in northern Iraq and north-east Syria after war and displacement.",
+        "Theological education, such as the seminary revived in Erbil."
+      ],
+      "practices": [
+        "Holy Qurbana using the Anaphora of Addai and Mari, as well as those of Theodore and Nestorius.",
+        "Gregorian calendar adopted in 1964 (with Julian Easter elsewhere in some places).",
+        "Sacred leaven renewed each Holy Thursday.",
+        "Churches with plain interiors and the cross as the central symbol."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "church-of-the-east",
+          "name": "Church of the East",
+          "text": "Continues its doctrine, liturgy and patriarchal succession."
+        },
+        {
+          "name": "Shimun patriarchal line",
+          "text": "The hereditary patriarchal family that led the church from the 17th century until 1975."
+        },
+        {
+          "name": "Assyrian genocide (1914–1918)",
+          "text": "Massacres and expulsions that scattered the community."
+        }
+      ],
+      "influenced": [
+        {
+          "traditionId": "ancient-church-of-the-east",
+          "name": "Ancient Church of the East",
+          "text": "Separated in 1968 over the calendar and patriarchal succession."
+        },
+        {
+          "traditionId": "chaldean-catholic",
+          "name": "Catholic–Assyrian relations",
+          "text": "The 2001 Vatican guidelines recognised the validity of the Anaphora of Addai and Mari."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Mar Eshai Shimun XXIII (1908–1975)",
+          "role": "Patriarch exiled in 1933; led the church from the United States"
+        },
+        {
+          "name": "Mar Dinkha IV (patriarch 1976–2015)",
+          "role": "Signed the 1994 declaration with Rome"
+        },
+        {
+          "name": "Mar Gewargis III (patriarch 2015–2021)",
+          "role": "Returned the patriarchate to Erbil"
+        },
+        {
+          "name": "Mar Awa III",
+          "role": "Patriarch since 2021, the first born in the United States"
+        }
+      ],
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "Its Archdiocese of India is the Chaldean Syrian Church based at Thrissur, Kerala, a small community whose metropolitan, Mar Aprem Mooken, became widely known as a writer.",
+      "sources": [
+        "baum-winkler-east",
+        "roberson-eastern-churches",
+        "common-christological-declaration-1994",
+        "pontifical-addai-mari-2001"
+      ]
+    },
+    {
+      "id": "ancient-church-of-the-east",
+      "tagline": "East Syriac traditionalists who kept the Julian calendar, based in Baghdad.",
+      "coreDoctrines": [
+        "The same faith, Christology and liturgy as the Assyrian Church of the East.",
+        "Holds to the traditional Julian church calendar.",
+        "Rejected hereditary succession to the patriarchate.",
+        "Seven sacraments as reckoned in the East Syriac tradition, including the holy leaven."
+      ],
+      "focuses": [
+        "Preserving East Syriac liturgy and the old calendar.",
+        "Pastoral care in Iraq and the diaspora (United States, Australia, Europe).",
+        "Dialogue on reunion with the Assyrian Church of the East."
+      ],
+      "practices": [
+        "Holy Qurbana of Addai and Mari in Syriac.",
+        "Feasts kept according to the Julian calendar, including Christmas on 7 January in the civil calendar.",
+        "Traditional East Syriac fasts and office."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "assyrian-church-of-the-east",
+          "name": "Assyrian Church of the East",
+          "text": "Separated from it in 1968."
+        },
+        {
+          "traditionId": "church-of-the-east",
+          "name": "Church of the East",
+          "text": "Shares its ancient tradition."
+        }
+      ],
+      "influenced": [
+        {
+          "traditionId": "assyrian-church-of-the-east",
+          "name": "Reunion discussions",
+          "text": "Talks with the Assyrian Church from the 1990s onwards seek to heal the 1968 division."
+        },
+        {
+          "name": "Thrissur community",
+          "text": "Part of the Chaldean Syrian Church in Kerala followed it between 1968 and 1995."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Mar Thoma Darmo (1904–1969)",
+          "role": "Metropolitan in India who became its first patriarch in 1968"
+        },
+        {
+          "name": "Mar Addai II (patriarch 1972–2022)",
+          "role": "Led the church for half a century from Baghdad"
+        },
+        {
+          "name": "Mar Gewargis III Younan",
+          "role": "Patriarch since 2022"
+        }
+      ],
+      "axes": {
+        "liturgy": 5,
+        "sacramental": 5,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "transformation",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "Its first patriarch, Thoma Darmo, had been metropolitan at Thrissur, and a section of the Chaldean Syrian Church there followed the Ancient Church until the factions reunited in 1995.",
+      "sources": [
+        "baum-winkler-east",
+        "roberson-eastern-churches",
+        "wilmshurst-martyred-church"
+      ]
+    },
+    {
+      "id": "lutheran",
+      "tagline": "The churches of Luther's Reformation: justification by faith and Christ present in the sacrament.",
+      "coreDoctrines": [
+        "Justification by grace alone through faith alone, on account of Christ (Augsburg Confession, art. 4).",
+        "Scripture is the norm of doctrine; the Book of Concord (1580) is its faithful exposition.",
+        "Law and gospel: God's word both accuses and promises.",
+        "Real presence: Christ's body and blood are truly given 'in, with and under' the bread and wine.",
+        "Baptismal regeneration and infant baptism; the priesthood of all believers alongside an ordained ministry.",
+        "The theology of the cross and the 'two kingdoms' doctrine of church and state."
+      ],
+      "focuses": [
+        "Preaching the gospel and catechesis (Luther's Small Catechism, 1529).",
+        "Congregational song: the chorale tradition from Luther to Bach.",
+        "Education and literacy, including vernacular Bibles.",
+        "Diakonia: organised social welfare and relief, notably through the LWF.",
+        "Ecumenism, including the 1999 Joint Declaration on the Doctrine of Justification with the Catholic Church."
+      ],
+      "practices": [
+        "Liturgical Sunday Mass (Hauptgottesdienst) with sermon, creed and Eucharist, often weekly.",
+        "Confirmation after catechetical instruction.",
+        "Church year, vestments, altar and crucifix retained from medieval practice.",
+        "Private confession and absolution, retained though less common today.",
+        "Polity ranging from Nordic episcopal churches to synodical and congregational bodies."
+      ],
+      "influencedBy": [
+        {
+          "name": "Martin Luther",
+          "text": "His protest of 1517 and writings founded the movement."
+        },
+        {
+          "name": "Augustine of Hippo",
+          "text": "His theology of grace was central to the reformers."
+        },
+        {
+          "traditionId": "catholic",
+          "name": "Late medieval Catholicism",
+          "text": "Retained much of its liturgy and church order."
+        },
+        {
+          "name": "Philip Melanchthon",
+          "text": "Systematised Lutheran teaching in the Loci Communes and Augsburg Confession."
+        }
+      ],
+      "influenced": [
+        {
+          "traditionId": "anglican",
+          "name": "Anglicanism",
+          "text": "Cranmer's reforms drew on Lutheran liturgy and teaching."
+        },
+        {
+          "traditionId": "reformed",
+          "name": "Reformed churches",
+          "text": "Shared justification by faith, while dividing over the Lord's Supper."
+        },
+        {
+          "traditionId": "moravian-church",
+          "name": "Moravian Church",
+          "text": "Renewed at Herrnhut in a Lutheran Pietist setting."
+        },
+        {
+          "traditionId": "methodist",
+          "name": "Methodism",
+          "text": "Wesley's heart was 'strangely warmed' hearing Luther's preface to Romans read in 1738."
+        },
+        {
+          "name": "Pietism",
+          "text": "Spener's Pia Desideria (1675) sought renewal within Lutheranism."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Martin Luther",
+          "personId": "martin-luther",
+          "role": "Reformer"
+        },
+        {
+          "name": "Philip Melanchthon",
+          "personId": "philip-melanchthon",
+          "role": "Author of the Augsburg Confession"
+        },
+        {
+          "name": "Martin Chemnitz",
+          "personId": "martin-chemnitz",
+          "role": "Chief architect of the Formula of Concord"
+        },
+        {
+          "name": "Johann Gerhard",
+          "personId": "johann-gerhard",
+          "role": "Leading orthodox Lutheran dogmatician"
+        },
+        {
+          "name": "Dietrich Bonhoeffer",
+          "personId": "dietrich-bonhoeffer",
+          "role": "Pastor and theologian executed in 1945"
+        }
+      ],
+      "members": {
+        "estimate": 77000000,
+        "year": 2022,
+        "note": "Lutheran World Federation: over 77 million members in about 150 member churches; does not include non-member bodies such as the Missouri Synod."
+      },
+      "axes": {
+        "liturgy": 4,
+        "sacramental": 4,
+        "authority": "scripture-alone",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "real-presence",
+        "gifts": "open",
+        "women": "varies",
+        "trinity": "nicene"
+      },
+      "inIndia": "Indian Protestantism began with Lutherans: Ziegenbalg and Plütschau landed at Tranquebar in 1706; today some ten Lutheran churches, including the Tamil Evangelical Lutheran Church and the Gossner church of Jharkhand, form the United Evangelical Lutheran Churches in India.",
+      "sources": [
+        "book-of-concord",
+        "lwf-statistics",
+        "macculloch-reformation",
+        "i1-jeyaraj-ziegenbalg"
+      ]
+    },
+    {
+      "id": "church-of-sweden",
+      "tagline": "Sweden's former state church: Lutheran, episcopal and claiming apostolic succession.",
+      "coreDoctrines": [
+        "Lutheran teaching as set out in the Augsburg Confession, adopted at the Uppsala Synod (1593).",
+        "Justification by grace through faith and the real presence of Christ in the Eucharist.",
+        "Episcopal order with bishops in historic succession.",
+        "Full communion with Anglican churches of the British Isles and Nordic-Baltic Lutherans through the Porvoo Communion (1996)."
+      ],
+      "focuses": [
+        "Serving the whole population as a 'folk church', from baptisms to funerals.",
+        "International aid and mission through Act Church of Sweden.",
+        "Ecumenism: Archbishop Nathan Söderblom convened the Life and Work conference in Stockholm (1925).",
+        "Progressive social stances, including women's ordination (1960) and same-sex marriage (2009)."
+      ],
+      "practices": [
+        "Sunday High Mass (Högmässa) using the church handbook, with chanted liturgy and hymnal.",
+        "Confirmation at around age 14, increasingly with camps.",
+        "Rich choral tradition and church music.",
+        "Funded by a church fee collected through the tax system for members."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "lutheran",
+          "name": "Lutheran Reformation",
+          "text": "Introduced under Gustav Vasa from the Västerås Riksdag of 1527."
+        },
+        {
+          "name": "Olaus and Laurentius Petri",
+          "text": "Brothers who translated the Bible (1541) and shaped the church order (1571)."
+        },
+        {
+          "traditionId": "catholic",
+          "name": "Medieval Swedish Catholicism",
+          "text": "Kept bishops, cathedrals and much liturgy."
+        }
+      ],
+      "influenced": [
+        {
+          "traditionId": "mekane-yesus",
+          "name": "Ethiopian Evangelical Church Mekane Yesus",
+          "text": "Swedish mission (EFS) was among its founding influences."
+        },
+        {
+          "traditionId": "evangelical-covenant-church",
+          "name": "Evangelical Covenant Church",
+          "text": "Founded by Swedish Mission Friends emigrants in the United States."
+        },
+        {
+          "name": "Ecumenical movement",
+          "text": "Söderblom's Life and Work was a forerunner of the WCC."
+        },
+        {
+          "traditionId": "laestadian",
+          "name": "Laestadianism",
+          "text": "The revival arose within the Church of Sweden in Lapland."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Gustav Vasa",
+          "role": "King who broke with Rome (1527)"
+        },
+        {
+          "name": "Laurentius Petri",
+          "role": "First Lutheran archbishop of Uppsala (1531)"
+        },
+        {
+          "name": "Nathan Söderblom",
+          "role": "Archbishop 1914–1931 and Nobel Peace Prize laureate (1930)"
+        },
+        {
+          "name": "Antje Jackelén",
+          "role": "First woman archbishop (2014–2022)"
+        },
+        {
+          "name": "Martin Modéus",
+          "role": "Archbishop since 2022"
+        }
+      ],
+      "members": {
+        "estimate": 5500000,
+        "year": 2022,
+        "note": "Church of Sweden statistics: about 5.5 million members, just over half the population."
+      },
+      "axes": {
+        "liturgy": 4,
+        "sacramental": 4,
+        "authority": "scripture-alone",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "real-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "The Church of Sweden Mission worked in Tamil Nadu alongside the Leipzig Mission, and Swedish bishops led the Tamil Evangelical Lutheran Church until Rajah B. Manikam became its first Indian bishop in 1956.",
+      "sources": [
+        "church-of-sweden-statistics",
+        "macculloch-reformation",
+        "odcc"
+      ]
+    },
+    {
+      "id": "church-of-norway",
+      "tagline": "Norway's Lutheran folk church, shaped by state ties and lay revival.",
+      "coreDoctrines": [
+        "Lutheran confession: the Augsburg Confession and Luther's Small Catechism, with the ancient creeds.",
+        "Justification by faith and the real presence of Christ in the sacrament.",
+        "Episcopal order exercised with elected church councils and a General Synod.",
+        "A member of the Porvoo Communion with Anglican and other Nordic Lutheran churches."
+      ],
+      "focuses": [
+        "Serving as the national church while becoming independent of the state (constitutional change 2012; separate legal entity 2017).",
+        "Mission and aid through Norwegian Church Aid and mission societies.",
+        "Lay organisations from the Haugean revival tradition.",
+        "Debates over women bishops (from 1993) and same-sex marriage (liturgy adopted 2017)."
+      ],
+      "practices": [
+        "Sunday High Mass (høymesse) with Norwegian liturgy and hymnody.",
+        "High rates of baptism, confirmation and church funerals.",
+        "Strong prayer houses (bedehus) and lay mission meetings in rural areas.",
+        "Funded mainly by the state budget and municipalities."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "lutheran",
+          "name": "Danish-Norwegian Reformation",
+          "text": "Imposed by Christian III in 1537."
+        },
+        {
+          "name": "Hans Nielsen Hauge",
+          "text": "Lay preacher (1771–1824) whose revival shaped Norwegian piety."
+        },
+        {
+          "name": "Pietism",
+          "text": "Spread through Erik Pontoppidan's catechism explanation (1737)."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Northern Evangelical Lutheran Church (India)",
+          "text": "Born from the Santal mission of Skrefsrud and Børresen."
+        },
+        {
+          "name": "Malagasy Lutheran Church",
+          "text": "Norwegian Missionary Society work in Madagascar from 1866."
+        },
+        {
+          "traditionId": "mekane-yesus",
+          "name": "Mekane Yesus",
+          "text": "Norwegian Lutheran Mission was a partner in southern Ethiopia."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Hans Nielsen Hauge",
+          "role": "Lay revivalist"
+        },
+        {
+          "name": "Eivind Berggrav",
+          "role": "Bishop of Oslo who led church resistance to Nazi occupation (1942)"
+        },
+        {
+          "name": "Rosemarie Köhn",
+          "role": "First woman bishop (Hamar, 1993)"
+        },
+        {
+          "name": "Olav Fykse Tveit",
+          "role": "Presiding bishop since 2020, formerly WCC general secretary"
+        }
+      ],
+      "members": {
+        "estimate": 3500000,
+        "year": 2023,
+        "note": "Statistics Norway: about 3.5 million members, roughly 63% of the population."
+      },
+      "axes": {
+        "liturgy": 4,
+        "sacramental": 4,
+        "authority": "scripture-alone",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "real-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "The Norwegian Lars Skrefsrud and the Dane Hans Peter Børresen founded the Santal mission at Benagaria in 1867, which became the Northern Evangelical Lutheran Church in Jharkhand, Bihar, West Bengal and Assam.",
+      "sources": [
+        "ssb-norway-church",
+        "macculloch-reformation",
+        "odcc"
+      ]
+    },
+    {
+      "id": "evangelical-church-in-germany",
+      "tagline": "Federation of Germany's Lutheran, Reformed and United regional churches.",
+      "coreDoctrines": [
+        "Member churches confess the Lutheran, Reformed or United confessions, held together in one federation.",
+        "The Barmen Theological Declaration (1934) is a confessional text in many member churches.",
+        "Pulpit and altar fellowship between Lutherans and Reformed under the Leuenberg Agreement (1973).",
+        "Justification by faith and the centrality of Scripture as interpreted by modern scholarship."
+      ],
+      "focuses": [
+        "Public theology: statements on ethics, peace, migration and social questions.",
+        "Diakonie: one of Germany's largest welfare organisations.",
+        "Coming to terms with the past, beginning with the Stuttgart Declaration of Guilt (1945).",
+        "Responding to steep membership decline and secularisation."
+      ],
+      "practices": [
+        "Sunday worship according to the regional church's agenda; Eucharist increasingly frequent.",
+        "Confirmation at about 14 and infant baptism.",
+        "Church tax collected by the state from members.",
+        "The biennial Kirchentag (lay church congress), founded in 1949.",
+        "Women ordained as pastors and bishops in all member churches."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "lutheran",
+          "name": "Lutheran Reformation",
+          "text": "Most member churches are Lutheran."
+        },
+        {
+          "traditionId": "reformed",
+          "name": "Reformed tradition",
+          "text": "Reformed churches in the Palatinate, Lippe and elsewhere."
+        },
+        {
+          "name": "Prussian Union (1817)",
+          "text": "Friedrich Wilhelm III united Lutheran and Reformed congregations."
+        },
+        {
+          "name": "Confessing Church",
+          "text": "Its resistance to the 'German Christians' shaped postwar identity."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Leuenberg Church Fellowship",
+          "text": "Now the Community of Protestant Churches in Europe."
+        },
+        {
+          "name": "Missions in India and Africa",
+          "text": "German mission societies (Leipzig, Gossner, Basel, Breklum) founded churches abroad."
+        },
+        {
+          "traditionId": "lutheran-church-missouri-synod",
+          "name": "Lutheran Church–Missouri Synod",
+          "text": "Founded by Saxon emigrants who left in part over the union movement."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Friedrich Schleiermacher",
+          "personId": "friedrich-schleiermacher",
+          "role": "Theologian who supported the Prussian Union"
+        },
+        {
+          "name": "Karl Barth",
+          "personId": "karl-barth",
+          "role": "Principal author of the Barmen Declaration"
+        },
+        {
+          "name": "Dietrich Bonhoeffer",
+          "personId": "dietrich-bonhoeffer",
+          "role": "Confessing Church pastor and martyr"
+        },
+        {
+          "name": "Martin Niemöller",
+          "role": "Leader of the Pastors' Emergency League"
+        }
+      ],
+      "members": {
+        "estimate": 18600000,
+        "year": 2023,
+        "note": "EKD membership statistics: about 18.6 million members at the end of 2023."
+      },
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 3,
+        "authority": "scripture-alone",
+        "governance": "presbyterian",
+        "baptism": "infant",
+        "eucharist": "real-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "German missions planted Lutheran churches in India: the Leipzig Mission in Tamil Nadu, the Gossner Mission among Adivasis of Chota Nagpur from 1845, and the Breklum Mission in Odisha (the Jeypore Evangelical Lutheran Church).",
+      "sources": [
+        "ekd-statistics",
+        "scholder-churches-third-reich",
+        "clark-iron-kingdom",
+        "odcc"
+      ]
+    },
+    {
+      "id": "lutheran-church-missouri-synod",
+      "tagline": "Confessional American Lutherans committed to the full Book of Concord and biblical inerrancy.",
+      "coreDoctrines": [
+        "Unconditional (quia) subscription to the Lutheran Confessions in the Book of Concord.",
+        "Scripture is the inspired and inerrant Word of God.",
+        "Justification by grace through faith and the real presence of Christ in the Lord's Supper.",
+        "Ordained pastoral office restricted to men.",
+        "Fellowship only with churches in confessional agreement (close or closed communion)."
+      ],
+      "focuses": [
+        "Doctrinal faithfulness, exemplified by the 'Statement of Scriptural and Confessional Principles' (1973).",
+        "A large parochial school system and Concordia universities.",
+        "Theological education at Concordia Seminary (St Louis) and Concordia Theological Seminary (Fort Wayne).",
+        "Lutheran Hour radio broadcasts, begun in 1930.",
+        "International partner churches through the International Lutheran Council."
+      ],
+      "practices": [
+        "Liturgical worship from the Lutheran Service Book (2006).",
+        "Infant baptism, catechesis and confirmation.",
+        "Congregations call their pastors; the synod is an advisory association of congregations.",
+        "Communion restricted to those who share its confession."
+      ],
+      "influencedBy": [
+        {
+          "name": "Saxon emigration (1838–39)",
+          "text": "Lutherans leaving Saxony over rationalism and the Prussian union settled in Missouri."
+        },
+        {
+          "traditionId": "lutheran",
+          "name": "Confessional Lutheran revival",
+          "text": "Nineteenth-century return to the Book of Concord."
+        },
+        {
+          "name": "C. F. W. Walther",
+          "text": "First president, whose 'Law and Gospel' lectures remain influential."
+        }
+      ],
+      "influenced": [
+        {
+          "traditionId": "evangelical-lutheran-church-in-america",
+          "name": "Evangelical Lutheran Church in America",
+          "text": "Seminex dissenters of 1974 formed the AELC, a founding body of the ELCA."
+        },
+        {
+          "name": "International Lutheran Council",
+          "text": "A global association of confessional Lutheran churches."
+        },
+        {
+          "name": "India Evangelical Lutheran Church",
+          "text": "Founded by Missouri Synod missionaries in Tamil Nadu and Kerala."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "C. F. W. Walther (1811–1887)",
+          "role": "Founding president and theologian"
+        },
+        {
+          "name": "Franz Pieper (1852–1931)",
+          "role": "Author of Christian Dogmatics"
+        },
+        {
+          "name": "J. A. O. Preus II (1920–1994)",
+          "role": "President during the 1970s doctrinal conflict"
+        },
+        {
+          "name": "Martin Chemnitz",
+          "personId": "martin-chemnitz",
+          "role": "Confessional authority much studied in the synod"
+        }
+      ],
+      "axes": {
+        "liturgy": 4,
+        "sacramental": 4,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "infant",
+        "eucharist": "real-presence",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "Missouri Synod missionaries began work at Krishnagiri, Tamil Nadu, in 1895; the resulting India Evangelical Lutheran Church is strongest in Tamil Nadu and southern Kerala.",
+      "sources": [
+        "granquist-lutherans-america",
+        "noll-christianity-us",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "evangelical-lutheran-church-in-america",
+      "tagline": "America's largest Lutheran church: mainline, ecumenical and socially engaged.",
+      "coreDoctrines": [
+        "Accepts the Lutheran Confessions as true witnesses to the gospel.",
+        "Justification by grace through faith; Christ truly present in Holy Communion.",
+        "Scripture as the inspired Word of God, read with historical-critical scholarship.",
+        "Full communion with the Episcopal Church, several Reformed churches, the Moravians and the United Methodist Church."
+      ],
+      "focuses": [
+        "Ecumenism: signed the 1999 Joint Declaration with Catholics through the LWF.",
+        "Social ministry through Lutheran Services in America and Lutheran Disaster Response.",
+        "Inclusion: ordaining women (in predecessor bodies since 1970) and, since 2009, partnered gay and lesbian clergy.",
+        "Racial justice and outreach in a largely white, Midwestern church."
+      ],
+      "practices": [
+        "Liturgical worship from Evangelical Lutheran Worship (2006); weekly communion is widespread.",
+        "Infant baptism and open communion for all baptised.",
+        "Bishops in the historic episcopate since Called to Common Mission (2001).",
+        "Synods (65) under an elected presiding bishop and a Churchwide Assembly."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "lutheran",
+          "name": "Lutheran tradition",
+          "text": "Inherits German and Scandinavian immigrant Lutheranism."
+        },
+        {
+          "name": "1988 merger",
+          "text": "Formed from the American Lutheran Church, the Lutheran Church in America and the AELC."
+        },
+        {
+          "name": "Ecumenical movement",
+          "text": "Shaped by Lutheran–Catholic and Lutheran–Episcopal dialogues."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "North American Lutheran Church",
+          "text": "Formed in 2010 by congregations leaving after the 2009 sexuality decisions."
+        },
+        {
+          "name": "Lutheran Congregations in Mission for Christ",
+          "text": "Another network of departing congregations (2001)."
+        },
+        {
+          "traditionId": "episcopal-church-usa",
+          "name": "Episcopal Church",
+          "text": "Partner in full communion through Called to Common Mission."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Herbert Chilstrom",
+          "role": "First presiding bishop (1987–1995)"
+        },
+        {
+          "name": "Mark Hanson",
+          "role": "Presiding bishop 2001–2013 and LWF president"
+        },
+        {
+          "name": "Elizabeth Eaton",
+          "role": "Presiding bishop from 2013, the first woman in the office"
+        }
+      ],
+      "axes": {
+        "liturgy": 4,
+        "sacramental": 4,
+        "authority": "scripture-alone",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "real-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "granquist-lutherans-america",
+        "noll-christianity-us",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "mekane-yesus",
+      "tagline": "Ethiopia's fast-growing evangelical Lutheran church, the world's largest LWF member.",
+      "coreDoctrines": [
+        "Evangelical Lutheran teaching: the Augsburg Confession and Luther's Small Catechism.",
+        "Salvation by grace through faith; Scripture as the only rule of faith.",
+        "Holistic or 'integral' ministry: serving the whole person, body and soul.",
+        "Open to the charismatic gifts, which revival made central to its worship."
+      ],
+      "focuses": [
+        "Evangelism and church planting, especially in southern and western Ethiopia.",
+        "Development work: schools, clinics and water projects through its Development and Social Services Commission.",
+        "Ministry among Oromo and other southern peoples in their own languages.",
+        "Upholding conservative sexual ethics; it ended ties with the ELCA and Church of Sweden in 2013."
+      ],
+      "practices": [
+        "Lively worship with Amharic, Oromo and local-language songs, prayer for healing and deliverance.",
+        "Infant baptism alongside an expectation of personal faith.",
+        "Strong lay evangelists and youth choirs.",
+        "Synods led by presidents under a national church president; women ordained since 2000."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "church-of-sweden",
+          "name": "Swedish and Norwegian missions",
+          "text": "Evangeliska Fosterlands-Stiftelsen and Norwegian Lutheran Mission were key founders."
+        },
+        {
+          "name": "German Hermannsburg Mission",
+          "text": "Worked among the Oromo in western Ethiopia."
+        },
+        {
+          "name": "Onesimos Nesib",
+          "text": "Oromo scholar whose Oromo Bible (1899) opened the gospel to his people."
+        },
+        {
+          "traditionId": "charismatic-renewal",
+          "name": "Charismatic revival",
+          "text": "Revival from the 1970s reshaped worship."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Ethiopian Protestantism",
+          "text": "Its growth helped make evangelicals a large minority in Ethiopia."
+        },
+        {
+          "traditionId": "lutheran",
+          "name": "Lutheran World Federation",
+          "text": "Gudina Tumsa's 1972 letter on evangelism and development influenced LWF thinking."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Onesimos Nesib (c. 1850–1931)",
+          "role": "Bible translator and evangelist"
+        },
+        {
+          "name": "Gudina Tumsa (1929–1979)",
+          "role": "General secretary martyred under the Derg"
+        },
+        {
+          "name": "Emmanuel Abraham (1913–2015)",
+          "role": "Long-serving church president and statesman"
+        }
+      ],
+      "members": {
+        "estimate": 10000000,
+        "year": 2020,
+        "note": "Lutheran World Federation statistics: over 10 million members, the largest LWF member church."
+      },
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 3,
+        "authority": "scripture-alone",
+        "governance": "presbyterian",
+        "baptism": "infant",
+        "eucharist": "real-presence",
+        "gifts": "charismatic",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "eide-mekane-yesus",
+        "isichei-africa",
+        "lwf-statistics"
+      ]
+    },
+    {
+      "id": "hkbp",
+      "tagline": "The great Batak church of North Sumatra, born of the Rhenish Mission.",
+      "coreDoctrines": [
+        "Lutheran-based teaching; its 1951 Confession was the first confession written by an Asian church.",
+        "Salvation by grace through faith in Christ; Scripture as the Word of God.",
+        "The church's relationship to Batak custom (adat) is defined in its confession and church order.",
+        "Infant baptism and the real presence of Christ in Holy Communion."
+      ],
+      "focuses": [
+        "Ministry among the Toba Batak in North Sumatra and in Indonesian cities.",
+        "Education, health care and the Nommensen University (founded 1954).",
+        "Choral music and congregational singing.",
+        "Engaging Indonesian national life as a large Christian minority."
+      ],
+      "practices": [
+        "Worship according to the HKBP Agenda in Batak and Indonesian.",
+        "Strong choirs and brass bands in congregational life.",
+        "Hierarchical order: an ephorus with district praeses and pastors.",
+        "Women ordained as pastors since the 1980s."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "evangelical-church-in-germany",
+          "name": "Rhenish Mission",
+          "text": "German Lutheran-Reformed mission that began work among the Batak in 1861."
+        },
+        {
+          "name": "Ludwig Ingwer Nommensen",
+          "text": "Missionary from 1862 known as the 'apostle of the Batak'."
+        },
+        {
+          "traditionId": "lutheran",
+          "name": "Lutheran tradition",
+          "text": "Joined the Lutheran World Federation in 1952."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Batak church family",
+          "text": "Daughter churches such as GKPI, HKI and the Simalungun church (GKPS)."
+        },
+        {
+          "name": "Indonesian Christianity",
+          "text": "One of the largest Protestant churches in South-East Asia."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Ludwig Ingwer Nommensen (1834–1918)",
+          "role": "Missionary founder and first ephorus"
+        },
+        {
+          "name": "Samuel Munson and Henry Lyman",
+          "role": "American missionaries killed in Batak lands in 1834"
+        },
+        {
+          "name": "Justin Sihombing",
+          "role": "Long-serving Batak ephorus after the church became independent"
+        }
+      ],
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 3,
+        "authority": "scripture-alone",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "real-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "aritonang-steenbrink-indonesia",
+        "neill-missions",
+        "lwf-statistics"
+      ]
+    },
+    {
+      "id": "laestadian",
+      "tagline": "Northern revival stressing repentance, absolution and the fellowship of believers.",
+      "coreDoctrines": [
+        "Living faith comes through the preached word and absolution spoken by a believer 'in Jesus' name and blood'.",
+        "Strong call to repentance, sparked by Laestadius's preaching against drunkenness.",
+        "Lutheran teaching on justification, with emphasis on the church as the communion of believers.",
+        "Conservative branches teach that true faith is found within their own fellowship.",
+        "Many conservative Laestadians reject contraception, seeing children as God's gift."
+      ],
+      "focuses": [
+        "Personal repentance and the assurance of forgiveness.",
+        "Close-knit family and congregational life.",
+        "Separation from worldly practices; some branches avoid television and alcohol.",
+        "Preaching by lay men, especially at large summer meetings."
+      ],
+      "practices": [
+        "Mutual confession and absolution among believers.",
+        "Services in prayer houses with lay sermons, alongside the Lutheran parish sacraments.",
+        "Large annual summer services (e.g. Suviseurat in Finland) drawing tens of thousands.",
+        "In early revival, ecstatic 'movements' (liikutukset) of joy during preaching."
+      ],
+      "influencedBy": [
+        {
+          "name": "Lars Levi Laestadius",
+          "text": "Swedish pastor and botanist whose preaching from 1844 began the revival."
+        },
+        {
+          "name": "Milla Clementsdotter",
+          "text": "Sámi woman whose testimony led to Laestadius's own conversion (1844)."
+        },
+        {
+          "traditionId": "lutheran",
+          "name": "Lutheran state churches",
+          "text": "Most Laestadians remain within the Lutheran churches of Finland, Sweden and Norway."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Laestadian Lutheran Church (USA)",
+          "text": "Conservative branch among Finnish-American immigrants."
+        },
+        {
+          "name": "Apostolic Lutheran churches",
+          "text": "Several North American denominations stem from the revival."
+        },
+        {
+          "name": "Sámi Christianity",
+          "text": "The revival profoundly shaped Sámi religious life."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Lars Levi Laestadius (1800–1861)",
+          "role": "Founder of the revival"
+        },
+        {
+          "name": "Juhani Raattamaa (1811–1899)",
+          "role": "Lay preacher and successor"
+        },
+        {
+          "name": "Milla Clementsdotter",
+          "role": "Sámi witness at the revival's origin"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 3,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "infant",
+        "eucharist": "real-presence",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "fahlbusch-encyclopedia-christianity",
+        "melton-encyclopedia",
+        "odcc"
+      ]
+    },
+    {
+      "id": "reformed",
+      "tagline": "Churches of Zwingli and Calvin: God's sovereignty, covenant and Scripture-shaped worship.",
+      "coreDoctrines": [
+        "The sovereignty and glory of God, including unconditional election (Canons of Dort, 1619).",
+        "Scripture alone as the supreme authority, summarised in confessions such as the Heidelberg Catechism (1563).",
+        "Covenant theology linking the Old and New Testaments and infant baptism.",
+        "Christ spiritually present to believers in the Lord's Supper by the Holy Spirit.",
+        "Church governed by elders and ministers in councils (consistories, presbyteries, synods)."
+      ],
+      "focuses": [
+        "Preaching and the reform of worship by the 'regulative principle'.",
+        "Education: academies, universities and catechising.",
+        "Transforming society and culture under God's law.",
+        "Church discipline and the life of the congregation."
+      ],
+      "practices": [
+        "Simple worship focused on the sermon, with metrical psalms (e.g. the Genevan Psalter).",
+        "Infant baptism and the Lord's Supper celebrated with preparation and fencing of the table.",
+        "Elders and deacons ordained alongside ministers.",
+        "Removal of images, altars and many feast days."
+      ],
+      "influencedBy": [
+        {
+          "name": "Huldrych Zwingli",
+          "text": "Began the Swiss Reformation in Zürich (1519)."
+        },
+        {
+          "name": "John Calvin",
+          "text": "His Institutes and Geneva church order became the model."
+        },
+        {
+          "name": "Augustine of Hippo",
+          "text": "His doctrine of grace and predestination."
+        },
+        {
+          "traditionId": "lutheran",
+          "name": "Lutheranism",
+          "text": "Shared justification by faith."
+        }
+      ],
+      "influenced": [
+        {
+          "traditionId": "presbyterian",
+          "name": "Presbyterianism",
+          "text": "The British and American form of Reformed church."
+        },
+        {
+          "traditionId": "congregationalist",
+          "name": "Congregationalism",
+          "text": "Puritan Reformed churches with congregational polity."
+        },
+        {
+          "traditionId": "particular-baptists",
+          "name": "Particular Baptists",
+          "text": "Adopted Reformed theology while practising believer's baptism."
+        },
+        {
+          "traditionId": "evangelical",
+          "name": "Evangelicalism",
+          "text": "Reformed theology shaped the Great Awakening."
+        },
+        {
+          "traditionId": "church-of-south-india",
+          "name": "United churches",
+          "text": "Reformed bodies joined unions such as the Church of South India."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Huldrych Zwingli",
+          "personId": "huldrych-zwingli",
+          "role": "Zürich reformer"
+        },
+        {
+          "name": "John Calvin",
+          "personId": "john-calvin",
+          "role": "Genevan reformer"
+        },
+        {
+          "name": "Heinrich Bullinger",
+          "personId": "heinrich-bullinger",
+          "role": "Author of the Second Helvetic Confession"
+        },
+        {
+          "name": "Theodore Beza",
+          "personId": "theodore-beza",
+          "role": "Calvin's successor"
+        },
+        {
+          "name": "Karl Barth",
+          "personId": "karl-barth",
+          "role": "20th-century Reformed theologian"
+        }
+      ],
+      "members": {
+        "estimate": 100000000,
+        "year": 2023,
+        "note": "World Communion of Reformed Churches: about 100 million Christians in its member churches (which include Congregational, United and Waldensian bodies)."
+      },
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 3,
+        "authority": "scripture-alone",
+        "governance": "presbyterian",
+        "baptism": "infant",
+        "eucharist": "spiritual-presence",
+        "gifts": "cessationist",
+        "women": "varies",
+        "trinity": "nicene"
+      },
+      "inIndia": "Reformed missions include the American Arcot Mission (Scudder family, Vellore) and the Welsh Calvinistic Methodists in the north-east (from 1841); much of this heritage is now in the Church of South India, the Church of North India and the Presbyterian Church of India.",
+      "sources": [
+        "benedict-reformed",
+        "muller-calvin-after",
+        "wcrc-statistics",
+        "schaff-creeds"
+      ]
+    },
+    {
+      "id": "presbyterian",
+      "tagline": "Reformed churches ruled by elders, shaped by Scotland and the Westminster Standards.",
+      "coreDoctrines": [
+        "The Westminster Confession of Faith (1646) and Larger and Shorter Catechisms as subordinate standards.",
+        "God's sovereign grace in election and salvation.",
+        "Scripture as the only infallible rule of faith and practice.",
+        "Christ the only head of the Church, ruling through elders in graded courts.",
+        "Infant baptism as a sign of the covenant; spiritual presence in the Lord's Supper."
+      ],
+      "focuses": [
+        "Ordered, representative church government.",
+        "Educated ministry and theological seminaries (Princeton, 1812).",
+        "Overseas missions, especially in Korea, Ghana, Brazil and north-east India.",
+        "Public morality and civic responsibility."
+      ],
+      "practices": [
+        "Sermon-centred worship, historically with psalm singing.",
+        "Kirk session, presbytery, synod and general assembly.",
+        "Communion seasons, historically with tokens and preparatory services.",
+        "Ordination of ruling elders as well as teaching elders (ministers)."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "reformed",
+          "name": "Reformed tradition",
+          "text": "Applied Calvin's theology and church order in Britain."
+        },
+        {
+          "name": "John Knox",
+          "text": "Led the Scottish Reformation (1560)."
+        },
+        {
+          "name": "Westminster Assembly (1643–1653)",
+          "text": "Produced the confessional standards used worldwide."
+        }
+      ],
+      "influenced": [
+        {
+          "traditionId": "church-of-scotland",
+          "name": "Church of Scotland",
+          "text": "The national Presbyterian church."
+        },
+        {
+          "traditionId": "presbyterian-church-usa",
+          "name": "Presbyterian Church (U.S.A.)",
+          "text": "Mainline American Presbyterianism."
+        },
+        {
+          "traditionId": "presbyterian-church-in-america",
+          "name": "Presbyterian Church in America",
+          "text": "Conservative American Presbyterianism."
+        },
+        {
+          "traditionId": "presbyterian-church-of-korea",
+          "name": "Presbyterian churches in Korea",
+          "text": "Korea has some of the world's largest Presbyterian churches."
+        },
+        {
+          "traditionId": "stone-campbell-restoration",
+          "name": "Stone–Campbell Movement",
+          "text": "Grew out of Presbyterian frontier revivals."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "John Knox",
+          "role": "Scottish reformer"
+        },
+        {
+          "name": "Andrew Melville",
+          "role": "Advocate of presbyterian polity"
+        },
+        {
+          "name": "Samuel Rutherford",
+          "role": "Westminster commissioner and author of Lex, Rex"
+        },
+        {
+          "name": "Charles Hodge",
+          "personId": "charles-hodge",
+          "role": "Princeton theologian"
+        },
+        {
+          "name": "B. B. Warfield",
+          "personId": "benjamin-b-warfield",
+          "role": "Princeton theologian"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 3,
+        "authority": "scripture-alone",
+        "governance": "presbyterian",
+        "baptism": "infant",
+        "eucharist": "spiritual-presence",
+        "gifts": "cessationist",
+        "women": "varies",
+        "trinity": "nicene"
+      },
+      "inIndia": "The Presbyterian Church of India, rooted in the Welsh mission begun at Sohra (Cherrapunji) in 1841, is a major church in Meghalaya and Mizoram; Scottish Presbyterian missions also shaped Indian education.",
+      "sources": [
+        "benedict-reformed",
+        "longfield-presbyterians",
+        "schaff-creeds",
+        "i3-downs-northeast"
+      ]
+    },
+    {
+      "id": "congregationalist",
+      "tagline": "Reformed churches in which each covenanted congregation governs itself under Christ.",
+      "coreDoctrines": [
+        "Each local church, gathered by covenant, is a complete church under Christ's headship.",
+        "Reformed theology, set out in the Savoy Declaration (1658) and Cambridge Platform (1648).",
+        "Scripture as the rule of faith and church order.",
+        "Infant baptism and the Lord's Supper as signs of the covenant.",
+        "Later liberal Congregationalism stressed freedom of conscience over confessions."
+      ],
+      "focuses": [
+        "Liberty of the local church and the conscience.",
+        "Education: Harvard (1636) and Yale (1701) were Congregational foundations.",
+        "Overseas mission through the London Missionary Society (1795) and the American Board (1810).",
+        "Social reform, including abolitionism."
+      ],
+      "practices": [
+        "Church meetings in which members choose ministers and decide church business.",
+        "Plain meeting houses and sermon-centred worship.",
+        "Voluntary associations or unions rather than binding courts.",
+        "Early ordination of women: Antoinette Brown (USA, 1853) and Constance Coltman (England, 1917)."
+      ],
+      "influencedBy": [
+        {
+          "name": "Puritanism",
+          "text": "Separatist and non-separatist Puritans such as Robert Browne and John Robinson."
+        },
+        {
+          "traditionId": "reformed",
+          "name": "Reformed tradition",
+          "text": "Shared Calvinist theology."
+        },
+        {
+          "name": "Pilgrim Fathers",
+          "text": "The Plymouth settlers of 1620 were Separatist Congregationalists."
+        }
+      ],
+      "influenced": [
+        {
+          "traditionId": "baptist",
+          "name": "Baptists",
+          "text": "Early English Baptists emerged from Separatist congregations."
+        },
+        {
+          "traditionId": "unitarian",
+          "name": "Unitarianism",
+          "text": "Many New England Congregational churches became Unitarian."
+        },
+        {
+          "traditionId": "united-church-of-christ",
+          "name": "United Church of Christ",
+          "text": "Congregational Christian Churches merged into it in 1957."
+        },
+        {
+          "traditionId": "church-of-south-india",
+          "name": "Church of South India",
+          "text": "LMS congregations joined the 1947 union."
+        },
+        {
+          "traditionId": "evangelical",
+          "name": "Evangelicalism",
+          "text": "Jonathan Edwards led the Great Awakening from a Congregational pulpit."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Robert Browne",
+          "role": "Early Separatist writer (1582)"
+        },
+        {
+          "name": "John Owen",
+          "personId": "john-owen",
+          "role": "Theologian of the Savoy Declaration"
+        },
+        {
+          "name": "Jonathan Edwards",
+          "personId": "jonathan-edwards",
+          "role": "Revivalist theologian"
+        },
+        {
+          "name": "Isaac Watts",
+          "personId": "isaac-watts",
+          "role": "Hymn writer"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 3,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "infant",
+        "eucharist": "spiritual-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "The London Missionary Society, a Congregational body, built large churches in South Travancore (Kanyakumari) from Ringeltaube's arrival in 1806 and in Andhra; these joined the Church of South India in 1947.",
+      "sources": [
+        "coffey-lim-puritanism",
+        "schaff-creeds",
+        "i2-kooiman-conversion",
+        "odcc"
+      ]
+    },
+    {
+      "id": "church-of-scotland",
+      "tagline": "The Kirk: Scotland's national Presbyterian church since the Reformation of 1560.",
+      "coreDoctrines": [
+        "The Westminster Confession is its principal subordinate standard, with liberty of opinion on points not essential.",
+        "The Articles Declaratory (1921) affirm its spiritual independence from the state.",
+        "Christ alone is King and Head of the Church.",
+        "Reformed teaching on grace, Scripture and the sacraments."
+      ],
+      "focuses": [
+        "Parish ministry to every community in Scotland.",
+        "Social care through CrossReach and community work.",
+        "Public life: the annual General Assembly debates national questions.",
+        "Ecumenism and the Iona Community's work for peace and justice."
+      ],
+      "practices": [
+        "Sermon-centred worship with psalms and hymns (Church Hymnary).",
+        "Kirk sessions, presbyteries and a General Assembly with an annual Moderator.",
+        "Communion celebrated a few times a year in many parishes, more often in others.",
+        "Women ordained as elders (1966) and ministers (1968).",
+        "Permitting ministers to conduct same-sex marriages since 2022."
+      ],
+      "influencedBy": [
+        {
+          "name": "John Knox",
+          "text": "Led the Reformation Parliament of 1560 and the Scots Confession."
+        },
+        {
+          "name": "Andrew Melville",
+          "text": "Second Book of Discipline (1578) established presbyterian polity."
+        },
+        {
+          "traditionId": "reformed",
+          "name": "Reformed tradition",
+          "text": "Calvin's Geneva as model."
+        },
+        {
+          "name": "National Covenant (1638)",
+          "text": "Resistance to royal control of the church."
+        }
+      ],
+      "influenced": [
+        {
+          "traditionId": "presbyterian",
+          "name": "Presbyterian churches worldwide",
+          "text": "Scottish missions and emigration spread Presbyterianism."
+        },
+        {
+          "name": "Free Church of Scotland",
+          "text": "Formed at the Disruption of 1843 under Thomas Chalmers."
+        },
+        {
+          "traditionId": "church-of-north-india",
+          "name": "Church of North India",
+          "text": "Scottish mission churches joined the 1970 union."
+        },
+        {
+          "name": "Scottish theology",
+          "text": "Shaped thinkers such as John McLeod Campbell and T. F. Torrance."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "John Knox",
+          "role": "Reformer"
+        },
+        {
+          "name": "Andrew Melville",
+          "role": "Presbyterian leader"
+        },
+        {
+          "name": "Thomas Chalmers",
+          "personId": "thomas-chalmers",
+          "role": "Led the Disruption of 1843"
+        },
+        {
+          "name": "George MacLeod",
+          "role": "Founder of the Iona Community (1938)"
+        },
+        {
+          "name": "Thomas F. Torrance",
+          "personId": "thomas-f-torrance",
+          "role": "Theologian and Moderator (1976)"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 3,
+        "authority": "scripture-alone",
+        "governance": "presbyterian",
+        "baptism": "infant",
+        "eucharist": "spiritual-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "Its missions founded leading colleges: Alexander Duff's school in Calcutta (1830, now Scottish Church College), John Wilson's in Bombay and the Madras Christian College; Scottish missions in the Eastern Himalayas included Kalimpong.",
+      "sources": [
+        "benedict-reformed",
+        "brown-fry-disruption",
+        "torrance-scottish",
+        "odcc"
+      ]
+    },
+    {
+      "id": "dutch-reformed-pkn",
+      "tagline": "The Netherlands' historic Reformed church and its 2004 Protestant union.",
+      "coreDoctrines": [
+        "The Three Forms of Unity: Belgic Confession (1561), Heidelberg Catechism and Canons of Dort (1619).",
+        "The PKN also recognises the Augsburg Confession, Luther's Catechism and the Barmen Declaration.",
+        "Reformed teaching on grace and the sovereignty of God.",
+        "A wide spectrum from orthodox Reformed to liberal Protestant within one church."
+      ],
+      "focuses": [
+        "Ministry in a highly secular society with rapidly declining membership.",
+        "Church–Israel relations, written into the PKN church order.",
+        "Diaconal and social work in local communities.",
+        "Managing diversity between the 'Bible belt' and liberal congregations."
+      ],
+      "practices": [
+        "Sermon-centred worship with the Genevan psalms and the Liedboek (2013).",
+        "Infant baptism and Holy Supper, sometimes with the congregation seated at tables.",
+        "Presbyterial-synodal government by church councils, classes and a general synod.",
+        "Women ministers since 1958 (NHK) and 1969 (GKN)."
+      ],
+      "influencedBy": [
+        {
+          "traditionId": "reformed",
+          "name": "Reformed tradition",
+          "text": "Calvinist reformation during the Dutch Revolt."
+        },
+        {
+          "name": "Synod of Dort (1618–19)",
+          "text": "Defined orthodoxy against the Remonstrants and commissioned the Statenvertaling Bible (1637)."
+        },
+        {
+          "name": "Abraham Kuyper",
+          "text": "Led the 1886 Doleantie secession and shaped Neo-Calvinism."
+        }
+      ],
+      "influenced": [
+        {
+          "traditionId": "christian-reformed-church",
+          "name": "Christian Reformed Church",
+          "text": "Founded in 1857 by Dutch Seceder immigrants in Michigan."
+        },
+        {
+          "name": "Reformed churches in South Africa and Indonesia",
+          "text": "Planted through the Dutch East India Company and missions."
+        },
+        {
+          "traditionId": "evangelical",
+          "name": "Neo-Calvinism",
+          "text": "Kuyper and Bavinck influenced evangelical thought worldwide."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Jacobus Arminius",
+          "personId": "jacobus-arminius",
+          "role": "Leiden professor whose views Dort rejected"
+        },
+        {
+          "name": "Abraham Kuyper",
+          "role": "Theologian and prime minister (1901–1905)"
+        },
+        {
+          "name": "Herman Bavinck",
+          "role": "Author of Reformed Dogmatics"
+        },
+        {
+          "name": "Hendrik Kraemer",
+          "personId": "hendrik-kraemer",
+          "role": "Missiologist"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 3,
+        "authority": "scripture-alone",
+        "governance": "presbyterian",
+        "baptism": "infant",
+        "eucharist": "spiritual-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "Dutch East India Company chaplains served Reformed congregations at Pulicat, Nagapattinam and Cochin in the 17th and 18th centuries; the minister Philippus Baldaeus described Malabar and Coromandel in 1672.",
+      "sources": [
+        "benedict-reformed",
+        "bratt-dutch-calvinism",
+        "w3-israel-dutch-republic",
+        "odcc"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "d3-sc-varghese-2017",
+      "title": "K. S. Varghese v. St. Peter's and St. Paul's Syrian Orthodox Church (Supreme Court of India judgment, 3 July 2017)",
+      "author": "Supreme Court of India",
+      "year": 2017,
+      "kind": "primary"
+    }
+  ]
+}

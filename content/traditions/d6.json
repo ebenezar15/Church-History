@@ -1,0 +1,2021 @@
+{
+  "denomProfiles": [
+    {
+      "id": "church-of-god-anderson",
+      "tagline": "Holiness \"reformation movement\" seeking the visible unity of all believers without denominational walls.",
+      "coreDoctrines": [
+        "Entire sanctification as a second work of grace, in the Wesleyan-Holiness tradition.",
+        "The church is the whole body of the saved; God alone \"sets members\" in it, so there is no formal membership roll.",
+        "Opposition to sectarianism and creeds as divisive human additions to Scripture.",
+        "Divine healing as part of Christ's provision, without rejecting medicine.",
+        "Amillennial, non-dispensational reading of the last things."
+      ],
+      "focuses": [
+        "Christian unity across denominational lines.",
+        "Holy living and personal holiness.",
+        "Evangelism and publishing through the Gospel Trumpet (later Warner Press).",
+        "Higher education, notably Anderson University (1917)."
+      ],
+      "practices": [
+        "Three ordinances: believer's baptism by immersion, the Lord's Supper and foot-washing.",
+        "Open fellowship rather than formal church membership.",
+        "Camp meetings, historically centred on Anderson, Indiana.",
+        "Women preachers from the movement's earliest decades."
+      ],
+      "influencedBy": [
+        {
+          "name": "Holiness Movement",
+          "text": "Warner embraced entire sanctification in 1877 and drew the movement from Holiness circles.",
+          "traditionId": "holiness-movement"
+        },
+        {
+          "name": "Methodism",
+          "text": "Wesley's teaching on Christian perfection underlies its doctrine of holiness.",
+          "traditionId": "methodist"
+        },
+        {
+          "name": "Churches of God, General Conference (Winebrenner)",
+          "text": "Warner was first a minister in John Winebrenner's restorationist Churches of God."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Christian Brotherhood Hour",
+          "text": "The movement's radio ministry (from 1947) carried its unity message widely."
+        },
+        {
+          "name": "Wesleyan-Holiness ecumenism",
+          "text": "It became a partner in the Wesleyan Holiness Connection and in wider unity dialogues."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Daniel Sidney Warner",
+          "role": "Founder; editor of the Gospel Trumpet from 1881."
+        },
+        {
+          "name": "F. G. Smith",
+          "role": "Early theologian of the movement's church-historical prophecy scheme."
+        },
+        {
+          "name": "Charles E. Brown",
+          "role": "Editor and historian who reshaped its self-understanding in the twentieth century."
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "Work in India began in the 1890s through contacts in Calcutta; the Church of God (Anderson) today has congregations notably in Kerala and in Meghalaya, among the Khasi.",
+      "sources": [
+        "melton-encyclopedia",
+        "synan-holiness-pentecostal",
+        "dieter-holiness-revival"
+      ]
+    },
+    {
+      "id": "korean-methodist-church",
+      "tagline": "Autonomous Korean Methodism, born of two American missions and united in 1930.",
+      "coreDoctrines": [
+        "Wesleyan Arminian teaching: prevenient grace, justification by faith and the call to holiness.",
+        "Assurance of salvation through the witness of the Spirit.",
+        "The 1930 Korean Methodist Doctrinal Statement (Korean Creed), a short confession framed at union.",
+        "Two sacraments, baptism and the Lord's Supper."
+      ],
+      "focuses": [
+        "Evangelism and church planting in Korea and overseas.",
+        "Education, through schools such as Pai Chai and Ewha founded by early missionaries.",
+        "Prayer, including the early-morning prayer meetings typical of Korean Protestantism.",
+        "Social and national concerns, including Methodist involvement in the 1919 independence movement."
+      ],
+      "practices": [
+        "Episcopal Methodist polity with bishops elected for fixed terms and an annual conference system.",
+        "Infant and adult baptism.",
+        "Dawn prayer services and revival meetings.",
+        "Ordination of women, practised since the 1950s."
+      ],
+      "influencedBy": [
+        {
+          "name": "Methodist Episcopal Church (North)",
+          "text": "Henry Appenzeller and the Scrantons began its mission in 1885.",
+          "traditionId": "methodist"
+        },
+        {
+          "name": "Methodist Episcopal Church, South",
+          "text": "The Southern mission (from 1896) joined the 1930 union."
+        },
+        {
+          "name": "Great Revival of 1907",
+          "text": "The Pyongyang revival shaped Korean Protestant piety across denominations."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Korean diaspora Methodism",
+          "text": "Korean Methodist congregations and missionaries now serve in many countries."
+        },
+        {
+          "name": "Korean Protestant growth",
+          "text": "Methodism was one of the two leading Protestant streams, with Presbyterianism, in Korea's twentieth-century church growth."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Henry G. Appenzeller",
+          "role": "Pioneer American Methodist missionary (1885), founder of Pai Chai school."
+        },
+        {
+          "name": "Mary F. Scranton",
+          "role": "Founded Ewha school for girls (1886)."
+        },
+        {
+          "name": "Yang Ju-sam",
+          "role": "First general superintendent of the united church (1930)."
+        }
+      ],
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "connexional",
+        "baptism": "infant",
+        "eucharist": "spiritual-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "kim-korea",
+        "m6-moon-korean-missions",
+        "wmc-statistics"
+      ]
+    },
+    {
+      "id": "evangelical",
+      "tagline": "Trans-denominational Protestant movement of conversion, the Bible, the cross and activism.",
+      "coreDoctrines": [
+        "Conversionism: the need for personal faith and new birth.",
+        "Biblicism: the Bible as the supreme, trustworthy authority.",
+        "Crucicentrism: the atoning death of Christ at the centre of the gospel.",
+        "Activism: the gospel expressed in mission and service (Bebbington's four marks).",
+        "Salvation by grace through faith, in continuity with the Reformation."
+      ],
+      "focuses": [
+        "Evangelism and world mission.",
+        "Personal devotion: Bible reading and prayer.",
+        "Revival and renewal of churches.",
+        "Social reform, from abolition to relief and development work."
+      ],
+      "practices": [
+        "Preaching-centred worship, increasingly with contemporary music.",
+        "Parachurch agencies, mission societies and student movements.",
+        "Mass evangelism and revival campaigns.",
+        "Cooperation through bodies such as the World Evangelical Alliance and the Lausanne Movement."
+      ],
+      "influencedBy": [
+        {
+          "name": "Reformed tradition",
+          "text": "Puritan and Reformed piety shaped Edwards and Whitefield.",
+          "traditionId": "reformed"
+        },
+        {
+          "name": "Methodism",
+          "text": "The Wesleyan revival was a founding stream.",
+          "traditionId": "methodist"
+        },
+        {
+          "name": "Pietism",
+          "text": "German Pietism and the Moravians fed the eighteenth-century awakenings.",
+          "traditionId": "hussite-moravian"
+        },
+        {
+          "name": "Baptists",
+          "text": "Baptists became one of its largest constituencies.",
+          "traditionId": "baptist"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Pentecostalism",
+          "text": "Pentecostalism emerged from evangelical Holiness circles.",
+          "traditionId": "pentecostal"
+        },
+        {
+          "name": "Lausanne Covenant (1974)",
+          "text": "Defined a global evangelical consensus on mission."
+        },
+        {
+          "name": "Christian Zionism",
+          "text": "Grew largely within evangelical dispensational circles."
+        },
+        {
+          "name": "Global South churches",
+          "text": "Evangelical missions planted many of today's fastest-growing churches."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Jonathan Edwards",
+          "role": "Theologian of the Great Awakening.",
+          "personId": "jonathan-edwards"
+        },
+        {
+          "name": "George Whitefield",
+          "role": "Transatlantic revival preacher.",
+          "personId": "george-whitefield"
+        },
+        {
+          "name": "John Wesley",
+          "role": "Leader of the Methodist revival.",
+          "personId": "john-wesley"
+        },
+        {
+          "name": "Billy Graham",
+          "role": "Mass evangelist of the twentieth century.",
+          "personId": "billy-graham"
+        },
+        {
+          "name": "John Stott",
+          "role": "Anglican leader and chief architect of the Lausanne Covenant.",
+          "personId": "john-stott"
+        }
+      ],
+      "members": {
+        "estimate": 285480000,
+        "year": 2010,
+        "note": "Pew Research Center (2011) estimate of evangelical Christians worldwide; definitions vary widely."
+      },
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "both",
+        "eucharist": "memorial",
+        "gifts": "open",
+        "women": "varies",
+        "trinity": "nicene"
+      },
+      "inIndia": "Evangelical churches and agencies are found across India, coordinated since 1951 by the Evangelical Fellowship of India; they are especially strong in the north-east and the south.",
+      "sources": [
+        "bebbington-evangelicalism",
+        "noll-turning-points",
+        "lausanne-covenant-1974",
+        "pew-2011"
+      ]
+    },
+    {
+      "id": "plymouth-brethren",
+      "tagline": "Assemblies gathering simply to break bread, without clergy, awaiting Christ's return.",
+      "coreDoctrines": [
+        "Scripture as the sole and sufficient guide for faith and church order.",
+        "The priesthood of all believers, rejecting a separate ordained clergy.",
+        "The church as a heavenly body distinct from Israel, within a dispensational scheme.",
+        "A pre-tribulation rapture of the church, popularised by J. N. Darby.",
+        "Eternal security of the believer."
+      ],
+      "focuses": [
+        "Weekly remembrance of the Lord at the breaking of bread.",
+        "Bible study and expository ministry.",
+        "Separation from worldliness and from denominational systems.",
+        "Evangelism and missions."
+      ],
+      "practices": [
+        "A Sunday morning \"breaking of bread\" with open participation by brothers as led by the Spirit.",
+        "Leadership by recognised elders rather than paid pastors.",
+        "Women typically keep silence in meetings and wear head coverings.",
+        "Gospel meetings and Bible readings."
+      ],
+      "influencedBy": [
+        {
+          "name": "Anglicanism",
+          "text": "Darby and several early leaders were Church of Ireland clergy or Anglican laymen.",
+          "traditionId": "anglican"
+        },
+        {
+          "name": "Irish evangelical renewal",
+          "text": "The first meetings in Dublin (late 1820s) grew from evangelical dissatisfaction with church formalism."
+        },
+        {
+          "name": "Prophetic conferences at Powerscourt",
+          "text": "The 1830s conferences shaped their prophetic teaching."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Dispensationalism",
+          "text": "Darby's system spread through the Scofield Reference Bible (1909)."
+        },
+        {
+          "name": "Local Churches",
+          "text": "Watchman Nee drew heavily on Brethren writers.",
+          "traditionId": "local-churches"
+        },
+        {
+          "name": "Evangelicalism",
+          "text": "Brethren writers and missionaries shaped evangelical Bible teaching and missions.",
+          "traditionId": "evangelical"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "John Nelson Darby",
+          "role": "Leading teacher and systematiser of dispensationalism.",
+          "personId": "john-nelson-darby"
+        },
+        {
+          "name": "Anthony Norris Groves",
+          "role": "Early leader and pioneer missionary to Baghdad and India."
+        },
+        {
+          "name": "Benjamin Wills Newton",
+          "role": "Leader of the Plymouth assembly."
+        },
+        {
+          "name": "George Müller",
+          "role": "Bristol leader and founder of orphanages."
+        }
+      ],
+      "axes": {
+        "liturgy": 1,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "cessationist",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "Anthony Norris Groves came to India in 1833, and Brethren assemblies grew in the Godavari delta of Andhra Pradesh and, from the late nineteenth century, in Kerala, which now has one of the largest Brethren communities in the world.",
+      "sources": [
+        "coad-brethren",
+        "odcc",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "open-brethren",
+      "tagline": "Independent Brethren assemblies, led by elders, known for missions and Bible teaching.",
+      "coreDoctrines": [
+        "The Bible as the inspired, sole authority for doctrine and church order.",
+        "Each local assembly is autonomous, under Christ and its elders.",
+        "Priesthood of all believers, without ordained clergy.",
+        "Believer's baptism by immersion.",
+        "Generally premillennial and often dispensational eschatology."
+      ],
+      "focuses": [
+        "World mission through \"faith missions\", supported via Echoes of Service (founded 1872).",
+        "Evangelism and Bible teaching.",
+        "Simple New Testament church life.",
+        "Reception of believers on the basis of personal faith rather than association."
+      ],
+      "practices": [
+        "Weekly breaking of bread with open participation by men.",
+        "Elders and deacons chosen from within, usually unpaid.",
+        "Gospel halls and, increasingly, evangelical-style churches.",
+        "Missionaries sent out commended by their home assemblies."
+      ],
+      "influencedBy": [
+        {
+          "name": "Plymouth Brethren",
+          "text": "The Open stream emerged from the 1848 division over the Bethesda chapel in Bristol.",
+          "traditionId": "plymouth-brethren"
+        },
+        {
+          "name": "George Müller's faith principle",
+          "text": "Müller's reliance on prayer for funds shaped Brethren missions."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Kerala Brethren",
+          "text": "A large indigenous Brethren movement grew in Kerala from the 1890s."
+        },
+        {
+          "name": "Evangelical scholarship",
+          "text": "F. F. Bruce, an Open Brethren layman, shaped evangelical biblical studies.",
+          "traditionId": "evangelical"
+        },
+        {
+          "name": "Faith missions",
+          "text": "The Müller-Groves model informed later faith missions such as the China Inland Mission."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "George Müller",
+          "role": "Leader at Bethesda, Bristol, and founder of orphan homes."
+        },
+        {
+          "name": "Henry Craik",
+          "role": "Co-pastor with Müller at Bethesda."
+        },
+        {
+          "name": "Anthony Norris Groves",
+          "role": "Pioneer of the Brethren mission model."
+        },
+        {
+          "name": "F. F. Bruce",
+          "role": "Biblical scholar at Manchester."
+        }
+      ],
+      "axes": {
+        "liturgy": 1,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "cessationist",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "Open Brethren assemblies are numerous in Kerala (with centres such as Kumbanad) and in Andhra Pradesh, a legacy of Groves and of Kerala evangelists from the 1890s onwards.",
+      "sources": [
+        "coad-brethren",
+        "odcc",
+        "frykenberg-india"
+      ]
+    },
+    {
+      "id": "exclusive-brethren",
+      "tagline": "Darbyite Brethren who unite assemblies in one fellowship and practise strict separation.",
+      "coreDoctrines": [
+        "The unity of the Spirit expressed in a single connexion of assemblies whose disciplinary decisions bind all.",
+        "Separation from evil (2 Timothy 2:19–22) as a principle of fellowship.",
+        "Dispensational teaching, including the rapture of the church, following Darby.",
+        "Ministry recognised through leading brothers rather than ordained clergy."
+      ],
+      "focuses": [
+        "Purity of fellowship and the Lord's Supper.",
+        "Close study of the ministry of recognised teachers.",
+        "Separation from the world, which in the Raven–Taylor line includes not eating with outsiders (from 1960).",
+        "Family and community life within the fellowship."
+      ],
+      "practices": [
+        "Weekly Lord's Supper restricted to those in fellowship.",
+        "Household baptism of believers' children in many Exclusive groups.",
+        "In the Plymouth Brethren Christian Church, no television, radio or university residence, and a single \"Universal Leader\".",
+        "Discipline by \"withdrawal\" from those judged to be in error."
+      ],
+      "influencedBy": [
+        {
+          "name": "Plymouth Brethren",
+          "text": "They descend from Darby's party in the 1848 Bethesda controversy.",
+          "traditionId": "plymouth-brethren"
+        },
+        {
+          "name": "John Nelson Darby",
+          "text": "His ecclesiology of one gathered fellowship is foundational."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Local Churches",
+          "text": "Watchman Nee was briefly in fellowship with the London (Taylor) Brethren in the 1930s.",
+          "traditionId": "local-churches"
+        },
+        {
+          "name": "Dispensationalism",
+          "text": "Darby's writings spread dispensational teaching worldwide.",
+          "traditionId": "evangelical"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "John Nelson Darby",
+          "role": "Founding teacher.",
+          "personId": "john-nelson-darby"
+        },
+        {
+          "name": "William Kelly",
+          "role": "Editor of Darby's works; led a separate group after 1881."
+        },
+        {
+          "name": "F. E. Raven",
+          "role": "Leader after the 1890 division."
+        },
+        {
+          "name": "James Taylor Jr",
+          "role": "Leader from 1959 who introduced strict separation rules."
+        },
+        {
+          "name": "Bruce Hales",
+          "role": "Leader of the Plymouth Brethren Christian Church since 2002."
+        }
+      ],
+      "axes": {
+        "liturgy": 1,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "connexional",
+        "baptism": "infant",
+        "eucharist": "memorial",
+        "gifts": "cessationist",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "coad-brethren",
+        "odcc",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "evangelical-free-church",
+      "tagline": "Scandinavian Pietist free churches: in essentials unity, in non-essentials liberty.",
+      "coreDoctrines": [
+        "The Bible as the inerrant Word of God.",
+        "Salvation by grace through faith in Christ alone.",
+        "A short Statement of Faith (1950, revised 2008) focused on gospel essentials.",
+        "The personal, premillennial return of Christ."
+      ],
+      "focuses": [
+        "Majoring on the essentials of the gospel while allowing liberty elsewhere.",
+        "Evangelism and church planting.",
+        "Theological education through Trinity Evangelical Divinity School.",
+        "Global mission through ReachGlobal."
+      ],
+      "practices": [
+        "Congregational autonomy within a national association.",
+        "Baptism and the Lord's Supper as ordinances; both believer's and infant baptism have historically been accepted.",
+        "Contemporary evangelical worship.",
+        "Credentialing of pastors, reserved for men since 2023."
+      ],
+      "influencedBy": [
+        {
+          "name": "Lutheranism",
+          "text": "Founders were Pietists who left Scandinavian Lutheran state churches.",
+          "traditionId": "lutheran"
+        },
+        {
+          "name": "Pietism",
+          "text": "Spener's Pietism and the Scandinavian revivals (Rosenius) shaped its piety."
+        },
+        {
+          "name": "Evangelicalism",
+          "text": "American evangelicalism shaped its later identity.",
+          "traditionId": "evangelical"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Trinity Evangelical Divinity School",
+          "text": "A major centre of evangelical scholarship."
+        },
+        {
+          "name": "The Evangelical Alliance Mission",
+          "text": "Fredrik Franson, a Free Church revivalist, founded TEAM in 1890."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Fredrik Franson",
+          "role": "Scandinavian-American revivalist and missionary organiser."
+        },
+        {
+          "name": "Arnold T. Olson",
+          "role": "First president of the merged EFCA (1950)."
+        },
+        {
+          "name": "Kenneth Kantzer",
+          "role": "Dean who built Trinity Evangelical Divinity School."
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "both",
+        "eucharist": "memorial",
+        "gifts": "open",
+        "women": "some-roles",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "melton-encyclopedia",
+        "noll-christianity-us"
+      ]
+    },
+    {
+      "id": "evangelical-covenant-church",
+      "tagline": "Swedish Pietist covenant church asking \"Where is it written?\" and holding freedom in Christ.",
+      "coreDoctrines": [
+        "The Bible as the only perfect rule for faith, doctrine and conduct.",
+        "The necessity of new birth and a living, personal faith.",
+        "A commitment to the whole mission of the church: evangelism and compassion.",
+        "Freedom in Christ on disputed matters such as the mode of baptism."
+      ],
+      "focuses": [
+        "Spiritual renewal in the Pietist tradition.",
+        "Church planting and multi-ethnic congregations.",
+        "Mercy, justice and global mission.",
+        "Higher education through North Park University and Seminary in Chicago."
+      ],
+      "practices": [
+        "Both infant baptism and believer's baptism, by conscience of the parents or candidate.",
+        "Baptism and the Lord's Supper honoured as sacraments.",
+        "Congregational polity within a covenanting denomination.",
+        "Ordination of women, since 1976."
+      ],
+      "influencedBy": [
+        {
+          "name": "Lutheranism",
+          "text": "Its founders were Swedish Lutheran Pietists.",
+          "traditionId": "lutheran"
+        },
+        {
+          "name": "Carl Olof Rosenius and Paul Peter Waldenström",
+          "text": "Swedish revival leaders whose Mission Friends formed the Swedish Mission Covenant (1878)."
+        },
+        {
+          "name": "Moravian Church",
+          "text": "Moravian Pietism shaped Swedish revival spirituality.",
+          "traditionId": "moravian-church"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Multi-ethnic church planting",
+          "text": "Its church-planting programmes have shaped American evangelical practice."
+        },
+        {
+          "name": "Covenant churches worldwide",
+          "text": "Partner Covenant churches exist in Africa, Asia and Latin America through the International Federation of Free Evangelical Churches."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Paul Peter Waldenström",
+          "role": "Swedish theologian of the Mission Covenant."
+        },
+        {
+          "name": "Carl August Björk",
+          "role": "First president of the American Covenant (1885)."
+        },
+        {
+          "name": "David Nyvall",
+          "role": "First president of North Park College."
+        }
+      ],
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "both",
+        "eucharist": "spiritual-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "melton-encyclopedia",
+        "noll-christianity-us"
+      ]
+    },
+    {
+      "id": "christian-and-missionary-alliance",
+      "tagline": "A. B. Simpson's missionary fellowship preaching the Fourfold Gospel.",
+      "coreDoctrines": [
+        "The Fourfold Gospel: Jesus Christ as Saviour, Sanctifier, Healer and Coming King.",
+        "Sanctification as a crisis of surrender followed by progressive growth (Keswick-influenced).",
+        "Divine healing provided in the atonement.",
+        "The premillennial return of Christ, linked to completing world evangelisation."
+      ],
+      "focuses": [
+        "Pioneer world missions among unreached peoples.",
+        "The deeper or \"victorious\" Christian life.",
+        "Prayer for the sick.",
+        "Theological training (Nyack College, founded 1882)."
+      ],
+      "practices": [
+        "Believer's baptism by immersion and the Lord's Supper as ordinances.",
+        "Anointing with oil and prayer for healing.",
+        "Openness to spiritual gifts under the principle \"seek not, forbid not\".",
+        "Annual missions conventions and giving to the Great Commission Fund."
+      ],
+      "influencedBy": [
+        {
+          "name": "Holiness Movement",
+          "text": "Its teaching on sanctification arose within Holiness circles.",
+          "traditionId": "holiness-movement"
+        },
+        {
+          "name": "Presbyterianism",
+          "text": "Simpson was a Presbyterian minister before founding the Alliance.",
+          "traditionId": "presbyterian"
+        },
+        {
+          "name": "Charles Cullis",
+          "text": "The Boston physician's healing ministry shaped Simpson's teaching on healing."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Assemblies of God",
+          "text": "Many early Assemblies of God leaders and much of its doctrinal language came from the Alliance.",
+          "traditionId": "assemblies-of-god"
+        },
+        {
+          "name": "Pentecostalism",
+          "text": "The Alliance's healing and Spirit teaching fed early Pentecostalism.",
+          "traditionId": "pentecostal"
+        },
+        {
+          "name": "A. W. Tozer's writings",
+          "text": "Tozer's devotional classics reached readers far beyond the Alliance."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "A. B. Simpson",
+          "role": "Founder (1887) and hymn writer."
+        },
+        {
+          "name": "A. W. Tozer",
+          "role": "Pastor and author of The Pursuit of God (1948)."
+        },
+        {
+          "name": "Robert A. Jaffray",
+          "role": "Pioneer of Alliance missions in China and Indonesia."
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "open",
+        "women": "some-roles",
+        "trinity": "nicene"
+      },
+      "inIndia": "Alliance missionaries began work in Berar and Khandesh (today's Maharashtra and Gujarat) in the 1890s, giving rise to the Christian and Missionary Alliance churches of western India.",
+      "sources": [
+        "melton-encyclopedia",
+        "dayton-theological-roots",
+        "synan-holiness-pentecostal"
+      ]
+    },
+    {
+      "id": "calvary-chapel",
+      "tagline": "Jesus Movement fellowship of verse-by-verse Bible teaching and relaxed worship.",
+      "coreDoctrines": [
+        "The Bible as the inerrant Word of God, taught systematically.",
+        "Salvation by grace through faith; a balance between Calvinism and Arminianism.",
+        "The gifts of the Spirit are for today, exercised decently and in order.",
+        "A pre-tribulation rapture and premillennial return of Christ."
+      ],
+      "focuses": [
+        "Expository teaching through whole books of the Bible.",
+        "Evangelism, especially of young people.",
+        "Worship music, pioneered by Maranatha! Music (1971).",
+        "Church planting and Bible colleges."
+      ],
+      "practices": [
+        "Informal services with contemporary worship.",
+        "Believer's baptism, often in the ocean.",
+        "Pastor-led governance, called the \"Moses model\", with church boards in support.",
+        "Afterglow prayer meetings for those seeking spiritual gifts."
+      ],
+      "influencedBy": [
+        {
+          "name": "Foursquare Church",
+          "text": "Chuck Smith was ordained in the Foursquare Church.",
+          "traditionId": "foursquare-church"
+        },
+        {
+          "name": "Jesus Movement",
+          "text": "The counter-culture revival brought thousands of young converts to Costa Mesa."
+        },
+        {
+          "name": "Dispensationalism",
+          "text": "Shaped its prophetic teaching.",
+          "traditionId": "plymouth-brethren"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Vineyard Movement",
+          "text": "John Wimber's churches began within Calvary Chapel before separating in 1982.",
+          "traditionId": "vineyard"
+        },
+        {
+          "name": "Contemporary Christian music",
+          "text": "Maranatha! Music helped create the praise-and-worship genre."
+        },
+        {
+          "name": "Harvest Christian Fellowship",
+          "text": "Greg Laurie's church and crusades grew from Calvary Chapel."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Chuck Smith",
+          "role": "Founding pastor of Calvary Chapel Costa Mesa (1965)."
+        },
+        {
+          "name": "Lonnie Frisbee",
+          "role": "Jesus Movement evangelist."
+        },
+        {
+          "name": "Greg Laurie",
+          "role": "Pastor and evangelist of Harvest Christian Fellowship."
+        }
+      ],
+      "axes": {
+        "liturgy": 1,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "melton-encyclopedia",
+        "noll-christianity-us",
+        "burgess-dictionary-pentecostal"
+      ]
+    },
+    {
+      "id": "grace-communion-international",
+      "tagline": "Former Worldwide Church of God, transformed into a Trinitarian evangelical church.",
+      "coreDoctrines": [
+        "The Trinity, embraced in the 1990s after its earlier denial.",
+        "Salvation by grace through faith, not by keeping Old Testament laws.",
+        "A Trinitarian, incarnational theology influenced by T. F. and J. B. Torrance.",
+        "The New Covenant fulfils the Sabbath and festivals, which are no longer required."
+      ],
+      "focuses": [
+        "Grace and the life of the Trinity.",
+        "Pastoral care through a reformed denomination.",
+        "Theological education through Grace Communion Seminary.",
+        "Reconciliation after a painful doctrinal transition."
+      ],
+      "practices": [
+        "Sunday worship (Saturday is permitted), after decades of Sabbath-only observance.",
+        "Believer's baptism and the Lord's Supper.",
+        "Ordination of women as elders, since 2007.",
+        "Membership of the National Association of Evangelicals (since 1997)."
+      ],
+      "influencedBy": [
+        {
+          "name": "Worldwide Church of God",
+          "text": "It is the same body, renamed in 2009 after doctrinal reform.",
+          "traditionId": "worldwide-church-of-god"
+        },
+        {
+          "name": "Thomas F. Torrance",
+          "text": "His Trinitarian theology shaped its later teaching."
+        },
+        {
+          "name": "Evangelicalism",
+          "text": "Leaders adopted evangelical doctrine between 1986 and 1995.",
+          "traditionId": "evangelical"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Armstrongite splinter churches",
+          "text": "Members who rejected the reforms formed United Church of God, Philadelphia Church of God and others."
+        },
+        {
+          "name": "Studies of cult renewal",
+          "text": "Its transformation is widely cited as a rare case of a whole movement moving to orthodoxy."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Herbert W. Armstrong",
+          "role": "Founder of the parent Radio/Worldwide Church of God (1934)."
+        },
+        {
+          "name": "Joseph W. Tkach",
+          "role": "Pastor general (1986–1995) who led the reforms."
+        },
+        {
+          "name": "Joseph Tkach Jr",
+          "role": "Leader who completed the transition and renaming."
+        },
+        {
+          "name": "Thomas F. Torrance",
+          "role": "Theological influence.",
+          "personId": "thomas-f-torrance"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "episcopal",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "tkach-transformed",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "messianic-judaism",
+      "tagline": "Jewish believers in Yeshua as Messiah who keep Jewish identity and practice.",
+      "coreDoctrines": [
+        "Yeshua (Jesus) is the promised Messiah of Israel and Lord.",
+        "Jewish followers of Yeshua remain Jews; their covenant identity continues.",
+        "The Hebrew Bible and the New Covenant Scriptures are inspired.",
+        "Most affirm the divinity of Messiah and the Trinity, often in Jewish idiom."
+      ],
+      "focuses": [
+        "Jewish identity, community and continuity.",
+        "Witness to the Jewish people.",
+        "Bilateral ecclesiology: Jewish and Gentile believers as distinct parts of one body (Kinzer).",
+        "Love for Israel and the Jewish people."
+      ],
+      "practices": [
+        "Shabbat services, often on Friday evening or Saturday, with Hebrew liturgy and Torah reading.",
+        "Observance of biblical festivals, especially Passover seders that point to Messiah.",
+        "Immersion (mikveh) for believers.",
+        "Kosher observance and circumcision in many congregations."
+      ],
+      "influencedBy": [
+        {
+          "name": "Hebrew Christian movement",
+          "text": "Nineteenth-century Hebrew Christian alliances (Britain, 1866) were the forerunners."
+        },
+        {
+          "name": "Joseph Rabinowitz",
+          "text": "His Kishinev congregation of \"Israelites of the New Covenant\" (1880s) was an early model."
+        },
+        {
+          "name": "Evangelicalism",
+          "text": "The 1960s–70s Jesus Movement and evangelical missions fed its growth.",
+          "traditionId": "evangelical"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Jews for Jesus",
+          "text": "Founded by Moishe Rosen (1973) as an evangelistic mission."
+        },
+        {
+          "name": "Christian theology of Israel",
+          "text": "Messianic theologians contribute to post-supersessionist Christian thought."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Joseph Rabinowitz",
+          "role": "Pioneer of a Jewish-Christian congregation in Kishinev.",
+          "personId": "joseph-rabinowitz"
+        },
+        {
+          "name": "Moishe Rosen",
+          "role": "Founder of Jews for Jesus."
+        },
+        {
+          "name": "Mark Kinzer",
+          "role": "Theologian of post-missionary Messianic Judaism."
+        },
+        {
+          "name": "David H. Stern",
+          "role": "Translator of the Complete Jewish Bible."
+        }
+      ],
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "open",
+        "women": "varies",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "cohn-sherbok-messianic",
+        "kinzer-postmissionary",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "stone-campbell-restoration",
+      "tagline": "American movement to unite Christians by restoring New Testament Christianity.",
+      "coreDoctrines": [
+        "\"Where the Scriptures speak, we speak; where the Scriptures are silent, we are silent.\"",
+        "No creed but Christ: human creeds are rejected as tests of fellowship.",
+        "Faith, repentance and believer's immersion \"for the remission of sins\".",
+        "Christian unity through a return to the primitive church."
+      ],
+      "focuses": [
+        "Christian unity.",
+        "Restoring New Testament church order.",
+        "Rational, accessible Bible teaching.",
+        "Evangelism on the American frontier."
+      ],
+      "practices": [
+        "Weekly celebration of the Lord's Supper.",
+        "Believer's baptism by immersion.",
+        "Congregational autonomy with elders and deacons.",
+        "Debates and periodicals, such as Campbell's Millennial Harbinger."
+      ],
+      "influencedBy": [
+        {
+          "name": "Presbyterianism",
+          "text": "Stone and the Campbells were Presbyterian ministers.",
+          "traditionId": "presbyterian"
+        },
+        {
+          "name": "Baptists",
+          "text": "The Campbells were associated with Baptists from 1815 to about 1830.",
+          "traditionId": "baptist"
+        },
+        {
+          "name": "Cane Ridge revival (1801)",
+          "text": "Stone's revival experience fuelled his break with Presbyterian order."
+        },
+        {
+          "name": "John Locke and Scottish Common Sense philosophy",
+          "text": "Shaped Campbell's rational approach to Scripture."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Churches of Christ",
+          "text": "The a cappella wing, separately listed from 1906.",
+          "traditionId": "churches-of-christ"
+        },
+        {
+          "name": "Christian Church (Disciples of Christ)",
+          "text": "The ecumenical, mainline wing.",
+          "traditionId": "christian-church-disciples"
+        },
+        {
+          "name": "Independent Christian Churches",
+          "text": "The instrumental, conservative wing.",
+          "traditionId": "christian-churches-churches-of-christ"
+        },
+        {
+          "name": "International Churches of Christ",
+          "text": "A twentieth-century discipling offshoot."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Barton W. Stone",
+          "role": "Leader of the \"Christians\" and of Cane Ridge.",
+          "personId": "barton-w-stone"
+        },
+        {
+          "name": "Thomas Campbell",
+          "role": "Author of the Declaration and Address (1809).",
+          "personId": "thomas-campbell"
+        },
+        {
+          "name": "Alexander Campbell",
+          "role": "Chief theologian, editor and debater.",
+          "personId": "alexander-campbell"
+        },
+        {
+          "name": "Walter Scott",
+          "role": "Evangelist of the \"five-finger exercise\" of salvation."
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "cessationist",
+        "women": "varies",
+        "trinity": "nicene"
+      },
+      "inIndia": "Disciples missionaries worked in central India from 1882 (Harda, Jabalpur, Bilaspur); those churches joined the Church of North India in 1970, while later Churches of Christ missions planted congregations in southern India.",
+      "sources": [
+        "stone-campbell-encyclopedia",
+        "hughes-restoration",
+        "conkin-cane-ridge",
+        "stone-autobiography"
+      ]
+    },
+    {
+      "id": "seventh-day-adventist",
+      "tagline": "Sabbath-keeping, health-minded church awaiting the soon return of Christ.",
+      "coreDoctrines": [
+        "The 28 Fundamental Beliefs, grounded in Scripture as the only rule of faith.",
+        "The seventh-day Sabbath (Saturday) as a perpetual sign of creation and redemption.",
+        "The imminent, visible Second Coming of Christ.",
+        "Christ's ministry in the heavenly sanctuary, including the investigative judgment begun in 1844.",
+        "Conditional immortality: the dead sleep until the resurrection.",
+        "The gift of prophecy manifested in the ministry of Ellen G. White."
+      ],
+      "focuses": [
+        "Preparing the world for Christ's return (the \"Three Angels' Messages\" of Revelation 14).",
+        "Health and wholeness: vegetarian diet, abstinence from alcohol and tobacco.",
+        "Education and medical work, with one of the largest Protestant school systems.",
+        "Humanitarian relief through ADRA."
+      ],
+      "practices": [
+        "Worship from Friday sunset to Saturday sunset.",
+        "Believer's baptism by immersion.",
+        "Quarterly communion with foot-washing (the ordinance of humility).",
+        "Health institutions such as Loma Linda University.",
+        "Tithing."
+      ],
+      "influencedBy": [
+        {
+          "name": "Millerism",
+          "text": "The movement arose from William Miller's Advent movement and the Great Disappointment of 1844."
+        },
+        {
+          "name": "Seventh Day Baptists",
+          "text": "Rachel Oakes Preston brought the Sabbath to Adventists in 1844.",
+          "traditionId": "seventh-day-baptists"
+        },
+        {
+          "name": "Baptists",
+          "text": "Many early leaders came from Baptist and Christian Connection churches.",
+          "traditionId": "baptist"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Church of God (Seventh Day)",
+          "text": "Sabbatarian Adventists who rejected Ellen White's authority formed a parallel body.",
+          "traditionId": "church-of-god-seventh-day"
+        },
+        {
+          "name": "Health reform",
+          "text": "John Harvey Kellogg's Battle Creek Sanitarium shaped modern diet and breakfast cereals."
+        },
+        {
+          "name": "Davidian Seventh-day Adventists",
+          "text": "A 1930s reform movement led by Victor Houteff."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Ellen G. White",
+          "role": "Co-founder and prophetic voice.",
+          "personId": "ellen-g-white"
+        },
+        {
+          "name": "James White",
+          "role": "Co-founder and early leader."
+        },
+        {
+          "name": "Joseph Bates",
+          "role": "Sabbath advocate among early Adventists."
+        },
+        {
+          "name": "William Miller",
+          "role": "Baptist preacher of the 1844 Advent message.",
+          "personId": "william-miller"
+        },
+        {
+          "name": "John Harvey Kellogg",
+          "role": "Physician of the health reform movement."
+        }
+      ],
+      "members": {
+        "estimate": 22400000,
+        "year": 2023,
+        "note": "Baptised members reported by the General Conference Office of Archives, Statistics and Research."
+      },
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "presbyterian",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "open",
+        "women": "varies",
+        "trinity": "nicene"
+      },
+      "inIndia": "Adventist work in India began in the 1890s; the Southern Asia Division has its headquarters in Hosur, Tamil Nadu, and runs many schools and hospitals, along with Spicer Adventist University in Pune.",
+      "sources": [
+        "sda-statistics",
+        "melton-encyclopedia",
+        "noll-christianity-us",
+        "p1-bacchiocchi-sabbath-sunday"
+      ]
+    },
+    {
+      "id": "churches-of-christ",
+      "tagline": "A cappella restorationist congregations seeking to be simply New Testament churches.",
+      "coreDoctrines": [
+        "Scripture alone, read through command, example and necessary inference.",
+        "Faith, repentance, confession and immersion for the remission of sins.",
+        "The church as the body of Christ, rather than a denomination.",
+        "Silence of Scripture as prohibitive: practices without New Testament warrant are not adopted."
+      ],
+      "focuses": [
+        "Restoring the pattern of the New Testament church.",
+        "Evangelism and Bible teaching.",
+        "Congregational autonomy.",
+        "Christian higher education (Abilene Christian, Harding, Pepperdine, Lipscomb)."
+      ],
+      "practices": [
+        "Unaccompanied (a cappella) congregational singing.",
+        "The Lord's Supper every Sunday.",
+        "Congregations led by elders (male) and served by deacons and evangelists.",
+        "No missionary societies or central headquarters; cooperation through sponsoring congregations."
+      ],
+      "influencedBy": [
+        {
+          "name": "Stone–Campbell Restoration Movement",
+          "text": "They are the conservative wing of the movement.",
+          "traditionId": "stone-campbell-restoration"
+        },
+        {
+          "name": "David Lipscomb and the Gospel Advocate",
+          "text": "Nashville-based leadership shaped Southern Churches of Christ."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "International Churches of Christ",
+          "text": "The Boston movement (1979) grew out of Churches of Christ discipling ministries."
+        },
+        {
+          "name": "Non-institutional Churches of Christ",
+          "text": "A 1950s division over congregational support of institutions."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "David Lipscomb",
+          "role": "Editor of the Gospel Advocate."
+        },
+        {
+          "name": "Tolbert Fanning",
+          "role": "Founder of the Gospel Advocate (1855)."
+        },
+        {
+          "name": "Daniel Sommer",
+          "role": "Leader of the Sand Creek Address (1889)."
+        },
+        {
+          "name": "Alexander Campbell",
+          "role": "Movement theologian.",
+          "personId": "alexander-campbell"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "cessationist",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "Churches of Christ have planted many congregations in India since the mid-twentieth century, especially in Andhra Pradesh, Telangana and Tamil Nadu, often through partnerships with American congregations.",
+      "sources": [
+        "hughes-restoration",
+        "stone-campbell-encyclopedia",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "christian-church-disciples",
+      "tagline": "Mainline restorationist church: \"a movement for wholeness in a fragmented world\".",
+      "coreDoctrines": [
+        "Jesus Christ is Lord and Saviour; no creed beyond the confession of faith in Christ.",
+        "Freedom of belief and interpretation within a shared covenant.",
+        "Christian unity as God's will for the church.",
+        "The Lord's table open to all believers."
+      ],
+      "focuses": [
+        "Ecumenism: a founding member of the World Council of Churches (1948).",
+        "Justice and anti-racism work.",
+        "Weekly communion as the centre of worship.",
+        "Partnership with the United Church of Christ (since 1989)."
+      ],
+      "practices": [
+        "Weekly open communion, often presided over by lay elders.",
+        "Believer's baptism by immersion, while recognising other baptisms.",
+        "Congregational life within regional and general \"manifestations\" set up by the 1968 Restructure.",
+        "Ordination of women, since 1888."
+      ],
+      "influencedBy": [
+        {
+          "name": "Stone–Campbell Restoration Movement",
+          "text": "The progressive, organised wing of the movement.",
+          "traditionId": "stone-campbell-restoration"
+        },
+        {
+          "name": "Liberal Protestantism",
+          "text": "The Christian Century and Chicago scholarship shaped its theology."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Church of North India",
+          "text": "Its Indian mission churches joined the 1970 union.",
+          "traditionId": "church-of-north-india"
+        },
+        {
+          "name": "United Church of Christ",
+          "text": "Full communion partner.",
+          "traditionId": "united-church-of-christ"
+        },
+        {
+          "name": "The Christian Century",
+          "text": "Founded as a Disciples paper, it became the leading mainline magazine."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Alexander Campbell",
+          "role": "Movement founder.",
+          "personId": "alexander-campbell"
+        },
+        {
+          "name": "Barton W. Stone",
+          "role": "Movement founder.",
+          "personId": "barton-w-stone"
+        },
+        {
+          "name": "Charles Clayton Morrison",
+          "role": "Editor of The Christian Century."
+        },
+        {
+          "name": "Sharon Watkins",
+          "role": "First woman to lead a mainline US denomination (2005)."
+        }
+      ],
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "Disciples missions in central India, begun in 1882, became part of the Church of North India in 1970.",
+      "sources": [
+        "stone-campbell-encyclopedia",
+        "noll-christianity-us",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "christian-churches-churches-of-christ",
+      "tagline": "Independent instrumental congregations of the Restoration Movement, evangelical and non-denominational.",
+      "coreDoctrines": [
+        "The Bible as the inspired authority; no creed but Christ.",
+        "Faith, repentance and baptism by immersion for the forgiveness of sins.",
+        "Congregational autonomy without a denominational headquarters.",
+        "Christian unity through restoring New Testament Christianity."
+      ],
+      "focuses": [
+        "Evangelism and church growth, including several large megachurches.",
+        "Bible college and seminary training.",
+        "Mission work supported directly by congregations.",
+        "Restoration ideals combined with evangelical identity."
+      ],
+      "practices": [
+        "Weekly Lord's Supper.",
+        "Instrumental music in worship, unlike the a cappella Churches of Christ.",
+        "Elders and ministers, usually men.",
+        "Fellowship through the North American Christian Convention (founded 1927)."
+      ],
+      "influencedBy": [
+        {
+          "name": "Stone–Campbell Restoration Movement",
+          "text": "The centrist wing of the movement.",
+          "traditionId": "stone-campbell-restoration"
+        },
+        {
+          "name": "Opposition to Disciples liberalism",
+          "text": "They separated over open membership, mission agencies and the 1968 Restructure.",
+          "traditionId": "christian-church-disciples"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Evangelical megachurches",
+          "text": "Congregations such as Southeast Christian Church (Louisville) became influential models."
+        },
+        {
+          "name": "Bible college movement",
+          "text": "Schools such as Cincinnati Bible Seminary trained ministers across the movement."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "P. H. Welshimer",
+          "role": "Pastor of First Christian Church, Canton, Ohio."
+        },
+        {
+          "name": "Edwin R. Errett",
+          "role": "Editor of the Christian Standard."
+        },
+        {
+          "name": "Bob Russell",
+          "role": "Founding pastor of Southeast Christian Church."
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "open",
+        "women": "some-roles",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "stone-campbell-encyclopedia",
+        "hughes-restoration",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "community-of-christ",
+      "tagline": "Former RLDS Church: a Latter Day Saint tradition now focused on peace and justice.",
+      "coreDoctrines": [
+        "God as Trinity, affirmed in its Basic Beliefs.",
+        "Continuing revelation through a prophet-president, recorded in its Doctrine and Covenants.",
+        "The Bible as the foundational scripture, with the Book of Mormon used as additional scripture.",
+        "Worth of all persons and the pursuit of peace (Zion) on earth."
+      ],
+      "focuses": [
+        "Peace, reconciliation and healing of the spirit.",
+        "Justice for the poor and marginalised.",
+        "The Temple in Independence, Missouri (dedicated 1994), devoted to peace.",
+        "Inclusive community, including LGBTQ members in many nations."
+      ],
+      "practices": [
+        "Eight sacraments: baptism (from age eight), confirmation, Lord's Supper, marriage, blessing of children, laying on of hands for the sick, ordination and evangelist blessing.",
+        "Open communion (since 1994).",
+        "Ordination of women (since 1984).",
+        "A daily Prayer for Peace at the Temple."
+      ],
+      "influencedBy": [
+        {
+          "name": "Latter-day Saint movement",
+          "text": "It continues the church of Joseph Smith through his son Joseph Smith III.",
+          "traditionId": "latter-day-saints"
+        },
+        {
+          "name": "Mainline Protestantism",
+          "text": "Late twentieth-century theological training moved it towards mainline Christian thought."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Restoration Branches",
+          "text": "Members who rejected women's ordination formed independent branches after 1984."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Joseph Smith",
+          "role": "Founding prophet of the Latter Day Saint movement.",
+          "personId": "joseph-smith"
+        },
+        {
+          "name": "Joseph Smith III",
+          "role": "Prophet-president from 1860."
+        },
+        {
+          "name": "W. Grant McMurray",
+          "role": "First president not descended from Joseph Smith (1996)."
+        },
+        {
+          "name": "Stephen M. Veazey",
+          "role": "Prophet-president (2005–2025)."
+        }
+      ],
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 3,
+        "authority": "scripture-and-new-revelation",
+        "governance": "episcopal",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "melton-encyclopedia",
+        "bushman-rough-stone",
+        "noll-christianity-us"
+      ]
+    },
+    {
+      "id": "church-of-god-seventh-day",
+      "tagline": "Sabbath-keeping Adventists who rejected Ellen White's visions.",
+      "coreDoctrines": [
+        "The seventh-day Sabbath as binding on Christians.",
+        "Scripture alone, without a modern prophet's authority.",
+        "Conditional immortality: the dead sleep until the resurrection.",
+        "The premillennial return of Christ.",
+        "A historically non-Trinitarian view of God, with Father and Son distinct and the Spirit as God's power."
+      ],
+      "focuses": [
+        "Sabbath observance.",
+        "Bible study and evangelism.",
+        "Prophetic teaching about the last days.",
+        "Publishing, such as the Bible Advocate (from 1863)."
+      ],
+      "practices": [
+        "Saturday worship.",
+        "Believer's baptism by immersion.",
+        "An annual Lord's Supper on the evening of Passover, with foot-washing.",
+        "Abstinence from unclean meats."
+      ],
+      "influencedBy": [
+        {
+          "name": "Millerism",
+          "text": "It shares the Sabbatarian Adventist origins of the 1840s–50s."
+        },
+        {
+          "name": "Seventh Day Baptists",
+          "text": "Source of Sabbatarian teaching among Adventists.",
+          "traditionId": "seventh-day-baptists"
+        },
+        {
+          "name": "Seventh-day Adventist Church",
+          "text": "The two groups separated around 1858–63 over Ellen White's authority.",
+          "traditionId": "seventh-day-adventist"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Worldwide Church of God",
+          "text": "Herbert W. Armstrong was a Church of God (Seventh Day) minister before founding his own movement.",
+          "traditionId": "worldwide-church-of-god"
+        },
+        {
+          "name": "Sacred Name movement",
+          "text": "Some offshoots adopted Hebrew names for God."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Gilbert Cranmer",
+          "role": "Early leader in Michigan (1858)."
+        },
+        {
+          "name": "A. N. Dugger",
+          "role": "Leader in the 1933 Salem division."
+        },
+        {
+          "name": "Herbert W. Armstrong",
+          "role": "Former minister who founded the Radio Church of God."
+        }
+      ],
+      "axes": {
+        "liturgy": 1,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "open",
+        "women": "varies",
+        "trinity": "non-nicene"
+      },
+      "sources": [
+        "melton-encyclopedia",
+        "noll-christianity-us",
+        "tkach-transformed"
+      ]
+    },
+    {
+      "id": "pentecostal",
+      "tagline": "Global renewal movement of Spirit baptism, tongues, healing and fervent mission.",
+      "coreDoctrines": [
+        "Baptism in the Holy Spirit as an experience after conversion.",
+        "Speaking in tongues as the initial physical evidence (in classical Pentecostalism).",
+        "The \"full gospel\": Jesus as Saviour, Baptiser in the Spirit, Healer and Coming King.",
+        "Divine healing provided in the atonement.",
+        "The imminent, premillennial return of Christ."
+      ],
+      "focuses": [
+        "Spirit-empowered evangelism and mission.",
+        "Healing and deliverance.",
+        "Personal holiness.",
+        "Lively, participatory worship."
+      ],
+      "practices": [
+        "Spontaneous worship with tongues, prophecy and prayer for the sick.",
+        "Believer's baptism by immersion.",
+        "Altar calls and tarrying for the Spirit.",
+        "Lay and women's ministry from the earliest revivals."
+      ],
+      "influencedBy": [
+        {
+          "name": "Holiness Movement",
+          "text": "Its teaching on a second blessing set the stage for Spirit baptism.",
+          "traditionId": "holiness-movement"
+        },
+        {
+          "name": "Methodism",
+          "text": "Wesleyan theology of experience and sanctification.",
+          "traditionId": "methodist"
+        },
+        {
+          "name": "Welsh Revival (1904–05)",
+          "text": "Reports of revival encouraged expectation in Los Angeles and India."
+        },
+        {
+          "name": "Charles Parham",
+          "text": "Formulated initial-evidence teaching at Topeka (1901)."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Assemblies of God",
+          "text": "The largest Pentecostal denomination.",
+          "traditionId": "assemblies-of-god"
+        },
+        {
+          "name": "Oneness Pentecostalism",
+          "text": "Emerged from the 1913 \"New Issue\".",
+          "traditionId": "oneness-pentecostal"
+        },
+        {
+          "name": "Charismatic Renewal",
+          "text": "Pentecostal spirituality entered the historic churches from 1960.",
+          "traditionId": "charismatic-renewal"
+        },
+        {
+          "name": "Neo-charismatic churches",
+          "text": "Independent and indigenous churches worldwide.",
+          "traditionId": "neo-charismatic"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Charles Parham",
+          "role": "Teacher of initial evidence.",
+          "personId": "charles-parham"
+        },
+        {
+          "name": "William J. Seymour",
+          "role": "Leader of the Azusa Street revival (1906).",
+          "personId": "william-j-seymour"
+        },
+        {
+          "name": "Agnes Ozman",
+          "role": "First to speak in tongues at Topeka (1901).",
+          "personId": "agnes-ozman"
+        },
+        {
+          "name": "Pandita Ramabai",
+          "role": "Leader of the Mukti revival in India (1905).",
+          "personId": "pandita-ramabai"
+        },
+        {
+          "name": "William Durham",
+          "role": "Teacher of the \"finished work\" doctrine.",
+          "personId": "william-durham"
+        }
+      ],
+      "members": {
+        "estimate": 279080000,
+        "year": 2010,
+        "note": "Pew Research Center (2011) estimate of Pentecostal Christians worldwide, excluding charismatics."
+      },
+      "axes": {
+        "liturgy": 1,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "pentecostal",
+        "women": "varies",
+        "trinity": "nicene"
+      },
+      "inIndia": "Pentecostal experience appeared in the 1905–07 Mukti revival; Indian churches such as the Indian Pentecostal Church of God (1924) and The Pentecostal Mission, together with the Assemblies of God, are strongest in Kerala, Tamil Nadu and Andhra Pradesh.",
+      "sources": [
+        "anderson-pentecostalism",
+        "synan-holiness-pentecostal",
+        "robeck-azusa",
+        "pew-2011",
+        "bergunder-south-indian-pentecostal"
+      ]
+    },
+    {
+      "id": "assemblies-of-god",
+      "tagline": "The largest Pentecostal fellowship, founded at Hot Springs, Arkansas, in 1914.",
+      "coreDoctrines": [
+        "The Statement of Fundamental Truths (1916), including the Trinity against Oneness teaching.",
+        "Baptism in the Holy Spirit with tongues as the initial physical evidence.",
+        "Divine healing as provided in the atonement.",
+        "Salvation by grace through faith, with progressive sanctification (\"finished work\").",
+        "The pre-tribulation rapture and premillennial reign of Christ."
+      ],
+      "focuses": [
+        "World missions and indigenous church planting (self-governing, self-supporting, self-propagating).",
+        "Evangelism and church growth.",
+        "Pentecostal experience in every believer.",
+        "Education, media and compassion ministries."
+      ],
+      "practices": [
+        "Believer's baptism by immersion and the Lord's Supper as ordinances.",
+        "Expressive worship with tongues, interpretation and prophecy.",
+        "Cooperative fellowship mixing congregational and presbyterian structures.",
+        "Ordination of women as ministers, since 1935."
+      ],
+      "influencedBy": [
+        {
+          "name": "Pentecostalism",
+          "text": "Formed to organise Pentecostal ministers after Azusa Street.",
+          "traditionId": "pentecostal"
+        },
+        {
+          "name": "Christian and Missionary Alliance",
+          "text": "Many founders and much doctrinal language came from the Alliance.",
+          "traditionId": "christian-and-missionary-alliance"
+        },
+        {
+          "name": "William Durham's \"finished work\" teaching",
+          "text": "Shaped its non-Wesleyan view of sanctification."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Yoido Full Gospel Church",
+          "text": "David Yonggi Cho's Seoul church belongs to the Korean Assemblies of God.",
+          "traditionId": "yoido-full-gospel-church"
+        },
+        {
+          "name": "Assembleias de Deus (Brazil)",
+          "text": "Affiliated with the World Assemblies of God Fellowship.",
+          "traditionId": "assembleias-de-deus-brazil"
+        },
+        {
+          "name": "Global Pentecostalism",
+          "text": "Its missions planted national churches on every continent.",
+          "traditionId": "neo-charismatic"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "E. N. Bell",
+          "role": "First chairman (1914)."
+        },
+        {
+          "name": "J. Roswell Flower",
+          "role": "Founding secretary and missions leader."
+        },
+        {
+          "name": "Thomas F. Zimmerman",
+          "role": "General superintendent (1959–85) and evangelical ecumenist."
+        },
+        {
+          "name": "Mark Buntain",
+          "role": "Missionary pastor in Calcutta."
+        }
+      ],
+      "members": {
+        "estimate": 69000000,
+        "year": 2020,
+        "note": "Adherents of member churches of the World Assemblies of God Fellowship, as reported by the Fellowship."
+      },
+      "axes": {
+        "liturgy": 1,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "pentecostal",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "Assemblies of God missionaries worked in India from the 1910s; today Assemblies of God churches are found nationwide, notably in Kerala, Tamil Nadu and Kolkata, where Mark Buntain built a church, school and hospital from 1954.",
+      "sources": [
+        "blumhofer-restoring",
+        "burgess-dictionary-pentecostal",
+        "anderson-pentecostalism",
+        "wagf-statistics"
+      ]
+    },
+    {
+      "id": "charismatic-renewal",
+      "tagline": "Pentecostal-style renewal of the Spirit within Catholic, Anglican and Protestant churches.",
+      "coreDoctrines": [
+        "Baptism in (or \"release of\") the Holy Spirit as a renewal of baptismal grace.",
+        "All the gifts of 1 Corinthians 12, including tongues and prophecy, are for today.",
+        "Participants generally keep the doctrine and sacraments of their own churches.",
+        "Tongues are welcomed but usually not required as initial evidence."
+      ],
+      "focuses": [
+        "Personal encounter with the Holy Spirit.",
+        "Praise, worship and prayer meetings.",
+        "Healing and evangelisation.",
+        "Renewal and unity of the churches."
+      ],
+      "practices": [
+        "Prayer groups with tongues, prophecy and prayer for healing.",
+        "\"Life in the Spirit\" seminars (Catholic) leading to prayer for Spirit baptism.",
+        "Charismatic conferences and covenant communities.",
+        "Retreat and healing ministries."
+      ],
+      "influencedBy": [
+        {
+          "name": "Pentecostalism",
+          "text": "Its experience and practices came from classical Pentecostals.",
+          "traditionId": "pentecostal"
+        },
+        {
+          "name": "Full Gospel Business Men's Fellowship",
+          "text": "Demos Shakarian's fellowship (1951) carried Pentecostal experience to mainline lay people."
+        },
+        {
+          "name": "David du Plessis",
+          "text": "The \"Mr Pentecost\" who built bridges to the historic churches."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Neo-charismatic churches",
+          "text": "Many independent churches grew from charismatic fellowships.",
+          "traditionId": "neo-charismatic"
+        },
+        {
+          "name": "Contemporary worship music",
+          "text": "Charismatic songs became widespread in many denominations."
+        },
+        {
+          "name": "CHARIS",
+          "text": "The Vatican service for Catholic Charismatic Renewal (2019).",
+          "traditionId": "catholic"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Dennis Bennett",
+          "role": "Episcopal rector whose 1960 announcement launched the renewal."
+        },
+        {
+          "name": "Kathryn Kuhlman",
+          "role": "Healing evangelist with a wide cross-church audience.",
+          "personId": "kathryn-kuhlman"
+        },
+        {
+          "name": "Léon-Joseph Suenens",
+          "role": "Cardinal and patron of Catholic Charismatic Renewal."
+        },
+        {
+          "name": "Ralph Martin",
+          "role": "Leader in the Catholic renewal after the 1967 Duquesne Weekend."
+        }
+      ],
+      "members": {
+        "estimate": 304990000,
+        "year": 2010,
+        "note": "Pew Research Center (2011) estimate of charismatic Christians worldwide in non-Pentecostal churches."
+      },
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 3,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "real-presence",
+        "gifts": "charismatic",
+        "women": "varies",
+        "trinity": "nicene"
+      },
+      "inIndia": "Catholic Charismatic Renewal is especially strong in Kerala, where the Divine Retreat Centre at Muringoor (founded 1987 by the Vincentians) draws very large crowds, and charismatic prayer groups are common in Catholic parishes across south India.",
+      "sources": [
+        "ranaghan-catholic-pentecostals",
+        "mansfield-new-pentecost",
+        "burgess-dictionary-pentecostal",
+        "pew-2011"
+      ]
+    },
+    {
+      "id": "neo-charismatic",
+      "tagline": "Independent, indigenous and network churches of the global Spirit-renewal movement.",
+      "coreDoctrines": [
+        "The present-day work of the Holy Spirit in signs, wonders and spiritual gifts.",
+        "Spirit empowerment for all believers, usually without a requirement of tongues as initial evidence.",
+        "Evangelical teaching on salvation, often with strong emphasis on healing and deliverance.",
+        "In many networks, the restoration of apostolic and prophetic ministries."
+      ],
+      "focuses": [
+        "Power evangelism and church planting.",
+        "Healing, deliverance and spiritual warfare.",
+        "Worship music and large gatherings.",
+        "Indigenous leadership and cultural expression."
+      ],
+      "practices": [
+        "Spontaneous, music-led worship.",
+        "Believer's baptism.",
+        "Leadership by founders or apostolic networks rather than denominations.",
+        "Healing crusades, prayer mountains and all-night prayer."
+      ],
+      "influencedBy": [
+        {
+          "name": "Pentecostalism",
+          "text": "Shares its spirituality but not its denominational structures.",
+          "traditionId": "pentecostal"
+        },
+        {
+          "name": "Charismatic Renewal",
+          "text": "Many networks emerged from charismatic fellowships.",
+          "traditionId": "charismatic-renewal"
+        },
+        {
+          "name": "\"Third Wave\" teaching",
+          "text": "C. Peter Wagner and John Wimber at Fuller Seminary in the 1980s."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Vineyard Movement",
+          "text": "A leading \"Third Wave\" network.",
+          "traditionId": "vineyard"
+        },
+        {
+          "name": "Hillsong Church",
+          "text": "Its worship music spread globally.",
+          "traditionId": "hillsong"
+        },
+        {
+          "name": "New Apostolic Reformation",
+          "text": "Apostolic networks such as Bethel.",
+          "traditionId": "bethel-new-apostolic-networks"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "John Wimber",
+          "role": "Founder of the Vineyard and of \"power evangelism\".",
+          "personId": "john-wimber"
+        },
+        {
+          "name": "C. Peter Wagner",
+          "role": "Coined \"Third Wave\" and promoted the New Apostolic Reformation.",
+          "personId": "c-peter-wagner"
+        },
+        {
+          "name": "Simon Kimbangu",
+          "role": "Founder of an African church counted in this category.",
+          "personId": "simon-kimbangu"
+        }
+      ],
+      "members": {
+        "estimate": 295000000,
+        "year": 2000,
+        "note": "Estimate of neocharismatics (independents and Third Wave) by David Barrett and Todd Johnson in the New International Dictionary of Pentecostal and Charismatic Movements (2002)."
+      },
+      "axes": {
+        "liturgy": 1,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "apostolic-network",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "charismatic",
+        "women": "varies",
+        "trinity": "nicene"
+      },
+      "inIndia": "Thousands of independent Pentecostal and charismatic churches and ministries operate across India, from house-church networks in the north to large Tamil ministries such as Jesus Calls (founded 1972 in Chennai).",
+      "sources": [
+        "burgess-dictionary-pentecostal",
+        "wagner-third-wave",
+        "anderson-pentecostalism",
+        "miller-yamamori-global-pentecostalism"
+      ]
+    }
+  ],
+  "sources": []
+}

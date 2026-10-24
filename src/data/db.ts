@@ -1,7 +1,7 @@
 import { eraForYear, type Db, TYPE_TO_KEY } from './build';
 import { applyTranslations } from '../i18n/apply';
 import { getLang, type Lang } from '../i18n/lang';
-import type { EntityType, Era, Event, Person, Position, Quote, Tradition, Work, Controversy, Experience, Doctrine } from './schema';
+import type { EntityType, Era, Event, Person, Position, Quote, Tradition, Work, Controversy, Experience, Doctrine, DenomProfile, FamilyProfile } from './schema';
 
 export interface Atlas extends Db {
   get: <T = unknown>(type: EntityType, id: string) => T | undefined;
@@ -18,6 +18,8 @@ export interface Atlas extends Db {
   positionsByPerson: Map<string, Position[]>;
   doctrinesByPosition: Map<string, Doctrine>;
   influenced: Map<string, Person[]>;
+  profileOf: Map<string, DenomProfile>;
+  familyOf: Map<string, FamilyProfile>;
   warnings: string[];
 }
 
@@ -100,6 +102,8 @@ export function createAtlas(db: Db, warnings: string[] = []): Atlas {
     positionsByPerson: group(db.positions, (p) => p.proponentIds),
     doctrinesByPosition,
     influenced: group(db.people, (p) => p.influencedBy),
+    profileOf: new Map(db.denomProfiles.map((d) => [d.id, d])),
+    familyOf: new Map(db.familyProfiles.map((f) => [f.id, f])),
   };
 }
 

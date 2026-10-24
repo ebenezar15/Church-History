@@ -1,0 +1,1560 @@
+{
+  "denomProfiles": [
+    {
+      "id": "nazareth-baptist-church",
+      "tagline": "Zulu prophetic church of Isaiah Shembe, centred on Ekuphakameni and the holy mountain Nhlangakazi.",
+      "coreDoctrines": [
+        "God revealed himself afresh to the Zulu people through the prophet Isaiah Shembe, whom members honour as a divinely sent messenger.",
+        "Scripture is read alongside Shembe's own hymns and teachings, which carry revelatory authority for members.",
+        "Strict observance of a Saturday Sabbath, following Old Testament law.",
+        "Healing comes through prayer, the prophet's blessing and obedience rather than medicine or traditional diviners.",
+        "Purity laws drawn from the Hebrew Bible govern food, dress and conduct."
+      ],
+      "focuses": [
+        "Restoring dignity and order to African life under colonial and apartheid pressure.",
+        "Holy places: Ekuphakameni and Nhlangakazi mountain as sacred sites of pilgrimage.",
+        "Continuity of leadership in Shembe's line.",
+        "Healing and protection from evil."
+      ],
+      "practices": [
+        "Annual January pilgrimage to Nhlangakazi and the July festival at Ekuphakameni.",
+        "Sacred dance (ukusina) in traditional and distinctive regalia as worship.",
+        "Worship barefoot, in white robes, on holy ground.",
+        "Singing from the hymnal Izihlabelelo zamaNazaretha composed largely by Isaiah and Galilee Shembe.",
+        "Baptism by immersion and a night-time communion with foot-washing."
+      ],
+      "influencedBy": [
+        {
+          "name": "African Native Baptist Church",
+          "text": "Shembe was baptised in this Black-led Baptist body in 1906 before founding his own church.",
+          "traditionId": "baptist"
+        },
+        {
+          "name": "Zulu tradition",
+          "text": "Ancestral reverence, dance, regalia and kingship patterns were incorporated and reinterpreted."
+        },
+        {
+          "name": "Hebrew Bible",
+          "text": "Sabbath, purity and sacrifice-like observances draw directly on Old Testament law."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "African Initiated Churches",
+          "text": "The amaNazaretha became a classic case study for Bengt Sundkler's typology of 'Zionist' and 'Ethiopian' churches.",
+          "traditionId": "african-initiated-churches"
+        },
+        {
+          "name": "Zulu literature and music",
+          "text": "Shembe's hymns are recognised as foundational texts of modern isiZulu religious poetry."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Isaiah Shembe",
+          "role": "Founder and prophet (c. 1865–1935)",
+          "personId": "isaiah-shembe"
+        },
+        {
+          "name": "Johannes Galilee Shembe",
+          "role": "Son and successor, leader 1935–1976"
+        },
+        {
+          "name": "Amos Shembe",
+          "role": "Leader 1976–1995"
+        }
+      ],
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 3,
+        "authority": "scripture-and-new-revelation",
+        "governance": "episcopal",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "charismatic",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "sundkler-bantu-prophets",
+        "anderson-african-reformation",
+        "isichei-africa"
+      ]
+    },
+    {
+      "id": "harrist-church",
+      "tagline": "West African church born of William Wade Harris's 1913–15 preaching tour along the Ivorian coast.",
+      "coreDoctrines": [
+        "One God, proclaimed against fetishes and traditional cult objects, which converts were urged to burn.",
+        "Jesus Christ as Saviour and the Bible as God's word, received through Harris's preaching.",
+        "Harris as a prophet of the last days, called by the angel Gabriel in a Liberian prison cell (1910).",
+        "The Ten Commandments as the basis of Christian life.",
+        "Acceptance of polygamous families, which Harris did not require converts to break up."
+      ],
+      "focuses": [
+        "Mass conversion and baptism of coastal peoples of Côte d'Ivoire and Ghana.",
+        "Rejection of traditional ritual power and sorcery.",
+        "A self-governing African church independent of missions.",
+        "Preservation of Harris's teaching through preachers and 'apostles'."
+      ],
+      "practices": [
+        "Baptism with water as the sign of turning from fetishes to God.",
+        "Worship in white robes, with preachers carrying a cross and Bible as Harris did.",
+        "Singing of hymns composed in local languages.",
+        "Sunday rest and avoidance of alcohol in many congregations."
+      ],
+      "influencedBy": [
+        {
+          "name": "Methodist and Episcopal missions in Liberia",
+          "text": "Harris was raised Methodist and served as an Episcopal catechist and teacher before his prophetic call.",
+          "traditionId": "methodist"
+        },
+        {
+          "name": "Old Testament prophets",
+          "text": "Harris modelled himself on Elijah, earning the nickname 'the Black Elijah'."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Methodist Church in Côte d'Ivoire",
+          "text": "Many Harris converts joined Methodist missions arriving after 1924, giving that church its base.",
+          "traditionId": "methodist"
+        },
+        {
+          "name": "African Initiated Churches",
+          "text": "A key early prophetic movement in the history of independent African Christianity.",
+          "traditionId": "african-initiated-churches"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "William Wade Harris",
+          "role": "Prophet and evangelist (c. 1860–1929)",
+          "personId": "william-wade-harris"
+        },
+        {
+          "name": "John Ahui",
+          "role": "Harris's appointed successor and organiser of the church"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-and-spirit",
+        "governance": "episcopal",
+        "baptism": "both",
+        "eucharist": "not-practised",
+        "gifts": "charismatic",
+        "women": "some-roles",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "shank-prophet-harris",
+        "isichei-africa",
+        "sanneh-whose-religion"
+      ]
+    },
+    {
+      "id": "local-churches",
+      "tagline": "Chinese-rooted network holding one church per city, shaped by Watchman Nee and Witness Lee.",
+      "coreDoctrines": [
+        "The church is one in each locality; denominational division is seen as contrary to the New Testament.",
+        "Salvation by grace through faith, followed by the believer's growth in the indwelling divine life.",
+        "God's economy: God dispensing himself into humanity to build up the Body of Christ.",
+        "Witness Lee's teaching that believers become God 'in life and nature but not in the Godhead'.",
+        "The Recovery Version of the Bible, with Lee's footnotes, as the movement's standard text."
+      ],
+      "focuses": [
+        "Building up the local church as the practical expression of the Body of Christ.",
+        "Ministry publishing through Living Stream Ministry and Taiwan Gospel Book Room.",
+        "Every member functioning, without a separate clergy.",
+        "Spiritual life and the 'inner life' tradition of Nee's writings."
+      ],
+      "practices": [
+        "Weekly Lord's Table meeting with breaking of bread.",
+        "'Calling on the name of the Lord' and 'pray-reading' Scripture.",
+        "Mutual speaking and prophesying in meetings, led by elders rather than pastors.",
+        "Large conferences and trainings, such as the semiannual training in Anaheim."
+      ],
+      "influencedBy": [
+        {
+          "name": "Plymouth Brethren",
+          "text": "Nee drew heavily on Brethren ecclesiology and Darby's writings, and had links with the Exclusive Brethren.",
+          "traditionId": "plymouth-brethren"
+        },
+        {
+          "name": "Keswick and inner-life writers",
+          "text": "Jessie Penn-Lewis, Madame Guyon and others shaped Nee's teaching on the cross and the spirit."
+        },
+        {
+          "name": "Margaret E. Barber",
+          "text": "English missionary in Fuzhou who mentored the young Nee."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Chinese House Churches",
+          "text": "Nee's books and the local-church pattern deeply shaped unregistered Chinese Protestantism.",
+          "traditionId": "chinese-house-churches"
+        },
+        {
+          "name": "Global evangelical devotion",
+          "text": "Nee's 'The Normal Christian Life' and 'The Spiritual Man' became widely read evangelical classics."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Watchman Nee",
+          "role": "Founder and teacher (1903–1972)",
+          "personId": "watchman-nee"
+        },
+        {
+          "name": "Witness Lee",
+          "role": "Co-worker and later leader in Taiwan and the United States (1905–1997)"
+        }
+      ],
+      "axes": {
+        "liturgy": 1,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "lee-local-churches",
+        "lian-redeemed-by-fire",
+        "bays-china"
+      ],
+      "inIndia": "Local churches meet in a number of Indian cities, and Nee's books circulate widely among Indian evangelical and Brethren readers."
+    },
+    {
+      "id": "three-self-patriotic-movement",
+      "tagline": "China's state-registered Protestant body: self-governing, self-supporting, self-propagating and 'post-denominational'.",
+      "coreDoctrines": [
+        "Historic Protestant faith in the Trinity, Christ's saving work and the authority of the Bible.",
+        "The 'three-self' principles of self-government, self-support and self-propagation, freeing Chinese churches from foreign control.",
+        "Patriotism and support for the People's Republic as part of Christian witness.",
+        "'Theological reconstruction' (from 1998) emphasising love and harmony with socialist society.",
+        "Post-denominational unity: former denominational differences are set aside in shared congregations."
+      ],
+      "focuses": [
+        "Registered church life under the State Administration for Religious Affairs.",
+        "Training of pastors in seminaries such as Nanjing Union Theological Seminary.",
+        "Printing Bibles, notably through the Amity Printing Company in Nanjing.",
+        "'Sinicisation' of Christianity in line with official policy since 2015."
+      ],
+      "practices": [
+        "Sunday worship with sermon, hymns from the Chinese New Hymnal (1983) and prayer.",
+        "Both infant and believer's baptism, according to local custom.",
+        "Holy Communion celebrated in varied forms inherited from earlier missions.",
+        "Women widely ordained as pastors."
+      ],
+      "influencedBy": [
+        {
+          "name": "Henry Venn and Rufus Anderson",
+          "text": "The nineteenth-century 'three-self' missionary ideal of indigenous churches."
+        },
+        {
+          "name": "Chinese Protestant missions",
+          "text": "Its congregations inherit Anglican, Methodist, Presbyterian, Baptist and other mission churches.",
+          "traditionId": "evangelical"
+        },
+        {
+          "name": "The Christian Manifesto (1950)",
+          "text": "Drafted by Wu Yaozong with Zhou Enlai's approval, it set the movement's political course."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Chinese House Churches",
+          "text": "Many unregistered congregations defined themselves by refusing to join the TSPM.",
+          "traditionId": "chinese-house-churches"
+        },
+        {
+          "name": "Ecumenical post-denominationalism",
+          "text": "Its model has been discussed widely in world ecumenical circles."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Wu Yaozong (Y. T. Wu)",
+          "role": "First chairman of the TSPM"
+        },
+        {
+          "name": "K. H. Ting (Ding Guangxun)",
+          "role": "Bishop, TSPM chairman and CCC president, leader of 'theological reconstruction'"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "presbyterian",
+        "baptism": "both",
+        "eucharist": "memorial",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "wickeri-common-ground",
+        "bays-china",
+        "d8-china-white-paper-2018"
+      ],
+      "members": {
+        "estimate": 38000000,
+        "year": 2018,
+        "note": "Figure for Protestants in China given in the State Council white paper of April 2018; it refers mainly to registered churches and is widely regarded as a minimum."
+      }
+    },
+    {
+      "id": "jesus-family",
+      "tagline": "Pentecostal-style Christian commune founded by Jing Dianying in Mazhuang, Shandong.",
+      "coreDoctrines": [
+        "Salvation through Christ alongside a call to share all goods in common, as in Acts 2.",
+        "Direct experience of the Holy Spirit through visions, tongues and prophecy.",
+        "Self-denial and suffering as the path of discipleship.",
+        "Strong expectation of Christ's return."
+      ],
+      "focuses": [
+        "Communal living on farms and workshops as one 'family'.",
+        "Care for the poor, disabled and outcast.",
+        "Indigenous Chinese church life, independent of missions.",
+        "Fervent prayer meetings and revival."
+      ],
+      "practices": [
+        "Common ownership of property and shared labour.",
+        "Long, emotional prayer meetings with weeping, tongues and dancing.",
+        "Simple hymns composed by members.",
+        "Strict authority of the family head, Jing Dianying."
+      ],
+      "influencedBy": [
+        {
+          "name": "Pentecostal revival in north China",
+          "text": "Pentecostal missions in Shandong in the 1920s shaped its spirituality.",
+          "traditionId": "pentecostal"
+        },
+        {
+          "name": "Methodist missions",
+          "text": "Jing was educated in Methodist mission schools in Shandong.",
+          "traditionId": "methodist"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Chinese House Churches",
+          "text": "Former members and its ethos of sacrifice and charismatic prayer fed later unregistered churches.",
+          "traditionId": "chinese-house-churches"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Jing Dianying",
+          "role": "Founder and family head (1890–1957)"
+        }
+      ],
+      "axes": {
+        "liturgy": 1,
+        "sacramental": 1,
+        "authority": "scripture-and-spirit",
+        "governance": "apostolic-network",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "charismatic",
+        "women": "some-roles",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "lian-redeemed-by-fire",
+        "bays-china"
+      ]
+    },
+    {
+      "id": "oneness-pentecostal",
+      "tagline": "Pentecostals who baptise 'in the name of Jesus' and teach God's oneness rather than three persons.",
+      "coreDoctrines": [
+        "One God who reveals himself as Father, Son and Holy Spirit as modes or manifestations, not three persons.",
+        "Jesus is the name of God, and the fullness of the Godhead dwells in him bodily.",
+        "Water baptism must be by immersion in the name of Jesus Christ (Acts 2:38).",
+        "Spirit baptism with the evidence of speaking in tongues, which many bodies hold necessary for salvation.",
+        "Mainstream trinitarian churches regard this view as a form of modalism and reject it."
+      ],
+      "focuses": [
+        "Evangelism and church planting worldwide.",
+        "'Holiness standards' of dress and conduct.",
+        "Divine healing and spiritual gifts.",
+        "Apostolic doctrine of Acts 2:38 as the full new-birth message."
+      ],
+      "practices": [
+        "Rebaptism of converts from trinitarian churches in Jesus' name.",
+        "Lively worship with tongues, prophecy and altar calls.",
+        "Foot washing in some bodies.",
+        "Modest dress and uncut hair for women in many churches."
+      ],
+      "influencedBy": [
+        {
+          "name": "Pentecostalism",
+          "text": "Emerged within early Pentecostalism after the 1913 Arroyo Seco camp meeting.",
+          "traditionId": "pentecostal"
+        },
+        {
+          "name": "William Durham's 'finished work'",
+          "text": "Durham's Christocentric teaching prepared the ground for the 'New Issue'."
+        },
+        {
+          "name": "R. E. McAlister",
+          "text": "His 1913 sermon on baptism in Jesus' name sparked the controversy."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "United Pentecostal Church International",
+          "text": "The largest Oneness denomination.",
+          "traditionId": "united-pentecostal-church-international"
+        },
+        {
+          "name": "Pentecostal Assemblies of the World",
+          "text": "The oldest surviving Oneness body, interracial from its early years.",
+          "traditionId": "pentecostal-assemblies-of-the-world"
+        },
+        {
+          "name": "True Jesus Church",
+          "text": "Shares baptism in Jesus' name and Oneness theology.",
+          "traditionId": "true-jesus-church"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Frank J. Ewart",
+          "role": "Leading early proponent",
+          "personId": "frank-ewart"
+        },
+        {
+          "name": "Garfield T. Haywood",
+          "role": "Bishop and leader of the PAW"
+        },
+        {
+          "name": "Andrew D. Urshan",
+          "role": "Evangelist and theologian of the movement"
+        }
+      ],
+      "axes": {
+        "liturgy": 1,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "pentecostal",
+        "women": "varies",
+        "trinity": "non-nicene"
+      },
+      "sources": [
+        "reed-oneness",
+        "burgess-pentecostal-dictionary",
+        "anderson-pentecostalism"
+      ],
+      "inIndia": "Oneness churches have a significant presence in North-East India, especially the United Pentecostal Church (North East India) in Mizoram, with smaller congregations in South India."
+    },
+    {
+      "id": "latter-day-saints",
+      "tagline": "Restorationist church founded by Joseph Smith, holding modern prophets and the Book of Mormon as scripture.",
+      "coreDoctrines": [
+        "The Godhead as three distinct beings: God the Father and Jesus Christ with glorified bodies, and the Holy Ghost.",
+        "A 'Great Apostasy' after the apostles, followed by the restoration of priesthood and church through Joseph Smith.",
+        "An open canon: the Bible, Book of Mormon, Doctrine and Covenants and Pearl of Great Price, guided by living prophets.",
+        "Eternal progression and exaltation: faithful humans may become like God.",
+        "Temple ordinances, including eternal marriage and proxy baptism for the dead.",
+        "Mainstream Christian churches do not regard its baptism as valid because of its non-Nicene teaching on God."
+      ],
+      "focuses": [
+        "Missionary work by tens of thousands of young full-time missionaries.",
+        "Family life and the 'eternal family'.",
+        "Temple building and family history (genealogy).",
+        "Welfare, self-reliance and humanitarian aid."
+      ],
+      "practices": [
+        "Sunday sacrament meeting with bread and water blessed by priesthood holders.",
+        "Lay priesthood for worthy males from age 11 and a lay ministry of bishops.",
+        "Baptism by immersion at age eight or later.",
+        "The Word of Wisdom: abstinence from alcohol, tobacco, coffee and tea.",
+        "Tithing of ten per cent of income."
+      ],
+      "influencedBy": [
+        {
+          "name": "Burned-over district revivalism",
+          "text": "Smith grew up amid the revivals and seeker movements of western New York."
+        },
+        {
+          "name": "Primitivist restorationism",
+          "text": "Like the Stone–Campbell movement, it sought to restore the New Testament church.",
+          "traditionId": "stone-campbell-restoration"
+        },
+        {
+          "name": "Freemasonry",
+          "text": "Scholars note parallels between Masonic ritual and the Nauvoo temple endowment."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Community of Christ",
+          "text": "The 'Reorganized' branch that rejected Brigham Young's leadership.",
+          "traditionId": "community-of-christ"
+        },
+        {
+          "name": "American religious history",
+          "text": "A major example of a new religious movement becoming a global church."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Joseph Smith",
+          "role": "Founder and prophet (1805–1844)",
+          "personId": "joseph-smith"
+        },
+        {
+          "name": "Brigham Young",
+          "role": "Second president; led the migration to Utah"
+        },
+        {
+          "name": "Gordon B. Hinckley",
+          "role": "President 1995–2008; temple expansion"
+        },
+        {
+          "name": "Russell M. Nelson",
+          "role": "President from 2018"
+        }
+      ],
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 3,
+        "authority": "scripture-and-new-revelation",
+        "governance": "episcopal",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "non-nicene"
+      },
+      "sources": [
+        "bushman-rough-stone",
+        "melton-encyclopedia",
+        "d8-lds-statistical-report-2024"
+      ],
+      "members": {
+        "estimate": 17500000,
+        "year": 2024,
+        "note": "About 17.5 million members on record at the end of 2024, as reported in the Church's statistical report to the April 2025 General Conference."
+      },
+      "inIndia": "Present in India since the 1850s with a small modern membership; the India Bengaluru Temple was announced in 2020."
+    },
+    {
+      "id": "jehovahs-witnesses",
+      "tagline": "Bible-centred movement known for door-to-door preaching and the Watch Tower Society's publications.",
+      "coreDoctrines": [
+        "Jehovah is the one true God; Jesus is his first creation and Son, not God the Son, and the holy spirit is God's active force.",
+        "God's Kingdom, ruling invisibly from heaven since 1914, will soon replace human governments at Armageddon.",
+        "Only 144,000 'anointed' go to heaven; other faithful people hope to live forever on a paradise earth.",
+        "The soul is mortal; there is no hell of eternal torment.",
+        "Political neutrality and refusal of blood transfusions as matters of conscience and obedience.",
+        "Mainstream churches reject its Christology and its claims for the Governing Body."
+      ],
+      "focuses": [
+        "Public preaching from house to house and with literature carts.",
+        "Bible study through Watchtower and other publications.",
+        "Strict moral discipline within congregations.",
+        "Separation from politics, war and interfaith activity."
+      ],
+      "practices": [
+        "Meetings at Kingdom Halls twice weekly.",
+        "Baptism by immersion of committed adult publishers.",
+        "Annual Memorial of Christ's death, with emblems taken only by the anointed.",
+        "No celebration of Christmas, Easter or birthdays.",
+        "The New World Translation of the Holy Scriptures."
+      ],
+      "influencedBy": [
+        {
+          "name": "Bible Students",
+          "text": "Grew out of the Bible Student movement of Charles Taze Russell.",
+          "traditionId": "bible-students"
+        },
+        {
+          "name": "Adventism",
+          "text": "Russell drew on Adventist chronologies and conditional immortality.",
+          "traditionId": "seventh-day-adventist"
+        },
+        {
+          "name": "Joseph F. Rutherford",
+          "text": "Reorganised the movement and adopted the name Jehovah's Witnesses in 1931."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Religious-liberty law",
+          "text": "Witness lawsuits shaped freedom-of-religion law in the United States, Canada and Europe."
+        },
+        {
+          "name": "Bible Students",
+          "text": "Groups that rejected Rutherford's changes continued as independent Bible Students.",
+          "traditionId": "bible-students"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Charles Taze Russell",
+          "role": "Founder of the Bible Student movement",
+          "personId": "charles-taze-russell"
+        },
+        {
+          "name": "Joseph F. Rutherford",
+          "role": "Second president of the Watch Tower Society (1917–1942)"
+        },
+        {
+          "name": "Nathan H. Knorr",
+          "role": "Third president; expanded training and translation"
+        }
+      ],
+      "axes": {
+        "liturgy": 1,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "episcopal",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "cessationist",
+        "women": "not-ordained",
+        "trinity": "non-nicene"
+      },
+      "sources": [
+        "penton-apocalypse-delayed",
+        "jw-service-year-report-2024",
+        "d8-chryssides-jw"
+      ],
+      "members": {
+        "estimate": 9000000,
+        "year": 2024,
+        "note": "Peak of just over 9 million active publishers in the 2024 service year, with about 21 million attending the Memorial (Jehovah's Witnesses' own report)."
+      },
+      "inIndia": "Congregations meet throughout India, with literature in many Indian languages including Tamil and Malayalam; Witnesses were party to the Supreme Court's Bijoe Emmanuel judgment (1986) on the national anthem."
+    },
+    {
+      "id": "unitarian",
+      "tagline": "Liberal tradition rejecting the Trinity, valuing reason, conscience and freedom of belief.",
+      "coreDoctrines": [
+        "God is one person; Jesus is a uniquely inspired human teacher rather than God incarnate.",
+        "Reason and conscience are guides to religious truth alongside Scripture.",
+        "Human goodness and moral improvement rather than original sin.",
+        "Religious freedom and tolerance, as proclaimed in the Edict of Torda (1568).",
+        "In modern Unitarian Universalism, a creedless faith open to many sources beyond Christianity."
+      ],
+      "focuses": [
+        "Freedom of thought and toleration.",
+        "Social reform: abolition, women's rights, education and civil rights.",
+        "Rational and historical study of the Bible.",
+        "Democratic congregational life."
+      ],
+      "practices": [
+        "Congregational worship with readings, hymns and sermon, often without creeds.",
+        "Infant baptism in Transylvanian and some British churches; child dedications in many UU congregations.",
+        "Flower Communion, introduced by Norbert Čapek in Prague in 1923.",
+        "Ordination of women ministers since the nineteenth century."
+      ],
+      "influencedBy": [
+        {
+          "name": "Polish Brethren and Socinianism",
+          "text": "The Racovian Catechism (1605) shaped anti-trinitarian theology."
+        },
+        {
+          "name": "Radical Reformation",
+          "text": "Michael Servetus and other radicals questioned the Trinity.",
+          "traditionId": "anabaptist"
+        },
+        {
+          "name": "English Presbyterian dissent",
+          "text": "Many English Unitarian chapels developed from Presbyterian congregations.",
+          "traditionId": "presbyterian"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Brahmo Samaj",
+          "text": "Rammohun Roy corresponded with Unitarians, and Brahmo theism was shaped by these links."
+        },
+        {
+          "name": "American Transcendentalism",
+          "text": "Emerson and Parker emerged from Unitarian circles."
+        },
+        {
+          "name": "Liberal Protestantism",
+          "text": "Unitarian biblical criticism fed wider liberal theology."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Michael Servetus",
+          "role": "Anti-trinitarian martyr (1553)",
+          "personId": "michael-servetus"
+        },
+        {
+          "name": "Francis Dávid",
+          "role": "Founder of the Transylvanian Unitarian Church",
+          "personId": "francis-david"
+        },
+        {
+          "name": "Faustus Socinus",
+          "role": "Theologian of the Polish Brethren",
+          "personId": "faustus-socinus"
+        },
+        {
+          "name": "William Ellery Channing",
+          "role": "Leader of American Unitarianism",
+          "personId": "william-ellery-channing"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 1,
+        "authority": "scripture-and-spirit",
+        "governance": "congregational",
+        "baptism": "infant",
+        "eucharist": "not-practised",
+        "gifts": "cessationist",
+        "women": "ordained",
+        "trinity": "non-nicene"
+      },
+      "sources": [
+        "wilbur-unitarianism",
+        "ahlstrom-religious-history",
+        "odcc"
+      ],
+      "inIndia": "The Khasi Unitarian Union in Meghalaya traces its origins to Hajom Kissor Singh in 1887, and Unitarian ideas influenced the Brahmo Samaj."
+    },
+    {
+      "id": "pentecostal-assemblies-of-the-world",
+      "tagline": "Oldest continuing Oneness Pentecostal body, historically interracial and led by bishops.",
+      "coreDoctrines": [
+        "One God revealed in Jesus Christ, without distinct persons.",
+        "Repentance, baptism in Jesus' name and Spirit baptism with tongues as the new birth.",
+        "Holiness of life.",
+        "Divine healing."
+      ],
+      "focuses": [
+        "Evangelism and church planting, especially among African Americans.",
+        "Episcopal oversight by a council of bishops.",
+        "Holiness and family life.",
+        "Overseas missions in Africa, the Caribbean and Asia."
+      ],
+      "practices": [
+        "Baptism by immersion in the name of the Lord Jesus Christ.",
+        "Exuberant worship with gospel music and tongues.",
+        "Communion and foot washing.",
+        "Women serve as ministers and missionaries, though the episcopate has been male."
+      ],
+      "influencedBy": [
+        {
+          "name": "Azusa Street revival",
+          "text": "Its earliest leaders came out of the 1906 revival.",
+          "traditionId": "pentecostal"
+        },
+        {
+          "name": "Oneness Pentecostalism",
+          "text": "Adopted the 'New Issue' after 1916.",
+          "traditionId": "oneness-pentecostal"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "United Pentecostal Church International",
+          "text": "White members who left the PAW in 1924 eventually formed bodies that merged into the UPCI.",
+          "traditionId": "united-pentecostal-church-international"
+        },
+        {
+          "name": "Gospel music",
+          "text": "Haywood's hymns, such as 'Jesus, the Son of God', entered Pentecostal hymnody."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Garfield T. Haywood",
+          "role": "First Presiding Bishop (1925–1931)"
+        },
+        {
+          "name": "J. J. Frazee",
+          "role": "Early general chairman"
+        }
+      ],
+      "axes": {
+        "liturgy": 1,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "episcopal",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "pentecostal",
+        "women": "some-roles",
+        "trinity": "non-nicene"
+      },
+      "sources": [
+        "reed-oneness",
+        "burgess-pentecostal-dictionary"
+      ]
+    },
+    {
+      "id": "united-pentecostal-church-international",
+      "tagline": "Largest Oneness Pentecostal denomination, known for Acts 2:38 preaching and holiness standards.",
+      "coreDoctrines": [
+        "One God, fully revealed in Jesus Christ; the Trinity of persons is rejected.",
+        "The new birth is repentance, baptism in Jesus' name and receiving the Holy Spirit with tongues.",
+        "Holiness of life, including outward standards of dress.",
+        "Divine healing and the premillennial return of Christ."
+      ],
+      "focuses": [
+        "Global missions and church planting.",
+        "Bible colleges and ministerial training.",
+        "Holiness 'standards' and separation from worldliness.",
+        "Revival and evangelism."
+      ],
+      "practices": [
+        "Baptism by immersion in the name of Jesus.",
+        "Spirit-filled worship with tongues, music and altar prayer.",
+        "Women generally wear long hair and dresses; television and adornment discouraged historically.",
+        "Women may hold a ministerial licence, though senior offices are held by men."
+      ],
+      "influencedBy": [
+        {
+          "name": "Pentecostal Assemblies of the World",
+          "text": "Its founders came from bodies that left the PAW in 1924.",
+          "traditionId": "pentecostal-assemblies-of-the-world"
+        },
+        {
+          "name": "Oneness Pentecostalism",
+          "text": "Formed in 1945 by merger of the Pentecostal Church, Inc. and the Pentecostal Assemblies of Jesus Christ.",
+          "traditionId": "oneness-pentecostal"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Oneness churches worldwide",
+          "text": "Its missionaries founded national United Pentecostal churches in many countries.",
+          "traditionId": "oneness-pentecostal"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Howard A. Goss",
+          "role": "First general superintendent"
+        },
+        {
+          "name": "David K. Bernard",
+          "role": "General superintendent and theologian of Oneness doctrine"
+        }
+      ],
+      "axes": {
+        "liturgy": 1,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "pentecostal",
+        "women": "some-roles",
+        "trinity": "non-nicene"
+      },
+      "sources": [
+        "reed-oneness",
+        "melton-encyclopedia",
+        "burgess-pentecostal-dictionary"
+      ],
+      "inIndia": "UPCI missionaries work in India, and the separately organised United Pentecostal Church (North East India) is a major denomination in Mizoram."
+    },
+    {
+      "id": "iglesia-ni-cristo",
+      "tagline": "Filipino church holding Felix Manalo as God's last messenger restoring the true church.",
+      "coreDoctrines": [
+        "God the Father is the only true God; Jesus is a man, Son of God and Saviour, but not God.",
+        "The original church apostatised; the true Church of Christ re-emerged in the Philippines on 27 July 1914.",
+        "Felix Manalo is the 'angel from the east' of Revelation 7 and God's last messenger.",
+        "Membership in the Iglesia ni Cristo is necessary for salvation.",
+        "Mainstream churches reject its Christology and its claim to be the only true church."
+      ],
+      "focuses": [
+        "Unity and discipline under the Executive Minister.",
+        "Evangelism and rapid expansion, including abroad.",
+        "Large chapel-building programme with distinctive architecture.",
+        "Bloc voting in Philippine elections as an expression of unity."
+      ],
+      "practices": [
+        "Twice-weekly worship services with set doctrinal lessons.",
+        "Baptism by immersion after instruction.",
+        "Annual Holy Supper.",
+        "Regular offerings and strict attendance.",
+        "Marriage to non-members discouraged."
+      ],
+      "influencedBy": [
+        {
+          "name": "Adventist and other Protestant missions",
+          "text": "Manalo passed through Methodist, Presbyterian, Disciples and Seventh-day Adventist churches.",
+          "traditionId": "seventh-day-adventist"
+        },
+        {
+          "name": "Restorationism",
+          "text": "Shares the theme of an apostasy and restoration.",
+          "traditionId": "stone-campbell-restoration"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Philippine society",
+          "text": "Became one of the largest and most influential religious bodies in the Philippines."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Felix Y. Manalo",
+          "role": "Founder and first Executive Minister (1886–1963)"
+        },
+        {
+          "name": "Eraño G. Manalo",
+          "role": "Executive Minister 1963–2009"
+        },
+        {
+          "name": "Eduardo V. Manalo",
+          "role": "Executive Minister from 2009"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "episcopal",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "cessationist",
+        "women": "not-ordained",
+        "trinity": "non-nicene"
+      },
+      "sources": [
+        "tuggy-iglesia-ni-cristo",
+        "melton-encyclopedia",
+        "d8-psa-2020-census"
+      ],
+      "members": {
+        "estimate": 2800000,
+        "year": 2020,
+        "note": "About 2.8 million (roughly 2.6 per cent of the population) in the Philippine Statistics Authority's 2020 census; the church gives no official count."
+      }
+    },
+    {
+      "id": "true-jesus-church",
+      "tagline": "Chinese indigenous Pentecostal church keeping the Sabbath and baptising in Jesus' name.",
+      "coreDoctrines": [
+        "One God, revealed in Jesus Christ; Oneness rather than trinitarian theology.",
+        "Five doctrines (with Sabbath and foot washing): Spirit baptism with tongues, water baptism, foot washing, Holy Communion and the Sabbath.",
+        "Water baptism by full immersion, face downward, in living water, in the name of Jesus.",
+        "The True Jesus Church as the restored church of the latter rain.",
+        "Mainstream churches question its exclusive claims and Oneness teaching."
+      ],
+      "focuses": [
+        "Saturday Sabbath worship.",
+        "Spirit baptism evidenced by tongues.",
+        "Evangelism among Chinese communities worldwide.",
+        "Self-supporting indigenous church."
+      ],
+      "practices": [
+        "Prayer together aloud in tongues, kneeling.",
+        "Foot washing as a sacrament.",
+        "Holy Communion with one loaf of unleavened bread and grape juice.",
+        "Separation of men and women in seating in many congregations."
+      ],
+      "influencedBy": [
+        {
+          "name": "Apostolic Faith Mission",
+          "text": "Pentecostal missionaries brought tongues and Oneness ideas to north China.",
+          "traditionId": "pentecostal"
+        },
+        {
+          "name": "Seventh-day Adventism",
+          "text": "Influenced its Sabbath observance.",
+          "traditionId": "seventh-day-adventist"
+        },
+        {
+          "name": "Oneness Pentecostalism",
+          "text": "Shares baptism in Jesus' name.",
+          "traditionId": "oneness-pentecostal"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Chinese House Churches",
+          "text": "A strand of indigenous Pentecostal piety in Chinese Christianity.",
+          "traditionId": "chinese-house-churches"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Paul Wei (Wei Enbo)",
+          "role": "Founder (1876–1919)"
+        },
+        {
+          "name": "Barnabas Zhang",
+          "role": "Early leader"
+        }
+      ],
+      "axes": {
+        "liturgy": 1,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "presbyterian",
+        "baptism": "both",
+        "eucharist": "memorial",
+        "gifts": "pentecostal",
+        "women": "some-roles",
+        "trinity": "non-nicene"
+      },
+      "sources": [
+        "bays-china",
+        "lian-redeemed-by-fire",
+        "burgess-pentecostal-dictionary"
+      ]
+    },
+    {
+      "id": "christadelphians",
+      "tagline": "Lay-led Bible community awaiting Christ's return to establish God's Kingdom on earth.",
+      "coreDoctrines": [
+        "God is one; Jesus is the Son of God, born of Mary, not pre-existent; the Holy Spirit is God's power.",
+        "Humans are mortal; the hope is bodily resurrection, not an immortal soul.",
+        "The Kingdom of God will be established on earth, centred on Israel, at Christ's return.",
+        "The devil is understood as human sin, not a personal fallen angel.",
+        "Belief of the gospel and baptism by immersion are necessary for salvation."
+      ],
+      "focuses": [
+        "Bible reading and study, aided by Robert Roberts's daily 'Bible Companion'.",
+        "Expectation of Christ's return and attention to prophecy and Israel.",
+        "Conscientious objection to military service.",
+        "Mutual care within ecclesias."
+      ],
+      "practices": [
+        "Weekly 'Breaking of Bread' memorial meeting.",
+        "No paid clergy; brothers take turns to preside and exhort.",
+        "Baptism of believers by immersion after examination.",
+        "Fraternal gatherings and Bible schools."
+      ],
+      "influencedBy": [
+        {
+          "name": "Stone–Campbell movement",
+          "text": "John Thomas began among the Disciples before breaking away.",
+          "traditionId": "stone-campbell-restoration"
+        },
+        {
+          "name": "Millerite Adventism",
+          "text": "Adventist expectations shaped Thomas's prophetic outlook.",
+          "traditionId": "seventh-day-adventist"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Conditional immortality",
+          "text": "An influential voice for mortalism within dissenting Protestantism."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "John Thomas",
+          "role": "Founder (1805–1871)"
+        },
+        {
+          "name": "Robert Roberts",
+          "role": "Organiser and editor of The Christadelphian"
+        }
+      ],
+      "axes": {
+        "liturgy": 1,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "cessationist",
+        "women": "not-ordained",
+        "trinity": "non-nicene"
+      },
+      "sources": [
+        "wilson-sects-society",
+        "melton-encyclopedia",
+        "d8-thomas-elpis-israel"
+      ]
+    },
+    {
+      "id": "christian-science",
+      "tagline": "Church founded by Mary Baker Eddy teaching healing through spiritual understanding of God.",
+      "coreDoctrines": [
+        "God is infinite Mind, Spirit, Life, Truth and Love; matter, sin and disease are not ultimately real.",
+        "Jesus is the Way-shower who demonstrated the Christ, divine truth, but is not himself God.",
+        "Healing comes through prayer that corrects mistaken material belief.",
+        "The Bible and Eddy's 'Science and Health with Key to the Scriptures' are the church's pastor.",
+        "Mainstream churches reject its denial of the reality of matter and its non-trinitarian theology."
+      ],
+      "focuses": [
+        "Spiritual healing in place of medical treatment.",
+        "Reading rooms and publishing, including The Christian Science Monitor.",
+        "Daily study of the Bible Lesson.",
+        "Practitioners who give healing treatment through prayer."
+      ],
+      "practices": [
+        "Sunday services with readings from the Bible and Science and Health by lay Readers.",
+        "Wednesday testimony meetings sharing healings.",
+        "No sacraments with physical elements; baptism and communion are understood spiritually.",
+        "Governance by the Church Manual and the Mother Church in Boston."
+      ],
+      "influencedBy": [
+        {
+          "name": "Phineas Parkhurst Quimby",
+          "text": "Eddy was treated by the mental healer in 1862, though she later disowned his influence."
+        },
+        {
+          "name": "New England Congregationalism",
+          "text": "Eddy's upbringing shaped her biblical piety.",
+          "traditionId": "congregationalist"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Unity",
+          "text": "The New Thought movement, including Unity, drew on Christian Science ideas.",
+          "traditionId": "unity-church"
+        },
+        {
+          "name": "New Thought",
+          "text": "Former Christian Scientists such as Emma Curtis Hopkins spread mental-healing teaching."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Mary Baker Eddy",
+          "role": "Discoverer and founder (1821–1910)"
+        }
+      ],
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 1,
+        "authority": "scripture-and-new-revelation",
+        "governance": "congregational",
+        "baptism": "none",
+        "eucharist": "not-practised",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "non-nicene"
+      },
+      "sources": [
+        "gottschalk-christian-science",
+        "wilson-sects-society",
+        "d8-eddy-science-health"
+      ]
+    },
+    {
+      "id": "unity-church",
+      "tagline": "New Thought movement teaching practical Christianity, positive prayer and the divinity in every person.",
+      "coreDoctrines": [
+        "God is divine Mind, present everywhere and in everyone.",
+        "Jesus is the great example of humanity realising the Christ within.",
+        "Thoughts and words shape experience; affirmative prayer brings health and prosperity.",
+        "Openness to truth in all religions and to reincarnation, which the founders accepted."
+      ],
+      "focuses": [
+        "Practical spiritual living and healing.",
+        "Prayer ministry through Silent Unity, active since 1890.",
+        "Publishing, including the Daily Word.",
+        "Inclusive and non-dogmatic community."
+      ],
+      "practices": [
+        "Sunday services with music, meditation and a talk.",
+        "Affirmations and 'denials' in prayer.",
+        "Ordination of women and men as ministers.",
+        "Burning bowl and other symbolic rituals rather than sacraments."
+      ],
+      "influencedBy": [
+        {
+          "name": "Christian Science",
+          "text": "Emma Curtis Hopkins, a former Christian Scientist, taught the Fillmores.",
+          "traditionId": "christian-science"
+        },
+        {
+          "name": "New Thought",
+          "text": "Shares the mental-healing tradition of nineteenth-century America."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Positive-thinking spirituality",
+          "text": "Unity's literature spread affirmative prayer widely."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Charles Fillmore",
+          "role": "Co-founder (1854–1948)"
+        },
+        {
+          "name": "Myrtle Fillmore",
+          "role": "Co-founder (1845–1931)"
+        }
+      ],
+      "axes": {
+        "liturgy": 1,
+        "sacramental": 1,
+        "authority": "scripture-and-spirit",
+        "governance": "congregational",
+        "baptism": "none",
+        "eucharist": "not-practised",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "non-nicene"
+      },
+      "sources": [
+        "melton-encyclopedia",
+        "stein-communities-of-dissent"
+      ]
+    },
+    {
+      "id": "shakers",
+      "tagline": "Celibate communal society awaiting Christ's Second Appearing, known for ecstatic worship and craftsmanship.",
+      "coreDoctrines": [
+        "Christ's Second Appearing was manifested in Mother Ann Lee and continues in the community of Believers.",
+        "God is both male and female, Father and Mother.",
+        "Celibacy as the way to overcome the root sin of lust.",
+        "Confession of sins to elders as the gateway to new life.",
+        "Equality of men and women in leadership."
+      ],
+      "focuses": [
+        "Communal life in 'families' and villages.",
+        "Simplicity, honest work and fine craftsmanship.",
+        "Pacifism and separation from the world.",
+        "Hospitality to orphans and seekers."
+      ],
+      "practices": [
+        "Worship with singing and dances, from which the name 'Shakers' derives.",
+        "Thousands of songs, including 'Simple Gifts' (1848).",
+        "Parallel male and female leadership of elders and eldresses.",
+        "No sacraments of baptism or communion."
+      ],
+      "influencedBy": [
+        {
+          "name": "Quakers",
+          "text": "The founders came out of the 'Shaking Quakers' of Manchester.",
+          "traditionId": "quaker"
+        },
+        {
+          "name": "French Prophets",
+          "text": "Camisard ecstatic prophecy influenced the early group."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "American design",
+          "text": "Shaker furniture and architecture influenced modern design."
+        },
+        {
+          "name": "Communal movements",
+          "text": "A model for nineteenth-century American utopian communities."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Ann Lee",
+          "role": "Founder ('Mother Ann', 1736–1784)",
+          "personId": "ann-lee"
+        },
+        {
+          "name": "Joseph Meacham",
+          "role": "Organised the communities after Lee's death"
+        },
+        {
+          "name": "Lucy Wright",
+          "role": "Led the society 1796–1821"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 1,
+        "authority": "scripture-and-new-revelation",
+        "governance": "episcopal",
+        "baptism": "none",
+        "eucharist": "not-practised",
+        "gifts": "charismatic",
+        "women": "ordained",
+        "trinity": "non-nicene"
+      },
+      "sources": [
+        "stein-shaker-experience",
+        "testimonies-ann-lee",
+        "ahlstrom-religious-history"
+      ]
+    },
+    {
+      "id": "swedenborgian-new-church",
+      "tagline": "Church built on the visionary writings of Emanuel Swedenborg about God, heaven and the inner sense of Scripture.",
+      "coreDoctrines": [
+        "God is one person, the Lord Jesus Christ, in whom Father, Son and Holy Spirit are three aspects (a trinity of essentials, not persons).",
+        "The Last Judgment took place in the spiritual world in 1757, inaugurating the New Jerusalem.",
+        "Scripture has an inner, spiritual sense revealed through Swedenborg.",
+        "Salvation requires both faith and charity; life after death continues in heaven or hell according to one's love.",
+        "Mainstream churches reject its non-trinitarian theology and its claims for Swedenborg's revelations."
+      ],
+      "focuses": [
+        "Study of Swedenborg's writings.",
+        "Spiritual regeneration in daily life.",
+        "Education, especially at Bryn Athyn in Pennsylvania.",
+        "Publishing and translation."
+      ],
+      "practices": [
+        "Liturgical Sunday worship.",
+        "Baptism of infants and adults.",
+        "The Holy Supper as a means of conjunction with the Lord.",
+        "Women ordained in the General Convention; not in the General Church."
+      ],
+      "influencedBy": [
+        {
+          "name": "Lutheranism",
+          "text": "Swedenborg was the son of a Swedish Lutheran bishop.",
+          "traditionId": "lutheran"
+        },
+        {
+          "name": "Enlightenment science",
+          "text": "Swedenborg was a scientist before his visions of 1744–45."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Romantic and Transcendentalist writers",
+          "text": "Blake, Emerson and others were stimulated by Swedenborg."
+        },
+        {
+          "name": "Spiritualism and Christian Science",
+          "text": "Swedenborg's ideas fed nineteenth-century spiritual movements.",
+          "traditionId": "christian-science"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Emanuel Swedenborg",
+          "role": "Visionary and author (1688–1772)"
+        },
+        {
+          "name": "Robert Hindmarsh",
+          "role": "Organiser of the first New Church in London (1787)"
+        }
+      ],
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 3,
+        "authority": "scripture-and-new-revelation",
+        "governance": "congregational",
+        "baptism": "infant",
+        "eucharist": "spiritual-presence",
+        "gifts": "cessationist",
+        "women": "varies",
+        "trinity": "non-nicene"
+      },
+      "sources": [
+        "melton-encyclopedia",
+        "odcc",
+        "d8-swedenborg-true-christian-religion"
+      ]
+    },
+    {
+      "id": "bible-students",
+      "tagline": "Independent heirs of Charles Taze Russell's Bible Student movement, outside the Watch Tower Society.",
+      "coreDoctrines": [
+        "God (Jehovah) is supreme; Jesus is the pre-existent Son, not co-equal; the Trinity is rejected.",
+        "A ransom sacrifice and restitution for humanity in a coming earthly kingdom.",
+        "Mortality of the soul; no eternal torment.",
+        "Russell's 'Divine Plan of the Ages' and prophetic chronology."
+      ],
+      "focuses": [
+        "Bible study, especially Russell's 'Studies in the Scriptures'.",
+        "Independent ecclesias free of central authority.",
+        "Witness through broadcasts and literature.",
+        "Christian character development."
+      ],
+      "practices": [
+        "Ecclesia meetings with Bible study.",
+        "Annual Memorial of Christ's death.",
+        "Baptism by immersion.",
+        "Conventions organised by groups such as the Dawn Bible Students Association."
+      ],
+      "influencedBy": [
+        {
+          "name": "Jehovah's Witnesses",
+          "text": "Formed by Bible Students rejecting Rutherford's leadership after 1917.",
+          "traditionId": "jehovahs-witnesses"
+        },
+        {
+          "name": "Adventism",
+          "text": "Shares chronological and conditional-immortality ideas.",
+          "traditionId": "seventh-day-adventist"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Russell's legacy",
+          "text": "Keeps his original teaching in print."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Charles Taze Russell",
+          "role": "Founder of the Bible Student movement",
+          "personId": "charles-taze-russell"
+        },
+        {
+          "name": "Paul S. L. Johnson",
+          "role": "Founder of the Laymen's Home Missionary Movement"
+        }
+      ],
+      "axes": {
+        "liturgy": 1,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "cessationist",
+        "women": "not-ordained",
+        "trinity": "non-nicene"
+      },
+      "sources": [
+        "penton-apocalypse-delayed",
+        "melton-encyclopedia"
+      ]
+    },
+    {
+      "id": "worldwide-church-of-god",
+      "tagline": "Herbert W. Armstrong's Sabbath-keeping church, later transformed into an evangelical body.",
+      "coreDoctrines": [
+        "God is a family of two divine beings, Father and Son, into which believers may be born; the Holy Spirit is God's power.",
+        "The seventh-day Sabbath and the annual holy days of Leviticus 23 are binding.",
+        "British Israelism: the British and Americans descend from the 'lost tribes' of Israel.",
+        "Armstrong as God's end-time apostle restoring truth.",
+        "These teachings were abandoned by the church under Joseph Tkach Sr in the 1990s."
+      ],
+      "focuses": [
+        "Broadcasting through The World Tomorrow and publishing The Plain Truth.",
+        "Prophetic interpretation of world events.",
+        "Ambassador College education.",
+        "Tithing, including second and third tithes."
+      ],
+      "practices": [
+        "Saturday Sabbath services.",
+        "Observance of Passover, the Feast of Tabernacles and other holy days.",
+        "Avoidance of Christmas, Easter and unclean meats.",
+        "Baptism by immersion of adults."
+      ],
+      "influencedBy": [
+        {
+          "name": "Church of God (Seventh Day)",
+          "text": "Armstrong was ordained in its Oregon conference.",
+          "traditionId": "church-of-god-seventh-day"
+        },
+        {
+          "name": "British Israelism",
+          "text": "Armstrong drew on J. H. Allen's 'Judah's Sceptre and Joseph's Birthright'."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Grace Communion International",
+          "text": "The church's trinitarian successor body.",
+          "traditionId": "grace-communion-international"
+        },
+        {
+          "name": "Armstrongite splinter churches",
+          "text": "United, Living and Philadelphia Churches of God continue Armstrong's teaching."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Herbert W. Armstrong",
+          "role": "Founder (1892–1986)"
+        },
+        {
+          "name": "Garner Ted Armstrong",
+          "role": "Broadcaster and son"
+        },
+        {
+          "name": "Joseph W. Tkach",
+          "role": "Successor who led the doctrinal transformation"
+        }
+      ],
+      "axes": {
+        "liturgy": 1,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "episcopal",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "non-nicene"
+      },
+      "sources": [
+        "tkach-transformed",
+        "melton-encyclopedia"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "d8-china-white-paper-2018",
+      "title": "China's Policies and Practices on Protecting Freedom of Religious Belief",
+      "author": "State Council Information Office of the People's Republic of China",
+      "year": 2018,
+      "kind": "primary"
+    },
+    {
+      "id": "d8-lds-statistical-report-2024",
+      "title": "2024 Statistical Report for the April 2025 General Conference",
+      "author": "The Church of Jesus Christ of Latter-day Saints",
+      "year": 2025,
+      "kind": "data"
+    },
+    {
+      "id": "d8-psa-2020-census",
+      "title": "Religious Affiliation in the Philippines (2020 Census of Population and Housing)",
+      "author": "Philippine Statistics Authority",
+      "year": 2023,
+      "kind": "data"
+    },
+    {
+      "id": "d8-chryssides-jw",
+      "title": "Jehovah's Witnesses: Continuity and Change",
+      "author": "George D. Chryssides",
+      "year": 2016,
+      "kind": "secondary"
+    },
+    {
+      "id": "d8-thomas-elpis-israel",
+      "title": "Elpis Israel",
+      "author": "John Thomas",
+      "year": 1849,
+      "kind": "primary"
+    },
+    {
+      "id": "d8-eddy-science-health",
+      "title": "Science and Health with Key to the Scriptures",
+      "author": "Mary Baker Eddy",
+      "year": 1875,
+      "kind": "primary"
+    },
+    {
+      "id": "d8-swedenborg-true-christian-religion",
+      "title": "True Christian Religion (Vera Christiana Religio)",
+      "author": "Emanuel Swedenborg",
+      "year": 1771,
+      "kind": "primary"
+    }
+  ]
+}
