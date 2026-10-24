@@ -1,0 +1,2291 @@
+{
+  "denomProfiles": [
+    {
+      "id": "reformed-church-in-hungary",
+      "tagline": "Hungary's Calvinist church, centred on Debrecen, the 'Calvinist Rome'.",
+      "coreDoctrines": [
+        "Confessional basis in the Second Helvetic Confession and the Heidelberg Catechism, adopted at the Synod of Debrecen (1567).",
+        "Scripture as the supreme rule of faith and life.",
+        "Salvation by grace alone through faith, with a Reformed doctrine of election.",
+        "Two sacraments, baptism (including infants) and the Lord's Supper, understood as signs and seals of God's promises.",
+        "The Nicene and Apostles' Creeds received as summaries of the catholic faith."
+      ],
+      "focuses": [
+        "Preserving Hungarian language and identity, especially among minorities in Romania, Slovakia, Ukraine and Serbia.",
+        "Church schools and colleges, notably Debrecen (1538) and Sárospatak (1531).",
+        "Diaconal and social work through church institutions.",
+        "Unity of Hungarian Reformed churches across borders (the Hungarian Reformed Communion, 2009)."
+      ],
+      "practices": [
+        "Preaching-centred Sunday worship in plain churches, often crowned by a star and a cockerel rather than a cross.",
+        "Holy Communion celebrated chiefly at the great feasts (Christmas, Easter, Pentecost) and at harvest.",
+        "Metrical psalms from Albert Szenczi Molnár's Hungarian Genevan Psalter (1607).",
+        "Confirmation of young people after catechism instruction.",
+        "Reading of the Károli Bible (Vizsoly, 1590), the classic Hungarian translation."
+      ],
+      "influencedBy": [
+        {
+          "name": "Swiss Reformation",
+          "text": "Bullinger's Second Helvetic Confession and Genevan theology shaped its doctrine.",
+          "traditionId": "swiss-reformed"
+        },
+        {
+          "name": "Wittenberg Reformation",
+          "text": "Hungarian reformers first studied in Wittenberg before turning to Swiss teaching on the Lord's Supper.",
+          "traditionId": "lutheran"
+        },
+        {
+          "name": "Heidelberg Catechism",
+          "text": "The Palatinate catechism (1563) became its main teaching text.",
+          "traditionId": "reformed"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Transylvanian Unitarianism",
+          "text": "Francis Dávid led part of the Transylvanian Reformed church into anti-Trinitarian teaching in the 1560s.",
+          "traditionId": "unitarian"
+        },
+        {
+          "name": "Hungarian Reformed diaspora",
+          "text": "Emigrants founded Hungarian Reformed congregations in North America from the late nineteenth century."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Péter Méliusz Juhász",
+          "role": "Bishop of Debrecen who led the 1567 synod and Hungarian Calvinist consolidation."
+        },
+        {
+          "name": "Gáspár Károli",
+          "role": "Pastor of Gönc whose complete Hungarian Bible was printed at Vizsoly in 1590."
+        },
+        {
+          "name": "Gábor Bethlen",
+          "role": "Reformed Prince of Transylvania (1613–29) and patron of Protestant education."
+        },
+        {
+          "name": "László Tőkés",
+          "role": "Reformed pastor in Timișoara whose resistance in December 1989 sparked the Romanian revolution."
+        }
+      ],
+      "members": {
+        "estimate": 1150000,
+        "year": 2011,
+        "note": "About 1.15 million people declared themselves Reformed in Hungary's 2011 census (Hungarian Central Statistical Office); sister churches abroad are not included."
+      },
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "presbyterian",
+        "baptism": "infant",
+        "eucharist": "spiritual-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "murdock-calvinism-hungary",
+        "benedict-reformed",
+        "wcrc-statistics",
+        "d4-ksh-census-2011"
+      ]
+    },
+    {
+      "id": "christian-reformed-church",
+      "tagline": "Dutch-immigrant Calvinism shaping Christian schools, scholarship and neo-Calvinist thought.",
+      "coreDoctrines": [
+        "The Three Forms of Unity: Belgic Confession, Heidelberg Catechism and Canons of Dort.",
+        "God's sovereignty over every area of life, in the neo-Calvinist tradition of Abraham Kuyper.",
+        "Covenant theology, with infant baptism of believers' children.",
+        "Contemporary testimony 'Our World Belongs to God' (1986) as a modern statement of faith.",
+        "In 2022 its synod declared that the Catechism's condemnation of 'unchastity' includes homosexual sex, giving that view confessional status."
+      ],
+      "focuses": [
+        "Christian day schools and higher education (Calvin University, Calvin Theological Seminary).",
+        "Relief and development through World Renew (founded 1962 as CRWRC).",
+        "Broadcast and literature ministry (Back to God Ministries, from 1939).",
+        "Integrating faith and learning, including 'Reformed epistemology' in philosophy."
+      ],
+      "practices": [
+        "Twice-Sunday worship was long standard, with catechism preaching.",
+        "Lord's Supper celebrated several times a year to monthly, after profession of faith.",
+        "Psalm and hymn singing from the Psalter Hymnal.",
+        "Elders' home visitation and church discipline exercised by the consistory.",
+        "Women eligible for all offices since 1995 where a classis permits (local option)."
+      ],
+      "influencedBy": [
+        {
+          "name": "Dutch Reformed Church",
+          "text": "It grew from the 1834 Secession (Afscheiding) from the Netherlands Reformed Church.",
+          "traditionId": "dutch-reformed-pkn"
+        },
+        {
+          "name": "Abraham Kuyper",
+          "text": "Kuyper's neo-Calvinism and idea of 'sphere sovereignty' shaped its schools and public theology."
+        },
+        {
+          "name": "Reformed tradition",
+          "text": "It holds the classic continental Reformed confessions.",
+          "traditionId": "reformed"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Reformed epistemology",
+          "text": "Calvin College philosophers such as Alvin Plantinga and Nicholas Wolterstorff developed it."
+        },
+        {
+          "name": "Protestant Reformed Churches",
+          "text": "Herman Hoeksema's congregations left after the 1924 common-grace controversy."
+        },
+        {
+          "name": "United Reformed Churches in North America",
+          "text": "Conservative congregations left in the 1990s, partly over women in office."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Gijsbert Haan",
+          "role": "Leader of the 1857 secession that formed the church."
+        },
+        {
+          "name": "Louis Berkhof",
+          "role": "Calvin Seminary theologian whose Systematic Theology (1932/1938) became widely used."
+        },
+        {
+          "name": "Alvin Plantinga",
+          "role": "Philosopher at Calvin College and Notre Dame, a leading Reformed epistemologist.",
+          "personId": "alvin-plantinga"
+        },
+        {
+          "name": "Cornelius Van Til",
+          "role": "CRC-raised apologist who later taught at Westminster Seminary.",
+          "personId": "cornelius-van-til"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "presbyterian",
+        "baptism": "infant",
+        "eucharist": "spiritual-presence",
+        "gifts": "open",
+        "women": "varies",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "bratt-dutch-calvinism",
+        "melton-encyclopedia",
+        "wcrc-statistics"
+      ]
+    },
+    {
+      "id": "presbyterian-church-usa",
+      "tagline": "America's largest Presbyterian church: confessional breadth, social witness, mainline Protestantism.",
+      "coreDoctrines": [
+        "A Book of Confessions ranging from the Nicene Creed to the Westminster Standards, Barmen, the Confession of 1967 and Belhar.",
+        "Jesus Christ as the one Word of God, attested by Scripture.",
+        "God's sovereign grace and the 'great ends of the church', including social righteousness.",
+        "Ordination of women (elders from 1930, ministers from 1956 in a predecessor church).",
+        "Since 2011 no explicit chastity requirement for ordination; marriage redefined as between 'two people' in 2015."
+      ],
+      "focuses": [
+        "Social justice advocacy, including peacemaking and anti-racism.",
+        "Ecumenical partnerships and mission with churches worldwide.",
+        "Theological education through its ten seminaries.",
+        "Disaster relief through Presbyterian Disaster Assistance."
+      ],
+      "practices": [
+        "Ordered worship guided by the Book of Common Worship, with sermon at the centre.",
+        "Infant baptism and an open table for all baptised Christians.",
+        "Government by sessions, presbyteries, synods and a biennial General Assembly.",
+        "Ordination of ruling elders and deacons alongside ministers of Word and Sacrament."
+      ],
+      "influencedBy": [
+        {
+          "name": "Church of Scotland",
+          "text": "Scottish and Ulster Scots immigrants brought Presbyterian polity and the Westminster Standards.",
+          "traditionId": "church-of-scotland"
+        },
+        {
+          "name": "Congregationalism",
+          "text": "The Plan of Union (1801) with New England Congregationalists shaped frontier mission.",
+          "traditionId": "congregationalist"
+        },
+        {
+          "name": "Karl Barth and Barmen",
+          "text": "Neo-orthodoxy influenced the Confession of 1967."
+        },
+        {
+          "name": "Presbyterian tradition",
+          "text": "It descends from the first American presbytery (Philadelphia, 1706).",
+          "traditionId": "presbyterian"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Presbyterian Church in America",
+          "text": "Conservatives left its southern predecessor (PCUS) in 1973.",
+          "traditionId": "presbyterian-church-in-america"
+        },
+        {
+          "name": "Korean Presbyterianism",
+          "text": "Northern Presbyterian missionaries such as Underwood and Moffett planted it.",
+          "traditionId": "presbyterian-church-of-korea"
+        },
+        {
+          "name": "Church of North India",
+          "text": "American Presbyterian missions in Punjab and north India fed into the 1970 union.",
+          "traditionId": "church-of-north-india"
+        },
+        {
+          "name": "Orthodox Presbyterian Church and ECO",
+          "text": "Departures in 1936 and from 2012 formed new Presbyterian bodies."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Francis Makemie",
+          "role": "Organiser of the first American presbytery (1706)."
+        },
+        {
+          "name": "John Witherspoon",
+          "role": "President of Princeton and the only clergyman to sign the Declaration of Independence."
+        },
+        {
+          "name": "Charles Hodge",
+          "role": "Princeton theologian of the Old School tradition.",
+          "personId": "charles-hodge"
+        },
+        {
+          "name": "J. Gresham Machen",
+          "role": "Leading conservative in the fundamentalist–modernist controversy; left in 1936.",
+          "personId": "j-gresham-machen"
+        },
+        {
+          "name": "Harry Emerson Fosdick",
+          "role": "Baptist preacher whose 1922 sermon at a Presbyterian pulpit fuelled the controversy.",
+          "personId": "harry-emerson-fosdick"
+        }
+      ],
+      "members": {
+        "estimate": 1140000,
+        "year": 2023,
+        "note": "About 1.14 million members at the end of 2023, according to statistics released by the Office of the General Assembly (2024)."
+      },
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "presbyterian",
+        "baptism": "infant",
+        "eucharist": "spiritual-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "Its predecessors' missions in Punjab (Ludhiana, from 1834), Allahabad and Kolhapur helped form the United Church of Northern India (1924) and so the Church of North India; partnership links continue.",
+      "sources": [
+        "longfield-presbyterians",
+        "noll-christianity-us",
+        "d4-pcusa-statistics"
+      ]
+    },
+    {
+      "id": "presbyterian-church-in-america",
+      "tagline": "Conservative, confessional Presbyterianism: Westminster Standards, inerrancy and church planting.",
+      "coreDoctrines": [
+        "The Westminster Confession and Catechisms as its doctrinal standards.",
+        "Inerrancy and full authority of Scripture.",
+        "Calvinist soteriology: the doctrines of grace and covenant theology.",
+        "Ordained offices of elder and deacon reserved for men.",
+        "Marriage as between one man and one woman; recent amendments address sexual-identity language for officers."
+      ],
+      "focuses": [
+        "Church planting in cities and suburbs (Mission to North America; Redeemer City to City).",
+        "Campus ministry through Reformed University Fellowship.",
+        "World mission through Mission to the World.",
+        "Training through Covenant Theological Seminary and Covenant College."
+      ],
+      "practices": [
+        "Reverent, preaching-centred worship, ranging from traditional psalm and hymn singing to contemporary styles.",
+        "Infant baptism; the Lord's Supper fenced to professing believers.",
+        "Elders examine ministers' exceptions to the Westminster Standards ('good faith subscription').",
+        "Annual General Assembly with overtures debated by presbyteries."
+      ],
+      "influencedBy": [
+        {
+          "name": "Presbyterian Church in the US (PCUS)",
+          "text": "It was formed in 1973 by conservatives leaving the southern church, now part of PC(USA).",
+          "traditionId": "presbyterian-church-usa"
+        },
+        {
+          "name": "J. Gresham Machen and Westminster Seminary",
+          "text": "Machen's defence of confessional orthodoxy shaped its outlook."
+        },
+        {
+          "name": "Francis Schaeffer",
+          "text": "Schaeffer's L'Abri and cultural apologetics influenced many members after 1982."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "The Gospel Coalition",
+          "text": "Tim Keller co-founded it in 2005 with D. A. Carson."
+        },
+        {
+          "name": "Redeemer City to City",
+          "text": "Keller's network has trained urban church planters internationally."
+        },
+        {
+          "name": "Evangelism Explosion",
+          "text": "D. James Kennedy's evangelism programme (1962) spread worldwide."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "D. James Kennedy",
+          "role": "Pastor of Coral Ridge Presbyterian and founder of Evangelism Explosion."
+        },
+        {
+          "name": "Francis Schaeffer",
+          "role": "Apologist and founder of L'Abri; joined with the RPCES in 1982."
+        },
+        {
+          "name": "Tim Keller",
+          "role": "Founding pastor of Redeemer Presbyterian, New York (1989)."
+        },
+        {
+          "name": "Ligon Duncan",
+          "role": "Theologian and chancellor of Reformed Theological Seminary."
+        }
+      ],
+      "members": {
+        "estimate": 390000,
+        "year": 2022,
+        "note": "Roughly 390,000 communicant and non-communicant members reported in PCA statistics for 2022."
+      },
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "presbyterian",
+        "baptism": "infant",
+        "eucharist": "spiritual-presence",
+        "gifts": "cessationist",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "lucas-continuing-church",
+        "longfield-presbyterians",
+        "noll-christianity-us"
+      ]
+    },
+    {
+      "id": "presbyterian-church-of-korea",
+      "tagline": "Fervent prayer, self-supporting growth and missionary zeal in Korea's largest Protestant family.",
+      "coreDoctrines": [
+        "The Westminster Confession and Catechisms, with the 1907 Twelve Articles of the first Korean presbytery.",
+        "Authority and (in Hapdong especially) inerrancy of Scripture.",
+        "Calvinist teaching on grace, election and covenant.",
+        "Infant baptism and the Lord's Supper as the two sacraments.",
+        "Strict Sabbath observance and tithing as marks of discipleship."
+      ],
+      "focuses": [
+        "Evangelism and church growth, producing some of the world's largest congregations.",
+        "Overseas mission: Korea is among the largest senders of Protestant missionaries.",
+        "Prayer as the engine of church life.",
+        "Education through seminaries such as Presbyterian University and Theological Seminary (Tonghap) and Chongshin (Hapdong)."
+      ],
+      "practices": [
+        "Daily dawn prayer meetings (saebyeok gido), a practice associated with Gil Seon-ju.",
+        "Tongsong kido: the whole congregation praying aloud together.",
+        "Cell groups (guyeok) led by lay leaders and pastoral home visitation.",
+        "Wednesday and Friday overnight services and prayer retreats on mountains.",
+        "Tonghap ordains women ministers (from the 1990s); Hapdong does not."
+      ],
+      "influencedBy": [
+        {
+          "name": "American Presbyterian missions",
+          "text": "Northern and Southern Presbyterian missionaries, with Australians and Canadians, founded the church from 1884.",
+          "traditionId": "presbyterian-church-usa"
+        },
+        {
+          "name": "Nevius method",
+          "text": "John Nevius's principles of self-support, self-propagation and self-government shaped its growth."
+        },
+        {
+          "name": "Pyongyang Great Revival (1907)",
+          "text": "The revival of public confession and prayer set its spiritual pattern."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Korean diaspora churches",
+          "text": "Korean Presbyterian congregations spread across the Americas, Japan and Central Asia."
+        },
+        {
+          "name": "Presbyterian Church in the Republic of Korea",
+          "text": "The more liberal Kijang split away in 1953 and became a home of minjung theology."
+        },
+        {
+          "name": "Global mission movement",
+          "text": "Korean missionaries planted Presbyterian churches across Asia, Africa and Latin America."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Horace G. Underwood",
+          "role": "Pioneer American Presbyterian missionary (arrived 1885)."
+        },
+        {
+          "name": "Samuel A. Moffett",
+          "role": "Missionary founder of the Pyongyang seminary."
+        },
+        {
+          "name": "Gil Seon-ju",
+          "role": "Leader of the 1907 revival and one of the first seven Korean ministers.",
+          "personId": "gil-seon-ju"
+        },
+        {
+          "name": "Joo Ki-chul",
+          "role": "Pastor who refused Shinto shrine worship and died in prison in 1944."
+        },
+        {
+          "name": "Han Kyung-chik",
+          "role": "Founder of Youngnak Presbyterian Church and 1992 Templeton Prize laureate."
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "presbyterian",
+        "baptism": "infant",
+        "eucharist": "spiritual-presence",
+        "gifts": "open",
+        "women": "varies",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "kim-korea",
+        "wcrc-statistics",
+        "lee-korean-prayer",
+        "blair-hunt-korean-pentecost"
+      ]
+    },
+    {
+      "id": "french-reformed",
+      "tagline": "The Huguenot church: persecution, exile, resistance and a memory of the 'Desert'.",
+      "coreDoctrines": [
+        "The Gallican Confession (Paris 1559, ratified at La Rochelle 1571).",
+        "Scripture alone as the rule of faith, read with the early creeds.",
+        "Salvation by grace through faith, in Calvin's tradition.",
+        "Two sacraments, with Christ spiritually present in the Supper.",
+        "Freedom of conscience, a conviction sharpened by centuries of persecution."
+      ],
+      "focuses": [
+        "Religious liberty and laïcité, which French Protestants long supported.",
+        "Memory of persecution and resistance (Musée du Désert, Tour de Constance).",
+        "Rescue and hospitality, notably Le Chambon-sur-Lignon's sheltering of Jews in the Second World War.",
+        "Union with Lutherans in the United Protestant Church of France (2013)."
+      ],
+      "practices": [
+        "Sober worship in temples, with sermon, psalms and the Genevan melodies.",
+        "Presbyterian-synodal government by local councils and regional and national synods.",
+        "Celebration of the Lord's Supper typically monthly or at feasts.",
+        "Ordination of women pastors; since 2015 congregations may bless same-sex couples."
+      ],
+      "influencedBy": [
+        {
+          "name": "Geneva",
+          "text": "Calvin and Beza trained and sent pastors into France from the 1550s.",
+          "traditionId": "swiss-reformed"
+        },
+        {
+          "name": "Reformed tradition",
+          "text": "Its confession and discipline became models for other Reformed churches.",
+          "traditionId": "reformed"
+        },
+        {
+          "name": "French humanism",
+          "text": "Lefèvre d'Étaples and the Meaux circle prepared the way for reform."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Huguenot refuge",
+          "text": "Exiles after 1685 strengthened Protestant communities in the Netherlands, Prussia, England, the Cape and the Carolinas.",
+          "traditionId": "dutch-reformed-pkn"
+        },
+        {
+          "name": "French Prophets and Shakers",
+          "text": "Camisard prophets who fled to London influenced the circle from which the Shakers emerged.",
+          "traditionId": "shakers"
+        },
+        {
+          "name": "Discipline ecclésiastique",
+          "text": "Its national synod system influenced Reformed polity elsewhere."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "John Calvin",
+          "role": "French reformer whose Geneva shaped Huguenot doctrine.",
+          "personId": "john-calvin"
+        },
+        {
+          "name": "Theodore Beza",
+          "role": "Calvin's successor, presiding at the Synod of La Rochelle (1571).",
+          "personId": "theodore-beza"
+        },
+        {
+          "name": "Gaspard de Coligny",
+          "role": "Admiral and Huguenot leader killed in the St Bartholomew's Day Massacre (1572)."
+        },
+        {
+          "name": "Antoine Court",
+          "role": "Restorer of the clandestine 'Church of the Desert' after 1715."
+        },
+        {
+          "name": "André Trocmé",
+          "role": "Pastor of Le Chambon-sur-Lignon during the rescue of Jews."
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "presbyterian",
+        "baptism": "infant",
+        "eucharist": "spiritual-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "benedict-reformed",
+        "macculloch-reformation",
+        "w3-holt-french-wars",
+        "odcc"
+      ]
+    },
+    {
+      "id": "swiss-reformed",
+      "tagline": "Cradle of Reformed Protestantism: Zwingli's Zurich, Calvin's Geneva, cantonal churches today.",
+      "coreDoctrines": [
+        "Scripture as the sole norm, proclaimed in Zwingli's Zurich disputations (1523).",
+        "The Second Helvetic Confession (1566) as a historic standard, though most cantonal churches no longer bind clergy to confessions.",
+        "A spiritual understanding of Christ's presence in the Supper (Consensus Tigurinus, 1549).",
+        "Rejection of images in worship and of the Mass as sacrifice.",
+        "God's sovereignty and covenant grace, in the tradition of Zwingli and Bullinger."
+      ],
+      "focuses": [
+        "Public and cantonal responsibility: churches are recognised under cantonal law.",
+        "Diaconal work and development aid (HEKS/EPER).",
+        "Academic theology at Zurich, Basel, Bern and Geneva.",
+        "Ecumenical engagement; Geneva hosts the World Council of Churches."
+      ],
+      "practices": [
+        "Plain churches cleared of images, with the pulpit at the centre.",
+        "The Lord's Supper, historically celebrated a few times a year, now more frequent in many parishes.",
+        "Congregational singing of psalms and hymns.",
+        "Self-governing cantonal churches federated since 2020 as the Protestant Church in Switzerland (EKS).",
+        "Women ordained since 1918 in Zurich and now in all cantonal churches."
+      ],
+      "influencedBy": [
+        {
+          "name": "Erasmus and humanism",
+          "text": "Zwingli's reform grew out of humanist study of the Greek New Testament.",
+          "traditionId": "catholic"
+        },
+        {
+          "name": "Wittenberg Reformation",
+          "text": "Luther's writings stimulated reform, though the two sides split at Marburg (1529).",
+          "traditionId": "lutheran"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Anabaptists",
+          "text": "Zwingli's radical followers broke away in Zurich in 1525.",
+          "traditionId": "anabaptist"
+        },
+        {
+          "name": "Huguenots",
+          "text": "Geneva trained France's Reformed pastors.",
+          "traditionId": "french-reformed"
+        },
+        {
+          "name": "Church of Scotland",
+          "text": "John Knox brought Genevan models to Scotland in 1560.",
+          "traditionId": "church-of-scotland"
+        },
+        {
+          "name": "Hungarian Reformed Church",
+          "text": "It adopted the Second Helvetic Confession in 1567.",
+          "traditionId": "reformed-church-in-hungary"
+        },
+        {
+          "name": "Dialectical theology",
+          "text": "Karl Barth and Emil Brunner reshaped twentieth-century Protestant theology."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Huldrych Zwingli",
+          "role": "Zurich reformer from 1519.",
+          "personId": "huldrych-zwingli"
+        },
+        {
+          "name": "Heinrich Bullinger",
+          "role": "Zwingli's successor and author of the Second Helvetic Confession.",
+          "personId": "heinrich-bullinger"
+        },
+        {
+          "name": "John Calvin",
+          "role": "Reformer of Geneva.",
+          "personId": "john-calvin"
+        },
+        {
+          "name": "Karl Barth",
+          "role": "Basel theologian and principal author of the Barmen Declaration.",
+          "personId": "karl-barth"
+        },
+        {
+          "name": "Emil Brunner",
+          "role": "Zurich theologian of the dialectical school.",
+          "personId": "emil-brunner"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "presbyterian",
+        "baptism": "infant",
+        "eucharist": "spiritual-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "The Basel Mission, a Swiss-German Reformed and Lutheran society, worked in coastal Karnataka and northern Kerala from 1834; its congregations now belong largely to the Church of South India.",
+      "sources": [
+        "gordon-swiss-reformation",
+        "benedict-reformed",
+        "macculloch-reformation"
+      ]
+    },
+    {
+      "id": "anglican",
+      "tagline": "A worldwide family of churches, catholic and reformed, joined by common prayer.",
+      "coreDoctrines": [
+        "Scripture 'containeth all things necessary to salvation' (Article VI), read with the creeds and the Fathers.",
+        "The Chicago–Lambeth Quadrilateral (1888): Scripture, the creeds, the two dominical sacraments and the historic episcopate.",
+        "Justification by faith (Article XI), held across evangelical and catholic emphases.",
+        "Doctrine expressed through worship: lex orandi, lex credendi.",
+        "Autonomous national provinces bound by 'bonds of affection' rather than a central jurisdiction."
+      ],
+      "focuses": [
+        "Holding together evangelical, Anglo-Catholic and liberal traditions.",
+        "Mission and education, historically through CMS, SPG/USPG and other societies.",
+        "Ecumenism, from the Lambeth Quadrilateral to dialogues with Rome and the Orthodox.",
+        "Continuing debates over women's ordination and human sexuality."
+      ],
+      "practices": [
+        "Liturgical worship descended from the Book of Common Prayer.",
+        "Episcopal ordination of bishops, priests and deacons.",
+        "Lambeth Conference of bishops, roughly every ten years since 1867.",
+        "Infant baptism and confirmation by a bishop.",
+        "Choral, sung office and Eucharist in many places."
+      ],
+      "influencedBy": [
+        {
+          "name": "Church of England",
+          "text": "The mother church whose formularies the Communion inherited.",
+          "traditionId": "church-of-england"
+        },
+        {
+          "name": "Catholic tradition",
+          "text": "Anglicans kept the creeds, episcopate and much of the medieval liturgical pattern.",
+          "traditionId": "catholic"
+        },
+        {
+          "name": "Reformed theology",
+          "text": "The Thirty-nine Articles reflect Reformed influence.",
+          "traditionId": "reformed"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Methodism",
+          "text": "Methodism began as a renewal movement within the Church of England.",
+          "traditionId": "methodist"
+        },
+        {
+          "name": "Church of South India",
+          "text": "Anglican dioceses joined the first union of episcopal and non-episcopal churches (1947).",
+          "traditionId": "church-of-south-india"
+        },
+        {
+          "name": "Aladura churches",
+          "text": "Several West African prophetic churches arose among Anglicans.",
+          "traditionId": "church-of-the-lord-aladura"
+        },
+        {
+          "name": "Ecumenical movement",
+          "text": "The Lambeth Quadrilateral became a widely cited basis for church union."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Thomas Cranmer",
+          "role": "Author of the Book of Common Prayer.",
+          "personId": "thomas-cranmer"
+        },
+        {
+          "name": "Richard Hooker",
+          "role": "Theologian of Of the Laws of Ecclesiastical Polity (1594–)."
+        },
+        {
+          "name": "Charles Longley",
+          "role": "Archbishop of Canterbury who called the first Lambeth Conference (1867)."
+        },
+        {
+          "name": "Samuel Ajayi Crowther",
+          "role": "First African Anglican bishop (1864).",
+          "personId": "samuel-ajayi-crowther"
+        },
+        {
+          "name": "Desmond Tutu",
+          "role": "Archbishop of Cape Town and anti-apartheid leader.",
+          "personId": "desmond-tutu"
+        }
+      ],
+      "members": {
+        "estimate": 85000000,
+        "year": 2020,
+        "note": "The Anglican Communion Office's commonly cited figure of about 85 million members in some 42 provinces; it counts many nominal baptised members in England."
+      },
+      "axes": {
+        "liturgy": 4,
+        "sacramental": 4,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "real-presence",
+        "gifts": "open",
+        "women": "varies",
+        "trinity": "nicene"
+      },
+      "inIndia": "Anglicanism came with East India Company chaplains and the missions of the CMS and SPG; the Diocese of Calcutta was founded in 1814. Its Indian dioceses entered the Church of South India (1947) and the Church of North India (1970), both members of the Communion.",
+      "sources": [
+        "chapman-anglicanism",
+        "anglican-communion-office",
+        "ward-global-anglicanism",
+        "lambeth-resolutions-archive"
+      ]
+    },
+    {
+      "id": "church-of-england",
+      "tagline": "England's established church: parish, Prayer Book and the mother of Anglicanism.",
+      "coreDoctrines": [
+        "The Thirty-nine Articles (1571), the Book of Common Prayer (1662) and the Ordinal as historic formularies.",
+        "Scripture as containing all things necessary to salvation, read with the catholic creeds.",
+        "Two sacraments of the Gospel, baptism and the Lord's Supper, with five other rites.",
+        "The threefold ministry of bishops, priests and deacons in apostolic succession.",
+        "The monarch as Supreme Governor, under parliamentary establishment."
+      ],
+      "focuses": [
+        "A parish ministry to every community in England.",
+        "Church schools: about a quarter of England's primary schools.",
+        "Cathedral and choral tradition.",
+        "Public role: 26 bishops sit in the House of Lords.",
+        "Debates on sexuality, including the Prayers of Love and Faith for same-sex couples (2023)."
+      ],
+      "practices": [
+        "Morning and Evening Prayer and Holy Communion, using the BCP or Common Worship (2000).",
+        "Choral Evensong in cathedrals and collegiate chapels.",
+        "Infant baptism, confirmation by a bishop, weddings and funerals for parishioners.",
+        "Government by bishops and the General Synod (since 1970).",
+        "Women priests since 1994 and bishops since 2015."
+      ],
+      "influencedBy": [
+        {
+          "name": "Medieval English Catholicism",
+          "text": "It kept the dioceses, cathedrals and parish system of the pre-Reformation church.",
+          "traditionId": "catholic"
+        },
+        {
+          "name": "Lutheran Reformation",
+          "text": "Early English reformers and Cranmer drew on Lutheran theology.",
+          "traditionId": "lutheran"
+        },
+        {
+          "name": "Reformed theologians",
+          "text": "Martin Bucer and Peter Martyr Vermigli taught at Cambridge and Oxford under Edward VI.",
+          "traditionId": "reformed"
+        },
+        {
+          "name": "Oxford Movement",
+          "text": "From 1833 Keble, Newman and Pusey renewed catholic teaching and worship."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Methodism",
+          "text": "John and Charles Wesley were Church of England priests.",
+          "traditionId": "methodist"
+        },
+        {
+          "name": "Congregationalism",
+          "text": "Puritan Separatists left the established church from the 1580s.",
+          "traditionId": "congregationalist"
+        },
+        {
+          "name": "Episcopal Church",
+          "text": "Colonial Anglicanism became the American Episcopal Church.",
+          "traditionId": "episcopal-church-usa"
+        },
+        {
+          "name": "Brethren",
+          "text": "J. N. Darby left the Church of Ireland ministry to found the Brethren movement.",
+          "traditionId": "plymouth-brethren"
+        },
+        {
+          "name": "Anglican Communion",
+          "text": "Its missions and colonial churches became the worldwide Communion.",
+          "traditionId": "anglican"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Thomas Cranmer",
+          "role": "Archbishop of Canterbury and architect of the Prayer Book.",
+          "personId": "thomas-cranmer"
+        },
+        {
+          "name": "Elizabeth I",
+          "role": "Queen whose 1559 settlement fixed the church's character."
+        },
+        {
+          "name": "Richard Hooker",
+          "role": "Apologist for the Elizabethan church."
+        },
+        {
+          "name": "John Henry Newman",
+          "role": "Tractarian leader who became a Roman Catholic in 1845.",
+          "personId": "john-henry-newman"
+        },
+        {
+          "name": "William Temple",
+          "role": "Archbishop of Canterbury and author of Christianity and Social Order (1942)."
+        }
+      ],
+      "members": {
+        "estimate": 1000000,
+        "year": 2023,
+        "note": "Average weekly attendance of about one million (all ages) in the Church of England's Statistics for Mission 2023; many more identify as Anglican in surveys."
+      },
+      "axes": {
+        "liturgy": 4,
+        "sacramental": 4,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "real-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "Company chaplains built St Mary's, Fort St George, Madras (1680), and CMS and SPG missions worked in Tamil Nadu and Kerala; the Church of India, Burma and Ceylon (autonomous from 1930) later joined the CSI and CNI.",
+      "sources": [
+        "chapman-anglicanism",
+        "macculloch-reformation",
+        "cuming-anglican-liturgy",
+        "d4-coe-statistics",
+        "odcc"
+      ]
+    },
+    {
+      "id": "scottish-episcopal",
+      "tagline": "Small, disestablished Anglican church in Scotland that gave America its first bishop.",
+      "coreDoctrines": [
+        "Anglican faith expressed in the Scottish liturgies rather than in a binding confession.",
+        "The historic episcopate, preserved by the nonjuring bishops after 1689.",
+        "A high view of the Eucharist, with an epiclesis (invocation of the Spirit) in the Scottish Communion Office.",
+        "Scripture, creeds and tradition read with reason.",
+        "Since 2017 its canon law allows clergy to marry same-sex couples."
+      ],
+      "focuses": [
+        "Liturgical life and scholarship.",
+        "Ministry across Scotland's seven dioceses, often in rural areas.",
+        "Ecumenical relations with the Church of Scotland and others.",
+        "An inclusive stance on women's ministry and sexuality."
+      ],
+      "practices": [
+        "Scottish Liturgy 1982 and the Scottish Prayer Book (1929).",
+        "Bishops elected by diocesan synods; one bishop serves as Primus.",
+        "Women priests since 1994 and bishops since 2018.",
+        "Weekly sung Eucharist in most congregations."
+      ],
+      "influencedBy": [
+        {
+          "name": "Church of Scotland",
+          "text": "It shares the pre-1689 history of the national church, when bishops and presbyteries coexisted.",
+          "traditionId": "church-of-scotland"
+        },
+        {
+          "name": "Church of England",
+          "text": "English-ordained clergy and qualified chapels strengthened its Anglican identity.",
+          "traditionId": "church-of-england"
+        },
+        {
+          "name": "Eastern liturgies",
+          "text": "Nonjuring scholars drew on ancient Eastern rites for the Scottish Communion Office (1764).",
+          "traditionId": "eastern-orthodox"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Episcopal Church",
+          "text": "Its bishops consecrated Samuel Seabury in Aberdeen (1784), and its eucharistic prayer shaped the 1789 American Prayer Book.",
+          "traditionId": "episcopal-church-usa"
+        },
+        {
+          "name": "Anglican eucharistic revival",
+          "text": "The Scottish rite was a model for later liturgical revision."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Thomas Rattray",
+          "role": "Bishop and liturgical scholar behind the Scottish rite."
+        },
+        {
+          "name": "Robert Kilgour",
+          "role": "Primus who led the consecration of Samuel Seabury (1784)."
+        },
+        {
+          "name": "John Skinner",
+          "role": "Primus during the repeal of the penal laws (1792)."
+        },
+        {
+          "name": "Samuel Seabury",
+          "role": "First American bishop, consecrated in Aberdeen."
+        }
+      ],
+      "axes": {
+        "liturgy": 4,
+        "sacramental": 4,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "real-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "The church supported a mission at Chanda (now Chandrapur, Maharashtra) from the 1870s, whose congregations passed into the Church of North India.",
+      "sources": [
+        "chapman-anglicanism",
+        "ward-global-anglicanism",
+        "odcc"
+      ]
+    },
+    {
+      "id": "episcopal-church-usa",
+      "tagline": "American Anglicanism: Prayer Book worship, democratic polity and progressive social stances.",
+      "coreDoctrines": [
+        "The Book of Common Prayer (1979) as the main expression of its faith.",
+        "Holy Scripture, the creeds, the sacraments and the historic episcopate (the Chicago Quadrilateral, 1886).",
+        "Baptism as full initiation into the Body of Christ, with a Baptismal Covenant.",
+        "Full inclusion of women and LGBTQ people in all orders; marriage rites for same-sex couples since 2015.",
+        "The Thirty-nine Articles kept as 'historical documents'."
+      ],
+      "focuses": [
+        "Social justice, racial reconciliation and the 'Jesus Movement' language of Michael Curry.",
+        "Ecumenical full communion with the ELCA (2001) and others.",
+        "Prayer Book worship and church music.",
+        "Dioceses beyond the US, in Latin America, Taiwan and Europe."
+      ],
+      "practices": [
+        "The Eucharist as the principal Sunday service.",
+        "Bishops elected by diocesan conventions; a triennial General Convention with houses of bishops and deputies.",
+        "Women priests since 1976 and bishops since 1989.",
+        "Infant and adult baptism; confirmation by a bishop."
+      ],
+      "influencedBy": [
+        {
+          "name": "Church of England",
+          "text": "Colonial parishes were part of the Church of England until the Revolution.",
+          "traditionId": "church-of-england"
+        },
+        {
+          "name": "Scottish Episcopal Church",
+          "text": "It gave Seabury his consecration and the 1789 eucharistic prayer.",
+          "traditionId": "scottish-episcopal"
+        },
+        {
+          "name": "American democracy",
+          "text": "Lay deputies and elected bishops reflect republican ideals of the 1780s."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Anglican Church in North America",
+          "text": "Departing dioceses and congregations formed it in 2009.",
+          "traditionId": "anglican-church-in-north-america"
+        },
+        {
+          "name": "Philippine Independent Church",
+          "text": "The two churches entered full communion in 1961.",
+          "traditionId": "philippine-independent-church"
+        },
+        {
+          "name": "Chicago–Lambeth Quadrilateral",
+          "text": "William Reed Huntington's proposal became the Anglican basis for church unity."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Samuel Seabury",
+          "role": "First bishop (1784)."
+        },
+        {
+          "name": "William White",
+          "role": "First Presiding Bishop and architect of the constitution."
+        },
+        {
+          "name": "Absalom Jones",
+          "role": "First African American priest (1804)."
+        },
+        {
+          "name": "Pauli Murray",
+          "role": "First Black woman ordained priest (1977)."
+        },
+        {
+          "name": "Michael Curry",
+          "role": "First African American Presiding Bishop (2015–24)."
+        }
+      ],
+      "members": {
+        "estimate": 1600000,
+        "year": 2022,
+        "note": "About 1.6 million baptised members reported in parochial reports for 2022 (Office of the General Convention); average Sunday attendance is far lower."
+      },
+      "axes": {
+        "liturgy": 4,
+        "sacramental": 4,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "real-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "prichard-episcopal",
+        "noll-christianity-us",
+        "ward-global-anglicanism",
+        "d4-tec-parochial"
+      ]
+    },
+    {
+      "id": "church-of-nigeria",
+      "tagline": "One of Anglicanism's largest provinces, evangelistic and theologically conservative.",
+      "coreDoctrines": [
+        "Scripture as the final authority, with the Thirty-nine Articles and the Book of Common Prayer.",
+        "The Jerusalem Declaration (GAFCON, 2008) as a statement of orthodox Anglican faith.",
+        "Salvation through faith in Christ alone and the need for personal conversion.",
+        "Marriage as between one man and one woman; opposition to same-sex blessings.",
+        "Its 2005 constitution defines communion by 'the historic faith' rather than by the see of Canterbury."
+      ],
+      "focuses": [
+        "Evangelism and church planting, including missionary dioceses in the north.",
+        "Leadership of GAFCON and the conservative realignment in global Anglicanism.",
+        "Schools, universities and hospitals.",
+        "Witness amid violence against Christians in northern and central Nigeria."
+      ],
+      "practices": [
+        "Prayer Book worship in English, Yoruba, Igbo, Hausa and other languages, often with lively music.",
+        "Harvest thanksgiving, revival services and night vigils.",
+        "Strong Mothers' Union and youth fellowships.",
+        "Women serve in many lay ministries but are not ordained priests."
+      ],
+      "influencedBy": [
+        {
+          "name": "Church Missionary Society",
+          "text": "CMS missions from Badagry (1842) and Abeokuta founded the church.",
+          "traditionId": "church-of-england"
+        },
+        {
+          "name": "Samuel Ajayi Crowther",
+          "text": "His episcopate showed the possibility of African leadership."
+        },
+        {
+          "name": "Pentecostal and charismatic movements",
+          "text": "Revival styles of worship have shaped Nigerian Anglican piety.",
+          "traditionId": "pentecostal"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Church of the Lord (Aladura)",
+          "text": "Its founder Josiah Oshitelu was an Anglican catechist.",
+          "traditionId": "church-of-the-lord-aladura"
+        },
+        {
+          "name": "Anglican Church in North America",
+          "text": "Nigeria's Convocation of Anglicans in North America (2005) helped form it.",
+          "traditionId": "anglican-church-in-north-america"
+        },
+        {
+          "name": "GAFCON",
+          "text": "Archbishop Peter Akinola was a leader of the 2008 Jerusalem conference."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Samuel Ajayi Crowther",
+          "role": "First African Anglican bishop (1864).",
+          "personId": "samuel-ajayi-crowther"
+        },
+        {
+          "name": "Peter Akinola",
+          "role": "Primate (2000–10) and a founder of GAFCON."
+        },
+        {
+          "name": "Nicholas Okoh",
+          "role": "Primate (2010–20) and GAFCON chairman."
+        },
+        {
+          "name": "Henry Ndukuba",
+          "role": "Primate since 2020."
+        }
+      ],
+      "members": {
+        "estimate": 18000000,
+        "year": 2015,
+        "note": "The church's own claim of about 18 million members, widely repeated in the 2000s and 2010s but not independently verified."
+      },
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 3,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "spiritual-presence",
+        "gifts": "open",
+        "women": "not-ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "ward-global-anglicanism",
+        "isichei-africa",
+        "m3-ajayi-missions-nigeria",
+        "gafcon-jerusalem-declaration-2008"
+      ]
+    },
+    {
+      "id": "anglican-church-of-kenya",
+      "tagline": "Revival-shaped Kenyan Anglicanism with a strong voice in national public life.",
+      "coreDoctrines": [
+        "Scripture, the creeds and the historic Anglican formularies.",
+        "Evangelical emphasis on repentance, new birth and assurance shaped by the East African Revival.",
+        "The Jerusalem Declaration (2008) as an affirmation of orthodox Anglicanism.",
+        "Marriage between one man and one woman.",
+        "Ordination of women as priests and bishops."
+      ],
+      "focuses": [
+        "Public theology, including criticism of political abuses in the 1980s and 1990s.",
+        "Education, from mission schools to St Paul's University, Limuru.",
+        "Development and health work through church agencies.",
+        "Participation in GAFCON."
+      ],
+      "practices": [
+        "Worship from Our Modern Services (2002) in English and Swahili and local languages.",
+        "Revival fellowship meetings with public testimony.",
+        "Women priests since 1983 and women bishops since 2021.",
+        "Large youth and Mothers' Union movements."
+      ],
+      "influencedBy": [
+        {
+          "name": "Church Missionary Society",
+          "text": "Johann Ludwig Krapf began the CMS mission at Mombasa in 1844.",
+          "traditionId": "church-of-england"
+        },
+        {
+          "name": "East African Revival",
+          "text": "The revival spread from Rwanda and Uganda into Kenyan Anglicanism from the late 1930s.",
+          "traditionId": "church-of-uganda"
+        },
+        {
+          "name": "Kikuyu Conference (1913)",
+          "text": "Plans for Protestant federation in Kenya provoked an Anglican controversy and fostered cooperation."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "GAFCON",
+          "text": "Kenyan archbishops hosted the 2013 Nairobi conference and chaired the movement."
+        },
+        {
+          "name": "Kenyan public life",
+          "text": "Bishops such as David Gitari shaped debates over democracy and multiparty politics."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Johann Ludwig Krapf",
+          "role": "CMS pioneer missionary at Mombasa and Rabai."
+        },
+        {
+          "name": "Festo Olang'",
+          "role": "First African Archbishop of Kenya (1970)."
+        },
+        {
+          "name": "David Gitari",
+          "role": "Archbishop (1997–2002) known for prophetic preaching against injustice."
+        },
+        {
+          "name": "Eliud Wabukala",
+          "role": "Archbishop (2009–16) and GAFCON chairman."
+        },
+        {
+          "name": "Jackson Ole Sapit",
+          "role": "Archbishop since 2016."
+        }
+      ],
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 3,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "spiritual-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "ward-global-anglicanism",
+        "hastings-church-in-africa",
+        "dacb"
+      ]
+    },
+    {
+      "id": "church-of-uganda",
+      "tagline": "Church of the Uganda Martyrs and the East African Revival.",
+      "coreDoctrines": [
+        "Scripture and the Anglican formularies, with an evangelical emphasis.",
+        "Salvation through the cross of Christ; 'walking in the light' through confession.",
+        "Remembrance of the martyrs of 1885–87 as witnesses to Christ.",
+        "The Jerusalem Declaration (2008).",
+        "Marriage between one man and one woman."
+      ],
+      "focuses": [
+        "Evangelism and revival fellowships.",
+        "Education, including Uganda Christian University at Mukono.",
+        "Health care through church hospitals.",
+        "Speaking on public affairs, notably under Idi Amin."
+      ],
+      "practices": [
+        "Annual Martyrs' Day pilgrimage to Namugongo (3 June), shared with Catholics.",
+        "Revival hymn 'Tukutendereza Yesu' and public testimony by the Balokole ('saved ones').",
+        "Prayer Book worship in Luganda, English and other languages.",
+        "Women ordained priests."
+      ],
+      "influencedBy": [
+        {
+          "name": "Church Missionary Society",
+          "text": "CMS missionaries reached the court of Buganda in 1877.",
+          "traditionId": "church-of-england"
+        },
+        {
+          "name": "East African Revival",
+          "text": "Simeon Nsibambi and Joe Church led the revival from the 1930s."
+        },
+        {
+          "name": "Uganda Martyrs",
+          "text": "Pages killed under Kabaka Mwanga II became a founding memory."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Anglican Church of Kenya",
+          "text": "The revival spread from Uganda and Rwanda into Kenya.",
+          "traditionId": "anglican-church-of-kenya"
+        },
+        {
+          "name": "Anglican Church in North America",
+          "text": "Uganda gave oversight to US congregations before ACNA formed.",
+          "traditionId": "anglican-church-in-north-america"
+        },
+        {
+          "name": "Revival across East Africa",
+          "text": "Balokole fellowships spread into Tanzania, Rwanda and beyond."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Alexander Mackay",
+          "role": "CMS missionary and engineer in Buganda from 1878."
+        },
+        {
+          "name": "Apolo Kivebulaya",
+          "role": "Evangelist to the Congo border region."
+        },
+        {
+          "name": "Simeon Nsibambi",
+          "role": "Lay leader of the East African Revival.",
+          "personId": "simeon-nsibambi"
+        },
+        {
+          "name": "Janani Luwum",
+          "role": "Archbishop murdered in 1977 after protesting abuses under Idi Amin."
+        },
+        {
+          "name": "Festo Kivengere",
+          "role": "Bishop and evangelist who preached forgiveness after exile."
+        }
+      ],
+      "members": {
+        "estimate": 11000000,
+        "year": 2014,
+        "note": "About a third of Uganda's population, some 11 million people, identified as Anglican in the 2014 national census (Uganda Bureau of Statistics)."
+      },
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 3,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "spiritual-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "ward-global-anglicanism",
+        "hastings-church-in-africa",
+        "uganda-census-2014",
+        "dacb"
+      ]
+    },
+    {
+      "id": "anglican-church-in-north-america",
+      "tagline": "Conservative Anglicans in North America, aligned with GAFCON and the Global South.",
+      "coreDoctrines": [
+        "Scripture as the inspired Word of God and the final authority.",
+        "The 1662 Book of Common Prayer, the Ordinal and the Thirty-nine Articles as standards.",
+        "The Jerusalem Declaration (2008).",
+        "Marriage between one man and one woman.",
+        "Bishops are men; dioceses decide whether to ordain women priests."
+      ],
+      "focuses": [
+        "Church planting across the United States and Canada.",
+        "Catechesis through To Be a Christian (2014, rev. 2020).",
+        "Communion with GAFCON and Global South provinces.",
+        "Holding evangelical, Anglo-Catholic and charismatic streams together."
+      ],
+      "practices": [
+        "The Book of Common Prayer 2019.",
+        "Diocesan and network structures, with a College of Bishops electing the archbishop.",
+        "Women ordained deacons, and priests in some dioceses.",
+        "Weekly Eucharist with varied worship styles."
+      ],
+      "influencedBy": [
+        {
+          "name": "Episcopal Church",
+          "text": "Most founding dioceses left the Episcopal Church after 2003.",
+          "traditionId": "episcopal-church-usa"
+        },
+        {
+          "name": "Church of Nigeria",
+          "text": "Nigeria's CANA and other African provinces sheltered departing congregations.",
+          "traditionId": "church-of-nigeria"
+        },
+        {
+          "name": "Reformed Episcopal Church",
+          "text": "This 1873 body became a founding member."
+        },
+        {
+          "name": "GAFCON",
+          "text": "The 2008 Jerusalem conference endorsed a new North American province."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Global Anglican realignment",
+          "text": "Its recognition by GAFCON primates modelled an alternative to Canterbury-centred structures."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Robert Duncan",
+          "role": "First Archbishop (2009–14)."
+        },
+        {
+          "name": "Foley Beach",
+          "role": "Archbishop (2014–24)."
+        },
+        {
+          "name": "Steve Wood",
+          "role": "Archbishop elected in 2024."
+        },
+        {
+          "name": "J. I. Packer",
+          "role": "Theologian and general editor of its catechism.",
+          "personId": "j-i-packer"
+        }
+      ],
+      "axes": {
+        "liturgy": 4,
+        "sacramental": 4,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "real-presence",
+        "gifts": "open",
+        "women": "varies",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "sachs-anglican-crisis",
+        "gafcon-jerusalem-declaration-2008",
+        "ward-global-anglicanism"
+      ]
+    },
+    {
+      "id": "church-of-south-india",
+      "tagline": "The first union of episcopal and non-episcopal churches, born in 1947.",
+      "coreDoctrines": [
+        "Scripture as the supreme and decisive standard of faith.",
+        "The Apostles' and Nicene Creeds as witness to the faith.",
+        "Baptism and the Lord's Supper as the two sacraments.",
+        "The historic episcopate in a constitutional, synodical form.",
+        "Recognition of the ministries of all uniting churches without reordination."
+      ],
+      "focuses": [
+        "Dalit and social justice concerns.",
+        "Education and health care, with many schools, colleges and hospitals.",
+        "Ecumenism and Indian Christian theology.",
+        "Women's leadership: women ordained from 1976 and bishops from 2013."
+      ],
+      "practices": [
+        "CSI liturgy (1950) and Book of Common Worship, used in Tamil, Malayalam, Kannada, Telugu and English.",
+        "Synod led by an elected Moderator; about two dozen dioceses.",
+        "Infant baptism and confirmation.",
+        "Festivals such as harvest festivals and Christmas carol rounds."
+      ],
+      "influencedBy": [
+        {
+          "name": "Anglicans",
+          "text": "Four dioceses of the Church of India, Burma and Ceylon joined.",
+          "traditionId": "anglican"
+        },
+        {
+          "name": "Methodists",
+          "text": "The Methodist Church in South India joined.",
+          "traditionId": "methodist"
+        },
+        {
+          "name": "Presbyterians",
+          "text": "The South India United Church brought Presbyterian heritage.",
+          "traditionId": "presbyterian"
+        },
+        {
+          "name": "Congregationalists",
+          "text": "LMS and American Board congregations joined via the SIUC.",
+          "traditionId": "congregationalist"
+        },
+        {
+          "name": "Tranquebar Manifesto (1919)",
+          "text": "Indian church leaders called for union."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Church of North India",
+          "text": "The 1970 northern union followed its path.",
+          "traditionId": "church-of-north-india"
+        },
+        {
+          "name": "Global ecumenical movement",
+          "text": "Lesslie Newbigin's defence of the scheme shaped union debates worldwide."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "V. S. Azariah",
+          "role": "Bishop of Dornakal and pioneer of the union.",
+          "personId": "v-s-azariah"
+        },
+        {
+          "name": "Lesslie Newbigin",
+          "role": "Bishop of Madurai–Ramnad and theologian of the union.",
+          "personId": "lesslie-newbigin"
+        },
+        {
+          "name": "Michael Hollis",
+          "role": "First Moderator (1947)."
+        },
+        {
+          "name": "A. J. Appasamy",
+          "role": "Bishop of Coimbatore and Indian Christian theologian."
+        },
+        {
+          "name": "Eggoni Pushpalalitha",
+          "role": "First woman bishop (Nandyal, 2013)."
+        }
+      ],
+      "members": {
+        "estimate": 4000000,
+        "year": 2020,
+        "note": "The church's own figure of about four million members; not verified by census."
+      },
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 3,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "infant",
+        "eucharist": "spiritual-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "Formed at St George's Cathedral, Madras, on 27 September 1947, it is one of India's largest Protestant churches, strongest in Tamil Nadu (Tirunelveli, Kanyakumari, Madurai, Chennai) and Kerala, with dioceses also in Karnataka, Andhra Pradesh, Telangana and Jaffna in Sri Lanka.",
+      "sources": [
+        "sundkler-csi",
+        "frykenberg-india",
+        "neill-missions",
+        "i4-newbigin-reunion"
+      ]
+    },
+    {
+      "id": "church-of-north-india",
+      "tagline": "A broad union of six churches, including Baptists and Brethren, formed in 1970.",
+      "coreDoctrines": [
+        "Scripture as the supreme rule of faith, with the Apostles' and Nicene Creeds.",
+        "Baptism and the Lord's Supper; both infant and believers' baptism are recognised.",
+        "The historic episcopate, accepted with a unification of ministries at the inauguration.",
+        "Full communion with Anglican, Methodist and Reformed world bodies.",
+        "Commitment to the unity of the Church as a sign for India."
+      ],
+      "focuses": [
+        "Social service, development and education.",
+        "Ministry among Dalit and Adivasi communities and in the north-east.",
+        "Interfaith dialogue in a religiously plural society.",
+        "Advocacy for the rights of religious minorities."
+      ],
+      "practices": [
+        "Synod with an elected Moderator and over two dozen dioceses.",
+        "Liturgies drawing on Anglican, Methodist and Reformed traditions in Hindi and regional languages.",
+        "Parents may choose infant baptism or later believers' baptism.",
+        "Women ordained to the presbyterate."
+      ],
+      "influencedBy": [
+        {
+          "name": "Anglicans",
+          "text": "The Church of India (formerly CIPBC) brought the episcopate.",
+          "traditionId": "anglican"
+        },
+        {
+          "name": "Methodists",
+          "text": "British and Australian Methodist conferences joined.",
+          "traditionId": "methodist"
+        },
+        {
+          "name": "Baptists",
+          "text": "The Council of Baptist Churches in Northern India joined.",
+          "traditionId": "baptist"
+        },
+        {
+          "name": "Church of the Brethren",
+          "text": "The Church of the Brethren in India joined.",
+          "traditionId": "church-of-the-brethren"
+        },
+        {
+          "name": "Disciples of Christ",
+          "text": "Disciples congregations joined.",
+          "traditionId": "christian-church-disciples"
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Church of Pakistan and Church of Bangladesh",
+          "text": "The same plan of union produced the Church of Pakistan (1970), from which the Church of Bangladesh separated after 1971."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Lakdasa De Mel",
+          "role": "Metropolitan of the Church of India, Pakistan, Burma and Ceylon during the union negotiations."
+        },
+        {
+          "name": "William Carey",
+          "role": "Baptist pioneer whose mission's heirs joined the union.",
+          "personId": "william-carey"
+        },
+        {
+          "name": "Alexander Duff",
+          "role": "Church of Scotland educationist whose mission fed into the United Church of Northern India."
+        }
+      ],
+      "members": {
+        "estimate": 2200000,
+        "year": 2020,
+        "note": "The church's own figure of about 2.2 million members; not verified by census."
+      },
+      "axes": {
+        "liturgy": 3,
+        "sacramental": 3,
+        "authority": "scripture-and-tradition",
+        "governance": "episcopal",
+        "baptism": "both",
+        "eucharist": "spiritual-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "Inaugurated at Nagpur on 29 November 1970, it serves northern, central, western and north-eastern India, with large communities in Punjab, Gujarat, Maharashtra, Chhattisgarh, Jharkhand and the north-east.",
+      "sources": [
+        "frykenberg-india",
+        "neill-missions",
+        "i4-firth-indian-church-history"
+      ]
+    },
+    {
+      "id": "united-church-of-canada",
+      "tagline": "Canada's largest Protestant church: a 1925 union with a progressive social witness.",
+      "coreDoctrines": [
+        "The Basis of Union (1925), with later statements including A Song of Faith (2006).",
+        "Jesus Christ as the centre of faith, with Scripture as the church's primary source.",
+        "Baptism and the Lord's Supper as the two sacraments.",
+        "Openness to diverse theological views.",
+        "Full inclusion of LGBTQ people in membership and ministry (1988)."
+      ],
+      "focuses": [
+        "Social justice and the Social Gospel tradition.",
+        "Reconciliation with Indigenous peoples, including apologies in 1986 and 1998.",
+        "Ecumenical and interfaith partnerships.",
+        "Rural and urban community ministries."
+      ],
+      "practices": [
+        "Worship with hymns from Voices United (1996) and More Voices.",
+        "Government by councils (community, regional and General Council since 2019).",
+        "Infant baptism and an open table.",
+        "Women ordained since 1936 (Lydia Gruchy)."
+      ],
+      "influencedBy": [
+        {
+          "name": "Methodists",
+          "text": "The Methodist Church (Canada) joined in 1925.",
+          "traditionId": "methodist"
+        },
+        {
+          "name": "Presbyterians",
+          "text": "About two-thirds of the Presbyterian Church in Canada joined.",
+          "traditionId": "presbyterian"
+        },
+        {
+          "name": "Congregationalists",
+          "text": "The Congregational Union of Canada joined.",
+          "traditionId": "congregationalist"
+        },
+        {
+          "name": "Social Gospel",
+          "text": "The Social Gospel movement shaped its public witness."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Later church unions",
+          "text": "Its 1925 union across Methodist, Presbyterian and Congregational lines became a precedent for later unions.",
+          "traditionId": "uniting-church-in-australia"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Samuel Dwight Chown",
+          "role": "Methodist general superintendent and union advocate."
+        },
+        {
+          "name": "George C. Pidgeon",
+          "role": "First Moderator (1925)."
+        },
+        {
+          "name": "Lydia Gruchy",
+          "role": "First woman ordained (1936)."
+        },
+        {
+          "name": "Bob McClure",
+          "role": "Medical missionary and first lay Moderator (1968)."
+        }
+      ],
+      "members": {
+        "estimate": 1200000,
+        "year": 2021,
+        "note": "About 1.2 million people identified with the United Church in Statistics Canada's 2021 census; formal membership is much lower."
+      },
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "presbyterian",
+        "baptism": "infant",
+        "eucharist": "spiritual-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "Its Presbyterian predecessor's Central India mission (from 1877, around Indore and Malwa) contributed congregations and institutions to the Church of North India.",
+      "sources": [
+        "airhart-united-church",
+        "noll-christianity-us",
+        "d4-statcan-2021"
+      ]
+    },
+    {
+      "id": "uniting-church-in-australia",
+      "tagline": "Australia's 1977 union church, committed to First Peoples and community service.",
+      "coreDoctrines": [
+        "The Basis of Union (1971), centred on Christ as the living Word.",
+        "Scripture, the Apostles' and Nicene Creeds and Reformation witnesses (Westminster, Savoy, Wesley's sermons).",
+        "Baptism and the Lord's Supper as the two sacraments.",
+        "The church as a pilgrim people on the way to the promised goal.",
+        "Since 2018, ministers may conduct same-gender marriages, while differing views are respected."
+      ],
+      "focuses": [
+        "Covenant with Aboriginal and Islander members (1994) and the 2009 Preamble.",
+        "Community services through Uniting and UnitingCare.",
+        "Remote ministry through Frontier Services.",
+        "Multicultural ministry."
+      ],
+      "practices": [
+        "Councils: congregation, presbytery, synod and Assembly.",
+        "Worship from Uniting in Worship.",
+        "Infant baptism and an open table.",
+        "Women ordained."
+      ],
+      "influencedBy": [
+        {
+          "name": "Methodists",
+          "text": "The Methodist Church of Australasia joined.",
+          "traditionId": "methodist"
+        },
+        {
+          "name": "Presbyterians",
+          "text": "Most of the Presbyterian Church of Australia joined.",
+          "traditionId": "presbyterian"
+        },
+        {
+          "name": "Congregationalists",
+          "text": "The Congregational Union of Australia joined.",
+          "traditionId": "congregationalist"
+        },
+        {
+          "name": "John Flynn",
+          "text": "Presbyterian founder of the Australian Inland Mission, whose work continues in Frontier Services."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Uniting Aboriginal and Islander Christian Congress",
+          "text": "Founded in 1985 by Charles Harris within the church."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Davis McCaughey",
+          "role": "First President of the Assembly (1977)."
+        },
+        {
+          "name": "Charles Harris",
+          "role": "Founder of the Uniting Aboriginal and Islander Christian Congress."
+        }
+      ],
+      "members": {
+        "estimate": 673000,
+        "year": 2021,
+        "note": "About 673,000 people identified with the Uniting Church in the 2021 Australian census (ABS)."
+      },
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "presbyterian",
+        "baptism": "infant",
+        "eucharist": "spiritual-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "uniting-church-basis-of-union",
+        "abs-census-2021"
+      ]
+    },
+    {
+      "id": "united-church-of-christ",
+      "tagline": "A liberal, congregational union church: 'That they may all be one'.",
+      "coreDoctrines": [
+        "The Statement of Faith (1959), framed as a doxology.",
+        "Scripture, creeds and confessions as testimonies, not tests, of faith.",
+        "Baptism and Holy Communion as the two sacraments.",
+        "'God is still speaking': openness to continuing revelation.",
+        "Full inclusion of LGBTQ people; support for marriage equality (2005)."
+      ],
+      "focuses": [
+        "Social justice and civil rights.",
+        "The Open and Affirming movement (from 1985).",
+        "Ecumenism, including full communion with the ELCA, PC(USA) and Reformed Church in America (1997).",
+        "Education, rooted in the Congregationalist founding of colleges."
+      ],
+      "practices": [
+        "Autonomous local churches with associations and conferences, and a biennial General Synod.",
+        "Diverse worship from Mercersburg liturgy to free-church styles.",
+        "Infant baptism and an open table.",
+        "Women ordained."
+      ],
+      "influencedBy": [
+        {
+          "name": "Congregationalism",
+          "text": "The Congregational Christian Churches brought New England Puritan heritage.",
+          "traditionId": "congregationalist"
+        },
+        {
+          "name": "German Reformed",
+          "text": "The Evangelical and Reformed Church brought the German Reformed tradition.",
+          "traditionId": "reformed"
+        },
+        {
+          "name": "Prussian Union",
+          "text": "The Evangelical Synod of North America brought Lutheran–Reformed union heritage.",
+          "traditionId": "lutheran"
+        },
+        {
+          "name": "Mercersburg theology",
+          "text": "John Nevin and Philip Schaff stressed sacramental and catholic themes."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Open and Affirming movement",
+          "text": "Its programme became a model for other mainline churches."
+        },
+        {
+          "name": "American Missionary Association",
+          "text": "Congregationalists founded it (1846) to support abolition and Black education."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Jonathan Edwards",
+          "role": "Congregationalist theologian of the Great Awakening.",
+          "personId": "jonathan-edwards"
+        },
+        {
+          "name": "Lemuel Haynes",
+          "role": "First African American ordained by a mainstream Protestant church (1785)."
+        },
+        {
+          "name": "Antoinette Brown",
+          "role": "First woman ordained in a mainstream American Protestant church (1853)."
+        },
+        {
+          "name": "John Williamson Nevin",
+          "role": "German Reformed theologian of Mercersburg.",
+          "personId": "john-williamson-nevin"
+        },
+        {
+          "name": "Reinhold Niebuhr",
+          "role": "Evangelical and Reformed theologian and ethicist."
+        }
+      ],
+      "members": {
+        "estimate": 710000,
+        "year": 2022,
+        "note": "About 710,000 members reported for 2022 by the UCC's Center for Analytics, Research and Data."
+      },
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "infant",
+        "eucharist": "spiritual-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "inIndia": "The American Board of Commissioners for Foreign Missions, one of its forebears, ran the Marathi mission (from 1813) and the Madurai mission (from 1834), whose churches entered the CNI and CSI.",
+      "sources": [
+        "gunnemann-ucc",
+        "ahlstrom-religious-history",
+        "yearbook-american-canadian-churches"
+      ]
+    },
+    {
+      "id": "kyodan",
+      "tagline": "Japan's largest Protestant church, formed under wartime law and later confessing responsibility.",
+      "coreDoctrines": [
+        "The Confession of Faith (1954), based on Scripture and the Apostles' Creed.",
+        "Scripture as the Word of God and the rule of faith.",
+        "Justification by grace through faith.",
+        "Baptism and the Lord's Supper as the two sacraments.",
+        "The 1967 Confession on Responsibility during the Second World War."
+      ],
+      "focuses": [
+        "Evangelism in a society where Christians are about one per cent.",
+        "Peace and war responsibility.",
+        "Ministry in Okinawa (united with the Okinawa Kyodan in 1969).",
+        "Links with Christian schools such as Doshisha, Aoyama Gakuin and Meiji Gakuin."
+      ],
+      "practices": [
+        "Sunday worship with sermon and hymns from the Kyodan hymnal (Sanbika 21).",
+        "Government by a General Assembly and district assemblies.",
+        "Baptism; communion usually reserved for the baptised.",
+        "Women ordained."
+      ],
+      "influencedBy": [
+        {
+          "name": "Presbyterians",
+          "text": "The Nihon Kirisuto Kyokai brought Presbyterian heritage.",
+          "traditionId": "presbyterian"
+        },
+        {
+          "name": "Methodists",
+          "text": "Japanese Methodist churches joined.",
+          "traditionId": "methodist"
+        },
+        {
+          "name": "Congregationalists",
+          "text": "The Kumiai churches joined.",
+          "traditionId": "congregationalist"
+        },
+        {
+          "name": "Religious Organizations Law (1939)",
+          "text": "State pressure forced the 1941 union."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "War-responsibility statements",
+          "text": "Its 1967 confession prompted other Japanese churches to examine their wartime record."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Uemura Masahisa",
+          "role": "Leader of the Nihon Kirisuto Kyokai."
+        },
+        {
+          "name": "Tomita Mitsuru",
+          "role": "First moderator (1941)."
+        },
+        {
+          "name": "Suzuki Masahisa",
+          "role": "Moderator who issued the 1967 confession."
+        },
+        {
+          "name": "Toyohiko Kagawa",
+          "role": "Evangelist and social reformer.",
+          "personId": "toyohiko-kagawa"
+        },
+        {
+          "name": "Kosuke Koyama",
+          "role": "Theologian of Waterbuffalo Theology.",
+          "personId": "kosuke-koyama"
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 2,
+        "authority": "scripture-alone",
+        "governance": "presbyterian",
+        "baptism": "infant",
+        "eucharist": "spiritual-presence",
+        "gifts": "open",
+        "women": "ordained",
+        "trinity": "nicene"
+      },
+      "sources": [
+        "mullins-handbook-japan",
+        "moffett-asia"
+      ]
+    },
+    {
+      "id": "anabaptist",
+      "tagline": "Reformation radicals who baptised believers, refused the sword and paid with martyrdom.",
+      "coreDoctrines": [
+        "Baptism of believers on confession of faith, not of infants.",
+        "The church as a voluntary, disciplined community separate from the world.",
+        "Nonresistance and refusal of the sword (Schleitheim, 1527), though Hubmaier dissented.",
+        "Refusal of oaths.",
+        "Discipleship (Nachfolge): following Christ in daily life."
+      ],
+      "focuses": [
+        "Religious freedom and separation of church and state.",
+        "Martyrdom and faithfulness under persecution.",
+        "Community and mutual aid.",
+        "Peace witness."
+      ],
+      "practices": [
+        "Believer's baptism, often by pouring.",
+        "The Lord's Supper as a memorial and covenant meal.",
+        "The ban (church discipline).",
+        "Footwashing in some groups.",
+        "Secret meetings in homes and forests."
+      ],
+      "influencedBy": [
+        {
+          "name": "Zwingli's Zurich",
+          "text": "The first Anabaptists were Zwingli's radical followers.",
+          "traditionId": "swiss-reformed"
+        },
+        {
+          "name": "Erasmus",
+          "text": "Humanist study of the New Testament shaped their reading of Scripture."
+        },
+        {
+          "name": "Thomas Müntzer and Andreas Karlstadt",
+          "text": "Their critiques of infant baptism influenced early radicals."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Mennonites",
+          "text": "Menno Simons gathered the Dutch and north German Anabaptists.",
+          "traditionId": "mennonite"
+        },
+        {
+          "name": "Hutterites",
+          "text": "Community of goods began in Moravia in 1528.",
+          "traditionId": "hutterite"
+        },
+        {
+          "name": "Amish",
+          "text": "Jakob Ammann's followers split in 1693.",
+          "traditionId": "amish"
+        },
+        {
+          "name": "Baptists",
+          "text": "John Smyth's congregation met Waterlander Mennonites in Amsterdam.",
+          "traditionId": "baptist"
+        },
+        {
+          "name": "Church of the Brethren",
+          "text": "Schwarzenau Brethren (1708) drew on Anabaptist ideas.",
+          "traditionId": "church-of-the-brethren"
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Conrad Grebel",
+          "role": "Leader of the first adult baptisms in Zurich (1525).",
+          "personId": "conrad-grebel"
+        },
+        {
+          "name": "Felix Manz",
+          "role": "Drowned in Zurich in 1527, the first Anabaptist martyr at Protestant hands."
+        },
+        {
+          "name": "Michael Sattler",
+          "role": "Author of the Schleitheim Confession (1527).",
+          "personId": "michael-sattler"
+        },
+        {
+          "name": "Balthasar Hubmaier",
+          "role": "Theologian burned in Vienna (1528).",
+          "personId": "balthasar-hubmaier"
+        },
+        {
+          "name": "Pilgram Marpeck",
+          "role": "South German leader."
+        }
+      ],
+      "members": {
+        "estimate": 2130000,
+        "year": 2022,
+        "note": "About 2.13 million baptised members of Anabaptist-related churches worldwide (Mennonite World Conference census, 2022)."
+      },
+      "axes": {
+        "liturgy": 1,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "open",
+        "women": "some-roles",
+        "trinity": "nicene"
+      },
+      "inIndia": "Anabaptist churches came to India through Mennonite, Mennonite Brethren and Brethren in Christ missions from the late 1890s; India is one of the larger Anabaptist populations in Asia.",
+      "sources": [
+        "williams-radical-reformation",
+        "stayer-anabaptists-sword",
+        "mwc-census",
+        "d4-schleitheim"
+      ]
+    },
+    {
+      "id": "mennonite",
+      "tagline": "Peace churches named after Menno Simons, now mostly in Africa, Asia and Latin America.",
+      "coreDoctrines": [
+        "Believer's baptism and a visible church of committed disciples.",
+        "Peace and nonviolence as central to the gospel.",
+        "Scripture read with Christ at its centre, in community.",
+        "The Dordrecht Confession (1632) and the Confession of Faith in a Mennonite Perspective (1995).",
+        "Simplicity and nonconformity to the world."
+      ],
+      "focuses": [
+        "Relief and development through Mennonite Central Committee (1920).",
+        "Conscientious objection and peacebuilding.",
+        "Global fellowship through Mennonite World Conference (1925).",
+        "Education and service."
+      ],
+      "practices": [
+        "Four-part a cappella congregational singing.",
+        "Believer's baptism, the Lord's Supper and footwashing.",
+        "Congregational governance with regional conferences.",
+        "Relief sales and voluntary service.",
+        "Plain dress among Old Order Mennonites."
+      ],
+      "influencedBy": [
+        {
+          "name": "Anabaptist movement",
+          "text": "Mennonites are the main surviving heirs of the sixteenth-century Anabaptists.",
+          "traditionId": "anabaptist"
+        },
+        {
+          "name": "Menno Simons",
+          "text": "His Foundation of Christian Doctrine (1539) shaped the movement."
+        },
+        {
+          "name": "Pietism",
+          "text": "Pietism shaped the Mennonite Brethren renewal in Russia (1860)."
+        }
+      ],
+      "influenced": [
+        {
+          "name": "Amish",
+          "text": "Jakob Ammann's followers split from Swiss Mennonites in 1693.",
+          "traditionId": "amish"
+        },
+        {
+          "name": "Brethren in Christ",
+          "text": "Founded in Pennsylvania among Mennonite neighbours.",
+          "traditionId": "brethren-in-christ"
+        },
+        {
+          "name": "Baptists",
+          "text": "Smyth's congregation sought union with Waterlander Mennonites.",
+          "traditionId": "baptist"
+        },
+        {
+          "name": "Christian peacemaking",
+          "text": "John Howard Yoder's Politics of Jesus (1972) influenced wider Christian ethics."
+        }
+      ],
+      "keyFigures": [
+        {
+          "name": "Menno Simons",
+          "role": "Former priest who joined the Anabaptists in 1536.",
+          "personId": "menno-simons"
+        },
+        {
+          "name": "Dirk Philips",
+          "role": "Early Dutch Mennonite leader."
+        },
+        {
+          "name": "Dirk Willems",
+          "role": "Martyr who rescued his pursuer (1569)."
+        },
+        {
+          "name": "Harold S. Bender",
+          "role": "Author of The Anabaptist Vision (1944)."
+        },
+        {
+          "name": "John Howard Yoder",
+          "role": "Theologian whose sexual abuse was later acknowledged by the church."
+        }
+      ],
+      "axes": {
+        "liturgy": 2,
+        "sacramental": 1,
+        "authority": "scripture-alone",
+        "governance": "congregational",
+        "baptism": "believer",
+        "eucharist": "memorial",
+        "gifts": "open",
+        "women": "varies",
+        "trinity": "nicene"
+      },
+      "inIndia": "Mennonite churches around Dhamtari, Chhattisgarh (from 1899) and Mennonite Brethren churches in Telangana and Andhra Pradesh (from the 1890s) are among India's Anabaptist communities.",
+      "sources": [
+        "williams-radical-reformation",
+        "mwc-census",
+        "yoder-politics-of-jesus",
+        "d4-gameo"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "d4-ksh-census-2011",
+      "title": "2011 Population Census: Religion and Denomination",
+      "author": "Hungarian Central Statistical Office (KSH)",
+      "year": 2013,
+      "kind": "data"
+    },
+    {
+      "id": "d4-pcusa-statistics",
+      "title": "PC(USA) Statistics 2023",
+      "author": "Office of the General Assembly, Presbyterian Church (U.S.A.)",
+      "year": 2024,
+      "kind": "data"
+    },
+    {
+      "id": "d4-coe-statistics",
+      "title": "Statistics for Mission 2023",
+      "author": "Church of England Data Services",
+      "year": 2024,
+      "kind": "data"
+    },
+    {
+      "id": "d4-tec-parochial",
+      "title": "Parochial Report data, 2022",
+      "author": "Office of the General Convention, The Episcopal Church",
+      "year": 2023,
+      "kind": "data"
+    },
+    {
+      "id": "d4-statcan-2021",
+      "title": "Census of Population 2021: Religion",
+      "author": "Statistics Canada",
+      "year": 2022,
+      "kind": "data"
+    },
+    {
+      "id": "d4-schleitheim",
+      "title": "The Schleitheim Confession (Brotherly Union)",
+      "author": "Michael Sattler",
+      "year": 1527,
+      "kind": "primary"
+    },
+    {
+      "id": "d4-gameo",
+      "title": "Global Anabaptist Mennonite Encyclopedia Online (GAMEO)",
+      "kind": "reference",
+      "url": "https://gameo.org"
+    }
+  ]
+}
